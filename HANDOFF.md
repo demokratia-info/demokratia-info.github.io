@@ -1,6 +1,7 @@
 # Democracy Website Codex Handoff
 
 Prepared on 2026-05-17 for continuing this project from another OpenAI Codex account.
+Refreshed on 2026-05-20 for handoff to a new OpenAI Pro x20 account.
 
 ## Project Snapshot
 
@@ -8,9 +9,11 @@ Prepared on 2026-05-17 for continuing this project from another OpenAI Codex acc
 - Branch: `main`
 - Live site: `https://demokratia-info.github.io/`
 - Source directory on this machine: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`
-- Content source commit at handoff start: `2224e881af3e`
-- Current content count: 36 paper summaries, 5 topics.
-- Latest source validation after queue setup: `python3 scripts/validate_sources.py` passed with 36 papers and 5 topics.
+- Current public source commit at refreshed handoff: `e819c6dabcba73174532fdcacecf8293108a13cc`
+- Current content count: 42 paper summaries, 5 topics.
+- Current public queue: 21 queued papers remain in `paper_queue.csv`.
+- Latest source validation after the wet-run check: `python3 scripts/validate_sources.py` passed with 42 papers and 5 topics.
+- Latest GitHub Pages deploy checked at refresh: workflow run `26167417450` succeeded for commit `e819c6d`.
 
 This is a Jekyll source repository. Generated pages are built by GitHub Actions and should not be maintained manually.
 
@@ -127,7 +130,7 @@ Before creating a new image, check `image_catalog.json`. Reuse an existing image
 
 ## Nightly Automation Handoff
 
-The current Codex automation is local to the original account and machine. A different OpenAI Codex account will need to recreate it.
+The current Codex automation is local to the original account and machine. A different OpenAI Codex account will need to recreate it. For the new OpenAI Pro x20 account, start with `OPENAI_ACCOUNT_HANDOVER.md`.
 
 Current local automation file:
 
@@ -151,42 +154,50 @@ Current automation state:
 - Model requested: `gpt-5.5`
 - Reasoning effort: `xhigh`
 
-A ready-to-use prompt based on the current automation is copied into `AUTOMATION_PROMPT.md` for recreation in the new account. The memory file itself is not in this repo; if preserving run history matters, copy the local memory file or summarize its latest entries into the new account's automation memory.
+A ready-to-use prompt based on the current automation is copied into `AUTOMATION_PROMPT.md` for recreation in the new account. The 09:00 watchdog prompt is copied into `WATCHDOG_AUTOMATION_PROMPT.md`. The memory files themselves are not in this repo; if preserving run history matters, copy the local memory files or summarize their latest entries into the new account's automation memory.
 
-Latest recovered automation run added three papers and pushed commit `2ae0a97`:
+Latest successful wet-run check added three papers and pushed commit `e819c6d`:
 
-- Shuman, Cohen-Eick, Knowles, and Halperin - disruptive protests and democratic backsliding.
-- Suzin - ultra-Orthodox civil society organizations and democracy.
-- Salzberger - judicial appointments, law, and politics.
+- Akirav - democratic backsliding and the constitutional blitz.
+- Neubauer-Shani and Friedman - political scientists' mediated engagement during democratic backsliding.
+- Neubauer-Shani - political scientists and the civic studies debate.
 
 The automation has since been redesigned to consume `paper_queue.csv` before doing any new broad paper search.
 
 ## New Account Setup Checklist
 
-1. Sign in to the new OpenAI Codex account.
-2. Ensure the GitHub account or connector has access to `demokratia-info/demokratia-info.github.io` and the private suggestion queue `demokratia-info/democracy-paper-suggestions-private`.
-3. Clone the repo or open the local folder:
+1. Sign in to the new OpenAI Pro x20 Codex account.
+2. Read `OPENAI_ACCOUNT_HANDOVER.md` first; it has the current account migration checklist and a preflight script.
+3. Ensure the GitHub account or connector has access to `demokratia-info/demokratia-info.github.io` and the private suggestion queue `demokratia-info/democracy-paper-suggestions-private`.
+4. Clone the repo or open the local folder:
 
 ```sh
 git clone https://github.com/demokratia-info/demokratia-info.github.io.git
 cd demokratia-info.github.io
 ```
 
-4. Check GitHub CLI/auth if local push and workflow monitoring are needed:
+5. Check GitHub CLI/auth if local push and workflow monitoring are needed:
 
 ```sh
 gh auth status
 gh repo view demokratia-info/demokratia-info.github.io
 ```
 
-5. Validate source:
+6. Validate source:
 
 ```sh
 python3 scripts/validate_sources.py
 ```
 
-6. Recreate the daily automation using `AUTOMATION_PROMPT.md`.
-7. After the first new-account automation run, confirm:
+7. Run the bundled handover preflight:
+
+```sh
+./scripts/handover_preflight.sh
+```
+
+8. Recreate the 04:00 daily automation using `AUTOMATION_PROMPT.md`.
+9. Recreate the 09:00 watchdog automation using `WATCHDOG_AUTOMATION_PROMPT.md`.
+10. After the first new-account automation run, confirm:
 
 ```sh
 git status --short --branch
@@ -198,7 +209,7 @@ gh run list --repo demokratia-info/demokratia-info.github.io --workflow pages.ym
 
 - The live source is the nested `github_pages_publish` directory in the local Dropbox workspace. The top-level `DemocracyWebSite` folder is not itself the publish repo.
 - GitHub authentication and OpenAI/Codex authentication are separate.
-- Local Jekyll can be unavailable even when GitHub Actions builds correctly.
+- Local Jekyll can be unavailable even when GitHub Actions builds correctly. On this Mac, the reliable command is `/Users/talraviv/.rbenv/versions/3.3.4/bin/ruby -S bundle exec jekyll build`; plain `bundle` may use Apple Ruby 2.6 and fail.
 - Dropbox-backed Git checkouts can sometimes show `.git/index.lock` issues. If this happens, inspect carefully before deleting a lock file; only remove it when no Git process is running.
 - Do not commit generated `_site/`, `pagefind/`, `.npm-cache/`, or dependency folders.
 - The handoff files are excluded from Jekyll output, but they are still repo files.

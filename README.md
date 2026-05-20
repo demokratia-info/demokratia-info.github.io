@@ -2,7 +2,7 @@
 
 Static Hebrew RTL homepage and article summaries for GitHub Pages, built with Jekyll and indexed with Pagefind.
 
-For transferring this project to another Codex/OpenAI account, start with `HANDOFF.md` and `AGENTS.md`.
+For transferring this project to another Codex/OpenAI account, start with `OPENAI_ACCOUNT_HANDOVER.md`, `HANDOFF.md`, and `AGENTS.md`.
 
 ## Source Workflow
 

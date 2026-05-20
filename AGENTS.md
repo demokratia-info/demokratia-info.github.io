@@ -1,6 +1,6 @@
 # Codex Agent Instructions
 
-Read `HANDOFF.md` and `README.md` before changing this repository.
+Read `OPENAI_ACCOUNT_HANDOVER.md`, `HANDOFF.md`, and `README.md` before changing this repository.
 
 This repository is the Jekyll source for the Hebrew democracy summaries site. Do not manually edit generated HTML, `_site/`, or `pagefind/`. Shared layout changes belong in `_layouts/`, `_includes/`, `_data/site.json`, and `assets/css/site.css`.
 
