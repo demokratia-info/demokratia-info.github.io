@@ -1,8 +1,90 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 39,
+  "paperCount": 42,
   "papers": [
+    {
+      "slug": "democracy_constitutional_blitz_backsliding_summary_he",
+      "file": "democracy_constitutional_blitz_backsliding_summary_he.html",
+      "permalink": "/democracy_constitutional_blitz_backsliding_summary_he.html",
+      "sortKey": 202605200006,
+      "titleHe": "איך בליץ חוקתי מאיץ נסיגה דמוקרטית?",
+      "paperTitle": "Democratic backsliding and the constitutional blitz",
+      "authorsCardHe": "אסנת עקירב",
+      "sourceAuthors": [
+        "Osnat Akirav"
+      ],
+      "journal": "European Politics and Society",
+      "dateText": "פורסם אונליין: 18 באפריל 2024; כרך 26(1), עמ׳ 94-115",
+      "doiUrl": "https://doi.org/10.1080/23745118.2024.2343903",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
+        "altHe": "איור על בליץ חקיקתי בכנסת, פופוליזם ונסיגה דמוקרטית"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "הבליץ החוקתי מוצג כמהלך שבו תמריצים פוליטיים, פופוליזם וחקיקה מהירה מחלישים בלמים דמוקרטיים בזמן קצר."
+    },
+    {
+      "slug": "democracy_political_scientists_mediated_engagement_summary_he",
+      "file": "democracy_political_scientists_mediated_engagement_summary_he.html",
+      "permalink": "/democracy_political_scientists_mediated_engagement_summary_he.html",
+      "sortKey": 202605200005,
+      "titleHe": "מה קורה כשמדעני מדינה מדברים לציבור בזמן נסיגה דמוקרטית?",
+      "paperTitle": "‘Speaking truth to power'? Political scientists’ mediated engagement within the context of democratic backsliding",
+      "authorsCardHe": "מיכל נויבאואר-שני ואלי פרידמן",
+      "sourceAuthors": [
+        "Michal Neubauer-Shani",
+        "Elie Friedman"
+      ],
+      "journal": "Political Research Exchange",
+      "dateText": "פורסם: 16 במרץ 2025; כרך 7(1), מאמר 2476408",
+      "doiUrl": "https://doi.org/10.1080/2474736X.2025.2476408",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
+        "altHe": "איור על אנשי אקדמיה, תקשורת וחברה אזרחית בזמן נסיגה דמוקרטית"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "מדעני מדינה בזמן משבר דמוקרטי נעים בין מומחיות ציבורית, חינוך לדמוקרטיה, חשש מזיהוי מפלגתי וניסיון להשפיע דרך תקשורת."
+    },
+    {
+      "slug": "democracy_political_scientists_civic_studies_summary_he",
+      "file": "democracy_political_scientists_civic_studies_summary_he.html",
+      "permalink": "/democracy_political_scientists_civic_studies_summary_he.html",
+      "sortKey": 202605200004,
+      "titleHe": "למה שיעורי אזרחות הפכו לזירה של מאבק על דמוקרטיה ליברלית?",
+      "paperTitle": "Tackling the challenge of liberal democracy in Israel: the role of political scientists in the civic studies debate",
+      "authorsCardHe": "מיכל נויבאואר-שני",
+      "sourceAuthors": [
+        "Michal Neubauer-Shani"
+      ],
+      "journal": "European Political Science",
+      "dateText": "גיליון: מרץ 2022; כרך 21(1), עמ׳ 115-131",
+      "doiUrl": "https://doi.org/10.1057/s41304-021-00336-8",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על חינוך אזרחי, זהות לאומית, שוויון ודמוקרטיה ליברלית"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "לימודי אזרחות הם זירת מאבק על משמעות הדמוקרטיה בישראל ועל תפקידם הציבורי של מדעני מדינה."
+    },
     {
       "slug": "democracy_reasonableness_standard_rule_of_law_summary_he",
       "file": "democracy_reasonableness_standard_rule_of_law_summary_he.html",
