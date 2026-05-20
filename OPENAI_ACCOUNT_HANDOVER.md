@@ -28,9 +28,9 @@ You do not need to recreate:
 - Private suggestion repo: `demokratia-info/democracy-paper-suggestions-private`
 - Worker endpoint: `https://democracy-paper-suggestions.democracy-info.workers.dev`
 - Local checkout on this Mac: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`
-- Current public commit at handover preparation: `e819c6dabcba73174532fdcacecf8293108a13cc`
-- Current paper count: 42
-- Public queue remaining after the wet run: 21 queued papers
+- Current public commit: check the latest `main` commit with `git rev-parse HEAD` or GitHub.
+- Current paper count after the 10-paper wet run: 52
+- Public queue remaining after the 10-paper wet run: 91 queued papers
 
 ## First Login Checklist
 
@@ -117,7 +117,7 @@ python3 scripts/validate_sources.py
 ./scripts/handover_preflight.sh
 ```
 
-If you want to test the full path, ask Codex in the new account to run the nightly procedure wet and add 3 summaries. It should:
+If you want to test the full path, ask Codex in the new account to run the nightly procedure wet and add 10 summaries. It should:
 
 1. Review at most one private suggestion.
 2. Consume the first rows from `paper_queue.csv`.
@@ -162,4 +162,3 @@ The new account should read these before making changes:
 - `_data/paper_index.json`
 - `paper_queue.csv`
 - `image_catalog.json`
-

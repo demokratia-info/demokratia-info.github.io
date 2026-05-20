@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 42,
+  "paperCount": 52,
   "papers": [
+    {
+      "slug": "democracy_executive_responsibility_netanyahu_case_summary_he",
+      "file": "democracy_executive_responsibility_netanyahu_case_summary_he.html",
+      "permalink": "/democracy_executive_responsibility_netanyahu_case_summary_he.html",
+      "sortKey": 202605200016,
+      "titleHe": "מה אחריותם הציבורית והמשפטית של נבחרי ציבור בכירים?",
+      "paperTitle": "Public and Legal Responsibility of Senior Elected Representatives in the Executive Branch",
+      "authorsCardHe": "מרדכי קרמניצר ודנה בלנדר",
+      "sourceAuthors": [
+        "Mordechai Kremnitzer",
+        "Dana Blander"
+      ],
+      "journal": "The Elections in Israel, 2019–2021",
+      "dateText": "פרק בספר בעריכת Routledge, פורסם ב-7 בספטמבר 2022, עמ׳ 139-159",
+      "doiUrl": "https://doi.org/10.4324/9781003267911-9",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
+        "altHe": "איור על אחריות ציבורית, רשות מבצעת ושלטון החוק"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "הפרק מציב את מקרה נתניהו כמבחן למערכת דמוקרטית שבה נבחר ציבור בכיר מחזיק במנדט פוליטי אך כפוף גם לאמות מידה ציבוריות ומשפטיות."
+    },
+    {
+      "slug": "democracy_intragroup_affective_polarization_conflict_summary_he",
+      "file": "democracy_intragroup_affective_polarization_conflict_summary_he.html",
+      "permalink": "/democracy_intragroup_affective_polarization_conflict_summary_he.html",
+      "sortKey": 202605200015,
+      "titleHe": "האם איום ביטחוני מפחית קיטוב רגשי בתוך החברה?",
+      "paperTitle": "A Threat to Cohesion: Intragroup Affective Polarization in the Context of Intractable Intergroup Conflict",
+      "authorsCardHe": "טל אוריאן הראל, נמרוד ניר, דאן ונדרמולן, יפעת מעוז וערן הלפרין",
+      "sourceAuthors": [
+        "Tal Orian Harel",
+        "Nimrod Nir",
+        "Daan Vandermeulen",
+        "Ifat Maoz",
+        "Eran Halperin"
+      ],
+      "journal": "Journal of Conflict Resolution",
+      "dateText": "כרך 69, גליונות 2-3, מרץ 2025, עמ׳ 491-517",
+      "doiUrl": "https://doi.org/10.1177/00220027241247033",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_violence_summary_he.jpg",
+        "altHe": "איור על קיטוב רגשי ולכידות חברתית בזמן סכסוך"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך."
+    },
+    {
+      "slug": "democracy_party_competition_cooperation_affective_polarization_summary_he",
+      "file": "democracy_party_competition_cooperation_affective_polarization_summary_he.html",
+      "permalink": "/democracy_party_competition_cooperation_affective_polarization_summary_he.html",
+      "sortKey": 202605200014,
+      "titleHe": "איך תחרות ושיתוף פעולה בין מפלגות מעצבים קיטוב רגשי?",
+      "paperTitle": "Party Competition and Cooperation Shape Affective Polarization: Evidence from Natural and Survey Experiments in Israel",
+      "authorsCardHe": "לוטם בסן-נייגט וחגי מ׳ וייס",
+      "sourceAuthors": [
+        "Lotem Bassan-Nygate",
+        "Chagai M. Weiss"
+      ],
+      "journal": "Comparative Political Studies",
+      "dateText": "כרך 55(2), פברואר 2022, עמ׳ 287-318",
+      "doiUrl": "https://doi.org/10.1177/00104140211024283",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
+        "altHe": "איור על מפלגות, תחרות פוליטית ושיתוף פעולה דמוקרטי"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מראה שתמריצים מפלגתיים אינם רק תוצאה של קיטוב רגשי; הם גם מנגנון שמייצר או מפחית אותו."
+    },
+    {
+      "slug": "democracy_israel_polarization_panel_dataset_summary_he",
+      "file": "democracy_israel_polarization_panel_dataset_summary_he.html",
+      "permalink": "/democracy_israel_polarization_panel_dataset_summary_he.html",
+      "sortKey": 202605200013,
+      "titleHe": "מה מאפשר לנו מאגר הנתונים על קיטוב בישראל בשנים 2019-2021?",
+      "paperTitle": "The Israel Polarization Panel Dataset, 2019–2021",
+      "authorsCardHe": "נעם גדרון, ליאור שפר וגיא מור",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "Lior Sheffer",
+        "Guy Mor"
+      ],
+      "journal": "Electoral Studies",
+      "dateText": "כרך 80, דצמבר 2022, מאמר 102512",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2022.102512",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
+        "altHe": "איור על סקרי דעת קהל, פאנל וקיטוב פוליטי בישראל"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "מאגר הפאנל מאפשר לעקוב אחר קיטוב בישראל לאורך משבר פוליטי מתמשך ולא רק לצלם עמדות בנקודת זמן אחת."
+    },
+    {
+      "slug": "democracy_party_pair_affective_polarization_summary_he",
+      "file": "democracy_party_pair_affective_polarization_summary_he.html",
+      "permalink": "/democracy_party_pair_affective_polarization_summary_he.html",
+      "sortKey": 202605200012,
+      "titleHe": "מי לא אוהב את מי בפוליטיקה רב-מפלגתית?",
+      "paperTitle": "Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies",
+      "authorsCardHe": "נעם גדרון, ג׳יימס אדמס וויל הורן",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "James Adams",
+        "Will Horne"
+      ],
+      "journal": "British Journal of Political Science",
+      "dateText": "כרך 53(3), יולי 2023, עמ׳ 997-1015",
+      "doiUrl": "https://doi.org/10.1017/S0007123422000394",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על יחסים בין מפלגות וקיטוב רגשי בדמוקרטיה רב-מפלגתית"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מראה שקיטוב רגשי אינו רק עוצמת השנאה הכללית כלפי ״הצד השני״, אלא רשת של יחסים בין מפלגות ספציפיות."
+    },
+    {
+      "slug": "democracy_political_polarization_israel_1992_2022_summary_he",
+      "file": "democracy_political_polarization_israel_1992_2022_summary_he.html",
+      "permalink": "/democracy_political_polarization_israel_1992_2022_summary_he.html",
+      "sortKey": 202605200011,
+      "titleHe": "איך השתנה הקיטוב הפוליטי בישראל בין 1992 ל-2022?",
+      "paperTitle": "Political Polarization in Israel, 1992–2022",
+      "authorsCardHe": "יאיר אמיתי, נעם גדרון ועומר יאיר",
+      "sourceAuthors": [
+        "Yair Amitai",
+        "Noam Gidron",
+        "Omer Yair"
+      ],
+      "journal": "The Elections in Israel 2022",
+      "dateText": "פרק בספר בעריכת Routledge, פורסם ב-17 בינואר 2025, עמ׳ 21-41",
+      "doiUrl": "https://doi.org/10.4324/9781032633299-3",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
+        "altHe": "איור על ציר זמן פוליטי וקיטוב בישראל לאורך שלושה עשורים"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "הפרק מספק מבט היסטורי על קיטוב בישראל ומזכיר שמשבר פוליטי עכשווי נשען על תהליכים ארוכי טווח."
+    },
+    {
+      "slug": "democracy_affective_gap_polarization_emotions_summary_he",
+      "file": "democracy_affective_gap_polarization_emotions_summary_he.html",
+      "permalink": "/democracy_affective_gap_polarization_emotions_summary_he.html",
+      "sortKey": 202605200010,
+      "titleHe": "אילו רגשות באמת עומדים מאחורי קיטוב פוליטי?",
+      "paperTitle": "The affective gap: a call for a comprehensive examination of the discrete emotions underlying affective polarization",
+      "authorsCardHe": "ערן הלפרין, מבל קרצ׳נר, סיון הירש-הופלר ויוליה אלעד-שטרנגר",
+      "sourceAuthors": [
+        "Eran Halperin",
+        "Mabelle Kretchner",
+        "Sivan Hirsch-Hoefler",
+        "Julia Elad-Strenger"
+      ],
+      "journal": "Cognition and Emotion",
+      "dateText": "כרך 38(4), 2024, עמ׳ 442-450; פורסם אונליין ב-18 במאי 2024",
+      "doiUrl": "https://doi.org/10.1080/02699931.2024.2348028",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
+        "altHe": "איור על רגשות פוליטיים וקיטוב בין קבוצות"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מסביר שקיטוב רגשי אינו רגש אחד אלא משפחה של רגשות שונים, שכל אחד מהם עשוי להוביל להתנהגות פוליטית אחרת."
+    },
+    {
+      "slug": "democracy_affective_polarization_security_threats_october_7_summary_he",
+      "file": "democracy_affective_polarization_security_threats_october_7_summary_he.html",
+      "permalink": "/democracy_affective_polarization_security_threats_october_7_summary_he.html",
+      "sortKey": 202605200009,
+      "titleHe": "האם מתקפת 7 באוקטובר הורידה את הקיטוב הרגשי בישראל?",
+      "paperTitle": "The Persistence of Affective Polarization in Times of Security Threats: Evidence from Post-October 7 Israel",
+      "authorsCardHe": "עומר יאיר, יאיר אמיטל, אמנון כוורי, אסיף אפרת ונעם גדרון",
+      "sourceAuthors": [
+        "Omer Yair",
+        "Yair Amital",
+        "Amnon Cavari",
+        "Asif Efrat",
+        "Noam Gidron"
+      ],
+      "journal": "SSRN / Elsevier posted content",
+      "dateText": "טיוטת מחקר/posted content, 2026",
+      "doiUrl": "https://doi.org/10.2139/ssrn.6441339",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על חברה מקוטבת בזמן איום ביטחוני ומשבר דמוקרטי"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני."
+    },
+    {
+      "slug": "democracy_democratic_values_education_israel_summary_he",
+      "file": "democracy_democratic_values_education_israel_summary_he.html",
+      "permalink": "/democracy_democratic_values_education_israel_summary_he.html",
+      "sortKey": 202605200008,
+      "titleHe": "איך מחנכים לערכים דמוקרטיים במדינה המצויה בסכסוך?",
+      "paperTitle": "Democratic Values and Education for Democracy in the State of Israel",
+      "authorsCardHe": "ערן הלפרין ודניאל בר-טל",
+      "sourceAuthors": [
+        "Eran Halperin",
+        "Daniel Bar-Tal"
+      ],
+      "journal": "Democracy and Security",
+      "dateText": "כרך 2(2), דצמבר 2006, עמ׳ 169-200",
+      "doiUrl": "https://doi.org/10.1080/17419160600954441",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trade_unions_summary_he.jpg",
+        "altHe": "איור על חינוך אזרחי, חברה אזרחית וערכים דמוקרטיים"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מזכיר שחינוך לדמוקרטיה אינו רק לימוד מוסדות, אלא תהליך של טיפוח סובלנות, זכויות, ביקורתיות והכרה בלגיטימיות של האחר."
+    },
+    {
+      "slug": "democracy_hate_speech_campaign_finance_free_speech_summary_he",
+      "file": "democracy_hate_speech_campaign_finance_free_speech_summary_he.html",
+      "permalink": "/democracy_hate_speech_campaign_finance_free_speech_summary_he.html",
+      "sortKey": 202605200007,
+      "titleHe": "מתי הגבלת ביטוי פוגעת דווקא בחופש הביטוי?",
+      "paperTitle": "Unintended consequences of prohibiting advocacy of hatred and regulating campaign finance: The weakening status of freedom of speech in Israel",
+      "authorsCardHe": "ברק מדינה",
+      "sourceAuthors": [
+        "Barak Medina"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "כרך 18(3), 2020, עמ׳ 804-820; פורסם ב-31 בדצמבר 2020",
+      "doiUrl": "https://doi.org/10.1093/icon/moaa056",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
+        "altHe": "איור על חופש ביטוי, זכויות והגבלת כוח שלטוני"
+      },
+      "datePublished": "2026-05-20",
+      "dateModified": "2026-05-20",
+      "summaryHe": "המאמר מזהיר שמדיניות שנועדה להגן מפני פגיעה יכולה, בתנאים מסוימים, להחליש את התרבות החוקתית שמגינה על חופש הביטוי."
+    },
     {
       "slug": "democracy_constitutional_blitz_backsliding_summary_he",
       "file": "democracy_constitutional_blitz_backsliding_summary_he.html",

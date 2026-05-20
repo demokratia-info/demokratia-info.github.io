@@ -10,7 +10,7 @@ The repository source is now Jekyll content, not hand-edited generated HTML:
 
 - `_papers/*.md` - one Markdown/front-matter source file per paper summary.
 - `Authors.MD` - optional preferred-author list for the nightly scan. Add author names, affiliations, public email addresses, ORCIDs, official profile URLs, or search notes there when new publications by specific researchers should be prioritized.
-- `paper_queue.csv` - editable nightly queue of upcoming papers. It uses `paper_name,authors,doi,topic` columns; the nightly automation consumes the first 3 rows and removes them after the corresponding paper pages are added.
+- `paper_queue.csv` - editable nightly queue of upcoming papers. It uses `paper_name,authors,doi,topic` columns; the nightly automation consumes the first needed rows to reach 10 new papers total and removes them after the corresponding paper pages are added.
 - `suggest_queue.csv` - header-only public placeholder for compatibility. The operational visitor suggestion queue lives in the private repository `demokratia-info/democracy-paper-suggestions-private` because it contains names and email addresses.
 - `_data/site.json` - site-level settings.
 - `_data/topics.json` - topic taxonomy and topic metadata. Paper membership is read from each paper's `topics` list.
@@ -23,13 +23,13 @@ The repository source is now Jekyll content, not hand-edited generated HTML:
 - `workers/suggest-paper-worker.js` - optional Cloudflare Worker endpoint that receives public suggestions and appends them to the private `suggest_queue.csv`.
 - `scripts/validate_sources.py` - source validator and paper-index generator.
 
-Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv` and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit and is not a duplicate; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Then use enough rows from `paper_queue.csv` to reach the normal 3-paper nightly batch.
+Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv` and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit and is not a duplicate; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Then use enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch.
 
-If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare the next 30 relevant non-duplicate queued papers using the same criteria, with `Authors.MD` as a priority signal, before consuming the first needed rows.
+If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare a fresh 100 relevant non-duplicate queued papers using the same criteria, with `Authors.MD` as a priority signal, before consuming the first needed rows.
 
 After selecting papers, Codex nightly updates should add new papers as `_papers/*.md` files, add or reuse images, update `image_catalog.json`, update the private `suggest_queue.csv` when a suggestion is processed, update public `paper_queue.csv`, bump `_data/site.json` `lastUpdated` and `cacheVersion`, regenerate `_data/paper_index.json`, and then commit/push. Update `_data/topics.json` only when adding or changing a topic. They should not edit generated HTML pages manually.
 
-Each paper source has a stable `sortKey`. New papers should receive larger `sortKey` values, such as `YYYYMMDD0001`, `YYYYMMDD0002`, and `YYYYMMDD0003`, so the newest papers sort first without rewriting older paper files.
+Each paper source has a stable `sortKey`. New papers should receive larger `sortKey` values, such as `YYYYMMDD0001`, `YYYYMMDD0002`, and `YYYYMMDD0010`, so the newest papers sort first without rewriting older paper files.
 
 The shared head includes a cache-refresh check against `site-version.json`. When deployed `cacheVersion` differs from the version in a user's cached page, the browser reloads that page once with a `site_version` query parameter. Use a new `cacheVersion` value for every content deploy, for example `2026-05-20-nightly`.
 

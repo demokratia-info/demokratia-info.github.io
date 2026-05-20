@@ -14,12 +14,12 @@
       "file": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 1,
+      "currentHomepagePosition": 11,
       "primaryArticle": "democracy_legislative_backsliding_populism_summary_he.html",
       "usedBy": [
-        "democracy_legislative_backsliding_populism_summary_he.html",
+        "democracy_constitutional_blitz_backsliding_summary_he.html",
         "democracy_knesset_democracy_framings_summary_he.html",
-        "democracy_constitutional_blitz_backsliding_summary_he.html"
+        "democracy_legislative_backsliding_populism_summary_he.html"
       ],
       "cardTitleHe": "איך מזהים נסיגה דמוקרטית בתוך תהליך החקיקה?",
       "authorsHe": "אסנת עקירב",
@@ -38,12 +38,13 @@
       "file": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 9,
+      "currentHomepagePosition": 8,
       "primaryArticle": "democracy_abusive_constitutionalism_summary_he.html",
       "usedBy": [
-        "democracy_abusive_constitutionalism_summary_he.html",
+        "democracy_affective_polarization_security_threats_october_7_summary_he.html",
+        "democracy_court_capture_judicial_selection_summary_he.html",
         "democracy_judicial_revolution_reconceptualized_summary_he.html",
-        "democracy_court_capture_judicial_selection_summary_he.html"
+        "democracy_abusive_constitutionalism_summary_he.html"
       ],
       "cardTitleHe": "מתי רפורמה משפטית הופכת לפגיעה בליבת הדמוקרטיה?",
       "authorsHe": "יניב רוזנאי, רוזלינד דיקסון, דייוויד א' לנדאו",
@@ -62,12 +63,12 @@
       "file": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 6,
+      "currentHomepagePosition": 16,
       "primaryArticle": "democracy_constitutionalising_system_summary_he.html",
       "usedBy": [
-        "democracy_constitutionalising_system_summary_he.html",
+        "democracy_israel_constitutional_moment_admin_law_summary_he.html",
         "democracy_constitutional_overhaul_civic_mobilization_summary_he.html",
-        "democracy_israel_constitutional_moment_admin_law_summary_he.html"
+        "democracy_constitutionalising_system_summary_he.html"
       ],
       "cardTitleHe": "איך אפשר להפוך משבר חוקתי לחוקה דמוקרטית ומכלילה?",
       "authorsHe": "מנאל תותרי-ג'ובראן",
@@ -86,11 +87,11 @@
       "file": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 4,
+      "currentHomepagePosition": 14,
       "primaryArticle": "democracy_first_brick_democratic_erosion_summary_he.html",
       "usedBy": [
-        "democracy_first_brick_democratic_erosion_summary_he.html",
-        "democracy_reasonableness_standard_rule_of_law_summary_he.html"
+        "democracy_reasonableness_standard_rule_of_law_summary_he.html",
+        "democracy_first_brick_democratic_erosion_summary_he.html"
       ],
       "cardTitleHe": "מתי צריך לעצור את הלבנה הראשונה בשחיקה דמוקרטית?",
       "authorsHe": "תמר הוסטובסקי ברנדס, יניב רוזנאי",
@@ -109,11 +110,12 @@
       "file": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 21,
+      "currentHomepagePosition": 10,
       "primaryArticle": "democracy_freedom_to_exclude_summary_he.html",
       "usedBy": [
-        "democracy_freedom_to_exclude_summary_he.html",
-        "democracy_nationality_basic_law_majority_summary_he.html"
+        "democracy_hate_speech_campaign_finance_free_speech_summary_he.html",
+        "democracy_nationality_basic_law_majority_summary_he.html",
+        "democracy_freedom_to_exclude_summary_he.html"
       ],
       "cardTitleHe": "כשזכות הקניין הופכת לכלי להדרה",
       "authorsHe": "מיכל טמיר",
@@ -132,12 +134,12 @@
       "file": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 12,
+      "currentHomepagePosition": 22,
       "primaryArticle": "democracy_human_rights_conventions_summary_he.html",
       "usedBy": [
-        "democracy_human_rights_conventions_summary_he.html",
+        "democracy_judicial_appointments_independence_summary_he.html",
         "democracy_courts_horizontal_accountability_summary_he.html",
-        "democracy_judicial_appointments_independence_summary_he.html"
+        "democracy_human_rights_conventions_summary_he.html"
       ],
       "cardTitleHe": "איך אמנות זכויות אדם צריכות להשפיע על בתי המשפט בישראל?",
       "authorsHe": "ברק מדינה",
@@ -156,12 +158,12 @@
       "file": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 2,
+      "currentHomepagePosition": 12,
       "primaryArticle": "democracy_civil_society_ngos_backsliding_summary_he.html",
       "usedBy": [
-        "democracy_civil_society_ngos_backsliding_summary_he.html",
+        "democracy_political_scientists_mediated_engagement_summary_he.html",
         "democracy_local_democracy_autonomy_summary_he.html",
-        "democracy_political_scientists_mediated_engagement_summary_he.html"
+        "democracy_civil_society_ngos_backsliding_summary_he.html"
       ],
       "cardTitleHe": "האם מתקפה על ארגוני חברה אזרחית מחלישה את הדמוקרטיה?",
       "authorsHe": "אסיף אפרת, עומר יאיר",
@@ -180,11 +182,12 @@
       "file": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 17,
+      "currentHomepagePosition": 1,
       "primaryArticle": "democracy_civil_servants_backsliding_summary_he.html",
       "usedBy": [
-        "democracy_civil_servants_backsliding_summary_he.html",
-        "democracy_state_deconstruction_summary_he.html"
+        "democracy_executive_responsibility_netanyahu_case_summary_he.html",
+        "democracy_state_deconstruction_summary_he.html",
+        "democracy_civil_servants_backsliding_summary_he.html"
       ],
       "cardTitleHe": "מה קורה לשירות הציבורי כשהדמוקרטיה נשחקת?",
       "authorsHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
@@ -203,12 +206,13 @@
       "file": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 7,
+      "currentHomepagePosition": 5,
       "primaryArticle": "democracy_regime_classification_backsliding_summary_he.html",
       "usedBy": [
-        "democracy_regime_classification_backsliding_summary_he.html",
+        "democracy_party_pair_affective_polarization_summary_he.html",
+        "democracy_majoritarian_consensus_constitution_summary_he.html",
         "democracy_legislative_executive_relations_crisis_summary_he.html",
-        "democracy_majoritarian_consensus_constitution_summary_he.html"
+        "democracy_regime_classification_backsliding_summary_he.html"
       ],
       "cardTitleHe": "האם נסיגה דמוקרטית היא רק ויכוח על בית המשפט?",
       "authorsHe": "גל אריאלי",
@@ -226,9 +230,10 @@
       "file": "html_qa/democracy_trade_unions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 34,
+      "currentHomepagePosition": 9,
       "primaryArticle": "democracy_trade_unions_summary_he.html",
       "usedBy": [
+        "democracy_democratic_values_education_israel_summary_he.html",
         "democracy_trade_unions_summary_he.html"
       ],
       "cardTitleHe": "האם איגודי עובדים יכולים להגן על הדמוקרטיה?",
@@ -248,7 +253,7 @@
       "file": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 35,
+      "currentHomepagePosition": 45,
       "primaryArticle": "democracy_constitutional_reform_economy_summary_he.html",
       "usedBy": [
         "democracy_constitutional_reform_economy_summary_he.html"
@@ -270,11 +275,12 @@
       "file": "html_qa/democracy_political_violence_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 10,
+      "currentHomepagePosition": 2,
       "primaryArticle": "democracy_political_violence_summary_he.html",
       "usedBy": [
-        "democracy_political_violence_summary_he.html",
-        "democracy_disruptive_protests_backsliding_summary_he.html"
+        "democracy_intragroup_affective_polarization_conflict_summary_he.html",
+        "democracy_disruptive_protests_backsliding_summary_he.html",
+        "democracy_political_violence_summary_he.html"
       ],
       "cardTitleHe": "נסיגה דמוקרטית ואלימות פוליטית: מה קורה לתודעה הציבורית?",
       "authorsHe": "טל שאנן, סיון הירש-הפלר, דפנה קנטי, יוליה אלעד-שטרנגר",
@@ -293,11 +299,12 @@
       "file": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 8,
+      "currentHomepagePosition": 3,
       "primaryArticle": "democracy_israeli_democracy_crisis_summary_he.html",
       "usedBy": [
-        "democracy_israeli_democracy_crisis_summary_he.html",
-        "democracy_polarisation_constitutional_crisis_summary_he.html"
+        "democracy_party_competition_cooperation_affective_polarization_summary_he.html",
+        "democracy_polarisation_constitutional_crisis_summary_he.html",
+        "democracy_israeli_democracy_crisis_summary_he.html"
       ],
       "cardTitleHe": "למה הדמוקרטיה הישראלית נקלעה למשבר?",
       "authorsHe": "נעם גדרון",
@@ -316,9 +323,10 @@
       "file": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 38,
+      "currentHomepagePosition": 4,
       "primaryArticle": "democracy_masses_support_backsliding_summary_he.html",
       "usedBy": [
+        "democracy_israel_polarization_panel_dataset_summary_he.html",
         "democracy_masses_support_backsliding_summary_he.html"
       ],
       "cardTitleHe": "מי תומך בנסיגה דמוקרטית, ולמה?",
@@ -338,13 +346,13 @@
       "file": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 5,
+      "currentHomepagePosition": 15,
       "primaryArticle": "democracy_judicial_overhaul_populist_picture_summary_he.html",
       "usedBy": [
-        "democracy_judicial_overhaul_populist_picture_summary_he.html",
-        "democracy_populist_constitutionalism_overhaul_summary_he.html",
+        "democracy_high_court_reform_desirable_summary_he.html",
         "democracy_judicial_activism_sources_summary_he.html",
-        "democracy_high_court_reform_desirable_summary_he.html"
+        "democracy_populist_constitutionalism_overhaul_summary_he.html",
+        "democracy_judicial_overhaul_populist_picture_summary_he.html"
       ],
       "cardTitleHe": "איך צעדים קטנים יכולים לשנות דמוקרטיה שלמה?",
       "authorsHe": "סוזי נבות",
@@ -363,9 +371,10 @@
       "file": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 40,
+      "currentHomepagePosition": 7,
       "primaryArticle": "democracy_gender_justice_backsliding_summary_he.html",
       "usedBy": [
+        "democracy_affective_gap_polarization_emotions_summary_he.html",
         "democracy_gender_justice_backsliding_summary_he.html"
       ],
       "cardTitleHe": "מה הקשר בין נסיגה דמוקרטית לזכויות נשים?",
@@ -385,13 +394,13 @@
       "file": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 3,
+      "currentHomepagePosition": 13,
       "primaryArticle": "democracy_majority_nationalism_equal_citizenship_summary_he.html",
       "usedBy": [
-        "democracy_majority_nationalism_equal_citizenship_summary_he.html",
-        "democracy_national_identity_equal_citizenship_summary_he.html",
+        "democracy_political_scientists_civic_studies_summary_he.html",
         "democracy_haredi_civil_society_democracy_summary_he.html",
-        "democracy_political_scientists_civic_studies_summary_he.html"
+        "democracy_national_identity_equal_citizenship_summary_he.html",
+        "democracy_majority_nationalism_equal_citizenship_summary_he.html"
       ],
       "cardTitleHe": "מה חוקי לאום עושים לתחושת השוויון של מיעוטים?",
       "authorsHe": "נטע ברק-קורן, נעם גדרון, יובל פלדמן",
@@ -410,11 +419,12 @@
       "file": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 24,
+      "currentHomepagePosition": 6,
       "primaryArticle": "democracy_constitutional_moment_west_bank_summary_he.html",
       "usedBy": [
-        "democracy_constitutional_moment_west_bank_summary_he.html",
-        "democracy_promise_retrenchment_constitutionalism_summary_he.html"
+        "democracy_political_polarization_israel_1992_2022_summary_he.html",
+        "democracy_promise_retrenchment_constitutionalism_summary_he.html",
+        "democracy_constitutional_moment_west_bank_summary_he.html"
       ],
       "cardTitleHe": "האם אפשר לדבר על חוקה בלי לדבר על השליטה בגדה?",
       "authorsHe": "תמר הוסטובסקי ברנדס",
