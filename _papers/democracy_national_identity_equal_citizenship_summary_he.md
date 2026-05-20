@@ -10,7 +10,7 @@
   "summaryHe": "איך מאבק על בית המשפט משקף שינוי עמוק בזהות החוקתית ובשאלת השוויון.",
   "authorsCardHe": "ברק מדינה, עפרה בלוך",
   "paperTitle": "The Two Revolutions of Israel's National Identity",
-  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>, <a href=\"https://english.tau.ac.il/profile/ofrabloch\" target=\"_blank\" rel=\"noopener noreferrer\">Ofra Bloch</a>",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>; <a href=\"https://english.tau.ac.il/profile/ofrabloch\" target=\"_blank\" rel=\"noopener noreferrer\">Ofra Bloch</a>",
   "journal": "Israel Law Review",
   "dateText": "גיליון: נובמבר 2023; פרסום מקוון בקיימברידג': 4 בדצמבר 2023",
   "doiUrl": "https://doi.org/10.1017/S0021223723000225",
@@ -56,8 +56,8 @@
     "altHe": "איור על לאומיות רוב ושוויון אזרחי של מיעוטים"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הממצא הנורמטיבי של ברק מדינה מן האוניברסיטה העברית ועפרה בלוך מאוניברסיטת תל אביב הוא שהרפורמה המשפטית משקפת מאבק עמוק על הזהות החוקתית של ישראל. המהלך אינו רק ניסיון לבטל את מהפכת 1992, אלא שינוי לכיוון שמערער את עקרון השוויון האזרחי.",
   "sections": [
     {

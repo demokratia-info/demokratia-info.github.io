@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מראה שקיטוב רגשי אינו רק עוצמת השנאה הכללית כלפי ״הצד השני״, אלא רשת של יחסים בין מפלגות ספציפיות.",
   "authorsCardHe": "נעם גדרון, ג׳יימס אדמס וויל הורן",
   "paperTitle": "Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies",
-  "authorsHtml": "Noam Gidron; James Adams; Will Horne",
+  "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://polisci.ucdavis.edu/people/james-adams\" target=\"_blank\" rel=\"noopener noreferrer\">James Adams</a>; <a href=\"https://www.clemson.edu/cbshs/about/profiles/rwhorne\" target=\"_blank\" rel=\"noopener noreferrer\">Will Horne</a>",
   "journal": "British Journal of Political Science",
   "dateText": "כרך 53(3), יולי 2023, עמ׳ 997-1015",
   "doiUrl": "https://doi.org/10.1017/S0007123422000394",
@@ -18,29 +18,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "נעם גדרון"
+      "name": "נעם גדרון",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "ג׳יימס אדמס"
+      "name": "ג׳יימס אדמס",
+      "url": "https://polisci.ucdavis.edu/people/james-adams"
     },
     {
       "@type": "Person",
-      "name": "ויל הורן"
+      "name": "ויל הורן",
+      "url": "https://www.clemson.edu/cbshs/about/profiles/rwhorne"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "James Adams"
+      "name": "James Adams",
+      "url": "https://polisci.ucdavis.edu/people/james-adams"
     },
     {
       "@type": "Person",
-      "name": "Will Horne"
+      "name": "Will Horne",
+      "url": "https://www.clemson.edu/cbshs/about/profiles/rwhorne"
     }
   ],
   "topics": [

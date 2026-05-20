@@ -10,7 +10,7 @@
   "summaryHe": "איך משבר חוקתי יכול להפוך לתהליך חוקתי מכליל ושוויוני.",
   "authorsCardHe": "מנאל תותרי-ג'ובראן",
   "paperTitle": "Constitutionalising Israel's Constitutional System",
-  "authorsHtml": "",
+  "authorsHtml": "<a href=\"https://law.biu.ac.il/en/node/3499\" target=\"_blank\" rel=\"noopener noreferrer\">Manal Totry-Jubran</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם אונליין: 26 בספטמבר 2023; גיליון: נובמבר 2023",
   "doiUrl": "https://doi.org/10.1017/S0021223723000134",
@@ -46,8 +46,8 @@
     "altHe": "איור על תהליך חוקתי מכליל, חוקה, שוויון וזכויות מיעוט"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מנאל תותרי-ג'ובראן טוענת שהמשבר החוקתי בישראל יכול להפוך לרגע חוקתי רק אם הוא יוביל לתהליך רחב, מכליל ושוויוני. הממצא הנורמטיבי של המאמר הוא שחוקה דמוקרטית אינה יכולה להתבסס רק על פשרה בין אליטות פוליטיות; היא חייבת לכלול זכויות אדם, שוויון, מיעוטים ושאלות עומק על גבולות הקהילה הפוליטית.",
   "sections": [
     {

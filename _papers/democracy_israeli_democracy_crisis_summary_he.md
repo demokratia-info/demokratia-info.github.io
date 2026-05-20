@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "altHe": "איור על משבר בדמוקרטיה הישראלית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מסביר את המשבר הישראלי לא כאירוע יחיד, אלא כתוצאה של שילוב בין קיטוב פוליטי עמוק, מבנה מוסדי פגיע ומאבק על גבולות הכוח השלטוני.",
   "sections": [
     {

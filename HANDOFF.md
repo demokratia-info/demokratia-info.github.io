@@ -80,7 +80,7 @@ Use this sequence for manual or automated paper additions:
 5. Add a new `_papers/*.md` file with JSON front matter between `---` markers.
 6. Give new papers larger numeric `sortKey` values than existing records, usually `YYYYMMDD0001`, `YYYYMMDD0002`, etc. The index sorts descending by `sortKey`.
 7. Assign one or more existing topic IDs from `_data/topics.json`.
-8. Link author names only when the author identity is certain and the link is an official academic profile or clearly maintained academic home page.
+8. Link author names only when the author identity is certain and the link is an official academic profile or clearly maintained academic home page. Before leaving a name unlinked, reuse matching URLs from existing `_papers/*.md`, then check DOI/publisher metadata, ORCID links, institutional directories, personal academic sites, and quoted-name searches with affiliation or paper title; report unresolved names instead of guessing.
 9. Make external paper and author links open in a new tab with `target="_blank"` and `rel="noopener noreferrer"` in stored HTML fields.
 10. Add or reuse an 800x600 landscape JPEG in `html_qa/`.
 11. Update `image_catalog.json`.

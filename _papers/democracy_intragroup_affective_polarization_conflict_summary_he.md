@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך.",
   "authorsCardHe": "טל אוריאן הראל, נמרוד ניר, דאן ונדרמולן, יפעת מעוז וערן הלפרין",
   "paperTitle": "A Threat to Cohesion: Intragroup Affective Polarization in the Context of Intractable Intergroup Conflict",
-  "authorsHtml": "Tal Orian Harel; Nimrod Nir; Daan Vandermeulen; Ifat Maoz; Eran Halperin",
+  "authorsHtml": "<a href=\"https://www.asc.upenn.edu/people/faculty/tal-orian-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Orian Harel</a>; <a href=\"https://www.eranhalperin.com/our-lab\" target=\"_blank\" rel=\"noopener noreferrer\">Nimrod Nir</a>; <a href=\"https://www.eranhalperin.com/our-lab\" target=\"_blank\" rel=\"noopener noreferrer\">Daan Vandermeulen</a>; <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
   "journal": "Journal of Conflict Resolution",
   "dateText": "כרך 69, גליונות 2-3, מרץ 2025, עמ׳ 491-517",
   "doiUrl": "https://doi.org/10.1177/00220027241247033",
@@ -18,45 +18,55 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "טל אוריאן הראל"
+      "name": "טל אוריאן הראל",
+      "url": "https://www.asc.upenn.edu/people/faculty/tal-orian-harel"
     },
     {
       "@type": "Person",
-      "name": "נמרוד ניר"
+      "name": "נמרוד ניר",
+      "url": "https://www.eranhalperin.com/our-lab"
     },
     {
       "@type": "Person",
-      "name": "דאן ונדרמולן"
+      "name": "דאן ונדרמולן",
+      "url": "https://www.eranhalperin.com/our-lab"
     },
     {
       "@type": "Person",
-      "name": "יפעת מעוז"
+      "name": "יפעת מעוז",
+      "url": "https://en.communication.huji.ac.il/people/prof-ifat-maoz"
     },
     {
       "@type": "Person",
-      "name": "ערן הלפרין"
+      "name": "ערן הלפרין",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tal Orian Harel"
+      "name": "Tal Orian Harel",
+      "url": "https://www.asc.upenn.edu/people/faculty/tal-orian-harel"
     },
     {
       "@type": "Person",
-      "name": "Nimrod Nir"
+      "name": "Nimrod Nir",
+      "url": "https://www.eranhalperin.com/our-lab"
     },
     {
       "@type": "Person",
-      "name": "Daan Vandermeulen"
+      "name": "Daan Vandermeulen",
+      "url": "https://www.eranhalperin.com/our-lab"
     },
     {
       "@type": "Person",
-      "name": "Ifat Maoz"
+      "name": "Ifat Maoz",
+      "url": "https://en.communication.huji.ac.il/people/prof-ifat-maoz"
     },
     {
       "@type": "Person",
-      "name": "Eran Halperin"
+      "name": "Eran Halperin",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     }
   ],
   "topics": [

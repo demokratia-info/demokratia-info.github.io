@@ -10,7 +10,7 @@
   "summaryHe": "איך תהליך חקיקה מזורז ופופוליזם סמכותני יכולים להחליש דמוקרטיה.",
   "authorsCardHe": "אסנת עקירב",
   "paperTitle": "Populism and legislative backsliding",
-  "authorsHtml": "",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 13 ביוני 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1549528",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "אסנת עקירב"
+      "name": "אסנת עקירב",
+      "url": "https://ric.org.il/researcher/osnat-akirav/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Osnat Akirav"
+      "name": "Osnat Akirav",
+      "url": "https://ric.org.il/researcher/osnat-akirav/"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "altHe": "איור על נסיגה חקיקתית, דיון בכנסת ופופוליזם סמכותני"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אסנת עקירב מראה שבכנסת ה-25 הופיעו יותר סימנים של נסיגה חקיקתית מאשר בתהליך שנבדק בכנסת ה-20. הממצא המרכזי הוא שתהליך חקיקה יכול להחליש דמוקרטיה לא רק בתוכן החוק, אלא גם בדרך שבה דוחקים דיון, מומחיות, ייעוץ משפטי ונורמות פרלמנטריות.",
   "sections": [
     {

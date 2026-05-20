@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מסביר שקיטוב רגשי אינו רגש אחד אלא משפחה של רגשות שונים, שכל אחד מהם עשוי להוביל להתנהגות פוליטית אחרת.",
   "authorsCardHe": "ערן הלפרין, מבל קרצ׳נר, סיון הירש-הופלר ויוליה אלעד-שטרנגר",
   "paperTitle": "The affective gap: a call for a comprehensive examination of the discrete emotions underlying affective polarization",
-  "authorsHtml": "Eran Halperin; Mabelle Kretchner; Sivan Hirsch-Hoefler; Julia Elad-Strenger",
+  "authorsHtml": "<a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>; <a href=\"https://mores-horizon.eu/experts/mabelle-kretchner\" target=\"_blank\" rel=\"noopener noreferrer\">Mabelle Kretchner</a>; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
   "journal": "Cognition and Emotion",
   "dateText": "כרך 38(4), 2024, עמ׳ 442-450; פורסם אונליין ב-18 במאי 2024",
   "doiUrl": "https://doi.org/10.1080/02699931.2024.2348028",
@@ -18,37 +18,45 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "ערן הלפרין"
+      "name": "ערן הלפרין",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     },
     {
       "@type": "Person",
-      "name": "מבל קרצ׳נר"
+      "name": "מבל קרצ׳נר",
+      "url": "https://mores-horizon.eu/experts/mabelle-kretchner"
     },
     {
       "@type": "Person",
-      "name": "סיון הירש-הופלר"
+      "name": "סיון הירש-הופלר",
+      "url": "https://www.runi.ac.il/en/faculty/hsivan"
     },
     {
       "@type": "Person",
-      "name": "יוליה אלעד-שטרנגר"
+      "name": "יוליה אלעד-שטרנגר",
+      "url": "https://cris.biu.ac.il/en/persons/julia-elad-strenger/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eran Halperin"
+      "name": "Eran Halperin",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     },
     {
       "@type": "Person",
-      "name": "Mabelle Kretchner"
+      "name": "Mabelle Kretchner",
+      "url": "https://mores-horizon.eu/experts/mabelle-kretchner"
     },
     {
       "@type": "Person",
-      "name": "Sivan Hirsch-Hoefler"
+      "name": "Sivan Hirsch-Hoefler",
+      "url": "https://www.runi.ac.il/en/faculty/hsivan"
     },
     {
       "@type": "Person",
-      "name": "Julia Elad-Strenger"
+      "name": "Julia Elad-Strenger",
+      "url": "https://cris.biu.ac.il/en/persons/julia-elad-strenger/"
     }
   ],
   "topics": [

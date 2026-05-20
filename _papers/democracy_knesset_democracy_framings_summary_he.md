@@ -10,7 +10,7 @@
   "summaryHe": "איך תפיסות שונות של דמוקרטיה בכנסת משפיעות על מאבקי זכויות ומוסדות.",
   "authorsCardHe": "יואב ארד, מייקל פרידמן",
   "paperTitle": "The crises of Israeli democracy: political-ideological framings by members of Israel’s 24th Knesset",
-  "authorsHtml": "Yoav Arad, <a href=\"https://cris.haifa.ac.il/en/persons/michael-freedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Freedman</a>",
+  "authorsHtml": "Yoav Arad; <a href=\"https://cris.haifa.ac.il/en/persons/michael-freedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Freedman</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 26 בפברואר 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1530752",
@@ -55,8 +55,8 @@
     "altHe": "איור על דיון בכנסת, מושג הדמוקרטיה וקיטוב אידיאולוגי"
   },
   "datePublished": "2026-05-15",
-  "dateModified": "2026-05-15",
-  "lastUpdatedHe": "15 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: יואב ארד ומייקל פרידמן מראים שחברי הכנסת ה-24 דיברו על דמוקרטיה בשפות שונות מאוד. המאמר מדגיש שהמשבר הישראלי אינו רק ויכוח על מוסד אחד, אלא עימות בין תפיסה רובנית של שלטון הרוב לבין תפיסה ליברלית שמדגישה זכויות, מוסדות והגבלות על כוח.",
   "sections": [
     {

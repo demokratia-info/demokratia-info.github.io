@@ -10,7 +10,7 @@
   "summaryHe": "הפרק מציב את מקרה נתניהו כמבחן למערכת דמוקרטית שבה נבחר ציבור בכיר מחזיק במנדט פוליטי אך כפוף גם לאמות מידה ציבוריות ומשפטיות.",
   "authorsCardHe": "מרדכי קרמניצר ודנה בלנדר",
   "paperTitle": "Public and Legal Responsibility of Senior Elected Representatives in the Executive Branch",
-  "authorsHtml": "Mordechai Kremnitzer; Dana Blander",
+  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>; <a href=\"https://en.idi.org.il/experts/2177\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Blander</a>",
   "journal": "The Elections in Israel, 2019–2021",
   "dateText": "פרק בספר בעריכת Routledge, פורסם ב-7 בספטמבר 2022, עמ׳ 139-159",
   "doiUrl": "https://doi.org/10.4324/9781003267911-9",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "מרדכי קרמניצר"
+      "name": "מרדכי קרמניצר",
+      "url": "https://en.idi.org.il/experts/1308"
     },
     {
       "@type": "Person",
-      "name": "דנה בלנדר"
+      "name": "דנה בלנדר",
+      "url": "https://en.idi.org.il/experts/2177"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mordechai Kremnitzer"
+      "name": "Mordechai Kremnitzer",
+      "url": "https://en.idi.org.il/experts/1308"
     },
     {
       "@type": "Person",
-      "name": "Dana Blander"
+      "name": "Dana Blander",
+      "url": "https://en.idi.org.il/experts/2177"
     }
   ],
   "topics": [

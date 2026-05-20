@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Barak Medina"
+      "name": "Barak Medina",
+      "url": "https://en.law.huji.ac.il/people/barak-medina"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "altHe": "איור על אמנות זכויות אדם, בתי משפט ושלטון החוק"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר טוען שאמנות זכויות אדם אינן מחליפות את הכנסת ובתי המשפט בישראל, אבל הן צריכות לשמש אמת מידה רצינית כאשר המדינה מצדיקה פגיעה בזכויות.",
   "sections": [
     {

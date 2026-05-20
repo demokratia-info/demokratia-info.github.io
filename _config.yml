@@ -33,6 +33,7 @@ exclude:
   - todo.md
   - image_catalog.json
   - suggest_queue.csv
+  - vendor/
   - workers/
   - Gemfile
   - Gemfile.lock

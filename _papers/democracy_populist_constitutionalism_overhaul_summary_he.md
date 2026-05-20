@@ -10,7 +10,7 @@
   "summaryHe": "איך פופוליזם יכול להפוך רפורמה משפטית לאיום על בלמים, זכויות ושלטון החוק.",
   "authorsCardHe": "יניב רוזנאי, עמיחי כהן",
   "paperTitle": "Populist Constitutionalism and the Judicial Overhaul in Israel",
-  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>, <a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם אונליין: 17 בנובמבר 2023; גיליון: נובמבר 2023",
   "doiUrl": "https://doi.org/10.1017/S0021223723000201",
@@ -56,8 +56,8 @@
     "altHe": "איור על הרפורמה המשפטית ודפוס פופוליסטי רחב"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הממצא המרכזי של יניב רוזנאי מאוניברסיטת רייכמן ועמיחי כהן מן הקריה האקדמית אונו והמכון הישראלי לדמוקרטיה הוא שהרפורמה המשפטית בישראל צריכה להיקרא כפרויקט חוקתי פופוליסטי. החלשת בית המשפט אינה רק שינוי מוסדי נקודתי, אלא מהלך שמגדיל את כוח הרוב הפוליטי על חשבון זכויות, בלמים ושלטון החוק.",
   "sections": [
     {

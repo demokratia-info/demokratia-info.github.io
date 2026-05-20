@@ -10,7 +10,7 @@
   "summaryHe": "מחקר אמפירי על האופן שבו חוקי לאומיות רוב משפיעים על שוויון אזרחי של מיעוטים.",
   "authorsCardHe": "נטע ברק-קורן, נעם גדרון, יובל פלדמן",
   "paperTitle": "Majority Nationalism Laws and the Equal Citizenship of Minorities: Experimental, Panel, and Cross-Sectional Evidence from Israel",
-  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://cris.biu.ac.il/en/persons/yuval-feldman/\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feldman</a>",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://cris.biu.ac.il/en/persons/yuval-feldman/\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feldman</a>",
   "journal": "Journal of Legal Studies",
   "dateText": "2022",
   "doiUrl": "https://doi.org/10.1086/718577",
@@ -39,7 +39,8 @@
     },
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
@@ -62,8 +63,8 @@
     "altHe": "איור על לאומיות רוב ושוויון אזרחי של מיעוטים"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן כיצד חוקים שמדגישים את זהות הרוב יכולים להשפיע על תחושת השוויון וההשתייכות של מיעוטים בדמוקרטיה.",
   "sections": [
     {

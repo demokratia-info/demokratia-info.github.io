@@ -10,7 +10,7 @@
   "summaryHe": "איך אוטונומיה מקומית יכולה להרחיב את ההבנה של דמוקרטיה מעבר לבחירות ולמוסדות ברמה הלאומית.",
   "authorsCardHe": "ישי בלנק, איסי רוזן-צבי, דן לרגמן",
   "paperTitle": "Local democracy as local autonomy",
-  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yblank\" target=\"_blank\" rel=\"noopener noreferrer\">Yishai Blank</a>, <a href=\"https://en-law.tau.ac.il/profile/issirz\" target=\"_blank\" rel=\"noopener noreferrer\">Issi Rosen-Zvi</a>, <a href=\"https://en-law.tau.ac.il/profile/danlargm\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Largman</a>",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yblank\" target=\"_blank\" rel=\"noopener noreferrer\">Yishai Blank</a>; <a href=\"https://en-law.tau.ac.il/profile/issirz\" target=\"_blank\" rel=\"noopener noreferrer\">Issi Rosen-Zvi</a>; <a href=\"https://en-law.tau.ac.il/profile/danlargm\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Largman</a>",
   "journal": "Theoretical Inquiries in Law",
   "dateText": "גיליון: 2025; פורסם בכרך 26, גיליון 2",
   "doiUrl": "https://doi.org/10.1515/til-2025-0022",
@@ -66,8 +66,8 @@
     "altHe": "איור על התארגנות מקומית, מוסדות עירוניים וחברה אזרחית במרחב דמוקרטי"
   },
   "datePublished": "2026-05-17",
-  "dateModified": "2026-05-17",
-  "lastUpdatedHe": "17 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: ישי בלנק, איסי רוזן-צבי ודן לרגמן טוענים שדמוקרטיה מקומית אינה רק גרסה מוקטנת של הדמוקרטיה הלאומית. המאמר מראה שאוטונומיה מקומית, התנגדות מקומית למדיניות לאומית ודיון מקומי בגבולות הליברליזם הם חלק ממשי מן החיים הדמוקרטיים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מזכיר שחינוך לדמוקרטיה אינו רק לימוד מוסדות, אלא תהליך של טיפוח סובלנות, זכויות, ביקורתיות והכרה בלגיטימיות של האחר.",
   "authorsCardHe": "ערן הלפרין ודניאל בר-טל",
   "paperTitle": "Democratic Values and Education for Democracy in the State of Israel",
-  "authorsHtml": "Eran Halperin; Daniel Bar-Tal",
+  "authorsHtml": "<a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>; <a href=\"https://english.tau.ac.il/profile/daniel\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Bar-Tal</a>",
   "journal": "Democracy and Security",
   "dateText": "כרך 2(2), דצמבר 2006, עמ׳ 169-200",
   "doiUrl": "https://doi.org/10.1080/17419160600954441",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "ערן הלפרין"
+      "name": "ערן הלפרין",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     },
     {
       "@type": "Person",
-      "name": "דניאל בר-טל"
+      "name": "דניאל בר-טל",
+      "url": "https://english.tau.ac.il/profile/daniel"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eran Halperin"
+      "name": "Eran Halperin",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     },
     {
       "@type": "Person",
-      "name": "Daniel Bar-Tal"
+      "name": "Daniel Bar-Tal",
+      "url": "https://english.tau.ac.il/profile/daniel"
     }
   ],
   "topics": [

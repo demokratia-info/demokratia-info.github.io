@@ -10,7 +10,7 @@
   "summaryHe": "מדעני מדינה בזמן משבר דמוקרטי נעים בין מומחיות ציבורית, חינוך לדמוקרטיה, חשש מזיהוי מפלגתי וניסיון להשפיע דרך תקשורת.",
   "authorsCardHe": "מיכל נויבאואר-שני ואלי פרידמן",
   "paperTitle": "‘Speaking truth to power'? Political scientists’ mediated engagement within the context of democratic backsliding",
-  "authorsHtml": "Michal Neubauer-Shani; Elie Friedman",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/michal-neubauer-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Neubauer-Shani</a>; <a href=\"https://www.aac.ac.il/en/staff/dr-elie-friedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Elie Friedman</a>",
   "journal": "Political Research Exchange",
   "dateText": "פורסם: 16 במרץ 2025; כרך 7(1), מאמר 2476408",
   "doiUrl": "https://doi.org/10.1080/2474736X.2025.2476408",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "מיכל נויבאואר-שני"
+      "name": "מיכל נויבאואר-שני",
+      "url": "https://ric.org.il/researcher/michal-neubauer-shani/"
     },
     {
       "@type": "Person",
-      "name": "אלי פרידמן"
+      "name": "אלי פרידמן",
+      "url": "https://www.aac.ac.il/en/staff/dr-elie-friedman/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Michal Neubauer-Shani"
+      "name": "Michal Neubauer-Shani",
+      "url": "https://ric.org.il/researcher/michal-neubauer-shani/"
     },
     {
       "@type": "Person",
-      "name": "Elie Friedman"
+      "name": "Elie Friedman",
+      "url": "https://www.aac.ac.il/en/staff/dr-elie-friedman/"
     }
   ],
   "topics": [

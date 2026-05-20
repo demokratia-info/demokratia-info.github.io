@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מזהיר שמדיניות שנועדה להגן מפני פגיעה יכולה, בתנאים מסוימים, להחליש את התרבות החוקתית שמגינה על חופש הביטוי.",
   "authorsCardHe": "ברק מדינה",
   "paperTitle": "Unintended consequences of prohibiting advocacy of hatred and regulating campaign finance: The weakening status of freedom of speech in Israel",
-  "authorsHtml": "Barak Medina",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>",
   "journal": "International Journal of Constitutional Law",
   "dateText": "כרך 18(3), 2020, עמ׳ 804-820; פורסם ב-31 בדצמבר 2020",
   "doiUrl": "https://doi.org/10.1093/icon/moaa056",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "ברק מדינה"
+      "name": "ברק מדינה",
+      "url": "https://en.law.huji.ac.il/people/barak-medina"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Barak Medina"
+      "name": "Barak Medina",
+      "url": "https://en.law.huji.ac.il/people/barak-medina"
     }
   ],
   "topics": [

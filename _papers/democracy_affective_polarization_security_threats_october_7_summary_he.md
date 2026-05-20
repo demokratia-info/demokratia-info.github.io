@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני.",
   "authorsCardHe": "עומר יאיר, יאיר אמיטל, אמנון כוורי, אסיף אפרת ונעם גדרון",
   "paperTitle": "The Persistence of Affective Polarization in Times of Security Threats: Evidence from Post-October 7 Israel",
-  "authorsHtml": "Omer Yair; Yair Amital; Amnon Cavari; Asif Efrat; Noam Gidron",
+  "authorsHtml": "<a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>; Yair Amital; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",
   "journal": "SSRN / Elsevier posted content",
   "dateText": "טיוטת מחקר/posted content, 2026",
   "doiUrl": "https://doi.org/10.2139/ssrn.6441339",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "עומר יאיר"
+      "name": "עומר יאיר",
+      "url": "https://omeryair.com/"
     },
     {
       "@type": "Person",
@@ -26,21 +27,25 @@
     },
     {
       "@type": "Person",
-      "name": "אמנון כוורי"
+      "name": "אמנון כוורי",
+      "url": "https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html"
     },
     {
       "@type": "Person",
-      "name": "אסיף אפרת"
+      "name": "אסיף אפרת",
+      "url": "https://www.runi.ac.il/en/faculty/asif-efrat/"
     },
     {
       "@type": "Person",
-      "name": "נעם גדרון"
+      "name": "נעם גדרון",
+      "url": "https://noamgidron.com/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Omer Yair"
+      "name": "Omer Yair",
+      "url": "https://omeryair.com/"
     },
     {
       "@type": "Person",
@@ -48,15 +53,18 @@
     },
     {
       "@type": "Person",
-      "name": "Amnon Cavari"
+      "name": "Amnon Cavari",
+      "url": "https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html"
     },
     {
       "@type": "Person",
-      "name": "Asif Efrat"
+      "name": "Asif Efrat",
+      "url": "https://www.runi.ac.il/en/faculty/asif-efrat/"
     },
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     }
   ],
   "topics": [

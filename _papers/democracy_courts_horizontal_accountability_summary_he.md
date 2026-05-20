@@ -10,7 +10,7 @@
   "summaryHe": "איך ביקורת שיפוטית יכולה לשמור על אחריות שלטונית גם כאשר הדמוקרטיה אינה מלאה.",
   "authorsCardHe": "מעוז רוזנטל, אסף מידני",
   "paperTitle": "Courts and Horizontal Accountability in Hybrid Regimes: Judicial Review and the Quality of Democracy",
-  "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>, <a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",
+  "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>; <a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",
   "journal": "Political Research Quarterly",
   "dateText": "פורסם אונליין: 11 בספטמבר 2025; גיליון: מרץ 2026",
   "doiUrl": "https://doi.org/10.1177/10659129251370610",
@@ -57,8 +57,8 @@
     "altHe": "איור על בית משפט, זכויות אדם ושלטון החוק בהקשר של אחריות שלטונית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המחקר קובע שבית משפט יכול להיות מנגנון אחריות חשוב במשטר היברידי, אבל הוא אינו פועל בחלל ריק. לפי מעוז רוזנטל ממכללת ירושלים הרב-תחומית ואסף מידני מהמכללה האקדמית תל אביב-יפו, פסיקות בג״ץ בענייני השטחים מלמדות שביקורת שיפוטית מושפעת גם מאילוצים אסטרטגיים, ולכן הגנה על שלטון החוק דורשת יותר מעצם קיומו של בית משפט חזק.",
   "sections": [
     {

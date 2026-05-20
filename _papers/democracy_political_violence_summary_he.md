@@ -10,7 +10,7 @@
   "summaryHe": "איך שחיקה במוסדות דמוקרטיים משפיעה על הצדקת אלימות פוליטית.",
   "authorsCardHe": "טל שאנן, סיון הירש-הפלר, דפנה קנטי, יוליה אלעד-שטרנגר",
   "paperTitle": "From democratic backsliding to political violence: evidence from Israel",
-  "authorsHtml": "Tal Shaanan, <a href=\"https://www.sivan-hirsch-hoefler.co.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>, <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>, <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
+  "authorsHtml": "Tal Shaanan; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
   "journal": "Democratization",
   "dateText": "פורסם אונליין: 5 בפברואר 2026",
   "doiUrl": "https://doi.org/10.1080/13510347.2026.2615131",
@@ -43,7 +43,8 @@
     },
     {
       "@type": "Person",
-      "name": "Sivan Hirsch-Hoefler"
+      "name": "Sivan Hirsch-Hoefler",
+      "url": "https://www.runi.ac.il/en/faculty/hsivan"
     },
     {
       "@type": "Person",
@@ -51,7 +52,8 @@
     },
     {
       "@type": "Person",
-      "name": "Julia Elad-Strenger"
+      "name": "Julia Elad-Strenger",
+      "url": "https://cris.biu.ac.il/en/persons/julia-elad-strenger/"
     }
   ],
   "topics": [
@@ -70,8 +72,8 @@
     "altHe": "תצוגה מקדימה של התמצית על נסיגה דמוקרטית ואלימות פוליטית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מראה שנסיגה דמוקרטית עלולה להרחיב את מה שאזרחים מוכנים להצדיק מוסרית, גם אם רובם אינם מוכנים לבצע אלימות בעצמם.",
   "sections": [
     {

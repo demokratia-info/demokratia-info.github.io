@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מראה שתמריצים מפלגתיים אינם רק תוצאה של קיטוב רגשי; הם גם מנגנון שמייצר או מפחית אותו.",
   "authorsCardHe": "לוטם בסן-נייגט וחגי מ׳ וייס",
   "paperTitle": "Party Competition and Cooperation Shape Affective Polarization: Evidence from Natural and Survey Experiments in Israel",
-  "authorsHtml": "Lotem Bassan-Nygate; Chagai M. Weiss",
+  "authorsHtml": "<a href=\"https://www.hks.harvard.edu/faculty/lotem-bassan-nygate\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Bassan-Nygate</a>; <a href=\"https://www.chagaiweiss.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Chagai M. Weiss</a>",
   "journal": "Comparative Political Studies",
   "dateText": "כרך 55(2), פברואר 2022, עמ׳ 287-318",
   "doiUrl": "https://doi.org/10.1177/00104140211024283",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "לוטם בסן-נייגט"
+      "name": "לוטם בסן-נייגט",
+      "url": "https://www.hks.harvard.edu/faculty/lotem-bassan-nygate"
     },
     {
       "@type": "Person",
-      "name": "חגי מ׳ וייס"
+      "name": "חגי מ׳ וייס",
+      "url": "https://www.chagaiweiss.com/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Lotem Bassan-Nygate"
+      "name": "Lotem Bassan-Nygate",
+      "url": "https://www.hks.harvard.edu/faculty/lotem-bassan-nygate"
     },
     {
       "@type": "Person",
-      "name": "Chagai M. Weiss"
+      "name": "Chagai M. Weiss",
+      "url": "https://www.chagaiweiss.com/"
     }
   ],
   "topics": [

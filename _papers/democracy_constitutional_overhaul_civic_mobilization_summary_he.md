@@ -10,7 +10,7 @@
   "summaryHe": "איך פערי המחאה סביב הרפורמה המשפטית והמלחמה חושפים גבולות של ליברליזם, זכויות ושוויון בישראל.",
   "authorsCardHe": "אדם שנער",
   "paperTitle": "Constitutional Overhaul, the War in Gaza, and the Puzzle of Civic Mobilization in Israel",
-  "authorsHtml": "Adam Shinar",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>",
   "journal": "German Law Journal",
   "dateText": "פורסם אונליין: 28 באוקטובר 2024; גיליון: פברואר 2025",
   "doiUrl": "https://doi.org/10.1017/glj.2024.37",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "אדם שנער"
+      "name": "אדם שנער",
+      "url": "https://www.runi.ac.il/en/faculty/ashinar"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Adam Shinar"
+      "name": "Adam Shinar",
+      "url": "https://www.runi.ac.il/en/faculty/ashinar"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "altHe": "איור על דיון חוקתי מכליל, זכויות מיעוטים ושלטון החוק בישראל"
   },
   "datePublished": "2026-05-17",
-  "dateModified": "2026-05-17",
-  "lastUpdatedHe": "17 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אדם שנער טוען שהמחאה נגד הרפורמה המשפטית הצליחה להגן זמנית על מוסדות דמוקרטיים, אך לא בהכרח יצרה מחויבות עמוקה ושוויונית לזכויות אדם ולליברליזם. הפער בין ההתגייסות נגד הרפורמה לבין מיעוט המחאה בזמן המלחמה חושף את הדרת האזרחים הערבים ואת גבולות הדמוקרטיה הליברלית בישראל.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "איך פגיעה במוסדות המדינה יכולה להפוך לנסיגה דמוקרטית עמוקה.",
   "authorsCardHe": "דורון נבות, יאיר גולדשמידט",
   "paperTitle": "The deconstruction of the Israeli state",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>, Yair Goldshmidt",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>; Yair Goldshmidt",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 26 בפברואר 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1553516",
@@ -55,8 +55,8 @@
     "altHe": "איור על מוסדות מדינה, שירות ציבורי ושחיקת שלטון החוק"
   },
   "datePublished": "2026-05-15",
-  "dateModified": "2026-05-15",
-  "lastUpdatedHe": "15 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: דורון נבות ויאיר גולדשמידט טוענים שהמשבר הישראלי אינו רק מחלוקת על בית המשפט, אלא תהליך רחב של החלשת יכולת המדינה ומוסדותיה. המאמר מזהיר שכאשר שלטון החוק, המקצועיות הציבורית וההגנות על זכויות נשחקים יחד, הדמוקרטיה הליברלית מאבדת את התשתית שמאפשרת לה לפעול.",
   "sections": [
     {

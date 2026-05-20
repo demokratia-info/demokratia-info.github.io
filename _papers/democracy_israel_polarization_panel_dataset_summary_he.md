@@ -10,7 +10,7 @@
   "summaryHe": "מאגר הפאנל מאפשר לעקוב אחר קיטוב בישראל לאורך משבר פוליטי מתמשך ולא רק לצלם עמדות בנקודת זמן אחת.",
   "authorsCardHe": "נעם גדרון, ליאור שפר וגיא מור",
   "paperTitle": "The Israel Polarization Panel Dataset, 2019–2021",
-  "authorsHtml": "Noam Gidron; Lior Sheffer; Guy Mor",
+  "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>; <a href=\"https://deepstory.huji.ac.il/people/guy-mor\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Mor</a>",
   "journal": "Electoral Studies",
   "dateText": "כרך 80, דצמבר 2022, מאמר 102512",
   "doiUrl": "https://doi.org/10.1016/j.electstud.2022.102512",
@@ -18,29 +18,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "נעם גדרון"
+      "name": "נעם גדרון",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "ליאור שפר"
+      "name": "ליאור שפר",
+      "url": "https://english.tau.ac.il/profile/liorsheffer"
     },
     {
       "@type": "Person",
-      "name": "גיא מור"
+      "name": "גיא מור",
+      "url": "https://deepstory.huji.ac.il/people/guy-mor"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "Lior Sheffer"
+      "name": "Lior Sheffer",
+      "url": "https://english.tau.ac.il/profile/liorsheffer"
     },
     {
       "@type": "Person",
-      "name": "Guy Mor"
+      "name": "Guy Mor",
+      "url": "https://deepstory.huji.ac.il/people/guy-mor"
     }
   ],
   "topics": [

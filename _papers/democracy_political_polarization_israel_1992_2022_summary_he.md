@@ -10,7 +10,7 @@
   "summaryHe": "הפרק מספק מבט היסטורי על קיטוב בישראל ומזכיר שמשבר פוליטי עכשווי נשען על תהליכים ארוכי טווח.",
   "authorsCardHe": "יאיר אמיתי, נעם גדרון ועומר יאיר",
   "paperTitle": "Political Polarization in Israel, 1992–2022",
-  "authorsHtml": "Yair Amitai; Noam Gidron; Omer Yair",
+  "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/yair-amitai\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Amitai</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>",
   "journal": "The Elections in Israel 2022",
   "dateText": "פרק בספר בעריכת Routledge, פורסם ב-17 בינואר 2025, עמ׳ 21-41",
   "doiUrl": "https://doi.org/10.4324/9781032633299-3",
@@ -18,29 +18,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "יאיר אמיתי"
+      "name": "יאיר אמיתי",
+      "url": "https://en.politics.huji.ac.il/people/yair-amitai"
     },
     {
       "@type": "Person",
-      "name": "נעם גדרון"
+      "name": "נעם גדרון",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "עומר יאיר"
+      "name": "עומר יאיר",
+      "url": "https://omeryair.com/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yair Amitai"
+      "name": "Yair Amitai",
+      "url": "https://en.politics.huji.ac.il/people/yair-amitai"
     },
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
-      "name": "Omer Yair"
+      "name": "Omer Yair",
+      "url": "https://omeryair.com/"
     }
   ],
   "topics": [

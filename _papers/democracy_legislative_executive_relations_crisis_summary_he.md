@@ -10,7 +10,7 @@
   "summaryHe": "איך שינוי ביחסי הכנסת והממשלה יכול להעמיק משבר חוקתי ולשחוק בלמים דמוקרטיים.",
   "authorsCardHe": "אסנת עקירב",
   "paperTitle": "Legislative-Executive Relations in Israel: Constitutional Crisis 2023-2024",
-  "authorsHtml": "Osnat Akirav",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",
   "journal": "PS: Political Science & Politics",
   "dateText": "פורסם אונליין: 31 בינואר 2025; גיליון: ינואר 2025",
   "doiUrl": "https://doi.org/10.1017/S1049096524000532",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "אסנת עקירב"
+      "name": "אסנת עקירב",
+      "url": "https://ric.org.il/researcher/osnat-akirav/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Osnat Akirav"
+      "name": "Osnat Akirav",
+      "url": "https://ric.org.il/researcher/osnat-akirav/"
     }
   ],
   "topics": [
@@ -45,8 +47,8 @@
     "altHe": "איור על שינוי יחסי כוח בין מוסדות שלטון, כנסת, ממשלה ובית משפט"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מראה שבין 2019 ל-2024 עבר בישראל כוח פוליטי מן הכנסת אל הממשלה, במיוחד סביב משברים אישיים, ביטחוניים וקואליציוניים. לפי אסנת עקירב מהמכללה האקדמית גליל מערבי, היחלשות הכנסת הפכה את בית המשפט העליון לאחד המוסדות היחידים שיכולים עדיין להגביל באופן משמעותי את הכוח הביצועי.",
   "sections": [
     {

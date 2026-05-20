@@ -10,7 +10,7 @@
   "summaryHe": "מתי שינוי בבית המשפט פוגע בליבה הדמוקרטית של זכויות ואיזונים.",
   "authorsCardHe": "יניב רוזנאי, רוזלינד דיקסון, דייוויד א' לנדאו",
   "paperTitle": "Judicial Reform or Abusive Constitutionalism in Israel",
-  "authorsHtml": "Yaniv Roznai, <a href=\"https://www.unsw.edu.au/staff/rosalind-dixon\" target=\"_blank\" rel=\"noopener noreferrer\">Rosalind Dixon</a>, <a href=\"https://law.fsu.edu/faculty-staff/david-landau\" target=\"_blank\" rel=\"noopener noreferrer\">David E. Landau</a>",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://www.unsw.edu.au/staff/rosalind-dixon\" target=\"_blank\" rel=\"noopener noreferrer\">Rosalind Dixon</a>; <a href=\"https://law.fsu.edu/faculty-staff/david-landau\" target=\"_blank\" rel=\"noopener noreferrer\">David E Landau</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם אונליין: 26 באוקטובר 2023; גיליון: נובמבר 2023",
   "doiUrl": "https://doi.org/10.1017/S0021223723000171",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "יניב רוזנאי"
+      "name": "יניב רוזנאי",
+      "url": "https://www.runi.ac.il/en/faculty/yroznai"
     },
     {
       "@type": "Person",
@@ -34,7 +35,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yaniv Roznai"
+      "name": "Yaniv Roznai",
+      "url": "https://www.runi.ac.il/en/faculty/yroznai"
     },
     {
       "@type": "Person",
@@ -65,8 +67,8 @@
     "altHe": "איור על חוקתיות מנוצלת לרעה, בית משפט ואיזונים ובלמים"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר קובע ששינוי בכוחו ובעצמאותו של בית המשפט צריך להיבחן לפי השפעתו המצטברת על הליבה הדמוקרטית, ולא רק לפי השוואה טכנית למדינות אחרות. לפי יניב רוזנאי, רוזלינד דיקסון ודייוויד א' לנדאו, הרפורמה המשפטית בישראל עלולה להיות שינוי חוקתי מנוצל לרעה משום שהיא מחלישה את האיזונים והבלמים שמגנים על בחירות חופשיות, זכויות פוליטיות ושלטון החוק.",
   "sections": [
     {

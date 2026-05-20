@@ -10,7 +10,7 @@
   "summaryHe": "איך עמדות ציבוריות כלפי עמותות יכולות לאפשר או לבלום פגיעה במרחב הדמוקרטי.",
   "authorsCardHe": "אסיף אפרת, עומר יאיר",
   "paperTitle": "Foreign Agents? Public Attitudes Toward Nongovernmental Organizations in a Backsliding Democracy",
-  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>, Omer Yair",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>",
   "journal": "Political Studies",
   "dateText": "פורסם אונליין: 8 במרץ 2024; גיליון: 2025",
   "doiUrl": "https://doi.org/10.1177/00323217241232933",
@@ -23,17 +23,20 @@
     },
     {
       "@type": "Person",
-      "name": "עומר יאיר"
+      "name": "עומר יאיר",
+      "url": "https://omeryair.com/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Asif Efrat"
+      "name": "Asif Efrat",
+      "url": "https://www.runi.ac.il/en/faculty/asif-efrat/"
     },
     {
       "@type": "Person",
-      "name": "Omer Yair"
+      "name": "Omer Yair",
+      "url": "https://omeryair.com/"
     }
   ],
   "topics": [
@@ -53,8 +56,8 @@
     "altHe": "איור על חברה אזרחית ונסיגה דמוקרטית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מראה כיצד עמדות ציבוריות כלפי ארגוני חברה אזרחית יכולות לאפשר, או לבלום, ניסיונות לפגוע במרחב הדמוקרטי.",
   "sections": [
     {

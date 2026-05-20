@@ -10,7 +10,7 @@
   "summaryHe": "מחקר על מחאת 2023 נגד הרפורמה המשפטית ועל האופן שבו פעולות שיבוש לא-אלימות השפיעו על תמיכה וגיוס.",
   "authorsCardHe": "אריק שומן, נועה כהן-אייק, אריק נולס, עירן הלפרין",
   "paperTitle": "Evidence for the Effectiveness of Large-Scale Disruptive Protests in the Context of Democratic Backsliding",
-  "authorsHtml": "Eric Shuman, Noa Cohen-Eick, Eric Knowles, <a href=\"https://www.eranhalperin.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
+  "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>; Noa Cohen-Eick; <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
   "journal": "Social Psychological and Personality Science",
   "dateText": "פורסם אונליין: 26 בדצמבר 2025",
   "doiUrl": "https://doi.org/10.1177/19485506251405315",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "אריק שומן"
+      "name": "אריק שומן",
+      "url": "https://psychology.as.virginia.edu/people/eric-shuman"
     },
     {
       "@type": "Person",
@@ -26,7 +27,8 @@
     },
     {
       "@type": "Person",
-      "name": "אריק נולס"
+      "name": "אריק נולס",
+      "url": "https://wp.nyu.edu/knowleslab/people/"
     },
     {
       "@type": "Person",
@@ -37,7 +39,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eric Shuman"
+      "name": "Eric Shuman",
+      "url": "https://psychology.as.virginia.edu/people/eric-shuman"
     },
     {
       "@type": "Person",
@@ -45,11 +48,13 @@
     },
     {
       "@type": "Person",
-      "name": "Eric Knowles"
+      "name": "Eric Knowles",
+      "url": "https://wp.nyu.edu/knowleslab/people/"
     },
     {
       "@type": "Person",
-      "name": "Eran Halperin"
+      "name": "Eran Halperin",
+      "url": "https://en.psychology.huji.ac.il/people/eran-halperin-0"
     }
   ],
   "topics": [
@@ -69,8 +74,8 @@
     "altHe": "איור על מחאה אזרחית מול שחיקה מוסדית ונסיגה דמוקרטית"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-05-19",
-  "lastUpdatedHe": "19 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המחקר מציע שמחאה לא-אלימה אך משבשת יכולה, בתנאים מסוימים, גם לגייס תומכים וגם לרכך התנגדות חלשה למחאה.",
   "sections": [
     {

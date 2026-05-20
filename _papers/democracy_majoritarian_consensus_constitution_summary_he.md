@@ -10,7 +10,7 @@
   "summaryHe": "איך שילוב של שיטת מפלגות, חוקה לא משוריינת ובית משפט חזק יצר משבר רובני בתוך דמוקרטיית הסכמה.",
   "authorsCardHe": "יוחנן ד' מוסל, מתיו שוגרט",
   "paperTitle": "Majoritarian politics in a consensus democracy: how judicialization of politics helped lay bare the contradictions of Israel's constitution",
-  "authorsHtml": "Johanan D. Mussel, <a href=\"https://ps.ucdavis.edu/people/matthew-shugart\" target=\"_blank\" rel=\"noopener noreferrer\">Matthew Shugart</a>",
+  "authorsHtml": "<a href=\"https://polisci.ucdavis.edu/people/johanan-mussel\" target=\"_blank\" rel=\"noopener noreferrer\">Johanan D. Mussel</a>; <a href=\"https://ps.ucdavis.edu/people/matthew-shugart\" target=\"_blank\" rel=\"noopener noreferrer\">Matthew Shugart</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 4 באפריל 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1554064",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "יוחנן ד' מוסל"
+      "name": "יוחנן ד' מוסל",
+      "url": "https://polisci.ucdavis.edu/people/johanan-mussel"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Johanan D. Mussel"
+      "name": "Johanan D. Mussel",
+      "url": "https://polisci.ucdavis.edu/people/johanan-mussel"
     },
     {
       "@type": "Person",
@@ -57,8 +59,8 @@
     "altHe": "איור על סיווג משטר, דמוקרטיית הסכמה ומשבר רובני בישראל"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-05-19",
-  "lastUpdatedHe": "19 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: יוחנן ד' מוסל ומתיו שוגרט מסבירים שהמשבר סביב הרפורמה המשפטית חשף סתירה עמוקה במבנה החוקתי של ישראל. מצד אחד, שיטת הבחירות היחסית והפוליטיקה הקואליציונית אמורות לעודד הסכמה; מצד אחר, חוקה לא משוריינת וקיטוב גושי מאפשרים לרוב קואליציוני צר לנסות לשנות במהירות את כללי המשחק.",
   "sections": [
     {

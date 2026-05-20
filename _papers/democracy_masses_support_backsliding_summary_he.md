@@ -10,7 +10,7 @@
   "summaryHe": "מחקר על התנאים שבהם אזרחים רגילים מוכנים לתמוך בפגיעה בכללי הדמוקרטיה.",
   "authorsCardHe": "נעם גדרון, יותם מרגלית, ליאור שפר, איתמר יקיר",
   "paperTitle": "Why Masses Support Democratic Backsliding",
-  "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://www.ymargalit.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>, <a href=\"https://sites.google.com/view/itamaryakir/home\" target=\"_blank\" rel=\"noopener noreferrer\">Itamar Yakir</a>",
+  "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://www.ymargalit.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>; <a href=\"https://sites.google.com/view/itamaryakir/home\" target=\"_blank\" rel=\"noopener noreferrer\">Itamar Yakir</a>",
   "journal": "American Journal of Political Science",
   "dateText": "2025",
   "doiUrl": "https://doi.org/10.1111/ajps.12958",
@@ -40,7 +40,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Noam Gidron"
+      "name": "Noam Gidron",
+      "url": "https://noamgidron.com/"
     },
     {
       "@type": "Person",
@@ -48,7 +49,8 @@
     },
     {
       "@type": "Person",
-      "name": "Lior Sheffer"
+      "name": "Lior Sheffer",
+      "url": "https://english.tau.ac.il/profile/liorsheffer"
     },
     {
       "@type": "Person",
@@ -71,8 +73,8 @@
     "altHe": "איור על תמיכה ציבורית בנסיגה דמוקרטית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר שואל מתי אזרחים מן השורה מוכנים לתמוך בצעדים שפוגעים בדמוקרטיה, ומראה שהתשובה קשורה לא רק לאידיאולוגיה אלא גם לזהות מחנאית, פחד ואמון נמוך בצד השני.",
   "sections": [
     {

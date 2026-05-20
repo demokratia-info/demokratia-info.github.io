@@ -10,7 +10,7 @@
   "summaryHe": "איך התחזקות הביקורת השיפוטית לוותה בהתנגדות פוליטית, פופוליזם ושחיקת זכויות.",
   "authorsCardHe": "אדם שנער, ברק מדינה, גילה שטופלר",
   "paperTitle": "From promise to retrenchment: On the changing landscape of Israeli constitutionalism",
-  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>, <a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>, <a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>; <a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>; <a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",
   "journal": "International Journal of Constitutional Law",
   "dateText": "פורסם: 25 באוגוסט 2020; גיליון: אוקטובר 2020",
   "doiUrl": "https://doi.org/10.1093/icon/moaa058",
@@ -67,8 +67,8 @@
     "altHe": "איור על רפורמה חוקתית והגדה המערבית"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הממצא המרכזי של אדם שנער מאוניברסיטת רייכמן, ברק מדינה מן האוניברסיטה העברית וגילה שטופלר מן המרכז האקדמי למשפט ולעסקים הוא שהחוקתיות הישראלית עברה מהבטחה להעמקת זכויות אל שלב של נסיגה והתגוננות. התחזקות בית המשפט לוותה בהתנגדות פוליטית, בפופוליזם ובשחיקה בזכויות פרט ומיעוט.",
   "sections": [
     {

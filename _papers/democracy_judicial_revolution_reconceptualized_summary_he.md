@@ -10,7 +10,7 @@
   "summaryHe": "איך קריאה מחדש של מהפכת שנות התשעים משנה את ההבנה של המשבר החוקתי הנוכחי.",
   "authorsCardHe": "אודי זומר, רייצ'ל קולסון, נתניאל שמידט",
   "paperTitle": "Reconceptualizing the 1990s judicial revolution in Israel and its implications for 2023–25",
-  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>, Rachel Colson, Nathaniel Schmidt",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>; Rachel Colson; Nathaniel Schmidt",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 13 במרץ 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1535824",
@@ -62,8 +62,8 @@
     "altHe": "איור על בית משפט, איזונים ובלמים והוויכוח על מהפכה משפטית"
   },
   "datePublished": "2026-05-15",
-  "dateModified": "2026-05-15",
-  "lastUpdatedHe": "15 במאי 2026",
+  "dateModified": "2026-05-20",
+  "lastUpdatedHe": "20 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אודי זומר, רייצ'ל קולסון ונתניאל שמידט טוענים שרפורמת 2023 אינה מובנת היטב אם מציגים אותה רק כתיקון טכני למהפכת השפיטה של שנות התשעים. המאמר מראה שהשאלה המרכזית היא מאבק עמוק יותר על זהותה הדמוקרטית והליברלית של ישראל ועל מעמדם של בתי המשפט כמנגנון של איזונים ובלמים.",
   "sections": [
     {

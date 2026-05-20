@@ -10,7 +10,7 @@
   "summaryHe": "לימודי אזרחות הם זירת מאבק על משמעות הדמוקרטיה בישראל ועל תפקידם הציבורי של מדעני מדינה.",
   "authorsCardHe": "מיכל נויבאואר-שני",
   "paperTitle": "Tackling the challenge of liberal democracy in Israel: the role of political scientists in the civic studies debate",
-  "authorsHtml": "Michal Neubauer-Shani",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/michal-neubauer-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Neubauer-Shani</a>",
   "journal": "European Political Science",
   "dateText": "גיליון: מרץ 2022; כרך 21(1), עמ׳ 115-131",
   "doiUrl": "https://doi.org/10.1057/s41304-021-00336-8",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "מיכל נויבאואר-שני"
+      "name": "מיכל נויבאואר-שני",
+      "url": "https://ric.org.il/researcher/michal-neubauer-shani/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Michal Neubauer-Shani"
+      "name": "Michal Neubauer-Shani",
+      "url": "https://ric.org.il/researcher/michal-neubauer-shani/"
     }
   ],
   "topics": [
