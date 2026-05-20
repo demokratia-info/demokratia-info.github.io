@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "baseUrl": "https://tal69.github.io/hebrew-democracy-info/",
+  "baseUrl": "https://demokratia-info.github.io/",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeTitleHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeDescriptionHe": "תמציות מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
@@ -8,7 +8,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-20",
-  "cacheVersion": "2026-05-20-nightly-1",
+  "cacheVersion": "2026-05-20-migration-1",
   "newBadgeDays": 3,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
   "suggestPaperDailyLimit": 2,

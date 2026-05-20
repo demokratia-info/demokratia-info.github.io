@@ -1,7 +1,7 @@
 title: "הנגשת מידע בנושאי דמוקרטיה"
 description: "תמציות מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק."
-url: "https://tal69.github.io"
-baseurl: "/hebrew-democracy-info"
+url: "https://demokratia-info.github.io"
+baseurl: ""
 lang: he
 direction: rtl
 timezone: Asia/Jerusalem
