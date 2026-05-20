@@ -10,7 +10,7 @@ const QUEUE_HEADER = [
   "notes"
 ];
 
-const DEFAULT_ALLOWED_ORIGINS = "https://tal69.github.io";
+const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 
 export default {
@@ -172,8 +172,8 @@ function githubConfig(env) {
   const token = env.GITHUB_TOKEN;
   if (!token) throw new Error("Missing GITHUB_TOKEN worker secret.");
   return {
-    owner: env.GITHUB_OWNER || "tal69",
-    repo: env.GITHUB_REPO || "hebrew-democracy-info",
+    owner: env.GITHUB_OWNER || "demokratia-info",
+    repo: env.GITHUB_REPO || "democracy-paper-suggestions-private",
     branch: env.GITHUB_BRANCH || "main",
     path: env.QUEUE_PATH || "suggest_queue.csv",
     token

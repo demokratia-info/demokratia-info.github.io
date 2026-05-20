@@ -3,8 +3,8 @@ main = "suggest-paper-worker.js"
 compatibility_date = "2026-05-19"
 
 [vars]
-GITHUB_OWNER = "tal69"
-GITHUB_REPO = "hebrew-democracy-info"
+GITHUB_OWNER = "demokratia-info"
+GITHUB_REPO = "democracy-paper-suggestions-private"
 GITHUB_BRANCH = "main"
 QUEUE_PATH = "suggest_queue.csv"
-ALLOWED_ORIGINS = "https://tal69.github.io"
+ALLOWED_ORIGINS = "https://demokratia-info.github.io"

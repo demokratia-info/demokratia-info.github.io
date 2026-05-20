@@ -4,9 +4,9 @@ Prepared on 2026-05-17 for continuing this project from another OpenAI Codex acc
 
 ## Project Snapshot
 
-- GitHub repo: `https://github.com/tal69/hebrew-democracy-info.git`
+- GitHub repo: `https://github.com/demokratia-info/demokratia-info.github.io.git`
 - Branch: `main`
-- Live site: `https://tal69.github.io/hebrew-democracy-info/`
+- Live site: `https://demokratia-info.github.io/`
 - Source directory on this machine: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`
 - Content source commit at handoff start: `2224e881af3e`
 - Current content count: 36 paper summaries, 5 topics.
@@ -26,7 +26,7 @@ The site is right-to-left Hebrew, uses shared Jekyll layouts, includes Pagefind 
 - `AGENTS.md` - short instructions for future Codex agents.
 - `Authors.MD` - optional preferred-author list for nightly scans.
 - `paper_queue.csv` - editable queue of upcoming nightly papers; nightly automation consumes the first 3 rows and removes them after adding those papers.
-- `suggest_queue.csv` - visitor suggestion queue populated by the paper suggestion endpoint; nightly automation reviews at most the first pending row and removes the processed row whether accepted or rejected.
+- `suggest_queue.csv` - header-only public placeholder. The real visitor suggestion queue is private at `demokratia-info/democracy-paper-suggestions-private`.
 - `_papers/*.md` - one paper summary per Markdown/front matter file.
 - `_data/site.json` - site-level settings, including `homepageLatestCount`, `topicPageSize`, `lastUpdated`, image-version labels, and the standard disclaimer.
 - `_data/topics.json` - topic taxonomy. Paper membership is read from each paper file's `topics` list.
@@ -39,7 +39,7 @@ The site is right-to-left Hebrew, uses shared Jekyll layouts, includes Pagefind 
 - `assets/topic-icons/` - topic icons.
 - `html_qa/` - paper graphics, currently expected to be 800x600 landscape JPEGs.
 - `image_catalog.json` - internal metadata for image reuse and homepage-image avoidance.
-- `workers/suggest-paper-worker.js` - Cloudflare Worker reference endpoint for receiving public suggestions and appending to `suggest_queue.csv`.
+- `workers/suggest-paper-worker.js` - Cloudflare Worker reference endpoint for receiving public suggestions and appending to the private suggestion queue.
 - `scripts/validate_sources.py` - main validator and paper-index generator.
 - `.github/workflows/pages.yml` - GitHub Pages build and deploy workflow.
 - `todo.md` - user-maintained project task list; track and commit changes.
@@ -61,7 +61,7 @@ Useful commands:
 ```sh
 git status --short --branch
 python3 scripts/validate_sources.py
-gh run list --repo tal69/hebrew-democracy-info --workflow pages.yml --limit 5
+gh run list --repo demokratia-info/demokratia-info.github.io --workflow pages.yml --limit 5
 ```
 
 Local Jekyll may fail on this machine if Ruby/Bundler is not configured. Do not block normal work on local Jekyll if source validation passes and the GitHub Actions workflow succeeds.
@@ -70,10 +70,10 @@ Local Jekyll may fail on this machine if Ruby/Bundler is not configured. Do not 
 
 Use this sequence for manual or automated paper additions:
 
-1. Read `README.md`, `suggest_queue.csv`, `paper_queue.csv`, `Authors.MD`, `_data/paper_index.json`, `_data/topics.json`, `_data/site.json`, and `image_catalog.json`.
-2. For nightly runs, review at most the first pending row of `suggest_queue.csv` first. Accept it only if it fits the site criteria and liberal-democratic spirit and is not a duplicate; remove the processed suggestion row whether accepted or rejected.
+1. Read `README.md`, the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, public `paper_queue.csv`, `Authors.MD`, `_data/paper_index.json`, `_data/topics.json`, `_data/site.json`, and `image_catalog.json`.
+2. For nightly runs, review at most the first pending row of the private `suggest_queue.csv` first. Accept it only if it fits the site criteria and liberal-democratic spirit and is not a duplicate; remove the processed suggestion row from the private queue whether accepted or rejected.
 3. Fill the remaining normal 3-paper nightly batch from the first rows of `paper_queue.csv`; only search for a new 30-paper queue when fewer than the needed curated rows are available at the start.
-4. Check `_data/paper_index.json`, `paper_queue.csv`, and `suggest_queue.csv` for duplicate DOI, slug, title, author, and theme.
+4. Check `_data/paper_index.json`, `paper_queue.csv`, and the private `suggest_queue.csv` for duplicate DOI, slug, title, author, and theme.
 5. Add a new `_papers/*.md` file with JSON front matter between `---` markers.
 6. Give new papers larger numeric `sortKey` values than existing records, usually `YYYYMMDD0001`, `YYYYMMDD0002`, etc. The index sorts descending by `sortKey`.
 7. Assign one or more existing topic IDs from `_data/topics.json`.
@@ -81,7 +81,7 @@ Use this sequence for manual or automated paper additions:
 9. Make external paper and author links open in a new tab with `target="_blank"` and `rel="noopener noreferrer"` in stored HTML fields.
 10. Add or reuse an 800x600 landscape JPEG in `html_qa/`.
 11. Update `image_catalog.json`.
-12. Remove consumed rows from `suggest_queue.csv` and/or `paper_queue.csv`.
+12. Remove consumed rows from the private `suggest_queue.csv` and/or public `paper_queue.csv`.
 13. Bump `_data/site.json` `lastUpdated` and `cacheVersion` so returning browsers refresh after deploy. Set `datePublished` only when the page is created; use `dateModified`/`lastUpdatedHe` for later edits. `newBadgeDays` controls how long `חדש!` appears after `datePublished`.
 14. Run `python3 scripts/validate_sources.py --write-index`.
 15. Run `python3 scripts/validate_sources.py`.
@@ -164,19 +164,19 @@ The automation has since been redesigned to consume `paper_queue.csv` before doi
 ## New Account Setup Checklist
 
 1. Sign in to the new OpenAI Codex account.
-2. Ensure the GitHub account or connector has access to `tal69/hebrew-democracy-info`.
+2. Ensure the GitHub account or connector has access to `demokratia-info/demokratia-info.github.io` and the private suggestion queue `demokratia-info/democracy-paper-suggestions-private`.
 3. Clone the repo or open the local folder:
 
 ```sh
-git clone https://github.com/tal69/hebrew-democracy-info.git
-cd hebrew-democracy-info
+git clone https://github.com/demokratia-info/demokratia-info.github.io.git
+cd demokratia-info.github.io
 ```
 
 4. Check GitHub CLI/auth if local push and workflow monitoring are needed:
 
 ```sh
 gh auth status
-gh repo view tal69/hebrew-democracy-info
+gh repo view demokratia-info/demokratia-info.github.io
 ```
 
 5. Validate source:
@@ -191,7 +191,7 @@ python3 scripts/validate_sources.py
 ```sh
 git status --short --branch
 python3 scripts/validate_sources.py
-gh run list --repo tal69/hebrew-democracy-info --workflow pages.yml --limit 5
+gh run list --repo demokratia-info/demokratia-info.github.io --workflow pages.yml --limit 5
 ```
 
 ## Known Caveats
