@@ -9,7 +9,7 @@ For transferring this project to another Codex/OpenAI account, start with `OPENA
 The repository source is now Jekyll content, not hand-edited generated HTML:
 
 - `_papers/*.md` - one Markdown/front-matter source file per paper summary.
-- `Authors.MD` - optional preferred-author list for the nightly scan. Add author names, affiliations, public email addresses, ORCIDs, official profile URLs, or search notes there when new publications by specific researchers should be prioritized.
+- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` - optional preferred and blocked author list for the nightly scan. It is private because it may contain sensitive editorial preferences or contact details.
 - `paper_queue.csv` - editable nightly queue of upcoming papers. It uses `paper_name,authors,doi,topic` columns; the nightly automation consumes the first needed rows to reach 10 new papers total and removes them after the corresponding paper pages are added.
 - `suggest_queue.csv` - header-only public placeholder for compatibility. The operational visitor suggestion queue lives in the private repository `demokratia-info/democracy-paper-suggestions-private` because it contains names and email addresses.
 - `_data/site.json` - site-level settings.
@@ -23,9 +23,9 @@ The repository source is now Jekyll content, not hand-edited generated HTML:
 - `workers/suggest-paper-worker.js` - optional Cloudflare Worker endpoint that receives public suggestions and appends them to the private `suggest_queue.csv`.
 - `scripts/validate_sources.py` - source validator and paper-index generator.
 
-Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv` and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit and is not a duplicate; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Then use enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch.
+Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, the private `Authors.MD`, and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit, is not a duplicate, and has no source author marked `blocked` in private `Authors.MD`; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Then use enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch.
 
-If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare a fresh 100 relevant non-duplicate queued papers using the same criteria, with `Authors.MD` as a priority signal, before consuming the first needed rows.
+If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare a fresh 100 relevant non-duplicate queued papers using the same criteria, with private `Authors.MD` as a priority and blocklist signal, before consuming the first needed rows. Authors marked `high`, `normal`, or `low` are priority signals only; authors marked `blocked` are hard exclusions for visitor suggestions, current queue rows, and new queue candidates.
 
 After selecting papers, Codex nightly updates should add new papers as `_papers/*.md` files, add or reuse images, update `image_catalog.json`, update the private `suggest_queue.csv` when a suggestion is processed, update public `paper_queue.csv`, bump `_data/site.json` `lastUpdated` and `cacheVersion`, regenerate `_data/paper_index.json`, and then commit/push. Update `_data/topics.json` only when adding or changing a topic. They should not edit generated HTML pages manually.
 
@@ -43,7 +43,7 @@ GitHub Pages cannot write to CSV files or enforce IP/source limits by itself. Th
 
 The Worker enforces the two-suggestions-per-source-per-Israel-calendar-day limit and writes accepted submissions to the private repository's `suggest_queue.csv`. It stores a daily salted hash of the source IP rather than the raw IP address. When a mail server is available, add email verification before the Worker writes a row or before the nightly automation accepts a suggested paper.
 
-Because the real `suggest_queue.csv` contains names and emails, it must stay in `demokratia-info/democracy-paper-suggestions-private` or another private store. Do not commit visitor-submitted rows to this public website repository.
+Because the real `suggest_queue.csv` and private `Authors.MD` may contain sensitive information, they must stay in `demokratia-info/democracy-paper-suggestions-private` or another private store. Do not commit visitor-submitted rows or the private author policy file to this public website repository.
 
 ## Summary Writing Guidance
 

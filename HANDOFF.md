@@ -27,7 +27,7 @@ The site is right-to-left Hebrew, uses shared Jekyll layouts, includes Pagefind 
 
 - `README.md` - user-facing source workflow and build notes.
 - `AGENTS.md` - short instructions for future Codex agents.
-- `Authors.MD` - optional preferred-author list for nightly scans.
+- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` - optional preferred and blocked author list for nightly scans. It is private and must not be committed to this public repo.
 - `paper_queue.csv` - editable queue of upcoming nightly papers; nightly automation consumes enough first rows to reach 10 new papers total and removes them after adding those papers.
 - `suggest_queue.csv` - header-only public placeholder. The real visitor suggestion queue is private at `demokratia-info/democracy-paper-suggestions-private`.
 - `_papers/*.md` - one paper summary per Markdown/front matter file.
@@ -73,10 +73,10 @@ Local Jekyll may fail on this machine if Ruby/Bundler is not configured. Do not 
 
 Use this sequence for manual or automated paper additions:
 
-1. Read `README.md`, the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, public `paper_queue.csv`, `Authors.MD`, `_data/paper_index.json`, `_data/topics.json`, `_data/site.json`, and `image_catalog.json`.
-2. For nightly runs, review at most the first pending row of the private `suggest_queue.csv` first. Accept it only if it fits the site criteria and liberal-democratic spirit and is not a duplicate; remove the processed suggestion row from the private queue whether accepted or rejected.
-3. Fill the remaining normal 10-paper nightly batch from the first rows of `paper_queue.csv`; rebuild a fresh 100-paper queue when fewer than the needed curated rows are available at the start.
-4. Check `_data/paper_index.json`, `paper_queue.csv`, and the private `suggest_queue.csv` for duplicate DOI, slug, title, author, and theme.
+1. Read `README.md`, the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, private `Authors.MD`, public `paper_queue.csv`, `_data/paper_index.json`, `_data/topics.json`, `_data/site.json`, and `image_catalog.json`.
+2. For nightly runs, review at most the first pending row of the private `suggest_queue.csv` first. Accept it only if it fits the site criteria and liberal-democratic spirit, is not a duplicate, and has no source author marked `blocked`; remove the processed suggestion row from the private queue whether accepted or rejected.
+3. Fill the remaining normal 10-paper nightly batch from the first non-blocked rows of `paper_queue.csv`; remove blocked queue rows without counting them toward the batch, and rebuild a fresh 100-paper queue when fewer than the needed curated rows are available at the start.
+4. Check `_data/paper_index.json`, `paper_queue.csv`, the private `suggest_queue.csv`, and private `Authors.MD` for duplicate DOI, slug, title, author, theme, and blocked-author exclusions.
 5. Add a new `_papers/*.md` file with JSON front matter between `---` markers.
 6. Give new papers larger numeric `sortKey` values than existing records, usually `YYYYMMDD0001`, `YYYYMMDD0002`, etc. The index sorts descending by `sortKey`.
 7. Assign one or more existing topic IDs from `_data/topics.json`.

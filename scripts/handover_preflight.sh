@@ -46,6 +46,17 @@ echo "Private queue line count, including header: $private_queue_lines"
 echo "Private queue contents intentionally not printed."
 
 echo
+echo "== Private author policy =="
+private_authors_lines="$(
+  gh api "repos/$private_repo/contents/Authors.MD" \
+    -H 'Accept: application/vnd.github.raw' \
+    | wc -l \
+    | tr -d ' '
+)"
+echo "Private Authors.MD line count: $private_authors_lines"
+echo "Private author policy contents intentionally not printed."
+
+echo
 echo "== Recent GitHub Pages runs =="
 gh run list --repo "$public_repo" --workflow pages.yml --limit 3
 

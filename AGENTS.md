@@ -6,10 +6,11 @@ This repository is the Jekyll source for the Hebrew democracy summaries site. Do
 
 For paper additions:
 
-- Read `Authors.MD` before searching. Prioritize relevant non-duplicate papers by listed authors, but do not add out-of-scope papers only because the author is listed.
+- Read the private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` before checking suggestions, consuming the public queue, or searching. Prioritize relevant non-duplicate papers by authors marked `high`, `normal`, or `low`, but do not add out-of-scope papers only because the author is listed. Never select, add, summarize, or queue a paper when any source author is marked `blocked`.
 - Use `_data/paper_index.json` as the primary duplicate and ordering index.
 - Nightly updates should review at most the first pending row from the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, first come first served. Accept it only if it fits the site's subject criteria and liberal-democratic spirit and is not a duplicate. Remove the processed suggestion row from the private queue whether accepted or rejected, and do not expose submitter name, email, or IP hash in public files or reports.
 - Nightly updates should then consume enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch. Remove those rows only after adding the papers, and rebuild a fresh 100-paper queue only when the queue has fewer rows than needed at the start.
+- Treat private `Authors.MD` rows with priority `blocked` as hard exclusions for visitor suggestions, existing `paper_queue.csv` rows, and newly discovered queue candidates. If a blocked author appears in a private suggestion, reject and remove that suggestion row. If a blocked author appears in the public queue, remove that queue row and continue to the next candidate without counting it toward the nightly batch.
 - Add one source file per paper under `_papers/`.
 - Use existing topic IDs from `_data/topics.json` unless a durable new topic is really needed.
 - Add or reuse 800x600 landscape JPEG paper images and keep `image_catalog.json` current.
