@@ -10,7 +10,7 @@
   "summaryHe": "איך פגיעה במוסדות המדינה יכולה להפוך לנסיגה דמוקרטית עמוקה.",
   "authorsCardHe": "דורון נבות, יאיר גולדשמידט",
   "paperTitle": "The deconstruction of the Israeli state",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>; Yair Goldshmidt",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>; <a href=\"https://scholar.google.com/citations?user=Aidc494AAAAJ&hl=iw&inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Goldshmidt</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 26 בפברואר 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1553516",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "יאיר גולדשמידט"
+      "name": "יאיר גולדשמידט",
+      "url": "https://scholar.google.com/citations?user=Aidc494AAAAJ&hl=iw&inst=2457744612629960019"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yair Goldshmidt"
+      "name": "Yair Goldshmidt",
+      "url": "https://scholar.google.com/citations?user=Aidc494AAAAJ&hl=iw&inst=2457744612629960019"
     }
   ],
   "topics": [

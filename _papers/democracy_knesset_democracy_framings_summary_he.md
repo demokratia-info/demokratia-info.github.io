@@ -10,7 +10,7 @@
   "summaryHe": "איך תפיסות שונות של דמוקרטיה בכנסת משפיעות על מאבקי זכויות ומוסדות.",
   "authorsCardHe": "יואב ארד, מייקל פרידמן",
   "paperTitle": "The crises of Israeli democracy: political-ideological framings by members of Israel’s 24th Knesset",
-  "authorsHtml": "Yoav Arad; <a href=\"https://cris.haifa.ac.il/en/persons/michael-freedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Freedman</a>",
+  "authorsHtml": "<a href=\"https://scholar.google.com/citations?user=PIEDt4YAAAAJ&hl=en&inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Arad</a>; <a href=\"https://cris.haifa.ac.il/en/persons/michael-freedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Freedman</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 26 בפברואר 2025",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1530752",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "יואב ארד"
+      "name": "יואב ארד",
+      "url": "https://scholar.google.com/citations?user=PIEDt4YAAAAJ&hl=en&inst=2457744612629960019"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yoav Arad"
+      "name": "Yoav Arad",
+      "url": "https://scholar.google.com/citations?user=PIEDt4YAAAAJ&hl=en&inst=2457744612629960019"
     },
     {
       "@type": "Person",

@@ -10,7 +10,7 @@
   "summaryHe": "איך שחיקה במוסדות דמוקרטיים משפיעה על הצדקת אלימות פוליטית.",
   "authorsCardHe": "טל שאנן, סיון הירש-הפלר, דפנה קנטי, יוליה אלעד-שטרנגר",
   "paperTitle": "From democratic backsliding to political violence: evidence from Israel",
-  "authorsHtml": "Tal Shaanan; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
+  "authorsHtml": "<a href=\"https://talshaanan.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Shaanan</a>; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
   "journal": "Democratization",
   "dateText": "פורסם אונליין: 5 בפברואר 2026",
   "doiUrl": "https://doi.org/10.1080/13510347.2026.2615131",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "טל שאנן"
+      "name": "טל שאנן",
+      "url": "https://talshaanan.com/"
     },
     {
       "@type": "Person",
@@ -39,7 +40,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tal Shaanan"
+      "name": "Tal Shaanan",
+      "url": "https://talshaanan.com/"
     },
     {
       "@type": "Person",
@@ -48,7 +50,8 @@
     },
     {
       "@type": "Person",
-      "name": "Daphna Canetti"
+      "name": "Daphna Canetti",
+      "url": "https://cris.haifa.ac.il/en/persons/daphna-canetti/"
     },
     {
       "@type": "Person",

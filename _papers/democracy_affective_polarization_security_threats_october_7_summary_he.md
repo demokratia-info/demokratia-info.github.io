@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני.",
   "authorsCardHe": "עומר יאיר, יאיר אמיטל, אמנון כוורי, אסיף אפרת ונעם גדרון",
   "paperTitle": "The Persistence of Affective Polarization in Times of Security Threats: Evidence from Post-October 7 Israel",
-  "authorsHtml": "<a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>; Yair Amital; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",
+  "authorsHtml": "<a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>; <a href=\"https://en.politics.huji.ac.il/people/yair-amitai\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Amital</a>; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",
   "journal": "SSRN / Elsevier posted content",
   "dateText": "טיוטת מחקר/posted content, 2026",
   "doiUrl": "https://doi.org/10.2139/ssrn.6441339",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "יאיר אמיטל"
+      "name": "יאיר אמיטל",
+      "url": "https://en.politics.huji.ac.il/people/yair-amitai"
     },
     {
       "@type": "Person",
@@ -49,7 +50,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yair Amital"
+      "name": "Yair Amital",
+      "url": "https://en.politics.huji.ac.il/people/yair-amitai"
     },
     {
       "@type": "Person",
