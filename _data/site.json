@@ -7,15 +7,15 @@
   "homeIntroHe": "תמציות מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק",
   "homepageLatestCount": 6,
   "topicPageSize": 50,
-  "lastUpdated": "2026-05-21",
-  "cacheVersion": "2026-05-21-specific-titles",
+  "lastUpdated": "2026-05-22",
+  "cacheVersion": "2026-05-22-nightly-100c",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
   "suggestPaperDailyLimit": 2,
   "suggestPaperRedirectDelayMs": 5000,
   "topicImageVersion": "20260507-topic-icons",
-  "paperImageVersion": "2026-05-21-nightly-100b",
+  "paperImageVersion": "2026-05-22-nightly-100c",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
-  "paperCount": 382
+  "paperCount": 482
 }

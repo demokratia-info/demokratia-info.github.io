@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-21",
+  "lastUpdated": "2026-05-22",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -7404,6 +7404,2761 @@
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Council_Stated_Meeting_2-11-2016_(24356596933).jpg",
       "sourceTitle": "File:Philadelphia City Council Stated Meeting 2-11-2016 (24356596933).jpg",
       "sourceQuery": "city council meeting"
+    },
+    {
+      "file": "html_qa/democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 1,
+      "primaryArticle": "democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he.html",
+      "usedBy": [
+        "democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he.html"
+      ],
+      "cardTitleHe": "חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית",
+      "authorsHe": "Ariel Zellman, Andrea Malji",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Diversionary desecration? Regime instability and societal violence against minority sacred spaces",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osgoode_Hall%2C_courtroom_-2.jpg",
+      "sourceTitle": "File:Osgoode Hall, courtroom -2.jpg",
+      "sourceQuery": "courtroom interior",
+      "sourceArtist": "You may select the license of your choice.",
+      "sourceCredit": "Own work",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_interwoven_models_of_peacemaking_the_israeli_palestinian_case_and_beyond_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 2,
+      "primaryArticle": "democracy_interwoven_models_of_peacemaking_the_israeli_palestinian_case_and_beyond_summary_he.html",
+      "usedBy": [
+        "democracy_interwoven_models_of_peacemaking_the_israeli_palestinian_case_and_beyond_summary_he.html"
+      ],
+      "cardTitleHe": "מודלים משולבים של השכנת שלום במקרה הישראלי־פלסטיני",
+      "authorsHe": "Sapir Handelman",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מודלים משולבים של השכנת שלום במקרה הישראלי־פלסטיני",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Interwoven Models of Peacemaking – the Israeli-Palestinian Case and Beyond",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_does_faith_limit_immorality_the_politics_of_religion_and_corruption_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 3,
+      "primaryArticle": "democracy_does_faith_limit_immorality_the_politics_of_religion_and_corruption_summary_he.html",
+      "usedBy": [
+        "democracy_does_faith_limit_immorality_the_politics_of_religion_and_corruption_summary_he.html"
+      ],
+      "cardTitleHe": "דת, מוסריות ושחיתות בדמוקרטיות",
+      "authorsHe": "Udi Sommer, Pazit Ben‐Nun Bloom, Gizem Arıkan",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא דת, מוסריות ושחיתות בדמוקרטיות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Does faith limit immorality? The politics of religion and corruption",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic or text-heavy generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "assignedImagePool": "curated-existing-home-fix",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indiana_Supreme_Court_Law_Library_bookshelves.jpg",
+      "sourceTitle": "File:Indiana Supreme Court Law Library bookshelves.jpg",
+      "sourceQuery": "law library"
+    },
+    {
+      "file": "html_qa/democracy_peace_and_security_in_the_2009_election_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 4,
+      "primaryArticle": "democracy_peace_and_security_in_the_2009_election_summary_he.html",
+      "usedBy": [
+        "democracy_peace_and_security_in_the_2009_election_summary_he.html"
+      ],
+      "cardTitleHe": "שלום וביטחון בבחירות 2009 בישראל",
+      "authorsHe": "Jonathan Rynhold",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שלום וביטחון בבחירות 2009 בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Peace and security in the 2009 election",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic or text-heavy generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "assignedImagePool": "curated-existing-home-fix",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Town_Hall,_Yarmouth,_England-LCCN2002708291_-_Restoration.jpg",
+      "sourceTitle": "File:Town Hall, Yarmouth, England-LCCN2002708291 - Restoration.jpg",
+      "sourceQuery": "town hall meeting"
+    },
+    {
+      "file": "html_qa/democracy_towards_a_post_citizenship_society_a_report_from_the_front_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 5,
+      "primaryArticle": "democracy_towards_a_post_citizenship_society_a_report_from_the_front_summary_he.html",
+      "usedBy": [
+        "democracy_towards_a_post_citizenship_society_a_report_from_the_front_summary_he.html"
+      ],
+      "cardTitleHe": "לקראת חברה פוסט־אזרחית בישראל?",
+      "authorsHe": "Yoav Peled",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא לקראת חברה פוסט־אזרחית בישראל?",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Towards a Post-Citizenship Society? A Report from the Front",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_between_ethnic_and_civic_the_realistic_utopia_of_zionism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 6,
+      "primaryArticle": "democracy_between_ethnic_and_civic_the_realistic_utopia_of_zionism_summary_he.html",
+      "usedBy": [
+        "democracy_between_ethnic_and_civic_the_realistic_utopia_of_zionism_summary_he.html"
+      ],
+      "cardTitleHe": "בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות",
+      "authorsHe": "Yitzḥak Conforti",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Between ethnic and civic: the realistic Utopia of Zionism",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_how_citizenship_norms_and_digital_media_use_affect_political_participation_a_two_wave_panel_analysis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_how_citizenship_norms_and_digital_media_use_affect_political_participation_a_two_wave_panel_analysis_summary_he.html",
+      "usedBy": [
+        "democracy_how_citizenship_norms_and_digital_media_use_affect_political_participation_a_two_wave_panel_analysis_summary_he.html"
+      ],
+      "cardTitleHe": "נורמות אזרחות, מדיה דיגיטלית והשתתפות פוליטית",
+      "authorsHe": "Jennifer Oser",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא נורמות אזרחות, מדיה דיגיטלית והשתתפות פוליטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: How Citizenship Norms and Digital Media Use Affect Political Participation: A Two-Wave Panel Analysis",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_religions_zionist_sector_at_bay_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_religions_zionist_sector_at_bay_summary_he.html",
+      "usedBy": [
+        "democracy_the_religions_zionist_sector_at_bay_summary_he.html"
+      ],
+      "cardTitleHe": "הציונות הדתית בישראל במגננה פוליטית",
+      "authorsHe": "Tamar Hermann",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא הציונות הדתית בישראל במגננה פוליטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Religions Zionist Sector at Bay",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_strategic_common_law_court_of_aharon_barak_and_its_aftermath_on_judicially_led_constitutional_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_strategic_common_law_court_of_aharon_barak_and_its_aftermath_on_judicially_led_constitutional_summary_he.html",
+      "usedBy": [
+        "democracy_the_strategic_common_law_court_of_aharon_barak_and_its_aftermath_on_judicially_led_constitutional_summary_he.html"
+      ],
+      "cardTitleHe": "בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית",
+      "authorsHe": "Rivka Weill",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Strategic Common Law Court of Aharon Barak and its Aftermath: On Judicially-Led Constitutional Revolutions and Democratic Backsliding",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_how_the_law_of_return_creates_one_legal_order_in_palestine_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_how_the_law_of_return_creates_one_legal_order_in_palestine_summary_he.html",
+      "usedBy": [
+        "democracy_how_the_law_of_return_creates_one_legal_order_in_palestine_summary_he.html"
+      ],
+      "cardTitleHe": "חוק השבות ויצירת סדר משפטי אחד בפלסטין",
+      "authorsHe": "Hassan Jabareen",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חוק השבות ויצירת סדר משפטי אחד בפלסטין",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: How the Law of Return Creates One Legal Order in Palestine",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_strategies_of_minority_struggle_for_equality_in_ethnic_states_arab_politics_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_strategies_of_minority_struggle_for_equality_in_ethnic_states_arab_politics_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_strategies_of_minority_struggle_for_equality_in_ethnic_states_arab_politics_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מאבק המיעוט הערבי לשוויון במדינה אתנית",
+      "authorsHe": "Amal Jamal",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מאבק המיעוט הערבי לשוויון במדינה אתנית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Strategies of Minority Struggle for Equality in Ethnic States: Arab Politics in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic or text-heavy generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "assignedImagePool": "curated-existing-home-fix",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HUB_Ashdod_accelerator_meeting_room_at_Kivunim_Youth_Centre.jpg",
+      "sourceTitle": "File:HUB Ashdod accelerator meeting room at Kivunim Youth Centre.jpg",
+      "sourceQuery": "conference room meeting"
+    },
+    {
+      "file": "html_qa/democracy_political_economy_and_work_values_the_case_of_jews_and_arabs_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_political_economy_and_work_values_the_case_of_jews_and_arabs_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_political_economy_and_work_values_the_case_of_jews_and_arabs_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל",
+      "authorsHe": "Moshe Sharabi",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Political economy and work values: the case of Jews and Arabs in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_three_faced_the_conflicting_roles_of_citizenship_education_in_conflict_affected_societies_a_comparison_of_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_three_faced_the_conflicting_roles_of_citizenship_education_in_conflict_affected_societies_a_comparison_of_summary_he.html",
+      "usedBy": [
+        "democracy_three_faced_the_conflicting_roles_of_citizenship_education_in_conflict_affected_societies_a_comparison_of_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד",
+      "authorsHe": "Aline Muff, Caitlin Donnelly",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Three-faced: The conflicting roles of citizenship education in conflict-affected societies – A comparison of Northern Ireland and Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_is_there_a_motivation_crisis_in_military_recruitment_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_is_there_a_motivation_crisis_in_military_recruitment_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_is_there_a_motivation_crisis_in_military_recruitment_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "משבר המוטיבציה בגיוס לצבא בישראל",
+      "authorsHe": "Yagil Levy",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא משבר המוטיבציה בגיוס לצבא בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Is There a Motivation Crisis in Military Recruitment in Israel?",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_ethics_and_the_state_israel_s_nationality_law_and_the_revision_of_a_revolution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ethics_and_the_state_israel_s_nationality_law_and_the_revision_of_a_revolution_summary_he.html",
+      "usedBy": [
+        "democracy_ethics_and_the_state_israel_s_nationality_law_and_the_revision_of_a_revolution_summary_he.html"
+      ],
+      "cardTitleHe": "חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית",
+      "authorsHe": "Eyal Chowers",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Ethics and the state: Israel's nationality law and the revision of a revolution",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_impact_of_the_basic_law_israel_as_the_nation_state_of_the_jewish_people_on_the_status_of_the_arabic_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_impact_of_the_basic_law_israel_as_the_nation_state_of_the_jewish_people_on_the_status_of_the_arabic_summary_he.html",
+      "usedBy": [
+        "democracy_the_impact_of_the_basic_law_israel_as_the_nation_state_of_the_jewish_people_on_the_status_of_the_arabic_summary_he.html"
+      ],
+      "cardTitleHe": "חוק הלאום ומעמד השפה הערבית בישראל",
+      "authorsHe": "Meital Pinto",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חוק הלאום ומעמד השפה הערבית בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Impact of the Basic Law: Israel as the Nation State of the Jewish People on the Status of the Arabic Language in Israel",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_rights_in_israel_1970_2010_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_rights_in_israel_1970_2010_summary_he.html",
+      "usedBy": [
+        "democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_rights_in_israel_1970_2010_summary_he.html"
+      ],
+      "cardTitleHe": "גבולות שינוי חברתי בהתדיינות זכויות נשים ולהט״ב בישראל",
+      "authorsHe": "Yoav Dotan",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא גבולות שינוי חברתי בהתדיינות זכויות נשים ולהט״ב בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Boundaries of Social Transformation through Litigation: Women's and LGBT Rights in Israel, 1970–2010",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_populism_and_political_appointments_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_populism_and_political_appointments_summary_he.html",
+      "usedBy": [
+        "democracy_populism_and_political_appointments_summary_he.html"
+      ],
+      "cardTitleHe": "פופוליזם ומינויים פוליטיים",
+      "authorsHe": "Nissim Cohen, Ron Duhl",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פופוליזם ומינויים פוליטיים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Populism and Political Appointments",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_educating_for_a_palestinian_israeli_identity_in_the_young_communist_league_of_israel_banki_tensions_and_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_educating_for_a_palestinian_israeli_identity_in_the_young_communist_league_of_israel_banki_tensions_and_summary_he.html",
+      "usedBy": [
+        "democracy_educating_for_a_palestinian_israeli_identity_in_the_young_communist_league_of_israel_banki_tensions_and_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך לזהות פלסטינית־ישראלית בבנק״י",
+      "authorsHe": "Imad Jaraisy, Ayman K. Agbaria",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חינוך לזהות פלסטינית־ישראלית בבנק״י",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Educating for a Palestinian-Israeli identity in the Young Communist League of Israel (Banki): Tensions and challenges",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_balancing_atrocities_and_forced_forgetting_memory_laws_as_a_means_of_social_control_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_balancing_atrocities_and_forced_forgetting_memory_laws_as_a_means_of_social_control_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_balancing_atrocities_and_forced_forgetting_memory_laws_as_a_means_of_social_control_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חוקי זיכרון ושליטה חברתית בישראל",
+      "authorsHe": "Yifat Gutman, Noam Tirosh",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חוקי זיכרון ושליטה חברתית בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Balancing Atrocities and Forced Forgetting: Memory Laws as a Means of Social Control in Israel",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_gendering_human_rights_threat_and_gender_perceptions_as_predictors_of_attitudes_towards_violating_human_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_gendering_human_rights_threat_and_gender_perceptions_as_predictors_of_attitudes_towards_violating_human_summary_he.html",
+      "usedBy": [
+        "democracy_gendering_human_rights_threat_and_gender_perceptions_as_predictors_of_attitudes_towards_violating_human_summary_he.html"
+      ],
+      "cardTitleHe": "מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי",
+      "authorsHe": "Yossi David, Nimrod Rosler, Donald G. Ellis, Ifat Maoz",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Gendering Human Rights: Threat and Gender Perceptions as Predictors of Attitudes towards Violating Human Rights in Asymmetric Conflict",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_ideological_influences_on_governance_and_regulation_the_comparative_case_of_supreme_courts_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ideological_influences_on_governance_and_regulation_the_comparative_case_of_supreme_courts_summary_he.html",
+      "usedBy": [
+        "democracy_ideological_influences_on_governance_and_regulation_the_comparative_case_of_supreme_courts_summary_he.html"
+      ],
+      "cardTitleHe": "אידאולוגיה, רגולציה ובתי משפט עליונים",
+      "authorsHe": "Keren Weinshall, Udi Sommer, Ya’acov Ritov",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אידאולוגיה, רגולציה ובתי משפט עליונים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Ideological influences on governance and regulation: The comparative case of supreme courts",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_state_identity_territorial_integrity_and_party_banning_the_case_of_a_pan_arab_political_party_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_state_identity_territorial_integrity_and_party_banning_the_case_of_a_pan_arab_political_party_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_state_identity_territorial_integrity_and_party_banning_the_case_of_a_pan_arab_political_party_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות המדינה ופסילת מפלגה פאן־ערבית בישראל",
+      "authorsHe": "Ron Harris",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא זהות המדינה ופסילת מפלגה פאן־ערבית בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: State Identity, Territorial Integrity and Party Banning: The Case of a Pan-Arab Political Party in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challenges_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challenges_summary_he.html",
+      "usedBy": [
+        "democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challenges_summary_he.html"
+      ],
+      "cardTitleHe": "אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק",
+      "authorsHe": "Laura Cervi, Tom Divon",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Playful Activism: Memetic Performances of Palestinian Resistance in TikTok #Challenges",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_sumud_pedagogy_as_linguistic_citizenship_palestinian_youth_in_israel_against_imposed_subjectivities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_sumud_pedagogy_as_linguistic_citizenship_palestinian_youth_in_israel_against_imposed_subjectivities_summary_he.html",
+      "usedBy": [
+        "democracy_sumud_pedagogy_as_linguistic_citizenship_palestinian_youth_in_israel_against_imposed_subjectivities_summary_he.html"
+      ],
+      "cardTitleHe": "פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל",
+      "authorsHe": "Muzna Awayed‐Bishara",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Sumud pedagogy as linguistic citizenship: Palestinian youth in Israel against imposed subjectivities",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_students_perceptions_of_global_citizenship_at_a_local_and_an_international_school_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_students_perceptions_of_global_citizenship_at_a_local_and_an_international_school_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_students_perceptions_of_global_citizenship_at_a_local_and_an_international_school_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תפיסות של אזרחות גלובלית בבתי ספר בישראל",
+      "authorsHe": "Miri Yemini, Shira Furstenburg",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא תפיסות של אזרחות גלובלית בבתי ספר בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Students’ perceptions of global citizenship at a local and an international school in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_democratic_self_defence_of_constitutional_courts_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_democratic_self_defence_of_constitutional_courts_summary_he.html",
+      "usedBy": [
+        "democracy_the_democratic_self_defence_of_constitutional_courts_summary_he.html"
+      ],
+      "cardTitleHe": "הגנה עצמית דמוקרטית של בתי משפט חוקתיים",
+      "authorsHe": "Pablo José Castillo Ortiz, Yaniv Roznai",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא הגנה עצמית דמוקרטית של בתי משפט חוקתיים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Democratic Self-Defence of Constitutional Courts",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_impact_of_the_central_government_s_intervention_on_local_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_impact_of_the_central_government_s_intervention_on_local_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_the_impact_of_the_central_government_s_intervention_on_local_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "התערבות השלטון המרכזי ודמוקרטיה מקומית",
+      "authorsHe": "Itai Beeri",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא התערבות השלטון המרכזי ודמוקרטיה מקומית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The impact of the central government’s intervention on local democracy",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_inferiorizing_judicial_review_popular_constitutionalism_in_trial_courts_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_inferiorizing_judicial_review_popular_constitutionalism_in_trial_courts_summary_he.html",
+      "usedBy": [
+        "democracy_inferiorizing_judicial_review_popular_constitutionalism_in_trial_courts_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות",
+      "authorsHe": "Ori Aronson",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Inferiorizing Judicial Review: Popular Constitutionalism in Trial Courts",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_populism_and_the_liberal_international_order_an_analysis_of_un_voting_patterns_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_populism_and_the_liberal_international_order_an_analysis_of_un_voting_patterns_summary_he.html",
+      "usedBy": [
+        "democracy_populism_and_the_liberal_international_order_an_analysis_of_un_voting_patterns_summary_he.html"
+      ],
+      "cardTitleHe": "פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם",
+      "authorsHe": "Sandra Destradi, Johannes Vüllers",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Populism and the liberal international order: An analysis of UN voting patterns",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_intersectionality_of_deservingness_for_state_support_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_intersectionality_of_deservingness_for_state_support_summary_he.html",
+      "usedBy": [
+        "democracy_the_intersectionality_of_deservingness_for_state_support_summary_he.html"
+      ],
+      "cardTitleHe": "הצטלבות זכאות לתמיכת מדינה",
+      "authorsHe": "Michaela Assouline, Sharon Gilad",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא הצטלבות זכאות לתמיכת מדינה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Intersectionality of Deservingness for State Support",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_druze_minority_in_the_israeli_military_traditionalizing_an_ethnic_policing_role_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_druze_minority_in_the_israeli_military_traditionalizing_an_ethnic_policing_role_summary_he.html",
+      "usedBy": [
+        "democracy_the_druze_minority_in_the_israeli_military_traditionalizing_an_ethnic_policing_role_summary_he.html"
+      ],
+      "cardTitleHe": "המיעוט הדרוזי בצה״ל ותפקיד השיטור האתני",
+      "authorsHe": "Hillel Frisch",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא המיעוט הדרוזי בצה״ל ותפקיד השיטור האתני",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Druze Minority in the Israeli Military: Traditionalizing an Ethnic Policing Role",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_engagement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_engagement_summary_he.html",
+      "usedBy": [
+        "democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_engagement_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך אזרחי פעיל ולמידה מבוססת פרויקטים",
+      "authorsHe": "Osnat Akirav",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חינוך אזרחי פעיל ולמידה מבוססת פרויקטים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Active civic education using project-based learning and attitudes towards civic engagement",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_i_am_an_arab_palestinian_living_in_israel_with_a_disability_marginalisation_and_the_limits_of_human_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_i_am_an_arab_palestinian_living_in_israel_with_a_disability_marginalisation_and_the_limits_of_human_rights_summary_he.html",
+      "usedBy": [
+        "democracy_i_am_an_arab_palestinian_living_in_israel_with_a_disability_marginalisation_and_the_limits_of_human_rights_summary_he.html"
+      ],
+      "cardTitleHe": "מוגבלות, פלסטיניות וזכויות אדם בישראל",
+      "authorsHe": "Leena Badran, Hira Amin, Ayelet Gur, Michael Ashley Stein",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מוגבלות, פלסטיניות וזכויות אדם בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: ‘I am an Arab Palestinian living in Israel with a disability’: marginalisation and the limits of human rights",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_targeted_killing_of_suspected_terrorists_extra_judicial_executions_or_legitimate_means_of_defence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_targeted_killing_of_suspected_terrorists_extra_judicial_executions_or_legitimate_means_of_defence_summary_he.html",
+      "usedBy": [
+        "democracy_targeted_killing_of_suspected_terrorists_extra_judicial_executions_or_legitimate_means_of_defence_summary_he.html"
+      ],
+      "cardTitleHe": "סיכולים ממוקדים ומשפט זכויות האדם",
+      "authorsHe": "David Kretzmer",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא סיכולים ממוקדים ומשפט זכויות האדם",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Targeted Killing of Suspected Terrorists: Extra-Judicial Executions or Legitimate Means of Defence?",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_willingness_to_pay_taxes_through_mutual_trust_the_effect_of_fairness_governability_tax_enforcementand_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_willingness_to_pay_taxes_through_mutual_trust_the_effect_of_fairness_governability_tax_enforcementand_summary_he.html",
+      "usedBy": [
+        "democracy_willingness_to_pay_taxes_through_mutual_trust_the_effect_of_fairness_governability_tax_enforcementand_summary_he.html"
+      ],
+      "cardTitleHe": "אמון הדדי, הוגנות ותשלום מסים מקומיים",
+      "authorsHe": "Itai Beeri, Akab Zaidan, Rami Zeedan",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אמון הדדי, הוגנות ותשלום מסים מקומיים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Willingness to pay taxes through mutual trust: The effect of fairness, governability,tax‐enforcementand outsourcing on local tax collection rates",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_dynamic_dimension_of_identity_in_palestinian_citizens_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_dynamic_dimension_of_identity_in_palestinian_citizens_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_dynamic_dimension_of_identity_in_palestinian_citizens_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות דינמית בקרב אזרחים פלסטינים בישראל",
+      "authorsHe": "Ilana Paul‐Binyamin",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא זהות דינמית בקרב אזרחים פלסטינים בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The dynamic dimension of identity in Palestinian citizens of Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_history_curriculum_in_arab_schools_between_teaching_and_challenging_the_israeli_history_program_in_arab_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_history_curriculum_in_arab_schools_between_teaching_and_challenging_the_israeli_history_program_in_arab_summary_he.html",
+      "usedBy": [
+        "democracy_history_curriculum_in_arab_schools_between_teaching_and_challenging_the_israeli_history_program_in_arab_summary_he.html"
+      ],
+      "cardTitleHe": "תוכנית הלימודים בהיסטוריה בבתי ספר ערביים",
+      "authorsHe": "Rabah Halabi",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא תוכנית הלימודים בהיסטוריה בבתי ספר ערביים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: History curriculum in Arab schools: between teaching and challenging the Israeli history program in Arab schools",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_politicians_theories_of_voting_behavior_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_politicians_theories_of_voting_behavior_summary_he.html",
+      "usedBy": [
+        "democracy_politicians_theories_of_voting_behavior_summary_he.html"
+      ],
+      "cardTitleHe": "תאוריות של פוליטיקאים על התנהגות בוחרים",
+      "authorsHe": "Jack Lucas, Lior Sheffer, Peter John Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufal, Patrick Dumont, Sarah Lachance, Miguel M. Pereira, Mikael Persson, Jean‐Benoît Pilet, Anne Rasmussen, Maj-Britt Sterba, Frédéric Varone",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא תאוריות של פוליטיקאים על התנהגות בוחרים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Politicians’ Theories of Voting Behavior",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sources_of_security_fence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sources_of_security_fence_summary_he.html",
+      "usedBy": [
+        "democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sources_of_security_fence_summary_he.html"
+      ],
+      "cardTitleHe": "שפת גדר ההפרדה והמאבק על מונחי הסכסוך",
+      "authorsHe": "Richard Rogers, Anat Ben-David",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שפת גדר ההפרדה והמאבק על מונחי הסכסוך",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Coming to terms: a conflict analysis of the usage, in official and unofficial sources, of ‘security fence’, ‘apartheid wall’, and other terms for the structure between Israel and the Palestinian territories",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_voice_of_silence_patterns_of_digital_participation_among_palestinian_women_in_east_jerusalem_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_voice_of_silence_patterns_of_digital_participation_among_palestinian_women_in_east_jerusalem_summary_he.html",
+      "usedBy": [
+        "democracy_the_voice_of_silence_patterns_of_digital_participation_among_palestinian_women_in_east_jerusalem_summary_he.html"
+      ],
+      "cardTitleHe": "דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים",
+      "authorsHe": "Maya de Vries, Maya Majlaton",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Voice of Silence: Patterns of Digital Participation Among Palestinian Women in East Jerusalem",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_palestinian_education_in_israel_the_legacy_of_the_military_government_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_palestinian_education_in_israel_the_legacy_of_the_military_government_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_education_in_israel_the_legacy_of_the_military_government_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך פלסטיני בישראל ומורשת הממשל הצבאי",
+      "authorsHe": "Ismael Abu‐Saad",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חינוך פלסטיני בישראל ומורשת הממשל הצבאי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Palestinian Education in Israel: The Legacy of the Military Government",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_from_subjects_to_citizens_on_educational_reforms_and_the_demarcation_of_the_israeli_arabs_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_from_subjects_to_citizens_on_educational_reforms_and_the_demarcation_of_the_israeli_arabs_summary_he.html",
+      "usedBy": [
+        "democracy_from_subjects_to_citizens_on_educational_reforms_and_the_demarcation_of_the_israeli_arabs_summary_he.html"
+      ],
+      "cardTitleHe": "מרפורמות חינוך לאזרחותם של ערבים בישראל",
+      "authorsHe": "Gal Levy",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מרפורמות חינוך לאזרחותם של ערבים בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: From Subjects to Citizens: On Educational Reforms and the Demarcation of the “Israeli-Arabs”",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_triangle_of_betrayal_collaborators_and_transitional_justice_in_the_israeli_palestinian_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_triangle_of_betrayal_collaborators_and_transitional_justice_in_the_israeli_palestinian_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_triangle_of_betrayal_collaborators_and_transitional_justice_in_the_israeli_palestinian_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני",
+      "authorsHe": "Ron Dudai, Hillel Cohen",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Triangle of Betrayal: Collaborators and Transitional Justice in the Israeli-Palestinian Conflict",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_civil_society_versus_military_sovereignty_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_civil_society_versus_military_sovereignty_summary_he.html",
+      "usedBy": [
+        "democracy_civil_society_versus_military_sovereignty_summary_he.html"
+      ],
+      "cardTitleHe": "חברה אזרחית מול ריבונות צבאית",
+      "authorsHe": "Udi Lebel",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חברה אזרחית מול ריבונות צבאית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Civil Society versus Military Sovereignty",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_examining_real_world_legitimization_of_cross_party_violence_through_two_explanatory_frameworks_affective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_examining_real_world_legitimization_of_cross_party_violence_through_two_explanatory_frameworks_affective_summary_he.html",
+      "usedBy": [
+        "democracy_examining_real_world_legitimization_of_cross_party_violence_through_two_explanatory_frameworks_affective_summary_he.html"
+      ],
+      "cardTitleHe": "לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי",
+      "authorsHe": "Tal Orian Harel, Eric Shuman, Ifat Maoz, Meital Balmas, Eran Halperin",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Examining real-world legitimization of cross-party violence through two explanatory frameworks: Affective polarization and low group efficacy",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_education_for_multiculturalism_in_a_master_s_degree_program_in_policy_and_administration_in_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_education_for_multiculturalism_in_a_master_s_degree_program_in_policy_and_administration_in_education_summary_he.html",
+      "usedBy": [
+        "democracy_education_for_multiculturalism_in_a_master_s_degree_program_in_policy_and_administration_in_education_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל",
+      "authorsHe": "Asmahan Masry-Herzallah",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Education for multiculturalism in a master's degree program in Policy and Administration in Education: Comparing Jewish and Arab students in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_state_policy_and_political_violence_arabs_in_the_jewish_state_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_state_policy_and_political_violence_arabs_in_the_jewish_state_summary_he.html",
+      "usedBy": [
+        "democracy_state_policy_and_political_violence_arabs_in_the_jewish_state_summary_he.html"
+      ],
+      "cardTitleHe": "מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית",
+      "authorsHe": "Badi Hasisi, Ami Pedahzur",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: State, policy, and political violence: Arabs in the Jewish state",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_the_evolution_of_israeli_citizenship_an_overview_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_evolution_of_israeli_citizenship_an_overview_summary_he.html",
+      "usedBy": [
+        "democracy_the_evolution_of_israeli_citizenship_an_overview_summary_he.html"
+      ],
+      "cardTitleHe": "התפתחות האזרחות הישראלית",
+      "authorsHe": "Yoav Peled",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא התפתחות האזרחות הישראלית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The evolution of Israeli citizenship: an overview",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_public_accountability_and_auditing_why_and_when_do_state_auditors_conduct_broad_audits_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_public_accountability_and_auditing_why_and_when_do_state_auditors_conduct_broad_audits_summary_he.html",
+      "usedBy": [
+        "democracy_public_accountability_and_auditing_why_and_when_do_state_auditors_conduct_broad_audits_summary_he.html"
+      ],
+      "cardTitleHe": "אחריותיות ציבורית וביקורת המדינה",
+      "authorsHe": "Dana Natan Krup, Shlomo Mizrahi",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אחריותיות ציבורית וביקורת המדינה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Public accountability and auditing: Why and when do state auditors conduct broad audits?",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_why_are_older_israeli_arabs_not_part_of_the_protests_against_the_judicial_reform_a_qualitative_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_why_are_older_israeli_arabs_not_part_of_the_protests_against_the_judicial_reform_a_qualitative_study_summary_he.html",
+      "usedBy": [
+        "democracy_why_are_older_israeli_arabs_not_part_of_the_protests_against_the_judicial_reform_a_qualitative_study_summary_he.html"
+      ],
+      "cardTitleHe": "מבוגרים ערבים והמחאה נגד הרפורמה המשפטית",
+      "authorsHe": "Hanan AboJabel, Liat Ayalon",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מבוגרים ערבים והמחאה נגד הרפורמה המשפטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Why are Older Israeli Arabs not Part of the Protests Against the Judicial Reform? A Qualitative Study",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_ethnic_coexistence_in_deeply_divided_societies_the_case_of_arab_athletes_in_the_hebrew_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ethnic_coexistence_in_deeply_divided_societies_the_case_of_arab_athletes_in_the_hebrew_media_summary_he.html",
+      "usedBy": [
+        "democracy_ethnic_coexistence_in_deeply_divided_societies_the_case_of_arab_athletes_in_the_hebrew_media_summary_he.html"
+      ],
+      "cardTitleHe": "קיום אתני משותף וספורטאים ערבים בתקשורת העברית",
+      "authorsHe": "Yuval Yonay, Eran Shor",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא קיום אתני משותף וספורטאים ערבים בתקשורת העברית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Ethnic Coexistence in Deeply Divided Societies: The Case of Arab Athletes in the Hebrew Media",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflicting_roles_of_civics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflicting_roles_of_civics_summary_he.html",
+      "usedBy": [
+        "democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflicting_roles_of_civics_summary_he.html"
+      ],
+      "cardTitleHe": "מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות",
+      "authorsHe": "Aline Muff, Zvi Bekerman",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Agents of the nation-state or transformative intellectuals? Exploring the conflicting roles of civics teachers in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_imagined_journalists_new_framework_for_studying_media_audiences_relationship_in_populist_times_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_imagined_journalists_new_framework_for_studying_media_audiences_relationship_in_populist_times_summary_he.html",
+      "usedBy": [
+        "democracy_imagined_journalists_new_framework_for_studying_media_audiences_relationship_in_populist_times_summary_he.html"
+      ],
+      "cardTitleHe": "דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי",
+      "authorsHe": "Ayala Panievsky, Yossi David, Noam Gidron, Lior Sheffer",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Imagined Journalists: New Framework for Studying Media–Audiences Relationship in Populist Times",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_who_is_the_master_of_disasters_a_comparative_analysis_of_covid_19_crisis_response_and_resilience_in_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_who_is_the_master_of_disasters_a_comparative_analysis_of_covid_19_crisis_response_and_resilience_in_summary_he.html",
+      "usedBy": [
+        "democracy_who_is_the_master_of_disasters_a_comparative_analysis_of_covid_19_crisis_response_and_resilience_in_summary_he.html"
+      ],
+      "cardTitleHe": "ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים",
+      "authorsHe": "Arielle Kaim, Ina Kubbe",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Who Is the Master of Disasters? A Comparative Analysis of COVID‐19 Crisis Response and Resilience in Democracies, Hybrid Regimes, and Autocratic States",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_through_children_s_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_through_children_s_summary_he.html",
+      "usedBy": [
+        "democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_through_children_s_summary_he.html"
+      ],
+      "cardTitleHe": "שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת",
+      "authorsHe": "Athar Ḥaj Yaḥya",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Inclusion, Equality and Educational Justice: Enhancing Social-Emotional Learning through Children’s Literature in a Diverse and Segregated Society",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_whose_critique_matters_the_effects_of_critic_identity_and_audience_on_public_opinion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_whose_critique_matters_the_effects_of_critic_identity_and_audience_on_public_opinion_summary_he.html",
+      "usedBy": [
+        "democracy_whose_critique_matters_the_effects_of_critic_identity_and_audience_on_public_opinion_summary_he.html"
+      ],
+      "cardTitleHe": "זהות המבקר, קהל היעד ודעת קהל",
+      "authorsHe": "Yehonatan Abramson, Anil Menon, Abir Gitlin",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא זהות המבקר, קהל היעד ודעת קהל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Whose critique matters? The effects of critic identity and audience on public opinion",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_affective_forecasting_in_elections_a_socio_communicative_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_affective_forecasting_in_elections_a_socio_communicative_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_affective_forecasting_in_elections_a_socio_communicative_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית",
+      "authorsHe": "Keren Tenenboim‐Weinblatt, Christian Baden, Tali Aharoni, Maximilian Overbeck",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Affective forecasting in elections: A socio-communicative perspective",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_human_rights_in_times_of_terror_a_judicial_point_of_view_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_human_rights_in_times_of_terror_a_judicial_point_of_view_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_in_times_of_terror_a_judicial_point_of_view_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות אדם בזמן טרור מנקודת מבט שיפוטית",
+      "authorsHe": "Aharon Barak",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא זכויות אדם בזמן טרור מנקודת מבט שיפוטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Human rights in times of terror – a judicial point of view",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_managerial_values_and_accountability_pressures_challenges_of_crisis_and_disaster_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_managerial_values_and_accountability_pressures_challenges_of_crisis_and_disaster_summary_he.html",
+      "usedBy": [
+        "democracy_managerial_values_and_accountability_pressures_challenges_of_crisis_and_disaster_summary_he.html"
+      ],
+      "cardTitleHe": "ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי",
+      "authorsHe": "R. Schwartz",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Managerial Values and Accountability Pressures: Challenges of Crisis and Disaster",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "fresh-wikimedia"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Wikimedia Commons free media; exact source page not retained after API throttling",
+      "sourcePage": "",
+      "sourceTitle": "Wikimedia Commons photo selected during 2026-05-22 batch",
+      "sourceQuery": "Wikimedia Commons civic photo batch",
+      "assignedImagePool": "fresh-wikimedia"
+    },
+    {
+      "file": "html_qa/democracy_infiltrators_or_refugees_an_analysis_of_israel_s_policy_towards_african_asylum_seekers_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_infiltrators_or_refugees_an_analysis_of_israel_s_policy_towards_african_asylum_seekers_summary_he.html",
+      "usedBy": [
+        "democracy_infiltrators_or_refugees_an_analysis_of_israel_s_policy_towards_african_asylum_seekers_summary_he.html"
+      ],
+      "cardTitleHe": "מדיניות ישראל כלפי מבקשי מקלט אפריקאים",
+      "authorsHe": "Hadas Yaron, Nurit Hashimshony‐Yaffe, John R. Campbell",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מדיניות ישראל כלפי מבקשי מקלט אפריקאים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: “Infiltrators” or Refugees? An Analysis of Israel's Policy Towards African Asylum‐Seekers",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Allan_Domb,_Philadelphia_City_Council_Stated_Meeting,_2016.jpg",
+      "sourceTitle": "File:Allan Domb, Philadelphia City Council Stated Meeting, 2016.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_a_taste_for_government_employment_also_rests_on_its_political_flavor_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_a_taste_for_government_employment_also_rests_on_its_political_flavor_summary_he.html",
+      "usedBy": [
+        "democracy_a_taste_for_government_employment_also_rests_on_its_political_flavor_summary_he.html"
+      ],
+      "cardTitleHe": "טעם לתעסוקה ממשלתית והעדפות פוליטיות",
+      "authorsHe": "Sharon Gilad, Raanan Sulitzeanu‐Kenan, David Levi‐Faur",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא טעם לתעסוקה ממשלתית והעדפות פוליטיות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: A taste for government employment also rests on its political flavor",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Miami_University_students_in_laboratory_classroom_1908_(3199691495).jpg",
+      "sourceTitle": "File:Miami University students in laboratory classroom 1908 (3199691495).jpg",
+      "sourceQuery": "university classroom students",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_multilayered_surveillance_in_israel_palestine_dialectics_of_inclusive_exclusion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_multilayered_surveillance_in_israel_palestine_dialectics_of_inclusive_exclusion_summary_he.html",
+      "usedBy": [
+        "democracy_multilayered_surveillance_in_israel_palestine_dialectics_of_inclusive_exclusion_summary_he.html"
+      ],
+      "cardTitleHe": "מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה",
+      "authorsHe": "Ariel Handel, Hilla Dayan",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Multilayered surveillance in Israel/Palestine: Dialectics of inclusive exclusion",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_courtroom_scene_MET_DP869583.jpg",
+      "sourceTitle": "File:A courtroom scene MET DP869583.jpg",
+      "sourceQuery": "courtroom law",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_dying_was_never_a_preference_post_war_ethical_discourse_pwed_casualty_aversion_and_the_war_legitimizing_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_dying_was_never_a_preference_post_war_ethical_discourse_pwed_casualty_aversion_and_the_war_legitimizing_summary_he.html",
+      "usedBy": [
+        "democracy_dying_was_never_a_preference_post_war_ethical_discourse_pwed_casualty_aversion_and_the_war_legitimizing_summary_he.html"
+      ],
+      "cardTitleHe": "שיח אתי לאחר מלחמה והצדקת מלחמה",
+      "authorsHe": "Akiva Bigman, Udi Lebel",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שיח אתי לאחר מלחמה והצדקת מלחמה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: ‘Dying Was Never a Preference’ – Post-War Ethical Discourse (PWED): Casualty Aversion and the War Legitimizing Projects",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_large_queue_of_Muslim_voters_at_a_polling_station_near_Jama_Masjid,_Delhi_on_14_January_1952.jpg",
+      "sourceTitle": "File:A large queue of Muslim voters at a polling station near Jama Masjid, Delhi on 14 January 1952.jpg",
+      "sourceQuery": "polling station voters",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_civilian_soft_militarism_through_informal_education_in_israel_learning_to_protect_and_connect_to_the_land_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_civilian_soft_militarism_through_informal_education_in_israel_learning_to_protect_and_connect_to_the_land_summary_he.html",
+      "usedBy": [
+        "democracy_civilian_soft_militarism_through_informal_education_in_israel_learning_to_protect_and_connect_to_the_land_summary_he.html"
+      ],
+      "cardTitleHe": "מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל",
+      "authorsHe": "Erella Grassiani, Nir Gazit",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Civilian ‘soft’ militarism through informal education in Israel: learning to protect and connect to the land",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg",
+      "sourceTitle": "File:LOC Main Reading Room Highsmith.jpg",
+      "sourceQuery": "library reading room",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he.html",
+      "usedBy": [
+        "democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he.html"
+      ],
+      "cardTitleHe": "אחריות המדינה בנזיקין בזמן לחימה",
+      "authorsHe": "Ya'ara Mordecai",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אחריות המדינה בנזיקין בזמן לחימה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: When the Cannons Roar, Tort Laws Are Silent? A Re-examination of Section 5B of the Civil Wrongs (Liability of the State) Law",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Darrell_Clarke,_Philadelphia_City_Council_Stated_Meeting,_2015.jpg",
+      "sourceTitle": "File:Darrell Clarke, Philadelphia City Council Stated Meeting, 2015.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he.html",
+      "usedBy": [
+        "democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he.html"
+      ],
+      "cardTitleHe": "שירות צבאי, חברי כנסת וערכים רפובליקניים",
+      "authorsHe": "Ben Herzog",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שירות צבאי, חברי כנסת וערכים רפובליקניים",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Elevating the significance of military service: Knesset members and republican values",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Students_in_the_College_1986.jpg",
+      "sourceTitle": "File:Students in the College 1986.jpg",
+      "sourceQuery": "university classroom students",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_issues_of_integration_language_and_identity_among_palestinian_students_at_an_israeli_hebrew_speaking_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_issues_of_integration_language_and_identity_among_palestinian_students_at_an_israeli_hebrew_speaking_summary_he.html",
+      "usedBy": [
+        "democracy_issues_of_integration_language_and_identity_among_palestinian_students_at_an_israeli_hebrew_speaking_summary_he.html"
+      ],
+      "cardTitleHe": "שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית",
+      "authorsHe": "Friederike Stock, Yiftach Ron",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Issues of integration, language and identity among Palestinian students at an Israeli “Hebrew‐speaking” University",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Vicksburg_Courthouse_-_interior_2023_-_Metal_Door.jpg",
+      "sourceTitle": "File:Old Vicksburg Courthouse - interior 2023 - Metal Door.jpg",
+      "sourceQuery": "courthouse interior",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_allyship_multiethnic_coalitions_and_mass_attitudes_toward_protest_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_allyship_multiethnic_coalitions_and_mass_attitudes_toward_protest_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_allyship_multiethnic_coalitions_and_mass_attitudes_toward_protest_summary_he.html"
+      ],
+      "cardTitleHe": "פוליטיקת בריתות ומחאה בקואליציות רב־אתניות",
+      "authorsHe": "Devorah S. Manekin, Tamar Mitts, Yael Zeira",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פוליטיקת בריתות ומחאה בקואליציות רב־אתניות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The politics of allyship: Multiethnic coalitions and mass attitudes toward protest",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Polling_station,_Ouagadougou,_29_Nov_2015.jpg",
+      "sourceTitle": "File:Polling station, Ouagadougou, 29 Nov 2015.jpg",
+      "sourceQuery": "polling station voters",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_citizens_perceptions_of_politics_and_ethics_in_public_administration_a_five_year_national_study_of_their_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizens_perceptions_of_politics_and_ethics_in_public_administration_a_five_year_national_study_of_their_summary_he.html",
+      "usedBy": [
+        "democracy_citizens_perceptions_of_politics_and_ethics_in_public_administration_a_five_year_national_study_of_their_summary_he.html"
+      ],
+      "cardTitleHe": "תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי",
+      "authorsHe": "Eran Vigoda‐Gadot",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Citizens' Perceptions of Politics and Ethics in Public Administration: A Five-Year National Study of Their Relationship to Satisfaction with Services, Trust in Governance, and Voice Orientations",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:David_Oh,_Philadelphia_City_Council_Stated_Meeting,_2016.jpg",
+      "sourceTitle": "File:David Oh, Philadelphia City Council Stated Meeting, 2016.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_differentiating_the_sources_of_post_election_partisan_affect_warming_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_differentiating_the_sources_of_post_election_partisan_affect_warming_summary_he.html",
+      "usedBy": [
+        "democracy_differentiating_the_sources_of_post_election_partisan_affect_warming_summary_he.html"
+      ],
+      "cardTitleHe": "מקורות התחממות רגשית מפלגתית לאחר בחירות",
+      "authorsHe": "Noam Gidron, Lior Sheffer",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מקורות התחממות רגשית מפלגתית לאחר בחירות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Differentiating the sources of post‐election partisan affect warming",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lowell_Lecture_Hall_-_Harvard_University_-_Cambridge,_MA_-_DSC02575.jpg",
+      "sourceTitle": "File:Lowell Lecture Hall - Harvard University - Cambridge, MA - DSC02575.jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_citizenship_traditions_and_cultures_of_military_service_patriotism_and_paychecks_in_five_democracies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizenship_traditions_and_cultures_of_military_service_patriotism_and_paychecks_in_five_democracies_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_traditions_and_cultures_of_military_service_patriotism_and_paychecks_in_five_democracies_summary_he.html"
+      ],
+      "cardTitleHe": "מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות",
+      "authorsHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav, Markus Steinbrecher",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Citizenship Traditions and Cultures of Military Service: Patriotism and Paychecks in Five Democracies",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Vicksburg_Courthouse_-_interior_2023_-_Stairs.jpg",
+      "sourceTitle": "File:Old Vicksburg Courthouse - interior 2023 - Stairs.jpg",
+      "sourceQuery": "courthouse interior",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_anti_semitism_islamophobia_and_anti_zionism_discrimination_and_political_construction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_anti_semitism_islamophobia_and_anti_zionism_discrimination_and_political_construction_summary_he.html",
+      "usedBy": [
+        "democracy_anti_semitism_islamophobia_and_anti_zionism_discrimination_and_political_construction_summary_he.html"
+      ],
+      "cardTitleHe": "אנטישמיות, אסלאמופוביה ואנטי־ציונות כהבניה פוליטית",
+      "authorsHe": "Alberto Spektorowski",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אנטישמיות, אסלאמופוביה ואנטי־ציונות כהבניה פוליטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Anti-Semitism, Islamophobia and Anti-Zionism: Discrimination and Political Construction",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki,_Sikorskiego_Street_6A.jpg",
+      "sourceTitle": "File:2023 Polish parliamentary election and referendum. October 2023. Ballot box in Tomaszów Mazowiecki, Sikorskiego Street 6A.jpg",
+      "sourceQuery": "ballot box election",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_i_represent_the_police_i_represent_the_state_justification_work_following_ethno_national_boundaries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_i_represent_the_police_i_represent_the_state_justification_work_following_ethno_national_boundaries_summary_he.html",
+      "usedBy": [
+        "democracy_i_represent_the_police_i_represent_the_state_justification_work_following_ethno_national_boundaries_summary_he.html"
+      ],
+      "cardTitleHe": "עבודת הצדקה של שוטרות ערביות במשטרת ישראל",
+      "authorsHe": "Tal Meler",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא עבודת הצדקה של שוטרות ערביות במשטרת ישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: “I represent the police I represent the state” – Justification work following ethno-national boundaries crossing among Arab female police officers in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Helen_Gym,_Philadelphia_City_Council_Stated_Meeting,_2016.jpg",
+      "sourceTitle": "File:Helen Gym, Philadelphia City Council Stated Meeting, 2016.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_jewish_and_palestinian_women_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_jewish_and_palestinian_women_summary_he.html",
+      "usedBy": [
+        "democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_jewish_and_palestinian_women_summary_he.html"
+      ],
+      "cardTitleHe": "פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות",
+      "authorsHe": "Helena Desivilya Syna, Michal Palgi, Maha Sabbah Karkabi",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Unpacking the politics of equality, diversity and inclusion: The case of Israeli Jewish and Palestinian women in municipal councils",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mathematics_lecture_at_the_Helsinki_University_of_Technology.jpg",
+      "sourceTitle": "File:Mathematics lecture at the Helsinki University of Technology.jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_making_their_lives_miserable_structural_violence_and_state_racism_towards_asylum_seekers_from_sudan_and_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_making_their_lives_miserable_structural_violence_and_state_racism_towards_asylum_seekers_from_sudan_and_summary_he.html",
+      "usedBy": [
+        "democracy_making_their_lives_miserable_structural_violence_and_state_racism_towards_asylum_seekers_from_sudan_and_summary_he.html"
+      ],
+      "cardTitleHe": "אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט",
+      "authorsHe": "Maayan Ravid",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Making Their Lives Miserable: Structural Violence and State Racism towards Asylum Seekers from Sudan and Eritrea in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_double_rainbow_arches_over_the_U.S._Supreme_Court_building_in_Washington_D.C._(b5a11fed-ffc5-4a75-85ca-6989a8ea14e4).jpg",
+      "sourceTitle": "File:A double rainbow arches over the U.S. Supreme Court building in Washington D.C. (b5a11fed-ffc5-4a75-85ca-6989a8ea14e4).jpg",
+      "sourceQuery": "court building columns",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed_city_of_lod_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed_city_of_lod_summary_he.html",
+      "usedBy": [
+        "democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed_city_of_lod_summary_he.html"
+      ],
+      "cardTitleHe": "מעקב ומחאה מרחבית בעיר המעורבת לוד",
+      "authorsHe": "Haim Yacobi",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מעקב ומחאה מרחבית בעיר המעורבת לוד",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: In-Between Surveillance and Spatial Protest: the Production of Space of the 'Mixed City' of Lod?",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Iraqi_voters_in_Barwanah.jpg",
+      "sourceTitle": "File:Iraqi voters in Barwanah.jpg",
+      "sourceQuery": "polling station voters",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_organizational_reputation_regulatory_talk_and_strategic_silence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_organizational_reputation_regulatory_talk_and_strategic_silence_summary_he.html",
+      "usedBy": [
+        "democracy_organizational_reputation_regulatory_talk_and_strategic_silence_summary_he.html"
+      ],
+      "cardTitleHe": "מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית",
+      "authorsHe": "Moshe Maor, Sharon Gilad, Pazit Ben‐Nun Bloom",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Organizational Reputation, Regulatory Talk, and Strategic Silence",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Council_Stated_Meeting_2-11-2016_(24957107286).jpg",
+      "sourceTitle": "File:Philadelphia City Council Stated Meeting 2-11-2016 (24957107286).jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_politicians_polarize_and_experts_depolarize_public_support_for_covid_19_management_policies_across_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_politicians_polarize_and_experts_depolarize_public_support_for_covid_19_management_policies_across_countries_summary_he.html",
+      "usedBy": [
+        "democracy_politicians_polarize_and_experts_depolarize_public_support_for_covid_19_management_policies_across_countries_summary_he.html"
+      ],
+      "cardTitleHe": "פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה",
+      "authorsHe": "Alexandra Flores, Jennifer C. Cole, Stephan Dickert, Kimin Eom, Gabriela M. Jiga‐Boy, Tehila Kogut, Riley Loria, Marcus Mayorga, Eric J. Pedersen, Beatriz Pereira, Enrico Rubaltelli, David K. Sherman, Paul Slovic, Daniel Västfjäll, Leaf Van Boven",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Politicians polarize and experts depolarize public support for COVID-19 management policies across countries",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ohio_University_Lecture_Hall.jpg",
+      "sourceTitle": "File:Ohio University Lecture Hall.jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_new_civics_curriculum_for_high_schools_in_israel_the_discursive_construction_of_palestinian_identity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_new_civics_curriculum_for_high_schools_in_israel_the_discursive_construction_of_palestinian_identity_summary_he.html",
+      "usedBy": [
+        "democracy_the_new_civics_curriculum_for_high_schools_in_israel_the_discursive_construction_of_palestinian_identity_summary_he.html"
+      ],
+      "cardTitleHe": "תוכנית האזרחות החדשה וזהות פלסטינית בישראל",
+      "authorsHe": "Halleli Pinson",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא תוכנית האזרחות החדשה וזהות פלסטינית בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The new civics curriculum for high schools in Israel: The discursive construction of Palestinian identity and narratives",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Baxter_County_Courthouse_Courtroom_Gallery.jpg",
+      "sourceTitle": "File:Baxter County Courthouse Courtroom Gallery.jpg",
+      "sourceQuery": "courtroom law",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_from_bots_to_ballots_democratic_integrity_in_the_era_of_digital_manipulation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_from_bots_to_ballots_democratic_integrity_in_the_era_of_digital_manipulation_summary_he.html",
+      "usedBy": [
+        "democracy_from_bots_to_ballots_democratic_integrity_in_the_era_of_digital_manipulation_summary_he.html"
+      ],
+      "cardTitleHe": "שלמות דמוקרטית בעידן מניפולציה דיגיטלית",
+      "authorsHe": "Dalit Ken-Dror Feldman, Yifat Nahmias",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא שלמות דמוקרטית בעידן מניפולציה דיגיטלית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: From Bots to Ballots: Democratic Integrity in the Era of Digital Manipulation",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RIFLE_CITY_COUNCIL_MEETING_-_NARA_-_552618.jpg",
+      "sourceTitle": "File:RIFLE CITY COUNCIL MEETING - NARA - 552618.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
+      "authorsHe": "Oshrat Hochman",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Infiltrators or Asylum Seekers? Framing and Attitudes Toward Asylum Seekers in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UW_Baraboo_Lecture_Hall.jpg",
+      "sourceTitle": "File:UW Baraboo Lecture Hall.jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_synagogue_and_state_in_the_israeli_military_a_story_of_inappropriate_integration_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_synagogue_and_state_in_the_israeli_military_a_story_of_inappropriate_integration_summary_he.html",
+      "usedBy": [
+        "democracy_synagogue_and_state_in_the_israeli_military_a_story_of_inappropriate_integration_summary_he.html"
+      ],
+      "cardTitleHe": "בית כנסת ומדינה בצה״ל",
+      "authorsHe": "Karin Carmit Yefet",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא בית כנסת ומדינה בצה״ל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Synagogue and State in the Israeli Military: A Story of “Inappropriate Integration”",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Columns_of_the_Supreme_Court_Building_(51844437263).jpg",
+      "sourceTitle": "File:Columns of the Supreme Court Building (51844437263).jpg",
+      "sourceQuery": "court building columns",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_defendants_in_the_israeli_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_defendants_in_the_israeli_summary_he.html",
+      "usedBy": [
+        "democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_defendants_in_the_israeli_summary_he.html"
+      ],
+      "cardTitleHe": "אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה",
+      "authorsHe": "Tomer Einat, Sharon Toys",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Effects of Wartime on Discrimination in the Punishment of Arab vs. Jewish Defendants in the Israeli Criminal Law System",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HUD_Assessment_and_Planning_Meeting_-_DPLA_-_4997d1e0c84af3f47ec8b1e4137346cf.JPG",
+      "sourceTitle": "File:HUD Assessment and Planning Meeting - DPLA - 4997d1e0c84af3f47ec8b1e4137346cf.JPG",
+      "sourceQuery": "urban planning meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_in_the_eye_of_the_storm_street_level_organizations_in_circumstances_of_democratic_backsliding_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_in_the_eye_of_the_storm_street_level_organizations_in_circumstances_of_democratic_backsliding_summary_he.html",
+      "usedBy": [
+        "democracy_in_the_eye_of_the_storm_street_level_organizations_in_circumstances_of_democratic_backsliding_summary_he.html"
+      ],
+      "cardTitleHe": "ארגוני שטח בעין הסערה של נסיגה דמוקרטית",
+      "authorsHe": "Anat Gofen",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ארגוני שטח בעין הסערה של נסיגה דמוקרטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: In the eye of the storm: Street‐level organizations in circumstances of democratic backsliding",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UW_Baraboo_Lecture_Hall_2.jpg",
+      "sourceTitle": "File:UW Baraboo Lecture Hall 2.jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_polarization_of_deliberative_and_participatory_activists_on_social_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_polarization_of_deliberative_and_participatory_activists_on_social_media_summary_he.html",
+      "usedBy": [
+        "democracy_polarization_of_deliberative_and_participatory_activists_on_social_media_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב של פעילים משתתפים ומתדיינים במדיה חברתית",
+      "authorsHe": "Azi Lev‐On",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא קיטוב של פעילים משתתפים ומתדיינים במדיה חברתית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Polarization of Deliberative and Participatory Activists on Social Media",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Beverley_Guildhall_Courtroom.jpg",
+      "sourceTitle": "File:Beverley Guildhall Courtroom.jpg",
+      "sourceQuery": "courtroom law",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_dynamics_of_proportionality_constitutional_courts_and_the_review_of_covid_19_regulations_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_dynamics_of_proportionality_constitutional_courts_and_the_review_of_covid_19_regulations_summary_he.html",
+      "usedBy": [
+        "democracy_the_dynamics_of_proportionality_constitutional_courts_and_the_review_of_covid_19_regulations_summary_he.html"
+      ],
+      "cardTitleHe": "מידתיות וביקורת חוקתית על תקנות הקורונה",
+      "authorsHe": "Ladislav Vyhnánek, Anna Blechová, Michael Bátrla, Jakub Míšek, Tereza Novotná, Amnon Reichman, Jakub Harašta",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מידתיות וביקורת חוקתית על תקנות הקורונה",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Dynamics of Proportionality: Constitutional Courts and the Review of COVID-19 Regulations.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Helen_Gym,_Philadelphia_City_Council_Stated_Meeting_2-25-2016.jpg",
+      "sourceTitle": "File:Helen Gym, Philadelphia City Council Stated Meeting 2-25-2016.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.html",
+      "usedBy": [
+        "democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.html"
+      ],
+      "cardTitleHe": "חוויות עבודה של אחיות מקבוצות מיעוט",
+      "authorsHe": "Yael Keshet, Ariela Popper‐Giveon",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא חוויות עבודה של אחיות מקבוצות מיעוט",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Work experiences of ethnic minority nurses: a qualitative study",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_Lecture_Hall,_East_Campus,_Duke_University,_Durham,_NC_(48961030786).jpg",
+      "sourceTitle": "File:White Lecture Hall, East Campus, Duke University, Durham, NC (48961030786).jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_anti_arab_riots_in_israel_and_the_mizrahi_question_1948_67_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_anti_arab_riots_in_israel_and_the_mizrahi_question_1948_67_summary_he.html",
+      "usedBy": [
+        "democracy_anti_arab_riots_in_israel_and_the_mizrahi_question_1948_67_summary_he.html"
+      ],
+      "cardTitleHe": "מהומות אנטי־ערביות והשאלה המזרחית בישראל",
+      "authorsHe": "Hillel Cohen",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מהומות אנטי־ערביות והשאלה המזרחית בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Anti-Arab riots in Israel and the Mizrahi question, 1948-67",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Court_of_Justice_in_Tach_Khaouli_02.jpg",
+      "sourceTitle": "File:Court of Justice in Tach Khaouli 02.jpg",
+      "sourceQuery": "court building columns",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supreme_court_and_the_ministry_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supreme_court_and_the_ministry_summary_he.html",
+      "usedBy": [
+        "democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supreme_court_and_the_ministry_summary_he.html"
+      ],
+      "cardTitleHe": "בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות",
+      "authorsHe": "Daniel Sperling, Nissim Cohen",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: A neo-institutional analysis of the hidden interaction between the Israeli Supreme Court and the Ministry of Finance: the right to healthcare services",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Parliament_debating_chamber_2.jpg",
+      "sourceTitle": "File:Parliament debating chamber 2.jpg",
+      "sourceQuery": "parliament chamber",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_law_religion_and_the_rule_of_law_from_a_normative_positivistic_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_law_religion_and_the_rule_of_law_from_a_normative_positivistic_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_law_religion_and_the_rule_of_law_from_a_normative_positivistic_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית",
+      "authorsHe": "Izhak Englard",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Law, Religion, and the Rule of Law from a Normative-Positivistic Perspective",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_Lecture_Hall,_East_Campus,_Duke_University,_Durham,_NC_(48961215587).jpg",
+      "sourceTitle": "File:White Lecture Hall, East Campus, Duke University, Durham, NC (48961215587).jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he.html",
+      "usedBy": [
+        "democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he.html"
+      ],
+      "cardTitleHe": "הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי",
+      "authorsHe": "Enas Majadley",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Inclusion of Children with Disabilities from the Palestinian-Arab Community in the Israeli Education System",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Boone_County_Courthouse_courtroom_front.jpg",
+      "sourceTitle": "File:Boone County Courthouse courtroom front.jpg",
+      "sourceQuery": "courtroom law",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.html",
+      "usedBy": [
+        "democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.html"
+      ],
+      "cardTitleHe": "ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
+      "authorsHe": "Ayelet Harel‐Shalev, Rebecca Kook",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Ontological Security, Trauma and Violence, and the Protection of Women: Polygamy Among Minority Communities",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Squilla,_Philadelphia_City_Council_Stated_Meeting,_2016.jpg",
+      "sourceTitle": "File:Mark Squilla, Philadelphia City Council Stated Meeting, 2016.jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_citizenship_and_the_parliamentary_politics_of_minorities_in_ethnic_states_the_palestinian_citizens_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizenship_and_the_parliamentary_politics_of_minorities_in_ethnic_states_the_palestinian_citizens_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_and_the_parliamentary_politics_of_minorities_in_ethnic_states_the_palestinian_citizens_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות",
+      "authorsHe": "As’ad Ghanem, Nadim N. Rouhana",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Citizenship and the parliamentary politics of minorities in ethnic states: The Palestinian citizens of Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_Lecture_Hall,_East_Campus,_Duke_University,_Durham,_NC_(48961216562).jpg",
+      "sourceTitle": "File:White Lecture Hall, East Campus, Duke University, Durham, NC (48961216562).jpg",
+      "sourceQuery": "lecture hall university",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_democracy_assistance_in_the_middle_east_and_north_africa_a_comparison_of_us_and_eu_policies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democracy_assistance_in_the_middle_east_and_north_africa_a_comparison_of_us_and_eu_policies_summary_he.html",
+      "usedBy": [
+        "democracy_democracy_assistance_in_the_middle_east_and_north_africa_a_comparison_of_us_and_eu_policies_summary_he.html"
+      ],
+      "cardTitleHe": "סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי",
+      "authorsHe": "Daniela Huber",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Democracy Assistance in the Middle East and North Africa: A Comparison of US and EU Policies",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Supreme_Court_Interior.jpg",
+      "sourceTitle": "File:Flickr - USCapitol - Supreme Court Interior.jpg",
+      "sourceQuery": "court building columns",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_who_takes_part_in_the_political_game_the_sex_work_governance_debate_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_who_takes_part_in_the_political_game_the_sex_work_governance_debate_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_who_takes_part_in_the_political_game_the_sex_work_governance_debate_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל",
+      "authorsHe": "Stephanie Levy-Aronovic, Yeela Lahav-Raz, Aviad E. Raz",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Who Takes Part in the Political Game? The Sex Work Governance Debate in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Council_Stated_Meeting_1-21-2016_(24110593613).jpg",
+      "sourceTitle": "File:Philadelphia City Council Stated Meeting 1-21-2016 (24110593613).jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of_social_services_offered_to_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of_social_services_offered_to_summary_he.html",
+      "usedBy": [
+        "democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of_social_services_offered_to_summary_he.html"
+      ],
+      "cardTitleHe": "פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות",
+      "authorsHe": "Lia Levin, Haneen Karram-Elias, Shira Pagorek-Eshel, Raghda Alnabilsy",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: State inspection in contexts of cultural and sociopolitical conflict: The case of social services offered to Arab-Palestinian young women in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Acting_U.S._Consul_General_Martini_responding_to_students_at_the_University_of_Education_(21539819274).jpg",
+      "sourceTitle": "File:Acting U.S. Consul General Martini responding to students at the University of Education (21539819274).jpg",
+      "sourceQuery": "seminar room students",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_run_up_to_the_elections_a_political_history_of_the_2009_campaign_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_run_up_to_the_elections_a_political_history_of_the_2009_campaign_summary_he.html",
+      "usedBy": [
+        "democracy_the_run_up_to_the_elections_a_political_history_of_the_2009_campaign_summary_he.html"
+      ],
+      "cardTitleHe": "ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל",
+      "authorsHe": "Manfred Gerstenfeld",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The run-up to the elections: a political history of the 2009 campaign",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chase_County,_Nebraska_courthouse_courtroom_1.JPG",
+      "sourceTitle": "File:Chase County, Nebraska courthouse courtroom 1.JPG",
+      "sourceQuery": "courtroom law",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_democratic_backsliding_subsidized_speech_and_the_new_majoritarian_entrenchment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democratic_backsliding_subsidized_speech_and_the_new_majoritarian_entrenchment_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_backsliding_subsidized_speech_and_the_new_majoritarian_entrenchment_summary_he.html"
+      ],
+      "cardTitleHe": "נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית",
+      "authorsHe": "Adam Shinar",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Democratic Backsliding, Subsidized Speech, and the New Majoritarian Entrenchment",
+      "tags": [
+        "democratic-backsliding-populism",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Council_Stated_Meeting_1-21-2016_(24643796861).jpg",
+      "sourceTitle": "File:Philadelphia City Council Stated Meeting 1-21-2016 (24643796861).jpg",
+      "sourceQuery": "city council meeting",
+      "assignedImagePool": "curated-existing"
+    },
+    {
+      "file": "html_qa/democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he.html",
+      "usedBy": [
+        "democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he.html"
+      ],
+      "cardTitleHe": "פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי",
+      "authorsHe": "Pini Pavel Miretski, Sascha‐Dominik Bachmann",
+      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי",
+      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: The Panopticon of International Law: B’Tselem’s Camera Project and the Enforcement of International Law in a Transnational Society",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "paper-specific",
+        "curated-existing"
+      ],
+      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
+      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Education_Minister_Nurul_Islam_Nahid_speaking_at_seminar_on_gender_based_violence_in_secondary_schools_2017-10-08_(PID-0047442).jpg",
+      "sourceTitle": "File:Education Minister Nurul Islam Nahid speaking at seminar on gender based violence in secondary schools 2017-10-08 (PID-0047442).jpg",
+      "sourceQuery": "seminar room students",
+      "assignedImagePool": "curated-existing"
     }
   ],
   "topicGraphics": [
