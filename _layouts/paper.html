@@ -56,7 +56,9 @@
     </nav>
 
     <h1>{{ page.titleHe }}</h1>
-    <p class="subtitle">{{ page.subtitleHe }}</p>
+    {% if page.subtitleHe %}
+      <p class="subtitle">{{ page.subtitleHe }}</p>
+    {% endif %}
 
     <div class="metadata">
       <p class="meta-row"><span class="meta-label">מאמר:</span> <span class="meta-value latin">{{ page.paperTitle }}</span></p>
