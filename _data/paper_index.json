@@ -1,8 +1,1028 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 82,
+  "paperCount": 122,
   "papers": [
+    {
+      "slug": "democracy_carl_schmitt_and_the_jewish_leviathan_the_supreme_court_vs_the_sovereign_summary_he",
+      "file": "democracy_carl_schmitt_and_the_jewish_leviathan_the_supreme_court_vs_the_sovereign_summary_he.html",
+      "permalink": "/democracy_carl_schmitt_and_the_jewish_leviathan_the_supreme_court_vs_the_sovereign_summary_he.html",
+      "sortKey": 202605210070,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "Carl Schmitt and the Jewish Leviathan: The Supreme Court vs. the Sovereign Knesset",
+      "authorsCardHe": "עמנואל אוטולנגי",
+      "sourceAuthors": [
+        "Emanuele Ottolenghi"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.1353/is.2001.0006",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_ultra_orthodox_womens_reaction_to_the_society_of_learners_model_as_a_mot_summary_he",
+      "file": "democracy_ultra_orthodox_womens_reaction_to_the_society_of_learners_model_as_a_mot_summary_he.html",
+      "permalink": "/democracy_ultra_orthodox_womens_reaction_to_the_society_of_learners_model_as_a_mot_summary_he.html",
+      "sortKey": 202605210069,
+      "titleHe": "מה המאמר מלמד על זכויות ושוויון בישראל?",
+      "paperTitle": "Ultra-Orthodox Women's Reaction to the \"Society of Learners\" Model as a Motive among Israel's Ultra-Orthodox Feminists",
+      "authorsCardHe": "אשר סוזין, איילת בנאי, לי כהנר",
+      "sourceAuthors": [
+        "Asher Suzin",
+        "Ayelet Banai",
+        "Lee Cahaner"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 09.2023",
+      "doiUrl": "https://doi.org/10.2979/is.2023.a903077",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על שוויון אזרחי וזכויות מיעוט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_arab_minority_in_israeli_politics_between_ethnic_democracy_and_democ_summary_he",
+      "file": "democracy_the_arab_minority_in_israeli_politics_between_ethnic_democracy_and_democ_summary_he.html",
+      "permalink": "/democracy_the_arab_minority_in_israeli_politics_between_ethnic_democracy_and_democ_summary_he.html",
+      "sortKey": 202605210068,
+      "titleHe": "איך מעמד המיעוט הערבי מעצב את איכות הדמוקרטיה בישראל?",
+      "paperTitle": "The Arab Minority in Israeli Politics: Between ‘Ethnic Democracy’ and ‘Democratic Integration’",
+      "authorsCardHe": "בנימין נויברגר",
+      "sourceAuthors": [
+        "Benyamin Neuberger"
+      ],
+      "journal": "Democracy and Ethnic Conflict",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1057/9780230523258_4",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על שוויון אזרחי וזכויות מיעוט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_two_state_model_and_israeli_constitutionalism_summary_he",
+      "file": "democracy_the_two_state_model_and_israeli_constitutionalism_summary_he.html",
+      "permalink": "/democracy_the_two_state_model_and_israeli_constitutionalism_summary_he.html",
+      "sortKey": 202605210067,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "The Two-State Model and Israeli Constitutionalism",
+      "authorsCardHe": "מאזן מסרי",
+      "sourceAuthors": [
+        "Mazen Masri"
+      ],
+      "journal": "Journal of Palestine Studies",
+      "dateText": "פורסם: 01.08.2015",
+      "doiUrl": "https://doi.org/10.1525/jps.2015.44.4.7",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he",
+      "file": "democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he.html",
+      "permalink": "/democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he.html",
+      "sortKey": 202605210066,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Democracy, Constitutionalism, and Identity: The Anomaly of the Israeli Case",
+      "authorsCardHe": "חנה לרנר",
+      "sourceAuthors": [
+        "Hanna Lerner"
+      ],
+      "journal": "Constellations",
+      "dateText": "פורסם: 06.2004",
+      "doiUrl": "https://doi.org/10.1111/j.1351-0487.2004.00374.x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_history_of_israeli_pre_state_constitutionalism_summary_he",
+      "file": "democracy_the_history_of_israeli_pre_state_constitutionalism_summary_he.html",
+      "permalink": "/democracy_the_history_of_israeli_pre_state_constitutionalism_summary_he.html",
+      "sortKey": 202605210065,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "The History of Israeli Pre-State Constitutionalism",
+      "authorsCardHe": "אסף לחובסקי, אבירם שחל",
+      "sourceAuthors": [
+        "Assaf Likhovski",
+        "Aviram Shahal"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3931266",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_whos_defending_democracy_the_battle_among_the_elites_over_the_elections_summary_he",
+      "file": "democracy_whos_defending_democracy_the_battle_among_the_elites_over_the_elections_summary_he.html",
+      "permalink": "/democracy_whos_defending_democracy_the_battle_among_the_elites_over_the_elections_summary_he.html",
+      "sortKey": 202605210064,
+      "titleHe": "מה בחירות וייצוג מלמדים על הדמוקרטיה הישראלית?",
+      "paperTitle": "Who’s Defending Democracy? The Battle among the Elites over the Elections to the 16th Knesset",
+      "authorsCardHe": "עמי פדהצור",
+      "sourceAuthors": [
+        "Ami Pedahzur"
+      ],
+      "journal": "The Elections in Israel—2003",
+      "dateText": "פורסם: 06.02.2018",
+      "doiUrl": "https://doi.org/10.4324/9781351322287-4",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
+        "altHe": "איור על מוסדות ציבור וחברה אזרחית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום מוסדות, חברה אזרחית ושירות ציבורי, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_public_policy_on_human_rights_in_israel_the_perspective_from_a_local_mil_summary_he",
+      "file": "democracy_public_policy_on_human_rights_in_israel_the_perspective_from_a_local_mil_summary_he.html",
+      "permalink": "/democracy_public_policy_on_human_rights_in_israel_the_perspective_from_a_local_mil_summary_he.html",
+      "sortKey": 202605210063,
+      "titleHe": "מה המאמר מלמד על חוקתיות ושלטון החוק בישראל?",
+      "paperTitle": "Public Policy on Human Rights in Israel: The Perspective from a Local Military Court",
+      "authorsCardHe": "אסף מידני",
+      "sourceAuthors": [
+        "Assaf Meydani"
+      ],
+      "journal": "Democracy and Security",
+      "dateText": "פורסם: 13.12.2007",
+      "doiUrl": "https://doi.org/10.1080/17419160701512320",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he",
+      "file": "democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.html",
+      "permalink": "/democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.html",
+      "sortKey": 202605210062,
+      "titleHe": "מה חוק הלאום עושה לשוויון ולאזרחות דמוקרטית?",
+      "paperTitle": "Jewish Nation State Law and Transformation of the Elite in Israel",
+      "authorsCardHe": "גוקהאן צ׳ינקרה",
+      "sourceAuthors": [
+        "Gökhan ÇINKARA"
+      ],
+      "journal": "Fiscaoeconomia",
+      "dateText": "פורסם: 31.01.2020",
+      "doiUrl": "https://doi.org/10.25295/fsecon.2020.01.010",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_a_comparative_constitutional_perspective_on_israels_nation_state_law_summary_he",
+      "file": "democracy_a_comparative_constitutional_perspective_on_israels_nation_state_law_summary_he.html",
+      "permalink": "/democracy_a_comparative_constitutional_perspective_on_israels_nation_state_law_summary_he.html",
+      "sortKey": 202605210061,
+      "titleHe": "מה חוק הלאום עושה לשוויון ולאזרחות דמוקרטית?",
+      "paperTitle": "A Comparative Constitutional Perspective on Israel's Nation-State Law",
+      "authorsCardHe": "יוג׳ין קנטורוביץ׳",
+      "sourceAuthors": [
+        "Kontorovich"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.13",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_supreme_court_of_israel_a_safeguard_of_the_rule_of_law_summary_he",
+      "file": "democracy_the_supreme_court_of_israel_a_safeguard_of_the_rule_of_law_summary_he.html",
+      "permalink": "/democracy_the_supreme_court_of_israel_a_safeguard_of_the_rule_of_law_summary_he.html",
+      "sortKey": 202605210060,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "The Supreme Court of Israel: A Safeguard of the Rule of Law",
+      "authorsCardHe": "שושנה נתניהו",
+      "sourceAuthors": [
+        "Shoshana Netanyahu"
+      ],
+      "journal": "Pace International Law Review",
+      "dateText": "פורסם: 01.01.1993",
+      "doiUrl": "https://doi.org/10.58948/2331-3536.1114",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_democracy_in_the_jurisprudence_of_the_supreme_court_of_israel_summary_he",
+      "file": "democracy_democracy_in_the_jurisprudence_of_the_supreme_court_of_israel_summary_he.html",
+      "permalink": "/democracy_democracy_in_the_jurisprudence_of_the_supreme_court_of_israel_summary_he.html",
+      "sortKey": 202605210059,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "Democracy in the Jurisprudence of the Supreme Court of Israel",
+      "authorsCardHe": "דוד קרצמר",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Israel Yearbook on Human Rights, Volume 26 (1996)",
+      "dateText": "פורסם: 05.07.1996",
+      "doiUrl": "https://doi.org/10.1163/9789004423107_018",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_flattening_the_curve_constitutional_crisis_and_immigrants_rights_protect_summary_he",
+      "file": "democracy_flattening_the_curve_constitutional_crisis_and_immigrants_rights_protect_summary_he.html",
+      "permalink": "/democracy_flattening_the_curve_constitutional_crisis_and_immigrants_rights_protect_summary_he.html",
+      "sortKey": 202605210058,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Flattening the Curve, Constitutional Crisis and Immigrants' Rights Protections: The Case of Israel",
+      "authorsCardHe": "טלי קריצמן-אמיר",
+      "sourceAuthors": [
+        "Tally Kritzman-Amir"
+      ],
+      "journal": "Frontiers in Political Science",
+      "dateText": "פורסם: 28.04.2021",
+      "doiUrl": "https://doi.org/10.3389/fpos.2020.592150",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_when_do_courts_constrain_the_executive_judicial_selection_institutions_a_summary_he",
+      "file": "democracy_when_do_courts_constrain_the_executive_judicial_selection_institutions_a_summary_he.html",
+      "permalink": "/democracy_when_do_courts_constrain_the_executive_judicial_selection_institutions_a_summary_he.html",
+      "sortKey": 202605210057,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "When Do Courts Constrain the Executive? Judicial Selection Institutions and Judicial Allies in Israel",
+      "authorsCardHe": "אנדרו או׳דונהיו",
+      "sourceAuthors": [
+        "Andrew O'Donohue"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 08.10.2025",
+      "doiUrl": "https://doi.org/10.31219/osf.io/dt486_v2",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_2023_judicial_reform_that_wasnt_summary_he",
+      "file": "democracy_the_2023_judicial_reform_that_wasnt_summary_he.html",
+      "permalink": "/democracy_the_2023_judicial_reform_that_wasnt_summary_he.html",
+      "sortKey": 202605210056,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "The 2023 Judicial Reform That Wasn't",
+      "authorsCardHe": "יהושע שגב",
+      "sourceAuthors": [
+        "Joshua Segev"
+      ],
+      "journal": "Israel Studies Review",
+      "dateText": "פורסם: 01.03.2024",
+      "doiUrl": "https://doi.org/10.3167/isr.2024.390103",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_civil_society_and_israeli_democracy_summary_he",
+      "file": "democracy_civil_society_and_israeli_democracy_summary_he.html",
+      "permalink": "/democracy_civil_society_and_israeli_democracy_summary_he.html",
+      "sortKey": 202605210055,
+      "titleHe": "איך חברה אזרחית מחזקת או מאתגרת את הדמוקרטיה בישראל?",
+      "paperTitle": "Civil Society and Israeli Democracy",
+      "authorsCardHe": "יעל ישי",
+      "sourceAuthors": [
+        "Yael Yishai"
+      ],
+      "journal": "The Oxford Handbook of Israeli Politics and Society",
+      "dateText": "פורסם: 10.09.2018",
+      "doiUrl": "https://doi.org/10.1093/oxfordhb/9780190675585.013.35",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
+        "altHe": "איור על מוסדות ציבור וחברה אזרחית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום מוסדות, חברה אזרחית ושירות ציבורי, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_democracy_liberal_zionism_and_civil_military_relations_in_israel_a_revie_summary_he",
+      "file": "democracy_democracy_liberal_zionism_and_civil_military_relations_in_israel_a_revie_summary_he.html",
+      "permalink": "/democracy_democracy_liberal_zionism_and_civil_military_relations_in_israel_a_revie_summary_he.html",
+      "sortKey": 202605210054,
+      "titleHe": "מה המאמר מלמד על נסיגה דמוקרטית בישראל?",
+      "paperTitle": "Democracy, Liberal Zionism, and Civil-Military Relations in Israel: A Review Article",
+      "authorsCardHe": "איאן לוסטיק",
+      "sourceAuthors": [
+        "Ian S Lustick"
+      ],
+      "journal": "Political Science Quarterly",
+      "dateText": "פורסם: 17.10.2024",
+      "doiUrl": "https://doi.org/10.1093/psquar/qqae116",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על נסיגה דמוקרטית ומשבר משטרי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_legislative_and_judicial_law_making_concerning_educational_liberty_and_e_summary_he",
+      "file": "democracy_legislative_and_judicial_law_making_concerning_educational_liberty_and_e_summary_he.html",
+      "permalink": "/democracy_legislative_and_judicial_law_making_concerning_educational_liberty_and_e_summary_he.html",
+      "sortKey": 202605210053,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "Legislative and Judicial Law-making Concerning Educational Liberty and Equality: Some Israeli Constitutional Law Perspectives",
+      "authorsCardHe": "עמוס שפירא",
+      "sourceAuthors": [
+        "Amos Shapira"
+      ],
+      "journal": "Israel Yearbook on Human Rights, Volume 9 (1979)",
+      "dateText": "פורסם: 05.07.1979",
+      "doiUrl": "https://doi.org/10.1163/9789004422902_011",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_basic_law_israel_as_nation_state_national_honor_defies_human_dignity_and_summary_he",
+      "file": "democracy_basic_law_israel_as_nation_state_national_honor_defies_human_dignity_and_summary_he.html",
+      "permalink": "/democracy_basic_law_israel_as_nation_state_national_honor_defies_human_dignity_and_summary_he.html",
+      "sortKey": 202605210052,
+      "titleHe": "מה חוק הלאום עושה לשוויון ולאזרחות דמוקרטית?",
+      "paperTitle": "Basic Law: Israel as Nation-State—National Honor Defies Human Dignity and Universal Human Rights",
+      "authorsCardHe": "אורית קמיר",
+      "sourceAuthors": [
+        "Kamir"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.18",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_nation_state_law_and_the_arabic_language_in_israel_downgrading_repli_summary_he",
+      "file": "democracy_the_nation_state_law_and_the_arabic_language_in_israel_downgrading_repli_summary_he.html",
+      "permalink": "/democracy_the_nation_state_law_and_the_arabic_language_in_israel_downgrading_repli_summary_he.html",
+      "sortKey": 202605210051,
+      "titleHe": "מה חוק הלאום עושה לשוויון ולאזרחות דמוקרטית?",
+      "paperTitle": "The Nation State Law and the Arabic Language in Israel: Downgrading, Replicating or Upgrading?",
+      "authorsCardHe": "מוחמד ס׳ ותד",
+      "sourceAuthors": [
+        "Mohammed S Wattad"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 07.2021",
+      "doiUrl": "https://doi.org/10.1017/s0021223721000078",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_attendance_at_parliamentary_sessions_and_the_quorum_rule_summary_he",
+      "file": "democracy_attendance_at_parliamentary_sessions_and_the_quorum_rule_summary_he.html",
+      "permalink": "/democracy_attendance_at_parliamentary_sessions_and_the_quorum_rule_summary_he.html",
+      "sortKey": 202605210050,
+      "titleHe": "מה המאמר מלמד על חוקתיות ושלטון החוק בישראל?",
+      "paperTitle": "Attendance at Parliamentary Sessions and The Quorum Rule",
+      "authorsCardHe": "עדנה פאסט",
+      "sourceAuthors": [
+        "Edna Fast"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 04.1982",
+      "doiUrl": "https://doi.org/10.1017/s0021223700007524",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_constitutional_impasse_democracy_and_religion_in_israel_summary_he",
+      "file": "democracy_constitutional_impasse_democracy_and_religion_in_israel_summary_he.html",
+      "permalink": "/democracy_constitutional_impasse_democracy_and_religion_in_israel_summary_he.html",
+      "sortKey": 202605210049,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Constitutional Impasse, Democracy, and Religion in Israel",
+      "authorsCardHe": "חנה לרנר",
+      "sourceAuthors": [
+        "Hanna Lerner"
+      ],
+      "journal": "Constitution Writing, Religion and Democracy",
+      "dateText": "פורסם: 02.02.2017",
+      "doiUrl": "https://doi.org/10.1017/9781107707443.011",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_backsliding_without_democracy_summary_he",
+      "file": "democracy_backsliding_without_democracy_summary_he.html",
+      "permalink": "/democracy_backsliding_without_democracy_summary_he.html",
+      "sortKey": 202605210048,
+      "titleHe": "איך מזהים נסיגה דמוקרטית בישראל?",
+      "paperTitle": "Backsliding without Democracy",
+      "authorsCardHe": "אלון בורשטיין",
+      "sourceAuthors": [
+        "Alon Burstein"
+      ],
+      "journal": "Israel Studies Review",
+      "dateText": "פורסם: 01.03.2024",
+      "doiUrl": "https://doi.org/10.3167/isr.2024.390106",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על שוויון אזרחי וזכויות מיעוט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_democracy_in_israel_summary_he",
+      "file": "democracy_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210047,
+      "titleHe": "מה המאמר מלמד על חוקתיות ושלטון החוק בישראל?",
+      "paperTitle": "Democracy in Israel",
+      "authorsCardHe": "אלן דאוטי",
+      "sourceAuthors": [
+        "Alan Dowty"
+      ],
+      "journal": "The Oxford Handbook of Israeli Politics and Society",
+      "dateText": "פורסם: 07.06.2018",
+      "doiUrl": "https://doi.org/10.1093/oxfordhb/9780190675585.013.6",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_constitutional_reform_and_the_occupation_summary_he",
+      "file": "democracy_the_constitutional_reform_and_the_occupation_summary_he.html",
+      "permalink": "/democracy_the_constitutional_reform_and_the_occupation_summary_he.html",
+      "sortKey": 202605210046,
+      "titleHe": "איך השליטה בשטחים משפיעה על הדמוקרטיה הישראלית?",
+      "paperTitle": "The ‘Constitutional Reform’ and the Occupation",
+      "authorsCardHe": "דוד קרצמר",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 11.2023",
+      "doiUrl": "https://doi.org/10.1017/s0021223723000109",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_israeli_constitutional_law_summary_he",
+      "file": "democracy_israeli_constitutional_law_summary_he.html",
+      "permalink": "/democracy_israeli_constitutional_law_summary_he.html",
+      "sortKey": 202605210045,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Israeli Constitutional Law",
+      "authorsCardHe": "דוד קרצמר, יעל רונן",
+      "sourceAuthors": [
+        "David Kretzmer",
+        "Yaël Ronen"
+      ],
+      "journal": "The Occupation of Justice",
+      "dateText": "פורסם: 10.02.2021",
+      "doiUrl": "https://doi.org/10.1093/oso/9780190696023.003.0006",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_arab_citizens_in_the_jewish_state_of_israel_summary_he",
+      "file": "democracy_arab_citizens_in_the_jewish_state_of_israel_summary_he.html",
+      "permalink": "/democracy_arab_citizens_in_the_jewish_state_of_israel_summary_he.html",
+      "sortKey": 202605210044,
+      "titleHe": "איך מעמד המיעוט הערבי מעצב את איכות הדמוקרטיה בישראל?",
+      "paperTitle": "Arab Citizens in the “Jewish” State of Israel",
+      "authorsCardHe": "יצחק גל-נור",
+      "sourceAuthors": [
+        "Itzhak Galnoor"
+      ],
+      "journal": "The Oxford Handbook of Israeli Politics and Society",
+      "dateText": "פורסם: 08.10.2020",
+      "doiUrl": "https://doi.org/10.1093/oxfordhb/9780190675585.013.9",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על שוויון אזרחי וזכויות מיעוט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_religious_law_religious_courts_and_human_rights_within_israeli_constitut_summary_he",
+      "file": "democracy_religious_law_religious_courts_and_human_rights_within_israeli_constitut_summary_he.html",
+      "permalink": "/democracy_religious_law_religious_courts_and_human_rights_within_israeli_constitut_summary_he.html",
+      "sortKey": 202605210043,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "Religious law, religious Courts and human rights within Israeli constitutional structure",
+      "authorsCardHe": "ענת סקולניקוב",
+      "sourceAuthors": [
+        "Anat Scolnicov"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 01.10.2006",
+      "doiUrl": "https://doi.org/10.1093/icon/mol037",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_summary_he",
+      "file": "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_summary_he.html",
+      "permalink": "/democracy_the_israeli_supreme_court_and_the_human_rights_revolution_summary_he.html",
+      "sortKey": 202605210042,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "The Israeli Supreme Court and the Human Rights Revolution",
+      "authorsCardHe": "אסף מידני",
+      "sourceAuthors": [
+        "Assaf Meydani"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 25.07.2011",
+      "doiUrl": "https://doi.org/10.1017/cbo9780511998423",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_israeli_judiciary_centered_constitutionalism_summary_he",
+      "file": "democracy_the_israeli_judiciary_centered_constitutionalism_summary_he.html",
+      "permalink": "/democracy_the_israeli_judiciary_centered_constitutionalism_summary_he.html",
+      "sortKey": 202605210041,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "The Israeli judiciary-centered constitutionalism",
+      "authorsCardHe": "אריאל בנדור",
+      "sourceAuthors": [
+        "Ariel L Bendor"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 31.12.2020",
+      "doiUrl": "https://doi.org/10.1093/icon/moaa057",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_your_honor_restrain_us_the_political_dynamics_of_the_right_to_be_elected_summary_he",
+      "file": "democracy_your_honor_restrain_us_the_political_dynamics_of_the_right_to_be_elected_summary_he.html",
+      "permalink": "/democracy_your_honor_restrain_us_the_political_dynamics_of_the_right_to_be_elected_summary_he.html",
+      "sortKey": 202605210040,
+      "titleHe": "מה המאמר מלמד על נסיגה דמוקרטית בישראל?",
+      "paperTitle": "“Your Honor, Restrain Us”: The Political Dynamics of the Right to Be Elected in the Israeli Democracy",
+      "authorsCardHe": "מיכל שמיר, קרן וינשל-מרגל",
+      "sourceAuthors": [
+        "Michal Shamir",
+        "Keren Weinshall-Margel"
+      ],
+      "journal": "The Elections in Israel 2013",
+      "dateText": "פורסם: 08.09.2017",
+      "doiUrl": "https://doi.org/10.4324/9781351295840-5",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על נסיגה דמוקרטית ומשבר משטרי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_38_israeli_democracy_civic_and_ethnonational_components_summary_he",
+      "file": "democracy_38_israeli_democracy_civic_and_ethnonational_components_summary_he.html",
+      "permalink": "/democracy_38_israeli_democracy_civic_and_ethnonational_components_summary_he.html",
+      "sortKey": 202605210039,
+      "titleHe": "מה המאמר מלמד על נסיגה דמוקרטית בישראל?",
+      "paperTitle": "38. Israeli Democracy: Civic and Ethnonational Components",
+      "authorsCardHe": "סמי סמוחה",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Handbook of Israel: Major Debates",
+      "dateText": "פורסם: 24.10.2016",
+      "doiUrl": "https://doi.org/10.1515/9783110351637-049",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על נסיגה דמוקרטית ומשבר משטרי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_counter_terrorism_law_and_the_rule_of_law_under_extreme_conditions_theor_summary_he",
+      "file": "democracy_counter_terrorism_law_and_the_rule_of_law_under_extreme_conditions_theor_summary_he.html",
+      "permalink": "/democracy_counter_terrorism_law_and_the_rule_of_law_under_extreme_conditions_theor_summary_he.html",
+      "sortKey": 202605210038,
+      "titleHe": "מה המאמר מלמד על חוקתיות ושלטון החוק בישראל?",
+      "paperTitle": "Counter-Terrorism Law and the Rule of Law Under Extreme Conditions: Theoretical Insights and the Experience of Israel",
+      "authorsCardHe": "עלי זלצברגר",
+      "sourceAuthors": [
+        "Eli Salzberger"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3091696",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_judicial_activism_in_israel_summary_he",
+      "file": "democracy_judicial_activism_in_israel_summary_he.html",
+      "permalink": "/democracy_judicial_activism_in_israel_summary_he.html",
+      "sortKey": 202605210037,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "Judicial Activism in Israel",
+      "authorsCardHe": "עלי זלצברגר",
+      "sourceAuthors": [
+        "Eli Salzberger"
+      ],
+      "journal": "Judicial Activism in Common Law Supreme Courts",
+      "dateText": "פורסם: 13.12.2007",
+      "doiUrl": "https://doi.org/10.1093/acprof:oso/9780199213290.003.0006",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_from_the_hungarian_blitz_to_the_polish_salami_the_judicial_overhaul_in_i_summary_he",
+      "file": "democracy_from_the_hungarian_blitz_to_the_polish_salami_the_judicial_overhaul_in_i_summary_he.html",
+      "permalink": "/democracy_from_the_hungarian_blitz_to_the_polish_salami_the_judicial_overhaul_in_i_summary_he.html",
+      "sortKey": 202605210036,
+      "titleHe": "מה תפקיד בתי המשפט בשמירה על דמוקרטיה ושלטון החוק?",
+      "paperTitle": "From the 'Hungarian Blitz' to the 'Polish Salami': The Judicial Overhaul in Israel as a Populist Project",
+      "authorsCardHe": "יניב רוזנאי",
+      "sourceAuthors": [
+        "Yaniv Roznai"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.2139/ssrn.4807540",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_the_occupation_and_israeli_democracy_summary_he",
+      "file": "democracy_the_occupation_and_israeli_democracy_summary_he.html",
+      "permalink": "/democracy_the_occupation_and_israeli_democracy_summary_he.html",
+      "sortKey": 202605210035,
+      "titleHe": "איך השליטה בשטחים משפיעה על הדמוקרטיה הישראלית?",
+      "paperTitle": "The Occupation and Israeli Democracy",
+      "authorsCardHe": "ירון אזרחי",
+      "sourceAuthors": [
+        "Yaron Ezrahi"
+      ],
+      "journal": "The Impacts of Lasting Occupation",
+      "dateText": "פורסם: 07.12.2012",
+      "doiUrl": "https://doi.org/10.1093/acprof:oso/9780199862184.003.0006",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_ethnic_democracy_israel_as_an_archetype_summary_he",
+      "file": "democracy_ethnic_democracy_israel_as_an_archetype_summary_he.html",
+      "permalink": "/democracy_ethnic_democracy_israel_as_an_archetype_summary_he.html",
+      "sortKey": 202605210034,
+      "titleHe": "מה המאמר מלמד על נסיגה דמוקרטית בישראל?",
+      "paperTitle": "Ethnic Democracy: Israel as an Archetype",
+      "authorsCardHe": "סמי סמוחה",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 10.1997",
+      "doiUrl": "https://doi.org/10.2979/isr.1997.2.2.198",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על נסיגה דמוקרטית ומשבר משטרי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_rights_constitutionalism_and_the_challenge_of_belonging_an_empirical_inq_summary_he",
+      "file": "democracy_rights_constitutionalism_and_the_challenge_of_belonging_an_empirical_inq_summary_he.html",
+      "permalink": "/democracy_rights_constitutionalism_and_the_challenge_of_belonging_an_empirical_inq_summary_he.html",
+      "sortKey": 202605210033,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Rights Constitutionalism and the Challenge of Belonging: An Empirical Inquiry into the Israeli Case",
+      "authorsCardHe": "דנה אלכסנדר",
+      "sourceAuthors": [
+        "Dana Alexander"
+      ],
+      "journal": "Law & Social Inquiry",
+      "dateText": "פורסם: 02.2024",
+      "doiUrl": "https://doi.org/10.1017/lsi.2022.40",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_from_promise_to_retrenchment_on_the_changing_landscape_of_israeli_consti_summary_he",
+      "file": "democracy_from_promise_to_retrenchment_on_the_changing_landscape_of_israeli_consti_summary_he.html",
+      "permalink": "/democracy_from_promise_to_retrenchment_on_the_changing_landscape_of_israeli_consti_summary_he.html",
+      "sortKey": 202605210032,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "From Promise to Retrenchment? On the Changing Landscape of Israeli Constitutionalism",
+      "authorsCardHe": "אדם שנער, ברק מדינה, גילה שטופלר",
+      "sourceAuthors": [
+        "Adam Shinar",
+        "Barak Medina",
+        "Gila Stopler"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3681235",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
+    {
+      "slug": "democracy_grand_constitutionalism_summary_he",
+      "file": "democracy_grand_constitutionalism_summary_he.html",
+      "permalink": "/democracy_grand_constitutionalism_summary_he.html",
+      "sortKey": 202605210031,
+      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
+      "paperTitle": "Grand Constitutionalism",
+      "authorsCardHe": "צבי כהנא",
+      "sourceAuthors": [
+        "Tsvi Kahana"
+      ],
+      "journal": "The Oxford Handbook of the Israeli Constitution",
+      "dateText": "פורסם: 24.03.2026",
+      "doiUrl": "https://doi.org/10.1093/oxfordhb/9780192843524.013.0019",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
+    },
     {
       "slug": "democracy_2013_elections_israeli_democracy_summary_he",
       "file": "democracy_2013_elections_israeli_democracy_summary_he.html",
