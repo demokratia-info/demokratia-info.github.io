@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?"
   },
   "datePublished": "2026-05-21",

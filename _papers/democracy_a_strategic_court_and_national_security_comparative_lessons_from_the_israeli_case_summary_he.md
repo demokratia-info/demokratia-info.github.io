@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_a_strategic_court_and_national_security_comparative_lessons_from_the_israeli_case_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

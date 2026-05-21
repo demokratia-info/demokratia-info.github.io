@@ -47,7 +47,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_protests_and_political_violence_among_arab_knesset_members_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על דעת קהל, קיטוב ואלימות פוליטית בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

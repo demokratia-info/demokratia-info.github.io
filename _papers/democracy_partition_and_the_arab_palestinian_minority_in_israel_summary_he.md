@@ -42,7 +42,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על החלוקה והמיעוט הפלסטיני בישראל"
   },
   "datePublished": "2026-05-21",

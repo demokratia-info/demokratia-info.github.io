@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_constitutions_and_political_reconstruction_israel_s_quest_for_a_constitution_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

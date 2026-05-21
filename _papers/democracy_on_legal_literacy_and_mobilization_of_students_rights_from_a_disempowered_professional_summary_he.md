@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_on_legal_literacy_and_mobilization_of_students_rights_from_a_disempowered_professional_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

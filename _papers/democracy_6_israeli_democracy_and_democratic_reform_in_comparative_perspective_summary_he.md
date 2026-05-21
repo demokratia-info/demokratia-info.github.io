@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

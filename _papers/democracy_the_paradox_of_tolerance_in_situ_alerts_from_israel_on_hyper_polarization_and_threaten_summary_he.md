@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על דעת קהל, קיטוב ואלימות פוליטית בהקשר של מה מלמד המחקר על קיטוב, סובלנות ואלימות פוליטית?"
   },
   "datePublished": "2026-05-21",

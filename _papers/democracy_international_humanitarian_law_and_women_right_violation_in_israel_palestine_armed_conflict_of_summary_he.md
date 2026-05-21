@@ -74,7 +74,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני"
   },
   "datePublished": "2026-05-21",

@@ -42,7 +42,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על ישראל כמקרה מבחן למהפכות חוקתיות"
   },
   "datePublished": "2026-05-21",

@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

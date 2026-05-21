@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_persistence_of_the_exception_some_remarks_on_the_story_of_israeli_constitutionalis_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

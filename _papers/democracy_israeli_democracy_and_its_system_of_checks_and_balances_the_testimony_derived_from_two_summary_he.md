@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

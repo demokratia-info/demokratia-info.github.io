@@ -47,7 +47,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

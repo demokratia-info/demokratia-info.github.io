@@ -55,7 +55,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על פופוליזם דתי וזיכרון יהודי בישראל"
   },
   "datePublished": "2026-05-21",

@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_hobbesian_citizenship_how_the_palestinians_became_a_minority_in_israel_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

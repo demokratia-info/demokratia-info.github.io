@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_constitutionalization_of_the_israeli_legal_system_as_a_result_of_the_basic_laws_an_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

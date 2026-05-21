@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

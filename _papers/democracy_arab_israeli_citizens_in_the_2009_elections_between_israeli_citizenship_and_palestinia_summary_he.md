@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

@@ -39,7 +39,7 @@
   ],
   "image": {
     "src": "html_qa/democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.jpg",
-    "version": "800x600-landscape",
+    "version": "2026-05-21-image-audit",
     "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על מוסדות, מחאה והשתתפות דמוקרטית?"
   },
   "datePublished": "2026-05-21",
