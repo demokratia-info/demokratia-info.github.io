@@ -7,6 +7,7 @@ This repository is the Jekyll source for the Hebrew democracy summaries site. Do
 For paper additions:
 
 - Read the private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` before checking suggestions, consuming the public queue, or searching. Prioritize relevant non-duplicate papers by authors marked `high`, `normal`, or `low`, but do not add out-of-scope papers only because the author is listed. Never select, add, summarize, or queue a paper when any source author is marked `blocked`.
+- Run `scripts/check_private_repo_access.sh` before private suggestion or author-policy work. If it fails after retries, stop before consuming public queue rows and report the exact access blocker.
 - Use `_data/paper_index.json` as the primary duplicate and ordering index.
 - Nightly updates should review at most the first pending row from the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, first come first served. Accept it only if it fits the site's subject criteria and liberal-democratic spirit and is not a duplicate. Remove the processed suggestion row from the private queue whether accepted or rejected, and do not expose submitter name, email, or IP hash in public files or reports.
 - Nightly updates should then consume enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch. Remove those rows only after adding the papers, and rebuild a fresh 100-paper queue only when the queue has fewer rows than needed at the start.
