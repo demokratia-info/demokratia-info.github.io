@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-20",
+  "lastUpdated": "2026-05-21",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -14,9 +14,10 @@
       "file": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 11,
+      "currentHomepagePosition": 3,
       "primaryArticle": "democracy_legislative_backsliding_populism_summary_he.html",
       "usedBy": [
+        "democracy_nation_state_law_populism_colonialism_religion_summary_he.html",
         "democracy_constitutional_blitz_backsliding_summary_he.html",
         "democracy_knesset_democracy_framings_summary_he.html",
         "democracy_legislative_backsliding_populism_summary_he.html"
@@ -38,9 +39,10 @@
       "file": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 8,
+      "currentHomepagePosition": 5,
       "primaryArticle": "democracy_abusive_constitutionalism_summary_he.html",
       "usedBy": [
+        "democracy_court_administration_agencification_summary_he.html",
         "democracy_affective_polarization_security_threats_october_7_summary_he.html",
         "democracy_court_capture_judicial_selection_summary_he.html",
         "democracy_judicial_revolution_reconceptualized_summary_he.html",
@@ -63,9 +65,10 @@
       "file": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 16,
+      "currentHomepagePosition": 4,
       "primaryArticle": "democracy_constitutionalising_system_summary_he.html",
       "usedBy": [
+        "democracy_collective_equality_law_of_peace_summary_he.html",
         "democracy_israel_constitutional_moment_admin_law_summary_he.html",
         "democracy_constitutional_overhaul_civic_mobilization_summary_he.html",
         "democracy_constitutionalising_system_summary_he.html"
@@ -87,9 +90,10 @@
       "file": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 14,
+      "currentHomepagePosition": 6,
       "primaryArticle": "democracy_first_brick_democratic_erosion_summary_he.html",
       "usedBy": [
+        "democracy_history_court_administration_israel_summary_he.html",
         "democracy_reasonableness_standard_rule_of_law_summary_he.html",
         "democracy_first_brick_democratic_erosion_summary_he.html"
       ],
@@ -110,9 +114,10 @@
       "file": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 10,
+      "currentHomepagePosition": 9,
       "primaryArticle": "democracy_freedom_to_exclude_summary_he.html",
       "usedBy": [
+        "democracy_ethnic_democracy_model_israel_summary_he.html",
         "democracy_hate_speech_campaign_finance_free_speech_summary_he.html",
         "democracy_nationality_basic_law_majority_summary_he.html",
         "democracy_freedom_to_exclude_summary_he.html"
@@ -134,9 +139,10 @@
       "file": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 22,
+      "currentHomepagePosition": 1,
       "primaryArticle": "democracy_human_rights_conventions_summary_he.html",
       "usedBy": [
+        "democracy_international_law_domestic_courts_populism_summary_he.html",
         "democracy_judicial_appointments_independence_summary_he.html",
         "democracy_courts_horizontal_accountability_summary_he.html",
         "democracy_human_rights_conventions_summary_he.html"
@@ -158,9 +164,10 @@
       "file": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 12,
+      "currentHomepagePosition": 8,
       "primaryArticle": "democracy_civil_society_ngos_backsliding_summary_he.html",
       "usedBy": [
+        "democracy_social_media_news_polarization_experiment_summary_he.html",
         "democracy_political_scientists_mediated_engagement_summary_he.html",
         "democracy_local_democracy_autonomy_summary_he.html",
         "democracy_civil_society_ngos_backsliding_summary_he.html"
@@ -182,7 +189,7 @@
       "file": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 1,
+      "currentHomepagePosition": 11,
       "primaryArticle": "democracy_civil_servants_backsliding_summary_he.html",
       "usedBy": [
         "democracy_executive_responsibility_netanyahu_case_summary_he.html",
@@ -206,7 +213,7 @@
       "file": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 5,
+      "currentHomepagePosition": 15,
       "primaryArticle": "democracy_regime_classification_backsliding_summary_he.html",
       "usedBy": [
         "democracy_party_pair_affective_polarization_summary_he.html",
@@ -230,7 +237,7 @@
       "file": "html_qa/democracy_trade_unions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 9,
+      "currentHomepagePosition": 19,
       "primaryArticle": "democracy_trade_unions_summary_he.html",
       "usedBy": [
         "democracy_democratic_values_education_israel_summary_he.html",
@@ -253,9 +260,10 @@
       "file": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 45,
+      "currentHomepagePosition": 7,
       "primaryArticle": "democracy_constitutional_reform_economy_summary_he.html",
       "usedBy": [
+        "democracy_ultrarich_media_ownership_political_investment_summary_he.html",
         "democracy_constitutional_reform_economy_summary_he.html"
       ],
       "cardTitleHe": "כשהוויכוח על הדמוקרטיה פוגש את הכלכלה",
@@ -275,7 +283,7 @@
       "file": "html_qa/democracy_political_violence_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 2,
+      "currentHomepagePosition": 12,
       "primaryArticle": "democracy_political_violence_summary_he.html",
       "usedBy": [
         "democracy_intragroup_affective_polarization_conflict_summary_he.html",
@@ -299,7 +307,7 @@
       "file": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 3,
+      "currentHomepagePosition": 13,
       "primaryArticle": "democracy_israeli_democracy_crisis_summary_he.html",
       "usedBy": [
         "democracy_party_competition_cooperation_affective_polarization_summary_he.html",
@@ -323,7 +331,7 @@
       "file": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 4,
+      "currentHomepagePosition": 14,
       "primaryArticle": "democracy_masses_support_backsliding_summary_he.html",
       "usedBy": [
         "democracy_israel_polarization_panel_dataset_summary_he.html",
@@ -346,9 +354,10 @@
       "file": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 15,
+      "currentHomepagePosition": 10,
       "primaryArticle": "democracy_judicial_overhaul_populist_picture_summary_he.html",
       "usedBy": [
+        "democracy_nation_state_law_equality_solidarity_summary_he.html",
         "democracy_high_court_reform_desirable_summary_he.html",
         "democracy_judicial_activism_sources_summary_he.html",
         "democracy_populist_constitutionalism_overhaul_summary_he.html",
@@ -371,7 +380,7 @@
       "file": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 7,
+      "currentHomepagePosition": 17,
       "primaryArticle": "democracy_gender_justice_backsliding_summary_he.html",
       "usedBy": [
         "democracy_affective_gap_polarization_emotions_summary_he.html",
@@ -394,9 +403,10 @@
       "file": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 13,
+      "currentHomepagePosition": 2,
       "primaryArticle": "democracy_majority_nationalism_equal_citizenship_summary_he.html",
       "usedBy": [
+        "democracy_basic_law_nation_state_harel_summary_he.html",
         "democracy_political_scientists_civic_studies_summary_he.html",
         "democracy_haredi_civil_society_democracy_summary_he.html",
         "democracy_national_identity_equal_citizenship_summary_he.html",
@@ -419,7 +429,7 @@
       "file": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 6,
+      "currentHomepagePosition": 16,
       "primaryArticle": "democracy_constitutional_moment_west_bank_summary_he.html",
       "usedBy": [
         "democracy_political_polarization_israel_1992_2022_summary_he.html",

@@ -1,8 +1,277 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 52,
+  "paperCount": 62,
   "papers": [
+    {
+      "slug": "democracy_international_law_domestic_courts_populism_summary_he",
+      "file": "democracy_international_law_domestic_courts_populism_summary_he.html",
+      "permalink": "/democracy_international_law_domestic_courts_populism_summary_he.html",
+      "sortKey": 202605210010,
+      "titleHe": "איך משפט בין-לאומי יכול לעזור לבתי משפט מול פופוליזם?",
+      "paperTitle": "International law in domestic courts in an era of populism",
+      "authorsCardHe": "תמר הוסטובסקי ברנדס",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "International Journal of Constitutional Law, כרך 17, גיליון 2, עמ׳ 576-596; פורסם ב-28 ביוני 2019",
+      "doiUrl": "https://doi.org/10.1093/icon/moz031",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
+        "altHe": "איור על משפט בין-לאומי, בתי משפט וזכויות אדם מול פופוליזם"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר מדוע משפט בין-לאומי בבתי משפט מקומיים אינו עניין טכני אלא כלי דמוקרטי נגד הסתגרות פופוליסטית."
+    },
+    {
+      "slug": "democracy_basic_law_nation_state_harel_summary_he",
+      "file": "democracy_basic_law_nation_state_harel_summary_he.html",
+      "permalink": "/democracy_basic_law_nation_state_harel_summary_he.html",
+      "sortKey": 202605210009,
+      "titleHe": "האם חוק הלאום משנה את ישראל מדמוקרטיה ליברלית לדמוקרטיה סמכותנית?",
+      "paperTitle": "Basic Law: Israel as the Nation State of the Jewish People",
+      "authorsCardHe": "אלון הראל",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "Nationalities Papers",
+      "dateText": "Nationalities Papers, כרך 49, גיליון 2, עמ׳ 262-269; פורסם אונליין ב-24 במרץ 2020 ובדפוס במרץ 2021",
+      "doiUrl": "https://doi.org/10.1017/nps.2019.127",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על לאומיות רוב, חוק הלאום ושוויון אזרחי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר קורא את חוק הלאום לא כטקסט סמלי בלבד, אלא כשלב במאבק על היחס בין זהות רוב, חירויות דמוקרטיות ושוויון אזרחי."
+    },
+    {
+      "slug": "democracy_nation_state_law_populism_colonialism_religion_summary_he",
+      "file": "democracy_nation_state_law_populism_colonialism_religion_summary_he.html",
+      "permalink": "/democracy_nation_state_law_populism_colonialism_religion_summary_he.html",
+      "sortKey": 202605210008,
+      "titleHe": "איך חוק הלאום מחבר בין פופוליזם, קולוניאליות ודת?",
+      "paperTitle": "The Nation-State Law, Populist Politics, Colonialism, and Religion in Israel: Linkages and Transformations",
+      "authorsCardHe": "אימן אגבאריה",
+      "sourceAuthors": [
+        "Ayman Agbaria"
+      ],
+      "journal": "Journal of Ecumenical Studies",
+      "dateText": "Journal of Ecumenical Studies, כרך 56, גיליון 3, עמ׳ 347-362; פורסם בשנת 2021",
+      "doiUrl": "https://doi.org/10.1353/ecu.2021.0022",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
+        "altHe": "איור על חוק יסוד, פופוליזם אתנולאומי ופגיעה בשוויון"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר טוען שחוק הלאום אינו רק חוק זהות, אלא מנגנון שמחזק שפה אתנולאומית-דתית ומצמצם את המקום הדמוקרטי של מיעוטים."
+    },
+    {
+      "slug": "democracy_collective_equality_law_of_peace_summary_he",
+      "file": "democracy_collective_equality_law_of_peace_summary_he.html",
+      "permalink": "/democracy_collective_equality_law_of_peace_summary_he.html",
+      "sortKey": 202605210007,
+      "titleHe": "האם שלום במקומות מפולגים צריך להתבסס על שוויון קולקטיבי?",
+      "paperTitle": "Collective Equality: Theoretical Foundations for the Law of Peace",
+      "authorsCardHe": "לימור יהודה",
+      "sourceAuthors": [
+        "Limor Yehuda"
+      ],
+      "journal": "Oxford Journal of Legal Studies",
+      "dateText": "Oxford Journal of Legal Studies, כרך 42, גיליון 3, עמ׳ 703-732; פורסם אונליין ב-12 בינואר 2022",
+      "doiUrl": "https://doi.org/10.1093/ojls/gqab044",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
+        "altHe": "איור על שוויון קולקטיבי, קבוצות לאומיות והסדר חוקתי של שלום"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מציע לחשוב על שלום דמוקרטי דרך שוויון בין קבוצות לאומיות, ולא רק דרך פשרה בין ביטחון לזכויות יחידים."
+    },
+    {
+      "slug": "democracy_court_administration_agencification_summary_he",
+      "file": "democracy_court_administration_agencification_summary_he.html",
+      "permalink": "/democracy_court_administration_agencification_summary_he.html",
+      "sortKey": 202605210006,
+      "titleHe": "מה קורה לעצמאות שיפוטית כאשר הנהלת בתי המשפט הופכת לסוכנות חזקה?",
+      "paperTitle": "Agencification and the administration of courts in Israel",
+      "authorsCardHe": "גיא לוריא, אמנון רייכמן ויאיר שגיא",
+      "sourceAuthors": [
+        "Guy Lurie",
+        "Amnon Reichman",
+        "Yair Sagy"
+      ],
+      "journal": "Regulation & Governance",
+      "dateText": "Regulation & Governance, כרך 14, גיליון 4, עמ׳ 718-740; פורסם אונליין ב-10 בינואר 2019 ובדפוס באוקטובר 2020",
+      "doiUrl": "https://doi.org/10.1111/rego.12236",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על הנהלת בתי המשפט, עצמאות שיפוטית ואיזונים מוסדיים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מראה שעצמאות שיפוטית אינה תלויה רק במינוי שופטים או בפסקי דין, אלא גם במבנה המנהלי שמנהל את בתי המשפט ואת עבודת השופטים."
+    },
+    {
+      "slug": "democracy_history_court_administration_israel_summary_he",
+      "file": "democracy_history_court_administration_israel_summary_he.html",
+      "permalink": "/democracy_history_court_administration_israel_summary_he.html",
+      "sortKey": 202605210005,
+      "titleHe": "איך נבנתה הנהלת בתי המשפט בישראל בין שר המשפטים לנשיא העליון?",
+      "paperTitle": "A history of the administration of courts in Israel",
+      "authorsCardHe": "יאיר שגיא, גיא לוריא ואמנון רייכמן",
+      "sourceAuthors": [
+        "Yair Sagy",
+        "Guy Lurie",
+        "Amnon Reichman"
+      ],
+      "journal": "Journal of Israeli History",
+      "dateText": "Journal of Israeli History, כרך 40, גיליון 2, עמ׳ 355-379; פורסם אונליין ב-21 ביולי 2023",
+      "doiUrl": "https://doi.org/10.1080/13531042.2023.2235784",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
+        "altHe": "איור על היסטוריה מוסדית של הנהלת בתי המשפט ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מראה שההיסטוריה של הנהלת בתי המשפט היא מפתח להבנת עצמאות הרשות השופטת והיחסים בין רשויות בישראל."
+    },
+    {
+      "slug": "democracy_ultrarich_media_ownership_political_investment_summary_he",
+      "file": "democracy_ultrarich_media_ownership_political_investment_summary_he.html",
+      "permalink": "/democracy_ultrarich_media_ownership_political_investment_summary_he.html",
+      "sortKey": 202605210004,
+      "titleHe": "איך בעלות של מיליארדרים על עיתונים יכולה להפוך להשקעה פוליטית?",
+      "paperTitle": "How the Ultrarich Use Media Ownership as a Political Investment",
+      "authorsCardHe": "גיא גרוסמן, יותם מרגלית ותמר מיטס",
+      "sourceAuthors": [
+        "Guy Grossman",
+        "Yotam Margalit",
+        "Tamar Mitts"
+      ],
+      "journal": "The Journal of Politics",
+      "dateText": "The Journal of Politics, כרך 84, גיליון 4, עמ׳ 1913-1931; פורסם ב-1 באוקטובר 2022",
+      "doiUrl": "https://doi.org/10.1086/719415",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
+        "altHe": "איור על כוח כלכלי, בעלות תקשורתית והשפעה פוליטית בדמוקרטיה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מראה שבעלות תקשורתית אינה רק שאלה עסקית, אלא יכולה לשמש כלי בעל השפעה אלקטורלית ופוליטית עמוקה."
+    },
+    {
+      "slug": "democracy_social_media_news_polarization_experiment_summary_he",
+      "file": "democracy_social_media_news_polarization_experiment_summary_he.html",
+      "permalink": "/democracy_social_media_news_polarization_experiment_summary_he.html",
+      "sortKey": 202605210003,
+      "titleHe": "האם חשיפה לחדשות ברשתות חברתיות משנה קיטוב פוליטי?",
+      "paperTitle": "Social Media, News Consumption, and Polarization: Evidence from a Field Experiment",
+      "authorsCardHe": "רועי לוי",
+      "sourceAuthors": [
+        "Ro'ee Levy"
+      ],
+      "journal": "American Economic Review",
+      "dateText": "American Economic Review, כרך 111, גיליון 3, עמ׳ 831-870; פורסם ב-1 במרץ 2021",
+      "doiUrl": "https://doi.org/10.1257/aer.20191777",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
+        "altHe": "איור על חדשות ברשתות חברתיות, שיח ציבורי וקיטוב פוליטי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מראה שרשתות חברתיות משפיעות על סוג החדשות שאנשים צורכים ועל רגשות כלפי היריב הפוליטי, אך לא בהכרח משנות דעות מדיניות."
+    },
+    {
+      "slug": "democracy_ethnic_democracy_model_israel_summary_he",
+      "file": "democracy_ethnic_democracy_model_israel_summary_he.html",
+      "permalink": "/democracy_ethnic_democracy_model_israel_summary_he.html",
+      "sortKey": 202605210002,
+      "titleHe": "מהו מודל הדמוקרטיה האתנית, ומה הוא אומר על ישראל?",
+      "paperTitle": "The model of ethnic democracy: Israel as a Jewish and democratic state",
+      "authorsCardHe": "סמי סמוחה",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Nations and Nationalism",
+      "dateText": "Nations and Nationalism, כרך 8, גיליון 4, עמ׳ 475-503; פורסם באוקטובר 2002",
+      "doiUrl": "https://doi.org/10.1111/1469-8219.00062",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
+        "altHe": "איור על דמוקרטיה אתנית, רוב לאומי וזכויות מיעוטים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מציע מודל לניתוח ישראל כדמוקרטיה אתנית, שבה מתקיימות זכויות מסוימות לצד עליונות מבנית של הלאום היהודי."
+    },
+    {
+      "slug": "democracy_nation_state_law_equality_solidarity_summary_he",
+      "file": "democracy_nation_state_law_equality_solidarity_summary_he.html",
+      "permalink": "/democracy_nation_state_law_equality_solidarity_summary_he.html",
+      "sortKey": 202605210001,
+      "titleHe": "איך חוק הלאום משפיע על שוויון, הגדרה עצמית וסולידריות חברתית?",
+      "paperTitle": "Basic Law: Israel as the Nation State of the Jewish People: Implications for Equality, Self-Determination and Social Solidarity",
+      "authorsCardHe": "תמר הוסטובסקי ברנדס",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "Minnesota Journal of International Law",
+      "dateText": "Minnesota Journal of International Law, כרך 29, גיליון 1, עמ׳ 65-107; פורסם בשנת 2020",
+      "doiUrl": "https://doi.org/10.24926/19441992.784",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
+        "altHe": "איור על חוק הלאום, שוויון וסולידריות אזרחית בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר מדוע חוק הלאום מעורר לא רק חששות לשוויון משפטי, אלא גם פגיעה עמוקה יותר ביכולת ליצור סולידריות אזרחית משותפת."
+    },
     {
       "slug": "democracy_executive_responsibility_netanyahu_case_summary_he",
       "file": "democracy_executive_responsibility_netanyahu_case_summary_he.html",
