@@ -42,6 +42,20 @@ if ! command -v gh >/dev/null 2>&1; then
   exit 1
 fi
 
+read_token_from_hosts() {
+  local hosts_file="${1}/hosts.yml"
+
+  [[ -r "${hosts_file}" ]] || return 1
+  awk -F': ' '
+    $1 ~ /^[[:space:]]*oauth_token$/ {
+      print $2
+      found=1
+      exit
+    }
+    END { if (!found) exit 1 }
+  ' "${hosts_file}"
+}
+
 print_auth_diagnostics() {
   local dir
 
@@ -70,28 +84,34 @@ print_auth_diagnostics() {
   echo "  dedicated gh auth status output:" >&2
   GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
     gh auth status -h "${host}" --active >&2 || true
+  echo "  direct token API check output:" >&2
+  if token="$(read_token_from_hosts "${auth_dir}" 2>/dev/null)"; then
+    env -u GH_CONFIG_DIR -u GITHUB_TOKEN GH_TOKEN="${token}" \
+      gh api user --jq '.login' >&2 || true
+  else
+    echo "  no readable oauth_token found in selected hosts.yml" >&2
+  fi
 }
 
 validate_dedicated_config() {
-  local login public_permission private_permission
+  local login public_permission private_permission token
 
-  GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
-    gh auth status -h "${host}" --active >/dev/null 2>&1 || return 1
+  token="$(read_token_from_hosts "${auth_dir}")" || return 1
 
   login="$(
-    GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
+    env -u GH_CONFIG_DIR -u GITHUB_TOKEN GH_TOKEN="${token}" \
       gh api user --jq '.login'
-  )"
+  )" || return 1
   [[ "${login}" == "${required_user}" ]] || return 1
 
   public_permission="$(
-    GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
+    env -u GH_CONFIG_DIR -u GITHUB_TOKEN GH_TOKEN="${token}" \
       gh repo view "${public_repo}" --json viewerPermission --jq '.viewerPermission'
-  )"
+  )" || return 1
   private_permission="$(
-    GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
+    env -u GH_CONFIG_DIR -u GITHUB_TOKEN GH_TOKEN="${token}" \
       gh repo view "${private_repo}" --json viewerPermission --jq '.viewerPermission'
-  )"
+  )" || return 1
 
   case "${public_permission}:${private_permission}" in
     *:ADMIN|*:MAINTAIN|*:WRITE)

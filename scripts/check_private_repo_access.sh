@@ -14,6 +14,20 @@ default_gh_config_dirs=(
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 refresh_script="${script_dir}/refresh_automation_github_auth.sh"
 
+read_token_from_hosts() {
+  local hosts_file="${1}/hosts.yml"
+
+  [[ -r "${hosts_file}" ]] || return 1
+  awk -F': ' '
+    $1 ~ /^[[:space:]]*oauth_token$/ {
+      print $2
+      found=1
+      exit
+    }
+    END { if (!found) exit 1 }
+  ' "${hosts_file}"
+}
+
 if [[ -x "${refresh_script}" && "${SKIP_DEMOKRATIA_AUTH_REFRESH:-}" != "1" ]]; then
   "${refresh_script}"
 fi
@@ -29,7 +43,13 @@ fi
 
 case "${GH_CONFIG_DIR:-}" in
   /Users/talraviv/.codex/automations/*/gh-auth|/Users/talraviv/.codex/gh-demokratia-auth)
-  unset GH_TOKEN GITHUB_TOKEN
+  if token_from_hosts="$(read_token_from_hosts "${GH_CONFIG_DIR}")"; then
+    export GH_TOKEN="${token_from_hosts}"
+    unset GITHUB_TOKEN
+    export DEMOCRATIA_GH_TOKEN_FROM_FILE=1
+  else
+    unset GH_TOKEN GITHUB_TOKEN
+  fi
   ;;
 esac
 
