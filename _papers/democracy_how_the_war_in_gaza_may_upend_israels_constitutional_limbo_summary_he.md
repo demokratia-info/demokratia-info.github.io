@@ -11,7 +11,7 @@
   "authorsCardHe": "Noam Kozlov",
   "paperTitle": "How the War in Gaza May Upend Israel’s Constitutional Limbo",
   "authorsHtml": "Noam Kozlov",
-  "journal": "Front Matter",
+  "journal": "Verfassungsblog",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.59704/43f0a8e179ad0f08",
   "doiLabel": "https://doi.org/10.59704/43f0a8e179ad0f08",
@@ -55,7 +55,7 @@
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר בוחן את סוגיית מלחמת עזה והמבוי הסתום החוקתי בישראל, וממקם את הסוגיה בתוך הדיון הרחב על נסיגה דמוקרטית ופופוליזם.",
-        "המקור פורסם ב־Front Matter בשנת 2023, עם DOI פעיל: <a href=\"https://doi.org/10.59704/43f0a8e179ad0f08\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.59704/43f0a8e179ad0f08</a>.",
+        "המקור פורסם ב־Verfassungsblog בשנת 2023, עם DOI פעיל: <a href=\"https://doi.org/10.59704/43f0a8e179ad0f08\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.59704/43f0a8e179ad0f08</a>.",
         "נקודת המוצא של התמצית היא השאלה כיצד שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית משפיעים על איכות הדמוקרטיה הליברלית בישראל."
       ]
     },
