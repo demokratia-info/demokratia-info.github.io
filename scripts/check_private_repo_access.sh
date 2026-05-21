@@ -5,7 +5,7 @@ repo="demokratia-info/democracy-paper-suggestions-private"
 required_files=("Authors.MD" "suggest_queue.csv")
 attempts="${PRIVATE_REPO_CHECK_ATTEMPTS:-5}"
 sleep_seconds="${PRIVATE_REPO_CHECK_SLEEP_SECONDS:-20}"
-default_gh_config_dir="${DEMOCRATIA_GH_CONFIG_DIR:-${HOME}/.codex/gh-demokratia-auth}"
+default_gh_config_dir="${DEMOCRATIA_GH_CONFIG_DIR:-/Users/talraviv/.codex/gh-demokratia-auth}"
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 refresh_script="${script_dir}/refresh_automation_github_auth.sh"
 
