@@ -6,6 +6,12 @@ required_files=("Authors.MD" "suggest_queue.csv")
 attempts="${PRIVATE_REPO_CHECK_ATTEMPTS:-5}"
 sleep_seconds="${PRIVATE_REPO_CHECK_SLEEP_SECONDS:-20}"
 default_gh_config_dir="${DEMOCRATIA_GH_CONFIG_DIR:-${HOME}/.codex/gh-demokratia-auth}"
+script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+refresh_script="${script_dir}/refresh_automation_github_auth.sh"
+
+if [[ -x "${refresh_script}" && "${SKIP_DEMOKRATIA_AUTH_REFRESH:-}" != "1" ]]; then
+  "${refresh_script}"
+fi
 
 if [[ -z "${GH_CONFIG_DIR:-}" && -f "${default_gh_config_dir}/hosts.yml" ]]; then
   export GH_CONFIG_DIR="${default_gh_config_dir}"
