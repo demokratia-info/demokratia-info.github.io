@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://carnegieendowment.org/people/andrew-odonohue\" target=\"_blank\" rel=\"noopener noreferrer\">Andrew O&#x27;Donohue</a>",
   "journal": "",
   "dateText": "פורסם: 08.10.2025",
+  "sourcePublishedDate": "2025-10-08",
   "doiUrl": "https://doi.org/10.31219/osf.io/dt486_v2",
   "doiLabel": "https://doi.org/10.31219/osf.io/dt486_v2",
   "authors": [

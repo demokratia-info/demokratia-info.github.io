@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6970-6317\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feinstein</a>",
   "journal": "Center for Open Science",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-09-01",
   "doiUrl": "https://doi.org/10.31235/osf.io/h28va_v1",
   "doiLabel": "https://doi.org/10.31235/osf.io/h28va_v1",
   "authors": [

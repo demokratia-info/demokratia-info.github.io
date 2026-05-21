@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
   "journal": "",
   "dateText": "פורסם: 21.09.2025",
+  "sourcePublishedDate": "2025-09-21",
   "doiUrl": "https://doi.org/10.59704/8ceb675ffc71d8c5",
   "doiLabel": "https://doi.org/10.59704/8ceb675ffc71d8c5",
   "authors": [

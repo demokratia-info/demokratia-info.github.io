@@ -13,6 +13,7 @@
   "authorsHtml": "Yakub Halabi",
   "journal": "Journal of Developing Societies",
   "dateText": "פורסם: 2026",
+  "sourcePublishedDate": "2026-03-19",
   "doiUrl": "https://doi.org/10.1177/0169796x261429214",
   "doiLabel": "https://doi.org/10.1177/0169796x261429214",
   "authors": [

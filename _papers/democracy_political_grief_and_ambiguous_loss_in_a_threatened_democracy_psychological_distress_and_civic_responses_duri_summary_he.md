@@ -13,6 +13,7 @@
   "authorsHtml": "Einat Yehene, Shay Ohayon",
   "journal": "Frontiers in Psychiatry",
   "dateText": "פורסם: 2026",
+  "sourcePublishedDate": "2026-01-12",
   "doiUrl": "https://doi.org/10.3389/fpsyt.2025.1687951",
   "doiLabel": "https://doi.org/10.3389/fpsyt.2025.1687951",
   "authors": [

@@ -13,6 +13,7 @@
   "authorsHtml": "Yaron Katz",
   "journal": "Arabic Language Literature & Culture",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-08-30",
   "doiUrl": "https://doi.org/10.11648/j.allc.20251002.11",
   "doiLabel": "https://doi.org/10.11648/j.allc.20251002.11",
   "authors": [

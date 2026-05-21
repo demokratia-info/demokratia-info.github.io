@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://www.bristol.ac.uk/people/person/Assaf-Bondy-8f3787a9-b9fc-4b33-8a27-73cafb8c041a/\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf S. Bondy</a>",
   "journal": "Democratization",
   "dateText": "פורסם אונליין: 23 במאי 2025",
+  "sourcePublishedDate": "2025-05-23",
   "doiUrl": "https://doi.org/10.1080/13510347.2025.2507359",
   "doiLabel": "https://doi.org/10.1080/13510347.2025.2507359",
   "authors": [

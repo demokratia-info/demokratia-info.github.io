@@ -100,7 +100,9 @@ li { margin: 0 0 6px; }
 .topic-content p, .summary { color: var(--muted); font-size: 15px; line-height: 1.5; }
 .topic-count { margin-top: auto; padding-top: 12px; color: var(--link); font-size: 14px; font-weight: 700; }
 .authors { margin-bottom: 8px; color: var(--accent-dark); font-size: 15px; font-weight: 700; }
-.new-badge { align-self: flex-start; margin-bottom: 8px; color: #b3261e; font-size: 15px; font-weight: 700; line-height: 1; }
+.badge-row { display: flex; flex-wrap: wrap; align-self: flex-start; gap: 6px 10px; margin-bottom: 8px; }
+.new-badge { color: #b3261e; font-size: 15px; font-weight: 700; line-height: 1; }
+.recent-paper-badge { color: #0b5d2a; }
 .open { margin-top: auto; padding-top: 16px; color: var(--link); font-weight: 700; }
 
 .page-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 12px; margin: 0 0 20px; }

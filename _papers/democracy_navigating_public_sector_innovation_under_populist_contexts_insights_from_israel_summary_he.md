@@ -13,6 +13,7 @@
   "authorsHtml": "Rita Golstein-Galperin, Nissim Cohen, Emre Cinar",
   "journal": "The American Review of Public Administration",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-12-15",
   "doiUrl": "https://doi.org/10.1177/02750740251400754",
   "doiLabel": "https://doi.org/10.1177/02750740251400754",
   "authors": [

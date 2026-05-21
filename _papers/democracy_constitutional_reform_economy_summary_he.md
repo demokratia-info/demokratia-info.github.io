@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/erez-cohen-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Erez Cohen</a>",
   "journal": "The Social Science Journal",
   "dateText": "פורסם אונליין: 10 ביולי 2025",
+  "sourcePublishedDate": "2025-07-10",
   "doiUrl": "https://doi.org/10.1080/03623319.2025.2529592",
   "doiLabel": "https://doi.org/10.1080/03623319.2025.2529592",
   "authors": [

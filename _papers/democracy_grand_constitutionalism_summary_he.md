@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://law.queensu.ca/faculty-research/faculty-directory/kahana-tsvi\" target=\"_blank\" rel=\"noopener noreferrer\">Tsvi Kahana</a>",
   "journal": "The Oxford Handbook of the Israeli Constitution",
   "dateText": "פורסם: 24.03.2026",
+  "sourcePublishedDate": "2026-03-24",
   "doiUrl": "https://doi.org/10.1093/oxfordhb/9780192843524.013.0019",
   "doiLabel": "https://doi.org/10.1093/oxfordhb/9780192843524.013.0019",
   "authors": [

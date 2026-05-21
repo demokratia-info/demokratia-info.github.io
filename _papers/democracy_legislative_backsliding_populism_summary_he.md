@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",
   "journal": "Frontiers in Political Science",
   "dateText": "פורסם אונליין: 13 ביוני 2025",
+  "sourcePublishedDate": "2025-06-13",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1549528",
   "doiLabel": "https://doi.org/10.3389/fpos.2025.1549528",
   "authors": [

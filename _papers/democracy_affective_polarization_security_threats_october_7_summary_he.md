@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>; <a href=\"https://en.politics.huji.ac.il/people/yair-amitai\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Amital</a>; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",
   "journal": "SSRN / Elsevier posted content",
   "dateText": "טיוטת מחקר/posted content, 2026",
+  "sourcePublishedDate": "2026-01-01",
   "doiUrl": "https://doi.org/10.2139/ssrn.6441339",
   "doiLabel": "https://doi.org/10.2139/ssrn.6441339",
   "authors": [

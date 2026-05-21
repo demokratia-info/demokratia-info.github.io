@@ -13,6 +13,7 @@
   "authorsHtml": "Silvia Adler, Ayelet Kohn",
   "journal": "Humanities and Social Sciences Communications",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-07-04",
   "doiUrl": "https://doi.org/10.1057/s41599-025-05322-9",
   "doiLabel": "https://doi.org/10.1057/s41599-025-05322-9",
   "authors": [

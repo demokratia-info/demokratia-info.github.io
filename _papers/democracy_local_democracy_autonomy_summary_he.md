@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yblank\" target=\"_blank\" rel=\"noopener noreferrer\">Yishai Blank</a>; <a href=\"https://en-law.tau.ac.il/profile/issirz\" target=\"_blank\" rel=\"noopener noreferrer\">Issi Rosen-Zvi</a>; <a href=\"https://en-law.tau.ac.il/profile/danlargm\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Largman</a>",
   "journal": "Theoretical Inquiries in Law",
   "dateText": "גיליון: 2025; פורסם בכרך 26, גיליון 2",
+  "sourcePublishedDate": "2025-09-01",
   "doiUrl": "https://doi.org/10.1515/til-2025-0022",
   "doiLabel": "https://doi.org/10.1515/til-2025-0022",
   "authors": [

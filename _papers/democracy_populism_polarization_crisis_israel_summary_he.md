@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",
   "journal": "SSRN Electronic Journal",
   "dateText": "פורסם: 2026",
+  "sourcePublishedDate": "2026-01-01",
   "doiUrl": "https://doi.org/10.2139/ssrn.6191678",
   "doiLabel": "https://doi.org/10.2139/ssrn.6191678",
   "authors": [

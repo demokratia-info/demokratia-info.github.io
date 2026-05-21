@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drreutitzkovitchmalka.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Reut Itzkovitch-Malka</a>",
   "journal": "Laws",
   "dateText": "2025",
+  "sourcePublishedDate": "2025-10-12",
   "doiUrl": "https://doi.org/10.3390/laws14050077",
   "doiLabel": "https://doi.org/10.3390/laws14050077",
   "authors": [

@@ -13,6 +13,7 @@
   "authorsHtml": "Maya Mark",
   "journal": "Law and History Review",
   "dateText": "פורסם: 2026",
+  "sourcePublishedDate": "2026-02-27",
   "doiUrl": "https://doi.org/10.1017/s0738248026101539",
   "doiLabel": "https://doi.org/10.1017/s0738248026101539",
   "authors": [

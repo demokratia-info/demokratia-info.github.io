@@ -26,6 +26,9 @@
     "@type": "ScholarlyArticle",
     "name": {{ page.paperTitle | jsonify }},
     "author": {{ page.sourceAuthors | jsonify }}
+    {% if page.sourcePublishedDate %},
+    "datePublished": {{ page.sourcePublishedDate | jsonify }}
+    {% endif %}
     {% if page.journal %},
     "isPartOf": { "@type": "Periodical", "name": {{ page.journal | jsonify }} }
     {% endif %}

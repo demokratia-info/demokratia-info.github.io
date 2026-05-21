@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://talshaanan.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Shaanan</a>; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
   "journal": "Democratization",
   "dateText": "פורסם אונליין: 5 בפברואר 2026",
+  "sourcePublishedDate": "2026-02-05",
   "doiUrl": "https://doi.org/10.1080/13510347.2026.2615131",
   "doiLabel": "https://doi.org/10.1080/13510347.2026.2615131",
   "authors": [

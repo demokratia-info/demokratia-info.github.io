@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>; Noa Cohen-Eick; <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
   "journal": "Social Psychological and Personality Science",
   "dateText": "פורסם אונליין: 26 בדצמבר 2025",
+  "sourcePublishedDate": "2025-12-26",
   "doiUrl": "https://doi.org/10.1177/19485506251405315",
   "doiLabel": "https://doi.org/10.1177/19485506251405315",
   "authors": [

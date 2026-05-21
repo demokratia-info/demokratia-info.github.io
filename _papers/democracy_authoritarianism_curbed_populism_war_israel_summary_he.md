@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>; <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>",
   "journal": "",
   "dateText": "פורסם: 24.09.2025",
+  "sourcePublishedDate": "2025-09-24",
   "doiUrl": "https://doi.org/10.55271/jps000118",
   "doiLabel": "https://doi.org/10.55271/jps000118",
   "authors": [

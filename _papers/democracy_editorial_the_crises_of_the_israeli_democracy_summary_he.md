@@ -13,6 +13,7 @@
   "authorsHtml": "Yael Shomer; Eitan Tzelgov; Roi Zur",
   "journal": "",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-07-14",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1627969",
   "doiLabel": "https://doi.org/10.3389/fpos.2025.1627969",
   "authors": [

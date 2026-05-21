@@ -75,13 +75,21 @@
       {% assign new_badge_days = site.data.site.newBadgeDays | default: 3 %}
       {% assign new_badge_offset_seconds = new_badge_days | minus: 1 | times: 86400 %}
       {% assign new_badge_cutoff = site.time | date: "%s" | minus: new_badge_offset_seconds | date: "%Y-%m-%d" %}
+      {% assign recent_source_days = site.data.site.recentSourcePaperDays | default: 365 %}
+      {% assign recent_source_offset_seconds = recent_source_days | times: 86400 %}
+      {% assign recent_source_cutoff = site.time | date: "%s" | minus: recent_source_offset_seconds | date: "%Y-%m-%d" %}
+      {% assign today = site.time | date: "%Y-%m-%d" %}
       {% assign papers = all_papers %}
       {% for paper in papers %}
         {% if paper.topics contains topic.id %}
           {% assign show_new = false %}
+          {% assign show_recent_source = false %}
           {% assign paper_created = paper.datePublished | default: paper.dateModified %}
           {% if paper_created >= new_badge_cutoff %}{% assign show_new = true %}{% endif %}
-          {% include paper_card.html paper=paper show_new=show_new high_priority=false %}
+          {% if paper.sourcePublishedDate and paper.sourcePublishedDate >= recent_source_cutoff and paper.sourcePublishedDate <= today %}
+            {% assign show_recent_source = true %}
+          {% endif %}
+          {% include paper_card.html paper=paper show_new=show_new show_recent_source=show_recent_source high_priority=false %}
         {% endif %}
       {% endfor %}
     </section>

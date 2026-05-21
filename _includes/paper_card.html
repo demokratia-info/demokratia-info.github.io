@@ -6,7 +6,12 @@
 <a class="item" href="{{ paper.url | relative_url }}">
   <img class="preview" src="{{ image_src | relative_url }}" alt="{{ paper.image.altHe | escape }}" width="800" height="600" {% if include.high_priority %}decoding="async" fetchpriority="high"{% else %}loading="lazy" decoding="async"{% endif %}>
   <span class="content">
-    {% if include.show_new %}<span class="new-badge">חדש!</span>{% endif %}
+    {% if include.show_new or include.show_recent_source %}
+      <span class="badge-row">
+        {% if include.show_new %}<span class="new-badge site-new-badge">חדש באתר</span>{% endif %}
+        {% if include.show_recent_source %}<span class="new-badge recent-paper-badge">מאמר חדש</span>{% endif %}
+      </span>
+    {% endif %}
     <h2>{{ paper.titleHe }}</h2>
     <p class="authors">{{ paper.authorsCardHe }}</p>
     <p class="summary">{{ paper.summaryHe }}</p>

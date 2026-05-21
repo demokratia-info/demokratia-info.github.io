@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat/\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>; <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>; <a href=\"https://www.uantwerpen.be/en/staff/nir-kosti_28947/\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>; <a href=\"https://cris.biu.ac.il/en/persons/ilana-shpaizman/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
   "journal": "Perspectives on Politics",
   "dateText": "פורסם אונליין: 26 ביוני 2025",
+  "sourcePublishedDate": "2025-06-26",
   "doiUrl": "https://doi.org/10.1017/S153759272500074X",
   "doiLabel": "https://doi.org/10.1017/S153759272500074X",
   "authors": [

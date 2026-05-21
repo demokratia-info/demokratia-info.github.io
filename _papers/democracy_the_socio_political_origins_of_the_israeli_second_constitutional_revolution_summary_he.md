@@ -13,6 +13,7 @@
   "authorsHtml": "Nadiv Mordechay",
   "journal": "ICL Journal",
   "dateText": "פורסם: 2026",
+  "sourcePublishedDate": "2026-01-19",
   "doiUrl": "https://doi.org/10.1515/icl-2025-0058",
   "doiLabel": "https://doi.org/10.1515/icl-2025-0058",
   "authors": [

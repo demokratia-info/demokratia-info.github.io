@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>; <a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",
   "journal": "Political Research Quarterly",
   "dateText": "פורסם אונליין: 11 בספטמבר 2025; גיליון: מרץ 2026",
+  "sourcePublishedDate": "2025-09-11",
   "doiUrl": "https://doi.org/10.1177/10659129251370610",
   "doiLabel": "https://doi.org/10.1177/10659129251370610",
   "authors": [

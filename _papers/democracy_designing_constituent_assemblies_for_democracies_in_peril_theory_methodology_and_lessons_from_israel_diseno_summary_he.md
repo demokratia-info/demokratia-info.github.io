@@ -13,6 +13,7 @@
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://en.politics.tau.ac.il/profile/hannal\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>, Tirza Kelman",
   "journal": "Texas Digital Library (University of Texas)",
   "dateText": "פורסם: 2025",
+  "sourcePublishedDate": "2025-12-31",
   "doiUrl": "https://doi.org/10.15781/5ecwd560",
   "doiLabel": "https://doi.org/10.15781/5ecwd560",
   "authors": [
