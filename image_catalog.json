@@ -7,7 +7,7 @@
     "format": "jpeg"
   },
   "purpose": "Internal catalog for selecting or reusing homepage paper graphics without re-analyzing image files.",
-  "reusePolicy": "Before generating a new graphic, compare the new paper topic with this catalog. Reuse an existing image only when the conceptual fit is strong and the image is not used by any of the newest 6 homepage cards. If no suitable image exists, generate a new polished editorial 4:3 image and convert it to 800x600 JPEG before committing. Update this catalog whenever an image is added or reused.",
+  "reusePolicy": "For each nightly batch, create new paper-specific images for at least half of the new pages. Reuse existing images only for the remaining pages when the conceptual fit is strong and the image is not used by the newest 6 homepage cards.",
   "homepagePriorityPolicy": "On index.html, keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
     {
@@ -20,7 +20,10 @@
         "democracy_nation_state_law_populism_colonialism_religion_summary_he.html",
         "democracy_constitutional_blitz_backsliding_summary_he.html",
         "democracy_knesset_democracy_framings_summary_he.html",
-        "democracy_legislative_backsliding_populism_summary_he.html"
+        "democracy_legislative_backsliding_populism_summary_he.html",
+        "democracy_garrison_democracy_the_impact_of_the_1967_occupation_of_territories_on_institutional_d_summary_he.html",
+        "democracy_from_rule_of_law_to_the_law_of_the_ruler_the_twofold_upheaval_of_the_israeli_right_summary_he.html",
+        "democracy_editorial_the_crises_of_the_israeli_democracy_summary_he.html"
       ],
       "cardTitleHe": "איך מזהים נסיגה דמוקרטית בתוך תהליך החקיקה?",
       "authorsHe": "אסנת עקירב",
@@ -78,7 +81,12 @@
         "democracy_affective_polarization_security_threats_october_7_summary_he.html",
         "democracy_court_capture_judicial_selection_summary_he.html",
         "democracy_judicial_revolution_reconceptualized_summary_he.html",
-        "democracy_abusive_constitutionalism_summary_he.html"
+        "democracy_abusive_constitutionalism_summary_he.html",
+        "democracy_alternative_pluralisms_israeli_and_american_constitutionalism_in_comparative_perspecti_summary_he.html",
+        "democracy_hybrid_constitutionalism_the_israeli_case_for_judicial_review_and_why_we_should_care_summary_he.html",
+        "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.html",
+        "democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.html",
+        "democracy_the_institutional_role_of_the_judiciary_in_israel_s_constitutional_democracy_summary_he.html"
       ],
       "cardTitleHe": "מתי רפורמה משפטית הופכת לפגיעה בליבת הדמוקרטיה?",
       "authorsHe": "יניב רוזנאי, רוזלינד דיקסון, דייוויד א' לנדאו",
@@ -209,7 +217,14 @@
         "democracy_social_media_news_polarization_experiment_summary_he.html",
         "democracy_political_scientists_mediated_engagement_summary_he.html",
         "democracy_local_democracy_autonomy_summary_he.html",
-        "democracy_civil_society_ngos_backsliding_summary_he.html"
+        "democracy_civil_society_ngos_backsliding_summary_he.html",
+        "democracy_the_value_of_political_connections_in_a_multiparty_parliamentary_democracy_evidence_fr_summary_he.html",
+        "democracy_civic_and_citizenship_education_in_israel_summary_he.html",
+        "democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.html",
+        "democracy_civil_society_encroachment_in_nonliberal_democracies_the_case_of_israel_summary_he.html",
+        "democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.html",
+        "democracy_encroachment_and_reaction_of_civil_society_in_non_liberal_democracies_the_case_of_isra_summary_he.html",
+        "democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.html"
       ],
       "cardTitleHe": "האם מתקפה על ארגוני חברה אזרחית מחלישה את הדמוקרטיה?",
       "authorsHe": "אסיף אפרת, עומר יאיר",
@@ -337,7 +352,9 @@
         "democracy_authoritarianism_curbed_populism_war_israel_summary_he.html",
         "democracy_intragroup_affective_polarization_conflict_summary_he.html",
         "democracy_disruptive_protests_backsliding_summary_he.html",
-        "democracy_political_violence_summary_he.html"
+        "democracy_political_violence_summary_he.html",
+        "democracy_arabs_in_israel_political_tolerance_and_ethnic_conflict_summary_he.html",
+        "democracy_religion_postmodernization_and_israeli_approaches_to_the_conflict_with_the_palestinian_summary_he.html"
       ],
       "cardTitleHe": "נסיגה דמוקרטית ואלימות פוליטית: מה קורה לתודעה הציבורית?",
       "authorsHe": "טל שאנן, סיון הירש-הפלר, דפנה קנטי, יוליה אלעד-שטרנגר",
@@ -469,7 +486,20 @@
         "democracy_political_scientists_civic_studies_summary_he.html",
         "democracy_haredi_civil_society_democracy_summary_he.html",
         "democracy_national_identity_equal_citizenship_summary_he.html",
-        "democracy_majority_nationalism_equal_citizenship_summary_he.html"
+        "democracy_majority_nationalism_equal_citizenship_summary_he.html",
+        "democracy_in_your_face_democracy_education_for_belonging_and_its_challenges_in_israel_summary_he.html",
+        "democracy_restoring_ethnic_democracy_the_or_commission_and_palestinian_citizenship_in_israel_summary_he.html",
+        "democracy_enshrining_discrimination_israel_s_nation_state_law_summary_he.html",
+        "democracy_reflections_on_october_2000_a_landmark_in_jewish_arab_relations_in_israel_summary_he.html",
+        "democracy_perceptions_of_democracy_among_islamic_education_teachers_in_israeli_arab_high_schools_summary_he.html",
+        "democracy_state_and_minority_in_israel_the_case_of_ethnic_state_and_the_predicament_of_its_minor_summary_he.html",
+        "democracy_the_status_of_arabic_in_israel_reflections_on_the_power_of_law_to_produce_social_chang_summary_he.html",
+        "democracy_arab_and_jewish_students_participatory_action_research_at_the_university_of_haifa_summary_he.html",
+        "democracy_israel_and_its_arab_citizens_predicaments_in_the_relationship_between_ethnic_states_an_summary_he.html",
+        "democracy_israel_s_arab_citizens_the_continuing_struggle_summary_he.html",
+        "democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he.html",
+        "democracy_analysis_of_israelis_jews_and_arab_palestinians_exploring_law_in_society_and_society_i_summary_he.html",
+        "democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.html"
       ],
       "cardTitleHe": "מה חוקי לאום עושים לתחושת השוויון של מיעוטים?",
       "authorsHe": "נטע ברק-קורן, נעם גדרון, יובל פלדמן",
@@ -508,6 +538,636 @@
       ],
       "reuseGuidance": "אפשר לעשות שימוש חוזר כאשר מאמר חדש עוסק באותם מוסדות, זכויות, קבוצה חברתית או דפוס שחיקה דמוקרטית, ובתנאי שהתמונה אינה מופיעה בששת הכרטיסים הראשונים בעמוד הבית.",
       "qualityNotes": "איור עריכתי מלוטש בסגנון הקיים: 4:3, גווני שמנת ואוכרה, נגיעות טורקיז/כחול עמוק, ללא טקסט או שכבות ממשק."
+    },
+    {
+      "file": "html_qa/democracy_back_to_the_knesset_israeli_arab_vote_in_the_20th_knesset_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_back_to_the_knesset_israeli_arab_vote_in_the_20th_knesset_elections_summary_he.html",
+      "usedBy": [
+        "democracy_back_to_the_knesset_israeli_arab_vote_in_the_20th_knesset_elections_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Arik Rudnitzky",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_on_legal_literacy_and_mobilization_of_students_rights_from_a_disempowered_professional_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_on_legal_literacy_and_mobilization_of_students_rights_from_a_disempowered_professional_summary_he.html",
+      "usedBy": [
+        "democracy_on_legal_literacy_and_mobilization_of_students_rights_from_a_disempowered_professional_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+      "authorsHe": "Lotem Perry-Hazan",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_a_strategic_court_and_national_security_comparative_lessons_from_the_israeli_case_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_a_strategic_court_and_national_security_comparative_lessons_from_the_israeli_case_summary_he.html",
+      "usedBy": [
+        "democracy_a_strategic_court_and_national_security_comparative_lessons_from_the_israeli_case_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Udi Sommer",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_rights_of_the_arab_minority_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_rights_of_the_arab_minority_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_rights_of_the_arab_minority_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Ori Stendel",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_protests_and_political_violence_among_arab_knesset_members_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_protests_and_political_violence_among_arab_knesset_members_summary_he.html",
+      "usedBy": [
+        "democracy_protests_and_political_violence_among_arab_knesset_members_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Gadi Hitman, Nir Sinay",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בדעת קהל, קיטוב ואלימות פוליטית, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_principle_of_equality_in_the_eyes_of_the_israeli_citizens_a_comparative_study_betw_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_principle_of_equality_in_the_eyes_of_the_israeli_citizens_a_comparative_study_betw_summary_he.html",
+      "usedBy": [
+        "democracy_the_principle_of_equality_in_the_eyes_of_the_israeli_citizens_a_comparative_study_betw_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Alaa Azaizah",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_equality_of_rights_under_israeli_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_equality_of_rights_under_israeli_law_summary_he.html",
+      "usedBy": [
+        "democracy_equality_of_rights_under_israeli_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Natan Lerner",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.html",
+      "usedBy": [
+        "democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על קיטוב, סובלנות ואלימות פוליטית?",
+      "authorsHe": "Helena Desivilya Syna",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בדעת קהל, קיטוב ואלימות פוליטית, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_persistence_of_the_exception_some_remarks_on_the_story_of_israeli_constitutionalis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_persistence_of_the_exception_some_remarks_on_the_story_of_israeli_constitutionalis_summary_he.html",
+      "usedBy": [
+        "democracy_the_persistence_of_the_exception_some_remarks_on_the_story_of_israeli_constitutionalis_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Raef Zreik",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_first_fifty_years_of_the_supreme_court_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_first_fifty_years_of_the_supreme_court_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_first_fifty_years_of_the_supreme_court_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Haim H. Cohn",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_religion_and_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religion_and_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_religion_and_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?",
+      "authorsHe": "Shlomo Deshen",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he.html",
+      "usedBy": [
+        "democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "David Ellenson",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Yoav Peled",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_citizenship_and_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizenship_and_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_and_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "DONNA ROBINSON DIVINE",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "David Ellenson",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.html",
+      "usedBy": [
+        "democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Frances Raday",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.html",
+      "usedBy": [
+        "democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+      "authorsHe": "Ramazan ODUNCU",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_14_religion_and_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_14_religion_and_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_14_religion_and_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?",
+      "authorsHe": "Charles S. Liebman",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.html",
+      "usedBy": [
+        "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "David Koren",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_judicial_review_of_counter_terrorism_measures_the_israeli_model_for_the_role_of_the_ju_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_review_of_counter_terrorism_measures_the_israeli_model_for_the_role_of_the_ju_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_review_of_counter_terrorism_measures_the_israeli_model_for_the_role_of_the_ju_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Yigal Mersel",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.html",
+      "usedBy": [
+        "democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?",
+      "authorsHe": "Samuel C. Heilman",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק במוסדות, חברה אזרחית ושירות ציבורי, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+      "authorsHe": "Arend Lijphart",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_constitutions_and_political_reconstruction_israel_s_quest_for_a_constitution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutions_and_political_reconstruction_israel_s_quest_for_a_constitution_summary_he.html",
+      "usedBy": [
+        "democracy_constitutions_and_political_reconstruction_israel_s_quest_for_a_constitution_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+      "authorsHe": "Ruth Gavison",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.html",
+      "usedBy": [
+        "democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על מוסדות, מחאה והשתתפות דמוקרטית?",
+      "authorsHe": "Hilla Dayan",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק במוסדות, חברה אזרחית ושירות ציבורי, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_idealism_and_realism_in_israeli_constitutional_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_idealism_and_realism_in_israeli_constitutional_law_summary_he.html",
+      "usedBy": [
+        "democracy_idealism_and_realism_in_israeli_constitutional_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Adam Shinar",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_illiberal_measures_in_backsliding_democracies_differences_and_similarities_between_rec_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_illiberal_measures_in_backsliding_democracies_differences_and_similarities_between_rec_summary_he.html",
+      "usedBy": [
+        "democracy_illiberal_measures_in_backsliding_democracies_differences_and_similarities_between_rec_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+      "authorsHe": "Mordechai Kremnitzer, Yuval Shany",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_extremism_and_violence_in_israeli_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_extremism_and_violence_in_israeli_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_extremism_and_violence_in_israeli_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על קיטוב, סובלנות ואלימות פוליטית?",
+      "authorsHe": "Ehud Sprinzak",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בדעת קהל, קיטוב ואלימות פוליטית, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_hobbesian_citizenship_how_the_palestinians_became_a_minority_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_hobbesian_citizenship_how_the_palestinians_became_a_minority_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_hobbesian_citizenship_how_the_palestinians_became_a_minority_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?",
+      "authorsHe": "Hassan Jabareen",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בזכויות, שוויון ומיעוטים, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_constitutionalization_of_the_israeli_legal_system_as_a_result_of_the_basic_laws_an_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_constitutionalization_of_the_israeli_legal_system_as_a_result_of_the_basic_laws_an_summary_he.html",
+      "usedBy": [
+        "democracy_the_constitutionalization_of_the_israeli_legal_system_as_a_result_of_the_basic_laws_an_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Aharon Barak",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בחוקתיות, בתי משפט ושלטון החוק, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
+    },
+    {
+      "file": "html_qa/democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?",
+      "authorsHe": "Waxman, Peleg",
+      "visualDescriptionHe": "איור עריכתי חדש שנוצר לריצת 60 מאמרים ומתאים לנושא המאמר הספציפי",
+      "semanticDescriptionHe": "תמצית עברית של מחקר העוסק בנסיגה דמוקרטית ופופוליזם, ומסבירה מדוע הסוגיה חשובה להבנת הדמוקרטיה הליברלית בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "נוצר כתמונה חדשה לריצת הלילה; להשתמש שוב רק בהתאמה מושגית חזקה וכאשר אינו מופיע בששת כרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי 4:3 ללא טקסט, לוגו, דגלים או רכיבי ממשק."
     }
   ],
   "topicGraphics": [
