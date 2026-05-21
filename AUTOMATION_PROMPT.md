@@ -9,11 +9,11 @@ Recommended working directory: the live repository root, for example `/Users/tal
 Recommended execution environment: `local`, so failed runs leave recoverable edits in the normal checkout.
 
 Local GitHub authentication for automations should prefer the dedicated
-non-keychain config directory `/Users/talraviv/.codex/gh-demokratia-auth` when it
+non-keychain config directory `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` when it
 exists. Before GitHub CLI commands, private-repo checks, `git ls-remote`, `git
 push`, workflow monitoring, or other remote GitHub operations, run
 `scripts/refresh_automation_github_auth.sh`, then export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` and unset `GH_TOKEN`
+`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and unset `GH_TOKEN`
 and `GITHUB_TOKEN`. This avoids nightly runs depending on a macOS keychain
 session, stale inactive/default `gh` account, or an old dedicated automation
 token. Do not print or copy any token.
@@ -25,8 +25,8 @@ Public website checkout: `/Users/talraviv/Documents/DemocracyWebSite/github_page
 Private operational repository: `demokratia-info/democracy-paper-suggestions-private`, branch `main`, files `suggest_queue.csv` and `Authors.MD`.
 
 At the start of the run, run `scripts/refresh_automation_github_auth.sh`. If
-`/Users/talraviv/.codex/gh-demokratia-auth/hosts.yml` exists after that, run
-`export GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` and `unset
+`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth/hosts.yml` exists after that, run
+`export GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and `unset
 GH_TOKEN GITHUB_TOKEN`, then keep that environment in force for all `gh` commands
 and remote Git operations.
 

@@ -90,11 +90,11 @@ On this Mac, the reliable local Jekyll build command is:
 Plain `bundle exec jekyll build` may use Apple Ruby 2.6 and fail. GitHub Actions remains the canonical deployment build.
 
 For unattended automations on this Mac, a dedicated GitHub CLI config may exist at
-`/Users/talraviv/.codex/gh-demokratia-auth`. Run
+`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth`. Run
 `scripts/refresh_automation_github_auth.sh` before `gh` commands or remote Git
 operations; it can import a newly supplied `GH_TOKEN`/`GITHUB_TOKEN` after
 validating that the token belongs to `demokratia-info` and has required repo
-access. Then export `GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth`
+access. Then export `GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth`
 and unset `GH_TOKEN`/`GITHUB_TOKEN` for subsequent commands. This keeps runs from
 depending on an interactive macOS keychain session or an obsolete copied token.
 The token in that directory is private local operational state; do not print,

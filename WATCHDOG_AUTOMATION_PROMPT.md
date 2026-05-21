@@ -9,10 +9,10 @@ Recommended working directory: `/Users/talraviv/Documents/DemocracyWebSite/githu
 Recommended execution environment: `local`.
 
 Local GitHub authentication for automations should prefer the dedicated
-non-keychain config directory `/Users/talraviv/.codex/gh-demokratia-auth` when it
+non-keychain config directory `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` when it
 exists. Before GitHub CLI commands, `git ls-remote`, `git push`, workflow
 monitoring, or other remote GitHub operations, export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` after running
+`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` after running
 `scripts/refresh_automation_github_auth.sh`, then unset `GH_TOKEN` and
 `GITHUB_TOKEN` for subsequent commands. Do not print or copy any token.
 
@@ -22,8 +22,8 @@ Check whether the nightly democracy website update committed locally but failed 
 Work in `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`. The public website repository is `demokratia-info/demokratia-info.github.io`, and the live site URL is `https://demokratia-info.github.io/`. Start by reading `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/memory.md` and this automation's memory file if those files exist. Then run `git status --short --branch`, `git rev-parse HEAD`, and `git ls-remote origin refs/heads/main`.
 
 At the start of the run, run `scripts/refresh_automation_github_auth.sh`. If
-`/Users/talraviv/.codex/gh-demokratia-auth/hosts.yml` exists after that, run
-`export GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` and `unset
+`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth/hosts.yml` exists after that, run
+`export GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and `unset
 GH_TOKEN GITHUB_TOKEN`, then keep that environment in force for all `gh` commands
 and remote Git operations.
 

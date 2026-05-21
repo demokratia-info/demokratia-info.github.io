@@ -5,7 +5,7 @@ host="github.com"
 required_user="demokratia-info"
 public_repo="demokratia-info/demokratia-info.github.io"
 private_repo="demokratia-info/democracy-paper-suggestions-private"
-auth_dir="${DEMOCRATIA_GH_CONFIG_DIR:-/Users/talraviv/.codex/gh-demokratia-auth}"
+auth_dir="${DEMOCRATIA_GH_CONFIG_DIR:-/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth}"
 
 if ! command -v gh >/dev/null 2>&1; then
   echo "GitHub CLI 'gh' is not available on PATH." >&2

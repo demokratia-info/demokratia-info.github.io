@@ -28,11 +28,11 @@ Codex nightly updates should read the private `demokratia-info/democracy-paper-s
 Run `scripts/check_private_repo_access.sh` before private queue or author-policy work. The script checks that `gh` is using the `demokratia-info` account, confirms write-capable permission on the private repository, verifies the two private file paths without printing private contents, and checks authenticated git access.
 
 For unattended local automations, prefer the dedicated GitHub CLI config directory
-`/Users/talraviv/.codex/gh-demokratia-auth`. Run
+`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth`. Run
 `scripts/refresh_automation_github_auth.sh` before `gh` or remote Git commands;
 it can import a newly supplied `GH_TOKEN`/`GITHUB_TOKEN` after validating that the
 token belongs to `demokratia-info` and has required repo access. Then export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` and unset
+`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and unset
 `GH_TOKEN`/`GITHUB_TOKEN` for the remaining commands. This avoids depending on an
 interactive macOS keychain session or an obsolete copied token. Never print or
 commit the token stored in that private local config.
