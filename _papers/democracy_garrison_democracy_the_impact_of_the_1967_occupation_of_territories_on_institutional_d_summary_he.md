@@ -38,8 +38,8 @@
     "רובנות"
   ],
   "image": {
-    "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_garrison_democracy_the_impact_of_the_1967_occupation_of_territories_on_institutional_d_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

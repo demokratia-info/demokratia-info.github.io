@@ -38,8 +38,8 @@
     "רובנות"
   ],
   "image": {
-    "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_from_rule_of_law_to_the_law_of_the_ruler_the_twofold_upheaval_of_the_israeli_right_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

@@ -54,8 +54,8 @@
     "רובנות"
   ],
   "image": {
-    "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_editorial_the_crises_of_the_israeli_democracy_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
   },
   "datePublished": "2026-05-21",

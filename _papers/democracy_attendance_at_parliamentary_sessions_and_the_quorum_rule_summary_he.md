@@ -39,8 +39,8 @@
     "מוסדות"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_attendance_at_parliamentary_sessions_and_the_quorum_rule_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור על בית משפט, חוקה ושלטון החוק"
   },
   "datePublished": "2026-05-21",

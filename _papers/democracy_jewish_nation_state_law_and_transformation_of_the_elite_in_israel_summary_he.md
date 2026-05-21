@@ -38,8 +38,8 @@
     "מוסדות"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור על בית משפט, חוקה ושלטון החוק"
   },
   "datePublished": "2026-05-21",

@@ -50,8 +50,8 @@
     "מוסדות"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_the_history_of_israeli_pre_state_constitutionalism_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור על בית משפט, חוקה ושלטון החוק"
   },
   "datePublished": "2026-05-21",

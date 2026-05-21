@@ -39,8 +39,8 @@
     "מוסדות"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_basic_law_israel_as_nation_state_national_honor_defies_human_dignity_and_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור על בית משפט, חוקה ושלטון החוק"
   },
   "datePublished": "2026-05-21",

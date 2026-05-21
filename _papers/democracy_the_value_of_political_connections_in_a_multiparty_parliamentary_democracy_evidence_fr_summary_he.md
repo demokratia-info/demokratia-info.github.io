@@ -38,8 +38,8 @@
     "פעולה קולקטיבית"
   ],
   "image": {
-    "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_the_value_of_political_connections_in_a_multiparty_parliamentary_democracy_evidence_fr_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על מוסדות, מחאה והשתתפות דמוקרטית?"
   },
   "datePublished": "2026-05-21",

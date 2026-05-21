@@ -40,8 +40,8 @@
     "מוסדות"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_counter_terrorism_law_and_the_rule_of_law_under_extreme_conditions_theor_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור על בית משפט, חוקה ושלטון החוק"
   },
   "datePublished": "2026-05-21",

@@ -38,8 +38,8 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_perceptions_of_democracy_among_islamic_education_teachers_in_israeli_arab_high_schools_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

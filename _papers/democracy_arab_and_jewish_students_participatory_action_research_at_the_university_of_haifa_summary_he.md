@@ -70,8 +70,8 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_arab_and_jewish_students_participatory_action_research_at_the_university_of_haifa_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

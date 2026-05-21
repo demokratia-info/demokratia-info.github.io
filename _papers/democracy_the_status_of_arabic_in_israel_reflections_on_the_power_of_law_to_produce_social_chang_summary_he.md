@@ -46,8 +46,8 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_the_status_of_arabic_in_israel_reflections_on_the_power_of_law_to_produce_social_chang_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
   },
   "datePublished": "2026-05-21",

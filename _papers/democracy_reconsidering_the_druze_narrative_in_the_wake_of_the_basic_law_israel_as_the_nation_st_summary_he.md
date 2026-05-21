@@ -38,8 +38,8 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

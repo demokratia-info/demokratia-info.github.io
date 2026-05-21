@@ -38,8 +38,8 @@
     "איזונים ובלמים"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.jpg",
+    "version": "2026-05-21-topic-image-diversity",
     "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
   },
   "datePublished": "2026-05-21",

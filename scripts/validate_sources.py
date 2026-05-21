@@ -19,6 +19,7 @@ PAPER_INDEX_PATH = DATA_DIR / "paper_index.json"
 PAPER_QUEUE_PATH = ROOT / "paper_queue.csv"
 SUGGEST_QUEUE_PATH = ROOT / "suggest_queue.csv"
 ARTICLE_IMAGE_SIZE = (800, 600)
+MAX_TOPIC_IMAGE_RUN = 2
 QUEUE_REQUIRED_COLUMNS = ("paper_name", "authors", "doi", "topic")
 SUGGEST_QUEUE_REQUIRED_COLUMNS = (
     "submitted_date",
@@ -418,6 +419,35 @@ def validate_suggest_queue(errors: list[str]) -> None:
             errors.append(f"suggest_queue.csv row {row_number}: status must be pending, hold, accepted, or rejected")
 
 
+def validate_topic_image_runs(papers: list[dict[str, Any]], topics: list[dict[str, Any]], errors: list[str]) -> None:
+    ordered_papers = sorted(papers, key=lambda paper: paper["sortKey"], reverse=True)
+    for topic in topics:
+        topic_id = topic.get("id")
+        if not topic_id:
+            continue
+
+        run_start = 0
+        previous_src: str | None = None
+        topic_papers = [paper for paper in ordered_papers if topic_id in paper.get("topics", [])]
+        for index, paper in enumerate([*topic_papers, None]):
+            image_src = None if paper is None else paper.get("image", {}).get("src")
+            if index == 0:
+                previous_src = image_src
+                continue
+            if image_src == previous_src:
+                continue
+
+            run_length = index - run_start
+            if previous_src and run_length > MAX_TOPIC_IMAGE_RUN:
+                run_slugs = ", ".join(str(item.get("slug")) for item in topic_papers[run_start:index])
+                errors.append(
+                    f"_data/topics.json: topic {topic_id} has {run_length} consecutive cards using "
+                    f"{previous_src}; maximum is {MAX_TOPIC_IMAGE_RUN}. Affected papers: {run_slugs}"
+                )
+            run_start = index
+            previous_src = image_src
+
+
 def validate_sources(write_index: bool) -> int:
     errors: list[str] = []
 
@@ -471,6 +501,7 @@ def validate_sources(write_index: bool) -> int:
 
     validate_paper_queue(papers, topic_ids, errors)
     validate_suggest_queue(errors)
+    validate_topic_image_runs(papers, topics, errors)
 
     paper_count = site_data.get("paperCount")
     if paper_count is not None and paper_count != len(papers):
