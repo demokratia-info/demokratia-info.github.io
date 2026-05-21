@@ -1,8 +1,534 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 62,
+  "paperCount": 82,
   "papers": [
+    {
+      "slug": "democracy_2013_elections_israeli_democracy_summary_he",
+      "file": "democracy_2013_elections_israeli_democracy_summary_he.html",
+      "permalink": "/democracy_2013_elections_israeli_democracy_summary_he.html",
+      "sortKey": 202605210030,
+      "titleHe": "מה בחירות 2013 מלמדות על הדמוקרטיה הישראלית?",
+      "paperTitle": "Introduction: The 2013 Elections and Israeli Democracy",
+      "authorsCardHe": "מיכל שמיר",
+      "sourceAuthors": [
+        "Michal Shamir"
+      ],
+      "journal": "The Elections in Israel 2013",
+      "dateText": "פורסם: 08.09.2017",
+      "doiUrl": "https://doi.org/10.4324/9781351295840-1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
+        "altHe": "איור על בחירות, ייצוג ודמוקרטיה ישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "הפרק ממקם את בחירות 2013 בתוך תהליכים רחבים של פוליטיקה ישראלית: ייצוג, מפלגות, השתתפות ושאלות עומק על אמון ציבורי."
+    },
+    {
+      "slug": "democracy_nation_state_law_equality_self_determination_summary_he",
+      "file": "democracy_nation_state_law_equality_self_determination_summary_he.html",
+      "permalink": "/democracy_nation_state_law_equality_self_determination_summary_he.html",
+      "sortKey": 202605210029,
+      "titleHe": "מה נשאר לשוויון אחרי חוק הלאום?",
+      "paperTitle": "Israel's Nation-State Law – What Now for Equality, Self-Determination, and Social Solidarity?",
+      "authorsCardHe": "תמר הוסטובסקי ברנדס",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3270476",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
+        "altHe": "איור על חוק הלאום, שוויון אזרחי וזכויות מיעוט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מנתח את חוק הלאום ושואל כיצד ניתן לשמר שוויון אזרחי וסולידריות חברתית כאשר ההכרה החוקתית מדגישה זהות לאומית של רוב."
+    },
+    {
+      "slug": "democracy_constitutional_anchoring_israel_vision_summary_he",
+      "file": "democracy_constitutional_anchoring_israel_vision_summary_he.html",
+      "permalink": "/democracy_constitutional_anchoring_israel_vision_summary_he.html",
+      "sortKey": 202605210028,
+      "titleHe": "איך מעגנים בחוקה את חזון ישראל?",
+      "paperTitle": "Constitutional Anchoring of Israel’s Vision:",
+      "authorsCardHe": "רות גביזון",
+      "sourceAuthors": [
+        "Ruth Gavison"
+      ],
+      "journal": "Defining Israel",
+      "dateText": "פורסם: 12.11.2018",
+      "doiUrl": "https://doi.org/10.2307/j.ctvd7w82b.5",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
+        "altHe": "איור על חזון חוקתי, זהות ושוויון אזרחי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן כיצד ניתן לעגן את חזון המדינה במסגרת חוקתית בלי לוותר על מורכבות היחסים בין זהות לאומית, שוויון וזכויות."
+    },
+    {
+      "slug": "democracy_backsliding_in_israel_mautner_summary_he",
+      "file": "democracy_backsliding_in_israel_mautner_summary_he.html",
+      "permalink": "/democracy_backsliding_in_israel_mautner_summary_he.html",
+      "sortKey": 202605210027,
+      "titleHe": "איך נסיגה דמוקרטית מתפתחת בישראל?",
+      "paperTitle": "Democratic Backsliding in Israel",
+      "authorsCardHe": "מנחם מאוטנר",
+      "sourceAuthors": [
+        "Menachem Mautner"
+      ],
+      "journal": "Περιμένοντας τους Bαρβάρους. Law in a Time of Constitutional Crisis.",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.5771/9783748931232-473",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על סיווג משטר ונסיגה דמוקרטית בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מציב את ישראל בתוך הדיון הבינלאומי על נסיגה דמוקרטית ומראה כיצד שחיקה מוסדית יכולה להצטבר גם בלי ביטול פורמלי של בחירות."
+    },
+    {
+      "slug": "democracy_judicial_accountability_hyperactivism_israel_summary_he",
+      "file": "democracy_judicial_accountability_hyperactivism_israel_summary_he.html",
+      "permalink": "/democracy_judicial_accountability_hyperactivism_israel_summary_he.html",
+      "sortKey": 202605210026,
+      "titleHe": "איך מאזנים בין אחריות שיפוטית לעצמאות בית המשפט?",
+      "paperTitle": "Judicial accountability in Israel: The high court of justice and the phenomenon of judicial hyperactivism",
+      "authorsCardHe": "יואב דותן",
+      "sourceAuthors": [
+        "Yoav Dotan"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 01.2002",
+      "doiUrl": "https://doi.org/10.1080/13537120208719659",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על אחריות שיפוטית ובית המשפט הגבוה לצדק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את אחריות בית המשפט הגבוה לצדק בישראל ואת המתח בין ביקורת על אקטיביזם שיפוטי לבין הצורך לשמור על ביקורת שיפוטית עצמאית."
+    },
+    {
+      "slug": "democracy_anti_corruption_judicial_reform_comparative_summary_he",
+      "file": "democracy_anti_corruption_judicial_reform_comparative_summary_he.html",
+      "permalink": "/democracy_anti_corruption_judicial_reform_comparative_summary_he.html",
+      "sortKey": 202605210025,
+      "titleHe": "מה הקשר בין מאבק בשחיתות לרפורמה משפטית?",
+      "paperTitle": "The Long Hand of Anti-Corruption: Israeli Judicial Reform in Comparative Perspective",
+      "authorsCardHe": "טום גינסבורג",
+      "sourceAuthors": [
+        "Tom Ginsburg"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 11.2023",
+      "doiUrl": "https://doi.org/10.1017/s0021223723000158",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
+        "altHe": "איור על מאבק בשחיתות, בתי משפט ורפורמה משפטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מנתח את הרפורמה המשפטית הישראלית דרך פרספקטיבה השוואתית של מאבק בשחיתות, אחריות שלטונית ותגובת נגד פוליטית."
+    },
+    {
+      "slug": "democracy_motivated_reasoning_judicial_reform_polarization_summary_he",
+      "file": "democracy_motivated_reasoning_judicial_reform_polarization_summary_he.html",
+      "permalink": "/democracy_motivated_reasoning_judicial_reform_polarization_summary_he.html",
+      "sortKey": 202605210024,
+      "titleHe": "איך חשיבה מונעת מעצבת קיטוב סביב הרפורמה המשפטית?",
+      "paperTitle": "Exploring motivated reasoning in polarization over the unfolding 2023 judicial reform in Israel",
+      "authorsCardHe": "דורה סימונוביץ׳, אנה דורפמן, מעיין קציר",
+      "sourceAuthors": [
+        "Dora Simunovic",
+        "Anna Dorfman",
+        "Maayan Katzir"
+      ],
+      "journal": "Communications Psychology",
+      "dateText": "פורסם: 18.06.2024",
+      "doiUrl": "https://doi.org/10.1038/s44271-024-00080-x",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_violence_summary_he.jpg",
+        "altHe": "איור על קיטוב, רגשות ואמון מוסדי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המחקר מראה כיצד מחנות פוליטיים מפרשים את הרפורמה המשפטית דרך אמון מוסדי, זהות ורגשות, וכך מייצרים קיטוב מהיר סביב מושג הדמוקרטיה."
+    },
+    {
+      "slug": "democracy_authoritarianism_curbed_populism_war_israel_summary_he",
+      "file": "democracy_authoritarianism_curbed_populism_war_israel_summary_he.html",
+      "permalink": "/democracy_authoritarianism_curbed_populism_war_israel_summary_he.html",
+      "sortKey": 202605210023,
+      "titleHe": "האם מלחמה בולמת סמכותנות או משנה את צורתה?",
+      "paperTitle": "Authoritarianism Curbed? Populism, Democracy and War in Israel",
+      "authorsCardHe": "גיא בן-פורת, דני פילק",
+      "sourceAuthors": [
+        "Guy Ben-Porat",
+        "Dani Filc"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 24.09.2025",
+      "doiUrl": "https://doi.org/10.55271/jps000118",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_violence_summary_he.jpg",
+        "altHe": "איור על מלחמה, פופוליזם וקיטוב פוליטי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר שואל האם מלחמה מצמצמת פרויקט פופוליסטי-סמכותני או מאפשרת לו להתארגן מחדש סביב ביטחון, זהות ולגיטימציה ציבורית."
+    },
+    {
+      "slug": "democracy_judicial_overhaul_constitutional_security_crisis_summary_he",
+      "file": "democracy_judicial_overhaul_constitutional_security_crisis_summary_he.html",
+      "permalink": "/democracy_judicial_overhaul_constitutional_security_crisis_summary_he.html",
+      "sortKey": 202605210022,
+      "titleHe": "מה קורה כשמשבר חוקתי ומשבר ביטחוני מתלכדים?",
+      "paperTitle": "The Judicial Overhaul in Israel Before and After October 7: The Amalgamation of Constitutional Crisis & Security Crisis",
+      "authorsCardHe": "יניב רוזנאי",
+      "sourceAuthors": [
+        "Yaniv Roznai"
+      ],
+      "journal": "Federalism and Internal Conflicts",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1007/978-3-032-06516-2_15",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
+        "altHe": "איור על מצב חירום, מוסדות ציבור ושלטון החוק"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר כיצד משבר חוקתי ומשבר ביטחוני יכולים להעצים זה את זה, ולמה דווקא בזמן חירום חשוב לשמר בלמים, שקיפות ואחריות."
+    },
+    {
+      "slug": "democracy_religion_state_legal_system_israel_70_summary_he",
+      "file": "democracy_religion_state_legal_system_israel_70_summary_he.html",
+      "permalink": "/democracy_religion_state_legal_system_israel_70_summary_he.html",
+      "sortKey": 202605210021,
+      "titleHe": "מה יחסי דת ומדינה עושים לדמוקרטיה הישראלית?",
+      "paperTitle": "Israel at 70: The Relations Between Religion and State, Democracy, and the Israeli Legal System",
+      "authorsCardHe": "עלי זלצברגר",
+      "sourceAuthors": [
+        "Eli Salzberger"
+      ],
+      "journal": "Israel´s 70th Anniversary: Insights and Perspectives",
+      "dateText": "פורסם: 10.08.2020",
+      "doiUrl": "https://doi.org/10.14220/9783737012065.45",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
+        "altHe": "איור על דת, מדינה, זכויות ושוויון"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מציג את יחסי דת ומדינה כאחד המבחנים המתמשכים של הדמוקרטיה הישראלית ושל יכולתה לשלב זהות קולקטיבית עם שוויון וחירות."
+    },
+    {
+      "slug": "democracy_new_constitutionalism_israel_summary_he",
+      "file": "democracy_new_constitutionalism_israel_summary_he.html",
+      "permalink": "/democracy_new_constitutionalism_israel_summary_he.html",
+      "sortKey": 202605210020,
+      "titleHe": "האם החוקתיות החדשה מחזקת דמוקרטיה או מגבילה אותה?",
+      "paperTitle": "Democracy and the New Constitutionalism in Israel",
+      "authorsCardHe": "מייקל מנדל",
+      "sourceAuthors": [
+        "Michael Mandel"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1017/s0021223700015995",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
+        "altHe": "איור על חוקתיות חדשה, מוסדות וייצוג דמוקרטי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את החוקתיות החדשה בישראל וטוען שיש לבחון בזהירות האם היא מעמיקה דמוקרטיה או מעבירה הכרעות ציבוריות לזירה משפטית מצומצמת."
+    },
+    {
+      "slug": "democracy_eternity_clauses_popular_sovereignty_summary_he",
+      "file": "democracy_eternity_clauses_popular_sovereignty_summary_he.html",
+      "permalink": "/democracy_eternity_clauses_popular_sovereignty_summary_he.html",
+      "sortKey": 202605210019,
+      "titleHe": "איך מיישבים סעיפי נצח עם ריבונות העם?",
+      "paperTitle": "The Challenge of Reconciling Constitutional Eternity Clauses with Popular Sovereignty: Toward Three-Track Democracy in Israel as a Universal Holistic Constitutional System and Theory",
+      "authorsCardHe": "שרון ויינטל",
+      "sourceAuthors": [
+        "Sharon Weintal"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1017/s0021223700018136",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
+        "altHe": "איור על חוקה, ריבונות העם וגבולות חוקתיים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר מדוע גם דמוקרטיה הנשענת על ריבונות העם זקוקה לכללים שמונעים מהכרעה רגעית להרוס את תנאי הדמוקרטיה עצמה."
+    },
+    {
+      "slug": "democracy_judicial_overhaul_post_october_7_summary_he",
+      "file": "democracy_judicial_overhaul_post_october_7_summary_he.html",
+      "permalink": "/democracy_judicial_overhaul_post_october_7_summary_he.html",
+      "sortKey": 202605210018,
+      "titleHe": "מה קרה לרפורמה המשפטית אחרי 7 באוקטובר?",
+      "paperTitle": "The Judicial Overhaul Post October 7",
+      "authorsCardHe": "יניב רוזנאי",
+      "sourceAuthors": [
+        "Yaniv Roznai"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 21.09.2025",
+      "doiUrl": "https://doi.org/10.59704/8ceb675ffc71d8c5",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
+        "altHe": "איור על רפורמה משפטית, חירום ושחיקה דמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את הרפורמה המשפטית אחרי 7 באוקטובר ומדגיש שהקשר בין ביטחון, חירום ושלטון החוק נעשה מרכזי עוד יותר."
+    },
+    {
+      "slug": "democracy_constitutional_identity_judicial_review_backsliding_summary_he",
+      "file": "democracy_constitutional_identity_judicial_review_backsliding_summary_he.html",
+      "permalink": "/democracy_constitutional_identity_judicial_review_backsliding_summary_he.html",
+      "sortKey": 202605210017,
+      "titleHe": "מתי ביקורת שיפוטית מגינה על זהות חוקתית דמוקרטית?",
+      "paperTitle": "On Constitutional Identity, Democratic Legitimacy and Judicial Review in Times of Democratic Backsliding: The Case of Israel",
+      "authorsCardHe": "ברק מדינה",
+      "sourceAuthors": [
+        "Barak Medina"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.2139/ssrn.4993837",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
+        "altHe": "איור על ביקורת שיפוטית וזהות חוקתית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר מדוע בזמני נסיגה דמוקרטית ביקורת שיפוטית אינה רק כוח נגד הרוב, אלא מנגנון לשמירת תנאי הלגיטימיות של הדמוקרטיה עצמה."
+    },
+    {
+      "slug": "democracy_economic_negative_constitutionalism_summary_he",
+      "file": "democracy_economic_negative_constitutionalism_summary_he.html",
+      "permalink": "/democracy_economic_negative_constitutionalism_summary_he.html",
+      "sortKey": 202605210016,
+      "titleHe": "מהי חוקתיות כלכלית שלילית, ומה תפקיד בית המשפט?",
+      "paperTitle": "Conceptualizing Economic Negative Constitutionalism: A Case Study of the Israeli Supreme Court",
+      "authorsCardHe": "לילך ליטור",
+      "sourceAuthors": [
+        "Lilach Litor"
+      ],
+      "journal": "Journal of Law and Public Policy",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.55496/otcp9132",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
+        "altHe": "איור על משפט חוקתי, כלכלה ובית משפט"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מציע לחשוב על חוקתיות כלכלית שלילית דרך פסיקת בית המשפט העליון בישראל, ועל ההשלכות שלה לריבונות דמוקרטית ולזכויות חברתיות."
+    },
+    {
+      "slug": "democracy_who_supports_backsliding_israel_summary_he",
+      "file": "democracy_who_supports_backsliding_israel_summary_he.html",
+      "permalink": "/democracy_who_supports_backsliding_israel_summary_he.html",
+      "sortKey": 202605210015,
+      "titleHe": "מי מוכן לתמוך בנסיגה דמוקרטית בישראל?",
+      "paperTitle": "Who Supports Democratic Backsliding? Evidence from Israel",
+      "authorsCardHe": "נעם גדרון, יותם מרגלית, ליאור שפר, איתמר יקיר",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "Yotam Margalit",
+        "Lior Sheffer",
+        "Itamar Yakir"
+      ],
+      "journal": "פרסום אקדמי",
+      "dateText": "פורסם: 19.09.2023",
+      "doiUrl": "https://doi.org/10.31219/osf.io/zxukm",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
+        "altHe": "איור על דעת קהל ותמיכה בנסיגה דמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המחקר בוחן אילו עמדות וזהויות קשורות לנכונות לתמוך בצעדים שמחלישים דמוקרטיה, ומדוע תמיכה כזו אינה מוגבלת לאליטות בלבד."
+    },
+    {
+      "slug": "democracy_populism_polarization_crisis_israel_summary_he",
+      "file": "democracy_populism_polarization_crisis_israel_summary_he.html",
+      "permalink": "/democracy_populism_polarization_crisis_israel_summary_he.html",
+      "sortKey": 202605210014,
+      "titleHe": "איך פופוליזם וקיטוב מזינים את משבר הדמוקרטיה בישראל?",
+      "paperTitle": "Israel -Populism, Polarization and the Crisis of Democracy",
+      "authorsCardHe": "יניב רוזנאי, נעם גדרון",
+      "sourceAuthors": [
+        "Yaniv Roznai",
+        "Noam Gidron"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2026",
+      "doiUrl": "https://doi.org/10.2139/ssrn.6191678",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
+        "altHe": "איור על משבר דמוקרטי וקיטוב בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר שמשבר דמוקרטי מתפתח כאשר פופוליזם וקיטוב מצדיקים פגיעה במוסדות בשם רצון העם או בשם מאבק במחנה היריב."
+    },
+    {
+      "slug": "democracy_attack_rule_of_law_israel_summary_he",
+      "file": "democracy_attack_rule_of_law_israel_summary_he.html",
+      "permalink": "/democracy_attack_rule_of_law_israel_summary_he.html",
+      "sortKey": 202605210013,
+      "titleHe": "איך נראית מתקפה על שלטון החוק בישראל?",
+      "paperTitle": "An Attack on the Rule of Law in Israel",
+      "authorsCardHe": "סוזי נבות, גיא לוריא",
+      "sourceAuthors": [
+        "Suzie Navot",
+        "Guy Lurie"
+      ],
+      "journal": "Israel Studies Review",
+      "dateText": "פורסם: 01.03.2024",
+      "doiUrl": "https://doi.org/10.3167/isr.2024.390102",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
+        "altHe": "איור על שלטון החוק, בית משפט ואיזונים מוסדיים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מסביר מדוע פגיעה בעצמאות המשפטית אינה רק מחלוקת בין רשויות אלא איום על תנאי היסוד של דמוקרטיה חוקתית."
+    },
+    {
+      "slug": "democracy_diminishing_international_law_occupied_territories_summary_he",
+      "file": "democracy_diminishing_international_law_occupied_territories_summary_he.html",
+      "permalink": "/democracy_diminishing_international_law_occupied_territories_summary_he.html",
+      "sortKey": 202605210012,
+      "titleHe": "מה קורה כשמשפט בינלאומי מאבד משקל בפסיקת בית המשפט?",
+      "paperTitle": "The diminishing status of international law in the decisions of the Israeli Supreme Court concerning the Occupied Territories",
+      "authorsCardHe": "תמר הוסטובסקי ברנדס",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 31.12.2020",
+      "doiUrl": "https://doi.org/10.1093/icon/moaa061",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
+        "altHe": "איור על בית משפט, משפט בינלאומי והשטחים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר מראה כיצד היחס למשפט הבינלאומי בפסיקת בית המשפט העליון על השטחים נעשה מצומצם יותר, ומה המשמעות הדמוקרטית של שינוי זה."
+    },
+    {
+      "slug": "democracy_ai_speech_governance_friction_summary_he",
+      "file": "democracy_ai_speech_governance_friction_summary_he.html",
+      "permalink": "/democracy_ai_speech_governance_friction_summary_he.html",
+      "sortKey": 202605210011,
+      "titleHe": "איך מכניסים חיכוך דמוקרטי לניהול דיבור על ידי בינה מלאכותית?",
+      "paperTitle": "Democratic friction in speech governance by AI",
+      "authorsCardHe": "ניבה אלקין-קורן, מעיין פרל",
+      "sourceAuthors": [
+        "Niva Elkin-Koren",
+        "Maayan Perel"
+      ],
+      "journal": "Handbook of Critical Studies of Artificial Intelligence",
+      "dateText": "פורסם: 14.11.2023",
+      "doiUrl": "https://doi.org/10.4337/9781803928562.00066",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
+        "altHe": "איור על שיח ציבורי, טכנולוגיה וחברה אזרחית דמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר טוען שממשל דיבור באמצעות AI צריך לכלול חיכוך דמוקרטי: יכולת להבין, לערער ולהשתתף בעיצוב כללי ההסרה וההעדפה של תכנים."
+    },
     {
       "slug": "democracy_international_law_domestic_courts_populism_summary_he",
       "file": "democracy_international_law_domestic_courts_populism_summary_he.html",

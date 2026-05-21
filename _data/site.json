@@ -8,12 +8,13 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-21",
-  "cacheVersion": "2026-05-21-ayman-agbaria-link",
+  "cacheVersion": "2026-05-21-wet-run-20",
   "newBadgeDays": 3,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
   "suggestPaperDailyLimit": 2,
   "suggestPaperRedirectDelayMs": 5000,
   "topicImageVersion": "20260507-topic-icons",
   "paperImageVersion": "800x600-landscape",
-  "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור"
+  "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
+  "paperCount": 82
 }
