@@ -56,7 +56,7 @@ Because the real `suggest_queue.csv` and private `Authors.MD` may contain sensit
 
 ## Summary Writing Guidance
 
-New paper summaries should follow the admin GEO brief: no model preamble or sign-off; a clear H1-style `titleHe` and H3-style `subtitleHe`; organized metadata for authors, venue, date, volume/issue when available, and DOI/source link; a deeper analytical summary that foregrounds the paper's democratic-liberal, rights, legal, institutional, social, or economic implications; only verified numbers/statistics from the paper or source metadata; 2-3 short translated direct quotes only when source text is available and the quote is important; and at least 10 FAQ-style question/answer sections using realistic search or AI-chat questions.
+New paper summaries should follow the admin GEO brief: no model preamble or sign-off; a clear H1-style `titleHe` and H3-style `subtitleHe`; organized metadata for authors, venue, date, volume/issue when available, and DOI/source link; a deeper analytical `summaryHe`/`oneLinerHtml` that foregrounds the paper's democratic-liberal, rights, legal, institutional, social, or economic implications; only verified numbers/statistics from the paper or source metadata; short translated direct quotes only when source text is available and the quote is important, preferably placed near the answer it supports; and at least 10 natural question/answer sections using realistic search or AI-chat questions. Question headings should stand alone with a question mark and should not start with `שאלות ותשובות:`.
 
 ## Build and Deploy
 

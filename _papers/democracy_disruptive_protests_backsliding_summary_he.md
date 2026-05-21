@@ -7,7 +7,7 @@
   "titleHe": "האם מחאה משבשת יכולה לעזור לבלום נסיגה דמוקרטית?",
   "subtitleHe": "תמצית עברית לקהל הרחב בישראל",
   "descriptionHe": "המאמר בוחן את המחאה נגד הרפורמה המשפטית בישראל ומציע שמחאה לא-אלימה אך משבשת יכולה לסייע לגיוס תומכים ולשינוי עמדות של מתנגדים חלשים.",
-  "summaryHe": "מחקר על מחאת 2023 נגד הרפורמה המשפטית ועל האופן שבו פעולות שיבוש לא-אלימות השפיעו על תמיכה וגיוס.",
+  "summaryHe": "מחקר על מחאת 2023 נגד הרפורמה המשפטית ועל האופן שבו פעולות שיבוש לא-אלימות השפיעו על תמיכה וגיוס. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "אריק שומן, נועה כהן-אייק, אריק נולס, עירן הלפרין",
   "paperTitle": "Evidence for the Effectiveness of Large-Scale Disruptive Protests in the Context of Democratic Backsliding",
   "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>; Noa Cohen-Eick; <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
@@ -76,7 +76,7 @@
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-20",
   "lastUpdatedHe": "20 במאי 2026",
-  "oneLinerHtml": "שורה תחתונה: המחקר מציע שמחאה לא-אלימה אך משבשת יכולה, בתנאים מסוימים, גם לגייס תומכים וגם לרכך התנגדות חלשה למחאה.",
+  "oneLinerHtml": "שורה תחתונה: המחקר מציע שמחאה לא-אלימה אך משבשת יכולה, בתנאים מסוימים, גם לגייס תומכים וגם לרכך התנגדות חלשה למחאה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {
       "headingHe": "מה נבדק במחקר",

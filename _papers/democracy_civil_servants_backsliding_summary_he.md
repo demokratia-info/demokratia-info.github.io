@@ -6,8 +6,8 @@
   "order": 14,
   "titleHe": "מה קורה לשירות הציבורי כשהדמוקרטיה נשחקת?",
   "subtitleHe": "תמצית עברית לקהל הרחב בישראל",
-  "descriptionHe": "המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי.",
-  "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה.",
+  "descriptionHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
+  "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
   "paperTitle": "Career Civil Servants' Socially Embedded Responses to Democratic Backsliding",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat/\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>; <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>; <a href=\"https://www.uantwerpen.be/en/staff/nir-kosti_28947/\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>; <a href=\"https://cris.biu.ac.il/en/persons/ilana-shpaizman/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
@@ -73,7 +73,7 @@
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",
   "lastUpdatedHe": "20 במאי 2026",
-  "oneLinerHtml": "שורה תחתונה: המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי.",
+  "oneLinerHtml": "שורה תחתונה: המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {
       "headingHe": "מה נבדק במחקר",
