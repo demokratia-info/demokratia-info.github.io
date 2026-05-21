@@ -10,7 +10,7 @@
   "summaryHe": "המאמר טוען שחוק הלאום אינו רק חוק זהות, אלא מנגנון שמחזק שפה אתנולאומית-דתית ומצמצם את המקום הדמוקרטי של מיעוטים.",
   "authorsCardHe": "אימן אגבאריה",
   "paperTitle": "The Nation-State Law, Populist Politics, Colonialism, and Religion in Israel: Linkages and Transformations",
-  "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman Agbaria</a>",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/ayman-agbaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman Agbaria</a>",
   "journal": "Journal of Ecumenical Studies",
   "dateText": "Journal of Ecumenical Studies, כרך 56, גיליון 3, עמ׳ 347-362; פורסם בשנת 2021",
   "doiUrl": "https://doi.org/10.1353/ecu.2021.0022",
@@ -19,14 +19,14 @@
     {
       "@type": "Person",
       "name": "אימן אגבאריה",
-      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
+      "url": "https://cris.haifa.ac.il/en/persons/ayman-agbaria/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
       "name": "Ayman Agbaria",
-      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
+      "url": "https://cris.haifa.ac.il/en/persons/ayman-agbaria/"
     }
   ],
   "topics": [
