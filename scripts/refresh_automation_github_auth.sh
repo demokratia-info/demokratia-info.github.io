@@ -5,12 +5,72 @@ host="github.com"
 required_user="demokratia-info"
 public_repo="demokratia-info/demokratia-info.github.io"
 private_repo="demokratia-info/democracy-paper-suggestions-private"
-auth_dir="${DEMOCRATIA_GH_CONFIG_DIR:-/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth}"
+default_auth_dirs=(
+  "/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth"
+  "/Users/talraviv/.codex/automations/daily-democracy-access-preflight/gh-auth"
+  "/Users/talraviv/.codex/automations/daily-democracy-push-watchdog/gh-auth"
+  "/Users/talraviv/.codex/gh-demokratia-auth"
+)
+
+choose_auth_dir() {
+  local dir
+
+  if [[ -n "${DEMOCRATIA_GH_CONFIG_DIR:-}" ]]; then
+    printf '%s\n' "${DEMOCRATIA_GH_CONFIG_DIR}"
+    return
+  fi
+
+  if [[ -n "${GH_CONFIG_DIR:-}" ]]; then
+    printf '%s\n' "${GH_CONFIG_DIR}"
+    return
+  fi
+
+  for dir in "${default_auth_dirs[@]}"; do
+    if [[ -r "${dir}/hosts.yml" ]]; then
+      printf '%s\n' "${dir}"
+      return
+    fi
+  done
+
+  printf '%s\n' "${default_auth_dirs[0]}"
+}
+
+auth_dir="$(choose_auth_dir)"
 
 if ! command -v gh >/dev/null 2>&1; then
   echo "GitHub CLI 'gh' is not available on PATH." >&2
   exit 1
 fi
+
+print_auth_diagnostics() {
+  local dir
+
+  echo "Auth diagnostics (no token values printed):" >&2
+  echo "  script_version=2026-05-21-auth-dir-candidates" >&2
+  echo "  pwd=$(pwd)" >&2
+  echo "  HOME=${HOME:-<unset>}" >&2
+  echo "  GH_CONFIG_DIR=${GH_CONFIG_DIR:-<unset>}" >&2
+  echo "  DEMOCRATIA_GH_CONFIG_DIR=${DEMOCRATIA_GH_CONFIG_DIR:-<unset>}" >&2
+  echo "  GH_TOKEN_set=$([[ -n "${GH_TOKEN:-}" ]] && echo yes || echo no)" >&2
+  echo "  GITHUB_TOKEN_set=$([[ -n "${GITHUB_TOKEN:-}" ]] && echo yes || echo no)" >&2
+  echo "  gh_path=$(command -v gh)" >&2
+  gh --version | sed 's/^/  gh_version=/' >&2
+  echo "  selected_auth_dir=${auth_dir}" >&2
+
+  for dir in "${default_auth_dirs[@]}"; do
+    if [[ -d "${dir}" ]]; then
+      echo "  candidate=${dir} dir=yes hosts=$([[ -r "${dir}/hosts.yml" ]] && echo readable || echo not-readable) config=$([[ -r "${dir}/config.yml" ]] && echo readable || echo not-readable)" >&2
+      ls -ld "${dir}" >&2 || true
+      ls -l "${dir}/hosts.yml" "${dir}/config.yml" >&2 || true
+    else
+      echo "  candidate=${dir} dir=no" >&2
+    fi
+  done
+
+  echo "  dedicated gh auth status output:" >&2
+  GH_CONFIG_DIR="${auth_dir}" env -u GH_TOKEN -u GITHUB_TOKEN \
+    gh auth status -h "${host}" --active >&2 || true
+}
 
 validate_dedicated_config() {
   local login public_permission private_permission
@@ -164,6 +224,7 @@ if validate_dedicated_config; then
   exit 0
 fi
 
+print_auth_diagnostics
 echo "Dedicated GitHub auth is missing or invalid; attempting refresh from current ${required_user} gh auth..." >&2
 write_dedicated_config_from_env_token || write_dedicated_config_from_current_auth
 
