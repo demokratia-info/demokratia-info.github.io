@@ -14,7 +14,7 @@ For paper additions:
 - Treat private `Authors.MD` rows with priority `blocked` as hard exclusions for visitor suggestions, existing `paper_queue.csv` rows, and newly discovered queue candidates. If a blocked author appears in a private suggestion, reject and remove that suggestion row. If a blocked author appears in the public queue, remove that queue row and continue to the next candidate without counting it toward the nightly batch.
 - Add one source file per paper under `_papers/`.
 - Use existing topic IDs from `_data/topics.json` unless a durable new topic is really needed.
-- Add or reuse 800x600 landscape JPEG paper images and keep `image_catalog.json` current.
+- Add or reuse 800x600 landscape JPEG paper images and keep `image_catalog.json` current. New paper images should follow the older warm editorial illustration style with people, institutions, documents, civic rooms, public spaces, depth, and texture; avoid flat vector icons, isolated scales/buildings, abstract blobs, sparse diagrams, and other schematic graphics.
 - Keep `paper_queue.csv` in CSV format with `paper_name,authors,doi,topic` columns. The `topic` value should use existing topic IDs.
 - Keep the public `suggest_queue.csv` as a header-only placeholder. Keep the real private suggestion queue in CSV format with `submitted_date,submitted_at,paper_name,doi,submitter_name,submitter_email,submitter_ip_hash,status,notes` columns. It may contain visitor duplicates; do not let a duplicate suggestion block the build.
 - Bump `_data/site.json` `lastUpdated` and `cacheVersion` on each successful content update so returning browsers refresh stale HTML/CSS/Pagefind assets.
