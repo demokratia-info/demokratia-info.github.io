@@ -5,66 +5,18 @@ repo="demokratia-info/democracy-paper-suggestions-private"
 required_files=("Authors.MD" "suggest_queue.csv")
 attempts="${PRIVATE_REPO_CHECK_ATTEMPTS:-5}"
 sleep_seconds="${PRIVATE_REPO_CHECK_SLEEP_SECONDS:-20}"
-default_gh_config_dirs=(
-  "/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth"
-  "/Users/talraviv/.codex/automations/daily-democracy-access-preflight/gh-auth"
-  "/Users/talraviv/.codex/automations/daily-democracy-push-watchdog/gh-auth"
-  "/Users/talraviv/.codex/gh-demokratia-auth"
-)
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 refresh_script="${script_dir}/refresh_automation_github_auth.sh"
-
-read_token_from_hosts() {
-  local hosts_file="${1}/hosts.yml"
-
-  [[ -r "${hosts_file}" ]] || return 1
-  awk -F': ' '
-    $1 ~ /^[[:space:]]*oauth_token$/ {
-      print $2
-      found=1
-      exit
-    }
-    END { if (!found) exit 1 }
-  ' "${hosts_file}"
-}
 
 if [[ -x "${refresh_script}" && "${SKIP_DEMOKRATIA_AUTH_REFRESH:-}" != "1" ]]; then
   "${refresh_script}"
 fi
-
-if [[ -z "${GH_CONFIG_DIR:-}" ]]; then
-  for dir in "${default_gh_config_dirs[@]}"; do
-    if [[ -r "${dir}/hosts.yml" ]]; then
-      export GH_CONFIG_DIR="${dir}"
-      break
-    fi
-  done
-fi
-
-case "${GH_CONFIG_DIR:-}" in
-  /Users/talraviv/.codex/automations/*/gh-auth|/Users/talraviv/.codex/gh-demokratia-auth)
-  if token_from_hosts="$(read_token_from_hosts "${GH_CONFIG_DIR}")"; then
-    export GH_TOKEN="${token_from_hosts}"
-    unset GITHUB_TOKEN
-    export DEMOCRATIA_GH_TOKEN_FROM_FILE=1
-  else
-    unset GH_TOKEN GITHUB_TOKEN
-  fi
-  ;;
-esac
 
 run_check() {
   if ! command -v gh >/dev/null 2>&1; then
     echo "GitHub CLI 'gh' is not available on PATH." >&2
     return 1
   fi
-
-  # Use the organization account when it is configured. This is intentionally
-  # non-fatal so the following checks can print the real auth/permission error.
-  if [[ -z "${GH_CONFIG_DIR:-}" ]]; then
-    gh auth switch -h github.com -u demokratia-info >/dev/null 2>&1 || true
-  fi
-  gh auth setup-git -h github.com >/dev/null 2>&1 || true
 
   echo "Checking GitHub authentication..."
   # `gh auth status` checks every configured account and exits non-zero if an

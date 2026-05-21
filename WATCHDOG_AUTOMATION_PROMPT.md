@@ -8,24 +8,23 @@ Recommended working directory: `/Users/talraviv/Documents/DemocracyWebSite/githu
 
 Recommended execution environment: `local`.
 
-Local GitHub authentication for automations should prefer the dedicated
-non-keychain config directory `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` when it
-exists. Before GitHub CLI commands, `git ls-remote`, `git push`, workflow
-monitoring, or other remote GitHub operations, export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` after running
-`scripts/refresh_automation_github_auth.sh`, then unset `GH_TOKEN` and
-`GITHUB_TOKEN` for subsequent commands. Do not print or copy any token.
+Local GitHub authentication for automations must stay simple: use the current
+active `gh` account, and require it to be `demokratia-info`. Do not use the old
+`tal69` account. Do not run `gh auth switch`. Do not use copied automation
+`gh-auth` directories from older jobs. Before GitHub CLI commands, `git
+ls-remote`, `git push`, workflow monitoring, or other remote GitHub operations,
+run `scripts/refresh_automation_github_auth.sh`; it verifies the active account
+and required repository access without switching accounts or printing secrets.
 
 ```text
 Check whether the nightly democracy website update committed locally but failed to push or deploy.
 
 Work in `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`. The public website repository is `demokratia-info/demokratia-info.github.io`, and the live site URL is `https://demokratia-info.github.io/`. Start by reading `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/memory.md` and this automation's memory file if those files exist. Then run `git status --short --branch`, `git rev-parse HEAD`, and `git ls-remote origin refs/heads/main`.
 
-At the start of the run, run `scripts/refresh_automation_github_auth.sh`. If
-`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth/hosts.yml` exists after that, run
-`export GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and `unset
-GH_TOKEN GITHUB_TOKEN`, then keep that environment in force for all `gh` commands
-and remote Git operations.
+At the start of the run, run `scripts/refresh_automation_github_auth.sh`. It must
+confirm that the active GitHub account is `demokratia-info` and that both the
+public and private repositories are writable. If another account is active, stop
+and report the blocker instead of switching accounts.
 
 This watchdog must not create paper content, edit source files, stage files, or make commits. Its job is only to verify and recover publishing for work that already exists locally.
 

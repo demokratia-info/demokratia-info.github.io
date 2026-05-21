@@ -27,15 +27,12 @@ Codex nightly updates should read the private `demokratia-info/democracy-paper-s
 
 Run `scripts/check_private_repo_access.sh` before private queue or author-policy work. The script checks that `gh` is using the `demokratia-info` account, confirms write-capable permission on the private repository, verifies the two private file paths without printing private contents, and checks authenticated git access.
 
-For unattended local automations, prefer the dedicated GitHub CLI config directory
-`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth`. Run
+For unattended local automations, keep GitHub auth simple: the active `gh`
+account must already be `demokratia-info`. Run
 `scripts/refresh_automation_github_auth.sh` before `gh` or remote Git commands;
-it can import a newly supplied `GH_TOKEN`/`GITHUB_TOKEN` after validating that the
-token belongs to `demokratia-info` and has required repo access. Then export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and unset
-`GH_TOKEN`/`GITHUB_TOKEN` for the remaining commands. This avoids depending on an
-interactive macOS keychain session or an obsolete copied token. Never print or
-commit the token stored in that private local config.
+it verifies the active account and required public/private repo access without
+running `gh auth switch`, using the old `tal69` account, or relying on copied
+automation `gh-auth` directories.
 
 If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare a fresh 100 relevant non-duplicate queued papers using the same criteria, with private `Authors.MD` as a priority and blocklist signal, before consuming the first needed rows. Authors marked `high`, `normal`, or `low` are priority signals only; authors marked `blocked` are hard exclusions for visitor suggestions, current queue rows, and new queue candidates.
 

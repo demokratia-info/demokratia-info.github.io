@@ -8,15 +8,13 @@ Recommended working directory: the live repository root, for example `/Users/tal
 
 Recommended execution environment: `local`, so failed runs leave recoverable edits in the normal checkout.
 
-Local GitHub authentication for automations should prefer the dedicated
-non-keychain config directory `/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` when it
-exists. Before GitHub CLI commands, private-repo checks, `git ls-remote`, `git
-push`, workflow monitoring, or other remote GitHub operations, run
-`scripts/refresh_automation_github_auth.sh`, then export
-`GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and unset `GH_TOKEN`
-and `GITHUB_TOKEN`. This avoids nightly runs depending on a macOS keychain
-session, stale inactive/default `gh` account, or an old dedicated automation
-token. Do not print or copy any token.
+Local GitHub authentication for automations must stay simple: use the current
+active `gh` account, and require it to be `demokratia-info`. Do not use the old
+`tal69` account. Do not run `gh auth switch`. Do not use copied automation
+`gh-auth` directories from older jobs. Before private-repo checks, workflow
+monitoring, or other authenticated GitHub operations, run
+`scripts/refresh_automation_github_auth.sh`; it verifies the active account and
+required repository access without switching accounts or printing secrets.
 
 ```text
 Execute the queue-first nightly democracy website update from the live Jekyll repository.
@@ -24,13 +22,12 @@ Execute the queue-first nightly democracy website update from the live Jekyll re
 Public website checkout: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
 Private operational repository: `demokratia-info/democracy-paper-suggestions-private`, branch `main`, files `suggest_queue.csv` and `Authors.MD`.
 
-At the start of the run, run `scripts/refresh_automation_github_auth.sh`. If
-`/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth/hosts.yml` exists after that, run
-`export GH_CONFIG_DIR=/Users/talraviv/.codex/automations/daily-democracy-paper-additions/gh-auth` and `unset
-GH_TOKEN GITHUB_TOKEN`, then keep that environment in force for all `gh` commands
-and remote Git operations.
+At the start of the run, run `scripts/refresh_automation_github_auth.sh`. It must
+confirm that the active GitHub account is `demokratia-info` and that both the
+public and private repositories are writable. If another account is active, stop
+and report the blocker instead of switching accounts.
 
-Before reading or cloning the private repository, run `scripts/check_private_repo_access.sh` from the public website checkout. This preflight switches `gh` to the `demokratia-info` account when available, verifies authenticated GitHub status, confirms write-capable permission on `demokratia-info/democracy-paper-suggestions-private`, checks metadata for private `Authors.MD` and `suggest_queue.csv` without printing private contents, and confirms authenticated git access. If the preflight fails, retry up to 5 total attempts with short waits. If it still fails, stop before processing public queue rows and report the exact credential, DNS/network, permission, or private-file blocker.
+Before reading or cloning the private repository, run `scripts/check_private_repo_access.sh` from the public website checkout. This preflight verifies authenticated GitHub status, confirms write-capable permission on `demokratia-info/democracy-paper-suggestions-private`, checks metadata for private `Authors.MD` and `suggest_queue.csv` without printing private contents, and confirms authenticated git access. If the preflight fails, retry up to 5 total attempts with short waits. If it still fails, stop before processing public queue rows and report the exact credential, DNS/network, permission, or private-file blocker.
 
 Read the public website files `paper_queue.csv`, `_data/paper_index.json`, `_data/topics.json`, `_data/site.json`, `image_catalog.json`, `README.md`, and `AGENTS.md`. Also read private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` before checking suggestions, consuming queue rows, or searching. Do not use the public website repo's `suggest_queue.csv` as the operational suggestion queue; it is only a header-only compatibility placeholder and must not contain private visitor data. Do not copy private `Authors.MD` into the public website repo or expose private author notes in public files, commit messages, or reports.
 
