@@ -18,7 +18,16 @@ run_check() {
   gh auth setup-git -h github.com >/dev/null 2>&1 || true
 
   echo "Checking GitHub authentication..."
-  gh auth status -h github.com >/dev/null
+  # `gh auth status` checks every configured account and exits non-zero if an
+  # inactive account is stale. The nightly job only requires the active
+  # demokratia-info account; repo/file/git checks below prove the real access.
+  gh auth status -h github.com --active >/dev/null
+
+  active_login="$(gh api user --jq '.login')"
+  if [[ "${active_login}" != "demokratia-info" ]]; then
+    echo "Active GitHub account is '${active_login}', but demokratia-info is required." >&2
+    return 1
+  fi
 
   echo "Checking private repo permission for ${repo}..."
   permission="$(
