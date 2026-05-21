@@ -1,8 +1,2583 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 182,
+  "paperCount": 282,
   "papers": [
+    {
+      "slug": "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he",
+      "file": "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.html",
+      "permalink": "/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.html",
+      "sortKey": 202605210230,
+      "titleHe": "מה הקשר בין כשל המערכת המשפטית במניעת עינויים בשטחים לבין שלטון החוק בישראל?",
+      "paperTitle": "Democracy and the Mis-Rule of Law: The Israeli Legal System's Failure to Prevent Torture in the Occupied Territories",
+      "authorsCardHe": "Barak Cohen",
+      "sourceAuthors": [
+        "Barak Cohen"
+      ],
+      "journal": "Indiana International & Comparative Law Review",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.18060/17742",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.jpg",
+        "altHe": "איור עריכתי על כשל המערכת המשפטית במניעת עינויים בשטחים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית כשל המערכת המשפטית במניעת עינויים בשטחים דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he",
+      "file": "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.html",
+      "permalink": "/democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.html",
+      "sortKey": 202605210229,
+      "titleHe": "מה הקשר בין שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ לבין שלטון החוק בישראל?",
+      "paperTitle": "Judicial Rhetoric, Government Lawyers, and Human Rights: The Case of the Israeli High Court of Justice during the Intifada",
+      "authorsCardHe": "Yoav Dotan",
+      "sourceAuthors": [
+        "Yoav Dotan"
+      ],
+      "journal": "Law & Society Review",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.2307/3115167",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.jpg",
+        "altHe": "איור עריכתי על שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he",
+      "file": "democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.html",
+      "permalink": "/democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.html",
+      "sortKey": 202605210228,
+      "titleHe": "מה הקשר בין היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי לבין שלטון החוק בישראל?",
+      "paperTitle": "Israeli Courts and the Paradox of International Human Rights Law",
+      "authorsCardHe": "Natalie R Davidson; Tamar Hostovsky Brandes",
+      "sourceAuthors": [
+        "Natalie R Davidson",
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "European Journal of International Law",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1093/ejil/chac070",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.jpg",
+        "altHe": "איור עריכתי על היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he",
+      "file": "democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.html",
+      "permalink": "/democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.html",
+      "sortKey": 202605210227,
+      "titleHe": "מה הקשר בין המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם לבין שלטון החוק בישראל?",
+      "paperTitle": "The switch: The Israel High Court of Justice’s transition from occupation law to human rights law",
+      "authorsCardHe": "Amichai Cohen; Yuval Shany",
+      "sourceAuthors": [
+        "Amichai Cohen",
+        "Yuval Shany"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1093/icon/moac108",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.jpg",
+        "altHe": "איור עריכתי על המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he",
+      "file": "democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.html",
+      "permalink": "/democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.html",
+      "sortKey": 202605210226,
+      "titleHe": "מה הקשר בין גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות לבין שלטון החוק בישראל?",
+      "paperTitle": "State monopoly of permitted violation of human rights: The decision of the Supreme Court of Israel prohibiting the private operation and management of prisons",
+      "authorsCardHe": "Richard Harding",
+      "sourceAuthors": [
+        "Richard Harding"
+      ],
+      "journal": "Punishment & Society",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1177/1462474511434429",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.jpg",
+        "altHe": "איור עריכתי על גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he",
+      "file": "democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.html",
+      "permalink": "/democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.html",
+      "sortKey": 202605210225,
+      "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "paperTitle": "Minority status in an ethnic democracy: The status of the Arab minority in Israel",
+      "authorsCardHe": "Sammy Smooha",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Ethnic and Racial Studies",
+      "dateText": "פורסם: 1990",
+      "doiUrl": "https://doi.org/10.1080/01419870.1990.9993679",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_jews_and_arabs_in_israel_summary_he",
+      "file": "democracy_jews_and_arabs_in_israel_summary_he.html",
+      "permalink": "/democracy_jews_and_arabs_in_israel_summary_he.html",
+      "sortKey": 202605210224,
+      "titleHe": "מה מלמד המחקר על סוגיית יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת?",
+      "paperTitle": "Jews and Arabs in Israel",
+      "authorsCardHe": "Michal Shamir; John L. Sullivan",
+      "sourceAuthors": [
+        "Michal Shamir",
+        "John L. Sullivan"
+      ],
+      "journal": "Journal of Conflict Resolution",
+      "dateText": "פורסם: 1985",
+      "doiUrl": "https://doi.org/10.1177/0022002785029002006",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jews_and_arabs_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he",
+      "file": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
+      "permalink": "/democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
+      "sortKey": 202605210223,
+      "titleHe": "מה מלמד המחקר על סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל?",
+      "paperTitle": "The Stranger That Dwelleth with You Shall Be unto You as One Born among You: Israeli Media Law and the Cultural Rights of the Palestinian-Israeli Minority",
+      "authorsCardHe": "Amit Schejter",
+      "sourceAuthors": [
+        "Amit Schejter"
+      ],
+      "journal": "Middle East Journal of Culture and Communication",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1163/187398608x335810",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.jpg",
+        "altHe": "איור עריכתי על דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he",
+      "file": "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.html",
+      "permalink": "/democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.html",
+      "sortKey": 202605210222,
+      "titleHe": "מה הקשר בין חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה לבין פעולה דמוקרטית בישראל?",
+      "paperTitle": "Law-making and the Securitization of the Jewish Identity in Israel",
+      "authorsCardHe": "Ronnie Olesker",
+      "sourceAuthors": [
+        "Ronnie Olesker"
+      ],
+      "journal": "Ethnopolitics",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1080/17449057.2013.773156",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he",
+      "file": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
+      "permalink": "/democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
+      "sortKey": 202605210221,
+      "titleHe": "מה מלמד המחקר על סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים?",
+      "paperTitle": "Representation and De-legitimation in Semi-democratic Regimes: The Case of the Arab Citizens in Israel",
+      "authorsCardHe": "Salim Brake",
+      "sourceAuthors": [
+        "Salim Brake"
+      ],
+      "journal": "Sociology and Anthropology",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.13189/sa.2018.060501",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.jpg",
+        "altHe": "איור עריכתי על ייצוג ודה־לגיטימציה של אזרחים ערבים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_protest_politics_in_the_israeli_democracy_summary_he",
+      "file": "democracy_protest_politics_in_the_israeli_democracy_summary_he.html",
+      "permalink": "/democracy_protest_politics_in_the_israeli_democracy_summary_he.html",
+      "sortKey": 202605210220,
+      "titleHe": "מה הקשר בין פוליטיקת מחאה והמרחב הדמוקרטי בישראל לבין פעולה דמוקרטית בישראל?",
+      "paperTitle": "Protest Politics in the Israeli Democracy",
+      "authorsCardHe": "Eva Etzioni-Halevy",
+      "sourceAuthors": [
+        "Eva Etzioni-Halevy"
+      ],
+      "journal": "Political Science Quarterly",
+      "dateText": "פורסם: 1975",
+      "doiUrl": "https://doi.org/10.2307/2148298",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_protest_politics_in_the_israeli_democracy_summary_he.jpg",
+        "altHe": "איור עריכתי על פוליטיקת מחאה והמרחב הדמוקרטי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית פוליטיקת מחאה והמרחב הדמוקרטי בישראל דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he",
+      "file": "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.html",
+      "permalink": "/democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.html",
+      "sortKey": 202605210219,
+      "titleHe": "מה הקשר בין מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי לבין פעולה דמוקרטית בישראל?",
+      "paperTitle": "Social movements in an era of post-democracy: how the Israeli J14 tent protests of 2011 challenged neoliberal hegemony through the production of place",
+      "authorsCardHe": "Sebastian Schipper",
+      "sourceAuthors": [
+        "Sebastian Schipper"
+      ],
+      "journal": "Social & Cultural Geography",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.1080/14649365.2016.1228115",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.jpg",
+        "altHe": "איור עריכתי על מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_protest_movements_and_democracy_in_israel_summary_he",
+      "file": "democracy_protest_movements_and_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_protest_movements_and_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210218,
+      "titleHe": "מה הקשר בין תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל לבין פעולה דמוקרטית בישראל?",
+      "paperTitle": "Protest Movements and Democracy in Israel",
+      "authorsCardHe": "Leonie Fleischmann",
+      "sourceAuthors": [
+        "Leonie Fleischmann"
+      ],
+      "journal": "The Palgrave International Handbook of Israel",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1007/978-981-16-2717-0_4-1",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_protest_movements_and_democracy_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he",
+      "file": "democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210217,
+      "titleHe": "מה הקשר בין מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית לבין פעולה דמוקרטית בישראל?",
+      "paperTitle": "Shake the Tree or Rock the Boat: The Not Nice Protest and Radical Democracy in Israel",
+      "authorsCardHe": "Gal Levy",
+      "sourceAuthors": [
+        "Gal Levy"
+      ],
+      "journal": "World Political Science",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.1515/wps-2017-0009",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he",
+      "file": "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.html",
+      "permalink": "/democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.html",
+      "sortKey": 202605210216,
+      "titleHe": "מה מגלה המחקר על מחאה דתית, תגובת משטרה וסובלנות פוליטית?",
+      "paperTitle": "Religious Protest and Police Reaction in a Theo-Democracy: Israel, 1950-1979",
+      "authorsCardHe": "S. Lehman-Wilzig; G. Goldberg",
+      "sourceAuthors": [
+        "S. Lehman-Wilzig",
+        "G. Goldberg"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 1983",
+      "doiUrl": "https://doi.org/10.1093/jcs/25.3.491",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.jpg",
+        "altHe": "איור עריכתי על מחאה דתית, תגובת משטרה וסובלנות פוליטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מחאה דתית, תגובת משטרה וסובלנות פוליטית דרך עדשה של דעת קהל, קיטוב ואלימות פוליטית. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על עמדות ציבוריות, קיטוב, מחאה והצדקת כוח פוליטי. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
+      "file": "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.html",
+      "permalink": "/democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.html",
+      "sortKey": 202605210215,
+      "titleHe": "כיצד העמקת השבר הדמוקרטי בישראל בשנת 2023 קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "Year of Rupture: The Deepening Democratic Divide in Israel in 2023",
+      "authorsCardHe": "Yuval Feinstein",
+      "sourceAuthors": [
+        "Yuval Feinstein"
+      ],
+      "journal": "Center for Open Science",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.31235/osf.io/h28va_v1",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.jpg",
+        "altHe": "איור עריכתי על העמקת השבר הדמוקרטי בישראל בשנת 2023"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית העמקת השבר הדמוקרטי בישראל בשנת 2023 דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he",
+      "file": "democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.html",
+      "permalink": "/democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.html",
+      "sortKey": 202605210214,
+      "titleHe": "כיצד מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "Crossing the Democratic Boundaries? Israeli protest against the Autocratization Perils of the 2023 Institutional Reform",
+      "authorsCardHe": "Alon Helled",
+      "sourceAuthors": [
+        "Alon Helled"
+      ],
+      "journal": "SocietàMutamentoPolitica",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.36253/smp-15051",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.jpg",
+        "altHe": "איור עריכתי על מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_legal_status_of_the_arabs_in_israel_summary_he",
+      "file": "democracy_the_legal_status_of_the_arabs_in_israel_summary_he.html",
+      "permalink": "/democracy_the_legal_status_of_the_arabs_in_israel_summary_he.html",
+      "sortKey": 202605210213,
+      "titleHe": "מה מלמד המחקר על סוגיית המעמד המשפטי של האזרחים הערבים בישראל?",
+      "paperTitle": "The Legal Status of the Arabs in Israel",
+      "authorsCardHe": "David Kretzmer",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Routledge",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.4324/9780429312236",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_legal_status_of_the_arabs_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על המעמד המשפטי של האזרחים הערבים בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המעמד המשפטי של האזרחים הערבים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he",
+      "file": "democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.html",
+      "permalink": "/democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.html",
+      "sortKey": 202605210212,
+      "titleHe": "מה מלמד המחקר על סוגיית ממסד דתי, פלורליזם ושוויון אזרחי?",
+      "paperTitle": "Religious Establishment, Pluralism and Equality in Israel: Can the Circle be Squared?",
+      "authorsCardHe": "G. Stopler",
+      "sourceAuthors": [
+        "G. Stopler"
+      ],
+      "journal": "Oxford Journal of Law and Religion",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1093/ojlr/rws041",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.jpg",
+        "altHe": "איור עריכתי על ממסד דתי, פלורליזם ושוויון אזרחי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ממסד דתי, פלורליזם ושוויון אזרחי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_religious_liberty_in_the_state_of_israel_summary_he",
+      "file": "democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
+      "permalink": "/democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
+      "sortKey": 202605210211,
+      "titleHe": "מה מלמד המחקר על סוגיית חירות דתית במדינת ישראל?",
+      "paperTitle": "Religious Liberty in the State of Israel",
+      "authorsCardHe": "Natan Lerner",
+      "sourceAuthors": [
+        "Natan Lerner"
+      ],
+      "journal": "Religion and Equality Law",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.4324/9781315088945-9",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_liberty_in_the_state_of_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על חירות דתית במדינת ישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חירות דתית במדינת ישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he",
+      "file": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
+      "permalink": "/democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
+      "sortKey": 202605210210,
+      "titleHe": "מה מלמד המחקר על סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית?",
+      "paperTitle": "The Law of Return at Sixty Years: History, Ideology, Justification",
+      "authorsCardHe": "Ruth Gavison",
+      "sourceAuthors": [
+        "Ruth Gavison"
+      ],
+      "journal": "SSRN Electronic Journal / Metzilah Center",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.2139/ssrn.1951784",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.jpg",
+        "altHe": "איור עריכתי על חוק השבות והצדקתו במדינה יהודית ודמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he",
+      "file": "democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.html",
+      "permalink": "/democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.html",
+      "sortKey": 202605210209,
+      "titleHe": "מה הקשר בין זכויות חוקתיות במדינה יהודית ודמוקרטית לבין שלטון החוק בישראל?",
+      "paperTitle": "Constitutional Rights in a Jewish and Democratic State",
+      "authorsCardHe": "Daphne Barak-Erez",
+      "sourceAuthors": [
+        "Daphne Barak-Erez"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות חוקתיות במדינה יהודית ודמוקרטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות חוקתיות במדינה יהודית ודמוקרטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_constitutional_law_in_israel_summary_he",
+      "file": "democracy_constitutional_law_in_israel_summary_he.html",
+      "permalink": "/democracy_constitutional_law_in_israel_summary_he.html",
+      "sortKey": 202605210208,
+      "titleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Constitutional Law in Israel",
+      "authorsCardHe": "Claude Klein",
+      "sourceAuthors": [
+        "Claude Klein"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_law_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he",
+      "file": "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html",
+      "permalink": "/democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html",
+      "sortKey": 202605210207,
+      "titleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Judicial Review in Israel: A Comparative Perspective",
+      "authorsCardHe": "Aharon Barak",
+      "sourceAuthors": [
+        "Aharon Barak"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he",
+      "file": "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.html",
+      "permalink": "/democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.html",
+      "sortKey": 202605210206,
+      "titleHe": "מה הקשר בין האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי לבין שלטון החוק בישראל?",
+      "paperTitle": "A Constitution for Israel: Lessons from the American Experiment",
+      "authorsCardHe": "Ruth Gavison",
+      "sourceAuthors": [
+        "Ruth Gavison"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.jpg",
+        "altHe": "איור עריכתי על האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_human_rights_in_israel_s_supreme_court_summary_he",
+      "file": "democracy_human_rights_in_israel_s_supreme_court_summary_he.html",
+      "permalink": "/democracy_human_rights_in_israel_s_supreme_court_summary_he.html",
+      "sortKey": 202605210205,
+      "titleHe": "מה הקשר בין זכויות אדם ובית המשפט העליון בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Human Rights in Israel's Supreme Court",
+      "authorsCardHe": "Daphne Barak-Erez",
+      "sourceAuthors": [
+        "Daphne Barak-Erez"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_in_israel_s_supreme_court_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות אדם ובית המשפט העליון בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות אדם ובית המשפט העליון בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he",
+      "file": "democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.html",
+      "permalink": "/democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.html",
+      "sortKey": 202605210204,
+      "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "paperTitle": "Democratic Culture and the Arab Minority in Israel",
+      "authorsCardHe": "Sammy Smooha",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israeli_democracy_at_the_crossroads_summary_he",
+      "file": "democracy_israeli_democracy_at_the_crossroads_summary_he.html",
+      "permalink": "/democracy_israeli_democracy_at_the_crossroads_summary_he.html",
+      "sortKey": 202605210203,
+      "titleHe": "כיצד נקודת המפנה של הדמוקרטיה הישראלית קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "Israeli Democracy at the Crossroads",
+      "authorsCardHe": "Asher Arian",
+      "sourceAuthors": [
+        "Asher Arian"
+      ],
+      "journal": "Routledge",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_at_the_crossroads_summary_he.jpg",
+        "altHe": "איור עריכתי על נקודת המפנה של הדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he",
+      "file": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
+      "permalink": "/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
+      "sortKey": 202605210202,
+      "titleHe": "מה הקשר בין הפוליטיקה של רפורמה חוקתית בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The Politics of Constitutional Reform in Israel",
+      "authorsCardHe": "Gideon Doron",
+      "sourceAuthors": [
+        "Gideon Doron"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על הפוליטיקה של רפורמה חוקתית בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הפוליטיקה של רפורמה חוקתית בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he",
+      "file": "democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.html",
+      "permalink": "/democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.html",
+      "sortKey": 202605210201,
+      "titleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The New Basic Laws on Human Rights: A Mini-Revolution in Israeli Constitutional Law?",
+      "authorsCardHe": "David Kretzmer",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 1992",
+      "doiUrl": "https://doi.org/10.1017/s002122370001092x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.jpg",
+        "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he",
+      "file": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.html",
+      "permalink": "/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.html",
+      "sortKey": 202605210200,
+      "titleHe": "מה הקשר בין המהפכה החוקתית והסדר הכלכלי החדש בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The \"Constitutional Revolution\" and the Emergence of a New Economic Order in Israel",
+      "authorsCardHe": "Ran Hirschl",
+      "sourceAuthors": [
+        "Ran Hirschl"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 1997",
+      "doiUrl": "https://doi.org/10.2979/isr.1997.2.1.136",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על המהפכה החוקתית והסדר הכלכלי החדש בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he",
+      "file": "democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.html",
+      "permalink": "/democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.html",
+      "sortKey": 202605210199,
+      "titleHe": "מה הקשר בין מעמדו החוקתי של כבוד האדם בישראל ובהשוואה לבין שלטון החוק בישראל?",
+      "paperTitle": "The Constitutional Status of Human Dignity in Germany and Israel",
+      "authorsCardHe": "Ariel L. Bendor; Michael Sachs",
+      "sourceAuthors": [
+        "Ariel L. Bendor",
+        "Michael Sachs"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1017/s0021223700000959",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_constitution_of_israel_summary_he",
+      "file": "democracy_the_constitution_of_israel_summary_he.html",
+      "permalink": "/democracy_the_constitution_of_israel_summary_he.html",
+      "sortKey": 202605210198,
+      "titleHe": "מה הקשר בין מבנה החוקה הישראלית והמתחים שבתוכה לבין שלטון החוק בישראל?",
+      "paperTitle": "The Constitution of Israel",
+      "authorsCardHe": "Suzie Navot",
+      "sourceAuthors": [
+        "Suzie Navot"
+      ],
+      "journal": "Bloomsbury",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.5040/9781849468435",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_constitution_of_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על מבנה החוקה הישראלית והמתחים שבתוכה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מבנה החוקה הישראלית והמתחים שבתוכה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_human_rights_in_israel_summary_he",
+      "file": "democracy_human_rights_in_israel_summary_he.html",
+      "permalink": "/democracy_human_rights_in_israel_summary_he.html",
+      "sortKey": 202605210197,
+      "titleHe": "מה הקשר בין זכויות אדם ובית המשפט העליון בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Human Rights in Israel",
+      "authorsCardHe": "Aharon Barak",
+      "sourceAuthors": [
+        "Aharon Barak"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.1017/s0021223700012991",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות אדם ובית המשפט העליון בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות אדם ובית המשפט העליון בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_constitutional_revolutions_israel_as_a_case_study_summary_he",
+      "file": "democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.html",
+      "permalink": "/democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.html",
+      "sortKey": 202605210196,
+      "titleHe": "מה הקשר בין ישראל כמקרה מבחן למהפכות חוקתיות לבין שלטון החוק בישראל?",
+      "paperTitle": "Constitutional revolutions: Israel as a case-study",
+      "authorsCardHe": "Gideon Sapir",
+      "sourceAuthors": [
+        "Gideon Sapir"
+      ],
+      "journal": "International Journal of Law in Context",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1017/s1744552309990218",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.jpg",
+        "altHe": "איור עריכתי על ישראל כמקרה מבחן למהפכות חוקתיות"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ישראל כמקרה מבחן למהפכות חוקתיות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_international_law_in_israeli_courts_summary_he",
+      "file": "democracy_international_law_in_israeli_courts_summary_he.html",
+      "permalink": "/democracy_international_law_in_israeli_courts_summary_he.html",
+      "sortKey": 202605210195,
+      "titleHe": "מה הקשר בין מקומו של המשפט הבין־לאומי בבתי המשפט בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "International law in Israeli Courts",
+      "authorsCardHe": "Amichai Cohen",
+      "sourceAuthors": [
+        "Amichai Cohen"
+      ],
+      "journal": "The Oxford Handbook of Comparative Foreign Relations Law",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1093/oxfordhb/9780190653330.013.29",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_international_law_in_israeli_courts_summary_he.jpg",
+        "altHe": "איור עריכתי על מקומו של המשפט הבין־לאומי בבתי המשפט בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מקומו של המשפט הבין־לאומי בבתי המשפט בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he",
+      "file": "democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.html",
+      "permalink": "/democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.html",
+      "sortKey": 202605210194,
+      "titleHe": "מה הקשר בין נקודת המפנה של הדמוקרטיה הישראלית לבין שלטון החוק בישראל?",
+      "paperTitle": "Israeli Administrative Law at the Crossroads: Between the English Model and the American Model",
+      "authorsCardHe": "Daphne Barak-Erez",
+      "sourceAuthors": [
+        "Daphne Barak-Erez"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.1017/s002122370001325x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.jpg",
+        "altHe": "איור עריכתי על נקודת המפנה של הדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he",
+      "file": "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.html",
+      "permalink": "/democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.html",
+      "sortKey": 202605210193,
+      "titleHe": "מה הקשר בין בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם לבין שלטון החוק בישראל?",
+      "paperTitle": "The Israeli Supreme Court and the Human Rights Revolution: Courts as Agenda Setters",
+      "authorsCardHe": "Assaf Meydani",
+      "sourceAuthors": [
+        "Assaf Meydani"
+      ],
+      "journal": "",
+      "dateText": "",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.jpg",
+        "altHe": "איור עריכתי על בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he",
+      "file": "democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.html",
+      "permalink": "/democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.html",
+      "sortKey": 202605210192,
+      "titleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Social Citizenship: The Neglected Aspect of Israeli Constitutional Law",
+      "authorsCardHe": "Daphne Barak-Erez; Aeyal Gross",
+      "sourceAuthors": [
+        "Daphne Barak-Erez",
+        "Aeyal Gross"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3059374",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.jpg",
+        "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he",
+      "file": "democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.html",
+      "permalink": "/democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.html",
+      "sortKey": 202605210191,
+      "titleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Enforcement of Divorce Judgments in Jewish Courts in Israel: The Interaction Between Religious and Constitutional Law*",
+      "authorsCardHe": "Yehiel S. Kaplan",
+      "sourceAuthors": [
+        "Yehiel S. Kaplan"
+      ],
+      "journal": "Middle East Law and Governance",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1163/187633712x631246",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.jpg",
+        "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he",
+      "file": "democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.html",
+      "permalink": "/democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.html",
+      "sortKey": 202605210190,
+      "titleHe": "מה הקשר בין מעמדו החוקתי של כבוד האדם בישראל ובהשוואה לבין שלטון החוק בישראל?",
+      "paperTitle": "Constitutional Review of Criminal Prohibitions Affecting Human Dignity and Liberty: German and Israeli Perspectives",
+      "authorsCardHe": "Miriam Gur-Arye; Thomas Weigend",
+      "sourceAuthors": [
+        "Miriam Gur-Arye",
+        "Thomas Weigend"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1017/s0021223700000960",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2",
+      "file": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.html",
+      "permalink": "/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.html",
+      "sortKey": 202605210189,
+      "titleHe": "מה הקשר בין המהפכה החוקתית והסדר הכלכלי החדש בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The \"Constitutional Revolution\" and the Emergence of a New Economic Order in Israel",
+      "authorsCardHe": "Ran Hirschl",
+      "sourceAuthors": [
+        "Ran Hirschl"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 1997",
+      "doiUrl": "https://doi.org/10.1353/is.2005.0066",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.jpg",
+        "altHe": "איור עריכתי על המהפכה החוקתית והסדר הכלכלי החדש בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_rule_of_law_in_israel_summary_he",
+      "file": "democracy_the_rule_of_law_in_israel_summary_he.html",
+      "permalink": "/democracy_the_rule_of_law_in_israel_summary_he.html",
+      "sortKey": 202605210188,
+      "titleHe": "מה הקשר בין שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית לבין שלטון החוק בישראל?",
+      "paperTitle": "The Rule of Law in Israel",
+      "authorsCardHe": "Nir Kedar",
+      "sourceAuthors": [
+        "Nir Kedar"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.23.3.20",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_rule_of_law_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he",
+      "file": "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.html",
+      "permalink": "/democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.html",
+      "sortKey": 202605210187,
+      "titleHe": "מה הקשר בין זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה לבין שלטון החוק בישראל?",
+      "paperTitle": "The Israeli Unfinished Constitutional Revolution: Has the Time Come for Protecting Economic and Social Rights?",
+      "authorsCardHe": "Yoram Rabin; Yuval Shany",
+      "sourceAuthors": [
+        "Yoram Rabin",
+        "Yuval Shany"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1017/s0021223700012504",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he",
+      "file": "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.html",
+      "permalink": "/democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.html",
+      "sortKey": 202605210186,
+      "titleHe": "מה הקשר בין בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000 לבין שלטון החוק בישראל?",
+      "paperTitle": "After the Storm? The Israeli Supreme Court and the Arab-Palestinian Minority in the Aftermath of October 2000",
+      "authorsCardHe": "Ilan Saban",
+      "sourceAuthors": [
+        "Ilan Saban"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1080/13537120802340498",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.jpg",
+        "altHe": "איור עריכתי על בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000 דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he",
+      "file": "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.html",
+      "permalink": "/democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.html",
+      "sortKey": 202605210185,
+      "titleHe": "מה הקשר בין תביעות נזיקין כהתמודדות עם הפרות זכויות אדם לבין שלטון החוק בישראל?",
+      "paperTitle": "Litigating Human Rights Violations Through Tort Law: Israeli Law Perspective",
+      "authorsCardHe": "Iris Canor; Tamar Gidron; Haya Zandberg",
+      "sourceAuthors": [
+        "Iris Canor",
+        "Tamar Gidron",
+        "Haya Zandberg"
+      ],
+      "journal": "Ius Comparatum - Global Studies in Comparative Law",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.1007/978-3-319-18950-5_9",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.jpg",
+        "altHe": "איור עריכתי על תביעות נזיקין כהתמודדות עם הפרות זכויות אדם"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית תביעות נזיקין כהתמודדות עם הפרות זכויות אדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he",
+      "file": "democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.html",
+      "permalink": "/democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.html",
+      "sortKey": 202605210184,
+      "titleHe": "מה הקשר בין עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים לבין שלטון החוק בישראל?",
+      "paperTitle": "Judicial Setbacks, Material Gains: Terror Litigation at the Israeli High Court of Justice",
+      "authorsCardHe": "Menachem Hofnung; Keren Weinshall Margel",
+      "sourceAuthors": [
+        "Menachem Hofnung",
+        "Keren Weinshall Margel"
+      ],
+      "journal": "Journal of Empirical Legal Studies",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1111/j.1740-1461.2010.01192.x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.jpg",
+        "altHe": "איור עריכתי על עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he",
+      "file": "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.html",
+      "permalink": "/democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.html",
+      "sortKey": 202605210183,
+      "titleHe": "מה הקשר בין שימוש לרעה בסמכות המכוננת בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "From Supra-Constitutional Principles to the Misuse of Constituent Power in Israel",
+      "authorsCardHe": "Suzie Navot; Yaniv Roznai",
+      "sourceAuthors": [
+        "Suzie Navot",
+        "Yaniv Roznai"
+      ],
+      "journal": "European Journal of Law Reform",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.5553/ejlr/138723702019021003012",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על שימוש לרעה בסמכות המכוננת בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שימוש לרעה בסמכות המכוננת בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he",
+      "file": "democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.html",
+      "permalink": "/democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.html",
+      "sortKey": 202605210182,
+      "titleHe": "מה הקשר בין הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי לבין שלטון החוק בישראל?",
+      "paperTitle": "Israel's judicial overhaul: a threat to the Health in All Policies approach",
+      "authorsCardHe": "Shelly Kamin-Friedman; Hagai Levine; Nadav Davidovitch; Aron M Troen; Y Tony Yang",
+      "sourceAuthors": [
+        "Shelly Kamin-Friedman",
+        "Hagai Levine",
+        "Nadav Davidovitch",
+        "Aron M Troen",
+        "Y Tony Yang"
+      ],
+      "journal": "The Lancet",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1016/s0140-6736(23)01663-x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.jpg",
+        "altHe": "איור עריכתי על הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_platonic_conception_of_the_israeli_constitution_summary_he",
+      "file": "democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.html",
+      "permalink": "/democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.html",
+      "sortKey": 202605210181,
+      "titleHe": "מה הקשר בין התפיסה האפלטונית של החוקה הישראלית לבין שלטון החוק בישראל?",
+      "paperTitle": "The Platonic Conception of the Israeli Constitution",
+      "authorsCardHe": "Iddo Porat",
+      "sourceAuthors": [
+        "Iddo Porat"
+      ],
+      "journal": "The Invisible Constitution in Comparative Perspective",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.1017/9781108277914.009",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.jpg",
+        "altHe": "איור עריכתי על התפיסה האפלטונית של החוקה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית התפיסה האפלטונית של החוקה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he",
+      "file": "democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.html",
+      "permalink": "/democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.html",
+      "sortKey": 202605210180,
+      "titleHe": "מה הקשר בין מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון לבין שלטון החוק בישראל?",
+      "paperTitle": "Crusades against Corruption and Institutionally-induced Strategies in the Israeli Supreme Court",
+      "authorsCardHe": "Udi Sommer",
+      "sourceAuthors": [
+        "Udi Sommer"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1080/13537120902983031",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.jpg",
+        "altHe": "איור עריכתי על מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he",
+      "file": "democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.html",
+      "permalink": "/democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.html",
+      "sortKey": 202605210179,
+      "titleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The Changing Role of Judicial Review during Prolonged Emergencies: The Israeli Supreme Court during COVID-19",
+      "authorsCardHe": "Ittai Bar-Siman-Tov; Itay Cohen; Chani Koth",
+      "sourceAuthors": [
+        "Ittai Bar-Siman-Tov",
+        "Itay Cohen",
+        "Chani Koth"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3892273",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he",
+      "file": "democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.html",
+      "permalink": "/democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.html",
+      "sortKey": 202605210178,
+      "titleHe": "מה הקשר בין ביקורת מינהלית בתקופת האינתיפאדה השנייה לבין שלטון החוק בישראל?",
+      "paperTitle": "Judicial Administrative Review in Times of Discontent: The Israeli Supreme Court and the Second Palestinian Uprising",
+      "authorsCardHe": "Guy I. Seidman",
+      "sourceAuthors": [
+        "Guy I. Seidman"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1080/13537120802340506",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת מינהלית בתקופת האינתיפאדה השנייה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביקורת מינהלית בתקופת האינתיפאדה השנייה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he",
+      "file": "democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.html",
+      "permalink": "/democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.html",
+      "sortKey": 202605210177,
+      "titleHe": "מה הקשר בין הדין החל על עזה שאינה מוגדרת כשטח כבוש לבין שלטון החוק בישראל?",
+      "paperTitle": "The Law Applicable to Non-Occupied Gaza: A Comment on Bassiouni v. The Prime Minister of Israel",
+      "authorsCardHe": "Yuval Shany",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1017/s0021223700000467",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על הדין החל על עזה שאינה מוגדרת כשטח כבוש"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הדין החל על עזה שאינה מוגדרת כשטח כבוש דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he",
+      "file": "democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.html",
+      "permalink": "/democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.html",
+      "sortKey": 202605210176,
+      "titleHe": "מה הקשר בין משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני לבין שלטון החוק בישראל?",
+      "paperTitle": "Analysis of the Palestinian and Israeli Conflict in the Perspective of International Humanitarian Law",
+      "authorsCardHe": "Tri Mahwati; Ana Risma Nanda",
+      "sourceAuthors": [
+        "Tri Mahwati",
+        "Ana Risma Nanda"
+      ],
+      "journal": "International Law Discourse in Southeast Asia",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.15294/ildisea.v1i1.56873",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.jpg",
+        "altHe": "איור עריכתי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he",
+      "file": "democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.html",
+      "permalink": "/democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.html",
+      "sortKey": 202605210175,
+      "titleHe": "מה הקשר בין משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני לבין שלטון החוק בישראל?",
+      "paperTitle": "International Humanitarian Law and Women Right Violation in Israel-Palestine Armed Conflict of 2023",
+      "authorsCardHe": "Hafiz Abdul Rehman Saleem; Shahid Iqbal; Muzzammil Hussain; Muhammad Umair Khan; Toseef Ramzan",
+      "sourceAuthors": [
+        "Hafiz Abdul Rehman Saleem",
+        "Shahid Iqbal",
+        "Muzzammil Hussain",
+        "Muhammad Umair Khan",
+        "Toseef Ramzan"
+      ],
+      "journal": "The Critical Review of Social Sciences Studies",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.59075/4ce6t977",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.jpg",
+        "altHe": "איור עריכתי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he",
+      "file": "democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.html",
+      "permalink": "/democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.html",
+      "sortKey": 202605210174,
+      "titleHe": "מה הקשר בין בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "The Role of International Law in Achieving Justice and Peace in Palestine-Israel",
+      "authorsCardHe": "W. T. Mallison; S. V. Mallison",
+      "sourceAuthors": [
+        "W. T. Mallison",
+        "S. V. Mallison"
+      ],
+      "journal": "Journal of Palestine Studies",
+      "dateText": "פורסם: 1974",
+      "doiUrl": "https://doi.org/10.2307/2535893",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he",
+      "file": "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.html",
+      "permalink": "/democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.html",
+      "sortKey": 202605210173,
+      "titleHe": "מה הקשר בין הטענה כי הפוטש החוקתי בישראל אינו חוקתי לבין שלטון החוק בישראל?",
+      "paperTitle": "Why the Israeli Constitutional Putsch is Unconstitutional",
+      "authorsCardHe": "Alon Harel",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "Zeitschrift für kritik - recht - gesellschaft",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.33196/juridikum202302015801",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.jpg",
+        "altHe": "איור עריכתי על הטענה כי הפוטש החוקתי בישראל אינו חוקתי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הטענה כי הפוטש החוקתי בישראל אינו חוקתי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he",
+      "file": "democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.html",
+      "permalink": "/democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.html",
+      "sortKey": 202605210172,
+      "titleHe": "מה הקשר בין מעורבות התפוצה היהודית בדיונים חוקתיים בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Diasporas and Deliberative Democracy: A case study of Jewish diaspora involvement in constitutional deliberations in Israel",
+      "authorsCardHe": "Shay Baruch Keinan",
+      "sourceAuthors": [
+        "Shay Baruch Keinan"
+      ],
+      "journal": "Canberra, ACT : The Australian National University",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.25911/5d514499480e6",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.jpg",
+        "altHe": "איור עריכתי על מעורבות התפוצה היהודית בדיונים חוקתיים בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעורבות התפוצה היהודית בדיונים חוקתיים בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israel_in_search_of_constitutional_common_sense_summary_he",
+      "file": "democracy_israel_in_search_of_constitutional_common_sense_summary_he.html",
+      "permalink": "/democracy_israel_in_search_of_constitutional_common_sense_summary_he.html",
+      "sortKey": 202605210171,
+      "titleHe": "מה הקשר בין חיפוש אחר שכל ישר חוקתי בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Israel - In Search of Constitutional Common Sense",
+      "authorsCardHe": "Paweł Sadowski",
+      "sourceAuthors": [
+        "Paweł Sadowski"
+      ],
+      "journal": "Review of European and Comparative Law",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.31743/recl.16742",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_in_search_of_constitutional_common_sense_summary_he.jpg",
+        "altHe": "איור עריכתי על חיפוש אחר שכל ישר חוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חיפוש אחר שכל ישר חוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he",
+      "file": "democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.html",
+      "permalink": "/democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.html",
+      "sortKey": 202605210170,
+      "titleHe": "מה הקשר בין שלטון החוק והרשות השופטת בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Israel at 70: The Rule of Law and the Judiciary",
+      "authorsCardHe": "Mohammed Saif-Alden Wattad",
+      "sourceAuthors": [
+        "Mohammed Saif-Alden Wattad"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.23.3.21",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.jpg",
+        "altHe": "איור עריכתי על שלטון החוק והרשות השופטת בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שלטון החוק והרשות השופטת בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_jewish_and_israeli_law_an_introduction_summary_he",
+      "file": "democracy_jewish_and_israeli_law_an_introduction_summary_he.html",
+      "permalink": "/democracy_jewish_and_israeli_law_an_introduction_summary_he.html",
+      "sortKey": 202605210169,
+      "titleHe": "מה הקשר בין הקשרים בין משפט יהודי למשפט ישראלי לבין שלטון החוק בישראל?",
+      "paperTitle": "Jewish and Israeli Law - An Introduction",
+      "authorsCardHe": "Shimon Shetreet; Walter Homolka",
+      "sourceAuthors": [
+        "Shimon Shetreet",
+        "Walter Homolka"
+      ],
+      "journal": "De Gruyter",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.1515/9783899497946",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jewish_and_israeli_law_an_introduction_summary_he.jpg",
+        "altHe": "איור עריכתי על הקשרים בין משפט יהודי למשפט ישראלי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הקשרים בין משפט יהודי למשפט ישראלי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he",
+      "file": "democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.html",
+      "permalink": "/democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.html",
+      "sortKey": 202605210168,
+      "titleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "paperTitle": "Judicial Independence in Times of War: Prolonged Armed Conflict and Judicial Review of Military Actions in Israel",
+      "authorsCardHe": "Amnon Reichman",
+      "sourceAuthors": [
+        "Amnon Reichman"
+      ],
+      "journal": "Utah Law Review",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he",
+      "file": "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.html",
+      "permalink": "/democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.html",
+      "sortKey": 202605210167,
+      "titleHe": "מה הקשר בין מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה לבין שלטון החוק בישראל?",
+      "paperTitle": "12. Judicial Appointments and Promotions in Israel: Constitution, Law and Politics",
+      "authorsCardHe": "Eli M. Salzberger",
+      "sourceAuthors": [
+        "Eli M. Salzberger"
+      ],
+      "journal": "Appointing Judges in an Age of Judicial Power",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.3138/9781442670921-015",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.jpg",
+        "altHe": "איור עריכתי על מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he",
+      "file": "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.html",
+      "permalink": "/democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.html",
+      "sortKey": 202605210166,
+      "titleHe": "מה הקשר בין דימויי בתי המשפט העליונים בישראל ובארצות הברית לבין שלטון החוק בישראל?",
+      "paperTitle": "The Israeli and United States Supreme Courts: A Comparative Reflection on Their Symbols, Images, and Functions",
+      "authorsCardHe": "Barbara A. Perry",
+      "sourceAuthors": [
+        "Barbara A. Perry"
+      ],
+      "journal": "The Review of Politics",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.1017/s003467050003120x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.jpg",
+        "altHe": "איור עריכתי על דימויי בתי המשפט העליונים בישראל ובארצות הברית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית דימויי בתי המשפט העליונים בישראל ובארצות הברית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he",
+      "file": "democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.html",
+      "permalink": "/democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.html",
+      "sortKey": 202605210165,
+      "titleHe": "מה הקשר בין הטלטלה הפוליטית סביב הרפורמה המשפטית לבין שלטון החוק בישראל?",
+      "paperTitle": "Introduction: Judicial Overhaul and Political Upheaval in Israel",
+      "authorsCardHe": "Arieh Saposnik; Natan Aridan",
+      "sourceAuthors": [
+        "Arieh Saposnik",
+        "Natan Aridan"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.28.3.01",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על הטלטלה הפוליטית סביב הרפורמה המשפטית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית הטלטלה הפוליטית סביב הרפורמה המשפטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he",
+      "file": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
+      "permalink": "/democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
+      "sortKey": 202605210164,
+      "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "paperTitle": "The Politics Of Equality: The Limits Of Collective Rights Litigation And The Case Of The Palestinian-Arab Minority In Israel",
+      "authorsCardHe": "Yousef T. Jabareen",
+      "sourceAuthors": [
+        "Yousef T. Jabareen"
+      ],
+      "journal": "Columbia Journal of Race and Law",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.7916/cjrl.v4i1.2292",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he",
+      "file": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
+      "permalink": "/democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
+      "sortKey": 202605210163,
+      "titleHe": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+      "paperTitle": "The Arab Minority in Israel's Economy: Patterns of Ethnic Inequality.",
+      "authorsCardHe": "Aziz Haidar; Noah Lewin-Epstein; Moshe Semyonov",
+      "sourceAuthors": [
+        "Aziz Haidar",
+        "Noah Lewin-Epstein",
+        "Moshe Semyonov"
+      ],
+      "journal": "Contemporary Sociology",
+      "dateText": "פורסם: 1994",
+      "doiUrl": "https://doi.org/10.2307/2074264",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.jpg",
+        "altHe": "איור עריכתי על אי־שוויון כלכלי של המיעוט הערבי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_arab_minority_in_israel_s_economy_summary_he",
+      "file": "democracy_the_arab_minority_in_israel_s_economy_summary_he.html",
+      "permalink": "/democracy_the_arab_minority_in_israel_s_economy_summary_he.html",
+      "sortKey": 202605210162,
+      "titleHe": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+      "paperTitle": "The Arab Minority in Israel's Economy",
+      "authorsCardHe": "Noah Lewin-Epstein; Moshe Semyonov",
+      "sourceAuthors": [
+        "Noah Lewin-Epstein",
+        "Moshe Semyonov"
+      ],
+      "journal": "Routledge",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.4324/9780429308901",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_arab_minority_in_israel_s_economy_summary_he.jpg",
+        "altHe": "איור עריכתי על אי־שוויון כלכלי של המיעוט הערבי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he",
+      "file": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
+      "permalink": "/democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
+      "sortKey": 202605210161,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "paperTitle": "Between nation and state: `fractured' regionalism among Palestinian-Arabs in Israel",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "Political Geography",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1016/s0962-6298(98)00086-9",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he",
+      "file": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
+      "permalink": "/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
+      "sortKey": 202605210160,
+      "titleHe": "מה מלמד המחקר על סוגיית חינוך לסובלנות מול השסע היהודי־ערבי?",
+      "paperTitle": "Democracy, The Jewish-Arab Cleavage and tolerance education in Israel",
+      "authorsCardHe": "Dan Soen",
+      "sourceAuthors": [
+        "Dan Soen"
+      ],
+      "journal": "International Journal of Intercultural Relations",
+      "dateText": "פורסם: 2002",
+      "doiUrl": "https://doi.org/10.1016/s0147-1767(01)00049-9",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על חינוך לסובלנות מול השסע היהודי־ערבי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חינוך לסובלנות מול השסע היהודי־ערבי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he",
+      "file": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
+      "permalink": "/democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
+      "sortKey": 202605210159,
+      "titleHe": "מה מלמד המחקר על סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית?",
+      "paperTitle": "Palestinian NGOs in Israel: A Campaign for Civic Equality or ?Ethnic Civil Society??",
+      "authorsCardHe": "Oded Haklai",
+      "sourceAuthors": [
+        "Oded Haklai"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.2979/isr.2004.9.3.157",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.jpg",
+        "altHe": "איור עריכתי על עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he",
+      "file": "democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.html",
+      "permalink": "/democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.html",
+      "sortKey": 202605210158,
+      "titleHe": "מה מלמד המחקר על סוגיית החלוקה והמיעוט הפלסטיני בישראל?",
+      "paperTitle": "Partition and the Arab Palestinian Minority in Israel",
+      "authorsCardHe": "Asher Susser",
+      "sourceAuthors": [
+        "Asher Susser"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.2979/isr.2009.14.2.105",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על החלוקה והמיעוט הפלסטיני בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית החלוקה והמיעוט הפלסטיני בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_arabs_in_israel_summary_he",
+      "file": "democracy_the_arabs_in_israel_summary_he.html",
+      "permalink": "/democracy_the_arabs_in_israel_summary_he.html",
+      "sortKey": 202605210157,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "paperTitle": "The Arabs in Israel",
+      "authorsCardHe": "Noam Chomsky",
+      "sourceAuthors": [
+        "Noam Chomsky"
+      ],
+      "journal": "Monthly Review",
+      "dateText": "פורסם: 1976",
+      "doiUrl": "https://doi.org/10.14452/mr-027-11-1976-04_2",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_arabs_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he",
+      "file": "democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.html",
+      "permalink": "/democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.html",
+      "sortKey": 202605210156,
+      "titleHe": "מה מלמד המחקר על סוגיית מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית?",
+      "paperTitle": "The Arab Lecturer on a Zionist Campus: Student Practices Replicating National Hegemony",
+      "authorsCardHe": "Ibrahim Mahajne; Nuzha Allassad Alhuzail",
+      "sourceAuthors": [
+        "Ibrahim Mahajne",
+        "Nuzha Allassad Alhuzail"
+      ],
+      "journal": "Middle East Critique",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1080/19436149.2023.2230672",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.jpg",
+        "altHe": "איור עריכתי על מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he",
+      "file": "democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.html",
+      "permalink": "/democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.html",
+      "sortKey": 202605210155,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "paperTitle": "Israel’s Arab Citizens: The Continuing Struggle (1998)",
+      "authorsCardHe": "Mark Tessler",
+      "sourceAuthors": [
+        "Mark Tessler"
+      ],
+      "journal": "Religious Minorities in Non-Secular Middle Eastern and North African States",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1007/978-3-030-19843-5_15",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he",
+      "file": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
+      "permalink": "/democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
+      "sortKey": 202605210154,
+      "titleHe": "מה מלמד המחקר על סוגיית חוק הלאום והשפעתו על זכויות ושייכות?",
+      "paperTitle": "Introduction to Israel Dialectics-The 2018 Basic Law: Israel as the Nation-State of the Jewish People",
+      "authorsCardHe": "Peleg",
+      "sourceAuthors": [
+        "Peleg"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.11",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.jpg",
+        "altHe": "איור עריכתי על חוק הלאום והשפעתו על זכויות ושייכות"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חוק הלאום והשפעתו על זכויות ושייכות דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he",
+      "file": "democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.html",
+      "permalink": "/democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.html",
+      "sortKey": 202605210153,
+      "titleHe": "מה מלמד המחקר על סוגיית מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר?",
+      "paperTitle": "Leadership for Equity and Social Justice in Arab And Jewish Schools in Israel: Leadership Trajectories and Pedagogical Praxis",
+      "authorsCardHe": "Khalid Husny Arar",
+      "sourceAuthors": [
+        "Khalid Husny Arar"
+      ],
+      "journal": "International Journal of Multicultural Education",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.18251/ijme.v17i1.938",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.jpg",
+        "altHe": "איור עריכתי על מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he",
+      "file": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
+      "permalink": "/democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
+      "sortKey": 202605210152,
+      "titleHe": "מה מלמד המחקר על סוגיית שרטוט מחדש של גבולות האזרחות בישראל?",
+      "paperTitle": "Redrawing the Boundaries of Citizenship: Israel's New Hegemony",
+      "authorsCardHe": "Nadim N. Rouhana; Nimer Sultany",
+      "sourceAuthors": [
+        "Nadim N. Rouhana",
+        "Nimer Sultany"
+      ],
+      "journal": "Journal of Palestine Studies",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1525/jps.2003.33.1.5",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.jpg",
+        "altHe": "איור עריכתי על שרטוט מחדש של גבולות האזרחות בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שרטוט מחדש של גבולות האזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he",
+      "file": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
+      "permalink": "/democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
+      "sortKey": 202605210151,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+      "paperTitle": "Israeli Democracy and the Rights of Its Palestinian Citizens",
+      "authorsCardHe": "Raphael Cohen-Almagor",
+      "sourceAuthors": [
+        "Raphael Cohen-Almagor"
+      ],
+      "journal": "Ragion pratica",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1415/81523",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות האזרחים הפלסטינים בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he",
+      "file": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
+      "permalink": "/democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
+      "sortKey": 202605210150,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+      "paperTitle": "Israel as an Ethnic Democracy: Palestinian Citizens and the Fight for Equal Rights",
+      "authorsCardHe": "Raphael Cohen-Almagor",
+      "sourceAuthors": [
+        "Raphael Cohen-Almagor"
+      ],
+      "journal": "SSRN Electronic Journal",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.2139/ssrn.3900711",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות האזרחים הפלסטינים בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he",
+      "file": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
+      "permalink": "/democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
+      "sortKey": 202605210149,
+      "titleHe": "מה מלמד המחקר על סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל?",
+      "paperTitle": "The Geography and Political Context of Human Rights Education: Israel as a Case Study",
+      "authorsCardHe": "Neve Gordon",
+      "sourceAuthors": [
+        "Neve Gordon"
+      ],
+      "journal": "Journal of Human Rights",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1080/14754835.2012.702031",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.jpg",
+        "altHe": "איור עריכתי על חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_security_and_defensive_democracy_in_israel_summary_he",
+      "file": "democracy_security_and_defensive_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_security_and_defensive_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210148,
+      "titleHe": "מה מלמד המחקר על סוגיית ביטחון ודמוקרטיה מתגוננת בישראל?",
+      "paperTitle": "Security and Defensive Democracy in Israel",
+      "authorsCardHe": "Sharon Weinblum",
+      "sourceAuthors": [
+        "Sharon Weinblum"
+      ],
+      "journal": "Routledge",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.4324/9781315741888",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_security_and_defensive_democracy_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על ביטחון ודמוקרטיה מתגוננת בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביטחון ודמוקרטיה מתגוננת בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he",
+      "file": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
+      "permalink": "/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
+      "sortKey": 202605210147,
+      "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "paperTitle": "The dynamics of exclusionary constitutionalism: Israel as a Jewish and democratic state, by Mazen Masri",
+      "authorsCardHe": "Elian Weizman",
+      "sourceAuthors": [
+        "Elian Weizman"
+      ],
+      "journal": "British Journal of Middle Eastern Studies",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1080/13530194.2019.1585075",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he",
+      "file": "democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.html",
+      "permalink": "/democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.html",
+      "sortKey": 202605210146,
+      "titleHe": "מה מלמד המחקר על סוגיית אזרחות כמסכה בהשוואה בין צרפת לישראל?",
+      "paperTitle": "Muslim headscarves in France and army uniforms in Israel: a comparative study of citizenship as mask",
+      "authorsCardHe": "Leora Bilsky",
+      "sourceAuthors": [
+        "Leora Bilsky"
+      ],
+      "journal": "Patterns of Prejudice",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1080/00313220903109193",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.jpg",
+        "altHe": "איור עריכתי על אזרחות כמסכה בהשוואה בין צרפת לישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית אזרחות כמסכה בהשוואה בין צרפת לישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he",
+      "file": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
+      "permalink": "/democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
+      "sortKey": 202605210145,
+      "titleHe": "מה מלמד המחקר על סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית?",
+      "paperTitle": "The educator’s role in democratic and multicultural societies: student perceptions at a teacher training college in Israel",
+      "authorsCardHe": "Michal Hisherik; Ilana Paul-Binyamin",
+      "sourceAuthors": [
+        "Michal Hisherik",
+        "Ilana Paul-Binyamin"
+      ],
+      "journal": "Journal for Multicultural Education",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1108/jme-08-2023-0077",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.jpg",
+        "altHe": "איור עריכתי על תפקיד המחנך בחברה דמוקרטית ורב־תרבותית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he",
+      "file": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
+      "permalink": "/democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
+      "sortKey": 202605210144,
+      "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "paperTitle": "Police officers' acceptance of community policing strategy in Israel and their attitudes towards the Arab minority",
+      "authorsCardHe": "Amikam Harpaz; Sergio Herzog",
+      "sourceAuthors": [
+        "Amikam Harpaz",
+        "Sergio Herzog"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1080/13537121.2013.748294",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.jpg",
+        "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_language_law_in_israel_summary_he",
+      "file": "democracy_language_law_in_israel_summary_he.html",
+      "permalink": "/democracy_language_law_in_israel_summary_he.html",
+      "sortKey": 202605210143,
+      "titleHe": "מה מלמד המחקר על סוגיית דיני שפה בישראל?",
+      "paperTitle": "Language Law in Israel",
+      "authorsCardHe": "Yocheved Deutch",
+      "sourceAuthors": [
+        "Yocheved Deutch"
+      ],
+      "journal": "Language Policy",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1007/s10993-005-7555-9",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_language_law_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על דיני שפה בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית דיני שפה בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_language_and_citizenship_in_israel_summary_he",
+      "file": "democracy_language_and_citizenship_in_israel_summary_he.html",
+      "permalink": "/democracy_language_and_citizenship_in_israel_summary_he.html",
+      "sortKey": 202605210142,
+      "titleHe": "מה מלמד המחקר על סוגיית שפה ואזרחות בישראל?",
+      "paperTitle": "Language and Citizenship in Israel",
+      "authorsCardHe": "Elana Shohamy; Tzahi Kanza",
+      "sourceAuthors": [
+        "Elana Shohamy",
+        "Tzahi Kanza"
+      ],
+      "journal": "Language Assessment Quarterly",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1080/15434300802606622",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_language_and_citizenship_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על שפה ואזרחות בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית שפה ואזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he",
+      "file": "democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.html",
+      "permalink": "/democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.html",
+      "sortKey": 202605210141,
+      "titleHe": "מה מלמד המחקר על סוגיית המשפט החוקתי בישראל?",
+      "paperTitle": "The Politics of Rights in Israeli Constitutional Law",
+      "authorsCardHe": "Aeyal M. Gross",
+      "sourceAuthors": [
+        "Aeyal M. Gross"
+      ],
+      "journal": "Israel Studies",
+      "dateText": "פורסם: 1998",
+      "doiUrl": "https://doi.org/10.2979/isr.1998.3.2.80",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.jpg",
+        "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he",
+      "file": "democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.html",
+      "permalink": "/democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.html",
+      "sortKey": 202605210140,
+      "titleHe": "מה מלמד המחקר על סוגיית פופוליזם דתי וזיכרון יהודי בישראל?",
+      "paperTitle": "Remember to be Jewish: Religious Populism in Israel",
+      "authorsCardHe": "Guy Ben Porat; Dani Filc",
+      "sourceAuthors": [
+        "Guy Ben Porat",
+        "Dani Filc"
+      ],
+      "journal": "Politics and Religion",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1017/s1755048320000681",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על פופוליזם דתי וזיכרון יהודי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית פופוליזם דתי וזיכרון יהודי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he",
+      "file": "democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.html",
+      "permalink": "/democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.html",
+      "sortKey": 202605210139,
+      "titleHe": "מה מלמד המחקר על סוגיית חינוך לאזרחות גלובלית בחברה מפוצלת?",
+      "paperTitle": "Israeli teachers make sense of global citizenship education in a divided society- religion, marginalisation and economic globalisation",
+      "authorsCardHe": "Heela Goren; Claire Maxwell; Miri Yemini",
+      "sourceAuthors": [
+        "Heela Goren",
+        "Claire Maxwell",
+        "Miri Yemini"
+      ],
+      "journal": "Comparative Education",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1080/03050068.2018.1541660",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.jpg",
+        "altHe": "איור עריכתי על חינוך לאזרחות גלובלית בחברה מפוצלת"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית חינוך לאזרחות גלובלית בחברה מפוצלת דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he",
+      "file": "democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.html",
+      "permalink": "/democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.html",
+      "sortKey": 202605210138,
+      "titleHe": "מה מלמד המחקר על סוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה?",
+      "paperTitle": "Poverty in Arab-Palestinian society in Israel: Social work perspectives before and during COVID-19",
+      "authorsCardHe": "Ensherah Khoury; Michal Krumer-Nevo",
+      "sourceAuthors": [
+        "Ensherah Khoury",
+        "Michal Krumer-Nevo"
+      ],
+      "journal": "International Social Work",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1177/00208728221091125",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת שיפוטית בזמן חירום מתמשך וקורונה"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he",
+      "file": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
+      "permalink": "/democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
+      "sortKey": 202605210137,
+      "titleHe": "מה מלמד המחקר על סוגיית מימוש זכויות בתוך משטר המקלט הישראלי?",
+      "paperTitle": "Acts of citizenship as a politics of resistance? Reflections on realizing concrete rights within the Israeli asylum regime",
+      "authorsCardHe": "Tanja R. Müller",
+      "sourceAuthors": [
+        "Tanja R. Müller"
+      ],
+      "journal": "Citizenship Studies",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.1080/13621025.2015.1104291",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.jpg",
+        "altHe": "איור עריכתי על מימוש זכויות בתוך משטר המקלט הישראלי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מימוש זכויות בתוך משטר המקלט הישראלי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_crisis_of_israel_s_democracy_1948_2025_summary_he",
+      "file": "democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.html",
+      "permalink": "/democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.html",
+      "sortKey": 202605210136,
+      "titleHe": "כיצד משבר הדמוקרטיה בישראל לאורך זמן קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "Crisis of Israel's Democracy, 1948-2025",
+      "authorsCardHe": "Ilan Peleg; Ruth Amir",
+      "sourceAuthors": [
+        "Ilan Peleg",
+        "Ruth Amir"
+      ],
+      "journal": "Bloomsbury Academic",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.5040/9781978746985",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.jpg",
+        "altHe": "איור עריכתי על משבר הדמוקרטיה בישראל לאורך זמן"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית משבר הדמוקרטיה בישראל לאורך זמן דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he",
+      "file": "democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.html",
+      "permalink": "/democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.html",
+      "sortKey": 202605210135,
+      "titleHe": "כיצד פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "Antidemocratic populism in power: comparing Erdoğan’s Turkey with Modi’s India and Netanyahu’s Israel",
+      "authorsCardHe": "Julius Maximilian Rogenhofer; Ayala Panievsky",
+      "sourceAuthors": [
+        "Julius Maximilian Rogenhofer",
+        "Ayala Panievsky"
+      ],
+      "journal": "Democratization",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1080/13510347.2020.1795135",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.jpg",
+        "altHe": "איור עריכתי על פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_crooked_timber_of_democracy_in_israel_summary_he",
+      "file": "democracy_the_crooked_timber_of_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_the_crooked_timber_of_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210134,
+      "titleHe": "כיצד החומר העקום של הדמוקרטיה בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "The Crooked Timber of Democracy in Israel",
+      "authorsCardHe": "Dahlia Scheindlin",
+      "sourceAuthors": [
+        "Dahlia Scheindlin"
+      ],
+      "journal": "De Gruyter",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1515/9783110796582",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_crooked_timber_of_democracy_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על החומר העקום של הדמוקרטיה בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית החומר העקום של הדמוקרטיה בישראל דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he",
+      "file": "democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.html",
+      "sortKey": 202605210133,
+      "titleHe": "כיצד פופוליזם כמושג פוליטי בהקשר הישראלי קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "POPULISM AS A POLITICAL TERM AND IN THE CONTEXT OF THE STATE OF DEMOCRACY IN ISRAEL",
+      "authorsCardHe": "Nicolae Păun; Shay Tovim",
+      "sourceAuthors": [
+        "Nicolae Păun",
+        "Shay Tovim"
+      ],
+      "journal": "Cluj University Journal. Interdisciplinary: Social Sciences and Humanities",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.61846/cuji-ssh.1.2.07",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על פופוליזם כמושג פוליטי בהקשר הישראלי"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית פופוליזם כמושג פוליטי בהקשר הישראלי דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he",
+      "file": "democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.html",
+      "permalink": "/democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.html",
+      "sortKey": 202605210132,
+      "titleHe": "כיצד מלחמת עזה והמבוי הסתום החוקתי בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "How the War in Gaza May Upend Israel’s Constitutional Limbo",
+      "authorsCardHe": "Noam Kozlov",
+      "sourceAuthors": [
+        "Noam Kozlov"
+      ],
+      "journal": "Front Matter",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.59704/43f0a8e179ad0f08",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.jpg",
+        "altHe": "איור עריכתי על מלחמת עזה והמבוי הסתום החוקתי בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית מלחמת עזה והמבוי הסתום החוקתי בישראל דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
+    {
+      "slug": "democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he",
+      "file": "democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.html",
+      "permalink": "/democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.html",
+      "sortKey": 202605210131,
+      "titleHe": "כיצד אתגרי הדמוקרטיה האתנית והפופוליזם בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "paperTitle": "The Challenges of an Ethnic-democracy: Populism, Netanyahu and Israel's Path",
+      "authorsCardHe": "Daniel Gal",
+      "sourceAuthors": [
+        "Daniel Gal"
+      ],
+      "journal": "MaRBLe",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.26481/marble.2017.v3.555",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.jpg",
+        "altHe": "איור עריכתי על אתגרי הדמוקרטיה האתנית והפופוליזם בישראל"
+      },
+      "datePublished": "2026-05-21",
+      "dateModified": "2026-05-21",
+      "summaryHe": "המאמר בוחן את סוגיית אתגרי הדמוקרטיה האתנית והפופוליזם בישראל דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח."
+    },
     {
       "slug": "democracy_alternative_pluralisms_israeli_and_american_constitutionalism_in_comparative_perspecti_summary_he",
       "file": "democracy_alternative_pluralisms_israeli_and_american_constitutionalism_in_comparative_perspecti_summary_he.html",

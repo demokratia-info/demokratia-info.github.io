@@ -11,10 +11,2429 @@
   "homepagePriorityPolicy": "On index.html, keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
     {
-      "file": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
+      "file": "html_qa/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 1,
+      "primaryArticle": "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.html",
+      "usedBy": [
+        "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין כשל המערכת המשפטית במניעת עינויים בשטחים לבין שלטון החוק בישראל?",
+      "authorsHe": "Barak Cohen",
+      "visualDescriptionHe": "איור עריכתי ייחודי על כשל המערכת המשפטית במניעת עינויים בשטחים",
+      "semanticDescriptionHe": "המאמר עוסק בכשל המערכת המשפטית במניעת עינויים בשטחים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "rule",
+        "israeli",
+        "legal",
+        "system",
+        "failure"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 2,
+      "primaryArticle": "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ לבין שלטון החוק בישראל?",
+      "authorsHe": "Yoav Dotan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ",
+      "semanticDescriptionHe": "המאמר עוסק בשפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "rhetoric",
+        "government",
+        "lawyers",
+        "human",
+        "rights"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.jpg",
       "width": 800,
       "height": 600,
       "currentHomepagePosition": 3,
+      "primaryArticle": "democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי לבין שלטון החוק בישראל?",
+      "authorsHe": "Natalie R Davidson; Tamar Hostovsky Brandes",
+      "visualDescriptionHe": "איור עריכתי ייחודי על היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי",
+      "semanticDescriptionHe": "המאמר עוסק בהיחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "courts",
+        "paradox",
+        "international",
+        "human",
+        "rights"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 4,
+      "primaryArticle": "democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.html",
+      "usedBy": [
+        "democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם לבין שלטון החוק בישראל?",
+      "authorsHe": "Amichai Cohen; Yuval Shany",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם",
+      "semanticDescriptionHe": "המאמר עוסק בהמעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "switch",
+        "israel",
+        "high",
+        "court",
+        "justice",
+        "transition"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 5,
+      "primaryArticle": "democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.html",
+      "usedBy": [
+        "democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות לבין שלטון החוק בישראל?",
+      "authorsHe": "Richard Harding",
+      "visualDescriptionHe": "איור עריכתי ייחודי על גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות",
+      "semanticDescriptionHe": "המאמר עוסק בגבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "state",
+        "monopoly",
+        "permitted",
+        "violation",
+        "human",
+        "rights"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": 6,
+      "primaryArticle": "democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "authorsHe": "Sammy Smooha",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק במעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "minority",
+        "status",
+        "ethnic",
+        "democracy",
+        "arab"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_jews_and_arabs_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_jews_and_arabs_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_jews_and_arabs_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת?",
+      "authorsHe": "Michal Shamir; John L. Sullivan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת",
+      "semanticDescriptionHe": "המאמר עוסק ביחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "jews",
+        "arabs",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
+      "usedBy": [
+        "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל?",
+      "authorsHe": "Amit Schejter",
+      "visualDescriptionHe": "איור עריכתי ייחודי על דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בדיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "stranger",
+        "that",
+        "dwelleth",
+        "with",
+        "shall",
+        "unto"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה לבין פעולה דמוקרטית בישראל?",
+      "authorsHe": "Ronnie Olesker",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה",
+      "semanticDescriptionHe": "המאמר עוסק בחקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "making",
+        "securitization",
+        "jewish",
+        "identity",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
+      "usedBy": [
+        "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים?",
+      "authorsHe": "Salim Brake",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ייצוג ודה־לגיטימציה של אזרחים ערבים",
+      "semanticDescriptionHe": "המאמר עוסק בייצוג ודה־לגיטימציה של אזרחים ערבים, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "representation",
+        "legitimation",
+        "semi",
+        "democratic",
+        "regimes",
+        "case"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_protest_politics_in_the_israeli_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_protest_politics_in_the_israeli_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_protest_politics_in_the_israeli_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין פוליטיקת מחאה והמרחב הדמוקרטי בישראל לבין פעולה דמוקרטית בישראל?",
+      "authorsHe": "Eva Etzioni-Halevy",
+      "visualDescriptionHe": "איור עריכתי ייחודי על פוליטיקת מחאה והמרחב הדמוקרטי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בפוליטיקת מחאה והמרחב הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "protest",
+        "politics",
+        "israeli",
+        "democracy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.html",
+      "usedBy": [
+        "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי לבין פעולה דמוקרטית בישראל?",
+      "authorsHe": "Sebastian Schipper",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי",
+      "semanticDescriptionHe": "המאמר עוסק במחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "social",
+        "movements",
+        "post",
+        "democracy",
+        "israeli",
+        "tent"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_protest_movements_and_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_protest_movements_and_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_protest_movements_and_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל לבין פעולה דמוקרטית בישראל?",
+      "authorsHe": "Leonie Fleischmann",
+      "visualDescriptionHe": "איור עריכתי ייחודי על תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בתנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "protest",
+        "movements",
+        "democracy",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית לבין פעולה דמוקרטית בישראל?",
+      "authorsHe": "Gal Levy",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית",
+      "semanticDescriptionHe": "המאמר עוסק במחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "shake",
+        "tree",
+        "rock",
+        "boat",
+        "nice",
+        "protest"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.html",
+      "usedBy": [
+        "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.html"
+      ],
+      "cardTitleHe": "מה מגלה המחקר על מחאה דתית, תגובת משטרה וסובלנות פוליטית?",
+      "authorsHe": "S. Lehman-Wilzig; G. Goldberg",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מחאה דתית, תגובת משטרה וסובלנות פוליטית",
+      "semanticDescriptionHe": "המאמר עוסק במחאה דתית, תגובת משטרה וסובלנות פוליטית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב ואלימות פוליטית, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "religious",
+        "protest",
+        "police",
+        "reaction",
+        "theo",
+        "democracy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.html",
+      "usedBy": [
+        "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד העמקת השבר הדמוקרטי בישראל בשנת 2023 קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Yuval Feinstein",
+      "visualDescriptionHe": "איור עריכתי ייחודי על העמקת השבר הדמוקרטי בישראל בשנת 2023",
+      "semanticDescriptionHe": "המאמר עוסק בהעמקת השבר הדמוקרטי בישראל בשנת 2023, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "year",
+        "rupture",
+        "deepening",
+        "democratic",
+        "divide",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.html",
+      "usedBy": [
+        "democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Alon Helled",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית",
+      "semanticDescriptionHe": "המאמר עוסק במחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "crossing",
+        "democratic",
+        "boundaries",
+        "israeli",
+        "protest",
+        "against"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_legal_status_of_the_arabs_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_legal_status_of_the_arabs_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_legal_status_of_the_arabs_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית המעמד המשפטי של האזרחים הערבים בישראל?",
+      "authorsHe": "David Kretzmer",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המעמד המשפטי של האזרחים הערבים בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמעמד המשפטי של האזרחים הערבים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "legal",
+        "status",
+        "arabs",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.html",
+      "usedBy": [
+        "democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית ממסד דתי, פלורליזם ושוויון אזרחי?",
+      "authorsHe": "G. Stopler",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ממסד דתי, פלורליזם ושוויון אזרחי",
+      "semanticDescriptionHe": "המאמר עוסק בממסד דתי, פלורליזם ושוויון אזרחי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "religious",
+        "establishment",
+        "pluralism",
+        "equality",
+        "israel",
+        "circle"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_religious_liberty_in_the_state_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_religious_liberty_in_the_state_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חירות דתית במדינת ישראל?",
+      "authorsHe": "Natan Lerner",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חירות דתית במדינת ישראל",
+      "semanticDescriptionHe": "המאמר עוסק בחירות דתית במדינת ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "religious",
+        "liberty",
+        "state",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
+      "usedBy": [
+        "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית?",
+      "authorsHe": "Ruth Gavison",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חוק השבות והצדקתו במדינה יהודית ודמוקרטית",
+      "semanticDescriptionHe": "המאמר עוסק בחוק השבות והצדקתו במדינה יהודית ודמוקרטית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "return",
+        "sixty",
+        "years",
+        "history",
+        "ideology",
+        "justification"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין זכויות חוקתיות במדינה יהודית ודמוקרטית לבין שלטון החוק בישראל?",
+      "authorsHe": "Daphne Barak-Erez",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות חוקתיות במדינה יהודית ודמוקרטית",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות חוקתיות במדינה יהודית ודמוקרטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "rights",
+        "jewish",
+        "democratic",
+        "state"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_constitutional_law_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_law_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_law_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Claude Klein",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המשפט החוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Aharon Barak",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת שיפוטית והגבלת כוח שלטוני בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "review",
+        "israel",
+        "comparative",
+        "perspective"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.html",
+      "usedBy": [
+        "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי לבין שלטון החוק בישראל?",
+      "authorsHe": "Ruth Gavison",
+      "visualDescriptionHe": "איור עריכתי ייחודי על האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי",
+      "semanticDescriptionHe": "המאמר עוסק בהאפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitution",
+        "israel",
+        "lessons",
+        "from",
+        "american",
+        "experiment"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_human_rights_in_israel_s_supreme_court_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_human_rights_in_israel_s_supreme_court_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_in_israel_s_supreme_court_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין זכויות אדם ובית המשפט העליון בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Daphne Barak-Erez",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות אדם ובית המשפט העליון בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות אדם ובית המשפט העליון בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "human",
+        "rights",
+        "israel",
+        "supreme",
+        "court"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_culture_and_the_arab_minority_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "authorsHe": "Sammy Smooha",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק במעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic",
+        "culture",
+        "arab",
+        "minority",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israeli_democracy_at_the_crossroads_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_democracy_at_the_crossroads_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_democracy_at_the_crossroads_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד נקודת המפנה של הדמוקרטיה הישראלית קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Asher Arian",
+      "visualDescriptionHe": "איור עריכתי ייחודי על נקודת המפנה של הדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק בנקודת המפנה של הדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "israeli",
+        "democracy",
+        "crossroads"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הפוליטיקה של רפורמה חוקתית בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Gideon Doron",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הפוליטיקה של רפורמה חוקתית בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהפוליטיקה של רפורמה חוקתית בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "politics",
+        "constitutional",
+        "reform",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.html",
+      "usedBy": [
+        "democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "David Kretzmer",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המשפט החוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "basic",
+        "laws",
+        "human",
+        "rights",
+        "mini",
+        "revolution"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המהפכה החוקתית והסדר הכלכלי החדש בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Ran Hirschl",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המהפכה החוקתית והסדר הכלכלי החדש בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמהפכה החוקתית והסדר הכלכלי החדש בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "revolution",
+        "emergence",
+        "economic",
+        "order",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_constitutional_status_of_human_dignity_in_germany_and_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מעמדו החוקתי של כבוד האדם בישראל ובהשוואה לבין שלטון החוק בישראל?",
+      "authorsHe": "Ariel L. Bendor; Michael Sachs",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה",
+      "semanticDescriptionHe": "המאמר עוסק במעמדו החוקתי של כבוד האדם בישראל ובהשוואה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "status",
+        "human",
+        "dignity",
+        "germany",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_constitution_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_constitution_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_constitution_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מבנה החוקה הישראלית והמתחים שבתוכה לבין שלטון החוק בישראל?",
+      "authorsHe": "Suzie Navot",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מבנה החוקה הישראלית והמתחים שבתוכה",
+      "semanticDescriptionHe": "המאמר עוסק במבנה החוקה הישראלית והמתחים שבתוכה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitution",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_human_rights_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_human_rights_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין זכויות אדם ובית המשפט העליון בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Aharon Barak",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות אדם ובית המשפט העליון בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות אדם ובית המשפט העליון בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "human",
+        "rights",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_revolutions_israel_as_a_case_study_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין ישראל כמקרה מבחן למהפכות חוקתיות לבין שלטון החוק בישראל?",
+      "authorsHe": "Gideon Sapir",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ישראל כמקרה מבחן למהפכות חוקתיות",
+      "semanticDescriptionHe": "המאמר עוסק בישראל כמקרה מבחן למהפכות חוקתיות, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "revolutions",
+        "israel",
+        "case",
+        "study"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_international_law_in_israeli_courts_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_international_law_in_israeli_courts_summary_he.html",
+      "usedBy": [
+        "democracy_international_law_in_israeli_courts_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מקומו של המשפט הבין־לאומי בבתי המשפט בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Amichai Cohen",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מקומו של המשפט הבין־לאומי בבתי המשפט בישראל",
+      "semanticDescriptionHe": "המאמר עוסק במקומו של המשפט הבין־לאומי בבתי המשפט בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "international",
+        "israeli",
+        "courts"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין נקודת המפנה של הדמוקרטיה הישראלית לבין שלטון החוק בישראל?",
+      "authorsHe": "Daphne Barak-Erez",
+      "visualDescriptionHe": "איור עריכתי ייחודי על נקודת המפנה של הדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק בנקודת המפנה של הדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "administrative",
+        "crossroads",
+        "between",
+        "english",
+        "model"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.html",
+      "usedBy": [
+        "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם לבין שלטון החוק בישראל?",
+      "authorsHe": "Assaf Meydani",
+      "visualDescriptionHe": "איור עריכתי ייחודי על בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם",
+      "semanticDescriptionHe": "המאמר עוסק בבית המשפט העליון כסוכן סדר יום בתחום זכויות האדם, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "supreme",
+        "court",
+        "human",
+        "rights",
+        "revolution"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.html",
+      "usedBy": [
+        "democracy_social_citizenship_the_neglected_aspect_of_israeli_constitutional_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Daphne Barak-Erez; Aeyal Gross",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המשפט החוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "social",
+        "citizenship",
+        "neglected",
+        "aspect",
+        "israeli",
+        "constitutional"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.html",
+      "usedBy": [
+        "democracy_enforcement_of_divorce_judgments_in_jewish_courts_in_israel_the_interaction_between_religious_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המשפט החוקתי בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Yehiel S. Kaplan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המשפט החוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "enforcement",
+        "divorce",
+        "judgments",
+        "jewish",
+        "courts",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מעמדו החוקתי של כבוד האדם בישראל ובהשוואה לבין שלטון החוק בישראל?",
+      "authorsHe": "Miriam Gur-Arye; Thomas Weigend",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה",
+      "semanticDescriptionHe": "המאמר עוסק במעמדו החוקתי של כבוד האדם בישראל ובהשוואה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "review",
+        "criminal",
+        "prohibitions",
+        "affecting",
+        "human"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.html",
+      "usedBy": [
+        "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he_2.html"
+      ],
+      "cardTitleHe": "מה הקשר בין המהפכה החוקתית והסדר הכלכלי החדש בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Ran Hirschl",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המהפכה החוקתית והסדר הכלכלי החדש בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמהפכה החוקתית והסדר הכלכלי החדש בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional",
+        "revolution",
+        "emergence",
+        "economic",
+        "order",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_rule_of_law_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_rule_of_law_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_rule_of_law_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית לבין שלטון החוק בישראל?",
+      "authorsHe": "Nir Kedar",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית",
+      "semanticDescriptionHe": "המאמר עוסק בשלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rule",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.html",
+      "usedBy": [
+        "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה לבין שלטון החוק בישראל?",
+      "authorsHe": "Yoram Rabin; Yuval Shany",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "unfinished",
+        "constitutional",
+        "revolution",
+        "time",
+        "come"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.html",
+      "usedBy": [
+        "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000 לבין שלטון החוק בישראל?",
+      "authorsHe": "Ilan Saban",
+      "visualDescriptionHe": "איור עריכתי ייחודי על בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000",
+      "semanticDescriptionHe": "המאמר עוסק בבג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "after",
+        "storm",
+        "israeli",
+        "supreme",
+        "court",
+        "arab"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין תביעות נזיקין כהתמודדות עם הפרות זכויות אדם לבין שלטון החוק בישראל?",
+      "authorsHe": "Iris Canor; Tamar Gidron; Haya Zandberg",
+      "visualDescriptionHe": "איור עריכתי ייחודי על תביעות נזיקין כהתמודדות עם הפרות זכויות אדם",
+      "semanticDescriptionHe": "המאמר עוסק בתביעות נזיקין כהתמודדות עם הפרות זכויות אדם, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "litigating",
+        "human",
+        "rights",
+        "violations",
+        "through",
+        "tort"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים לבין שלטון החוק בישראל?",
+      "authorsHe": "Menachem Hofnung; Keren Weinshall Margel",
+      "visualDescriptionHe": "איור עריכתי ייחודי על עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים",
+      "semanticDescriptionHe": "המאמר עוסק בעתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "setbacks",
+        "material",
+        "gains",
+        "terror",
+        "litigation"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין שימוש לרעה בסמכות המכוננת בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Suzie Navot; Yaniv Roznai",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שימוש לרעה בסמכות המכוננת בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בשימוש לרעה בסמכות המכוננת בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "from",
+        "supra",
+        "constitutional",
+        "principles",
+        "misuse",
+        "constituent"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.html",
+      "usedBy": [
+        "democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי לבין שלטון החוק בישראל?",
+      "authorsHe": "Shelly Kamin-Friedman; Hagai Levine; Nadav Davidovitch; Aron M Troen; Y Tony Yang",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי",
+      "semanticDescriptionHe": "המאמר עוסק בהרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israel",
+        "judicial",
+        "overhaul",
+        "threat",
+        "health",
+        "policies"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.html",
+      "usedBy": [
+        "democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין התפיסה האפלטונית של החוקה הישראלית לבין שלטון החוק בישראל?",
+      "authorsHe": "Iddo Porat",
+      "visualDescriptionHe": "איור עריכתי ייחודי על התפיסה האפלטונית של החוקה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק בהתפיסה האפלטונית של החוקה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "platonic",
+        "conception",
+        "israeli",
+        "constitution"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.html",
+      "usedBy": [
+        "democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון לבין שלטון החוק בישראל?",
+      "authorsHe": "Udi Sommer",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון",
+      "semanticDescriptionHe": "המאמר עוסק במאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "crusades",
+        "against",
+        "corruption",
+        "institutionally",
+        "induced",
+        "strategies"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.html",
+      "usedBy": [
+        "democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Ittai Bar-Siman-Tov; Itay Cohen; Chani Koth",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת שיפוטית והגבלת כוח שלטוני בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "changing",
+        "role",
+        "judicial",
+        "review",
+        "during",
+        "prolonged"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין ביקורת מינהלית בתקופת האינתיפאדה השנייה לבין שלטון החוק בישראל?",
+      "authorsHe": "Guy I. Seidman",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביקורת מינהלית בתקופת האינתיפאדה השנייה",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת מינהלית בתקופת האינתיפאדה השנייה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "administrative",
+        "review",
+        "times",
+        "discontent",
+        "israeli"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הדין החל על עזה שאינה מוגדרת כשטח כבוש לבין שלטון החוק בישראל?",
+      "authorsHe": "Yuval Shany",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הדין החל על עזה שאינה מוגדרת כשטח כבוש",
+      "semanticDescriptionHe": "המאמר עוסק בהדין החל על עזה שאינה מוגדרת כשטח כבוש, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "applicable",
+        "occupied",
+        "gaza",
+        "comment",
+        "bassiouni",
+        "prime"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.html",
+      "usedBy": [
+        "democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני לבין שלטון החוק בישראל?",
+      "authorsHe": "Tri Mahwati; Ana Risma Nanda",
+      "visualDescriptionHe": "איור עריכתי ייחודי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני",
+      "semanticDescriptionHe": "המאמר עוסק במשפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "analysis",
+        "palestinian",
+        "israeli",
+        "conflict",
+        "perspective",
+        "international"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.html",
+      "usedBy": [
+        "democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני לבין שלטון החוק בישראל?",
+      "authorsHe": "Hafiz Abdul Rehman Saleem; Shahid Iqbal; Muzzammil Hussain; Muhammad Umair Khan; Toseef Ramzan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני",
+      "semanticDescriptionHe": "המאמר עוסק במשפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "international",
+        "humanitarian",
+        "women",
+        "right",
+        "violation",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_role_of_international_law_in_achieving_justice_and_peace_in_palestine_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "W. T. Mallison; S. V. Mallison",
+      "visualDescriptionHe": "איור עריכתי ייחודי על בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בבתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "role",
+        "international",
+        "achieving",
+        "justice",
+        "peace",
+        "palestine"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.html",
+      "usedBy": [
+        "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הטענה כי הפוטש החוקתי בישראל אינו חוקתי לבין שלטון החוק בישראל?",
+      "authorsHe": "Alon Harel",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הטענה כי הפוטש החוקתי בישראל אינו חוקתי",
+      "semanticDescriptionHe": "המאמר עוסק בהטענה כי הפוטש החוקתי בישראל אינו חוקתי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "constitutional",
+        "putsch",
+        "unconstitutional"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.html",
+      "usedBy": [
+        "democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מעורבות התפוצה היהודית בדיונים חוקתיים בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Shay Baruch Keinan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעורבות התפוצה היהודית בדיונים חוקתיים בישראל",
+      "semanticDescriptionHe": "המאמר עוסק במעורבות התפוצה היהודית בדיונים חוקתיים בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "diasporas",
+        "deliberative",
+        "democracy",
+        "case",
+        "study",
+        "jewish"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israel_in_search_of_constitutional_common_sense_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israel_in_search_of_constitutional_common_sense_summary_he.html",
+      "usedBy": [
+        "democracy_israel_in_search_of_constitutional_common_sense_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין חיפוש אחר שכל ישר חוקתי בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Paweł Sadowski",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חיפוש אחר שכל ישר חוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בחיפוש אחר שכל ישר חוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israel",
+        "search",
+        "constitutional",
+        "common",
+        "sense"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.html",
+      "usedBy": [
+        "democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין שלטון החוק והרשות השופטת בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Mohammed Saif-Alden Wattad",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שלטון החוק והרשות השופטת בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בשלטון החוק והרשות השופטת בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israel",
+        "rule",
+        "judiciary"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_jewish_and_israeli_law_an_introduction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_jewish_and_israeli_law_an_introduction_summary_he.html",
+      "usedBy": [
+        "democracy_jewish_and_israeli_law_an_introduction_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הקשרים בין משפט יהודי למשפט ישראלי לבין שלטון החוק בישראל?",
+      "authorsHe": "Shimon Shetreet; Walter Homolka",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הקשרים בין משפט יהודי למשפט ישראלי",
+      "semanticDescriptionHe": "המאמר עוסק בהקשרים בין משפט יהודי למשפט ישראלי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "jewish",
+        "israeli",
+        "introduction"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
+      "authorsHe": "Amnon Reichman",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת שיפוטית והגבלת כוח שלטוני בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "independence",
+        "times",
+        "prolonged",
+        "armed",
+        "conflict"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.html",
+      "usedBy": [
+        "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה לבין שלטון החוק בישראל?",
+      "authorsHe": "Eli M. Salzberger",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה",
+      "semanticDescriptionHe": "המאמר עוסק במינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "judicial",
+        "appointments",
+        "promotions",
+        "israel",
+        "constitution",
+        "politics"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.html",
+      "usedBy": [
+        "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין דימויי בתי המשפט העליונים בישראל ובארצות הברית לבין שלטון החוק בישראל?",
+      "authorsHe": "Barbara A. Perry",
+      "visualDescriptionHe": "איור עריכתי ייחודי על דימויי בתי המשפט העליונים בישראל ובארצות הברית",
+      "semanticDescriptionHe": "המאמר עוסק בדימויי בתי המשפט העליונים בישראל ובארצות הברית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "united",
+        "states",
+        "supreme",
+        "courts",
+        "comparative"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה הקשר בין הטלטלה הפוליטית סביב הרפורמה המשפטית לבין שלטון החוק בישראל?",
+      "authorsHe": "Arieh Saposnik; Natan Aridan",
+      "visualDescriptionHe": "איור עריכתי ייחודי על הטלטלה הפוליטית סביב הרפורמה המשפטית",
+      "semanticDescriptionHe": "המאמר עוסק בהטלטלה הפוליטית סביב הרפורמה המשפטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "introduction",
+        "judicial",
+        "overhaul",
+        "political",
+        "upheaval",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "authorsHe": "Yousef T. Jabareen",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק במעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "politics",
+        "equality",
+        "limits",
+        "collective",
+        "rights",
+        "litigation"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
+      "usedBy": [
+        "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+      "authorsHe": "Aziz Haidar; Noah Lewin-Epstein; Moshe Semyonov",
+      "visualDescriptionHe": "איור עריכתי ייחודי על אי־שוויון כלכלי של המיעוט הערבי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק באי־שוויון כלכלי של המיעוט הערבי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "arab",
+        "minority",
+        "israel",
+        "economy",
+        "patterns",
+        "ethnic"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_arab_minority_in_israel_s_economy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_arab_minority_in_israel_s_economy_summary_he.html",
+      "usedBy": [
+        "democracy_the_arab_minority_in_israel_s_economy_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+      "authorsHe": "Noah Lewin-Epstein; Moshe Semyonov",
+      "visualDescriptionHe": "איור עריכתי ייחודי על אי־שוויון כלכלי של המיעוט הערבי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק באי־שוויון כלכלי של המיעוט הערבי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "arab",
+        "minority",
+        "israel",
+        "economy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "authorsHe": "Oren Yiftachel",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "between",
+        "nation",
+        "state",
+        "fractured",
+        "regionalism",
+        "among"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חינוך לסובלנות מול השסע היהודי־ערבי?",
+      "authorsHe": "Dan Soen",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חינוך לסובלנות מול השסע היהודי־ערבי",
+      "semanticDescriptionHe": "המאמר עוסק בחינוך לסובלנות מול השסע היהודי־ערבי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "jewish",
+        "arab",
+        "cleavage",
+        "tolerance",
+        "education"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית?",
+      "authorsHe": "Oded Haklai",
+      "visualDescriptionHe": "איור עריכתי ייחודי על עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית",
+      "semanticDescriptionHe": "המאמר עוסק בעמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "palestinian",
+        "ngos",
+        "israel",
+        "campaign",
+        "civic",
+        "equality"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_partition_and_the_arab_palestinian_minority_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית החלוקה והמיעוט הפלסטיני בישראל?",
+      "authorsHe": "Asher Susser",
+      "visualDescriptionHe": "איור עריכתי ייחודי על החלוקה והמיעוט הפלסטיני בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהחלוקה והמיעוט הפלסטיני בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "partition",
+        "arab",
+        "palestinian",
+        "minority",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_arabs_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_arabs_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_arabs_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "authorsHe": "Noam Chomsky",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "arabs",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.html",
+      "usedBy": [
+        "democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית?",
+      "authorsHe": "Ibrahim Mahajne; Nuzha Allassad Alhuzail",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית",
+      "semanticDescriptionHe": "המאמר עוסק במרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "arab",
+        "lecturer",
+        "zionist",
+        "campus",
+        "student",
+        "practices"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.html",
+      "usedBy": [
+        "democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "authorsHe": "Mark Tessler",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "israel",
+        "arab",
+        "citizens",
+        "continuing",
+        "struggle"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
+      "usedBy": [
+        "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חוק הלאום והשפעתו על זכויות ושייכות?",
+      "authorsHe": "Peleg",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חוק הלאום והשפעתו על זכויות ושייכות",
+      "semanticDescriptionHe": "המאמר עוסק בחוק הלאום והשפעתו על זכויות ושייכות, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "introduction",
+        "israel",
+        "dialectics",
+        "basic",
+        "nation"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.html",
+      "usedBy": [
+        "democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר?",
+      "authorsHe": "Khalid Husny Arar",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר",
+      "semanticDescriptionHe": "המאמר עוסק במנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "leadership",
+        "equity",
+        "social",
+        "justice",
+        "arab",
+        "jewish"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
+      "usedBy": [
+        "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית שרטוט מחדש של גבולות האזרחות בישראל?",
+      "authorsHe": "Nadim N. Rouhana; Nimer Sultany",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שרטוט מחדש של גבולות האזרחות בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בשרטוט מחדש של גבולות האזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "redrawing",
+        "boundaries",
+        "citizenship",
+        "israel",
+        "hegemony"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+      "authorsHe": "Raphael Cohen-Almagor",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות האזרחים הפלסטינים בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות האזרחים הפלסטינים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "israeli",
+        "democracy",
+        "rights",
+        "palestinian",
+        "citizens"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
+      "usedBy": [
+        "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+      "authorsHe": "Raphael Cohen-Almagor",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות האזרחים הפלסטינים בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות האזרחים הפלסטינים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "israel",
+        "ethnic",
+        "democracy",
+        "palestinian",
+        "citizens",
+        "fight"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
+      "usedBy": [
+        "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל?",
+      "authorsHe": "Neve Gordon",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל",
+      "semanticDescriptionHe": "המאמר עוסק בחינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "geography",
+        "political",
+        "context",
+        "human",
+        "rights",
+        "education"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_security_and_defensive_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_security_and_defensive_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_security_and_defensive_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית ביטחון ודמוקרטיה מתגוננת בישראל?",
+      "authorsHe": "Sharon Weinblum",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביטחון ודמוקרטיה מתגוננת בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בביטחון ודמוקרטיה מתגוננת בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "security",
+        "defensive",
+        "democracy",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
+      "usedBy": [
+        "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+      "authorsHe": "Elian Weizman",
+      "visualDescriptionHe": "איור עריכתי ייחודי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "dynamics",
+        "exclusionary",
+        "constitutionalism",
+        "israel",
+        "jewish",
+        "democratic"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.html",
+      "usedBy": [
+        "democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית אזרחות כמסכה בהשוואה בין צרפת לישראל?",
+      "authorsHe": "Leora Bilsky",
+      "visualDescriptionHe": "איור עריכתי ייחודי על אזרחות כמסכה בהשוואה בין צרפת לישראל",
+      "semanticDescriptionHe": "המאמר עוסק באזרחות כמסכה בהשוואה בין צרפת לישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "muslim",
+        "headscarves",
+        "france",
+        "army",
+        "uniforms",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
+      "usedBy": [
+        "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית?",
+      "authorsHe": "Michal Hisherik; Ilana Paul-Binyamin",
+      "visualDescriptionHe": "איור עריכתי ייחודי על תפקיד המחנך בחברה דמוקרטית ורב־תרבותית",
+      "semanticDescriptionHe": "המאמר עוסק בתפקיד המחנך בחברה דמוקרטית ורב־תרבותית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "educator",
+        "role",
+        "democratic",
+        "multicultural",
+        "societies",
+        "student"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
+      "usedBy": [
+        "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+      "authorsHe": "Amikam Harpaz; Sergio Herzog",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+      "semanticDescriptionHe": "המאמר עוסק במעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "police",
+        "officers",
+        "acceptance",
+        "community",
+        "policing",
+        "strategy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_language_law_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_language_law_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_language_law_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית דיני שפה בישראל?",
+      "authorsHe": "Yocheved Deutch",
+      "visualDescriptionHe": "איור עריכתי ייחודי על דיני שפה בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בדיני שפה בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "language",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_language_and_citizenship_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_language_and_citizenship_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_language_and_citizenship_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית שפה ואזרחות בישראל?",
+      "authorsHe": "Elana Shohamy; Tzahi Kanza",
+      "visualDescriptionHe": "איור עריכתי ייחודי על שפה ואזרחות בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בשפה ואזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "language",
+        "citizenship",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_rights_in_israeli_constitutional_law_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית המשפט החוקתי בישראל?",
+      "authorsHe": "Aeyal M. Gross",
+      "visualDescriptionHe": "איור עריכתי ייחודי על המשפט החוקתי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהמשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "politics",
+        "rights",
+        "israeli",
+        "constitutional"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית פופוליזם דתי וזיכרון יהודי בישראל?",
+      "authorsHe": "Guy Ben Porat; Dani Filc",
+      "visualDescriptionHe": "איור עריכתי ייחודי על פופוליזם דתי וזיכרון יהודי בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בפופוליזם דתי וזיכרון יהודי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "remember",
+        "jewish",
+        "religious",
+        "populism",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית חינוך לאזרחות גלובלית בחברה מפוצלת?",
+      "authorsHe": "Heela Goren; Claire Maxwell; Miri Yemini",
+      "visualDescriptionHe": "איור עריכתי ייחודי על חינוך לאזרחות גלובלית בחברה מפוצלת",
+      "semanticDescriptionHe": "המאמר עוסק בחינוך לאזרחות גלובלית בחברה מפוצלת, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "israeli",
+        "teachers",
+        "make",
+        "sense",
+        "global",
+        "citizenship"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.html",
+      "usedBy": [
+        "democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה?",
+      "authorsHe": "Ensherah Khoury; Michal Krumer-Nevo",
+      "visualDescriptionHe": "איור עריכתי ייחודי על ביקורת שיפוטית בזמן חירום מתמשך וקורונה",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת שיפוטית בזמן חירום מתמשך וקורונה, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "poverty",
+        "arab",
+        "palestinian",
+        "society",
+        "israel",
+        "social"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
+      "usedBy": [
+        "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html"
+      ],
+      "cardTitleHe": "מה מלמד המחקר על סוגיית מימוש זכויות בתוך משטר המקלט הישראלי?",
+      "authorsHe": "Tanja R. Müller",
+      "visualDescriptionHe": "איור עריכתי ייחודי על מימוש זכויות בתוך משטר המקלט הישראלי",
+      "semanticDescriptionHe": "המאמר עוסק במימוש זכויות בתוך משטר המקלט הישראלי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "rights-equality-minorities",
+        "acts",
+        "citizenship",
+        "politics",
+        "resistance",
+        "reflections",
+        "realizing"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.html",
+      "usedBy": [
+        "democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד משבר הדמוקרטיה בישראל לאורך זמן קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Ilan Peleg; Ruth Amir",
+      "visualDescriptionHe": "איור עריכתי ייחודי על משבר הדמוקרטיה בישראל לאורך זמן",
+      "semanticDescriptionHe": "המאמר עוסק במשבר הדמוקרטיה בישראל לאורך זמן, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "crisis",
+        "israel",
+        "democracy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.html",
+      "usedBy": [
+        "democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Julius Maximilian Rogenhofer; Ayala Panievsky",
+      "visualDescriptionHe": "איור עריכתי ייחודי על פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו",
+      "semanticDescriptionHe": "המאמר עוסק בפופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "antidemocratic",
+        "populism",
+        "power",
+        "comparing",
+        "erdo",
+        "turkey"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_crooked_timber_of_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_crooked_timber_of_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_crooked_timber_of_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד החומר העקום של הדמוקרטיה בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Dahlia Scheindlin",
+      "visualDescriptionHe": "איור עריכתי ייחודי על החומר העקום של הדמוקרטיה בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בהחומר העקום של הדמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "crooked",
+        "timber",
+        "democracy",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד פופוליזם כמושג פוליטי בהקשר הישראלי קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Nicolae Păun; Shay Tovim",
+      "visualDescriptionHe": "איור עריכתי ייחודי על פופוליזם כמושג פוליטי בהקשר הישראלי",
+      "semanticDescriptionHe": "המאמר עוסק בפופוליזם כמושג פוליטי בהקשר הישראלי, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "populism",
+        "political",
+        "term",
+        "context",
+        "state",
+        "democracy"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.html",
+      "usedBy": [
+        "democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד מלחמת עזה והמבוי הסתום החוקתי בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Noam Kozlov",
+      "visualDescriptionHe": "איור עריכתי ייחודי על עצמאות שיפוטית בזמן מלחמה וסכסוך מתמשך",
+      "semanticDescriptionHe": "המאמר עוסק בעצמאות שיפוטית בזמן מלחמה וסכסוך מתמשך, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "gaza",
+        "upend",
+        "israel",
+        "constitutional",
+        "limbo"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.html",
+      "usedBy": [
+        "democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד אתגרי הדמוקרטיה האתנית והפופוליזם בישראל קשור לסיכון לנסיגה דמוקרטית?",
+      "authorsHe": "Daniel Gal",
+      "visualDescriptionHe": "איור עריכתי ייחודי על אתגרי הדמוקרטיה האתנית והפופוליזם בישראל",
+      "semanticDescriptionHe": "המאמר עוסק באתגרי הדמוקרטיה האתנית והפופוליזם בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "challenges",
+        "ethnic",
+        "democracy",
+        "populism",
+        "netanyahu",
+        "israel"
+      ],
+      "reuseGuidance": "נוצר עבור מאמר ספציפי בבאץ 100 המאמרים; שימוש חוזר רק אם יש התאמה נושאית חזקה וללא כפילות בכרטיסי הבית החדשים.",
+      "qualityNotes": "איור עריכתי עשיר יותר מתרשים סכמטי: שכבות, דמויות/מוסדות/מרחב ציבורי, ללא טקסט, לוגו, דגלים או סימני מים."
+    },
+    {
+      "file": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_legislative_backsliding_populism_summary_he.html",
       "usedBy": [
         "democracy_nation_state_law_populism_colonialism_religion_summary_he.html",
@@ -42,7 +2461,7 @@
       "file": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 5,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_abusive_constitutionalism_summary_he.html",
       "usedBy": [
         "democracy_carl_schmitt_and_the_jewish_leviathan_the_supreme_court_vs_the_sovereign_summary_he.html",
@@ -105,7 +2524,7 @@
       "file": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 4,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_constitutionalising_system_summary_he.html",
       "usedBy": [
         "democracy_constitutional_anchoring_israel_vision_summary_he.html",
@@ -132,7 +2551,7 @@
       "file": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 6,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_first_brick_democratic_erosion_summary_he.html",
       "usedBy": [
         "democracy_judicial_overhaul_post_october_7_summary_he.html",
@@ -157,7 +2576,7 @@
       "file": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 9,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_freedom_to_exclude_summary_he.html",
       "usedBy": [
         "democracy_religion_state_legal_system_israel_70_summary_he.html",
@@ -183,7 +2602,7 @@
       "file": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 1,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_human_rights_conventions_summary_he.html",
       "usedBy": [
         "democracy_international_law_domestic_courts_populism_summary_he.html",
@@ -208,7 +2627,7 @@
       "file": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 8,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_civil_society_ngos_backsliding_summary_he.html",
       "usedBy": [
         "democracy_whos_defending_democracy_the_battle_among_the_elites_over_the_elections_summary_he.html",
@@ -243,7 +2662,7 @@
       "file": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 11,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_civil_servants_backsliding_summary_he.html",
       "usedBy": [
         "democracy_judicial_overhaul_constitutional_security_crisis_summary_he.html",
@@ -268,7 +2687,7 @@
       "file": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 15,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_regime_classification_backsliding_summary_he.html",
       "usedBy": [
         "democracy_democracy_liberal_zionism_and_civil_military_relations_in_israel_a_revie_summary_he.html",
@@ -298,7 +2717,7 @@
       "file": "html_qa/democracy_trade_unions_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 19,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_trade_unions_summary_he.html",
       "usedBy": [
         "democracy_democratic_values_education_israel_summary_he.html",
@@ -321,7 +2740,7 @@
       "file": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 7,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_constitutional_reform_economy_summary_he.html",
       "usedBy": [
         "democracy_economic_negative_constitutionalism_summary_he.html",
@@ -345,7 +2764,7 @@
       "file": "html_qa/democracy_political_violence_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 12,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_political_violence_summary_he.html",
       "usedBy": [
         "democracy_motivated_reasoning_judicial_reform_polarization_summary_he.html",
@@ -373,7 +2792,7 @@
       "file": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 13,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_israeli_democracy_crisis_summary_he.html",
       "usedBy": [
         "democracy_2013_elections_israeli_democracy_summary_he.html",
@@ -399,7 +2818,7 @@
       "file": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 14,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_masses_support_backsliding_summary_he.html",
       "usedBy": [
         "democracy_who_supports_backsliding_israel_summary_he.html",
@@ -423,7 +2842,7 @@
       "file": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 10,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_judicial_overhaul_populist_picture_summary_he.html",
       "usedBy": [
         "democracy_anti_corruption_judicial_reform_comparative_summary_he.html",
@@ -451,7 +2870,7 @@
       "file": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 17,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_gender_justice_backsliding_summary_he.html",
       "usedBy": [
         "democracy_affective_gap_polarization_emotions_summary_he.html",
@@ -474,7 +2893,7 @@
       "file": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 2,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_majority_nationalism_equal_citizenship_summary_he.html",
       "usedBy": [
         "democracy_ultra_orthodox_womens_reaction_to_the_society_of_learners_model_as_a_mot_summary_he.html",
@@ -518,7 +2937,7 @@
       "file": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "currentHomepagePosition": 16,
+      "currentHomepagePosition": null,
       "primaryArticle": "democracy_constitutional_moment_west_bank_summary_he.html",
       "usedBy": [
         "democracy_diminishing_international_law_occupied_territories_summary_he.html",
