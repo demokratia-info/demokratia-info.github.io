@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "יואב דותן בוחנים את המאמר Judicial accountability in Israel: The high court of justice and the phenomenon of judicial hyperactivism דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר Judicial accountability in Israel: The high court of justice and the phenomenon of judicial hyperactivism נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Affairs, פורסם: 01.2002, עם DOI פעיל: <a href=\"https://doi.org/10.1080/13537120208719659\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1080/13537120208719659</a>.",
         "המאמר מסייע להבחין בין ביקורת לגיטימית על בתי משפט לבין צעדים שעלולים להחליש את תפקידם הדמוקרטי."
       ]

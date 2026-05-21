@@ -83,7 +83,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "נעם גדרון, יותם מרגלית, ליאור שפר, איתמר יקיר בוחנים את המאמר Who Supports Democratic Backsliding? Evidence from Israel דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר Who Supports Democratic Backsliding? Evidence from Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא פרסום אקדמי, פורסם: 19.09.2023, עם DOI פעיל: <a href=\"https://doi.org/10.31219/osf.io/zxukm\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.31219/osf.io/zxukm</a>.",
         "התרומה החשובה היא הורדת הדיון מהאליטה אל הציבור: דמוקרטיה נשחקת לא רק מלמעלה, אלא גם כאשר אזרחים מצדיקים חריגה מן הכללים."
       ]

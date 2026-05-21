@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "עלי זלצברגר בוחנים את המאמר Israel at 70: The Relations Between Religion and State, Democracy, and the Israeli Legal System דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר Israel at 70: The Relations Between Religion and State, Democracy, and the Israeli Legal System נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel´s 70th Anniversary: Insights and Perspectives, פורסם: 10.08.2020, עם DOI פעיל: <a href=\"https://doi.org/10.14220/9783737012065.45\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.14220/9783737012065.45</a>.",
         "המאמר חשוב כי הוא מחבר בין שאלות חוקתיות מופשטות לבין חיי היומיום של אזרחים וקבוצות מיעוט."
       ]

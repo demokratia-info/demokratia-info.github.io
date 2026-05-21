@@ -50,7 +50,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "שרון ויינטל בוחנים את המאמר The Challenge of Reconciling Constitutional Eternity Clauses with Popular Sovereignty: Toward Three-Track Democracy in Israel as a Universal Holistic Constitutional System and Theory דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר The Challenge of Reconciling Constitutional Eternity Clauses with Popular Sovereignty: Toward Three-Track Democracy in Israel as a Universal Holistic Constitutional System and Theory נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Law Review, פורסם: 2011, עם DOI פעיל: <a href=\"https://doi.org/10.1017/s0021223700018136\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1017/s0021223700018136</a>.",
         "השאלה המרכזית היא איך לאפשר שינוי חוקתי עמוק בלי להפוך את הדמוקרטיה לכלי שמבטל את עצמו."
       ]

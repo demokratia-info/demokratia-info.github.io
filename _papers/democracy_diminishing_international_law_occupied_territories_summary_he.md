@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "תמר הוסטובסקי ברנדס בוחנים את המאמר The diminishing status of international law in the decisions of the Israeli Supreme Court concerning the Occupied Territories דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר The diminishing status of international law in the decisions of the Israeli Supreme Court concerning the Occupied Territories נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא International Journal of Constitutional Law, פורסם: 31.12.2020, עם DOI פעיל: <a href=\"https://doi.org/10.1093/icon/moaa061\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/icon/moaa061</a>.",
         "התרומה המרכזית היא הצבעה על שינוי מוסדי עדין: לא ביטול גלוי של המשפט הבינלאומי, אלא החלשה הדרגתית של תפקידו בביקורת שיפוטית."
       ]

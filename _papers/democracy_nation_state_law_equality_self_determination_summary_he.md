@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "תמר הוסטובסקי ברנדס בוחנים את המאמר Israel&#x27;s Nation-State Law – What Now for Equality, Self-Determination, and Social Solidarity? דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר Israel's Nation-State Law – What Now for Equality, Self-Determination, and Social Solidarity? נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא SSRN Electronic Journal, פורסם: 2018, עם DOI פעיל: <a href=\"https://doi.org/10.2139/ssrn.3270476\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2139/ssrn.3270476</a>.",
         "התרומה היא הצבת חוק הלאום לא רק כשאלה סמלית, אלא כמבחן מעשי ליחסים בין רוב, מיעוט ואזרחות שווה."
       ]

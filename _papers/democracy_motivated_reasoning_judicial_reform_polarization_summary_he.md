@@ -72,7 +72,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "דורה סימונוביץ׳, אנה דורפמן, מעיין קציר בוחנים את המאמר Exploring motivated reasoning in polarization over the unfolding 2023 judicial reform in Israel דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר Exploring motivated reasoning in polarization over the unfolding 2023 judicial reform in Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Communications Psychology, פורסם: 18.06.2024, עם DOI פעיל: <a href=\"https://doi.org/10.1038/s44271-024-00080-x\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1038/s44271-024-00080-x</a>.",
         "המאמר חשוב משום שהוא מסביר למה מחלוקת על מוסדות הופכת במהירות למחלוקת על זהות ועל עצם משמעות הדמוקרטיה."
       ]

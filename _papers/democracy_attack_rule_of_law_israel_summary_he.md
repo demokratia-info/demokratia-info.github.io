@@ -63,7 +63,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "סוזי נבות, גיא לוריא בוחנים את המאמר An Attack on the Rule of Law in Israel דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר An Attack on the Rule of Law in Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Studies Review, פורסם: 01.03.2024, עם DOI פעיל: <a href=\"https://doi.org/10.3167/isr.2024.390102\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.3167/isr.2024.390102</a>.",
         "המאמר ממקם את הרפורמה המשפטית בתוך שאלה רחבה יותר: האם מוסדות המשפט מסוגלים להמשיך לשמש בלם אפקטיבי מול כוח פוליטי מרוכז."
       ]

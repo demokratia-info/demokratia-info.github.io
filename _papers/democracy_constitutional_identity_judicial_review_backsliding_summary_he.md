@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "ברק מדינה בוחנים את המאמר On Constitutional Identity, Democratic Legitimacy and Judicial Review in Times of Democratic Backsliding: The Case of Israel דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר On Constitutional Identity, Democratic Legitimacy and Judicial Review in Times of Democratic Backsliding: The Case of Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא פרסום אקדמי, פורסם: 2024, עם DOI פעיל: <a href=\"https://doi.org/10.2139/ssrn.4993837\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2139/ssrn.4993837</a>.",
         "המאמר עוזר להבין מדוע המחלוקת על בית המשפט אינה רק מוסדית אלא נוגעת לשאלה מה הופך הכרעה דמוקרטית ללגיטימית."
       ]
