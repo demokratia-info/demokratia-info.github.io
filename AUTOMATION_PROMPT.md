@@ -8,11 +8,26 @@ Recommended working directory: the live repository root, for example `/Users/tal
 
 Recommended execution environment: `local`, so failed runs leave recoverable edits in the normal checkout.
 
+Local GitHub authentication for automations should prefer the dedicated
+non-keychain config directory `/Users/talraviv/.codex/gh-demokratia-auth` when it
+exists. Before GitHub CLI commands, private-repo checks, `git ls-remote`, `git
+push`, workflow monitoring, or other remote GitHub operations, export
+`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth`. This avoids nightly
+runs depending on a macOS keychain session or a stale inactive/default `gh`
+account. Also unset `GH_TOKEN` and `GITHUB_TOKEN` first when using this dedicated
+config, because those environment variables override `GH_CONFIG_DIR`. Do not
+print or copy the token stored in that private local config.
+
 ```text
 Execute the queue-first nightly democracy website update from the live Jekyll repository.
 
 Public website checkout: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
 Private operational repository: `demokratia-info/democracy-paper-suggestions-private`, branch `main`, files `suggest_queue.csv` and `Authors.MD`.
+
+At the start of the run, if `/Users/talraviv/.codex/gh-demokratia-auth/hosts.yml`
+exists, run `export GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` and
+`unset GH_TOKEN GITHUB_TOKEN`, then keep that environment in force for all `gh`
+commands and remote Git operations.
 
 Before reading or cloning the private repository, run `scripts/check_private_repo_access.sh` from the public website checkout. This preflight switches `gh` to the `demokratia-info` account when available, verifies authenticated GitHub status, confirms write-capable permission on `demokratia-info/democracy-paper-suggestions-private`, checks metadata for private `Authors.MD` and `suggest_queue.csv` without printing private contents, and confirms authenticated git access. If the preflight fails, retry up to 5 total attempts with short waits. If it still fails, stop before processing public queue rows and report the exact credential, DNS/network, permission, or private-file blocker.
 

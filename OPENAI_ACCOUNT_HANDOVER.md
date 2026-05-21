@@ -89,6 +89,14 @@ On this Mac, the reliable local Jekyll build command is:
 
 Plain `bundle exec jekyll build` may use Apple Ruby 2.6 and fail. GitHub Actions remains the canonical deployment build.
 
+For unattended automations on this Mac, a dedicated GitHub CLI config may exist at
+`/Users/talraviv/.codex/gh-demokratia-auth`. When present, export
+`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` before `gh` commands or
+remote Git operations, and unset `GH_TOKEN`/`GITHUB_TOKEN` so they cannot
+override that config. This keeps runs from depending on an interactive macOS
+keychain session. The token in that directory is private local operational
+state; do not print, copy into chat, or commit it.
+
 ## Recreate The Automations
 
 Automations are account-local. The old account's automations will not run from the new OpenAI account unless recreated.

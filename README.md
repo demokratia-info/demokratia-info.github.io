@@ -27,6 +27,13 @@ Codex nightly updates should read the private `demokratia-info/democracy-paper-s
 
 Run `scripts/check_private_repo_access.sh` before private queue or author-policy work. The script checks that `gh` is using the `demokratia-info` account, confirms write-capable permission on the private repository, verifies the two private file paths without printing private contents, and checks authenticated git access.
 
+For unattended local automations, prefer the dedicated GitHub CLI config directory
+`/Users/talraviv/.codex/gh-demokratia-auth` when present by exporting
+`GH_CONFIG_DIR=/Users/talraviv/.codex/gh-demokratia-auth` before `gh` or remote
+Git commands, and unset `GH_TOKEN`/`GITHUB_TOKEN` so they cannot override that
+config. This avoids depending on an interactive macOS keychain session. Never
+print or commit the token stored in that private local config.
+
 If `paper_queue.csv` has fewer rows than needed at the start, Codex should prepare a fresh 100 relevant non-duplicate queued papers using the same criteria, with private `Authors.MD` as a priority and blocklist signal, before consuming the first needed rows. Authors marked `high`, `normal`, or `low` are priority signals only; authors marked `blocked` are hard exclusions for visitor suggestions, current queue rows, and new queue candidates.
 
 After selecting papers, Codex nightly updates should add new papers as `_papers/*.md` files, add or reuse images, update `image_catalog.json`, update the private `suggest_queue.csv` when a suggestion is processed, update public `paper_queue.csv`, bump `_data/site.json` `lastUpdated` and `cacheVersion`, regenerate `_data/paper_index.json`, and then commit/push. Update `_data/topics.json` only when adding or changing a topic. They should not edit generated HTML pages manually.

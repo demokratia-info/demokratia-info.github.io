@@ -5,6 +5,15 @@ repo="demokratia-info/democracy-paper-suggestions-private"
 required_files=("Authors.MD" "suggest_queue.csv")
 attempts="${PRIVATE_REPO_CHECK_ATTEMPTS:-5}"
 sleep_seconds="${PRIVATE_REPO_CHECK_SLEEP_SECONDS:-20}"
+default_gh_config_dir="${DEMOCRATIA_GH_CONFIG_DIR:-${HOME}/.codex/gh-demokratia-auth}"
+
+if [[ -z "${GH_CONFIG_DIR:-}" && -f "${default_gh_config_dir}/hosts.yml" ]]; then
+  export GH_CONFIG_DIR="${default_gh_config_dir}"
+fi
+
+if [[ "${GH_CONFIG_DIR:-}" == "${default_gh_config_dir}" ]]; then
+  unset GH_TOKEN GITHUB_TOKEN
+fi
 
 run_check() {
   if ! command -v gh >/dev/null 2>&1; then
@@ -14,7 +23,9 @@ run_check() {
 
   # Use the organization account when it is configured. This is intentionally
   # non-fatal so the following checks can print the real auth/permission error.
-  gh auth switch -h github.com -u demokratia-info >/dev/null 2>&1 || true
+  if [[ -z "${GH_CONFIG_DIR:-}" ]]; then
+    gh auth switch -h github.com -u demokratia-info >/dev/null 2>&1 || true
+  fi
   gh auth setup-git -h github.com >/dev/null 2>&1 || true
 
   echo "Checking GitHub authentication..."
@@ -51,7 +62,10 @@ run_check() {
   done
 
   echo "Checking authenticated git access to private repo..."
-  git ls-remote "https://github.com/${repo}.git" refs/heads/main >/dev/null
+  git \
+    -c credential.https://github.com.helper= \
+    -c "credential.https://github.com.helper=!$(command -v gh) auth git-credential" \
+    ls-remote "https://github.com/${repo}.git" refs/heads/main >/dev/null
 
   echo "Private repo access OK (${repo}, permission: ${permission})."
 }
