@@ -10,7 +10,7 @@
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "authorsCardHe": "בנימין נויברגר",
   "paperTitle": "The Arab Minority in Israeli Politics: Between ‘Ethnic Democracy’ and ‘Democratic Integration’",
-  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/benyamin-neuberger.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Benyamin Neuberger</a>",
+  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/benyaminneuberger.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Benyamin Neuberger</a>",
   "journal": "Democracy and Ethnic Conflict",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1057/9780230523258_4",
@@ -19,14 +19,14 @@
     {
       "@type": "Person",
       "name": "בנימין נויברגר",
-      "url": "https://www.openu.ac.il/en/personalsites/benyamin-neuberger.aspx"
+      "url": "https://www.openu.ac.il/en/personalsites/benyaminneuberger.aspx"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
       "name": "Benyamin Neuberger",
-      "url": "https://www.openu.ac.il/en/personalsites/benyamin-neuberger.aspx"
+      "url": "https://www.openu.ac.il/en/personalsites/benyaminneuberger.aspx"
     }
   ],
   "topics": [
