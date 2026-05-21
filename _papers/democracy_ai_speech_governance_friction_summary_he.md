@@ -63,7 +63,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Democratic friction in speech governance by AI נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״חיכוך דמוקרטי בממשל ביטוי באמצעות בינה מלאכותית״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Handbook of Critical Studies of Artificial Intelligence, פורסם: 14.11.2023, עם DOI פעיל: <a href=\"https://doi.org/10.4337/9781803928562.00066\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.4337/9781803928562.00066</a>.",
         "המאמר מחבר בין רגולציה של פלטפורמות, חופש ביטוי ועיצוב מערכות AI, ומציע לראות בחיכוך מוסדי לא תקלה אלא תנאי להגנה על שיח דמוקרטי."
       ]

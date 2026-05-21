@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Religious law, religious Courts and human rights within Israeli constitutional structure נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״דין דתי, בתי דין דתיים וזכויות אדם בתוך המבנה החוקתי הישראלי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא International Journal of Constitutional Law, פורסם: 01.10.2006, עם DOI פעיל: <a href=\"https://doi.org/10.1093/icon/mol037\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/icon/mol037</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

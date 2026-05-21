@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Civil Society and Israeli Democracy נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״חברה אזרחית והדמוקרטיה הישראלית״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא The Oxford Handbook of Israeli Politics and Society, פורסם: 10.09.2018, עם DOI פעיל: <a href=\"https://doi.org/10.1093/oxfordhb/9780190675585.013.35\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/oxfordhb/9780190675585.013.35</a>.",
         "המאמר ממקם את הדיון בתוך תחום מוסדות, חברה אזרחית ושירות ציבורי, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר The Judicial Overhaul in Israel Before and After October 7: The Amalgamation of Constitutional Crisis & Security Crisis נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״המהפכה המשפטית בישראל לפני ואחרי 7 באוקטובר: התמזגות של משבר חוקתי ומשבר ביטחוני״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Federalism and Internal Conflicts, פורסם: 2025, עם DOI פעיל: <a href=\"https://doi.org/10.1007/978-3-032-06516-2_15\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-032-06516-2_15</a>.",
         "הדגש הוא על הסכנה שבה חירום ביטחוני הופך לנימוק לדחיקת שאלות של שלטון החוק והגבלת כוח."
       ]

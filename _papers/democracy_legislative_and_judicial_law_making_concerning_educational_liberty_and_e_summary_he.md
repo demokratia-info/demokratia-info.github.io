@@ -51,7 +51,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Legislative and Judicial Law-making Concerning Educational Liberty and Equality: Some Israeli Constitutional Law Perspectives נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״חקיקה ויצירת משפט שיפוטית בנוגע לחירות ולשוויון בחינוך: כמה נקודות מבט מן המשפט החוקתי הישראלי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Yearbook on Human Rights, Volume 9 (1979), פורסם: 05.07.1979, עם DOI פעיל: <a href=\"https://doi.org/10.1163/9789004422902_011\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1163/9789004422902_011</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

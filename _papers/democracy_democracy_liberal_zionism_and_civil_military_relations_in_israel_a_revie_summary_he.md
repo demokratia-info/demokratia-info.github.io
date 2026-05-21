@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Democracy, Liberal Zionism, and Civil-Military Relations in Israel: A Review Article נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״דמוקרטיה, ציונות ליברלית ויחסי צבא-חברה בישראל: מאמר סקירה״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Political Science Quarterly, פורסם: 17.10.2024, עם DOI פעיל: <a href=\"https://doi.org/10.1093/psquar/qqae116\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/psquar/qqae116</a>.",
         "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

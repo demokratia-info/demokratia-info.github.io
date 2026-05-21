@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Counter-Terrorism Law and the Rule of Law Under Extreme Conditions: Theoretical Insights and the Experience of Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״משפט הלוחמה בטרור ושלטון החוק בתנאי קיצון: תובנות תיאורטיות והניסיון הישראלי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא SSRN Electronic Journal, פורסם: 2016, עם DOI פעיל: <a href=\"https://doi.org/10.2139/ssrn.3091696\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2139/ssrn.3091696</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

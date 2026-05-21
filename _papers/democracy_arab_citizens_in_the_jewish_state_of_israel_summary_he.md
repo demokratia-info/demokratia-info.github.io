@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Arab Citizens in the “Jewish” State of Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״אזרחים ערבים במדינת ישראל ה'יהודית'״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא The Oxford Handbook of Israeli Politics and Society, פורסם: 08.10.2020, עם DOI פעיל: <a href=\"https://doi.org/10.1093/oxfordhb/9780190675585.013.9\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/oxfordhb/9780190675585.013.9</a>.",
         "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

@@ -72,7 +72,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר From Promise to Retrenchment? On the Changing Landscape of Israeli Constitutionalism נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״מהבטחה לנסיגה? על הנוף המשתנה של החוקתיות הישראלית״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא SSRN Electronic Journal, פורסם: 2020, עם DOI פעיל: <a href=\"https://doi.org/10.2139/ssrn.3681235\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2139/ssrn.3681235</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

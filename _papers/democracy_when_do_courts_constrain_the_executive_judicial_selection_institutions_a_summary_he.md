@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר When Do Courts Constrain the Executive? Judicial Selection Institutions and Judicial Allies in Israel נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״מתי בתי משפט מרסנים את הרשות המבצעת? מוסדות לבחירת שופטים ובעלי ברית שיפוטיים בישראל״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא פרסום אקדמי, פורסם: 08.10.2025, עם DOI פעיל: <a href=\"https://doi.org/10.31219/osf.io/dt486_v2\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.31219/osf.io/dt486_v2</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

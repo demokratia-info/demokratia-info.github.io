@@ -51,7 +51,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Conceptualizing Economic Negative Constitutionalism: A Case Study of the Israeli Supreme Court נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״המשגת חוקתיות כלכלית שלילית: מקרה מבחן של בית המשפט העליון הישראלי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Journal of Law and Public Policy, פורסם: 2025, עם DOI פעיל: <a href=\"https://doi.org/10.55496/otcp9132\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.55496/otcp9132</a>.",
         "השאלה הדמוקרטית היא כיצד לאזן בין הגנה חוקתית מפני כוח עודף לבין שמירת מרחב ממשי להכרעה ציבורית וכלכלית."
       ]

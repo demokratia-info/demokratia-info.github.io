@@ -62,7 +62,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר “Your Honor, Restrain Us”: The Political Dynamics of the Right to Be Elected in the Israeli Democracy נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״'כבודו, רסן אותנו': הדינמיקה הפוליטית של הזכות להיבחר בדמוקרטיה הישראלית״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא The Elections in Israel 2013, פורסם: 08.09.2017, עם DOI פעיל: <a href=\"https://doi.org/10.4324/9781351295840-5\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.4324/9781351295840-5</a>.",
         "המאמר ממקם את הדיון בתוך תחום נסיגה דמוקרטית ופופוליזם, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

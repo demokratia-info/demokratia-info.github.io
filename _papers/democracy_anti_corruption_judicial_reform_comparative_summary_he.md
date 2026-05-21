@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר The Long Hand of Anti-Corruption: Israeli Judicial Reform in Comparative Perspective נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״ידה הארוכה של המאבק בשחיתות: הרפורמה המשפטית בישראל במבט השוואתי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Law Review, פורסם: 11.2023, עם DOI פעיל: <a href=\"https://doi.org/10.1017/s0021223723000158\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1017/s0021223723000158</a>.",
         "התרומה היא הרחבת המבט מעבר לישראל: משברים סביב בתי משפט מופיעים לעיתים כאשר מוסדות אכיפה וביקורת מאיימים על בעלי כוח."
       ]

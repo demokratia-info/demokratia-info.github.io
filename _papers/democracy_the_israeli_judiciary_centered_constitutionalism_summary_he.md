@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר The Israeli judiciary-centered constitutionalism נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״החוקתיות הישראלית שבמרכזה הרשות השופטת״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא International Journal of Constitutional Law, פורסם: 31.12.2020, עם DOI פעיל: <a href=\"https://doi.org/10.1093/icon/moaa057\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1093/icon/moaa057</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

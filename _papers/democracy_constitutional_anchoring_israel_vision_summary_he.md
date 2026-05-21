@@ -53,7 +53,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Constitutional Anchoring of Israel’s Vision: נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״עיגון חוקתי של חזון ישראל״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Defining Israel, פורסם: 12.11.2018, עם DOI פעיל: <a href=\"https://doi.org/10.2307/j.ctvd7w82b.5\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2307/j.ctvd7w82b.5</a>.",
         "המאמר חשוב משום שהוא מחפש שפה חוקתית שמאפשרת זהות קולקטיבית בלי למחוק את דרישת השוויון והחירות של כל האזרחים."
       ]

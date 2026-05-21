@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר The Arab Minority in Israeli Politics: Between ‘Ethnic Democracy’ and ‘Democratic Integration’ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״המיעוט הערבי בפוליטיקה הישראלית: בין 'דמוקרטיה אתנית' ל'השתלבות דמוקרטית'״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Democracy and Ethnic Conflict, פורסם: 2004, עם DOI פעיל: <a href=\"https://doi.org/10.1057/9780230523258_4\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1057/9780230523258_4</a>.",
         "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

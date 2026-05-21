@@ -51,7 +51,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Basic Law: Israel as Nation-State—National Honor Defies Human Dignity and Universal Human Rights נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״חוק יסוד: ישראל כמדינת לאום - כבוד לאומי מול כבוד האדם וזכויות אדם אוניברסליות״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Israel Studies, פורסם: 2020, עם DOI פעיל: <a href=\"https://doi.org/10.2979/israelstudies.25.3.18\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2979/israelstudies.25.3.18</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

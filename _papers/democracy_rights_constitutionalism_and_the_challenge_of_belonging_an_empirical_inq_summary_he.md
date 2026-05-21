@@ -52,7 +52,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Rights Constitutionalism and the Challenge of Belonging: An Empirical Inquiry into the Israeli Case נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״חוקתיות של זכויות ואתגר השייכות: חקירה אמפירית של המקרה הישראלי״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא Law & Social Inquiry, פורסם: 02.2024, עם DOI פעיל: <a href=\"https://doi.org/10.1017/lsi.2022.40\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1017/lsi.2022.40</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]

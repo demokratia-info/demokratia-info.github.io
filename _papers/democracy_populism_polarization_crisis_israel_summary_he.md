@@ -63,7 +63,7 @@
     {
       "headingHe": "מה המאמר בוחן",
       "paragraphsHtml": [
-        "המאמר Israel -Populism, Polarization and the Crisis of Democracy נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
+        "המאמר ״ישראל: פופוליזם, קיטוב ומשבר הדמוקרטיה״ נבחן כאן דרך השאלה הדמוקרטית המרכזית שלו.",
         "המקור הוא SSRN Electronic Journal, פורסם: 2026, עם DOI פעיל: <a href=\"https://doi.org/10.2139/ssrn.6191678\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2139/ssrn.6191678</a>.",
         "הדגש הדמוקרטי הוא על המעבר ממחלוקת פוליטית רגילה לתפיסה שבה היריב נתפס כבלתי לגיטימי והמוסדות נתפסים כמכשול שיש לפרק."
       ]

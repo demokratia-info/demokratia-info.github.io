@@ -57,6 +57,7 @@ Because the real `suggest_queue.csv` and private `Authors.MD` may contain sensit
 ## Summary Writing Guidance
 
 New paper summaries should follow the admin GEO brief: no model preamble or sign-off; a clear H1-style `titleHe`; an optional `subtitleHe` only when it adds a substantive democratic-liberal angle, never when it merely repeats the English paper title or a generic "Hebrew summary" phrase; organized metadata for authors, venue, date, volume/issue when available, and DOI/source link; a deeper analytical `summaryHe`/`oneLinerHtml` that foregrounds the paper's democratic-liberal, rights, legal, institutional, social, or economic implications; only verified numbers/statistics from the paper or source metadata; short translated direct quotes only when source text is available, the quote is important, and the translation is faithful to the exact source passage. Do not include translated quotes from memory, secondary descriptions, inferred content, or uncertain wording. Prefer placing a verified quote near the answer it supports; and add at least 10 natural question/answer sections using realistic search or AI-chat questions. Question headings should stand alone with a question mark and should not start with `שאלות ותשובות:`.
+Do not repeat the English `paperTitle` in the first body sentence after it has already appeared in the article metadata. Use a reliable Hebrew translation of the paper title when useful, or write around the subject/research question when a faithful title translation is uncertain.
 
 ## Build and Deploy
 
