@@ -4,7 +4,7 @@
   "file": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
   "slug": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he",
   "order": 130,
-  "titleHe": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+  "titleHe": "המיעוט הערבי בכלכלת ישראל: דפוסי אי־שוויון אתני",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -180,7 +180,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל?",
+  "title": "המיעוט הערבי בכלכלת ישראל: דפוסי אי־שוויון אתני",
   "permalink": "/democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
   "paper_url": "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he.html",
   "sortKey": 202605210163

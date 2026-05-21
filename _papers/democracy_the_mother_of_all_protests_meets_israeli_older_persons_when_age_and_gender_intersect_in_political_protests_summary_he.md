@@ -4,7 +4,7 @@
   "file": "democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.html",
   "slug": "democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he",
   "order": 291,
-  "titleHe": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "titleHe": "מחאת האם של כל המחאות ומבוגרים ישראלים",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -161,7 +161,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "title": "מחאת האם של כל המחאות ומבוגרים ישראלים",
   "permalink": "/democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.html",
   "paper_url": "democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.html",
   "sortKey": 202605210291

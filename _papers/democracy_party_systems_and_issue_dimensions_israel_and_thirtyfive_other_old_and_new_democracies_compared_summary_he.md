@@ -4,7 +4,7 @@
   "file": "democracy_party_systems_and_issue_dimensions_israel_and_thirtyfive_other_old_and_new_democracies_compared_summary_he.html",
   "slug": "democracy_party_systems_and_issue_dimensions_israel_and_thirtyfive_other_old_and_new_democracies_compared_summary_he",
   "order": 233,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "מערכות מפלגתיות וממדי מחלוקת בישראל ובהשוואה לדמוקרטיות אחרות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -167,7 +167,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "מערכות מפלגתיות וממדי מחלוקת בישראל ובהשוואה לדמוקרטיות אחרות",
   "permalink": "/democracy_party_systems_and_issue_dimensions_israel_and_thirtyfive_other_old_and_new_democracies_compared_summary_he.html",
   "paper_url": "democracy_party_systems_and_issue_dimensions_israel_and_thirtyfive_other_old_and_new_democracies_compared_summary_he.html",
   "sortKey": 202605210233

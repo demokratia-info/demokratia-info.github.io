@@ -4,7 +4,7 @@
   "file": "democracy_stretching_the_boundaries_of_political_violence_lessons_from_hungary_and_israel_summary_he.html",
   "slug": "democracy_stretching_the_boundaries_of_political_violence_lessons_from_hungary_and_israel_summary_he",
   "order": 237,
-  "titleHe": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "titleHe": "גבולות האלימות הפוליטית: לקחים מהונגריה ומישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "title": "גבולות האלימות הפוליטית: לקחים מהונגריה ומישראל",
   "permalink": "/democracy_stretching_the_boundaries_of_political_violence_lessons_from_hungary_and_israel_summary_he.html",
   "paper_url": "democracy_stretching_the_boundaries_of_political_violence_lessons_from_hungary_and_israel_summary_he.html",
   "sortKey": 202605210237

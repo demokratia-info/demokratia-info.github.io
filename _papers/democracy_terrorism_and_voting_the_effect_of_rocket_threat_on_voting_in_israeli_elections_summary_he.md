@@ -4,7 +4,7 @@
   "file": "democracy_terrorism_and_voting_the_effect_of_rocket_threat_on_voting_in_israeli_elections_summary_he.html",
   "slug": "democracy_terrorism_and_voting_the_effect_of_rocket_threat_on_voting_in_israeli_elections_summary_he",
   "order": 245,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "איום רקטות והצבעה בבחירות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -159,7 +159,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "איום רקטות והצבעה בבחירות בישראל",
   "permalink": "/democracy_terrorism_and_voting_the_effect_of_rocket_threat_on_voting_in_israeli_elections_summary_he.html",
   "paper_url": "democracy_terrorism_and_voting_the_effect_of_rocket_threat_on_voting_in_israeli_elections_summary_he.html",
   "sortKey": 202605210245

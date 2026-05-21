@@ -4,7 +4,7 @@
   "file": "democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_analysis_of_seven_parliamentary_summary_he.html",
   "slug": "democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_analysis_of_seven_parliamentary_summary_he",
   "order": 279,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "דמוקרטיה בבחירת מועמדים ומעורבות פוליטית של אזרחים",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -159,7 +159,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "דמוקרטיה בבחירת מועמדים ומעורבות פוליטית של אזרחים",
   "permalink": "/democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_analysis_of_seven_parliamentary_summary_he.html",
   "paper_url": "democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_analysis_of_seven_parliamentary_summary_he.html",
   "sortKey": 202605210279

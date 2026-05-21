@@ -4,7 +4,7 @@
   "file": "democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he.html",
   "slug": "democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he",
   "order": 272,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "דמוקרטיה פנים־מפלגתית ואמון במפלגות בישראל ובבלגיה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -168,7 +168,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "דמוקרטיה פנים־מפלגתית ואמון במפלגות בישראל ובבלגיה",
   "permalink": "/democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he.html",
   "paper_url": "democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he.html",
   "sortKey": 202605210272

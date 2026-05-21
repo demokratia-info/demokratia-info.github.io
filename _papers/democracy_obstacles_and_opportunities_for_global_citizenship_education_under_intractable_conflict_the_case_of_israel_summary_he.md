@@ -4,7 +4,7 @@
   "file": "democracy_obstacles_and_opportunities_for_global_citizenship_education_under_intractable_conflict_the_case_of_israel_summary_he.html",
   "slug": "democracy_obstacles_and_opportunities_for_global_citizenship_education_under_intractable_conflict_the_case_of_israel_summary_he",
   "order": 261,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "חינוך לאזרחות גלובלית תחת סכסוך מתמשך בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "חינוך לאזרחות גלובלית תחת סכסוך מתמשך בישראל",
   "permalink": "/democracy_obstacles_and_opportunities_for_global_citizenship_education_under_intractable_conflict_the_case_of_israel_summary_he.html",
   "paper_url": "democracy_obstacles_and_opportunities_for_global_citizenship_education_under_intractable_conflict_the_case_of_israel_summary_he.html",
   "sortKey": 202605210261

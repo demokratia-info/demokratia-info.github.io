@@ -4,7 +4,7 @@
   "file": "democracy_generals_in_the_classroom_joint_professional_national_security_education_in_israel_and_the_united_states_summary_he.html",
   "slug": "democracy_generals_in_the_classroom_joint_professional_national_security_education_in_israel_and_the_united_states_summary_he",
   "order": 308,
-  "titleHe": "מה מלמד המחקר על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי?",
+  "titleHe": "גנרלים בכיתה: חינוך לביטחון לאומי בישראל ובארצות הברית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -161,7 +161,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי?",
+  "title": "גנרלים בכיתה: חינוך לביטחון לאומי בישראל ובארצות הברית",
   "permalink": "/democracy_generals_in_the_classroom_joint_professional_national_security_education_in_israel_and_the_united_states_summary_he.html",
   "paper_url": "democracy_generals_in_the_classroom_joint_professional_national_security_education_in_israel_and_the_united_states_summary_he.html",
   "sortKey": 202605210308

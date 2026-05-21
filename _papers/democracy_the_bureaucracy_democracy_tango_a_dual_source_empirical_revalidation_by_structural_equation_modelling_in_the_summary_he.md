@@ -4,7 +4,7 @@
   "file": "democracy_the_bureaucracy_democracy_tango_a_dual_source_empirical_revalidation_by_structural_equation_modelling_in_the_summary_he.html",
   "slug": "democracy_the_bureaucracy_democracy_tango_a_dual_source_empirical_revalidation_by_structural_equation_modelling_in_the_summary_he",
   "order": 232,
-  "titleHe": "מה מלמד המחקר על חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל?",
+  "titleHe": "הביורוקרטיה והדמוקרטיה במגזר הציבורי הישראלי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -175,7 +175,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל?",
+  "title": "הביורוקרטיה והדמוקרטיה במגזר הציבורי הישראלי",
   "permalink": "/democracy_the_bureaucracy_democracy_tango_a_dual_source_empirical_revalidation_by_structural_equation_modelling_in_the_summary_he.html",
   "paper_url": "democracy_the_bureaucracy_democracy_tango_a_dual_source_empirical_revalidation_by_structural_equation_modelling_in_the_summary_he.html",
   "sortKey": 202605210232

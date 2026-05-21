@@ -4,7 +4,7 @@
   "file": "democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.html",
   "slug": "democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he",
   "order": 6,
-  "titleHe": "מה מלמד המאמר על חוק הלאום, שוויון ואזרחות דמוקרטית?",
+  "titleHe": "חוק הלאום והחלשת הדמוקרטיה הישראלית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -48,7 +48,7 @@
   "image": {
     "src": "html_qa/democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
+    "altHe": "איור עריכתי: חוק הלאום והחלשת הדמוקרטיה הישראלית"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -128,7 +128,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על חוק הלאום, שוויון ואזרחות דמוקרטית?",
+  "title": "חוק הלאום והחלשת הדמוקרטיה הישראלית",
   "permalink": "/democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.html",
   "paper_url": "democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.html",
   "sortKey": 202605210076

@@ -4,7 +4,7 @@
   "file": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
   "slug": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he",
   "order": 146,
-  "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "titleHe": "חוקתיות מדירה בישראל: קריאה בספרו של מאזן מסרי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -165,7 +165,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "title": "חוקתיות מדירה בישראל: קריאה בספרו של מאזן מסרי",
   "permalink": "/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
   "paper_url": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_the_dyn_summary_he.html",
   "sortKey": 202605210147

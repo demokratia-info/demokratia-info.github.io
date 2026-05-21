@@ -4,7 +4,7 @@
   "file": "democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.html",
   "slug": "democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he",
   "order": 14,
-  "titleHe": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "titleHe": "דת, רב־תרבותיות ושוויון בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
+    "altHe": "איור עריכתי: דת, רב־תרבותיות ושוויון בישראל"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "title": "דת, רב־תרבותיות ושוויון בישראל",
   "permalink": "/democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.html",
   "paper_url": "democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.html",
   "sortKey": 202605210084

@@ -4,7 +4,7 @@
   "file": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
   "slug": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he",
   "order": 133,
-  "titleHe": "מה מלמד המחקר על סוגיית חינוך לסובלנות מול השסע היהודי־ערבי?",
+  "titleHe": "חינוך לסובלנות מול השסע היהודי־ערבי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חינוך לסובלנות מול השסע היהודי־ערבי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חינוך לסובלנות מול השסע היהודי־ערבי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -166,7 +166,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית חינוך לסובלנות מול השסע היהודי־ערבי?",
+  "title": "חינוך לסובלנות מול השסע היהודי־ערבי",
   "permalink": "/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
   "paper_url": "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.html",
   "sortKey": 202605210160

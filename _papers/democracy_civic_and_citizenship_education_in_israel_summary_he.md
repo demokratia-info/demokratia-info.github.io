@@ -4,7 +4,7 @@
   "file": "democracy_civic_and_citizenship_education_in_israel_summary_he.html",
   "slug": "democracy_civic_and_citizenship_education_in_israel_summary_he",
   "order": 52,
-  "titleHe": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "titleHe": "חינוך אזרחי ואזרחות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_civic_and_citizenship_education_in_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
+    "altHe": "איור עריכתי: חינוך אזרחי ואזרחות בישראל"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "title": "חינוך אזרחי ואזרחות בישראל",
   "permalink": "/democracy_civic_and_citizenship_education_in_israel_summary_he.html",
   "paper_url": "democracy_civic_and_citizenship_education_in_israel_summary_he.html",
   "sortKey": 202605210122

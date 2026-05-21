@@ -4,7 +4,7 @@
   "file": "democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
   "slug": "democracy_religious_liberty_in_the_state_of_israel_summary_he",
   "order": 82,
-  "titleHe": "מה מלמד המחקר על סוגיית חירות דתית במדינת ישראל?",
+  "titleHe": "חירות דתית במדינת ישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חירות דתית במדינת ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חירות דתית במדינת ישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית חירות דתית במדינת ישראל?",
+  "title": "חירות דתית במדינת ישראל",
   "permalink": "/democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
   "paper_url": "democracy_religious_liberty_in_the_state_of_israel_summary_he.html",
   "sortKey": 202605210211

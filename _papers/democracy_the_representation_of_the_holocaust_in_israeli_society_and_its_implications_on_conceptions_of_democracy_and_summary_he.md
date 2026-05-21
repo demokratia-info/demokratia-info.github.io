@@ -4,7 +4,7 @@
   "file": "democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_conceptions_of_democracy_and_summary_he.html",
   "slug": "democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_conceptions_of_democracy_and_summary_he",
   "order": 252,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "ייצוג השואה ותפיסות דמוקרטיה וזכויות אדם בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -159,7 +159,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "ייצוג השואה ותפיסות דמוקרטיה וזכויות אדם בישראל",
   "permalink": "/democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_conceptions_of_democracy_and_summary_he.html",
   "paper_url": "democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_conceptions_of_democracy_and_summary_he.html",
   "sortKey": 202605210252

@@ -4,7 +4,7 @@
   "file": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
   "slug": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he",
   "order": 70,
-  "titleHe": "מה מלמד המחקר על סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל?",
+  "titleHe": "דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני־ישראלי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -165,7 +165,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל?",
+  "title": "דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני־ישראלי",
   "permalink": "/democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
   "paper_url": "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.html",
   "sortKey": 202605210223

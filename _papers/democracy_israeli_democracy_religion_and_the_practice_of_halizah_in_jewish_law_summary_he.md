@@ -4,7 +4,7 @@
   "file": "democracy_israeli_democracy_religion_and_the_practice_of_halizah_in_jewish_law_summary_he.html",
   "slug": "democracy_israeli_democracy_religion_and_the_practice_of_halizah_in_jewish_law_summary_he",
   "order": 294,
-  "titleHe": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "titleHe": "דמוקרטיה, דת וחליצה במשפט היהודי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "title": "דמוקרטיה, דת וחליצה במשפט היהודי",
   "permalink": "/democracy_israeli_democracy_religion_and_the_practice_of_halizah_in_jewish_law_summary_he.html",
   "paper_url": "democracy_israeli_democracy_religion_and_the_practice_of_halizah_in_jewish_law_summary_he.html",
   "sortKey": 202605210294

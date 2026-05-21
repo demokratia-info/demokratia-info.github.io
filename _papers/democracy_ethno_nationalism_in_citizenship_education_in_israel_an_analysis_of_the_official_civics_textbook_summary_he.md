@@ -4,7 +4,7 @@
   "file": "democracy_ethno_nationalism_in_citizenship_education_in_israel_an_analysis_of_the_official_civics_textbook_summary_he.html",
   "slug": "democracy_ethno_nationalism_in_citizenship_education_in_israel_an_analysis_of_the_official_civics_textbook_summary_he",
   "order": 300,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "אתנו־לאומיות בחינוך לאזרחות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -160,7 +160,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "אתנו־לאומיות בחינוך לאזרחות בישראל",
   "permalink": "/democracy_ethno_nationalism_in_citizenship_education_in_israel_an_analysis_of_the_official_civics_textbook_summary_he.html",
   "paper_url": "democracy_ethno_nationalism_in_citizenship_education_in_israel_an_analysis_of_the_official_civics_textbook_summary_he.html",
   "sortKey": 202605210300

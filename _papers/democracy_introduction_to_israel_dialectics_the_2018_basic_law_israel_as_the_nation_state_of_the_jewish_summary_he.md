@@ -4,7 +4,7 @@
   "file": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
   "slug": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he",
   "order": 139,
-  "titleHe": "מה מלמד המחקר על סוגיית חוק הלאום והשפעתו על זכויות ושייכות?",
+  "titleHe": "חוק הלאום והדיאלקטיקה הישראלית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חוק הלאום והשפעתו על זכויות ושייכות, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום והשפעתו על זכויות ושייכות דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -165,7 +165,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית חוק הלאום והשפעתו על זכויות ושייכות?",
+  "title": "חוק הלאום והדיאלקטיקה הישראלית",
   "permalink": "/democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
   "paper_url": "democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.html",
   "sortKey": 202605210154

@@ -4,7 +4,7 @@
   "file": "democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he.html",
   "slug": "democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he",
   "order": 330,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "חוקי הבחירות בישראל, חופש הביטוי והצורך בשקיפות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -161,7 +161,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "חוקי הבחירות בישראל, חופש הביטוי והצורך בשקיפות",
   "permalink": "/democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he.html",
   "paper_url": "democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he.html",
   "sortKey": 202605210330

@@ -4,7 +4,7 @@
   "file": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
   "slug": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he",
   "order": 72,
-  "titleHe": "מה מלמד המחקר על סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים?",
+  "titleHe": "ייצוג ודה־לגיטימציה של אזרחים ערבים במשטרים חצי־דמוקרטיים",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים?",
+  "title": "ייצוג ודה־לגיטימציה של אזרחים ערבים במשטרים חצי־דמוקרטיים",
   "permalink": "/democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
   "paper_url": "democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.html",
   "sortKey": 202605210221

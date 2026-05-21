@@ -4,7 +4,7 @@
   "file": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
   "slug": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he",
   "order": 141,
-  "titleHe": "מה מלמד המחקר על סוגיית שרטוט מחדש של גבולות האזרחות בישראל?",
+  "titleHe": "שרטוט מחדש של גבולות האזרחות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שרטוט מחדש של גבולות האזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שרטוט מחדש של גבולות האזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -172,7 +172,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית שרטוט מחדש של גבולות האזרחות בישראל?",
+  "title": "שרטוט מחדש של גבולות האזרחות בישראל",
   "permalink": "/democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
   "paper_url": "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.html",
   "sortKey": 202605210152

@@ -4,7 +4,7 @@
   "file": "democracy_its_a_war_on_israels_liberal_democracy_the_israeli_left_as_a_moral_panic_community_2015_19_summary_he.html",
   "slug": "democracy_its_a_war_on_israels_liberal_democracy_the_israeli_left_as_a_moral_panic_community_2015_19_summary_he",
   "order": 311,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "השמאל הישראלי כקהילת פאניקה מוסרית סביב הדמוקרטיה הליברלית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "השמאל הישראלי כקהילת פאניקה מוסרית סביב הדמוקרטיה הליברלית",
   "permalink": "/democracy_its_a_war_on_israels_liberal_democracy_the_israeli_left_as_a_moral_panic_community_2015_19_summary_he.html",
   "paper_url": "democracy_its_a_war_on_israels_liberal_democracy_the_israeli_left_as_a_moral_panic_community_2015_19_summary_he.html",
   "sortKey": 202605210311

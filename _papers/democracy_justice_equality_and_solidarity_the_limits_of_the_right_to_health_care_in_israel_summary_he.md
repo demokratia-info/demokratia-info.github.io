@@ -4,7 +4,7 @@
   "file": "democracy_justice_equality_and_solidarity_the_limits_of_the_right_to_health_care_in_israel_summary_he.html",
   "slug": "democracy_justice_equality_and_solidarity_the_limits_of_the_right_to_health_care_in_israel_summary_he",
   "order": 286,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "צדק, שוויון וסולידריות בגבולות הזכות לבריאות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -160,7 +160,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "צדק, שוויון וסולידריות בגבולות הזכות לבריאות בישראל",
   "permalink": "/democracy_justice_equality_and_solidarity_the_limits_of_the_right_to_health_care_in_israel_summary_he.html",
   "paper_url": "democracy_justice_equality_and_solidarity_the_limits_of_the_right_to_health_care_in_israel_summary_he.html",
   "sortKey": 202605210286

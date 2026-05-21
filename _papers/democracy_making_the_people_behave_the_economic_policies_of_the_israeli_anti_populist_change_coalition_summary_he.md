@@ -4,7 +4,7 @@
   "file": "democracy_making_the_people_behave_the_economic_policies_of_the_israeli_anti_populist_change_coalition_summary_he.html",
   "slug": "democracy_making_the_people_behave_the_economic_policies_of_the_israeli_anti_populist_change_coalition_summary_he",
   "order": 253,
-  "titleHe": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "titleHe": "מדיניות כלכלית של קואליציית השינוי האנטי־פופוליסטית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "title": "מדיניות כלכלית של קואליציית השינוי האנטי־פופוליסטית",
   "permalink": "/democracy_making_the_people_behave_the_economic_policies_of_the_israeli_anti_populist_change_coalition_summary_he.html",
   "paper_url": "democracy_making_the_people_behave_the_economic_policies_of_the_israeli_anti_populist_change_coalition_summary_he.html",
   "sortKey": 202605210253

@@ -4,7 +4,7 @@
   "file": "democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.html",
   "slug": "democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he",
   "order": 57,
-  "titleHe": "מה מלמד המאמר על בתי המשפט, שלטון החוק ואיזונים דמוקרטיים?",
+  "titleHe": "מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
+    "altHe": "איור עריכתי: מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על בתי המשפט, שלטון החוק ואיזונים דמוקרטיים?",
+  "title": "מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל",
   "permalink": "/democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.html",
   "paper_url": "democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.html",
   "sortKey": 202605210127

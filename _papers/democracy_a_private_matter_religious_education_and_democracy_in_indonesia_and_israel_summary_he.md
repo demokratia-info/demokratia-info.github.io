@@ -4,7 +4,7 @@
   "file": "democracy_a_private_matter_religious_education_and_democracy_in_indonesia_and_israel_summary_he.html",
   "slug": "democracy_a_private_matter_religious_education_and_democracy_in_indonesia_and_israel_summary_he",
   "order": 315,
-  "titleHe": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "titleHe": "חינוך דתי ודמוקרטיה בישראל ובאינדונזיה: עניין פרטי?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -162,7 +162,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "title": "חינוך דתי ודמוקרטיה בישראל ובאינדונזיה: עניין פרטי?",
   "permalink": "/democracy_a_private_matter_religious_education_and_democracy_in_indonesia_and_israel_summary_he.html",
   "paper_url": "democracy_a_private_matter_religious_education_and_democracy_in_indonesia_and_israel_summary_he.html",
   "sortKey": 202605210315

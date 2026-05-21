@@ -4,7 +4,7 @@
   "file": "democracy_where_men_appear_more_religious_than_women_turning_a_gender_lens_on_religion_in_israel_summary_he.html",
   "slug": "democracy_where_men_appear_more_religious_than_women_turning_a_gender_lens_on_religion_in_israel_summary_he",
   "order": 259,
-  "titleHe": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "titleHe": "מבט מגדרי על דתיות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -169,7 +169,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "title": "מבט מגדרי על דתיות בישראל",
   "permalink": "/democracy_where_men_appear_more_religious_than_women_turning_a_gender_lens_on_religion_in_israel_summary_he.html",
   "paper_url": "democracy_where_men_appear_more_religious_than_women_turning_a_gender_lens_on_religion_in_israel_summary_he.html",
   "sortKey": 202605210259

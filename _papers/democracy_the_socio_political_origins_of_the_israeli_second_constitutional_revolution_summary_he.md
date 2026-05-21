@@ -4,7 +4,7 @@
   "file": "democracy_the_socio_political_origins_of_the_israeli_second_constitutional_revolution_summary_he.html",
   "slug": "democracy_the_socio_political_origins_of_the_israeli_second_constitutional_revolution_summary_he",
   "order": 250,
-  "titleHe": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "titleHe": "המקורות החברתיים־פוליטיים של המהפכה החוקתית השנייה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "title": "המקורות החברתיים־פוליטיים של המהפכה החוקתית השנייה",
   "permalink": "/democracy_the_socio_political_origins_of_the_israeli_second_constitutional_revolution_summary_he.html",
   "paper_url": "democracy_the_socio_political_origins_of_the_israeli_second_constitutional_revolution_summary_he.html",
   "sortKey": 202605210250

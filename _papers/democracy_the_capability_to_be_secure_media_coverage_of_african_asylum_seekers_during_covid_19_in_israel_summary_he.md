@@ -4,7 +4,7 @@
   "file": "democracy_the_capability_to_be_secure_media_coverage_of_african_asylum_seekers_during_covid_19_in_israel_summary_he.html",
   "slug": "democracy_the_capability_to_be_secure_media_coverage_of_african_asylum_seekers_during_covid_19_in_israel_summary_he",
   "order": 231,
-  "titleHe": "מה מלמד המחקר על תקשורת, דעת קהל ואחריות דמוקרטית בישראל?",
+  "titleHe": "סיקור מבקשי מקלט אפריקאים בקורונה והיכולת להיות בטוחים",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתקשורת, דעת קהל ואחריות דמוקרטית בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את תקשורת, דעת קהל ואחריות דמוקרטית בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -152,7 +152,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על תקשורת, דעת קהל ואחריות דמוקרטית בישראל?",
+  "title": "סיקור מבקשי מקלט אפריקאים בקורונה והיכולת להיות בטוחים",
   "permalink": "/democracy_the_capability_to_be_secure_media_coverage_of_african_asylum_seekers_during_covid_19_in_israel_summary_he.html",
   "paper_url": "democracy_the_capability_to_be_secure_media_coverage_of_african_asylum_seekers_during_covid_19_in_israel_summary_he.html",
   "sortKey": 202605210231

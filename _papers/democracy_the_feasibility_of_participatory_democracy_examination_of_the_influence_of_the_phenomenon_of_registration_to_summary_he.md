@@ -4,7 +4,7 @@
   "file": "democracy_the_feasibility_of_participatory_democracy_examination_of_the_influence_of_the_phenomenon_of_registration_to_summary_he.html",
   "slug": "democracy_the_feasibility_of_participatory_democracy_examination_of_the_influence_of_the_phenomenon_of_registration_to_summary_he",
   "order": 246,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "היתכנות דמוקרטיה השתתפותית ורישום למפלגות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -159,7 +159,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "היתכנות דמוקרטיה השתתפותית ורישום למפלגות בישראל",
   "permalink": "/democracy_the_feasibility_of_participatory_democracy_examination_of_the_influence_of_the_phenomenon_of_registration_to_summary_he.html",
   "paper_url": "democracy_the_feasibility_of_participatory_democracy_examination_of_the_influence_of_the_phenomenon_of_registration_to_summary_he.html",
   "sortKey": 202605210246

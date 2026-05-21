@@ -4,7 +4,7 @@
   "file": "democracy_populism_religion_and_family_values_policies_in_israel_italy_and_turkey_summary_he.html",
   "slug": "democracy_populism_religion_and_family_values_policies_in_israel_italy_and_turkey_summary_he",
   "order": 325,
-  "titleHe": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "titleHe": "פופוליזם, דת ומדיניות ערכי משפחה בישראל, איטליה וטורקיה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -179,7 +179,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "title": "פופוליזם, דת ומדיניות ערכי משפחה בישראל, איטליה וטורקיה",
   "permalink": "/democracy_populism_religion_and_family_values_policies_in_israel_italy_and_turkey_summary_he.html",
   "paper_url": "democracy_populism_religion_and_family_values_policies_in_israel_italy_and_turkey_summary_he.html",
   "sortKey": 202605210325

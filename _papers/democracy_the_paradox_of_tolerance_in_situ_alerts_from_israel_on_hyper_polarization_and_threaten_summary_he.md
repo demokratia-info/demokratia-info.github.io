@@ -4,7 +4,7 @@
   "file": "democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.html",
   "slug": "democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he",
   "order": 9,
-  "titleHe": "מה מלמד המאמר על קיטוב, שיח ציבורי ודמוקרטיה?",
+  "titleHe": "פרדוקס הסובלנות והיפר־קיטוב בדמוקרטיה מאוימת",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, וממקם את הדיון בתוך שאלות של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על דעת קהל, קיטוב ואלימות פוליטית בהקשר של מה מלמד המחקר על קיטוב, סובלנות ואלימות פוליטית?"
+    "altHe": "איור עריכתי: פרדוקס הסובלנות והיפר־קיטוב בדמוקרטיה מאוימת"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על קיטוב, שיח ציבורי ודמוקרטיה?",
+  "title": "פרדוקס הסובלנות והיפר־קיטוב בדמוקרטיה מאוימת",
   "permalink": "/democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.html",
   "paper_url": "democracy_the_paradox_of_tolerance_in_situ_alerts_from_israel_on_hyper_polarization_and_threaten_summary_he.html",
   "sortKey": 202605210079

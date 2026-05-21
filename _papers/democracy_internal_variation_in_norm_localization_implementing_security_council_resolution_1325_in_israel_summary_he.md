@@ -4,7 +4,7 @@
   "file": "democracy_internal_variation_in_norm_localization_implementing_security_council_resolution_1325_in_israel_summary_he.html",
   "slug": "democracy_internal_variation_in_norm_localization_implementing_security_council_resolution_1325_in_israel_summary_he",
   "order": 320,
-  "titleHe": "מה מלמד המחקר על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי?",
+  "titleHe": "יישום החלטה 1325 בישראל ולוקליזציה של נורמות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -152,7 +152,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי?",
+  "title": "יישום החלטה 1325 בישראל ולוקליזציה של נורמות",
   "permalink": "/democracy_internal_variation_in_norm_localization_implementing_security_council_resolution_1325_in_israel_summary_he.html",
   "paper_url": "democracy_internal_variation_in_norm_localization_implementing_security_council_resolution_1325_in_israel_summary_he.html",
   "sortKey": 202605210320

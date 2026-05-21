@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_14_religion_and_democracy_in_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?"
+    "altHe": "איור עריכתי: כיצד המאמר בוחן את היחסים בין דת לדמוקרטיה בישראל?"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",

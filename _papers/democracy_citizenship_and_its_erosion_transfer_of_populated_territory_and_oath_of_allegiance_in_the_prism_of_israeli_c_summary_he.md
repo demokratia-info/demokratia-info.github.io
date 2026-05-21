@@ -4,7 +4,7 @@
   "file": "democracy_citizenship_and_its_erosion_transfer_of_populated_territory_and_oath_of_allegiance_in_the_prism_of_israeli_c_summary_he.html",
   "slug": "democracy_citizenship_and_its_erosion_transfer_of_populated_territory_and_oath_of_allegiance_in_the_prism_of_israeli_c_summary_he",
   "order": 278,
-  "titleHe": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "titleHe": "שחיקת האזרחות: חילופי שטחים ושבועת נאמנות במשפט החוקתי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -155,7 +155,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "title": "שחיקת האזרחות: חילופי שטחים ושבועת נאמנות במשפט החוקתי",
   "permalink": "/democracy_citizenship_and_its_erosion_transfer_of_populated_territory_and_oath_of_allegiance_in_the_prism_of_israeli_c_summary_he.html",
   "paper_url": "democracy_citizenship_and_its_erosion_transfer_of_populated_territory_and_oath_of_allegiance_in_the_prism_of_israeli_c_summary_he.html",
   "sortKey": 202605210278

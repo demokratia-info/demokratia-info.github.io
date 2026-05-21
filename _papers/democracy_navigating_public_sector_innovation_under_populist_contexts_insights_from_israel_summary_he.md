@@ -4,7 +4,7 @@
   "file": "democracy_navigating_public_sector_innovation_under_populist_contexts_insights_from_israel_summary_he.html",
   "slug": "democracy_navigating_public_sector_innovation_under_populist_contexts_insights_from_israel_summary_he",
   "order": 238,
-  "titleHe": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "titleHe": "חדשנות במגזר הציבורי בהקשרים פופוליסטיים בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -169,7 +169,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני?",
+  "title": "חדשנות במגזר הציבורי בהקשרים פופוליסטיים בישראל",
   "permalink": "/democracy_navigating_public_sector_innovation_under_populist_contexts_insights_from_israel_summary_he.html",
   "paper_url": "democracy_navigating_public_sector_innovation_under_populist_contexts_insights_from_israel_summary_he.html",
   "sortKey": 202605210238

@@ -4,7 +4,7 @@
   "file": "democracy_israel_citizenship_and_immigration_law_in_the_vise_of_security_nationality_and_human_rights_summary_he.html",
   "slug": "democracy_israel_citizenship_and_immigration_law_in_the_vise_of_security_nationality_and_human_rights_summary_he",
   "order": 317,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "אזרחות, הגירה, ביטחון וזכויות אדם בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "אזרחות, הגירה, ביטחון וזכויות אדם בישראל",
   "permalink": "/democracy_israel_citizenship_and_immigration_law_in_the_vise_of_security_nationality_and_human_rights_summary_he.html",
   "paper_url": "democracy_israel_citizenship_and_immigration_law_in_the_vise_of_security_nationality_and_human_rights_summary_he.html",
   "sortKey": 202605210317

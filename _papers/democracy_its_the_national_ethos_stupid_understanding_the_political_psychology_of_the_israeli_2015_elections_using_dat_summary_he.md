@@ -4,7 +4,7 @@
   "file": "democracy_its_the_national_ethos_stupid_understanding_the_political_psychology_of_the_israeli_2015_elections_using_dat_summary_he.html",
   "slug": "democracy_its_the_national_ethos_stupid_understanding_the_political_psychology_of_the_israeli_2015_elections_using_dat_summary_he",
   "order": 235,
-  "titleHe": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "titleHe": "האתוס הלאומי והפסיכולוגיה הפוליטית של בחירות 2015",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על בחירות, ייצוג פוליטי ואמון הציבור בישראל?",
+  "title": "האתוס הלאומי והפסיכולוגיה הפוליטית של בחירות 2015",
   "permalink": "/democracy_its_the_national_ethos_stupid_understanding_the_political_psychology_of_the_israeli_2015_elections_using_dat_summary_he.html",
   "paper_url": "democracy_its_the_national_ethos_stupid_understanding_the_political_psychology_of_the_israeli_2015_elections_using_dat_summary_he.html",
   "sortKey": 202605210235

@@ -4,7 +4,7 @@
   "file": "democracy_the_lgbt_community_in_israel_access_to_the_surrogacy_procedure_and_legal_right_for_equality_family_life_and_summary_he.html",
   "slug": "democracy_the_lgbt_community_in_israel_access_to_the_surrogacy_procedure_and_legal_right_for_equality_family_life_and_summary_he",
   "order": 324,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "קהילת הלהט״ב בישראל, פונדקאות ושוויון משפחתי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -160,7 +160,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "קהילת הלהט״ב בישראל, פונדקאות ושוויון משפחתי",
   "permalink": "/democracy_the_lgbt_community_in_israel_access_to_the_surrogacy_procedure_and_legal_right_for_equality_family_life_and_summary_he.html",
   "paper_url": "democracy_the_lgbt_community_in_israel_access_to_the_surrogacy_procedure_and_legal_right_for_equality_family_life_and_summary_he.html",
   "sortKey": 202605210324

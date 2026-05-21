@@ -4,7 +4,7 @@
   "file": "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.html",
   "slug": "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he",
   "order": 18,
-  "titleHe": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "titleHe": "אזרחים ערבים בבחירות 2009: בין אזרחות ישראלית לזהות פלסטינית־ערבית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
+    "altHe": "איור עריכתי: אזרחים ערבים בבחירות 2009: בין אזרחות ישראלית לזהות פלסטינית־ערבית"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "title": "אזרחים ערבים בבחירות 2009: בין אזרחות ישראלית לזהות פלסטינית־ערבית",
   "permalink": "/democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.html",
   "paper_url": "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.html",
   "sortKey": 202605210088

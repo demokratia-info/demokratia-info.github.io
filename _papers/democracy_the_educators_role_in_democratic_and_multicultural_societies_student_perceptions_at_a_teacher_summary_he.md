@@ -4,7 +4,7 @@
   "file": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
   "slug": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he",
   "order": 148,
-  "titleHe": "מה מלמד המחקר על סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית?",
+  "titleHe": "תפקיד המחנך בחברות דמוקרטיות ורב־תרבותיות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -172,7 +172,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית?",
+  "title": "תפקיד המחנך בחברות דמוקרטיות ורב־תרבותיות",
   "permalink": "/democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
   "paper_url": "democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.html",
   "sortKey": 202605210145

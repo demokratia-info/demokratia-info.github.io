@@ -4,7 +4,7 @@
   "file": "democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.html",
   "slug": "democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he",
   "order": 19,
-  "titleHe": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "titleHe": "החרדים, הדתיים והבחירות לכנסת ה־12",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על דת, מדינה ודמוקרטיה בישראל?"
+    "altHe": "איור עריכתי: החרדים, הדתיים והבחירות לכנסת ה־12"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "title": "החרדים, הדתיים והבחירות לכנסת ה־12",
   "permalink": "/democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.html",
   "paper_url": "democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.html",
   "sortKey": 202605210089

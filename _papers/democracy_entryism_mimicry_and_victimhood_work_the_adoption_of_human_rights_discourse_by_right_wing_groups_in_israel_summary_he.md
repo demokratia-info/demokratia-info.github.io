@@ -4,7 +4,7 @@
   "file": "democracy_entryism_mimicry_and_victimhood_work_the_adoption_of_human_rights_discourse_by_right_wing_groups_in_israel_summary_he.html",
   "slug": "democracy_entryism_mimicry_and_victimhood_work_the_adoption_of_human_rights_discourse_by_right_wing_groups_in_israel_summary_he",
   "order": 260,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "אימוץ שיח זכויות אדם בידי קבוצות ימין בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -152,7 +152,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "אימוץ שיח זכויות אדם בידי קבוצות ימין בישראל",
   "permalink": "/democracy_entryism_mimicry_and_victimhood_work_the_adoption_of_human_rights_discourse_by_right_wing_groups_in_israel_summary_he.html",
   "paper_url": "democracy_entryism_mimicry_and_victimhood_work_the_adoption_of_human_rights_discourse_by_right_wing_groups_in_israel_summary_he.html",
   "sortKey": 202605210260

@@ -4,7 +4,7 @@
   "file": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
   "slug": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he",
   "order": 142,
-  "titleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+  "titleHe": "הדמוקרטיה הישראלית וזכויות אזרחיה הפלסטינים",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות האזרחים הפלסטינים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+  "title": "הדמוקרטיה הישראלית וזכויות אזרחיה הפלסטינים",
   "permalink": "/democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
   "paper_url": "democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.html",
   "sortKey": 202605210151

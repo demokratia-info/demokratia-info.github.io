@@ -4,7 +4,7 @@
   "file": "democracy_political_economy_of_an_ethnic_democracy_the_case_of_israels_policy_toward_its_arab_minority_summary_he.html",
   "slug": "democracy_political_economy_of_an_ethnic_democracy_the_case_of_israels_policy_toward_its_arab_minority_summary_he",
   "order": 306,
-  "titleHe": "מה מלמד המחקר על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "titleHe": "הכלכלה הפוליטית של דמוקרטיה אתנית והמדיניות כלפי המיעוט הערבי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -154,7 +154,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "title": "הכלכלה הפוליטית של דמוקרטיה אתנית והמדיניות כלפי המיעוט הערבי",
   "permalink": "/democracy_political_economy_of_an_ethnic_democracy_the_case_of_israels_policy_toward_its_arab_minority_summary_he.html",
   "paper_url": "democracy_political_economy_of_an_ethnic_democracy_the_case_of_israels_policy_toward_its_arab_minority_summary_he.html",
   "sortKey": 202605210306

@@ -4,7 +4,7 @@
   "file": "democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.html",
   "slug": "democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he",
   "order": 45,
-  "titleHe": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "titleHe": "חינוך בדמוקרטיה במשבר: קולות מישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
+    "altHe": "איור עריכתי: חינוך בדמוקרטיה במשבר: קולות מישראל"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "title": "חינוך בדמוקרטיה במשבר: קולות מישראל",
   "permalink": "/democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.html",
   "paper_url": "democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.html",
   "sortKey": 202605210115

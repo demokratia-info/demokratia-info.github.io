@@ -4,7 +4,7 @@
   "file": "democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he.html",
   "slug": "democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he",
   "order": 293,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "פיקוח ועדת ביקורת המדינה בכנסת תחת לחץ",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "פיקוח ועדת ביקורת המדינה בכנסת תחת לחץ",
   "permalink": "/democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he.html",
   "paper_url": "democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he.html",
   "sortKey": 202605210293

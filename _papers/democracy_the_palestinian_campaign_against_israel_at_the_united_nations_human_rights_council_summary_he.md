@@ -4,7 +4,7 @@
   "file": "democracy_the_palestinian_campaign_against_israel_at_the_united_nations_human_rights_council_summary_he.html",
   "slug": "democracy_the_palestinian_campaign_against_israel_at_the_united_nations_human_rights_council_summary_he",
   "order": 297,
-  "titleHe": "מה מלמד המחקר על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "titleHe": "הקמפיין הפלסטיני נגד ישראל במועצת זכויות האדם של האו״ם",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "title": "הקמפיין הפלסטיני נגד ישראל במועצת זכויות האדם של האו״ם",
   "permalink": "/democracy_the_palestinian_campaign_against_israel_at_the_united_nations_human_rights_council_summary_he.html",
   "paper_url": "democracy_the_palestinian_campaign_against_israel_at_the_united_nations_human_rights_council_summary_he.html",
   "sortKey": 202605210297

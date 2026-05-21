@@ -4,7 +4,7 @@
   "file": "democracy_he_is_living_israeli_flag_the_right_and_the_presidency_in_israel_under_chaim_weizmann_19481952_summary_he.html",
   "slug": "democracy_he_is_living_israeli_flag_the_right_and_the_presidency_in_israel_under_chaim_weizmann_19481952_summary_he",
   "order": 241,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "הימין והנשיאות תחת חיים ויצמן, 1948-1952",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "הימין והנשיאות תחת חיים ויצמן, 1948-1952",
   "permalink": "/democracy_he_is_living_israeli_flag_the_right_and_the_presidency_in_israel_under_chaim_weizmann_19481952_summary_he.html",
   "paper_url": "democracy_he_is_living_israeli_flag_the_right_and_the_presidency_in_israel_under_chaim_weizmann_19481952_summary_he.html",
   "sortKey": 202605210241

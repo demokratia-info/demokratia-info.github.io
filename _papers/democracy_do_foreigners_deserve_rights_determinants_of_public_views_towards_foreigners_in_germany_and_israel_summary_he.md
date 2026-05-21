@@ -4,7 +4,7 @@
   "file": "democracy_do_foreigners_deserve_rights_determinants_of_public_views_towards_foreigners_in_germany_and_israel_summary_he.html",
   "slug": "democracy_do_foreigners_deserve_rights_determinants_of_public_views_towards_foreigners_in_germany_and_israel_summary_he",
   "order": 264,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "האם לזרים מגיעות זכויות? עמדות ציבור בגרמניה ובישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "האם לזרים מגיעות זכויות? עמדות ציבור בגרמניה ובישראל",
   "permalink": "/democracy_do_foreigners_deserve_rights_determinants_of_public_views_towards_foreigners_in_germany_and_israel_summary_he.html",
   "paper_url": "democracy_do_foreigners_deserve_rights_determinants_of_public_views_towards_foreigners_in_germany_and_israel_summary_he.html",
   "sortKey": 202605210264

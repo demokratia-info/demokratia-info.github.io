@@ -4,7 +4,7 @@
   "file": "democracy_diminishing_constitutional_law_the_first_three_decades_of_womens_exclusion_adjudication_in_israel_summary_he.html",
   "slug": "democracy_diminishing_constitutional_law_the_first_three_decades_of_womens_exclusion_adjudication_in_israel_summary_he",
   "order": 323,
-  "titleHe": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "titleHe": "הדרה מגדרית והצטמצמות המשפט החוקתי בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל?",
+  "title": "הדרה מגדרית והצטמצמות המשפט החוקתי בישראל",
   "permalink": "/democracy_diminishing_constitutional_law_the_first_three_decades_of_womens_exclusion_adjudication_in_israel_summary_he.html",
   "paper_url": "democracy_diminishing_constitutional_law_the_first_three_decades_of_womens_exclusion_adjudication_in_israel_summary_he.html",
   "sortKey": 202605210323

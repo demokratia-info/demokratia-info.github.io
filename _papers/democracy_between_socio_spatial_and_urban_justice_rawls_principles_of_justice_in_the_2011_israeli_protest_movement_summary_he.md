@@ -4,7 +4,7 @@
   "file": "democracy_between_socio_spatial_and_urban_justice_rawls_principles_of_justice_in_the_2011_israeli_protest_movement_summary_he.html",
   "slug": "democracy_between_socio_spatial_and_urban_justice_rawls_principles_of_justice_in_the_2011_israeli_protest_movement_summary_he",
   "order": 257,
-  "titleHe": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "titleHe": "צדק מרחבי ועירוני במחאת 2011 בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -160,7 +160,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית?",
+  "title": "צדק מרחבי ועירוני במחאת 2011 בישראל",
   "permalink": "/democracy_between_socio_spatial_and_urban_justice_rawls_principles_of_justice_in_the_2011_israeli_protest_movement_summary_he.html",
   "paper_url": "democracy_between_socio_spatial_and_urban_justice_rawls_principles_of_justice_in_the_2011_israeli_protest_movement_summary_he.html",
   "sortKey": 202605210257

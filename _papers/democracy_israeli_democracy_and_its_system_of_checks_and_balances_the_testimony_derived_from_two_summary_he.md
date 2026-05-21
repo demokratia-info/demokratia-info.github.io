@@ -4,7 +4,7 @@
   "file": "democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.html",
   "slug": "democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he",
   "order": 27,
-  "titleHe": "מה מלמד המאמר על בתי המשפט, שלטון החוק ואיזונים דמוקרטיים?",
+  "titleHe": "איזונים ובלמים בדמוקרטיה הישראלית לפי פסיקות גרוניס",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על חוקתיות, בתי משפט ושלטון החוק בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
+    "altHe": "איור עריכתי: איזונים ובלמים בדמוקרטיה הישראלית לפי פסיקות גרוניס"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על בתי המשפט, שלטון החוק ואיזונים דמוקרטיים?",
+  "title": "איזונים ובלמים בדמוקרטיה הישראלית לפי פסיקות גרוניס",
   "permalink": "/democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.html",
   "paper_url": "democracy_israeli_democracy_and_its_system_of_checks_and_balances_the_testimony_derived_from_two_summary_he.html",
   "sortKey": 202605210097

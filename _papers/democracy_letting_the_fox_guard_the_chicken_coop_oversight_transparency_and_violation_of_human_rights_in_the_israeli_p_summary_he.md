@@ -4,7 +4,7 @@
   "file": "democracy_letting_the_fox_guard_the_chicken_coop_oversight_transparency_and_violation_of_human_rights_in_the_israeli_p_summary_he.html",
   "slug": "democracy_letting_the_fox_guard_the_chicken_coop_oversight_transparency_and_violation_of_human_rights_in_the_israeli_p_summary_he",
   "order": 239,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "פיקוח, שקיפות וזכויות אדם במערכת הכליאה הישראלית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -192,7 +192,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "פיקוח, שקיפות וזכויות אדם במערכת הכליאה הישראלית",
   "permalink": "/democracy_letting_the_fox_guard_the_chicken_coop_oversight_transparency_and_violation_of_human_rights_in_the_israeli_p_summary_he.html",
   "paper_url": "democracy_letting_the_fox_guard_the_chicken_coop_oversight_transparency_and_violation_of_human_rights_in_the_israeli_p_summary_he.html",
   "sortKey": 202605210239

@@ -4,7 +4,7 @@
   "file": "democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he.html",
   "slug": "democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he",
   "order": 329,
-  "titleHe": "מה מלמד המחקר על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים?",
+  "titleHe": "הרפורמה המשפטית כמקרה מבחן לעצמאות שיפוטית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים?",
+  "title": "הרפורמה המשפטית כמקרה מבחן לעצמאות שיפוטית",
   "permalink": "/democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he.html",
   "paper_url": "democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he.html",
   "sortKey": 202605210329

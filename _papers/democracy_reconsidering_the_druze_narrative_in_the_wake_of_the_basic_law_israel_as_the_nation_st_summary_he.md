@@ -4,7 +4,7 @@
   "file": "democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.html",
   "slug": "democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he",
   "order": 34,
-  "titleHe": "מה מלמד המאמר על חוק הלאום, שוויון ואזרחות דמוקרטית?",
+  "titleHe": "הנרטיב הדרוזי בעקבות חוק הלאום",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על זכויות, שוויון ומיעוטים בהקשר של מה מלמד המחקר על שלטון החוק והאיזונים המוסדיים בישראל?"
+    "altHe": "איור עריכתי: הנרטיב הדרוזי בעקבות חוק הלאום"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על חוק הלאום, שוויון ואזרחות דמוקרטית?",
+  "title": "הנרטיב הדרוזי בעקבות חוק הלאום",
   "permalink": "/democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.html",
   "paper_url": "democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.html",
   "sortKey": 202605210104

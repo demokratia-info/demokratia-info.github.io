@@ -4,7 +4,7 @@
   "file": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
   "slug": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he",
   "order": 144,
-  "titleHe": "מה מלמד המחקר על סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל?",
+  "titleHe": "הקשר הגיאוגרפי והפוליטי של חינוך לזכויות אדם בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -165,7 +165,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל?",
+  "title": "הקשר הגיאוגרפי והפוליטי של חינוך לזכויות אדם בישראל",
   "permalink": "/democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
   "paper_url": "democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.html",
   "sortKey": 202605210149

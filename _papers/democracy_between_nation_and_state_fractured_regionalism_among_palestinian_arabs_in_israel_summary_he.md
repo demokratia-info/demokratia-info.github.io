@@ -4,7 +4,7 @@
   "file": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
   "slug": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he",
   "order": 132,
-  "titleHe": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "titleHe": "בין אומה למדינה: אזוריות שסועה בקרב פלסטינים־ערבים בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל?",
+  "title": "בין אומה למדינה: אזוריות שסועה בקרב פלסטינים־ערבים בישראל",
   "permalink": "/democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
   "paper_url": "democracy_between_nation_and_state_fractured_regionalism_among_palestinian_arabs_in_israel_summary_he.html",
   "sortKey": 202605210161

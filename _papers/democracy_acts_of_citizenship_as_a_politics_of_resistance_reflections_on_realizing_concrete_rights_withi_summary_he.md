@@ -4,7 +4,7 @@
   "file": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
   "slug": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he",
   "order": 156,
-  "titleHe": "מה מלמד המחקר על סוגיית מימוש זכויות בתוך משטר המקלט הישראלי?",
+  "titleHe": "פעולות אזרחות והתנגדות במשטר המקלט הישראלי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מימוש זכויות בתוך משטר המקלט הישראלי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מימוש זכויות בתוך משטר המקלט הישראלי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית מימוש זכויות בתוך משטר המקלט הישראלי?",
+  "title": "פעולות אזרחות והתנגדות במשטר המקלט הישראלי",
   "permalink": "/democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
   "paper_url": "democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.html",
   "sortKey": 202605210137

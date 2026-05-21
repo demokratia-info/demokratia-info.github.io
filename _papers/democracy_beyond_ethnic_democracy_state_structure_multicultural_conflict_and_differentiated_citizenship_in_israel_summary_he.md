@@ -4,7 +4,7 @@
   "file": "democracy_beyond_ethnic_democracy_state_structure_multicultural_conflict_and_differentiated_citizenship_in_israel_summary_he.html",
   "slug": "democracy_beyond_ethnic_democracy_state_structure_multicultural_conflict_and_differentiated_citizenship_in_israel_summary_he",
   "order": 270,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "מעבר לדמוקרטיה אתנית: מדינה, רב־תרבותיות ואזרחות מובחנת",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "מעבר לדמוקרטיה אתנית: מדינה, רב־תרבותיות ואזרחות מובחנת",
   "permalink": "/democracy_beyond_ethnic_democracy_state_structure_multicultural_conflict_and_differentiated_citizenship_in_israel_summary_he.html",
   "paper_url": "democracy_beyond_ethnic_democracy_state_structure_multicultural_conflict_and_differentiated_citizenship_in_israel_summary_he.html",
   "sortKey": 202605210270

@@ -4,7 +4,7 @@
   "file": "democracy_i_didnt_know_how_to_be_with_my_husband_statereligion_struggles_over_sex_education_in_israel_and_england_summary_he.html",
   "slug": "democracy_i_didnt_know_how_to_be_with_my_husband_statereligion_struggles_over_sex_education_in_israel_and_england_summary_he",
   "order": 263,
-  "titleHe": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "titleHe": "מאבקי דת ומדינה סביב חינוך מיני בישראל ובאנגליה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -161,7 +161,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על דת, זהות יהודית וזכויות אזרחיות בישראל?",
+  "title": "מאבקי דת ומדינה סביב חינוך מיני בישראל ובאנגליה",
   "permalink": "/democracy_i_didnt_know_how_to_be_with_my_husband_statereligion_struggles_over_sex_education_in_israel_and_england_summary_he.html",
   "paper_url": "democracy_i_didnt_know_how_to_be_with_my_husband_statereligion_struggles_over_sex_education_in_israel_and_england_summary_he.html",
   "sortKey": 202605210263

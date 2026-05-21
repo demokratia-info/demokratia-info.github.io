@@ -4,7 +4,7 @@
   "file": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
   "slug": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he",
   "order": 83,
-  "titleHe": "מה מלמד המחקר על סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית?",
+  "titleHe": "חוק השבות בגיל שישים: היסטוריה, אידאולוגיה והצדקה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -167,7 +167,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית חוק השבות והצדקתו במדינה יהודית ודמוקרטית?",
+  "title": "חוק השבות בגיל שישים: היסטוריה, אידאולוגיה והצדקה",
   "permalink": "/democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
   "paper_url": "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.html",
   "sortKey": 202605210210

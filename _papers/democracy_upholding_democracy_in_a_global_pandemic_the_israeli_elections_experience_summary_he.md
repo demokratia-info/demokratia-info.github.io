@@ -4,7 +4,7 @@
   "file": "democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.html",
   "slug": "democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he",
   "order": 54,
-  "titleHe": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "titleHe": "שמירה על דמוקרטיה בזמן מגפה: חוויית הבחירות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -72,7 +72,7 @@
   "image": {
     "src": "html_qa/democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על מוסדות, מחאה והשתתפות דמוקרטית?"
+    "altHe": "איור עריכתי: שמירה על דמוקרטיה בזמן מגפה: חוויית הבחירות בישראל"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -152,7 +152,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על בחירות, ייצוג ואמון דמוקרטי?",
+  "title": "שמירה על דמוקרטיה בזמן מגפה: חוויית הבחירות בישראל",
   "permalink": "/democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.html",
   "paper_url": "democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.html",
   "sortKey": 202605210124

@@ -4,7 +4,7 @@
   "file": "democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.html",
   "slug": "democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he",
   "order": 3,
-  "titleHe": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+  "titleHe": "הדמוקרטיה הישראלית והרפורמה הדמוקרטית במבט השוואתי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, וממקם את הדיון בתוך שאלות של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על נסיגה דמוקרטית ופופוליזם בהקשר של מה מלמד המחקר על הדמוקרטיה הישראלית?"
+    "altHe": "איור עריכתי: הדמוקרטיה הישראלית והרפורמה הדמוקרטית במבט השוואתי"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על הדמוקרטיה הישראלית?",
+  "title": "הדמוקרטיה הישראלית והרפורמה הדמוקרטית במבט השוואתי",
   "permalink": "/democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.html",
   "paper_url": "democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.html",
   "sortKey": 202605210073

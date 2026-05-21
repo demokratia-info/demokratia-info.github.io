@@ -4,7 +4,7 @@
   "file": "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he.html",
   "slug": "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he",
   "order": 309,
-  "titleHe": "מה מלמד המחקר על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים?",
+  "titleHe": "אבל פוליטי, אובדן עמום ומחאה אזרחית בזמן הרפורמה המשפטית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -161,7 +161,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים?",
+  "title": "אבל פוליטי, אובדן עמום ומחאה אזרחית בזמן הרפורמה המשפטית",
   "permalink": "/democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he.html",
   "paper_url": "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he.html",
   "sortKey": 202605210309

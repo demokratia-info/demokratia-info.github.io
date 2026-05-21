@@ -4,7 +4,7 @@
   "file": "democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he.html",
   "slug": "democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he",
   "order": 305,
-  "titleHe": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "titleHe": "הזהות הכפולה של ישראל: דמוקרטיה אתנית מול פלורליזם שוויוני",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -151,7 +151,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית?",
+  "title": "הזהות הכפולה של ישראל: דמוקרטיה אתנית מול פלורליזם שוויוני",
   "permalink": "/democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he.html",
   "paper_url": "democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he.html",
   "sortKey": 202605210305

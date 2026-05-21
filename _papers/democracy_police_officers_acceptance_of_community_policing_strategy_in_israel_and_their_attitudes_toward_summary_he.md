@@ -4,7 +4,7 @@
   "file": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
   "slug": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he",
   "order": 149,
-  "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+  "titleHe": "שיטור קהילתי ועמדות שוטרים כלפי המיעוט הערבי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -172,7 +172,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+  "title": "שיטור קהילתי ועמדות שוטרים כלפי המיעוט הערבי",
   "permalink": "/democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
   "paper_url": "democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.html",
   "sortKey": 202605210144

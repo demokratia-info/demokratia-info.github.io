@@ -4,7 +4,7 @@
   "file": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
   "slug": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he",
   "order": 143,
-  "titleHe": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+  "titleHe": "ישראל כדמוקרטיה אתנית והמאבק לשוויון זכויות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות האזרחים הפלסטינים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית זכויות האזרחים הפלסטינים בישראל?",
+  "title": "ישראל כדמוקרטיה אתנית והמאבק לשוויון זכויות",
   "permalink": "/democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
   "paper_url": "democracy_israel_as_an_ethnic_democracy_palestinian_citizens_and_the_fight_for_equal_rights_summary_he.html",
   "sortKey": 202605210150

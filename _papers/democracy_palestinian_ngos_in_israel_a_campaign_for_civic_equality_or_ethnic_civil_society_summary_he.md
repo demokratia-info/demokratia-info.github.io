@@ -4,7 +4,7 @@
   "file": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
   "slug": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he",
   "order": 134,
-  "titleHe": "מה מלמד המחקר על סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית?",
+  "titleHe": "עמותות פלסטיניות בישראל: שוויון אזרחי או חברה אזרחית אתנית?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -165,7 +165,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית?",
+  "title": "עמותות פלסטיניות בישראל: שוויון אזרחי או חברה אזרחית אתנית?",
   "permalink": "/democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
   "paper_url": "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he.html",
   "sortKey": 202605210159

@@ -4,7 +4,7 @@
   "file": "democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he.html",
   "slug": "democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he",
   "order": 236,
-  "titleHe": "מה מלמד המחקר על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל?",
+  "titleHe": "מדיניות מחירי הדיור בישראל ומבנה המשילות, 2008-2015",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בממשל, שירות ציבורי ואתוס דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ממשל, שירות ציבורי ואתוס דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל?",
+  "title": "מדיניות מחירי הדיור בישראל ומבנה המשילות, 2008-2015",
   "permalink": "/democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he.html",
   "paper_url": "democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he.html",
   "sortKey": 202605210236

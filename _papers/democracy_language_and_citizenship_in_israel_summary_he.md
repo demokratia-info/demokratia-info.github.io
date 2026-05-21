@@ -4,7 +4,7 @@
   "file": "democracy_language_and_citizenship_in_israel_summary_he.html",
   "slug": "democracy_language_and_citizenship_in_israel_summary_he",
   "order": 151,
-  "titleHe": "מה מלמד המחקר על סוגיית שפה ואזרחות בישראל?",
+  "titleHe": "שפה ואזרחות בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שפה ואזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שפה ואזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -172,7 +172,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית שפה ואזרחות בישראל?",
+  "title": "שפה ואזרחות בישראל",
   "permalink": "/democracy_language_and_citizenship_in_israel_summary_he.html",
   "paper_url": "democracy_language_and_citizenship_in_israel_summary_he.html",
   "sortKey": 202605210142

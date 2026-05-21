@@ -4,7 +4,7 @@
   "file": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
   "slug": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he",
   "order": 129,
-  "titleHe": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+  "titleHe": "פוליטיקת השוויון והתדיינות זכויות קבוצתיות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -164,7 +164,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית?",
+  "title": "פוליטיקת השוויון והתדיינות זכויות קבוצתיות",
   "permalink": "/democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
   "paper_url": "democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.html",
   "sortKey": 202605210164

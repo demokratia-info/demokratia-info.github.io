@@ -4,7 +4,7 @@
   "file": "democracy_israels_nationality_law_reconsidering_settlement_citizenship_and_ethics_in_the_context_of_occupation_summary_he.html",
   "slug": "democracy_israels_nationality_law_reconsidering_settlement_citizenship_and_ethics_in_the_context_of_occupation_summary_he",
   "order": 307,
-  "titleHe": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "titleHe": "חוק הלאום, התיישבות, אזרחות ואתיקה בהקשר הכיבוש",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -153,7 +153,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית?",
+  "title": "חוק הלאום, התיישבות, אזרחות ואתיקה בהקשר הכיבוש",
   "permalink": "/democracy_israels_nationality_law_reconsidering_settlement_citizenship_and_ethics_in_the_context_of_occupation_summary_he.html",
   "paper_url": "democracy_israels_nationality_law_reconsidering_settlement_citizenship_and_ethics_in_the_context_of_occupation_summary_he.html",
   "sortKey": 202605210307

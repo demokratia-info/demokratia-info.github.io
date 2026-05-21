@@ -4,7 +4,7 @@
   "file": "democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.html",
   "slug": "democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he",
   "order": 40,
-  "titleHe": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "titleHe": "חברה אזרחית ערבית וחינוך: המועצה הפדגוגית הערבית כמיזם להכרה לאומית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
@@ -40,7 +40,7 @@
   "image": {
     "src": "html_qa/democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי על מוסדות, חברה אזרחית ושירות ציבורי בהקשר של מה מלמד המחקר על שוויון, אזרחות ומיעוטים בישראל?"
+    "altHe": "איור עריכתי: חברה אזרחית ערבית וחינוך: המועצה הפדגוגית הערבית כמיזם להכרה לאומית"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-21",
@@ -120,7 +120,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המאמר על שוויון, אזרחות וקבוצות מיעוט בישראל?",
+  "title": "חברה אזרחית ערבית וחינוך: המועצה הפדגוגית הערבית כמיזם להכרה לאומית",
   "permalink": "/democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.html",
   "paper_url": "democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.html",
   "sortKey": 202605210110

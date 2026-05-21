@@ -4,7 +4,7 @@
   "file": "democracy_democracy_in_the_israeli_education_system_the_case_of_the_english_matriculation_exam_summary_he.html",
   "slug": "democracy_democracy_in_the_israeli_education_system_the_case_of_the_english_matriculation_exam_summary_he",
   "order": 251,
-  "titleHe": "מה מלמד המחקר על חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל?",
+  "titleHe": "דמוקרטיה בבחינת הבגרות באנגלית בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
@@ -152,7 +152,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מה מלמד המחקר על חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל?",
+  "title": "דמוקרטיה בבחינת הבגרות באנגלית בישראל",
   "permalink": "/democracy_democracy_in_the_israeli_education_system_the_case_of_the_english_matriculation_exam_summary_he.html",
   "paper_url": "democracy_democracy_in_the_israeli_education_system_the_case_of_the_english_matriculation_exam_summary_he.html",
   "sortKey": 202605210251
