@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import json
 import re
 import sys
@@ -20,6 +21,7 @@ PAPER_QUEUE_PATH = ROOT / "paper_queue.csv"
 SUGGEST_QUEUE_PATH = ROOT / "suggest_queue.csv"
 ARTICLE_IMAGE_SIZE = (800, 600)
 MAX_TOPIC_IMAGE_RUN = 2
+MIN_SECTION_SENTENCES = 2
 QUEUE_REQUIRED_COLUMNS = ("paper_name", "authors", "doi", "topic")
 SUGGEST_QUEUE_REQUIRED_COLUMNS = (
     "submitted_date",
@@ -224,6 +226,18 @@ def validate_html_links(label: str, html: str, errors: list[str]) -> None:
             errors.append(f"{label}: external link {href} must use target=\"_blank\" and rel=\"noopener noreferrer\"")
 
 
+def strip_html(value: str) -> str:
+    return html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value))).strip()
+
+
+def sentence_count(value: str) -> int:
+    text = strip_html(value)
+    if not text:
+        return 0
+    endings = re.findall(r"[.!?؟]+(?=\s|$|[\"”׳״])", text)
+    return len(endings) or 1
+
+
 def validate_paper(paper: dict[str, Any], topic_ids: set[str], errors: list[str]) -> None:
     source_path = paper["_sourcePath"]
     label = source_path.relative_to(ROOT)
@@ -286,6 +300,9 @@ def validate_paper(paper: dict[str, Any], topic_ids: set[str], errors: list[str]
         if not isinstance(paragraphs, list) or not paragraphs:
             errors.append(f"{label}: section {index} paragraphsHtml must be a non-empty list")
             continue
+        section_text = " ".join(str(paragraph) for paragraph in paragraphs)
+        if sentence_count(section_text) < MIN_SECTION_SENTENCES:
+            errors.append(f"{label}: section {index} must include at least {MIN_SECTION_SENTENCES} complete sentences")
         for paragraph_index, paragraph in enumerate(paragraphs, start=1):
             validate_html_links(f"{label} section {index} paragraph {paragraph_index}", str(paragraph), errors)
 
