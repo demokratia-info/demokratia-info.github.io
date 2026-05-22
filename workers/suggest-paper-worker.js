@@ -30,6 +30,7 @@ const FEEDBACK_QUEUE_HEADER = [
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
+const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
 
 export default {
   async fetch(request, env) {
@@ -39,12 +40,18 @@ export default {
       return new Response(null, { status: 204, headers: cors });
     }
 
-    if (request.method !== "POST") {
-      return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
-    }
-
     try {
-      if (requestKind(request) === "page-feedback") {
+      const kind = requestKind(request);
+
+      if (kind === "admin-page-feedback") {
+        return await handleAdminPageFeedback(request, env, cors);
+      }
+
+      if (request.method !== "POST") {
+        return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+      }
+
+      if (kind === "page-feedback") {
         return await handlePageFeedback(request, env, cors);
       }
       return await handlePaperSuggestion(request, env, cors);
@@ -135,6 +142,125 @@ async function handlePageFeedback(request, env, cors) {
   });
 }
 
+async function handleAdminPageFeedback(request, env, cors) {
+  await requireEditorPassword(request, env);
+
+  if (request.method === "GET") {
+    return listPageFeedback(env, cors);
+  }
+
+  if (request.method === "PATCH" || request.method === "POST") {
+    return updatePageFeedbackStatus(request, env, cors);
+  }
+
+  return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+}
+
+async function listPageFeedback(env, cors) {
+  const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
+  const current = await fetchQueue(github, FEEDBACK_QUEUE_HEADER);
+  const queue = normalizeQueueCsv(current.content, FEEDBACK_QUEUE_HEADER, github.path);
+  const rows = parseCsv(queue);
+  const items = rows.slice(1).map((row, index) => feedbackItemFromRow(row, index));
+  const counts = items.reduce((accumulator, item) => {
+    accumulator[item.status] = (accumulator[item.status] || 0) + 1;
+    return accumulator;
+  }, {});
+
+  return jsonResponse(
+    {
+      ok: true,
+      rows: items,
+      counts,
+      nextRevisionHours: [0, 6, 12, 18],
+      nextRevisionMinute: 5,
+      timezone: "Asia/Jerusalem"
+    },
+    200,
+    cors
+  );
+}
+
+async function updatePageFeedbackStatus(request, env, cors) {
+  const payload = await request.json();
+  const rowIndex = Number.parseInt(String(payload.rowIndex ?? ""), 10);
+  const status = clean(payload.status, 40);
+  const editorNotes = clean(payload.editorNotes || payload.editor_notes || "", 1000);
+  const submittedAt = clean(payload.submittedAt || payload.submitted_at || "", 80);
+  const pageUrl = clean(payload.pageUrl || payload.page_url || "", 700);
+  const comment = clean(payload.comment || "", 5000);
+
+  if (!Number.isInteger(rowIndex) || rowIndex < 0) {
+    throw new Error("Invalid queue row.");
+  }
+  if (!FEEDBACK_EDITOR_STATUSES.has(status)) {
+    throw new Error("Status must be pending, approved_for_update, or rejected.");
+  }
+
+  const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
+
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(github, FEEDBACK_QUEUE_HEADER);
+    const queue = normalizeQueueCsv(current.content, FEEDBACK_QUEUE_HEADER, github.path);
+    const rows = parseCsv(queue);
+    const csvRow = rows[rowIndex + 1];
+
+    if (!csvRow) throw new Error("Queue row no longer exists.");
+    if (
+      clean(csvRow[1], 80) !== submittedAt
+      || clean(csvRow[2], 700) !== pageUrl
+      || clean(csvRow[7], 5000) !== comment
+    ) {
+      return jsonResponse(
+        { ok: false, error: "The queue changed. Reload before saving this row." },
+        409,
+        cors
+      );
+    }
+
+    while (csvRow.length < FEEDBACK_QUEUE_HEADER.length) csvRow.push("");
+    csvRow[11] = status;
+    csvRow[12] = editorNotes;
+    csvRow[13] = "";
+
+    const nextContent = `${rows.map((row) => csvLine(row)).join("\n")}\n`;
+    const saved = await saveQueue(github, current.sha, nextContent, "Update page feedback status");
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return jsonResponse({ ok: true, row: feedbackItemFromRow(csvRow, rowIndex) }, 200, cors);
+  }
+
+  return jsonResponse(
+    { ok: false, error: "The queue is busy. Please try again." },
+    409,
+    cors
+  );
+}
+
+function feedbackItemFromRow(row, index) {
+  return {
+    rowIndex: index,
+    submittedDate: row[0] || "",
+    submittedAt: row[1] || "",
+    pageUrl: row[2] || "",
+    pageTitle: row[3] || "",
+    pageSlug: row[4] || "",
+    paperTitle: row[5] || "",
+    doi: row[6] || "",
+    comment: row[7] || "",
+    submitterEmail: row[8] || "",
+    submitterPhone: row[9] || "",
+    status: row[11] || "",
+    editorNotes: row[12] || "",
+    appliedAt: row[13] || ""
+  };
+}
+
 async function appendQueueRow({
   github,
   header,
@@ -181,6 +307,7 @@ async function appendQueueRow({
 
 function requestKind(request) {
   const pathname = new URL(request.url).pathname.replace(/\/+$/, "");
+  if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
 
@@ -193,8 +320,8 @@ function corsHeaders(request, env) {
   const allowedOrigin = allowed.includes(origin) ? origin : allowed[0] || DEFAULT_ALLOWED_ORIGINS;
   return {
     "Access-Control-Allow-Origin": allowedOrigin,
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type, Accept",
+    "Access-Control-Allow-Methods": "GET, POST, PATCH, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type, Accept, Authorization, X-Editor-Password",
     "Vary": "Origin",
     "Content-Type": "application/json; charset=utf-8"
   };
@@ -341,6 +468,53 @@ function githubConfig(env, queuePathEnvName, defaultPath) {
     path: env[queuePathEnvName] || defaultPath,
     token
   };
+}
+
+async function requireEditorPassword(request, env) {
+  const supplied = editorPasswordFromRequest(request);
+  if (!supplied) throw new Error("Editor password is required.");
+
+  if (env.EDITOR_PASSWORD_SHA256) {
+    const suppliedHash = await sha256Hex(supplied);
+    if (!constantTimeEqual(suppliedHash, String(env.EDITOR_PASSWORD_SHA256).trim().toLowerCase())) {
+      throw new Error("Editor password is incorrect.");
+    }
+    return;
+  }
+
+  if (!env.EDITOR_PASSWORD) {
+    throw new Error("Missing EDITOR_PASSWORD or EDITOR_PASSWORD_SHA256 worker secret.");
+  }
+
+  if (!constantTimeEqual(supplied, String(env.EDITOR_PASSWORD))) {
+    throw new Error("Editor password is incorrect.");
+  }
+}
+
+function editorPasswordFromRequest(request) {
+  const auth = request.headers.get("Authorization") || "";
+  const bearer = auth.match(/^Bearer\s+(.+)$/i);
+  if (bearer) return bearer[1];
+  return request.headers.get("X-Editor-Password") || "";
+}
+
+async function sha256Hex(value) {
+  const bytes = new TextEncoder().encode(value);
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)]
+    .map((byte) => byte.toString(16).padStart(2, "0"))
+    .join("");
+}
+
+function constantTimeEqual(left, right) {
+  const a = String(left || "");
+  const b = String(right || "");
+  let diff = a.length ^ b.length;
+  const length = Math.max(a.length, b.length);
+  for (let index = 0; index < length; index += 1) {
+    diff |= (a.charCodeAt(index) || 0) ^ (b.charCodeAt(index) || 0);
+  }
+  return diff === 0;
 }
 
 async function fetchQueue(github, header) {

@@ -2,7 +2,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ include.title }}</title>
 <meta name="description" content="{{ include.description | strip_html | escape }}">
+{% if include.noindex or page.noindex %}
+<meta name="robots" content="noindex, nofollow">
+{% else %}
 <meta name="robots" content="index, follow">
+{% endif %}
 <link rel="canonical" href="{{ include.url | default: page.url | absolute_url }}">
 <meta property="og:locale" content="he_IL">
 <meta property="og:site_name" content="{{ site.data.site.siteNameHe | escape }}">
