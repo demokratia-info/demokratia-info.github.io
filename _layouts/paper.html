@@ -68,7 +68,7 @@
       <p class="meta-row"><span class="meta-label">חוקרות/ים:</span> <span class="meta-value latin">{{ page.authorsHtml }}</span></p>
       {% if page.journal %}<p class="meta-row"><span class="meta-label">כתב עת:</span> <span class="meta-value latin">{{ page.journal }}</span></p>{% endif %}
       {% if page.dateText %}<p class="meta-row"><span class="meta-label">תאריך:</span> <span class="meta-value">{{ page.dateText }}</span></p>{% endif %}
-      {% if page.doiUrl %}<p class="meta-row"><span class="meta-label">DOI:</span> <a class="meta-value latin" href="{{ page.doiUrl }}" target="_blank" rel="noopener noreferrer">{{ page.doiLabel | default: page.doiUrl }}</a></p>{% endif %}
+      {% if page.doiUrl and page.doiUrl != "" %}<p class="meta-row"><span class="meta-label">DOI:</span> <a class="meta-value latin" href="{{ page.doiUrl }}" target="_blank" rel="noopener noreferrer">{{ page.doiLabel | default: page.doiUrl }}</a></p>{% endif %}
     </div>
 
     <nav class="topic-links" aria-label="נושאים">
