@@ -56,7 +56,7 @@
     "src": "html_qa/democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על שימוש לרעה בסמכות המכוננת בישראל",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

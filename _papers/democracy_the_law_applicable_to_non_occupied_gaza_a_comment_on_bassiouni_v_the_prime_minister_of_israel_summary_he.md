@@ -44,7 +44,7 @@
     "src": "html_qa/democracy_the_law_applicable_to_non_occupied_gaza_a_comment_on_bassiouni_v_the_prime_minister_of_israel_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על הדין החל על עזה שאינה מוגדרת כשטח כבוש",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

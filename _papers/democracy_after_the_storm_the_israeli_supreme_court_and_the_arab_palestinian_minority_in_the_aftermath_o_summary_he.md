@@ -47,7 +47,7 @@
     "src": "html_qa/democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

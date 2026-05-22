@@ -46,7 +46,7 @@
     "src": "html_qa/democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -9,7 +9,7 @@
   "purpose": "Internal catalog for auditing paper graphics, source metadata, visual diversity, and image reuse history.",
   "reusePolicy": "For future nightly batches, never recycle, copy, or reassign an existing site picture/photo for a new paper. Every new paper must receive a newly added 800x600 JPEG under html_qa, using a deliberate mixture of newly generated paper-specific editorial images and newly obtained Wikimedia/Commons photographs with source/license metadata.",
   "paperImageFitnessPolicy": "The image-paper tuple fitness is stored in each paper source under image.fitness. Values are high, standard, or low. Only high renders the image near the top of the paper summary page. Existing images are conservatively standard unless specifically reviewed; approved user-uploaded replacements are high.",
-  "homepagePriorityPolicy": "On index.html, keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
+  "homepagePriorityPolicy": "On index.html, render the six-card homepage sample from _data/homepage_high_fit_sample.json, which must contain papers whose image.fitness is high. Refresh that sample during the 00:05 Asia/Jerusalem heartbeat run with scripts/sample_homepage_high_fit.py --write. Keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
     {
       "file": "html_qa/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.jpg",

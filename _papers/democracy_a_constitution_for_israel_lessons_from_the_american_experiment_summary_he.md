@@ -46,7 +46,7 @@
     "src": "html_qa/democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

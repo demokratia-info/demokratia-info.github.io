@@ -45,7 +45,7 @@
     "src": "html_qa/democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

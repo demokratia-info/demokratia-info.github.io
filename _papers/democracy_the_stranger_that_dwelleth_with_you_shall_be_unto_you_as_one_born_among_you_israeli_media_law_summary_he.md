@@ -45,7 +45,7 @@
     "src": "html_qa/democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

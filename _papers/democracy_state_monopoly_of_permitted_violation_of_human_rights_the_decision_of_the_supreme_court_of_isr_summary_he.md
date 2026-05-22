@@ -45,7 +45,7 @@
     "src": "html_qa/democracy_state_monopoly_of_permitted_violation_of_human_rights_the_decision_of_the_supreme_court_of_isr_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

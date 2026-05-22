@@ -44,7 +44,7 @@
     "src": "html_qa/democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על ממסד דתי, פלורליזם ושוויון אזרחי",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

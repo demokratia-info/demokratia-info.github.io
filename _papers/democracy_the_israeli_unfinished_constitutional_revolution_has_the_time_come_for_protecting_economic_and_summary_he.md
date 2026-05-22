@@ -53,7 +53,7 @@
     "src": "html_qa/democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import html
 import json
 import re
@@ -17,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PAPERS_DIR = ROOT / "_papers"
 DATA_DIR = ROOT / "_data"
 PAPER_INDEX_PATH = DATA_DIR / "paper_index.json"
+HOMEPAGE_SAMPLE_PATH = DATA_DIR / "homepage_high_fit_sample.json"
 PAPER_QUEUE_PATH = ROOT / "paper_queue.csv"
 SUGGEST_QUEUE_PATH = ROOT / "suggest_queue.csv"
 ARTICLE_IMAGE_SIZE = (800, 600)
@@ -469,6 +471,46 @@ def validate_topic_image_runs(papers: list[dict[str, Any]], topics: list[dict[st
             previous_src = image_src
 
 
+def validate_homepage_high_fit_sample(papers: list[dict[str, Any]], site_data: dict[str, Any], errors: list[str]) -> None:
+    if not HOMEPAGE_SAMPLE_PATH.exists():
+        errors.append("_data/homepage_high_fit_sample.json is missing; run scripts/sample_homepage_high_fit.py --write")
+        return
+
+    try:
+        sample = load_json(HOMEPAGE_SAMPLE_PATH)
+    except ValueError as exc:
+        errors.append(str(exc))
+        return
+
+    expected_count = int(site_data.get("homepageLatestCount") or 6)
+    slugs = sample.get("paperSlugs")
+    if not isinstance(slugs, list):
+        errors.append("_data/homepage_high_fit_sample.json: paperSlugs must be a list")
+        return
+    if len(slugs) != expected_count:
+        errors.append(f"_data/homepage_high_fit_sample.json: expected {expected_count} paperSlugs, found {len(slugs)}")
+    if len(set(slugs)) != len(slugs):
+        errors.append("_data/homepage_high_fit_sample.json: paperSlugs must be unique")
+
+    by_slug = {paper.get("slug"): paper for paper in papers}
+    image_hashes: dict[str, str] = {}
+    for slug in slugs:
+        paper = by_slug.get(slug)
+        if not paper:
+            errors.append(f"_data/homepage_high_fit_sample.json: unknown paper slug {slug}")
+            continue
+        if paper.get("image", {}).get("fitness") != "high":
+            errors.append(f"_data/homepage_high_fit_sample.json: {slug} does not have image.fitness high")
+        image_path = clean_local_ref(str(paper.get("image", {}).get("src", "")))
+        if image_path and image_path.exists():
+            key = hashlib.sha256(image_path.read_bytes()).hexdigest()
+            if key in image_hashes:
+                errors.append(
+                    f"_data/homepage_high_fit_sample.json: {slug} uses the same image bytes as {image_hashes[key]}"
+                )
+            image_hashes[key] = str(slug)
+
+
 def validate_sources(write_index: bool) -> int:
     errors: list[str] = []
 
@@ -523,6 +565,7 @@ def validate_sources(write_index: bool) -> int:
     validate_paper_queue(papers, topic_ids, errors)
     validate_suggest_queue(errors)
     validate_topic_image_runs(papers, topics, errors)
+    validate_homepage_high_fit_sample(papers, site_data, errors)
 
     paper_count = site_data.get("paperCount")
     if paper_count is not None and paper_count != len(papers):

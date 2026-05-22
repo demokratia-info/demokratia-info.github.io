@@ -44,7 +44,7 @@
     "src": "html_qa/democracy_security_and_defensive_democracy_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על ביטחון ודמוקרטיה מתגוננת בישראל",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

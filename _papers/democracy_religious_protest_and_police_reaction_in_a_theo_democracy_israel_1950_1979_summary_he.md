@@ -53,7 +53,7 @@
     "src": "html_qa/democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מחאה דתית, תגובת משטרה וסובלנות פוליטית",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

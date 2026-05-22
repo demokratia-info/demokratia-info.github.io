@@ -73,9 +73,10 @@
     </section>
 
     <section class="section latest-section" aria-labelledby="latest-heading">
-      <h2 class="section-heading" id="latest-heading">חדש באתר</h2>
-      <div class="grid" aria-label="שש התמציות האחרונות">
-        {% assign papers = site.papers | sort: "sortKey" | reverse %}
+      <h2 class="section-heading" id="latest-heading">תמציות נבחרות</h2>
+      <div class="grid" aria-label="שש תמציות נבחרות עם תמונות מותאמות">
+        {% assign all_papers = site.papers | sort: "sortKey" | reverse %}
+        {% assign homepage_sample_slugs = site.data.homepage_high_fit_sample.paperSlugs %}
         {% assign new_badge_days = site.data.site.newBadgeDays | default: 3 %}
         {% assign new_badge_offset_seconds = new_badge_days | minus: 1 | times: 86400 %}
         {% assign new_badge_cutoff = site.time | date: "%s" | minus: new_badge_offset_seconds | date: "%Y-%m-%d" %}
@@ -83,22 +84,47 @@
         {% assign recent_source_offset_seconds = recent_source_days | times: 86400 %}
         {% assign recent_source_cutoff = site.time | date: "%s" | minus: recent_source_offset_seconds | date: "%Y-%m-%d" %}
         {% assign today = site.time | date: "%Y-%m-%d" %}
-        {% for paper in papers limit: site.data.site.homepageLatestCount %}
-          {% assign show_new = false %}
-          {% assign show_recent_source = false %}
-          {% assign high_priority = false %}
-          {% assign paper_created = paper.datePublished | default: paper.dateModified %}
-          {% if paper_created >= new_badge_cutoff %}
-            {% assign show_new = true %}
-          {% endif %}
-          {% if paper.sourcePublishedDate and paper.sourcePublishedDate >= recent_source_cutoff and paper.sourcePublishedDate <= today %}
-            {% assign show_recent_source = true %}
-          {% endif %}
-          {% if forloop.index <= 3 %}
-            {% assign high_priority = true %}
-          {% endif %}
-          {% include paper_card.html paper=paper show_new=show_new show_recent_source=show_recent_source high_priority=high_priority %}
-        {% endfor %}
+        {% if homepage_sample_slugs and homepage_sample_slugs.size >= site.data.site.homepageLatestCount %}
+          {% for homepage_slug in homepage_sample_slugs limit: site.data.site.homepageLatestCount %}
+            {% assign homepage_index = forloop.index %}
+            {% for paper in all_papers %}
+              {% if paper.slug == homepage_slug and paper.image.fitness == "high" %}
+                {% assign show_new = false %}
+                {% assign show_recent_source = false %}
+                {% assign high_priority = false %}
+                {% assign paper_created = paper.datePublished | default: paper.dateModified %}
+                {% if paper_created >= new_badge_cutoff %}
+                  {% assign show_new = true %}
+                {% endif %}
+                {% if paper.sourcePublishedDate and paper.sourcePublishedDate >= recent_source_cutoff and paper.sourcePublishedDate <= today %}
+                  {% assign show_recent_source = true %}
+                {% endif %}
+                {% if homepage_index <= 3 %}
+                  {% assign high_priority = true %}
+                {% endif %}
+                {% include paper_card.html paper=paper show_new=show_new show_recent_source=show_recent_source high_priority=high_priority %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% else %}
+          {% for paper in all_papers limit: site.data.site.homepageLatestCount %}
+            {% assign show_new = false %}
+            {% assign show_recent_source = false %}
+            {% assign high_priority = false %}
+            {% assign paper_created = paper.datePublished | default: paper.dateModified %}
+            {% if paper_created >= new_badge_cutoff %}
+              {% assign show_new = true %}
+            {% endif %}
+            {% if paper.sourcePublishedDate and paper.sourcePublishedDate >= recent_source_cutoff and paper.sourcePublishedDate <= today %}
+              {% assign show_recent_source = true %}
+            {% endif %}
+            {% if forloop.index <= 3 %}
+              {% assign high_priority = true %}
+            {% endif %}
+            {% include paper_card.html paper=paper show_new=show_new show_recent_source=show_recent_source high_priority=high_priority %}
+          {% endfor %}
+        {% endif %}
       </div>
     </section>
 

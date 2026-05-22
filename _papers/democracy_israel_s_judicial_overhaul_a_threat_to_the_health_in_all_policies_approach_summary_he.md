@@ -77,7 +77,7 @@
     "src": "html_qa/democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

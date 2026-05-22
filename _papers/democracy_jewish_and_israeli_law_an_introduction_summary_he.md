@@ -52,7 +52,7 @@
     "src": "html_qa/democracy_jewish_and_israeli_law_an_introduction_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על הקשרים בין משפט יהודי למשפט ישראלי",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

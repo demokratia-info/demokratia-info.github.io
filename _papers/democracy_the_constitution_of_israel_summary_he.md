@@ -46,7 +46,7 @@
     "src": "html_qa/democracy_the_constitution_of_israel_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מבנה החוקה הישראלית והמתחים שבתוכה",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

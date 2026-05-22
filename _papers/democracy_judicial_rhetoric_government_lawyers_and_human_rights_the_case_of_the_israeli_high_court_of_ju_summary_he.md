@@ -47,7 +47,7 @@
     "src": "html_qa/democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

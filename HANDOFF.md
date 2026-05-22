@@ -103,7 +103,7 @@ The homepage spotlight count is controlled by `_data/site.json`:
 "homepageLatestCount": 6
 ```
 
-The nightly automation does not need to know this count for layout. It only needs to avoid reusing images currently appearing in the newest 6 homepage cards, because repeated images at the top of the site look bad.
+The homepage renders the sampled slugs in `_data/homepage_high_fit_sample.json`, not simply the newest papers. Refresh this file during the 00:05 Asia/Jerusalem heartbeat run with `python3 scripts/sample_homepage_high_fit.py --write`. The sampler chooses from papers whose `image.fitness` is `high`, avoids exact duplicate image files, and applies light topic and visual-family diversity constraints.
 
 The first three homepage cards get high-priority image loading in the shared layout. Later cards are lazy-loaded.
 

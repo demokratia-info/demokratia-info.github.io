@@ -54,7 +54,7 @@
     "src": "html_qa/democracy_judicial_setbacks_material_gains_terror_litigation_at_the_israeli_high_court_of_justice_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

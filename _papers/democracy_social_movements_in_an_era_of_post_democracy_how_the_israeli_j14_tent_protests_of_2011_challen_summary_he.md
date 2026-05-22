@@ -44,7 +44,7 @@
     "src": "html_qa/democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

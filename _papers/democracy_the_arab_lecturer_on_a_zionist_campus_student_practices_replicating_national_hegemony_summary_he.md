@@ -54,7 +54,7 @@
     "src": "html_qa/democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

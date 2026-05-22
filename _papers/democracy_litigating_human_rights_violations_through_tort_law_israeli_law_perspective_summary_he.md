@@ -61,7 +61,7 @@
     "src": "html_qa/democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על תביעות נזיקין כהתמודדות עם הפרות זכויות אדם",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -47,7 +47,7 @@
     "src": "html_qa/democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

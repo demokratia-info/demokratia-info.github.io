@@ -53,7 +53,7 @@
     "src": "html_qa/democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he.jpg",
     "version": "800x600-landscape",
     "altHe": "איור עריכתי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני",
-    "fitness": "standard"
+    "fitness": "high"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",
