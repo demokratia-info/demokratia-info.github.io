@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_public_accountability_and_auditing_why_and_when_do_state_auditors_conduct_broad_audits_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אחריותיות ציבורית וביקורת המדינה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אחריותיות ציבורית וביקורת המדינה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

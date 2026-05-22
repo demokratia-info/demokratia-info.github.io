@@ -57,7 +57,8 @@
   "image": {
     "src": "html_qa/democracy_editorial_the_crises_of_the_israeli_democracy_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: משברי הדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי: משברי הדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

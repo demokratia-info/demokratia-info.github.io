@@ -60,7 +60,8 @@
   "image": {
     "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על לאומיות רוב ושוויון אזרחי של מיעוטים"
+    "altHe": "איור על לאומיות רוב ושוויון אזרחי של מיעוטים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

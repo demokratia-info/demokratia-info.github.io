@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_protests_and_political_violence_among_arab_knesset_members_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: מחאות ואלימות פוליטית בקרב חברי כנסת ערבים"
+    "altHe": "איור עריכתי: מחאות ואלימות פוליטית בקרב חברי כנסת ערבים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

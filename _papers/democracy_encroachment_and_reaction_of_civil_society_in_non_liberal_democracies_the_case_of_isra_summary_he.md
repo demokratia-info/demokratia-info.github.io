@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_encroachment_and_reaction_of_civil_society_in_non_liberal_democracies_the_case_of_isra_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: דחיקת החברה האזרחית ותגובתה בדמוקרטיות לא־ליברליות"
+    "altHe": "איור עריכתי: דחיקת החברה האזרחית ותגובתה בדמוקרטיות לא־ליברליות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

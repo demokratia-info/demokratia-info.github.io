@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_reconsidering_the_druze_narrative_in_the_wake_of_the_basic_law_israel_as_the_nation_st_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: הנרטיב הדרוזי בעקבות חוק הלאום"
+    "altHe": "איור עריכתי: הנרטיב הדרוזי בעקבות חוק הלאום",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

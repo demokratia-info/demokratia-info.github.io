@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית משפט, זכויות אדם ושלטון החוק בהקשר של אחריות שלטונית"
+    "altHe": "איור על בית משפט, זכויות אדם ושלטון החוק בהקשר של אחריות שלטונית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

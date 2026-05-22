@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל"
+    "altHe": "איור עריכתי: מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

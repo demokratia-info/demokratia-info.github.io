@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_who_takes_part_in_the_political_game_the_sex_work_governance_debate_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_from_rule_of_law_to_the_law_of_the_ruler_the_twofold_upheaval_of_the_israeli_right_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: משלטון החוק לחוק השליט: המהפך הכפול של הימין הישראלי"
+    "altHe": "איור עריכתי: משלטון החוק לחוק השליט: המהפך הכפול של הימין הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

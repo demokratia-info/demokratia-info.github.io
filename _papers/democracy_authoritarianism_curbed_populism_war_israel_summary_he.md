@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_political_violence_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על מלחמה, פופוליזם וקיטוב פוליטי"
+    "altHe": "איור על מלחמה, פופוליזם וקיטוב פוליטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

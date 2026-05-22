@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_being_civil_is_not_enough_on_practices_of_citizenship_of_women_living_in_poverty_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

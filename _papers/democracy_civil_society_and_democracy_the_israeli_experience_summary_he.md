@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_civil_society_and_democracy_the_israeli_experience_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל"
+    "altHe": "איור עריכתי על חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

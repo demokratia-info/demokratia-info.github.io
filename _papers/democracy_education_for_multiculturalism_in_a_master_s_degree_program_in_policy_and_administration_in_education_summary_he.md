@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_education_for_multiculturalism_in_a_master_s_degree_program_in_policy_and_administration_in_education_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

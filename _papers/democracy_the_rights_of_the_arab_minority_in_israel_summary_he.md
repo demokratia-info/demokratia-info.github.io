@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_rights_of_the_arab_minority_in_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: זכויות המיעוט הערבי בישראל"
+    "altHe": "איור עריכתי: זכויות המיעוט הערבי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

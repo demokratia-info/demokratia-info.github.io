@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "אולם מליאת הכנסת כמוקד מוסדי לוויכוח על דת, מדינה וייצוג"
+    "altHe": "אולם מליאת הכנסת כמוקד מוסדי לוויכוח על דת, מדינה וייצוג",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

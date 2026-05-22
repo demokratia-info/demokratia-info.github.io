@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_how_the_law_of_return_creates_one_legal_order_in_palestine_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חוק השבות ויצירת סדר משפטי אחד בפלסטין"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חוק השבות ויצירת סדר משפטי אחד בפלסטין",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_the_voice_of_silence_patterns_of_digital_participation_among_palestinian_women_in_east_jerusalem_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

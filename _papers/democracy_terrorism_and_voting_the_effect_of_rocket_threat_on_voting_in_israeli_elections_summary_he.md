@@ -50,7 +50,8 @@
   "image": {
     "src": "html_qa/democracy_terrorism_and_voting_the_effect_of_rocket_threat_on_voting_in_israeli_elections_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל"
+    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

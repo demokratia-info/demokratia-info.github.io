@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

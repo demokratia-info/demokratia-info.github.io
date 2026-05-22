@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על תהליך חוקתי מכליל, חוקה, שוויון וזכויות מיעוט"
+    "altHe": "איור על תהליך חוקתי מכליל, חוקה, שוויון וזכויות מיעוט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

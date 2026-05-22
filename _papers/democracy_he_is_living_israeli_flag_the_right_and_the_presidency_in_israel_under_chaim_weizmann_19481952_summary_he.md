@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_he_is_living_israeli_flag_the_right_and_the_presidency_in_israel_under_chaim_weizmann_19481952_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

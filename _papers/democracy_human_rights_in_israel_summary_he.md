@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_human_rights_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על זכויות אדם ובית המשפט העליון בישראל"
+    "altHe": "איור עריכתי על זכויות אדם ובית המשפט העליון בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

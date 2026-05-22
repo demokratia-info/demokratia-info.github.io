@@ -59,7 +59,8 @@
   "image": {
     "src": "html_qa/democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל"
+    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

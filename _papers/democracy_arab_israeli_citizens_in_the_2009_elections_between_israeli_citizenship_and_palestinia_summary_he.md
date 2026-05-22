@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: אזרחים ערבים בבחירות 2009: בין אזרחות ישראלית לזהות פלסטינית־ערבית"
+    "altHe": "איור עריכתי: אזרחים ערבים בבחירות 2009: בין אזרחות ישראלית לזהות פלסטינית־ערבית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

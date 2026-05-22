@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_civil_disobedience_in_defense_of_democracy_menachem_begins_struggle_against_emergency_laws_in_israel_1948195_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

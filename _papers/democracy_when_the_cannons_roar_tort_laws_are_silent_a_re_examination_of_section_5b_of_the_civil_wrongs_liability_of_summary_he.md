@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אחריות המדינה בנזיקין בזמן לחימה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אחריות המדינה בנזיקין בזמן לחימה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

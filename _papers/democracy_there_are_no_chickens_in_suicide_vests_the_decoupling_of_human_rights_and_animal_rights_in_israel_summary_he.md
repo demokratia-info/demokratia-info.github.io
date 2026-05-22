@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_there_are_no_chickens_in_suicide_vests_the_decoupling_of_human_rights_and_animal_rights_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

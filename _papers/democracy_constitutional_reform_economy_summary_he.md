@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "תצוגה מקדימה של התמצית על דמוקרטיה וכלכלה"
+    "altHe": "תצוגה מקדימה של התמצית על דמוקרטיה וכלכלה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-07",

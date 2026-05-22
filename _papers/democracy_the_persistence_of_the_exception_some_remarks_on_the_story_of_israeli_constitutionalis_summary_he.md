@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_persistence_of_the_exception_some_remarks_on_the_story_of_israeli_constitutionalis_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: חריג מתמשך בסיפור החוקתיות הישראלית"
+    "altHe": "איור עריכתי: חריג מתמשך בסיפור החוקתיות הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

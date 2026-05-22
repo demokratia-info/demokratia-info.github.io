@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על כשל המערכת המשפטית במניעת עינויים בשטחים"
+    "altHe": "איור עריכתי על כשל המערכת המשפטית במניעת עינויים בשטחים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

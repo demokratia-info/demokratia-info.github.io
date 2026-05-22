@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

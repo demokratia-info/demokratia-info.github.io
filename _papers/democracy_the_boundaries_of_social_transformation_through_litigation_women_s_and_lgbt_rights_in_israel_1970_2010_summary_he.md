@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_rights_in_israel_1970_2010_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על גבולות שינוי חברתי בהתדיינות זכויות נשים ולהט״ב בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על גבולות שינוי חברתי בהתדיינות זכויות נשים ולהט״ב בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_geography_and_political_context_of_human_rights_education_israel_as_a_case_study_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל"
+    "altHe": "איור עריכתי על חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

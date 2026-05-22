@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_police_officers_acceptance_of_community_policing_strategy_in_israel_and_their_attitudes_toward_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

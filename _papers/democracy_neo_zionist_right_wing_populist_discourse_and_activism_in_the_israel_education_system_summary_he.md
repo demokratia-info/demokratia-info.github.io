@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_neo_zionist_right_wing_populist_discourse_and_activism_in_the_israel_education_system_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני"
+    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

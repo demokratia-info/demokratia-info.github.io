@@ -56,7 +56,8 @@
   "image": {
     "src": "html_qa/democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: דה־ערביזציה של הבדואים: מחקר על כישלון בלתי נמנע"
+    "altHe": "איור עריכתי: דה־ערביזציה של הבדואים: מחקר על כישלון בלתי נמנע",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

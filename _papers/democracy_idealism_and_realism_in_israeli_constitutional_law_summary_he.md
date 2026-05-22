@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_idealism_and_realism_in_israeli_constitutional_law_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: אידיאליזם וריאליזם במשפט החוקתי הישראלי"
+    "altHe": "איור עריכתי: אידיאליזם וריאליזם במשפט החוקתי הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

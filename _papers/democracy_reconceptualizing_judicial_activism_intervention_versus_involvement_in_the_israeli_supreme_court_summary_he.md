@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_reconceptualizing_judicial_activism_intervention_versus_involvement_in_the_israeli_supreme_court_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל"
+    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

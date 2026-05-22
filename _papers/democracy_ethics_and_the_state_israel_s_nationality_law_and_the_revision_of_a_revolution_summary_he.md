@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_ethics_and_the_state_israel_s_nationality_law_and_the_revision_of_a_revolution_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה"
+    "altHe": "איור עריכתי על מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -41,7 +41,8 @@
   "image": {
     "src": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית משפט, עצמאות שיפוטית והגנה מוסדית על דמוקרטיה"
+    "altHe": "איור על בית משפט, עצמאות שיפוטית והגנה מוסדית על דמוקרטיה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-19",

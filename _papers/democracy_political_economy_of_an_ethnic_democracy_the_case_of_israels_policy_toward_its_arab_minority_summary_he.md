@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_political_economy_of_an_ethnic_democracy_the_case_of_israels_policy_toward_its_arab_minority_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

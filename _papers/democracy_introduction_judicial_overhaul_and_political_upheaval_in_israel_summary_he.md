@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על הטלטלה הפוליטית סביב הרפורמה המשפטית"
+    "altHe": "איור עריכתי על הטלטלה הפוליטית סביב הרפורמה המשפטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_democracy_assistance_in_the_middle_east_and_north_africa_a_comparison_of_us_and_eu_policies_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

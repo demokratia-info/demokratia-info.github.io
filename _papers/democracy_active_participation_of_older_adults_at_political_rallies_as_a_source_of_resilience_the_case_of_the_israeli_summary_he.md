@@ -74,7 +74,8 @@
   "image": {
     "src": "html_qa/democracy_active_participation_of_older_adults_at_political_rallies_as_a_source_of_resilience_the_case_of_the_israeli_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית"
+    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

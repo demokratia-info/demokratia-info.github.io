@@ -41,7 +41,8 @@
   "image": {
     "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על קבוצות חברתיות, ייצוג אזרחי ושוויון במרחב דמוקרטי"
+    "altHe": "איור על קבוצות חברתיות, ייצוג אזרחי ושוויון במרחב דמוקרטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-19",

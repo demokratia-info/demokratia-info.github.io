@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על התארגנות מקומית, מוסדות עירוניים וחברה אזרחית במרחב דמוקרטי"
+    "altHe": "איור על התארגנות מקומית, מוסדות עירוניים וחברה אזרחית במרחב דמוקרטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-17",
   "dateModified": "2026-05-20",

@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_jewish_and_palestinian_women_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

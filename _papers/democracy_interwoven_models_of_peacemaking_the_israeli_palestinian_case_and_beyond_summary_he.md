@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_interwoven_models_of_peacemaking_the_israeli_palestinian_case_and_beyond_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מודלים משולבים של השכנת שלום במקרה הישראלי־פלסטיני"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מודלים משולבים של השכנת שלום במקרה הישראלי־פלסטיני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

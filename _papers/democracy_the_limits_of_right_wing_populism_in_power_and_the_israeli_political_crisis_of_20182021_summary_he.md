@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_the_limits_of_right_wing_populism_in_power_and_the_israeli_political_crisis_of_20182021_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני"
+    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

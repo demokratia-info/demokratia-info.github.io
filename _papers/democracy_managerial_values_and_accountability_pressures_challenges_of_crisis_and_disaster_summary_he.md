@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_managerial_values_and_accountability_pressures_challenges_of_crisis_and_disaster_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

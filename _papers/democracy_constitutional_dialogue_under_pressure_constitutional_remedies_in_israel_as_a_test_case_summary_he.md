@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "אולם משפטי שבו עותרים, עורכי דין ומסמכים ממחישים תרופות חוקתיות"
+    "altHe": "אולם משפטי שבו עותרים, עורכי דין ומסמכים ממחישים תרופות חוקתיות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

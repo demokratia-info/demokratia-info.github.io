@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_i_represent_the_police_i_represent_the_state_justification_work_following_ethno_national_boundaries_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על עבודת הצדקה של שוטרות ערביות במשטרת ישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על עבודת הצדקה של שוטרות ערביות במשטרת ישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

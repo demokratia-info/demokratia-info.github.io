@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_trade_unions_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על חינוך אזרחי, חברה אזרחית וערכים דמוקרטיים"
+    "altHe": "איור על חינוך אזרחי, חברה אזרחית וערכים דמוקרטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

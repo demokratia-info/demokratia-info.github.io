@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_religion_multiculturalism_and_equality_the_israeli_case_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: דת, רב־תרבותיות ושוויון בישראל"
+    "altHe": "איור עריכתי: דת, רב־תרבותיות ושוויון בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

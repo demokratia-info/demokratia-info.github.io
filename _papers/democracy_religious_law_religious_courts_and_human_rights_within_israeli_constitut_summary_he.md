@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_religious_law_religious_courts_and_human_rights_within_israeli_constitut_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

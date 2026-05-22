@@ -73,7 +73,8 @@
   "image": {
     "src": "html_qa/democracy_political_violence_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "תצוגה מקדימה של התמצית על נסיגה דמוקרטית ואלימות פוליטית"
+    "altHe": "תצוגה מקדימה של התמצית על נסיגה דמוקרטית ואלימות פוליטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

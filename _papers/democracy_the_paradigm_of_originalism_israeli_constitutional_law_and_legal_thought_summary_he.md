@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_the_paradigm_of_originalism_israeli_constitutional_law_and_legal_thought_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל"
+    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

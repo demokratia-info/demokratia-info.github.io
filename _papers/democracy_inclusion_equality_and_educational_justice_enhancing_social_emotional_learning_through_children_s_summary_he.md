@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_through_children_s_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_the_agenda_premises_of_the_judicialization_of_politics_policy_attention_in_israels_high_court_of_justice_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל"
+    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

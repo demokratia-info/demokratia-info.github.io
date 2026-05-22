@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_the_role_of_courts_in_rifted_democracies_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "אולם דיונים בבית המשפט העליון בישראל כסמל למעמד בתי המשפט בדמוקרטיה שסועה"
+    "altHe": "אולם דיונים בבית המשפט העליון בישראל כסמל למעמד בתי המשפט בדמוקרטיה שסועה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

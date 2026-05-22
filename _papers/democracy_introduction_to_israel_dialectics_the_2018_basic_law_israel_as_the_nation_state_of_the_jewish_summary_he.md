@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_introduction_to_israel_dialectics_the_2018_basic_law_israel_as_the_nation_state_of_the_jewish_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חוק הלאום והשפעתו על זכויות ושייכות"
+    "altHe": "איור עריכתי על חוק הלאום והשפעתו על זכויות ושייכות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

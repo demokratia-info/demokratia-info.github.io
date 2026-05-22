@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "בניין בית המשפט העליון כסמל לאיזונים בין משפט לפוליטיקה בישראל"
+    "altHe": "בניין בית המשפט העליון כסמל לאיזונים בין משפט לפוליטיקה בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

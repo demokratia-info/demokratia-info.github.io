@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_militarism_versus_security_the_double_bind_of_israel_s_culture_of_bereavement_and_hierarchy_of_sensitivity_t_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי"
+    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

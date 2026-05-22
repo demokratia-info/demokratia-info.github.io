@@ -58,7 +58,8 @@
   "image": {
     "src": "html_qa/democracy_party_systems_and_issue_dimensions_israel_and_thirtyfive_other_old_and_new_democracies_compared_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל"
+    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

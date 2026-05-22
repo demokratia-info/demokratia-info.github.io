@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_three_faced_the_conflicting_roles_of_citizenship_education_in_conflict_affected_societies_a_comparison_of_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

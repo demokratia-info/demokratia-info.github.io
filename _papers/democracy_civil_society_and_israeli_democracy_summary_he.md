@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על מוסדות ציבור וחברה אזרחית"
+    "altHe": "איור על מוסדות ציבור וחברה אזרחית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_civilian_soft_militarism_through_informal_education_in_israel_learning_to_protect_and_connect_to_the_land_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

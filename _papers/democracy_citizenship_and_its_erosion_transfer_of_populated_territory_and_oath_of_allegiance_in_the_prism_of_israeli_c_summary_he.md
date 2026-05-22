@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_citizenship_and_its_erosion_transfer_of_populated_territory_and_oath_of_allegiance_in_the_prism_of_israeli_c_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל"
+    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

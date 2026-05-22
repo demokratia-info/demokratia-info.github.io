@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_the_platonic_conception_of_the_israeli_constitution_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על התפיסה האפלטונית של החוקה הישראלית"
+    "altHe": "איור עריכתי על התפיסה האפלטונית של החוקה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

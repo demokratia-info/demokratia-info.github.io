@@ -50,7 +50,8 @@
   "image": {
     "src": "html_qa/democracy_public_sector_management_and_the_democratic_ethos_a_5_year_study_of_key_relationships_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל"
+    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

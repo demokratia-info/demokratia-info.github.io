@@ -72,7 +72,8 @@
   "image": {
     "src": "html_qa/democracy_gendering_human_rights_threat_and_gender_perceptions_as_predictors_of_attitudes_towards_violating_human_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

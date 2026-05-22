@@ -66,7 +66,8 @@
   "image": {
     "src": "html_qa/democracy_teaching_controversial_issues_in_a_fragile_democracy_defusing_deliberation_in_israeli_primary_classrooms_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

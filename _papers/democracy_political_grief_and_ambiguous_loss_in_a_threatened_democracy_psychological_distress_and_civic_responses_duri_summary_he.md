@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים"
+    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -61,7 +61,8 @@
   "image": {
     "src": "html_qa/democracy_the_european_convention_on_human_rights_in_israeli_courts_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "חדר מחקר משפטי המשווה בין פסיקה אירופית לבין משפט ישראלי"
+    "altHe": "חדר מחקר משפטי המשווה בין פסיקה אירופית לבין משפט ישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challenges_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

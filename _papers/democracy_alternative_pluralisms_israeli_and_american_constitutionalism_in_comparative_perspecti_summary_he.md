@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_alternative_pluralisms_israeli_and_american_constitutionalism_in_comparative_perspecti_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: פלורליזמים חלופיים: חוקתיות ישראלית ואמריקאית במבט השוואתי"
+    "altHe": "איור עריכתי: פלורליזמים חלופיים: חוקתיות ישראלית ואמריקאית במבט השוואתי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

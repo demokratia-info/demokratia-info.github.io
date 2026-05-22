@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על שוויון אזרחי, הדרה וזכויות מיעוטים במרחב ציבורי"
+    "altHe": "איור על שוויון אזרחי, הדרה וזכויות מיעוטים במרחב ציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-07",

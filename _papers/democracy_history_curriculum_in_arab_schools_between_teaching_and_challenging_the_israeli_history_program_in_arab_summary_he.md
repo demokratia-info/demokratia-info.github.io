@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_history_curriculum_in_arab_schools_between_teaching_and_challenging_the_israeli_history_program_in_arab_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על תוכנית הלימודים בהיסטוריה בבתי ספר ערביים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על תוכנית הלימודים בהיסטוריה בבתי ספר ערביים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

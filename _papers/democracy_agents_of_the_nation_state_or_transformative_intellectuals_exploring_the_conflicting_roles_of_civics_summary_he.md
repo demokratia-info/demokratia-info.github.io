@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflicting_roles_of_civics_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

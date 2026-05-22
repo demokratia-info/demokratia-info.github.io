@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על דיון חוקתי מכליל, זכויות מיעוטים ושלטון החוק בישראל"
+    "altHe": "איור על דיון חוקתי מכליל, זכויות מיעוטים ושלטון החוק בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-17",
   "dateModified": "2026-05-20",

@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על הפוליטיקה של רפורמה חוקתית בישראל"
+    "altHe": "איור עריכתי על הפוליטיקה של רפורמה חוקתית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

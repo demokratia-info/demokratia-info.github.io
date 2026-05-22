@@ -41,7 +41,8 @@
   "image": {
     "src": "html_qa/democracy_a_comparative_constitutional_perspective_on_israels_nation_state_law_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

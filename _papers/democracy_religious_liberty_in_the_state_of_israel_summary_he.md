@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_religious_liberty_in_the_state_of_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חירות דתית במדינת ישראל"
+    "altHe": "איור עריכתי על חירות דתית במדינת ישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_6_israeli_democracy_and_democratic_reform_in_comparative_perspective_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: הדמוקרטיה הישראלית והרפורמה הדמוקרטית במבט השוואתי"
+    "altHe": "איור עריכתי: הדמוקרטיה הישראלית והרפורמה הדמוקרטית במבט השוואתי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

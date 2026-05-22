@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_the_new_civics_curriculum_for_high_schools_in_israel_the_discursive_construction_of_palestinian_identity_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על תוכנית האזרחות החדשה וזהות פלסטינית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על תוכנית האזרחות החדשה וזהות פלסטינית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

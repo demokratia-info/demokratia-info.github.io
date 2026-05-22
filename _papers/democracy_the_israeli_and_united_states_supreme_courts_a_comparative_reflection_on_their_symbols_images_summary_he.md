@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על דימויי בתי המשפט העליונים בישראל ובארצות הברית"
+    "altHe": "איור עריכתי על דימויי בתי המשפט העליונים בישראל ובארצות הברית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

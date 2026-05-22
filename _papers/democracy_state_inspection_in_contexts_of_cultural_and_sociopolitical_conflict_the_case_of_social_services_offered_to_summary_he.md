@@ -70,7 +70,8 @@
   "image": {
     "src": "html_qa/democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of_social_services_offered_to_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

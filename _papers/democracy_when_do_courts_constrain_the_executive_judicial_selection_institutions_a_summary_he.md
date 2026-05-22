@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_when_do_courts_constrain_the_executive_judicial_selection_institutions_a_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

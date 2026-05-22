@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית משפט, מינוי שופטים וניסיון לרכז כוח פוליטי"
+    "altHe": "איור על בית משפט, מינוי שופטים וניסיון לרכז כוח פוליטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-19",

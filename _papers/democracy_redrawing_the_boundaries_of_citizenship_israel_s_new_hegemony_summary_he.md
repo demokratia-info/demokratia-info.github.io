@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על שרטוט מחדש של גבולות האזרחות בישראל"
+    "altHe": "איור עריכתי על שרטוט מחדש של גבולות האזרחות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_educating_for_a_palestinian_israeli_identity_in_the_young_communist_league_of_israel_banki_tensions_and_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לזהות פלסטינית־ישראלית בבנק״י"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך לזהות פלסטינית־ישראלית בבנק״י",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

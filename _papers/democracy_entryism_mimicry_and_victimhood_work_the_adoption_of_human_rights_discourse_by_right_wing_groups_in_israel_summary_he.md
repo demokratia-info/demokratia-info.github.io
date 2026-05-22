@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_entryism_mimicry_and_victimhood_work_the_adoption_of_human_rights_discourse_by_right_wing_groups_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

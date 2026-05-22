@@ -60,7 +60,8 @@
   "image": {
     "src": "html_qa/democracy_whose_critique_matters_the_effects_of_critic_identity_and_audience_on_public_opinion_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על זהות המבקר, קהל היעד ודעת קהל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על זהות המבקר, קהל היעד ודעת קהל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

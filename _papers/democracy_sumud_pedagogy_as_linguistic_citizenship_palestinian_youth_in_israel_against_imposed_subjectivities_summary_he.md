@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_sumud_pedagogy_as_linguistic_citizenship_palestinian_youth_in_israel_against_imposed_subjectivities_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

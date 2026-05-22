@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: ישראל נגד הדמוקרטיה: ניתוח שלאחר הבחירות"
+    "altHe": "איור עריכתי: ישראל נגד הדמוקרטיה: ניתוח שלאחר הבחירות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

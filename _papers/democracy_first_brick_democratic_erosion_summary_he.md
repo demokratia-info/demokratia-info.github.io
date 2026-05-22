@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על לבנה ראשונה בשחיקה דמוקרטית ובית משפט"
+    "altHe": "איור על לבנה ראשונה בשחיקה דמוקרטית ובית משפט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

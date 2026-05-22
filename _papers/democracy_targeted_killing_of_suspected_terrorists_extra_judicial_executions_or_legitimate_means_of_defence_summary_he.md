@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_targeted_killing_of_suspected_terrorists_extra_judicial_executions_or_legitimate_means_of_defence_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על סיכולים ממוקדים ומשפט זכויות האדם"
+    "altHe": "איור או צילום עריכתי חם ומפורט על סיכולים ממוקדים ומשפט זכויות האדם",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

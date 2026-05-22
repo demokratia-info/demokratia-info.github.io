@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_a_strategic_court_and_national_security_comparative_lessons_from_the_israeli_case_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: בית משפט אסטרטגי וביטחון לאומי: לקחים מן המקרה הישראלי"
+    "altHe": "איור עריכתי: בית משפט אסטרטגי וביטחון לאומי: לקחים מן המקרה הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

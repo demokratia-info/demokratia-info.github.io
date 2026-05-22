@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל"
+    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

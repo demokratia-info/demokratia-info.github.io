@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_generals_in_the_classroom_joint_professional_national_security_education_in_israel_and_the_united_states_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי"
+    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

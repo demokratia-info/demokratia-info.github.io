@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

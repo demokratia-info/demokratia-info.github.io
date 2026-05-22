@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_principle_of_equality_in_the_eyes_of_the_israeli_citizens_a_comparative_study_betw_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: עקרון השוויון בעיני אזרחים יהודים וערבים בישראל"
+    "altHe": "איור עריכתי: עקרון השוויון בעיני אזרחים יהודים וערבים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

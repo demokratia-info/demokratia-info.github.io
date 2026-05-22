@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על שוויון קולקטיבי, קבוצות לאומיות והסדר חוקתי של שלום"
+    "altHe": "איור על שוויון קולקטיבי, קבוצות לאומיות והסדר חוקתי של שלום",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

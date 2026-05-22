@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על מאבק בשחיתות, בתי משפט ורפורמה משפטית"
+    "altHe": "איור על מאבק בשחיתות, בתי משפט ורפורמה משפטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

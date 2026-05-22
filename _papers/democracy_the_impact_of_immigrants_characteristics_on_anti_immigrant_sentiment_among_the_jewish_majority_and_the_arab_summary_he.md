@@ -67,7 +67,8 @@
   "image": {
     "src": "html_qa/democracy_the_impact_of_immigrants_characteristics_on_anti_immigrant_sentiment_among_the_jewish_majority_and_the_arab_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

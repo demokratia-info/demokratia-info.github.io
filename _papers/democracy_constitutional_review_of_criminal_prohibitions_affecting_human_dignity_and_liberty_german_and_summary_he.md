@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_review_of_criminal_prohibitions_affecting_human_dignity_and_liberty_german_and_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה"
+    "altHe": "איור עריכתי על מעמדו החוקתי של כבוד האדם בישראל ובהשוואה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

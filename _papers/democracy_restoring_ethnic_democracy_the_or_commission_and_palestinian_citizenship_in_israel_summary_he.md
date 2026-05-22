@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_restoring_ethnic_democracy_the_or_commission_and_palestinian_citizenship_in_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: ועדת אור ואזרחות פלסטינית בישראל"
+    "altHe": "איור עריכתי: ועדת אור ואזרחות פלסטינית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

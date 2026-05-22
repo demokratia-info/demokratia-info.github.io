@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_illiberal_measures_in_backsliding_democracies_differences_and_similarities_between_rec_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: צעדים אי־ליברליים בדמוקרטיות נסוגות: ישראל, הונגריה ופולין"
+    "altHe": "איור עריכתי: צעדים אי־ליברליים בדמוקרטיות נסוגות: ישראל, הונגריה ופולין",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

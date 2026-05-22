@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_rights_in_a_jewish_and_democratic_state_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על זכויות חוקתיות במדינה יהודית ודמוקרטית"
+    "altHe": "איור עריכתי על זכויות חוקתיות במדינה יהודית ודמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_nation_state_law_and_the_arabic_language_in_israel_downgrading_repli_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

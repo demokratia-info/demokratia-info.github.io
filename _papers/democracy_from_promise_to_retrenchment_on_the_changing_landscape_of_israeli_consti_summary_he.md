@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_from_promise_to_retrenchment_on_the_changing_landscape_of_israeli_consti_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

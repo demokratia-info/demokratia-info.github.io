@@ -8,6 +8,7 @@
   },
   "purpose": "Internal catalog for auditing paper graphics, source metadata, visual diversity, and image reuse history.",
   "reusePolicy": "For future nightly batches, never recycle, copy, or reassign an existing site picture/photo for a new paper. Every new paper must receive a newly added 800x600 JPEG under html_qa, using a deliberate mixture of newly generated paper-specific editorial images and newly obtained Wikimedia/Commons photographs with source/license metadata.",
+  "paperImageFitnessPolicy": "The image-paper tuple fitness is stored in each paper source under image.fitness. Values are high, standard, or low. Only high renders the image near the top of the paper summary page. Existing images are conservatively standard unless specifically reviewed; approved user-uploaded replacements are high.",
   "homepagePriorityPolicy": "On index.html, keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
     {

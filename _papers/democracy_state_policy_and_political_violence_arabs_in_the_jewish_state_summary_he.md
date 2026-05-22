@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_state_policy_and_political_violence_arabs_in_the_jewish_state_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

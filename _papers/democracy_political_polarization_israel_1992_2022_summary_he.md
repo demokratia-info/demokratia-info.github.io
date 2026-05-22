@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על ציר זמן פוליטי וקיטוב בישראל לאורך שלושה עשורים"
+    "altHe": "איור על ציר זמן פוליטי וקיטוב בישראל לאורך שלושה עשורים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

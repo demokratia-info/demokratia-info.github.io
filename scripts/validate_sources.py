@@ -22,6 +22,7 @@ SUGGEST_QUEUE_PATH = ROOT / "suggest_queue.csv"
 ARTICLE_IMAGE_SIZE = (800, 600)
 MAX_TOPIC_IMAGE_RUN = 2
 MIN_SECTION_SENTENCES = 2
+IMAGE_FITNESS_VALUES = {"high", "standard", "low"}
 QUEUE_REQUIRED_COLUMNS = ("paper_name", "authors", "doi", "topic")
 SUGGEST_QUEUE_REQUIRED_COLUMNS = (
     "submitted_date",
@@ -183,6 +184,7 @@ def build_paper_index(papers: list[dict[str, Any]]) -> dict[str, Any]:
                 "image": {
                     "src": image.get("src", ""),
                     "altHe": image.get("altHe", ""),
+                    "fitness": image.get("fitness", ""),
                 },
                 "datePublished": paper["datePublished"],
                 "dateModified": paper["dateModified"],
@@ -280,6 +282,8 @@ def validate_paper(paper: dict[str, Any], topic_ids: set[str], errors: list[str]
     if not isinstance(image, dict) or not image.get("src") or not image.get("altHe"):
         errors.append(f"{label}: image must include src and altHe")
     else:
+        if image.get("fitness") not in IMAGE_FITNESS_VALUES:
+            errors.append(f"{label}: image.fitness must be one of {', '.join(sorted(IMAGE_FITNESS_VALUES))}")
         image_path = clean_local_ref(image["src"])
         if image_path is None or not image_path.exists():
             errors.append(f"{label}: missing image {image.get('src')}")

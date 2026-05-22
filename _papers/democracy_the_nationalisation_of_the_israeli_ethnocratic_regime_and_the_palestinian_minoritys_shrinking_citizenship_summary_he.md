@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_the_nationalisation_of_the_israeli_ethnocratic_regime_and_the_palestinian_minoritys_shrinking_citizenship_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

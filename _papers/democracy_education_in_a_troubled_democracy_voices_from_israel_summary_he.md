@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_education_in_a_troubled_democracy_voices_from_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: חינוך בדמוקרטיה במשבר: קולות מישראל"
+    "altHe": "איור עריכתי: חינוך בדמוקרטיה במשבר: קולות מישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

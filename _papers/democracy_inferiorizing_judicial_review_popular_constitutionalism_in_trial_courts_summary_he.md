@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_inferiorizing_judicial_review_popular_constitutionalism_in_trial_courts_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

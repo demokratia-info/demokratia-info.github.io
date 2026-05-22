@@ -118,6 +118,8 @@ li { margin: 0 0 6px; }
 .topic-links { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; margin: -8px 0 28px; color: var(--muted); font-size: 16px; }
 .topic-label { font-weight: 700; color: var(--accent-dark); }
 .latin { direction: ltr; unicode-bidi: embed; display: inline-block; max-width: 100%; text-align: left; vertical-align: top; }
+.paper-hero-image { margin: 0 0 26px; }
+.paper-hero-image img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border: 1px solid var(--line); border-radius: 8px; background: #eef3f4; }
 .one-liner { margin: 28px 0; color: var(--accent); font-size: 20px; line-height: 1.5; font-weight: 700; }
 .paper-main section, .simple-main section { margin: 22px 0 0; }
 .paper-main section h2, .simple-main section h2 { margin: 0 0 8px; font-size: 25px; }

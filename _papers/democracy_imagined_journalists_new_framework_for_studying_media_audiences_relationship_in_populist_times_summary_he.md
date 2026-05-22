@@ -76,7 +76,8 @@
   "image": {
     "src": "html_qa/democracy_imagined_journalists_new_framework_for_studying_media_audiences_relationship_in_populist_times_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

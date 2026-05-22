@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_court_led_educational_reforms_in_political_third_rails_lessons_from_the_litigation_over_ultra_religious_jewi_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל"
+    "altHe": "איור עריכתי על בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

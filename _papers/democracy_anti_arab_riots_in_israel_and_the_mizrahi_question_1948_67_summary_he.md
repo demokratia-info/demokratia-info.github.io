@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_anti_arab_riots_in_israel_and_the_mizrahi_question_1948_67_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מהומות אנטי־ערביות והשאלה המזרחית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מהומות אנטי־ערביות והשאלה המזרחית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

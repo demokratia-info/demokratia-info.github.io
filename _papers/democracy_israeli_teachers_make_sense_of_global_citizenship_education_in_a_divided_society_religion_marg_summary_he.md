@@ -66,7 +66,8 @@
   "image": {
     "src": "html_qa/democracy_israeli_teachers_make_sense_of_global_citizenship_education_in_a_divided_society_religion_marg_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חינוך לאזרחות גלובלית בחברה מפוצלת"
+    "altHe": "איור עריכתי על חינוך לאזרחות גלובלית בחברה מפוצלת",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

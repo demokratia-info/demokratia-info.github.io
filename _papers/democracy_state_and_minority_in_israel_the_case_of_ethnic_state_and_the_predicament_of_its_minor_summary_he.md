@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_state_and_minority_in_israel_the_case_of_ethnic_state_and_the_predicament_of_its_minor_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: מדינה אתנית ומיעוט בישראל"
+    "altHe": "איור עריכתי: מדינה אתנית ומיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

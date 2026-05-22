@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_peace_and_security_in_the_2009_election_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שלום וביטחון בבחירות 2009 בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שלום וביטחון בבחירות 2009 בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

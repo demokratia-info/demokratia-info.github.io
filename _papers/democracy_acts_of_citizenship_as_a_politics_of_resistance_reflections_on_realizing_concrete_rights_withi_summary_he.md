@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_acts_of_citizenship_as_a_politics_of_resistance_reflections_on_realizing_concrete_rights_withi_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מימוש זכויות בתוך משטר המקלט הישראלי"
+    "altHe": "איור עריכתי על מימוש זכויות בתוך משטר המקלט הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_obstacles_and_opportunities_for_global_citizenship_education_under_intractable_conflict_the_case_of_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

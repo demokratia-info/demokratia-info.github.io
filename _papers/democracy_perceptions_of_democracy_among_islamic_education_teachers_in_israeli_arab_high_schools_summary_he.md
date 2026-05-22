@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_perceptions_of_democracy_among_islamic_education_teachers_in_israeli_arab_high_schools_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: תפיסות דמוקרטיה של מורי חינוך אסלאמי בבתי ספר ערביים"
+    "altHe": "איור עריכתי: תפיסות דמוקרטיה של מורי חינוך אסלאמי בבתי ספר ערביים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

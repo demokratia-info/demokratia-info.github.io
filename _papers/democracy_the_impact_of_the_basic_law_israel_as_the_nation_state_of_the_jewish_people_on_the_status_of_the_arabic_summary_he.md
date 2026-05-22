@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_the_impact_of_the_basic_law_israel_as_the_nation_state_of_the_jewish_people_on_the_status_of_the_arabic_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חוק הלאום ומעמד השפה הערבית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חוק הלאום ומעמד השפה הערבית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "חדר דיון אזרחי על יחסי דת, מדינה ודמוקרטיה בישראל"
+    "altHe": "חדר דיון אזרחי על יחסי דת, מדינה ודמוקרטיה בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

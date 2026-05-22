@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_which_israel_before_all_from_the_palestinian_israeli_conflict_to_the_jewish_democratic_left_right_axis_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

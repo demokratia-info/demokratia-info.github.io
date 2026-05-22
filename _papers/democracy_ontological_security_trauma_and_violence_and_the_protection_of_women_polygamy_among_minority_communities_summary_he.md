@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

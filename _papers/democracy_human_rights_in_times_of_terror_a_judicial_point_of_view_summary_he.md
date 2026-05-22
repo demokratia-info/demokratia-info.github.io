@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_human_rights_in_times_of_terror_a_judicial_point_of_view_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על זכויות אדם בזמן טרור מנקודת מבט שיפוטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על זכויות אדם בזמן טרור מנקודת מבט שיפוטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

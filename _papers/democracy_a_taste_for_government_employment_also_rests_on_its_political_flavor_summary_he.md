@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_a_taste_for_government_employment_also_rests_on_its_political_flavor_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על טעם לתעסוקה ממשלתית והעדפות פוליטיות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על טעם לתעסוקה ממשלתית והעדפות פוליטיות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

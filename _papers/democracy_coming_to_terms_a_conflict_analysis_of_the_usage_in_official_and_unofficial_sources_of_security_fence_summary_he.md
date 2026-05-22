@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sources_of_security_fence_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שפת גדר ההפרדה והמאבק על מונחי הסכסוך"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שפת גדר ההפרדה והמאבק על מונחי הסכסוך",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

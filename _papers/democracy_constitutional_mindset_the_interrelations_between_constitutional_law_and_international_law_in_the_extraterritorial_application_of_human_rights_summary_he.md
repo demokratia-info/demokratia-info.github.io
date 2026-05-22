@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_mindset_the_interrelations_between_constitutional_law_and_international_law_in_the_extraterritorial_application_of_human_rights_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "מבואת בית המשפט העליון בירושלים כמרחב של משפט חוקתי ובין־לאומי"
+    "altHe": "מבואת בית המשפט העליון בירושלים כמרחב של משפט חוקתי ובין־לאומי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

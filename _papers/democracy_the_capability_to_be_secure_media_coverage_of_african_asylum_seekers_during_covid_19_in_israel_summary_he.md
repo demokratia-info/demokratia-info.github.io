@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_capability_to_be_secure_media_coverage_of_african_asylum_seekers_during_covid_19_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על תקשורת, דעת קהל ואחריות דמוקרטית בישראל"
+    "altHe": "איור עריכתי על תקשורת, דעת קהל ואחריות דמוקרטית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

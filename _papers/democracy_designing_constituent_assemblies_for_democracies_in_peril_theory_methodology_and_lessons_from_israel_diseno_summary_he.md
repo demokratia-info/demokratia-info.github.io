@@ -63,7 +63,8 @@
   "image": {
     "src": "html_qa/democracy_designing_constituent_assemblies_for_democracies_in_peril_theory_methodology_and_lessons_from_israel_diseno_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

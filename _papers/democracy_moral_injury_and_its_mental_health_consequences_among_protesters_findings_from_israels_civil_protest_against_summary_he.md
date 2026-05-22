@@ -59,7 +59,8 @@
   "image": {
     "src": "html_qa/democracy_moral_injury_and_its_mental_health_consequences_among_protesters_findings_from_israels_civil_protest_against_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים"
+    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

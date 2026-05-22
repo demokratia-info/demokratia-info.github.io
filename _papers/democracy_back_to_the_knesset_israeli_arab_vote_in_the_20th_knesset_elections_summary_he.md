@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_back_to_the_knesset_israeli_arab_vote_in_the_20th_knesset_elections_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: בחזרה לכנסת? ההצבעה הערבית בבחירות לכנסת ה־20"
+    "altHe": "איור עריכתי: בחזרה לכנסת? ההצבעה הערבית בבחירות לכנסת ה־20",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

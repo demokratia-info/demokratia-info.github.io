@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_on_legal_literacy_and_mobilization_of_students_rights_from_a_disempowered_professional_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: אוריינות משפטית ומימוש זכויות תלמידים בידי מורים בישראל"
+    "altHe": "איור עריכתי: אוריינות משפטית ומימוש זכויות תלמידים בידי מורים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

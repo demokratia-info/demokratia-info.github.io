@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_minority_status_in_an_ethnic_democracy_the_status_of_the_arab_minority_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

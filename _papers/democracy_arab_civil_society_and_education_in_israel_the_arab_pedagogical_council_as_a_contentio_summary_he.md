@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_arab_civil_society_and_education_in_israel_the_arab_pedagogical_council_as_a_contentio_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: חברה אזרחית ערבית וחינוך: המועצה הפדגוגית הערבית כמיזם להכרה לאומית"
+    "altHe": "איור עריכתי: חברה אזרחית ערבית וחינוך: המועצה הפדגוגית הערבית כמיזם להכרה לאומית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

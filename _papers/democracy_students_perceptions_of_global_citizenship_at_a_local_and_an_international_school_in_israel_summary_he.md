@@ -56,7 +56,8 @@
   "image": {
     "src": "html_qa/democracy_students_perceptions_of_global_citizenship_at_a_local_and_an_international_school_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על תפיסות של אזרחות גלובלית בבתי ספר בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על תפיסות של אזרחות גלובלית בבתי ספר בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

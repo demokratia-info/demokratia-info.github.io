@@ -59,7 +59,8 @@
   "image": {
     "src": "html_qa/democracy_religion_and_the_city_local_governments_as_the_flag_holders_of_freedom_from_religion_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל"
+    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

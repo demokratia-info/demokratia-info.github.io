@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_the_political_economy_of_populists_in_power_between_policy_and_polity_evidence_from_the_israeli_case_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני"
+    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

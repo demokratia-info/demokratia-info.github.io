@@ -47,7 +47,8 @@
   "image": {
     "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על רגע חוקתי, משפט מינהלי ומאבק על ביקורת שיפוטית בישראל"
+    "altHe": "איור על רגע חוקתי, משפט מינהלי ומאבק על ביקורת שיפוטית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-20",

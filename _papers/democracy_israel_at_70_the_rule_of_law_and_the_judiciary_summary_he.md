@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israel_at_70_the_rule_of_law_and_the_judiciary_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על שלטון החוק והרשות השופטת בישראל"
+    "altHe": "איור עריכתי על שלטון החוק והרשות השופטת בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

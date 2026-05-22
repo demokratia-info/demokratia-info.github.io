@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_the_activity_of_commercial_lobbies_in_the_israeli_knesset_during_20152018_undermining_or_realising_the_democ_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל"
+    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

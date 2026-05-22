@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_shake_the_tree_or_rock_the_boat_the_not_nice_protest_and_radical_democracy_in_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית"
+    "altHe": "איור עריכתי על מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על ביקורת שיפוטית בזמן חירום מתמשך וקורונה"
+    "altHe": "איור עריכתי על ביקורת שיפוטית בזמן חירום מתמשך וקורונה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

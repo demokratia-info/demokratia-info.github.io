@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_israel_citizenship_and_immigration_law_in_the_vise_of_security_nationality_and_human_rights_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

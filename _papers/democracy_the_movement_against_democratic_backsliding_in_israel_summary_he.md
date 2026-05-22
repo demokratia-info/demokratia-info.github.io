@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_the_movement_against_democratic_backsliding_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על נסיגה דמוקרטית והדרכים האזרחיות להתמודד איתה"
+    "altHe": "איור עריכתי על נסיגה דמוקרטית והדרכים האזרחיות להתמודד איתה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

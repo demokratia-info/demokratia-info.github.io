@@ -68,7 +68,8 @@
   "image": {
     "src": "html_qa/democracy_i_am_an_arab_palestinian_living_in_israel_with_a_disability_marginalisation_and_the_limits_of_human_rights_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מוגבלות, פלסטיניות וזכויות אדם בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מוגבלות, פלסטיניות וזכויות אדם בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_dynamic_dimension_of_identity_in_palestinian_citizens_of_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על זהות דינמית בקרב אזרחים פלסטינים בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על זהות דינמית בקרב אזרחים פלסטינים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

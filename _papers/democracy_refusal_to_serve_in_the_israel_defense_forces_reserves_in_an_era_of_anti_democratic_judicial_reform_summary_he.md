@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_refusal_to_serve_in_the_israel_defense_forces_reserves_in_an_era_of_anti_democratic_judicial_reform_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים"
+    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_palestinian_education_in_israel_the_legacy_of_the_military_government_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך פלסטיני בישראל ומורשת הממשל הצבאי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך פלסטיני בישראל ומורשת הממשל הצבאי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

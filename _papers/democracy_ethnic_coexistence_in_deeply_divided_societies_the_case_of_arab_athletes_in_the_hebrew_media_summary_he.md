@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_ethnic_coexistence_in_deeply_divided_societies_the_case_of_arab_athletes_in_the_hebrew_media_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על קיום אתני משותף וספורטאים ערבים בתקשורת העברית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על קיום אתני משותף וספורטאים ערבים בתקשורת העברית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_nation_state_of_the_jewish_people_s_basic_law_a_threshhold_of_elimination_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל"
+    "altHe": "איור עריכתי על חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

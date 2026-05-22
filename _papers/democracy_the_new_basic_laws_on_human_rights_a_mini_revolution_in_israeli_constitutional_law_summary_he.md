@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+    "altHe": "איור עריכתי על המשפט החוקתי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

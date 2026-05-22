@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_rights_constitutionalism_and_the_challenge_of_belonging_an_empirical_inq_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור על בית משפט, חוקה ושלטון החוק"
+    "altHe": "איור על בית משפט, חוקה ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

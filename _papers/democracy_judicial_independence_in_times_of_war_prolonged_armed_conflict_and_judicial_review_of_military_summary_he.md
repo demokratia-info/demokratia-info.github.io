@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_independence_in_times_of_war_prolonged_armed_conflict_and_judicial_review_of_military_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל"
+    "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

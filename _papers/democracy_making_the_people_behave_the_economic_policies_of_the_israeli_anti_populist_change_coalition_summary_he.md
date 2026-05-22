@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_making_the_people_behave_the_economic_policies_of_the_israeli_anti_populist_change_coalition_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני"
+    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: אזרחות נבגדת: משטר ההגירה והאזרחות המתהווה בישראל"
+    "altHe": "איור עריכתי: אזרחות נבגדת: משטר ההגירה והאזרחות המתהווה בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

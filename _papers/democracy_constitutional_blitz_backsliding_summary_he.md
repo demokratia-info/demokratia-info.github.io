@@ -47,7 +47,8 @@
   "image": {
     "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בליץ חקיקתי בכנסת, פופוליזם ונסיגה דמוקרטית"
+    "altHe": "איור על בליץ חקיקתי בכנסת, פופוליזם ונסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

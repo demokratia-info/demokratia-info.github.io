@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_political_violence_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי: דת, פוסט־מודרניזציה וגישות ישראליות לסכסוך הפלסטיני"
+    "altHe": "איור עריכתי: דת, פוסט־מודרניזציה וגישות ישראליות לסכסוך הפלסטיני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

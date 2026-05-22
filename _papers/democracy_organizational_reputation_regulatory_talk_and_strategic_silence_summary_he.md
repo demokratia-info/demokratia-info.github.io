@@ -62,7 +62,8 @@
   "image": {
     "src": "html_qa/democracy_organizational_reputation_regulatory_talk_and_strategic_silence_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

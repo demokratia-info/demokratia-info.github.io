@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_constitutions_and_political_reconstruction_israel_s_quest_for_a_constitution_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: החיפוש הישראלי אחר חוקה ושיקום פוליטי"
+    "altHe": "איור עריכתי: החיפוש הישראלי אחר חוקה ושיקום פוליטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

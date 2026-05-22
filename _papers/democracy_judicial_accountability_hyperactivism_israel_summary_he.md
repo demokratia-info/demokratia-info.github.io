@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על אחריות שיפוטית ובית המשפט הגבוה לצדק"
+    "altHe": "איור על אחריות שיפוטית ובית המשפט הגבוה לצדק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

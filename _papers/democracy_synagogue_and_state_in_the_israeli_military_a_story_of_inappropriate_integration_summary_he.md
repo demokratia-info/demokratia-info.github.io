@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_synagogue_and_state_in_the_israeli_military_a_story_of_inappropriate_integration_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על בית כנסת ומדינה בצה״ל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על בית כנסת ומדינה בצה״ל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

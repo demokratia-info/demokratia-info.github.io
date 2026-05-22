@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על פופוליזם כמושג פוליטי בהקשר הישראלי"
+    "altHe": "איור עריכתי על פופוליזם כמושג פוליטי בהקשר הישראלי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

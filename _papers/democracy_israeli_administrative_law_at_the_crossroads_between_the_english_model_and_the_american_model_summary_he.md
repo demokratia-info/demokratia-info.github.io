@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israeli_administrative_law_at_the_crossroads_between_the_english_model_and_the_american_model_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על נקודת המפנה של הדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על נקודת המפנה של הדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

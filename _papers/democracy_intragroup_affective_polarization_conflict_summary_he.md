@@ -85,7 +85,8 @@
   "image": {
     "src": "html_qa/democracy_political_violence_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על קיטוב רגשי ולכידות חברתית בזמן סכסוך"
+    "altHe": "איור על קיטוב רגשי ולכידות חברתית בזמן סכסוך",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

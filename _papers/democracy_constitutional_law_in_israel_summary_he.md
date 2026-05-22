@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_law_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על המשפט החוקתי בישראל"
+    "altHe": "איור עריכתי על המשפט החוקתי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

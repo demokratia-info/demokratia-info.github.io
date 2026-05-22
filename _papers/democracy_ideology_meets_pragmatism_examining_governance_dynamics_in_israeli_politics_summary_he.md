@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_ideology_meets_pragmatism_examining_governance_dynamics_in_israeli_politics_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל"
+    "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

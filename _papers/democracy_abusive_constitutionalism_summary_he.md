@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על חוקתיות מנוצלת לרעה, בית משפט ואיזונים ובלמים"
+    "altHe": "איור על חוקתיות מנוצלת לרעה, בית משפט ואיזונים ובלמים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

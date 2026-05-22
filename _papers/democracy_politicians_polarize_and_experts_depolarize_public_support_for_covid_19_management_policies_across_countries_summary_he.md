@@ -156,7 +156,8 @@
   "image": {
     "src": "html_qa/democracy_politicians_polarize_and_experts_depolarize_public_support_for_covid_19_management_policies_across_countries_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

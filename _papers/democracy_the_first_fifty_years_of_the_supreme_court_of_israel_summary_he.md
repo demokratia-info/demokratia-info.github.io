@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_first_fifty_years_of_the_supreme_court_of_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: חמישים השנים הראשונות של בית המשפט העליון בישראל"
+    "altHe": "איור עריכתי: חמישים השנים הראשונות של בית המשפט העליון בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

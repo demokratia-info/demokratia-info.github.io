@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_defendants_in_the_israeli_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית המשפט העליון, איזונים ובלמים ואקטיביזם שיפוטי בישראל"
+    "altHe": "איור על בית המשפט העליון, איזונים ובלמים ואקטיביזם שיפוטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-17",
   "dateModified": "2026-05-17",

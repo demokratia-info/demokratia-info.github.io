@@ -84,7 +84,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על חברה מקוטבת בזמן איום ביטחוני ומשבר דמוקרטי"
+    "altHe": "איור על חברה מקוטבת בזמן איום ביטחוני ומשבר דמוקרטי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

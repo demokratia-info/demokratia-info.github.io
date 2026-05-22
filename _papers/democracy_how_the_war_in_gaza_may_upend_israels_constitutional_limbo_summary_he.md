@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_how_the_war_in_gaza_may_upend_israels_constitutional_limbo_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מלחמת עזה והמבוי הסתום החוקתי בישראל"
+    "altHe": "איור עריכתי על מלחמת עזה והמבוי הסתום החוקתי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

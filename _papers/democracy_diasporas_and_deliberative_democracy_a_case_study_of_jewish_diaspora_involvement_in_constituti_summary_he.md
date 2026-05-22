@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מעורבות התפוצה היהודית בדיונים חוקתיים בישראל"
+    "altHe": "איור עריכתי על מעורבות התפוצה היהודית בדיונים חוקתיים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

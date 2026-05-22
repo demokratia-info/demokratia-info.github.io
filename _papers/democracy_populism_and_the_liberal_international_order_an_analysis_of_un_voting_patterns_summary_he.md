@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_populism_and_the_liberal_international_order_an_analysis_of_un_voting_patterns_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_between_ethnic_and_civic_the_realistic_utopia_of_zionism_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

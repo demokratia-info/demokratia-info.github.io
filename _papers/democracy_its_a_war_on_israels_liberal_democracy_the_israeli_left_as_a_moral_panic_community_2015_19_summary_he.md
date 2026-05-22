@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_its_a_war_on_israels_liberal_democracy_the_israeli_left_as_a_moral_panic_community_2015_19_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

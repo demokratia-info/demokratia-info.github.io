@@ -190,7 +190,8 @@
   "image": {
     "src": "html_qa/democracy_politicians_theories_of_voting_behavior_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על תאוריות של פוליטיקאים על התנהגות בוחרים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על תאוריות של פוליטיקאים על התנהגות בוחרים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

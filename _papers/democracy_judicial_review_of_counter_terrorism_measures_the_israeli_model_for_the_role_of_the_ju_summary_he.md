@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_review_of_counter_terrorism_measures_the_israeli_model_for_the_role_of_the_ju_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: ביקורת שיפוטית על צעדי לוחמה בטרור בישראל"
+    "altHe": "איור עריכתי: ביקורת שיפוטית על צעדי לוחמה בטרור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

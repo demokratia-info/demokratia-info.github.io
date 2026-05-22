@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_semi_liberal_constitutionalism_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "מסדרון בית משפט וקבוצות אזרחים הממחישים מתח בין זכויות, דת ומעמד אישי"
+    "altHe": "מסדרון בית משפט וקבוצות אזרחים הממחישים מתח בין זכויות, דת ומעמד אישי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

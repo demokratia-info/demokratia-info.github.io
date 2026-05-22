@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_surprising_alliances_for_dwelling_and_citizenship_palestinian_israeli_participation_in_the_mass_housing_prot_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

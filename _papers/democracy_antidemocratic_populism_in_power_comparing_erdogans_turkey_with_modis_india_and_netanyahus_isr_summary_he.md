@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_antidemocratic_populism_in_power_comparing_erdogans_turkey_with_modis_india_and_netanyahus_isr_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו"
+    "altHe": "איור עריכתי על פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

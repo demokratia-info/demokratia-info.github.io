@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על הרפורמה המשפטית ודפוס פופוליסטי רחב"
+    "altHe": "איור על הרפורמה המשפטית ודפוס פופוליסטי רחב",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

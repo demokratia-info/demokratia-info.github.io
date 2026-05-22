@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_israel_s_arab_citizens_the_continuing_struggle_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: אזרחי ישראל הערבים והמאבק המתמשך"
+    "altHe": "איור עריכתי: אזרחי ישראל הערבים והמאבק המתמשך",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

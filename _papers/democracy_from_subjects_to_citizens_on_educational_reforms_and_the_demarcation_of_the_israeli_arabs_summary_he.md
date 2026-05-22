@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_from_subjects_to_citizens_on_educational_reforms_and_the_demarcation_of_the_israeli_arabs_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מרפורמות חינוך לאזרחותם של ערבים בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מרפורמות חינוך לאזרחותם של ערבים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_israel_in_search_of_constitutional_common_sense_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חיפוש אחר שכל ישר חוקתי בישראל"
+    "altHe": "איור עריכתי על חיפוש אחר שכל ישר חוקתי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

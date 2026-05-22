@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על שלטון החוק, בית משפט ואיזונים מוסדיים"
+    "altHe": "איור על שלטון החוק, בית משפט ואיזונים מוסדיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

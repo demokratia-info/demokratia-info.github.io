@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_law_religion_and_the_rule_of_law_from_a_normative_positivistic_perspective_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

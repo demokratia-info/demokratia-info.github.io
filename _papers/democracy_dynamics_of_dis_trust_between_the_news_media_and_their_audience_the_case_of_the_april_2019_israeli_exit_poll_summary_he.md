@@ -67,7 +67,8 @@
   "image": {
     "src": "html_qa/democracy_dynamics_of_dis_trust_between_the_news_media_and_their_audience_the_case_of_the_april_2019_israeli_exit_poll_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על תקשורת, דעת קהל ואחריות דמוקרטית בישראל"
+    "altHe": "איור עריכתי על תקשורת, דעת קהל ואחריות דמוקרטית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

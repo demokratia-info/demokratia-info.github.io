@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_israels_nationality_law_reconsidering_settlement_citizenship_and_ethics_in_the_context_of_occupation_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_civic_and_citizenship_education_in_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: חינוך אזרחי ואזרחות בישראל"
+    "altHe": "איור עריכתי: חינוך אזרחי ואזרחות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

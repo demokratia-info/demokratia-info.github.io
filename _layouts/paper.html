@@ -83,6 +83,16 @@
       {% endfor %}
     </nav>
 
+    {% if page.image.fitness == "high" %}
+      {% assign paper_image_src = page.image.src %}
+      {% if page.image.version %}
+        {% assign paper_image_src = paper_image_src | append: '?v=' | append: page.image.version %}
+      {% endif %}
+      <figure class="paper-hero-image" data-image-fitness="high">
+        <img src="{{ paper_image_src | relative_url }}" alt="{{ page.image.altHe | escape }}" width="800" height="600" decoding="async" fetchpriority="high">
+      </figure>
+    {% endif %}
+
     <p class="one-liner">{{ page.oneLinerHtml }}</p>
 
     {% for section in page.sections %}

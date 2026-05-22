@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_is_the_israeli_democracy_a_hindrance_to_peace_between_israel_and_the_palestinian_authority_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

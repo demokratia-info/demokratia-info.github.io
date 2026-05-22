@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_the_switch_the_israel_high_court_of_justices_transition_from_occupation_law_to_human_rights_la_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם"
+    "altHe": "איור עריכתי על המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

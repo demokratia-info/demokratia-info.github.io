@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_jews_and_arabs_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת"
+    "altHe": "איור עריכתי על יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

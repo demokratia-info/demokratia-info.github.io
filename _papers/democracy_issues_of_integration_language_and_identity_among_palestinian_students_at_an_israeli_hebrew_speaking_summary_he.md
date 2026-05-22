@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_issues_of_integration_language_and_identity_among_palestinian_students_at_an_israeli_hebrew_speaking_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

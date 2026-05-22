@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_the_politics_of_allyship_multiethnic_coalitions_and_mass_attitudes_toward_protest_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקת בריתות ומחאה בקואליציות רב־אתניות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקת בריתות ומחאה בקואליציות רב־אתניות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_crisis_of_israel_s_democracy_1948_2025_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על משבר הדמוקרטיה בישראל לאורך זמן"
+    "altHe": "איור עריכתי על משבר הדמוקרטיה בישראל לאורך זמן",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_triangle_of_betrayal_collaborators_and_transitional_justice_in_the_israeli_palestinian_conflict_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני"
+    "altHe": "איור או צילום עריכתי חם ומפורט על משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

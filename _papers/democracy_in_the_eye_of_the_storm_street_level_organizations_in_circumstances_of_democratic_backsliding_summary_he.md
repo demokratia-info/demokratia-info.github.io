@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_in_the_eye_of_the_storm_street_level_organizations_in_circumstances_of_democratic_backsliding_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ארגוני שטח בעין הסערה של נסיגה דמוקרטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ארגוני שטח בעין הסערה של נסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

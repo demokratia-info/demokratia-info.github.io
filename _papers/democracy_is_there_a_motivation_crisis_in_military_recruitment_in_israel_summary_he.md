@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_is_there_a_motivation_crisis_in_military_recruitment_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על משבר המוטיבציה בגיוס לצבא בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על משבר המוטיבציה בגיוס לצבא בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

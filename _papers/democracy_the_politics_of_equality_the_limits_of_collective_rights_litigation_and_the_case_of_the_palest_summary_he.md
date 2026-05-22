@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_politics_of_equality_the_limits_of_collective_rights_litigation_and_the_case_of_the_palest_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מעמד המיעוט הערבי בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -63,7 +63,8 @@
   "image": {
     "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על יחסים בין מפלגות וקיטוב רגשי בדמוקרטיה רב-מפלגתית"
+    "altHe": "איור על יחסים בין מפלגות וקיטוב רגשי בדמוקרטיה רב-מפלגתית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

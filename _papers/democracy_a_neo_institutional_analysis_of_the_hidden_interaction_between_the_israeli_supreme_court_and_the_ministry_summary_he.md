@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supreme_court_and_the_ministry_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

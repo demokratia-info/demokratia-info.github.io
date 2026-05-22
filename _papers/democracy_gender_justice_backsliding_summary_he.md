@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על צדק מגדרי ונסיגה דמוקרטית"
+    "altHe": "איור על צדק מגדרי ונסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-07",

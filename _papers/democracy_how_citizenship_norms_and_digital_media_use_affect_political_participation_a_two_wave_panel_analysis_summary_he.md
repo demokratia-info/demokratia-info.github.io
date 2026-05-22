@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_how_citizenship_norms_and_digital_media_use_affect_political_participation_a_two_wave_panel_analysis_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על נורמות אזרחות, מדיה דיגיטלית והשתתפות פוליטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על נורמות אזרחות, מדיה דיגיטלית והשתתפות פוליטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על דמוקרטיה אתנית, רוב לאומי וזכויות מיעוטים"
+    "altHe": "איור על דמוקרטיה אתנית, רוב לאומי וזכויות מיעוטים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

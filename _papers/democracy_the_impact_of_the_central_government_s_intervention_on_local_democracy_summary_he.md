@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_impact_of_the_central_government_s_intervention_on_local_democracy_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על התערבות השלטון המרכזי ודמוקרטיה מקומית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על התערבות השלטון המרכזי ודמוקרטיה מקומית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

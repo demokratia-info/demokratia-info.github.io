@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_children_human_rights_organisations_and_the_law_under_occupation_the_case_of_palestinian_children_in_east_je_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל"
+    "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

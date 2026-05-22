@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_state_identity_territorial_integrity_and_party_banning_the_case_of_a_pan_arab_political_party_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על זהות המדינה ופסילת מפלגה פאן־ערבית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על זהות המדינה ופסילת מפלגה פאן־ערבית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

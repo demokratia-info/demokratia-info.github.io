@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על שינוי יחסי כוח בין מוסדות שלטון, כנסת, ממשלה ובית משפט"
+    "altHe": "איור על שינוי יחסי כוח בין מוסדות שלטון, כנסת, ממשלה ובית משפט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

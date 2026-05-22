@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_the_druze_minority_in_the_israeli_military_traditionalizing_an_ethnic_policing_role_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על המיעוט הדרוזי בצה״ל ותפקיד השיטור האתני"
+    "altHe": "איור או צילום עריכתי חם ומפורט על המיעוט הדרוזי בצה״ל ותפקיד השיטור האתני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

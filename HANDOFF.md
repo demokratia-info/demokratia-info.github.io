@@ -112,6 +112,8 @@ The first three homepage cards get high-priority image loading in the shared lay
 Paper images should be:
 
 - 800x600 landscape JPEG.
+- Classified in each paper's `image.fitness` as `high`, `standard`, or `low` for that image-paper tuple.
+- Shown near the top of the paper summary page only when `image.fitness` is `high`; be conservative, except approved user-uploaded replacements are always `high`.
 - Similar in style to the current better images.
 - Polished editorial illustration, not crude cartoon or flat clip art.
 - Warm cream and ochre tones, muted teal/deep-blue accents, Mediterranean civic architecture, dignified human figures when useful, natural light, symbolic but concrete composition.

@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_international_law_in_israeli_courts_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על מקומו של המשפט הבין־לאומי בבתי המשפט בישראל"
+    "altHe": "איור עריכתי על מקומו של המשפט הבין־לאומי בבתי המשפט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

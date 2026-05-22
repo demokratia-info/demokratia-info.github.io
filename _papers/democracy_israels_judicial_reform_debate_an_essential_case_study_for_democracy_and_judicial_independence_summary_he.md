@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים"
+    "altHe": "איור עריכתי על הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_between_socio_spatial_and_urban_justice_rawls_principles_of_justice_in_the_2011_israeli_protest_movement_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית"
+    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

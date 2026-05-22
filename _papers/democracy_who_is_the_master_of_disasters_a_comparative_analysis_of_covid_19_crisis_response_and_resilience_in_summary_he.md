@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_who_is_the_master_of_disasters_a_comparative_analysis_of_covid_19_crisis_response_and_resilience_in_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

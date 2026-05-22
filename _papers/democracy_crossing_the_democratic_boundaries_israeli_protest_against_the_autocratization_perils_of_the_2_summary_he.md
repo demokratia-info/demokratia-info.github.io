@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית"
+    "altHe": "איור עריכתי על מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

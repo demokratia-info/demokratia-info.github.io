@@ -56,7 +56,8 @@
   "image": {
     "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על סיווג משטר, דמוקרטיית הסכמה ומשבר רובני בישראל"
+    "altHe": "איור על סיווג משטר, דמוקרטיית הסכמה ומשבר רובני בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-20",

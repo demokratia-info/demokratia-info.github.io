@@ -41,7 +41,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_reform_economy_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על משפט חוקתי, כלכלה ובית משפט"
+    "altHe": "איור על משפט חוקתי, כלכלה ובית משפט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

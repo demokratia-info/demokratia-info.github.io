@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_reflections_on_october_2000_a_landmark_in_jewish_arab_relations_in_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: אוקטובר 2000 כנקודת מפנה ביחסי יהודים וערבים"
+    "altHe": "איור עריכתי: אוקטובר 2000 כנקודת מפנה ביחסי יהודים וערבים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -94,7 +94,8 @@
   "image": {
     "src": "html_qa/democracy_the_dynamics_of_proportionality_constitutional_courts_and_the_review_of_covid_19_regulations_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מידתיות וביקורת חוקתית על תקנות הקורונה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מידתיות וביקורת חוקתית על תקנות הקורונה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

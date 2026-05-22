@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_muslim_headscarves_in_france_and_army_uniforms_in_israel_a_comparative_study_of_citizenship_as_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על אזרחות כמסכה בהשוואה בין צרפת לישראל"
+    "altHe": "איור עריכתי על אזרחות כמסכה בהשוואה בין צרפת לישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

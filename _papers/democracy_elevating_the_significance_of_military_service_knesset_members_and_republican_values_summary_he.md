@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שירות צבאי, חברי כנסת וערכים רפובליקניים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שירות צבאי, חברי כנסת וערכים רפובליקניים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

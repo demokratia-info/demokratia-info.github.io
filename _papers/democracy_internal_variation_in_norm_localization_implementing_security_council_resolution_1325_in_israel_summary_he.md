@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_internal_variation_in_norm_localization_implementing_security_council_resolution_1325_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי"
+    "altHe": "איור עריכתי על ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_the_status_of_arabic_in_israel_reflections_on_the_power_of_law_to_produce_social_chang_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: מעמד הערבית בישראל וכוחו של המשפט לחולל שינוי"
+    "altHe": "איור עריכתי: מעמד הערבית בישראל וכוחו של המשפט לחולל שינוי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

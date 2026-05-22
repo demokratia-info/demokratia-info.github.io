@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית"
+    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

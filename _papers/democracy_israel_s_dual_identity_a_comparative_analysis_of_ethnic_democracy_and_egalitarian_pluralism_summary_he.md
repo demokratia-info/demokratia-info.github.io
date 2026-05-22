@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

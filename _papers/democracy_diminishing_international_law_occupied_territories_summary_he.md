@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית משפט, משפט בינלאומי והשטחים"
+    "altHe": "איור על בית משפט, משפט בינלאומי והשטחים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_i_didnt_know_how_to_be_with_my_husband_statereligion_struggles_over_sex_education_in_israel_and_england_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל"
+    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

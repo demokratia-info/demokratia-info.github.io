@@ -50,7 +50,8 @@
   "image": {
     "src": "html_qa/democracy_citizenship_and_the_parliamentary_politics_of_minorities_in_ethnic_states_the_palestinian_citizens_of_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

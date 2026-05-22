@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_citizens_perceptions_of_politics_and_ethics_in_public_administration_a_five_year_national_study_of_their_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -68,7 +68,8 @@
   "image": {
     "src": "html_qa/democracy_affective_forecasting_in_elections_a_socio_communicative_perspective_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

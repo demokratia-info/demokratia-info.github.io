@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_evolution_of_israeli_citizenship_an_overview_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על התפתחות האזרחות הישראלית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על התפתחות האזרחות הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

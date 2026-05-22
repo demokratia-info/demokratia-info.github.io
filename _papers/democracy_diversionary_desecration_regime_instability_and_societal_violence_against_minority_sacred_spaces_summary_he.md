@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

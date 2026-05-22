@@ -49,7 +49,8 @@
   "image": {
     "src": "html_qa/democracy_the_strategic_common_law_court_of_aharon_barak_and_its_aftermath_on_judicially_led_constitutional_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

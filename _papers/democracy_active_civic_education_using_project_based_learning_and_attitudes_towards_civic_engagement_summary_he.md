@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_engagement_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך אזרחי פעיל ולמידה מבוססת פרויקטים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חינוך אזרחי פעיל ולמידה מבוססת פרויקטים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

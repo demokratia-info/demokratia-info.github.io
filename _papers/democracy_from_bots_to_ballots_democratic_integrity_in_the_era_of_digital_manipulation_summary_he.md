@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_from_bots_to_ballots_democratic_integrity_in_the_era_of_digital_manipulation_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שלמות דמוקרטית בעידן מניפולציה דיגיטלית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שלמות דמוקרטית בעידן מניפולציה דיגיטלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

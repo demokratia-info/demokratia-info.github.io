@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_orthodox_the_ultra_orthodox_and_the_elections_for_the_twelfth_knesset_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: החרדים, הדתיים והבחירות לכנסת ה־12"
+    "altHe": "איור עריכתי: החרדים, הדתיים והבחירות לכנסת ה־12",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

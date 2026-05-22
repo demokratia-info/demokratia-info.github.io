@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על נסיגה חקיקתית, דיון בכנסת ופופוליזם סמכותני"
+    "altHe": "איור על נסיגה חקיקתית, דיון בכנסת ופופוליזם סמכותני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

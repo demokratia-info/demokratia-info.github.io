@@ -55,7 +55,8 @@
   "image": {
     "src": "html_qa/democracy_why_are_older_israeli_arabs_not_part_of_the_protests_against_the_judicial_reform_a_qualitative_study_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מבוגרים ערבים והמחאה נגד הרפורמה המשפטית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מבוגרים ערבים והמחאה נגד הרפורמה המשפטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

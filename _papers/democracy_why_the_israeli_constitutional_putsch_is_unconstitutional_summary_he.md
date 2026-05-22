@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על הטענה כי הפוטש החוקתי בישראל אינו חוקתי"
+    "altHe": "איור עריכתי על הטענה כי הפוטש החוקתי בישראל אינו חוקתי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

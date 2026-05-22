@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_hybrid_constitutionalism_the_israeli_case_for_judicial_review_and_why_we_should_care_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: חוקתיות היברידית וביקורת שיפוטית בישראל"
+    "altHe": "איור עריכתי: חוקתיות היברידית וביקורת שיפוטית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

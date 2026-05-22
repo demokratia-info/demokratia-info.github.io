@@ -73,7 +73,8 @@
   "image": {
     "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על דעת קהל ותמיכה בנסיגה דמוקרטית"
+    "altHe": "איור על דעת קהל ותמיכה בנסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

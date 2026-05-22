@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_hobbesian_citizenship_how_the_palestinians_became_a_minority_in_israel_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: אזרחות הובסיאנית: כיצד הפלסטינים הפכו למיעוט בישראל"
+    "altHe": "איור עריכתי: אזרחות הובסיאנית: כיצד הפלסטינים הפכו למיעוט בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

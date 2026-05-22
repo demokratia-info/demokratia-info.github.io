@@ -59,7 +59,8 @@
   "image": {
     "src": "html_qa/democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "שוק מזון ומסמכי פיקוח הממחישים רגולציה והפרטה ביחסי דת ומדינה"
+    "altHe": "שוק מזון ומסמכי פיקוח הממחישים רגולציה והפרטה ביחסי דת ומדינה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

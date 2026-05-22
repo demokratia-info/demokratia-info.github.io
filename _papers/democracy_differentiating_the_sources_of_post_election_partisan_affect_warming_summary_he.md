@@ -56,7 +56,8 @@
   "image": {
     "src": "html_qa/democracy_differentiating_the_sources_of_post_election_partisan_affect_warming_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מקורות התחממות רגשית מפלגתית לאחר בחירות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מקורות התחממות רגשית מפלגתית לאחר בחירות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל"
+    "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

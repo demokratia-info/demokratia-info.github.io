@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israeli_democracy_and_the_rights_of_its_palestinian_citizens_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על זכויות האזרחים הפלסטינים בישראל"
+    "altHe": "איור עריכתי על זכויות האזרחים הפלסטינים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

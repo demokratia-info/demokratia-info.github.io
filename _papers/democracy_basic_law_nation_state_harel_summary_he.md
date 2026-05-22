@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על לאומיות רוב, חוק הלאום ושוויון אזרחי"
+    "altHe": "איור על לאומיות רוב, חוק הלאום ושוויון אזרחי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

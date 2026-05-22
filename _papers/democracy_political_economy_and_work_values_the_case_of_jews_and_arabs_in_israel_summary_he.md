@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_political_economy_and_work_values_the_case_of_jews_and_arabs_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

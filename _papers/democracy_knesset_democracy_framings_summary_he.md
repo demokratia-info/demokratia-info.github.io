@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על דיון בכנסת, מושג הדמוקרטיה וקיטוב אידיאולוגי"
+    "altHe": "איור על דיון בכנסת, מושג הדמוקרטיה וקיטוב אידיאולוגי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-15",
   "dateModified": "2026-05-20",

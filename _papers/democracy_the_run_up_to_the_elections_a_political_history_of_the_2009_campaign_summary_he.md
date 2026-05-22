@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_the_run_up_to_the_elections_a_political_history_of_the_2009_campaign_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

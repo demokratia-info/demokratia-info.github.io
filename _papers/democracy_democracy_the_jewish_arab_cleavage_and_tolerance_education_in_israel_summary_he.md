@@ -45,7 +45,8 @@
   "image": {
     "src": "html_qa/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חינוך לסובלנות מול השסע היהודי־ערבי"
+    "altHe": "איור עריכתי על חינוך לסובלנות מול השסע היהודי־ערבי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

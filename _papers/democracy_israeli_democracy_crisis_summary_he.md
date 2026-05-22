@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על משבר בדמוקרטיה הישראלית"
+    "altHe": "איור על משבר בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

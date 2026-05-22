@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_populism_and_political_appointments_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פופוליזם ומינויים פוליטיים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פופוליזם ומינויים פוליטיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

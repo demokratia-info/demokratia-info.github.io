@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_west_bank_settlement_and_the_transformation_of_zionist_housing_ethos_from_shelter_to_act_of_violence_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית"
+    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

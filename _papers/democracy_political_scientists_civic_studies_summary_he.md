@@ -47,7 +47,8 @@
   "image": {
     "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על חינוך אזרחי, זהות לאומית, שוויון ודמוקרטיה ליברלית"
+    "altHe": "איור על חינוך אזרחי, זהות לאומית, שוויון ודמוקרטיה ליברלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

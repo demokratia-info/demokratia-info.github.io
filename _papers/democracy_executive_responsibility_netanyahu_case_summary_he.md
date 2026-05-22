@@ -56,7 +56,8 @@
   "image": {
     "src": "html_qa/democracy_civil_servants_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על אחריות ציבורית, רשות מבצעת ושלטון החוק"
+    "altHe": "איור על אחריות ציבורית, רשות מבצעת ושלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

@@ -59,7 +59,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על בית משפט, איזונים ובלמים והוויכוח על מהפכה משפטית"
+    "altHe": "איור על בית משפט, איזונים ובלמים והוויכוח על מהפכה משפטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-15",
   "dateModified": "2026-05-20",

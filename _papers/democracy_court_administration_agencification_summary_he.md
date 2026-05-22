@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על הנהלת בתי המשפט, עצמאות שיפוטית ואיזונים מוסדיים"
+    "altHe": "איור על הנהלת בתי המשפט, עצמאות שיפוטית ואיזונים מוסדיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

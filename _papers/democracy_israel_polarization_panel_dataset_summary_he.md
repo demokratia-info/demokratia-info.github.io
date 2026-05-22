@@ -63,7 +63,8 @@
   "image": {
     "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על סקרי דעת קהל, פאנל וקיטוב פוליטי בישראל"
+    "altHe": "איור על סקרי דעת קהל, פאנל וקיטוב פוליטי בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-22",

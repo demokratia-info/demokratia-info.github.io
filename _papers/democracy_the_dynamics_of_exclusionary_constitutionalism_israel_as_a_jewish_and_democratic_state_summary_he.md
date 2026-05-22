@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: חוקתיות מדירה בישראל כמדינה יהודית ודמוקרטית"
+    "altHe": "איור עריכתי: חוקתיות מדירה בישראל כמדינה יהודית ודמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

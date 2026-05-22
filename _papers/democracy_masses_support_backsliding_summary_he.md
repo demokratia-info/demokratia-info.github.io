@@ -70,7 +70,8 @@
   "image": {
     "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על תמיכה ציבורית בנסיגה דמוקרטית"
+    "altHe": "איור על תמיכה ציבורית בנסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

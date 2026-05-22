@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_the_educators_role_in_democratic_and_multicultural_societies_student_perceptions_at_a_teacher_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי על תפקיד המחנך בחברה דמוקרטית ורב־תרבותית"
+    "altHe": "איור עריכתי על תפקיד המחנך בחברה דמוקרטית ורב־תרבותית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

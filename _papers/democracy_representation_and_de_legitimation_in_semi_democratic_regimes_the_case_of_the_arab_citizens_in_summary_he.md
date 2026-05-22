@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_representation_and_de_legitimation_in_semi_democratic_regimes_the_case_of_the_arab_citizens_in_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על ייצוג ודה־לגיטימציה של אזרחים ערבים"
+    "altHe": "איור עריכתי על ייצוג ודה־לגיטימציה של אזרחים ערבים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_democracy_in_the_israeli_education_system_the_case_of_the_english_matriculation_exam_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל"
+    "altHe": "איור עריכתי על חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

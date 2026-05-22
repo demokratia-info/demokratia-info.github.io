@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_balancing_atrocities_and_forced_forgetting_memory_laws_as_a_means_of_social_control_in_israel_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חוקי זיכרון ושליטה חברתית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חוקי זיכרון ושליטה חברתית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

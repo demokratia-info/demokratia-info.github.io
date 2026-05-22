@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_analysis_of_israelis_jews_and_arab_palestinians_exploring_law_in_society_and_society_i_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: יהודים וערבים בישראל: משפט בחברה וחברה במשפט"
+    "altHe": "איור עריכתי: יהודים וערבים בישראל: משפט בחברה וחברה במשפט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

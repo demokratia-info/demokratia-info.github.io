@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_civil_society_encroachment_in_nonliberal_democracies_the_case_of_israel_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: דחיקת החברה האזרחית בדמוקרטיות לא־ליברליות בישראל"
+    "altHe": "איור עריכתי: דחיקת החברה האזרחית בדמוקרטיות לא־ליברליות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

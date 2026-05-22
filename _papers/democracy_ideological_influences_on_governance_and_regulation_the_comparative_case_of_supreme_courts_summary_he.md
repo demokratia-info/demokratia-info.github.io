@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_ideological_influences_on_governance_and_regulation_the_comparative_case_of_supreme_courts_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אידאולוגיה, רגולציה ובתי משפט עליונים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אידאולוגיה, רגולציה ובתי משפט עליונים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

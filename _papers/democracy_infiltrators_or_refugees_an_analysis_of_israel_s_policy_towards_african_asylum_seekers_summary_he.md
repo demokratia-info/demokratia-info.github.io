@@ -63,7 +63,8 @@
   "image": {
     "src": "html_qa/democracy_infiltrators_or_refugees_an_analysis_of_israel_s_policy_towards_african_asylum_seekers_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מדיניות ישראל כלפי מבקשי מקלט אפריקאים"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מדיניות ישראל כלפי מבקשי מקלט אפריקאים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

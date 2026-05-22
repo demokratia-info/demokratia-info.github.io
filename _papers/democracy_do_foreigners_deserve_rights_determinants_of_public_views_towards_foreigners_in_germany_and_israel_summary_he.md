@@ -42,7 +42,8 @@
   "image": {
     "src": "html_qa/democracy_do_foreigners_deserve_rights_determinants_of_public_views_towards_foreigners_in_germany_and_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

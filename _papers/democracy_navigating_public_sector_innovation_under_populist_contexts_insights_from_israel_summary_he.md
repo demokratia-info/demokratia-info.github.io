@@ -60,7 +60,8 @@
   "image": {
     "src": "html_qa/democracy_navigating_public_sector_innovation_under_populist_contexts_insights_from_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני"
+    "altHe": "איור עריכתי על פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

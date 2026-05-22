@@ -72,7 +72,8 @@
   "image": {
     "src": "html_qa/democracy_political_violence_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על מחאה אזרחית מול שחיקה מוסדית ונסיגה דמוקרטית"
+    "altHe": "איור על מחאה אזרחית מול שחיקה מוסדית ונסיגה דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-19",
   "dateModified": "2026-05-20",

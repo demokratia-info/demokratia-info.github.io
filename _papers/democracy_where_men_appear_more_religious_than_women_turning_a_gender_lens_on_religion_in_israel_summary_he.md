@@ -60,7 +60,8 @@
   "image": {
     "src": "html_qa/democracy_where_men_appear_more_religious_than_women_turning_a_gender_lens_on_religion_in_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל"
+    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

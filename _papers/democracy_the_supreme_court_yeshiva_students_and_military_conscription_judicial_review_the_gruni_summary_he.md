@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: בית המשפט העליון, תלמידי ישיבות וגיוס לצבא"
+    "altHe": "איור עריכתי: בית המשפט העליון, תלמידי ישיבות וגיוס לצבא",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

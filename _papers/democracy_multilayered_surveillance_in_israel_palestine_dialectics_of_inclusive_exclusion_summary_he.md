@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_multilayered_surveillance_in_israel_palestine_dialectics_of_inclusive_exclusion_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

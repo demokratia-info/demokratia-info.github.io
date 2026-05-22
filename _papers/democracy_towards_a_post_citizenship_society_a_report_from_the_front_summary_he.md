@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_towards_a_post_citizenship_society_a_report_from_the_front_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על לקראת חברה פוסט־אזרחית בישראל"
+    "altHe": "איור או צילום עריכתי חם ומפורט על לקראת חברה פוסט־אזרחית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

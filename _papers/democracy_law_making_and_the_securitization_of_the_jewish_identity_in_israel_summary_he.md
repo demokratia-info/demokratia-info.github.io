@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה"
+    "altHe": "איור עריכתי על חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_democratic_backsliding_subsidized_speech_and_the_new_majoritarian_entrenchment_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית"
+    "altHe": "איור או צילום עריכתי חם ומפורט על נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_making_their_lives_miserable_structural_violence_and_state_racism_towards_asylum_seekers_from_sudan_and_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט"
+    "altHe": "איור או צילום עריכתי חם ומפורט על אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

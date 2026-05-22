@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he.jpg",
     "version": "2026-05-22-manual-daily-10",
-    "altHe": "מרחב דתי ציבורי בירושלים המדגיש את המתח בין חילון, דת וליברליזם"
+    "altHe": "מרחב דתי ציבורי בירושלים המדגיש את המתח בין חילון, דת וליברליזם",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -47,7 +47,8 @@
   "image": {
     "src": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על עילת הסבירות, בית משפט ושחיקה מוקדמת של שלטון החוק"
+    "altHe": "איור על עילת הסבירות, בית משפט ושחיקה מוקדמת של שלטון החוק",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-20",

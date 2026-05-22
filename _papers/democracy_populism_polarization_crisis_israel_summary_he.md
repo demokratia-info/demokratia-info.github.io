@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על משבר דמוקרטי וקיטוב בישראל"
+    "altHe": "איור על משבר דמוקרטי וקיטוב בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

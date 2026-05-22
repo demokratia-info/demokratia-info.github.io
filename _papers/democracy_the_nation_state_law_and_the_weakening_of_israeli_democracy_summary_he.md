@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_the_nation_state_law_and_the_weakening_of_israeli_democracy_summary_he.jpg",
     "version": "2026-05-21-image-audit",
-    "altHe": "איור עריכתי: חוק הלאום והחלשת הדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי: חוק הלאום והחלשת הדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

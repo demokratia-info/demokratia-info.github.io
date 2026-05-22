@@ -54,7 +54,8 @@
   "image": {
     "src": "html_qa/democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על חוויות עבודה של אחיות מקבוצות מיעוט"
+    "altHe": "איור או צילום עריכתי חם ומפורט על חוויות עבודה של אחיות מקבוצות מיעוט",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

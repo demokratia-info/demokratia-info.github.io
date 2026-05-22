@@ -53,7 +53,8 @@
   "image": {
     "src": "html_qa/democracy_a_private_matter_religious_education_and_democracy_in_indonesia_and_israel_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל"
+    "altHe": "איור עריכתי על דת, זהות יהודית וזכויות אזרחיות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -72,7 +72,8 @@
   "image": {
     "src": "html_qa/democracy_upholding_democracy_in_a_global_pandemic_the_israeli_elections_experience_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: שמירה על דמוקרטיה בזמן מגפה: חוויית הבחירות בישראל"
+    "altHe": "איור עריכתי: שמירה על דמוקרטיה בזמן מגפה: חוויית הבחירות בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

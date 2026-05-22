@@ -48,7 +48,8 @@
   "image": {
     "src": "html_qa/democracy_the_institutional_role_of_the_judiciary_in_israel_s_constitutional_democracy_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: התפקיד המוסדי של הרשות השופטת בדמוקרטיה החוקתית בישראל"
+    "altHe": "איור עריכתי: התפקיד המוסדי של הרשות השופטת בדמוקרטיה החוקתית בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -64,7 +64,8 @@
   "image": {
     "src": "html_qa/democracy_constitutional_moment_west_bank_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על רפורמה חוקתית והגדה המערבית"
+    "altHe": "איור על רפורמה חוקתית והגדה המערבית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-07",
   "dateModified": "2026-05-20",

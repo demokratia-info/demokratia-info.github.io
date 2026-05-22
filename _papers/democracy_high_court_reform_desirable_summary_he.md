@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_overhaul_populist_picture_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור על רפורמה בבג״ץ, עצמאות שיפוטית ואיזונים מוסדיים"
+    "altHe": "איור על רפורמה בבג״ץ, עצמאות שיפוטית ואיזונים מוסדיים",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-20",
   "dateModified": "2026-05-20",

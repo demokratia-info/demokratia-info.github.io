@@ -61,7 +61,8 @@
   "image": {
     "src": "html_qa/democracy_does_faith_limit_immorality_the_politics_of_religion_and_corruption_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על דת, מוסריות ושחיתות בדמוקרטיות"
+    "altHe": "איור או צילום עריכתי חם ומפורט על דת, מוסריות ושחיתות בדמוקרטיות",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

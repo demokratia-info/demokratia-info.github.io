@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_dying_was_never_a_preference_post_war_ethical_discourse_pwed_casualty_aversion_and_the_war_legitimizing_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על שיח אתי לאחר מלחמה והצדקת מלחמה"
+    "altHe": "איור או צילום עריכתי חם ומפורט על שיח אתי לאחר מלחמה והצדקת מלחמה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

@@ -61,7 +61,8 @@
   "image": {
     "src": "html_qa/democracy_the_changing_role_of_judicial_review_during_prolonged_emergencies_the_israeli_supreme_court_du_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל"
+    "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

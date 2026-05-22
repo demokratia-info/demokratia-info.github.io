@@ -43,7 +43,8 @@
   "image": {
     "src": "html_qa/democracy_israel_s_tent_protests_the_chilling_effect_of_nationalism_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית"
+    "altHe": "איור עריכתי על מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

@@ -51,7 +51,8 @@
   "image": {
     "src": "html_qa/democracy_ethno_nationalism_in_citizenship_education_in_israel_an_analysis_of_the_official_civics_textbook_summary_he.jpg",
     "version": "2026-05-21-nightly-100b",
-    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית"
+    "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

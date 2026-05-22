@@ -52,7 +52,8 @@
   "image": {
     "src": "html_qa/democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he.jpg",
     "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי"
+    "altHe": "איור או צילום עריכתי חם ומפורט על פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",

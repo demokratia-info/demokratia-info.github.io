@@ -44,7 +44,8 @@
   "image": {
     "src": "html_qa/democracy_judicial_administrative_review_in_times_of_discontent_the_israeli_supreme_court_and_the_second_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על ביקורת מינהלית בתקופת האינתיפאדה השנייה"
+    "altHe": "איור עריכתי על ביקורת מינהלית בתקופת האינתיפאדה השנייה",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

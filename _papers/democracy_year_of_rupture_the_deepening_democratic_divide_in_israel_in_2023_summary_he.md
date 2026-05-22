@@ -46,7 +46,8 @@
   "image": {
     "src": "html_qa/democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he.jpg",
     "version": "800x600-landscape",
-    "altHe": "איור עריכתי על העמקת השבר הדמוקרטי בישראל בשנת 2023"
+    "altHe": "איור עריכתי על העמקת השבר הדמוקרטי בישראל בשנת 2023",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",

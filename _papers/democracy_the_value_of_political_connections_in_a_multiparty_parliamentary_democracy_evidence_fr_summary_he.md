@@ -40,7 +40,8 @@
   "image": {
     "src": "html_qa/democracy_the_value_of_political_connections_in_a_multiparty_parliamentary_democracy_evidence_fr_summary_he.jpg",
     "version": "2026-05-21-topic-image-diversity",
-    "altHe": "איור עריכתי: קשרים פוליטיים בדמוקרטיה פרלמנטרית רב־מפלגתית"
+    "altHe": "איור עריכתי: קשרים פוליטיים בדמוקרטיה פרלמנטרית רב־מפלגתית",
+    "fitness": "standard"
   },
   "datePublished": "2026-05-21",
   "dateModified": "2026-05-22",
