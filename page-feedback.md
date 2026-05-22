@@ -19,7 +19,9 @@ permalink: /page-feedback.html
       data-endpoint="{{ site.data.site.pageFeedbackEndpoint | default: '' | escape }}"
       data-home-url="{{ '/' | relative_url }}"
       data-daily-limit="{{ site.data.site.pageFeedbackDailyLimit | default: 5 }}"
-      data-redirect-delay-ms="{{ site.data.site.pageFeedbackRedirectDelayMs | default: 5000 }}">
+      data-redirect-delay-ms="{{ site.data.site.pageFeedbackRedirectDelayMs | default: 5000 }}"
+      data-photo-max-bytes="{{ site.data.site.pageFeedbackPhotoMaxBytes | default: 8388608 }}"
+      enctype="multipart/form-data">
   <input type="hidden" name="pageUrl">
   <input type="hidden" name="pageTitle">
   <input type="hidden" name="pageSlug">
@@ -28,8 +30,15 @@ permalink: /page-feedback.html
   <input class="feedback-honeypot" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
 
   <div class="form-field">
-    <label class="form-label" for="comment">הערה או הצעת תיקון</label>
-    <textarea class="form-control feedback-textarea" id="comment" name="comment" dir="auto" required maxlength="5000"></textarea>
+    <label class="form-label" for="comment">הערה, הצעת תיקון או הסבר לתמונה</label>
+    <textarea class="form-control feedback-textarea" id="comment" name="comment" dir="auto" maxlength="5000"></textarea>
+  </div>
+
+  <div class="form-field">
+    <label class="form-label" for="suggestedPhoto">תמונה מוצעת למאמר (לא חובה)</label>
+    <input class="form-control" id="suggestedPhoto" name="suggestedPhoto" type="file" accept="image/jpeg,image/png,image/webp">
+    <p class="form-note">יש להעלות תמונת רוחב ביחס 4:3 ככל האפשר. סטייה קלה ביחס תטופל בחיתוך לפני פרסום, והתמונה תומר ל־800x600 רק אם עורך יאשר אותה.</p>
+    <p class="form-status feedback-photo-status" data-page-feedback-photo-status hidden role="status" aria-live="polite"></p>
   </div>
 
   <div class="form-field">

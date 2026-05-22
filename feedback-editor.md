@@ -8,7 +8,7 @@ noindex: true
 
 # ניהול הערות עורכים
 
-<p class="feedback-intro">מסך זה מיועד לעורכי האתר. תוכן התור נטען רק לאחר הזנת סיסמת עורך.</p>
+<p class="feedback-intro">מסך זה מיועד לעורכי האתר. תוכן התור, כולל תצוגות מקדימות של תמונות מוצעות, נטען רק לאחר הזנת סיסמת עורך.</p>
 
 <section class="feedback-editor-panel"
          data-feedback-editor

@@ -8,3 +8,7 @@ _site/
 .bundle/
 vendor/
 Authors.MD
+Authors.csv
+page_feedback_queue.csv
+page_feedback_history.csv
+page_feedback_photos/

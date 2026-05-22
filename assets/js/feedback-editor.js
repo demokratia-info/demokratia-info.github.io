@@ -132,6 +132,82 @@
     if (child) parent.append(child);
   };
 
+  const formatBytes = (value) => {
+    const bytes = Number.parseInt(String(value || "0"), 10);
+    if (!Number.isFinite(bytes) || bytes <= 0) return "";
+    if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+    return `${Math.ceil(bytes / 1024)} KB`;
+  };
+
+  const photoEndpoint = (path) => {
+    const base = endpoint.replace(/\/+$/, "");
+    return `${base}/photo?path=${encodeURIComponent(path)}`;
+  };
+
+  const loadPhotoPreview = async (row, image, button) => {
+    if (!row.suggestedPhotoPath) return;
+    if (button) button.disabled = true;
+    try {
+      const response = await fetch(photoEndpoint(row.suggestedPhotoPath), {
+        headers: {
+          "Authorization": `Bearer ${editorPassword}`
+        }
+      });
+      if (!response.ok) throw new Error("לא ניתן היה לטעון את התמונה.");
+      const blob = await response.blob();
+      image.src = URL.createObjectURL(blob);
+      image.hidden = false;
+      if (button) button.hidden = true;
+    } catch (error) {
+      setStatus(error.message || "לא ניתן היה לטעון את התמונה.", "error");
+      if (button) button.disabled = false;
+    }
+  };
+
+  const renderPhoto = (row) => {
+    if (!row.suggestedPhotoPath) return null;
+
+    const wrapper = document.createElement("section");
+    wrapper.className = "feedback-editor-photo";
+
+    const heading = document.createElement("h3");
+    heading.textContent = "תמונה מוצעת";
+
+    const meta = document.createElement("p");
+    meta.className = "feedback-editor-field latin";
+    const dimensions = row.suggestedPhotoWidth && row.suggestedPhotoHeight
+      ? `${row.suggestedPhotoWidth}x${row.suggestedPhotoHeight}`
+      : "";
+    meta.textContent = [
+      row.suggestedPhotoName || "",
+      dimensions,
+      formatBytes(row.suggestedPhotoSize),
+      row.suggestedPhotoType || ""
+    ].filter(Boolean).join(" | ");
+
+    const path = document.createElement("p");
+    path.className = "feedback-editor-field latin";
+    path.textContent = row.suggestedPhotoPath;
+
+    const note = document.createElement("p");
+    note.className = "form-note";
+    note.textContent = "כדי לאשר החלפת תמונה, בחרו approved_for_update. תהליך ההארטביט יבדוק שהתמונה אופקית, יחתוך יחס קרוב ל־4:3, וימיר אותה ל־800x600 לפני פרסום.";
+
+    const image = document.createElement("img");
+    image.className = "feedback-editor-photo-preview";
+    image.alt = "תצוגה מקדימה של התמונה המוצעת";
+    image.hidden = true;
+
+    const button = document.createElement("button");
+    button.className = "button-secondary";
+    button.type = "button";
+    button.textContent = "טעינת תצוגה מקדימה";
+    button.addEventListener("click", () => loadPhotoPreview(row, image, button));
+
+    wrapper.append(heading, meta, path, note, image, button);
+    return wrapper;
+  };
+
   const renderRow = (row) => {
     const card = document.createElement("article");
     card.className = `feedback-editor-card status-${row.status || "unknown"}`;
@@ -227,7 +303,9 @@
     appendIfPresent(card, field("DOI", row.doi, "latin"));
     appendIfPresent(card, field("דואר אלקטרוני", row.submitterEmail, "latin"));
     appendIfPresent(card, field("טלפון", row.submitterPhone, "latin"));
-    card.append(comment, controls);
+    card.append(comment);
+    appendIfPresent(card, renderPhoto(row));
+    card.append(controls);
     return card;
   };
 

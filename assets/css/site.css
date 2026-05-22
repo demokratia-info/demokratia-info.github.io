@@ -154,6 +154,7 @@ li { margin: 0 0 6px; }
 .feedback-textarea { min-height: 170px; resize: vertical; }
 .feedback-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
 .form-note { color: var(--muted); font-size: 15px; line-height: 1.5; }
+.feedback-photo-status { margin-top: 4px; }
 .form-actions { display: flex; align-items: center; gap: 12px; }
 .button-primary {
   min-height: 44px;
@@ -278,6 +279,24 @@ li { margin: 0 0 6px; }
   border-radius: 6px;
   background: #f7fbfb;
   white-space: pre-wrap;
+}
+.feedback-editor-photo {
+  display: grid;
+  gap: 9px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f7fbfb;
+}
+.feedback-editor-photo h3 { margin: 0; color: var(--accent-dark); font-size: 18px; }
+.feedback-editor-photo-preview {
+  display: block;
+  width: min(420px, 100%);
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
 }
 .feedback-editor-controls {
   display: grid;

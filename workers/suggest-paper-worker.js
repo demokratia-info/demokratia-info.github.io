@@ -24,13 +24,26 @@ const FEEDBACK_QUEUE_HEADER = [
   "submitter_ip_hash",
   "status",
   "editor_notes",
-  "applied_at"
+  "applied_at",
+  "suggested_photo_path",
+  "suggested_photo_name",
+  "suggested_photo_type",
+  "suggested_photo_size",
+  "suggested_photo_width",
+  "suggested_photo_height"
 ];
 
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
+const FEEDBACK_PHOTO_TYPES = new Map([
+  ["image/jpeg", "jpg"],
+  ["image/png", "png"],
+  ["image/webp", "webp"]
+]);
+const DEFAULT_FEEDBACK_PHOTO_DIR = "page_feedback_photos";
+const DEFAULT_FEEDBACK_PHOTO_MAX_BYTES = 8 * 1024 * 1024;
 
 export default {
   async fetch(request, env) {
@@ -42,6 +55,10 @@ export default {
 
     try {
       const kind = requestKind(request);
+
+      if (kind === "admin-page-feedback-photo") {
+        return await handleAdminPageFeedbackPhoto(request, env, cors);
+      }
 
       if (kind === "admin-page-feedback") {
         return await handleAdminPageFeedback(request, env, cors);
@@ -99,13 +116,15 @@ async function handlePaperSuggestion(request, env, cors) {
 }
 
 async function handlePageFeedback(request, env, cors) {
-  const payload = await request.json();
+  const { payload, photo } = await pageFeedbackRequestPayload(request);
 
   if (clean(payload.website, 120)) {
     return jsonResponse({ ok: true }, 200, cors);
   }
 
-  const feedback = validateFeedbackPayload(payload, env);
+  const hasPhotoUpload = Boolean(photo && photo.size > 0);
+  const feedback = validateFeedbackPayload(payload, env, hasPhotoUpload);
+  const photoMeta = await validateFeedbackPhoto(photo, payload, env);
   const submittedDate = israelDate();
   const submittedAt = new Date().toISOString();
   const ipAddress = sourceIp(request);
@@ -114,26 +133,44 @@ async function handlePageFeedback(request, env, cors) {
   const dailyLimit = parseIntEnv(env.PAGE_FEEDBACK_DAILY_LIMIT, 5);
   const approvedByEditorPassword = await optionalEditorPasswordMatches(payload, env);
   const feedbackStatus = approvedByEditorPassword ? "approved_for_update" : "pending";
+  const photoPath = photoMeta
+    ? feedbackPhotoPath(feedback, submittedDate, submittedAt, ipHash, photoMeta.extension, env)
+    : "";
+  const row = [
+    submittedDate,
+    submittedAt,
+    feedback.pageUrl,
+    feedback.pageTitle,
+    feedback.pageSlug,
+    feedback.paperTitle,
+    feedback.doi,
+    feedback.comment,
+    feedback.submitterEmail,
+    feedback.submitterPhone,
+    ipHash,
+    feedbackStatus,
+    approvedByEditorPassword ? "submitted_with_editor_password" : "",
+    "",
+    photoPath,
+    photoMeta ? photoMeta.name : "",
+    photoMeta ? photoMeta.type : "",
+    photoMeta ? String(photoMeta.size) : "",
+    photoMeta ? String(photoMeta.width) : "",
+    photoMeta ? String(photoMeta.height) : ""
+  ];
+  let photoSaved = false;
 
   return appendQueueRow({
     github,
     header: FEEDBACK_QUEUE_HEADER,
-    row: [
-      submittedDate,
-      submittedAt,
-      feedback.pageUrl,
-      feedback.pageTitle,
-      feedback.pageSlug,
-      feedback.paperTitle,
-      feedback.doi,
-      feedback.comment,
-      feedback.submitterEmail,
-      feedback.submitterPhone,
-      ipHash,
-      feedbackStatus,
-      approvedByEditorPassword ? "submitted_with_editor_password" : "",
-      ""
-    ],
+    row,
+    beforeAppend: async () => {
+      if (photoMeta && !photoSaved) {
+        await saveFeedbackPhoto(photoPath, photoMeta, env);
+        photoSaved = true;
+      }
+      return row;
+    },
     submittedDate,
     ipHash,
     ipHashIndex: 10,
@@ -162,6 +199,25 @@ async function handleAdminPageFeedback(request, env, cors) {
   }
 
   return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+}
+
+async function handleAdminPageFeedbackPhoto(request, env, cors) {
+  await requireEditorPassword(request, env);
+
+  if (request.method !== "GET") {
+    return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+  }
+
+  const path = validatePrivatePhotoPath(new URL(request.url).searchParams.get("path"), env);
+  const github = githubConfig(env, "FEEDBACK_PHOTO_DIR", DEFAULT_FEEDBACK_PHOTO_DIR);
+  github.path = path;
+  const file = await fetchGitHubFile(github);
+  const headers = {
+    ...cors,
+    "Content-Type": contentTypeFromPath(path),
+    "Cache-Control": "no-store"
+  };
+  return new Response(file.bytes, { status: 200, headers });
 }
 
 async function listPageFeedback(env, cors) {
@@ -265,7 +321,13 @@ function feedbackItemFromRow(row, index) {
     submitterPhone: row[9] || "",
     status: row[11] || "",
     editorNotes: row[12] || "",
-    appliedAt: row[13] || ""
+    appliedAt: row[13] || "",
+    suggestedPhotoPath: row[14] || "",
+    suggestedPhotoName: row[15] || "",
+    suggestedPhotoType: row[16] || "",
+    suggestedPhotoSize: row[17] || "",
+    suggestedPhotoWidth: row[18] || "",
+    suggestedPhotoHeight: row[19] || ""
   };
 }
 
@@ -281,6 +343,7 @@ async function appendQueueRow({
   limitMessage,
   commitMessage,
   successBody = { ok: true },
+  beforeAppend = null,
   cors
 }) {
   for (let attempt = 0; attempt < 3; attempt += 1) {
@@ -296,7 +359,8 @@ async function appendQueueRow({
       return jsonResponse({ ok: false, error: limitMessage }, 429, cors);
     }
 
-    const nextContent = `${queue}${csvLine(row)}\n`;
+    const rowForAppend = beforeAppend ? await beforeAppend() : row;
+    const nextContent = `${queue}${csvLine(rowForAppend)}\n`;
     const saved = await saveQueue(github, current.sha, nextContent, commitMessage);
 
     if (saved.status === 409) continue;
@@ -317,6 +381,7 @@ async function appendQueueRow({
 
 function requestKind(request) {
   const pathname = new URL(request.url).pathname.replace(/\/+$/, "");
+  if (pathname.endsWith("/admin/page-feedback/photo")) return "admin-page-feedback-photo";
   if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
@@ -358,7 +423,25 @@ function validateSuggestionPayload(payload) {
   return { paperTitle, doi, submitterName, submitterEmail };
 }
 
-function validateFeedbackPayload(payload, env) {
+async function pageFeedbackRequestPayload(request) {
+  const contentType = request.headers.get("Content-Type") || "";
+  if (contentType.includes("multipart/form-data")) {
+    const formData = await request.formData();
+    const payload = {};
+    for (const [key, value] of formData.entries()) {
+      if (typeof value === "string") payload[key] = value;
+    }
+    const photo = formData.get("suggestedPhoto");
+    return {
+      payload,
+      photo: photo && typeof photo === "object" && "arrayBuffer" in photo ? photo : null
+    };
+  }
+
+  return { payload: await request.json(), photo: null };
+}
+
+function validateFeedbackPayload(payload, env, hasPhotoUpload = false) {
   const pageUrl = normalizePageUrl(payload.pageUrl || payload.page_url || payload.url, env);
   const fallbackSlug = slugFromPageUrl(pageUrl);
   const pageTitle = clean(payload.pageTitle || payload.page_title || payload.title || fallbackSlug, 300);
@@ -370,7 +453,7 @@ function validateFeedbackPayload(payload, env) {
   const submitterPhone = clean(payload.submitterPhone || payload.submitter_phone || payload.phone, 40);
 
   if (!pageTitle) throw new Error("Page title is required.");
-  if (!comment) throw new Error("Comment is required.");
+  if (!comment && !hasPhotoUpload) throw new Error("Comment or suggested photo is required.");
   if (doi && !DOI_PATTERN.test(doi)) throw new Error("DOI must be valid.");
   if (submitterEmail && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail)) {
     throw new Error("Email address is invalid.");
@@ -389,6 +472,173 @@ function validateFeedbackPayload(payload, env) {
     submitterEmail,
     submitterPhone
   };
+}
+
+async function validateFeedbackPhoto(photo, payload, env) {
+  if (!photo || !photo.size) return null;
+
+  const type = clean(photo.type || payload.suggestedPhotoType || "", 80).toLowerCase();
+  if (!FEEDBACK_PHOTO_TYPES.has(type)) {
+    throw new Error("Suggested photo must be a JPEG, PNG, or WebP image.");
+  }
+
+  const maxBytes = parseIntEnv(env.PAGE_FEEDBACK_PHOTO_MAX_BYTES, DEFAULT_FEEDBACK_PHOTO_MAX_BYTES);
+  if (photo.size > maxBytes) {
+    throw new Error(`Suggested photo is too large. Maximum size is ${Math.floor(maxBytes / 1024 / 1024)}MB.`);
+  }
+
+  const bytes = new Uint8Array(await photo.arrayBuffer());
+  const dimensions = imageDimensions(bytes, type) || dimensionsFromPayload(payload);
+  if (!dimensions) {
+    throw new Error("Could not read suggested photo dimensions.");
+  }
+  if (dimensions.width <= dimensions.height) {
+    throw new Error("Suggested photo must be landscape. Please upload a horizontal image.");
+  }
+
+  return {
+    bytes,
+    type,
+    extension: FEEDBACK_PHOTO_TYPES.get(type),
+    name: clean(photo.name || "suggested-photo", 180),
+    size: photo.size,
+    width: dimensions.width,
+    height: dimensions.height
+  };
+}
+
+function dimensionsFromPayload(payload) {
+  const width = Number.parseInt(String(payload.suggestedPhotoWidth || payload.photoWidth || ""), 10);
+  const height = Number.parseInt(String(payload.suggestedPhotoHeight || payload.photoHeight || ""), 10);
+  if (Number.isInteger(width) && Number.isInteger(height) && width > 0 && height > 0) {
+    return { width, height };
+  }
+  return null;
+}
+
+function imageDimensions(bytes, type) {
+  if (type === "image/png") return pngDimensions(bytes);
+  if (type === "image/jpeg") return jpegDimensions(bytes);
+  if (type === "image/webp") return webpDimensions(bytes);
+  return null;
+}
+
+function pngDimensions(bytes) {
+  if (
+    bytes.length < 24
+    || bytes[0] !== 0x89
+    || bytes[1] !== 0x50
+    || bytes[2] !== 0x4e
+    || bytes[3] !== 0x47
+  ) {
+    return null;
+  }
+  return {
+    width: readUint32BE(bytes, 16),
+    height: readUint32BE(bytes, 20)
+  };
+}
+
+function jpegDimensions(bytes) {
+  if (bytes.length < 4 || bytes[0] !== 0xff || bytes[1] !== 0xd8) return null;
+  let offset = 2;
+  while (offset + 9 < bytes.length) {
+    if (bytes[offset] !== 0xff) {
+      offset += 1;
+      continue;
+    }
+    const marker = bytes[offset + 1];
+    offset += 2;
+    while (bytes[offset] === 0xff) offset += 1;
+    if (marker === 0xd8 || marker === 0xd9) continue;
+    if (offset + 2 > bytes.length) return null;
+    const length = readUint16BE(bytes, offset);
+    if (length < 2 || offset + length > bytes.length) return null;
+    if (
+      (marker >= 0xc0 && marker <= 0xc3)
+      || (marker >= 0xc5 && marker <= 0xc7)
+      || (marker >= 0xc9 && marker <= 0xcb)
+      || (marker >= 0xcd && marker <= 0xcf)
+    ) {
+      return {
+        height: readUint16BE(bytes, offset + 3),
+        width: readUint16BE(bytes, offset + 5)
+      };
+    }
+    offset += length;
+  }
+  return null;
+}
+
+function webpDimensions(bytes) {
+  if (
+    bytes.length < 30
+    || textFromBytes(bytes, 0, 4) !== "RIFF"
+    || textFromBytes(bytes, 8, 12) !== "WEBP"
+  ) {
+    return null;
+  }
+
+  let offset = 12;
+  while (offset + 8 <= bytes.length) {
+    const chunk = textFromBytes(bytes, offset, offset + 4);
+    const size = readUint32LE(bytes, offset + 4);
+    const dataOffset = offset + 8;
+    if (dataOffset + size > bytes.length) return null;
+
+    if (chunk === "VP8X" && size >= 10) {
+      return {
+        width: 1 + readUint24LE(bytes, dataOffset + 4),
+        height: 1 + readUint24LE(bytes, dataOffset + 7)
+      };
+    }
+
+    if (chunk === "VP8 " && size >= 10 && bytes[dataOffset + 3] === 0x9d && bytes[dataOffset + 4] === 0x01 && bytes[dataOffset + 5] === 0x2a) {
+      return {
+        width: readUint16LE(bytes, dataOffset + 6) & 0x3fff,
+        height: readUint16LE(bytes, dataOffset + 8) & 0x3fff
+      };
+    }
+
+    if (chunk === "VP8L" && size >= 5 && bytes[dataOffset] === 0x2f) {
+      const b1 = bytes[dataOffset + 1];
+      const b2 = bytes[dataOffset + 2];
+      const b3 = bytes[dataOffset + 3];
+      const b4 = bytes[dataOffset + 4];
+      return {
+        width: 1 + (((b2 & 0x3f) << 8) | b1),
+        height: 1 + (((b4 & 0x0f) << 10) | (b3 << 2) | ((b2 & 0xc0) >> 6))
+      };
+    }
+
+    offset = dataOffset + size + (size % 2);
+  }
+
+  return null;
+}
+
+function readUint16BE(bytes, offset) {
+  return (bytes[offset] << 8) | bytes[offset + 1];
+}
+
+function readUint16LE(bytes, offset) {
+  return bytes[offset] | (bytes[offset + 1] << 8);
+}
+
+function readUint24LE(bytes, offset) {
+  return bytes[offset] | (bytes[offset + 1] << 8) | (bytes[offset + 2] << 16);
+}
+
+function readUint32BE(bytes, offset) {
+  return ((bytes[offset] << 24) | (bytes[offset + 1] << 16) | (bytes[offset + 2] << 8) | bytes[offset + 3]) >>> 0;
+}
+
+function readUint32LE(bytes, offset) {
+  return (bytes[offset] | (bytes[offset + 1] << 8) | (bytes[offset + 2] << 16) | (bytes[offset + 3] << 24)) >>> 0;
+}
+
+function textFromBytes(bytes, start, end) {
+  return String.fromCharCode(...bytes.subarray(start, end));
 }
 
 function clean(value, maxLength) {
@@ -439,6 +689,61 @@ function slugFromPageUrl(pageUrl) {
   } catch {
     return "";
   }
+}
+
+function feedbackPhotoPath(feedback, submittedDate, submittedAt, ipHash, extension, env) {
+  const baseDir = String(env.FEEDBACK_PHOTO_DIR || DEFAULT_FEEDBACK_PHOTO_DIR)
+    .trim()
+    .replace(/^\/+|\/+$/g, "") || DEFAULT_FEEDBACK_PHOTO_DIR;
+  const slug = safePathPart(feedback.pageSlug || slugFromPageUrl(feedback.pageUrl) || "page");
+  const stamp = submittedAt.replace(/\D/g, "").slice(0, 14);
+  const suffix = ipHash.slice(0, 12) || "upload";
+  return `${baseDir}/${submittedDate}/${stamp}-${slug}-${suffix}.${extension}`;
+}
+
+function safePathPart(value) {
+  return String(value || "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-zA-Z0-9._-]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 90) || "page";
+}
+
+async function saveFeedbackPhoto(path, photoMeta, env) {
+  const github = githubConfig(env, "FEEDBACK_PHOTO_DIR", DEFAULT_FEEDBACK_PHOTO_DIR);
+  github.path = path;
+  const response = await saveGitHubFile(
+    github,
+    photoMeta.bytes,
+    `Add page feedback photo for ${path.split("/").pop()}`
+  );
+
+  if (response.status === 409) return;
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`GitHub photo upload failed: ${response.status} ${detail}`);
+  }
+}
+
+function validatePrivatePhotoPath(value, env) {
+  const path = clean(value || "", 500);
+  const baseDir = String(env.FEEDBACK_PHOTO_DIR || DEFAULT_FEEDBACK_PHOTO_DIR)
+    .trim()
+    .replace(/^\/+|\/+$/g, "") || DEFAULT_FEEDBACK_PHOTO_DIR;
+  if (!path || path.includes("..") || path.startsWith("/") || !path.startsWith(`${baseDir}/`)) {
+    throw new Error("Invalid suggested photo path.");
+  }
+  if (!/\.(?:jpe?g|png|webp)$/i.test(path)) {
+    throw new Error("Invalid suggested photo type.");
+  }
+  return path;
+}
+
+function contentTypeFromPath(path) {
+  if (/\.png$/i.test(path)) return "image/png";
+  if (/\.webp$/i.test(path)) return "image/webp";
+  return "image/jpeg";
 }
 
 function israelDate() {
@@ -557,6 +862,23 @@ async function fetchQueue(github, header) {
   };
 }
 
+async function fetchGitHubFile(github) {
+  const response = await fetch(githubApiUrl(github, true), {
+    headers: githubHeaders(github)
+  });
+
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`GitHub file read failed: ${response.status} ${detail}`);
+  }
+
+  const data = await response.json();
+  return {
+    sha: data.sha,
+    bytes: base64ToBytes(data.content || "")
+  };
+}
+
 async function saveQueue(github, sha, content, message) {
   const body = {
     message,
@@ -564,6 +886,20 @@ async function saveQueue(github, sha, content, message) {
     content: textToBase64(content)
   };
   if (sha) body.sha = sha;
+
+  return fetch(githubApiUrl(github, false), {
+    method: "PUT",
+    headers: githubHeaders(github),
+    body: JSON.stringify(body)
+  });
+}
+
+async function saveGitHubFile(github, bytes, message) {
+  const body = {
+    message,
+    branch: github.branch,
+    content: bytesToBase64(bytes)
+  };
 
   return fetch(githubApiUrl(github, false), {
     method: "PUT",
@@ -590,12 +926,22 @@ function githubHeaders(github) {
 function normalizeQueueCsv(csv, header, path) {
   const trimmed = String(csv || "").trimEnd();
   if (!trimmed) return `${header.join(",")}\n`;
-  const firstLine = trimmed.split(/\r?\n/, 1)[0];
-  const expected = header.join(",");
-  if (firstLine !== expected) {
-    throw new Error(`${path} header must be: ${expected}`);
+  const rows = parseCsv(`${trimmed}\n`);
+  const currentHeader = rows[0] || [];
+  const sameHeader = currentHeader.length === header.length
+    && currentHeader.every((value, index) => value === header[index]);
+  const oldHeaderPrefix = currentHeader.length < header.length
+    && currentHeader.every((value, index) => value === header[index]);
+
+  if (!sameHeader && !oldHeaderPrefix) {
+    throw new Error(`${path} header must be: ${header.join(",")}`);
   }
-  return `${trimmed}\n`;
+
+  rows[0] = header;
+  for (const row of rows.slice(1)) {
+    while (row.length < header.length) row.push("");
+  }
+  return `${rows.map((row) => csvLine(row)).join("\n")}\n`;
 }
 
 function parseCsv(csv) {
@@ -653,13 +999,21 @@ function csvEscape(value) {
 }
 
 function base64ToText(value) {
-  const binary = atob(String(value).replace(/\s+/g, ""));
-  const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
+  const bytes = base64ToBytes(value);
   return new TextDecoder().decode(bytes);
+}
+
+function base64ToBytes(value) {
+  const binary = atob(String(value).replace(/\s+/g, ""));
+  return Uint8Array.from(binary, (char) => char.charCodeAt(0));
 }
 
 function textToBase64(value) {
   const bytes = new TextEncoder().encode(value);
+  return bytesToBase64(bytes);
+}
+
+function bytesToBase64(bytes) {
   let binary = "";
   const chunkSize = 0x8000;
   for (let index = 0; index < bytes.length; index += chunkSize) {

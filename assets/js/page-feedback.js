@@ -6,8 +6,11 @@
   const homeUrl = form.dataset.homeUrl || "/";
   const dailyLimit = Number.parseInt(form.dataset.dailyLimit || "5", 10);
   const redirectDelayMs = Number.parseInt(form.dataset.redirectDelayMs || "5000", 10);
+  const photoMaxBytes = Number.parseInt(form.dataset.photoMaxBytes || "8388608", 10);
   const submitButton = form.querySelector("[type='submit']");
+  const photoInput = form.elements.namedItem("suggestedPhoto");
   const status = document.querySelector("[data-page-feedback-status]");
+  const photoStatus = document.querySelector("[data-page-feedback-photo-status]");
   const thankYou = document.querySelector("[data-page-feedback-thank-you]");
   const thankYouText = document.querySelector("[data-page-feedback-thank-you-text]");
   const source = document.querySelector("[data-page-feedback-source]");
@@ -47,6 +50,18 @@
     status.hidden = false;
     status.textContent = message;
     status.dataset.type = type;
+  };
+
+  const setPhotoStatus = (message, type = "info") => {
+    if (!photoStatus) return;
+    if (!message) {
+      photoStatus.hidden = true;
+      photoStatus.textContent = "";
+      return;
+    }
+    photoStatus.hidden = false;
+    photoStatus.textContent = message;
+    photoStatus.dataset.type = type;
   };
 
   const readField = (name) => {
@@ -107,6 +122,59 @@
 
   const hasEditorPassword = () => Boolean(readField("editorPassword"));
 
+  const selectedPhoto = () => {
+    if (!photoInput || !("files" in photoInput) || !photoInput.files.length) return null;
+    return photoInput.files[0];
+  };
+
+  const readPhotoMeta = () => new Promise((resolve, reject) => {
+    const file = selectedPhoto();
+    if (!file) {
+      setPhotoStatus("");
+      resolve(null);
+      return;
+    }
+
+    if (!["image/jpeg", "image/png", "image/webp"].includes(file.type)) {
+      reject(new Error("אפשר להעלות תמונת JPEG, PNG או WebP בלבד."));
+      return;
+    }
+
+    if (file.size > photoMaxBytes) {
+      const maxMb = Math.floor(photoMaxBytes / 1024 / 1024);
+      reject(new Error(`התמונה גדולה מדי. הגודל המרבי הוא ${maxMb}MB.`));
+      return;
+    }
+
+    const image = new Image();
+    const objectUrl = URL.createObjectURL(file);
+    image.onload = () => {
+      URL.revokeObjectURL(objectUrl);
+      const width = image.naturalWidth || 0;
+      const height = image.naturalHeight || 0;
+      if (!width || !height) {
+        reject(new Error("לא ניתן לקרוא את ממדי התמונה."));
+        return;
+      }
+      if (width <= height) {
+        reject(new Error("יש להעלות תמונת רוחב בלבד."));
+        return;
+      }
+      const ratio = width / height;
+      const ratioError = Math.abs(ratio - (4 / 3)) / (4 / 3);
+      const ratioText = ratioError <= 0.04
+        ? "היחס קרוב ל־4:3."
+        : "היחס אינו 4:3 במדויק; אם התמונה תאושר, היא תיחתך בעדינות לפני פרסום.";
+      setPhotoStatus(`תמונה נבחרה: ${width}x${height}. ${ratioText}`, "info");
+      resolve({ width, height, type: file.type, size: file.size });
+    };
+    image.onerror = () => {
+      URL.revokeObjectURL(objectUrl);
+      reject(new Error("לא ניתן לקרוא את קובץ התמונה."));
+    };
+    image.src = objectUrl;
+  });
+
   const showThankYou = (approvedForUpdate) => {
     form.hidden = true;
     if (status) status.hidden = true;
@@ -133,30 +201,37 @@
       return;
     }
 
+    let photoMeta = null;
+    try {
+      photoMeta = await readPhotoMeta();
+    } catch (error) {
+      setPhotoStatus(error.message || "לא ניתן להעלות את התמונה.", "error");
+      return;
+    }
+
+    if (!readField("comment") && !photoMeta) {
+      setStatus("יש לכתוב הערה או לבחור תמונה מוצעת.", "error");
+      return;
+    }
+
     if (submitButton) submitButton.disabled = true;
     setStatus("שולח את ההערה...", "info");
 
-    const payload = {
-      pageUrl: readField("pageUrl"),
-      pageTitle: readField("pageTitle"),
-      pageSlug: readField("pageSlug"),
-      paperTitle: readField("paperTitle"),
-      doi: readField("doi"),
-      comment: readField("comment"),
-      submitterEmail: readField("submitterEmail"),
-      submitterPhone: readField("submitterPhone"),
-      editorPassword: readField("editorPassword"),
-      website: readField("website")
-    };
+    const payload = new FormData(form);
+    if (photoMeta) {
+      payload.set("suggestedPhotoWidth", String(photoMeta.width));
+      payload.set("suggestedPhotoHeight", String(photoMeta.height));
+      payload.set("suggestedPhotoType", photoMeta.type);
+      payload.set("suggestedPhotoSize", String(photoMeta.size));
+    }
 
     try {
       const response = await fetch(endpoint, {
         method: "POST",
         headers: {
-          "Content-Type": "application/json",
           "Accept": "application/json"
         },
-        body: JSON.stringify(payload)
+        body: payload
       });
       const result = await response.json().catch(() => ({}));
 
@@ -177,4 +252,14 @@
       setStatus(error.message || "לא ניתן היה לשלוח את ההערה.", "error");
     }
   });
+
+  if (photoInput) {
+    photoInput.addEventListener("change", async () => {
+      try {
+        await readPhotoMeta();
+      } catch (error) {
+        setPhotoStatus(error.message || "לא ניתן להעלות את התמונה.", "error");
+      }
+    });
+  }
 })();

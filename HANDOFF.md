@@ -30,7 +30,7 @@ The site is right-to-left Hebrew, uses shared Jekyll layouts, includes Pagefind 
 - Private `demokratia-info/democracy-paper-suggestions-private` `Authors.csv` - optional preferred and blocked author list for nightly scans. It also has a `Current Site Papers` column, refreshed from public `_papers` metadata with `python3 scripts/update_author_site_counts.py /path/to/private/Authors.csv`. It is private and must not be committed to this public repo.
 - `paper_queue.csv` - editable queue of upcoming nightly papers; nightly automation consumes enough first rows to reach 10 new papers total and removes them after adding those papers.
 - `suggest_queue.csv` - header-only public placeholder. The real visitor suggestion queue is private at `demokratia-info/democracy-paper-suggestions-private`.
-- Private `demokratia-info/democracy-paper-suggestions-private` `page_feedback_queue.csv` - visitor correction/comment queue with optional contact details. It must stay private.
+- Private `demokratia-info/democracy-paper-suggestions-private` `page_feedback_queue.csv` - visitor correction/comment queue with optional contact details and optional suggested paper-photo metadata. It must stay private.
 - `_papers/*.md` - one paper summary per Markdown/front matter file.
 - `_data/site.json` - site-level settings, including `homepageLatestCount`, `topicPageSize`, `lastUpdated`, image-version labels, and the standard disclaimer.
 - `_data/topics.json` - topic taxonomy. Paper membership is read from each paper file's `topics` list.
@@ -85,7 +85,7 @@ Use this sequence for manual or automated paper additions:
 8. Assign one or more existing topic IDs from `_data/topics.json`.
 9. Link author names only when the author identity is certain and the link is an official academic profile or clearly maintained academic home page. Before leaving a name unlinked, reuse matching URLs from existing `_papers/*.md`, then check DOI/publisher metadata, ORCID links, institutional directories, personal academic sites, and quoted-name searches with affiliation or paper title; report unresolved names instead of guessing.
 10. Make external paper and author links open in a new tab with `target="_blank"` and `rel="noopener noreferrer"` in stored HTML fields.
-11. Add or reuse an 800x600 landscape JPEG in `html_qa/`.
+11. Add a newly sourced or generated 800x600 landscape JPEG in `html_qa/`; do not reuse an existing site image for a new paper.
 12. Update `image_catalog.json`.
 13. Remove consumed rows from the private `suggest_queue.csv` and/or public `paper_queue.csv`.
 14. Bump `_data/site.json` `lastUpdated` and `cacheVersion` so returning browsers refresh after deploy. Set `datePublished` only when the page is created; use `dateModified`/`lastUpdatedHe` for later edits. `newBadgeDays` controls how long `חדש!` appears after `datePublished`.
@@ -117,7 +117,7 @@ Paper images should be:
 - Warm cream and ochre tones, muted teal/deep-blue accents, Mediterranean civic architecture, dignified human figures when useful, natural light, symbolic but concrete composition.
 - No text, letters, logos, flags, watermarks, UI widgets, or pasted-looking layers.
 
-Before creating a new image, check `image_catalog.json`. Reuse an existing image if the topic fit is strong and the image is not used by any of the newest homepage cards.
+Before creating a new image, check `image_catalog.json` so the new image is not a repeat of an existing site image.
 
 ## Site-Wide Features
 
@@ -129,7 +129,7 @@ Before creating a new image, check `image_catalog.json`. Reuse an existing image
 - Browser refresh: shared page heads load versioned CSS/Pagefind assets and compare the page's `cacheVersion` with `/site-version.json`; stale pages reload once with a `site_version` query parameter.
 - New badge: cards show the red `חדש!` label for papers whose `datePublished` page-creation date is inside `_data/site.json` `newBadgeDays`, currently 3 calendar days.
 - Suggest a paper: the homepage footer links to `/suggest-paper.html` with the Hebrew label `הצע מאמר`. The form is English, requires paper title, DOI, submitter name, and email, and redirects home 5 seconds after a successful submission. GitHub Pages needs a server-side endpoint for real CSV writes; configure `_data/site.json` `suggestPaperEndpoint` after deploying `workers/suggest-paper-worker.js`.
-- Page feedback: every public page footer links to `/page-feedback.html` with the Hebrew label `הצעות לתיקונים והערות`. The form accepts Hebrew or English comments, optional email, optional phone, and an optional editor password. It posts to `_data/site.json` `pageFeedbackEndpoint`, and the Worker appends rows to private `page_feedback_queue.csv`. A correct editor password writes the row as `approved_for_update`; an empty or incorrect password is ignored and writes ordinary `pending` feedback. The Worker must never store the password.
+- Page feedback: every public page footer links to `/page-feedback.html` with the Hebrew label `הצעות לתיקונים והערות`. The form accepts Hebrew or English comments, an optional suggested photo, optional email, optional phone, and an optional editor password. It posts to `_data/site.json` `pageFeedbackEndpoint`, and the Worker appends rows to private `page_feedback_queue.csv`; original uploaded photos are stored only in the private operational repository. A correct editor password writes the row as `approved_for_update`; an empty or incorrect password is ignored and writes ordinary `pending` feedback. The Worker must never store the password.
 - Accessibility: `accessibility.html` exists; `todo.md` still notes that public accessibility contact details are needed.
 
 ## Nightly Automation Handoff
