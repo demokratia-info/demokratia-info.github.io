@@ -42,6 +42,11 @@ permalink: /page-feedback.html
     <input class="form-control" id="submitterPhone" name="submitterPhone" type="tel" dir="ltr" autocomplete="tel" maxlength="40">
   </div>
 
+  <div class="form-field">
+    <label class="form-label" for="feedbackEditorPassword">סיסמת עורך (לא חובה)</label>
+    <input class="form-control" id="feedbackEditorPassword" name="editorPassword" type="password" autocomplete="off" maxlength="300">
+  </div>
+
   <p class="form-note">פרטי הקשר אינם חובה, אינם מוצגים באתר, וישמשו רק אם יהיה צורך בהבהרה.</p>
 
   <div class="form-actions">
@@ -53,5 +58,5 @@ permalink: /page-feedback.html
 
 <section class="thank-you-message" data-page-feedback-thank-you hidden tabindex="-1" aria-live="polite">
   <h2>תודה</h2>
-  <p>ההערה התקבלה ותיבדק לפני כל שינוי באתר. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.</p>
+  <p data-page-feedback-thank-you-text>ההערה התקבלה ותיבדק לפני כל שינוי באתר. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.</p>
 </section>

@@ -112,6 +112,8 @@ async function handlePageFeedback(request, env, cors) {
   const ipHash = await hashSourceIp(ipAddress, submittedDate, env);
   const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
   const dailyLimit = parseIntEnv(env.PAGE_FEEDBACK_DAILY_LIMIT, 5);
+  const approvedByEditorPassword = await optionalEditorPasswordMatches(payload, env);
+  const feedbackStatus = approvedByEditorPassword ? "approved_for_update" : "pending";
 
   return appendQueueRow({
     github,
@@ -128,16 +130,22 @@ async function handlePageFeedback(request, env, cors) {
       feedback.submitterEmail,
       feedback.submitterPhone,
       ipHash,
-      "pending",
-      "",
+      feedbackStatus,
+      approvedByEditorPassword ? "submitted_with_editor_password" : "",
       ""
     ],
     submittedDate,
     ipHash,
     ipHashIndex: 10,
     dailyLimit,
+    bypassDailyLimit: approvedByEditorPassword,
     limitMessage: "You have already submitted several comments today.",
     commitMessage: "Add website page feedback",
+    successBody: {
+      ok: true,
+      status: feedbackStatus,
+      approvedForUpdate: approvedByEditorPassword
+    },
     cors
   });
 }
@@ -269,8 +277,10 @@ async function appendQueueRow({
   ipHash,
   ipHashIndex,
   dailyLimit,
+  bypassDailyLimit = false,
   limitMessage,
   commitMessage,
+  successBody = { ok: true },
   cors
 }) {
   for (let attempt = 0; attempt < 3; attempt += 1) {
@@ -282,7 +292,7 @@ async function appendQueueRow({
       .filter((csvRow) => csvRow[0] === submittedDate && csvRow[ipHashIndex] === ipHash)
       .length;
 
-    if (count >= dailyLimit) {
+    if (!bypassDailyLimit && count >= dailyLimit) {
       return jsonResponse({ ok: false, error: limitMessage }, 429, cors);
     }
 
@@ -295,7 +305,7 @@ async function appendQueueRow({
       throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
     }
 
-    return jsonResponse({ ok: true }, 200, cors);
+    return jsonResponse(successBody, 200, cors);
   }
 
   return jsonResponse(
@@ -474,21 +484,29 @@ async function requireEditorPassword(request, env) {
   const supplied = editorPasswordFromRequest(request);
   if (!supplied) throw new Error("Editor password is required.");
 
-  if (env.EDITOR_PASSWORD_SHA256) {
-    const suppliedHash = await sha256Hex(supplied);
-    if (!constantTimeEqual(suppliedHash, String(env.EDITOR_PASSWORD_SHA256).trim().toLowerCase())) {
-      throw new Error("Editor password is incorrect.");
-    }
-    return;
-  }
-
-  if (!env.EDITOR_PASSWORD) {
+  if (!env.EDITOR_PASSWORD_SHA256 && !env.EDITOR_PASSWORD) {
     throw new Error("Missing EDITOR_PASSWORD or EDITOR_PASSWORD_SHA256 worker secret.");
   }
 
-  if (!constantTimeEqual(supplied, String(env.EDITOR_PASSWORD))) {
+  if (!(await editorPasswordMatches(supplied, env))) {
     throw new Error("Editor password is incorrect.");
   }
+}
+
+async function optionalEditorPasswordMatches(payload, env) {
+  const supplied = String(payload.editorPassword || payload.editor_password || "").trim();
+  if (!supplied) return false;
+  return editorPasswordMatches(supplied, env);
+}
+
+async function editorPasswordMatches(supplied, env) {
+  if (env.EDITOR_PASSWORD_SHA256) {
+    const suppliedHash = await sha256Hex(supplied);
+    return constantTimeEqual(suppliedHash, String(env.EDITOR_PASSWORD_SHA256).trim().toLowerCase());
+  }
+
+  if (!env.EDITOR_PASSWORD) return false;
+  return constantTimeEqual(supplied, String(env.EDITOR_PASSWORD));
 }
 
 function editorPasswordFromRequest(request) {

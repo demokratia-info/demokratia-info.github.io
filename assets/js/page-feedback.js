@@ -9,9 +9,12 @@
   const submitButton = form.querySelector("[type='submit']");
   const status = document.querySelector("[data-page-feedback-status]");
   const thankYou = document.querySelector("[data-page-feedback-thank-you]");
+  const thankYouText = document.querySelector("[data-page-feedback-thank-you-text]");
   const source = document.querySelector("[data-page-feedback-source]");
   const sourceLink = document.querySelector("[data-page-feedback-url]");
   const params = new URLSearchParams(window.location.search);
+  const normalThankYouMessage = "ההערה התקבלה ותיבדק לפני כל שינוי באתר. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.";
+  const approvedThankYouMessage = "ההערה התקבלה וסומנה כמאושרת לעדכון. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.";
 
   const todayKey = () => {
     const now = new Date();
@@ -100,17 +103,18 @@
     return;
   }
 
-  if (localSubmissionCount() >= dailyLimit) {
-    disableForm("נשלחו כבר כמה הערות ממכשיר זה היום. אפשר לנסות שוב מחר.");
-  }
-
   const safeRedirectUrl = () => sameOriginUrl(readField("pageUrl")) || homeUrl;
 
-  const showThankYou = () => {
+  const hasEditorPassword = () => Boolean(readField("editorPassword"));
+
+  const showThankYou = (approvedForUpdate) => {
     form.hidden = true;
     if (status) status.hidden = true;
     if (source) source.hidden = true;
     if (thankYou) {
+      if (thankYouText) {
+        thankYouText.textContent = approvedForUpdate ? approvedThankYouMessage : normalThankYouMessage;
+      }
       thankYou.hidden = false;
       thankYou.focus();
     }
@@ -124,7 +128,7 @@
 
     if (!form.reportValidity()) return;
 
-    if (localSubmissionCount() >= dailyLimit) {
+    if (localSubmissionCount() >= dailyLimit && !hasEditorPassword()) {
       setStatus("נשלחו כבר כמה הערות ממכשיר זה היום. אפשר לנסות שוב מחר.", "error");
       return;
     }
@@ -141,6 +145,7 @@
       comment: readField("comment"),
       submitterEmail: readField("submitterEmail"),
       submitterPhone: readField("submitterPhone"),
+      editorPassword: readField("editorPassword"),
       website: readField("website")
     };
 
@@ -162,8 +167,11 @@
         throw new Error(result.error || "לא ניתן היה לשלוח את ההערה.");
       }
 
-      setLocalSubmissionCount(localSubmissionCount() + 1);
-      showThankYou();
+      const approvedForUpdate = result.approvedForUpdate === true || result.status === "approved_for_update";
+      if (!approvedForUpdate) {
+        setLocalSubmissionCount(localSubmissionCount() + 1);
+      }
+      showThankYou(approvedForUpdate);
     } catch (error) {
       if (submitButton) submitButton.disabled = false;
       setStatus(error.message || "לא ניתן היה לשלוח את ההערה.", "error");

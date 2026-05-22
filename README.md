@@ -56,9 +56,9 @@ The Worker enforces the two-suggestions-per-source-per-Israel-calendar-day limit
 
 ## Page Corrections And Comments
 
-Every public page footer links to `/page-feedback.html` with the Hebrew label `הצעות לתיקונים והערות`. The link passes the source page URL and title to the form. Visitors can submit comments in Hebrew or English and may optionally add an email address or phone number.
+Every public page footer links to `/page-feedback.html` with the Hebrew label `הצעות לתיקונים והערות`. The link passes the source page URL and title to the form. Visitors can submit comments in Hebrew or English and may optionally add an email address or phone number. The form also includes an optional editor-password field. If that field matches the Worker editor password, the row is written with status `approved_for_update`; if it is empty or incorrect, the password field is ignored and the row is handled as ordinary `pending` feedback.
 
-The form posts to `_data/site.json` `pageFeedbackEndpoint`, currently the same Worker URL as paper suggestions plus `/page-feedback`. The Worker writes accepted rows to private `page_feedback_queue.csv` and stores only a daily salted hash of the source IP, not the raw IP address. Contact fields and free-text comments must never be committed to this public repository.
+The form posts to `_data/site.json` `pageFeedbackEndpoint`, currently the same Worker URL as paper suggestions plus `/page-feedback`. The Worker writes accepted rows to private `page_feedback_queue.csv` and stores only a daily salted hash of the source IP, not the raw IP address. It must never store the editor password. Contact fields and free-text comments must never be committed to this public repository.
 
 Editors should review private feedback rows and mark only actionable rows `approved_for_update`. Nightly automation should act only on those approved rows, verify the correction against the source paper or reliable metadata, update the relevant public source page when safe, and then mark the private row `applied` or `rejected`.
 

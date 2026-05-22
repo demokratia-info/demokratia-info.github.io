@@ -6,6 +6,7 @@ The Worker:
 
 - accepts paper suggestions at the Worker root path and appends accepted rows to private `suggest_queue.csv`;
 - accepts page correction/comment submissions at `/page-feedback` and appends accepted rows to private `page_feedback_queue.csv`;
+- lets editors optionally include the editor password with a page-feedback submission; a correct password writes the row as `approved_for_update`, while an empty or incorrect password is ignored and the row remains ordinary `pending` feedback;
 - exposes a password-protected editor API at `/admin/page-feedback` for listing feedback rows and changing their status;
 - keeps page feedback contact fields optional;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
@@ -40,6 +41,6 @@ wrangler secret put EDITOR_PASSWORD
 wrangler deploy
 ```
 
-`GITHUB_TOKEN` needs permission to write repository contents. `EDITOR_PASSWORD` protects the editor API; alternatively use `EDITOR_PASSWORD_SHA256` with the SHA-256 hex digest of the password. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`, use the same URL plus `/page-feedback` as `pageFeedbackEndpoint`, and use the same URL plus `/admin/page-feedback` as `feedbackEditorEndpoint`.
+`GITHUB_TOKEN` needs permission to write repository contents. `EDITOR_PASSWORD` protects the editor API and enables optional editor approval from the page-feedback form; alternatively use `EDITOR_PASSWORD_SHA256` with the SHA-256 hex digest of the password. The page-feedback form never stores the submitted password. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`, use the same URL plus `/page-feedback` as `pageFeedbackEndpoint`, and use the same URL plus `/admin/page-feedback` as `feedbackEditorEndpoint`.
 
 If this repository is public, remember that names, emails, phone numbers, and free-text comments committed to CSV files are visible in GitHub history even though the files are excluded from the built Jekyll site. For private handling of personal data, point `GITHUB_REPO`, `QUEUE_PATH`, and `FEEDBACK_QUEUE_PATH` at a private repository and adjust the nightly automation to read those private queues.
