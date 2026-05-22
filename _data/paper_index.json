@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 492,
+  "paperCount": 490,
   "papers": [
     {
       "slug": "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he",
@@ -3958,7 +3958,7 @@
       "file": "democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.html",
       "permalink": "/democracy_the_mother_of_all_protests_meets_israeli_older_persons_when_age_and_gender_intersect_in_political_protests_summary_he.html",
       "sortKey": 202605210291,
-      "titleHe": "מחאת האם של כל המחאות ומבוגרים ישראלים",
+      "titleHe": "אם כל המחאות והאוכלוסיה המבוגרת בישראל",
       "paperTitle": "The “Mother of All Protests” Meets Israeli Older Persons: When Age and Gender Intersect in Political Protests",
       "authorsCardHe": "Liat Ayalon, ‪Sarit Okun‬‏",
       "sourceAuthors": [
@@ -9729,31 +9729,6 @@
       "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים."
     },
     {
-      "slug": "democracy_the_two_state_model_and_israeli_constitutionalism_summary_he",
-      "file": "democracy_the_two_state_model_and_israeli_constitutionalism_summary_he.html",
-      "permalink": "/democracy_the_two_state_model_and_israeli_constitutionalism_summary_he.html",
-      "sortKey": 202605210067,
-      "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
-      "paperTitle": "The Two-State Model and Israeli Constitutionalism",
-      "authorsCardHe": "מאזן מסרי",
-      "sourceAuthors": [
-        "Mazen Masri"
-      ],
-      "journal": "Journal of Palestine Studies",
-      "dateText": "פורסם: 01.08.2015",
-      "doiUrl": "https://doi.org/10.1525/jps.2015.44.4.7",
-      "topics": [
-        "constitutionalism-courts-rule-of-law"
-      ],
-      "image": {
-        "src": "html_qa/democracy_the_two_state_model_and_israeli_constitutionalism_summary_he.jpg",
-        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-05-21",
-      "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור."
-    },
-    {
       "slug": "democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he",
       "file": "democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he.html",
       "permalink": "/democracy_democracy_constitutionalism_and_identity_the_anomaly_of_the_israeli_case_summary_he.html",
@@ -9856,31 +9831,6 @@
       "datePublished": "2026-05-21",
       "dateModified": "2026-05-21",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור."
-    },
-    {
-      "slug": "democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he",
-      "file": "democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.html",
-      "permalink": "/democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.html",
-      "sortKey": 202605210062,
-      "titleHe": "מה חוק הלאום עושה לשוויון ולאזרחות דמוקרטית?",
-      "paperTitle": "Jewish Nation State Law and Transformation of the Elite in Israel",
-      "authorsCardHe": "גוקהאן צ׳ינקרה",
-      "sourceAuthors": [
-        "Gökhan ÇINKARA"
-      ],
-      "journal": "Fiscaoeconomia",
-      "dateText": "פורסם: 31.01.2020",
-      "doiUrl": "https://doi.org/10.25295/fsecon.2020.01.010",
-      "topics": [
-        "constitutionalism-courts-rule-of-law"
-      ],
-      "image": {
-        "src": "html_qa/democracy_jewish_nation_state_law_and_transformation_of_the_elite_in_israel_summary_he.jpg",
-        "altHe": "איור על בית משפט, חוקה ושלטון החוק"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-05-21",
-      "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה."
     },
     {
       "slug": "democracy_a_comparative_constitutional_perspective_on_israels_nation_state_law_summary_he",

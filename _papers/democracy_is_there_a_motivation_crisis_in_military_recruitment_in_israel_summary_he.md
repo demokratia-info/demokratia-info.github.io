@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית משבר המוטיבציה בגיוס לצבא בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yagil Levy",
   "paperTitle": "Is There a Motivation Crisis in Military Recruitment in Israel?",
-  "authorsHtml": "Yagil Levy",
+  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/profyagillevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Yagil Levy</a>",
   "journal": "Israel Affairs",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1080/13537120902734426",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yagil Levy"
+      "name": "Yagil Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/profyagillevy.aspx"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yagil Levy"
+      "name": "Yagil Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/profyagillevy.aspx"
     }
   ],
   "topics": [
