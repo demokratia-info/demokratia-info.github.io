@@ -37,7 +37,7 @@ permalink: /page-feedback.html
   <div class="form-field">
     <label class="form-label" for="suggestedPhoto">תמונה מוצעת למאמר (לא חובה)</label>
     <input class="form-control" id="suggestedPhoto" name="suggestedPhoto" type="file" accept="image/jpeg,image/png,image/webp">
-    <p class="form-note">יש להעלות תמונת רוחב ביחס 4:3 ככל האפשר. סטייה קלה ביחס תטופל בחיתוך לפני פרסום, והתמונה תומר ל־800x600 רק אם עורך יאשר אותה.</p>
+    <p class="form-note">יש להעלות תמונת רוחב ביחס 4:3 ככל האפשר. סטייה קלה ביחס תטופל בחיתוך לפני פרסום, והתמונה תומר ל־800x600 רק אם עורך יאשר אותה. בהעלאת התמונה אני מאשר/ת שהתמונה היא תמונה שיש לי הרשאה להשתמש בה ולפרסם אותה באתר. למשל: תמונה שצילמת בעצמך, תמונה שרכשת ממאגר, או תמונה שקיבלת לגביה אישור שימוש.</p>
     <p class="form-status feedback-photo-status" data-page-feedback-photo-status hidden role="status" aria-live="polite"></p>
   </div>
 
