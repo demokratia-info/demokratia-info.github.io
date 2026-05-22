@@ -1,8 +1,273 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 482,
+  "paperCount": 492,
   "papers": [
+    {
+      "slug": "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he",
+      "file": "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he.html",
+      "permalink": "/democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he.html",
+      "sortKey": 202605220110,
+      "titleHe": "דת ומדינה בישראל בין זהות יהודית לאופי דמוקרטי",
+      "paperTitle": "A Jewish and Democratic State? Comparing Government Involvement in Religion in Israel with other Democracies",
+      "authorsCardHe": "Jonathan Fox, Jonathan Rynhold",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Jonathan Rynhold"
+      ],
+      "journal": "Totalitarian Movements & Political Religions",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1080/14690760802495981",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he.jpg",
+        "altHe": "חדר דיון אזרחי על יחסי דת, מדינה ודמוקרטיה בישראל"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר משתמש בנתוני Religion and State כדי לבחון האם המעורבות הממשלתית בדת בישראל חריגה עד כדי ערעור אופייה הדמוקרטי. במקום להסתפק בשאלה זהותית כללית על “יהודית ודמוקרטית”, הוא משווה את דפוסי המעורבות הישראליים למתרחש בדמוקרטיות אחרות. המסקנה המרכזית מורכבת: עצם קיומם של הסדרים דתיים אינו שולל דמוקרטיה, אך רמת המעורבות, תחומיה והקשריה עדיין חשובים להבנת חירות, שוויון ותחרות פוליטית."
+    },
+    {
+      "slug": "democracy_constitutional_mindset_the_interrelations_between_constitutional_law_and_international_law_in_the_extraterritorial_application_of_human_rights_summary_he",
+      "file": "democracy_constitutional_mindset_the_interrelations_between_constitutional_law_and_international_law_in_the_extraterritorial_application_of_human_rights_summary_he.html",
+      "permalink": "/democracy_constitutional_mindset_the_interrelations_between_constitutional_law_and_international_law_in_the_extraterritorial_application_of_human_rights_summary_he.html",
+      "sortKey": 202605220109,
+      "titleHe": "חוקתי או בין־לאומי? זכויות אדם מעבר לגבולות המדינה",
+      "paperTitle": "Constitutional Mindset: The Interrelations between Constitutional Law and International Law in the Extraterritorial Application of Human Rights",
+      "authorsCardHe": "Smadar Ben-Natan",
+      "sourceAuthors": [
+        "Smadar Ben-Natan"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.1017/s0021223717000061",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_mindset_the_interrelations_between_constitutional_law_and_international_law_in_the_extraterritorial_application_of_human_rights_summary_he.jpg",
+        "altHe": "מבואת בית המשפט העליון בירושלים כמרחב של משפט חוקתי ובין־לאומי"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר בוחן את החלת זכויות האדם מעבר לגבולות המדינה באמצעות השוואה בין המודל האמריקאי, האירופי והישראלי. הוא מראה שהבחירה בין משפט חוקתי לבין משפט בין־לאומי אינה טכנית בלבד: היא מעצבת את היקף הזכויות, את היחס בין המדינה לשטח שבו היא פועלת, ואת האופן שבו בתי משפט מתמודדים עם אזורים משפטיים אפורים."
+    },
+    {
+      "slug": "democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he",
+      "file": "democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he.html",
+      "permalink": "/democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he.html",
+      "sortKey": 202605220108,
+      "titleHe": "דמוקרטיזציה של יחסי דת ומדינה במזרח התיכון",
+      "paperTitle": "Democratizing state–religion relations: a comparative study of Turkey, Egypt and Israel",
+      "authorsCardHe": "Amal Jamal",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Democratization",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1080/13510340903271779",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he.jpg",
+        "altHe": "אולם מליאת הכנסת כמוקד מוסדי לוויכוח על דת, מדינה וייצוג"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר משווה את יחסי הדת והמדינה בטורקיה, מצרים וישראל כדי לטעון שדמוקרטיזציה אינה נובעת אוטומטית מהפרדה מלאה או מאינטגרציה מלאה. לפי התקציר, מה שקובע הוא צורת הקשר, היקפו וכיוונו: לעיתים ייצוג פומבי של קבוצות דתיות יכול לבטא דמוקרטיזציה, ולעיתים דווקא פירוק מונופול דתי ממוסד הוא תנאי להרחבת חירות ושוויון."
+    },
+    {
+      "slug": "democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he",
+      "file": "democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he.html",
+      "permalink": "/democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he.html",
+      "sortKey": 202605220107,
+      "titleHe": "תרופות חוקתיות, דיאלוג מוסדי והגנה על עותרים",
+      "paperTitle": "Constitutional Dialogue Under Pressure: Constitutional Remedies in Israel as a Test Case",
+      "authorsCardHe": "Bell Yosef",
+      "sourceAuthors": [
+        "Bell Yosef"
+      ],
+      "journal": "The American Journal of Comparative Law",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1093/ajcl/avac047",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he.jpg",
+        "altHe": "אולם משפטי שבו עותרים, עורכי דין ומסמכים ממחישים תרופות חוקתיות"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר בוחן את תיאוריית הדיאלוג החוקתי דרך שאלת התרופות החוקתיות בישראל. הוא מכיר בכך שדיאלוג בין בית המשפט למחוקק יכול להעניק לגיטימציה ולפתוח מרחב תגובה פוליטי, אך מזהיר שמיקוד יתר במוסדות עלול להותיר את העותרים ללא סעד מלא. לכן המאמר מציע לחשוב מחדש על תרופות חזקות שמשנות סטטוס־קוו ומגינות בפועל על זכויות."
+    },
+    {
+      "slug": "democracy_semi_liberal_constitutionalism_summary_he",
+      "file": "democracy_semi_liberal_constitutionalism_summary_he.html",
+      "permalink": "/democracy_semi_liberal_constitutionalism_summary_he.html",
+      "sortKey": 202605220106,
+      "titleHe": "חוקתיות חצי־ליברלית וזכויות במצבי אי־שוויון",
+      "paperTitle": "Semi-liberal constitutionalism",
+      "authorsCardHe": "Gila Stopler",
+      "sourceAuthors": [
+        "Gila Stopler"
+      ],
+      "journal": "Global Constitutionalism",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1017/s2045381718000370",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_semi_liberal_constitutionalism_summary_he.jpg",
+        "altHe": "מסדרון בית משפט וקבוצות אזרחים הממחישים מתח בין זכויות, דת ומעמד אישי"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר מציע את המושג “חוקתיות חצי־ליברלית” כדי לתאר מערכות שמחויבות בו בזמן לזכויות ליברליות ולערכים או אינטרסים שמגבילים חלק מהזכויות הללו באופן מתמשך. ישראל משמשת דוגמה דרך יחסי דת ומדינה ודיני המעמד האישי. הטענה החשובה היא שהפעלת נימוק ליברלי רגיל בתוך מערכת חצי־ליברלית עלולה להחמיץ פערי כוח ולהגן על זכויות של חלק מהקבוצות על חשבון אחרות."
+    },
+    {
+      "slug": "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he",
+      "file": "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.html",
+      "permalink": "/democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.html",
+      "sortKey": 202605220105,
+      "titleHe": "רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל",
+      "paperTitle": "From State Control to Regulation to Privatization of Religion–State Relations in Israel: Kashrut Reform as a Case-Study",
+      "authorsCardHe": "Nahshon Perez, Elisheva Rosman",
+      "sourceAuthors": [
+        "Nahshon Perez",
+        "Elisheva Rosman"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.3390/rel13050455",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.jpg",
+        "altHe": "שוק מזון ומסמכי פיקוח הממחישים רגולציה והפרטה ביחסי דת ומדינה"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר משתמש ברפורמת הכשרות כמקרה מבחן לשינוי רחב ביחסי דת ומדינה בישראל. הוא מתאר מעבר מהספקה ושליטה מדינתית ישירה של שירותים דתיים אל מודלים של רגולציה, נסיגה והפרטה חלקית. הטענה המרכזית היא שמודל הסטטוס־קוו כבר אינו מתאר כראוי את המציאות, מפני שיחסי דת ומדינה נעשים היברידיים ומשלבים שוק, פיקוח, מונופולים ישנים ומנגנונים חדשים."
+    },
+    {
+      "slug": "democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he",
+      "file": "democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he.html",
+      "sortKey": 202605220104,
+      "titleHe": "חילון, דת וליברליזם בדמוקרטיה הישראלית",
+      "paperTitle": "Are We There Yet? Religion, Secularization and Liberal Democracy in Israel",
+      "authorsCardHe": "Guy Ben-Porat",
+      "sourceAuthors": [
+        "Guy Ben-Porat"
+      ],
+      "journal": "Mediterranean Politics",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1080/13629395.2013.799343",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he.jpg",
+        "altHe": "מרחב דתי ציבורי בירושלים המדגיש את המתח בין חילון, דת וליברליזם"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר בוחן מדוע חילון במרחבים מסוימים בישראל אינו מוביל בהכרח לליברליזם מלא. לפי התקציר, הדת ממשיכה למלא תפקיד בשיח הלאומי ובסימון גבולות קבוצתיים, וקבוצות אתניות שונות מייחסות חשיבות שונה לטקסים דתיים. לכן חילון יכול להתקדם בתוך גבולות לאומיים צרים, בלי מחויבות מספקת לחופש דת, סובלנות ושוויון ליברלי."
+    },
+    {
+      "slug": "democracy_the_european_convention_on_human_rights_in_israeli_courts_summary_he",
+      "file": "democracy_the_european_convention_on_human_rights_in_israeli_courts_summary_he.html",
+      "permalink": "/democracy_the_european_convention_on_human_rights_in_israeli_courts_summary_he.html",
+      "sortKey": 202605220103,
+      "titleHe": "האמנה האירופית לזכויות אדם בבתי המשפט בישראל",
+      "paperTitle": "The European Convention on Human Rights in Israeli Courts",
+      "authorsCardHe": "Tamar Hostovsky Brandes, Natalie R. Davidson",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes",
+        "Natalie R. Davidson"
+      ],
+      "journal": "European Constitutional Law Review",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1017/s1574019624000075",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_european_convention_on_human_rights_in_israeli_courts_summary_he.jpg",
+        "altHe": "חדר מחקר משפטי המשווה בין פסיקה אירופית לבין משפט ישראלי"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר בוחן כיצד בתי משפט בישראל מפנים לאמנה האירופית לזכויות אדם ולפסיקת בית הדין האירופי לזכויות אדם כמקורות של משפט משווה. לפי תקציר המקור, השימוש במשפט משווה משמש גם טכניקה של לגיטימציה: הוא מסייע לבתי משפט לנמק הכרעות, להשוות רמות הגנה ולמקם את המשפט הישראלי בתוך שיחה חוקתית רחבה יותר."
+    },
+    {
+      "slug": "democracy_the_role_of_courts_in_rifted_democracies_summary_he",
+      "file": "democracy_the_role_of_courts_in_rifted_democracies_summary_he.html",
+      "permalink": "/democracy_the_role_of_courts_in_rifted_democracies_summary_he.html",
+      "sortKey": 202605220102,
+      "titleHe": "תפקיד בתי המשפט בדמוקרטיות שסועות",
+      "paperTitle": "The Role of Courts in Rifted Democracies",
+      "authorsCardHe": "Ruth Gavison",
+      "sourceAuthors": [
+        "Ruth Gavison"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1017/s0021223700015983",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_role_of_courts_in_rifted_democracies_summary_he.jpg",
+        "altHe": "אולם דיונים בבית המשפט העליון בישראל כסמל למעמד בתי המשפט בדמוקרטיה שסועה"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר מתמודד עם הדילמה של בתי משפט בדמוקרטיה שסועה: מצד אחד, מערכת שיפוט עצמאית נחוצה לחירות, לדמוקרטיה ולשלטון החוק; מצד אחר, בית משפט שנתפס כחורג מגבולותיו עלול להחליש את הלגיטימציה הציבורית שלו. התקציר מציב את המתח הזה בישראל של סוף שנות התשעים, סביב ביקורת חריפה על בית המשפט העליון ונשיאו."
+    },
+    {
+      "slug": "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he",
+      "file": "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he.html",
+      "permalink": "/democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he.html",
+      "sortKey": 202605220101,
+      "titleHe": "הדחה באמצעות ביקורת שיפוטית במערכת האיזונים הישראלית",
+      "paperTitle": "Impeachment by Judicial Review: Israel’s Odd System of Checks and Balances",
+      "authorsCardHe": "Yoav Dotan",
+      "sourceAuthors": [
+        "Yoav Dotan"
+      ],
+      "journal": "Theoretical Inquiries in Law",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.1515/til-2018-0033",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he.jpg",
+        "altHe": "בניין בית המשפט העליון כסמל לאיזונים בין משפט לפוליטיקה בישראל"
+      },
+      "datePublished": "2026-05-22",
+      "dateModified": "2026-05-22",
+      "summaryHe": "המאמר מנתח דוקטרינה ייחודית שהתפתחה בבית המשפט העליון בישראל מאז שנות התשעים: הסרת נושאי משרה מתפקידם באמצעות הליכי ביקורת שיפוטית רגילים. לפי התקציר, הדוקטרינה אינה נשענת על מסגרת חוקתית פורמלית של הדחה, אך השפיעה עמוקות על היחסים בין הרשות השופטת לבין הרשות הפוליטית ועל עליית כוחו של בית המשפט."
+    },
     {
       "slug": "democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he",
       "file": "democracy_diversionary_desecration_regime_instability_and_societal_violence_against_minority_sacred_spaces_summary_he.html",

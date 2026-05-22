@@ -8,7 +8,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-22",
-  "cacheVersion": "2026-05-22-feedback-form",
+  "cacheVersion": "2026-05-22-manual-daily-10",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
@@ -18,7 +18,7 @@
   "pageFeedbackDailyLimit": 5,
   "pageFeedbackRedirectDelayMs": 5000,
   "topicImageVersion": "20260507-topic-icons",
-  "paperImageVersion": "2026-05-22-nightly-100c",
+  "paperImageVersion": "2026-05-22-manual-daily-10",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
-  "paperCount": 482
+  "paperCount": 492
 }

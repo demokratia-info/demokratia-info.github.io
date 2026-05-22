@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Rivka Weill",
   "paperTitle": "The Strategic Common Law Court of Aharon Barak and its Aftermath: On Judicially-Led Constitutional Revolutions and Democratic Backsliding",
-  "authorsHtml": "Rivka Weill",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/rweill\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Weill</a>",
   "journal": "Law & Ethics of Human Rights",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1515/lehr-2020-2017",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Rivka Weill"
+      "name": "Rivka Weill",
+      "url": "https://www.runi.ac.il/en/faculty/rweill"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Rivka Weill"
+      "name": "Rivka Weill",
+      "url": "https://www.runi.ac.il/en/faculty/rweill"
     }
   ],
   "topics": [

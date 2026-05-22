@@ -1,0 +1,163 @@
+---
+{
+  "version": 1,
+  "layout": "paper",
+  "file": "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.html",
+  "slug": "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he",
+  "order": 488,
+  "title": "רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל",
+  "titleHe": "רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל",
+  "subtitleHe": "",
+  "descriptionHe": "תמצית בעברית של מאמר על רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
+  "summaryHe": "המאמר משתמש ברפורמת הכשרות כמקרה מבחן לשינוי רחב ביחסי דת ומדינה בישראל. הוא מתאר מעבר מהספקה ושליטה מדינתית ישירה של שירותים דתיים אל מודלים של רגולציה, נסיגה והפרטה חלקית. הטענה המרכזית היא שמודל הסטטוס־קוו כבר אינו מתאר כראוי את המציאות, מפני שיחסי דת ומדינה נעשים היברידיים ומשלבים שוק, פיקוח, מונופולים ישנים ומנגנונים חדשים.",
+  "authorsCardHe": "Nahshon Perez, Elisheva Rosman",
+  "paperTitle": "From State Control to Regulation to Privatization of Religion–State Relations in Israel: Kashrut Reform as a Case-Study",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/nahshon-perez\" target=\"_blank\" rel=\"noopener noreferrer\">Nahshon Perez</a>; Elisheva Rosman",
+  "journal": "Religions",
+  "dateText": "פורסם: 2022",
+  "sourcePublishedDate": "2022-05-18",
+  "doiUrl": "https://doi.org/10.3390/rel13050455",
+  "doiLabel": "https://doi.org/10.3390/rel13050455",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Nahshon Perez",
+      "url": "https://cris.biu.ac.il/en/persons/nahshon-perez"
+    },
+    {
+      "@type": "Person",
+      "name": "Elisheva Rosman"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Nahshon Perez",
+      "url": "https://cris.biu.ac.il/en/persons/nahshon-perez"
+    },
+    {
+      "@type": "Person",
+      "name": "Elisheva Rosman"
+    }
+  ],
+  "topics": [
+    "institutions-civil-society-public-service",
+    "rights-equality-minorities"
+  ],
+  "keywords": [
+    "מוסדות",
+    "מדיניות ציבורית",
+    "חברה אזרחית",
+    "רגולציה",
+    "אחריות ציבורית",
+    "זכויות אדם",
+    "שוויון",
+    "מיעוטים",
+    "חירות",
+    "אזרחות"
+  ],
+  "image": {
+    "src": "html_qa/democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.jpg",
+    "version": "2026-05-22-manual-daily-10",
+    "altHe": "שוק מזון ומסמכי פיקוח הממחישים רגולציה והפרטה ביחסי דת ומדינה"
+  },
+  "datePublished": "2026-05-22",
+  "dateModified": "2026-05-22",
+  "lastUpdatedHe": "22 במאי 2026",
+  "oneLinerHtml": "שורה תחתונה: רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל מציב את שאלת <strong>הדמוקרטיה הליברלית</strong> דרך מוסדות, זכויות ואחריות ציבורית.",
+  "sections": [
+    {
+      "headingHe": "רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל",
+      "paragraphsHtml": [
+        "המאמר בוחן כיצד שינוי כלכלי ומוסדי משפיע על הסדרים דתיים שנתפסו במשך שנים כחלק מן הסטטוס־קוו הישראלי.",
+        "רשומת המקור מציינת פרסום בכתב העת Religions בשנת 2022, עם <a href=\"https://doi.org/10.3390/rel13050455\" target=\"_blank\" rel=\"noopener noreferrer\">DOI/מקור</a>.",
+        "התרומה הדמוקרטית היא הפניית תשומת הלב לאופן שבו שירות דתי הופך לזירת רגולציה, תחרות ושאלות של אחריות ציבורית."
+      ]
+    },
+    {
+      "headingHe": "הטענה המרכזית והמשמעות הציבורית",
+      "paragraphsHtml": [
+        "המאמר משתמש ברפורמת הכשרות כמקרה מבחן לשינוי רחב ביחסי דת ומדינה בישראל. הוא מתאר מעבר מהספקה ושליטה מדינתית ישירה של שירותים דתיים אל מודלים של רגולציה, נסיגה והפרטה חלקית. הטענה המרכזית היא שמודל הסטטוס־קוו כבר אינו מתאר כראוי את המציאות, מפני שיחסי דת ומדינה נעשים היברידיים ומשלבים שוק, פיקוח, מונופולים ישנים ומנגנונים חדשים.",
+        "לקורא הישראלי המשמעות היא שרפורמות טכניות לכאורה, כמו כשרות, משנות את חלוקת הכוח בין מדינה, רבנות, עסקים, צרכנים וקבוצות דתיות."
+      ]
+    },
+    {
+      "headingHe": "איזה משפט מן התקציר מאיר את הדיון?",
+      "paragraphsHtml": [
+        "תקציר המקור מסכם את נקודת המפנה כך: <q>מודל הסטטוס־קוו כבר אינו מגדיר כראוי את יחסי הדת והמדינה בישראל.</q>",
+        "הציטוט מובא כתרגום נאמן וקצר מן התקציר האנגלי, ולכן הוא משמש עוגן זהיר בלבד ולא מחליף קריאה במאמר המקורי."
+      ]
+    },
+    {
+      "headingHe": "איך לקרוא את הסיכום בזהירות?",
+      "paragraphsHtml": [
+        "הסיכום נשען על מטא־דאטה אקדמי ועל תקציר המקור, ואינו מייחס למחברות או למחברים טענות שאינן מופיעות במקור שנבדק.",
+        "כאשר המאמר עוסק במוסדות, זכויות או דת ומדינה, חשוב להבחין בין תיאור הממצא לבין מסקנה נורמטיבית רחבה יותר על דמוקרטיה ליברלית."
+      ]
+    },
+    {
+      "headingHe": "למה כשרות היא סוגיה דמוקרטית?",
+      "paragraphsHtml": [
+        "כשרות אינה רק שירות דתי; היא שאלה של <strong>רגולציה ציבורית</strong>, מונופול, חופש עיסוק, אמון צרכנים וחופש דת."
+      ]
+    },
+    {
+      "headingHe": "מהו מודל הסטטוס־קוו?",
+      "paragraphsHtml": [
+        "זהו הסדר היסטורי המעניק לקבוצות דתיות מוכרות סמכויות, שירותים והטבות בתחומי דת ומעמד אישי."
+      ]
+    },
+    {
+      "headingHe": "מה השתנה מאז שנות השמונים?",
+      "paragraphsHtml": [
+        "המאמר קושר ליברליזציה והפרטה כלכלית לשינויים ביחסי דת ומדינה, כולל נסיגת המדינה מהספקה ישירה."
+      ]
+    },
+    {
+      "headingHe": "מהי רגולציה במקום שליטה?",
+      "paragraphsHtml": [
+        "במקום לספק שירות דתי בעצמה, המדינה עשויה לפקח על שחקנים אחרים שמספקים אותו."
+      ]
+    },
+    {
+      "headingHe": "מה הסיכון בהפרטה?",
+      "paragraphsHtml": [
+        "הפרטה יכולה להרחיב בחירה, אך גם ליצור אי־שוויון, עמימות ואחריות ציבורית חלשה יותר."
+      ]
+    },
+    {
+      "headingHe": "מה הרווח האפשרי ברפורמה?",
+      "paragraphsHtml": [
+        "רפורמה יכולה לפתוח שוק סגור, להגביר שקיפות ולצמצם מונופול דתי ממוסד."
+      ]
+    },
+    {
+      "headingHe": "איך זה קשור לאופי היהודי של המדינה?",
+      "paragraphsHtml": [
+        "המאמר מציין שהשינויים ברגולציה הדתית משפיעים על הדרך שבה המדינה מגדירה ומנהלת את יהדותה המוסדית."
+      ]
+    },
+    {
+      "headingHe": "האם הסטטוס־קוו נעלם?",
+      "paragraphsHtml": [
+        "לא בהכרח. לפי המאמר, הוא משתלב במודל היברידי לצד הפרטה ורגולציה."
+      ]
+    },
+    {
+      "headingHe": "מה צריך לבדוק במדיניות כשרות?",
+      "paragraphsHtml": [
+        "מי מוסמך לאשר, מי מפקח, מי מרוויח, ומהן ההגנות לצרכנים ולעסקים שאינם חלק מהמונופול הישן."
+      ]
+    },
+    {
+      "headingHe": "מה השורה התחתונה?",
+      "paragraphsHtml": [
+        "רפורמת הכשרות מלמדת שיחסי דת ומדינה משתנים גם דרך מוסדות יומיומיים, ולא רק דרך פסיקות דרמטיות או חקיקה חוקתית."
+      ]
+    }
+  ],
+  "permalink": "/democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.html",
+  "paper_url": "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he.html",
+  "sortKey": 202605220105
+}
+---
