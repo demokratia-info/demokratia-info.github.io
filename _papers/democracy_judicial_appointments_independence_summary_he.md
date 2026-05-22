@@ -10,7 +10,7 @@
   "summaryHe": "איך כללי מינוי השופטים משפיעים על עצמאות מערכת המשפט ועל יכולתה להגן על דמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "authorsCardHe": "עלי זלצברגר",
   "paperTitle": "Judicial Appointments and Promotions in Israel - Constitution, Law and Politics",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger/\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Salzberger</a>",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Salzberger</a>",
   "journal": "Appointing Judges in the Age of Judicial Power: Critical Perspectives",
   "dateText": "פורסם כפרק בספר: 2005; הועלה ל-SSRN: 9 במאי 2005",
   "doiUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=720661",
@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eli Salzberger"
+      "name": "Eli Salzberger",
+      "url": "https://cris.haifa.ac.il/en/persons/eli-salzberger"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מראה ששיטת מינוי שופטים אינה פרט טכני, אלא חלק מהתשתית שמאפשרת לבית המשפט לפעול באופן עצמאי מול לחצים פוליטיים. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "sections": [
     {

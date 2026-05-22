@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שלום וביטחון בבחירות 2009 בישראל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Jonathan Rynhold",
   "paperTitle": "Peace and security in the 2009 election",
-  "authorsHtml": "Jonathan Rynhold",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-rynhold\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Rynhold</a>",
   "journal": "Israel Affairs",
   "dateText": "פורסם: 2010",
   "doiUrl": "https://doi.org/10.1080/13537120903462050",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Jonathan Rynhold"
+      "name": "Jonathan Rynhold",
+      "url": "https://cris.biu.ac.il/en/persons/jonathan-rynhold"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Jonathan Rynhold"
+      "name": "Jonathan Rynhold",
+      "url": "https://cris.biu.ac.il/en/persons/jonathan-rynhold"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: שלום וביטחון בבחירות 2009 בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

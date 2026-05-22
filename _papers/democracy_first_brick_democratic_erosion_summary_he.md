@@ -10,7 +10,7 @@
   "summaryHe": "למה חשוב לזהות צעדים מוקדמים שמחלישים מוסדות דמוקרטיים לפני שהנזק מצטבר. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "authorsCardHe": "תמר הוסטובסקי ברנדס, יניב רוזנאי",
   "paperTitle": "When the First Brick falls of the Fortress of Democracy: Dealing with the First Slice of the ‘Salami Tactic’ for Eroding Democracy",
-  "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>; <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
+  "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>, <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
   "journal": "Asian Journal of Comparative Law",
   "dateText": "פורסם אונליין: 25 באפריל 2025; גיליון: 2024",
   "doiUrl": "https://doi.org/10.1017/asjcl.2025.7",
@@ -30,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tamar Hostovsky Brandes"
+      "name": "Tamar Hostovsky Brandes",
+      "url": "https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/"
     },
     {
       "@type": "Person",
@@ -56,8 +57,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר טוען שבתי משפט אינם יכולים לחכות עד שכל מבנה הדמוקרטיה ייחלש; לפעמים צריך לזהות כבר את הצעד הראשון בתהליך ולבחון אותו בתוך ההקשר הרחב. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Gal Levy, Riki Kohan-Benlulu",
   "paperTitle": "Being civil is not enough: On practices of citizenship of women living in poverty in Israel",
-  "authorsHtml": "Gal Levy, Riki Kohan-Benlulu",
+  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>, Riki Kohan-Benlulu",
   "journal": "Radical Housing Journal",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.54825/soen8457",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     },
     {
       "@type": "Person",
@@ -56,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

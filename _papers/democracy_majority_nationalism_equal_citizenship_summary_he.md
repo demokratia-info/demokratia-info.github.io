@@ -10,7 +10,7 @@
   "summaryHe": "מחקר אמפירי על האופן שבו חוקי לאומיות רוב משפיעים על שוויון אזרחי של מיעוטים. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "authorsCardHe": "נטע ברק-קורן, נעם גדרון, יובל פלדמן",
   "paperTitle": "Majority Nationalism Laws and the Equal Citizenship of Minorities: Experimental, Panel, and Cross-Sectional Evidence from Israel",
-  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://cris.biu.ac.il/en/persons/yuval-feldman/\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feldman</a>",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, Yuval Feldman",
   "journal": "Journal of Legal Studies",
   "dateText": "2022",
   "doiUrl": "https://doi.org/10.1086/718577",
@@ -35,7 +35,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Netta Barak-Corren"
+      "name": "Netta Barak-Corren",
+      "url": "https://en.law.huji.ac.il/people/netta-barak-corren"
     },
     {
       "@type": "Person",
@@ -64,8 +65,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן כיצד חוקים שמדגישים את זהות הרוב יכולים להשפיע על תחושת השוויון וההשתייכות של מיעוטים בדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "sections": [
     {

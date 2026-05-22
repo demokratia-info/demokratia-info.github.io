@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פופוליזם ומינויים פוליטיים דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Nissim Cohen, Ron Duhl",
   "paperTitle": "Populism and Political Appointments",
-  "authorsHtml": "Nissim Cohen; Ron Duhl",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>, Ron Duhl",
   "journal": "Public Administration Review",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1111/puar.70023",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Nissim Cohen"
+      "name": "Nissim Cohen",
+      "url": "https://cris.haifa.ac.il/en/persons/nissim-cohen/"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Nissim Cohen"
+      "name": "Nissim Cohen",
+      "url": "https://cris.haifa.ac.il/en/persons/nissim-cohen/"
     },
     {
       "@type": "Person",
@@ -58,14 +60,14 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פופוליזם ומינויים פוליטיים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {
       "headingHe": "מושגי יסוד בקצרה",
       "paragraphsHtml": [
-        "פופוליזם הוא סגנון או תפיסה פוליטית שמציגה את הפוליטיקה כמאבק בין <strong>העם</strong> לבין <strong>אליטה</strong>, וטוענת שיש רצון עממי אחד שאפשר וצריך לבטא ישירות. בהקשר של המאמר, ההסבר חשוב כדי להבין מתי פנייה בשם הציבור מחזקת השתתפות פוליטית ומתי היא מחלישה פלורליזם, ביקורת מוסדית וזכויות של מי שאינם חלק מן הרוב."
+        "פופוליזם הוא סגנון או תפיסה פוליטית שמציגה את הפוליטיקה כמאבק בין <strong>העם</strong> לבין <strong>אליטה</strong>, וטוענת שיש רצון עממי אחד שאפשר וצריך לבטא ישירות. במאמר הזה המושג נקשר לשאלה האם פוליטיקאים פופוליסטים מגבירים מינויים פוליטיים כשהם מגיעים לשלטון: המחברים בוחנים פטורים מתחרות או מהליך מינוי מבוסס כישורים כאינדיקציה לפוליטיזציה של השירות הציבורי. לכן ההסבר חשוב כדי להבין כיצד רטוריקה בשם הציבור יכולה להחליש פלורליזם, מקצועיות מינהלית וביקורת מוסדית."
       ]
     },
     {

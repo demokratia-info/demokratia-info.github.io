@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Amal Jamal",
   "paperTitle": "Beyond “Ethnic Democracy”: State Structure, Multicultural Conflict and Differentiated Citizenship in Israel",
-  "authorsHtml": "Amal Jamal",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/ajamal\" target=\"_blank\" rel=\"noopener noreferrer\">Amal Jamal</a>",
   "journal": "New Political Science",
   "dateText": "פורסם: 2002",
   "doiUrl": "https://doi.org/10.1080/0739314022000005437",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Amal Jamal"
+      "name": "Amal Jamal",
+      "url": "https://english.tau.ac.il/profile/ajamal"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Amal Jamal"
+      "name": "Amal Jamal",
+      "url": "https://english.tau.ac.il/profile/ajamal"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

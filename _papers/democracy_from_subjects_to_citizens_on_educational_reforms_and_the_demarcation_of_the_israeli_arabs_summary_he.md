@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מרפורמות חינוך לאזרחותם של ערבים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Gal Levy",
   "paperTitle": "From Subjects to Citizens: On Educational Reforms and the Demarcation of the “Israeli-Arabs”",
-  "authorsHtml": "Gal Levy",
+  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>",
   "journal": "Citizenship Studies",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.1080/13621020500147376",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מרפורמות חינוך לאזרחותם של ערבים בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

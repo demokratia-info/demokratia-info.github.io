@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Richard Harding",
   "paperTitle": "State monopoly of permitted violation of human rights: The decision of the Supreme Court of Israel prohibiting the private operation and management of prisons",
-  "authorsHtml": "Richard Harding",
+  "authorsHtml": "<a href=\"https://research-repository.uwa.edu.au/en/persons/richard-harding/\" target=\"_blank\" rel=\"noopener noreferrer\">Richard Harding</a>",
   "journal": "Punishment & Society",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.1177/1462474511434429",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Richard Harding"
+      "name": "Richard Harding",
+      "url": "https://research-repository.uwa.edu.au/en/persons/richard-harding/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Richard Harding"
+      "name": "Richard Harding",
+      "url": "https://research-repository.uwa.edu.au/en/persons/richard-harding/"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

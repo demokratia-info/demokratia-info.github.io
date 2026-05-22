@@ -10,7 +10,7 @@
   "summaryHe": "מחקר על האופן שבו ארגוני חברה אזרחית חרדיים יכולים לשמר גבולות קהילתיים במקום לקדם ליברליזציה. החשיבות הציבורית של המאמר היא בכך שהוא מדגיש שהדמוקרטיה נשענת על מוסדות, שירות ציבורי וחברה אזרחית מתפקדים; כאשר המרחבים האלה נחלשים, גם ההכרעה האלקטורלית עצמה מאבדת חלק מכוחה המתקן.",
   "authorsCardHe": "אשר סוזין",
   "paperTitle": "Do Civil Society Organizations Promote Democracy? The Case of the Ultra-Orthodox in Israel",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asher-yair-suzin/\" target=\"_blank\" rel=\"noopener noreferrer\">Asher Suzin</a>",
+  "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-asher-suzin/\" target=\"_blank\" rel=\"noopener noreferrer\">Asher Suzin</a>",
   "journal": "Political Science Quarterly",
   "dateText": "פורסם אונליין: 26 בפברואר 2025",
   "doiUrl": "https://doi.org/10.1093/psquar/qqaf009",
@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Asher Suzin"
+      "name": "Asher Suzin",
+      "url": "https://www.ono.ac.il/lecturer/dr-asher-suzin/"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מאתגר את ההנחה שכל צמיחה של חברה אזרחית מחזקת דמוקרטיה, ומראה שבמקרים מסוימים היא יכולה לשמר גבולות קהילתיים שמרניים. החשיבות הציבורית של המאמר היא בכך שהוא מדגיש שהדמוקרטיה נשענת על מוסדות, שירות ציבורי וחברה אזרחית מתפקדים; כאשר המרחבים האלה נחלשים, גם ההכרעה האלקטורלית עצמה מאבדת חלק מכוחה המתקן.",
   "sections": [
     {

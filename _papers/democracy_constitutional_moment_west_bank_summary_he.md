@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tamar Hostovsky Brandes"
+      "name": "Tamar Hostovsky Brandes",
+      "url": "https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר טוען שאי אפשר להבין את הרגע החוקתי בישראל בלי להתייחס גם לשאלת השליטה בגדה המערבית ולמי נכלל בתוך הקהילה הפוליטית שמעצבת את החוקה. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "sections": [
     {

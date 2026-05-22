@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Sebastian Schipper",
   "paperTitle": "Social movements in an era of post-democracy: how the Israeli J14 tent protests of 2011 challenged neoliberal hegemony through the production of place",
-  "authorsHtml": "Sebastian Schipper",
+  "authorsHtml": "<a href=\"https://gewohnter-wandel.de/en/person/prof-dr-sebastian-schipper/\" target=\"_blank\" rel=\"noopener noreferrer\">Sebastian Schipper</a>",
   "journal": "Social & Cultural Geography",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1080/14649365.2016.1228115",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Sebastian Schipper"
+      "name": "Sebastian Schipper",
+      "url": "https://gewohnter-wandel.de/en/person/prof-dr-sebastian-schipper/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Sebastian Schipper"
+      "name": "Sebastian Schipper",
+      "url": "https://gewohnter-wandel.de/en/person/prof-dr-sebastian-schipper/"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

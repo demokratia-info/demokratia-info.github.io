@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Rivka Weill",
   "paperTitle": "Hybrid Constitutionalism: The Israeli Case for Judicial Review and Why We Should Care",
-  "authorsHtml": "Rivka Weill",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/rweill\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Weill</a>",
   "journal": "",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.15779/z384d36",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Rivka Weill"
+      "name": "Rivka Weill",
+      "url": "https://www.runi.ac.il/en/faculty/rweill"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Rivka Weill"
+      "name": "Rivka Weill",
+      "url": "https://www.runi.ac.il/en/faculty/rweill"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

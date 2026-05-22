@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Gal Levy",
   "paperTitle": "Shake the Tree or Rock the Boat: The Not Nice Protest and Radical Democracy in Israel",
-  "authorsHtml": "Gal Levy",
+  "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>",
   "journal": "World Political Science",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1515/wps-2017-0009",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gal Levy"
+      "name": "Gal Levy",
+      "url": "https://www.openu.ac.il/en/personalsites/drgallevy.aspx"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

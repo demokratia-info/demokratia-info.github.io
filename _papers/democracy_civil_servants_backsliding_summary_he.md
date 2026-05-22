@@ -10,7 +10,7 @@
   "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
   "paperTitle": "Career Civil Servants' Socially Embedded Responses to Democratic Backsliding",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat/\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>; <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>; <a href=\"https://www.uantwerpen.be/en/staff/nir-kosti_28947/\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>; <a href=\"https://cris.biu.ac.il/en/persons/ilana-shpaizman/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
+  "authorsHtml": "Saar Alon-Barkat, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, Nir Kosti, Ilana Shpaizman",
   "journal": "Perspectives on Politics",
   "dateText": "פורסם אונליין: 26 ביוני 2025",
   "sourcePublishedDate": "2025-06-26",
@@ -45,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Sharon Gilad"
+      "name": "Sharon Gilad",
+      "url": "https://sharon-gilad.huji.ac.il/"
     },
     {
       "@type": "Person",
@@ -73,8 +74,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {

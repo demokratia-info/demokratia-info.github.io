@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Mordechai Kremnitzer, Yuval Shany",
   "paperTitle": "Illiberal Measures in Backsliding Democracies: Differences and Similarities between Recent Developments in Israel, Hungary, and Poland",
-  "authorsHtml": "Mordechai Kremnitzer; Yuval Shany",
+  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, Yuval Shany",
   "journal": "",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1515/lehr-2020-2010",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mordechai Kremnitzer"
+      "name": "Mordechai Kremnitzer",
+      "url": "https://en.idi.org.il/experts/1308"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mordechai Kremnitzer"
+      "name": "Mordechai Kremnitzer",
+      "url": "https://en.idi.org.il/experts/1308"
     },
     {
       "@type": "Person",
@@ -52,8 +54,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

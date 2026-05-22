@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Daniel Sperling, Nissim Cohen",
   "paperTitle": "A neo-institutional analysis of the hidden interaction between the Israeli Supreme Court and the Ministry of Finance: the right to healthcare services",
-  "authorsHtml": "Daniel Sperling; Nissim Cohen",
+  "authorsHtml": "Daniel Sperling, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",
   "journal": "Israel Journal of Health Policy Research",
   "dateText": "פורסם: 2018",
   "doiUrl": "https://doi.org/10.1186/s13584-018-0261-9",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Nissim Cohen"
+      "name": "Nissim Cohen",
+      "url": "https://cris.haifa.ac.il/en/persons/nissim-cohen/"
     }
   ],
   "sourceAuthors": [
@@ -32,7 +33,8 @@
     },
     {
       "@type": "Person",
-      "name": "Nissim Cohen"
+      "name": "Nissim Cohen",
+      "url": "https://cris.haifa.ac.il/en/persons/nissim-cohen/"
     }
   ],
   "topics": [
@@ -58,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {
