@@ -30,13 +30,15 @@ const FEEDBACK_QUEUE_HEADER = [
   "suggested_photo_type",
   "suggested_photo_size",
   "suggested_photo_width",
-  "suggested_photo_height"
+  "suggested_photo_height",
+  "submitter_role"
 ];
 
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
+const FEEDBACK_SUBMITTER_ROLES = new Set(["paper_author", "field_researcher", "other_or_prefer_not"]);
 const FEEDBACK_PHOTO_TYPES = new Map([
   ["image/jpeg", "jpg"],
   ["image/png", "png"],
@@ -156,7 +158,8 @@ async function handlePageFeedback(request, env, cors) {
     photoMeta ? photoMeta.type : "",
     photoMeta ? String(photoMeta.size) : "",
     photoMeta ? String(photoMeta.width) : "",
-    photoMeta ? String(photoMeta.height) : ""
+    photoMeta ? String(photoMeta.height) : "",
+    feedback.submitterRole
   ];
   let photoSaved = false;
 
@@ -327,7 +330,8 @@ function feedbackItemFromRow(row, index) {
     suggestedPhotoType: row[16] || "",
     suggestedPhotoSize: row[17] || "",
     suggestedPhotoWidth: row[18] || "",
-    suggestedPhotoHeight: row[19] || ""
+    suggestedPhotoHeight: row[19] || "",
+    submitterRole: row[20] || "other_or_prefer_not"
   };
 }
 
@@ -451,9 +455,13 @@ function validateFeedbackPayload(payload, env, hasPhotoUpload = false) {
   const comment = clean(payload.comment || payload.message || payload.notes, 5000);
   const submitterEmail = clean(payload.submitterEmail || payload.submitter_email || payload.email, 254).toLowerCase();
   const submitterPhone = clean(payload.submitterPhone || payload.submitter_phone || payload.phone, 40);
+  const submitterRole = clean(payload.submitterRole || payload.submitter_role || "", 80) || "other_or_prefer_not";
 
   if (!pageTitle) throw new Error("Page title is required.");
   if (!comment && !hasPhotoUpload) throw new Error("Comment or suggested photo is required.");
+  if (!FEEDBACK_SUBMITTER_ROLES.has(submitterRole)) {
+    throw new Error("Submitter role is invalid.");
+  }
   if (doi && !DOI_PATTERN.test(doi)) throw new Error("DOI must be valid.");
   if (submitterEmail && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail)) {
     throw new Error("Email address is invalid.");
@@ -470,7 +478,8 @@ function validateFeedbackPayload(payload, env, hasPhotoUpload = false) {
     doi,
     comment,
     submitterEmail,
-    submitterPhone
+    submitterPhone,
+    submitterRole
   };
 }
 

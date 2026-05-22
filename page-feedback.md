@@ -42,6 +42,15 @@ permalink: /page-feedback.html
   </div>
 
   <div class="form-field">
+    <label class="form-label" for="submitterRole">מי את/ה</label>
+    <select class="form-control" id="submitterRole" name="submitterRole">
+      <option value="paper_author">מחבר/ת המאמר</option>
+      <option value="field_researcher">חוקר/ת אחר/ת בתחום</option>
+      <option value="other_or_prefer_not" selected>אחר או מעדיפ/ה לא לשתף</option>
+    </select>
+  </div>
+
+  <div class="form-field">
     <label class="form-label" for="submitterEmail">דואר אלקטרוני (לא חובה)</label>
     <input class="form-control" id="submitterEmail" name="submitterEmail" type="email" dir="ltr" autocomplete="email" maxlength="254">
   </div>

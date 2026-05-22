@@ -23,6 +23,11 @@
   };
 
   const EDITABLE_STATUSES = ["pending", "approved_for_update", "rejected"];
+  const SUBMITTER_ROLE_LABELS = {
+    paper_author: "מחבר/ת המאמר",
+    field_researcher: "חוקר/ת אחר/ת בתחום",
+    other_or_prefer_not: "אחר או מעדיפ/ה לא לשתף"
+  };
 
   const setStatus = (message, type = "info") => {
     if (!statusBox) return;
@@ -301,6 +306,7 @@
     if (row.pageUrl) card.append(pageLink);
     appendIfPresent(card, field("שם המאמר", row.paperTitle, "latin"));
     appendIfPresent(card, field("DOI", row.doi, "latin"));
+    appendIfPresent(card, field("מי את/ה", SUBMITTER_ROLE_LABELS[row.submitterRole] || row.submitterRole));
     appendIfPresent(card, field("דואר אלקטרוני", row.submitterEmail, "latin"));
     appendIfPresent(card, field("טלפון", row.submitterPhone, "latin"));
     card.append(comment);
