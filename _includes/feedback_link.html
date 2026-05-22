@@ -1,0 +1,20 @@
+{% assign feedback_title = include.title | default: page.titleHe | default: page.title | default: site.data.site.siteNameHe %}
+{% assign feedback_url = page.url | absolute_url %}
+{% assign feedback_base = '/page-feedback.html' | relative_url %}
+{% assign feedback_title_clean = feedback_title | strip %}
+{% assign encoded_feedback_url = feedback_url | cgi_escape %}
+{% assign encoded_feedback_title = feedback_title_clean | cgi_escape %}
+{% assign feedback_href = feedback_base | append: '?page=' | append: encoded_feedback_url | append: '&amp;title=' | append: encoded_feedback_title %}
+{% if page.slug %}
+  {% assign encoded_feedback_slug = page.slug | cgi_escape %}
+  {% assign feedback_href = feedback_href | append: '&amp;slug=' | append: encoded_feedback_slug %}
+{% endif %}
+{% if page.paperTitle %}
+  {% assign encoded_feedback_paper = page.paperTitle | cgi_escape %}
+  {% assign feedback_href = feedback_href | append: '&amp;paper=' | append: encoded_feedback_paper %}
+{% endif %}
+{% if page.doiUrl %}
+  {% assign encoded_feedback_doi = page.doiUrl | cgi_escape %}
+  {% assign feedback_href = feedback_href | append: '&amp;doi=' | append: encoded_feedback_doi %}
+{% endif %}
+<a class="feedback-footer-link" href="{{ feedback_href }}">הצעות לתיקונים והערות</a>

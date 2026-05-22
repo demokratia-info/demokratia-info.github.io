@@ -46,6 +46,17 @@ echo "Private queue line count, including header: $private_queue_lines"
 echo "Private queue contents intentionally not printed."
 
 echo
+echo "== Private page feedback queue =="
+private_feedback_lines="$(
+  gh api "repos/$private_repo/contents/page_feedback_queue.csv" \
+    -H 'Accept: application/vnd.github.raw' \
+    | wc -l \
+    | tr -d ' '
+)"
+echo "Private page feedback queue line count, including header: $private_feedback_lines"
+echo "Private page feedback contents intentionally not printed."
+
+echo
 echo "== Private author policy =="
 private_authors_lines="$(
   gh api "repos/$private_repo/contents/Authors.MD" \

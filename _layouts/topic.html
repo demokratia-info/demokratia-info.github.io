@@ -95,6 +95,8 @@
     </section>
 
     <footer class="footer-links" data-pagefind-ignore>
+      {% include feedback_link.html title=topic.titleHe %}
+      <span aria-hidden="true"> · </span>
       <a href="{{ '/' | relative_url }}">חזרה לעמוד הבית</a>
       <span aria-hidden="true"> · </span>
       <a href="{{ '/accessibility.html' | relative_url }}">הצהרת נגישות</a>

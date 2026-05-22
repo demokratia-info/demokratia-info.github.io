@@ -2,7 +2,7 @@
 set -euo pipefail
 
 repo="demokratia-info/democracy-paper-suggestions-private"
-required_files=("Authors.MD" "suggest_queue.csv")
+required_files=("Authors.MD" "suggest_queue.csv" "page_feedback_queue.csv")
 attempts="${PRIVATE_REPO_CHECK_ATTEMPTS:-5}"
 sleep_seconds="${PRIVATE_REPO_CHECK_SLEEP_SECONDS:-20}"
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

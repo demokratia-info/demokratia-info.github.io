@@ -1,14 +1,23 @@
-# Paper Suggestion Worker
+# Website Form Worker
 
-GitHub Pages is static, so the public form cannot append to `suggest_queue.csv` or enforce an IP/source limit by itself. This Cloudflare Worker is the server-side endpoint for the form.
+GitHub Pages is static, so the public forms cannot append to private CSV queues or enforce IP/source limits by themselves. This Cloudflare Worker is the server-side endpoint for both public forms.
 
 The Worker:
 
-- accepts `paperTitle`, `doi`, `submitterName`, and `submitterEmail`;
-- validates that all fields are present;
+- accepts paper suggestions at the Worker root path and appends accepted rows to private `suggest_queue.csv`;
+- accepts page correction/comment submissions at `/page-feedback` and appends accepted rows to private `page_feedback_queue.csv`;
+- keeps page feedback contact fields optional;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
-- allows up to two accepted submissions per source per Israel calendar day;
-- appends accepted rows to `suggest_queue.csv` through the GitHub Contents API.
+- allows up to two accepted paper suggestions and five accepted page-feedback submissions per source per Israel calendar day;
+- writes the queues through the GitHub Contents API.
+
+`page_feedback_queue.csv` uses this header:
+
+```csv
+submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at
+```
+
+The nightly automation must act only on feedback rows that the editor has explicitly marked `approved_for_update`.
 
 ## Deploy
 
@@ -21,6 +30,6 @@ wrangler secret put IP_HASH_SECRET
 wrangler deploy
 ```
 
-`GITHUB_TOKEN` needs permission to write repository contents. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`.
+`GITHUB_TOKEN` needs permission to write repository contents. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`, and use the same URL plus `/page-feedback` as `pageFeedbackEndpoint`.
 
-If this repository is public, remember that names and emails committed to `suggest_queue.csv` are visible in GitHub history even though the file is excluded from the built Jekyll site. For private handling of personal data, point `GITHUB_REPO` and `QUEUE_PATH` at a private repository and adjust the nightly automation to read that private queue.
+If this repository is public, remember that names, emails, phone numbers, and free-text comments committed to CSV files are visible in GitHub history even though the files are excluded from the built Jekyll site. For private handling of personal data, point `GITHUB_REPO`, `QUEUE_PATH`, and `FEEDBACK_QUEUE_PATH` at a private repository and adjust the nightly automation to read those private queues.

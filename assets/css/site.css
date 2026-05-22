@@ -133,7 +133,10 @@ li { margin: 0 0 6px; }
 .suggest-main .logo-wrap { margin-bottom: 22px; }
 .suggest-main .home-link { direction: ltr; }
 .suggest-intro { max-width: 690px; margin: 10px 0 0; color: var(--muted); font-size: 19px; }
-.suggestion-form { display: grid; gap: 18px; max-width: 680px; margin: 26px 0 0; }
+.feedback-intro { max-width: 690px; margin: 10px 0 0; color: var(--muted); font-size: 19px; }
+.feedback-source { max-width: 720px; margin: 18px 0 0; padding: 12px 14px; border: 1px solid var(--line); border-radius: 6px; background: #eef3f4; color: var(--accent-dark); font-size: 16px; font-weight: 700; }
+.feedback-source-link { unicode-bidi: plaintext; }
+.suggestion-form, .feedback-form { display: grid; gap: 18px; max-width: 680px; margin: 26px 0 0; }
 .form-field { display: grid; gap: 7px; }
 .form-label { color: var(--accent-dark); font-size: 16px; font-weight: 700; line-height: 1.3; }
 .form-control {
@@ -148,6 +151,8 @@ li { margin: 0 0 6px; }
   line-height: 1.35;
 }
 .form-control:focus { border-color: var(--accent); }
+.feedback-textarea { min-height: 170px; resize: vertical; }
+.feedback-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
 .form-note { color: var(--muted); font-size: 15px; line-height: 1.5; }
 .form-actions { display: flex; align-items: center; gap: 12px; }
 .button-primary {

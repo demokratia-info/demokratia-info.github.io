@@ -12,6 +12,7 @@ The repository source is now Jekyll content, not hand-edited generated HTML:
 - Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` - optional preferred and blocked author list for the nightly scan. It is private because it may contain sensitive editorial preferences or contact details.
 - `paper_queue.csv` - editable nightly queue of upcoming papers. It uses `paper_name,authors,doi,topic` columns; the nightly automation consumes the first needed rows to reach 10 new papers total and removes them after the corresponding paper pages are added.
 - `suggest_queue.csv` - header-only public placeholder for compatibility. The operational visitor suggestion queue lives in the private repository `demokratia-info/democracy-paper-suggestions-private` because it contains names and email addresses.
+- Private `demokratia-info/democracy-paper-suggestions-private` `page_feedback_queue.csv` - visitor page comments and correction suggestions, including optional contact details. It must stay private.
 - `_data/site.json` - site-level settings.
 - `_data/topics.json` - topic taxonomy and topic metadata. Paper membership is read from each paper's `topics` list.
 - `_data/paper_index.json` - compact generated index for duplicate checks and nightly updates. Regenerate it from `_papers/*.md`; do not edit it manually.
@@ -19,13 +20,14 @@ The repository source is now Jekyll content, not hand-edited generated HTML:
 - `_includes/analytics.html` - site-wide GoatCounter analytics snippet.
 - `assets/css/site.css` - shared visual styling.
 - `assets/js/suggest-paper.js` - browser behavior for the public paper suggestion form.
+- `assets/js/page-feedback.js` - browser behavior for page correction/comment submissions.
 - `assets/topic-icons/` and `html_qa/` - topic icons and article images.
-- `workers/suggest-paper-worker.js` - optional Cloudflare Worker endpoint that receives public suggestions and appends them to the private `suggest_queue.csv`.
+- `workers/suggest-paper-worker.js` - optional Cloudflare Worker endpoint that receives public suggestions and page feedback, then appends them to the private CSV queues.
 - `scripts/validate_sources.py` - source validator and paper-index generator.
 
-Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, the private `Authors.MD`, and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit, is not a duplicate, and has no source author marked `blocked` in private `Authors.MD`; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Add each new paper's source authors who are members of academic institutions or clear scholarly research institutes to private `Authors.MD` with priority `normal` when they are not already listed, including verified affiliation, profile URL, ORCID, and email when available from official public pages. Then use enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch.
+Codex nightly updates should read the private `demokratia-info/democracy-paper-suggestions-private` `suggest_queue.csv`, private `page_feedback_queue.csv`, the private `Authors.MD`, and the public `paper_queue.csv`, then use `_data/paper_index.json` for duplicate checks. Review at most the first pending visitor paper suggestion from the private queue each night, in first-come-first-served order. Accept it only if it fits the website's subject and liberal-democratic spirit, is not a duplicate, and has no source author marked `blocked` in private `Authors.MD`; accepted suggestions count toward the nightly batch. Remove the processed suggestion row from the private queue whether accepted or rejected, and report the decision without exposing submitter details. Process page-feedback rows only after an editor marks them `approved_for_update`; verify every factual correction against the paper/source before changing a public page, then mark the private row `applied` or `rejected`. Add each new paper's source authors who are members of academic institutions or clear scholarly research institutes to private `Authors.MD` with priority `normal` when they are not already listed, including verified affiliation, profile URL, ORCID, and email when available from official public pages. Then use enough rows from `paper_queue.csv` to reach the normal 10-paper nightly batch.
 
-Run `scripts/check_private_repo_access.sh` before private queue or author-policy work. The script checks that `gh` is using the `demokratia-info` account, confirms write-capable permission on the private repository, verifies the two private file paths without printing private contents, and checks authenticated git access.
+Run `scripts/check_private_repo_access.sh` before private queue or author-policy work. The script checks that `gh` is using the `demokratia-info` account, confirms write-capable permission on the private repository, verifies the private file paths without printing private contents, and checks authenticated git access.
 
 For unattended local automations, keep GitHub auth simple: the active `gh`
 account must already be `demokratia-info`. Run
@@ -52,7 +54,15 @@ GitHub Pages cannot write to CSV files or enforce IP/source limits by itself. Th
 
 The Worker enforces the two-suggestions-per-source-per-Israel-calendar-day limit and writes accepted submissions to the private repository's `suggest_queue.csv`. It stores a daily salted hash of the source IP rather than the raw IP address. When a mail server is available, add email verification before the Worker writes a row or before the nightly automation accepts a suggested paper.
 
-Because the real `suggest_queue.csv` and private `Authors.MD` may contain sensitive information, they must stay in `demokratia-info/democracy-paper-suggestions-private` or another private store. Do not commit visitor-submitted rows or the private author policy file to this public website repository.
+## Page Corrections And Comments
+
+Every public page footer links to `/page-feedback.html` with the Hebrew label `הצעות לתיקונים והערות`. The link passes the source page URL and title to the form. Visitors can submit comments in Hebrew or English and may optionally add an email address or phone number.
+
+The form posts to `_data/site.json` `pageFeedbackEndpoint`, currently the same Worker URL as paper suggestions plus `/page-feedback`. The Worker writes accepted rows to private `page_feedback_queue.csv` and stores only a daily salted hash of the source IP, not the raw IP address. Contact fields and free-text comments must never be committed to this public repository.
+
+Editors should review private feedback rows and mark only actionable rows `approved_for_update`. Nightly automation should act only on those approved rows, verify the correction against the source paper or reliable metadata, update the relevant public source page when safe, and then mark the private row `applied` or `rejected`.
+
+Because the real `suggest_queue.csv`, `page_feedback_queue.csv`, and private `Authors.MD` may contain sensitive information, they must stay in `demokratia-info/democracy-paper-suggestions-private` or another private store. Do not commit visitor-submitted rows or the private author policy file to this public website repository.
 
 ## Summary Writing Guidance
 

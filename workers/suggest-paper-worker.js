@@ -1,4 +1,4 @@
-const QUEUE_HEADER = [
+const SUGGEST_QUEUE_HEADER = [
   "submitted_date",
   "submitted_at",
   "paper_name",
@@ -10,7 +10,25 @@ const QUEUE_HEADER = [
   "notes"
 ];
 
+const FEEDBACK_QUEUE_HEADER = [
+  "submitted_date",
+  "submitted_at",
+  "page_url",
+  "page_title",
+  "page_slug",
+  "paper_title",
+  "doi",
+  "comment",
+  "submitter_email",
+  "submitter_phone",
+  "submitter_ip_hash",
+  "status",
+  "editor_notes",
+  "applied_at"
+];
+
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
+const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 
 export default {
@@ -26,59 +44,10 @@ export default {
     }
 
     try {
-      const payload = await request.json();
-      const suggestion = validatePayload(payload);
-      const submittedDate = israelDate();
-      const submittedAt = new Date().toISOString();
-      const ipAddress = sourceIp(request);
-      const ipHash = await hashSourceIp(ipAddress, submittedDate, env);
-      const github = githubConfig(env);
-
-      for (let attempt = 0; attempt < 3; attempt += 1) {
-        const current = await fetchQueue(github);
-        const queue = normalizeQueueCsv(current.content);
-        const rows = parseCsv(queue);
-        const count = rows
-          .slice(1)
-          .filter((row) => row[0] === submittedDate && row[6] === ipHash)
-          .length;
-
-        if (count >= 2) {
-          return jsonResponse(
-            { ok: false, error: "You have already submitted two paper suggestions today." },
-            429,
-            cors
-          );
-        }
-
-        const nextRow = csvLine([
-          submittedDate,
-          submittedAt,
-          suggestion.paperTitle,
-          suggestion.doi,
-          suggestion.submitterName,
-          suggestion.submitterEmail,
-          ipHash,
-          "pending",
-          ""
-        ]);
-        const nextContent = `${queue}${nextRow}\n`;
-        const saved = await saveQueue(github, current.sha, nextContent);
-
-        if (saved.status === 409) continue;
-        if (!saved.ok) {
-          const detail = await saved.text();
-          throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
-        }
-
-        return jsonResponse({ ok: true }, 200, cors);
+      if (requestKind(request) === "page-feedback") {
+        return await handlePageFeedback(request, env, cors);
       }
-
-      return jsonResponse(
-        { ok: false, error: "The suggestion queue is busy. Please try again." },
-        409,
-        cors
-      );
+      return await handlePaperSuggestion(request, env, cors);
     } catch (error) {
       return jsonResponse(
         { ok: false, error: error instanceof Error ? error.message : "Unexpected error." },
@@ -88,6 +57,132 @@ export default {
     }
   }
 };
+
+async function handlePaperSuggestion(request, env, cors) {
+  const payload = await request.json();
+  const suggestion = validateSuggestionPayload(payload);
+  const submittedDate = israelDate();
+  const submittedAt = new Date().toISOString();
+  const ipAddress = sourceIp(request);
+  const ipHash = await hashSourceIp(ipAddress, submittedDate, env);
+  const github = githubConfig(env, "QUEUE_PATH", "suggest_queue.csv");
+
+  return appendQueueRow({
+    github,
+    header: SUGGEST_QUEUE_HEADER,
+    row: [
+      submittedDate,
+      submittedAt,
+      suggestion.paperTitle,
+      suggestion.doi,
+      suggestion.submitterName,
+      suggestion.submitterEmail,
+      ipHash,
+      "pending",
+      ""
+    ],
+    submittedDate,
+    ipHash,
+    ipHashIndex: 6,
+    dailyLimit: 2,
+    limitMessage: "You have already submitted two paper suggestions today.",
+    commitMessage: "Add website paper suggestion",
+    cors
+  });
+}
+
+async function handlePageFeedback(request, env, cors) {
+  const payload = await request.json();
+
+  if (clean(payload.website, 120)) {
+    return jsonResponse({ ok: true }, 200, cors);
+  }
+
+  const feedback = validateFeedbackPayload(payload, env);
+  const submittedDate = israelDate();
+  const submittedAt = new Date().toISOString();
+  const ipAddress = sourceIp(request);
+  const ipHash = await hashSourceIp(ipAddress, submittedDate, env);
+  const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
+  const dailyLimit = parseIntEnv(env.PAGE_FEEDBACK_DAILY_LIMIT, 5);
+
+  return appendQueueRow({
+    github,
+    header: FEEDBACK_QUEUE_HEADER,
+    row: [
+      submittedDate,
+      submittedAt,
+      feedback.pageUrl,
+      feedback.pageTitle,
+      feedback.pageSlug,
+      feedback.paperTitle,
+      feedback.doi,
+      feedback.comment,
+      feedback.submitterEmail,
+      feedback.submitterPhone,
+      ipHash,
+      "pending",
+      "",
+      ""
+    ],
+    submittedDate,
+    ipHash,
+    ipHashIndex: 10,
+    dailyLimit,
+    limitMessage: "You have already submitted several comments today.",
+    commitMessage: "Add website page feedback",
+    cors
+  });
+}
+
+async function appendQueueRow({
+  github,
+  header,
+  row,
+  submittedDate,
+  ipHash,
+  ipHashIndex,
+  dailyLimit,
+  limitMessage,
+  commitMessage,
+  cors
+}) {
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(github, header);
+    const queue = normalizeQueueCsv(current.content, header, github.path);
+    const rows = parseCsv(queue);
+    const count = rows
+      .slice(1)
+      .filter((csvRow) => csvRow[0] === submittedDate && csvRow[ipHashIndex] === ipHash)
+      .length;
+
+    if (count >= dailyLimit) {
+      return jsonResponse({ ok: false, error: limitMessage }, 429, cors);
+    }
+
+    const nextContent = `${queue}${csvLine(row)}\n`;
+    const saved = await saveQueue(github, current.sha, nextContent, commitMessage);
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return jsonResponse({ ok: true }, 200, cors);
+  }
+
+  return jsonResponse(
+    { ok: false, error: "The queue is busy. Please try again." },
+    409,
+    cors
+  );
+}
+
+function requestKind(request) {
+  const pathname = new URL(request.url).pathname.replace(/\/+$/, "");
+  return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
+}
 
 function corsHeaders(request, env) {
   const origin = request.headers.get("Origin") || "";
@@ -109,7 +204,7 @@ function jsonResponse(body, status, headers) {
   return new Response(JSON.stringify(body), { status, headers });
 }
 
-function validatePayload(payload) {
+function validateSuggestionPayload(payload) {
   const paperTitle = clean(payload.paperTitle || payload.paper_name || payload.title, 300);
   const doi = normalizeDoi(clean(payload.doi, 240));
   const submitterName = clean(payload.submitterName || payload.submitter_name || payload.name, 120);
@@ -126,6 +221,39 @@ function validatePayload(payload) {
   return { paperTitle, doi, submitterName, submitterEmail };
 }
 
+function validateFeedbackPayload(payload, env) {
+  const pageUrl = normalizePageUrl(payload.pageUrl || payload.page_url || payload.url, env);
+  const fallbackSlug = slugFromPageUrl(pageUrl);
+  const pageTitle = clean(payload.pageTitle || payload.page_title || payload.title || fallbackSlug, 300);
+  const pageSlug = clean(payload.pageSlug || payload.page_slug || fallbackSlug, 180);
+  const paperTitle = clean(payload.paperTitle || payload.paper_title || "", 300);
+  const doi = normalizeDoi(clean(payload.doi || "", 240));
+  const comment = clean(payload.comment || payload.message || payload.notes, 5000);
+  const submitterEmail = clean(payload.submitterEmail || payload.submitter_email || payload.email, 254).toLowerCase();
+  const submitterPhone = clean(payload.submitterPhone || payload.submitter_phone || payload.phone, 40);
+
+  if (!pageTitle) throw new Error("Page title is required.");
+  if (!comment) throw new Error("Comment is required.");
+  if (doi && !DOI_PATTERN.test(doi)) throw new Error("DOI must be valid.");
+  if (submitterEmail && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail)) {
+    throw new Error("Email address is invalid.");
+  }
+  if (submitterPhone && !/^[0-9+()\-\s.]{5,40}$/.test(submitterPhone)) {
+    throw new Error("Phone number is invalid.");
+  }
+
+  return {
+    pageUrl,
+    pageTitle,
+    pageSlug,
+    paperTitle,
+    doi,
+    comment,
+    submitterEmail,
+    submitterPhone
+  };
+}
+
 function clean(value, maxLength) {
   return String(value || "")
     .replace(/[\r\n\t]+/g, " ")
@@ -139,6 +267,41 @@ function normalizeDoi(value) {
     .replace(/^doi:\s*/i, "")
     .replace(/^https?:\/\/(?:dx\.)?doi\.org\//i, "https://doi.org/")
     .trim();
+}
+
+function normalizePageUrl(value, env) {
+  const raw = clean(value, 700);
+  if (!raw) throw new Error("Page URL is required.");
+
+  const origin = siteOrigin(env);
+  let url;
+  try {
+    url = new URL(raw, origin);
+  } catch {
+    throw new Error("Page URL is invalid.");
+  }
+
+  if (url.origin !== origin) {
+    throw new Error("Page URL must belong to this website.");
+  }
+
+  url.hash = "";
+  return url.toString();
+}
+
+function siteOrigin(env) {
+  const origin = String(env.SITE_ORIGIN || DEFAULT_SITE_ORIGIN).trim().replace(/\/+$/, "");
+  return new URL(origin).origin;
+}
+
+function slugFromPageUrl(pageUrl) {
+  try {
+    const pathname = new URL(pageUrl).pathname;
+    const filename = pathname.split("/").filter(Boolean).pop() || "home";
+    return decodeURIComponent(filename).replace(/\.html$/i, "").slice(0, 180);
+  } catch {
+    return "";
+  }
 }
 
 function israelDate() {
@@ -168,26 +331,26 @@ async function hashSourceIp(ipAddress, submittedDate, env) {
     .join("");
 }
 
-function githubConfig(env) {
+function githubConfig(env, queuePathEnvName, defaultPath) {
   const token = env.GITHUB_TOKEN;
   if (!token) throw new Error("Missing GITHUB_TOKEN worker secret.");
   return {
     owner: env.GITHUB_OWNER || "demokratia-info",
     repo: env.GITHUB_REPO || "democracy-paper-suggestions-private",
     branch: env.GITHUB_BRANCH || "main",
-    path: env.QUEUE_PATH || "suggest_queue.csv",
+    path: env[queuePathEnvName] || defaultPath,
     token
   };
 }
 
-async function fetchQueue(github) {
+async function fetchQueue(github, header) {
   const url = githubApiUrl(github, true);
   const response = await fetch(url, {
     headers: githubHeaders(github)
   });
 
   if (response.status === 404) {
-    return { sha: null, content: `${QUEUE_HEADER.join(",")}\n` };
+    return { sha: null, content: `${header.join(",")}\n` };
   }
 
   if (!response.ok) {
@@ -202,9 +365,9 @@ async function fetchQueue(github) {
   };
 }
 
-async function saveQueue(github, sha, content) {
+async function saveQueue(github, sha, content, message) {
   const body = {
-    message: "Add website paper suggestion",
+    message,
     branch: github.branch,
     content: textToBase64(content)
   };
@@ -228,17 +391,17 @@ function githubHeaders(github) {
     "Accept": "application/vnd.github+json",
     "Authorization": `Bearer ${github.token}`,
     "Content-Type": "application/json",
-    "User-Agent": "democracy-paper-suggestions"
+    "User-Agent": "democracy-website-feedback"
   };
 }
 
-function normalizeQueueCsv(csv) {
+function normalizeQueueCsv(csv, header, path) {
   const trimmed = String(csv || "").trimEnd();
-  if (!trimmed) return `${QUEUE_HEADER.join(",")}\n`;
+  if (!trimmed) return `${header.join(",")}\n`;
   const firstLine = trimmed.split(/\r?\n/, 1)[0];
-  const expected = QUEUE_HEADER.join(",");
+  const expected = header.join(",");
   if (firstLine !== expected) {
-    throw new Error(`suggest_queue.csv header must be: ${expected}`);
+    throw new Error(`${path} header must be: ${expected}`);
   }
   return `${trimmed}\n`;
 }
@@ -311,4 +474,9 @@ function textToBase64(value) {
     binary += String.fromCharCode(...bytes.subarray(index, index + chunkSize));
   }
   return btoa(binary);
+}
+
+function parseIntEnv(value, fallback) {
+  const parsed = Number.parseInt(value || "", 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }

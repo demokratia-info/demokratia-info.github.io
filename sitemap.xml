@@ -39,4 +39,10 @@ permalink: /sitemap.xml
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>{{ "/page-feedback.html" | absolute_url }}</loc>
+    <lastmod>{{ site.data.site.lastUpdated }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
 </urlset>
