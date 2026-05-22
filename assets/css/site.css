@@ -46,11 +46,24 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-region
   outline-offset: 3px;
 }
 
-.logo-wrap { position: relative; display: block; width: min(529px, 100%); margin: 0 auto 24px; }
+.logo-wrap { display: block; width: min(529px, 100%); margin: 0 auto 24px; }
+.logo-mark { position: relative; display: block; }
 .site-logo { display: block; width: 100%; height: auto; margin: 0 auto; }
 .logo-region { position: absolute; inset-inline: 0; display: block; text-decoration: none; }
 .logo-region-top { top: 0; height: 72%; }
 .logo-region-bottom { bottom: 0; height: 28%; }
+.site-construction-notice {
+  margin-top: 12px;
+  padding: 10px 14px;
+  border: 1px solid #d69e2e;
+  border-radius: 6px;
+  background: #fff4d7;
+  color: #573a00;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.45;
+  text-align: center;
+}
 .home-link { display: inline-flex; align-items: center; gap: 8px; margin: 0 0 18px; color: var(--link); font-weight: 700; text-decoration: none; }
 .home-link:hover { text-decoration: underline; }
 .home-icon { width: 19px; height: 19px; flex: 0 0 auto; }
