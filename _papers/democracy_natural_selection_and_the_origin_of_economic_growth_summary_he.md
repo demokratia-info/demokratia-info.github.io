@@ -36,7 +36,8 @@
   ],
   "topics": [
     "institutions-civil-society-public-service",
-    "public-opinion-polarization-violence"
+    "public-opinion-polarization-violence",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "מוסדות",

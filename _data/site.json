@@ -18,7 +18,7 @@
   "pageFeedbackDailyLimit": 5,
   "pageFeedbackRedirectDelayMs": 5000,
   "pageFeedbackPhotoMaxBytes": 8388608,
-  "topicImageVersion": "20260507-topic-icons",
+  "topicImageVersion": "20260523-topic-icons-v2",
   "paperImageVersion": "2026-05-23-extra-100-economics-refill",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
   "paperCount": 600,

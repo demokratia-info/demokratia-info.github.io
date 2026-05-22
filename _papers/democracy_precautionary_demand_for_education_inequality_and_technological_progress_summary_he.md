@@ -44,7 +44,8 @@
   ],
   "topics": [
     "institutions-civil-society-public-service",
-    "rights-equality-minorities"
+    "rights-equality-minorities",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "מוסדות",

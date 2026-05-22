@@ -30,7 +30,8 @@
     }
   ],
   "topics": [
-    "constitutionalism-courts-rule-of-law"
+    "constitutionalism-courts-rule-of-law",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "חוקתיות",

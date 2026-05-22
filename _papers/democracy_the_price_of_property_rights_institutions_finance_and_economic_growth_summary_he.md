@@ -45,7 +45,8 @@
   "topics": [
     "constitutionalism-courts-rule-of-law",
     "rights-equality-minorities",
-    "institutions-civil-society-public-service"
+    "institutions-civil-society-public-service",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "חוקתיות",

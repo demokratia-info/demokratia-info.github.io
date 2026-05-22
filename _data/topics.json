@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-07",
+  "lastUpdated": "2026-05-23",
   "homepageLatestCount": 6,
   "purpose": "Central taxonomy for hierarchical topic pages. A paper may appear in more than one topic when substantively appropriate.",
   "topics": [
@@ -64,6 +64,24 @@
         "חברה אזרחית",
         "שירות ציבורי",
         "איגודי עובדים",
+        "כלכלה פוליטית"
+      ]
+    },
+    {
+      "id": "democratic-institutions-economic-prosperity",
+      "page": "topics/democratic-institutions-economic-prosperity.html",
+      "titleHe": "מוסדות דמוקרטיים ושגשוג כלכלי",
+      "shortTitleHe": "מוסדות ושגשוג",
+      "descriptionHe": "מאמרים על הקשר בין מוסדות דמוקרטיים, שלטון החוק, זכויות קניין, מימון, מדיניות ציבורית, אמון וצמיחה או רווחה כלכלית.",
+      "image": "assets/topic-icons/democratic-institutions-economic-prosperity.svg",
+      "imageAltHe": "סמל נושא של מוסד ציבורי, גרף צמיחה ומטבע לשגשוג כלכלי",
+      "keywords": [
+        "מוסדות דמוקרטיים",
+        "שגשוג כלכלי",
+        "צמיחה כלכלית",
+        "שלטון החוק",
+        "זכויות קניין",
+        "מימון",
         "כלכלה פוליטית"
       ]
     },

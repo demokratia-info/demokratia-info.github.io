@@ -30,7 +30,8 @@
     }
   ],
   "topics": [
-    "rights-equality-minorities"
+    "rights-equality-minorities",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "זכויות אדם",

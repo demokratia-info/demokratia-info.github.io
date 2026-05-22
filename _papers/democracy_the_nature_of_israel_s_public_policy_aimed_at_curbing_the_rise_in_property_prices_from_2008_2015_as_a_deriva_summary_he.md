@@ -30,7 +30,8 @@
     }
   ],
   "topics": [
-    "institutions-civil-society-public-service"
+    "institutions-civil-society-public-service",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "מוסדות ציבור",

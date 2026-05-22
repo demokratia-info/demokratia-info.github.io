@@ -32,7 +32,8 @@
   ],
   "topics": [
     "constitutionalism-courts-rule-of-law",
-    "rights-equality-minorities"
+    "rights-equality-minorities",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "חוקתיות",

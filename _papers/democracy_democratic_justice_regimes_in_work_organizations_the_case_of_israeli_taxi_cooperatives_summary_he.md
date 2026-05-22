@@ -36,7 +36,8 @@
   ],
   "topics": [
     "institutions-civil-society-public-service",
-    "democratic-backsliding-populism"
+    "democratic-backsliding-populism",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "מוסדות",

@@ -50,7 +50,8 @@
     }
   ],
   "topics": [
-    "democratic-backsliding-populism"
+    "democratic-backsliding-populism",
+    "democratic-institutions-economic-prosperity"
   ],
   "keywords": [
     "נסיגה דמוקרטית",
