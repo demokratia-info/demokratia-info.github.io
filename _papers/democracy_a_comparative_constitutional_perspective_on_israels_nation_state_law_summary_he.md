@@ -53,7 +53,6 @@
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר A Comparative Constitutional Perspective on Israel&#x27;s Nation-State Law מוצג כאן דרך השאלה הדמוקרטית המרכזית שעולה ממנו.",
-        "המקור הוא Israel Studies, פורסם: 2020, עם DOI פעיל: <a href=\"https://doi.org/10.2979/israelstudies.25.3.13\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2979/israelstudies.25.3.13</a>.",
         "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]
     },

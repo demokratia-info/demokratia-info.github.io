@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ayelet Harel‐Shalev, Rebecca Kook",
   "paperTitle": "Ontological Security, Trauma and Violence, and the Protection of Women: Polygamy Among Minority Communities",
-  "authorsHtml": "Ayelet Harel‐Shalev; Rebecca Kook",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/researcher/ayelet-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Harel‐Shalev</a>; <a href=\"https://cris.bgu.ac.il/en/persons/becky-kook/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebecca Kook</a>",
   "journal": "Frontiers in Psychology",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.3389/fpsyg.2021.743478",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ayelet Harel‐Shalev"
+      "name": "Ayelet Harel‐Shalev",
+      "url": "https://www.bgu.ac.il/en/researcher/ayelet-harel"
     },
     {
       "@type": "Person",
-      "name": "Rebecca Kook"
+      "name": "Rebecca Kook",
+      "url": "https://cris.bgu.ac.il/en/persons/becky-kook/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ayelet Harel‐Shalev"
+      "name": "Ayelet Harel‐Shalev",
+      "url": "https://www.bgu.ac.il/en/researcher/ayelet-harel"
     },
     {
       "@type": "Person",
-      "name": "Rebecca Kook"
+      "name": "Rebecca Kook",
+      "url": "https://cris.bgu.ac.il/en/persons/becky-kook/"
     }
   ],
   "topics": [
@@ -53,9 +57,10 @@
   ],
   "image": {
     "src": "html_qa/democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
-    "altHe": "איור או צילום עריכתי חם ומפורט על ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
-    "fitness": "standard"
+    "version": "2026-05-22-feedback-revisions-1825",
+    "altHe": "אישה מתבוננת בנוף שקט כסמל לחיפוש אחר ביטחון, רציפות והגנה בתוך מציאות חברתית פגיעה",
+    "fitness": "high",
+    "fitnessSource": "approved_user_upload"
   },
   "datePublished": "2026-05-22",
   "dateModified": "2026-05-22",
@@ -66,7 +71,7 @@
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר בוחן את סוגיית ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט דרך שאלות של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
-        "רשומת המקור מציינת פרסום בכתב העת Frontiers in Psychology בשנת 2021, עם <a href=\"https://doi.org/10.3389/fpsyg.2021.743478\" target=\"_blank\" rel=\"noopener noreferrer\">DOI/מקור</a>.",
+        "במונחי מדעי החברה, <strong>ביטחון אונטולוגי</strong> הוא תחושת רציפות, יציבות וזהות שמאפשרת לאדם או לקבוצה להבין את מקומם בעולם ולפעול בתוכו. בהקשר של המאמר, המושג מסייע לקרוא את הדיון בפוליגמיה, טראומה ואלימות לא רק כשאלת מדיניות, אלא גם כשאלה על תחושת מוגנות, שייכות ושליטה בחיי היום־יום של נשים בקהילות מיעוט.",
         "הסיכום נזהר לא לייחס למחברים טענות שאינן מופיעות במקור, ולכן הוא מתמקד במשמעות הדמוקרטית שניתן ללמוד מן הנושא ומן המטא־דאטה האקדמי המאומת."
       ]
     },
@@ -140,13 +145,6 @@
       "paragraphsHtml": [
         "השאלה הפתוחה היא כיצד לתרגם את התובנות המחקריות למוסדות ולכללים שמחזיקים מעמד גם כשהמערכת הפוליטית מקוטבת, לחוצה או מפולגת מבחינה זהותית.",
         "זו שאלה להמשך דיון ולא קביעה עובדתית חדשה, ולכן היא צריכה להיבחן מול המקור והממצאים שבו."
-      ]
-    },
-    {
-      "headingHe": "מה השורה התחתונה?",
-      "paragraphsHtml": [
-        "השורה התחתונה היא שסוגיית ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט היא חלון להבנת איכות הדמוקרטיה בפועל: לא רק הצהרות על ערכים, אלא הדרך שבה זכויות, מוסדות ואחריות ציבורית פועלים במצבים קונקרטיים.",
-        "השורה התחתונה צריכה להיקרא לצד הטענה המרכזית של התמצית, ולא כמסקנה רחבה יותר מן המקור."
       ]
     }
   ],

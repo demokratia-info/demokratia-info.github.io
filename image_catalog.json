@@ -1825,7 +1825,8 @@
         "practices"
       ],
       "reuseGuidance": "Use only when the subject match is strong; avoid repeating the same underlying scene on nearby homepage cards.",
-      "qualityNotes": "Soft painterly editorial replacement in the older site style: civic scenes, people, institutions, documents, warm depth, no flat diagram, no text, no logos, no flags."
+      "qualityNotes": "Soft painterly editorial replacement in the older site style: civic scenes, people, institutions, documents, warm depth, no flat diagram, no text, no logos, no flags. Tuple fitness downgraded from high to standard after editor review.",
+      "tupleFitness": "standard"
     },
     {
       "file": "html_qa/democracy_israels_arab_citizens_the_continuing_struggle_1998_summary_he.jpg",
@@ -9911,22 +9912,25 @@
       ],
       "cardTitleHe": "ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
       "authorsHe": "Ayelet Harel‐Shalev, Rebecca Kook",
-      "visualDescriptionHe": "תמונה ערוכה בסגנון עריכתי חם המתאימה לנושא ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
-      "semanticDescriptionHe": "מקור חזותי מגוון עבור המאמר: Ontological Security, Trauma and Violence, and the Protection of Women: Polygamy Among Minority Communities",
+      "visualDescriptionHe": "אישה מתבוננת בנוף שקט כסמל לחיפוש אחר ביטחון, רציפות והגנה בתוך מציאות חברתית פגיעה",
+      "semanticDescriptionHe": "תמונה שאושרה על ידי עורך/ת דרך טופס ההערות עבור המאמר על ביטחון אונטולוגי, טראומה, אלימות והגנה על נשים בקהילות מיעוט.",
       "tags": [
         "rights-equality-minorities",
         "public-opinion-polarization-violence",
+        "approved-user-upload",
         "paper-specific",
-        "curated-existing"
+        "high-fit"
       ],
-      "reuseGuidance": "Use sparingly; avoid placing visually similar civic, classroom, court, protest, media, or meeting scenes next to each other on topic pages.",
-      "qualityNotes": "800x600 photo crop selected/reassigned after visual QA to replace schematic generated templates; no generated text overlay.",
-      "sourceType": "wikimedia",
-      "sourceLicense": "Public domain",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Squilla,_Philadelphia_City_Council_Stated_Meeting,_2016.jpg",
-      "sourceTitle": "File:Mark Squilla, Philadelphia City Council Stated Meeting, 2016.jpg",
-      "sourceQuery": "city council meeting",
-      "assignedImagePool": "curated-existing"
+      "reuseGuidance": "Do not reuse for future new papers; approved specifically for this paper through page feedback.",
+      "qualityNotes": "Processed from a private approved page-feedback upload: auto-oriented, cropped/resized to 800x600 JPEG, metadata stripped. User-uploaded approved photos are treated as high fit for the paper.",
+      "sourceType": "approved_user_upload",
+      "sourceLicense": "Uploader confirmed permission for publication on the site.",
+      "sourcePage": null,
+      "sourceTitle": "Approved page-feedback photo",
+      "sourceQuery": null,
+      "assignedImagePool": "private-feedback",
+      "tupleFitness": "high",
+      "fitnessSource": "approved_user_upload"
     },
     {
       "file": "html_qa/democracy_citizenship_and_the_parliamentary_politics_of_minorities_in_ethnic_states_the_palestinian_citizens_of_israel_summary_he.jpg",

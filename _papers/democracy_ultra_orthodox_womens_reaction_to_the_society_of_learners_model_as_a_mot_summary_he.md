@@ -74,7 +74,6 @@
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר Ultra-Orthodox Women&#x27;s Reaction to the &quot;Society of Learners&quot; Model as a Motive among Israel&#x27;s Ultra-Orthodox Feminists מוצג כאן דרך השאלה הדמוקרטית המרכזית שעולה ממנו.",
-        "המקור הוא Israel Studies, פורסם: 09.2023, עם DOI פעיל: <a href=\"https://doi.org/10.2979/is.2023.a903077\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2979/is.2023.a903077</a>.",
         "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה."
       ]
     },
