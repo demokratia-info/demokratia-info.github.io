@@ -62,7 +62,7 @@ Expected permission for both repos: `ADMIN` or another level that can read, writ
 - `demokratia-info/demokratia-info.github.io`
 - `demokratia-info/democracy-paper-suggestions-private`
 
-6. Do not paste visitor names, emails, IP hashes, or private author-policy notes into Codex chat. The automation may read the private queue and private `Authors.MD`, but reports should mention only whether the first suggestion was accepted or rejected and whether any blocked-author exclusion was applied.
+6. Do not paste visitor names, emails, IP hashes, or private author-policy notes into Codex chat. The automation may read the private queue and private `Authors.csv`, but reports should mention only whether the first suggestion was accepted or rejected and whether any blocked-author exclusion was applied.
 
 ## Required Local Tools
 
@@ -131,7 +131,7 @@ python3 scripts/validate_sources.py
 If you want to test the full path, ask Codex in the new account to run the nightly procedure wet and add 10 summaries. It should:
 
 1. Review at most one private suggestion.
-2. Read private `Authors.MD`, reject or skip blocked authors, and consume the first non-blocked rows from `paper_queue.csv`.
+2. Read private `Authors.csv`, reject or skip blocked authors, and consume the first non-blocked rows from `paper_queue.csv`.
 3. Add `_papers/*.md` files.
 4. Bump `_data/site.json` `cacheVersion`.
 5. Regenerate `_data/paper_index.json`.
@@ -155,10 +155,10 @@ If push fails due to DNS or transient network issues:
 - Retry a few times.
 - If local `HEAD` is ahead of `origin/main`, the watchdog can safely push later.
 
-If private queue or private `Authors.MD` access fails:
+If private queue or private `Authors.csv` access fails:
 
 - Do not use the public `suggest_queue.csv`; it is only a header placeholder.
-- Continue from `paper_queue.csv` only if the public repo is otherwise clean and usable and private `Authors.MD` is accessible for blocked-author checks.
+- Continue from `paper_queue.csv` only if the public repo is otherwise clean and usable and private `Authors.csv` is accessible for blocked-author checks.
 - Report the exact private access blocker.
 
 ## Files To Read First
@@ -173,4 +173,4 @@ The new account should read these before making changes:
 - `_data/paper_index.json`
 - `paper_queue.csv`
 - `image_catalog.json`
-- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD`
+- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.csv`

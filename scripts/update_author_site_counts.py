@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Update the private Authors.MD Current Site Papers column.
+"""Update the private Authors.csv Current Site Papers column.
 
-The script intentionally accepts the private Authors.MD path as an argument so the
+The script intentionally accepts the private Authors.csv path as an argument so the
 private file never needs to be copied into this public repository.
 """
 
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import re
 import unicodedata
@@ -16,8 +17,9 @@ from pathlib import Path
 
 
 TITLE_PREFIXES = re.compile(r"^(prof\.?|dr\.?|adv\.?|mr\.?|ms\.?|mrs\.?)\s+", re.I)
-AUTHOR_ROW = re.compile(r"^\|\s*(high|normal|low|blocked)\s*\|")
 COLUMN_NAME = "Current Site Papers"
+NAME_COLUMN = "Name in English"
+NOTES_COLUMN = "Notes and Search Terms"
 
 
 def normalize_name(value: str) -> str:
@@ -31,14 +33,6 @@ def normalize_name(value: str) -> str:
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = re.sub(r"[^\w\s'-]", " ", text, flags=re.UNICODE)
     return re.sub(r"\s+", " ", text).strip()
-
-
-def split_md_row(line: str) -> list[str]:
-    return [cell.strip() for cell in line.strip().strip("|").split("|")]
-
-
-def format_md_row(cells: list[str]) -> str:
-    return "| " + " | ".join(cells) + " |"
 
 
 def collect_public_author_counts(papers_dir: Path) -> Counter[str]:
@@ -60,52 +54,50 @@ def collect_public_author_counts(papers_dir: Path) -> Counter[str]:
     return counts
 
 
-def update_authors_table(authors_path: Path, counts: Counter[str]) -> dict[str, int | bool]:
-    lines = authors_path.read_text(encoding="utf-8").splitlines()
-    output: list[str] = []
-    author_rows = 0
+def with_count_column(fieldnames: list[str]) -> tuple[list[str], bool]:
+    if COLUMN_NAME in fieldnames:
+        return fieldnames, False
+
+    updated = list(fieldnames)
+    if NOTES_COLUMN in updated:
+        updated.insert(updated.index(NOTES_COLUMN), COLUMN_NAME)
+    else:
+        updated.append(COLUMN_NAME)
+    return updated, True
+
+
+def update_authors_csv(authors_path: Path, counts: Counter[str]) -> dict[str, int | bool]:
+    with authors_path.open(encoding="utf-8-sig", newline="") as handle:
+        reader = csv.DictReader(handle)
+        if reader.fieldnames is None:
+            raise SystemExit(f"{authors_path} is empty or missing a CSV header")
+
+        original_fieldnames = list(reader.fieldnames)
+        if NAME_COLUMN not in original_fieldnames:
+            raise SystemExit(f"{authors_path} is missing required column: {NAME_COLUMN}")
+
+        fieldnames, inserted_column = with_count_column(original_fieldnames)
+        rows = list(reader)
+
     changed_count_cells = 0
     nonzero_rows = 0
-    inserted_column = False
 
-    for line in lines:
-        if line.startswith("| Priority |"):
-            cells = split_md_row(line)
-            if COLUMN_NAME not in cells:
-                cells.insert(6, COLUMN_NAME)
-                inserted_column = True
-            output.append(format_md_row(cells))
-            continue
+    for row in rows:
+        name = row.get(NAME_COLUMN, "")
+        count = counts.get(normalize_name(name), 0) if name else 0
+        if str(row.get(COLUMN_NAME, "")) != str(count):
+            changed_count_cells += 1
+        row[COLUMN_NAME] = str(count)
+        if count:
+            nonzero_rows += 1
 
-        if line.startswith("| --- |"):
-            cells = split_md_row(line)
-            if len(cells) == 7:
-                cells.insert(6, "---")
-            output.append(format_md_row(cells))
-            continue
+    with authors_path.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
 
-        if AUTHOR_ROW.match(line):
-            cells = split_md_row(line)
-            if len(cells) == 7:
-                cells.insert(6, "")
-            if len(cells) != 8:
-                raise SystemExit(f"Unexpected Authors.MD table row width {len(cells)}: {line[:180]}")
-
-            count = counts.get(normalize_name(cells[2]), 0) if cells[2] else 0
-            if cells[6] != str(count):
-                changed_count_cells += 1
-            cells[6] = str(count)
-            author_rows += 1
-            if count:
-                nonzero_rows += 1
-            output.append(format_md_row(cells))
-            continue
-
-        output.append(line)
-
-    authors_path.write_text("\n".join(output) + "\n", encoding="utf-8")
     return {
-        "author_rows": author_rows,
+        "author_rows": len(rows),
         "changed_count_cells": changed_count_cells,
         "rows_with_nonzero_count": nonzero_rows,
         "inserted_column": inserted_column,
@@ -114,12 +106,12 @@ def update_authors_table(authors_path: Path, counts: Counter[str]) -> dict[str, 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("authors_md", type=Path, help="Path to private Authors.MD")
+    parser.add_argument("authors_csv", type=Path, help="Path to private Authors.csv")
     parser.add_argument("--papers-dir", type=Path, default=Path("_papers"))
     args = parser.parse_args()
 
     counts = collect_public_author_counts(args.papers_dir)
-    stats = update_authors_table(args.authors_md, counts)
+    stats = update_authors_csv(args.authors_csv, counts)
     stats["public_papers"] = len(list(args.papers_dir.glob("*.md")))
     stats["unique_public_author_names"] = len(counts)
     print(json.dumps(stats, ensure_ascii=False, indent=2))

@@ -22,7 +22,7 @@ exclude:
   - .github/
   - .npm-cache/
   - AGENTS.md
-  - Authors.MD
+  - Authors.csv
   - AUTOMATION_PROMPT.md
   - data/
   - HANDOFF.md
