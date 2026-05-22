@@ -1,6 +1,6 @@
-# Approved Page Feedback Revision Automation Prompt
+# Approved Page Feedback Revision Phase Prompt
 
-Use this prompt for the separate Codex heartbeat automation that applies editor-approved page comments and corrections. This process is intentionally separate from the daily paper-addition automation.
+Use this prompt for the feedback-revision phase of the unified Codex heartbeat automation. The unified heartbeat runs this phase four times daily; only its 00:05 Asia/Jerusalem pass also runs paper additions.
 
 Recommended schedule: four times daily at 00:05, 06:05, 12:05, and 18:05 Asia/Jerusalem.
 
@@ -9,7 +9,7 @@ Recommended working directory: `/Users/talraviv/Documents/DemocracyWebSite/githu
 Recommended execution environment: this chat heartbeat, so the same Codex thread can report applied revisions and blockers.
 
 ```text
-Apply approved website page-feedback revisions from the private queue.
+Apply approved website page-feedback revisions from the private queue, and clear handled rejected feedback rows.
 
 Public website checkout: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
 Private operational repository: `demokratia-info/democracy-paper-suggestions-private`, branch `main`, file `page_feedback_queue.csv`.
@@ -20,9 +20,9 @@ Before reading or cloning the private repository, run `scripts/check_private_rep
 
 Run `git status --short --branch` in the public website checkout. This automation runs in the user's normal local checkout, so unrelated local edits may exist. Do not overwrite or stage unrelated files. Stage only intentional revision files, normally edited `_papers/*.md`, `_data/paper_index.json`, and `_data/site.json`.
 
-Read the private repository's `page_feedback_queue.csv`. Its columns are `submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at`. Do not act on rows with status `pending`; those are raw visitor comments awaiting editorial review. Process only rows explicitly marked `approved_for_update` by the website editor.
+Read the private repository's `page_feedback_queue.csv`. Its columns are `submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at`. Do not act on rows with status `pending`; those are raw visitor comments awaiting editorial review. Process content corrections only for rows explicitly marked `approved_for_update` by the website editor.
 
-For each approved row, use the page URL/title/slug, comment, and editor notes only as a lead. Verify every factual correction against the relevant paper, DOI/publisher source, official author/institution source, or existing site source before editing a public page. Do not invent facts, names, publication details, author links, quotations, or interpretations merely to satisfy a comment. If a correction is ambiguous, unverifiable, or conflicts with the source, leave it `approved_for_update` only when more human review is needed, or mark it `rejected` with a concise private note. Never expose submitter email, phone, IP hash, or private editor notes in public files, public commit messages, or public reports.
+For each approved row, use the page URL/title/slug, comment, and editor notes only as a lead. Verify every factual correction against the relevant paper, DOI/publisher source, official author/institution source, or existing site source before editing a public page. Do not invent facts, names, publication details, author links, quotations, or interpretations merely to satisfy a comment. If a correction is ambiguous, unverifiable, or conflicts with the source, leave it `approved_for_update` only when more human review is needed, or mark it `rejected` with a concise private note. Rows marked `rejected` must remain visible in the editor queue until a heartbeat run handles them; during that run, remove rows that are still `rejected` from `page_feedback_queue.csv` without changing the public website. Never expose submitter email, phone, IP hash, or private editor notes in public files, public commit messages, or public reports.
 
 For every public page that is safely revised, update the relevant source file, keep `datePublished` unchanged, set `dateModified` to the Israel-date run date, set `lastUpdatedHe` accordingly, and bump `_data/site.json` `lastUpdated` and `cacheVersion` to a unique revision value such as `YYYY-MM-DD-feedback-revisions-HHMM`. If image files are changed, also bump the relevant paper image version and `_data/site.json` `paperImageVersion`.
 
@@ -30,7 +30,7 @@ After source changes, run `python3 scripts/validate_sources.py --write-index`, t
 
 If public source files changed, commit them in the public website repository with a clear revision message and push to `main`. Verify that `origin/main` equals local `HEAD`, check or watch the GitHub Pages workflow when possible, and smoke-check at least one revised live page.
 
-For each approved row that was applied, update private `page_feedback_queue.csv` status to `applied` and fill `applied_at` with the Israel-date run date. For rejected rows, set status to `rejected` and add a concise private note. Commit/push private `page_feedback_queue.csv` updates separately from the public website commit. If no approved rows exist, make no public or private commits and report that there was nothing approved to apply.
+For each approved row that was applied, update private `page_feedback_queue.csv` status to `applied` and fill `applied_at` with the Israel-date run date. For approved rows that cannot safely be applied, set status to `rejected` and add a concise private note; leave that newly rejected row in the queue until a later heartbeat pass so the editor can still change their mind. For rows that were already `rejected` at the start of this run, remove them from `page_feedback_queue.csv` as handled. Commit/push private `page_feedback_queue.csv` updates separately from the public website commit. If no approved rows exist and no rejected rows need removal, make no public or private commits and report that there was nothing approved or rejected to handle.
 
-Do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.MD` in this feedback-revision automation. Those tasks belong to the daily paper-addition process.
+Do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.MD` in this feedback-revision phase. Those tasks belong only to the unified heartbeat's 00:05 paper-addition phase.
 ```

@@ -98,7 +98,7 @@
     const mode = filter ? filter.value : "active";
     if (mode === "all") return rows;
     if (mode === "active") {
-      return rows.filter((row) => row.status === "pending" || row.status === "approved_for_update");
+      return rows.filter((row) => row.status === "pending" || row.status === "approved_for_update" || row.status === "rejected");
     }
     return rows.filter((row) => row.status === mode);
   };

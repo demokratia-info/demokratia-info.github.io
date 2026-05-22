@@ -38,7 +38,7 @@ noindex: true
     <div class="form-field feedback-editor-filter">
       <label class="form-label" for="feedbackStatusFilter">סינון לפי סטטוס</label>
       <select class="form-control" id="feedbackStatusFilter" data-feedback-editor-filter>
-        <option value="active">דורש טיפול</option>
+        <option value="active">בתור עד להסרה</option>
         <option value="pending">pending</option>
         <option value="approved_for_update">approved_for_update</option>
         <option value="rejected">rejected</option>

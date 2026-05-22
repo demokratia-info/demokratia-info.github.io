@@ -18,7 +18,7 @@ The Worker:
 submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at
 ```
 
-The separate approved-feedback revision automation must act only on feedback rows that the editor has explicitly marked `approved_for_update`; the daily paper-addition automation must not process page feedback.
+The unified heartbeat automation must run the feedback-revision phase four times daily. It applies rows that the editor has explicitly marked `approved_for_update`, leaves `pending` rows untouched, and removes rows still marked `rejected` as handled during the next processor run. Paper additions run only during the heartbeat's 00:05 Asia/Jerusalem pass.
 
 ## Deploy
 
