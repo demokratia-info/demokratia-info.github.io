@@ -17,7 +17,7 @@ The Worker:
 submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at
 ```
 
-The nightly automation must act only on feedback rows that the editor has explicitly marked `approved_for_update`.
+The separate approved-feedback revision automation must act only on feedback rows that the editor has explicitly marked `approved_for_update`; the daily paper-addition automation must not process page feedback.
 
 ## Deploy
 

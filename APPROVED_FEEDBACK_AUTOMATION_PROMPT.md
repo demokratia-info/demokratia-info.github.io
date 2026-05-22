@@ -1,0 +1,36 @@
+# Approved Page Feedback Revision Automation Prompt
+
+Use this prompt for the separate Codex heartbeat automation that applies editor-approved page comments and corrections. This process is intentionally separate from the daily paper-addition automation.
+
+Recommended schedule: four times daily at 00:05, 06:05, 12:05, and 18:05 Asia/Jerusalem.
+
+Recommended working directory: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
+
+Recommended execution environment: this chat heartbeat, so the same Codex thread can report applied revisions and blockers.
+
+```text
+Apply approved website page-feedback revisions from the private queue.
+
+Public website checkout: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
+Private operational repository: `demokratia-info/democracy-paper-suggestions-private`, branch `main`, file `page_feedback_queue.csv`.
+
+At the start, run `scripts/refresh_automation_github_auth.sh` from the public website checkout. It must confirm that the active GitHub account is `demokratia-info` and that both the public and private repositories are writable. If another account is active, stop and report the blocker instead of switching accounts.
+
+Before reading or cloning the private repository, run `scripts/check_private_repo_access.sh` from the public website checkout. This preflight checks private repository access without printing private contents. If it fails, retry up to 5 total attempts with short waits. If it still fails, stop and report the exact credential, DNS/network, permission, or private-file blocker.
+
+Run `git status --short --branch` in the public website checkout. This automation runs in the user's normal local checkout, so unrelated local edits may exist. Do not overwrite or stage unrelated files. Stage only intentional revision files, normally edited `_papers/*.md`, `_data/paper_index.json`, and `_data/site.json`.
+
+Read the private repository's `page_feedback_queue.csv`. Its columns are `submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at`. Do not act on rows with status `pending`; those are raw visitor comments awaiting editorial review. Process only rows explicitly marked `approved_for_update` by the website editor.
+
+For each approved row, use the page URL/title/slug, comment, and editor notes only as a lead. Verify every factual correction against the relevant paper, DOI/publisher source, official author/institution source, or existing site source before editing a public page. Do not invent facts, names, publication details, author links, quotations, or interpretations merely to satisfy a comment. If a correction is ambiguous, unverifiable, or conflicts with the source, leave it `approved_for_update` only when more human review is needed, or mark it `rejected` with a concise private note. Never expose submitter email, phone, IP hash, or private editor notes in public files, public commit messages, or public reports.
+
+For every public page that is safely revised, update the relevant source file, keep `datePublished` unchanged, set `dateModified` to the Israel-date run date, set `lastUpdatedHe` accordingly, and bump `_data/site.json` `lastUpdated` and `cacheVersion` to a unique revision value such as `YYYY-MM-DD-feedback-revisions-HHMM`. If image files are changed, also bump the relevant paper image version and `_data/site.json` `paperImageVersion`.
+
+After source changes, run `python3 scripts/validate_sources.py --write-index`, then `python3 scripts/validate_sources.py`. If local Jekyll is available, run `bundle exec jekyll build`; if it is unavailable because of the machine Ruby environment, note that and rely on the GitHub Actions workflow after source validation.
+
+If public source files changed, commit them in the public website repository with a clear revision message and push to `main`. Verify that `origin/main` equals local `HEAD`, check or watch the GitHub Pages workflow when possible, and smoke-check at least one revised live page.
+
+For each approved row that was applied, update private `page_feedback_queue.csv` status to `applied` and fill `applied_at` with the Israel-date run date. For rejected rows, set status to `rejected` and add a concise private note. Commit/push private `page_feedback_queue.csv` updates separately from the public website commit. If no approved rows exist, make no public or private commits and report that there was nothing approved to apply.
+
+Do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.MD` in this feedback-revision automation. Those tasks belong to the daily paper-addition process.
+```
