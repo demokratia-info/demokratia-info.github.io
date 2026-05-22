@@ -27,7 +27,7 @@ The site is right-to-left Hebrew, uses shared Jekyll layouts, includes Pagefind 
 
 - `README.md` - user-facing source workflow and build notes.
 - `AGENTS.md` - short instructions for future Codex agents.
-- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` - optional preferred and blocked author list for nightly scans. It is private and must not be committed to this public repo.
+- Private `demokratia-info/democracy-paper-suggestions-private` `Authors.MD` - optional preferred and blocked author list for nightly scans. It also has a `Current Site Papers` column, refreshed from public `_papers` metadata with `python3 scripts/update_author_site_counts.py /path/to/private/Authors.MD`. It is private and must not be committed to this public repo.
 - `paper_queue.csv` - editable queue of upcoming nightly papers; nightly automation consumes enough first rows to reach 10 new papers total and removes them after adding those papers.
 - `suggest_queue.csv` - header-only public placeholder. The real visitor suggestion queue is private at `demokratia-info/democracy-paper-suggestions-private`.
 - Private `demokratia-info/democracy-paper-suggestions-private` `page_feedback_queue.csv` - visitor correction/comment queue with optional contact details. It must stay private.
