@@ -6,8 +6,8 @@
     "height": 600,
     "format": "jpeg"
   },
-  "purpose": "Internal catalog for selecting or reusing homepage paper graphics without re-analyzing image files.",
-  "reusePolicy": "For each nightly batch, create new paper-specific images for at least half of the new pages. Reuse existing images only for the remaining pages when the conceptual fit is strong and the image is not used by the newest 6 homepage cards.",
+  "purpose": "Internal catalog for auditing paper graphics, source metadata, visual diversity, and image reuse history.",
+  "reusePolicy": "For future nightly batches, never recycle, copy, or reassign an existing site picture/photo for a new paper. Every new paper must receive a newly added 800x600 JPEG under html_qa, using a deliberate mixture of newly generated paper-specific editorial images and newly obtained Wikimedia/Commons photographs with source/license metadata.",
   "homepagePriorityPolicy": "On index.html, keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
     {
