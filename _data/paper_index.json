@@ -1,8 +1,2735 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 500,
+  "paperCount": 600,
   "papers": [
+    {
+      "slug": "democracy_the_distribution_of_human_capital_and_economic_growth_summary_he",
+      "file": "democracy_the_distribution_of_human_capital_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_the_distribution_of_human_capital_and_economic_growth_summary_he.html",
+      "sortKey": 202605230110,
+      "titleHe": "חלוקת ההון האנושי וצמיחה כלכלית",
+      "paperTitle": "The Distribution of Human Capital and Economic Growth",
+      "authorsCardHe": "Oded Galor, Daniel Tsiddon",
+      "sourceAuthors": [
+        "Oded Galor",
+        "Daniel Tsiddon"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 1997",
+      "doiUrl": "https://doi.org/10.1023/a:1009785714248",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_distribution_of_human_capital_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חלוקת ההון האנושי וצמיחה כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he",
+      "file": "democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he.html",
+      "permalink": "/democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he.html",
+      "sortKey": 202605230109,
+      "titleHe": "ביקוש זהיר לחינוך, אי־שוויון והתקדמות טכנולוגית",
+      "paperTitle": "Precautionary Demand for Education, Inequality, and Technological Progress",
+      "authorsCardHe": "Eric D. Gould, Omer Moav, Bruce A. Weinberg",
+      "sourceAuthors": [
+        "Eric D. Gould",
+        "Omer Moav",
+        "Bruce A. Weinberg"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.1023/a:1012782212348",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ביקוש זהיר לחינוך, אי־שוויון והתקדמות טכנולוגית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_budget_institutions_and_government_effectiveness_summary_he",
+      "file": "democracy_budget_institutions_and_government_effectiveness_summary_he.html",
+      "permalink": "/democracy_budget_institutions_and_government_effectiveness_summary_he.html",
+      "sortKey": 202605230108,
+      "titleHe": "מוסדות תקציביים ואפקטיביות ממשלתית",
+      "paperTitle": "Budget institutions and government effectiveness",
+      "authorsCardHe": "Momi Dahan, Michel Strawczynski",
+      "sourceAuthors": [
+        "Momi Dahan",
+        "Michel Strawczynski"
+      ],
+      "journal": "Journal of Public Budgeting, Accounting & Financial Management",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1108/jpbafm-03-2019-0055",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_budget_institutions_and_government_effectiveness_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מוסדות תקציביים ואפקטיביות ממשלתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_demographic_transition_income_distribution_and_economic_growth_summary_he",
+      "file": "democracy_demographic_transition_income_distribution_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_demographic_transition_income_distribution_and_economic_growth_summary_he.html",
+      "sortKey": 202605230107,
+      "titleHe": "מעבר דמוגרפי, חלוקת הכנסות וצמיחה",
+      "paperTitle": "Demographic Transition, Income Distribution, and Economic Growth",
+      "authorsCardHe": "Momi Dahan, Daniel Tsiddon",
+      "sourceAuthors": [
+        "Momi Dahan",
+        "Daniel Tsiddon"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 1998",
+      "doiUrl": "https://doi.org/10.1023/a:1009769930916",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_demographic_transition_income_distribution_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מעבר דמוגרפי, חלוקת הכנסות וצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_natural_selection_and_the_origin_of_economic_growth_summary_he",
+      "file": "democracy_natural_selection_and_the_origin_of_economic_growth_summary_he.html",
+      "permalink": "/democracy_natural_selection_and_the_origin_of_economic_growth_summary_he.html",
+      "sortKey": 202605230106,
+      "titleHe": "ברירה טבעית ומקורות הצמיחה הכלכלית",
+      "paperTitle": "Natural Selection and the Origin of Economic Growth",
+      "authorsCardHe": "O. Galor, O. Moav",
+      "sourceAuthors": [
+        "O. Galor",
+        "O. Moav"
+      ],
+      "journal": "The Quarterly Journal of Economics",
+      "dateText": "פורסם: 2002",
+      "doiUrl": "https://doi.org/10.1162/003355302320935007",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_natural_selection_and_the_origin_of_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ברירה טבעית ומקורות הצמיחה הכלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_ability_biased_technological_transition_wage_inequality_and_economic_growth_summary_he",
+      "file": "democracy_ability_biased_technological_transition_wage_inequality_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_ability_biased_technological_transition_wage_inequality_and_economic_growth_summary_he.html",
+      "sortKey": 202605230105,
+      "titleHe": "שינוי טכנולוגי מוטה־יכולת, אי־שוויון בשכר וצמיחה",
+      "paperTitle": "Ability-Biased Technological Transition, Wage Inequality, and Economic Growth",
+      "authorsCardHe": "O. Galor, O. Moav",
+      "sourceAuthors": [
+        "O. Galor",
+        "O. Moav"
+      ],
+      "journal": "The Quarterly Journal of Economics",
+      "dateText": "פורסם: 2000",
+      "doiUrl": "https://doi.org/10.1162/003355300554827",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ability_biased_technological_transition_wage_inequality_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: שינוי טכנולוגי מוטה־יכולת, אי־שוויון בשכר וצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין אי־שוויון, חלוקה מחדש וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_state_capacity_and_long_run_economic_performance_summary_he",
+      "file": "democracy_state_capacity_and_long_run_economic_performance_summary_he.html",
+      "permalink": "/democracy_state_capacity_and_long_run_economic_performance_summary_he.html",
+      "sortKey": 202605230104,
+      "titleHe": "יכולת מדינתית וביצועים כלכליים ארוכי טווח",
+      "paperTitle": "State Capacity and Long‐Run Economic Performance",
+      "authorsCardHe": "Mark Dincecco, Gabriel Katz",
+      "sourceAuthors": [
+        "Mark Dincecco",
+        "Gabriel Katz"
+      ],
+      "journal": "The Economic Journal",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.1111/ecoj.12161",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_capacity_and_long_run_economic_performance_summary_he.jpg",
+        "altHe": "תמונה עריכתית: יכולת מדינתית וביצועים כלכליים ארוכי טווח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_political_versus_economic_institutions_in_the_growth_process_summary_he",
+      "file": "democracy_political_versus_economic_institutions_in_the_growth_process_summary_he.html",
+      "permalink": "/democracy_political_versus_economic_institutions_in_the_growth_process_summary_he.html",
+      "sortKey": 202605230103,
+      "titleHe": "מוסדות פוליטיים מול מוסדות כלכליים בתהליך הצמיחה",
+      "paperTitle": "Political versus economic institutions in the growth process",
+      "authorsCardHe": "Emmanuel Flachaire, Cecilia García-Peñalosa, Maty Konte",
+      "sourceAuthors": [
+        "Emmanuel Flachaire",
+        "Cecilia García-Peñalosa",
+        "Maty Konte"
+      ],
+      "journal": "Journal of Comparative Economics",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1016/j.jce.2013.05.001",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_versus_economic_institutions_in_the_growth_process_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מוסדות פוליטיים מול מוסדות כלכליים בתהליך הצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_democracy_and_growth_summary_he",
+      "file": "democracy_democracy_and_growth_summary_he.html",
+      "permalink": "/democracy_democracy_and_growth_summary_he.html",
+      "sortKey": 202605230102,
+      "titleHe": "דמוקרטיה וצמיחה",
+      "paperTitle": "Democracy and growth",
+      "authorsCardHe": "Robert J. Barro",
+      "sourceAuthors": [
+        "Robert J. Barro"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 1996",
+      "doiUrl": "https://doi.org/10.1007/bf00163340",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democracy_and_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דמוקרטיה וצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_political_institutions_and_economic_growth_summary_he",
+      "file": "democracy_political_institutions_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_political_institutions_and_economic_growth_summary_he.html",
+      "sortKey": 202605230101,
+      "titleHe": "מוסדות פוליטיים וצמיחה כלכלית",
+      "paperTitle": "Political institutions and economic growth",
+      "authorsCardHe": "Laura Marsiliani, Thomas I. Renström",
+      "sourceAuthors": [
+        "Laura Marsiliani",
+        "Thomas I. Renström"
+      ],
+      "journal": "Economics of Governance",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.1007/s10101-007-0038-z",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_institutions_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מוסדות פוליטיים וצמיחה כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_institutions_infrastructure_and_economic_growth_summary_he",
+      "file": "democracy_institutions_infrastructure_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_institutions_infrastructure_and_economic_growth_summary_he.html",
+      "sortKey": 202605230100,
+      "titleHe": "מוסדות, תשתיות וצמיחה כלכלית",
+      "paperTitle": "Institutions, infrastructure, and economic growth",
+      "authorsCardHe": "Hadi Salehi Esfahani, Marı́a Teresa Ramı́rez",
+      "sourceAuthors": [
+        "Hadi Salehi Esfahani",
+        "Marı́a Teresa Ramı́rez"
+      ],
+      "journal": "Journal of Development Economics",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1016/s0304-3878(02)00105-0",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutions_infrastructure_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מוסדות, תשתיות וצמיחה כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_price_of_property_rights_institutions_finance_and_economic_growth_summary_he",
+      "file": "democracy_the_price_of_property_rights_institutions_finance_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_the_price_of_property_rights_institutions_finance_and_economic_growth_summary_he.html",
+      "sortKey": 202605230099,
+      "titleHe": "מחיר זכויות הקניין: מוסדות, מימון וצמיחה",
+      "paperTitle": "The price of property rights: Institutions, finance, and economic growth",
+      "authorsCardHe": "Ron Alquist, Benjamin R. Chabot, Ram Yamarthy",
+      "sourceAuthors": [
+        "Ron Alquist",
+        "Benjamin R. Chabot",
+        "Ram Yamarthy"
+      ],
+      "journal": "Journal of International Economics",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1016/j.jinteco.2022.103594",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_price_of_property_rights_institutions_finance_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מחיר זכויות הקניין: מוסדות, מימון וצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_law_finance_and_economic_growth_in_china_summary_he",
+      "file": "democracy_law_finance_and_economic_growth_in_china_summary_he.html",
+      "permalink": "/democracy_law_finance_and_economic_growth_in_china_summary_he.html",
+      "sortKey": 202605230098,
+      "titleHe": "משפט, מימון וצמיחה כלכלית בסין",
+      "paperTitle": "Law, finance, and economic growth in China",
+      "authorsCardHe": "F ALLEN, J QIAN, M QIAN",
+      "sourceAuthors": [
+        "F ALLEN",
+        "J QIAN",
+        "M QIAN"
+      ],
+      "journal": "Journal of Financial Economics",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1016/j.jfineco.2004.06.010",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_law_finance_and_economic_growth_in_china_summary_he.jpg",
+        "altHe": "תמונה עריכתית: משפט, מימון וצמיחה כלכלית בסין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_state_capacity_and_economic_development_a_network_approach_summary_he",
+      "file": "democracy_state_capacity_and_economic_development_a_network_approach_summary_he.html",
+      "permalink": "/democracy_state_capacity_and_economic_development_a_network_approach_summary_he.html",
+      "sortKey": 202605230097,
+      "titleHe": "יכולת מדינתית ופיתוח כלכלי בגישת רשת",
+      "paperTitle": "State Capacity and Economic Development: A Network Approach",
+      "authorsCardHe": "Daron Acemoglu, Camilo García-Jimeno, James A. Robinson",
+      "sourceAuthors": [
+        "Daron Acemoglu",
+        "Camilo García-Jimeno",
+        "James A. Robinson"
+      ],
+      "journal": "American Economic Review",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1257/aer.20140044",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_capacity_and_economic_development_a_network_approach_summary_he.jpg",
+        "altHe": "תמונה עריכתית: יכולת מדינתית ופיתוח כלכלי בגישת רשת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_do_institutions_cause_growth_summary_he",
+      "file": "democracy_do_institutions_cause_growth_summary_he.html",
+      "permalink": "/democracy_do_institutions_cause_growth_summary_he.html",
+      "sortKey": 202605230096,
+      "titleHe": "האם מוסדות גורמים לצמיחה?",
+      "paperTitle": "Do Institutions Cause Growth?",
+      "authorsCardHe": "Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer",
+      "sourceAuthors": [
+        "Edward L. Glaeser",
+        "Rafael La Porta",
+        "Florencio Lopez-de-Silanes",
+        "Andrei Shleifer"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1023/b:joeg.0000038933.16398.ed",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_do_institutions_cause_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם מוסדות גורמים לצמיחה?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_unbundling_institutions_summary_he",
+      "file": "democracy_unbundling_institutions_summary_he.html",
+      "permalink": "/democracy_unbundling_institutions_summary_he.html",
+      "sortKey": 202605230095,
+      "titleHe": "פירוק מוסדות למרכיביהם",
+      "paperTitle": "Unbundling Institutions",
+      "authorsCardHe": "Daron Acemoglu, Simon Johnson",
+      "sourceAuthors": [
+        "Daron Acemoglu",
+        "Simon Johnson"
+      ],
+      "journal": "Journal of Political Economy",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1086/432166",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_unbundling_institutions_summary_he.jpg",
+        "altHe": "תמונה עריכתית: פירוק מוסדות למרכיביהם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_colonial_origins_of_comparative_development_an_empirical_investigation_summary_he",
+      "file": "democracy_the_colonial_origins_of_comparative_development_an_empirical_investigation_summary_he.html",
+      "permalink": "/democracy_the_colonial_origins_of_comparative_development_an_empirical_investigation_summary_he.html",
+      "sortKey": 202605230094,
+      "titleHe": "המקורות הקולוניאליים של פיתוח כלכלי השוואתי",
+      "paperTitle": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+      "authorsCardHe": "Daron Acemoglu, Simon Johnson, James A Robinson",
+      "sourceAuthors": [
+        "Daron Acemoglu",
+        "Simon Johnson",
+        "James A Robinson"
+      ],
+      "journal": "American Economic Review",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.1257/aer.91.5.1369",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_colonial_origins_of_comparative_development_an_empirical_investigation_summary_he.jpg",
+        "altHe": "תמונה עריכתית: המקורות הקולוניאליים של פיתוח כלכלי השוואתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_institutional_quality_and_economic_growth_maintenance_of_the_rule_of_law_or_democratic_institutions_or_both_summary_he",
+      "file": "democracy_institutional_quality_and_economic_growth_maintenance_of_the_rule_of_law_or_democratic_institutions_or_both_summary_he.html",
+      "permalink": "/democracy_institutional_quality_and_economic_growth_maintenance_of_the_rule_of_law_or_democratic_institutions_or_both_summary_he.html",
+      "sortKey": 202605230093,
+      "titleHe": "איכות מוסדית, שלטון החוק וצמיחה כלכלית",
+      "paperTitle": "Institutional quality and economic growth: Maintenance of the rule of law or democratic institutions, or both?",
+      "authorsCardHe": "James L. Butkiewicz, Halit Yanikkaya",
+      "sourceAuthors": [
+        "James L. Butkiewicz",
+        "Halit Yanikkaya"
+      ],
+      "journal": "Economic Modelling",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2006.03.004",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutional_quality_and_economic_growth_maintenance_of_the_rule_of_law_or_democratic_institutions_or_both_summary_he.jpg",
+        "altHe": "תמונה עריכתית: איכות מוסדית, שלטון החוק וצמיחה כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_rule_of_law_and_economic_growth_where_are_we_summary_he",
+      "file": "democracy_the_rule_of_law_and_economic_growth_where_are_we_summary_he.html",
+      "permalink": "/democracy_the_rule_of_law_and_economic_growth_where_are_we_summary_he.html",
+      "sortKey": 202605230092,
+      "titleHe": "שלטון החוק וצמיחה כלכלית: איפה עומד המחקר?",
+      "paperTitle": "The Rule of Law and Economic Growth: Where are We?",
+      "authorsCardHe": "Stephan Haggard, Lydia Tiede",
+      "sourceAuthors": [
+        "Stephan Haggard",
+        "Lydia Tiede"
+      ],
+      "journal": "World Development",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1016/j.worlddev.2010.10.007",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_rule_of_law_and_economic_growth_where_are_we_summary_he.jpg",
+        "altHe": "תמונה עריכתית: שלטון החוק וצמיחה כלכלית: איפה עומד המחקר?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_law_finance_and_economic_growth_summary_he",
+      "file": "democracy_law_finance_and_economic_growth_summary_he.html",
+      "permalink": "/democracy_law_finance_and_economic_growth_summary_he.html",
+      "sortKey": 202605230091,
+      "titleHe": "משפט, מימון וצמיחה כלכלית",
+      "paperTitle": "Law, Finance, and Economic Growth",
+      "authorsCardHe": "Ross Levine",
+      "sourceAuthors": [
+        "Ross Levine"
+      ],
+      "journal": "Journal of Financial Intermediation",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1006/jfin.1998.0255",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_law_finance_and_economic_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: משפט, מימון וצמיחה כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_institutions_rule_the_primacy_of_institutions_over_geography_and_integration_in_economic_development_summary_he",
+      "file": "democracy_institutions_rule_the_primacy_of_institutions_over_geography_and_integration_in_economic_development_summary_he.html",
+      "permalink": "/democracy_institutions_rule_the_primacy_of_institutions_over_geography_and_integration_in_economic_development_summary_he.html",
+      "sortKey": 202605230090,
+      "titleHe": "מוסדות מעל גאוגרפיה ואינטגרציה בפיתוח כלכלי",
+      "paperTitle": "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development",
+      "authorsCardHe": "Dani Rodrik, Arvind Subramanian, Francesco Trebbi",
+      "sourceAuthors": [
+        "Dani Rodrik",
+        "Arvind Subramanian",
+        "Francesco Trebbi"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1023/b:joeg.0000031425.72248.85",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutions_rule_the_primacy_of_institutions_over_geography_and_integration_in_economic_development_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מוסדות מעל גאוגרפיה ואינטגרציה בפיתוח כלכלי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_democracy_does_cause_growth_summary_he",
+      "file": "democracy_democracy_does_cause_growth_summary_he.html",
+      "permalink": "/democracy_democracy_does_cause_growth_summary_he.html",
+      "sortKey": 202605230089,
+      "titleHe": "האם דמוקרטיה גורמת לצמיחה כלכלית?",
+      "paperTitle": "Democracy Does Cause Growth",
+      "authorsCardHe": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
+      "sourceAuthors": [
+        "Daron Acemoglu",
+        "Suresh Naidu",
+        "Pascual Restrepo",
+        "James A. Robinson"
+      ],
+      "journal": "Journal of Political Economy",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1086/700936",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democracy_does_cause_growth_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם דמוקרטיה גורמת לצמיחה כלכלית?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_essence_of_the_new_nationalist_populism_nnp_summary_he",
+      "file": "democracy_the_essence_of_the_new_nationalist_populism_nnp_summary_he.html",
+      "permalink": "/democracy_the_essence_of_the_new_nationalist_populism_nnp_summary_he.html",
+      "sortKey": 202605230088,
+      "titleHe": "מהות הפופוליזם הלאומני החדש",
+      "paperTitle": "The Essence of the New Nationalist Populism (NNP)",
+      "authorsCardHe": "Sigal Ben-Rafael Galanti, Michal Hisherik",
+      "sourceAuthors": [
+        "Sigal Ben-Rafael Galanti",
+        "Michal Hisherik"
+      ],
+      "journal": "Populism",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1163/25888072-bja10090",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_essence_of_the_new_nationalist_populism_nnp_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מהות הפופוליזם הלאומני החדש",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in_israel_a_social_movement_lens_summary_he",
+      "file": "democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in_israel_a_social_movement_lens_summary_he.html",
+      "permalink": "/democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in_israel_a_social_movement_lens_summary_he.html",
+      "sortKey": 202605230087,
+      "titleHe": "פעילות חברתית נגד הדתה בחינוך הממלכתי בישראל",
+      "paperTitle": "Social activism against the desecularization of non-religious state education in Israel: a social movement lens",
+      "authorsCardHe": "Shiran German Ben-Hayun, Izhak Berkovich",
+      "sourceAuthors": [
+        "Shiran German Ben-Hayun",
+        "Izhak Berkovich"
+      ],
+      "journal": "Politics and Religion",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1017/s1755048325000094",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in_israel_a_social_movement_lens_summary_he.jpg",
+        "altHe": "תמונה עריכתית: פעילות חברתית נגד הדתה בחינוך הממלכתי בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_price_of_internal_legal_opposition_to_human_rights_abuses_summary_he",
+      "file": "democracy_the_price_of_internal_legal_opposition_to_human_rights_abuses_summary_he.html",
+      "permalink": "/democracy_the_price_of_internal_legal_opposition_to_human_rights_abuses_summary_he.html",
+      "sortKey": 202605230086,
+      "titleHe": "המחיר של התנגדות משפטית פנימית להפרות זכויות",
+      "paperTitle": "The Price of Internal Legal Opposition to Human Rights Abuses",
+      "authorsCardHe": "M. Sfard",
+      "sourceAuthors": [
+        "M. Sfard"
+      ],
+      "journal": "Journal of Human Rights Practice",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1093/jhuman/hun002",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_price_of_internal_legal_opposition_to_human_rights_abuses_summary_he.jpg",
+        "altHe": "תמונה עריכתית: המחיר של התנגדות משפטית פנימית להפרות זכויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_is_there_an_extended_family_of_mediterranean_welfare_states_summary_he",
+      "file": "democracy_is_there_an_extended_family_of_mediterranean_welfare_states_summary_he.html",
+      "permalink": "/democracy_is_there_an_extended_family_of_mediterranean_welfare_states_summary_he.html",
+      "sortKey": 202605230085,
+      "titleHe": "האם יש משפחה מורחבת של מדינות רווחה ים־תיכוניות?",
+      "paperTitle": "Is there an extended family of Mediterranean welfare states?",
+      "authorsCardHe": "John Gal",
+      "sourceAuthors": [
+        "John Gal"
+      ],
+      "journal": "Journal of European Social Policy",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1177/0958928710374374",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_is_there_an_extended_family_of_mediterranean_welfare_states_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם יש משפחה מורחבת של מדינות רווחה ים־תיכוניות?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_priming_religious_belief_and_religious_social_behavior_affects_support_for_democracy_summary_he",
+      "file": "democracy_priming_religious_belief_and_religious_social_behavior_affects_support_for_democracy_summary_he.html",
+      "permalink": "/democracy_priming_religious_belief_and_religious_social_behavior_affects_support_for_democracy_summary_he.html",
+      "sortKey": 202605230084,
+      "titleHe": "אמונה דתית, התנהגות חברתית ותמיכה בדמוקרטיה",
+      "paperTitle": "Priming Religious Belief and Religious Social Behavior Affects Support for Democracy",
+      "authorsCardHe": "P. Ben-Nun Bloom, G. Arikan",
+      "sourceAuthors": [
+        "P. Ben-Nun Bloom",
+        "G. Arikan"
+      ],
+      "journal": "International Journal of Public Opinion Research",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1093/ijpor/eds030",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_priming_religious_belief_and_religious_social_behavior_affects_support_for_democracy_summary_he.jpg",
+        "altHe": "תמונה עריכתית: אמונה דתית, התנהגות חברתית ותמיכה בדמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_communitarian_attitudes_of_religious_zionist_female_adolescents_to_democracy_in_israel_summary_he",
+      "file": "democracy_the_communitarian_attitudes_of_religious_zionist_female_adolescents_to_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_the_communitarian_attitudes_of_religious_zionist_female_adolescents_to_democracy_in_israel_summary_he.html",
+      "sortKey": 202605230083,
+      "titleHe": "נערות ציוניות־דתיות ועמדות קהילתניות כלפי דמוקרטיה",
+      "paperTitle": "The communitarian attitudes of religious Zionist female adolescents to democracy in Israel",
+      "authorsCardHe": "Zehavit Gross",
+      "sourceAuthors": [
+        "Zehavit Gross"
+      ],
+      "journal": "Education, Citizenship and Social Justice",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1177/1746197919868885",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_communitarian_attitudes_of_religious_zionist_female_adolescents_to_democracy_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: נערות ציוניות־דתיות ועמדות קהילתניות כלפי דמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_defending_the_faith_assessing_the_impact_of_state_religious_exclusivity_on_territorial_mid_initiation_summary_he",
+      "file": "democracy_defending_the_faith_assessing_the_impact_of_state_religious_exclusivity_on_territorial_mid_initiation_summary_he.html",
+      "permalink": "/democracy_defending_the_faith_assessing_the_impact_of_state_religious_exclusivity_on_territorial_mid_initiation_summary_he.html",
+      "sortKey": 202605230082,
+      "titleHe": "בלעדיות דתית של המדינה וסכסוכים טריטוריאליים",
+      "paperTitle": "Defending the Faith? Assessing the Impact of State Religious Exclusivity on Territorial MID Initiation",
+      "authorsCardHe": "Ariel Zellman, Jonathan Fox",
+      "sourceAuthors": [
+        "Ariel Zellman",
+        "Jonathan Fox"
+      ],
+      "journal": "Politics and Religion",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1017/s1755048319000488",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_defending_the_faith_assessing_the_impact_of_state_religious_exclusivity_on_territorial_mid_initiation_summary_he.jpg",
+        "altHe": "תמונה עריכתית: בלעדיות דתית של המדינה וסכסוכים טריטוריאליים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_in_four_democracies_summary_he",
+      "file": "democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_in_four_democracies_summary_he.html",
+      "permalink": "/democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_in_four_democracies_summary_he.html",
+      "sortKey": 202605230081,
+      "titleHe": "האם לחיילים יש קול בהחלטות על מבצעים צבאיים?",
+      "paperTitle": "Do Soldiers Get a Say? Soldiers’ Views and Public Support for Military Operations in Four Democracies",
+      "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav",
+      "sourceAuthors": [
+        "Ronald R. Krebs",
+        "Robert Ralston",
+        "Thierry Balzacq",
+        "David Blagden",
+        "Shaul R. Shenhav"
+      ],
+      "journal": "Perspectives on Politics",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1017/s1537592724002214",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_in_four_democracies_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם לחיילים יש קול בהחלטות על מבצעים צבאיים?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_involving_parents_with_disabilit_summary_he",
+      "file": "democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_involving_parents_with_disabilit_summary_he.html",
+      "permalink": "/democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_involving_parents_with_disabilit_summary_he.html",
+      "sortKey": 202605230080,
+      "titleHe": "הורות עם מוגבלות בפסקי דין בישראל",
+      "paperTitle": "The Legal Landscape of Parenting with Disabilities: A Study of Court Judgments Involving Parents with Disabilities in Israel",
+      "authorsCardHe": "Michal Segal, Ayelet Gur",
+      "sourceAuthors": [
+        "Michal Segal",
+        "Ayelet Gur"
+      ],
+      "journal": "Journal of Human Rights and Social Work",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1007/s41134-025-00399-3",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_involving_parents_with_disabilit_summary_he.jpg",
+        "altHe": "תמונה עריכתית: הורות עם מוגבלות בפסקי דין בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_from_integration_to_segregation_the_role_of_religion_in_the_idf_summary_he",
+      "file": "democracy_from_integration_to_segregation_the_role_of_religion_in_the_idf_summary_he.html",
+      "permalink": "/democracy_from_integration_to_segregation_the_role_of_religion_in_the_idf_summary_he.html",
+      "sortKey": 202605230079,
+      "titleHe": "דת בצה״ל: מאינטגרציה להפרדה",
+      "paperTitle": "From Integration to Segregation The Role of Religion in the IDF",
+      "authorsCardHe": "Stuart A. Cohen",
+      "sourceAuthors": [
+        "Stuart A. Cohen"
+      ],
+      "journal": "Armed Forces & Society",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1177/0095327x9902500303",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_from_integration_to_segregation_the_role_of_religion_in_the_idf_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת בצה״ל: מאינטגרציה להפרדה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_democratic_justice_regimes_in_work_organizations_the_case_of_israeli_taxi_cooperatives_summary_he",
+      "file": "democracy_democratic_justice_regimes_in_work_organizations_the_case_of_israeli_taxi_cooperatives_summary_he.html",
+      "permalink": "/democracy_democratic_justice_regimes_in_work_organizations_the_case_of_israeli_taxi_cooperatives_summary_he.html",
+      "sortKey": 202605230078,
+      "titleHe": "משטרי צדק דמוקרטיים בארגוני עבודה",
+      "paperTitle": "Democratic Justice Regimes in Work Organizations: The Case of Israeli Taxi Cooperatives",
+      "authorsCardHe": "Asaf Darr, Alisa C. Lewin",
+      "sourceAuthors": [
+        "Asaf Darr",
+        "Alisa C. Lewin"
+      ],
+      "journal": "Economic and Industrial Democracy",
+      "dateText": "פורסם: 2001",
+      "doiUrl": "https://doi.org/10.1177/0143831x01223004",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_justice_regimes_in_work_organizations_the_case_of_israeli_taxi_cooperatives_summary_he.jpg",
+        "altHe": "תמונה עריכתית: משטרי צדק דמוקרטיים בארגוני עבודה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_judicial_review_of_the_legislative_process_summary_he",
+      "file": "democracy_judicial_review_of_the_legislative_process_summary_he.html",
+      "permalink": "/democracy_judicial_review_of_the_legislative_process_summary_he.html",
+      "sortKey": 202605230077,
+      "titleHe": "ביקורת שיפוטית על הליך החקיקה",
+      "paperTitle": "Judicial Review of the Legislative Process",
+      "authorsCardHe": "Suzie Navot",
+      "sourceAuthors": [
+        "Suzie Navot"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.1017/s0021223700013066",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_review_of_the_legislative_process_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ביקורת שיפוטית על הליך החקיקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_icc_jurisdiction_over_acts_committed_in_the_gaza_strip_article_12_3_of_the_icc_statute_and_non_state_entities_summary_he",
+      "file": "democracy_icc_jurisdiction_over_acts_committed_in_the_gaza_strip_article_12_3_of_the_icc_statute_and_non_state_entities_summary_he.html",
+      "permalink": "/democracy_icc_jurisdiction_over_acts_committed_in_the_gaza_strip_article_12_3_of_the_icc_statute_and_non_state_entities_summary_he.html",
+      "sortKey": 202605230076,
+      "titleHe": "סמכות בית הדין הפלילי הבין־לאומי ברצועת עזה",
+      "paperTitle": "ICC Jurisdiction over Acts Committed in the Gaza Strip: Article 12(3) of the ICC Statute and Non-state Entities",
+      "authorsCardHe": "Y. Ronen",
+      "sourceAuthors": [
+        "Y. Ronen"
+      ],
+      "journal": "Journal of International Criminal Justice",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1093/jicj/mqp089",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_icc_jurisdiction_over_acts_committed_in_the_gaza_strip_article_12_3_of_the_icc_statute_and_non_state_entities_summary_he.jpg",
+        "altHe": "תמונה עריכתית: סמכות בית הדין הפלילי הבין־לאומי ברצועת עזה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_minorities_in_democracy_and_policing_policy_from_alienation_to_cooperation_summary_he",
+      "file": "democracy_minorities_in_democracy_and_policing_policy_from_alienation_to_cooperation_summary_he.html",
+      "permalink": "/democracy_minorities_in_democracy_and_policing_policy_from_alienation_to_cooperation_summary_he.html",
+      "sortKey": 202605230075,
+      "titleHe": "מיעוטים, דמוקרטיה ומדיניות שיטור",
+      "paperTitle": "Minorities in democracy and policing policy: from alienation to cooperation",
+      "authorsCardHe": "Guy Ben-Porat, Fany Yuval",
+      "sourceAuthors": [
+        "Guy Ben-Porat",
+        "Fany Yuval"
+      ],
+      "journal": "Policing and Society",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1080/10439463.2011.636814",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minorities_in_democracy_and_policing_policy_from_alienation_to_cooperation_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מיעוטים, דמוקרטיה ומדיניות שיטור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_what_can_pro_democracy_activists_in_arab_countries_expect_from_the_european_union_lessons_from_the_union_s_rel_summary_he",
+      "file": "democracy_what_can_pro_democracy_activists_in_arab_countries_expect_from_the_european_union_lessons_from_the_union_s_rel_summary_he.html",
+      "permalink": "/democracy_what_can_pro_democracy_activists_in_arab_countries_expect_from_the_european_union_lessons_from_the_union_s_rel_summary_he.html",
+      "sortKey": 202605230074,
+      "titleHe": "מה יכולים פעילי דמוקרטיה במדינות ערב לצפות מהאיחוד האירופי?",
+      "paperTitle": "What Can Pro-Democracy Activists in Arab Countries Expect from the European Union? Lessons from the Union's Relations with Israel",
+      "authorsCardHe": "Neve Gordon, Sharon Pardo",
+      "sourceAuthors": [
+        "Neve Gordon",
+        "Sharon Pardo"
+      ],
+      "journal": "Democracy and Security",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1080/17419166.2013.747834",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_what_can_pro_democracy_activists_in_arab_countries_expect_from_the_european_union_lessons_from_the_union_s_rel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מה יכולים פעילי דמוקרטיה במדינות ערב לצפות מהאיחוד האירופי?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_hcj_3003_18_yesh_din_volunteers_for_human_rights_v_chief_of_general_staff_israel_defense_forces_idf_summary_he",
+      "file": "democracy_hcj_3003_18_yesh_din_volunteers_for_human_rights_v_chief_of_general_staff_israel_defense_forces_idf_summary_he.html",
+      "permalink": "/democracy_hcj_3003_18_yesh_din_volunteers_for_human_rights_v_chief_of_general_staff_israel_defense_forces_idf_summary_he.html",
+      "sortKey": 202605230073,
+      "titleHe": "בג״ץ יש דין וסמכות הפיקוד הצבאי",
+      "paperTitle": "HCJ 3003/18 Yesh Din – Volunteers for Human Rights v. Chief of General Staff, Israel Defense Forces (IDF)",
+      "authorsCardHe": "Yahli Shereshevsky",
+      "sourceAuthors": [
+        "Yahli Shereshevsky"
+      ],
+      "journal": "American Journal of International Law",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1017/ajil.2019.8",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hcj_3003_18_yesh_din_volunteers_for_human_rights_v_chief_of_general_staff_israel_defense_forces_idf_summary_he.jpg",
+        "altHe": "תמונה עריכתית: בג״ץ יש דין וסמכות הפיקוד הצבאי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_armed_with_a_camera_gender_human_rights_and_visual_documentation_in_israel_palestine_summary_he",
+      "file": "democracy_armed_with_a_camera_gender_human_rights_and_visual_documentation_in_israel_palestine_summary_he.html",
+      "permalink": "/democracy_armed_with_a_camera_gender_human_rights_and_visual_documentation_in_israel_palestine_summary_he.html",
+      "sortKey": 202605230072,
+      "titleHe": "מצלמה, מגדר וזכויות אדם בישראל/פלסטין",
+      "paperTitle": "Armed with a Camera: Gender, Human Rights, and Visual Documentation in Israel/Palestine",
+      "authorsCardHe": "Ruthie Ginsburg",
+      "sourceAuthors": [
+        "Ruthie Ginsburg"
+      ],
+      "journal": "Signs: Journal of Women in Culture and Society",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1086/712389",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_armed_with_a_camera_gender_human_rights_and_visual_documentation_in_israel_palestine_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מצלמה, מגדר וזכויות אדם בישראל/פלסטין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_a_value_based_framework_connecting_environmental_citizenship_and_change_agents_for_sustainability_implications_summary_he",
+      "file": "democracy_a_value_based_framework_connecting_environmental_citizenship_and_change_agents_for_sustainability_implications_summary_he.html",
+      "permalink": "/democracy_a_value_based_framework_connecting_environmental_citizenship_and_change_agents_for_sustainability_implications_summary_he.html",
+      "sortKey": 202605230071,
+      "titleHe": "אזרחות סביבתית וחינוך לסוכני שינוי",
+      "paperTitle": "A Value-Based Framework Connecting Environmental Citizenship and Change Agents for Sustainability—Implications for Education for Environmental Citizenship",
+      "authorsCardHe": "Ariel Sarid, Daphne Goldman",
+      "sourceAuthors": [
+        "Ariel Sarid",
+        "Daphne Goldman"
+      ],
+      "journal": "Sustainability",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.3390/su13084338",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_a_value_based_framework_connecting_environmental_citizenship_and_change_agents_for_sustainability_implications_summary_he.jpg",
+        "altHe": "תמונה עריכתית: אזרחות סביבתית וחינוך לסוכני שינוי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_polarizations_exclusionary_neonationalisms_and_the_city_summary_he",
+      "file": "democracy_polarizations_exclusionary_neonationalisms_and_the_city_summary_he.html",
+      "permalink": "/democracy_polarizations_exclusionary_neonationalisms_and_the_city_summary_he.html",
+      "sortKey": 202605230070,
+      "titleHe": "קיטוב, ניאו־לאומיות מדירה והעיר",
+      "paperTitle": "Polarizations, exclusionary neonationalisms and the city",
+      "authorsCardHe": "Oren Yiftachel, Jonathan Rokem",
+      "sourceAuthors": [
+        "Oren Yiftachel",
+        "Jonathan Rokem"
+      ],
+      "journal": "Political Geography",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1016/j.polgeo.2020.102329",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarizations_exclusionary_neonationalisms_and_the_city_summary_he.jpg",
+        "altHe": "תמונה עריכתית: קיטוב, ניאו־לאומיות מדירה והעיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_trends_and_constraints_of_partial_democracy_in_latin_america_summary_he",
+      "file": "democracy_trends_and_constraints_of_partial_democracy_in_latin_america_summary_he.html",
+      "permalink": "/democracy_trends_and_constraints_of_partial_democracy_in_latin_america_summary_he.html",
+      "sortKey": 202605230069,
+      "titleHe": "דמוקרטיה חלקית באמריקה הלטינית: מגמות ומגבלות",
+      "paperTitle": "Trends and Constraints of Partial Democracy in Latin America",
+      "authorsCardHe": "Mario Sznajder, Luis Roniger",
+      "sourceAuthors": [
+        "Mario Sznajder",
+        "Luis Roniger"
+      ],
+      "journal": "Cambridge Review of International Affairs",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1080/09557570302058",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trends_and_constraints_of_partial_democracy_in_latin_america_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דמוקרטיה חלקית באמריקה הלטינית: מגמות ומגבלות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_israeli_supreme_court_doctrine_and_the_battle_over_arab_land_in_galilee_a_vertical_assessment_summary_he",
+      "file": "democracy_israeli_supreme_court_doctrine_and_the_battle_over_arab_land_in_galilee_a_vertical_assessment_summary_he.html",
+      "permalink": "/democracy_israeli_supreme_court_doctrine_and_the_battle_over_arab_land_in_galilee_a_vertical_assessment_summary_he.html",
+      "sortKey": 202605230068,
+      "titleHe": "בית המשפט העליון והקרקע הערבית בגליל",
+      "paperTitle": "Israeli Supreme Court Doctrine and the Battle over Arab Land in Galilee: A Vertical Assessment",
+      "authorsCardHe": "Geremy Forman",
+      "sourceAuthors": [
+        "Geremy Forman"
+      ],
+      "journal": "Journal of Palestine Studies",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1525/jps.2011.xl.4.24",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_supreme_court_doctrine_and_the_battle_over_arab_land_in_galilee_a_vertical_assessment_summary_he.jpg",
+        "altHe": "תמונה עריכתית: בית המשפט העליון והקרקע הערבית בגליל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on_free_speech_protection_summary_he",
+      "file": "democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on_free_speech_protection_summary_he.html",
+      "permalink": "/democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on_free_speech_protection_summary_he.html",
+      "sortKey": 202605230067,
+      "titleHe": "המהפכה החוקתית והגנת חופש הביטוי בישראל",
+      "paperTitle": "“Dignitizing” Free Speech in Israel: The Impact of the Constitutional Revolution on Free Speech Protection",
+      "authorsCardHe": "Guy E. Carmi",
+      "sourceAuthors": [
+        "Guy E. Carmi"
+      ],
+      "journal": "McGill Law Journal",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.7202/1013032ar",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on_free_speech_protection_summary_he.jpg",
+        "altHe": "תמונה עריכתית: המהפכה החוקתית והגנת חופש הביטוי בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_leadership_and_identity_politics_on_the_eve_of_the_israeli_2015_elections_children_s_perspectives_summary_he",
+      "file": "democracy_leadership_and_identity_politics_on_the_eve_of_the_israeli_2015_elections_children_s_perspectives_summary_he.html",
+      "permalink": "/democracy_leadership_and_identity_politics_on_the_eve_of_the_israeli_2015_elections_children_s_perspectives_summary_he.html",
+      "sortKey": 202605230066,
+      "titleHe": "זהות ומנהיגות ערב בחירות 2015 בעיני ילדים",
+      "paperTitle": "Leadership and identity politics on the eve of the Israeli 2015 elections: children’s perspectives",
+      "authorsCardHe": "Michal Alon-Tirosh, Dorit Hadar-Shoval",
+      "sourceAuthors": [
+        "Michal Alon-Tirosh",
+        "Dorit Hadar-Shoval"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.1080/13537121.2016.1174372",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_leadership_and_identity_politics_on_the_eve_of_the_israeli_2015_elections_children_s_perspectives_summary_he.jpg",
+        "altHe": "תמונה עריכתית: זהות ומנהיגות ערב בחירות 2015 בעיני ילדים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_ministerial_emergency_powers_over_court_administration_in_the_israeli_judiciary_summary_he",
+      "file": "democracy_ministerial_emergency_powers_over_court_administration_in_the_israeli_judiciary_summary_he.html",
+      "permalink": "/democracy_ministerial_emergency_powers_over_court_administration_in_the_israeli_judiciary_summary_he.html",
+      "sortKey": 202605230065,
+      "titleHe": "סמכויות חירום מיניסטריאליות בניהול בתי המשפט בישראל",
+      "paperTitle": "Ministerial Emergency Powers Over Court Administration in the Israeli Judiciary",
+      "authorsCardHe": "Guy Lurie",
+      "sourceAuthors": [
+        "Guy Lurie"
+      ],
+      "journal": "International Journal for Court Administration",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.36745/ijca.383",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ministerial_emergency_powers_over_court_administration_in_the_israeli_judiciary_summary_he.jpg",
+        "altHe": "תמונה עריכתית: סמכויות חירום מיניסטריאליות בניהול בתי המשפט בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_do_religion_clauses_in_constitutions_predict_government_based_discrimination_against_religious_minorities_summary_he",
+      "file": "democracy_do_religion_clauses_in_constitutions_predict_government_based_discrimination_against_religious_minorities_summary_he.html",
+      "permalink": "/democracy_do_religion_clauses_in_constitutions_predict_government_based_discrimination_against_religious_minorities_summary_he.html",
+      "sortKey": 202605230064,
+      "titleHe": "האם סעיפי דת בחוקות מנבאים אפליה נגד מיעוטים?",
+      "paperTitle": "Do Religion Clauses in Constitutions Predict Government-Based Discrimination against Religious Minorities?",
+      "authorsCardHe": "Jonathan Fox",
+      "sourceAuthors": [
+        "Jonathan Fox"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.3390/rel14010092",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_do_religion_clauses_in_constitutions_predict_government_based_discrimination_against_religious_minorities_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם סעיפי דת בחוקות מנבאים אפליה נגד מיעוטים?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_human_rights_archival_gap_ethno_archiving_the_silencing_of_radical_activism_and_israel_s_violence_against_summary_he",
+      "file": "democracy_the_human_rights_archival_gap_ethno_archiving_the_silencing_of_radical_activism_and_israel_s_violence_against_summary_he.html",
+      "permalink": "/democracy_the_human_rights_archival_gap_ethno_archiving_the_silencing_of_radical_activism_and_israel_s_violence_against_summary_he.html",
+      "sortKey": 202605230063,
+      "titleHe": "פער הארכיון בזכויות אדם ואלימות נגד נשים פלסטיניות",
+      "paperTitle": "The human rights archival gap: ethno-archiving the silencing of radical activism and Israel’s violence against Palestinian women",
+      "authorsCardHe": "Omri Grinberg, Sarai B. Aharoni",
+      "sourceAuthors": [
+        "Omri Grinberg",
+        "Sarai B. Aharoni"
+      ],
+      "journal": "The International Journal of Human Rights",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1080/13642987.2024.2383733",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_human_rights_archival_gap_ethno_archiving_the_silencing_of_radical_activism_and_israel_s_violence_against_summary_he.jpg",
+        "altHe": "תמונה עריכתית: פער הארכיון בזכויות אדם ואלימות נגד נשים פלסטיניות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_israeli_democracy_and_jewish_history_summary_he",
+      "file": "democracy_israeli_democracy_and_jewish_history_summary_he.html",
+      "permalink": "/democracy_israeli_democracy_and_jewish_history_summary_he.html",
+      "sortKey": 202605230062,
+      "titleHe": "דמוקרטיה ישראלית והיסטוריה יהודית",
+      "paperTitle": "Israeli Democracy and Jewish History",
+      "authorsCardHe": "I. Sharkansky",
+      "sourceAuthors": [
+        "I. Sharkansky"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 1995",
+      "doiUrl": "https://doi.org/10.1093/jcs/37.2.329",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_and_jewish_history_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דמוקרטיה ישראלית והיסטוריה יהודית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_parties_laws_in_democratic_systems_of_government_summary_he",
+      "file": "democracy_parties_laws_in_democratic_systems_of_government_summary_he.html",
+      "permalink": "/democracy_parties_laws_in_democratic_systems_of_government_summary_he.html",
+      "sortKey": 202605230061,
+      "titleHe": "חוקי מפלגות במשטרים דמוקרטיים",
+      "paperTitle": "Parties laws in democratic systems of government",
+      "authorsCardHe": "Dan Avnon",
+      "sourceAuthors": [
+        "Dan Avnon"
+      ],
+      "journal": "The Journal of Legislative Studies",
+      "dateText": "פורסם: 1995",
+      "doiUrl": "https://doi.org/10.1080/13572339508420429",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_parties_laws_in_democratic_systems_of_government_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חוקי מפלגות במשטרים דמוקרטיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_fifty_years_later_the_scope_and_limits_of_liberal_democracy_in_israel_summary_he",
+      "file": "democracy_fifty_years_later_the_scope_and_limits_of_liberal_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_fifty_years_later_the_scope_and_limits_of_liberal_democracy_in_israel_summary_he.html",
+      "sortKey": 202605230060,
+      "titleHe": "חמישים שנה אחר כך: גבולות הדמוקרטיה הליברלית בישראל",
+      "paperTitle": "Fifty Years Later: The Scope and Limits of Liberal Democracy in Israel",
+      "authorsCardHe": "Yossi Yonah",
+      "sourceAuthors": [
+        "Yossi Yonah"
+      ],
+      "journal": "Constellations",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1111/1467-8675.00153",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fifty_years_later_the_scope_and_limits_of_liberal_democracy_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חמישים שנה אחר כך: גבולות הדמוקרטיה הליברלית בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_settlements_in_the_supreme_court_of_israel_summary_he",
+      "file": "democracy_settlements_in_the_supreme_court_of_israel_summary_he.html",
+      "permalink": "/democracy_settlements_in_the_supreme_court_of_israel_summary_he.html",
+      "sortKey": 202605230059,
+      "titleHe": "התנחלויות בבית המשפט העליון בישראל",
+      "paperTitle": "Settlements in the Supreme Court of Israel",
+      "authorsCardHe": "David Kretzmer",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "AJIL Unbound",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.1017/aju.2017.17",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_settlements_in_the_supreme_court_of_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: התנחלויות בבית המשפט העליון בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_glocal_neoliberal_trends_in_israeli_education_the_case_of_religionization_summary_he",
+      "file": "democracy_glocal_neoliberal_trends_in_israeli_education_the_case_of_religionization_summary_he.html",
+      "permalink": "/democracy_glocal_neoliberal_trends_in_israeli_education_the_case_of_religionization_summary_he.html",
+      "sortKey": 202605230058,
+      "titleHe": "ניאו־ליברליזם גלוקלי והדתה בחינוך הישראלי",
+      "paperTitle": "“Glocal” neoliberal trends in Israeli education: The case of religionization",
+      "authorsCardHe": "Clara Sabbagh",
+      "sourceAuthors": [
+        "Clara Sabbagh"
+      ],
+      "journal": "International Journal of Educational Development",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1016/j.ijedudev.2019.05.004",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_glocal_neoliberal_trends_in_israeli_education_the_case_of_religionization_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ניאו־ליברליזם גלוקלי והדתה בחינוך הישראלי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_political_polarization_on_the_digital_sphere_a_cross_platform_over_time_analysis_of_interactional_positional_a_summary_he",
+      "file": "democracy_political_polarization_on_the_digital_sphere_a_cross_platform_over_time_analysis_of_interactional_positional_a_summary_he.html",
+      "permalink": "/democracy_political_polarization_on_the_digital_sphere_a_cross_platform_over_time_analysis_of_interactional_positional_a_summary_he.html",
+      "sortKey": 202605230057,
+      "titleHe": "קיטוב פוליטי ברשתות חברתיות לאורך זמן",
+      "paperTitle": "Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media",
+      "authorsCardHe": "Moran Yarchi, Christian Baden, Neta Kligler-Vilenchik",
+      "sourceAuthors": [
+        "Moran Yarchi",
+        "Christian Baden",
+        "Neta Kligler-Vilenchik"
+      ],
+      "journal": "Political Communication",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1080/10584609.2020.1785067",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_polarization_on_the_digital_sphere_a_cross_platform_over_time_analysis_of_interactional_positional_a_summary_he.jpg",
+        "altHe": "תמונה עריכתית: קיטוב פוליטי ברשתות חברתיות לאורך זמן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues_negativity_and_acclaim_summary_he",
+      "file": "democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues_negativity_and_acclaim_summary_he.html",
+      "permalink": "/democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues_negativity_and_acclaim_summary_he.html",
+      "sortKey": 202605230056,
+      "titleHe": "התפתחות הדמוקרטיה הברזילאית בשיח בחירות",
+      "paperTitle": "Evolution of Brazilian Democracy: Unveiling Election Dynamics in Political Issues, Negativity, and Acclaim",
+      "authorsCardHe": "Isabella Gonçalves, Mathias-Felipe De-Lima-Santos, Vicente Fenoll, Yossi David",
+      "sourceAuthors": [
+        "Isabella Gonçalves",
+        "Mathias-Felipe De-Lima-Santos",
+        "Vicente Fenoll",
+        "Yossi David"
+      ],
+      "journal": "Politics and Governance",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.17645/pag.8060",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues_negativity_and_acclaim_summary_he.jpg",
+        "altHe": "תמונה עריכתית: התפתחות הדמוקרטיה הברזילאית בשיח בחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_that_strengthens_democracy_an_analysis_of_religious_political_strategies_in_israel_summary_he",
+      "file": "democracy_religion_that_strengthens_democracy_an_analysis_of_religious_political_strategies_in_israel_summary_he.html",
+      "permalink": "/democracy_religion_that_strengthens_democracy_an_analysis_of_religious_political_strategies_in_israel_summary_he.html",
+      "sortKey": 202605230055,
+      "titleHe": "כיצד דת יכולה לחזק דמוקרטיה",
+      "paperTitle": "Religion that strengthens democracy: An analysis of religious political strategies in Israel",
+      "authorsCardHe": "Ezra Kopelowitz, Matthew Diamond",
+      "sourceAuthors": [
+        "Ezra Kopelowitz",
+        "Matthew Diamond"
+      ],
+      "journal": "Theory and Society",
+      "dateText": "פורסם: 1998",
+      "doiUrl": "https://doi.org/10.1023/a:1006865524290",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_that_strengthens_democracy_an_analysis_of_religious_political_strategies_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: כיצד דת יכולה לחזק דמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_and_state_in_europe_and_israel_summary_he",
+      "file": "democracy_religion_and_state_in_europe_and_israel_summary_he.html",
+      "permalink": "/democracy_religion_and_state_in_europe_and_israel_summary_he.html",
+      "sortKey": 202605230054,
+      "titleHe": "דת ומדינה באירופה ובישראל",
+      "paperTitle": "Religion and State in Europe and Israel",
+      "authorsCardHe": "Benyamin Neuberger",
+      "sourceAuthors": [
+        "Benyamin Neuberger"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1080/13537129908719560",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_and_state_in_europe_and_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת ומדינה באירופה ובישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_israel_the_security_barrier_between_international_law_constitutional_law_and_domestic_judicial_review_summary_he",
+      "file": "democracy_israel_the_security_barrier_between_international_law_constitutional_law_and_domestic_judicial_review_summary_he.html",
+      "permalink": "/democracy_israel_the_security_barrier_between_international_law_constitutional_law_and_domestic_judicial_review_summary_he.html",
+      "sortKey": 202605230053,
+      "titleHe": "גדר הביטחון בין משפט בין־לאומי, חוקתי וביקורת שיפוטית",
+      "paperTitle": "Israel: The security barrier—between international law, constitutional law, and domestic judicial review",
+      "authorsCardHe": "Daphne Barak-Erez",
+      "sourceAuthors": [
+        "Daphne Barak-Erez"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.1093/icon/mol021",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_the_security_barrier_between_international_law_constitutional_law_and_domestic_judicial_review_summary_he.jpg",
+        "altHe": "תמונה עריכתית: גדר הביטחון בין משפט בין־לאומי, חוקתי וביקורת שיפוטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_ethnic_democracy_debate_how_unique_is_israel_summary_he",
+      "file": "democracy_the_ethnic_democracy_debate_how_unique_is_israel_summary_he.html",
+      "permalink": "/democracy_the_ethnic_democracy_debate_how_unique_is_israel_summary_he.html",
+      "sortKey": 202605230052,
+      "titleHe": "ויכוח הדמוקרטיה האתנית: עד כמה ישראל ייחודית?",
+      "paperTitle": "The ethnic democracy debate: how unique is Israel?",
+      "authorsCardHe": "MOSHE BERENT",
+      "sourceAuthors": [
+        "MOSHE BERENT"
+      ],
+      "journal": "Nations and Nationalism",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1111/j.1469-8129.2009.00421.x",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_ethnic_democracy_debate_how_unique_is_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ויכוח הדמוקרטיה האתנית: עד כמה ישראל ייחודית?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_voter_election_frames_what_were_the_elections_about_summary_he",
+      "file": "democracy_voter_election_frames_what_were_the_elections_about_summary_he.html",
+      "permalink": "/democracy_voter_election_frames_what_were_the_elections_about_summary_he.html",
+      "sortKey": 202605230051,
+      "titleHe": "מסגרות בחירות: על מה היו הבחירות?",
+      "paperTitle": "Voter Election Frames: What were the Elections about?",
+      "authorsCardHe": "Jacob Shamir, Michal Shamir, Liron Lavi",
+      "sourceAuthors": [
+        "Jacob Shamir",
+        "Michal Shamir",
+        "Liron Lavi"
+      ],
+      "journal": "Political Studies",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1111/1467-9248.12145",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_voter_election_frames_what_were_the_elections_about_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מסגרות בחירות: על מה היו הבחירות?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_states_of_emergency_in_france_and_israel_terrorism_permanent_emergencies_and_democracy_summary_he",
+      "file": "democracy_states_of_emergency_in_france_and_israel_terrorism_permanent_emergencies_and_democracy_summary_he.html",
+      "permalink": "/democracy_states_of_emergency_in_france_and_israel_terrorism_permanent_emergencies_and_democracy_summary_he.html",
+      "sortKey": 202605230050,
+      "titleHe": "מצבי חירום מתמשכים בצרפת ובישראל",
+      "paperTitle": "States of emergency in France and Israel – terrorism, “permanent emergencies”, and democracy",
+      "authorsCardHe": "Myriam Feinberg",
+      "sourceAuthors": [
+        "Myriam Feinberg"
+      ],
+      "journal": "Zeitschrift für Politikwissenschaft",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.1007/s41358-018-0147-y",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_states_of_emergency_in_france_and_israel_terrorism_permanent_emergencies_and_democracy_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מצבי חירום מתמשכים בצרפת ובישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_merging_disaggregating_and_clustering_local_authorities_do_structural_reforms_affect_perceptions_about_local_g_summary_he",
+      "file": "democracy_merging_disaggregating_and_clustering_local_authorities_do_structural_reforms_affect_perceptions_about_local_g_summary_he.html",
+      "permalink": "/democracy_merging_disaggregating_and_clustering_local_authorities_do_structural_reforms_affect_perceptions_about_local_g_summary_he.html",
+      "sortKey": 202605230049,
+      "titleHe": "רפורמות ברשויות מקומיות ותפיסות של ממשל ודמוקרטיה",
+      "paperTitle": "Merging, disaggregating and clustering local authorities: do structural reforms affect perceptions about local governance and democracy?",
+      "authorsCardHe": "Itai Beeri, Akab Zaidan",
+      "sourceAuthors": [
+        "Itai Beeri",
+        "Akab Zaidan"
+      ],
+      "journal": "Territory, Politics, Governance",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1080/21622671.2021.1908159",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_merging_disaggregating_and_clustering_local_authorities_do_structural_reforms_affect_perceptions_about_local_g_summary_he.jpg",
+        "altHe": "תמונה עריכתית: רפורמות ברשויות מקומיות ותפיסות של ממשל ודמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_has_israel_really_been_a_garrison_democracy_sources_of_change_in_israel_s_democracy_summary_he",
+      "file": "democracy_has_israel_really_been_a_garrison_democracy_sources_of_change_in_israel_s_democracy_summary_he.html",
+      "permalink": "/democracy_has_israel_really_been_a_garrison_democracy_sources_of_change_in_israel_s_democracy_summary_he.html",
+      "sortKey": 202605230048,
+      "titleHe": "האם ישראל באמת היתה דמוקרטיית חיל־מצב?",
+      "paperTitle": "Has Israel really been a garrison democracy? Sources of change in Israel's democracy",
+      "authorsCardHe": "Gabriel Sheffer",
+      "sourceAuthors": [
+        "Gabriel Sheffer"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 1996",
+      "doiUrl": "https://doi.org/10.1080/13537129608719406",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_has_israel_really_been_a_garrison_democracy_sources_of_change_in_israel_s_democracy_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם ישראל באמת היתה דמוקרטיית חיל־מצב?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_christian_zionists_in_the_holy_land_evangelical_churches_labor_migrants_and_the_jewish_state_summary_he",
+      "file": "democracy_christian_zionists_in_the_holy_land_evangelical_churches_labor_migrants_and_the_jewish_state_summary_he.html",
+      "permalink": "/democracy_christian_zionists_in_the_holy_land_evangelical_churches_labor_migrants_and_the_jewish_state_summary_he.html",
+      "sortKey": 202605230047,
+      "titleHe": "ציונים נוצרים בארץ הקודש ומדינת היהודים",
+      "paperTitle": "Christian Zionists in the Holy Land: Evangelical Churches, Labor Migrants, and the Jewish State",
+      "authorsCardHe": "Adriana Kemp, Rebeca Raijman",
+      "sourceAuthors": [
+        "Adriana Kemp",
+        "Rebeca Raijman"
+      ],
+      "journal": "Identities",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1080/10702890390228883",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_christian_zionists_in_the_holy_land_evangelical_churches_labor_migrants_and_the_jewish_state_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ציונים נוצרים בארץ הקודש ומדינת היהודים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_collaborative_rulemaking_democratic_bots_and_the_future_of_digital_democracy_summary_he",
+      "file": "democracy_collaborative_rulemaking_democratic_bots_and_the_future_of_digital_democracy_summary_he.html",
+      "permalink": "/democracy_collaborative_rulemaking_democratic_bots_and_the_future_of_digital_democracy_summary_he.html",
+      "sortKey": 202605230046,
+      "titleHe": "כללים דיגיטליים, בוטים דמוקרטיים ועתיד הדמוקרטיה",
+      "paperTitle": "Collaborative е-Rulemaking, Democratic Bots, and the Future of Digital Democracy",
+      "authorsCardHe": "Oren Perez",
+      "sourceAuthors": [
+        "Oren Perez"
+      ],
+      "journal": "Digital Government: Research and Practice",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1145/3352463",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_collaborative_rulemaking_democratic_bots_and_the_future_of_digital_democracy_summary_he.jpg",
+        "altHe": "תמונה עריכתית: כללים דיגיטליים, בוטים דמוקרטיים ועתיד הדמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_state_ethnicization_and_the_crisis_of_leadership_succession_among_israel_s_druze_summary_he",
+      "file": "democracy_state_ethnicization_and_the_crisis_of_leadership_succession_among_israel_s_druze_summary_he.html",
+      "permalink": "/democracy_state_ethnicization_and_the_crisis_of_leadership_succession_among_israel_s_druze_summary_he.html",
+      "sortKey": 202605230045,
+      "titleHe": "אתניזציה של המדינה ומשבר הנהגה בקרב הדרוזים בישראל",
+      "paperTitle": "State ethnicization and the crisis of leadership succession among Israel's Druze",
+      "authorsCardHe": "Hillel Frisch",
+      "sourceAuthors": [
+        "Hillel Frisch"
+      ],
+      "journal": "Ethnic and Racial Studies",
+      "dateText": "פורסם: 1997",
+      "doiUrl": "https://doi.org/10.1080/01419870.1997.9993976",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_ethnicization_and_the_crisis_of_leadership_succession_among_israel_s_druze_summary_he.jpg",
+        "altHe": "תמונה עריכתית: אתניזציה של המדינה ומשבר הנהגה בקרב הדרוזים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_living_in_denial_the_application_of_human_rights_in_the_occupied_territories_summary_he",
+      "file": "democracy_living_in_denial_the_application_of_human_rights_in_the_occupied_territories_summary_he.html",
+      "permalink": "/democracy_living_in_denial_the_application_of_human_rights_in_the_occupied_territories_summary_he.html",
+      "sortKey": 202605230044,
+      "titleHe": "יישום זכויות אדם בשטחים: חיים בהכחשה",
+      "paperTitle": "Living in Denial: The Application of Human Rights in the Occupied Territories",
+      "authorsCardHe": "Orna Ben-Naftali, Yuval Shany",
+      "sourceAuthors": [
+        "Orna Ben-Naftali",
+        "Yuval Shany"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1017/s0021223700012413",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_living_in_denial_the_application_of_human_rights_in_the_occupied_territories_summary_he.jpg",
+        "altHe": "תמונה עריכתית: יישום זכויות אדם בשטחים: חיים בהכחשה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_race_religion_and_nationality_in_immigration_selection_120_years_after_the_chinese_exclusion_case_summary_he",
+      "file": "democracy_race_religion_and_nationality_in_immigration_selection_120_years_after_the_chinese_exclusion_case_summary_he.html",
+      "permalink": "/democracy_race_religion_and_nationality_in_immigration_selection_120_years_after_the_chinese_exclusion_case_summary_he.html",
+      "sortKey": 202605230043,
+      "titleHe": "גזע, דת ולאום בבחירת מהגרים",
+      "paperTitle": "Race, Religion and Nationality in Immigration Selection: 120 Years After the Chinese Exclusion Case",
+      "authorsCardHe": "Liav Orgad, Theodore Ruthizer",
+      "sourceAuthors": [
+        "Liav Orgad",
+        "Theodore Ruthizer"
+      ],
+      "journal": "Constitutional Commentary",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.24926/26390742.1839",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_race_religion_and_nationality_in_immigration_selection_120_years_after_the_chinese_exclusion_case_summary_he.jpg",
+        "altHe": "תמונה עריכתית: גזע, דת ולאום בבחירת מהגרים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_tensions_in_the_jewish_democracy_the_constitutional_challenge_of_the_palestinian_citizens_in_israel_summary_he",
+      "file": "democracy_tensions_in_the_jewish_democracy_the_constitutional_challenge_of_the_palestinian_citizens_in_israel_summary_he.html",
+      "permalink": "/democracy_tensions_in_the_jewish_democracy_the_constitutional_challenge_of_the_palestinian_citizens_in_israel_summary_he.html",
+      "sortKey": 202605230042,
+      "titleHe": "האתגר החוקתי של האזרחים הפלסטינים בישראל",
+      "paperTitle": "Tensions in the “Jewish Democracy”: The Constitutional Challenge of the Palestinian Citizens in Israel",
+      "authorsCardHe": "Uri Ram",
+      "sourceAuthors": [
+        "Uri Ram"
+      ],
+      "journal": "Constellations",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00556.x",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_tensions_in_the_jewish_democracy_the_constitutional_challenge_of_the_palestinian_citizens_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האתגר החוקתי של האזרחים הפלסטינים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_a_jewish_democracy_at_war_attitudes_of_secular_jewish_political_parties_in_israel_toward_the_question_of_war_1_summary_he",
+      "file": "democracy_a_jewish_democracy_at_war_attitudes_of_secular_jewish_political_parties_in_israel_toward_the_question_of_war_1_summary_he.html",
+      "permalink": "/democracy_a_jewish_democracy_at_war_attitudes_of_secular_jewish_political_parties_in_israel_toward_the_question_of_war_1_summary_he.html",
+      "sortKey": 202605230041,
+      "titleHe": "דמוקרטיה יהודית במלחמה: מפלגות חילוניות בישראל",
+      "paperTitle": "A Jewish democracy at war: Attitudes of secular Jewish political parties in Israel toward the question of war (1949–1988)",
+      "authorsCardHe": "Gad Barzilai",
+      "sourceAuthors": [
+        "Gad Barzilai"
+      ],
+      "journal": "Comparative Strategy",
+      "dateText": "פורסם: 1990",
+      "doiUrl": "https://doi.org/10.1080/01495939008402811",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_a_jewish_democracy_at_war_attitudes_of_secular_jewish_political_parties_in_israel_toward_the_question_of_war_1_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דמוקרטיה יהודית במלחמה: מפלגות חילוניות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_symbolic_constitutionalism_on_sacred_cows_and_abominable_pigs_summary_he",
+      "file": "democracy_symbolic_constitutionalism_on_sacred_cows_and_abominable_pigs_summary_he.html",
+      "permalink": "/democracy_symbolic_constitutionalism_on_sacred_cows_and_abominable_pigs_summary_he.html",
+      "sortKey": 202605230040,
+      "titleHe": "חוקתיות סמלית וגבולות הקונצנזוס",
+      "paperTitle": "Symbolic Constitutionalism: On Sacred Cows and Abominable Pigs",
+      "authorsCardHe": "Daphne Barak-Erez",
+      "sourceAuthors": [
+        "Daphne Barak-Erez"
+      ],
+      "journal": "Law, Culture and the Humanities",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1177/1743872110374265",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_symbolic_constitutionalism_on_sacred_cows_and_abominable_pigs_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חוקתיות סמלית וגבולות הקונצנזוס",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_bridging_bureaucracy_and_democracy_in_europe_a_comparative_study_of_perceived_managerial_excellence_satisfacti_summary_he",
+      "file": "democracy_bridging_bureaucracy_and_democracy_in_europe_a_comparative_study_of_perceived_managerial_excellence_satisfacti_summary_he.html",
+      "permalink": "/democracy_bridging_bureaucracy_and_democracy_in_europe_a_comparative_study_of_perceived_managerial_excellence_satisfacti_summary_he.html",
+      "sortKey": 202605230039,
+      "titleHe": "בירוקרטיה, דמוקרטיה ואמון בשירותים ציבוריים באירופה",
+      "paperTitle": "Bridging bureaucracy and democracy in Europe: A comparative study of perceived managerial excellence, satisfaction with public services, and trust in governance",
+      "authorsCardHe": "Eran Vigoda-Gadot, Aviv Shoham, Dana R Vashdi",
+      "sourceAuthors": [
+        "Eran Vigoda-Gadot",
+        "Aviv Shoham",
+        "Dana R Vashdi"
+      ],
+      "journal": "European Union Politics",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1177/1465116510363657",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bridging_bureaucracy_and_democracy_in_europe_a_comparative_study_of_perceived_managerial_excellence_satisfacti_summary_he.jpg",
+        "altHe": "תמונה עריכתית: בירוקרטיה, דמוקרטיה ואמון בשירותים ציבוריים באירופה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he",
+      "file": "democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he.html",
+      "permalink": "/democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he.html",
+      "sortKey": 202605230038,
+      "titleHe": "כוחם הפוליטי של שליחים מקומיים",
+      "paperTitle": "The Political Power of Proxies: Why Nonstate Actors Use Local Surrogates",
+      "authorsCardHe": "Assaf Moghadam, Michel Wyss",
+      "sourceAuthors": [
+        "Assaf Moghadam",
+        "Michel Wyss"
+      ],
+      "journal": "International Security",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1162/isec_a_00377",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he.jpg",
+        "altHe": "תמונה עריכתית: כוחם הפוליטי של שליחים מקומיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_ensuring_individual_rights_through_institutional_freedoms_the_role_of_religious_institutions_in_securing_relig_summary_he",
+      "file": "democracy_ensuring_individual_rights_through_institutional_freedoms_the_role_of_religious_institutions_in_securing_relig_summary_he.html",
+      "permalink": "/democracy_ensuring_individual_rights_through_institutional_freedoms_the_role_of_religious_institutions_in_securing_relig_summary_he.html",
+      "sortKey": 202605230037,
+      "titleHe": "חירויות מוסדיות והגנה על זכויות דת",
+      "paperTitle": "Ensuring Individual Rights through Institutional Freedoms: The Role of Religious Institutions in Securing Religious Rights",
+      "authorsCardHe": "Jonathan Fox, Roger Finke",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Roger Finke"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.3390/rel12040273",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ensuring_individual_rights_through_institutional_freedoms_the_role_of_religious_institutions_in_securing_relig_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חירויות מוסדיות והגנה על זכויות דת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_macrolevel_factors_encouraging_bureaucratic_policy_entrepreneurship_the_case_of_religion_and_state_in_israel_summary_he",
+      "file": "democracy_macrolevel_factors_encouraging_bureaucratic_policy_entrepreneurship_the_case_of_religion_and_state_in_israel_summary_he.html",
+      "permalink": "/democracy_macrolevel_factors_encouraging_bureaucratic_policy_entrepreneurship_the_case_of_religion_and_state_in_israel_summary_he.html",
+      "sortKey": 202605230036,
+      "titleHe": "יזמות מדיניות בירוקרטית בסוגיות דת ומדינה",
+      "paperTitle": "Macrolevel factors encouraging bureaucratic policy entrepreneurship: The case of religion and state in Israel",
+      "authorsCardHe": "Niva Golan‐Nadir",
+      "sourceAuthors": [
+        "Niva Golan‐Nadir"
+      ],
+      "journal": "European Policy Analysis",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1002/epa2.1191",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_macrolevel_factors_encouraging_bureaucratic_policy_entrepreneurship_the_case_of_religion_and_state_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: יזמות מדיניות בירוקרטית בסוגיות דת ומדינה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he",
+      "file": "democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he.html",
+      "permalink": "/democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he.html",
+      "sortKey": 202605230035,
+      "titleHe": "זהות יהודית ליברלית וחינוך לישראל",
+      "paperTitle": "Liberal Jewish identity and the pedagogy of Israel education",
+      "authorsCardHe": "Benji Davis, Hanan Alexander",
+      "sourceAuthors": [
+        "Benji Davis",
+        "Hanan Alexander"
+      ],
+      "journal": "Journal of Religious Education",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1007/s40839-025-00261-8",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he.jpg",
+        "altHe": "תמונה עריכתית: זהות יהודית ליברלית וחינוך לישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_quantifying_religion_toward_building_more_effective_ways_of_measuring_religious_influence_on_state_level_behav_summary_he",
+      "file": "democracy_quantifying_religion_toward_building_more_effective_ways_of_measuring_religious_influence_on_state_level_behav_summary_he.html",
+      "permalink": "/democracy_quantifying_religion_toward_building_more_effective_ways_of_measuring_religious_influence_on_state_level_behav_summary_he.html",
+      "sortKey": 202605230034,
+      "titleHe": "מדידת השפעה דתית על התנהגות מדינות",
+      "paperTitle": "Quantifying Religion: Toward Building More Effective Ways of Measuring Religious Influence on State-Level Behavior",
+      "authorsCardHe": "J. Fox, S. Sandler",
+      "sourceAuthors": [
+        "J. Fox",
+        "S. Sandler"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1093/jcs/45.3.559",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_quantifying_religion_toward_building_more_effective_ways_of_measuring_religious_influence_on_state_level_behav_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מדידת השפעה דתית על התנהגות מדינות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_social_covenants_the_solution_to_the_crisis_of_religion_and_state_in_israel_summary_he",
+      "file": "democracy_social_covenants_the_solution_to_the_crisis_of_religion_and_state_in_israel_summary_he.html",
+      "permalink": "/democracy_social_covenants_the_solution_to_the_crisis_of_religion_and_state_in_israel_summary_he.html",
+      "sortKey": 202605230033,
+      "titleHe": "אמנות חברתיות כפתרון למשבר דת ומדינה בישראל?",
+      "paperTitle": "Social Covenants: The Solution to the Crisis of Religion and State in Israel?",
+      "authorsCardHe": "A. Cohen, J. Rynhold",
+      "sourceAuthors": [
+        "A. Cohen",
+        "J. Rynhold"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1093/jcs/47.4.725",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_covenants_the_solution_to_the_crisis_of_religion_and_state_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: אמנות חברתיות כפתרון למשבר דת ומדינה בישראל?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_human_rights_as_a_security_threat_lawfare_and_the_campaign_against_human_rights_ngos_summary_he",
+      "file": "democracy_human_rights_as_a_security_threat_lawfare_and_the_campaign_against_human_rights_ngos_summary_he.html",
+      "permalink": "/democracy_human_rights_as_a_security_threat_lawfare_and_the_campaign_against_human_rights_ngos_summary_he.html",
+      "sortKey": 202605230032,
+      "titleHe": "זכויות אדם כאיום ביטחוני וקמפיינים נגד ארגוני זכויות",
+      "paperTitle": "Human Rights as a Security Threat: Lawfare and the Campaign against Human Rights NGOs",
+      "authorsCardHe": "Neve Gordon",
+      "sourceAuthors": [
+        "Neve Gordon"
+      ],
+      "journal": "Law & Society Review",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1111/lasr.12074",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_as_a_security_threat_lawfare_and_the_campaign_against_human_rights_ngos_summary_he.jpg",
+        "altHe": "תמונה עריכתית: זכויות אדם כאיום ביטחוני וקמפיינים נגד ארגוני זכויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_hegemonic_religions_majoritarianism_and_the_legitimate_limits_of_governmental_religious_bias_summary_he",
+      "file": "democracy_hegemonic_religions_majoritarianism_and_the_legitimate_limits_of_governmental_religious_bias_summary_he.html",
+      "permalink": "/democracy_hegemonic_religions_majoritarianism_and_the_legitimate_limits_of_governmental_religious_bias_summary_he.html",
+      "sortKey": 202605230031,
+      "titleHe": "דתות הגמוניות, רובנות והטיה דתית ממשלתית",
+      "paperTitle": "Hegemonic Religions, Majoritarianism, and the Legitimate Limits of Governmental Religious Bias",
+      "authorsCardHe": "Nahshon Perez",
+      "sourceAuthors": [
+        "Nahshon Perez"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.3390/rel11090438",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hegemonic_religions_majoritarianism_and_the_legitimate_limits_of_governmental_religious_bias_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דתות הגמוניות, רובנות והטיה דתית ממשלתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_state_and_religion_religious_conflict_among_jews_in_israel_summary_he",
+      "file": "democracy_state_and_religion_religious_conflict_among_jews_in_israel_summary_he.html",
+      "permalink": "/democracy_state_and_religion_religious_conflict_among_jews_in_israel_summary_he.html",
+      "sortKey": 202605230030,
+      "titleHe": "מדינה ודת: סכסוך דתי בקרב יהודים בישראל",
+      "paperTitle": "State and Religion: Religious Conflict among Jews in Israel",
+      "authorsCardHe": "E. Tabory",
+      "sourceAuthors": [
+        "E. Tabory"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 1981",
+      "doiUrl": "https://doi.org/10.1093/jcs/23.2.275",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_and_religion_religious_conflict_among_jews_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מדינה ודת: סכסוך דתי בקרב יהודים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_types_of_democracy_and_modes_of_conflict_management_in_ethnically_divided_societies_summary_he",
+      "file": "democracy_types_of_democracy_and_modes_of_conflict_management_in_ethnically_divided_societies_summary_he.html",
+      "permalink": "/democracy_types_of_democracy_and_modes_of_conflict_management_in_ethnically_divided_societies_summary_he.html",
+      "sortKey": 202605230029,
+      "titleHe": "סוגי דמוקרטיה וניהול סכסוכים בחברות מפוצלות",
+      "paperTitle": "Types of democracy and modes of conflict management in ethnically divided societies",
+      "authorsCardHe": "Sammy Smooha",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Nations and Nationalism",
+      "dateText": "פורסם: 2002",
+      "doiUrl": "https://doi.org/10.1111/1469-8219.00059",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_types_of_democracy_and_modes_of_conflict_management_in_ethnically_divided_societies_summary_he.jpg",
+        "altHe": "תמונה עריכתית: סוגי דמוקרטיה וניהול סכסוכים בחברות מפוצלות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_summary_he",
+      "file": "democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_summary_he.html",
+      "permalink": "/democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_summary_he.html",
+      "sortKey": 202605230028,
+      "titleHe": "נוקשות תיקונים חוקתיים והפוטנציאל הדמוקרטי שלהם",
+      "paperTitle": "The inexorableness of constitutional amendments and its democratic potentiality",
+      "authorsCardHe": "Antoni Abat Ninet",
+      "sourceAuthors": [
+        "Antoni Abat Ninet"
+      ],
+      "journal": "Revista de Investigações Constitucionais",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.5380/rinc.v7i3.73540",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_summary_he.jpg",
+        "altHe": "תמונה עריכתית: נוקשות תיקונים חוקתיים והפוטנציאל הדמוקרטי שלהם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_civil_religion_in_israel_traditional_judaism_and_political_culture_in_the_jewish_state_summary_he",
+      "file": "democracy_civil_religion_in_israel_traditional_judaism_and_political_culture_in_the_jewish_state_summary_he.html",
+      "permalink": "/democracy_civil_religion_in_israel_traditional_judaism_and_political_culture_in_the_jewish_state_summary_he.html",
+      "sortKey": 202605230027,
+      "titleHe": "דת אזרחית בישראל ותרבות פוליטית יהודית",
+      "paperTitle": "Civil Religion in Israel: Traditional Judaism and Political Culture in the Jewish State",
+      "authorsCardHe": "Stephen Sharot, Charles S. Liebman, Eliezer Don-Yehiya",
+      "sourceAuthors": [
+        "Stephen Sharot",
+        "Charles S. Liebman",
+        "Eliezer Don-Yehiya"
+      ],
+      "journal": "Sociological Analysis",
+      "dateText": "פורסם: 1985",
+      "doiUrl": "https://doi.org/10.2307/3711064",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_religion_in_israel_traditional_judaism_and_political_culture_in_the_jewish_state_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת אזרחית בישראל ותרבות פוליטית יהודית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_being_unfaithful_to_one_s_own_principles_the_israeli_supreme_court_and_house_demolitions_in_the_occupied_pales_summary_he",
+      "file": "democracy_being_unfaithful_to_one_s_own_principles_the_israeli_supreme_court_and_house_demolitions_in_the_occupied_pales_summary_he.html",
+      "permalink": "/democracy_being_unfaithful_to_one_s_own_principles_the_israeli_supreme_court_and_house_demolitions_in_the_occupied_pales_summary_he.html",
+      "sortKey": 202605230026,
+      "titleHe": "בית המשפט העליון והריסת בתים בשטחים",
+      "paperTitle": "Being Unfaithful to One's Own Principles: The Israeli Supreme Court and House Demolitions in the Occupied Palestinian Territories",
+      "authorsCardHe": "Guy Harpaz",
+      "sourceAuthors": [
+        "Guy Harpaz"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1017/s0021223714000132",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_being_unfaithful_to_one_s_own_principles_the_israeli_supreme_court_and_house_demolitions_in_the_occupied_pales_summary_he.jpg",
+        "altHe": "תמונה עריכתית: בית המשפט העליון והריסת בתים בשטחים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_a_double_edged_sword_constitutional_dialogue_confined_summary_he",
+      "file": "democracy_a_double_edged_sword_constitutional_dialogue_confined_summary_he.html",
+      "permalink": "/democracy_a_double_edged_sword_constitutional_dialogue_confined_summary_he.html",
+      "sortKey": 202605230025,
+      "titleHe": "דיאלוג חוקתי מוגבל כחרב פיפיות",
+      "paperTitle": "A double-edged sword: Constitutional dialogue confined",
+      "authorsCardHe": "Bell E Yosef",
+      "sourceAuthors": [
+        "Bell E Yosef"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1093/icon/moad004",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_a_double_edged_sword_constitutional_dialogue_confined_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דיאלוג חוקתי מוגבל כחרב פיפיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_overloaded_state_summary_he",
+      "file": "democracy_the_overloaded_state_summary_he.html",
+      "permalink": "/democracy_the_overloaded_state_summary_he.html",
+      "sortKey": 202605230024,
+      "titleHe": "המדינה העמוסה",
+      "paperTitle": "The overloaded state",
+      "authorsCardHe": "Ira Sharkansky",
+      "sourceAuthors": [
+        "Ira Sharkansky"
+      ],
+      "journal": "International Journal of Public Administration",
+      "dateText": "פורסם: 1997",
+      "doiUrl": "https://doi.org/10.1080/01900699708525231",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_overloaded_state_summary_he.jpg",
+        "altHe": "תמונה עריכתית: המדינה העמוסה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_cloak_the_cage_and_the_fog_of_sanctity_the_zionist_mission_and_the_role_of_religion_among_arab_jews_summary_he",
+      "file": "democracy_the_cloak_the_cage_and_the_fog_of_sanctity_the_zionist_mission_and_the_role_of_religion_among_arab_jews_summary_he.html",
+      "permalink": "/democracy_the_cloak_the_cage_and_the_fog_of_sanctity_the_zionist_mission_and_the_role_of_religion_among_arab_jews_summary_he.html",
+      "sortKey": 202605230023,
+      "titleHe": "השליחות הציונית ותפקיד הדת בקרב יהודים ערבים",
+      "paperTitle": "The cloak, the cage and the fog of sanctity: the Zionist mission and the role of religion among Arab Jews *",
+      "authorsCardHe": "Yehouda Shenhav",
+      "sourceAuthors": [
+        "Yehouda Shenhav"
+      ],
+      "journal": "Nations and Nationalism",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1111/1469-8219.00125",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_cloak_the_cage_and_the_fog_of_sanctity_the_zionist_mission_and_the_role_of_religion_among_arab_jews_summary_he.jpg",
+        "altHe": "תמונה עריכתית: השליחות הציונית ותפקיד הדת בקרב יהודים ערבים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_dynamics_of_state_religion_issues_on_the_agenda_in_israel_the_case_of_the_right_to_die_with_dignity_passiv_summary_he",
+      "file": "democracy_the_dynamics_of_state_religion_issues_on_the_agenda_in_israel_the_case_of_the_right_to_die_with_dignity_passiv_summary_he.html",
+      "permalink": "/democracy_the_dynamics_of_state_religion_issues_on_the_agenda_in_israel_the_case_of_the_right_to_die_with_dignity_passiv_summary_he.html",
+      "sortKey": 202605230022,
+      "titleHe": "סוגיות דת ומדינה בישראל והזכות למות בכבוד",
+      "paperTitle": "The dynamics of state–religion issues on the agenda in Israel: the case of the right to die with dignity (passive euthanasia)",
+      "authorsCardHe": "Michal Neubauer-Shani",
+      "sourceAuthors": [
+        "Michal Neubauer-Shani"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1080/13537121.2011.547275",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_dynamics_of_state_religion_issues_on_the_agenda_in_israel_the_case_of_the_right_to_die_with_dignity_passiv_summary_he.jpg",
+        "altHe": "תמונה עריכתית: סוגיות דת ומדינה בישראל והזכות למות בכבוד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_liability_of_the_state_and_public_authorities_in_israel_and_south_africa_summary_he",
+      "file": "democracy_liability_of_the_state_and_public_authorities_in_israel_and_south_africa_summary_he.html",
+      "permalink": "/democracy_liability_of_the_state_and_public_authorities_in_israel_and_south_africa_summary_he.html",
+      "sortKey": 202605230021,
+      "titleHe": "אחריות המדינה ורשויות ציבוריות בישראל ובדרום אפריקה",
+      "paperTitle": "Liability of the State and Public Authorities in Israel and South Africa",
+      "authorsCardHe": "Max Loubser, Tamar Gidron",
+      "sourceAuthors": [
+        "Max Loubser",
+        "Tamar Gidron"
+      ],
+      "journal": "European Journal of Comparative Law and Governance",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1163/22134514-45060008",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_liability_of_the_state_and_public_authorities_in_israel_and_south_africa_summary_he.jpg",
+        "altHe": "תמונה עריכתית: אחריות המדינה ורשויות ציבוריות בישראל ובדרום אפריקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_the_state_religion_issue_in_israel_is_the_consociational_model_still_alive_summary_he",
+      "file": "democracy_the_state_religion_issue_in_israel_is_the_consociational_model_still_alive_summary_he.html",
+      "permalink": "/democracy_the_state_religion_issue_in_israel_is_the_consociational_model_still_alive_summary_he.html",
+      "sortKey": 202605230020,
+      "titleHe": "האם מודל ההסכמה ביחסי דת ומדינה בישראל עדיין חי?",
+      "paperTitle": "The state‒religion issue in Israel: is the consociational model still alive?",
+      "authorsCardHe": "Hadar Moshe Lipshits, Michal Neubauer-Shani",
+      "sourceAuthors": [
+        "Hadar Moshe Lipshits",
+        "Michal Neubauer-Shani"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1080/13537121.2019.1577598",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_state_religion_issue_in_israel_is_the_consociational_model_still_alive_summary_he.jpg",
+        "altHe": "תמונה עריכתית: האם מודל ההסכמה ביחסי דת ומדינה בישראל עדיין חי?",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_and_the_israeli_welfare_state_the_case_of_burial_services_summary_he",
+      "file": "democracy_religion_and_the_israeli_welfare_state_the_case_of_burial_services_summary_he.html",
+      "permalink": "/democracy_religion_and_the_israeli_welfare_state_the_case_of_burial_services_summary_he.html",
+      "sortKey": 202605230019,
+      "titleHe": "דת ומדינת הרווחה בישראל: שירותי קבורה",
+      "paperTitle": "Religion and the Israeli Welfare State: The Case of Burial Services",
+      "authorsCardHe": "Roni Holler",
+      "sourceAuthors": [
+        "Roni Holler"
+      ],
+      "journal": "Politics and Religion",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1017/s1755048320000632",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_and_the_israeli_welfare_state_the_case_of_burial_services_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת ומדינת הרווחה בישראל: שירותי קבורה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_basic_law_israel_as_the_nation_state_of_the_jewish_people_lessons_for_particularistic_and_universalistic_const_summary_he",
+      "file": "democracy_basic_law_israel_as_the_nation_state_of_the_jewish_people_lessons_for_particularistic_and_universalistic_const_summary_he.html",
+      "permalink": "/democracy_basic_law_israel_as_the_nation_state_of_the_jewish_people_lessons_for_particularistic_and_universalistic_const_summary_he.html",
+      "sortKey": 202605230018,
+      "titleHe": "חוק הלאום ולגיטימציה חוקתית פרטיקולרית ואוניברסלית",
+      "paperTitle": "Basic Law: Israel as the Nation-State of the Jewish People: Lessons for Particularistic and Universalistic Constitutional Legitimation",
+      "authorsCardHe": "Alon Harel",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "Studia Iuridica",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.5604/01.3001.0013.9613",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_basic_law_israel_as_the_nation_state_of_the_jewish_people_lessons_for_particularistic_and_universalistic_const_summary_he.jpg",
+        "altHe": "תמונה עריכתית: חוק הלאום ולגיטימציה חוקתית פרטיקולרית ואוניברסלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_liberal_cities_in_autocratizing_states_scholarly_pathways_and_a_research_agenda_summary_he",
+      "file": "democracy_liberal_cities_in_autocratizing_states_scholarly_pathways_and_a_research_agenda_summary_he.html",
+      "permalink": "/democracy_liberal_cities_in_autocratizing_states_scholarly_pathways_and_a_research_agenda_summary_he.html",
+      "sortKey": 202605230017,
+      "titleHe": "ערים ליברליות במדינות בתהליך אוטוקרטיזציה",
+      "paperTitle": "Liberal cities in autocratizing states: Scholarly pathways and a research agenda",
+      "authorsCardHe": "Nufar Avni",
+      "sourceAuthors": [
+        "Nufar Avni"
+      ],
+      "journal": "Urban Studies",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1177/00420980251385996",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_liberal_cities_in_autocratizing_states_scholarly_pathways_and_a_research_agenda_summary_he.jpg",
+        "altHe": "תמונה עריכתית: ערים ליברליות במדינות בתהליך אוטוקרטיזציה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_state_and_the_international_system_in_the_israeli_palestinian_conflict_summary_he",
+      "file": "democracy_religion_state_and_the_international_system_in_the_israeli_palestinian_conflict_summary_he.html",
+      "permalink": "/democracy_religion_state_and_the_international_system_in_the_israeli_palestinian_conflict_summary_he.html",
+      "sortKey": 202605230016,
+      "titleHe": "דת, מדינה והמערכת הבין־לאומית בסכסוך הישראלי־פלסטיני",
+      "paperTitle": "Religion, State, and the International System in the Israeli–Palestinian Conflict",
+      "authorsCardHe": "Hillel Frisch, Shmuel Sandler",
+      "sourceAuthors": [
+        "Hillel Frisch",
+        "Shmuel Sandler"
+      ],
+      "journal": "International Political Science Review",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1177/0192512104038168",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_state_and_the_international_system_in_the_israeli_palestinian_conflict_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת, מדינה והמערכת הבין־לאומית בסכסוך הישראלי־פלסטיני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_secularization_and_democracy_in_the_mediterranean_region_problems_and_prospects_summary_he",
+      "file": "democracy_religion_secularization_and_democracy_in_the_mediterranean_region_problems_and_prospects_summary_he.html",
+      "permalink": "/democracy_religion_secularization_and_democracy_in_the_mediterranean_region_problems_and_prospects_summary_he.html",
+      "sortKey": 202605230015,
+      "titleHe": "דת, חילון ודמוקרטיה באזור הים התיכון",
+      "paperTitle": "Religion, Secularization and Democracy in the Mediterranean Region: Problems and Prospects",
+      "authorsCardHe": "Jeffrey Haynes, Guy Ben-Porat",
+      "sourceAuthors": [
+        "Jeffrey Haynes",
+        "Guy Ben-Porat"
+      ],
+      "journal": "Mediterranean Politics",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1080/13629395.2013.799322",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_secularization_and_democracy_in_the_mediterranean_region_problems_and_prospects_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת, חילון ודמוקרטיה באזור הים התיכון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_localising_religion_in_a_jewish_state_summary_he",
+      "file": "democracy_localising_religion_in_a_jewish_state_summary_he.html",
+      "permalink": "/democracy_localising_religion_in_a_jewish_state_summary_he.html",
+      "sortKey": 202605230014,
+      "titleHe": "מקומה של הדת במדינה יהודית",
+      "paperTitle": "Localising Religion in a Jewish State",
+      "authorsCardHe": "Yishai Blank",
+      "sourceAuthors": [
+        "Yishai Blank"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1017/s0021223712000064",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_localising_religion_in_a_jewish_state_summary_he.jpg",
+        "altHe": "תמונה עריכתית: מקומה של הדת במדינה יהודית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_religion_nationalism_and_democracy_in_israel_summary_he",
+      "file": "democracy_religion_nationalism_and_democracy_in_israel_summary_he.html",
+      "permalink": "/democracy_religion_nationalism_and_democracy_in_israel_summary_he.html",
+      "sortKey": 202605230013,
+      "titleHe": "דת, לאומיות ודמוקרטיה בישראל",
+      "paperTitle": "Religion, Nationalism, and Democracy in Israel",
+      "authorsCardHe": "Baruch Kimmerling",
+      "sourceAuthors": [
+        "Baruch Kimmerling"
+      ],
+      "journal": "Constellations",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1111/1467-8675.00150",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_nationalism_and_democracy_in_israel_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת, לאומיות ודמוקרטיה בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_u_s_democratic_backsliding_and_the_decline_of_democratic_support_abroad_summary_he",
+      "file": "democracy_u_s_democratic_backsliding_and_the_decline_of_democratic_support_abroad_summary_he.html",
+      "permalink": "/democracy_u_s_democratic_backsliding_and_the_decline_of_democratic_support_abroad_summary_he.html",
+      "sortKey": 202605230012,
+      "titleHe": "נסיגה דמוקרטית בארצות הברית והשפעתה על תמיכה בדמוקרטיה בעולם",
+      "paperTitle": "U.S. Democratic Backsliding and the Decline of Democratic Support Abroad",
+      "authorsCardHe": "Amnon Cavari, Amichai Magen, Benjamin Yoel",
+      "sourceAuthors": [
+        "Amnon Cavari",
+        "Amichai Magen",
+        "Benjamin Yoel"
+      ],
+      "journal": "International Journal of Public Opinion Research",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edae026",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_u_s_democratic_backsliding_and_the_decline_of_democratic_support_abroad_summary_he.jpg",
+        "altHe": "תמונה עריכתית: נסיגה דמוקרטית בארצות הברית והשפעתה על תמיכה בדמוקרטיה בעולם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
+    {
+      "slug": "democracy_israel_sociological_analyses_of_religion_in_the_jewish_state_summary_he",
+      "file": "democracy_israel_sociological_analyses_of_religion_in_the_jewish_state_summary_he.html",
+      "permalink": "/democracy_israel_sociological_analyses_of_religion_in_the_jewish_state_summary_he.html",
+      "sortKey": 202605230011,
+      "titleHe": "דת במדינה היהודית: מבט סוציולוגי על ישראל",
+      "paperTitle": "Israel: Sociological Analyses of Religion in the Jewish State",
+      "authorsCardHe": "Stephen Sharot",
+      "sourceAuthors": [
+        "Stephen Sharot"
+      ],
+      "journal": "Sociological Analysis",
+      "dateText": "פורסם: 1990",
+      "doiUrl": "https://doi.org/10.2307/3711675",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_sociological_analyses_of_religion_in_the_jewish_state_summary_he.jpg",
+        "altHe": "תמונה עריכתית: דת במדינה היהודית: מבט סוציולוגי על ישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה."
+    },
     {
       "slug": "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he",
       "file": "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.html",
