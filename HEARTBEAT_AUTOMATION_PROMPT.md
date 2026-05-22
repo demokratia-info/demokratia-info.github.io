@@ -31,6 +31,8 @@ During the 00:05 run, after paper additions and any approved feedback revisions 
 
 On the 06:05, 12:05, and 18:05 runs, do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.csv`. Those actions belong only to the 00:05 paper-addition pass. Non-midnight runs should only apply approved feedback revisions, append handled feedback rows to `page_feedback_history.csv`, and remove handled rows from `page_feedback_queue.csv`.
 
+Non-midnight feedback runs are strictly row-scoped. Do not perform broad site audits, broad style cleanups, proactive content rewrites, or unrelated quality passes during those runs. Do not edit any public paper that is not directly identified by an approved feedback row. If an approved row appears to request broad or site-wide cleanup, leave it in the private queue for a manual supervised run and report that it needs human review instead of applying it automatically.
+
 Run validation appropriate to the files changed. For public website source changes, run `python3 scripts/validate_sources.py --write-index`, then `python3 scripts/validate_sources.py`; if local Jekyll is available, run `bundle exec jekyll build`. Commit and push public changes only when public source files changed. Commit and push private queue/history changes separately in the private repository. Watch or check the GitHub Pages workflow when public changes are pushed, and smoke-check affected live pages when possible.
 
 If there are no approved feedback rows, no rejected feedback rows to remove, and the run is not the 00:05 paper-addition pass, make no commits and report that there was nothing to apply.
