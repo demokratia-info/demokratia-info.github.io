@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Maya Mark",
   "paperTitle": "From Rule of Law to the Law of the Ruler: The Twofold Upheaval of the Israeli Right",
-  "authorsHtml": "Maya Mark",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2416-5996\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Mark</a>",
   "journal": "",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.2979/israelstudies.28.3.02",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Maya Mark"
+      "name": "Maya Mark",
+      "url": "https://orcid.org/0000-0003-2416-5996"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Maya Mark"
+      "name": "Maya Mark",
+      "url": "https://orcid.org/0000-0003-2416-5996"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

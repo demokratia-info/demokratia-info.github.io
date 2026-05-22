@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Boaz M. Ben‐David, Ortal Shimon-Raz, Yuval Palgi, Lia Ring, Tchelet Bresslet",
   "paperTitle": "ACTIVE PARTICIPATION OF OLDER ADULTS AT POLITICAL RALLIES AS A SOURCE OF RESILIENCE: THE CASE OF THE ISRAELI PROTEST",
-  "authorsHtml": "Boaz M. Ben‐David, Ortal Shimon-Raz, Yuval Palgi, Lia Ring, Tchelet Bresslet",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0392-962X\" target=\"_blank\" rel=\"noopener noreferrer\">Boaz M. Ben‐David</a>, <a href=\"https://orcid.org/0000-0002-6464-8370\" target=\"_blank\" rel=\"noopener noreferrer\">Ortal Shimon-Raz</a>, <a href=\"https://orcid.org/0000-0002-8675-5513\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Palgi</a>, <a href=\"https://orcid.org/0000-0001-5203-4091\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Ring</a>, Tchelet Bresslet",
   "journal": "Innovation in Aging",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1093/geroni/igad104.3752",
@@ -18,19 +18,23 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Boaz M. Ben‐David"
+      "name": "Boaz M. Ben‐David",
+      "url": "https://orcid.org/0000-0002-0392-962X"
     },
     {
       "@type": "Person",
-      "name": "Ortal Shimon-Raz"
+      "name": "Ortal Shimon-Raz",
+      "url": "https://orcid.org/0000-0002-6464-8370"
     },
     {
       "@type": "Person",
-      "name": "Yuval Palgi"
+      "name": "Yuval Palgi",
+      "url": "https://orcid.org/0000-0002-8675-5513"
     },
     {
       "@type": "Person",
-      "name": "Lia Ring"
+      "name": "Lia Ring",
+      "url": "https://orcid.org/0000-0001-5203-4091"
     },
     {
       "@type": "Person",
@@ -40,19 +44,23 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Boaz M. Ben‐David"
+      "name": "Boaz M. Ben‐David",
+      "url": "https://orcid.org/0000-0002-0392-962X"
     },
     {
       "@type": "Person",
-      "name": "Ortal Shimon-Raz"
+      "name": "Ortal Shimon-Raz",
+      "url": "https://orcid.org/0000-0002-6464-8370"
     },
     {
       "@type": "Person",
-      "name": "Yuval Palgi"
+      "name": "Yuval Palgi",
+      "url": "https://orcid.org/0000-0002-8675-5513"
     },
     {
       "@type": "Person",
-      "name": "Lia Ring"
+      "name": "Lia Ring",
+      "url": "https://orcid.org/0000-0001-5203-4091"
     },
     {
       "@type": "Person",
@@ -78,8 +86,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

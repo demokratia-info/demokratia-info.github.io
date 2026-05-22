@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yael Shomer, Gert-Jan Put, Einat Gedalya-Lavy",
   "paperTitle": "Does intra-party democracy affect levels of trust in parties? The cases of Belgium and Israel",
-  "authorsHtml": "Yael Shomer, Gert-Jan Put, Einat Gedalya-Lavy",
+  "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://soc.kuleuven.be/io/personeel/staf/00056161\" target=\"_blank\" rel=\"noopener noreferrer\">Gert-Jan Put</a>, <a href=\"https://orcid.org/0000-0001-7371-6921\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Gedalya-Lavy</a>",
   "journal": "Acta Politica",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1057/s41269-017-0044-2",
@@ -18,29 +18,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     },
     {
       "@type": "Person",
-      "name": "Gert-Jan Put"
+      "name": "Gert-Jan Put",
+      "url": "https://soc.kuleuven.be/io/personeel/staf/00056161"
     },
     {
       "@type": "Person",
-      "name": "Einat Gedalya-Lavy"
+      "name": "Einat Gedalya-Lavy",
+      "url": "https://orcid.org/0000-0001-7371-6921"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     },
     {
       "@type": "Person",
-      "name": "Gert-Jan Put"
+      "name": "Gert-Jan Put",
+      "url": "https://soc.kuleuven.be/io/personeel/staf/00056161"
     },
     {
       "@type": "Person",
-      "name": "Einat Gedalya-Lavy"
+      "name": "Einat Gedalya-Lavy",
+      "url": "https://orcid.org/0000-0001-7371-6921"
     }
   ],
   "topics": [
@@ -63,8 +69,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל ומראה מדוע הדיון קשור למוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Eyal Lewin",
   "paperTitle": "“It’s the National Ethos, Stupid”! – Understanding the Political Psychology of the Israeli 2015 Elections Using Data from the National Resilience Survey",
-  "authorsHtml": "Eyal Lewin",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5461-6634\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Lewin</a>",
   "journal": "International Journal of Social Science Studies",
   "dateText": "פורסם: 2016",
   "doiUrl": "https://doi.org/10.11114/ijsss.v4i7.1651",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eyal Lewin"
+      "name": "Eyal Lewin",
+      "url": "https://orcid.org/0000-0001-5461-6634"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eyal Lewin"
+      "name": "Eyal Lewin",
+      "url": "https://orcid.org/0000-0001-5461-6634"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל ומראה מדוע הדיון קשור למוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

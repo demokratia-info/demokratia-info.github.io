@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית קיום אתני משותף וספורטאים ערבים בתקשורת העברית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yuval Yonay, Eran Shor",
   "paperTitle": "Ethnic Coexistence in Deeply Divided Societies: The Case of Arab Athletes in the Hebrew Media",
-  "authorsHtml": "Yuval Yonay; Eran Shor",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6637-3614\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Yonay</a>, <a href=\"https://orcid.org/0000-0002-7866-2931\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Shor</a>",
   "journal": "Sociological Quarterly",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1111/tsq.12056",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yuval Yonay"
+      "name": "Yuval Yonay",
+      "url": "https://orcid.org/0000-0002-6637-3614"
     },
     {
       "@type": "Person",
-      "name": "Eran Shor"
+      "name": "Eran Shor",
+      "url": "https://orcid.org/0000-0002-7866-2931"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yuval Yonay"
+      "name": "Yuval Yonay",
+      "url": "https://orcid.org/0000-0002-6637-3614"
     },
     {
       "@type": "Person",
-      "name": "Eran Shor"
+      "name": "Eran Shor",
+      "url": "https://orcid.org/0000-0002-7866-2931"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: קיום אתני משותף וספורטאים ערבים בתקשורת העברית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

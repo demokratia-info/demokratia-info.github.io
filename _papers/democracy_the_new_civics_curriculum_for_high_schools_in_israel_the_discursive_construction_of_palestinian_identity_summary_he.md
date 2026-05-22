@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית תוכנית האזרחות החדשה וזהות פלסטינית בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Halleli Pinson",
   "paperTitle": "The new civics curriculum for high schools in Israel: The discursive construction of Palestinian identity and narratives",
-  "authorsHtml": "Halleli Pinson",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/halleli/\" target=\"_blank\" rel=\"noopener noreferrer\">Halleli Pinson</a>",
   "journal": "Education Citizenship and Social Justice",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.1177/1746197919840811",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Halleli Pinson"
+      "name": "Halleli Pinson",
+      "url": "https://www.bgu.ac.il/en/people/halleli/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Halleli Pinson"
+      "name": "Halleli Pinson",
+      "url": "https://www.bgu.ac.il/en/people/halleli/"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: תוכנית האזרחות החדשה וזהות פלסטינית בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

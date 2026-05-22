@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית קיטוב של פעילים משתתפים ומתדיינים במדיה חברתית דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Azi Lev‐On",
   "paperTitle": "Polarization of Deliberative and Participatory Activists on Social Media",
-  "authorsHtml": "Azi Lev‐On",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0248-9802\" target=\"_blank\" rel=\"noopener noreferrer\">Azi Lev‐On</a>",
   "journal": "Media and Communication",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.17645/mac.v10i4.5637",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Azi Lev‐On"
+      "name": "Azi Lev‐On",
+      "url": "https://orcid.org/0000-0002-0248-9802"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Azi Lev‐On"
+      "name": "Azi Lev‐On",
+      "url": "https://orcid.org/0000-0002-0248-9802"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: קיטוב של פעילים משתתפים ומתדיינים במדיה חברתית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

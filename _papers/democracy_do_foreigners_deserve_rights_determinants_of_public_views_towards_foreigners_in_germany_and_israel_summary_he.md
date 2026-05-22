@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Rebeca Raijman",
   "paperTitle": "Do Foreigners Deserve Rights? Determinants of Public Views Towards Foreigners in Germany and Israel",
-  "authorsHtml": "Rebeca Raijman",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>",
   "journal": "European Sociological Review",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1093/esr/19.4.379",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

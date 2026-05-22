@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Aline Muff, Caitlin Donnelly",
   "paperTitle": "Three-faced: The conflicting roles of citizenship education in conflict-affected societies – A comparison of Northern Ireland and Israel",
-  "authorsHtml": "Aline Muff; Caitlin Donnelly",
+  "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Aline Muff</a>, <a href=\"https://orcid.org/0000-0002-4188-5699\" target=\"_blank\" rel=\"noopener noreferrer\">Caitlin Donnelly</a>",
   "journal": "Research in Comparative and International Education",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1177/17454999221104373",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Aline Muff"
+      "name": "Aline Muff",
+      "url": "https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html"
     },
     {
       "@type": "Person",
-      "name": "Caitlin Donnelly"
+      "name": "Caitlin Donnelly",
+      "url": "https://orcid.org/0000-0002-4188-5699"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Aline Muff"
+      "name": "Aline Muff",
+      "url": "https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html"
     },
     {
       "@type": "Person",
-      "name": "Caitlin Donnelly"
+      "name": "Caitlin Donnelly",
+      "url": "https://orcid.org/0000-0002-4188-5699"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חינוך לאזרחות בחברות שסועות: ישראל וצפון אירלנד מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

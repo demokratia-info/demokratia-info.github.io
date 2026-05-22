@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אידאולוגיה, רגולציה ובתי משפט עליונים דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Keren Weinshall, Udi Sommer, Ya’acov Ritov",
   "paperTitle": "Ideological influences on governance and regulation: The comparative case of supreme courts",
-  "authorsHtml": "Keren Weinshall; <a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>; Ya’acov Ritov",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/keren-weinshall-margel\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall</a>, <a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>, <a href=\"https://orcid.org/0000-0002-6046-8479\" target=\"_blank\" rel=\"noopener noreferrer\">Ya’acov Ritov</a>",
   "journal": "Regulation & Governance",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1111/rego.12145",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Keren Weinshall"
+      "name": "Keren Weinshall",
+      "url": "https://en.law.huji.ac.il/people/keren-weinshall-margel"
     },
     {
       "@type": "Person",
@@ -27,13 +28,15 @@
     },
     {
       "@type": "Person",
-      "name": "Ya’acov Ritov"
+      "name": "Ya’acov Ritov",
+      "url": "https://orcid.org/0000-0002-6046-8479"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Keren Weinshall"
+      "name": "Keren Weinshall",
+      "url": "https://en.law.huji.ac.il/people/keren-weinshall-margel"
     },
     {
       "@type": "Person",
@@ -42,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Ya’acov Ritov"
+      "name": "Ya’acov Ritov",
+      "url": "https://orcid.org/0000-0002-6046-8479"
     }
   ],
   "topics": [
@@ -68,8 +72,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אידאולוגיה, רגולציה ובתי משפט עליונים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

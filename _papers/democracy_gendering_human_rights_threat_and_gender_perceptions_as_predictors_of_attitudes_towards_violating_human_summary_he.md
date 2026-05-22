@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yossi David, Nimrod Rosler, Donald G. Ellis, Ifat Maoz",
   "paperTitle": "Gendering Human Rights: Threat and Gender Perceptions as Predictors of Attitudes towards Violating Human Rights in Asymmetric Conflict",
-  "authorsHtml": "Yossi David; Nimrod Rosler; Donald G. Ellis; <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>, <a href=\"https://orcid.org/0000-0001-5316-9828\" target=\"_blank\" rel=\"noopener noreferrer\">Nimrod Rosler</a>, <a href=\"https://orcid.org/0000-0002-4791-5748\" target=\"_blank\" rel=\"noopener noreferrer\">Donald G. Ellis</a>, <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>",
   "journal": "Peace and Conflict Studies",
   "dateText": "פורסם: 2016",
   "doiUrl": "https://doi.org/10.46743/1082-7307/2016.1301",
@@ -18,15 +18,18 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yossi David"
+      "name": "Yossi David",
+      "url": "https://www.bgu.ac.il/staffmemberslobby/davidyos/"
     },
     {
       "@type": "Person",
-      "name": "Nimrod Rosler"
+      "name": "Nimrod Rosler",
+      "url": "https://orcid.org/0000-0001-5316-9828"
     },
     {
       "@type": "Person",
-      "name": "Donald G. Ellis"
+      "name": "Donald G. Ellis",
+      "url": "https://orcid.org/0000-0002-4791-5748"
     },
     {
       "@type": "Person",
@@ -37,15 +40,18 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yossi David"
+      "name": "Yossi David",
+      "url": "https://www.bgu.ac.il/staffmemberslobby/davidyos/"
     },
     {
       "@type": "Person",
-      "name": "Nimrod Rosler"
+      "name": "Nimrod Rosler",
+      "url": "https://orcid.org/0000-0001-5316-9828"
     },
     {
       "@type": "Person",
-      "name": "Donald G. Ellis"
+      "name": "Donald G. Ellis",
+      "url": "https://orcid.org/0000-0002-4791-5748"
     },
     {
       "@type": "Person",
@@ -76,8 +82,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

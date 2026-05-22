@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ron Dudai",
   "paperTitle": "Entryism, mimicry and victimhood work: the adoption of human rights discourse by right-wing groups in Israel",
-  "authorsHtml": "Ron Dudai",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0660-0704\" target=\"_blank\" rel=\"noopener noreferrer\">Ron Dudai</a>",
   "journal": "The International Journal of Human Rights",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1080/13642987.2017.1313235",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ron Dudai"
+      "name": "Ron Dudai",
+      "url": "https://orcid.org/0000-0003-0660-0704"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ron Dudai"
+      "name": "Ron Dudai",
+      "url": "https://orcid.org/0000-0003-0660-0704"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

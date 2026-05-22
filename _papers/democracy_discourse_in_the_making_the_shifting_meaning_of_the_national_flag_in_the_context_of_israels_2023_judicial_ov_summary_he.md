@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Silvia Adler, Ayelet Kohn",
   "paperTitle": "Discourse in the making: the shifting meaning of the national flag in the context of Israel’s 2023 judicial overhaul",
-  "authorsHtml": "Silvia Adler, Ayelet Kohn",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3663-3048\" target=\"_blank\" rel=\"noopener noreferrer\">Silvia Adler</a>, <a href=\"https://orcid.org/0000-0002-0871-4492\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Kohn</a>",
   "journal": "Humanities and Social Sciences Communications",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-07-04",
@@ -19,21 +19,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Silvia Adler"
+      "name": "Silvia Adler",
+      "url": "https://orcid.org/0000-0003-3663-3048"
     },
     {
       "@type": "Person",
-      "name": "Ayelet Kohn"
+      "name": "Ayelet Kohn",
+      "url": "https://orcid.org/0000-0002-0871-4492"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Silvia Adler"
+      "name": "Silvia Adler",
+      "url": "https://orcid.org/0000-0003-3663-3048"
     },
     {
       "@type": "Person",
-      "name": "Ayelet Kohn"
+      "name": "Ayelet Kohn",
+      "url": "https://orcid.org/0000-0002-0871-4492"
     }
   ],
   "topics": [
@@ -55,8 +59,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

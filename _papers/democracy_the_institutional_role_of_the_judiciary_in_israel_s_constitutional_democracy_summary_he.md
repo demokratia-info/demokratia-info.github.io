@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Guy Lurie, Yuval Shany",
   "paperTitle": "The Institutional Role of the Judiciary in Israel’s Constitutional Democracy",
-  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>, Yuval Shany",
+  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.2139/ssrn.3762937",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "topics": [

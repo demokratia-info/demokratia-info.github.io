@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות חוקתיות במדינה יהודית ודמוקרטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Daphne Barak-Erez",
   "paperTitle": "Constitutional Rights in a Jewish and Democratic State",
-  "authorsHtml": "Daphne Barak-Erez",
+  "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak-Erez</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית זכויות חוקתיות במדינה יהודית ודמוקרטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

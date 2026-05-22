@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "As’ad Ghanem, Nadim N. Rouhana",
   "paperTitle": "Citizenship and the parliamentary politics of minorities in ethnic states: The Palestinian citizens of Israel",
-  "authorsHtml": "As’ad Ghanem; Nadim N. Rouhana",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>, <a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>",
   "journal": "Nationalism and Ethnic Politics",
   "dateText": "פורסם: 2001",
   "doiUrl": "https://doi.org/10.1080/13537110108428645",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     },
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     },
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     }
   ],
   "topics": [
@@ -54,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

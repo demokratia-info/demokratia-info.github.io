@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Oshrat Hochman, Rebeca Raijman",
   "paperTitle": "The “Jewish premium”: attitudes towards Jewish and non-Jewish immigrants arriving in Israel under the Law of Return",
-  "authorsHtml": "Oshrat Hochman, Rebeca Raijman",
+  "authorsHtml": "<a href=\"https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman\" target=\"_blank\" rel=\"noopener noreferrer\">Oshrat Hochman</a>, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>",
   "journal": "Ethnic and Racial Studies",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1080/01419870.2021.2018005",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Oshrat Hochman"
+      "name": "Oshrat Hochman",
+      "url": "https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman"
     },
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Oshrat Hochman"
+      "name": "Oshrat Hochman",
+      "url": "https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman"
     },
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     }
   ],
   "topics": [
@@ -55,8 +59,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית טעם לתעסוקה ממשלתית והעדפות פוליטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Sharon Gilad, Raanan Sulitzeanu‐Kenan, David Levi‐Faur",
   "paperTitle": "A taste for government employment also rests on its political flavor",
-  "authorsHtml": "<a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>; Raanan Sulitzeanu‐Kenan; David Levi‐Faur",
+  "authorsHtml": "<a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0001-9663-8954\" target=\"_blank\" rel=\"noopener noreferrer\">Raanan Sulitzeanu‐Kenan</a>, <a href=\"https://orcid.org/0000-0001-6998-5483\" target=\"_blank\" rel=\"noopener noreferrer\">David Levi‐Faur</a>",
   "journal": "Public Administration Review",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1111/puar.13889",
@@ -23,11 +23,13 @@
     },
     {
       "@type": "Person",
-      "name": "Raanan Sulitzeanu‐Kenan"
+      "name": "Raanan Sulitzeanu‐Kenan",
+      "url": "https://orcid.org/0000-0001-9663-8954"
     },
     {
       "@type": "Person",
-      "name": "David Levi‐Faur"
+      "name": "David Levi‐Faur",
+      "url": "https://orcid.org/0000-0001-6998-5483"
     }
   ],
   "sourceAuthors": [
@@ -38,11 +40,13 @@
     },
     {
       "@type": "Person",
-      "name": "Raanan Sulitzeanu‐Kenan"
+      "name": "Raanan Sulitzeanu‐Kenan",
+      "url": "https://orcid.org/0000-0001-9663-8954"
     },
     {
       "@type": "Person",
-      "name": "David Levi‐Faur"
+      "name": "David Levi‐Faur",
+      "url": "https://orcid.org/0000-0001-6998-5483"
     }
   ],
   "topics": [
@@ -66,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: טעם לתעסוקה ממשלתית והעדפות פוליטיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "עמוס שפירא",
   "paperTitle": "Legislative and Judicial Law-making Concerning Educational Liberty and Equality: Some Israeli Constitutional Law Perspectives",
-  "authorsHtml": "Amos Shapira",
+  "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/shapira1_71\" target=\"_blank\" rel=\"noopener noreferrer\">Amos Shapira</a>",
   "journal": "Israel Yearbook on Human Rights, Volume 9 (1979)",
   "dateText": "פורסם: 05.07.1979",
   "doiUrl": "https://doi.org/10.1163/9789004422902_011",
@@ -24,7 +24,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Amos Shapira"
+      "name": "Amos Shapira",
+      "url": "https://en-law.tau.ac.il/profile/shapira1_71"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

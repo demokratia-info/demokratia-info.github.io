@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Mazen Masri",
   "paperTitle": "The Dynamics of Exclusionary Constitutionalism: Israel as a Jewish and Democratic State",
-  "authorsHtml": "Mazen Masri",
+  "authorsHtml": "<a href=\"https://www.citystgeorges.ac.uk/about/people/academics/mazen-masri\" target=\"_blank\" rel=\"noopener noreferrer\">Mazen Masri</a>",
   "journal": "",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.5040/9781509902569",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mazen Masri"
+      "name": "Mazen Masri",
+      "url": "https://www.citystgeorges.ac.uk/about/people/academics/mazen-masri"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mazen Masri"
+      "name": "Mazen Masri",
+      "url": "https://www.citystgeorges.ac.uk/about/people/academics/mazen-masri"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

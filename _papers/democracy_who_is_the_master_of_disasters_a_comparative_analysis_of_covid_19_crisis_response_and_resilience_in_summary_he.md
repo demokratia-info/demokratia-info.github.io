@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Arielle Kaim, Ina Kubbe",
   "paperTitle": "Who Is the Master of Disasters? A Comparative Analysis of COVID‐19 Crisis Response and Resilience in Democracies, Hybrid Regimes, and Autocratic States",
-  "authorsHtml": "Arielle Kaim; Ina Kubbe",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1251-3551\" target=\"_blank\" rel=\"noopener noreferrer\">Arielle Kaim</a>, <a href=\"https://orcid.org/0000-0002-2941-806X\" target=\"_blank\" rel=\"noopener noreferrer\">Ina Kubbe</a>",
   "journal": "Risk Hazards & Crisis in Public Policy",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1002/rhc3.70004",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Arielle Kaim"
+      "name": "Arielle Kaim",
+      "url": "https://orcid.org/0000-0003-1251-3551"
     },
     {
       "@type": "Person",
-      "name": "Ina Kubbe"
+      "name": "Ina Kubbe",
+      "url": "https://orcid.org/0000-0002-2941-806X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Arielle Kaim"
+      "name": "Arielle Kaim",
+      "url": "https://orcid.org/0000-0003-1251-3551"
     },
     {
       "@type": "Person",
-      "name": "Ina Kubbe"
+      "name": "Ina Kubbe",
+      "url": "https://orcid.org/0000-0002-2941-806X"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

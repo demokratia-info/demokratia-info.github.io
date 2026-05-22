@@ -10,7 +10,7 @@
   "summaryHe": "איך אפליה במרחב הפרטי יכולה לדחוק מיעוטים מן המרחב הציבורי. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "authorsCardHe": "מיכל טמיר",
   "paperTitle": "The Freedom to Exclude: The Case of Israeli Society",
-  "authorsHtml": "<a href=\"https://www.mishpat.ac.il/%D7%A4%D7%A8%D7%95%D7%A4-%D7%9E%D7%99%D7%9B%D7%9C-%D7%98%D7%9E%D7%99%D7%A8/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Tamir</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0009-0000-5470-8950\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Tamir</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם אונליין: 26 במאי 2016; גיליון: יולי 2016",
   "doiUrl": "https://doi.org/10.1017/S002122371600008X",
@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Michal Tamir"
+      "name": "Michal Tamir",
+      "url": "https://orcid.org/0009-0000-5470-8950"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-07",
-  "lastUpdatedHe": "7 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מראה ששוויון אינו נמדד רק במה שהמדינה אומרת על זכויות, אלא גם בשאלה האם אנשים יכולים להשתתף בפועל במרחבים חברתיים, כלכליים וציבוריים. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "sections": [
     {

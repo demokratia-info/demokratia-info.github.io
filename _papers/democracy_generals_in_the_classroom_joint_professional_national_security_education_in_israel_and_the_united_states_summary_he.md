@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Anat Stern, Ilai Z. Saltzman",
   "paperTitle": "Generals in the classroom: Joint professional national security education in Israel and the United States",
-  "authorsHtml": "Anat Stern, Ilai Z. Saltzman",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8659-8108\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Stern</a>, <a href=\"https://orcid.org/0000-0002-2024-2168\" target=\"_blank\" rel=\"noopener noreferrer\">Ilai Z. Saltzman</a>",
   "journal": "Comparative Strategy",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/01495933.2023.2263337",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Anat Stern"
+      "name": "Anat Stern",
+      "url": "https://orcid.org/0000-0002-8659-8108"
     },
     {
       "@type": "Person",
-      "name": "Ilai Z. Saltzman"
+      "name": "Ilai Z. Saltzman",
+      "url": "https://orcid.org/0000-0002-2024-2168"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Anat Stern"
+      "name": "Anat Stern",
+      "url": "https://orcid.org/0000-0002-8659-8108"
     },
     {
       "@type": "Person",
-      "name": "Ilai Z. Saltzman"
+      "name": "Ilai Z. Saltzman",
+      "url": "https://orcid.org/0000-0002-2024-2168"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

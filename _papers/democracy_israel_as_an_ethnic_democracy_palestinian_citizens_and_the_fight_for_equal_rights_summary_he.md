@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Raphael Cohen-Almagor",
   "paperTitle": "Israel as an Ethnic Democracy: Palestinian Citizens and the Fight for Equal Rights",
-  "authorsHtml": "Raphael Cohen-Almagor",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5869-9243\" target=\"_blank\" rel=\"noopener noreferrer\">Raphael Cohen-Almagor</a>",
   "journal": "SSRN Electronic Journal",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.2139/ssrn.3900711",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Raphael Cohen-Almagor"
+      "name": "Raphael Cohen-Almagor",
+      "url": "https://orcid.org/0000-0002-5869-9243"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Raphael Cohen-Almagor"
+      "name": "Raphael Cohen-Almagor",
+      "url": "https://orcid.org/0000-0002-5869-9243"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

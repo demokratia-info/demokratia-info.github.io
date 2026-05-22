@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית עבודת הצדקה של שוטרות ערביות במשטרת ישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Tal Meler",
   "paperTitle": "“I represent the police I represent the state” – Justification work following ethno-national boundaries crossing among Arab female police officers in Israel",
-  "authorsHtml": "Tal Meler",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/tal-meler/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Meler</a>",
   "journal": "Frontiers in Sociology",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.3389/fsoc.2023.1296790",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Tal Meler"
+      "name": "Tal Meler",
+      "url": "https://ric.org.il/researcher/tal-meler/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tal Meler"
+      "name": "Tal Meler",
+      "url": "https://ric.org.il/researcher/tal-meler/"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: עבודת הצדקה של שוטרות ערביות במשטרת ישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

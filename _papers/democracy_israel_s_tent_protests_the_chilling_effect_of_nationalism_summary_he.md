@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Uri Gordon",
   "paperTitle": "Israel's ‘Tent Protests’: The Chilling Effect of Nationalism",
-  "authorsHtml": "Uri Gordon",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2301-6000\" target=\"_blank\" rel=\"noopener noreferrer\">Uri Gordon</a>",
   "journal": "Social movement studies",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.1080/14742837.2012.708832",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Uri Gordon"
+      "name": "Uri Gordon",
+      "url": "https://orcid.org/0000-0002-2301-6000"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Uri Gordon"
+      "name": "Uri Gordon",
+      "url": "https://orcid.org/0000-0002-2301-6000"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

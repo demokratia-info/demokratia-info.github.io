@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Amit M. Schejter, Moran Yemini",
   "paperTitle": "“Eyes Have They, But They See Not”: Israeli Election Laws, Freedom of Expression, and the Need for Transparent Speech",
-  "authorsHtml": "Amit M. Schejter, Moran Yemini",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3670-2165\" target=\"_blank\" rel=\"noopener noreferrer\">Amit M. Schejter</a>, Moran Yemini",
   "journal": "Communication Law and Policy",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1080/10811680903238043",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Amit M. Schejter"
+      "name": "Amit M. Schejter",
+      "url": "https://orcid.org/0000-0002-3670-2165"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Amit M. Schejter"
+      "name": "Amit M. Schejter",
+      "url": "https://orcid.org/0000-0002-3670-2165"
     },
     {
       "@type": "Person",
@@ -56,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

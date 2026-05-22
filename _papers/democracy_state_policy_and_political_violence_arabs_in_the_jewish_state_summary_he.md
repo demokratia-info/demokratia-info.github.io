@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Badi Hasisi, Ami Pedahzur",
   "paperTitle": "State, policy, and political violence: Arabs in the Jewish state",
-  "authorsHtml": "Badi Hasisi; Ami Pedahzur",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4506-5636\" target=\"_blank\" rel=\"noopener noreferrer\">Badi Hasisi</a>, <a href=\"https://liberalarts.utexas.edu/plan2/faculty/ap2976\" target=\"_blank\" rel=\"noopener noreferrer\">Ami Pedahzur</a>",
   "journal": "Civil Wars",
   "dateText": "פורסם: 2000",
   "doiUrl": "https://doi.org/10.1080/13698240008402455",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Badi Hasisi"
+      "name": "Badi Hasisi",
+      "url": "https://orcid.org/0000-0003-4506-5636"
     },
     {
       "@type": "Person",
-      "name": "Ami Pedahzur"
+      "name": "Ami Pedahzur",
+      "url": "https://liberalarts.utexas.edu/plan2/faculty/ap2976"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Badi Hasisi"
+      "name": "Badi Hasisi",
+      "url": "https://orcid.org/0000-0003-4506-5636"
     },
     {
       "@type": "Person",
-      "name": "Ami Pedahzur"
+      "name": "Ami Pedahzur",
+      "url": "https://liberalarts.utexas.edu/plan2/faculty/ap2976"
     }
   ],
   "topics": [
@@ -59,8 +63,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Lotem Perry‐Hazan",
   "paperTitle": "Court-led educational reforms in political third rails: lessons from the litigation over ultra-religious Jewish schools in Israel",
-  "authorsHtml": "Lotem Perry‐Hazan",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6560-1136\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Perry‐Hazan</a>",
   "journal": "Journal of Education Policy",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.1080/02680939.2014.987829",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Lotem Perry‐Hazan"
+      "name": "Lotem Perry‐Hazan",
+      "url": "https://orcid.org/0000-0002-6560-1136"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Lotem Perry‐Hazan"
+      "name": "Lotem Perry‐Hazan",
+      "url": "https://orcid.org/0000-0002-6560-1136"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

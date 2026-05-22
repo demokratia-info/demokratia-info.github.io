@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Yoav Peled",
   "paperTitle": "Restoring Ethnic Democracy: The Or Commission and Palestinian Citizenship in Israel",
-  "authorsHtml": "Yoav Peled",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yoavpel\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Peled</a>",
   "journal": "",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.1080/1362102042000338898",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yoav Peled"
+      "name": "Yoav Peled",
+      "url": "https://english.tau.ac.il/profile/yoavpel"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yoav Peled"
+      "name": "Yoav Peled",
+      "url": "https://english.tau.ac.il/profile/yoavpel"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

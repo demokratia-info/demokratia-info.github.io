@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Rita Golstein-Galperin, Nissim Cohen, Emre Cinar",
   "paperTitle": "Navigating Public Sector Innovation Under Populist Contexts: Insights from Israel",
-  "authorsHtml": "Rita Golstein-Galperin, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>, Emre Cinar",
+  "authorsHtml": "<a href=\"https://orcid.org/0009-0004-8091-8731\" target=\"_blank\" rel=\"noopener noreferrer\">Rita Golstein-Galperin</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>, <a href=\"https://orcid.org/0000-0003-2464-7987\" target=\"_blank\" rel=\"noopener noreferrer\">Emre Cinar</a>",
   "journal": "The American Review of Public Administration",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-12-15",
@@ -19,7 +19,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Rita Golstein-Galperin"
+      "name": "Rita Golstein-Galperin",
+      "url": "https://orcid.org/0009-0004-8091-8731"
     },
     {
       "@type": "Person",
@@ -28,13 +29,15 @@
     },
     {
       "@type": "Person",
-      "name": "Emre Cinar"
+      "name": "Emre Cinar",
+      "url": "https://orcid.org/0000-0003-2464-7987"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Rita Golstein-Galperin"
+      "name": "Rita Golstein-Galperin",
+      "url": "https://orcid.org/0009-0004-8091-8731"
     },
     {
       "@type": "Person",
@@ -43,7 +46,8 @@
     },
     {
       "@type": "Person",
-      "name": "Emre Cinar"
+      "name": "Emre Cinar",
+      "url": "https://orcid.org/0000-0003-2464-7987"
     }
   ],
   "topics": [

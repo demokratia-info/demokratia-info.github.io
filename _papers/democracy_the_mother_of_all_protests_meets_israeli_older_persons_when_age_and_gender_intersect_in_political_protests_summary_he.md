@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Liat Ayalon, ‪Sarit Okun‬‏",
   "paperTitle": "The “Mother of All Protests” Meets Israeli Older Persons: When Age and Gender Intersect in Political Protests",
-  "authorsHtml": "Liat Ayalon, ‪Sarit Okun‬‏",
+  "authorsHtml": "<a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>, ‪Sarit Okun‬‏",
   "journal": "The Journals of Gerontology Series B",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1093/geronb/gbad172",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Liat Ayalon"
+      "name": "Liat Ayalon",
+      "url": "https://social-work.biu.ac.il/en/Ayalon_Liat_En"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Liat Ayalon"
+      "name": "Liat Ayalon",
+      "url": "https://social-work.biu.ac.il/en/Ayalon_Liat_En"
     },
     {
       "@type": "Person",
@@ -56,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

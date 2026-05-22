@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את ממשל, שירות ציבורי ואתוס דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Eran Vigoda‐Gadot, Shlomo Mizrahi",
   "paperTitle": "Public Sector Management and the Democratic Ethos: A 5-Year Study of Key Relationships in Israel",
-  "authorsHtml": "Eran Vigoda‐Gadot, Shlomo Mizrahi",
+  "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda‐Gadot</a>, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>",
   "journal": "Journal of Public Administration Research and Theory",
   "dateText": "פורסם: 2006",
   "doiUrl": "https://doi.org/10.1093/jopart/mum002",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eran Vigoda‐Gadot"
+      "name": "Eran Vigoda‐Gadot",
+      "url": "https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home"
     },
     {
       "@type": "Person",
-      "name": "Shlomo Mizrahi"
+      "name": "Shlomo Mizrahi",
+      "url": "https://cris.haifa.ac.il/en/persons/shlomo-mizrahi"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eran Vigoda‐Gadot"
+      "name": "Eran Vigoda‐Gadot",
+      "url": "https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home"
     },
     {
       "@type": "Person",
-      "name": "Shlomo Mizrahi"
+      "name": "Shlomo Mizrahi",
+      "url": "https://cris.haifa.ac.il/en/persons/shlomo-mizrahi"
     }
   ],
   "topics": [
@@ -54,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את ממשל, שירות ציבורי ואתוס דמוקרטי בישראל ומראה מדוע הדיון קשור למוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

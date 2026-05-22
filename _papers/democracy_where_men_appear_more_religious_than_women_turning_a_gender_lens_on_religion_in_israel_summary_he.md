@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Landon Schnabel, Conrad Hackett, David McClendon",
   "paperTitle": "Where Men Appear More Religious Than Women: Turning a Gender Lens on Religion in Israel",
-  "authorsHtml": "Landon Schnabel, Conrad Hackett, David McClendon",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2674-3019\" target=\"_blank\" rel=\"noopener noreferrer\">Landon Schnabel</a>, <a href=\"https://orcid.org/0000-0002-1310-965X\" target=\"_blank\" rel=\"noopener noreferrer\">Conrad Hackett</a>, <a href=\"https://orcid.org/0000-0002-0231-0489\" target=\"_blank\" rel=\"noopener noreferrer\">David McClendon</a>",
   "journal": "Journal for the Scientific Study of Religion",
   "dateText": "פורסם: 2018",
   "doiUrl": "https://doi.org/10.1111/jssr.12498",
@@ -18,29 +18,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Landon Schnabel"
+      "name": "Landon Schnabel",
+      "url": "https://orcid.org/0000-0002-2674-3019"
     },
     {
       "@type": "Person",
-      "name": "Conrad Hackett"
+      "name": "Conrad Hackett",
+      "url": "https://orcid.org/0000-0002-1310-965X"
     },
     {
       "@type": "Person",
-      "name": "David McClendon"
+      "name": "David McClendon",
+      "url": "https://orcid.org/0000-0002-0231-0489"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Landon Schnabel"
+      "name": "Landon Schnabel",
+      "url": "https://orcid.org/0000-0002-2674-3019"
     },
     {
       "@type": "Person",
-      "name": "Conrad Hackett"
+      "name": "Conrad Hackett",
+      "url": "https://orcid.org/0000-0002-1310-965X"
     },
     {
       "@type": "Person",
-      "name": "David McClendon"
+      "name": "David McClendon",
+      "url": "https://orcid.org/0000-0002-0231-0489"
     }
   ],
   "topics": [
@@ -64,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

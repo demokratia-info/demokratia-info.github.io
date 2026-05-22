@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Daphne Barak-Erez; Aeyal Gross",
   "paperTitle": "Social Citizenship: The Neglected Aspect of Israeli Constitutional Law",
-  "authorsHtml": "Daphne Barak-Erez; <a href=\"https://orcid.org/0000-0002-8642-882X\" target=\"_blank\" rel=\"noopener noreferrer\">Aeyal Gross</a>",
+  "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak-Erez</a>, <a href=\"https://orcid.org/0000-0002-8642-882X\" target=\"_blank\" rel=\"noopener noreferrer\">Aeyal Gross</a>",
   "journal": "SSRN Electronic Journal",
   "dateText": "פורסם: 2007",
   "doiUrl": "https://doi.org/10.2139/ssrn.3059374",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     },
     {
       "@type": "Person",
@@ -58,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

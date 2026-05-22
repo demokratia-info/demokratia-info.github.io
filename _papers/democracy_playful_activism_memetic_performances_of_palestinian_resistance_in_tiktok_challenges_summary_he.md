@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Laura Cervi, Tom Divon",
   "paperTitle": "Playful Activism: Memetic Performances of Palestinian Resistance in TikTok #Challenges",
-  "authorsHtml": "Laura Cervi; Tom Divon",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0376-0609\" target=\"_blank\" rel=\"noopener noreferrer\">Laura Cervi</a>, <a href=\"https://orcid.org/0000-0002-7034-615X\" target=\"_blank\" rel=\"noopener noreferrer\">Tom Divon</a>",
   "journal": "Social Media + Society",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1177/20563051231157607",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Laura Cervi"
+      "name": "Laura Cervi",
+      "url": "https://orcid.org/0000-0002-0376-0609"
     },
     {
       "@type": "Person",
-      "name": "Tom Divon"
+      "name": "Tom Divon",
+      "url": "https://orcid.org/0000-0002-7034-615X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Laura Cervi"
+      "name": "Laura Cervi",
+      "url": "https://orcid.org/0000-0002-0376-0609"
     },
     {
       "@type": "Person",
-      "name": "Tom Divon"
+      "name": "Tom Divon",
+      "url": "https://orcid.org/0000-0002-7034-615X"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זהות המבקר, קהל היעד ודעת קהל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yehonatan Abramson, Anil Menon, Abir Gitlin",
   "paperTitle": "Whose critique matters? The effects of critic identity and audience on public opinion",
-  "authorsHtml": "Yehonatan Abramson; Anil Menon; Abir Gitlin",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6410-1212\" target=\"_blank\" rel=\"noopener noreferrer\">Yehonatan Abramson</a>, <a href=\"https://orcid.org/0000-0001-8857-003X\" target=\"_blank\" rel=\"noopener noreferrer\">Anil Menon</a>, Abir Gitlin",
   "journal": "American Journal of Political Science",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1111/ajps.12846",
@@ -18,11 +18,13 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yehonatan Abramson"
+      "name": "Yehonatan Abramson",
+      "url": "https://orcid.org/0000-0001-6410-1212"
     },
     {
       "@type": "Person",
-      "name": "Anil Menon"
+      "name": "Anil Menon",
+      "url": "https://orcid.org/0000-0001-8857-003X"
     },
     {
       "@type": "Person",
@@ -32,11 +34,13 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yehonatan Abramson"
+      "name": "Yehonatan Abramson",
+      "url": "https://orcid.org/0000-0001-6410-1212"
     },
     {
       "@type": "Person",
-      "name": "Anil Menon"
+      "name": "Anil Menon",
+      "url": "https://orcid.org/0000-0001-8857-003X"
     },
     {
       "@type": "Person",
@@ -64,8 +68,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: זהות המבקר, קהל היעד ודעת קהל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

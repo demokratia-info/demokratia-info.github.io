@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ariel Zellman, Andrea Malji",
   "paperTitle": "Diversionary desecration? Regime instability and societal violence against minority sacred spaces",
-  "authorsHtml": "Ariel Zellman; Andrea Malji",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1106-1282\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Zellman</a>, <a href=\"https://orcid.org/0000-0001-5905-3236\" target=\"_blank\" rel=\"noopener noreferrer\">Andrea Malji</a>",
   "journal": "Politics Religion & Ideology",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/21567689.2023.2279168",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ariel Zellman"
+      "name": "Ariel Zellman",
+      "url": "https://orcid.org/0000-0003-1106-1282"
     },
     {
       "@type": "Person",
-      "name": "Andrea Malji"
+      "name": "Andrea Malji",
+      "url": "https://orcid.org/0000-0001-5905-3236"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ariel Zellman"
+      "name": "Ariel Zellman",
+      "url": "https://orcid.org/0000-0003-1106-1282"
     },
     {
       "@type": "Person",
-      "name": "Andrea Malji"
+      "name": "Andrea Malji",
+      "url": "https://orcid.org/0000-0001-5905-3236"
     }
   ],
   "topics": [
@@ -59,8 +63,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

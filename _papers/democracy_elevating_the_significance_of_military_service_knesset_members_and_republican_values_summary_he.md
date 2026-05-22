@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שירות צבאי, חברי כנסת וערכים רפובליקניים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ben Herzog",
   "paperTitle": "Elevating the significance of military service: Knesset members and republican values",
-  "authorsHtml": "Ben Herzog",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6397-6284\" target=\"_blank\" rel=\"noopener noreferrer\">Ben Herzog</a>",
   "journal": "National Identities",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/14608944.2023.2214094",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ben Herzog"
+      "name": "Ben Herzog",
+      "url": "https://orcid.org/0000-0002-6397-6284"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ben Herzog"
+      "name": "Ben Herzog",
+      "url": "https://orcid.org/0000-0002-6397-6284"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: שירות צבאי, חברי כנסת וערכים רפובליקניים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

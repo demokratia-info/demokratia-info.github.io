@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Helena Desivilya Syna",
   "paperTitle": "The paradox of tolerance? ‘In situ’ alerts from Israel on hyper‐polarization and threatened democracy",
-  "authorsHtml": "Helena Desivilya Syna",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3481-6003\" target=\"_blank\" rel=\"noopener noreferrer\">Helena Desivilya Syna</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1002/crq.21375",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Helena Desivilya Syna"
+      "name": "Helena Desivilya Syna",
+      "url": "https://orcid.org/0000-0002-3481-6003"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Helena Desivilya Syna"
+      "name": "Helena Desivilya Syna",
+      "url": "https://orcid.org/0000-0002-3481-6003"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, ומראה מדוע הדיון בנושא קשור ליכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

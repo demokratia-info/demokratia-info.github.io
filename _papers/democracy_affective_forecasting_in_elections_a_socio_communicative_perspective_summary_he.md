@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Keren Tenenboim‐Weinblatt, Christian Baden, Tali Aharoni, Maximilian Overbeck",
   "paperTitle": "Affective forecasting in elections: A socio-communicative perspective",
-  "authorsHtml": "Keren Tenenboim‐Weinblatt; Christian Baden; Tali Aharoni; Maximilian Overbeck",
+  "authorsHtml": "<a href=\"https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Tenenboim‐Weinblatt</a>, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://en.communication.huji.ac.il/people/tali-aharoni\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Aharoni</a>, <a href=\"https://orcid.org/0000-0003-3658-5584\" target=\"_blank\" rel=\"noopener noreferrer\">Maximilian Overbeck</a>",
   "journal": "Human Communication Research",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1093/hcr/hqac007",
@@ -18,37 +18,45 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Keren Tenenboim‐Weinblatt"
+      "name": "Keren Tenenboim‐Weinblatt",
+      "url": "https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt"
     },
     {
       "@type": "Person",
-      "name": "Christian Baden"
+      "name": "Christian Baden",
+      "url": "https://en.communication.huji.ac.il/people/christian-baden"
     },
     {
       "@type": "Person",
-      "name": "Tali Aharoni"
+      "name": "Tali Aharoni",
+      "url": "https://en.communication.huji.ac.il/people/tali-aharoni"
     },
     {
       "@type": "Person",
-      "name": "Maximilian Overbeck"
+      "name": "Maximilian Overbeck",
+      "url": "https://orcid.org/0000-0003-3658-5584"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Keren Tenenboim‐Weinblatt"
+      "name": "Keren Tenenboim‐Weinblatt",
+      "url": "https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt"
     },
     {
       "@type": "Person",
-      "name": "Christian Baden"
+      "name": "Christian Baden",
+      "url": "https://en.communication.huji.ac.il/people/christian-baden"
     },
     {
       "@type": "Person",
-      "name": "Tali Aharoni"
+      "name": "Tali Aharoni",
+      "url": "https://en.communication.huji.ac.il/people/tali-aharoni"
     },
     {
       "@type": "Person",
-      "name": "Maximilian Overbeck"
+      "name": "Maximilian Overbeck",
+      "url": "https://orcid.org/0000-0003-3658-5584"
     }
   ],
   "topics": [
@@ -72,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Doron Navot, Yair Goldshmidt, Asaf Yakir",
   "paperTitle": "The Limits of Right-Wing Populism in Power and the Israeli Political Crisis of 2018–2021",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>, <a href=\"https://scholar.google.com/citations?user=Aidc494AAAAJ&amp;hl=iw&amp;inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Goldshmidt</a>, Asaf Yakir",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>, <a href=\"https://scholar.google.com/citations?user=Aidc494AAAAJ&amp;hl=iw&amp;inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Goldshmidt</a>, <a href=\"https://orcid.org/0000-0003-4459-451X\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Yakir</a>",
   "journal": "The Middle East Journal",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.3751/76.3.12",
@@ -28,7 +28,8 @@
     },
     {
       "@type": "Person",
-      "name": "Asaf Yakir"
+      "name": "Asaf Yakir",
+      "url": "https://orcid.org/0000-0003-4459-451X"
     }
   ],
   "sourceAuthors": [
@@ -44,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Asaf Yakir"
+      "name": "Asaf Yakir",
+      "url": "https://orcid.org/0000-0003-4459-451X"
     }
   ],
   "topics": [
@@ -66,8 +68,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

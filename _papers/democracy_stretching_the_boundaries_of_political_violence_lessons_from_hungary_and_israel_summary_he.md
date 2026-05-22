@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Gadi Hitman",
   "paperTitle": "STRETCHING THE BOUNDARIES OF POLITICAL VIOLENCE: LESSONS FROM HUNGARY AND ISRAEL",
-  "authorsHtml": "Gadi Hitman",
+  "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>",
   "journal": "Trames Journal of the Humanities and Social Sciences",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.3176/tr.2024.1.02",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gadi Hitman"
+      "name": "Gadi Hitman",
+      "url": "https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gadi Hitman"
+      "name": "Gadi Hitman",
+      "url": "https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

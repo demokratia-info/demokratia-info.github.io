@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ariel Handel, Hilla Dayan",
   "paperTitle": "Multilayered surveillance in Israel/Palestine: Dialectics of inclusive exclusion",
-  "authorsHtml": "Ariel Handel; Hilla Dayan",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5961-1071\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Handel</a>, <a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",
   "journal": "Surveillance & Society",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.24908/ss.v15i3/4.6643",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ariel Handel"
+      "name": "Ariel Handel",
+      "url": "https://orcid.org/0000-0002-5961-1071"
     },
     {
       "@type": "Person",
-      "name": "Hilla Dayan"
+      "name": "Hilla Dayan",
+      "url": "https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ariel Handel"
+      "name": "Ariel Handel",
+      "url": "https://orcid.org/0000-0002-5961-1071"
     },
     {
       "@type": "Person",
-      "name": "Hilla Dayan"
+      "name": "Hilla Dayan",
+      "url": "https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מעקב רב־שכבתי בישראל/פלסטין והדרה מכלילה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

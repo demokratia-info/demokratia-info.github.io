@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Helena Desivilya Syna, Michal Palgi, Maha Sabbah Karkabi",
   "paperTitle": "Unpacking the politics of equality, diversity and inclusion: The case of Israeli Jewish and Palestinian women in municipal councils",
-  "authorsHtml": "Helena Desivilya Syna; Michal Palgi; Maha Sabbah Karkabi",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3481-6003\" target=\"_blank\" rel=\"noopener noreferrer\">Helena Desivilya Syna</a>, <a href=\"https://orcid.org/0000-0003-1349-9659\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Palgi</a>, Maha Sabbah Karkabi",
   "journal": "Research in social change",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.2478/rsc-2020-0001",
@@ -18,11 +18,13 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Helena Desivilya Syna"
+      "name": "Helena Desivilya Syna",
+      "url": "https://orcid.org/0000-0002-3481-6003"
     },
     {
       "@type": "Person",
-      "name": "Michal Palgi"
+      "name": "Michal Palgi",
+      "url": "https://orcid.org/0000-0003-1349-9659"
     },
     {
       "@type": "Person",
@@ -32,11 +34,13 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Helena Desivilya Syna"
+      "name": "Helena Desivilya Syna",
+      "url": "https://orcid.org/0000-0002-3481-6003"
     },
     {
       "@type": "Person",
-      "name": "Michal Palgi"
+      "name": "Michal Palgi",
+      "url": "https://orcid.org/0000-0003-1349-9659"
     },
     {
       "@type": "Person",
@@ -66,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

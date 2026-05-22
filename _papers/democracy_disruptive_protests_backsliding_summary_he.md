@@ -10,7 +10,7 @@
   "summaryHe": "מחקר על מחאת 2023 נגד הרפורמה המשפטית ועל האופן שבו פעולות שיבוש לא-אלימות השפיעו על תמיכה וגיוס. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "אריק שומן, נועה כהן-אייק, אריק נולס, עירן הלפרין",
   "paperTitle": "Evidence for the Effectiveness of Large-Scale Disruptive Protests in the Context of Democratic Backsliding",
-  "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>; Noa Cohen-Eick; <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
+  "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>, <a href=\"https://orcid.org/0000-0003-1975-1069\" target=\"_blank\" rel=\"noopener noreferrer\">Noa Cohen-Eick</a>, <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
   "journal": "Social Psychological and Personality Science",
   "dateText": "פורסם אונליין: 26 בדצמבר 2025",
   "sourcePublishedDate": "2025-12-26",
@@ -45,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Noa Cohen-Eick"
+      "name": "Noa Cohen-Eick",
+      "url": "https://orcid.org/0000-0003-1975-1069"
     },
     {
       "@type": "Person",
@@ -76,8 +77,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המחקר מציע שמחאה לא-אלימה אך משבשת יכולה, בתנאים מסוימים, גם לגייס תומכים וגם לרכך התנגדות חלשה למחאה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {

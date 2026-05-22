@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Lia Levin, Haneen Karram-Elias, Shira Pagorek-Eshel, Raghda Alnabilsy",
   "paperTitle": "State inspection in contexts of cultural and sociopolitical conflict: The case of social services offered to Arab-Palestinian young women in Israel",
-  "authorsHtml": "Lia Levin; Haneen Karram-Elias; Shira Pagorek-Eshel; Raghda Alnabilsy",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4337-6265\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Levin</a>, Haneen Karram-Elias, <a href=\"https://orcid.org/0000-0003-1380-2638\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Pagorek-Eshel</a>, <a href=\"https://orcid.org/0000-0002-5326-6051\" target=\"_blank\" rel=\"noopener noreferrer\">Raghda Alnabilsy</a>",
   "journal": "Journal of Social Policy",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1017/s0047279423000144",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Lia Levin"
+      "name": "Lia Levin",
+      "url": "https://orcid.org/0000-0002-4337-6265"
     },
     {
       "@type": "Person",
@@ -26,17 +27,20 @@
     },
     {
       "@type": "Person",
-      "name": "Shira Pagorek-Eshel"
+      "name": "Shira Pagorek-Eshel",
+      "url": "https://orcid.org/0000-0003-1380-2638"
     },
     {
       "@type": "Person",
-      "name": "Raghda Alnabilsy"
+      "name": "Raghda Alnabilsy",
+      "url": "https://orcid.org/0000-0002-5326-6051"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Lia Levin"
+      "name": "Lia Levin",
+      "url": "https://orcid.org/0000-0002-4337-6265"
     },
     {
       "@type": "Person",
@@ -44,11 +48,13 @@
     },
     {
       "@type": "Person",
-      "name": "Shira Pagorek-Eshel"
+      "name": "Shira Pagorek-Eshel",
+      "url": "https://orcid.org/0000-0003-1380-2638"
     },
     {
       "@type": "Person",
-      "name": "Raghda Alnabilsy"
+      "name": "Raghda Alnabilsy",
+      "url": "https://orcid.org/0000-0002-5326-6051"
     }
   ],
   "topics": [
@@ -74,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

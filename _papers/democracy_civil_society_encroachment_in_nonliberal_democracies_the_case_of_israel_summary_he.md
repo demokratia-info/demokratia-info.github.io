@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Hagai Katz, Benjamin Gidron",
   "paperTitle": "Civil Society Encroachment in Nonliberal Democracies: The Case of Israel",
-  "authorsHtml": "Hagai Katz; Benjamin Gidron",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>, <a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>",
   "journal": "",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1007/978-3-030-98008-5_21",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hagai Katz"
+      "name": "Hagai Katz",
+      "url": "https://www.bgu.ac.il/en/people/katzh/"
     },
     {
       "@type": "Person",
-      "name": "Benjamin Gidron"
+      "name": "Benjamin Gidron",
+      "url": "https://tzin.bgu.ac.il/~gidron/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hagai Katz"
+      "name": "Hagai Katz",
+      "url": "https://www.bgu.ac.il/en/people/katzh/"
     },
     {
       "@type": "Person",
-      "name": "Benjamin Gidron"
+      "name": "Benjamin Gidron",
+      "url": "https://tzin.bgu.ac.il/~gidron/"
     }
   ],
   "topics": [
@@ -52,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

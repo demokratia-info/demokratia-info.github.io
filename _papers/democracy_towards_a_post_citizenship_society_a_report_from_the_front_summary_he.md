@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית לקראת חברה פוסט־אזרחית בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yoav Peled",
   "paperTitle": "Towards a Post-Citizenship Society? A Report from the Front",
-  "authorsHtml": "Yoav Peled",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yoavpel\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Peled</a>",
   "journal": "Citizenship Studies",
   "dateText": "פורסם: 2007",
   "doiUrl": "https://doi.org/10.1080/13621020601099930",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yoav Peled"
+      "name": "Yoav Peled",
+      "url": "https://english.tau.ac.il/profile/yoavpel"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yoav Peled"
+      "name": "Yoav Peled",
+      "url": "https://english.tau.ac.il/profile/yoavpel"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: לקראת חברה פוסט־אזרחית בישראל? מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

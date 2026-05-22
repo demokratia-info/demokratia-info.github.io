@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "As’ad Ghanem",
   "paperTitle": "State and minority in Israel: the case of ethnic state and the predicament of its minority",
-  "authorsHtml": "As’ad Ghanem",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>",
   "journal": "",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.1080/014198798329892",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

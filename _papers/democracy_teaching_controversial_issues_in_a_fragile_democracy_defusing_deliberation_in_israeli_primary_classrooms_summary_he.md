@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Itay Pollak, Aliza Segal, Adam Lefstein, Assaf Meshulam",
   "paperTitle": "Teaching controversial issues in a fragile democracy: defusing deliberation in Israeli primary classrooms",
-  "authorsHtml": "Itay Pollak, Aliza Segal, Adam Lefstein, Assaf Meshulam",
+  "authorsHtml": "Itay Pollak, <a href=\"https://orcid.org/0000-0002-9135-4642\" target=\"_blank\" rel=\"noopener noreferrer\">Aliza Segal</a>, <a href=\"https://orcid.org/0000-0002-9686-2662\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Lefstein</a>, <a href=\"https://orcid.org/0000-0001-6139-9834\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meshulam</a>",
   "journal": "Journal of Curriculum Studies",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1080/00220272.2017.1397757",
@@ -22,15 +22,18 @@
     },
     {
       "@type": "Person",
-      "name": "Aliza Segal"
+      "name": "Aliza Segal",
+      "url": "https://orcid.org/0000-0002-9135-4642"
     },
     {
       "@type": "Person",
-      "name": "Adam Lefstein"
+      "name": "Adam Lefstein",
+      "url": "https://orcid.org/0000-0002-9686-2662"
     },
     {
       "@type": "Person",
-      "name": "Assaf Meshulam"
+      "name": "Assaf Meshulam",
+      "url": "https://orcid.org/0000-0001-6139-9834"
     }
   ],
   "sourceAuthors": [
@@ -40,15 +43,18 @@
     },
     {
       "@type": "Person",
-      "name": "Aliza Segal"
+      "name": "Aliza Segal",
+      "url": "https://orcid.org/0000-0002-9135-4642"
     },
     {
       "@type": "Person",
-      "name": "Adam Lefstein"
+      "name": "Adam Lefstein",
+      "url": "https://orcid.org/0000-0002-9686-2662"
     },
     {
       "@type": "Person",
-      "name": "Assaf Meshulam"
+      "name": "Assaf Meshulam",
+      "url": "https://orcid.org/0000-0001-6139-9834"
     }
   ],
   "topics": [
@@ -70,8 +76,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור למוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

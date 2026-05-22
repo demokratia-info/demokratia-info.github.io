@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום ומעמד השפה הערבית בישראל דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Meital Pinto",
   "paperTitle": "The Impact of the Basic Law: Israel as the Nation State of the Jewish People on the Status of the Arabic Language in Israel",
-  "authorsHtml": "Meital Pinto",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3383-1102\" target=\"_blank\" rel=\"noopener noreferrer\">Meital Pinto</a>",
   "journal": "Minnesota journal of international law",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.24926/19441992.797",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Meital Pinto"
+      "name": "Meital Pinto",
+      "url": "https://orcid.org/0000-0003-3383-1102"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Meital Pinto"
+      "name": "Meital Pinto",
+      "url": "https://orcid.org/0000-0003-3383-1102"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חוק הלאום ומעמד השפה הערבית בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

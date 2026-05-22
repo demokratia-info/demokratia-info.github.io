@@ -10,7 +10,7 @@
   "summaryHe": "למה סיווג המשטר הישראלי משנה את האופן שבו מבינים את המשבר. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "גל אריאלי",
   "paperTitle": "The Democratic Backsliding Debate and the Controversy over Regime Classification in Israel",
-  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/galariel/\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Ariely</a>",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/gal-ariely/\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Ariely</a>",
   "journal": "Israel Studies Review",
   "dateText": "2024",
   "doiUrl": "https://doi.org/10.3167/isr.2024.390104",
@@ -25,7 +25,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gal Ariely"
+      "name": "Gal Ariely",
+      "url": "https://cris.bgu.ac.il/en/persons/gal-ariely/"
     }
   ],
   "topics": [
@@ -46,8 +47,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מסביר כיצד הוויכוח על הרפורמה המשפטית קשור לשאלה רחבה יותר: איזה סוג של דמוקרטיה ישראל היא, ומה גבולות המשטר שאותו מסווגים. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {

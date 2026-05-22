@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yoram Rabin; Yuval Shany",
   "paperTitle": "The Israeli Unfinished Constitutional Revolution: Has the Time Come for Protecting Economic and Social Rights?",
-  "authorsHtml": "Yoram Rabin; Yuval Shany",
+  "authorsHtml": "Yoram Rabin, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1017/s0021223700012504",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "sourceAuthors": [
@@ -32,7 +33,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "topics": [
@@ -56,8 +58,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

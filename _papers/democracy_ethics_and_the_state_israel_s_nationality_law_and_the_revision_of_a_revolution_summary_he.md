@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Eyal Chowers",
   "paperTitle": "Ethics and the state: Israel's nationality law and the revision of a revolution",
-  "authorsHtml": "Eyal Chowers",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/eyalc\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Chowers</a>",
   "journal": "Nations and Nationalism",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1111/nana.13000",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eyal Chowers"
+      "name": "Eyal Chowers",
+      "url": "https://english.tau.ac.il/profile/eyalc"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eyal Chowers"
+      "name": "Eyal Chowers",
+      "url": "https://english.tau.ac.il/profile/eyalc"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

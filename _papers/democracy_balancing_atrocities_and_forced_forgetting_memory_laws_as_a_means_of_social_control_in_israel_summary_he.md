@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חוקי זיכרון ושליטה חברתית בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Yifat Gutman, Noam Tirosh",
   "paperTitle": "Balancing Atrocities and Forced Forgetting: Memory Laws as a Means of Social Control in Israel",
-  "authorsHtml": "Yifat Gutman; Noam Tirosh",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4742-6004\" target=\"_blank\" rel=\"noopener noreferrer\">Yifat Gutman</a>, <a href=\"https://orcid.org/0000-0002-9930-6661\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Tirosh</a>",
   "journal": "Law & Social Inquiry",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1017/lsi.2020.35",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yifat Gutman"
+      "name": "Yifat Gutman",
+      "url": "https://orcid.org/0000-0002-4742-6004"
     },
     {
       "@type": "Person",
-      "name": "Noam Tirosh"
+      "name": "Noam Tirosh",
+      "url": "https://orcid.org/0000-0002-9930-6661"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yifat Gutman"
+      "name": "Yifat Gutman",
+      "url": "https://orcid.org/0000-0002-4742-6004"
     },
     {
       "@type": "Person",
-      "name": "Noam Tirosh"
+      "name": "Noam Tirosh",
+      "url": "https://orcid.org/0000-0002-9930-6661"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חוקי זיכרון ושליטה חברתית בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

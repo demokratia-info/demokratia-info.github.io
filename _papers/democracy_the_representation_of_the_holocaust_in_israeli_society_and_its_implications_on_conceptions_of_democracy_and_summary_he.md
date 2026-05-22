@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Irit Keynan, Noga Wolff",
   "paperTitle": "The Representation of the Holocaust in Israeli Society and Its Implications on Conceptions of Democracy and Human Rights of “Others”",
-  "authorsHtml": "Irit Keynan, Noga Wolff",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8918-0604\" target=\"_blank\" rel=\"noopener noreferrer\">Irit Keynan</a>, Noga Wolff",
   "journal": "Genealogy",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.3390/genealogy6010018",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Irit Keynan"
+      "name": "Irit Keynan",
+      "url": "https://orcid.org/0000-0002-8918-0604"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Irit Keynan"
+      "name": "Irit Keynan",
+      "url": "https://orcid.org/0000-0002-8918-0604"
     },
     {
       "@type": "Person",
@@ -54,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

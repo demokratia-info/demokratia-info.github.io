@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ayala Panievsky, Yossi David, Noam Gidron, Lior Sheffer",
   "paperTitle": "Imagined Journalists: New Framework for Studying Media–Audiences Relationship in Populist Times",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9296-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Ayala Panievsky</a>; Yossi David; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9296-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Ayala Panievsky</a>, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>, <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>",
   "journal": "The International Journal of Press/Politics",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1177/19401612241231541",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yossi David"
+      "name": "Yossi David",
+      "url": "https://www.bgu.ac.il/staffmemberslobby/davidyos/"
     },
     {
       "@type": "Person",
@@ -44,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yossi David"
+      "name": "Yossi David",
+      "url": "https://www.bgu.ac.il/staffmemberslobby/davidyos/"
     },
     {
       "@type": "Person",
@@ -80,8 +82,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: דימוי עיתונאים וקשרי קהל־תקשורת בעידן פופוליסטי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

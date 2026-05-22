@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Hilla Dayan",
   "paperTitle": "Israel Against Democracy, Part 2: Post-Elections Analysis",
-  "authorsHtml": "Hilla Dayan",
+  "authorsHtml": "<a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.37974/alf.246",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hilla Dayan"
+      "name": "Hilla Dayan",
+      "url": "https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hilla Dayan"
+      "name": "Hilla Dayan",
+      "url": "https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

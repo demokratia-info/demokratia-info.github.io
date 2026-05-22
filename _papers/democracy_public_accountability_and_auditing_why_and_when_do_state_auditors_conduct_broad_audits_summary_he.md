@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אחריותיות ציבורית וביקורת המדינה דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Dana Natan Krup, Shlomo Mizrahi",
   "paperTitle": "Public accountability and auditing: Why and when do state auditors conduct broad audits?",
-  "authorsHtml": "Dana Natan Krup; Shlomo Mizrahi",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6907-6327\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Natan Krup</a>, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>",
   "journal": "Public Administration",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1111/padm.13012",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Dana Natan Krup"
+      "name": "Dana Natan Krup",
+      "url": "https://orcid.org/0000-0001-6907-6327"
     },
     {
       "@type": "Person",
-      "name": "Shlomo Mizrahi"
+      "name": "Shlomo Mizrahi",
+      "url": "https://cris.haifa.ac.il/en/persons/shlomo-mizrahi"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Dana Natan Krup"
+      "name": "Dana Natan Krup",
+      "url": "https://orcid.org/0000-0001-6907-6327"
     },
     {
       "@type": "Person",
-      "name": "Shlomo Mizrahi"
+      "name": "Shlomo Mizrahi",
+      "url": "https://cris.haifa.ac.il/en/persons/shlomo-mizrahi"
     }
   ],
   "topics": [
@@ -55,8 +59,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אחריותיות ציבורית וביקורת המדינה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

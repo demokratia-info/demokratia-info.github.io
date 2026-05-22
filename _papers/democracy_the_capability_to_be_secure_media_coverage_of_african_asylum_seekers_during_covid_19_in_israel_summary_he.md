@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את תקשורת, דעת קהל ואחריות דמוקרטית בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Baruch Shomron",
   "paperTitle": "The Capability ‘To Be Secure’: Media Coverage of African Asylum Seekers During Covid-19 in Israel",
-  "authorsHtml": "Baruch Shomron",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3943-782X\" target=\"_blank\" rel=\"noopener noreferrer\">Baruch Shomron</a>",
   "journal": "Journal of Refugee Studies",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1093/jrs/feaa131",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Baruch Shomron"
+      "name": "Baruch Shomron",
+      "url": "https://orcid.org/0000-0002-3943-782X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Baruch Shomron"
+      "name": "Baruch Shomron",
+      "url": "https://orcid.org/0000-0002-3943-782X"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את תקשורת, דעת קהל ואחריות דמוקרטית בישראל ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

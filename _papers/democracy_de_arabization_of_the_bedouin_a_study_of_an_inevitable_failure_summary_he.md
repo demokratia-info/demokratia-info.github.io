@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Yossi Yonah, Ismael Abu-Saad, Avi Kaplan",
   "paperTitle": "De-arabization of the Bedouin: A study of an inevitable failure",
-  "authorsHtml": "Yossi Yonah; Ismael Abu-Saad; Avi Kaplan",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/yyona/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Yonah</a>, Ismael Abu-Saad, Avi Kaplan",
   "journal": "",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1007/bf02698890",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yossi Yonah"
+      "name": "Yossi Yonah",
+      "url": "https://www.bgu.ac.il/en/staffmemberslobby/yyona/"
     },
     {
       "@type": "Person",
@@ -32,7 +33,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yossi Yonah"
+      "name": "Yossi Yonah",
+      "url": "https://www.bgu.ac.il/en/staffmemberslobby/yyona/"
     },
     {
       "@type": "Person",
@@ -60,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

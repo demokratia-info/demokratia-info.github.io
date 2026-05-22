@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Mark Tessler",
   "paperTitle": "Israel’s Arab Citizens: The Continuing Struggle (1998)",
-  "authorsHtml": "Mark Tessler",
+  "authorsHtml": "<a href=\"https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Tessler</a>",
   "journal": "Religious Minorities in Non-Secular Middle Eastern and North African States",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1007/978-3-030-19843-5_15",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mark Tessler"
+      "name": "Mark Tessler",
+      "url": "https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mark Tessler"
+      "name": "Mark Tessler",
+      "url": "https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

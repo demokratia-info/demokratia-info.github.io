@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Chen Friedberg",
   "paperTitle": "Oversight by the State Control Committee in the Israeli parliament: form of accountability under stress",
-  "authorsHtml": "Chen Friedberg",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9552-1084\" target=\"_blank\" rel=\"noopener noreferrer\">Chen Friedberg</a>",
   "journal": "Israel Affairs",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1080/13537121.2013.778083",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Chen Friedberg"
+      "name": "Chen Friedberg",
+      "url": "https://orcid.org/0000-0001-9552-1084"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Chen Friedberg"
+      "name": "Chen Friedberg",
+      "url": "https://orcid.org/0000-0001-9552-1084"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Arend Lijphart, Peter James Bowman, Reuven Y. Hazan",
   "paperTitle": "Party systems and issue dimensions: Israel and thirty‐five other old and new democracies compared",
-  "authorsHtml": "Arend Lijphart, Peter James Bowman, Reuven Y. Hazan",
+  "authorsHtml": "<a href=\"https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html\" target=\"_blank\" rel=\"noopener noreferrer\">Arend Lijphart</a>, Peter James Bowman, <a href=\"https://orcid.org/0000-0003-4852-0649\" target=\"_blank\" rel=\"noopener noreferrer\">Reuven Y. Hazan</a>",
   "journal": "Israel Affairs",
   "dateText": "פורסם: 1999",
   "doiUrl": "https://doi.org/10.1080/13537129908719558",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Arend Lijphart"
+      "name": "Arend Lijphart",
+      "url": "https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html"
     },
     {
       "@type": "Person",
@@ -26,13 +27,15 @@
     },
     {
       "@type": "Person",
-      "name": "Reuven Y. Hazan"
+      "name": "Reuven Y. Hazan",
+      "url": "https://orcid.org/0000-0003-4852-0649"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Arend Lijphart"
+      "name": "Arend Lijphart",
+      "url": "https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html"
     },
     {
       "@type": "Person",
@@ -40,7 +43,8 @@
     },
     {
       "@type": "Person",
-      "name": "Reuven Y. Hazan"
+      "name": "Reuven Y. Hazan",
+      "url": "https://orcid.org/0000-0003-4852-0649"
     }
   ],
   "topics": [
@@ -62,8 +66,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

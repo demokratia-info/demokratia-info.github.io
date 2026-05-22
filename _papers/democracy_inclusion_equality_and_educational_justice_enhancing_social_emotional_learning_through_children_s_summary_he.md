@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Athar Ḥaj Yaḥya",
   "paperTitle": "Inclusion, Equality and Educational Justice: Enhancing Social-Emotional Learning through Children’s Literature in a Diverse and Segregated Society",
-  "authorsHtml": "Athar Ḥaj Yaḥya",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4895-9547\" target=\"_blank\" rel=\"noopener noreferrer\">Athar Ḥaj Yaḥya</a>",
   "journal": "The International Journal of Information Diversity & Inclusion (IJIDI)",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.33137/ijidi.v8i1.41668",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Athar Ḥaj Yaḥya"
+      "name": "Athar Ḥaj Yaḥya",
+      "url": "https://orcid.org/0000-0003-4895-9547"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Athar Ḥaj Yaḥya"
+      "name": "Athar Ḥaj Yaḥya",
+      "url": "https://orcid.org/0000-0003-4895-9547"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

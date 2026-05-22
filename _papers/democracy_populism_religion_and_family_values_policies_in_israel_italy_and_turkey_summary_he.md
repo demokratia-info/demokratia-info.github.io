@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Guy Ben‐Porat, Dani Filc, Ahmet Erdi Öztürk, Luca Ozzano",
   "paperTitle": "Populism, religion and family values policies in Israel, Italy and Turkey",
-  "authorsHtml": "Guy Ben‐Porat, <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>, Ahmet Erdi Öztürk, Luca Ozzano",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7427-355X\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben‐Porat</a>, <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>, <a href=\"https://orcid.org/0000-0003-1749-6682\" target=\"_blank\" rel=\"noopener noreferrer\">Ahmet Erdi Öztürk</a>, <a href=\"https://orcid.org/0000-0002-2675-9344\" target=\"_blank\" rel=\"noopener noreferrer\">Luca Ozzano</a>",
   "journal": "Mediterranean Politics",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1080/13629395.2021.1901484",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Guy Ben‐Porat"
+      "name": "Guy Ben‐Porat",
+      "url": "https://orcid.org/0000-0002-7427-355X"
     },
     {
       "@type": "Person",
@@ -27,17 +28,20 @@
     },
     {
       "@type": "Person",
-      "name": "Ahmet Erdi Öztürk"
+      "name": "Ahmet Erdi Öztürk",
+      "url": "https://orcid.org/0000-0003-1749-6682"
     },
     {
       "@type": "Person",
-      "name": "Luca Ozzano"
+      "name": "Luca Ozzano",
+      "url": "https://orcid.org/0000-0002-2675-9344"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Guy Ben‐Porat"
+      "name": "Guy Ben‐Porat",
+      "url": "https://orcid.org/0000-0002-7427-355X"
     },
     {
       "@type": "Person",
@@ -46,11 +50,13 @@
     },
     {
       "@type": "Person",
-      "name": "Ahmet Erdi Öztürk"
+      "name": "Ahmet Erdi Öztürk",
+      "url": "https://orcid.org/0000-0003-1749-6682"
     },
     {
       "@type": "Person",
-      "name": "Luca Ozzano"
+      "name": "Luca Ozzano",
+      "url": "https://orcid.org/0000-0002-2675-9344"
     }
   ],
   "topics": [
@@ -74,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

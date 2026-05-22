@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שרטוט מחדש של גבולות האזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Nadim N. Rouhana; Nimer Sultany",
   "paperTitle": "Redrawing the Boundaries of Citizenship: Israel's New Hegemony",
-  "authorsHtml": "Nadim N. Rouhana; Nimer Sultany",
+  "authorsHtml": "<a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>, Nimer Sultany",
   "journal": "Journal of Palestine Studies",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1525/jps.2003.33.1.5",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     },
     {
       "@type": "Person",
@@ -55,8 +57,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית שרטוט מחדש של גבולות האזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

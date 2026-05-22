@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Netta Barak-Corren, Hanna Lerner, Tirza Kelman",
   "paperTitle": "Designing Constituent Assemblies for Democracies in Peril: Theory, Methodology, and Lessons from Israel; Diseño de asambleas constituyentes para democracias en peligro: teoría, metodología y lecciones de Israel",
-  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://en.politics.tau.ac.il/profile/hannal\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>, Tirza Kelman",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://cris.tau.ac.il/en/persons/hanna-lerner/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>, Tirza Kelman",
   "journal": "Texas Digital Library (University of Texas)",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-12-31",
@@ -25,7 +25,7 @@
     {
       "@type": "Person",
       "name": "Hanna Lerner",
-      "url": "https://en.politics.tau.ac.il/profile/hannal"
+      "url": "https://cris.tau.ac.il/en/persons/hanna-lerner/"
     },
     {
       "@type": "Person",
@@ -41,7 +41,7 @@
     {
       "@type": "Person",
       "name": "Hanna Lerner",
-      "url": "https://en.politics.tau.ac.il/profile/hannal"
+      "url": "https://cris.tau.ac.il/en/persons/hanna-lerner/"
     },
     {
       "@type": "Person",
@@ -67,8 +67,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

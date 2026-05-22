@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Noah Lewin-Epstein; Moshe Semyonov",
   "paperTitle": "The Arab Minority in Israel's Economy",
-  "authorsHtml": "Noah Lewin-Epstein; Moshe Semyonov",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/noah1\" target=\"_blank\" rel=\"noopener noreferrer\">Noah Lewin-Epstein</a>, <a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>",
   "journal": "Routledge",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.4324/9780429308901",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Noah Lewin-Epstein"
+      "name": "Noah Lewin-Epstein",
+      "url": "https://english.tau.ac.il/profile/noah1"
     },
     {
       "@type": "Person",
-      "name": "Moshe Semyonov"
+      "name": "Moshe Semyonov",
+      "url": "https://people1.socsci.tau.ac.il/mu/semyonov/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Noah Lewin-Epstein"
+      "name": "Noah Lewin-Epstein",
+      "url": "https://english.tau.ac.il/profile/noah1"
     },
     {
       "@type": "Person",
-      "name": "Moshe Semyonov"
+      "name": "Moshe Semyonov",
+      "url": "https://people1.socsci.tau.ac.il/mu/semyonov/"
     }
   ],
   "topics": [
@@ -55,8 +59,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

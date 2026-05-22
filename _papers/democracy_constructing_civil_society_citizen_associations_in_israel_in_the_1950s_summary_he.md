@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Paula Kabalo",
   "paperTitle": "Constructing Civil Society: Citizen Associations in Israel in the 1950s",
-  "authorsHtml": "Paula Kabalo",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0666-0347\" target=\"_blank\" rel=\"noopener noreferrer\">Paula Kabalo</a>",
   "journal": "Nonprofit and Voluntary Sector Quarterly",
   "dateText": "פורסם: 2006",
   "doiUrl": "https://doi.org/10.1177/0899764005283434",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Paula Kabalo"
+      "name": "Paula Kabalo",
+      "url": "https://orcid.org/0000-0002-0666-0347"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Paula Kabalo"
+      "name": "Paula Kabalo",
+      "url": "https://orcid.org/0000-0002-0666-0347"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

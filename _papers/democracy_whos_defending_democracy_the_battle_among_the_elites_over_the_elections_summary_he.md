@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "עמי פדהצור",
   "paperTitle": "Who’s Defending Democracy? The Battle among the Elites over the Elections to the 16th Knesset",
-  "authorsHtml": "Ami Pedahzur",
+  "authorsHtml": "<a href=\"https://liberalarts.utexas.edu/plan2/faculty/ap2976\" target=\"_blank\" rel=\"noopener noreferrer\">Ami Pedahzur</a>",
   "journal": "The Elections in Israel—2003",
   "dateText": "פורסם: 06.02.2018",
   "doiUrl": "https://doi.org/10.4324/9781351322287-4",
@@ -24,7 +24,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ami Pedahzur"
+      "name": "Ami Pedahzur",
+      "url": "https://liberalarts.utexas.edu/plan2/faculty/ap2976"
     }
   ],
   "topics": [
@@ -45,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

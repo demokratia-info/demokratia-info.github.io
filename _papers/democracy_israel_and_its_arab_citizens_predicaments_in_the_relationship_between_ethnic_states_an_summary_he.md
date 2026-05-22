@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Nadim N. Rouhana",
   "paperTitle": "Israel and its Arab citizens: Predicaments in the relationship between ethnic states and ethnonational minorities",
-  "authorsHtml": "Nadim N. Rouhana",
+  "authorsHtml": "<a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>",
   "journal": "",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.1080/01436599814460",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Nadim N. Rouhana"
+      "name": "Nadim N. Rouhana",
+      "url": "https://fletcher.tufts.edu/academics/faculty/nadim-rouhana"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

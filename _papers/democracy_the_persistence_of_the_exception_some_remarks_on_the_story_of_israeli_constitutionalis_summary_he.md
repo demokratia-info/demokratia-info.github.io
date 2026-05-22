@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Raef Zreik",
   "paperTitle": "The Persistence of the Exception: Some Remarks on the Story of Israeli Constitutionalism",
-  "authorsHtml": "Raef Zreik",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3972-4837\" target=\"_blank\" rel=\"noopener noreferrer\">Raef Zreik</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.5040/9781350223646.ch-007",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Raef Zreik"
+      "name": "Raef Zreik",
+      "url": "https://orcid.org/0000-0002-3972-4837"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Raef Zreik"
+      "name": "Raef Zreik",
+      "url": "https://orcid.org/0000-0002-3972-4837"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

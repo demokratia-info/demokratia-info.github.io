@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "As’ad Ghanem, Ibrahim Khatib",
   "paperTitle": "The nationalisation of the Israeli ethnocratic regime and the Palestinian minority’s shrinking citizenship",
-  "authorsHtml": "As’ad Ghanem, Ibrahim Khatib",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>, <a href=\"https://orcid.org/0000-0001-7658-3511\" target=\"_blank\" rel=\"noopener noreferrer\">Ibrahim Khatib</a>",
   "journal": "Citizenship Studies",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1080/13621025.2017.1380651",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     },
     {
       "@type": "Person",
-      "name": "Ibrahim Khatib"
+      "name": "Ibrahim Khatib",
+      "url": "https://orcid.org/0000-0001-7658-3511"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "As’ad Ghanem"
+      "name": "As’ad Ghanem",
+      "url": "https://cris.haifa.ac.il/en/persons/asad-ghanem/"
     },
     {
       "@type": "Person",
-      "name": "Ibrahim Khatib"
+      "name": "Ibrahim Khatib",
+      "url": "https://orcid.org/0000-0001-7658-3511"
     }
   ],
   "topics": [
@@ -55,8 +59,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

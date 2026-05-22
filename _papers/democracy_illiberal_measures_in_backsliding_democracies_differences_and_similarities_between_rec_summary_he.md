@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Mordechai Kremnitzer, Yuval Shany",
   "paperTitle": "Illiberal Measures in Backsliding Democracies: Differences and Similarities between Recent Developments in Israel, Hungary, and Poland",
-  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, Yuval Shany",
+  "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1515/lehr-2020-2010",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "topics": [

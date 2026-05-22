@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Hassan Jabareen",
   "paperTitle": "The Paradigm of Originalism: Israeli Constitutional Law and Legal Thought",
-  "authorsHtml": "Hassan Jabareen",
+  "authorsHtml": "<a href=\"https://www.qatar.georgetown.edu/hassan-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Hassan Jabareen</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.1017/s0021223719000141",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hassan Jabareen"
+      "name": "Hassan Jabareen",
+      "url": "https://www.qatar.georgetown.edu/hassan-jabareen/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hassan Jabareen"
+      "name": "Hassan Jabareen",
+      "url": "https://www.qatar.georgetown.edu/hassan-jabareen/"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

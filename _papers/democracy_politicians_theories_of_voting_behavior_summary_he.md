@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית תאוריות של פוליטיקאים על התנהגות בוחרים דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Jack Lucas, Lior Sheffer, Peter John Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufal, Patrick Dumont, Sarah Lachance, Miguel M. Pereira, Mikael Persson, Jean‐Benoît Pilet, Anne Rasmussen, Maj-Britt Sterba, Frédéric Varone",
   "paperTitle": "Politicians’ Theories of Voting Behavior",
-  "authorsHtml": "Jack Lucas; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>; Peter John Loewen; Stefaan Walgrave; Karolin Soontjens; Eran Amsalem; Stefanie Bailer; Nathalie Brack; Christian Breunig; Pirmin Bundi; Linda Coufal; Patrick Dumont; Sarah Lachance; Miguel M. Pereira; Mikael Persson; Jean‐Benoît Pilet; Anne Rasmussen; Maj-Britt Sterba; Frédéric Varone",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3498-7267\" target=\"_blank\" rel=\"noopener noreferrer\">Jack Lucas</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>, <a href=\"https://orcid.org/0000-0003-2690-4158\" target=\"_blank\" rel=\"noopener noreferrer\">Peter John Loewen</a>, <a href=\"https://orcid.org/0000-0003-1814-1015\" target=\"_blank\" rel=\"noopener noreferrer\">Stefaan Walgrave</a>, <a href=\"https://orcid.org/0000-0002-4615-510X\" target=\"_blank\" rel=\"noopener noreferrer\">Karolin Soontjens</a>, <a href=\"https://orcid.org/0000-0002-3135-9775\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Amsalem</a>, <a href=\"https://orcid.org/0000-0002-8646-6076\" target=\"_blank\" rel=\"noopener noreferrer\">Stefanie Bailer</a>, <a href=\"https://orcid.org/0000-0003-4496-6109\" target=\"_blank\" rel=\"noopener noreferrer\">Nathalie Brack</a>, <a href=\"https://orcid.org/0000-0002-8074-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Breunig</a>, <a href=\"https://orcid.org/0000-0001-5047-072X\" target=\"_blank\" rel=\"noopener noreferrer\">Pirmin Bundi</a>, <a href=\"https://orcid.org/0000-0003-1678-8835\" target=\"_blank\" rel=\"noopener noreferrer\">Linda Coufal</a>, <a href=\"https://orcid.org/0000-0001-6124-8833\" target=\"_blank\" rel=\"noopener noreferrer\">Patrick Dumont</a>, <a href=\"https://orcid.org/0000-0001-8341-6113\" target=\"_blank\" rel=\"noopener noreferrer\">Sarah Lachance</a>, <a href=\"https://orcid.org/0000-0001-6621-9863\" target=\"_blank\" rel=\"noopener noreferrer\">Miguel M. Pereira</a>, <a href=\"https://orcid.org/0000-0002-5377-2173\" target=\"_blank\" rel=\"noopener noreferrer\">Mikael Persson</a>, <a href=\"https://orcid.org/0000-0001-5612-0835\" target=\"_blank\" rel=\"noopener noreferrer\">Jean‐Benoît Pilet</a>, <a href=\"https://orcid.org/0000-0002-9517-3929\" target=\"_blank\" rel=\"noopener noreferrer\">Anne Rasmussen</a>, <a href=\"https://orcid.org/0000-0002-4674-1694\" target=\"_blank\" rel=\"noopener noreferrer\">Maj-Britt Sterba</a>, <a href=\"https://orcid.org/0000-0002-5620-3291\" target=\"_blank\" rel=\"noopener noreferrer\">Frédéric Varone</a>",
   "journal": "American Political Science Review",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1017/s0003055424001060",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Jack Lucas"
+      "name": "Jack Lucas",
+      "url": "https://orcid.org/0000-0002-3498-7267"
     },
     {
       "@type": "Person",
@@ -27,77 +28,95 @@
     },
     {
       "@type": "Person",
-      "name": "Peter John Loewen"
+      "name": "Peter John Loewen",
+      "url": "https://orcid.org/0000-0003-2690-4158"
     },
     {
       "@type": "Person",
-      "name": "Stefaan Walgrave"
+      "name": "Stefaan Walgrave",
+      "url": "https://orcid.org/0000-0003-1814-1015"
     },
     {
       "@type": "Person",
-      "name": "Karolin Soontjens"
+      "name": "Karolin Soontjens",
+      "url": "https://orcid.org/0000-0002-4615-510X"
     },
     {
       "@type": "Person",
-      "name": "Eran Amsalem"
+      "name": "Eran Amsalem",
+      "url": "https://orcid.org/0000-0002-3135-9775"
     },
     {
       "@type": "Person",
-      "name": "Stefanie Bailer"
+      "name": "Stefanie Bailer",
+      "url": "https://orcid.org/0000-0002-8646-6076"
     },
     {
       "@type": "Person",
-      "name": "Nathalie Brack"
+      "name": "Nathalie Brack",
+      "url": "https://orcid.org/0000-0003-4496-6109"
     },
     {
       "@type": "Person",
-      "name": "Christian Breunig"
+      "name": "Christian Breunig",
+      "url": "https://orcid.org/0000-0002-8074-6712"
     },
     {
       "@type": "Person",
-      "name": "Pirmin Bundi"
+      "name": "Pirmin Bundi",
+      "url": "https://orcid.org/0000-0001-5047-072X"
     },
     {
       "@type": "Person",
-      "name": "Linda Coufal"
+      "name": "Linda Coufal",
+      "url": "https://orcid.org/0000-0003-1678-8835"
     },
     {
       "@type": "Person",
-      "name": "Patrick Dumont"
+      "name": "Patrick Dumont",
+      "url": "https://orcid.org/0000-0001-6124-8833"
     },
     {
       "@type": "Person",
-      "name": "Sarah Lachance"
+      "name": "Sarah Lachance",
+      "url": "https://orcid.org/0000-0001-8341-6113"
     },
     {
       "@type": "Person",
-      "name": "Miguel M. Pereira"
+      "name": "Miguel M. Pereira",
+      "url": "https://orcid.org/0000-0001-6621-9863"
     },
     {
       "@type": "Person",
-      "name": "Mikael Persson"
+      "name": "Mikael Persson",
+      "url": "https://orcid.org/0000-0002-5377-2173"
     },
     {
       "@type": "Person",
-      "name": "Jean‐Benoît Pilet"
+      "name": "Jean‐Benoît Pilet",
+      "url": "https://orcid.org/0000-0001-5612-0835"
     },
     {
       "@type": "Person",
-      "name": "Anne Rasmussen"
+      "name": "Anne Rasmussen",
+      "url": "https://orcid.org/0000-0002-9517-3929"
     },
     {
       "@type": "Person",
-      "name": "Maj-Britt Sterba"
+      "name": "Maj-Britt Sterba",
+      "url": "https://orcid.org/0000-0002-4674-1694"
     },
     {
       "@type": "Person",
-      "name": "Frédéric Varone"
+      "name": "Frédéric Varone",
+      "url": "https://orcid.org/0000-0002-5620-3291"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Jack Lucas"
+      "name": "Jack Lucas",
+      "url": "https://orcid.org/0000-0002-3498-7267"
     },
     {
       "@type": "Person",
@@ -106,71 +125,88 @@
     },
     {
       "@type": "Person",
-      "name": "Peter John Loewen"
+      "name": "Peter John Loewen",
+      "url": "https://orcid.org/0000-0003-2690-4158"
     },
     {
       "@type": "Person",
-      "name": "Stefaan Walgrave"
+      "name": "Stefaan Walgrave",
+      "url": "https://orcid.org/0000-0003-1814-1015"
     },
     {
       "@type": "Person",
-      "name": "Karolin Soontjens"
+      "name": "Karolin Soontjens",
+      "url": "https://orcid.org/0000-0002-4615-510X"
     },
     {
       "@type": "Person",
-      "name": "Eran Amsalem"
+      "name": "Eran Amsalem",
+      "url": "https://orcid.org/0000-0002-3135-9775"
     },
     {
       "@type": "Person",
-      "name": "Stefanie Bailer"
+      "name": "Stefanie Bailer",
+      "url": "https://orcid.org/0000-0002-8646-6076"
     },
     {
       "@type": "Person",
-      "name": "Nathalie Brack"
+      "name": "Nathalie Brack",
+      "url": "https://orcid.org/0000-0003-4496-6109"
     },
     {
       "@type": "Person",
-      "name": "Christian Breunig"
+      "name": "Christian Breunig",
+      "url": "https://orcid.org/0000-0002-8074-6712"
     },
     {
       "@type": "Person",
-      "name": "Pirmin Bundi"
+      "name": "Pirmin Bundi",
+      "url": "https://orcid.org/0000-0001-5047-072X"
     },
     {
       "@type": "Person",
-      "name": "Linda Coufal"
+      "name": "Linda Coufal",
+      "url": "https://orcid.org/0000-0003-1678-8835"
     },
     {
       "@type": "Person",
-      "name": "Patrick Dumont"
+      "name": "Patrick Dumont",
+      "url": "https://orcid.org/0000-0001-6124-8833"
     },
     {
       "@type": "Person",
-      "name": "Sarah Lachance"
+      "name": "Sarah Lachance",
+      "url": "https://orcid.org/0000-0001-8341-6113"
     },
     {
       "@type": "Person",
-      "name": "Miguel M. Pereira"
+      "name": "Miguel M. Pereira",
+      "url": "https://orcid.org/0000-0001-6621-9863"
     },
     {
       "@type": "Person",
-      "name": "Mikael Persson"
+      "name": "Mikael Persson",
+      "url": "https://orcid.org/0000-0002-5377-2173"
     },
     {
       "@type": "Person",
-      "name": "Jean‐Benoît Pilet"
+      "name": "Jean‐Benoît Pilet",
+      "url": "https://orcid.org/0000-0001-5612-0835"
     },
     {
       "@type": "Person",
-      "name": "Anne Rasmussen"
+      "name": "Anne Rasmussen",
+      "url": "https://orcid.org/0000-0002-9517-3929"
     },
     {
       "@type": "Person",
-      "name": "Maj-Britt Sterba"
+      "name": "Maj-Britt Sterba",
+      "url": "https://orcid.org/0000-0002-4674-1694"
     },
     {
       "@type": "Person",
-      "name": "Frédéric Varone"
+      "name": "Frédéric Varone",
+      "url": "https://orcid.org/0000-0002-5620-3291"
     }
   ],
   "topics": [
@@ -194,8 +230,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: תאוריות של פוליטיקאים על התנהגות בוחרים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Daniela Huber",
   "paperTitle": "Democracy Assistance in the Middle East and North Africa: A Comparison of US and EU Policies",
-  "authorsHtml": "Daniela Huber",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2318-7720\" target=\"_blank\" rel=\"noopener noreferrer\">Daniela Huber</a>",
   "journal": "Mediterranean Politics",
   "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.1080/13629390701864836",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daniela Huber"
+      "name": "Daniela Huber",
+      "url": "https://orcid.org/0000-0003-2318-7720"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daniela Huber"
+      "name": "Daniela Huber",
+      "url": "https://orcid.org/0000-0003-2318-7720"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

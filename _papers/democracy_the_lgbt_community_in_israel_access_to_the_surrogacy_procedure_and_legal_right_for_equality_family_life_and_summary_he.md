@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yael Ilany, Netta Ilany",
   "paperTitle": "The LGBT community in Israel: access to the surrogacy procedure and legal right for equality, family life and parenthood",
-  "authorsHtml": "Yael Ilany, Netta Ilany",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6111-1730\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Ilany</a>, Netta Ilany",
   "journal": "Ruch Prawniczy Ekonomiczny i Socjologiczny",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.14746/rpeis.2021.83.1.7",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yael Ilany"
+      "name": "Yael Ilany",
+      "url": "https://orcid.org/0000-0001-6111-1730"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yael Ilany"
+      "name": "Yael Ilany",
+      "url": "https://orcid.org/0000-0001-6111-1730"
     },
     {
       "@type": "Person",
@@ -55,8 +57,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

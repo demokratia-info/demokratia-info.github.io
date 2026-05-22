@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Sandra Destradi, Johannes Vüllers",
   "paperTitle": "Populism and the liberal international order: An analysis of UN voting patterns",
-  "authorsHtml": "Sandra Destradi; Johannes Vüllers",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7509-9349\" target=\"_blank\" rel=\"noopener noreferrer\">Sandra Destradi</a>, <a href=\"https://orcid.org/0000-0003-0194-6570\" target=\"_blank\" rel=\"noopener noreferrer\">Johannes Vüllers</a>",
   "journal": "The Review of International Organizations",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1007/s11558-024-09569-w",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Sandra Destradi"
+      "name": "Sandra Destradi",
+      "url": "https://orcid.org/0000-0001-7509-9349"
     },
     {
       "@type": "Person",
-      "name": "Johannes Vüllers"
+      "name": "Johannes Vüllers",
+      "url": "https://orcid.org/0000-0003-0194-6570"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Sandra Destradi"
+      "name": "Sandra Destradi",
+      "url": "https://orcid.org/0000-0001-7509-9349"
     },
     {
       "@type": "Person",
-      "name": "Johannes Vüllers"
+      "name": "Johannes Vüllers",
+      "url": "https://orcid.org/0000-0003-0194-6570"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פופוליזם והסדר הבין־לאומי הליברלי בהצבעות האו״ם מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

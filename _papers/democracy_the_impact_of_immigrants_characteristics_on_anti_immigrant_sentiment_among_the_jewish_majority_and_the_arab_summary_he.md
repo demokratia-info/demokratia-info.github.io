@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Moshe Semyonov, Rebeca Raijman, Anastasia Gorodzeisky, Thomas Hinz",
   "paperTitle": "The impact of immigrants’ characteristics on anti-immigrant sentiment among the Jewish majority and the Arab minority in Israel",
-  "authorsHtml": "Moshe Semyonov, Rebeca Raijman, Anastasia Gorodzeisky, Thomas Hinz",
+  "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>, <a href=\"https://orcid.org/0000-0002-9244-8501\" target=\"_blank\" rel=\"noopener noreferrer\">Anastasia Gorodzeisky</a>, <a href=\"https://orcid.org/0000-0002-8940-3003\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas Hinz</a>",
   "journal": "Journal of Ethnic and Migration Studies",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/1369183x.2023.2172716",
@@ -18,37 +18,45 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Moshe Semyonov"
+      "name": "Moshe Semyonov",
+      "url": "https://people1.socsci.tau.ac.il/mu/semyonov/"
     },
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     },
     {
       "@type": "Person",
-      "name": "Anastasia Gorodzeisky"
+      "name": "Anastasia Gorodzeisky",
+      "url": "https://orcid.org/0000-0002-9244-8501"
     },
     {
       "@type": "Person",
-      "name": "Thomas Hinz"
+      "name": "Thomas Hinz",
+      "url": "https://orcid.org/0000-0002-8940-3003"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Moshe Semyonov"
+      "name": "Moshe Semyonov",
+      "url": "https://people1.socsci.tau.ac.il/mu/semyonov/"
     },
     {
       "@type": "Person",
-      "name": "Rebeca Raijman"
+      "name": "Rebeca Raijman",
+      "url": "https://cris.haifa.ac.il/en/persons/rebeca-raijman/"
     },
     {
       "@type": "Person",
-      "name": "Anastasia Gorodzeisky"
+      "name": "Anastasia Gorodzeisky",
+      "url": "https://orcid.org/0000-0002-9244-8501"
     },
     {
       "@type": "Person",
-      "name": "Thomas Hinz"
+      "name": "Thomas Hinz",
+      "url": "https://orcid.org/0000-0002-8940-3003"
     }
   ],
   "topics": [
@@ -71,8 +79,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

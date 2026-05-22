@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Benjamin Gidron, Hagai Katz",
   "paperTitle": "Israel's civil society 2023 from protest to aid provision – a serving elite perspective",
-  "authorsHtml": "Benjamin Gidron, Hagai Katz",
+  "authorsHtml": "<a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>, <a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>",
   "journal": "Frontiers in Sociology",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.3389/fsoc.2024.1417687",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Benjamin Gidron"
+      "name": "Benjamin Gidron",
+      "url": "https://tzin.bgu.ac.il/~gidron/"
     },
     {
       "@type": "Person",
-      "name": "Hagai Katz"
+      "name": "Hagai Katz",
+      "url": "https://www.bgu.ac.il/en/people/katzh/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Benjamin Gidron"
+      "name": "Benjamin Gidron",
+      "url": "https://tzin.bgu.ac.il/~gidron/"
     },
     {
       "@type": "Person",
-      "name": "Hagai Katz"
+      "name": "Hagai Katz",
+      "url": "https://www.bgu.ac.il/en/people/katzh/"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

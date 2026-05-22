@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Aharon Barak",
   "paperTitle": "Judicial Review in Israel: A Comparative Perspective",
-  "authorsHtml": "Aharon Barak",
+  "authorsHtml": "<a href=\"https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&amp;nodeId=809\" target=\"_blank\" rel=\"noopener noreferrer\">Aharon Barak</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Aharon Barak"
+      "name": "Aharon Barak",
+      "url": "https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&nodeId=809"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Aharon Barak"
+      "name": "Aharon Barak",
+      "url": "https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&nodeId=809"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

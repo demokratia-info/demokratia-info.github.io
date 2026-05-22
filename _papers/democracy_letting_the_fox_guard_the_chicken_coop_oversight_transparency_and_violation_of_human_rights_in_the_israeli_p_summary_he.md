@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Tomer Einat, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, Ofer Parchev",
   "paperTitle": "Letting the fox guard the chicken coop: oversight, transparency, and violation of human rights in the Israeli Penal System",
-  "authorsHtml": "Tomer Einat, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, Ofer Parchev",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, <a href=\"https://orcid.org/0000-0003-4644-6799\" target=\"_blank\" rel=\"noopener noreferrer\">Ofer Parchev</a>",
   "journal": "Criminal Justice Studies",
   "dateText": "פורסם: 2011",
   "doiUrl": "https://doi.org/10.1080/1478601x.2011.592729",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Tomer Einat"
+      "name": "Tomer Einat",
+      "url": "https://cris.biu.ac.il/en/persons/tomer-einat/"
     },
     {
       "@type": "Person",
@@ -38,13 +39,15 @@
     },
     {
       "@type": "Person",
-      "name": "Ofer Parchev"
+      "name": "Ofer Parchev",
+      "url": "https://orcid.org/0000-0003-4644-6799"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tomer Einat"
+      "name": "Tomer Einat",
+      "url": "https://cris.biu.ac.il/en/persons/tomer-einat/"
     },
     {
       "@type": "Person",
@@ -64,7 +67,8 @@
     },
     {
       "@type": "Person",
-      "name": "Ofer Parchev"
+      "name": "Ofer Parchev",
+      "url": "https://orcid.org/0000-0003-4644-6799"
     }
   ],
   "topics": [
@@ -87,8 +91,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

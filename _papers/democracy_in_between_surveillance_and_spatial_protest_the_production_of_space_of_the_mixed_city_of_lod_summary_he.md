@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מעקב ומחאה מרחבית בעיר המעורבת לוד דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Haim Yacobi",
   "paperTitle": "In-Between Surveillance and Spatial Protest: the Production of Space of the 'Mixed City' of Lod?",
-  "authorsHtml": "Haim Yacobi",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0758-8594\" target=\"_blank\" rel=\"noopener noreferrer\">Haim Yacobi</a>",
   "journal": "Surveillance & Society",
   "dateText": "פורסם: 2002",
   "doiUrl": "https://doi.org/10.24908/ss.v2i1.3327",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Haim Yacobi"
+      "name": "Haim Yacobi",
+      "url": "https://orcid.org/0000-0002-0758-8594"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Haim Yacobi"
+      "name": "Haim Yacobi",
+      "url": "https://orcid.org/0000-0002-0758-8594"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מעקב ומחאה מרחבית בעיר המעורבת לוד מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

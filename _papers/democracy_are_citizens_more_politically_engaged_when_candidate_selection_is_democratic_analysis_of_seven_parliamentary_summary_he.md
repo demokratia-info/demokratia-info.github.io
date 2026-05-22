@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Gert-Jan Put, Yael Shomer",
   "paperTitle": "Are Citizens More Politically Engaged when Candidate Selection is Democratic? Analysis of Seven Parliamentary Election Cycles in Israel (1996–2015)",
-  "authorsHtml": "Gert-Jan Put, Yael Shomer",
+  "authorsHtml": "<a href=\"https://soc.kuleuven.be/io/personeel/staf/00056161\" target=\"_blank\" rel=\"noopener noreferrer\">Gert-Jan Put</a>, <a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>",
   "journal": "Political Research Quarterly",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1177/10659129221119203",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gert-Jan Put"
+      "name": "Gert-Jan Put",
+      "url": "https://soc.kuleuven.be/io/personeel/staf/00056161"
     },
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gert-Jan Put"
+      "name": "Gert-Jan Put",
+      "url": "https://soc.kuleuven.be/io/personeel/staf/00056161"
     },
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     }
   ],
   "topics": [
@@ -54,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav, Markus Steinbrecher",
   "paperTitle": "Citizenship Traditions and Cultures of Military Service: Patriotism and Paychecks in Five Democracies",
-  "authorsHtml": "Ronald R. Krebs; Robert Ralston; Thierry Balzacq; David Blagden; Shaul R. Shenhav; Markus Steinbrecher",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6504-060X\" target=\"_blank\" rel=\"noopener noreferrer\">Ronald R. Krebs</a>, <a href=\"https://orcid.org/0000-0002-4470-1242\" target=\"_blank\" rel=\"noopener noreferrer\">Robert Ralston</a>, <a href=\"https://orcid.org/0000-0002-4242-5088\" target=\"_blank\" rel=\"noopener noreferrer\">Thierry Balzacq</a>, <a href=\"https://orcid.org/0000-0001-6923-4946\" target=\"_blank\" rel=\"noopener noreferrer\">David Blagden</a>, <a href=\"https://orcid.org/0000-0002-8820-3579\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>, Markus Steinbrecher",
   "journal": "Armed Forces & Society",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1177/0095327x241275635",
@@ -18,23 +18,28 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ronald R. Krebs"
+      "name": "Ronald R. Krebs",
+      "url": "https://orcid.org/0000-0001-6504-060X"
     },
     {
       "@type": "Person",
-      "name": "Robert Ralston"
+      "name": "Robert Ralston",
+      "url": "https://orcid.org/0000-0002-4470-1242"
     },
     {
       "@type": "Person",
-      "name": "Thierry Balzacq"
+      "name": "Thierry Balzacq",
+      "url": "https://orcid.org/0000-0002-4242-5088"
     },
     {
       "@type": "Person",
-      "name": "David Blagden"
+      "name": "David Blagden",
+      "url": "https://orcid.org/0000-0001-6923-4946"
     },
     {
       "@type": "Person",
-      "name": "Shaul R. Shenhav"
+      "name": "Shaul R. Shenhav",
+      "url": "https://orcid.org/0000-0002-8820-3579"
     },
     {
       "@type": "Person",
@@ -44,23 +49,28 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ronald R. Krebs"
+      "name": "Ronald R. Krebs",
+      "url": "https://orcid.org/0000-0001-6504-060X"
     },
     {
       "@type": "Person",
-      "name": "Robert Ralston"
+      "name": "Robert Ralston",
+      "url": "https://orcid.org/0000-0002-4470-1242"
     },
     {
       "@type": "Person",
-      "name": "Thierry Balzacq"
+      "name": "Thierry Balzacq",
+      "url": "https://orcid.org/0000-0002-4242-5088"
     },
     {
       "@type": "Person",
-      "name": "David Blagden"
+      "name": "David Blagden",
+      "url": "https://orcid.org/0000-0001-6923-4946"
     },
     {
       "@type": "Person",
-      "name": "Shaul R. Shenhav"
+      "name": "Shaul R. Shenhav",
+      "url": "https://orcid.org/0000-0002-8820-3579"
     },
     {
       "@type": "Person",
@@ -90,8 +100,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

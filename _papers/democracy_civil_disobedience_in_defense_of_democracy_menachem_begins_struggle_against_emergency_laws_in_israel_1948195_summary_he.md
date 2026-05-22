@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Maya Mark",
   "paperTitle": "Civil Disobedience in Defense of Democracy: Menachem Begin’s Struggle Against Emergency Laws in Israel, 1948–1954",
-  "authorsHtml": "Maya Mark",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2416-5996\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Mark</a>",
   "journal": "Law and History Review",
   "dateText": "פורסם: 2026",
   "sourcePublishedDate": "2026-02-27",
@@ -19,13 +19,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Maya Mark"
+      "name": "Maya Mark",
+      "url": "https://orcid.org/0000-0003-2416-5996"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Maya Mark"
+      "name": "Maya Mark",
+      "url": "https://orcid.org/0000-0003-2416-5996"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

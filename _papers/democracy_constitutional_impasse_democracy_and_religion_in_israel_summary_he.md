@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "חנה לרנר",
   "paperTitle": "Constitutional Impasse, Democracy, and Religion in Israel",
-  "authorsHtml": "<a href=\"https://en.politics.tau.ac.il/profile/hannal\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>",
+  "authorsHtml": "<a href=\"https://cris.tau.ac.il/en/persons/hanna-lerner/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>",
   "journal": "Constitution Writing, Religion and Democracy",
   "dateText": "פורסם: 02.02.2017",
   "doiUrl": "https://doi.org/10.1017/9781107707443.011",
@@ -19,14 +19,14 @@
     {
       "@type": "Person",
       "name": "חנה לרנר",
-      "url": "https://en.politics.tau.ac.il/profile/hannal"
+      "url": "https://cris.tau.ac.il/en/persons/hanna-lerner/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
       "name": "Hanna Lerner",
-      "url": "https://en.politics.tau.ac.il/profile/hannal"
+      "url": "https://cris.tau.ac.il/en/persons/hanna-lerner/"
     }
   ],
   "topics": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

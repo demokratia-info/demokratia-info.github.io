@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yael Allweil",
   "paperTitle": "Surprising Alliances for Dwelling and Citizenship: Palestinian-Israeli Participation in the Mass Housing Protests of Summer 2011",
-  "authorsHtml": "Yael Allweil",
+  "authorsHtml": "<a href=\"https://architecture.technion.ac.il/people/yael-allweil/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Allweil</a>",
   "journal": "International Journal of Islamic Architecture",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1386/ijia.2.1.41_1",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yael Allweil"
+      "name": "Yael Allweil",
+      "url": "https://architecture.technion.ac.il/people/yael-allweil/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yael Allweil"
+      "name": "Yael Allweil",
+      "url": "https://architecture.technion.ac.il/people/yael-allweil/"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הציונות הדתית בישראל במגננה פוליטית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Tamar Hermann",
   "paperTitle": "The Religions Zionist Sector at Bay",
-  "authorsHtml": "Tamar Hermann",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7762-1054\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hermann</a>",
   "journal": "Religions",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.3390/rel13020178",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Tamar Hermann"
+      "name": "Tamar Hermann",
+      "url": "https://orcid.org/0000-0002-7762-1054"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tamar Hermann"
+      "name": "Tamar Hermann",
+      "url": "https://orcid.org/0000-0002-7762-1054"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הציונות הדתית בישראל במגננה פוליטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

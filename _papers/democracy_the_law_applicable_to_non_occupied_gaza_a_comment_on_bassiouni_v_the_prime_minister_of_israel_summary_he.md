@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הדין החל על עזה שאינה מוגדרת כשטח כבוש דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yuval Shany",
   "paperTitle": "The Law Applicable to Non-Occupied Gaza: A Comment on Bassiouni v. The Prime Minister of Israel",
-  "authorsHtml": "Yuval Shany",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1017/s0021223700000467",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית הדין החל על עזה שאינה מוגדרת כשטח כבוש דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

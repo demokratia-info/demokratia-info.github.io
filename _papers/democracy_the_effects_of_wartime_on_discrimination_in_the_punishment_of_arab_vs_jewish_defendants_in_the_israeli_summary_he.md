@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Tomer Einat, Sharon Toys",
   "paperTitle": "The Effects of Wartime on Discrimination in the Punishment of Arab vs. Jewish Defendants in the Israeli Criminal Law System",
-  "authorsHtml": "Tomer Einat; Sharon Toys",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Sharon Toys",
   "journal": "Asian Journal of Criminology",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1007/s11417-023-09395-w",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Tomer Einat"
+      "name": "Tomer Einat",
+      "url": "https://cris.biu.ac.il/en/persons/tomer-einat/"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tomer Einat"
+      "name": "Tomer Einat",
+      "url": "https://cris.biu.ac.il/en/persons/tomer-einat/"
     },
     {
       "@type": "Person",
@@ -58,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

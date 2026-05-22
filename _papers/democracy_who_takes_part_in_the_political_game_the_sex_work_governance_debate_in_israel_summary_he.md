@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Stephanie Levy-Aronovic, Yeela Lahav-Raz, Aviad E. Raz",
   "paperTitle": "Who Takes Part in the Political Game? The Sex Work Governance Debate in Israel",
-  "authorsHtml": "Stephanie Levy-Aronovic; Yeela Lahav-Raz; Aviad E. Raz",
+  "authorsHtml": "Stephanie Levy-Aronovic, <a href=\"https://orcid.org/0000-0003-1753-3375\" target=\"_blank\" rel=\"noopener noreferrer\">Yeela Lahav-Raz</a>, <a href=\"https://orcid.org/0000-0001-6268-0409\" target=\"_blank\" rel=\"noopener noreferrer\">Aviad E. Raz</a>",
   "journal": "Sexuality Research and Social Policy",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1007/s13178-020-00476-4",
@@ -22,11 +22,13 @@
     },
     {
       "@type": "Person",
-      "name": "Yeela Lahav-Raz"
+      "name": "Yeela Lahav-Raz",
+      "url": "https://orcid.org/0000-0003-1753-3375"
     },
     {
       "@type": "Person",
-      "name": "Aviad E. Raz"
+      "name": "Aviad E. Raz",
+      "url": "https://orcid.org/0000-0001-6268-0409"
     }
   ],
   "sourceAuthors": [
@@ -36,11 +38,13 @@
     },
     {
       "@type": "Person",
-      "name": "Yeela Lahav-Raz"
+      "name": "Yeela Lahav-Raz",
+      "url": "https://orcid.org/0000-0003-1753-3375"
     },
     {
       "@type": "Person",
-      "name": "Aviad E. Raz"
+      "name": "Aviad E. Raz",
+      "url": "https://orcid.org/0000-0001-6268-0409"
     }
   ],
   "topics": [
@@ -66,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מי משתתף במשחק הפוליטי? משילות עבודת המין בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

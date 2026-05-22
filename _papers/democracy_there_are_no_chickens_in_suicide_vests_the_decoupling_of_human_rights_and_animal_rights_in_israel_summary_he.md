@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Erica Weiss",
   "paperTitle": "‘There are no chickens in suicide vests’: the decoupling of human rights and animal rights in Israel",
-  "authorsHtml": "Erica Weiss",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7047-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Erica Weiss</a>",
   "journal": "Journal of the Royal Anthropological Institute",
   "dateText": "פורסם: 2016",
   "doiUrl": "https://doi.org/10.1111/1467-9655.12453",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Erica Weiss"
+      "name": "Erica Weiss",
+      "url": "https://orcid.org/0000-0002-7047-6712"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Erica Weiss"
+      "name": "Erica Weiss",
+      "url": "https://orcid.org/0000-0002-7047-6712"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

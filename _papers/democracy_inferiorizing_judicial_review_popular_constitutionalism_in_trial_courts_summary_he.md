@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ori Aronson",
   "paperTitle": "Inferiorizing Judicial Review: Popular Constitutionalism in Trial Courts",
-  "authorsHtml": "Ori Aronson",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5180-1583\" target=\"_blank\" rel=\"noopener noreferrer\">Ori Aronson</a>",
   "journal": "University of Michigan Journal of Law Reform",
   "dateText": "פורסם: 2010",
   "doiUrl": "https://doi.org/10.36646/mjlr.43.4.inferiorizing",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ori Aronson"
+      "name": "Ori Aronson",
+      "url": "https://orcid.org/0000-0002-5180-1583"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ori Aronson"
+      "name": "Ori Aronson",
+      "url": "https://orcid.org/0000-0002-5180-1583"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

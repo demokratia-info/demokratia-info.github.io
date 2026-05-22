@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "David Ellenson",
   "paperTitle": "The Supreme Court, Yeshiva Students, and Military Conscription: Judicial Review, the Grunis Dissent, and its Implications for Israeli Democracy and Law",
-  "authorsHtml": "David Ellenson",
+  "authorsHtml": "<a href=\"https://huc.edu/directory/rabbi-david-ellenson-ph-d/\" target=\"_blank\" rel=\"noopener noreferrer\">David Ellenson</a>",
   "journal": "",
   "dateText": "פורסם: 2018",
   "doiUrl": "https://doi.org/10.2979/israelstudies.23.3.24",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "David Ellenson"
+      "name": "David Ellenson",
+      "url": "https://huc.edu/directory/rabbi-david-ellenson-ph-d/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "David Ellenson"
+      "name": "David Ellenson",
+      "url": "https://huc.edu/directory/rabbi-david-ellenson-ph-d/"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

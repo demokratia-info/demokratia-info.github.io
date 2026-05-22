@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שיח אתי לאחר מלחמה והצדקת מלחמה דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Akiva Bigman, Udi Lebel",
   "paperTitle": "‘Dying Was Never a Preference’ – Post-War Ethical Discourse (PWED): Casualty Aversion and the War Legitimizing Projects",
-  "authorsHtml": "Akiva Bigman; Udi Lebel",
+  "authorsHtml": "Akiva Bigman, <a href=\"https://orcid.org/0000-0002-0964-019X\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Lebel</a>",
   "journal": "Democracy and Security",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/17419166.2023.2210469",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Udi Lebel"
+      "name": "Udi Lebel",
+      "url": "https://orcid.org/0000-0002-0964-019X"
     }
   ],
   "sourceAuthors": [
@@ -32,7 +33,8 @@
     },
     {
       "@type": "Person",
-      "name": "Udi Lebel"
+      "name": "Udi Lebel",
+      "url": "https://orcid.org/0000-0002-0964-019X"
     }
   ],
   "topics": [
@@ -55,8 +57,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: שיח אתי לאחר מלחמה והצדקת מלחמה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

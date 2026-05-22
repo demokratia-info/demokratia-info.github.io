@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ran Hirschl",
   "paperTitle": "The \"Constitutional Revolution\" and the Emergence of a New Economic Order in Israel",
-  "authorsHtml": "Ran Hirschl",
+  "authorsHtml": "<a href=\"https://www.politics.utoronto.ca/people/directories/all-faculty/ran-hirschl\" target=\"_blank\" rel=\"noopener noreferrer\">Ran Hirschl</a>",
   "journal": "Israel Studies",
   "dateText": "פורסם: 1997",
   "doiUrl": "https://doi.org/10.1353/is.2005.0066",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ran Hirschl"
+      "name": "Ran Hirschl",
+      "url": "https://www.politics.utoronto.ca/people/directories/all-faculty/ran-hirschl"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ran Hirschl"
+      "name": "Ran Hirschl",
+      "url": "https://www.politics.utoronto.ca/people/directories/all-faculty/ran-hirschl"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

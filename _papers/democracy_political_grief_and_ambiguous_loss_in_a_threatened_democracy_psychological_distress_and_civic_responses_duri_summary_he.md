@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Einat Yehene, Shay Ohayon",
   "paperTitle": "Political grief and ambiguous loss in a threatened democracy: psychological distress and civic responses during Israel’s judicial reform",
-  "authorsHtml": "Einat Yehene, Shay Ohayon",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9780-3974\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Yehene</a>, <a href=\"https://orcid.org/0000-0001-8417-9121\" target=\"_blank\" rel=\"noopener noreferrer\">Shay Ohayon</a>",
   "journal": "Frontiers in Psychiatry",
   "dateText": "פורסם: 2026",
   "sourcePublishedDate": "2026-01-12",
@@ -19,21 +19,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Einat Yehene"
+      "name": "Einat Yehene",
+      "url": "https://orcid.org/0000-0001-9780-3974"
     },
     {
       "@type": "Person",
-      "name": "Shay Ohayon"
+      "name": "Shay Ohayon",
+      "url": "https://orcid.org/0000-0001-8417-9121"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Einat Yehene"
+      "name": "Einat Yehene",
+      "url": "https://orcid.org/0000-0001-9780-3974"
     },
     {
       "@type": "Person",
-      "name": "Shay Ohayon"
+      "name": "Shay Ohayon",
+      "url": "https://orcid.org/0000-0001-8417-9121"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

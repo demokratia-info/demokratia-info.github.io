@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Daphne Barak-Erez",
   "paperTitle": "Israeli Administrative Law at the Crossroads: Between the English Model and the American Model",
-  "authorsHtml": "Daphne Barak-Erez",
+  "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak-Erez</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2007",
   "doiUrl": "https://doi.org/10.1017/s002122370001325x",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daphne Barak-Erez"
+      "name": "Daphne Barak-Erez",
+      "url": "https://www.tau.ac.il/law/barakerez/"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "sections": [
     {

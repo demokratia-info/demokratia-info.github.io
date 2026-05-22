@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הגנה עצמית דמוקרטית של בתי משפט חוקתיים דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Pablo José Castillo Ortiz, Yaniv Roznai",
   "paperTitle": "The Democratic Self-Defence of Constitutional Courts",
-  "authorsHtml": "Pablo José Castillo Ortiz; <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4540-1855\" target=\"_blank\" rel=\"noopener noreferrer\">Pablo José Castillo Ortiz</a>, <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
   "journal": "ICL Journal",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1515/icl-2024-0001",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Pablo José Castillo Ortiz"
+      "name": "Pablo José Castillo Ortiz",
+      "url": "https://orcid.org/0000-0003-4540-1855"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Pablo José Castillo Ortiz"
+      "name": "Pablo José Castillo Ortiz",
+      "url": "https://orcid.org/0000-0003-4540-1855"
     },
     {
       "@type": "Person",
@@ -58,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הגנה עצמית דמוקרטית של בתי משפט חוקתיים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

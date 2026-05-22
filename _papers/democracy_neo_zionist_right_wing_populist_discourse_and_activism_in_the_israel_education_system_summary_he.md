@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Halleli Pinson",
   "paperTitle": "Neo Zionist right-wing populist discourse and activism in the Israel education system",
-  "authorsHtml": "Halleli Pinson",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/halleli/\" target=\"_blank\" rel=\"noopener noreferrer\">Halleli Pinson</a>",
   "journal": "Globalisation Societies and Education",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1080/14767724.2021.1872372",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Halleli Pinson"
+      "name": "Halleli Pinson",
+      "url": "https://www.bgu.ac.il/en/people/halleli/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Halleli Pinson"
+      "name": "Halleli Pinson",
+      "url": "https://www.bgu.ac.il/en/people/halleli/"
     }
   ],
   "topics": [
@@ -47,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני ומראה מדוע הדיון קשור לנסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ayman K. Agbaria, Revital Katz-Pade",
   "paperTitle": "Human Rights Education in Israel: Four Types of Good Citizenship",
-  "authorsHtml": "Ayman K. Agbaria, Revital Katz-Pade",
+  "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>, Revital Katz-Pade",
   "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.4119/unibi/jsse-v15-i2-1455",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     },
     {
       "@type": "Person",
@@ -55,8 +57,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

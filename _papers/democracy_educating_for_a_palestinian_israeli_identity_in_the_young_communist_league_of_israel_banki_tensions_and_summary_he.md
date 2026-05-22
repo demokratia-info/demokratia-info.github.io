@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חינוך לזהות פלסטינית־ישראלית בבנק״י דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Imad Jaraisy, Ayman K. Agbaria",
   "paperTitle": "Educating for a Palestinian-Israeli identity in the Young Communist League of Israel (Banki): Tensions and challenges",
-  "authorsHtml": "Imad Jaraisy; Ayman K. Agbaria",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5425-4872\" target=\"_blank\" rel=\"noopener noreferrer\">Imad Jaraisy</a>, <a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>",
   "journal": "Diaspora Indigenous and Minority Education",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1080/15595692.2023.2173169",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Imad Jaraisy"
+      "name": "Imad Jaraisy",
+      "url": "https://orcid.org/0000-0001-5425-4872"
     },
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Imad Jaraisy"
+      "name": "Imad Jaraisy",
+      "url": "https://orcid.org/0000-0001-5425-4872"
     },
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חינוך לזהות פלסטינית־ישראלית בבנק״י מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

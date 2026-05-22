@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yuval Shany",
   "paperTitle": "Forty Years after 1967: Reappraising the Role and Limits of the Legal Discourse on Occupation in the Israeli-Palestinian Context",
-  "authorsHtml": "Yuval Shany",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.1017/s0021223700000169",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yuval Shany"
+      "name": "Yuval Shany",
+      "url": "https://en.law.huji.ac.il/people/yuval-shany"
     }
   ],
   "topics": [
@@ -49,8 +51,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

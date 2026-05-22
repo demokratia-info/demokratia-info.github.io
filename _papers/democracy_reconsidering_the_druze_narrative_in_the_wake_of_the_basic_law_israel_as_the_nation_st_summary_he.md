@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Rami Zeedan",
   "paperTitle": "Reconsidering the Druze Narrative in the Wake of the Basic Law: Israel as the Nation-State of the Jewish People",
-  "authorsHtml": "Rami Zeedan",
+  "authorsHtml": "<a href=\"https://kujewishstudies.ku.edu/people/rami-zeedan\" target=\"_blank\" rel=\"noopener noreferrer\">Rami Zeedan</a>",
   "journal": "",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.14",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Rami Zeedan"
+      "name": "Rami Zeedan",
+      "url": "https://kujewishstudies.ku.edu/people/rami-zeedan"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Rami Zeedan"
+      "name": "Rami Zeedan",
+      "url": "https://kujewishstudies.ku.edu/people/rami-zeedan"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, ומראה מדוע הדיון בנושא קשור לזהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות אדם בזמן טרור מנקודת מבט שיפוטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Aharon Barak",
   "paperTitle": "Human rights in times of terror – a judicial point of view",
-  "authorsHtml": "Aharon Barak",
+  "authorsHtml": "<a href=\"https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&amp;nodeId=809\" target=\"_blank\" rel=\"noopener noreferrer\">Aharon Barak</a>",
   "journal": "Legal Studies",
   "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.1111/j.1748-121x.2008.00096.x",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Aharon Barak"
+      "name": "Aharon Barak",
+      "url": "https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&nodeId=809"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Aharon Barak"
+      "name": "Aharon Barak",
+      "url": "https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&nodeId=809"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: זכויות אדם בזמן טרור מנקודת מבט שיפוטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

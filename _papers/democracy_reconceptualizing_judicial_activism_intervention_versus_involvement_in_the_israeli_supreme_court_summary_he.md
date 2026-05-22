@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Keren Weinshall",
   "paperTitle": "Reconceptualizing Judicial Activism: Intervention Versus Involvement in the Israeli Supreme Court",
-  "authorsHtml": "Keren Weinshall",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/keren-weinshall-margel\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall</a>",
   "journal": "Journal of law & empirical analysis.",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1177/2755323x241272140",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Keren Weinshall"
+      "name": "Keren Weinshall",
+      "url": "https://en.law.huji.ac.il/people/keren-weinshall-margel"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Keren Weinshall"
+      "name": "Keren Weinshall",
+      "url": "https://en.law.huji.ac.il/people/keren-weinshall-margel"
     }
   ],
   "topics": [
@@ -46,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Maayan Ravid",
   "paperTitle": "Making Their Lives Miserable: Structural Violence and State Racism towards Asylum Seekers from Sudan and Eritrea in Israel",
-  "authorsHtml": "Maayan Ravid",
+  "authorsHtml": "<a href=\"https://www.law.ox.ac.uk/people/maayan-ravid-0\" target=\"_blank\" rel=\"noopener noreferrer\">Maayan Ravid</a>",
   "journal": "State Crime Journal",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.13169/statecrime.11.1.0128",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Maayan Ravid"
+      "name": "Maayan Ravid",
+      "url": "https://www.law.ox.ac.uk/people/maayan-ravid-0"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Maayan Ravid"
+      "name": "Maayan Ravid",
+      "url": "https://www.law.ox.ac.uk/people/maayan-ravid-0"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

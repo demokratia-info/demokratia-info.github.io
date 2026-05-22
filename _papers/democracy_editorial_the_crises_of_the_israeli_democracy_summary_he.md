@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Yael Shomer, Eitan Tzelgov, Roi Zur",
   "paperTitle": "Editorial: The crises of the Israeli democracy",
-  "authorsHtml": "Yael Shomer; Eitan Tzelgov; Roi Zur",
+  "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, Eitan Tzelgov, Roi Zur",
   "journal": "",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-07-14",
@@ -19,7 +19,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     },
     {
       "@type": "Person",
@@ -33,7 +34,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yael Shomer"
+      "name": "Yael Shomer",
+      "url": "https://people.socsci.tau.ac.il/mu/yshomer/"
     },
     {
       "@type": "Person",
@@ -61,8 +63,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

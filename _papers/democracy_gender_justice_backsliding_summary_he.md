@@ -26,7 +26,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Reut Itzkovitch-Malka"
+      "name": "Reut Itzkovitch-Malka",
+      "url": "https://www.openu.ac.il/en/personalsites/drreutitzkovitchmalka.aspx"
     }
   ],
   "topics": [
@@ -46,8 +47,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר מציע לראות בפגיעה בצדק מגדרי לא נושא צדדי, אלא אחד המקומות שבהם נסיגה דמוקרטית נעשית מוחשית במיוחד. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "sections": [
     {

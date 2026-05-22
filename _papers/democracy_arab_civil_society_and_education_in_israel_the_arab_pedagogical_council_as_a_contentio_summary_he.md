@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Ayman K. Agbaria",
   "paperTitle": "Arab civil society and education in Israel: the Arab Pedagogical Council as a contentious performance to achieve national recognition",
-  "authorsHtml": "Ayman K. Agbaria",
+  "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>",
   "journal": "",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1080/13613324.2012.759930",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ayman K. Agbaria"
+      "name": "Ayman K. Agbaria",
+      "url": "https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

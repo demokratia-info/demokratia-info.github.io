@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Alexandra Flores, Jennifer C. Cole, Stephan Dickert, Kimin Eom, Gabriela M. Jiga‐Boy, Tehila Kogut, Riley Loria, Marcus Mayorga, Eric J. Pedersen, Beatriz Pereira, Enrico Rubaltelli, David K. Sherman, Paul Slovic, Daniel Västfjäll, Leaf Van Boven",
   "paperTitle": "Politicians polarize and experts depolarize public support for COVID-19 management policies across countries",
-  "authorsHtml": "Alexandra Flores; Jennifer C. Cole; Stephan Dickert; Kimin Eom; Gabriela M. Jiga‐Boy; Tehila Kogut; Riley Loria; Marcus Mayorga; Eric J. Pedersen; Beatriz Pereira; Enrico Rubaltelli; David K. Sherman; Paul Slovic; Daniel Västfjäll; Leaf Van Boven",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0599-7239\" target=\"_blank\" rel=\"noopener noreferrer\">Alexandra Flores</a>, <a href=\"https://orcid.org/0000-0001-7419-0597\" target=\"_blank\" rel=\"noopener noreferrer\">Jennifer C. Cole</a>, <a href=\"https://orcid.org/0000-0002-8554-4626\" target=\"_blank\" rel=\"noopener noreferrer\">Stephan Dickert</a>, <a href=\"https://orcid.org/0000-0002-6606-1477\" target=\"_blank\" rel=\"noopener noreferrer\">Kimin Eom</a>, <a href=\"https://orcid.org/0000-0003-3163-8798\" target=\"_blank\" rel=\"noopener noreferrer\">Gabriela M. Jiga‐Boy</a>, <a href=\"https://orcid.org/0000-0001-8652-5112\" target=\"_blank\" rel=\"noopener noreferrer\">Tehila Kogut</a>, Riley Loria, <a href=\"https://orcid.org/0000-0001-5471-0655\" target=\"_blank\" rel=\"noopener noreferrer\">Marcus Mayorga</a>, <a href=\"https://orcid.org/0000-0003-4692-0577\" target=\"_blank\" rel=\"noopener noreferrer\">Eric J. Pedersen</a>, <a href=\"https://orcid.org/0000-0002-1091-0943\" target=\"_blank\" rel=\"noopener noreferrer\">Beatriz Pereira</a>, <a href=\"https://orcid.org/0000-0002-7521-755X\" target=\"_blank\" rel=\"noopener noreferrer\">Enrico Rubaltelli</a>, <a href=\"https://orcid.org/0000-0003-4423-862X\" target=\"_blank\" rel=\"noopener noreferrer\">David K. Sherman</a>, <a href=\"https://orcid.org/0000-0002-7473-6403\" target=\"_blank\" rel=\"noopener noreferrer\">Paul Slovic</a>, <a href=\"https://orcid.org/0000-0003-2873-4500\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Västfjäll</a>, <a href=\"https://orcid.org/0000-0003-4187-8779\" target=\"_blank\" rel=\"noopener noreferrer\">Leaf Van Boven</a>",
   "journal": "Proceedings of the National Academy of Sciences",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1073/pnas.2117543119",
@@ -18,27 +18,33 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Alexandra Flores"
+      "name": "Alexandra Flores",
+      "url": "https://orcid.org/0000-0002-0599-7239"
     },
     {
       "@type": "Person",
-      "name": "Jennifer C. Cole"
+      "name": "Jennifer C. Cole",
+      "url": "https://orcid.org/0000-0001-7419-0597"
     },
     {
       "@type": "Person",
-      "name": "Stephan Dickert"
+      "name": "Stephan Dickert",
+      "url": "https://orcid.org/0000-0002-8554-4626"
     },
     {
       "@type": "Person",
-      "name": "Kimin Eom"
+      "name": "Kimin Eom",
+      "url": "https://orcid.org/0000-0002-6606-1477"
     },
     {
       "@type": "Person",
-      "name": "Gabriela M. Jiga‐Boy"
+      "name": "Gabriela M. Jiga‐Boy",
+      "url": "https://orcid.org/0000-0003-3163-8798"
     },
     {
       "@type": "Person",
-      "name": "Tehila Kogut"
+      "name": "Tehila Kogut",
+      "url": "https://orcid.org/0000-0001-8652-5112"
     },
     {
       "@type": "Person",
@@ -46,61 +52,75 @@
     },
     {
       "@type": "Person",
-      "name": "Marcus Mayorga"
+      "name": "Marcus Mayorga",
+      "url": "https://orcid.org/0000-0001-5471-0655"
     },
     {
       "@type": "Person",
-      "name": "Eric J. Pedersen"
+      "name": "Eric J. Pedersen",
+      "url": "https://orcid.org/0000-0003-4692-0577"
     },
     {
       "@type": "Person",
-      "name": "Beatriz Pereira"
+      "name": "Beatriz Pereira",
+      "url": "https://orcid.org/0000-0002-1091-0943"
     },
     {
       "@type": "Person",
-      "name": "Enrico Rubaltelli"
+      "name": "Enrico Rubaltelli",
+      "url": "https://orcid.org/0000-0002-7521-755X"
     },
     {
       "@type": "Person",
-      "name": "David K. Sherman"
+      "name": "David K. Sherman",
+      "url": "https://orcid.org/0000-0003-4423-862X"
     },
     {
       "@type": "Person",
-      "name": "Paul Slovic"
+      "name": "Paul Slovic",
+      "url": "https://orcid.org/0000-0002-7473-6403"
     },
     {
       "@type": "Person",
-      "name": "Daniel Västfjäll"
+      "name": "Daniel Västfjäll",
+      "url": "https://orcid.org/0000-0003-2873-4500"
     },
     {
       "@type": "Person",
-      "name": "Leaf Van Boven"
+      "name": "Leaf Van Boven",
+      "url": "https://orcid.org/0000-0003-4187-8779"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Alexandra Flores"
+      "name": "Alexandra Flores",
+      "url": "https://orcid.org/0000-0002-0599-7239"
     },
     {
       "@type": "Person",
-      "name": "Jennifer C. Cole"
+      "name": "Jennifer C. Cole",
+      "url": "https://orcid.org/0000-0001-7419-0597"
     },
     {
       "@type": "Person",
-      "name": "Stephan Dickert"
+      "name": "Stephan Dickert",
+      "url": "https://orcid.org/0000-0002-8554-4626"
     },
     {
       "@type": "Person",
-      "name": "Kimin Eom"
+      "name": "Kimin Eom",
+      "url": "https://orcid.org/0000-0002-6606-1477"
     },
     {
       "@type": "Person",
-      "name": "Gabriela M. Jiga‐Boy"
+      "name": "Gabriela M. Jiga‐Boy",
+      "url": "https://orcid.org/0000-0003-3163-8798"
     },
     {
       "@type": "Person",
-      "name": "Tehila Kogut"
+      "name": "Tehila Kogut",
+      "url": "https://orcid.org/0000-0001-8652-5112"
     },
     {
       "@type": "Person",
@@ -108,35 +128,43 @@
     },
     {
       "@type": "Person",
-      "name": "Marcus Mayorga"
+      "name": "Marcus Mayorga",
+      "url": "https://orcid.org/0000-0001-5471-0655"
     },
     {
       "@type": "Person",
-      "name": "Eric J. Pedersen"
+      "name": "Eric J. Pedersen",
+      "url": "https://orcid.org/0000-0003-4692-0577"
     },
     {
       "@type": "Person",
-      "name": "Beatriz Pereira"
+      "name": "Beatriz Pereira",
+      "url": "https://orcid.org/0000-0002-1091-0943"
     },
     {
       "@type": "Person",
-      "name": "Enrico Rubaltelli"
+      "name": "Enrico Rubaltelli",
+      "url": "https://orcid.org/0000-0002-7521-755X"
     },
     {
       "@type": "Person",
-      "name": "David K. Sherman"
+      "name": "David K. Sherman",
+      "url": "https://orcid.org/0000-0003-4423-862X"
     },
     {
       "@type": "Person",
-      "name": "Paul Slovic"
+      "name": "Paul Slovic",
+      "url": "https://orcid.org/0000-0002-7473-6403"
     },
     {
       "@type": "Person",
-      "name": "Daniel Västfjäll"
+      "name": "Daniel Västfjäll",
+      "url": "https://orcid.org/0000-0003-2873-4500"
     },
     {
       "@type": "Person",
-      "name": "Leaf Van Boven"
+      "name": "Leaf Van Boven",
+      "url": "https://orcid.org/0000-0003-4187-8779"
     }
   ],
   "topics": [
@@ -160,8 +188,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פוליטיקאים, מומחים ותמיכה ציבורית במדיניות קורונה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

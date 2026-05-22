@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Friederike Stock, Yiftach Ron",
   "paperTitle": "Issues of integration, language and identity among Palestinian students at an Israeli “Hebrew‐speaking” University",
-  "authorsHtml": "Friederike Stock; Yiftach Ron",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4182-3778\" target=\"_blank\" rel=\"noopener noreferrer\">Friederike Stock</a>, <a href=\"https://orcid.org/0000-0002-1790-5127\" target=\"_blank\" rel=\"noopener noreferrer\">Yiftach Ron</a>",
   "journal": "Conflict Resolution Quarterly",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1002/crq.21400",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Friederike Stock"
+      "name": "Friederike Stock",
+      "url": "https://orcid.org/0000-0003-4182-3778"
     },
     {
       "@type": "Person",
-      "name": "Yiftach Ron"
+      "name": "Yiftach Ron",
+      "url": "https://orcid.org/0000-0002-1790-5127"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Friederike Stock"
+      "name": "Friederike Stock",
+      "url": "https://orcid.org/0000-0003-4182-3778"
     },
     {
       "@type": "Person",
-      "name": "Yiftach Ron"
+      "name": "Yiftach Ron",
+      "url": "https://orcid.org/0000-0002-1790-5127"
     }
   ],
   "topics": [
@@ -58,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

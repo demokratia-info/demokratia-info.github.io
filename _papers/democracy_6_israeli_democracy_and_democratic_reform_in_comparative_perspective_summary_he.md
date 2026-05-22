@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Arend Lijphart",
   "paperTitle": "Israeli Democracy and Democratic Reform in Comparative Perspective",
-  "authorsHtml": "Arend Lijphart",
+  "authorsHtml": "<a href=\"https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html\" target=\"_blank\" rel=\"noopener noreferrer\">Arend Lijphart</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1515/9781685856465-007",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Arend Lijphart"
+      "name": "Arend Lijphart",
+      "url": "https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Arend Lijphart"
+      "name": "Arend Lijphart",
+      "url": "https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html"
     }
   ],
   "topics": [
@@ -44,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

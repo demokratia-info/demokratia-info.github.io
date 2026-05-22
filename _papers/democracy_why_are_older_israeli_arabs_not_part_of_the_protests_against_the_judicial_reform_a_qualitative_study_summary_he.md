@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מבוגרים ערבים והמחאה נגד הרפורמה המשפטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Hanan AboJabel, Liat Ayalon",
   "paperTitle": "Why are Older Israeli Arabs not Part of the Protests Against the Judicial Reform? A Qualitative Study",
-  "authorsHtml": "Hanan AboJabel; Liat Ayalon",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8236-717X\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan AboJabel</a>, <a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>",
   "journal": "Journal of Aging & Social Policy",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1080/08959420.2024.2349489",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hanan AboJabel"
+      "name": "Hanan AboJabel",
+      "url": "https://orcid.org/0000-0001-8236-717X"
     },
     {
       "@type": "Person",
-      "name": "Liat Ayalon"
+      "name": "Liat Ayalon",
+      "url": "https://social-work.biu.ac.il/en/Ayalon_Liat_En"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hanan AboJabel"
+      "name": "Hanan AboJabel",
+      "url": "https://orcid.org/0000-0001-8236-717X"
     },
     {
       "@type": "Person",
-      "name": "Liat Ayalon"
+      "name": "Liat Ayalon",
+      "url": "https://social-work.biu.ac.il/en/Ayalon_Liat_En"
     }
   ],
   "topics": [
@@ -59,8 +63,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מבוגרים ערבים והמחאה נגד הרפורמה המשפטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

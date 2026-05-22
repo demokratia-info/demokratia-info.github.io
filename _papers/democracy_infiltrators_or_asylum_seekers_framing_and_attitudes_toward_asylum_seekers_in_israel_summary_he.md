@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Oshrat Hochman",
   "paperTitle": "Infiltrators or Asylum Seekers? Framing and Attitudes Toward Asylum Seekers in Israel",
-  "authorsHtml": "Oshrat Hochman",
+  "authorsHtml": "<a href=\"https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman\" target=\"_blank\" rel=\"noopener noreferrer\">Oshrat Hochman</a>",
   "journal": "Journal of Immigrant & Refugee Studies",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.1080/15562948.2014.982779",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Oshrat Hochman"
+      "name": "Oshrat Hochman",
+      "url": "https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Oshrat Hochman"
+      "name": "Oshrat Hochman",
+      "url": "https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

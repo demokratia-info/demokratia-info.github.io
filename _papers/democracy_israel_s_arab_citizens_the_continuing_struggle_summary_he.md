@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Mark Tessler, Audra Grant",
   "paperTitle": "Israel's Arab Citizens: The Continuing Struggle",
-  "authorsHtml": "Mark Tessler; Audra Grant",
+  "authorsHtml": "<a href=\"https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Tessler</a>, Audra Grant",
   "journal": "",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.1177/0002716298555001007",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mark Tessler"
+      "name": "Mark Tessler",
+      "url": "https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mark Tessler"
+      "name": "Mark Tessler",
+      "url": "https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html"
     },
     {
       "@type": "Person",
@@ -52,8 +54,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

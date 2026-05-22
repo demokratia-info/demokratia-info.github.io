@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Erella Grassiani, Nir Gazit",
   "paperTitle": "Civilian ‘soft’ militarism through informal education in Israel: learning to protect and connect to the land",
-  "authorsHtml": "Erella Grassiani; Nir Gazit",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0722-400X\" target=\"_blank\" rel=\"noopener noreferrer\">Erella Grassiani</a>, <a href=\"https://orcid.org/0000-0002-8807-6530\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Gazit</a>",
   "journal": "Critical Military Studies",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1080/23337486.2024.2349365",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Erella Grassiani"
+      "name": "Erella Grassiani",
+      "url": "https://orcid.org/0000-0003-0722-400X"
     },
     {
       "@type": "Person",
-      "name": "Nir Gazit"
+      "name": "Nir Gazit",
+      "url": "https://orcid.org/0000-0002-8807-6530"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Erella Grassiani"
+      "name": "Erella Grassiani",
+      "url": "https://orcid.org/0000-0003-0722-400X"
     },
     {
       "@type": "Person",
-      "name": "Nir Gazit"
+      "name": "Nir Gazit",
+      "url": "https://orcid.org/0000-0002-8807-6530"
     }
   ],
   "topics": [
@@ -56,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

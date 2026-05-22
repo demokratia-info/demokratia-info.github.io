@@ -9,7 +9,7 @@
   "summaryHe": "המאמר של עזרא קופלוביץ ויעל ישראל־שמסיאן שואל מדוע בישראל לא התפתחה מסורת חזקה של סוציולוגיה של דת, למרות מרכזיות הדת בחיים הציבוריים. מבחינה דמוקרטית, זו שאלה על ידע ציבורי: אילו תופעות מקבלות שפה מחקרית, אילו נשארות מחוץ למסגרת, וכיצד סכסוכים לאומיים ודתיים משפיעים על מה שהחברה מסוגלת להבין על עצמה. לכן המאמר רלוונטי למי שחושב על דת ומדינה גם דרך מוסדות ידע ואקדמיה.",
   "authorsCardHe": "Ezra Kopelowitz, Yael Israel-Shamsian",
   "paperTitle": "Why Has a Sociology of Religion Not Developed in Israel? A Look at the Influence of Socio-Political Environment on the Study of Religion: A Research Note",
-  "authorsHtml": "Ezra Kopelowitz, Yael Israel-Shamsian",
+  "authorsHtml": "<a href=\"https://ekopelowitz.wixsite.com/researchsuccess/about-us\" target=\"_blank\" rel=\"noopener noreferrer\">Ezra Kopelowitz</a>, Yael Israel-Shamsian",
   "journal": "Sociology of Religion",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.2307/4153117",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ezra Kopelowitz"
+      "name": "Ezra Kopelowitz",
+      "url": "https://ekopelowitz.wixsite.com/researchsuccess/about-us"
     },
     {
       "@type": "Person",
@@ -27,7 +28,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ezra Kopelowitz"
+      "name": "Ezra Kopelowitz",
+      "url": "https://ekopelowitz.wixsite.com/researchsuccess/about-us"
     },
     {
       "@type": "Person",

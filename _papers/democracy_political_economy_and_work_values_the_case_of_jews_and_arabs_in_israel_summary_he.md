@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Moshe Sharabi",
   "paperTitle": "Political economy and work values: the case of Jews and Arabs in Israel",
-  "authorsHtml": "Moshe Sharabi",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8570-8769\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Sharabi</a>",
   "journal": "Israel Affairs",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1080/13537121.2014.955655",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Moshe Sharabi"
+      "name": "Moshe Sharabi",
+      "url": "https://orcid.org/0000-0001-8570-8769"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Moshe Sharabi"
+      "name": "Moshe Sharabi",
+      "url": "https://orcid.org/0000-0001-8570-8769"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

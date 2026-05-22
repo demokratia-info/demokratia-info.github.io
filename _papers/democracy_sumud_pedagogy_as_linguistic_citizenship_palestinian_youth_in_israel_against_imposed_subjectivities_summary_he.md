@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Muzna Awayed‐Bishara",
   "paperTitle": "Sumud pedagogy as linguistic citizenship: Palestinian youth in Israel against imposed subjectivities",
-  "authorsHtml": "Muzna Awayed‐Bishara",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4092-3582\" target=\"_blank\" rel=\"noopener noreferrer\">Muzna Awayed‐Bishara</a>",
   "journal": "Language in Society",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1017/s0047404523000891",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Muzna Awayed‐Bishara"
+      "name": "Muzna Awayed‐Bishara",
+      "url": "https://orcid.org/0000-0003-4092-3582"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Muzna Awayed‐Bishara"
+      "name": "Muzna Awayed‐Bishara",
+      "url": "https://orcid.org/0000-0003-4092-3582"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: פדגוגיית סומוד כאזרחות לשונית של נוער פלסטיני בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

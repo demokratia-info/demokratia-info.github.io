@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חוק השבות ויצירת סדר משפטי אחד בפלסטין דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Hassan Jabareen",
   "paperTitle": "How the Law of Return Creates One Legal Order in Palestine",
-  "authorsHtml": "Hassan Jabareen",
+  "authorsHtml": "<a href=\"https://www.qatar.georgetown.edu/hassan-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Hassan Jabareen</a>",
   "journal": "Theoretical Inquiries in Law",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1515/til-2020-0021",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hassan Jabareen"
+      "name": "Hassan Jabareen",
+      "url": "https://www.qatar.georgetown.edu/hassan-jabareen/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hassan Jabareen"
+      "name": "Hassan Jabareen",
+      "url": "https://www.qatar.georgetown.edu/hassan-jabareen/"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חוק השבות ויצירת סדר משפטי אחד בפלסטין מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

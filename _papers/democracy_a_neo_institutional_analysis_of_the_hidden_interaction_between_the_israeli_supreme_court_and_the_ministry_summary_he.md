@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Daniel Sperling, Nissim Cohen",
   "paperTitle": "A neo-institutional analysis of the hidden interaction between the Israeli Supreme Court and the Ministry of Finance: the right to healthcare services",
-  "authorsHtml": "Daniel Sperling, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4371-7736\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Sperling</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",
   "journal": "Israel Journal of Health Policy Research",
   "dateText": "פורסם: 2018",
   "doiUrl": "https://doi.org/10.1186/s13584-018-0261-9",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daniel Sperling"
+      "name": "Daniel Sperling",
+      "url": "https://orcid.org/0000-0002-4371-7736"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daniel Sperling"
+      "name": "Daniel Sperling",
+      "url": "https://orcid.org/0000-0002-4371-7736"
     },
     {
       "@type": "Person",

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Moshe Maor, Sharon Gilad, Pazit Ben‐Nun Bloom",
   "paperTitle": "Organizational Reputation, Regulatory Talk, and Strategic Silence",
-  "authorsHtml": "Moshe Maor; <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>; Pazit Ben‐Nun Bloom",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0411-2977\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Maor</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://politics.huji.ac.il/people/pazit-ben-nun-bloom\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>",
   "journal": "Journal of Public Administration Research and Theory",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.1093/jopart/mus047",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Moshe Maor"
+      "name": "Moshe Maor",
+      "url": "https://orcid.org/0000-0003-0411-2977"
     },
     {
       "@type": "Person",
@@ -27,13 +28,15 @@
     },
     {
       "@type": "Person",
-      "name": "Pazit Ben‐Nun Bloom"
+      "name": "Pazit Ben‐Nun Bloom",
+      "url": "https://politics.huji.ac.il/people/pazit-ben-nun-bloom"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Moshe Maor"
+      "name": "Moshe Maor",
+      "url": "https://orcid.org/0000-0003-0411-2977"
     },
     {
       "@type": "Person",
@@ -42,7 +45,8 @@
     },
     {
       "@type": "Person",
-      "name": "Pazit Ben‐Nun Bloom"
+      "name": "Pazit Ben‐Nun Bloom",
+      "url": "https://politics.huji.ac.il/people/pazit-ben-nun-bloom"
     }
   ],
   "topics": [
@@ -66,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

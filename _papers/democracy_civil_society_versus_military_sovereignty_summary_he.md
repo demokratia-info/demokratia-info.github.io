@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חברה אזרחית מול ריבונות צבאית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Udi Lebel",
   "paperTitle": "Civil Society versus Military Sovereignty",
-  "authorsHtml": "Udi Lebel",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0964-019X\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Lebel</a>",
   "journal": "Armed Forces & Society",
   "dateText": "פורסם: 2007",
   "doiUrl": "https://doi.org/10.1177/0095327x07302581",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Udi Lebel"
+      "name": "Udi Lebel",
+      "url": "https://orcid.org/0000-0002-0964-019X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Udi Lebel"
+      "name": "Udi Lebel",
+      "url": "https://orcid.org/0000-0002-0964-019X"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: חברה אזרחית מול ריבונות צבאית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

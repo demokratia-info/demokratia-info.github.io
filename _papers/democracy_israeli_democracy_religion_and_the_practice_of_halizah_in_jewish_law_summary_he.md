@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Raphael Cohen‐Almagor",
   "paperTitle": "Israeli Democracy, Religion, and the Practice of Halizah in Jewish Law",
-  "authorsHtml": "Raphael Cohen‐Almagor",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5869-9243\" target=\"_blank\" rel=\"noopener noreferrer\">Raphael Cohen‐Almagor</a>",
   "journal": "UCLA Women s Law Journal",
   "dateText": "פורסם: 2000",
   "doiUrl": "https://doi.org/10.5070/l3111017744",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Raphael Cohen‐Almagor"
+      "name": "Raphael Cohen‐Almagor",
+      "url": "https://orcid.org/0000-0002-5869-9243"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Raphael Cohen‐Almagor"
+      "name": "Raphael Cohen‐Almagor",
+      "url": "https://orcid.org/0000-0002-5869-9243"
     }
   ],
   "topics": [
@@ -48,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל ומראה מדוע הדיון קשור לשוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Enas Majadley",
   "paperTitle": "Inclusion of Children with Disabilities from the Palestinian-Arab Community in the Israeli Education System",
-  "authorsHtml": "Enas Majadley",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5403-3746\" target=\"_blank\" rel=\"noopener noreferrer\">Enas Majadley</a>",
   "journal": "Yearbook of Pedagogy",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.2478/rp-2020-0012",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Enas Majadley"
+      "name": "Enas Majadley",
+      "url": "https://orcid.org/0000-0001-5403-3746"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Enas Majadley"
+      "name": "Enas Majadley",
+      "url": "https://orcid.org/0000-0001-5403-3746"
     }
   ],
   "topics": [
@@ -50,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-22",
-  "lastUpdatedHe": "22 במאי 2026",
+  "dateModified": "2026-05-23",
+  "lastUpdatedHe": "23 במאי 2026",
   "oneLinerHtml": "שורה תחתונה: הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {
