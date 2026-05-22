@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-22",
+  "lastUpdated": "2026-05-23",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -10384,6 +10384,306 @@
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Israel_Supreme_Court.jpg",
       "sourceAuthor": "israeltourism",
       "sourceLicense": "CC BY 2.0"
+    },
+    {
+      "file": "html_qa/democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.html",
+      "usedBy": [
+        "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.html"
+      ],
+      "cardTitleHe": "מצב חירום, אתיקה והתחלות פוליטיות חדשות במזרח התיכון",
+      "authorsHe": "Khaled Furani",
+      "visualDescriptionHe": "איור עריכתי חם של דיון אזרחי על מצב חירום, אתיקה וחידוש פוליטי במזרח התיכון",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על מצב החריג, אתיקה והתחדשות פוליטית במזרח התיכון, עם דגש על גבולות כוח, חוקתיות ואחריות דמוקרטית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "מצב חירום",
+        "מצב חריג",
+        "חוקתיות",
+        "הגבלת כוח",
+        "מזרח תיכון"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "States of Exception, Ethics and New Beginnings in Middle East Politics",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.html",
+      "usedBy": [
+        "democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.html"
+      ],
+      "cardTitleHe": "דת, מגדר וזכויות גוף בליברליזם חוקתי",
+      "authorsHe": "Gila Stopler",
+      "visualDescriptionHe": "איור עריכתי חם של מוסדות חוקתיים הדנים בקונפליקט בין דת, שוויון וזכויות גוף",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על פתרון קונפליקטים מבוססי דת במדינות ליברליות, תוך הדגשת שוויון, חירות מצפון וזכויות נשים.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "דת ומדינה",
+        "חופש דת",
+        "שוויון מגדרי",
+        "ליברליזם חוקתי",
+        "זכויות נשים"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Hobby Lobby, S.A.S., and the resolution of religion-based conflicts in liberal states",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.html",
+      "usedBy": [
+        "democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מצבי חירום וסכסוך אתני בדמוקרטיות ליברליות",
+      "authorsHe": "Menachem Hofnung",
+      "visualDescriptionHe": "איור עריכתי חם של ועדה פרלמנטרית הדנה במצב חירום, סכסוך אתני ופיקוח מוסדי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר המשווה בין בריטניה וישראל בשאלת מצבי חירום, סכסוך אתני והאיזון בין ביטחון, זכויות ופיקוח מוסדי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "מצב חירום",
+        "סכסוך אתני",
+        "שלטון החוק",
+        "ביטחון",
+        "זכויות מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "States of emergency and ethnic conflict in liberal democracies: Great Britain and Israel",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מגדר, דת ומדינה בחינוך הדתי הממלכתי בישראל",
+      "authorsHe": "Hanna Herzog",
+      "visualDescriptionHe": "איור עריכתי חם של דיון ציבורי על מגדר, דת ומדינה בחינוך הדתי הממלכתי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על יחסי מגדר, דת ומדינה בבתי ספר דתיים ממלכתיים בישראל, ועל משמעותם לשוויון ולמדיניות ציבורית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "מגדר",
+        "דת ומדינה",
+        "חינוך ממלכתי דתי",
+        "שוויון",
+        "מדיניות חינוך"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Trisection of forces: gender, religion and the state – the case of state‐run religious schools in Israel",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "נישואים אזרחיים והקושי החוקתי להסדיר דת ומדינה בישראל",
+      "authorsHe": "Gal Amir",
+      "visualDescriptionHe": "איור עריכתי חם של משרד ציבורי וארכיון חוקתי סביב הסדרת נישואים אזרחיים בישראל",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ההיסטוריה החוקתית של נישואים וגירושים בישראל, והמשמעות לשוויון, חופש דת וחופש מדת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "נישואים אזרחיים",
+        "דת ומדינה",
+        "מעמד אישי",
+        "חוקתיות",
+        "שוויון"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Constitutional regulation of civil marriage in Israel",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_minority_religions_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_minority_religions_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_minority_religions_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דתות מיעוט במדינה יהודית ודמוקרטית",
+      "authorsHe": "Gideon Sapir, Daniel Statman",
+      "visualDescriptionHe": "איור עריכתי חם של פורום אזרחי הדן בדתות מיעוט, שוויון וחובות חוקתיות בישראל",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על יחס המדינה לדתות מיעוט בישראל, ועל החובות המוסריות והחוקתיות הנובעות משוויון אזרחי.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "דתות מיעוט",
+        "דת ומדינה",
+        "מדינה יהודית ודמוקרטית",
+        "שוויון",
+        "חופש דת"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "MINORITY RELIGIONS IN ISRAEL",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע לא התפתחה בישראל סוציולוגיה של דת?",
+      "authorsHe": "Ezra Kopelowitz, Yael Israel-Shamsian",
+      "visualDescriptionHe": "איור עריכתי חם של סמינר אוניברסיטאי וארכיון מחקר סביב דת, חברה ופוליטיקה בישראל",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ההקשר החברתי־פוליטי שעיצב את חקר הדת בישראל, ועל משמעותו להבנת דת, לאומיות ומוסדות ציבור.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "סוציולוגיה של דת",
+        "דת ומדינה",
+        "ידע ציבורי",
+        "אקדמיה",
+        "ישראל"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Why Has a Sociology of Religion Not Developed in Israel? A Look at the Influence of Socio-Political Environment on the Study of Religion: A Research Note",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.html",
+      "usedBy": [
+        "democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.html"
+      ],
+      "cardTitleHe": "תמיכת המדינה בדת ואמון הציבור בממשלה",
+      "authorsHe": "Jonathan Fox, Jori Breslawski",
+      "visualDescriptionHe": "איור עריכתי חם של דיון ציבורי על תמיכת המדינה בדת, תקציבים ואמון בממשלה",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הקשר בין תמיכת מדינות בדת לבין לגיטימיות הממשלה, עם דגש על אמון, שוויון וחילון פוליטי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "דת ומדינה",
+        "לגיטימיות ממשלתית",
+        "אמון הציבור",
+        "חילון פוליטי",
+        "שוויון"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "State Support for Religion and Government Legitimacy in Christian-Majority Countries",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות עצמית של מתבגרים ערבים כמיעוט אזרחי בישראל",
+      "authorsHe": "Faisal Azaiza, Adital Ben-Ari",
+      "visualDescriptionHe": "איור עריכתי חם של מרכז קהילתי וחצר בית ספר סביב שייכות אזרחית של בני נוער ערבים בישראל",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על תפיסה עצמית של מתבגרים ערבים בישראל, ועל המשמעות לשוויון אזרחי, שייכות ומדיניות חברתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ערבים בישראל",
+        "מתבגרים",
+        "מיעוטים",
+        "זהות",
+        "שוויון אזרחי"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Self‐perception of minority group adolescents: the experience of Arabs living in Israel",
+      "fitness": "standard"
+    },
+    {
+      "file": "html_qa/democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.html",
+      "usedBy": [
+        "democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.html"
+      ],
+      "cardTitleHe": "רבנים ציוניים־דתיים ופשרה בין דת למדינה",
+      "authorsHe": "Moshe Hellinger",
+      "visualDescriptionHe": "איור עריכתי חם של חדר לימוד אזרחי שבו רבנים, חוקרים ונציגי ציבור דנים בפשרה בין דת למדינה",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אידיאולוגיה דתית המבקשת להפחית את המתח בין דת ומדינה בישראל, ועל משמעותה לדמוקרטיה ולפלורליזם.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "דת ומדינה",
+        "ציונות דתית",
+        "פשרה",
+        "פלורליזם",
+        "ישראל"
+      ],
+      "reuseGuidance": "New paper-specific generated image for this article. Do not reuse for future new papers.",
+      "qualityNotes": "OpenAI-generated 800x600 editorial illustration in the older site style: civic scenes, people, institutions, documents, warm depth, no text, no logos, no flags. Tuple fitness is standard because the scene is symbolic rather than source-specific documentary evidence.",
+      "sourceType": "generated",
+      "sourceLicense": "AI-generated original image for the Demokratia site; no external source photograph.",
+      "sourceTitle": "OpenAI generated editorial illustration during 2026-05-23 nightly batch",
+      "sourceQuery": "Religious Ideology That Attempts to Ease the Conflict between Religion and State: An Analysis of the Teachings of Two Leading Religious-Zionist Rabbis in the State of Israel",
+      "fitness": "standard"
     }
   ],
   "topicGraphics": [

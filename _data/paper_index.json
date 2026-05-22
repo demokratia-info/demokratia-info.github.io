@@ -1,8 +1,282 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 490,
+  "paperCount": 500,
   "papers": [
+    {
+      "slug": "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he",
+      "file": "democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.html",
+      "permalink": "/democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.html",
+      "sortKey": 202605230010,
+      "titleHe": "מצב חירום, אתיקה והתחלות פוליטיות חדשות במזרח התיכון",
+      "paperTitle": "States of Exception, Ethics and New Beginnings in Middle East Politics",
+      "authorsCardHe": "Khaled Furani",
+      "sourceAuthors": [
+        "Khaled Furani"
+      ],
+      "journal": "Interventions",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1080/1369801x.2013.798144",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.jpg",
+        "altHe": "איור עריכתי חם של דיון אזרחי על מצב חירום, אתיקה וחידוש פוליטי במזרח התיכון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של חאלד פוראני מציב את מצב החירום לא רק כמנגנון ביטחוני או משפטי, אלא כשאלה אתית על האפשרות להתחיל סדר פוליטי אחר. עבור דמוקרטיה ליברלית, נקודת המפתח היא שמצב חריג עלול להצדיק השעיית נורמות, אבל הוא גם חושף את הצורך לדון מחדש באחריות, חירות והגבלת כוח. לכן הקריאה בו חשובה במיוחד לחברות שבהן ביטחון, לאומיות וסמכות שלטונית נוטים להצטלב."
+    },
+    {
+      "slug": "democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he",
+      "file": "democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.html",
+      "permalink": "/democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.html",
+      "sortKey": 202605230009,
+      "titleHe": "דת, מגדר וזכויות גוף בליברליזם חוקתי",
+      "paperTitle": "Hobby Lobby, S.A.S., and the resolution of religion-based conflicts in liberal states",
+      "authorsCardHe": "Gila Stopler",
+      "sourceAuthors": [
+        "Gila Stopler"
+      ],
+      "journal": "International Journal of Constitutional Law",
+      "dateText": "פורסם: 2016",
+      "doiUrl": "https://doi.org/10.1093/icon/mow057",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.jpg",
+        "altHe": "איור עריכתי חם של מוסדות חוקתיים הדנים בקונפליקט בין דת, שוויון וזכויות גוף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של גילה שטופל משווה בין שני פסקי דין מרכזיים על דת במדינות ליברליות ומראה שהכרעות בשם חופש דת אינן ניטרליות כאשר הן מטילות את המחיר על נשים או על קבוצות לא־דומיננטיות. החשיבות הדמוקרטית היא בהסטת המבט מן השאלה אם המדינה מגינה על דת, אל השאלה את מי ההגנה הזאת מחזקת ואת מי היא מחלישה. לכן המאמר רלוונטי לכל ויכוח על דת ומדינה, חירות מצפון ושוויון אזרחי."
+    },
+    {
+      "slug": "democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he",
+      "file": "democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.html",
+      "permalink": "/democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.html",
+      "sortKey": 202605230008,
+      "titleHe": "מצבי חירום וסכסוך אתני בדמוקרטיות ליברליות",
+      "paperTitle": "States of emergency and ethnic conflict in liberal democracies: Great Britain and Israel",
+      "authorsCardHe": "Menachem Hofnung",
+      "sourceAuthors": [
+        "Menachem Hofnung"
+      ],
+      "journal": "Terrorism and Political Violence",
+      "dateText": "פורסם: 1994",
+      "doiUrl": "https://doi.org/10.1080/09546559408427264",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של ועדה פרלמנטרית הדנה במצב חירום, סכסוך אתני ופיקוח מוסדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של מנחם הופנונג מציב את בריטניה וישראל כמקרי מבחן לשאלה כיצד דמוקרטיות ליברליות משתמשות במצב חירום מול סכסוך אתני. המשמעות הדמוקרטית היא שמנגנוני חירום אינם רק תגובה לאיום, אלא גם כלי שמרכז כוח ברשות המבצעת ועלול לעקוף ביקורת פרלמנטרית ושיפוטית. לכן המאמר חשוב להבנת היחס בין ביטחון, זכויות מיעוטים ושלטון החוק."
+    },
+    {
+      "slug": "democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he",
+      "file": "democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.html",
+      "permalink": "/democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.html",
+      "sortKey": 202605230007,
+      "titleHe": "מגדר, דת ומדינה בחינוך הדתי הממלכתי בישראל",
+      "paperTitle": "Trisection of forces: gender, religion and the state – the case of state‐run religious schools in Israel",
+      "authorsCardHe": "Hanna Herzog",
+      "sourceAuthors": [
+        "Hanna Herzog"
+      ],
+      "journal": "The British Journal of Sociology",
+      "dateText": "פורסם: 2006",
+      "doiUrl": "https://doi.org/10.1111/j.1468-4446.2006.00108.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של דיון ציבורי על מגדר, דת ומדינה בחינוך הדתי הממלכתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של חנה הרצוג מנתח את בית הספר הדתי הממלכתי כמקום שבו מגדר, דת ומדינה אינם קטגוריות יציבות ונפרדות, אלא כוחות שמעצבים זה את זה. מבחינה דמוקרטית, הדיון חשוב משום שמערכת חינוך ציבורית יכולה לשמר היררכיות מגדריות בשם מסורת, אך גם להפוך לזירה שבה אזרחות ושוויון מתפרשים מחדש. לכן המאמר מחבר בין מדיניות חינוך, דת ציבורית וזכויות נשים."
+    },
+    {
+      "slug": "democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he",
+      "file": "democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.html",
+      "permalink": "/democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.html",
+      "sortKey": 202605230006,
+      "titleHe": "נישואים אזרחיים והקושי החוקתי להסדיר דת ומדינה בישראל",
+      "paperTitle": "Constitutional regulation of civil marriage in Israel",
+      "authorsCardHe": "Gal Amir",
+      "sourceAuthors": [
+        "Gal Amir"
+      ],
+      "journal": "Constitutional and legal academic studies",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.24144/2663-5399.2022.1.01",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_regulation_of_civil_marriage_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של משרד ציבורי וארכיון חוקתי סביב הסדרת נישואים אזרחיים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של גל אמיר סוקר את ההסדרה החוקתית של נישואים וגירושים בארץ מימי המנדט הבריטי ועד מדינת ישראל. החשיבות הדמוקרטית היא בכך שנישואים אזרחיים אינם רק שאלה פרטית של זוגיות, אלא מבחן לשוויון אזרחי, חופש דת וחופש מדת, וליכולת של המדינה להעניק מעמד אישי בלי לכפות זהות דתית. המאמר ממקם את הקושי הישראלי בתוך רצף היסטורי של סמכויות דתיות ומשפט ציבורי."
+    },
+    {
+      "slug": "democracy_minority_religions_in_israel_summary_he",
+      "file": "democracy_minority_religions_in_israel_summary_he.html",
+      "permalink": "/democracy_minority_religions_in_israel_summary_he.html",
+      "sortKey": 202605230005,
+      "titleHe": "דתות מיעוט במדינה יהודית ודמוקרטית",
+      "paperTitle": "MINORITY RELIGIONS IN ISRAEL",
+      "authorsCardHe": "Gideon Sapir, Daniel Statman",
+      "sourceAuthors": [
+        "Gideon Sapir",
+        "Daniel Statman"
+      ],
+      "journal": "Journal of Law and Religion",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1017/jlr.2014.32",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minority_religions_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של פורום אזרחי הדן בדתות מיעוט, שוויון וחובות חוקתיות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של גדעון ספיר ודניאל סטטמן שואל כיצד ישראל צריכה להתייחס לדתות מיעוט, והאם מדיניותה כלפיהן מתיישבת עם חובות מוסריות וחוקתיות. נקודת הכובד הדמוקרטית היא ההבחנה בין זהות יהודית ציבורית לבין הפליה או העדפה דתית שפוגעת באזרחים שאינם יהודים. לכן המאמר מסייע לחשוב על מדינה יהודית ודמוקרטית לא כסיסמה, אלא כמשטר של חובות שוויון ממשיות."
+    },
+    {
+      "slug": "democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he",
+      "file": "democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.html",
+      "permalink": "/democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.html",
+      "sortKey": 202605230004,
+      "titleHe": "מדוע לא התפתחה בישראל סוציולוגיה של דת?",
+      "paperTitle": "Why Has a Sociology of Religion Not Developed in Israel? A Look at the Influence of Socio-Political Environment on the Study of Religion: A Research Note",
+      "authorsCardHe": "Ezra Kopelowitz, Yael Israel-Shamsian",
+      "sourceAuthors": [
+        "Ezra Kopelowitz",
+        "Yael Israel-Shamsian"
+      ],
+      "journal": "Sociology of Religion",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.2307/4153117",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_why_has_a_sociology_of_religion_not_developed_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של סמינר אוניברסיטאי וארכיון מחקר סביב דת, חברה ופוליטיקה בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של עזרא קופלוביץ ויעל ישראל־שמסיאן שואל מדוע בישראל לא התפתחה מסורת חזקה של סוציולוגיה של דת, למרות מרכזיות הדת בחיים הציבוריים. מבחינה דמוקרטית, זו שאלה על ידע ציבורי: אילו תופעות מקבלות שפה מחקרית, אילו נשארות מחוץ למסגרת, וכיצד סכסוכים לאומיים ודתיים משפיעים על מה שהחברה מסוגלת להבין על עצמה. לכן המאמר רלוונטי למי שחושב על דת ומדינה גם דרך מוסדות ידע ואקדמיה."
+    },
+    {
+      "slug": "democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he",
+      "file": "democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.html",
+      "permalink": "/democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.html",
+      "sortKey": 202605230003,
+      "titleHe": "תמיכת המדינה בדת ואמון הציבור בממשלה",
+      "paperTitle": "State Support for Religion and Government Legitimacy in Christian-Majority Countries",
+      "authorsCardHe": "Jonathan Fox, Jori Breslawski",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Jori Breslawski"
+      ],
+      "journal": "American Political Science Review",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1017/s0003055422001320",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.jpg",
+        "altHe": "איור עריכתי חם של דיון ציבורי על תמיכת המדינה בדת, תקציבים ואמון בממשלה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של ג׳ונתן פוקס וג׳ורי ברסלבסקי בוחן אם תמיכת מדינה בדת אכן מגבירה את הלגיטימיות של הממשלה במדינות שבהן רוב נוצרי. לפי התקציר, הספרות העכשווית מצביעה על אפשרות הפוכה: תמיכה בדת עשויה להפחית לגיטימיות, בין היתר בגלל חילון פוליטי, פגיעה בחיוניות דתית וחשש מהעדפה של קבוצה אחת. המאמר חשוב לדמוקרטיה ליברלית משום שהוא מחבר בין דת ומדינה לבין אמון ציבורי, שוויון ואחריות מוסדית."
+    },
+    {
+      "slug": "democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he",
+      "file": "democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.html",
+      "permalink": "/democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.html",
+      "sortKey": 202605230002,
+      "titleHe": "זהות עצמית של מתבגרים ערבים כמיעוט אזרחי בישראל",
+      "paperTitle": "Self‐perception of minority group adolescents: the experience of Arabs living in Israel",
+      "authorsCardHe": "Faisal Azaiza, Adital Ben-Ari",
+      "sourceAuthors": [
+        "Faisal Azaiza",
+        "Adital Ben-Ari"
+      ],
+      "journal": "Scandinavian Journal of Social Welfare",
+      "dateText": "פורסם: 1998",
+      "doiUrl": "https://doi.org/10.1111/j.1468-2397.1998.tb00287.x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי חם של מרכז קהילתי וחצר בית ספר סביב שייכות אזרחית של בני נוער ערבים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של פייסל עזאיזה ואדיטל בן־ארי מתאר את התפיסה העצמית של מתבגרים ערבים החיים בישראל כקבוצת מיעוט העוברת שינויים תרבותיים, חברתיים ופוליטיים. המשמעות הדמוקרטית היא שהשאלה אינה רק רווחה אישית, אלא גם תנאי שייכות אזרחית ושוויון בתוך מדינה שבה הסכסוך הלאומי משפיע על זהות יומיומית. לכן המאמר מחבר בין עבודה סוציאלית, זכויות מיעוטים ואזרחות שווה."
+    },
+    {
+      "slug": "democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he",
+      "file": "democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.html",
+      "permalink": "/democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.html",
+      "sortKey": 202605230001,
+      "titleHe": "רבנים ציוניים־דתיים ופשרה בין דת למדינה",
+      "paperTitle": "Religious Ideology That Attempts to Ease the Conflict between Religion and State: An Analysis of the Teachings of Two Leading Religious-Zionist Rabbis in the State of Israel",
+      "authorsCardHe": "Moshe Hellinger",
+      "sourceAuthors": [
+        "Moshe Hellinger"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.1093/jcs/csp004",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.jpg",
+        "altHe": "איור עריכתי חם של חדר לימוד אזרחי שבו רבנים, חוקרים ונציגי ציבור דנים בפשרה בין דת למדינה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-23",
+      "dateModified": "2026-05-23",
+      "summaryHe": "המאמר של משה הלינגר מנתח את משנתם של שני רבנים ציוניים־דתיים בולטים שמנסים להקל על המתח בין דת למדינה בישראל. מבחינה דמוקרטית, העניין המרכזי הוא האפשרות שבתוך מסורת דתית עצמה יתפתחו שפות של פשרה, הכרה במציאות מודרנית והסדרים ציבוריים שאינם נשענים רק על הכרעת רוב או כפייה. לכן המאמר חשוב לדיון על פלורליזם, דת ציבורית והסכמות חוקתיות בישראל."
+    },
     {
       "slug": "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he",
       "file": "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he.html",
