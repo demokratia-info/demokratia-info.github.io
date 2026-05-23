@@ -11,15 +11,19 @@
   const filter = document.querySelector("[data-feedback-editor-filter]");
   const refreshButton = document.querySelector("[data-feedback-editor-refresh]");
   const nextRound = document.querySelector("[data-feedback-editor-next]");
+  const historyHours = Number.parseInt(root.dataset.historyHours || "48", 10) || 48;
 
   let editorPassword = "";
-  let rows = [];
+  let queueRows = [];
+  let historyRows = [];
+  let historyLoaded = false;
 
   const STATUS_LABELS = {
-    pending: "pending",
-    approved_for_update: "approved_for_update",
-    rejected: "rejected",
-    applied: "applied"
+    pending: "pending בתור",
+    approved_for_update: "approved_for_update בתור",
+    rejected: "rejected בתור",
+    applied: `applied ב-${historyHours} שעות`,
+    rejected_history: `rejected שטופלו ב-${historyHours} שעות`
   };
 
   const EDITABLE_STATUSES = ["pending", "approved_for_update", "rejected"];
@@ -45,7 +49,7 @@
     return field && "value" in field ? String(field.value) : "";
   };
 
-  const apiRequest = async (method, payload) => {
+  const apiRequest = async (method, payload, requestUrl = endpoint) => {
     const headers = {
       "Accept": "application/json",
       "Authorization": `Bearer ${editorPassword}`
@@ -56,7 +60,7 @@
       options.body = JSON.stringify(payload);
     }
 
-    const response = await fetch(endpoint, options);
+    const response = await fetch(requestUrl, options);
     const result = await response.json().catch(() => ({}));
     if (!response.ok || result.ok === false) {
       throw new Error(result.error || "לא ניתן היה לבצע את הפעולה.");
@@ -99,25 +103,56 @@
     if (nextRound) nextRound.textContent = nextRevisionText();
   };
 
+  const currentMode = () => filter ? filter.value : "active";
+
+  const requiresHistory = (mode = currentMode()) => (
+    mode === "recent_handled"
+    || mode === "applied_recent"
+    || mode === "rejected_recent"
+  );
+
+  const historyEndpoint = () => {
+    const base = endpoint.replace(/\/+$/, "");
+    return `${base}/history?hours=${encodeURIComponent(String(historyHours))}`;
+  };
+
   const visibleRows = () => {
-    const mode = filter ? filter.value : "active";
-    if (mode === "all") return rows;
+    const mode = currentMode();
+    if (mode === "all_queue") return queueRows;
     if (mode === "active") {
-      return rows.filter((row) => row.status === "pending" || row.status === "approved_for_update" || row.status === "rejected");
+      return queueRows.filter((row) => row.status === "pending" || row.status === "approved_for_update" || row.status === "rejected");
     }
-    return rows.filter((row) => row.status === mode);
+    if (mode === "recent_handled") {
+      return historyRows.filter((row) => row.status === "applied" || row.status === "rejected");
+    }
+    if (mode === "applied_recent") {
+      return historyRows.filter((row) => row.status === "applied");
+    }
+    if (mode === "rejected_recent") {
+      return historyRows.filter((row) => row.status === "rejected");
+    }
+    return queueRows.filter((row) => row.status === mode);
   };
 
   const renderCounts = () => {
     if (!counts) return;
     counts.textContent = "";
-    const statuses = ["pending", "approved_for_update", "rejected", "applied"];
-    statuses.forEach((status) => {
+    const queueStatuses = ["pending", "approved_for_update", "rejected"];
+    queueStatuses.forEach((status) => {
       const item = document.createElement("span");
       item.className = `feedback-editor-count status-${status}`;
-      item.textContent = `${STATUS_LABELS[status]}: ${rows.filter((row) => row.status === status).length}`;
+      item.textContent = `${STATUS_LABELS[status]}: ${queueRows.filter((row) => row.status === status).length}`;
       counts.append(item);
     });
+    if (historyLoaded) {
+      const applied = document.createElement("span");
+      applied.className = "feedback-editor-count status-applied";
+      applied.textContent = `${STATUS_LABELS.applied}: ${historyRows.filter((row) => row.status === "applied").length}`;
+      const rejected = document.createElement("span");
+      rejected.className = "feedback-editor-count status-rejected";
+      rejected.textContent = `${STATUS_LABELS.rejected_history}: ${historyRows.filter((row) => row.status === "rejected").length}`;
+      counts.append(applied, rejected);
+    }
   };
 
   const field = (label, value, className = "") => {
@@ -215,7 +250,7 @@
 
   const renderRow = (row) => {
     const card = document.createElement("article");
-    card.className = `feedback-editor-card status-${row.status || "unknown"}`;
+    card.className = `feedback-editor-card status-${row.status || "unknown"} source-${row.source || "queue"}`;
 
     const header = document.createElement("div");
     header.className = "feedback-editor-card-header";
@@ -223,7 +258,7 @@
     title.textContent = row.pageTitle || row.pageSlug || "עמוד ללא כותרת";
     const badge = document.createElement("span");
     badge.className = "feedback-editor-status-badge";
-    badge.textContent = row.status || "unknown";
+    badge.textContent = row.source === "history" ? `${row.status || "unknown"} · history` : (row.status || "unknown");
     header.append(title, badge);
 
     const pageLink = document.createElement("a");
@@ -238,71 +273,79 @@
     comment.dir = "auto";
     comment.textContent = row.comment || "";
 
-    const controls = document.createElement("div");
-    controls.className = "feedback-editor-controls";
+    let controls = null;
 
-    const statusLabel = document.createElement("label");
-    statusLabel.className = "form-label";
-    statusLabel.textContent = "סטטוס";
-    const statusSelect = document.createElement("select");
-    statusSelect.className = "form-control";
+    if (row.source !== "history") {
+      controls = document.createElement("div");
+      controls.className = "feedback-editor-controls";
 
-    if (!EDITABLE_STATUSES.includes(row.status)) {
-      const current = document.createElement("option");
-      current.value = row.status || "";
-      current.textContent = row.status || "unknown";
-      current.selected = true;
-      statusSelect.append(current);
-    }
+      const statusLabel = document.createElement("label");
+      statusLabel.className = "form-label";
+      statusLabel.textContent = "סטטוס";
+      const statusSelect = document.createElement("select");
+      statusSelect.className = "form-control";
 
-    EDITABLE_STATUSES.forEach((status) => {
-      const option = document.createElement("option");
-      option.value = status;
-      option.textContent = status;
-      option.selected = row.status === status;
-      statusSelect.append(option);
-    });
-    statusLabel.append(statusSelect);
-
-    const notesLabel = document.createElement("label");
-    notesLabel.className = "form-label";
-    notesLabel.textContent = "הערת עורך פנימית";
-    const notes = document.createElement("textarea");
-    notes.className = "form-control feedback-editor-notes";
-    notes.dir = "auto";
-    notes.value = row.editorNotes || "";
-    notesLabel.append(notes);
-
-    const save = document.createElement("button");
-    save.className = "button-primary";
-    save.type = "button";
-    save.textContent = "שמירת סטטוס";
-    save.addEventListener("click", async () => {
-      save.disabled = true;
-      setStatus("שומר את הסטטוס...", "info");
-      try {
-        const result = await apiRequest("PATCH", {
-          rowIndex: row.rowIndex,
-          submittedAt: row.submittedAt,
-          pageUrl: row.pageUrl,
-          comment: row.comment,
-          status: statusSelect.value,
-          editorNotes: notes.value
-        });
-        rows = rows.map((item) => item.rowIndex === row.rowIndex ? result.row : item);
-        render();
-        setStatus("הסטטוס נשמר.", "info");
-      } catch (error) {
-        setStatus(error.message || "לא ניתן היה לשמור את הסטטוס.", "error");
-      } finally {
-        save.disabled = false;
+      if (!EDITABLE_STATUSES.includes(row.status)) {
+        const current = document.createElement("option");
+        current.value = row.status || "";
+        current.textContent = row.status || "unknown";
+        current.selected = true;
+        statusSelect.append(current);
       }
-    });
 
-    controls.append(statusLabel, notesLabel, save);
+      EDITABLE_STATUSES.forEach((status) => {
+        const option = document.createElement("option");
+        option.value = status;
+        option.textContent = status;
+        option.selected = row.status === status;
+        statusSelect.append(option);
+      });
+      statusLabel.append(statusSelect);
+
+      const notesLabel = document.createElement("label");
+      notesLabel.className = "form-label";
+      notesLabel.textContent = "הערת עורך פנימית";
+      const notes = document.createElement("textarea");
+      notes.className = "form-control feedback-editor-notes";
+      notes.dir = "auto";
+      notes.value = row.editorNotes || "";
+      notesLabel.append(notes);
+
+      const save = document.createElement("button");
+      save.className = "button-primary";
+      save.type = "button";
+      save.textContent = "שמירת סטטוס";
+      save.addEventListener("click", async () => {
+        save.disabled = true;
+        setStatus("שומר את הסטטוס...", "info");
+        try {
+          const result = await apiRequest("PATCH", {
+            rowIndex: row.rowIndex,
+            submittedAt: row.submittedAt,
+            pageUrl: row.pageUrl,
+            comment: row.comment,
+            status: statusSelect.value,
+            editorNotes: notes.value
+          });
+          queueRows = queueRows.map((item) => item.rowIndex === row.rowIndex ? result.row : item);
+          render();
+          setStatus("הסטטוס נשמר.", "info");
+        } catch (error) {
+          setStatus(error.message || "לא ניתן היה לשמור את הסטטוס.", "error");
+        } finally {
+          save.disabled = false;
+        }
+      });
+
+      controls.append(statusLabel, notesLabel, save);
+    }
 
     card.append(header);
     appendIfPresent(card, field("נשלח", formatDate(row.submittedAt)));
+    if (row.source === "history") {
+      appendIfPresent(card, field("טופל", formatDate(row.processedAt || row.appliedAt)));
+      appendIfPresent(card, field("הערת טיפול", row.processingNotes));
+    }
     if (row.pageUrl) card.append(pageLink);
     appendIfPresent(card, field("שם המאמר", row.paperTitle, "latin"));
     appendIfPresent(card, field("DOI", row.doi, "latin"));
@@ -311,7 +354,9 @@
     appendIfPresent(card, field("טלפון", row.submitterPhone, "latin"));
     card.append(comment);
     appendIfPresent(card, renderPhoto(row));
-    card.append(controls);
+    if (controls) {
+      card.append(controls);
+    }
     return card;
   };
 
@@ -319,11 +364,20 @@
     if (!list) return;
     list.textContent = "";
     renderCounts();
+    if (requiresHistory() && !historyLoaded) {
+      const empty = document.createElement("p");
+      empty.className = "feedback-editor-empty";
+      empty.textContent = `תצוגת ההיסטוריה נטענת רק לפי דרישה ומוגבלת ל-${historyHours} השעות האחרונות.`;
+      list.append(empty);
+      return;
+    }
     const filteredRows = visibleRows();
     if (!filteredRows.length) {
       const empty = document.createElement("p");
       empty.className = "feedback-editor-empty";
-      empty.textContent = "אין הערות בתצוגה הנוכחית.";
+      empty.textContent = requiresHistory()
+        ? `אין רשומות היסטוריה מתאימות ב-${historyHours} השעות האחרונות.`
+        : "אין הערות בתצוגה הנוכחית.";
       list.append(empty);
       return;
     }
@@ -340,11 +394,21 @@
     }
     setStatus("טוען את תור ההערות...", "info");
     const result = await apiRequest("GET");
-    rows = Array.isArray(result.rows) ? result.rows : [];
+    queueRows = Array.isArray(result.rows) ? result.rows : [];
     if (loginForm) loginForm.hidden = true;
     if (dashboard) dashboard.hidden = false;
     clearStatus();
     setNextRound();
+    render();
+  };
+
+  const loadHistoryRows = async (force = false) => {
+    if (historyLoaded && !force) return;
+    setStatus(`טוען היסטוריה מ-${historyHours} השעות האחרונות...`, "info");
+    const result = await apiRequest("GET", null, historyEndpoint());
+    historyRows = Array.isArray(result.rows) ? result.rows : [];
+    historyLoaded = true;
+    clearStatus();
     render();
   };
 
@@ -364,12 +428,23 @@
     refreshButton.addEventListener("click", async () => {
       try {
         await loadRows();
+        if (requiresHistory()) await loadHistoryRows(true);
       } catch (error) {
         setStatus(error.message || "לא ניתן היה לרענן את התור.", "error");
       }
     });
   }
 
-  if (filter) filter.addEventListener("change", render);
+  if (filter) {
+    filter.addEventListener("change", async () => {
+      render();
+      if (!requiresHistory()) return;
+      try {
+        await loadHistoryRows();
+      } catch (error) {
+        setStatus(error.message || "לא ניתן היה לטעון את ההיסטוריה.", "error");
+      }
+    });
+  }
   setNextRound();
 })();

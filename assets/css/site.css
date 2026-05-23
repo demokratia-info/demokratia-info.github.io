@@ -278,6 +278,7 @@ li { margin: 0 0 6px; }
   direction: ltr;
 }
 .feedback-editor-filter { max-width: 280px; margin: 16px 0; }
+.feedback-editor-history-note { margin: 2px 0 0; }
 .feedback-editor-list { display: grid; gap: 16px; margin-top: 18px; }
 .feedback-editor-card {
   display: grid;
@@ -292,6 +293,7 @@ li { margin: 0 0 6px; }
 .feedback-editor-card.status-pending { border-right-color: #b68a2e; }
 .feedback-editor-card.status-rejected { border-right-color: #9b332b; }
 .feedback-editor-card.status-applied { border-right-color: var(--accent); }
+.feedback-editor-card.source-history { background: #fbfbf9; }
 .feedback-editor-card-header {
   display: flex;
   flex-wrap: wrap;

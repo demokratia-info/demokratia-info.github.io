@@ -64,6 +64,8 @@ The form posts to `_data/site.json` `pageFeedbackEndpoint`, currently the same W
 
 Editors should review private feedback rows and mark only actionable rows `approved_for_update`. The editor page can show a password-protected preview of a suggested photo. Nightly automation should act only on approved rows, verify the correction against the source paper or reliable metadata, validate any suggested photo as landscape, crop minor aspect-ratio differences to 4:3, convert accepted photos to 800x600 JPEG, update the relevant public source page when safe, and then mark the private row `applied` or `rejected`. Approved user-uploaded photos are always considered `high` fitness for that paper, so they appear near the top of the summary page after publication.
 
+The editor dashboard's main view shows only the active queue. Rows removed by the heartbeat after being applied or rejected can be loaded from the private history endpoint for the last 48 hours, rather than mixing old handled rows into the queue view.
+
 Because the real `suggest_queue.csv`, `page_feedback_queue.csv`, uploaded page-feedback photos, and private `Authors.csv` may contain sensitive information, they must stay in `demokratia-info/democracy-paper-suggestions-private` or another private store. Do not commit visitor-submitted rows, original uploaded feedback photos, or the private author policy file to this public website repository.
 
 ## Summary Writing Guidance

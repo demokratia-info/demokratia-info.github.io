@@ -33,6 +33,11 @@ const FEEDBACK_QUEUE_HEADER = [
   "suggested_photo_height",
   "submitter_role"
 ];
+const FEEDBACK_HISTORY_HEADER = [
+  ...FEEDBACK_QUEUE_HEADER,
+  "processed_at",
+  "processing_notes"
+];
 
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
@@ -47,6 +52,8 @@ const FEEDBACK_PHOTO_TYPES = new Map([
 ]);
 const DEFAULT_FEEDBACK_PHOTO_DIR = "page_feedback_photos";
 const DEFAULT_FEEDBACK_PHOTO_MAX_BYTES = 8 * 1024 * 1024;
+const DEFAULT_FEEDBACK_HISTORY_HOURS = 48;
+const DEFAULT_FEEDBACK_HISTORY_LIMIT = 200;
 
 export default {
   async fetch(request, env) {
@@ -65,6 +72,10 @@ export default {
 
       if (kind === "admin-page-feedback-auth") {
         return await handleAdminPageFeedbackAuth(request, env, cors);
+      }
+
+      if (kind === "admin-page-feedback-history") {
+        return await handleAdminPageFeedbackHistory(request, env, cors);
       }
 
       if (kind === "admin-page-feedback") {
@@ -219,6 +230,29 @@ async function handleAdminPageFeedbackAuth(request, env, cors) {
   return jsonResponse({ ok: true }, 200, cors);
 }
 
+async function handleAdminPageFeedbackHistory(request, env, cors) {
+  await requireEditorPassword(request, env);
+
+  if (request.method !== "GET") {
+    return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+  }
+
+  const url = new URL(request.url);
+  const hours = parseIntBounded(
+    url.searchParams.get("hours"),
+    DEFAULT_FEEDBACK_HISTORY_HOURS,
+    1,
+    168
+  );
+  const limit = parseIntBounded(
+    url.searchParams.get("limit"),
+    DEFAULT_FEEDBACK_HISTORY_LIMIT,
+    1,
+    500
+  );
+  return listPageFeedbackHistory(env, cors, hours, limit);
+}
+
 async function handleAdminPageFeedbackPhoto(request, env, cors) {
   await requireEditorPassword(request, env);
 
@@ -263,6 +297,39 @@ async function listPageFeedback(env, cors) {
   );
 }
 
+async function listPageFeedbackHistory(env, cors, hours, limit) {
+  const github = githubConfig(env, "FEEDBACK_HISTORY_PATH", "page_feedback_history.csv");
+  const current = await fetchQueue(github, FEEDBACK_HISTORY_HEADER);
+  const history = normalizeQueueCsv(current.content, FEEDBACK_HISTORY_HEADER, github.path);
+  const rows = parseCsv(history);
+  const cutoff = Date.now() - hours * 60 * 60 * 1000;
+  const items = rows
+    .slice(1)
+    .map((row, index) => feedbackHistoryItemFromRow(row, index))
+    .filter((item) => {
+      const processedTime = timestampMs(item.processedAt || item.appliedAt || item.submittedAt);
+      return Number.isFinite(processedTime) && processedTime >= cutoff;
+    })
+    .slice(-limit);
+  const counts = items.reduce((accumulator, item) => {
+    accumulator[item.status] = (accumulator[item.status] || 0) + 1;
+    return accumulator;
+  }, {});
+
+  return jsonResponse(
+    {
+      ok: true,
+      rows: items,
+      counts,
+      hours,
+      limit,
+      timezone: "Asia/Jerusalem"
+    },
+    200,
+    cors
+  );
+}
+
 async function updatePageFeedbackStatus(request, env, cors) {
   const payload = await request.json();
   const rowIndex = Number.parseInt(String(payload.rowIndex ?? ""), 10);
@@ -291,7 +358,7 @@ async function updatePageFeedbackStatus(request, env, cors) {
     if (
       clean(csvRow[1], 80) !== submittedAt
       || clean(csvRow[2], 700) !== pageUrl
-      || clean(csvRow[7], 5000) !== comment
+      || clean(csvRow[7], FEEDBACK_COMMENT_MAX_LENGTH) !== comment
     ) {
       return jsonResponse(
         { ok: false, error: "The queue changed. Reload before saving this row." },
@@ -327,6 +394,7 @@ async function updatePageFeedbackStatus(request, env, cors) {
 function feedbackItemFromRow(row, index) {
   return {
     rowIndex: index,
+    source: "queue",
     submittedDate: row[0] || "",
     submittedAt: row[1] || "",
     pageUrl: row[2] || "",
@@ -347,6 +415,15 @@ function feedbackItemFromRow(row, index) {
     suggestedPhotoWidth: row[18] || "",
     suggestedPhotoHeight: row[19] || "",
     submitterRole: row[20] || "other_or_prefer_not"
+  };
+}
+
+function feedbackHistoryItemFromRow(row, index) {
+  return {
+    ...feedbackItemFromRow(row, index),
+    source: "history",
+    processedAt: row[21] || "",
+    processingNotes: row[22] || ""
   };
 }
 
@@ -402,6 +479,7 @@ function requestKind(request) {
   const pathname = new URL(request.url).pathname.replace(/\/+$/, "");
   if (pathname.endsWith("/admin/page-feedback/photo")) return "admin-page-feedback-photo";
   if (pathname.endsWith("/admin/page-feedback/auth")) return "admin-page-feedback-auth";
+  if (pathname.endsWith("/admin/page-feedback/history")) return "admin-page-feedback-history";
   if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
@@ -1050,4 +1128,18 @@ function bytesToBase64(bytes) {
 function parseIntEnv(value, fallback) {
   const parsed = Number.parseInt(value || "", 10);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+}
+
+function parseIntBounded(value, fallback, min, max) {
+  const parsed = Number.parseInt(String(value || ""), 10);
+  if (!Number.isFinite(parsed)) return fallback;
+  return Math.min(max, Math.max(min, parsed));
+}
+
+function timestampMs(value) {
+  const raw = String(value || "").trim();
+  if (!raw) return Number.NaN;
+  const normalized = raw.replace(/([+-]\d{2})(\d{2})$/, "$1:$2");
+  const parsed = Date.parse(normalized);
+  return Number.isFinite(parsed) ? parsed : Number.NaN;
 }

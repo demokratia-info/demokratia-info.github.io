@@ -10,6 +10,7 @@ The Worker:
 - lets editors optionally include the editor password with a page-feedback submission; a correct password writes the row as `approved_for_update`, while an empty or incorrect password is ignored and the row remains ordinary `pending` feedback;
 - exposes a password-protected editor API at `/admin/page-feedback` for listing feedback rows and changing their status;
 - exposes a lightweight password check at `/admin/page-feedback/auth` for the page-specific summary editor on `page-feedback.html`;
+- exposes password-protected recent handled feedback at `/admin/page-feedback/history?hours=48`, sourced from `page_feedback_history.csv`;
 - exposes a password-protected editor photo endpoint at `/admin/page-feedback/photo`;
 - keeps page feedback contact fields and submitter-role disclosure optional in effect; the role defaults to `other_or_prefer_not`;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
