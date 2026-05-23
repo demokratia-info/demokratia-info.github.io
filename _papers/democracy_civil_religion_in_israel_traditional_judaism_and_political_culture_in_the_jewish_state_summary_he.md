@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Stephen Sharot, Charles S. Liebman, Eliezer Don-Yehiya",
   "paperTitle": "Civil Religion in Israel: Traditional Judaism and Political Culture in the Jewish State",
-  "authorsHtml": "Stephen Sharot, Charles S. Liebman, Eliezer Don-Yehiya",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/stephen-sharot\" target=\"_blank\" rel=\"noopener noreferrer\">Stephen Sharot</a>, Charles S. Liebman, Eliezer Don-Yehiya",
   "journal": "Sociological Analysis",
   "dateText": "פורסם: 1985",
   "doiUrl": "https://doi.org/10.2307/3711064",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Stephen Sharot"
+      "name": "Stephen Sharot",
+      "url": "https://cris.bgu.ac.il/en/persons/stephen-sharot"
     },
     {
       "@type": "Person",
@@ -31,7 +32,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Stephen Sharot"
+      "name": "Stephen Sharot",
+      "url": "https://cris.bgu.ac.il/en/persons/stephen-sharot"
     },
     {
       "@type": "Person",

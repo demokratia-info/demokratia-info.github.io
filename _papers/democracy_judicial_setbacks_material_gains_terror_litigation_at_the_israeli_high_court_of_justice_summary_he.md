@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Menachem Hofnung; Keren Weinshall Margel",
   "paperTitle": "Judicial Setbacks, Material Gains: Terror Litigation at the Israeli High Court of Justice",
-  "authorsHtml": "Menachem Hofnung; <a href=\"https://en.law.huji.ac.il/people/keren-weinshall\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall Margel</a>",
+  "authorsHtml": "<a href=\"https://cris.huji.ac.il/en/persons/menachem-hofnung/\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Hofnung</a>; <a href=\"https://en.law.huji.ac.il/people/keren-weinshall\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall Margel</a>",
   "journal": "Journal of Empirical Legal Studies",
   "dateText": "פורסם: 2010",
   "doiUrl": "https://doi.org/10.1111/j.1740-1461.2010.01192.x",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Menachem Hofnung"
+      "name": "Menachem Hofnung",
+      "url": "https://cris.huji.ac.il/en/persons/menachem-hofnung/"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Menachem Hofnung"
+      "name": "Menachem Hofnung",
+      "url": "https://cris.huji.ac.il/en/persons/menachem-hofnung/"
     },
     {
       "@type": "Person",

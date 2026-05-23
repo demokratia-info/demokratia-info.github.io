@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Neve Gordon, Sharon Pardo",
   "paperTitle": "What Can Pro-Democracy Activists in Arab Countries Expect from the European Union? Lessons from the Union's Relations with Israel",
-  "authorsHtml": "Neve Gordon, Sharon Pardo",
+  "authorsHtml": "<a href=\"https://www.qmul.ac.uk/law/people/academic-staff/items/gordon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Neve Gordon</a>, <a href=\"https://orcid.org/0000-0003-3886-3664\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Pardo</a>",
   "journal": "Democracy and Security",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1080/17419166.2013.747834",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Neve Gordon"
+      "name": "Neve Gordon",
+      "url": "https://www.qmul.ac.uk/law/people/academic-staff/items/gordon.html"
     },
     {
       "@type": "Person",
-      "name": "Sharon Pardo"
+      "name": "Sharon Pardo",
+      "url": "https://orcid.org/0000-0003-3886-3664"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Neve Gordon"
+      "name": "Neve Gordon",
+      "url": "https://www.qmul.ac.uk/law/people/academic-staff/items/gordon.html"
     },
     {
       "@type": "Person",
-      "name": "Sharon Pardo"
+      "name": "Sharon Pardo",
+      "url": "https://orcid.org/0000-0003-3886-3664"
     }
   ],
   "topics": [

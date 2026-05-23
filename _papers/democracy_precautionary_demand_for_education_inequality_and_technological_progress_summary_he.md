@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Eric D. Gould, Omer Moav, Bruce A. Weinberg",
   "paperTitle": "Precautionary Demand for Education, Inequality, and Technological Progress",
-  "authorsHtml": "Eric D. Gould, <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>, Bruce A. Weinberg",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6564-2168\" target=\"_blank\" rel=\"noopener noreferrer\">Eric D. Gould</a>, <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>, <a href=\"https://economics.osu.edu/people/weinberg.27\" target=\"_blank\" rel=\"noopener noreferrer\">Bruce A. Weinberg</a>",
   "journal": "Journal of Economic Growth",
   "dateText": "פורסם: 2001",
   "doiUrl": "https://doi.org/10.1023/a:1012782212348",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eric D. Gould"
+      "name": "Eric D. Gould",
+      "url": "https://orcid.org/0000-0001-6564-2168"
     },
     {
       "@type": "Person",
@@ -26,13 +27,15 @@
     },
     {
       "@type": "Person",
-      "name": "Bruce A. Weinberg"
+      "name": "Bruce A. Weinberg",
+      "url": "https://economics.osu.edu/people/weinberg.27"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eric D. Gould"
+      "name": "Eric D. Gould",
+      "url": "https://orcid.org/0000-0001-6564-2168"
     },
     {
       "@type": "Person",
@@ -41,7 +44,8 @@
     },
     {
       "@type": "Person",
-      "name": "Bruce A. Weinberg"
+      "name": "Bruce A. Weinberg",
+      "url": "https://economics.osu.edu/people/weinberg.27"
     }
   ],
   "topics": [

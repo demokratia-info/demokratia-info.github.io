@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Aeyal M. Gross",
   "paperTitle": "The Politics of Rights in Israeli Constitutional Law",
-  "authorsHtml": "Aeyal M. Gross",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/agross\" target=\"_blank\" rel=\"noopener noreferrer\">Aeyal M. Gross</a>",
   "journal": "Israel Studies",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.2979/isr.1998.3.2.80",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Aeyal M. Gross"
+      "name": "Aeyal M. Gross",
+      "url": "https://english.tau.ac.il/profile/agross"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Aeyal M. Gross"
+      "name": "Aeyal M. Gross",
+      "url": "https://english.tau.ac.il/profile/agross"
     }
   ],
   "topics": [

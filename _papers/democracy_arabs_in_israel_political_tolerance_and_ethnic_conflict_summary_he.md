@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Mitchell A. Seligson, Dan Caspi",
   "paperTitle": "Arabs in Israel: Political Tolerance and Ethnic Conflict",
-  "authorsHtml": "Mitchell A. Seligson; Dan Caspi",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7202-9422\" target=\"_blank\" rel=\"noopener noreferrer\">Mitchell A. Seligson</a>; <a href=\"https://www.bgu.ac.il/en/u/faculties/humanities-and-social-sciences/departments/communication/dan-caspi-in-memory/\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Caspi</a>",
   "journal": "",
   "dateText": "פורסם: 1983",
   "doiUrl": "https://doi.org/10.1177/002188638301900107",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mitchell A. Seligson"
+      "name": "Mitchell A. Seligson",
+      "url": "https://orcid.org/0000-0002-7202-9422"
     },
     {
       "@type": "Person",
-      "name": "Dan Caspi"
+      "name": "Dan Caspi",
+      "url": "https://www.bgu.ac.il/en/u/faculties/humanities-and-social-sciences/departments/communication/dan-caspi-in-memory/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mitchell A. Seligson"
+      "name": "Mitchell A. Seligson",
+      "url": "https://orcid.org/0000-0002-7202-9422"
     },
     {
       "@type": "Person",
-      "name": "Dan Caspi"
+      "name": "Dan Caspi",
+      "url": "https://www.bgu.ac.il/en/u/faculties/humanities-and-social-sciences/departments/communication/dan-caspi-in-memory/"
     }
   ],
   "topics": [

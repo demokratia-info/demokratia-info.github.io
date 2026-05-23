@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Omri Grinberg, Sarai B. Aharoni",
   "paperTitle": "The human rights archival gap: ethno-archiving the silencing of radical activism and Israel’s violence against Palestinian women",
-  "authorsHtml": "Omri Grinberg, <a href=\"https://orcid.org/0000-0002-9096-4828\" target=\"_blank\" rel=\"noopener noreferrer\">Sarai B. Aharoni</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6641-982X\" target=\"_blank\" rel=\"noopener noreferrer\">Omri Grinberg</a>, <a href=\"https://orcid.org/0000-0002-9096-4828\" target=\"_blank\" rel=\"noopener noreferrer\">Sarai B. Aharoni</a>",
   "journal": "The International Journal of Human Rights",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1080/13642987.2024.2383733",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Omri Grinberg"
+      "name": "Omri Grinberg",
+      "url": "https://orcid.org/0000-0002-6641-982X"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Omri Grinberg"
+      "name": "Omri Grinberg",
+      "url": "https://orcid.org/0000-0002-6641-982X"
     },
     {
       "@type": "Person",

@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Ross Levine",
   "paperTitle": "Law, Finance, and Economic Growth",
-  "authorsHtml": "Ross Levine",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7459-9541\" target=\"_blank\" rel=\"noopener noreferrer\">Ross Levine</a>",
   "journal": "Journal of Financial Intermediation",
   "dateText": "פורסם: 1999",
   "doiUrl": "https://doi.org/10.1006/jfin.1998.0255",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ross Levine"
+      "name": "Ross Levine",
+      "url": "https://orcid.org/0000-0002-7459-9541"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ross Levine"
+      "name": "Ross Levine",
+      "url": "https://orcid.org/0000-0002-7459-9541"
     }
   ],
   "topics": [

@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Laura Marsiliani, Thomas I. Renström",
   "paperTitle": "Political institutions and economic growth",
-  "authorsHtml": "Laura Marsiliani, Thomas I. Renström",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3802-074X\" target=\"_blank\" rel=\"noopener noreferrer\">Laura Marsiliani</a>, <a href=\"https://orcid.org/0000-0002-2898-2507\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas I. Renström</a>",
   "journal": "Economics of Governance",
   "dateText": "פורסם: 2007",
   "doiUrl": "https://doi.org/10.1007/s10101-007-0038-z",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Laura Marsiliani"
+      "name": "Laura Marsiliani",
+      "url": "https://orcid.org/0000-0002-3802-074X"
     },
     {
       "@type": "Person",
-      "name": "Thomas I. Renström"
+      "name": "Thomas I. Renström",
+      "url": "https://orcid.org/0000-0002-2898-2507"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Laura Marsiliani"
+      "name": "Laura Marsiliani",
+      "url": "https://orcid.org/0000-0002-3802-074X"
     },
     {
       "@type": "Person",
-      "name": "Thomas I. Renström"
+      "name": "Thomas I. Renström",
+      "url": "https://orcid.org/0000-0002-2898-2507"
     }
   ],
   "topics": [

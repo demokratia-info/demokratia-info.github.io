@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Guy Ben-Porat, Fany Yuval",
   "paperTitle": "Minorities in democracy and policing policy: from alienation to cooperation",
-  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>, Fany Yuval",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>, <a href=\"https://orcid.org/0000-0003-1680-0603\" target=\"_blank\" rel=\"noopener noreferrer\">Fany Yuval</a>",
   "journal": "Policing and Society",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.1080/10439463.2011.636814",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Fany Yuval"
+      "name": "Fany Yuval",
+      "url": "https://orcid.org/0000-0003-1680-0603"
     }
   ],
   "sourceAuthors": [
@@ -33,7 +34,8 @@
     },
     {
       "@type": "Person",
-      "name": "Fany Yuval"
+      "name": "Fany Yuval",
+      "url": "https://orcid.org/0000-0003-1680-0603"
     }
   ],
   "topics": [

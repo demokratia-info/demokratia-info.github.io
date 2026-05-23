@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Clara Sabbagh",
   "paperTitle": "“Glocal” neoliberal trends in Israeli education: The case of religionization",
-  "authorsHtml": "Clara Sabbagh",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2730-240X\" target=\"_blank\" rel=\"noopener noreferrer\">Clara Sabbagh</a>",
   "journal": "International Journal of Educational Development",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.1016/j.ijedudev.2019.05.004",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Clara Sabbagh"
+      "name": "Clara Sabbagh",
+      "url": "https://orcid.org/0000-0002-2730-240X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Clara Sabbagh"
+      "name": "Clara Sabbagh",
+      "url": "https://orcid.org/0000-0002-2730-240X"
     }
   ],
   "topics": [

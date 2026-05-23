@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Oren Yiftachel",
   "paperTitle": "Between nation and state: `fractured' regionalism among Palestinian-Arabs in Israel",
-  "authorsHtml": "Oren Yiftachel",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>",
   "journal": "Political Geography",
   "dateText": "פורסם: 1999",
   "doiUrl": "https://doi.org/10.1016/s0962-6298(98)00086-9",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Oren Yiftachel"
+      "name": "Oren Yiftachel",
+      "url": "https://cris.bgu.ac.il/en/persons/oren-yiftachel"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Oren Yiftachel"
+      "name": "Oren Yiftachel",
+      "url": "https://cris.bgu.ac.il/en/persons/oren-yiftachel"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Ayman K. Agbaria, Muhanad Mustafa, Yousef T. Jabareen",
   "paperTitle": "In your face democracy: education for belonging and its challenges in Israel",
-  "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>, Muhanad Mustafa, Yousef T. Jabareen",
+  "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>, Muhanad Mustafa, <a href=\"https://ric.org.il/researcher/yousef-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Yousef T. Jabareen</a>",
   "journal": "",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1002/berj.3133",
@@ -27,7 +27,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yousef T. Jabareen"
+      "name": "Yousef T. Jabareen",
+      "url": "https://ric.org.il/researcher/yousef-jabareen/"
     }
   ],
   "sourceAuthors": [
@@ -42,7 +43,8 @@
     },
     {
       "@type": "Person",
-      "name": "Yousef T. Jabareen"
+      "name": "Yousef T. Jabareen",
+      "url": "https://ric.org.il/researcher/yousef-jabareen/"
     }
   ],
   "topics": [

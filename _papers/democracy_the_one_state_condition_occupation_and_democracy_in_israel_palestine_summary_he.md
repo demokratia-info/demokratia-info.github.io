@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בביטחון לאומי, שליטה בשטחים והיחס בין כוח שלטוני לשלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של פיקוח על כוח, זכויות, אחריות שלטונית וגבולות חירום. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Ramazan ODUNCU",
   "paperTitle": "The One State Condition: Occupation and Democracy in Israel / Palestine.",
-  "authorsHtml": "Ramazan ODUNCU",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6427-4495\" target=\"_blank\" rel=\"noopener noreferrer\">Ramazan ODUNCU</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.26513/tocd.553281",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ramazan ODUNCU"
+      "name": "Ramazan ODUNCU",
+      "url": "https://orcid.org/0000-0002-6427-4495"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ramazan ODUNCU"
+      "name": "Ramazan ODUNCU",
+      "url": "https://orcid.org/0000-0002-6427-4495"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yehiel S. Kaplan",
   "paperTitle": "Enforcement of Divorce Judgments in Jewish Courts in Israel: The Interaction Between Religious and Constitutional Law*",
-  "authorsHtml": "Yehiel S. Kaplan",
+  "authorsHtml": "<a href=\"https://law.haifa.ac.il/en/lecturers_eng/kaplane/\" target=\"_blank\" rel=\"noopener noreferrer\">Yehiel S. Kaplan</a>",
   "journal": "Middle East Law and Governance",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.1163/187633712x631246",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yehiel S. Kaplan"
+      "name": "Yehiel S. Kaplan",
+      "url": "https://law.haifa.ac.il/en/lecturers_eng/kaplane/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yehiel S. Kaplan"
+      "name": "Yehiel S. Kaplan",
+      "url": "https://law.haifa.ac.il/en/lecturers_eng/kaplane/"
     }
   ],
   "topics": [

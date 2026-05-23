@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Dani Rodrik, Arvind Subramanian, Francesco Trebbi",
   "paperTitle": "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development",
-  "authorsHtml": "Dani Rodrik, Arvind Subramanian, Francesco Trebbi",
+  "authorsHtml": "<a href=\"https://drodrik.scholars.harvard.edu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Rodrik</a>, <a href=\"https://www.piie.com/experts/senior-research-staff/arvind-subramanian\" target=\"_blank\" rel=\"noopener noreferrer\">Arvind Subramanian</a>, <a href=\"https://haas.berkeley.edu/faculty/francesco-trebbi/\" target=\"_blank\" rel=\"noopener noreferrer\">Francesco Trebbi</a>",
   "journal": "Journal of Economic Growth",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1023/b:joeg.0000031425.72248.85",
@@ -17,29 +17,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Dani Rodrik"
+      "name": "Dani Rodrik",
+      "url": "https://drodrik.scholars.harvard.edu/home"
     },
     {
       "@type": "Person",
-      "name": "Arvind Subramanian"
+      "name": "Arvind Subramanian",
+      "url": "https://www.piie.com/experts/senior-research-staff/arvind-subramanian"
     },
     {
       "@type": "Person",
-      "name": "Francesco Trebbi"
+      "name": "Francesco Trebbi",
+      "url": "https://haas.berkeley.edu/faculty/francesco-trebbi/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Dani Rodrik"
+      "name": "Dani Rodrik",
+      "url": "https://drodrik.scholars.harvard.edu/home"
     },
     {
       "@type": "Person",
-      "name": "Arvind Subramanian"
+      "name": "Arvind Subramanian",
+      "url": "https://www.piie.com/experts/senior-research-staff/arvind-subramanian"
     },
     {
       "@type": "Person",
-      "name": "Francesco Trebbi"
+      "name": "Francesco Trebbi",
+      "url": "https://haas.berkeley.edu/faculty/francesco-trebbi/"
     }
   ],
   "topics": [

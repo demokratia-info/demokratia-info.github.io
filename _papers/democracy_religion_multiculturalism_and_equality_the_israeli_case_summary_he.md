@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Frances Raday",
   "paperTitle": "Religion, Multiculturalism and Equality – The Israeli Case",
-  "authorsHtml": "Frances Raday",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/frances-raday\" target=\"_blank\" rel=\"noopener noreferrer\">Frances Raday</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1163/9789004423091_010",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Frances Raday"
+      "name": "Frances Raday",
+      "url": "https://en.law.huji.ac.il/people/frances-raday"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Frances Raday"
+      "name": "Frances Raday",
+      "url": "https://en.law.huji.ac.il/people/frances-raday"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ensherah Khoury; Michal Krumer-Nevo",
   "paperTitle": "Poverty in Arab-Palestinian society in Israel: Social work perspectives before and during COVID-19",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4927-3790\" target=\"_blank\" rel=\"noopener noreferrer\">Ensherah Khoury</a>; Michal Krumer-Nevo",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4927-3790\" target=\"_blank\" rel=\"noopener noreferrer\">Ensherah Khoury</a>; <a href=\"https://orcid.org/0000-0003-0813-5439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Krumer-Nevo</a>",
   "journal": "International Social Work",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1177/00208728221091125",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Michal Krumer-Nevo"
+      "name": "Michal Krumer-Nevo",
+      "url": "https://orcid.org/0000-0003-0813-5439"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Michal Krumer-Nevo"
+      "name": "Michal Krumer-Nevo",
+      "url": "https://orcid.org/0000-0003-0813-5439"
     }
   ],
   "topics": [

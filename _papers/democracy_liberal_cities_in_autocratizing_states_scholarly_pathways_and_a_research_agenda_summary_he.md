@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Nufar Avni",
   "paperTitle": "Liberal cities in autocratizing states: Scholarly pathways and a research agenda",
-  "authorsHtml": "Nufar Avni",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8317-808X\" target=\"_blank\" rel=\"noopener noreferrer\">Nufar Avni</a>",
   "journal": "Urban Studies",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1177/00420980251385996",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Nufar Avni"
+      "name": "Nufar Avni",
+      "url": "https://orcid.org/0000-0001-8317-808X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Nufar Avni"
+      "name": "Nufar Avni",
+      "url": "https://orcid.org/0000-0001-8317-808X"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר מציע לחשוב על חוקתיות כלכלית שלילית דרך פסיקת בית המשפט העליון בישראל, ועל ההשלכות שלה לריבונות דמוקרטית ולזכויות חברתיות. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "authorsCardHe": "לילך ליטור",
   "paperTitle": "Conceptualizing Economic Negative Constitutionalism: A Case Study of the Israeli Supreme Court",
-  "authorsHtml": "Lilach Litor",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2728-7430\" target=\"_blank\" rel=\"noopener noreferrer\">Lilach Litor</a>",
   "journal": "Journal of Law and Public Policy",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.55496/otcp9132",
@@ -24,7 +24,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Lilach Litor"
+      "name": "Lilach Litor",
+      "url": "https://orcid.org/0000-0002-2728-7430"
     }
   ],
   "topics": [

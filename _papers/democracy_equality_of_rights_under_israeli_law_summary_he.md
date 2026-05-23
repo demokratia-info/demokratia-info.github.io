@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Natan Lerner",
   "paperTitle": "Equality of rights under Israeli law",
-  "authorsHtml": "Natan Lerner",
+  "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/lerner\" target=\"_blank\" rel=\"noopener noreferrer\">Natan Lerner</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1080/0031322x.1975.9969272",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Natan Lerner"
+      "name": "Natan Lerner",
+      "url": "https://en-law.tau.ac.il/profile/lerner"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Natan Lerner"
+      "name": "Natan Lerner",
+      "url": "https://en-law.tau.ac.il/profile/lerner"
     }
   ],
   "topics": [

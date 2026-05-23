@@ -10,7 +10,7 @@
   "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
   "paperTitle": "Career Civil Servants' Socially Embedded Responses to Democratic Backsliding",
-  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, Nir Kosti, <a href=\"https://politics.biu.ac.il/en/node/1141\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0002-6779-0276\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>, <a href=\"https://politics.biu.ac.il/en/node/1141\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
   "journal": "Perspectives on Politics",
   "dateText": "פורסם אונליין: 26 ביוני 2025",
   "sourcePublishedDate": "2025-06-26",
@@ -51,7 +51,8 @@
     },
     {
       "@type": "Person",
-      "name": "Nir Kosti"
+      "name": "Nir Kosti",
+      "url": "https://orcid.org/0000-0002-6779-0276"
     },
     {
       "@type": "Person",

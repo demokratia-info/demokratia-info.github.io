@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Uri Ram",
   "paperTitle": "Tensions in the “Jewish Democracy”: The Constitutional Challenge of the Palestinian Citizens in Israel",
-  "authorsHtml": "Uri Ram",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4746-5126\" target=\"_blank\" rel=\"noopener noreferrer\">Uri Ram</a>",
   "journal": "Constellations",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00556.x",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Uri Ram"
+      "name": "Uri Ram",
+      "url": "https://orcid.org/0000-0002-4746-5126"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Uri Ram"
+      "name": "Uri Ram",
+      "url": "https://orcid.org/0000-0002-4746-5126"
     }
   ],
   "topics": [

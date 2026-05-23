@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Asmahan Masry-Herzallah",
   "paperTitle": "Education for multiculturalism in a master's degree program in Policy and Administration in Education: Comparing Jewish and Arab students in Israel",
-  "authorsHtml": "Asmahan Masry-Herzallah",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9522-9232\" target=\"_blank\" rel=\"noopener noreferrer\">Asmahan Masry-Herzallah</a>",
   "journal": "European Journal of Educational Research",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.12973/eu-jer.10.2.757",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Asmahan Masry-Herzallah"
+      "name": "Asmahan Masry-Herzallah",
+      "url": "https://orcid.org/0000-0002-9522-9232"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Asmahan Masry-Herzallah"
+      "name": "Asmahan Masry-Herzallah",
+      "url": "https://orcid.org/0000-0002-9522-9232"
     }
   ],
   "topics": [

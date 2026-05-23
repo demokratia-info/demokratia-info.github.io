@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אנטישמיות, אסלאמופוביה ואנטי־ציונות כהבניה פוליטית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Alberto Spektorowski",
   "paperTitle": "Anti-Semitism, Islamophobia and Anti-Zionism: Discrimination and Political Construction",
-  "authorsHtml": "Alberto Spektorowski",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/albertos\" target=\"_blank\" rel=\"noopener noreferrer\">Alberto Spektorowski</a>",
   "journal": "Religions",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.3390/rel15010074",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Alberto Spektorowski"
+      "name": "Alberto Spektorowski",
+      "url": "https://english.tau.ac.il/profile/albertos"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Alberto Spektorowski"
+      "name": "Alberto Spektorowski",
+      "url": "https://english.tau.ac.il/profile/albertos"
     }
   ],
   "topics": [

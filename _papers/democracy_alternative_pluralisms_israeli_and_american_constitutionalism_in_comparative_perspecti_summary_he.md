@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Gary J. Jacobsohn",
   "paperTitle": "Alternative Pluralisms: Israeli and American Constitutionalism in Comparative Perspective",
-  "authorsHtml": "Gary J. Jacobsohn",
+  "authorsHtml": "<a href=\"https://liberalarts.utexas.edu/lawanddemocracy/faculty/gjj69\" target=\"_blank\" rel=\"noopener noreferrer\">Gary J. Jacobsohn</a>",
   "journal": "",
   "dateText": "פורסם: 1989",
   "doiUrl": "https://doi.org/10.1017/s0034670500048075",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gary J. Jacobsohn"
+      "name": "Gary J. Jacobsohn",
+      "url": "https://liberalarts.utexas.edu/lawanddemocracy/faculty/gjj69"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gary J. Jacobsohn"
+      "name": "Gary J. Jacobsohn",
+      "url": "https://liberalarts.utexas.edu/lawanddemocracy/faculty/gjj69"
     }
   ],
   "topics": [

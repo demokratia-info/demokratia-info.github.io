@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית שפה ואזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Elana Shohamy; Tzahi Kanza",
   "paperTitle": "Language and Citizenship in Israel",
-  "authorsHtml": "Elana Shohamy; Tzahi Kanza",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3462-1588\" target=\"_blank\" rel=\"noopener noreferrer\">Elana Shohamy</a>; Tzahi Kanza",
   "journal": "Language Assessment Quarterly",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1080/15434300802606622",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Elana Shohamy"
+      "name": "Elana Shohamy",
+      "url": "https://orcid.org/0000-0003-3462-1588"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Elana Shohamy"
+      "name": "Elana Shohamy",
+      "url": "https://orcid.org/0000-0003-3462-1588"
     },
     {
       "@type": "Person",

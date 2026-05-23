@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Emmanuel Flachaire, Cecilia García-Peñalosa, Maty Konte",
   "paperTitle": "Political versus economic institutions in the growth process",
-  "authorsHtml": "Emmanuel Flachaire, <a href=\"https://sites.google.com/view/ceciliagarciapenalosa\" target=\"_blank\" rel=\"noopener noreferrer\">Cecilia García-Peñalosa</a>, Maty Konte",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2291-6015\" target=\"_blank\" rel=\"noopener noreferrer\">Emmanuel Flachaire</a>, <a href=\"https://sites.google.com/view/ceciliagarciapenalosa\" target=\"_blank\" rel=\"noopener noreferrer\">Cecilia García-Peñalosa</a>, <a href=\"https://orcid.org/0000-0003-1672-126X\" target=\"_blank\" rel=\"noopener noreferrer\">Maty Konte</a>",
   "journal": "Journal of Comparative Economics",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1016/j.jce.2013.05.001",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Emmanuel Flachaire"
+      "name": "Emmanuel Flachaire",
+      "url": "https://orcid.org/0000-0002-2291-6015"
     },
     {
       "@type": "Person",
@@ -26,13 +27,15 @@
     },
     {
       "@type": "Person",
-      "name": "Maty Konte"
+      "name": "Maty Konte",
+      "url": "https://orcid.org/0000-0003-1672-126X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Emmanuel Flachaire"
+      "name": "Emmanuel Flachaire",
+      "url": "https://orcid.org/0000-0002-2291-6015"
     },
     {
       "@type": "Person",
@@ -41,7 +44,8 @@
     },
     {
       "@type": "Person",
-      "name": "Maty Konte"
+      "name": "Maty Konte",
+      "url": "https://orcid.org/0000-0003-1672-126X"
     }
   ],
   "topics": [

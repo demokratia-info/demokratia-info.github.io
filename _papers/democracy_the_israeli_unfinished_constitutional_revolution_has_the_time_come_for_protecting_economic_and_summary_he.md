@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yoram Rabin; Yuval Shany",
   "paperTitle": "The Israeli Unfinished Constitutional Revolution: Has the Time Come for Protecting Economic and Social Rights?",
-  "authorsHtml": "Yoram Rabin, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3058-058X\" target=\"_blank\" rel=\"noopener noreferrer\">Yoram Rabin</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1017/s0021223700012504",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yoram Rabin"
+      "name": "Yoram Rabin",
+      "url": "https://orcid.org/0000-0003-3058-058X"
     },
     {
       "@type": "Person",
@@ -29,7 +30,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yoram Rabin"
+      "name": "Yoram Rabin",
+      "url": "https://orcid.org/0000-0003-3058-058X"
     },
     {
       "@type": "Person",

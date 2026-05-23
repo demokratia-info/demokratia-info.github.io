@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Ariel Sarid, Daphne Goldman",
   "paperTitle": "A Value-Based Framework Connecting Environmental Citizenship and Change Agents for Sustainability—Implications for Education for Environmental Citizenship",
-  "authorsHtml": "Ariel Sarid, Daphne Goldman",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0453-6112\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Sarid</a>, <a href=\"https://orcid.org/0000-0003-0443-2276\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Goldman</a>",
   "journal": "Sustainability",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.3390/su13084338",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ariel Sarid"
+      "name": "Ariel Sarid",
+      "url": "https://orcid.org/0000-0003-0453-6112"
     },
     {
       "@type": "Person",
-      "name": "Daphne Goldman"
+      "name": "Daphne Goldman",
+      "url": "https://orcid.org/0000-0003-0443-2276"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ariel Sarid"
+      "name": "Ariel Sarid",
+      "url": "https://orcid.org/0000-0003-0453-6112"
     },
     {
       "@type": "Person",
-      "name": "Daphne Goldman"
+      "name": "Daphne Goldman",
+      "url": "https://orcid.org/0000-0003-0443-2276"
     }
   ],
   "topics": [

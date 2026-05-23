@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "J. Fox, S. Sandler",
   "paperTitle": "Quantifying Religion: Toward Building More Effective Ways of Measuring Religious Influence on State-Level Behavior",
-  "authorsHtml": "J. Fox, S. Sandler",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>, <a href=\"https://politics.biu.ac.il/node/585\" target=\"_blank\" rel=\"noopener noreferrer\">Shmuel Sandler</a>",
   "journal": "Journal of Church and State",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1093/jcs/45.3.559",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "J. Fox"
+      "name": "Jonathan Fox",
+      "url": "https://cris.biu.ac.il/en/persons/jonathan-fox/"
     },
     {
       "@type": "Person",
-      "name": "S. Sandler"
+      "name": "Shmuel Sandler",
+      "url": "https://politics.biu.ac.il/node/585"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "J. Fox"
+      "name": "Jonathan Fox",
+      "url": "https://cris.biu.ac.il/en/persons/jonathan-fox/"
     },
     {
       "@type": "Person",
-      "name": "S. Sandler"
+      "name": "Shmuel Sandler",
+      "url": "https://politics.biu.ac.il/node/585"
     }
   ],
   "topics": [

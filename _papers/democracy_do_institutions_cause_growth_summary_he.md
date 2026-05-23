@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer",
   "paperTitle": "Do Institutions Cause Growth?",
-  "authorsHtml": "Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer",
+  "authorsHtml": "<a href=\"https://www.hks.harvard.edu/faculty/edward-glaeser\" target=\"_blank\" rel=\"noopener noreferrer\">Edward L. Glaeser</a>, <a href=\"https://vivo.brown.edu/display/rlaporta\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael La Porta</a>, <a href=\"https://orcid.org/0000-0002-5204-5599\" target=\"_blank\" rel=\"noopener noreferrer\">Florencio Lopez-de-Silanes</a>, <a href=\"https://scholar.harvard.edu/shleifer/home\" target=\"_blank\" rel=\"noopener noreferrer\">Andrei Shleifer</a>",
   "journal": "Journal of Economic Growth",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1023/b:joeg.0000038933.16398.ed",
@@ -17,37 +17,45 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Edward L. Glaeser"
+      "name": "Edward L. Glaeser",
+      "url": "https://www.hks.harvard.edu/faculty/edward-glaeser"
     },
     {
       "@type": "Person",
-      "name": "Rafael La Porta"
+      "name": "Rafael La Porta",
+      "url": "https://vivo.brown.edu/display/rlaporta"
     },
     {
       "@type": "Person",
-      "name": "Florencio Lopez-de-Silanes"
+      "name": "Florencio Lopez-de-Silanes",
+      "url": "https://orcid.org/0000-0002-5204-5599"
     },
     {
       "@type": "Person",
-      "name": "Andrei Shleifer"
+      "name": "Andrei Shleifer",
+      "url": "https://scholar.harvard.edu/shleifer/home"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Edward L. Glaeser"
+      "name": "Edward L. Glaeser",
+      "url": "https://www.hks.harvard.edu/faculty/edward-glaeser"
     },
     {
       "@type": "Person",
-      "name": "Rafael La Porta"
+      "name": "Rafael La Porta",
+      "url": "https://vivo.brown.edu/display/rlaporta"
     },
     {
       "@type": "Person",
-      "name": "Florencio Lopez-de-Silanes"
+      "name": "Florencio Lopez-de-Silanes",
+      "url": "https://orcid.org/0000-0002-5204-5599"
     },
     {
       "@type": "Person",
-      "name": "Andrei Shleifer"
+      "name": "Andrei Shleifer",
+      "url": "https://scholar.harvard.edu/shleifer/home"
     }
   ],
   "topics": [

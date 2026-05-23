@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מחאה דתית, תגובת משטרה וסובלנות פוליטית דרך עדשה של דעת קהל, קיטוב ואלימות פוליטית. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על עמדות ציבוריות, קיטוב, מחאה והצדקת כוח פוליטי. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "S. Lehman-Wilzig; G. Goldberg",
   "paperTitle": "Religious Protest and Police Reaction in a Theo-Democracy: Israel, 1950-1979",
-  "authorsHtml": "S. Lehman-Wilzig; G. Goldberg",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6635-4923\" target=\"_blank\" rel=\"noopener noreferrer\">Sam Lehman‐Wilzig</a>; G. Goldberg",
   "journal": "Journal of Church and State",
   "dateText": "פורסם: 1983",
   "doiUrl": "https://doi.org/10.1093/jcs/25.3.491",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "S. Lehman-Wilzig"
+      "name": "Sam Lehman‐Wilzig",
+      "url": "https://orcid.org/0000-0002-6635-4923"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "S. Lehman-Wilzig"
+      "name": "Sam Lehman‐Wilzig",
+      "url": "https://orcid.org/0000-0002-6635-4923"
     },
     {
       "@type": "Person",

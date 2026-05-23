@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Oren Yiftachel, Jonathan Rokem",
   "paperTitle": "Polarizations, exclusionary neonationalisms and the city",
-  "authorsHtml": "Oren Yiftachel, Jonathan Rokem",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>, Jonathan Rokem",
   "journal": "Political Geography",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1016/j.polgeo.2020.102329",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Oren Yiftachel"
+      "name": "Oren Yiftachel",
+      "url": "https://cris.bgu.ac.il/en/persons/oren-yiftachel"
     },
     {
       "@type": "Person",
@@ -27,7 +28,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Oren Yiftachel"
+      "name": "Oren Yiftachel",
+      "url": "https://cris.bgu.ac.il/en/persons/oren-yiftachel"
     },
     {
       "@type": "Person",

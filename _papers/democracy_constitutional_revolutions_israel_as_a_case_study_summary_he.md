@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ישראל כמקרה מבחן למהפכות חוקתיות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Gideon Sapir",
   "paperTitle": "Constitutional revolutions: Israel as a case-study",
-  "authorsHtml": "Gideon Sapir",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/gideon-sapir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gideon Sapir</a>",
   "journal": "International Journal of Law in Context",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1017/s1744552309990218",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gideon Sapir"
+      "name": "Gideon Sapir",
+      "url": "https://cris.biu.ac.il/en/persons/gideon-sapir/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gideon Sapir"
+      "name": "Gideon Sapir",
+      "url": "https://cris.biu.ac.il/en/persons/gideon-sapir/"
     }
   ],
   "topics": [

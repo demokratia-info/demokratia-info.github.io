@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Michal Segal, Ayelet Gur",
   "paperTitle": "The Legal Landscape of Parenting with Disabilities: A Study of Court Judgments Involving Parents with Disabilities in Israel",
-  "authorsHtml": "Michal Segal, <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8234-1439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Segal</a>, <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>",
   "journal": "Journal of Human Rights and Social Work",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1007/s41134-025-00399-3",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Michal Segal"
+      "name": "Michal Segal",
+      "url": "https://orcid.org/0000-0001-8234-1439"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Michal Segal"
+      "name": "Michal Segal",
+      "url": "https://orcid.org/0000-0001-8234-1439"
     },
     {
       "@type": "Person",

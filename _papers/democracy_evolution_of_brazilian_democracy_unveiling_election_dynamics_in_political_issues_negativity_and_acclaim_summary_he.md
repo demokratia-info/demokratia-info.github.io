@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Isabella Gonçalves, Mathias-Felipe De-Lima-Santos, Vicente Fenoll, Yossi David",
   "paperTitle": "Evolution of Brazilian Democracy: Unveiling Election Dynamics in Political Issues, Negativity, and Acclaim",
-  "authorsHtml": "Isabella Gonçalves, Mathias-Felipe De-Lima-Santos, Vicente Fenoll, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6492-9236\" target=\"_blank\" rel=\"noopener noreferrer\">Isabella Gonçalves</a>, <a href=\"https://orcid.org/0000-0001-8879-7381\" target=\"_blank\" rel=\"noopener noreferrer\">Mathias-Felipe De-Lima-Santos</a>, <a href=\"https://orcid.org/0000-0002-5851-4237\" target=\"_blank\" rel=\"noopener noreferrer\">Vicente Fenoll</a>, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>",
   "journal": "Politics and Governance",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.17645/pag.8060",
@@ -17,15 +17,18 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Isabella Gonçalves"
+      "name": "Isabella Gonçalves",
+      "url": "https://orcid.org/0000-0002-6492-9236"
     },
     {
       "@type": "Person",
-      "name": "Mathias-Felipe De-Lima-Santos"
+      "name": "Mathias-Felipe De-Lima-Santos",
+      "url": "https://orcid.org/0000-0001-8879-7381"
     },
     {
       "@type": "Person",
-      "name": "Vicente Fenoll"
+      "name": "Vicente Fenoll",
+      "url": "https://orcid.org/0000-0002-5851-4237"
     },
     {
       "@type": "Person",
@@ -36,15 +39,18 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Isabella Gonçalves"
+      "name": "Isabella Gonçalves",
+      "url": "https://orcid.org/0000-0002-6492-9236"
     },
     {
       "@type": "Person",
-      "name": "Mathias-Felipe De-Lima-Santos"
+      "name": "Mathias-Felipe De-Lima-Santos",
+      "url": "https://orcid.org/0000-0001-8879-7381"
     },
     {
       "@type": "Person",
-      "name": "Vicente Fenoll"
+      "name": "Vicente Fenoll",
+      "url": "https://orcid.org/0000-0002-5851-4237"
     },
     {
       "@type": "Person",

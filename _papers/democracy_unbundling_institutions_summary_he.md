@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Daron Acemoglu, Simon Johnson",
   "paperTitle": "Unbundling Institutions",
-  "authorsHtml": "Daron Acemoglu, Simon Johnson",
+  "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/daron-acemoglu\" target=\"_blank\" rel=\"noopener noreferrer\">Daron Acemoglu</a>, <a href=\"https://mitsloan.mit.edu/faculty/directory/simon-johnson\" target=\"_blank\" rel=\"noopener noreferrer\">Simon Johnson</a>",
   "journal": "Journal of Political Economy",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.1086/432166",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Simon Johnson"
+      "name": "Simon Johnson",
+      "url": "https://mitsloan.mit.edu/faculty/directory/simon-johnson"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Simon Johnson"
+      "name": "Simon Johnson",
+      "url": "https://mitsloan.mit.edu/faculty/directory/simon-johnson"
     }
   ],
   "topics": [

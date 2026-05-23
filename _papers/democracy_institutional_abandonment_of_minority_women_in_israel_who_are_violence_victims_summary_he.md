@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Tal Meler, Michal Hisherik",
   "paperTitle": "Institutional Abandonment of Minority Women in Israel Who Are Violence Victims",
-  "authorsHtml": "<a href=\"https://ric.org.il/researcher/tal-meler/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Meler</a>, Michal Hisherik",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/tal-meler/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Meler</a>, <a href=\"https://orcid.org/0000-0003-4017-5713\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Hisherik</a>",
   "journal": "Open MIND",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.14273/unisa-7051",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Michal Hisherik"
+      "name": "Michal Hisherik",
+      "url": "https://orcid.org/0000-0003-4017-5713"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Michal Hisherik"
+      "name": "Michal Hisherik",
+      "url": "https://orcid.org/0000-0003-4017-5713"
     }
   ],
   "topics": [

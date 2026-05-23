@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Alon Helled",
   "paperTitle": "Crossing the Democratic Boundaries? Israeli protest against the Autocratization Perils of the 2023 Institutional Reform",
-  "authorsHtml": "Alon Helled",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3787-0045\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Helled</a>",
   "journal": "SocietàMutamentoPolitica",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.36253/smp-15051",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Alon Helled"
+      "name": "Alon Helled",
+      "url": "https://orcid.org/0000-0003-3787-0045"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Alon Helled"
+      "name": "Alon Helled",
+      "url": "https://orcid.org/0000-0003-3787-0045"
     }
   ],
   "topics": [

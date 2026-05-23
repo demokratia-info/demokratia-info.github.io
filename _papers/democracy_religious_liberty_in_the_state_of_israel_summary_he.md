@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חירות דתית במדינת ישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Natan Lerner",
   "paperTitle": "Religious Liberty in the State of Israel",
-  "authorsHtml": "Natan Lerner",
+  "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/lerner\" target=\"_blank\" rel=\"noopener noreferrer\">Natan Lerner</a>",
   "journal": "Religion and Equality Law",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.4324/9781315088945-9",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Natan Lerner"
+      "name": "Natan Lerner",
+      "url": "https://en-law.tau.ac.il/profile/lerner"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Natan Lerner"
+      "name": "Natan Lerner",
+      "url": "https://en-law.tau.ac.il/profile/lerner"
     }
   ],
   "topics": [

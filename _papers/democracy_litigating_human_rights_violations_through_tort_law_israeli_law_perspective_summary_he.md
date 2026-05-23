@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית תביעות נזיקין כהתמודדות עם הפרות זכויות אדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Iris Canor; Tamar Gidron; Haya Zandberg",
   "paperTitle": "Litigating Human Rights Violations Through Tort Law: Israeli Law Perspective",
-  "authorsHtml": "Iris Canor; Tamar Gidron; Haya Zandberg",
+  "authorsHtml": "<a href=\"https://www.law.georgetown.edu/ctls/staff/iris-canor/\" target=\"_blank\" rel=\"noopener noreferrer\">Iris Canor</a>; <a href=\"https://www.colman.ac.il/teaching/lecturers/tamar-gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Gidron</a>; Haya Zandberg",
   "journal": "Ius Comparatum - Global Studies in Comparative Law",
   "dateText": "פורסם: 2016",
   "doiUrl": "https://doi.org/10.1007/978-3-319-18950-5_9",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Tamar Gidron"
+      "name": "Tamar Gidron",
+      "url": "https://www.colman.ac.il/teaching/lecturers/tamar-gidron/"
     },
     {
       "@type": "Person",
@@ -32,11 +33,13 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Iris Canor"
+      "name": "Iris Canor",
+      "url": "https://www.law.georgetown.edu/ctls/staff/iris-canor/"
     },
     {
       "@type": "Person",
-      "name": "Tamar Gidron"
+      "name": "Tamar Gidron",
+      "url": "https://www.colman.ac.il/teaching/lecturers/tamar-gidron/"
     },
     {
       "@type": "Person",

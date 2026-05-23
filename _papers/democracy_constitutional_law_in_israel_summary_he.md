@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Claude Klein",
   "paperTitle": "Constitutional Law in Israel",
-  "authorsHtml": "Claude Klein",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/claude-klein\" target=\"_blank\" rel=\"noopener noreferrer\">Claude Klein</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Claude Klein"
+      "name": "Claude Klein",
+      "url": "https://en.law.huji.ac.il/people/claude-klein"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Claude Klein"
+      "name": "Claude Klein",
+      "url": "https://en.law.huji.ac.il/people/claude-klein"
     }
   ],
   "topics": [

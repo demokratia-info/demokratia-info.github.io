@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Antoni Abat Ninet",
   "paperTitle": "The inexorableness of constitutional amendments and its democratic potentiality",
-  "authorsHtml": "Antoni Abat Ninet",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1091-0820\" target=\"_blank\" rel=\"noopener noreferrer\">Antoni Abat Ninet</a>",
   "journal": "Revista de Investigações Constitucionais",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.5380/rinc.v7i3.73540",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Antoni Abat Ninet"
+      "name": "Antoni Abat Ninet",
+      "url": "https://orcid.org/0000-0002-1091-0820"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Antoni Abat Ninet"
+      "name": "Antoni Abat Ninet",
+      "url": "https://orcid.org/0000-0002-1091-0820"
     }
   ],
   "topics": [

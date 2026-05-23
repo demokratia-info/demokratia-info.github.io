@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ittai Bar-Siman-Tov; Itay Cohen; Chani Koth",
   "paperTitle": "The Changing Role of Judicial Review during Prolonged Emergencies: The Israeli Supreme Court during COVID-19",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8110-639X\" target=\"_blank\" rel=\"noopener noreferrer\">Ittai Bar-Siman-Tov</a>; Itay Cohen; Chani Koth",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8110-639X\" target=\"_blank\" rel=\"noopener noreferrer\">Ittai Bar-Siman-Tov</a>; <a href=\"https://orcid.org/0000-0002-5077-4085\" target=\"_blank\" rel=\"noopener noreferrer\">Itay Cohen</a>; Chani Koth",
   "journal": "SSRN Electronic Journal",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.2139/ssrn.3892273",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Itay Cohen"
+      "name": "Itay Cohen",
+      "url": "https://orcid.org/0000-0002-5077-4085"
     },
     {
       "@type": "Person",
@@ -38,7 +39,8 @@
     },
     {
       "@type": "Person",
-      "name": "Itay Cohen"
+      "name": "Itay Cohen",
+      "url": "https://orcid.org/0000-0002-5077-4085"
     },
     {
       "@type": "Person",

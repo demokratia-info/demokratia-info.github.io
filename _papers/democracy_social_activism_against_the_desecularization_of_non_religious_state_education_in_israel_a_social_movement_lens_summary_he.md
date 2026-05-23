@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Shiran German Ben-Hayun, Izhak Berkovich",
   "paperTitle": "Social activism against the desecularization of non-religious state education in Israel: a social movement lens",
-  "authorsHtml": "Shiran German Ben-Hayun, Izhak Berkovich",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7919-9451\" target=\"_blank\" rel=\"noopener noreferrer\">Shiran German Ben-Hayun</a>, <a href=\"https://orcid.org/0000-0001-5710-3666\" target=\"_blank\" rel=\"noopener noreferrer\">Izhak Berkovich</a>",
   "journal": "Politics and Religion",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1017/s1755048325000094",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Shiran German Ben-Hayun"
+      "name": "Shiran German Ben-Hayun",
+      "url": "https://orcid.org/0000-0001-7919-9451"
     },
     {
       "@type": "Person",
-      "name": "Izhak Berkovich"
+      "name": "Izhak Berkovich",
+      "url": "https://orcid.org/0000-0001-5710-3666"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Shiran German Ben-Hayun"
+      "name": "Shiran German Ben-Hayun",
+      "url": "https://orcid.org/0000-0001-7919-9451"
     },
     {
       "@type": "Person",
-      "name": "Izhak Berkovich"
+      "name": "Izhak Berkovich",
+      "url": "https://orcid.org/0000-0001-5710-3666"
     }
   ],
   "topics": [

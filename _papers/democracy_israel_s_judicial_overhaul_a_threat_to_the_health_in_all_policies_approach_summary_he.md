@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Shelly Kamin-Friedman; Hagai Levine; Nadav Davidovitch; Aron M Troen; Y Tony Yang",
   "paperTitle": "Israel's judicial overhaul: a threat to the Health in All Policies approach",
-  "authorsHtml": "Shelly Kamin-Friedman; Hagai Levine; Nadav Davidovitch; Aron M Troen; Y Tony Yang",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8870-4760\" target=\"_blank\" rel=\"noopener noreferrer\">Shelly Kamin-Friedman</a>; <a href=\"https://orcid.org/0000-0002-5597-4916\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Levine</a>; <a href=\"https://orcid.org/0000-0001-5709-9265\" target=\"_blank\" rel=\"noopener noreferrer\">Nadav Davidovitch</a>; <a href=\"https://orcid.org/0000-0001-9738-2524\" target=\"_blank\" rel=\"noopener noreferrer\">Aron M Troen</a>; <a href=\"https://orcid.org/0000-0002-0155-8490\" target=\"_blank\" rel=\"noopener noreferrer\">Y Tony Yang</a>",
   "journal": "The Lancet",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1016/s0140-6736(23)01663-x",
@@ -18,45 +18,55 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Shelly Kamin-Friedman"
+      "name": "Shelly Kamin-Friedman",
+      "url": "https://orcid.org/0000-0002-8870-4760"
     },
     {
       "@type": "Person",
-      "name": "Hagai Levine"
+      "name": "Hagai Levine",
+      "url": "https://orcid.org/0000-0002-5597-4916"
     },
     {
       "@type": "Person",
-      "name": "Nadav Davidovitch"
+      "name": "Nadav Davidovitch",
+      "url": "https://orcid.org/0000-0001-5709-9265"
     },
     {
       "@type": "Person",
-      "name": "Aron M Troen"
+      "name": "Aron M Troen",
+      "url": "https://orcid.org/0000-0001-9738-2524"
     },
     {
       "@type": "Person",
-      "name": "Y Tony Yang"
+      "name": "Y Tony Yang",
+      "url": "https://orcid.org/0000-0002-0155-8490"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Shelly Kamin-Friedman"
+      "name": "Shelly Kamin-Friedman",
+      "url": "https://orcid.org/0000-0002-8870-4760"
     },
     {
       "@type": "Person",
-      "name": "Hagai Levine"
+      "name": "Hagai Levine",
+      "url": "https://orcid.org/0000-0002-5597-4916"
     },
     {
       "@type": "Person",
-      "name": "Nadav Davidovitch"
+      "name": "Nadav Davidovitch",
+      "url": "https://orcid.org/0000-0001-5709-9265"
     },
     {
       "@type": "Person",
-      "name": "Aron M Troen"
+      "name": "Aron M Troen",
+      "url": "https://orcid.org/0000-0001-9738-2524"
     },
     {
       "@type": "Person",
-      "name": "Y Tony Yang"
+      "name": "Y Tony Yang",
+      "url": "https://orcid.org/0000-0002-0155-8490"
     }
   ],
   "topics": [

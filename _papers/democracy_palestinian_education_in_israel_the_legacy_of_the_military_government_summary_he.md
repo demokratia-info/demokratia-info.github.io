@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חינוך פלסטיני בישראל ומורשת הממשל הצבאי דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Ismael Abu‐Saad",
   "paperTitle": "Palestinian Education in Israel: The Legacy of the Military Government",
-  "authorsHtml": "Ismael Abu‐Saad",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2601-7188\" target=\"_blank\" rel=\"noopener noreferrer\">Ismael Abu‐Saad</a>",
   "journal": "Holy Land Studies",
   "dateText": "פורסם: 2006",
   "doiUrl": "https://doi.org/10.3366/hls.2006.0001",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ismael Abu‐Saad"
+      "name": "Ismael Abu‐Saad",
+      "url": "https://orcid.org/0000-0003-2601-7188"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ismael Abu‐Saad"
+      "name": "Ismael Abu‐Saad",
+      "url": "https://orcid.org/0000-0003-2601-7188"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Arik Rudnitzky",
   "paperTitle": "Back to the Knesset? Israeli Arab vote in the 20th Knesset elections",
-  "authorsHtml": "Arik Rudnitzky",
+  "authorsHtml": "<a href=\"https://liberal-arts.tau.ac.il/arik_rudnitzky\" target=\"_blank\" rel=\"noopener noreferrer\">Arik Rudnitzky</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1080/13537121.2016.1174384",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Arik Rudnitzky"
+      "name": "Arik Rudnitzky",
+      "url": "https://liberal-arts.tau.ac.il/arik_rudnitzky"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Arik Rudnitzky"
+      "name": "Arik Rudnitzky",
+      "url": "https://liberal-arts.tau.ac.il/arik_rudnitzky"
     }
   ],
   "topics": [

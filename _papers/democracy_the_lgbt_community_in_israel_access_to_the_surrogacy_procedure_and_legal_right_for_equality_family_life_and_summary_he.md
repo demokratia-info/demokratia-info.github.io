@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yael Ilany, Netta Ilany",
   "paperTitle": "The LGBT community in Israel: access to the surrogacy procedure and legal right for equality, family life and parenthood",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6111-1730\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Ilany</a>, Netta Ilany",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6111-1730\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Ilany</a>, <a href=\"https://orcid.org/0000-0002-9413-4266\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Ilany</a>",
   "journal": "Ruch Prawniczy Ekonomiczny i Socjologiczny",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.14746/rpeis.2021.83.1.7",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Netta Ilany"
+      "name": "Netta Ilany",
+      "url": "https://orcid.org/0000-0002-9413-4266"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Netta Ilany"
+      "name": "Netta Ilany",
+      "url": "https://orcid.org/0000-0002-9413-4266"
     }
   ],
   "topics": [

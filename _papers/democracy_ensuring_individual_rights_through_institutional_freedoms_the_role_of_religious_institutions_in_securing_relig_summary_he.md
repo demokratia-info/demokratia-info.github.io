@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Jonathan Fox, Roger Finke",
   "paperTitle": "Ensuring Individual Rights through Institutional Freedoms: The Role of Religious Institutions in Securing Religious Rights",
-  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>, Roger Finke",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>, <a href=\"https://orcid.org/0000-0002-6158-4869\" target=\"_blank\" rel=\"noopener noreferrer\">Roger Finke</a>",
   "journal": "Religions",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.3390/rel12040273",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Roger Finke"
+      "name": "Roger Finke",
+      "url": "https://orcid.org/0000-0002-6158-4869"
     }
   ],
   "sourceAuthors": [
@@ -33,7 +34,8 @@
     },
     {
       "@type": "Person",
-      "name": "Roger Finke"
+      "name": "Roger Finke",
+      "url": "https://orcid.org/0000-0002-6158-4869"
     }
   ],
   "topics": [

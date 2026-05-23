@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Roni Holler",
   "paperTitle": "Religion and the Israeli Welfare State: The Case of Burial Services",
-  "authorsHtml": "Roni Holler",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2080-3527\" target=\"_blank\" rel=\"noopener noreferrer\">Roni Holler</a>",
   "journal": "Politics and Religion",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1017/s1755048320000632",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Roni Holler"
+      "name": "Roni Holler",
+      "url": "https://orcid.org/0000-0002-2080-3527"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Roni Holler"
+      "name": "Roni Holler",
+      "url": "https://orcid.org/0000-0002-2080-3527"
     }
   ],
   "topics": [

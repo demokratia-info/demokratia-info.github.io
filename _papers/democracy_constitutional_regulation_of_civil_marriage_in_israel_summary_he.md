@@ -9,7 +9,7 @@
   "summaryHe": "המאמר של גל אמיר סוקר את ההסדרה החוקתית של נישואים וגירושים בארץ מימי המנדט הבריטי ועד מדינת ישראל. החשיבות הדמוקרטית היא בכך שנישואים אזרחיים אינם רק שאלה פרטית של זוגיות, אלא מבחן לשוויון אזרחי, חופש דת וחופש מדת, וליכולת של המדינה להעניק מעמד אישי בלי לכפות זהות דתית. המאמר ממקם את הקושי הישראלי בתוך רצף היסטורי של סמכויות דתיות ומשפט ציבורי.",
   "authorsCardHe": "Gal Amir",
   "paperTitle": "Constitutional regulation of civil marriage in Israel",
-  "authorsHtml": "Gal Amir",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7420-5509\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Amir</a>",
   "journal": "Constitutional and legal academic studies",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.24144/2663-5399.2022.1.01",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Gal Amir"
+      "name": "Gal Amir",
+      "url": "https://orcid.org/0000-0001-7420-5509"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Gal Amir"
+      "name": "Gal Amir",
+      "url": "https://orcid.org/0000-0001-7420-5509"
     }
   ],
   "topics": [

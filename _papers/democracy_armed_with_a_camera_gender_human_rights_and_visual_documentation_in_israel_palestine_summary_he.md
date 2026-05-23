@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Ruthie Ginsburg",
   "paperTitle": "Armed with a Camera: Gender, Human Rights, and Visual Documentation in Israel/Palestine",
-  "authorsHtml": "Ruthie Ginsburg",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9147-9536\" target=\"_blank\" rel=\"noopener noreferrer\">Ruthie Ginsburg</a>",
   "journal": "Signs: Journal of Women in Culture and Society",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1086/712389",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ruthie Ginsburg"
+      "name": "Ruthie Ginsburg",
+      "url": "https://orcid.org/0000-0001-9147-9536"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ruthie Ginsburg"
+      "name": "Ruthie Ginsburg",
+      "url": "https://orcid.org/0000-0001-9147-9536"
     }
   ],
   "topics": [

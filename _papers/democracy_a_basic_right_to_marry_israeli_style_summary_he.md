@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ayelet Blecher-Prigat",
   "paperTitle": "A Basic Right to Marry: Israeli Style",
-  "authorsHtml": "Ayelet Blecher-Prigat",
+  "authorsHtml": "<a href=\"https://helendillerinstitute.berkeley.edu/people/ayelet-blecher-prigat\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Blecher-Prigat</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1017/s0021223714000168",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ayelet Blecher-Prigat"
+      "name": "Ayelet Blecher-Prigat",
+      "url": "https://helendillerinstitute.berkeley.edu/people/ayelet-blecher-prigat"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ayelet Blecher-Prigat"
+      "name": "Ayelet Blecher-Prigat",
+      "url": "https://helendillerinstitute.berkeley.edu/people/ayelet-blecher-prigat"
     }
   ],
   "topics": [

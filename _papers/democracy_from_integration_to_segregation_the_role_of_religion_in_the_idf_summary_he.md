@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Stuart A. Cohen",
   "paperTitle": "From Integration to Segregation The Role of Religion in the IDF",
-  "authorsHtml": "Stuart A. Cohen",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2931-4495\" target=\"_blank\" rel=\"noopener noreferrer\">Stuart A. Cohen</a>",
   "journal": "Armed Forces & Society",
   "dateText": "פורסם: 1999",
   "doiUrl": "https://doi.org/10.1177/0095327x9902500303",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Stuart A. Cohen"
+      "name": "Stuart A. Cohen",
+      "url": "https://orcid.org/0000-0003-2931-4495"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Stuart A. Cohen"
+      "name": "Stuart A. Cohen",
+      "url": "https://orcid.org/0000-0003-2931-4495"
     }
   ],
   "topics": [

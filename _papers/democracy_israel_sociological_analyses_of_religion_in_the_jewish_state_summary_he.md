@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Stephen Sharot",
   "paperTitle": "Israel: Sociological Analyses of Religion in the Jewish State",
-  "authorsHtml": "Stephen Sharot",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/stephen-sharot\" target=\"_blank\" rel=\"noopener noreferrer\">Stephen Sharot</a>",
   "journal": "Sociological Analysis",
   "dateText": "פורסם: 1990",
   "doiUrl": "https://doi.org/10.2307/3711675",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Stephen Sharot"
+      "name": "Stephen Sharot",
+      "url": "https://cris.bgu.ac.il/en/persons/stephen-sharot"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Stephen Sharot"
+      "name": "Stephen Sharot",
+      "url": "https://cris.bgu.ac.il/en/persons/stephen-sharot"
     }
   ],
   "topics": [

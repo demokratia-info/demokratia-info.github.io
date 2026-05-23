@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Zehavit Gross",
   "paperTitle": "The communitarian attitudes of religious Zionist female adolescents to democracy in Israel",
-  "authorsHtml": "Zehavit Gross",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8758-2036\" target=\"_blank\" rel=\"noopener noreferrer\">Zehavit Gross</a>",
   "journal": "Education, Citizenship and Social Justice",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1177/1746197919868885",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Zehavit Gross"
+      "name": "Zehavit Gross",
+      "url": "https://orcid.org/0000-0002-8758-2036"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Zehavit Gross"
+      "name": "Zehavit Gross",
+      "url": "https://orcid.org/0000-0002-8758-2036"
     }
   ],
   "topics": [

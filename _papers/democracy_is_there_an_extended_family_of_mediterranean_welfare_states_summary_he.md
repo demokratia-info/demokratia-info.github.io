@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "John Gal",
   "paperTitle": "Is there an extended family of Mediterranean welfare states?",
-  "authorsHtml": "John Gal",
+  "authorsHtml": "<a href=\"https://en.sw.huji.ac.il/people/john-gal\" target=\"_blank\" rel=\"noopener noreferrer\">John Gal</a>",
   "journal": "Journal of European Social Policy",
   "dateText": "פורסם: 2010",
   "doiUrl": "https://doi.org/10.1177/0958928710374374",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "John Gal"
+      "name": "John Gal",
+      "url": "https://en.sw.huji.ac.il/people/john-gal"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "John Gal"
+      "name": "John Gal",
+      "url": "https://en.sw.huji.ac.il/people/john-gal"
     }
   ],
   "topics": [

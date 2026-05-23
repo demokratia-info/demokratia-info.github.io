@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Waxman, Peleg",
   "paperTitle": "The Nation-State Law and the Weakening of Israeli Democracy",
-  "authorsHtml": "Waxman; Peleg",
+  "authorsHtml": "Waxman; <a href=\"https://govlaw.lafayette.edu/people/ilan-peleg/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Peleg</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.16",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     }
   ],
   "sourceAuthors": [
@@ -32,7 +33,8 @@
     },
     {
       "@type": "Person",
-      "name": "Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     }
   ],
   "topics": [

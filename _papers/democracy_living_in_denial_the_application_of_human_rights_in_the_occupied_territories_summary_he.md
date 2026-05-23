@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בזכויות, שוויון והגנות למיעוטים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Orna Ben-Naftali, Yuval Shany",
   "paperTitle": "Living in Denial: The Application of Human Rights in the Occupied Territories",
-  "authorsHtml": "Orna Ben-Naftali, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
+  "authorsHtml": "<a href=\"https://english.colman.ac.il/staff_members/prof-orna-ben-naftali/\" target=\"_blank\" rel=\"noopener noreferrer\">Orna Ben-Naftali</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1017/s0021223700012413",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Orna Ben-Naftali"
+      "name": "Orna Ben-Naftali",
+      "url": "https://english.colman.ac.il/staff_members/prof-orna-ben-naftali/"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Orna Ben-Naftali"
+      "name": "Orna Ben-Naftali",
+      "url": "https://english.colman.ac.il/staff_members/prof-orna-ben-naftali/"
     },
     {
       "@type": "Person",

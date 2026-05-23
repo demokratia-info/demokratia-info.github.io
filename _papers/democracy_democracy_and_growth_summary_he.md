@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Robert J. Barro",
   "paperTitle": "Democracy and growth",
-  "authorsHtml": "Robert J. Barro",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3761-827X\" target=\"_blank\" rel=\"noopener noreferrer\">Robert J. Barro</a>",
   "journal": "Journal of Economic Growth",
   "dateText": "פורסם: 1996",
   "doiUrl": "https://doi.org/10.1007/bf00163340",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Robert J. Barro"
+      "name": "Robert J. Barro",
+      "url": "https://orcid.org/0000-0003-3761-827X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Robert J. Barro"
+      "name": "Robert J. Barro",
+      "url": "https://orcid.org/0000-0003-3761-827X"
     }
   ],
   "topics": [

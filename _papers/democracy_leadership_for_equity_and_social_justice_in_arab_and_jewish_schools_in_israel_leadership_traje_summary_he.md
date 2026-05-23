@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Khalid Husny Arar",
   "paperTitle": "Leadership for Equity and Social Justice in Arab And Jewish Schools in Israel: Leadership Trajectories and Pedagogical Praxis",
-  "authorsHtml": "Khalid Husny Arar",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4094-966X\" target=\"_blank\" rel=\"noopener noreferrer\">Khalid Husny Arar</a>",
   "journal": "International Journal of Multicultural Education",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.18251/ijme.v17i1.938",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Khalid Husny Arar"
+      "name": "Khalid Husny Arar",
+      "url": "https://orcid.org/0000-0003-4094-966X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Khalid Husny Arar"
+      "name": "Khalid Husny Arar",
+      "url": "https://orcid.org/0000-0003-4094-966X"
     }
   ],
   "topics": [

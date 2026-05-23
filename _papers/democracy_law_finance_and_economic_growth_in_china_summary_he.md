@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "F ALLEN, J QIAN, M QIAN",
   "paperTitle": "Law, finance, and economic growth in China",
-  "authorsHtml": "F ALLEN, J QIAN, M QIAN",
+  "authorsHtml": "F ALLEN, <a href=\"https://orcid.org/0000-0001-6935-3646\" target=\"_blank\" rel=\"noopener noreferrer\">Jun Qian</a>, <a href=\"https://orcid.org/0000-0003-0666-7992\" target=\"_blank\" rel=\"noopener noreferrer\">Meijun Qian</a>",
   "journal": "Journal of Financial Economics",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.1016/j.jfineco.2004.06.010",
@@ -21,11 +21,13 @@
     },
     {
       "@type": "Person",
-      "name": "J QIAN"
+      "name": "Jun Qian",
+      "url": "https://orcid.org/0000-0001-6935-3646"
     },
     {
       "@type": "Person",
-      "name": "M QIAN"
+      "name": "Meijun Qian",
+      "url": "https://orcid.org/0000-0003-0666-7992"
     }
   ],
   "sourceAuthors": [
@@ -35,11 +37,13 @@
     },
     {
       "@type": "Person",
-      "name": "J QIAN"
+      "name": "Jun Qian",
+      "url": "https://orcid.org/0000-0001-6935-3646"
     },
     {
       "@type": "Person",
-      "name": "M QIAN"
+      "name": "Meijun Qian",
+      "url": "https://orcid.org/0000-0003-0666-7992"
     }
   ],
   "topics": [

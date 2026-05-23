@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "David Koren",
   "paperTitle": "Arab Israeli citizens in the 2009 elections: between Israeli citizenship and Palestinian Arab identity",
-  "authorsHtml": "David Koren",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6939-267X\" target=\"_blank\" rel=\"noopener noreferrer\">David Koren</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1080/13537120903462043",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "David Koren"
+      "name": "David Koren",
+      "url": "https://orcid.org/0000-0001-6939-267X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "David Koren"
+      "name": "David Koren",
+      "url": "https://orcid.org/0000-0001-6939-267X"
     }
   ],
   "topics": [

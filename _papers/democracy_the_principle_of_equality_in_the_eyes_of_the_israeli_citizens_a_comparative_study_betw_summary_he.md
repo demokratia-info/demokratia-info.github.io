@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Alaa Azaizah",
   "paperTitle": "The Principle of Equality in the Eyes of the Israeli Citizens: A Comparative Study between Arab and Jewish Citizens in Israel",
-  "authorsHtml": "Alaa Azaizah",
+  "authorsHtml": "<a href=\"https://orcid.org/0009-0002-8455-0343\" target=\"_blank\" rel=\"noopener noreferrer\">Alaa Azaizah</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.14293/pr2199.000683.v1",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Alaa Azaizah"
+      "name": "Alaa Azaizah",
+      "url": "https://orcid.org/0009-0002-8455-0343"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Alaa Azaizah"
+      "name": "Alaa Azaizah",
+      "url": "https://orcid.org/0009-0002-8455-0343"
     }
   ],
   "topics": [

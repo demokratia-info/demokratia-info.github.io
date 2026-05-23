@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Liav Orgad, Theodore Ruthizer",
   "paperTitle": "Race, Religion and Nationality in Immigration Selection: 120 Years After the Chinese Exclusion Case",
-  "authorsHtml": "Liav Orgad, Theodore Ruthizer",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8491-3955\" target=\"_blank\" rel=\"noopener noreferrer\">Liav Orgad</a>, Theodore Ruthizer",
   "journal": "Constitutional Commentary",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.24926/26390742.1839",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Liav Orgad"
+      "name": "Liav Orgad",
+      "url": "https://orcid.org/0000-0001-8491-3955"
     },
     {
       "@type": "Person",
@@ -27,7 +28,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Liav Orgad"
+      "name": "Liav Orgad",
+      "url": "https://orcid.org/0000-0001-8491-3955"
     },
     {
       "@type": "Person",

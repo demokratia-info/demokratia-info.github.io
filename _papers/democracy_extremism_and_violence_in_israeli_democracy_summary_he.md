@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Ehud Sprinzak",
   "paperTitle": "Extremism and violence in Israeli democracy",
-  "authorsHtml": "Ehud Sprinzak",
+  "authorsHtml": "<a href=\"https://ict.org.il/ourteam/prof-ehud-sprinzak-zl/\" target=\"_blank\" rel=\"noopener noreferrer\">Ehud Sprinzak</a>",
   "journal": "",
   "dateText": "",
   "doiUrl": "https://doi.org/10.1080/09546550008427577",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ehud Sprinzak"
+      "name": "Ehud Sprinzak",
+      "url": "https://ict.org.il/ourteam/prof-ehud-sprinzak-zl/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ehud Sprinzak"
+      "name": "Ehud Sprinzak",
+      "url": "https://ict.org.il/ourteam/prof-ehud-sprinzak-zl/"
     }
   ],
   "topics": [

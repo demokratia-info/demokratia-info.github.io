@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Aziz Haidar; Noah Lewin-Epstein; Moshe Semyonov",
   "paperTitle": "The Arab Minority in Israel's Economy: Patterns of Ethnic Inequality.",
-  "authorsHtml": "Aziz Haidar, <a href=\"https://english.tau.ac.il/profile/noah1\" target=\"_blank\" rel=\"noopener noreferrer\">Noah Lewin-Epstein</a>, <a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3201-4971\" target=\"_blank\" rel=\"noopener noreferrer\">Aziz Haidar</a>, <a href=\"https://english.tau.ac.il/profile/noah1\" target=\"_blank\" rel=\"noopener noreferrer\">Noah Lewin-Epstein</a>, <a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>",
   "journal": "Contemporary Sociology",
   "dateText": "פורסם: 1994",
   "doiUrl": "https://doi.org/10.2307/2074264",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Aziz Haidar"
+      "name": "Aziz Haidar",
+      "url": "https://orcid.org/0000-0002-3201-4971"
     },
     {
       "@type": "Person",
@@ -34,7 +35,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Aziz Haidar"
+      "name": "Aziz Haidar",
+      "url": "https://orcid.org/0000-0002-3201-4971"
     },
     {
       "@type": "Person",

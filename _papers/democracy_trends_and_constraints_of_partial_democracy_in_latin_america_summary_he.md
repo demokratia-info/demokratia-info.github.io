@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Mario Sznajder, Luis Roniger",
   "paperTitle": "Trends and Constraints of Partial Democracy in Latin America",
-  "authorsHtml": "Mario Sznajder, Luis Roniger",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0829-3480\" target=\"_blank\" rel=\"noopener noreferrer\">Mario Sznajder</a>, <a href=\"https://orcid.org/0000-0002-0246-5384\" target=\"_blank\" rel=\"noopener noreferrer\">Luis Roniger</a>",
   "journal": "Cambridge Review of International Affairs",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1080/09557570302058",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Mario Sznajder"
+      "name": "Mario Sznajder",
+      "url": "https://orcid.org/0000-0002-0829-3480"
     },
     {
       "@type": "Person",
-      "name": "Luis Roniger"
+      "name": "Luis Roniger",
+      "url": "https://orcid.org/0000-0002-0246-5384"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Mario Sznajder"
+      "name": "Mario Sznajder",
+      "url": "https://orcid.org/0000-0002-0829-3480"
     },
     {
       "@type": "Person",
-      "name": "Luis Roniger"
+      "name": "Luis Roniger",
+      "url": "https://orcid.org/0000-0002-0246-5384"
     }
   ],
   "topics": [

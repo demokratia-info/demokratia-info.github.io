@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הטלטלה הפוליטית סביב הרפורמה המשפטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Arieh Saposnik; Natan Aridan",
   "paperTitle": "Introduction: Judicial Overhaul and Political Upheaval in Israel",
-  "authorsHtml": "Arieh Saposnik; Natan Aridan",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/saposnik/\" target=\"_blank\" rel=\"noopener noreferrer\">Arieh Saposnik</a>; Natan Aridan",
   "journal": "Israel Studies",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.2979/israelstudies.28.3.01",
@@ -18,7 +18,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Arieh Saposnik"
+      "name": "Arieh Saposnik",
+      "url": "https://www.bgu.ac.il/en/staffmemberslobby/saposnik/"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Arieh Saposnik"
+      "name": "Arieh Saposnik",
+      "url": "https://www.bgu.ac.il/en/staffmemberslobby/saposnik/"
     },
     {
       "@type": "Person",

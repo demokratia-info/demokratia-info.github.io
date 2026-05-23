@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Yael Shomer, Eitan Tzelgov, Roi Zur",
   "paperTitle": "Editorial: The crises of the Israeli democracy",
-  "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, Eitan Tzelgov, Roi Zur",
+  "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://orcid.org/0000-0003-2489-3918\" target=\"_blank\" rel=\"noopener noreferrer\">Eitan Tzelgov</a>, <a href=\"https://orcid.org/0000-0003-3168-9018\" target=\"_blank\" rel=\"noopener noreferrer\">Roi Zur</a>",
   "journal": "",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-07-14",
@@ -24,11 +24,13 @@
     },
     {
       "@type": "Person",
-      "name": "Eitan Tzelgov"
+      "name": "Eitan Tzelgov",
+      "url": "https://orcid.org/0000-0003-2489-3918"
     },
     {
       "@type": "Person",
-      "name": "Roi Zur"
+      "name": "Roi Zur",
+      "url": "https://orcid.org/0000-0003-3168-9018"
     }
   ],
   "sourceAuthors": [
@@ -39,11 +41,13 @@
     },
     {
       "@type": "Person",
-      "name": "Eitan Tzelgov"
+      "name": "Eitan Tzelgov",
+      "url": "https://orcid.org/0000-0003-2489-3918"
     },
     {
       "@type": "Person",
-      "name": "Roi Zur"
+      "name": "Roi Zur",
+      "url": "https://orcid.org/0000-0003-3168-9018"
     }
   ],
   "topics": [

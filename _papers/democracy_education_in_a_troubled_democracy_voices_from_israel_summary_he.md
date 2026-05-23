@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Deborah Court",
   "paperTitle": "Education in a Troubled Democracy: Voices from Israel",
-  "authorsHtml": "Deborah Court",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6332-9637\" target=\"_blank\" rel=\"noopener noreferrer\">Deborah Court</a>",
   "journal": "",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1111/j.1467-873x.2004.00280.x",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Deborah Court"
+      "name": "Deborah Court",
+      "url": "https://orcid.org/0000-0001-6332-9637"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Deborah Court"
+      "name": "Deborah Court",
+      "url": "https://orcid.org/0000-0001-6332-9637"
     }
   ],
   "topics": [

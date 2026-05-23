@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Amit Schejter",
   "paperTitle": "The Stranger That Dwelleth with You Shall Be unto You as One Born among You: Israeli Media Law and the Cultural Rights of the Palestinian-Israeli Minority",
-  "authorsHtml": "Amit Schejter",
+  "authorsHtml": "<a href=\"https://in.bgu.ac.il/en/humsos/comm-Studies/pages/staff/amit_schejter.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Amit Schejter</a>",
   "journal": "Middle East Journal of Culture and Communication",
   "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.1163/187398608x335810",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Amit Schejter"
+      "name": "Amit Schejter",
+      "url": "https://in.bgu.ac.il/en/humsos/comm-Studies/pages/staff/amit_schejter.aspx"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Amit Schejter"
+      "name": "Amit Schejter",
+      "url": "https://in.bgu.ac.il/en/humsos/comm-Studies/pages/staff/amit_schejter.aspx"
     }
   ],
   "topics": [

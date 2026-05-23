@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Stephan Haggard, Lydia Tiede",
   "paperTitle": "The Rule of Law and Economic Growth: Where are We?",
-  "authorsHtml": "Stephan Haggard, Lydia Tiede",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1571-2580\" target=\"_blank\" rel=\"noopener noreferrer\">Stephan Haggard</a>, <a href=\"https://orcid.org/0000-0003-0892-4649\" target=\"_blank\" rel=\"noopener noreferrer\">Lydia Tiede</a>",
   "journal": "World Development",
   "dateText": "פורסם: 2011",
   "doiUrl": "https://doi.org/10.1016/j.worlddev.2010.10.007",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Stephan Haggard"
+      "name": "Stephan Haggard",
+      "url": "https://orcid.org/0000-0003-1571-2580"
     },
     {
       "@type": "Person",
-      "name": "Lydia Tiede"
+      "name": "Lydia Tiede",
+      "url": "https://orcid.org/0000-0003-0892-4649"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Stephan Haggard"
+      "name": "Stephan Haggard",
+      "url": "https://orcid.org/0000-0003-1571-2580"
     },
     {
       "@type": "Person",
-      "name": "Lydia Tiede"
+      "name": "Lydia Tiede",
+      "url": "https://orcid.org/0000-0003-0892-4649"
     }
   ],
   "topics": [

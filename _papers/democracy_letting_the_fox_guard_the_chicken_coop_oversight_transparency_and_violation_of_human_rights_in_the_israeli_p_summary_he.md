@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Tomer Einat, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, Ofer Parchev",
   "paperTitle": "Letting the fox guard the chicken coop: oversight, transparency, and violation of human rights in the Israeli Penal System",
-  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, <a href=\"https://orcid.org/0000-0003-4644-6799\" target=\"_blank\" rel=\"noopener noreferrer\">Ofer Parchev</a>",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Anat Litvin, <a href=\"https://orcid.org/0000-0003-3069-7884\" target=\"_blank\" rel=\"noopener noreferrer\">Niv Michaeli</a>, Gila Zelikovitsh, <a href=\"https://orcid.org/0000-0002-3437-8891\" target=\"_blank\" rel=\"noopener noreferrer\">Kathleen Marsh-Davies</a>, <a href=\"https://orcid.org/0000-0003-4644-6799\" target=\"_blank\" rel=\"noopener noreferrer\">Ofer Parchev</a>",
   "journal": "Criminal Justice Studies",
   "dateText": "פורסם: 2011",
   "doiUrl": "https://doi.org/10.1080/1478601x.2011.592729",
@@ -27,7 +27,8 @@
     },
     {
       "@type": "Person",
-      "name": "Niv Michaeli"
+      "name": "Niv Michaeli",
+      "url": "https://orcid.org/0000-0003-3069-7884"
     },
     {
       "@type": "Person",
@@ -35,7 +36,8 @@
     },
     {
       "@type": "Person",
-      "name": "Kathleen Marsh-Davies"
+      "name": "Kathleen Marsh-Davies",
+      "url": "https://orcid.org/0000-0002-3437-8891"
     },
     {
       "@type": "Person",
@@ -55,7 +57,8 @@
     },
     {
       "@type": "Person",
-      "name": "Niv Michaeli"
+      "name": "Niv Michaeli",
+      "url": "https://orcid.org/0000-0003-3069-7884"
     },
     {
       "@type": "Person",
@@ -63,7 +66,8 @@
     },
     {
       "@type": "Person",
-      "name": "Kathleen Marsh-Davies"
+      "name": "Kathleen Marsh-Davies",
+      "url": "https://orcid.org/0000-0002-3437-8891"
     },
     {
       "@type": "Person",

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "David Schwartz, Daniel Galily",
   "paperTitle": "The Feasibility of Participatory Democracy —Examination of the Influence of the Phenomenon of Registration to Parties in Israel on the Level of the Citizen’s Political Participation",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3989-8546\" target=\"_blank\" rel=\"noopener noreferrer\">David Schwartz</a>, Daniel Galily",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3989-8546\" target=\"_blank\" rel=\"noopener noreferrer\">David Schwartz</a>, <a href=\"https://orcid.org/0000-0001-9111-4502\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Galily</a>",
   "journal": "Open Journal of Political Science",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.4236/ojps.2017.72022",
@@ -23,7 +23,8 @@
     },
     {
       "@type": "Person",
-      "name": "Daniel Galily"
+      "name": "Daniel Galily",
+      "url": "https://orcid.org/0000-0001-9111-4502"
     }
   ],
   "sourceAuthors": [
@@ -34,7 +35,8 @@
     },
     {
       "@type": "Person",
-      "name": "Daniel Galily"
+      "name": "Daniel Galily",
+      "url": "https://orcid.org/0000-0001-9111-4502"
     }
   ],
   "topics": [

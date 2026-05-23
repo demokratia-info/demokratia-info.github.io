@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית משבר הדמוקרטיה בישראל לאורך זמן דרך עדשה של נסיגה דמוקרטית ופופוליזם. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שחיקת נורמות דמוקרטיות, ריכוז כוח ופוליטיקה פופוליסטית. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Ilan Peleg; Ruth Amir",
   "paperTitle": "Crisis of Israel's Democracy, 1948-2025",
-  "authorsHtml": "Ilan Peleg; Ruth Amir",
+  "authorsHtml": "<a href=\"https://govlaw.lafayette.edu/people/ilan-peleg/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Peleg</a>; <a href=\"https://orcid.org/0000-0003-0659-5626\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Amir</a>",
   "journal": "Bloomsbury Academic",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.5040/9781978746985",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Ilan Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     },
     {
       "@type": "Person",
-      "name": "Ruth Amir"
+      "name": "Ruth Amir",
+      "url": "https://orcid.org/0000-0003-0659-5626"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Ilan Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     },
     {
       "@type": "Person",
-      "name": "Ruth Amir"
+      "name": "Ruth Amir",
+      "url": "https://orcid.org/0000-0003-0659-5626"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "איך כוח עבודה מאורגן יכול להשפיע על מאבקים נגד נסיגה דמוקרטית. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "authorsCardHe": "אסף בונדי",
   "paperTitle": "Workers for democracy? Trade unions and the struggle against democratic backsliding",
-  "authorsHtml": "<a href=\"https://www.bristol.ac.uk/people/person/Assaf-Bondy-8f3787a9-b9fc-4b33-8a27-73cafb8c041a/\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf S. Bondy</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3864-1957\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf S. Bondy</a>",
   "journal": "Democratization",
   "dateText": "פורסם אונליין: 23 במאי 2025",
   "sourcePublishedDate": "2025-05-23",
@@ -26,7 +26,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Assaf S. Bondy"
+      "name": "Assaf S. Bondy",
+      "url": "https://orcid.org/0000-0003-3864-1957"
     }
   ],
   "topics": [

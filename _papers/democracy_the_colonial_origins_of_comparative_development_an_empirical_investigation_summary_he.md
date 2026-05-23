@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Daron Acemoglu, Simon Johnson, James A Robinson",
   "paperTitle": "The Colonial Origins of Comparative Development: An Empirical Investigation",
-  "authorsHtml": "Daron Acemoglu, Simon Johnson, James A Robinson",
+  "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/daron-acemoglu\" target=\"_blank\" rel=\"noopener noreferrer\">Daron Acemoglu</a>, <a href=\"https://mitsloan.mit.edu/faculty/directory/simon-johnson\" target=\"_blank\" rel=\"noopener noreferrer\">Simon Johnson</a>, <a href=\"https://harris.uchicago.edu/directory/james-robinson\" target=\"_blank\" rel=\"noopener noreferrer\">James A Robinson</a>",
   "journal": "American Economic Review",
   "dateText": "פורסם: 2001",
   "doiUrl": "https://doi.org/10.1257/aer.91.5.1369",
@@ -17,29 +17,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Simon Johnson"
+      "name": "Simon Johnson",
+      "url": "https://mitsloan.mit.edu/faculty/directory/simon-johnson"
     },
     {
       "@type": "Person",
-      "name": "James A Robinson"
+      "name": "James A Robinson",
+      "url": "https://harris.uchicago.edu/directory/james-robinson"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Simon Johnson"
+      "name": "Simon Johnson",
+      "url": "https://mitsloan.mit.edu/faculty/directory/simon-johnson"
     },
     {
       "@type": "Person",
-      "name": "James A Robinson"
+      "name": "James A Robinson",
+      "url": "https://harris.uchicago.edu/directory/james-robinson"
     }
   ],
   "topics": [

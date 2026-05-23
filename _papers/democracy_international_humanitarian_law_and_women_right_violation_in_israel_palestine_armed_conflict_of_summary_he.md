@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Hafiz Abdul Rehman Saleem; Shahid Iqbal; Muzzammil Hussain; Muhammad Umair Khan; Toseef Ramzan",
   "paperTitle": "International Humanitarian Law and Women Right Violation in Israel-Palestine Armed Conflict of 2023",
-  "authorsHtml": "Hafiz Abdul Rehman Saleem; Shahid Iqbal; Muzzammil Hussain; Muhammad Umair Khan; Toseef Ramzan",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1179-8196\" target=\"_blank\" rel=\"noopener noreferrer\">Hafiz Abdul Rehman Saleem</a>; <a href=\"https://orcid.org/0000-0001-5681-5995\" target=\"_blank\" rel=\"noopener noreferrer\">Shahid Iqbal</a>; <a href=\"https://orcid.org/0000-0003-3612-7620\" target=\"_blank\" rel=\"noopener noreferrer\">Muzzammil Hussain</a>; <a href=\"https://orcid.org/0009-0005-1284-5929\" target=\"_blank\" rel=\"noopener noreferrer\">Muhammad Umair Khan</a>; Toseef Ramzan",
   "journal": "The Critical Review of Social Sciences Studies",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.59075/4ce6t977",
@@ -18,19 +18,23 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hafiz Abdul Rehman Saleem"
+      "name": "Hafiz Abdul Rehman Saleem",
+      "url": "https://orcid.org/0000-0003-1179-8196"
     },
     {
       "@type": "Person",
-      "name": "Shahid Iqbal"
+      "name": "Shahid Iqbal",
+      "url": "https://orcid.org/0000-0001-5681-5995"
     },
     {
       "@type": "Person",
-      "name": "Muzzammil Hussain"
+      "name": "Muzzammil Hussain",
+      "url": "https://orcid.org/0000-0003-3612-7620"
     },
     {
       "@type": "Person",
-      "name": "Muhammad Umair Khan"
+      "name": "Muhammad Umair Khan",
+      "url": "https://orcid.org/0009-0005-1284-5929"
     },
     {
       "@type": "Person",
@@ -40,19 +44,23 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hafiz Abdul Rehman Saleem"
+      "name": "Hafiz Abdul Rehman Saleem",
+      "url": "https://orcid.org/0000-0003-1179-8196"
     },
     {
       "@type": "Person",
-      "name": "Shahid Iqbal"
+      "name": "Shahid Iqbal",
+      "url": "https://orcid.org/0000-0001-5681-5995"
     },
     {
       "@type": "Person",
-      "name": "Muzzammil Hussain"
+      "name": "Muzzammil Hussain",
+      "url": "https://orcid.org/0000-0003-3612-7620"
     },
     {
       "@type": "Person",
-      "name": "Muhammad Umair Khan"
+      "name": "Muhammad Umair Khan",
+      "url": "https://orcid.org/0009-0005-1284-5929"
     },
     {
       "@type": "Person",

@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Moran Yarchi, Christian Baden, Neta Kligler-Vilenchik",
   "paperTitle": "Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media",
-  "authorsHtml": "Moran Yarchi, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, Neta Kligler-Vilenchik",
+  "authorsHtml": "Moran Yarchi, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>",
   "journal": "Political Communication",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1080/10584609.2020.1785067",
@@ -26,7 +26,8 @@
     },
     {
       "@type": "Person",
-      "name": "Neta Kligler-Vilenchik"
+      "name": "Neta Kligler-Vilenchik",
+      "url": "https://orcid.org/0000-0003-3470-3305"
     }
   ],
   "sourceAuthors": [
@@ -41,7 +42,8 @@
     },
     {
       "@type": "Person",
-      "name": "Neta Kligler-Vilenchik"
+      "name": "Neta Kligler-Vilenchik",
+      "url": "https://orcid.org/0000-0003-3470-3305"
     }
   ],
   "topics": [

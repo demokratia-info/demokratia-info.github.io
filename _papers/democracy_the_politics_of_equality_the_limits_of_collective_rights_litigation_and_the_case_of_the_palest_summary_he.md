@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Yousef T. Jabareen",
   "paperTitle": "The Politics Of Equality: The Limits Of Collective Rights Litigation And The Case Of The Palestinian-Arab Minority In Israel",
-  "authorsHtml": "Yousef T. Jabareen",
+  "authorsHtml": "<a href=\"https://ric.org.il/researcher/yousef-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Yousef T. Jabareen</a>",
   "journal": "Columbia Journal of Race and Law",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.7916/cjrl.v4i1.2292",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Yousef T. Jabareen"
+      "name": "Yousef T. Jabareen",
+      "url": "https://ric.org.il/researcher/yousef-jabareen/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Yousef T. Jabareen"
+      "name": "Yousef T. Jabareen",
+      "url": "https://ric.org.il/researcher/yousef-jabareen/"
     }
   ],
   "topics": [

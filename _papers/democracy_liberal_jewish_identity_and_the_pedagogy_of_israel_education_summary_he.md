@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Benji Davis, Hanan Alexander",
   "paperTitle": "Liberal Jewish identity and the pedagogy of Israel education",
-  "authorsHtml": "Benji Davis, Hanan Alexander",
+  "authorsHtml": "<a href=\"https://orcid.org/0009-0003-8046-4859\" target=\"_blank\" rel=\"noopener noreferrer\">Benji Davis</a>, <a href=\"https://orcid.org/0000-0001-9667-7873\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan Alexander</a>",
   "journal": "Journal of Religious Education",
   "dateText": "פורסם: 2025",
   "doiUrl": "https://doi.org/10.1007/s40839-025-00261-8",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Benji Davis"
+      "name": "Benji Davis",
+      "url": "https://orcid.org/0009-0003-8046-4859"
     },
     {
       "@type": "Person",
-      "name": "Hanan Alexander"
+      "name": "Hanan Alexander",
+      "url": "https://orcid.org/0000-0001-9667-7873"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Benji Davis"
+      "name": "Benji Davis",
+      "url": "https://orcid.org/0009-0003-8046-4859"
     },
     {
       "@type": "Person",
-      "name": "Hanan Alexander"
+      "name": "Hanan Alexander",
+      "url": "https://orcid.org/0000-0001-9667-7873"
     }
   ],
   "topics": [

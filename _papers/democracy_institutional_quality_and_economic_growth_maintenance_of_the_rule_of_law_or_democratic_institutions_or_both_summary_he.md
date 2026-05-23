@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "James L. Butkiewicz, Halit Yanikkaya",
   "paperTitle": "Institutional quality and economic growth: Maintenance of the rule of law or democratic institutions, or both?",
-  "authorsHtml": "James L. Butkiewicz, Halit Yanikkaya",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9977-2024\" target=\"_blank\" rel=\"noopener noreferrer\">James L. Butkiewicz</a>, Halit Yanikkaya",
   "journal": "Economic Modelling",
   "dateText": "פורסם: 2006",
   "doiUrl": "https://doi.org/10.1016/j.econmod.2006.03.004",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "James L. Butkiewicz"
+      "name": "James L. Butkiewicz",
+      "url": "https://orcid.org/0000-0001-9977-2024"
     },
     {
       "@type": "Person",
@@ -27,7 +28,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "James L. Butkiewicz"
+      "name": "James L. Butkiewicz",
+      "url": "https://orcid.org/0000-0001-9977-2024"
     },
     {
       "@type": "Person",

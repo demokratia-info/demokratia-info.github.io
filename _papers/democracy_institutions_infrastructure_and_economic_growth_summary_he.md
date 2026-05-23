@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Hadi Salehi Esfahani, Marı́a Teresa Ramı́rez",
   "paperTitle": "Institutions, infrastructure, and economic growth",
-  "authorsHtml": "Hadi Salehi Esfahani, Marı́a Teresa Ramı́rez",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7539-5540\" target=\"_blank\" rel=\"noopener noreferrer\">Hadi Salehi Esfahani</a>, Marı́a Teresa Ramı́rez",
   "journal": "Journal of Development Economics",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1016/s0304-3878(02)00105-0",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hadi Salehi Esfahani"
+      "name": "Hadi Salehi Esfahani",
+      "url": "https://orcid.org/0000-0002-7539-5540"
     },
     {
       "@type": "Person",
@@ -27,7 +28,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hadi Salehi Esfahani"
+      "name": "Hadi Salehi Esfahani",
+      "url": "https://orcid.org/0000-0002-7539-5540"
     },
     {
       "@type": "Person",

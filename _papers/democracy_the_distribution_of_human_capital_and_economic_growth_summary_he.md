@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Oded Galor, Daniel Tsiddon",
   "paperTitle": "The Distribution of Human Capital and Economic Growth",
-  "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, Daniel Tsiddon",
+  "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, <a href=\"https://english.tau.ac.il/profile/tsiddon\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Tsiddon</a>",
   "journal": "Journal of Economic Growth",
   "dateText": "פורסם: 1997",
   "doiUrl": "https://doi.org/10.1023/a:1009785714248",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Daniel Tsiddon"
+      "name": "Daniel Tsiddon",
+      "url": "https://english.tau.ac.il/profile/tsiddon"
     }
   ],
   "sourceAuthors": [
@@ -33,7 +34,8 @@
     },
     {
       "@type": "Person",
-      "name": "Daniel Tsiddon"
+      "name": "Daniel Tsiddon",
+      "url": "https://english.tau.ac.il/profile/tsiddon"
     }
   ],
   "topics": [

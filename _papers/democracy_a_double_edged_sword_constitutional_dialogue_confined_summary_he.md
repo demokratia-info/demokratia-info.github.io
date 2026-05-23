@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Bell E Yosef",
   "paperTitle": "A double-edged sword: Constitutional dialogue confined",
-  "authorsHtml": "Bell E Yosef",
+  "authorsHtml": "<a href=\"https://orcid.org/0009-0009-9326-8893\" target=\"_blank\" rel=\"noopener noreferrer\">Bell Yosef</a>",
   "journal": "International Journal of Constitutional Law",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1093/icon/moad004",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Bell E Yosef"
+      "name": "Bell Yosef",
+      "url": "https://orcid.org/0009-0009-9326-8893"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Bell E Yosef"
+      "name": "Bell Yosef",
+      "url": "https://orcid.org/0009-0009-9326-8893"
     }
   ],
   "topics": [

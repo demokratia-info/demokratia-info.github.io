@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Roy Gilbar, Hadara Bar-Mor",
   "paperTitle": "JUSTICE, EQUALITY AND SOLIDARITY: THE LIMITS OF THE RIGHT TO HEALTH CARE IN ISRAEL",
-  "authorsHtml": "Roy Gilbar, Hadara Bar-Mor",
+  "authorsHtml": "Roy Gilbar, <a href=\"https://orcid.org/0000-0002-8085-7893\" target=\"_blank\" rel=\"noopener noreferrer\">Hadara Bar-Mor</a>",
   "journal": "Medical Law Review",
   "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.1093/medlaw/fwn003",
@@ -22,7 +22,8 @@
     },
     {
       "@type": "Person",
-      "name": "Hadara Bar-Mor"
+      "name": "Hadara Bar-Mor",
+      "url": "https://orcid.org/0000-0002-8085-7893"
     }
   ],
   "sourceAuthors": [
@@ -32,7 +33,8 @@
     },
     {
       "@type": "Person",
-      "name": "Hadara Bar-Mor"
+      "name": "Hadara Bar-Mor",
+      "url": "https://orcid.org/0000-0002-8085-7893"
     }
   ],
   "topics": [

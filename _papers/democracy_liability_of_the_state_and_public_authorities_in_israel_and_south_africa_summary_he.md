@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Max Loubser, Tamar Gidron",
   "paperTitle": "Liability of the State and Public Authorities in Israel and South Africa",
-  "authorsHtml": "Max Loubser, Tamar Gidron",
+  "authorsHtml": "Max Loubser, <a href=\"https://www.colman.ac.il/teaching/lecturers/tamar-gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Gidron</a>",
   "journal": "European Journal of Comparative Law and Governance",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1163/22134514-45060008",
@@ -21,7 +21,8 @@
     },
     {
       "@type": "Person",
-      "name": "Tamar Gidron"
+      "name": "Tamar Gidron",
+      "url": "https://www.colman.ac.il/teaching/lecturers/tamar-gidron/"
     }
   ],
   "sourceAuthors": [
@@ -31,7 +32,8 @@
     },
     {
       "@type": "Person",
-      "name": "Tamar Gidron"
+      "name": "Tamar Gidron",
+      "url": "https://www.colman.ac.il/teaching/lecturers/tamar-gidron/"
     }
   ],
   "topics": [

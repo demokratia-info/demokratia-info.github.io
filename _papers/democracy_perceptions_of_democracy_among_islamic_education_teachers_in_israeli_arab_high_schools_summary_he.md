@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Najwan Saada",
   "paperTitle": "Perceptions of democracy among Islamic education teachers in Israeli Arab high schools",
-  "authorsHtml": "Najwan Saada",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5677-0539\" target=\"_blank\" rel=\"noopener noreferrer\">Najwan Saada</a>",
   "journal": "",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1016/j.jssr.2020.05.003",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Najwan Saada"
+      "name": "Najwan Saada",
+      "url": "https://orcid.org/0000-0001-5677-0539"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Najwan Saada"
+      "name": "Najwan Saada",
+      "url": "https://orcid.org/0000-0001-5677-0539"
     }
   ],
   "topics": [

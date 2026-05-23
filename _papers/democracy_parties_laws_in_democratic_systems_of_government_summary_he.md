@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Dan Avnon",
   "paperTitle": "Parties laws in democratic systems of government",
-  "authorsHtml": "Dan Avnon",
+  "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/dan-avnon\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Avnon</a>",
   "journal": "The Journal of Legislative Studies",
   "dateText": "פורסם: 1995",
   "doiUrl": "https://doi.org/10.1080/13572339508420429",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Dan Avnon"
+      "name": "Dan Avnon",
+      "url": "https://en.politics.huji.ac.il/people/dan-avnon"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Dan Avnon"
+      "name": "Dan Avnon",
+      "url": "https://en.politics.huji.ac.il/people/dan-avnon"
     }
   ],
   "topics": [

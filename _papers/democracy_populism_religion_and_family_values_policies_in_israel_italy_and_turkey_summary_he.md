@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Guy Ben‐Porat, Dani Filc, Ahmet Erdi Öztürk, Luca Ozzano",
   "paperTitle": "Populism, religion and family values policies in Israel, Italy and Turkey",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7427-355X\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben‐Porat</a>, <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>, <a href=\"https://orcid.org/0000-0003-1749-6682\" target=\"_blank\" rel=\"noopener noreferrer\">Ahmet Erdi Öztürk</a>, <a href=\"https://orcid.org/0000-0002-2675-9344\" target=\"_blank\" rel=\"noopener noreferrer\">Luca Ozzano</a>",
+  "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben‐Porat</a>, <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>, <a href=\"https://orcid.org/0000-0003-1749-6682\" target=\"_blank\" rel=\"noopener noreferrer\">Ahmet Erdi Öztürk</a>, <a href=\"https://orcid.org/0000-0002-2675-9344\" target=\"_blank\" rel=\"noopener noreferrer\">Luca Ozzano</a>",
   "journal": "Mediterranean Politics",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1080/13629395.2021.1901484",
@@ -19,7 +19,7 @@
     {
       "@type": "Person",
       "name": "Guy Ben‐Porat",
-      "url": "https://orcid.org/0000-0002-7427-355X"
+      "url": "https://cris.bgu.ac.il/en/persons/guy-ben-porat"
     },
     {
       "@type": "Person",
@@ -41,7 +41,7 @@
     {
       "@type": "Person",
       "name": "Guy Ben‐Porat",
-      "url": "https://orcid.org/0000-0002-7427-355X"
+      "url": "https://cris.bgu.ac.il/en/persons/guy-ben-porat"
     },
     {
       "@type": "Person",

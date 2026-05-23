@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Eli M. Salzberger",
   "paperTitle": "12. Judicial Appointments and Promotions in Israel: Constitution, Law and Politics",
-  "authorsHtml": "Eli M. Salzberger",
+  "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli M. Salzberger</a>",
   "journal": "Appointing Judges in an Age of Judicial Power",
   "dateText": "פורסם: 2006",
   "doiUrl": "https://doi.org/10.3138/9781442670921-015",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eli M. Salzberger"
+      "name": "Eli M. Salzberger",
+      "url": "https://cris.haifa.ac.il/en/persons/eli-salzberger"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eli M. Salzberger"
+      "name": "Eli M. Salzberger",
+      "url": "https://cris.haifa.ac.il/en/persons/eli-salzberger"
     }
   ],
   "topics": [

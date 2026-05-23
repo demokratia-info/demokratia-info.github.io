@@ -10,7 +10,7 @@
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "authorsCardHe": "יוג׳ין קנטורוביץ׳",
   "paperTitle": "A Comparative Constitutional Perspective on Israel's Nation-State Law",
-  "authorsHtml": "Kontorovich",
+  "authorsHtml": "<a href=\"https://www.law.gmu.edu/directory/profiles/kontorovich_eugene\" target=\"_blank\" rel=\"noopener noreferrer\">Eugene Kontorovich</a>",
   "journal": "Israel Studies",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.13",
@@ -24,7 +24,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Kontorovich"
+      "name": "Eugene Kontorovich",
+      "url": "https://www.law.gmu.edu/directory/profiles/kontorovich_eugene"
     }
   ],
   "topics": [

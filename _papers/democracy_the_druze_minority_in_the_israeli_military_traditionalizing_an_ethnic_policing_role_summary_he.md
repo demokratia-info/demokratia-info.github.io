@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית המיעוט הדרוזי בצה״ל ותפקיד השיטור האתני דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Hillel Frisch",
   "paperTitle": "The Druze Minority in the Israeli Military: Traditionalizing an Ethnic Policing Role",
-  "authorsHtml": "Hillel Frisch",
+  "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>",
   "journal": "Armed Forces & Society",
   "dateText": "פורסם: 1993",
   "doiUrl": "https://doi.org/10.1177/0095327x9302000104",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     }
   ],
   "topics": [

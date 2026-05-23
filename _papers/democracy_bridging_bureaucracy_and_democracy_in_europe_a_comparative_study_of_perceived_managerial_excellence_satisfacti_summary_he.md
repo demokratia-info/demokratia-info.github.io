@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Eran Vigoda-Gadot, Aviv Shoham, Dana R Vashdi",
   "paperTitle": "Bridging bureaucracy and democracy in Europe: A comparative study of perceived managerial excellence, satisfaction with public services, and trust in governance",
-  "authorsHtml": "Eran Vigoda-Gadot, Aviv Shoham, Dana R Vashdi",
+  "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda-Gadot</a>, <a href=\"https://orcid.org/0000-0002-4182-3308\" target=\"_blank\" rel=\"noopener noreferrer\">Aviv Shoham</a>, <a href=\"https://orcid.org/0000-0003-3644-2129\" target=\"_blank\" rel=\"noopener noreferrer\">Dana R Vashdi</a>",
   "journal": "European Union Politics",
   "dateText": "פורסם: 2010",
   "doiUrl": "https://doi.org/10.1177/1465116510363657",
@@ -17,29 +17,35 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eran Vigoda-Gadot"
+      "name": "Eran Vigoda-Gadot",
+      "url": "https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home"
     },
     {
       "@type": "Person",
-      "name": "Aviv Shoham"
+      "name": "Aviv Shoham",
+      "url": "https://orcid.org/0000-0002-4182-3308"
     },
     {
       "@type": "Person",
-      "name": "Dana R Vashdi"
+      "name": "Dana R Vashdi",
+      "url": "https://orcid.org/0000-0003-3644-2129"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eran Vigoda-Gadot"
+      "name": "Eran Vigoda-Gadot",
+      "url": "https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home"
     },
     {
       "@type": "Person",
-      "name": "Aviv Shoham"
+      "name": "Aviv Shoham",
+      "url": "https://orcid.org/0000-0002-4182-3308"
     },
     {
       "@type": "Person",
-      "name": "Dana R Vashdi"
+      "name": "Dana R Vashdi",
+      "url": "https://orcid.org/0000-0003-3644-2129"
     }
   ],
   "topics": [

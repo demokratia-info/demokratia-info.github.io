@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
   "paperTitle": "Democracy Does Cause Growth",
-  "authorsHtml": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
+  "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/daron-acemoglu\" target=\"_blank\" rel=\"noopener noreferrer\">Daron Acemoglu</a>, <a href=\"https://orcid.org/0000-0002-9774-1678\" target=\"_blank\" rel=\"noopener noreferrer\">Suresh Naidu</a>, <a href=\"https://economics.yale.edu/people/pascual-restrepo\" target=\"_blank\" rel=\"noopener noreferrer\">Pascual Restrepo</a>, <a href=\"https://harris.uchicago.edu/directory/james-robinson\" target=\"_blank\" rel=\"noopener noreferrer\">James A. Robinson</a>",
   "journal": "Journal of Political Economy",
   "dateText": "פורסם: 2019",
   "doiUrl": "https://doi.org/10.1086/700936",
@@ -17,37 +17,45 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Suresh Naidu"
+      "name": "Suresh Naidu",
+      "url": "https://orcid.org/0000-0002-9774-1678"
     },
     {
       "@type": "Person",
-      "name": "Pascual Restrepo"
+      "name": "Pascual Restrepo",
+      "url": "https://economics.yale.edu/people/pascual-restrepo"
     },
     {
       "@type": "Person",
-      "name": "James A. Robinson"
+      "name": "James A. Robinson",
+      "url": "https://harris.uchicago.edu/directory/james-robinson"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Daron Acemoglu"
+      "name": "Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
     },
     {
       "@type": "Person",
-      "name": "Suresh Naidu"
+      "name": "Suresh Naidu",
+      "url": "https://orcid.org/0000-0002-9774-1678"
     },
     {
       "@type": "Person",
-      "name": "Pascual Restrepo"
+      "name": "Pascual Restrepo",
+      "url": "https://economics.yale.edu/people/pascual-restrepo"
     },
     {
       "@type": "Person",
-      "name": "James A. Robinson"
+      "name": "James A. Robinson",
+      "url": "https://harris.uchicago.edu/directory/james-robinson"
     }
   ],
   "topics": [

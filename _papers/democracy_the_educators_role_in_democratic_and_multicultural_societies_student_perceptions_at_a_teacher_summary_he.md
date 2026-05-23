@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Michal Hisherik; Ilana Paul-Binyamin",
   "paperTitle": "The educator’s role in democratic and multicultural societies: student perceptions at a teacher training college in Israel",
-  "authorsHtml": "Michal Hisherik; Ilana Paul-Binyamin",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4017-5713\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Hisherik</a>; <a href=\"https://orcid.org/0000-0001-5566-2763\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Paul-Binyamin</a>",
   "journal": "Journal for Multicultural Education",
   "dateText": "פורסם: 2024",
   "doiUrl": "https://doi.org/10.1108/jme-08-2023-0077",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Michal Hisherik"
+      "name": "Michal Hisherik",
+      "url": "https://orcid.org/0000-0003-4017-5713"
     },
     {
       "@type": "Person",
-      "name": "Ilana Paul-Binyamin"
+      "name": "Ilana Paul-Binyamin",
+      "url": "https://orcid.org/0000-0001-5566-2763"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Michal Hisherik"
+      "name": "Michal Hisherik",
+      "url": "https://orcid.org/0000-0003-4017-5713"
     },
     {
       "@type": "Person",
-      "name": "Ilana Paul-Binyamin"
+      "name": "Ilana Paul-Binyamin",
+      "url": "https://orcid.org/0000-0001-5566-2763"
     }
   ],
   "topics": [

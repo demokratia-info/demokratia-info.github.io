@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Asaf Darr, Alisa C. Lewin",
   "paperTitle": "Democratic Justice Regimes in Work Organizations: The Case of Israeli Taxi Cooperatives",
-  "authorsHtml": "Asaf Darr, Alisa C. Lewin",
+  "authorsHtml": "Asaf Darr, <a href=\"https://sites.google.com/hevra.haifa.ac.il/dr-alisa-lewin/home\" target=\"_blank\" rel=\"noopener noreferrer\">Alisa C. Lewin</a>",
   "journal": "Economic and Industrial Democracy",
   "dateText": "פורסם: 2001",
   "doiUrl": "https://doi.org/10.1177/0143831x01223004",
@@ -21,7 +21,8 @@
     },
     {
       "@type": "Person",
-      "name": "Alisa C. Lewin"
+      "name": "Alisa C. Lewin",
+      "url": "https://sites.google.com/hevra.haifa.ac.il/dr-alisa-lewin/home"
     }
   ],
   "sourceAuthors": [
@@ -31,7 +32,8 @@
     },
     {
       "@type": "Person",
-      "name": "Alisa C. Lewin"
+      "name": "Alisa C. Lewin",
+      "url": "https://sites.google.com/hevra.haifa.ac.il/dr-alisa-lewin/home"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום והשפעתו על זכויות ושייכות דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Peleg",
   "paperTitle": "Introduction to Israel Dialectics-The 2018 Basic Law: Israel as the Nation-State of the Jewish People",
-  "authorsHtml": "Peleg",
+  "authorsHtml": "<a href=\"https://govlaw.lafayette.edu/people/ilan-peleg/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Peleg</a>",
   "journal": "Israel Studies",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.2979/israelstudies.25.3.11",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Peleg"
+      "name": "Ilan Peleg",
+      "url": "https://govlaw.lafayette.edu/people/ilan-peleg/"
     }
   ],
   "topics": [

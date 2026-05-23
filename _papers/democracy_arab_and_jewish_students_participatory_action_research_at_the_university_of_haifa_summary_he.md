@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Tamar Zelniker, Rachel Hertz-Lazarowitz, Hilla Peretz, Faisal Azaiza, Ruth Sharabany",
   "paperTitle": "Arab and Jewish Students’ Participatory Action Research at the University of Haifa",
-  "authorsHtml": "Tamar Zelniker; Rachel Hertz-Lazarowitz; Hilla Peretz; Faisal Azaiza; Ruth Sharabany",
+  "authorsHtml": "Tamar Zelniker; Rachel Hertz-Lazarowitz; <a href=\"https://orcid.org/0000-0002-1160-2010\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Peretz</a>; <a href=\"https://cris.haifa.ac.il/en/persons/faisal-azaiza\" target=\"_blank\" rel=\"noopener noreferrer\">Faisal Azaiza</a>; Ruth Sharabany",
   "journal": "",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1057/9780230620421_13",
@@ -26,11 +26,13 @@
     },
     {
       "@type": "Person",
-      "name": "Hilla Peretz"
+      "name": "Hilla Peretz",
+      "url": "https://orcid.org/0000-0002-1160-2010"
     },
     {
       "@type": "Person",
-      "name": "Faisal Azaiza"
+      "name": "Faisal Azaiza",
+      "url": "https://cris.haifa.ac.il/en/persons/faisal-azaiza"
     },
     {
       "@type": "Person",
@@ -48,11 +50,13 @@
     },
     {
       "@type": "Person",
-      "name": "Hilla Peretz"
+      "name": "Hilla Peretz",
+      "url": "https://orcid.org/0000-0002-1160-2010"
     },
     {
       "@type": "Person",
-      "name": "Faisal Azaiza"
+      "name": "Faisal Azaiza",
+      "url": "https://cris.haifa.ac.il/en/persons/faisal-azaiza"
     },
     {
       "@type": "Person",

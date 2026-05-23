@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית הקשרים בין משפט יהודי למשפט ישראלי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על בלמים מוסדיים, ביקורת שיפוטית והגבלת כוח שלטוני. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Shimon Shetreet; Walter Homolka",
   "paperTitle": "Jewish and Israeli Law - An Introduction",
-  "authorsHtml": "Shimon Shetreet; Walter Homolka",
+  "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/shimon-shetrit\" target=\"_blank\" rel=\"noopener noreferrer\">Shimon Shetreet</a>; <a href=\"https://orcid.org/0000-0003-1021-2341\" target=\"_blank\" rel=\"noopener noreferrer\">Walter Homolka</a>",
   "journal": "De Gruyter",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1515/9783899497946",
@@ -18,21 +18,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Shimon Shetreet"
+      "name": "Shimon Shetreet",
+      "url": "https://en.law.huji.ac.il/people/shimon-shetrit"
     },
     {
       "@type": "Person",
-      "name": "Walter Homolka"
+      "name": "Walter Homolka",
+      "url": "https://orcid.org/0000-0003-1021-2341"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Shimon Shetreet"
+      "name": "Shimon Shetreet",
+      "url": "https://en.law.huji.ac.il/people/shimon-shetrit"
     },
     {
       "@type": "Person",
-      "name": "Walter Homolka"
+      "name": "Walter Homolka",
+      "url": "https://orcid.org/0000-0003-1021-2341"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מדיניות ישראל כלפי מבקשי מקלט אפריקאים דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
   "authorsCardHe": "Hadas Yaron, Nurit Hashimshony‐Yaffe, John R. Campbell",
   "paperTitle": "“Infiltrators” or Refugees? An Analysis of Israel's Policy Towards African Asylum‐Seekers",
-  "authorsHtml": "Hadas Yaron; Nurit Hashimshony‐Yaffe; John R. Campbell",
+  "authorsHtml": "Hadas Yaron; Nurit Hashimshony‐Yaffe; <a href=\"https://orcid.org/0000-0003-4977-4587\" target=\"_blank\" rel=\"noopener noreferrer\">John R. Campbell</a>",
   "journal": "International Migration",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1111/imig.12070",
@@ -26,7 +26,8 @@
     },
     {
       "@type": "Person",
-      "name": "John R. Campbell"
+      "name": "John R. Campbell",
+      "url": "https://orcid.org/0000-0003-4977-4587"
     }
   ],
   "sourceAuthors": [
@@ -40,7 +41,8 @@
     },
     {
       "@type": "Person",
-      "name": "John R. Campbell"
+      "name": "John R. Campbell",
+      "url": "https://orcid.org/0000-0003-4977-4587"
     }
   ],
   "topics": [

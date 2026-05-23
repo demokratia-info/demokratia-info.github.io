@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Hillel Frisch, Shmuel Sandler",
   "paperTitle": "Religion, State, and the International System in the Israeli–Palestinian Conflict",
-  "authorsHtml": "Hillel Frisch, Shmuel Sandler",
+  "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>, <a href=\"https://politics.biu.ac.il/node/585\" target=\"_blank\" rel=\"noopener noreferrer\">Shmuel Sandler</a>",
   "journal": "International Political Science Review",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1177/0192512104038168",
@@ -17,21 +17,25 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     },
     {
       "@type": "Person",
-      "name": "Shmuel Sandler"
+      "name": "Shmuel Sandler",
+      "url": "https://politics.biu.ac.il/node/585"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     },
     {
       "@type": "Person",
-      "name": "Shmuel Sandler"
+      "name": "Shmuel Sandler",
+      "url": "https://politics.biu.ac.il/node/585"
     }
   ],
   "topics": [

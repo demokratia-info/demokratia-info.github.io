@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על פעולה קולקטיבית, מחאה, שירות ציבורי ומנגנוני השתתפות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Leonie Fleischmann",
   "paperTitle": "Protest Movements and Democracy in Israel",
-  "authorsHtml": "Leonie Fleischmann",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1228-9142\" target=\"_blank\" rel=\"noopener noreferrer\">Leonie Fleischmann</a>",
   "journal": "The Palgrave International Handbook of Israel",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1007/978-981-16-2717-0_4-1",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Leonie Fleischmann"
+      "name": "Leonie Fleischmann",
+      "url": "https://orcid.org/0000-0002-1228-9142"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Leonie Fleischmann"
+      "name": "Leonie Fleischmann",
+      "url": "https://orcid.org/0000-0002-1228-9142"
     }
   ],
   "topics": [

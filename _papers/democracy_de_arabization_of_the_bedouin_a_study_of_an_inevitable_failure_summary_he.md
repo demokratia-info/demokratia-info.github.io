@@ -10,7 +10,7 @@
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
   "authorsCardHe": "Yossi Yonah, Ismael Abu-Saad, Avi Kaplan",
   "paperTitle": "De-arabization of the Bedouin: A study of an inevitable failure",
-  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/yyona/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Yonah</a>, Ismael Abu-Saad, Avi Kaplan",
+  "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/yyona/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Yonah</a>, <a href=\"https://orcid.org/0000-0003-2601-7188\" target=\"_blank\" rel=\"noopener noreferrer\">Ismael Abu-Saad</a>, <a href=\"https://orcid.org/0000-0002-2898-0085\" target=\"_blank\" rel=\"noopener noreferrer\">Avi Kaplan</a>",
   "journal": "",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1007/bf02698890",
@@ -23,11 +23,13 @@
     },
     {
       "@type": "Person",
-      "name": "Ismael Abu-Saad"
+      "name": "Ismael Abu-Saad",
+      "url": "https://orcid.org/0000-0003-2601-7188"
     },
     {
       "@type": "Person",
-      "name": "Avi Kaplan"
+      "name": "Avi Kaplan",
+      "url": "https://orcid.org/0000-0002-2898-0085"
     }
   ],
   "sourceAuthors": [
@@ -38,11 +40,13 @@
     },
     {
       "@type": "Person",
-      "name": "Ismael Abu-Saad"
+      "name": "Ismael Abu-Saad",
+      "url": "https://orcid.org/0000-0003-2601-7188"
     },
     {
       "@type": "Person",
-      "name": "Avi Kaplan"
+      "name": "Avi Kaplan",
+      "url": "https://orcid.org/0000-0002-2898-0085"
     }
   ],
   "topics": [

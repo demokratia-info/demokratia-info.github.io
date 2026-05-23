@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Adriana Kemp, Rebeca Raijman",
   "paperTitle": "Christian Zionists in the Holy Land: Evangelical Churches, Labor Migrants, and the Jewish State",
-  "authorsHtml": "Adriana Kemp, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>",
+  "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/akemp\" target=\"_blank\" rel=\"noopener noreferrer\">Adriana Kemp</a>, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>",
   "journal": "Identities",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1080/10702890390228883",
@@ -17,7 +17,8 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Adriana Kemp"
+      "name": "Adriana Kemp",
+      "url": "https://english.tau.ac.il/profile/akemp"
     },
     {
       "@type": "Person",
@@ -28,7 +29,8 @@
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Adriana Kemp"
+      "name": "Adriana Kemp",
+      "url": "https://english.tau.ac.il/profile/akemp"
     },
     {
       "@type": "Person",

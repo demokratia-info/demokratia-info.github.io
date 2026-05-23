@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בלאומיות, אזרחות ושוויון דמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Hillel Frisch",
   "paperTitle": "State ethnicization and the crisis of leadership succession among Israel's Druze",
-  "authorsHtml": "Hillel Frisch",
+  "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>",
   "journal": "Ethnic and Racial Studies",
   "dateText": "פורסם: 1997",
   "doiUrl": "https://doi.org/10.1080/01419870.1997.9993976",
@@ -17,13 +17,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Hillel Frisch"
+      "name": "Hillel Frisch",
+      "url": "https://shalem.ac.il/en/personnel/hillel-frisch/"
     }
   ],
   "topics": [

@@ -10,7 +10,7 @@
   "summaryHe": "המאמר בוחן את סוגיית מימוש זכויות בתוך משטר המקלט הישראלי דרך עדשה של זכויות, שוויון ומיעוטים. החשיבות הציבורית שלו היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או נקודתית משפיעה על שוויון אזרחי, זכויות קבוצתיות והגנה על מי שאינם חלק מן הרוב. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה יציבה נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של מוסדות, כללים וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
   "authorsCardHe": "Tanja R. Müller",
   "paperTitle": "Acts of citizenship as a politics of resistance? Reflections on realizing concrete rights within the Israeli asylum regime",
-  "authorsHtml": "Tanja R. Müller",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1497-918X\" target=\"_blank\" rel=\"noopener noreferrer\">Tanja R. Müller</a>",
   "journal": "Citizenship Studies",
   "dateText": "פורסם: 2016",
   "doiUrl": "https://doi.org/10.1080/13621025.2015.1104291",
@@ -18,13 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Tanja R. Müller"
+      "name": "Tanja R. Müller",
+      "url": "https://orcid.org/0000-0002-1497-918X"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Tanja R. Müller"
+      "name": "Tanja R. Müller",
+      "url": "https://orcid.org/0000-0002-1497-918X"
     }
   ],
   "topics": [

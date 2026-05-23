@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Jacob Shamir, Michal Shamir, Liron Lavi",
   "paperTitle": "Voter Election Frames: What were the Elections about?",
-  "authorsHtml": "Jacob Shamir, <a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>, Liron Lavi",
+  "authorsHtml": "Jacob Shamir, <a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>, <a href=\"https://orcid.org/0000-0003-3824-1320\" target=\"_blank\" rel=\"noopener noreferrer\">Liron Lavi</a>",
   "journal": "Political Studies",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.1111/1467-9248.12145",
@@ -26,7 +26,8 @@
     },
     {
       "@type": "Person",
-      "name": "Liron Lavi"
+      "name": "Liron Lavi",
+      "url": "https://orcid.org/0000-0003-3824-1320"
     }
   ],
   "sourceAuthors": [
@@ -41,7 +42,8 @@
     },
     {
       "@type": "Person",
-      "name": "Liron Lavi"
+      "name": "Liron Lavi",
+      "url": "https://orcid.org/0000-0003-3824-1320"
     }
   ],
   "topics": [
