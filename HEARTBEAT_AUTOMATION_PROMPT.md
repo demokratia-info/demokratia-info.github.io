@@ -1,8 +1,8 @@
 # Unified Website Heartbeat Automation Prompt
 
-Use this prompt for the single Codex heartbeat automation that runs four times daily in this chat.
+Use this prompt for the single Codex heartbeat automation that runs every three hours in this chat.
 
-Schedule: 00:05, 06:05, 12:05, and 18:05 Asia/Jerusalem.
+Schedule: 00:05, 03:05, 06:05, 09:05, 12:05, 15:05, 18:05, and 21:05 Asia/Jerusalem.
 
 Working directory: `/Users/talraviv/Documents/DemocracyWebSite/github_pages_publish`.
 
@@ -29,7 +29,7 @@ Only when the scheduled heartbeat run is the 00:05 Asia/Jerusalem run, perform t
 
 During the 00:05 run, after paper additions and any approved feedback revisions are reflected in the public paper sources, run `python3 scripts/sample_homepage_high_fit.py --write` so `_data/homepage_high_fit_sample.json` contains six sampled papers whose `image.fitness` is `high`. Include that file in the public commit whenever it changes.
 
-On the 06:05, 12:05, and 18:05 runs, do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.csv`. Those actions belong only to the 00:05 paper-addition pass. Non-midnight runs should only apply approved feedback revisions, append handled feedback rows to `page_feedback_history.csv`, and remove handled rows from `page_feedback_queue.csv`.
+On every non-00:05 run, including 03:05, 06:05, 09:05, 12:05, 15:05, 18:05, and 21:05, do not add new papers, consume `paper_queue.csv`, rebuild the paper queue, process `suggest_queue.csv`, or update private `Authors.csv`. Those actions belong only to the 00:05 paper-addition pass. Non-midnight runs should only apply approved feedback revisions, append handled feedback rows to `page_feedback_history.csv`, and remove handled rows from `page_feedback_queue.csv`.
 
 Non-midnight feedback runs are approved-feedback-scoped. If an approved row identifies a problem on one page only, edit only that page and required generated metadata. If the commenter explicitly points out that the same problem appears on many pages, and the editor approved that row, the run may perform a focused site-wide cleanup for that specific problem. Keep that cleanup narrowly tied to the approved comment: do not run unrelated audits, style rewrites, or quality passes, and do not invent facts, citations, names, or interpretations merely to broaden the cleanup. In the report, document the pattern searched for, the files changed, and why each class of change follows from the approved comment.
 
