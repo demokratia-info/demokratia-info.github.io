@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Emmanuel Flachaire, Cecilia García-Peñalosa, Maty Konte",
   "paperTitle": "Political versus economic institutions in the growth process",
-  "authorsHtml": "Emmanuel Flachaire, Cecilia García-Peñalosa, Maty Konte",
+  "authorsHtml": "Emmanuel Flachaire, <a href=\"https://sites.google.com/view/ceciliagarciapenalosa\" target=\"_blank\" rel=\"noopener noreferrer\">Cecilia García-Peñalosa</a>, Maty Konte",
   "journal": "Journal of Comparative Economics",
   "dateText": "פורסם: 2014",
   "doiUrl": "https://doi.org/10.1016/j.jce.2013.05.001",
@@ -21,7 +21,8 @@
     },
     {
       "@type": "Person",
-      "name": "Cecilia García-Peñalosa"
+      "name": "Cecilia García-Peñalosa",
+      "url": "https://sites.google.com/view/ceciliagarciapenalosa"
     },
     {
       "@type": "Person",
@@ -35,7 +36,8 @@
     },
     {
       "@type": "Person",
-      "name": "Cecilia García-Peñalosa"
+      "name": "Cecilia García-Peñalosa",
+      "url": "https://sites.google.com/view/ceciliagarciapenalosa"
     },
     {
       "@type": "Person",

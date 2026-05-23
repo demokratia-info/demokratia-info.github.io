@@ -9,7 +9,7 @@
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "authorsCardHe": "Oded Galor, Omer Moav",
   "paperTitle": "Natural Selection and the Origin of Economic Growth",
-  "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, <a href=\"https://warwick.ac.uk/fac/soc/economics/staff/omoav/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>",
+  "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>",
   "journal": "The Quarterly Journal of Economics",
   "dateText": "פורסם: 2002",
   "doiUrl": "https://doi.org/10.1162/003355302320935007",
@@ -23,7 +23,7 @@
     {
       "@type": "Person",
       "name": "Omer Moav",
-      "url": "https://warwick.ac.uk/fac/soc/economics/staff/omoav/"
+      "url": "https://omermoav.com/"
     }
   ],
   "sourceAuthors": [
@@ -35,7 +35,7 @@
     {
       "@type": "Person",
       "name": "Omer Moav",
-      "url": "https://warwick.ac.uk/fac/soc/economics/staff/omoav/"
+      "url": "https://omermoav.com/"
     }
   ],
   "topics": [
