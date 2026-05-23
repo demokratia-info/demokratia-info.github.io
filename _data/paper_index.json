@@ -1,8 +1,290 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 600,
+  "paperCount": 610,
   "papers": [
+    {
+      "slug": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he",
+      "file": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he.html",
+      "permalink": "/democracy_finance_and_growth_schumpeter_might_be_right_summary_he.html",
+      "sortKey": 202605240010,
+      "titleHe": "מימון וצמיחה: האם שומפטר צדק?",
+      "paperTitle": "Finance and Growth: Schumpeter Might Be Right",
+      "authorsCardHe": "Robert G. King, Ross Levine",
+      "sourceAuthors": [
+        "Robert G. King",
+        "Ross Levine"
+      ],
+      "journal": "The Quarterly Journal of Economics",
+      "dateText": "פורסם: 1.8.1993",
+      "doiUrl": "https://doi.org/10.2307/2118406",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_finance_and_growth_schumpeter_might_be_right_summary_he.jpg",
+        "altHe": "איור עריכתי על מימון, השקעה וצמיחה במוסדות ציבוריים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המאמר מציב את המימון כחלק ממבנה מוסדי רחב: מתווכים פיננסיים, אכיפת חוזים, מידע על לווים והקצאת חסכונות משפיעים על השקעה, חדשנות ופריון. לפי התקציר הביבליוגרפי הזמין, רמת הפיתוח הפיננסי של מדינה מסייעת לחזות את שיעור הצמיחה שלה לאורך השנים הבאות, באופן שמתיישב עם הרעיון השומפטריאני שלפיו שירותים פיננסיים יכולים להזין צמיחה ארוכת טווח. מבחינה דמוקרטית, הטענה אינה שמימון מחליף זכויות או מוסדות פוליטיים, אלא שמוסדות כלכליים שקופים והוגנים הם חלק מן התשתית המעשית שמאפשרת השתתפות, ניידות ואחריות ציבורית."
+    },
+    {
+      "slug": "democracy_law_and_finance_summary_he",
+      "file": "democracy_law_and_finance_summary_he.html",
+      "permalink": "/democracy_law_and_finance_summary_he.html",
+      "sortKey": 202605240009,
+      "titleHe": "משפט ומימון: איך הגנת משקיעים מעצבת שווקים",
+      "paperTitle": "Law and Finance",
+      "authorsCardHe": "Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny",
+      "sourceAuthors": [
+        "Rafael La Porta",
+        "Florencio Lopez-de-Silanes",
+        "Andrei Shleifer",
+        "Robert W. Vishny"
+      ],
+      "journal": "Journal of Political Economy",
+      "dateText": "פורסם: דצמבר 1998",
+      "doiUrl": "https://doi.org/10.1086/250042",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_law_and_finance_summary_he.jpg",
+        "altHe": "איור עריכתי על משפט, הגנת משקיעים ושווקים פיננסיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המאמר בוחן את הקשר בין מסורות משפטיות, הגנת משקיעים, אכיפה וריכוז בעלות בחברות ציבוריות. לפי תקציר המקור, מדינות המשפט המקובל מציעות בדרך כלל הגנות חזקות יותר למשקיעים, בעוד שמערכות שמקורן במשפט אזרחי צרפתי מציעות הגנות חלשות יותר, ומדינות אחרות נמצאות בין הקצוות. הממצא הציבורי החשוב הוא שהמשפט הכלכלי אינו נפרד מדמוקרטיה: כשהכללים מגינים רק על בעלי כוח או אינם נאכפים, שוקי ההון נעשים ריכוזיים יותר והציבור הרחב מתקשה להשתתף בצמיחה."
+    },
+    {
+      "slug": "democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he",
+      "file": "democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.html",
+      "permalink": "/democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.html",
+      "sortKey": 202605240008,
+      "titleHe": "מוסדות קרקע קולוניאליים וצמיחה ארוכת טווח בהודו",
+      "paperTitle": "History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India",
+      "authorsCardHe": "Abhijit Banerjee, Lakshmi Iyer",
+      "sourceAuthors": [
+        "Abhijit Banerjee",
+        "Lakshmi Iyer"
+      ],
+      "journal": "American Economic Review",
+      "dateText": "פורסם: 1.8.2005",
+      "doiUrl": "https://doi.org/10.1257/0002828054825574",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.jpg",
+        "altHe": "איור עריכתי על מוסדות קרקע, השקעה ציבורית וכפר בהודו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר מנתח את מוסדות גביית הקרקע שהבריטים יצרו בהודו ומשווה אזורים שבהם זכויות הקרקע ניתנו לבעלי אדמות לאזורים שבהם הזכויות ניתנו למעבדי הקרקע. לפי תקציר המקור, אזורי בעלי האדמות מציגים לאחר העצמאות השקעה חקלאית ופריון נמוכים יותר, וכן השקעות נמוכות יותר בבריאות ובחינוך. החוקרים מדגישים שהפערים אינם מוסברים רק במשתנים חסרים או באנדוגניות, אלא כנראה נובעים מבחירות מדיניות שונות שנוצרו מתוך מוסדות היסטוריים שונים."
+    },
+    {
+      "slug": "democracy_human_capital_inequality_life_expectancy_and_growth_summary_he",
+      "file": "democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.html",
+      "permalink": "/democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.html",
+      "sortKey": 202605240007,
+      "titleHe": "אי־שוויון בהון אנושי, תוחלת חיים וצמיחה",
+      "paperTitle": "Human Capital Inequality, Life Expectancy and Economic Growth",
+      "authorsCardHe": "Amparo Castelló-Climent, Rafael Doménech",
+      "sourceAuthors": [
+        "Amparo Castelló-Climent",
+        "Rafael Doménech"
+      ],
+      "journal": "The Economic Journal",
+      "dateText": "פורסם: 1.4.2008",
+      "doiUrl": "https://doi.org/10.1111/j.1468-0297.2008.02136.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על חינוך, בריאות ותוחלת חיים כבסיס לשוויון הזדמנויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר מתמקד במנגנון שבו ילדים במשפחות עניות צופים תוחלת חיים נמוכה יותר ולכן ההשקעה בחינוך נעשית פחות משתלמת, בעוד שילדים ממשפחות מבוססות נהנים מאופק חיים ומסלול השקעה טובים יותר. לפי התקציר, המודל יוצר מצבים יציבים מרובים התלויים בהתפלגות ההתחלתית של ההשכלה, ובמצב הנמוך נוצרת מלכודת עוני שבה ילדים עובדים כבלתי משכילים. המשמעות הדמוקרטית היא שהזכות הפורמלית לחינוך אינה מספיקה אם בריאות, חיים ארוכים וציפיות עתידיות מחולקים באופן לא שווה."
+    },
+    {
+      "slug": "democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he",
+      "file": "democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.html",
+      "permalink": "/democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.html",
+      "sortKey": 202605240006,
+      "titleHe": "אי־שוויון בהון אנושי וצמיחה כלכלית",
+      "paperTitle": "Human Capital Inequality and Economic Growth: Some New Evidence",
+      "authorsCardHe": "Amparo Castelló, Rafael Doménech",
+      "sourceAuthors": [
+        "Amparo Castelló",
+        "Rafael Doménech"
+      ],
+      "journal": "The Economic Journal",
+      "dateText": "פורסם: 1.3.2002",
+      "doiUrl": "https://doi.org/10.1111/1468-0297.00024",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.jpg",
+        "altHe": "איור עריכתי על מדידת אי־שוויון בהשכלה וצמיחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר בונה מדדים חדשים לאי־שוויון בהון אנושי על בסיס נתוני השכלה ומשווה מדינות לאורך זמן. לפי התקציר, החוקרים מחשבים מקדמי ג׳יני והתפלגות השכלה לפי חמישונים ל־108 מדינות במרווחי חמש שנים מ־1960 עד 2000, ומוצאים כי ברוב המדינות אי־השוויון בהון האנושי ירד. הם גם מראים שמדדי אי־שוויון בהון אנושי נותנים תוצאות יציבות יותר ממדדי אי־שוויון בהכנסה במשוואות צמיחה והשקעה, ולכן הם חשובים להבנת הקשר בין חינוך, שוויון ומוסדות."
+    },
+    {
+      "slug": "democracy_mortality_human_capital_and_persistent_inequality_summary_he",
+      "file": "democracy_mortality_human_capital_and_persistent_inequality_summary_he.html",
+      "permalink": "/democracy_mortality_human_capital_and_persistent_inequality_summary_he.html",
+      "sortKey": 202605240005,
+      "titleHe": "תמותה, הון אנושי ואי־שוויון מתמשך",
+      "paperTitle": "Mortality, Human Capital and Persistent Inequality",
+      "authorsCardHe": "Shankha Chakraborty, Mausumi Das",
+      "sourceAuthors": [
+        "Shankha Chakraborty",
+        "Mausumi Das"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: יוני 2005",
+      "doiUrl": "https://doi.org/10.1007/s10887-005-1670-5",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mortality_human_capital_and_persistent_inequality_summary_he.jpg",
+        "altHe": "איור עריכתי על בריאות, חינוך ואי־שוויון בין־דורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר משלב בריאות במודל של דורות חופפים: השקעה פרטית בבריאות מגדילה את ההסתברות לשרוד לשלב החיים הבא, וביחד עם חינוך משפרת את פריון העבודה. לפי תקציר המקור, הורים עניים בריאים פחות, מתקשים להשקיע בהפחתת סיכון תמותה ובהון אנושי, ולכן משאירים פחות לדור הבא. גם כאשר העדפות וטכנולוגיות הן קמורות, פערים התחלתיים בכלכלה ובבריאות יכולים להתמיד בין דורות כאשר שווקי אנונות אינם מושלמים."
+    },
+    {
+      "slug": "democracy_human_capital_self_esteem_and_income_inequality_summary_he",
+      "file": "democracy_human_capital_self_esteem_and_income_inequality_summary_he.html",
+      "permalink": "/democracy_human_capital_self_esteem_and_income_inequality_summary_he.html",
+      "sortKey": 202605240004,
+      "titleHe": "הון אנושי, הערכה עצמית ואי־שוויון בהכנסות",
+      "paperTitle": "Human capital, self-esteem, and income inequality",
+      "authorsCardHe": "Mark Gradstein, Luigi Ventura",
+      "sourceAuthors": [
+        "Mark Gradstein",
+        "Luigi Ventura"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: דצמבר 2024",
+      "doiUrl": "https://doi.org/10.1007/s10887-023-09235-7",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_capital_self_esteem_and_income_inequality_summary_he.jpg",
+        "altHe": "איור עריכתי על בית ספר, הערכה עצמית והון אנושי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר מכניס למודל צמיחה תועלת מהערכה עצמית שמונעת מהישגים לימודיים. לפי תקציר המקור, הערכה עצמית משפיעה על הון אנושי ולכן גם על ההתפתחות הבין־זמנית וההתמדה של אי־שוויון בהכנסות, בכלל ובין קבוצות אוכלוסייה. אי־השוויון מתמיד משום שמרכיב ההערכה העצמית יוצר פער בין משקי בית שהישגיהם הלימודיים גבוהים מספיק לבין אלה שהישגיהם נמוכים מדי, ואף הרחבות המודל מצביעות על כך שסגנון הורות שולט יכול להחריף אי־שוויון תוך הפחתת הערכה עצמית של ילדים."
+    },
+    {
+      "slug": "democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he",
+      "file": "democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.html",
+      "permalink": "/democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.html",
+      "sortKey": 202605240003,
+      "titleHe": "זכויות קניין שנוצרות מבפנים וצמיחה כלכלית",
+      "paperTitle": "Economic Growth and Decline with Endogenous Property Rights",
+      "authorsCardHe": "Aaron Tornell",
+      "sourceAuthors": [
+        "Aaron Tornell"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם: ספטמבר 1997",
+      "doiUrl": "https://doi.org/10.1023/a:1009749908420",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.jpg",
+        "altHe": "איור עריכתי על מועצה מקומית, זכויות קניין ומשאבים משותפים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר מציע מודל שבו זכויות קניין משתנות מתוך הדינמיקה הכלכלית עצמה. לפי תקציר המקור, בערכי פרמטרים מסוימים כל שיווי־המשקל המושלמים מרקובית כוללים מעבר מקניין משותף לקניין פרטי ולאחר מכן חזרה לקניין משותף, רצף שמייצר מסלול צמיחה בצורת גבנון. בערכים אחרים קיימים גם שיווי־משקל שבהם קניין משותף נמשך לעד, תוצאה שמסייעת להסביר מלכודות צמיחה נמוכה במדינות עניות."
+    },
+    {
+      "slug": "democracy_high_inequality_high_skilled_immigrants_summary_he",
+      "file": "democracy_high_inequality_high_skilled_immigrants_summary_he.html",
+      "permalink": "/democracy_high_inequality_high_skilled_immigrants_summary_he.html",
+      "sortKey": 202605240002,
+      "titleHe": "האם אי־שוויון מושך מהגרים מיומנים?",
+      "paperTitle": "Does High Inequality Attract High Skilled Immigrants?",
+      "authorsCardHe": "Eric D. Gould, Omer Moav",
+      "sourceAuthors": [
+        "Eric D. Gould",
+        "Omer Moav"
+      ],
+      "journal": "The Economic Journal",
+      "dateText": "פורסם: 1.6.2016",
+      "doiUrl": "https://doi.org/10.1111/ecoj.12185",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_high_inequality_high_skilled_immigrants_summary_he.jpg",
+        "altHe": "איור עריכתי על הגירה מיומנת, שכר ואי־שוויון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר שואל אם אי־שוויון גבוה מושך מהגרים מיומנים משום שהוא מגדיל את התשואה לכישורים, או שמקורות שונים של אי־שוויון יוצרים דפוסים מורכבים יותר. לפי תקציר המקור, המודל מבחין בין כישורים כלליים לבין כישורים הספציפיים למדינת המוצא, ומראה שהקשר בין כישורים בלתי נצפים לבין הגירה יכול להיות בצורת U הפוכה. באמצעות נתונים על מהגרים ישראלים לפני החלטת ההגירה, החוקרים מוצאים תמיכה אמפירית בתחזיות המודל."
+    },
+    {
+      "slug": "democracy_human_capital_growth_and_regional_inequality_china_summary_he",
+      "file": "democracy_human_capital_growth_and_regional_inequality_china_summary_he.html",
+      "permalink": "/democracy_human_capital_growth_and_regional_inequality_china_summary_he.html",
+      "sortKey": 202605240001,
+      "titleHe": "הון אנושי, צמיחה ופערים אזוריים בסין",
+      "paperTitle": "Human capital, economic growth, and regional inequality in China",
+      "authorsCardHe": "Belton Fleisher, Haizheng Li, Min Qiang Zhao",
+      "sourceAuthors": [
+        "Belton Fleisher",
+        "Haizheng Li",
+        "Min Qiang Zhao"
+      ],
+      "journal": "Journal of Development Economics",
+      "dateText": "פורסם: יולי 2010",
+      "doiUrl": "https://doi.org/10.1016/j.jdeveco.2009.01.010",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_capital_growth_and_regional_inequality_china_summary_he.jpg",
+        "altHe": "איור עריכתי על הון אנושי, תשתיות ופערים אזוריים בסין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "summaryHe": "המחקר מנתח צמיחה מחוזית בסין ושואל מדוע אזורים שונים נהנים מקצב צמיחה ופריון שונה. לפי תקצירי המקור הזמינים, ההסבר משלב השקעה בהון פיזי, הון אנושי ותשתיות, חדירת טכנולוגיה והתפשטותה, השקעות זרות ישירות ורפורמות שוק, ובמיוחד השינוי סביב מסע הדרום של דנג שיאופינג ב־1992. המאמר מוצא כי הון אנושי משפיע חיובית על תפוקה לעובד ועל צמיחת פריון, ולכן חינוך ותשתיות אינם רק כלי יעילות אלא גם כלי לצמצום פערים אזוריים."
+    },
     {
       "slug": "democracy_the_distribution_of_human_capital_and_economic_growth_summary_he",
       "file": "democracy_the_distribution_of_human_capital_and_economic_growth_summary_he.html",

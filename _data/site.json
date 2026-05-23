@@ -8,7 +8,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-24",
-  "cacheVersion": "2026-05-24-feedback-revisions-0010",
+  "cacheVersion": "2026-05-24-nightly",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
@@ -19,8 +19,8 @@
   "pageFeedbackRedirectDelayMs": 5000,
   "pageFeedbackPhotoMaxBytes": 8388608,
   "topicImageVersion": "20260523-topic-icons-v2",
-  "paperImageVersion": "2026-05-23-extra-100-economics-refill",
+  "paperImageVersion": "2026-05-24-nightly",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
-  "paperCount": 600,
+  "paperCount": 610,
   "feedbackEditorEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev/admin/page-feedback"
 }

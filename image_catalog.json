@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-05-24",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -13789,6 +13789,266 @@
       "artist": "",
       "credit": "",
       "commonsQuery": "Jerusalem business district"
+    },
+    {
+      "file": "html_qa/democracy_finance_and_growth_schumpeter_might_be_right_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he.html",
+      "usedBy": [
+        "democracy_finance_and_growth_schumpeter_might_be_right_summary_he.html"
+      ],
+      "cardTitleHe": "מימון וצמיחה: האם שומפטר צדק?",
+      "authorsHe": "Robert G. King, Ross Levine",
+      "visualDescriptionHe": "איור עריכתי חדש עבור מימון וצמיחה: האם שומפטר צדק?",
+      "semanticDescriptionHe": "המאמר בוחן את הטענה שמערכת פיננסית מפותחת אינה רק תוצאה של צמיחה, אלא יכולה לסייע לחזות ולעצב צמיחה עתידית. החשיבות הדמוקרטית היא בקשר בין מוסדות אמינים, הקצאת אשראי, השקעה ציבורית ויכולת של חברה לבנות הזדמנויות לאורך זמן.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "מימון",
+        "צמיחה כלכלית",
+        "מוסדות",
+        "בנקים",
+        "אשראי"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_law_and_finance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_law_and_finance_summary_he.html",
+      "usedBy": [
+        "democracy_law_and_finance_summary_he.html"
+      ],
+      "cardTitleHe": "משפט ומימון: איך הגנת משקיעים מעצבת שווקים",
+      "authorsHe": "Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny",
+      "visualDescriptionHe": "איור עריכתי חדש עבור משפט ומימון: איך הגנת משקיעים מעצבת שווקים",
+      "semanticDescriptionHe": "המאמר משווה כללי הגנה על בעלי מניות ונושים ואת איכות האכיפה שלהם, ומראה כיצד משפט פרטי לכאורה משפיע על מבנה שוקי ההון. מבחינה דמוקרטית, הוא מדגיש שהגבלת כוח כלכלי ושקיפות מוסדית תלויות גם בכללים שמגינים על משקיעים קטנים ונושים מפני ניצול.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "שלטון החוק",
+        "משפט מסחרי",
+        "הגנת משקיעים",
+        "זכויות קניין",
+        "מימון"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.html",
+      "usedBy": [
+        "democracy_history_institutions_and_economic_performance_india_land_tenure_summary_he.html"
+      ],
+      "cardTitleHe": "מוסדות קרקע קולוניאליים וצמיחה ארוכת טווח בהודו",
+      "authorsHe": "Abhijit Banerjee, Lakshmi Iyer",
+      "visualDescriptionHe": "איור עריכתי חדש עבור מוסדות קרקע קולוניאליים וצמיחה ארוכת טווח בהודו",
+      "semanticDescriptionHe": "המאמר מראה כיצד מוסדות קרקע שהוקמו בתקופה הקולוניאלית בהודו הותירו הבדלים מתמשכים בהשקעה, פריון ובריאות וחינוך. החשיבות הדמוקרטית שלו היא בהבנה שמוסדות היסטוריים יכולים לעצב שוויון הזדמנויות הרבה אחרי שהשלטון שהקים אותם הסתיים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "מוסדות",
+        "זכויות קניין",
+        "אי־שוויון",
+        "חינוך",
+        "בריאות"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.html",
+      "usedBy": [
+        "democracy_human_capital_inequality_life_expectancy_and_growth_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון בהון אנושי, תוחלת חיים וצמיחה",
+      "authorsHe": "Amparo Castelló-Climent, Rafael Doménech",
+      "visualDescriptionHe": "איור עריכתי חדש עבור אי־שוויון בהון אנושי, תוחלת חיים וצמיחה",
+      "semanticDescriptionHe": "המאמר מציג מודל שבו אי־שוויון משפיע על הכנסה לנפש דרך החלטות השקעה בחינוך, כאשר תוחלת החיים תלויה במידה רבה בהון האנושי של ההורים. מבחינה דמוקרטית, הוא מחבר בין בריאות, חינוך ושוויון הזדמנויות לבין יכולת של חברה לצאת ממלכודות עוני.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "הון אנושי",
+        "אי־שוויון",
+        "תוחלת חיים",
+        "חינוך",
+        "צמיחה כלכלית"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.html",
+      "usedBy": [
+        "democracy_human_capital_inequality_and_economic_growth_new_evidence_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון בהון אנושי וצמיחה כלכלית",
+      "authorsHe": "Amparo Castelló, Rafael Doménech",
+      "visualDescriptionHe": "איור עריכתי חדש עבור אי־שוויון בהון אנושי וצמיחה כלכלית",
+      "semanticDescriptionHe": "המאמר מציע מדדים של אי־שוויון בהון אנושי ובוחן כיצד התפלגות ההשכלה קשורה לצמיחה ולהשקעה. התרומה הדמוקרטית שלו היא ההדגשה שלא רק כמה שנות לימוד יש בממוצע חשוב, אלא גם כיצד ההשכלה מתחלקת בין קבוצות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "הון אנושי",
+        "אי־שוויון",
+        "חינוך",
+        "מדד ג׳יני",
+        "צמיחה כלכלית"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_mortality_human_capital_and_persistent_inequality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_mortality_human_capital_and_persistent_inequality_summary_he.html",
+      "usedBy": [
+        "democracy_mortality_human_capital_and_persistent_inequality_summary_he.html"
+      ],
+      "cardTitleHe": "תמותה, הון אנושי ואי־שוויון מתמשך",
+      "authorsHe": "Shankha Chakraborty, Mausumi Das",
+      "visualDescriptionHe": "איור עריכתי חדש עבור תמותה, הון אנושי ואי־שוויון מתמשך",
+      "semanticDescriptionHe": "המאמר מציע מנגנון שמחבר בין בריאות, השקעה בהון אנושי ואי־שוויון בין־דורי. הוא חשוב לדמוקרטיה משום שהוא מראה כיצד פערי בריאות וחינוך יכולים להפוך לחסמים מבניים להשתתפות כלכלית ואזרחית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "תמותה",
+        "הון אנושי",
+        "בריאות",
+        "אי־שוויון",
+        "השקעה פרטית"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_human_capital_self_esteem_and_income_inequality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_capital_self_esteem_and_income_inequality_summary_he.html",
+      "usedBy": [
+        "democracy_human_capital_self_esteem_and_income_inequality_summary_he.html"
+      ],
+      "cardTitleHe": "הון אנושי, הערכה עצמית ואי־שוויון בהכנסות",
+      "authorsHe": "Mark Gradstein, Luigi Ventura",
+      "visualDescriptionHe": "איור עריכתי חדש עבור הון אנושי, הערכה עצמית ואי־שוויון בהכנסות",
+      "semanticDescriptionHe": "המאמר משלב הערכה עצמית בתוך מודל צמיחה המבוסס על הון אנושי, ומראה כיצד הישגים לימודיים יכולים להשפיע על התמדה של אי־שוויון בהכנסות. החשיבות הדמוקרטית היא בזיהוי מנגנון רך אך מוסדי: בית ספר, משפחה ודימוי עצמי יכולים לעצב הזדמנות כלכלית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "הון אנושי",
+        "הערכה עצמית",
+        "אי־שוויון בהכנסות",
+        "חינוך",
+        "סגנון הורות"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.html",
+      "usedBy": [
+        "democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות קניין שנוצרות מבפנים וצמיחה כלכלית",
+      "authorsHe": "Aaron Tornell",
+      "visualDescriptionHe": "איור עריכתי חדש עבור זכויות קניין שנוצרות מבפנים וצמיחה כלכלית",
+      "semanticDescriptionHe": "המאמר מכניס שינוי מוסדי אנדוגני לתוך מודל צמיחה ומראה כיצד זכויות קניין יכולות להשתנות עם התמריצים של השחקנים. מבחינה דמוקרטית, הוא מצביע על כך שכללי קניין אינם רק רקע קבוע אלא זירה של כוח, קונפליקט ואחריות ציבורית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "זכויות קניין",
+        "שלטון החוק",
+        "מוסדות",
+        "קניין משותף",
+        "צמיחה כלכלית"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_high_inequality_high_skilled_immigrants_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_high_inequality_high_skilled_immigrants_summary_he.html",
+      "usedBy": [
+        "democracy_high_inequality_high_skilled_immigrants_summary_he.html"
+      ],
+      "cardTitleHe": "האם אי־שוויון מושך מהגרים מיומנים?",
+      "authorsHe": "Eric D. Gould, Omer Moav",
+      "visualDescriptionHe": "איור עריכתי חדש עבור האם אי־שוויון מושך מהגרים מיומנים?",
+      "semanticDescriptionHe": "המאמר בוחן כיצד רמות ומקורות של אי־שוויון בהכנסות משפיעים על היכולת של מדינה למשוך ולשמר עובדים מיומנים. חשיבותו הדמוקרטית היא בכך שהוא מחבר בין הגירה, שכר, הון אנושי ושאלה ציבורית על מי נהנה משוק עבודה פתוח.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "אי־שוויון",
+        "הגירה",
+        "מהגרים מיומנים",
+        "הון אנושי",
+        "ישראל"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_human_capital_growth_and_regional_inequality_china_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_capital_growth_and_regional_inequality_china_summary_he.html",
+      "usedBy": [
+        "democracy_human_capital_growth_and_regional_inequality_china_summary_he.html"
+      ],
+      "cardTitleHe": "הון אנושי, צמיחה ופערים אזוריים בסין",
+      "authorsHe": "Belton Fleisher, Haizheng Li, Min Qiang Zhao",
+      "visualDescriptionHe": "איור עריכתי חדש עבור הון אנושי, צמיחה ופערים אזוריים בסין",
+      "semanticDescriptionHe": "המאמר בוחן את הפיזור בקצב הצמיחה הכלכלית והצמיחה בפריון הכולל בין מחוזות בסין, ומקשר אותו להון פיזי, הון אנושי, תשתיות, טכנולוגיה ורפורמות שוק. מבחינה דמוקרטית, הוא מחדד את השאלה כיצד מדיניות פיתוח יכולה לצמצם פערים אזוריים ולא רק להגדיל תוצר ממוצע.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "הון אנושי",
+        "צמיחה כלכלית",
+        "אי־שוויון אזורי",
+        "סין",
+        "השקעה בתשתיות"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was generated for a specific paper in the 2026-05-24 nightly batch.",
+      "qualityNotes": "Generated 800x600 landscape image in the older warm editorial civic style: people, institutions, documents, depth and texture; no intentional text, logos, flags, watermarks, or UI elements.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Warm editorial civic illustration generated for this specific paper topic during the 2026-05-24 heartbeat."
     }
   ],
   "topicGraphics": [

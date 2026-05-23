@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-05-24",
   "sampleSize": 6,
-  "seed": "2026-05-23-homepage-high-fit",
+  "seed": "2026-05-24-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with light topic and visual-family diversity constraints.",
   "highFitPaperCount": 49,
   "paperSlugs": [
-    "democracy_the_constitutional_revolution_and_the_emergence_of_a_new_economic_order_in_israel_summary_he",
-    "democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he",
-    "democracy_language_law_in_israel_summary_he",
+    "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he",
+    "democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he",
+    "democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he",
+    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
     "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he",
-    "democracy_from_state_control_to_regulation_to_privatization_of_religion_state_relations_in_israel_kashrut_reform_as_a_case_study_summary_he",
-    "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he"
+    "democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he"
   ]
 }
