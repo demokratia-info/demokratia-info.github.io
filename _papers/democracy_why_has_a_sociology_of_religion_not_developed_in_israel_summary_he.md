@@ -55,9 +55,9 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-23",
-  "lastUpdatedHe": "23 במאי 2026",
-  "oneLinerHtml": "שורה תחתונה: גם היעדרו של תחום מחקר יכול ללמד על דת, לאומיות וכוח ציבורי בדמוקרטיה.",
+  "dateModified": "2026-05-24",
+  "lastUpdatedHe": "24 במאי 2026",
+  "oneLinerHtml": "גם היעדרו של תחום מחקר יכול ללמד על דת, לאומיות וכוח ציבורי בדמוקרטיה.",
   "sections": [
     {
       "headingHe": "היעדר מחקר כממצא חברתי",
