@@ -22,10 +22,12 @@ exclude:
   - .github/
   - .npm-cache/
   - AGENTS.md
+  - APPROVED_FEEDBACK_AUTOMATION_PROMPT.md
   - Authors.csv
   - AUTOMATION_PROMPT.md
   - data/
   - HANDOFF.md
+  - HEARTBEAT_AUTOMATION_PROMPT.md
   - node_modules/
   - pagefind/
   - scripts/
