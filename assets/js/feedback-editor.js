@@ -103,7 +103,7 @@
     if (nextRound) nextRound.textContent = nextRevisionText();
   };
 
-  const currentMode = () => filter ? filter.value : "active";
+  const currentMode = () => filter ? filter.value : "all_queue";
 
   const requiresHistory = (mode = currentMode()) => (
     mode === "recent_handled"
@@ -119,9 +119,6 @@
   const visibleRows = () => {
     const mode = currentMode();
     if (mode === "all_queue") return queueRows;
-    if (mode === "active") {
-      return queueRows.filter((row) => row.status === "pending" || row.status === "approved_for_update" || row.status === "rejected");
-    }
     if (mode === "recent_handled") {
       return historyRows.filter((row) => row.status === "applied" || row.status === "rejected");
     }

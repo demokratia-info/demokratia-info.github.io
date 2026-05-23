@@ -8,7 +8,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-23",
-  "cacheVersion": "2026-05-23-feedback-history-filter",
+  "cacheVersion": "2026-05-23-feedback-filter-default",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",

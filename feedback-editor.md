@@ -39,14 +39,13 @@ noindex: true
     <div class="form-field feedback-editor-filter">
       <label class="form-label" for="feedbackStatusFilter">סינון לפי סטטוס</label>
       <select class="form-control" id="feedbackStatusFilter" data-feedback-editor-filter>
-        <option value="active">בתור עד להסרה</option>
+        <option value="all_queue">כל התור הפעיל</option>
         <option value="pending">pending</option>
         <option value="approved_for_update">approved_for_update</option>
         <option value="rejected">rejected בתור</option>
         <option value="recent_handled">בוצעו או נדחו ב־48 השעות האחרונות</option>
         <option value="applied_recent">applied ב־48 השעות האחרונות</option>
         <option value="rejected_recent">rejected שטופלו ב־48 השעות האחרונות</option>
-        <option value="all_queue">כל התור הפעיל</option>
       </select>
       <p class="form-note feedback-editor-history-note">המסך הראשי מציג את התור הפעיל בלבד. רשומות שבוצעו או נדחו ונמחקו מהתור נטענות מהיסטוריית הטיפול רק לפי דרישה, ול־48 השעות האחרונות.</p>
     </div>
