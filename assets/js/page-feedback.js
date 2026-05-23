@@ -3,11 +3,14 @@
   if (!form) return;
 
   const endpoint = (form.dataset.endpoint || "").trim();
+  const editorEndpoint = (form.dataset.editorEndpoint || "").trim();
+  const editorAuthEndpoint = editorEndpoint ? `${editorEndpoint.replace(/\/+$/, "")}/auth` : "";
   const homeUrl = form.dataset.homeUrl || "/";
   const dailyLimit = Number.parseInt(form.dataset.dailyLimit || "5", 10);
   const redirectDelayMs = Number.parseInt(form.dataset.redirectDelayMs || "5000", 10);
   const photoMaxBytes = Number.parseInt(form.dataset.photoMaxBytes || "8388608", 10);
   const submitButton = form.querySelector("[type='submit']");
+  const editorPasswordField = form.elements.namedItem("editorPassword");
   const photoInput = form.elements.namedItem("suggestedPhoto");
   const status = document.querySelector("[data-page-feedback-status]");
   const photoStatus = document.querySelector("[data-page-feedback-photo-status]");
@@ -15,9 +18,20 @@
   const thankYouText = document.querySelector("[data-page-feedback-thank-you-text]");
   const source = document.querySelector("[data-page-feedback-source]");
   const sourceLink = document.querySelector("[data-page-feedback-url]");
+  const editorAuthButton = document.querySelector("[data-summary-editor-auth]");
+  const editorAuthStatus = document.querySelector("[data-summary-editor-auth-status]");
+  const summaryEditor = document.querySelector("[data-summary-editor]");
+  const summaryEditorLoadButton = document.querySelector("[data-summary-editor-load]");
+  const summaryEditorFields = document.querySelector("[data-summary-editor-fields]");
+  const summaryEditorActions = document.querySelector("[data-summary-editor-actions]");
+  const summaryEditorSaveButton = document.querySelector("[data-summary-editor-save]");
+  const summaryEditorResetButton = document.querySelector("[data-summary-editor-reset]");
+  const summaryEditorStatus = document.querySelector("[data-summary-editor-status]");
   const params = new URLSearchParams(window.location.search);
   const normalThankYouMessage = "ההערה התקבלה ותיבדק לפני כל שינוי באתר. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.";
   const approvedThankYouMessage = "ההערה התקבלה וסומנה כמאושרת לעדכון. בעוד כמה שניות תחזרו לעמוד שממנו נשלחה ההערה.";
+  const editorRevisionThankYouMessage = "עריכת העמוד נשמרה כעדכון מאושר. תהליך ההארטביט הבא יחיל אותה לאחר בדיקה, ובעוד כמה שניות תחזרו לעמוד המאמר.";
+  let editorPasswordVerified = false;
 
   const todayKey = () => {
     const now = new Date();
@@ -64,6 +78,18 @@
     photoStatus.dataset.type = type;
   };
 
+  const setPanelStatus = (element, message, type = "info") => {
+    if (!element) return;
+    if (!message) {
+      element.hidden = true;
+      element.textContent = "";
+      return;
+    }
+    element.hidden = false;
+    element.textContent = message;
+    element.dataset.type = type;
+  };
+
   const readField = (name) => {
     const field = form.elements.namedItem(name);
     return field && "value" in field ? String(field.value).trim() : "";
@@ -86,8 +112,16 @@
 
   const sourcePageUrl = sameOriginUrl(params.get("page") || params.get("pageUrl"))
     || sameOriginUrl(document.referrer);
+  const slugFromUrl = (value) => {
+    try {
+      const filename = new URL(value).pathname.split("/").filter(Boolean).pop() || "";
+      return decodeURIComponent(filename).replace(/\.html$/i, "");
+    } catch {
+      return "";
+    }
+  };
   const sourcePageTitle = (params.get("title") || params.get("pageTitle") || "").trim();
-  const sourcePageSlug = (params.get("slug") || "").trim();
+  const sourcePageSlug = (params.get("slug") || slugFromUrl(sourcePageUrl)).trim();
   const sourcePaperTitle = (params.get("paper") || params.get("paperTitle") || "").trim();
   const sourceDoi = (params.get("doi") || "").trim();
 
@@ -175,13 +209,276 @@
     image.src = objectUrl;
   });
 
-  const showThankYou = (approvedForUpdate) => {
+  const elementText = (element) => (element ? element.textContent.replace(/\s+/g, " ").trim() : "");
+  const elementHtml = (element) => (element ? element.innerHTML.replace(/\s+/g, " ").trim() : "");
+
+  const summaryFromDocument = (documentHtml) => {
+    const parsed = new DOMParser().parseFromString(documentHtml, "text/html");
+    const main = parsed.querySelector(".paper-main");
+    if (!main) {
+      throw new Error("לא ניתן היה לזהות את מבנה עמוד המאמר.");
+    }
+
+    const sections = Array.from(main.children)
+      .filter((child) => child.tagName && child.tagName.toLowerCase() === "section")
+      .map((section) => ({
+        headingHe: elementText(section.querySelector("h2")),
+        paragraphsHtml: Array.from(section.querySelectorAll("p"))
+          .map(elementHtml)
+          .filter(Boolean)
+      }))
+      .filter((section) => section.headingHe || section.paragraphsHtml.length);
+
+    return {
+      titleHe: elementText(main.querySelector("h1")) || sourcePageTitle,
+      subtitleHe: elementText(main.querySelector(".subtitle")),
+      oneLinerHtml: elementHtml(main.querySelector(".one-liner")),
+      sections
+    };
+  };
+
+  const makeEditorField = ({ label, value = "", fieldName = "", multiline = false, className = "", dir = "auto" }) => {
+    const wrapper = document.createElement("div");
+    wrapper.className = "form-field";
+    const id = `summaryEditor-${fieldName}-${Math.random().toString(16).slice(2)}`;
+    const labelEl = document.createElement("label");
+    labelEl.className = "form-label";
+    labelEl.htmlFor = id;
+    labelEl.textContent = label;
+    const control = document.createElement(multiline ? "textarea" : "input");
+    control.className = `form-control ${className}`.trim();
+    control.id = id;
+    control.dir = dir;
+    control.dataset.summaryEditorField = fieldName;
+    if (!multiline) control.type = "text";
+    control.value = value || "";
+    wrapper.append(labelEl, control);
+    return wrapper;
+  };
+
+  const renderSummaryEditor = (summary) => {
+    if (!summaryEditorFields || !summaryEditorActions) return;
+    summaryEditorFields.textContent = "";
+    summaryEditorFields.hidden = false;
+    summaryEditorActions.hidden = false;
+
+    summaryEditorFields.append(
+      makeEditorField({ label: "כותרת העמוד", value: summary.titleHe, fieldName: "titleHe" }),
+      makeEditorField({ label: "כותרת משנה", value: summary.subtitleHe, fieldName: "subtitleHe" }),
+      makeEditorField({
+        label: "שורת פתיחה",
+        value: summary.oneLinerHtml,
+        fieldName: "oneLinerHtml",
+        multiline: true,
+        className: "summary-editor-textarea"
+      })
+    );
+
+    summary.sections.forEach((section, index) => {
+      const wrapper = document.createElement("section");
+      wrapper.className = "summary-editor-section";
+      wrapper.dataset.summaryEditorSection = String(index);
+      const heading = document.createElement("h3");
+      heading.textContent = `סעיף ${index + 1}`;
+      const paragraphs = section.paragraphsHtml.join("\n\n");
+      wrapper.append(
+        heading,
+        makeEditorField({
+          label: "כותרת סעיף",
+          value: section.headingHe,
+          fieldName: "sectionHeading",
+          className: "summary-editor-section-heading"
+        }),
+        makeEditorField({
+          label: "פסקאות הסעיף",
+          value: paragraphs,
+          fieldName: "sectionParagraphs",
+          multiline: true,
+          className: "summary-editor-textarea summary-editor-paragraphs"
+        })
+      );
+      summaryEditorFields.append(wrapper);
+    });
+  };
+
+  const loadSummaryEditor = async () => {
+    if (!summaryEditorFields || !summaryEditorActions) return;
+    setPanelStatus(summaryEditorStatus, "טוען את עמוד המאמר לעריכה...", "info");
+    if (summaryEditorLoadButton) summaryEditorLoadButton.disabled = true;
+    if (summaryEditorResetButton) summaryEditorResetButton.disabled = true;
+
+    try {
+      const response = await fetch(sourcePageUrl, {
+        method: "GET",
+        cache: "no-store",
+        credentials: "same-origin"
+      });
+      if (!response.ok) throw new Error("לא ניתן היה לטעון את עמוד המאמר.");
+      renderSummaryEditor(summaryFromDocument(await response.text()));
+      setPanelStatus(summaryEditorStatus, "התמצית נטענה. אפשר לערוך את הטקסט ולשמור כעדכון מאושר.", "info");
+    } catch (error) {
+      summaryEditorFields.hidden = true;
+      summaryEditorActions.hidden = true;
+      setPanelStatus(summaryEditorStatus, error.message || "לא ניתן היה לטעון את התמצית לעריכה.", "error");
+    } finally {
+      if (summaryEditorLoadButton) summaryEditorLoadButton.disabled = false;
+      if (summaryEditorResetButton) summaryEditorResetButton.disabled = false;
+    }
+  };
+
+  const readEditorControl = (fieldName, root = summaryEditorFields) => {
+    const control = root && root.querySelector(`[data-summary-editor-field="${fieldName}"]`);
+    return control && "value" in control ? String(control.value).trim() : "";
+  };
+
+  const paragraphsFromEditorText = (value) => String(value || "")
+    .replace(/\r/g, "")
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.replace(/\s*\n\s*/g, " ").trim())
+    .filter(Boolean);
+
+  const collectSummaryRevision = () => {
+    if (!summaryEditorFields || summaryEditorFields.hidden) {
+      throw new Error("יש לטעון את התמצית לפני שמירת העריכה.");
+    }
+
+    const titleHe = readEditorControl("titleHe");
+    const oneLinerHtml = readEditorControl("oneLinerHtml");
+    const sections = Array.from(summaryEditorFields.querySelectorAll("[data-summary-editor-section]"))
+      .map((section) => ({
+        headingHe: readEditorControl("sectionHeading", section),
+        paragraphsHtml: paragraphsFromEditorText(readEditorControl("sectionParagraphs", section))
+      }))
+      .filter((section) => section.headingHe || section.paragraphsHtml.length);
+
+    if (!titleHe) throw new Error("כותרת העמוד אינה יכולה להיות ריקה.");
+    if (!oneLinerHtml) throw new Error("שורת הפתיחה אינה יכולה להיות ריקה.");
+    if (!sections.length) throw new Error("יש להשאיר לפחות סעיף אחד בתמצית.");
+    for (const section of sections) {
+      if (!section.headingHe || !section.paragraphsHtml.length) {
+        throw new Error("לכל סעיף צריך להיות שם ולפחות פסקה אחת.");
+      }
+    }
+
+    return {
+      type: "summary_revision_v1",
+      source: "page_feedback_summary_editor",
+      pageSlug: readField("pageSlug"),
+      pageUrl: readField("pageUrl"),
+      pageTitle: readField("pageTitle"),
+      paperTitle: readField("paperTitle"),
+      doi: readField("doi"),
+      editedAt: new Date().toISOString(),
+      fields: {
+        titleHe,
+        subtitleHe: readEditorControl("subtitleHe"),
+        oneLinerHtml
+      },
+      sections
+    };
+  };
+
+  const verifyEditorPassword = async () => {
+    const password = readField("editorPassword");
+    if (!password) {
+      setPanelStatus(editorAuthStatus, "יש להזין סיסמת עורך.", "error");
+      return;
+    }
+    if (!editorAuthEndpoint) {
+      setPanelStatus(editorAuthStatus, "מסך העריכה עדיין לא מחובר ל-Worker.", "error");
+      return;
+    }
+
+    if (editorAuthButton) editorAuthButton.disabled = true;
+    setPanelStatus(editorAuthStatus, "בודק סיסמת עורך...", "info");
+
+    try {
+      const response = await fetch(editorAuthEndpoint, {
+        method: "GET",
+        headers: {
+          "Accept": "application/json",
+          "Authorization": `Bearer ${password}`
+        }
+      });
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || result.ok === false) {
+        throw new Error(result.error || "סיסמת העורך שגויה.");
+      }
+      editorPasswordVerified = true;
+      if (summaryEditor) summaryEditor.hidden = false;
+      setPanelStatus(editorAuthStatus, "סיסמת העורך אומתה. אפשר לערוך את התמצית של העמוד הזה.", "info");
+      await loadSummaryEditor();
+      if (summaryEditor) summaryEditor.scrollIntoView({ behavior: "smooth", block: "start" });
+    } catch (error) {
+      editorPasswordVerified = false;
+      if (summaryEditor) summaryEditor.hidden = true;
+      setPanelStatus(editorAuthStatus, error.message || "לא ניתן היה לאמת את סיסמת העורך.", "error");
+    } finally {
+      if (editorAuthButton) editorAuthButton.disabled = false;
+    }
+  };
+
+  const submitSummaryRevision = async () => {
+    if (!editorPasswordVerified) {
+      setPanelStatus(summaryEditorStatus, "יש לאמת סיסמת עורך לפני שמירת עריכה.", "error");
+      return;
+    }
+
+    let revision;
+    try {
+      revision = collectSummaryRevision();
+    } catch (error) {
+      setPanelStatus(summaryEditorStatus, error.message || "לא ניתן היה לקרוא את העריכה.", "error");
+      return;
+    }
+
+    const comment = `EDITOR_SUMMARY_REVISION_V1 ${JSON.stringify(revision)}`;
+    if (comment.length > 30000) {
+      setPanelStatus(summaryEditorStatus, "העריכה ארוכה מדי לשמירה אוטומטית. כדאי לפצל אותה לכמה תיקונים.", "error");
+      return;
+    }
+
+    if (summaryEditorSaveButton) summaryEditorSaveButton.disabled = true;
+    setPanelStatus(summaryEditorStatus, "שומר את העריכה כתיקון מאושר...", "info");
+
+    const payload = new FormData();
+    payload.set("pageUrl", revision.pageUrl);
+    payload.set("pageTitle", revision.pageTitle || revision.fields.titleHe);
+    payload.set("pageSlug", revision.pageSlug);
+    payload.set("paperTitle", revision.paperTitle);
+    payload.set("doi", revision.doi);
+    payload.set("comment", comment);
+    payload.set("submitterRole", "other_or_prefer_not");
+    payload.set("editorPassword", readField("editorPassword"));
+
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "Accept": "application/json"
+        },
+        body: payload
+      });
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || result.ok === false) {
+        throw new Error(result.error || "לא ניתן היה לשמור את העריכה.");
+      }
+      showThankYou(true, editorRevisionThankYouMessage);
+    } catch (error) {
+      setPanelStatus(summaryEditorStatus, error.message || "לא ניתן היה לשמור את העריכה.", "error");
+    } finally {
+      if (summaryEditorSaveButton) summaryEditorSaveButton.disabled = false;
+    }
+  };
+
+  const showThankYou = (approvedForUpdate, message = "") => {
     form.hidden = true;
     if (status) status.hidden = true;
     if (source) source.hidden = true;
+    if (summaryEditor) summaryEditor.hidden = true;
     if (thankYou) {
       if (thankYouText) {
-        thankYouText.textContent = approvedForUpdate ? approvedThankYouMessage : normalThankYouMessage;
+        thankYouText.textContent = message || (approvedForUpdate ? approvedThankYouMessage : normalThankYouMessage);
       }
       thankYou.hidden = false;
       thankYou.focus();
@@ -252,6 +549,31 @@
       setStatus(error.message || "לא ניתן היה לשלוח את ההערה.", "error");
     }
   });
+
+  if (editorAuthButton) {
+    editorAuthButton.addEventListener("click", verifyEditorPassword);
+  }
+
+  if (editorPasswordField) {
+    editorPasswordField.addEventListener("input", () => {
+      if (!editorPasswordVerified) return;
+      editorPasswordVerified = false;
+      if (summaryEditor) summaryEditor.hidden = true;
+      setPanelStatus(editorAuthStatus, "סיסמת העורך השתנתה. יש לאמת אותה מחדש כדי לערוך.", "info");
+    });
+  }
+
+  if (summaryEditorLoadButton) {
+    summaryEditorLoadButton.addEventListener("click", loadSummaryEditor);
+  }
+
+  if (summaryEditorResetButton) {
+    summaryEditorResetButton.addEventListener("click", loadSummaryEditor);
+  }
+
+  if (summaryEditorSaveButton) {
+    summaryEditorSaveButton.addEventListener("click", submitSummaryRevision);
+  }
 
   if (photoInput) {
     photoInput.addEventListener("change", async () => {

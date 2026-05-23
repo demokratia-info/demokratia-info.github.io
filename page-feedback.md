@@ -17,6 +17,7 @@ permalink: /page-feedback.html
 <form class="feedback-form"
       data-page-feedback-form
       data-endpoint="{{ site.data.site.pageFeedbackEndpoint | default: '' | escape }}"
+      data-editor-endpoint="{{ site.data.site.feedbackEditorEndpoint | default: '' | escape }}"
       data-home-url="{{ '/' | relative_url }}"
       data-daily-limit="{{ site.data.site.pageFeedbackDailyLimit | default: 5 }}"
       data-redirect-delay-ms="{{ site.data.site.pageFeedbackRedirectDelayMs | default: 5000 }}"
@@ -63,6 +64,10 @@ permalink: /page-feedback.html
   <div class="form-field">
     <label class="form-label" for="feedbackEditorPassword">סיסמת עורך (לא חובה)</label>
     <input class="form-control" id="feedbackEditorPassword" name="editorPassword" type="password" autocomplete="off" maxlength="300">
+    <div class="form-actions editor-auth-actions">
+      <button class="button-secondary" type="button" data-summary-editor-auth>אימות עורך</button>
+    </div>
+    <p class="form-status editor-auth-status" data-summary-editor-auth-status hidden role="status" aria-live="polite"></p>
   </div>
 
   <p class="form-note">פרטי הקשר אינם חובה, אינם מוצגים באתר, וישמשו רק אם יהיה צורך בהבהרה.</p>
@@ -73,6 +78,20 @@ permalink: /page-feedback.html
 </form>
 
 <p class="form-status" data-page-feedback-status hidden role="status" aria-live="polite"></p>
+
+<section class="page-summary-editor" data-summary-editor hidden aria-labelledby="summaryEditorHeading">
+  <h2 id="summaryEditorHeading">עריכת תמצית העמוד</h2>
+  <p class="form-note">מסך זה נטען רק לאחר אימות סיסמת עורך. השינויים נשמרים כבקשת עדכון מאושרת לתור ההערות, ותהליך ההארטביט הבא יחיל אותם לאחר בדיקה.</p>
+  <div class="form-actions">
+    <button class="button-secondary" type="button" data-summary-editor-load>טעינת התמצית לעריכה</button>
+  </div>
+  <div class="summary-editor-fields" data-summary-editor-fields hidden></div>
+  <div class="form-actions summary-editor-actions" data-summary-editor-actions hidden>
+    <button class="button-primary" type="button" data-summary-editor-save>שמירת עריכה מאושרת</button>
+    <button class="button-secondary" type="button" data-summary-editor-reset>טעינה מחדש מהעמוד</button>
+  </div>
+  <p class="form-status" data-summary-editor-status hidden role="status" aria-live="polite"></p>
+</section>
 
 <section class="thank-you-message" data-page-feedback-thank-you hidden tabindex="-1" aria-live="polite">
   <h2>תודה</h2>

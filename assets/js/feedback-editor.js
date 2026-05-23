@@ -89,7 +89,7 @@
     const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
     const hour = Number.parseInt(values.hour || "0", 10);
     const minute = Number.parseInt(values.minute || "0", 10);
-    const slots = [0, 6, 12, 18];
+    const slots = [0, 3, 6, 9, 12, 15, 18, 21];
     const nextHour = slots.find((slot) => hour < slot || (hour === slot && minute < 5));
     if (nextHour === undefined) return "סבב העדכון האוטומטי הבא: מחר 00:05 (שעון ישראל).";
     return `סבב העדכון האוטומטי הבא: היום ${String(nextHour).padStart(2, "0")}:05 (שעון ישראל).`;

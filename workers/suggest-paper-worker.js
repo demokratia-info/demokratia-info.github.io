@@ -39,6 +39,7 @@ const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
 const FEEDBACK_SUBMITTER_ROLES = new Set(["paper_author", "field_researcher", "other_or_prefer_not"]);
+const FEEDBACK_COMMENT_MAX_LENGTH = 30000;
 const FEEDBACK_PHOTO_TYPES = new Map([
   ["image/jpeg", "jpg"],
   ["image/png", "png"],
@@ -60,6 +61,10 @@ export default {
 
       if (kind === "admin-page-feedback-photo") {
         return await handleAdminPageFeedbackPhoto(request, env, cors);
+      }
+
+      if (kind === "admin-page-feedback-auth") {
+        return await handleAdminPageFeedbackAuth(request, env, cors);
       }
 
       if (kind === "admin-page-feedback") {
@@ -204,6 +209,16 @@ async function handleAdminPageFeedback(request, env, cors) {
   return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
 }
 
+async function handleAdminPageFeedbackAuth(request, env, cors) {
+  await requireEditorPassword(request, env);
+
+  if (request.method !== "GET" && request.method !== "POST") {
+    return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+  }
+
+  return jsonResponse({ ok: true }, 200, cors);
+}
+
 async function handleAdminPageFeedbackPhoto(request, env, cors) {
   await requireEditorPassword(request, env);
 
@@ -239,7 +254,7 @@ async function listPageFeedback(env, cors) {
       ok: true,
       rows: items,
       counts,
-      nextRevisionHours: [0, 6, 12, 18],
+      nextRevisionHours: [0, 3, 6, 9, 12, 15, 18, 21],
       nextRevisionMinute: 5,
       timezone: "Asia/Jerusalem"
     },
@@ -255,7 +270,7 @@ async function updatePageFeedbackStatus(request, env, cors) {
   const editorNotes = clean(payload.editorNotes || payload.editor_notes || "", 1000);
   const submittedAt = clean(payload.submittedAt || payload.submitted_at || "", 80);
   const pageUrl = clean(payload.pageUrl || payload.page_url || "", 700);
-  const comment = clean(payload.comment || "", 5000);
+  const comment = clean(payload.comment || "", FEEDBACK_COMMENT_MAX_LENGTH);
 
   if (!Number.isInteger(rowIndex) || rowIndex < 0) {
     throw new Error("Invalid queue row.");
@@ -386,6 +401,7 @@ async function appendQueueRow({
 function requestKind(request) {
   const pathname = new URL(request.url).pathname.replace(/\/+$/, "");
   if (pathname.endsWith("/admin/page-feedback/photo")) return "admin-page-feedback-photo";
+  if (pathname.endsWith("/admin/page-feedback/auth")) return "admin-page-feedback-auth";
   if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
@@ -452,7 +468,7 @@ function validateFeedbackPayload(payload, env, hasPhotoUpload = false) {
   const pageSlug = clean(payload.pageSlug || payload.page_slug || fallbackSlug, 180);
   const paperTitle = clean(payload.paperTitle || payload.paper_title || "", 300);
   const doi = normalizeDoi(clean(payload.doi || "", 240));
-  const comment = clean(payload.comment || payload.message || payload.notes, 5000);
+  const comment = clean(payload.comment || payload.message || payload.notes, FEEDBACK_COMMENT_MAX_LENGTH);
   const submitterEmail = clean(payload.submitterEmail || payload.submitter_email || payload.email, 254).toLowerCase();
   const submitterPhone = clean(payload.submitterPhone || payload.submitter_phone || payload.phone, 40);
   const submitterRole = clean(payload.submitterRole || payload.submitter_role || "", 80) || "other_or_prefer_not";

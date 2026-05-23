@@ -9,6 +9,7 @@ The Worker:
 - accepts an optional suggested paper photo with a page-feedback submission, validates it as a landscape JPEG/PNG/WebP image, and stores the original upload privately for editor review;
 - lets editors optionally include the editor password with a page-feedback submission; a correct password writes the row as `approved_for_update`, while an empty or incorrect password is ignored and the row remains ordinary `pending` feedback;
 - exposes a password-protected editor API at `/admin/page-feedback` for listing feedback rows and changing their status;
+- exposes a lightweight password check at `/admin/page-feedback/auth` for the page-specific summary editor on `page-feedback.html`;
 - exposes a password-protected editor photo endpoint at `/admin/page-feedback/photo`;
 - keeps page feedback contact fields and submitter-role disclosure optional in effect; the role defaults to `other_or_prefer_not`;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
@@ -21,7 +22,7 @@ The Worker:
 submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,comment,submitter_email,submitter_phone,submitter_ip_hash,status,editor_notes,applied_at,suggested_photo_path,suggested_photo_name,suggested_photo_type,suggested_photo_size,suggested_photo_width,suggested_photo_height,submitter_role
 ```
 
-The unified heartbeat automation must run the feedback-revision phase four times daily. It applies rows that the editor has explicitly marked `approved_for_update`, leaves `pending` rows untouched, and removes rows still marked `rejected` as handled during the next processor run. Paper additions run only during the heartbeat's 00:05 Asia/Jerusalem pass.
+The unified heartbeat automation must run the feedback-revision phase every three hours. It applies rows that the editor has explicitly marked `approved_for_update`, leaves `pending` rows untouched, and removes rows still marked `rejected` as handled during the next processor run. Paper additions run only during the heartbeat's 00:05 Asia/Jerusalem pass.
 
 When the heartbeat removes applied or rejected feedback rows from `page_feedback_queue.csv`, it must first append them to private `page_feedback_history.csv`. The history file uses this header:
 

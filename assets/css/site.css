@@ -171,6 +171,7 @@ li { margin: 0 0 6px; }
 .form-note { color: var(--muted); font-size: 15px; line-height: 1.5; }
 .feedback-photo-status { margin-top: 4px; }
 .form-actions { display: flex; align-items: center; gap: 12px; }
+.editor-auth-actions { margin-top: 4px; }
 .button-primary {
   min-height: 44px;
   padding: 8px 16px;
@@ -211,6 +212,35 @@ li { margin: 0 0 6px; }
   background: #fff4f2;
   color: #8f1d16;
 }
+.editor-auth-status { margin-top: 4px; }
+.page-summary-editor {
+  max-width: 920px;
+  margin: 30px 0 0;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+}
+.page-summary-editor h2 { margin-bottom: 8px; }
+.summary-editor-fields {
+  display: grid;
+  gap: 18px;
+  margin-top: 22px;
+}
+.summary-editor-section {
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f7fbfb;
+}
+.summary-editor-section h3 {
+  margin: 0;
+  color: var(--accent-dark);
+  font-size: 18px;
+}
+.summary-editor-textarea { min-height: 118px; resize: vertical; }
+.summary-editor-paragraphs { min-height: 160px; }
+.summary-editor-actions { margin-top: 18px; }
 .thank-you-message {
   max-width: 680px;
   margin: 26px 0 0;
