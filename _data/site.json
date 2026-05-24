@@ -8,7 +8,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-05-24",
-  "cacheVersion": "2026-05-24-author-mailer",
+  "cacheVersion": "2026-05-24-remove-blocked-author",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
@@ -22,6 +22,6 @@
   "topicImageVersion": "20260523-topic-icons-v2",
   "paperImageVersion": "2026-05-24-nightly",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
-  "paperCount": 610,
+  "paperCount": 609,
   "feedbackEditorEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev/admin/page-feedback"
 }

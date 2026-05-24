@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 610,
+  "paperCount": 609,
   "papers": [
     {
       "slug": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he",
@@ -11799,32 +11799,6 @@
       "image": {
         "src": "html_qa/democracy_hybrid_constitutionalism_the_israeli_case_for_judicial_review_and_why_we_should_care_summary_he.jpg",
         "altHe": "איור עריכתי: חוקתיות היברידית וביקורת שיפוטית בישראל",
-        "fitness": "standard"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-05-24",
-      "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור."
-    },
-    {
-      "slug": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he",
-      "file": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.html",
-      "permalink": "/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.html",
-      "sortKey": 202605210128,
-      "titleHe": "חוקתיות מדירה בישראל כמדינה יהודית ודמוקרטית",
-      "paperTitle": "The Dynamics of Exclusionary Constitutionalism: Israel as a Jewish and Democratic State",
-      "authorsCardHe": "Mazen Masri",
-      "sourceAuthors": [
-        "Mazen Masri"
-      ],
-      "journal": "",
-      "dateText": "פורסם: 2017",
-      "doiUrl": "https://doi.org/10.5040/9781509902569",
-      "topics": [
-        "constitutionalism-courts-rule-of-law"
-      ],
-      "image": {
-        "src": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.jpg",
-        "altHe": "איור עריכתי: חוקתיות מדירה בישראל כמדינה יהודית ודמוקרטית",
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",

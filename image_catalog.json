@@ -3575,27 +3575,6 @@
       "qualityNotes": "Generated 2026-05-21 as a per-paper topic-page diversity replacement derived from html_qa/democracy_constitutionalising_system_summary_he.jpg; painterly civic scene, no flat vector icon, sparse schematic composition, text, logo, watermark, or flag."
     },
     {
-      "file": "html_qa/democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.jpg",
-      "width": 800,
-      "height": 600,
-      "currentHomepagePosition": null,
-      "primaryArticle": "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.html",
-      "usedBy": [
-        "democracy_the_dynamics_of_exclusionary_constitutionalism_israel_as_a_jewish_and_democratic_state_summary_he.html"
-      ],
-      "cardTitleHe": "מה מלמד המאמר על בתי המשפט, שלטון החוק ואיזונים דמוקרטיים?",
-      "authorsHe": "Mazen Masri",
-      "visualDescriptionHe": "איור עריכתי ייעודי שנוצר כדי לגוון רצף תמונות בעמודי נושא",
-      "semanticDescriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
-      "tags": [
-        "constitutionalism-courts-rule-of-law",
-        "topic-page-diversity",
-        "paper-specific"
-      ],
-      "reuseGuidance": "נוצר כדי לשבור רצף תמונות חוזרות בעמודי נושא; להשתמש שוב רק בהתאמה מושגית חזקה ולא בצמוד לתמונה מאותו מקור חזותי.",
-      "qualityNotes": "Generated 2026-05-21 as a per-paper topic-page diversity replacement derived from html_qa/democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he.jpg; painterly civic scene, no flat vector icon, sparse schematic composition, text, logo, watermark, or flag."
-    },
-    {
       "file": "html_qa/democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.jpg",
       "width": 800,
       "height": 600,

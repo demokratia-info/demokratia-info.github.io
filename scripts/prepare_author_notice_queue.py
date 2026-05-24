@@ -100,8 +100,6 @@ def queue_rows_for_author(
         identity = (key, paper["paper_slug"])
         existing = existing_by_identity.get(identity)
         if existing:
-            if existing.get("status") in ACTIVE_STATUSES:
-                existing["updated_at"] = created_at
             continue
 
         row = {
