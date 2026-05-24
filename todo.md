@@ -10,8 +10,8 @@
 12. Add affiliation of the authors
 13. Automate mailing the authors to inform them about the publication of their articles and let them opt out.
 14. Check what we can do to make the website accessible for people with disabilities.
-15. Add public accessibility contact details to accessibility.html.
 
 Done:
+15. Add public accessibility contact details to accessibility.html. - Done
 10. Divide into hierarchical topic sections and spotlight the latest papers on the home page  - Done
 3. Traffic analytics - DONE with GoatCounter
