@@ -50,7 +50,7 @@
 
     <section class="section topics-section" aria-labelledby="topics-heading">
       <h2 class="section-heading" id="topics-heading">נושאים מרכזיים</h2>
-      <div class="topic-grid" aria-label="דפי נושאים מרכזיים">
+      <div class="topic-grid">
         {% assign all_papers = site.papers | sort: "sortKey" | reverse %}
         {% for topic in site.data.topics.topics %}
           {% assign topic_count = 0 %}
@@ -74,7 +74,7 @@
 
     <section class="section latest-section" aria-labelledby="latest-heading">
       <h2 class="section-heading" id="latest-heading">תמציות נבחרות</h2>
-      <div class="grid" aria-label="שש תמציות נבחרות עם תמונות מותאמות">
+      <div class="grid">
         {% assign all_papers = site.papers | sort: "sortKey" | reverse %}
         {% assign homepage_sample_slugs = site.data.homepage_high_fit_sample.paperSlugs %}
         {% assign new_badge_days = site.data.site.newBadgeDays | default: 3 %}
