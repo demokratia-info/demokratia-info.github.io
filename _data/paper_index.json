@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 609,
+  "paperCount": 619,
   "papers": [
+    {
+      "slug": "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he",
+      "file": "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.html",
+      "permalink": "/democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.html",
+      "sortKey": 202605250010,
+      "titleHe": "הגנת משקיעים, מימון וצמיחה: למה החוק משנה את איכות ההשקעה?",
+      "paperTitle": "Why Does the Law Matter? Investor Protection and Its Effects on Investment, Finance, and Growth",
+      "authorsCardHe": "R. David McLean, Tianyu Zhang, Mengxin Zhao",
+      "sourceAuthors": [
+        "R. David McLean",
+        "Tianyu Zhang",
+        "Mengxin Zhao"
+      ],
+      "journal": "The Journal of Finance, 67(1), 313-350",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1111/j.1540-6261.2011.01713.x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על הגנת משקיעים, מסמכים פיננסיים ופיקוח מוסדי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר קושר בין הגנת משקיעים לבין איכות ההשקעה: במדינות שבהן ההגנה המשפטית חזקה יותר, השקעות מגיבות יותר לאיתותים על הזדמנויות כלכליות ופחות לתזרים מזומנים פנימי שמבטא מגבלות מימון. לפי תקציר המקור, המימון הוא מנגנון מרכזי בקשר הזה, מפני שהגנה טובה מאפשרת גיוס הון חיצוני כאשר יש הזדמנות עסקית ומגבילה השקעות פחות יעילות. הזווית הדמוקרטית היא שמוסדות משפטיים שמגנים על משקיעים יכולים להפחית שרירות, להרחיב גישה למימון ולחזק אחריות ציבורית של בעלי כוח כלכלי."
+    },
+    {
+      "slug": "democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performance_summary_he",
+      "file": "democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performance_summary_he.html",
+      "permalink": "/democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performance_summary_he.html",
+      "sortKey": 202605250009,
+      "titleHe": "כסף, חוזים וזכויות קניין: איך אמון באכיפה משפיע על ביצועים כלכליים?",
+      "paperTitle": "Contract-Intensive Money: Contract Enforcement, Property Rights, and Economic Performance",
+      "authorsCardHe": "Christopher Clague, Philip Keefer, Stephen Knack, Mancur Olson",
+      "sourceAuthors": [
+        "Christopher Clague",
+        "Philip Keefer",
+        "Stephen Knack",
+        "Mancur Olson"
+      ],
+      "journal": "Journal of Economic Growth, 4(2), 185-211",
+      "dateText": "פורסם: 1999",
+      "doiUrl": "https://doi.org/10.1023/a:1009854405184",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performance_summary_he.jpg",
+        "altHe": "איור עריכתי על חוזים, בנק ציבורי ואמון באכיפה מוסדית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר מפתח את רעיון <strong>הכסף עתיר החוזים</strong>: כאשר אזרחים ועסקים נותנים אמון באכיפת חוזים ובהגנה על קניין, הם מוכנים להחזיק חלק גדול יותר מכספם בתוך מוסדות פיננסיים ולא רק כמזומן. לפי הספרות המצטטת את המאמר, המדד נועד לשמש אינדיקציה אובייקטיבית יחסית לאיכות אכיפת החוזים, והוא נקשר להשקעה ולביצועים כלכליים. מבחינה דמוקרטית, ההיגיון ברור: בלי מוסדות שמכירים בזכויות ומגבילים הפקעה שרירותית, גם חופש כלכלי וגם השתתפות אזרחית נשארים פגיעים."
+    },
+    {
+      "slug": "democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summary_he",
+      "file": "democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summary_he.html",
+      "permalink": "/democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summary_he.html",
+      "sortKey": 202605250008,
+      "titleHe": "זכויות קניין רוחני והמהפכה התעשייתית: מוסדות שמעצבים המצאה וצמיחה",
+      "paperTitle": "Intellectual Property Rights, the Industrial Revolution, and the Beginnings of Modern Economic Growth",
+      "authorsCardHe": "Joel Mokyr",
+      "sourceAuthors": [
+        "Joel Mokyr"
+      ],
+      "journal": "American Economic Review, 99(2), 349-355",
+      "dateText": "פורסם: 1.4.2009",
+      "doiUrl": "https://doi.org/10.1257/aer.99.2.349",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summary_he.jpg",
+        "altHe": "איור עריכתי היסטורי על ממציאים, מכונות וזכויות קניין רוחני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר משתמש בראשית הצמיחה המודרנית ובמהפכה התעשייתית כדי לבחון כיצד מוסדות של קניין רוחני עיצבו תמריצים להמצאה, שימוש בידע והפצת טכנולוגיה. הוא אינו מצמצם את הצמיחה לפטנטים בלבד, אלא מציב אותם בתוך מערכת רחבה של ידע שימושי, שווקים, מוסדות ואנשים שמסוגלים לנצל רעיונות. מבחינה דמוקרטית, הדיון חשוב מפני שקניין רוחני הוא תמיד איזון: הוא מגן על יוזמה פרטית, אך עלול גם להגביל גישה לידע אם אינו מעוצב בזהירות."
+    },
+    {
+      "slug": "democracy_leaders_institutions_joint_determinants_economic_growth_summary_he",
+      "file": "democracy_leaders_institutions_joint_determinants_economic_growth_summary_he.html",
+      "permalink": "/democracy_leaders_institutions_joint_determinants_economic_growth_summary_he.html",
+      "sortKey": 202605250007,
+      "titleHe": "מנהיגים ומוסדות יחד: מתי ניסיון שלטוני מתורגם לצמיחה?",
+      "paperTitle": "Leaders and institutions as joint determinants of economic growth",
+      "authorsCardHe": "Xiangyu Shi",
+      "sourceAuthors": [
+        "Xiangyu Shi"
+      ],
+      "journal": "European Journal of Political Economy, 89, 102726",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2025.102726",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_leaders_institutions_joint_determinants_economic_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על מנהיגים, מוסדות ציבוריים וניסיון מקצועי בצמיחה כלכלית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר מציב את המנהיג הפוליטי ואת המוסדות כמערכת אחת: ניסיון, כישורים ורקע מקצועי עשויים להשפיע על צמיחה, אך השפעתם אינה מנותקת מן הכללים שמגבילים, בודקים ומתרגמים החלטות למדיניות. תקציר המקור מדגיש שלמנהיגים בדמוקרטיות יש בממוצע ניסיון עבודה מגוון יותר לפני כניסתם לתפקיד, ושניסיון כזה נקשר לביצועים כלכליים טובים יותר דווקא כאשר המוסדות מסוגלים לעבד אותו. מבחינה דמוקרטית, המסר הוא נגד פולחן אישיות: מנהיגות יעילה דורשת מוסדות שמחייבים אחריות, למידה והחלפת מידע."
+    },
+    {
+      "slug": "democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he",
+      "file": "democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.html",
+      "permalink": "/democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.html",
+      "sortKey": 202605250006,
+      "titleHe": "סיוע חוץ, מוסדות וצמיחה: מתי כסף חיצוני הופך ליכולת ציבורית?",
+      "paperTitle": "Foreign aid, institutional quality and economic growth: Evidence from the developing world",
+      "authorsCardHe": "Admasu Asfaw Maruta, Rajabrata Banerjee, Tony Cavoli",
+      "sourceAuthors": [
+        "Admasu Asfaw Maruta",
+        "Rajabrata Banerjee",
+        "Tony Cavoli"
+      ],
+      "journal": "Economic Modelling, 89, 444-463",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2019.11.008",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.jpg",
+        "altHe": "איור עריכתי על סיוע חוץ, מוסדות ציבוריים ותכנון פיתוח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר בוחן את השילוב בין סיוע חוץ לבין איכות מוסדית במדינות מתפתחות, ומבדיל בין סוגי סיוע כמו חינוך, בריאות וחקלאות. לפי התקציר הזמין, המחקר משתמש בנתוני מדינות מתפתחות לאורך כמה עשורים ומראה שהשפעת הסיוע אינה אחידה: היא תלויה בסוג הסיוע, באזור וביכולת המוסדות להפוך כסף לתוצאה ציבורית. הזווית הדמוקרטית היא שסולידריות בינלאומית אינה מספיקה בלי מנגנוני אחריות, שקיפות ושירות ציבורי שמונעים בזבוז או תלות."
+    },
+    {
+      "slug": "democracy_intellectual_property_rights_growth_threshold_effect_summary_he",
+      "file": "democracy_intellectual_property_rights_growth_threshold_effect_summary_he.html",
+      "permalink": "/democracy_intellectual_property_rights_growth_threshold_effect_summary_he.html",
+      "sortKey": 202605250005,
+      "titleHe": "קניין רוחני וצמיחה: האם יש סף של הון אנושי?",
+      "paperTitle": "Intellectual Property Rights and Growth: Is there a Threshold Effect?",
+      "authorsCardHe": "Hamid Mohtadi, Stefan Ruediger",
+      "sourceAuthors": [
+        "Hamid Mohtadi",
+        "Stefan Ruediger"
+      ],
+      "journal": "International Economic Journal, 28(1), 121-135",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1080/10168737.2012.759987",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intellectual_property_rights_growth_threshold_effect_summary_he.jpg",
+        "altHe": "איור עריכתי על קניין רוחני, לימודים והון אנושי בצמיחה כלכלית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר מתמקד בקשר הלא ליניארי בין זכויות קניין רוחני, הון אנושי וצמיחה. לפי תקציר המקור, המחברים משתמשים בשיטת סף ומוצאים שמתחת לרמה מסוימת של הון אנושי, חיזוק זכויות קניין רוחני עלול לפגוע בצמיחה, בעוד שמעל הסף הקשר אינו בהכרח חיובי. מבחינה דמוקרטית, זהו שיעור חשוב במדיניות מוסדית: העתקת כללים חזקים ממדינה אחת לאחרת אינה מספיקה בלי חינוך, יכולת מקצועית וגישה רחבה לידע."
+    },
+    {
+      "slug": "democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he",
+      "file": "democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he.html",
+      "permalink": "/democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he.html",
+      "sortKey": 202605250004,
+      "titleHe": "קניין רוחני במודל צפון-דרום: חדשנות, חיקוי והפצת ידע",
+      "paperTitle": "Endogenous growth and intellectual property rights: A north–south modeling proposal",
+      "authorsCardHe": "Mónica L. Azevedo, Óscar Afonso, Sandra T. Silva",
+      "sourceAuthors": [
+        "Mónica L. Azevedo",
+        "Óscar Afonso",
+        "Sandra T. Silva"
+      ],
+      "journal": "Economic Modelling, 38, 112-120",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2013.12.021",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he.jpg",
+        "altHe": "איור עריכתי על מודל צפון-דרום, חדשנות וסחר בידע",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר מציג הצעת מודל תיאורטי לצמיחה אנדוגנית שבה זכויות קניין רוחני מעצבות את היחסים בין כלכלה חדשנית יותר לבין כלכלה שנשענת יותר על למידה, חיקוי והטמעת טכנולוגיה. במקום לראות הגנה על פטנטים כפתרון יחיד, המודל מאפשר לחשוב על המחיר והתרומה של כללים שונים להפצת ידע בין מדינות. מבחינה דמוקרטית, הדיון חשוב מפני שכללי קניין רוחני בינלאומיים משפיעים על חלוקת הזדמנויות, על תלות טכנולוגית ועל היכולת של מדינות לבנות רווחה ציבורית."
+    },
+    {
+      "slug": "democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he",
+      "file": "democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he.html",
+      "permalink": "/democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he.html",
+      "sortKey": 202605250003,
+      "titleHe": "קניין רוחני, סחר ורווחה: מתי הגנה חזקה מדי אינה אופטימלית?",
+      "paperTitle": "On the trade, growth, and welfare effects of intellectual property rights protection",
+      "authorsCardHe": "Yuki Saito",
+      "sourceAuthors": [
+        "Yuki Saito"
+      ],
+      "journal": "Southern Economic Journal, 85(1), 235-254",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.1002/soej.12277",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he.jpg",
+        "altHe": "איור עריכתי על סחר, מחקר ופיתוח והגנת קניין רוחני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר מפתח מודל צמיחה מבוסס מחקר ופיתוח בשתי מדינות כדי לבחון כיצד הגנת קניין רוחני משפיעה על סחר, מגוון תשומות ביניים, צמיחה ורווחה. לפי תקציר המקור, חיזוק הגנה במדינה מסוימת עשוי להגדיל את מגוון התשומות המיובאות ולעודד צמיחה באותה מדינה, אך שיווי המשקל הלאומי עלול להיות חזק מן הרמה הגלובלית האופטימלית. מבחינה דמוקרטית, זו אזהרה חשובה: כלל שמועיל לשחקן אחד או למדינה אחת אינו בהכרח כלל צודק או יעיל לציבור רחב יותר."
+    },
+    {
+      "slug": "democracy_economic_political_crises_corruption_institutions_summary_he",
+      "file": "democracy_economic_political_crises_corruption_institutions_summary_he.html",
+      "permalink": "/democracy_economic_political_crises_corruption_institutions_summary_he.html",
+      "sortKey": 202605250002,
+      "titleHe": "משברים, שחיתות ומוסדות: מתי איכות מוסדית בולמת הידרדרות?",
+      "paperTitle": "Do economic and political crises lead to corruption? The role of institutions",
+      "authorsCardHe": "Shrabani Saha, Kunal Sen",
+      "sourceAuthors": [
+        "Shrabani Saha",
+        "Kunal Sen"
+      ],
+      "journal": "Economic Modelling, 124, 106307",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2023.106307",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_economic_political_crises_corruption_institutions_summary_he.jpg",
+        "altHe": "איור עריכתי על ביקורת ציבורית, משבר ושחיתות במוסדות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר משתמש בנתוני V-Dem עבור יותר מ־130 מדינות לאורך התקופה 1800-2020 כדי לבדוק את הקשר בין משברים, איכות מוסדית ושחיתות. לפי תקציר המקור, מוסדות חזקים יכולים להגביל שחיתות במצבים מסוימים כמו אלימות פוליטית ואזרחית או האטה כלכלית, אך ההשפעה נחלשת או נעלמת בסוגי משבר אחרים כמו התמוטטות דמוקרטית, הפיכות, מלחמות ומשברי מטבע, אינפלציה או חוב. מבחינה דמוקרטית, המאמר מזכיר שמוסדות אינם קישוט של שגרה; הם קו ההגנה כאשר פחד, לחץ וכסף ציבורי מרוכזים בידי בעלי כוח."
+    },
+    {
+      "slug": "democracy_external_debt_growth_sovereign_spreads_institutional_quality_summary_he",
+      "file": "democracy_external_debt_growth_sovereign_spreads_institutional_quality_summary_he.html",
+      "permalink": "/democracy_external_debt_growth_sovereign_spreads_institutional_quality_summary_he.html",
+      "sortKey": 202605250001,
+      "titleHe": "חוב חיצוני, מרווחי סיכון ומוסדות: מתי אשראי הופך לבלם צמיחה?",
+      "paperTitle": "Does high external debt predict lower economic growth? Role of sovereign spreads and institutional quality",
+      "authorsCardHe": "Ruohan Wang, Yi Xue, Wenping Zheng",
+      "sourceAuthors": [
+        "Ruohan Wang",
+        "Yi Xue",
+        "Wenping Zheng"
+      ],
+      "journal": "Economic Modelling, 103, 105591",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2021.105591",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_external_debt_growth_sovereign_spreads_institutional_quality_summary_he.jpg",
+        "altHe": "איור עריכתי על חוב חיצוני, משרד אוצר ואיכות מוסדית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-25",
+      "dateModified": "2026-05-25",
+      "summaryHe": "המאמר בוחן את הקשר בין חוב חיצוני, מרווחי ריביות ריבוניים, איכות מוסדית וצמיחה כלכלית. לפי תקציר המקור, עלייה בחוב חיצוני כולל, ארוך טווח וציבורי יכולה לנבא האטה בצמיחה, אך איכות מוסדית טובה יותר עשויה לצמצם את הנזק, גם כאשר עלויות המימון גבוהות. מבחינה דמוקרטית, הדיון בחוב הוא דיון באחריות בין־דורית: החלטות על borrowing today משפיעות על תקציבים עתידיים, שירותים ציבוריים ויכולת אזרחים לבקר את ניהול הסיכון."
+    },
     {
       "slug": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he",
       "file": "democracy_finance_and_growth_schumpeter_might_be_right_summary_he.html",

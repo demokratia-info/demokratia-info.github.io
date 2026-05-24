@@ -1,0 +1,167 @@
+---
+{
+  "version": 1,
+  "file": "democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.html",
+  "slug": "democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he",
+  "titleHe": "סיוע חוץ, מוסדות וצמיחה: מתי כסף חיצוני הופך ליכולת ציבורית?",
+  "subtitleHe": "",
+  "descriptionHe": "המאמר בוחן האם סיוע חוץ תורם לצמיחה כאשר איכות המוסדות במדינה המקבלת משתנה. מבחינה דמוקרטית, הוא מדגיש שכסף ציבורי חוצה גבולות זקוק לשקיפות, יכולת מדינה ואחריות כדי להפוך להשקעה חברתית.",
+  "summaryHe": "המאמר בוחן את השילוב בין סיוע חוץ לבין איכות מוסדית במדינות מתפתחות, ומבדיל בין סוגי סיוע כמו חינוך, בריאות וחקלאות. לפי התקציר הזמין, המחקר משתמש בנתוני מדינות מתפתחות לאורך כמה עשורים ומראה שהשפעת הסיוע אינה אחידה: היא תלויה בסוג הסיוע, באזור וביכולת המוסדות להפוך כסף לתוצאה ציבורית. הזווית הדמוקרטית היא שסולידריות בינלאומית אינה מספיקה בלי מנגנוני אחריות, שקיפות ושירות ציבורי שמונעים בזבוז או תלות.",
+  "authorsCardHe": "Admasu Asfaw Maruta, Rajabrata Banerjee, Tony Cavoli",
+  "paperTitle": "Foreign aid, institutional quality and economic growth: Evidence from the developing world",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7340-7643\" target=\"_blank\" rel=\"noopener noreferrer\">Admasu Asfaw Maruta</a>; <a href=\"https://orcid.org/0000-0002-9610-5178\" target=\"_blank\" rel=\"noopener noreferrer\">Rajabrata Banerjee</a>; <a href=\"https://people.unisa.edu.au/Tony.Cavoli\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Cavoli</a>",
+  "journal": "Economic Modelling, 89, 444-463",
+  "dateText": "פורסם: 2020",
+  "doiUrl": "https://doi.org/10.1016/j.econmod.2019.11.008",
+  "doiLabel": "https://doi.org/10.1016/j.econmod.2019.11.008",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Admasu Asfaw Maruta",
+      "url": "https://orcid.org/0000-0001-7340-7643"
+    },
+    {
+      "@type": "Person",
+      "name": "Rajabrata Banerjee",
+      "url": "https://orcid.org/0000-0002-9610-5178"
+    },
+    {
+      "@type": "Person",
+      "name": "Tony Cavoli",
+      "url": "https://people.unisa.edu.au/Tony.Cavoli"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Admasu Asfaw Maruta",
+      "url": "https://orcid.org/0000-0001-7340-7643"
+    },
+    {
+      "@type": "Person",
+      "name": "Rajabrata Banerjee",
+      "url": "https://orcid.org/0000-0002-9610-5178"
+    },
+    {
+      "@type": "Person",
+      "name": "Tony Cavoli",
+      "url": "https://people.unisa.edu.au/Tony.Cavoli"
+    }
+  ],
+  "topics": [
+    "institutions-civil-society-public-service",
+    "democratic-institutions-economic-prosperity"
+  ],
+  "keywords": [
+    "סיוע חוץ",
+    "איכות מוסדית",
+    "צמיחה כלכלית",
+    "מדינות מתפתחות",
+    "חינוך",
+    "בריאות",
+    "חקלאות"
+  ],
+  "image": {
+    "src": "html_qa/democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.jpg",
+    "version": "2026-05-25-nightly",
+    "altHe": "איור עריכתי על סיוע חוץ, מוסדות ציבוריים ותכנון פיתוח",
+    "fitness": "high"
+  },
+  "datePublished": "2026-05-25",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
+  "oneLinerHtml": "סיוע חוץ יכול לתמוך בצמיחה רק כאשר מוסדות מקומיים מסוגלים לתכנן, לבצע ולדווח. לכן הדיון בסיוע הוא גם דיון בשירות ציבורי, שקיפות ואחריות דמוקרטית.",
+  "sections": [
+    {
+      "headingHe": "מושגי יסוד בקצרה",
+      "paragraphsHtml": [
+        "<strong>איכות מוסדית</strong> מתייחסת ליכולת של המדינה לאכוף כללים, לנהל תקציבים, לצמצם שחיתות ולספק שירותים. בהקשר של המאמר, היא קובעת אם סיוע חוץ ייהפך להשקעה או ייתקע בצינורות חלשים.",
+        "<strong>אחריותיות</strong> חשובה בסיוע חוץ מפני שהכסף מגיע ממקור חיצוני אך משפיע על אזרחים מקומיים. בלי שקיפות ובקרה, הסיוע עלול לחזק תלות או רשתות כוח במקום יכולת ציבורית."
+      ]
+    },
+    {
+      "headingHe": "מה שאלת המחקר המרכזית?",
+      "paragraphsHtml": [
+        "השאלה היא האם סיוע חוץ משפיע על צמיחה באופן עצמאי או רק כאשר מוסדות מקומיים מסוגלים להשתמש בו היטב. המאמר מתמקד בהבדלים בין תחומי סיוע ולא מתייחס לסיוע כגוש אחד."
+      ]
+    },
+    {
+      "headingHe": "למה ההבחנה בין תחומי סיוע חשובה?",
+      "paragraphsHtml": [
+        "סיוע לחינוך, לבריאות ולחקלאות פועל דרך מנגנונים שונים. מדינה יכולה להיות טובה בהפעלת מערכת אחת וחלשה באחרת, ולכן ההשפעה על צמיחה אינה בהכרח זהה."
+      ]
+    },
+    {
+      "headingHe": "מה התרומה הדמוקרטית של המאמר?",
+      "paragraphsHtml": [
+        "המאמר מחבר פיתוח כלכלי לשאלה מי מסוגל לתת דין וחשבון על שימוש בכסף ציבורי. הוא מזכיר שסולידריות בינלאומית מחייבת גם מוסדות שמשרתים אזרחים ולא רק חוזים בין ממשלות."
+      ]
+    },
+    {
+      "headingHe": "למה סיוע חוץ לא תמיד יוצר צמיחה?",
+      "paragraphsHtml": [
+        "סיוע הוא משאב, אבל משאב זקוק למוסדות שמתרגמים אותו לשירותים, תשתיות ויכולת. כאשר המוסדות חלשים, כסף נוסף יכול להיבלע בחוסר תיאום או בשחיתות."
+      ]
+    },
+    {
+      "headingHe": "איך איכות מוסדית משנה את ההשפעה?",
+      "paragraphsHtml": [
+        "מוסדות טובים יותר מסוגלים לבחור פרויקטים, לפקח על ביצוע ולמדוד תוצאות. לכן הם יכולים להגדיל את הסיכוי שסכום הסיוע יהפוך להשקעה ציבורית ממשית."
+      ]
+    },
+    {
+      "headingHe": "למה חשוב להפריד בין חינוך, בריאות וחקלאות?",
+      "paragraphsHtml": [
+        "כל תחום דורש ידע מקצועי, תשתיות וסוג אחר של בקרה. סיוע שמצליח במערכת חינוך אינו בהכרח מצליח באותה מידה במערכת בריאות או בחקלאות."
+      ]
+    },
+    {
+      "headingHe": "מה הקשר לשחיתות?",
+      "paragraphsHtml": [
+        "סיוע חוץ יוצר זרם כספי שיכול למשוך ניצול אם אין בקרה. מוסדות שקופים מצמצמים את הסיכון שהסיוע יהפוך למשאב פוליטי של מקורבים."
+      ]
+    },
+    {
+      "headingHe": "האם המאמר נגד סיוע חוץ?",
+      "paragraphsHtml": [
+        "לא. הוא מציע קריאה מותנית וזהירה יותר: סיוע יכול להועיל, אך תוצאותיו תלויות ביכולת מוסדית ובתחום הפעולה."
+      ]
+    },
+    {
+      "headingHe": "מה אפשר ללמוד ממנו על מדיניות תורמים?",
+      "paragraphsHtml": [
+        "תורמים צריכים לבחון לא רק כמה כסף מועבר, אלא איזו יכולת מקומית קיימת לנהל אותו. מדיניות חכמה מחזקת מוסדות ולא רק מממנת פרויקטים."
+      ]
+    },
+    {
+      "headingHe": "מה המשמעות לאזרחים במדינות המקבלות?",
+      "paragraphsHtml": [
+        "כאשר הסיוע מתנהל בשקיפות, אזרחים יכולים לעקוב אחריו ולדרוש תוצאות. כאשר הוא מנוהל בלי אחריותיות, הוא עלול להחליש אמון במקום לחזק שירותים."
+      ]
+    },
+    {
+      "headingHe": "איך זה קשור לדמוקרטיה ליברלית?",
+      "paragraphsHtml": [
+        "דמוקרטיה ליברלית דורשת שמדיניות ציבורית תהיה ניתנת לביקורת ותשרת זכויות בסיסיות. סיוע חוץ שנכנס למערכות אטומות עלול לעקוף את ההיגיון הזה."
+      ]
+    },
+    {
+      "headingHe": "איזו זהירות נדרשת בהשוואה בין מדינות?",
+      "paragraphsHtml": [
+        "מדינות מתפתחות שונות מאוד זו מזו בהיסטוריה, במוסדות ובכלכלה. לכן ממצא ממוצע צריך להיקרא לצד ההקשר המקומי ולא כמתכון אחיד."
+      ]
+    },
+    {
+      "headingHe": "מהו הלקח המרכזי לפיתוח?",
+      "paragraphsHtml": [
+        "פיתוח הוא לא רק העברת כסף אלא בניית יכולת ציבורית. מוסדות טובים הם התשתית שמאפשרת לסיוע להפוך להזדמנות ולא לתלות."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "סיוע חוץ, מוסדות וצמיחה: מתי כסף חיצוני הופך ליכולת ציבורית?",
+  "permalink": "/democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.html",
+  "paper_url": "democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.html",
+  "sortKey": 202605250006
+}
+---
