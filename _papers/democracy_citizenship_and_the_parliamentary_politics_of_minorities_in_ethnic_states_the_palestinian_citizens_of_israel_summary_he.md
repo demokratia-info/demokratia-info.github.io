@@ -7,7 +7,7 @@
   "titleHe": "אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "As’ad Ghanem, Nadim N. Rouhana",
   "paperTitle": "Citizenship and the parliamentary politics of minorities in ethnic states: The Palestinian citizens of Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>, <a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>",
@@ -58,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "אזרחות ופוליטיקה פרלמנטרית של מיעוטים במדינות אתניות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

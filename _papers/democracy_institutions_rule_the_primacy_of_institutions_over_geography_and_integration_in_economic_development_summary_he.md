@@ -6,7 +6,7 @@
   "titleHe": "מוסדות מעל גאוגרפיה ואינטגרציה בפיתוח כלכלי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Dani Rodrik, Arvind Subramanian, Francesco Trebbi",
   "paperTitle": "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development",
   "authorsHtml": "<a href=\"https://drodrik.scholars.harvard.edu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Rodrik</a>, <a href=\"https://www.piie.com/experts/senior-research-staff/arvind-subramanian\" target=\"_blank\" rel=\"noopener noreferrer\">Arvind Subramanian</a>, <a href=\"https://haas.berkeley.edu/faculty/francesco-trebbi/\" target=\"_blank\" rel=\"noopener noreferrer\">Francesco Trebbi</a>",
@@ -65,8 +65,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

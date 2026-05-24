@@ -7,7 +7,7 @@
   "titleHe": "מידתיות וביקורת חוקתית על תקנות הקורונה",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מידתיות וביקורת חוקתית על תקנות הקורונה, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מידתיות וביקורת חוקתית על תקנות הקורונה דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מידתיות וביקורת חוקתית על תקנות הקורונה דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
   "authorsCardHe": "Ladislav Vyhnánek, Anna Blechová, Michael Bátrla, Jakub Míšek, Tereza Novotná, Amnon Reichman, Jakub Harašta",
   "paperTitle": "The Dynamics of Proportionality: Constitutional Courts and the Review of COVID-19 Regulations.",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9761-5313\" target=\"_blank\" rel=\"noopener noreferrer\">Ladislav Vyhnánek</a>, <a href=\"https://orcid.org/0009-0008-7119-753X\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Blechová</a>, Michael Bátrla, <a href=\"https://orcid.org/0000-0002-8465-6087\" target=\"_blank\" rel=\"noopener noreferrer\">Jakub Míšek</a>, <a href=\"https://orcid.org/0000-0002-1426-4547\" target=\"_blank\" rel=\"noopener noreferrer\">Tereza Novotná</a>, <a href=\"https://law.haifa.ac.il/en/our-staff/lecturers/amnon-reichman/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Reichman</a>, <a href=\"https://orcid.org/0000-0002-5722-0325\" target=\"_blank\" rel=\"noopener noreferrer\">Jakub Harašta</a>",
@@ -108,8 +108,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מידתיות וביקורת חוקתית על תקנות הקורונה מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

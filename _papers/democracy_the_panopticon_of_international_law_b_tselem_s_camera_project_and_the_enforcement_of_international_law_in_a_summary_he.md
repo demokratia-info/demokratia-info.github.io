@@ -7,7 +7,7 @@
   "titleHe": "פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
   "authorsCardHe": "Pini Pavel Miretski, Sascha‐Dominik Bachmann",
   "paperTitle": "The Panopticon of International Law: B’Tselem’s Camera Project and the Enforcement of International Law in a Transnational Society",
   "authorsHtml": "Pini Pavel Miretski, <a href=\"https://orcid.org/0000-0002-8742-0766\" target=\"_blank\" rel=\"noopener noreferrer\">Sascha‐Dominik Bachmann</a>",
@@ -58,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

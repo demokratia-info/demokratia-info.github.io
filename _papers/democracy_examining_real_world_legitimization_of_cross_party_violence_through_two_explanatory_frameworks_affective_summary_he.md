@@ -7,7 +7,7 @@
   "titleHe": "לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
   "authorsCardHe": "Tal Orian Harel, Eric Shuman, Ifat Maoz, Meital Balmas, Eran Halperin",
   "paperTitle": "Examining real-world legitimization of cross-party violence through two explanatory frameworks: Affective polarization and low group efficacy",
   "authorsHtml": "<a href=\"https://www.asc.upenn.edu/people/faculty/tal-orian-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Orian Harel</a>, <a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>, <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>, <a href=\"https://orcid.org/0000-0001-9191-0488\" target=\"_blank\" rel=\"noopener noreferrer\">Meital Balmas</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
@@ -90,8 +90,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

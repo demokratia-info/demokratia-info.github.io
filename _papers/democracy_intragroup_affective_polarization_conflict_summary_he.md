@@ -7,7 +7,7 @@
   "titleHe": "האם איום ביטחוני מפחית קיטוב רגשי בתוך החברה?",
   "subtitleHe": "המחקר משווה חברות המצויות בסכסוך מתמשך ומראה שאיום חיצוני אינו מבטל בהכרח איבה רגשית בין קבוצות אידיאולוגיות בתוך אותה חברה.",
   "descriptionHe": "טל אוריאן הראל, נמרוד ניר, דאן ונדרמולן, יפעת מעוז וערן הלפרין בוחנים קיטוב רגשי פנימי בישראל ובדרום קוריאה בתוך הקשר של סכסוכים מתמשכים.",
-  "summaryHe": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
+  "summaryHe": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך.",
   "authorsCardHe": "טל אוריאן הראל, נמרוד ניר, דאן ונדרמולן, יפעת מעוז וערן הלפרין",
   "paperTitle": "A Threat to Cohesion: Intragroup Affective Polarization in the Context of Intractable Intergroup Conflict",
   "authorsHtml": "<a href=\"https://www.asc.upenn.edu/people/faculty/tal-orian-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Orian Harel</a>; <a href=\"https://www.eranhalperin.com/our-lab\" target=\"_blank\" rel=\"noopener noreferrer\">Nimrod Nir</a>; <a href=\"https://www.eranhalperin.com/our-lab\" target=\"_blank\" rel=\"noopener noreferrer\">Daan Vandermeulen</a>; <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
@@ -89,9 +89,9 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-20",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
-  "oneLinerHtml": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך. המשמעות הדמוקרטית היא שאחדות מול איום חיצוני אינה תחליף לעבודה מוסדית וחינוכית נגד דה-לגיטימציה של יריבים פוליטיים. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
+  "oneLinerHtml": "המאמר מראה שקיטוב רגשי פנימי יכול להישאר איום על לכידות דמוקרטית גם כאשר החברה מתמודדת עם איום חיצוני מתמשך. המשמעות הדמוקרטית היא שאחדות מול איום חיצוני אינה תחליף לעבודה מוסדית וחינוכית נגד דה-לגיטימציה של יריבים פוליטיים.",
   "sections": [
     {
       "headingHe": "מושגי יסוד בקצרה",

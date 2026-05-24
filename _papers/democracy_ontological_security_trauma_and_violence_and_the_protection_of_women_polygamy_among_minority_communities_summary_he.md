@@ -7,7 +7,7 @@
   "titleHe": "ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "Ayelet Harel‐Shalev, Rebecca Kook",
   "paperTitle": "Ontological Security, Trauma and Violence, and the Protection of Women: Polygamy Among Minority Communities",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/researcher/ayelet-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Harel‐Shalev</a>; <a href=\"https://cris.bgu.ac.il/en/persons/becky-kook/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebecca Kook</a>",
@@ -63,8 +63,8 @@
     "fitnessSource": "approved_user_upload"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "ביטחון אונטולוגי, אלימות והגנה על נשים בקהילות מיעוט מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

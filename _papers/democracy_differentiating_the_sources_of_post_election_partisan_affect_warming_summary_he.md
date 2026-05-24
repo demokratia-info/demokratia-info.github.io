@@ -7,7 +7,7 @@
   "titleHe": "מקורות התחממות רגשית מפלגתית לאחר בחירות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מקורות התחממות רגשית מפלגתית לאחר בחירות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מקורות התחממות רגשית מפלגתית לאחר בחירות דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מקורות התחממות רגשית מפלגתית לאחר בחירות דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
   "authorsCardHe": "Noam Gidron, Lior Sheffer",
   "paperTitle": "Differentiating the sources of post‐election partisan affect warming",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>",
@@ -60,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מקורות התחממות רגשית מפלגתית לאחר בחירות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

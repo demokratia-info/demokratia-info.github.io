@@ -7,7 +7,7 @@
   "titleHe": "מה קורה לשירות הציבורי כשהדמוקרטיה נשחקת?",
   "subtitleHe": "",
   "descriptionHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
-  "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
+  "summaryHe": "איך עובדי מדינה מגיבים כשהם מזהים איום על מוסדות הדמוקרטיה.",
   "authorsCardHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
   "paperTitle": "Career Civil Servants' Socially Embedded Responses to Democratic Backsliding",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0002-6779-0276\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>, <a href=\"https://politics.biu.ac.il/en/node/1141\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",
@@ -77,9 +77,9 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
-  "oneLinerHtml": "המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
+  "oneLinerHtml": "המאמר בוחן כיצד עובדות ועובדי מדינה מגיבים כאשר הם מזהים איום על מוסדות הדמוקרטיה ועל עצמאות השירות הציבורי.",
   "sections": [
     {
       "headingHe": "מושגי יסוד בקצרה",

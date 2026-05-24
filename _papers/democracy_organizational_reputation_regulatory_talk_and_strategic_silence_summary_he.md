@@ -7,7 +7,7 @@
   "titleHe": "מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Moshe Maor, Sharon Gilad, Pazit Ben‐Nun Bloom",
   "paperTitle": "Organizational Reputation, Regulatory Talk, and Strategic Silence",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0411-2977\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Maor</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://politics.huji.ac.il/people/pazit-ben-nun-bloom\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>",
@@ -70,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

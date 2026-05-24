@@ -7,7 +7,7 @@
   "titleHe": "תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Eran Vigoda‐Gadot",
   "paperTitle": "Citizens' Perceptions of Politics and Ethics in Public Administration: A Five-Year National Study of Their Relationship to Satisfaction with Services, Trust in Governance, and Voice Orientations",
   "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda‐Gadot</a>",
@@ -50,8 +50,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "תפיסות אזרחים על פוליטיקה ואתיקה במינהל הציבורי מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

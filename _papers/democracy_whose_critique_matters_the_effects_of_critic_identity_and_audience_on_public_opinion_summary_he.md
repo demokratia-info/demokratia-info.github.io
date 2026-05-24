@@ -7,7 +7,7 @@
   "titleHe": "זהות המבקר, קהל היעד ודעת קהל",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על זהות המבקר, קהל היעד ודעת קהל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית זהות המבקר, קהל היעד ודעת קהל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית זהות המבקר, קהל היעד ודעת קהל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
   "authorsCardHe": "Yehonatan Abramson, Anil Menon, Abir Gitlin",
   "paperTitle": "Whose critique matters? The effects of critic identity and audience on public opinion",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6410-1212\" target=\"_blank\" rel=\"noopener noreferrer\">Yehonatan Abramson</a>, <a href=\"https://orcid.org/0000-0001-8857-003X\" target=\"_blank\" rel=\"noopener noreferrer\">Anil Menon</a>, Abir Gitlin",
@@ -68,8 +68,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "זהות המבקר, קהל היעד ודעת קהל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

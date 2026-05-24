@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-24",
+  "lastUpdated": "2026-05-25",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -1570,7 +1570,7 @@
       ],
       "cardTitleHe": "מה הקשר בין דימויי בתי המשפט העליונים בישראל ובארצות הברית לבין שלטון החוק בישראל?",
       "authorsHe": "Barbara A. Perry",
-      "visualDescriptionHe": "איור עריכתי ייחודי על דימויי בתי המשפט העליונים בישראל ובארצות הברית",
+      "visualDescriptionHe": "איור עריכתי של אולם בית משפט מודרני המתאים לדיון בדימויי בתי המשפט העליונים בישראל ובארצות הברית",
       "semanticDescriptionHe": "המאמר עוסק בדימויי בתי המשפט העליונים בישראל ובארצות הברית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
       "tags": [
         "constitutionalism-courts-rule-of-law",
@@ -1582,7 +1582,9 @@
         "comparative"
       ],
       "reuseGuidance": "Use only when the subject match is strong; avoid repeating the same underlying scene on nearby homepage cards.",
-      "qualityNotes": "Soft painterly editorial replacement in the older site style: civic scenes, people, institutions, documents, warm depth, no flat diagram, no text, no logos, no flags."
+      "qualityNotes": "Generated 2026-05-25 from approved page feedback requesting a court building or courtroom image for this paper; warm editorial courtroom scene, no readable text, logo, watermark, or flag; processed to 800x600 JPEG.",
+      "feedbackProvenance": "approved_page_feedback_2026-05-25",
+      "tupleFitness": "high"
     },
     {
       "file": "html_qa/democracy_introduction_judicial_overhaul_and_political_upheaval_in_israel_summary_he.jpg",

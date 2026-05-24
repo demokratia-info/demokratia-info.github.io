@@ -7,7 +7,7 @@
   "titleHe": "הביורוקרטיה והדמוקרטיה במגזר הציבורי הישראלי",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
-  "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
+  "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות.",
   "authorsCardHe": "Eran Vigoda‐Gadot, Rotem Miller-Mor, Shlomo Mizrahi, Eyal Tevet",
   "paperTitle": "The bureaucracy-democracy tango: a dual-source empirical revalidation by structural equation modelling in the Israeli public sector",
   "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda‐Gadot</a>, Rotem Miller-Mor, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>, Eyal Tevet",
@@ -74,8 +74,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל ומראה מדוע הדיון קשור למוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

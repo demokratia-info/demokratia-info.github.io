@@ -7,7 +7,7 @@
   "titleHe": "מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Erella Grassiani, Nir Gazit",
   "paperTitle": "Civilian ‘soft’ militarism through informal education in Israel: learning to protect and connect to the land",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0722-400X\" target=\"_blank\" rel=\"noopener noreferrer\">Erella Grassiani</a>, <a href=\"https://orcid.org/0000-0002-8807-6530\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Gazit</a>",
@@ -60,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

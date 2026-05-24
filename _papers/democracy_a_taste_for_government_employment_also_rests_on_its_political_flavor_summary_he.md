@@ -7,7 +7,7 @@
   "titleHe": "טעם לתעסוקה ממשלתית והעדפות פוליטיות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על טעם לתעסוקה ממשלתית והעדפות פוליטיות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית טעם לתעסוקה ממשלתית והעדפות פוליטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית טעם לתעסוקה ממשלתית והעדפות פוליטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Sharon Gilad, Raanan Sulitzeanu‐Kenan, David Levi‐Faur",
   "paperTitle": "A taste for government employment also rests on its political flavor",
   "authorsHtml": "<a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0001-9663-8954\" target=\"_blank\" rel=\"noopener noreferrer\">Raanan Sulitzeanu‐Kenan</a>, <a href=\"https://orcid.org/0000-0001-6998-5483\" target=\"_blank\" rel=\"noopener noreferrer\">David Levi‐Faur</a>",
@@ -70,8 +70,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "טעם לתעסוקה ממשלתית והעדפות פוליטיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

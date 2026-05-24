@@ -7,7 +7,7 @@
   "titleHe": "אמון הדדי, הוגנות ותשלום מסים מקומיים",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אמון הדדי, הוגנות ותשלום מסים מקומיים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית אמון הדדי, הוגנות ותשלום מסים מקומיים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית אמון הדדי, הוגנות ותשלום מסים מקומיים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Itai Beeri, Akab Zaidan, Rami Zeedan",
   "paperTitle": "Willingness to pay taxes through mutual trust: The effect of fairness, governability,tax‐enforcementand outsourcing on local tax collection rates",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>, Akab Zaidan, <a href=\"https://kujewishstudies.ku.edu/people/rami-zeedan\" target=\"_blank\" rel=\"noopener noreferrer\">Rami Zeedan</a>",
@@ -68,8 +68,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "אמון הדדי, הוגנות ותשלום מסים מקומיים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

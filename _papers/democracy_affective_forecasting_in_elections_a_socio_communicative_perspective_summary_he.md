@@ -7,7 +7,7 @@
   "titleHe": "חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
   "authorsCardHe": "Keren Tenenboim‐Weinblatt, Christian Baden, Tali Aharoni, Maximilian Overbeck",
   "paperTitle": "Affective forecasting in elections: A socio-communicative perspective",
   "authorsHtml": "<a href=\"https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Tenenboim‐Weinblatt</a>, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://en.communication.huji.ac.il/people/tali-aharoni\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Aharoni</a>, <a href=\"https://orcid.org/0000-0003-3658-5584\" target=\"_blank\" rel=\"noopener noreferrer\">Maximilian Overbeck</a>",
@@ -80,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

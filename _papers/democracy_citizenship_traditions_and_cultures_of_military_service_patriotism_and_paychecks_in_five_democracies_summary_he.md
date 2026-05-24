@@ -7,7 +7,7 @@
   "titleHe": "מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav, Markus Steinbrecher",
   "paperTitle": "Citizenship Traditions and Cultures of Military Service: Patriotism and Paychecks in Five Democracies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6504-060X\" target=\"_blank\" rel=\"noopener noreferrer\">Ronald R. Krebs</a>, <a href=\"https://orcid.org/0000-0002-4470-1242\" target=\"_blank\" rel=\"noopener noreferrer\">Robert Ralston</a>, <a href=\"https://orcid.org/0000-0002-4242-5088\" target=\"_blank\" rel=\"noopener noreferrer\">Thierry Balzacq</a>, <a href=\"https://orcid.org/0000-0001-6923-4946\" target=\"_blank\" rel=\"noopener noreferrer\">David Blagden</a>, <a href=\"https://orcid.org/0000-0002-8820-3579\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>, Markus Steinbrecher",
@@ -100,8 +100,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

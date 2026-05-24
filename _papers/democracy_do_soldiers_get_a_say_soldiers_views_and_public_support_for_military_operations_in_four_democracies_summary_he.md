@@ -6,7 +6,7 @@
   "titleHe": "האם לחיילים יש קול בהחלטות על מבצעים צבאיים?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav",
   "paperTitle": "Do Soldiers Get a Say? Soldiers’ Views and Public Support for Military Operations in Four Democracies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6504-060X\" target=\"_blank\" rel=\"noopener noreferrer\">Ronald R. Krebs</a>, <a href=\"https://orcid.org/0000-0002-4470-1242\" target=\"_blank\" rel=\"noopener noreferrer\">Robert Ralston</a>, <a href=\"https://orcid.org/0000-0002-4242-5088\" target=\"_blank\" rel=\"noopener noreferrer\">Thierry Balzacq</a>, <a href=\"https://orcid.org/0000-0001-6923-4946\" target=\"_blank\" rel=\"noopener noreferrer\">David Blagden</a>, <a href=\"https://orcid.org/0000-0002-8820-3579\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>",
@@ -89,8 +89,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

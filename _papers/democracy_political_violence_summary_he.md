@@ -7,7 +7,7 @@
   "titleHe": "נסיגה דמוקרטית ואלימות פוליטית: מה קורה לתודעה הציבורית?",
   "subtitleHe": "",
   "descriptionHe": "איך שחיקה במוסדות דמוקרטיים משפיעה על הצדקת אלימות פוליטית. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
-  "summaryHe": "איך שחיקה במוסדות דמוקרטיים משפיעה על הצדקת אלימות פוליטית. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
+  "summaryHe": "איך שחיקה במוסדות דמוקרטיים משפיעה על הצדקת אלימות פוליטית.",
   "authorsCardHe": "טל שאנן, סיון הירש-הפלר, דפנה קנטי, יוליה אלעד-שטרנגר",
   "paperTitle": "From democratic backsliding to political violence: evidence from Israel",
   "authorsHtml": "<a href=\"https://talshaanan.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Shaanan</a>; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",
@@ -77,9 +77,9 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
-  "oneLinerHtml": "המאמר מראה שנסיגה דמוקרטית עלולה להרחיב את מה שאזרחים מוכנים להצדיק מוסרית, גם אם רובם אינם מוכנים לבצע אלימות בעצמם. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
+  "oneLinerHtml": "המאמר מראה שנסיגה דמוקרטית עלולה להרחיב את מה שאזרחים מוכנים להצדיק מוסרית, גם אם רובם אינם מוכנים לבצע אלימות בעצמם.",
   "sections": [
     {
       "headingHe": "מושגי יסוד בקצרה",

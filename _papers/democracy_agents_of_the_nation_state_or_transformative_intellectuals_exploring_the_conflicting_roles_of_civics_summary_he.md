@@ -7,7 +7,7 @@
   "titleHe": "מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "Aline Muff, Zvi Bekerman",
   "paperTitle": "Agents of the nation-state or transformative intellectuals? Exploring the conflicting roles of civics teachers in Israel",
   "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Aline Muff</a>, <a href=\"https://orcid.org/0000-0002-3493-0770\" target=\"_blank\" rel=\"noopener noreferrer\">Zvi Bekerman</a>",
@@ -62,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

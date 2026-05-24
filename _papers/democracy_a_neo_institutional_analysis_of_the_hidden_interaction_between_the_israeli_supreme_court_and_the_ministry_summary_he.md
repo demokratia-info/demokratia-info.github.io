@@ -7,7 +7,7 @@
   "titleHe": "בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
   "authorsCardHe": "Daniel Sperling, Nissim Cohen",
   "paperTitle": "A neo-institutional analysis of the hidden interaction between the Israeli Supreme Court and the Ministry of Finance: the right to healthcare services",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4371-7736\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Sperling</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",
@@ -62,8 +62,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

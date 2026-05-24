@@ -6,7 +6,7 @@
   "titleHe": "האם מוסדות גורמים לצמיחה?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer",
   "paperTitle": "Do Institutions Cause Growth?",
   "authorsHtml": "<a href=\"https://www.hks.harvard.edu/faculty/edward-glaeser\" target=\"_blank\" rel=\"noopener noreferrer\">Edward L. Glaeser</a>, <a href=\"https://vivo.brown.edu/display/rlaporta\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael La Porta</a>, <a href=\"https://orcid.org/0000-0002-5204-5599\" target=\"_blank\" rel=\"noopener noreferrer\">Florencio Lopez-de-Silanes</a>, <a href=\"https://scholar.harvard.edu/shleifer/home\" target=\"_blank\" rel=\"noopener noreferrer\">Andrei Shleifer</a>",
@@ -76,8 +76,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

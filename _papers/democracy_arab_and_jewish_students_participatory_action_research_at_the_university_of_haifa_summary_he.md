@@ -7,7 +7,7 @@
   "titleHe": "מחקר פעולה משתף של סטודנטים ערבים ויהודים באוניברסיטת חיפה",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
-  "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
+  "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
   "authorsCardHe": "Tamar Zelniker, Rachel Hertz-Lazarowitz, Hilla Peretz, Faisal Azaiza, Ruth Sharabany",
   "paperTitle": "Arab and Jewish Students’ Participatory Action Research at the University of Haifa",
   "authorsHtml": "Tamar Zelniker; Rachel Hertz-Lazarowitz; <a href=\"https://orcid.org/0000-0002-1160-2010\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Peretz</a>; <a href=\"https://cris.haifa.ac.il/en/persons/faisal-azaiza\" target=\"_blank\" rel=\"noopener noreferrer\">Faisal Azaiza</a>; Ruth Sharabany",
@@ -80,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

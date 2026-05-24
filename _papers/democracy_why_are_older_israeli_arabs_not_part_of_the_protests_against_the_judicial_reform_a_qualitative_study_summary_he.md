@@ -7,7 +7,7 @@
   "titleHe": "מבוגרים ערבים והמחאה נגד הרפורמה המשפטית",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מבוגרים ערבים והמחאה נגד הרפורמה המשפטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית מבוגרים ערבים והמחאה נגד הרפורמה המשפטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית מבוגרים ערבים והמחאה נגד הרפורמה המשפטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
   "authorsCardHe": "Hanan AboJabel, Liat Ayalon",
   "paperTitle": "Why are Older Israeli Arabs not Part of the Protests Against the Judicial Reform? A Qualitative Study",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8236-717X\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan AboJabel</a>, <a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>",
@@ -63,8 +63,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "מבוגרים ערבים והמחאה נגד הרפורמה המשפטית מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

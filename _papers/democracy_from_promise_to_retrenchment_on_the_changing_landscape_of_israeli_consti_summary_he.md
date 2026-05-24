@@ -7,7 +7,7 @@
   "titleHe": "איך חוקתיות מעצבת את הדמוקרטיה הישראלית?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
-  "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
+  "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
   "authorsCardHe": "אדם שנער, ברק מדינה, גילה שטופלר",
   "paperTitle": "From Promise to Retrenchment? On the Changing Landscape of Israeli Constitutionalism",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>; <a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>; <a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",
@@ -66,8 +66,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

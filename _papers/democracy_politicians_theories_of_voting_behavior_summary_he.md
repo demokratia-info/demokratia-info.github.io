@@ -7,7 +7,7 @@
   "titleHe": "תאוריות של פוליטיקאים על התנהגות בוחרים",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תאוריות של פוליטיקאים על התנהגות בוחרים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית תאוריות של פוליטיקאים על התנהגות בוחרים דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית תאוריות של פוליטיקאים על התנהגות בוחרים דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
   "authorsCardHe": "Jack Lucas, Lior Sheffer, Peter John Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufal, Patrick Dumont, Sarah Lachance, Miguel M. Pereira, Mikael Persson, Jean‐Benoît Pilet, Anne Rasmussen, Maj-Britt Sterba, Frédéric Varone",
   "paperTitle": "Politicians’ Theories of Voting Behavior",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3498-7267\" target=\"_blank\" rel=\"noopener noreferrer\">Jack Lucas</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>, <a href=\"https://orcid.org/0000-0003-2690-4158\" target=\"_blank\" rel=\"noopener noreferrer\">Peter John Loewen</a>, <a href=\"https://orcid.org/0000-0003-1814-1015\" target=\"_blank\" rel=\"noopener noreferrer\">Stefaan Walgrave</a>, <a href=\"https://orcid.org/0000-0002-4615-510X\" target=\"_blank\" rel=\"noopener noreferrer\">Karolin Soontjens</a>, <a href=\"https://orcid.org/0000-0002-3135-9775\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Amsalem</a>, <a href=\"https://orcid.org/0000-0002-8646-6076\" target=\"_blank\" rel=\"noopener noreferrer\">Stefanie Bailer</a>, <a href=\"https://orcid.org/0000-0003-4496-6109\" target=\"_blank\" rel=\"noopener noreferrer\">Nathalie Brack</a>, <a href=\"https://orcid.org/0000-0002-8074-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Breunig</a>, <a href=\"https://orcid.org/0000-0001-5047-072X\" target=\"_blank\" rel=\"noopener noreferrer\">Pirmin Bundi</a>, <a href=\"https://orcid.org/0000-0003-1678-8835\" target=\"_blank\" rel=\"noopener noreferrer\">Linda Coufal</a>, <a href=\"https://orcid.org/0000-0001-6124-8833\" target=\"_blank\" rel=\"noopener noreferrer\">Patrick Dumont</a>, <a href=\"https://orcid.org/0000-0001-8341-6113\" target=\"_blank\" rel=\"noopener noreferrer\">Sarah Lachance</a>, <a href=\"https://orcid.org/0000-0001-6621-9863\" target=\"_blank\" rel=\"noopener noreferrer\">Miguel M. Pereira</a>, <a href=\"https://orcid.org/0000-0002-5377-2173\" target=\"_blank\" rel=\"noopener noreferrer\">Mikael Persson</a>, <a href=\"https://orcid.org/0000-0001-5612-0835\" target=\"_blank\" rel=\"noopener noreferrer\">Jean‐Benoît Pilet</a>, <a href=\"https://orcid.org/0000-0002-9517-3929\" target=\"_blank\" rel=\"noopener noreferrer\">Anne Rasmussen</a>, <a href=\"https://orcid.org/0000-0002-4674-1694\" target=\"_blank\" rel=\"noopener noreferrer\">Maj-Britt Sterba</a>, <a href=\"https://orcid.org/0000-0002-5620-3291\" target=\"_blank\" rel=\"noopener noreferrer\">Frédéric Varone</a>",
@@ -230,8 +230,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "תאוריות של פוליטיקאים על התנהגות בוחרים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

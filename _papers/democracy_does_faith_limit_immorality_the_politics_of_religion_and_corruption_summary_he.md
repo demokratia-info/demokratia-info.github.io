@@ -7,7 +7,7 @@
   "titleHe": "דת, מוסריות ושחיתות בדמוקרטיות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על דת, מוסריות ושחיתות בדמוקרטיות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית דת, מוסריות ושחיתות בדמוקרטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית דת, מוסריות ושחיתות בדמוקרטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
   "authorsCardHe": "Udi Sommer, Pazit Ben‐Nun Bloom, Gizem Arıkan",
   "paperTitle": "Does faith limit immorality? The politics of religion and corruption",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>, <a href=\"https://politics.huji.ac.il/people/pazit-ben-nun-bloom\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>, <a href=\"https://orcid.org/0000-0002-2083-7321\" target=\"_blank\" rel=\"noopener noreferrer\">Gizem Arıkan</a>",
@@ -69,8 +69,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "דת, מוסריות ושחיתות בדמוקרטיות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

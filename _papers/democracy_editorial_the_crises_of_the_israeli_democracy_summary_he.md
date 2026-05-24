@@ -7,7 +7,7 @@
   "titleHe": "משברי הדמוקרטיה הישראלית",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, וממקם את הדיון בתוך שאלות של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
-  "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
+  "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות.",
   "authorsCardHe": "Yael Shomer, Eitan Tzelgov, Roi Zur",
   "paperTitle": "Editorial: The crises of the Israeli democracy",
   "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://orcid.org/0000-0003-2489-3918\" target=\"_blank\" rel=\"noopener noreferrer\">Eitan Tzelgov</a>, <a href=\"https://orcid.org/0000-0003-3168-9018\" target=\"_blank\" rel=\"noopener noreferrer\">Roi Zur</a>",
@@ -67,8 +67,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

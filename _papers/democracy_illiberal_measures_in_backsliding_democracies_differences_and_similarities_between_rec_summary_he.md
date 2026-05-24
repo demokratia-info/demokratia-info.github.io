@@ -7,7 +7,7 @@
   "titleHe": "צעדים אי־ליברליים בדמוקרטיות נסוגות: ישראל, הונגריה ופולין",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, וממקם את הדיון בתוך שאלות של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
-  "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות. חשיבותו הציבורית היא בכך שהוא מחזיר סוגיה מוגדרת אל שאלות רחבות יותר של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הסיכום מתמקד בשאלת המחקר, במידע הביבליוגרפי ובמשמעות הדמוקרטית שניתן לגזור בזהירות מן המקור.",
+  "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות.",
   "authorsCardHe": "Mordechai Kremnitzer, Yuval Shany",
   "paperTitle": "Illiberal Measures in Backsliding Democracies: Differences and Similarities between Recent Developments in Israel, Hungary, and Poland",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

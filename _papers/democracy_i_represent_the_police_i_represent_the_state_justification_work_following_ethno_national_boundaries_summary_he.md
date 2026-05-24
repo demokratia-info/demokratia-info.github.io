@@ -7,7 +7,7 @@
   "titleHe": "עבודת הצדקה של שוטרות ערביות במשטרת ישראל",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על עבודת הצדקה של שוטרות ערביות במשטרת ישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית עבודת הצדקה של שוטרות ערביות במשטרת ישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית עבודת הצדקה של שוטרות ערביות במשטרת ישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "Tal Meler",
   "paperTitle": "“I represent the police I represent the state” – Justification work following ethno-national boundaries crossing among Arab female police officers in Israel",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/tal-meler/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Meler</a>",
@@ -52,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "עבודת הצדקה של שוטרות ערביות במשטרת ישראל מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

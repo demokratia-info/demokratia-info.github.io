@@ -7,7 +7,7 @@
   "titleHe": "הגנה עצמית דמוקרטית של בתי משפט חוקתיים",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על הגנה עצמית דמוקרטית של בתי משפט חוקתיים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית הגנה עצמית דמוקרטית של בתי משפט חוקתיים דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית הגנה עצמית דמוקרטית של בתי משפט חוקתיים דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
   "authorsCardHe": "Pablo José Castillo Ortiz, Yaniv Roznai",
   "paperTitle": "The Democratic Self-Defence of Constitutional Courts",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4540-1855\" target=\"_blank\" rel=\"noopener noreferrer\">Pablo José Castillo Ortiz</a>, <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
@@ -60,8 +60,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "הגנה עצמית דמוקרטית של בתי משפט חוקתיים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

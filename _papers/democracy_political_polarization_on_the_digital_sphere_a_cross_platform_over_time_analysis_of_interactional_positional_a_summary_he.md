@@ -6,7 +6,7 @@
   "titleHe": "קיטוב פוליטי ברשתות חברתיות לאורך זמן",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Moran Yarchi, Christian Baden, Neta Kligler-Vilenchik",
   "paperTitle": "Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media",
   "authorsHtml": "Moran Yarchi, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>",
@@ -67,8 +67,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

@@ -7,7 +7,7 @@
   "titleHe": "השתתפות מבוגרים במחאות פוליטיות כמקור לחוסן",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
-  "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. חשיבותו הציבורית היא בכך שהוא מראה כיצד סוגיה שנראית לעיתים מקצועית או תחומית משפיעה על תנאי ההשתתפות, ההגנה על זכויות והאמון במוסדות. הסיכום מדגיש את המשמעות הדמוקרטית של המקור: דמוקרטיה ליברלית נבחנת לא רק בקיומן של בחירות, אלא גם ביכולת של כללים, מוסדות וזכויות להגן על מחלוקת, שוויון ואחריות של בעלי כוח.",
+  "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
   "authorsCardHe": "Boaz M. Ben‐David, Ortal Shimon-Raz, Yuval Palgi, Lia Ring, Tchelet Bresslet",
   "paperTitle": "ACTIVE PARTICIPATION OF OLDER ADULTS AT POLITICAL RALLIES AS A SOURCE OF RESILIENCE: THE CASE OF THE ISRAELI PROTEST",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0392-962X\" target=\"_blank\" rel=\"noopener noreferrer\">Boaz M. Ben‐David</a>, <a href=\"https://orcid.org/0000-0002-6464-8370\" target=\"_blank\" rel=\"noopener noreferrer\">Ortal Shimon-Raz</a>, <a href=\"https://orcid.org/0000-0002-8675-5513\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Palgi</a>, <a href=\"https://orcid.org/0000-0001-5203-4091\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Ring</a>, Tchelet Bresslet",
@@ -86,8 +86,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית ומראה מדוע הדיון קשור לדעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

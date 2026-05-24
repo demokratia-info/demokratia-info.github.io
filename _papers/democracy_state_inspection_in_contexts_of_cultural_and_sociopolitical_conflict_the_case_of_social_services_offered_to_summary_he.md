@@ -7,7 +7,7 @@
   "titleHe": "פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות",
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה. חשיבותו הציבורית היא בכך שהוא מחבר בין מקור אקדמי לבין שאלות מעשיות על גבולות כוח, השתתפות אזרחית, זכויות ואמון במוסדות. הסיכום מדגיש את המתח הדמוקרטי המרכזי: כיצד לשמור על כללים הוגנים והגנות ליברליות גם כאשר הסוגיה טעונה מבחינה פוליטית, ביטחונית, חברתית או זהותית.",
+  "summaryHe": "המאמר בוחן את סוגיית פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
   "authorsCardHe": "Lia Levin, Haneen Karram-Elias, Shira Pagorek-Eshel, Raghda Alnabilsy",
   "paperTitle": "State inspection in contexts of cultural and sociopolitical conflict: The case of social services offered to Arab-Palestinian young women in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4337-6265\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Levin</a>, Haneen Karram-Elias, <a href=\"https://orcid.org/0000-0003-1380-2638\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Pagorek-Eshel</a>, <a href=\"https://orcid.org/0000-0002-5326-6051\" target=\"_blank\" rel=\"noopener noreferrer\">Raghda Alnabilsy</a>",
@@ -80,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
   "sections": [
     {

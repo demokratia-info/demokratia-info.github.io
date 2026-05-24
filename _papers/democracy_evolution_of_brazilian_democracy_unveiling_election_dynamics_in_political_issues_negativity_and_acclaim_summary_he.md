@@ -6,7 +6,7 @@
   "titleHe": "התפתחות הדמוקרטיה הברזילאית בשיח בחירות",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Isabella Gonçalves, Mathias-Felipe De-Lima-Santos, Vicente Fenoll, Yossi David",
   "paperTitle": "Evolution of Brazilian Democracy: Unveiling Election Dynamics in Political Issues, Negativity, and Acclaim",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6492-9236\" target=\"_blank\" rel=\"noopener noreferrer\">Isabella Gonçalves</a>, <a href=\"https://orcid.org/0000-0001-8879-7381\" target=\"_blank\" rel=\"noopener noreferrer\">Mathias-Felipe De-Lima-Santos</a>, <a href=\"https://orcid.org/0000-0002-5851-4237\" target=\"_blank\" rel=\"noopener noreferrer\">Vicente Fenoll</a>, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>",
@@ -79,8 +79,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

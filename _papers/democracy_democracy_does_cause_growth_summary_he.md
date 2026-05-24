@@ -6,7 +6,7 @@
   "titleHe": "האם דמוקרטיה גורמת לצמיחה כלכלית?",
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
-  "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
+  "summaryHe": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
   "authorsCardHe": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
   "paperTitle": "Democracy Does Cause Growth",
   "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/daron-acemoglu\" target=\"_blank\" rel=\"noopener noreferrer\">Daron Acemoglu</a>, <a href=\"https://orcid.org/0000-0002-9774-1678\" target=\"_blank\" rel=\"noopener noreferrer\">Suresh Naidu</a>, <a href=\"https://economics.yale.edu/people/pascual-restrepo\" target=\"_blank\" rel=\"noopener noreferrer\">Pascual Restrepo</a>, <a href=\"https://harris.uchicago.edu/directory/james-robinson\" target=\"_blank\" rel=\"noopener noreferrer\">James A. Robinson</a>",
@@ -81,8 +81,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-24",
-  "lastUpdatedHe": "24 במאי 2026",
+  "dateModified": "2026-05-25",
+  "lastUpdatedHe": "25 במאי 2026",
   "oneLinerHtml": "המאמר עוסק בהקשר בין דמוקרטיה, מוסדות וצמיחה כלכלית, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {
