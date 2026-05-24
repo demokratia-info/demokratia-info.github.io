@@ -12,6 +12,7 @@ The Worker:
 - exposes a lightweight password check at `/admin/page-feedback/auth` for the page-specific summary editor on `page-feedback.html`;
 - exposes password-protected recent handled feedback at `/admin/page-feedback/history?hours=48`, sourced from `page_feedback_history.csv`;
 - exposes a password-protected editor photo endpoint at `/admin/page-feedback/photo`;
+- exposes a password-protected author-notice editor API at `/admin/author-notices` for listing queued author notice rows and marking selected rows as `ready_to_send`;
 - keeps page feedback contact fields and submitter-role disclosure optional in effect; the role defaults to `other_or_prefer_not`;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
 - allows up to two accepted paper suggestions and five accepted page-feedback submissions per source per Israel calendar day;
@@ -33,6 +34,14 @@ submitted_date,submitted_at,page_url,page_title,page_slug,paper_title,doi,commen
 
 `processed_at` must contain the actual Israel-time processing timestamp, not just the scheduled run date.
 
+`author_notice_queue.csv` uses this header:
+
+```csv
+created_at,updated_at,author_key,name_he,name_en,affiliation,email,email_source_url,paper_slug,paper_title_he,paper_title_en,paper_url,status,approved_at,sent_at,error,editor_notes
+```
+
+The editor API only changes notice-row status. It never sends email. The local sending script sends only rows marked `ready_to_send`, copies `demokratia@tau.ac.il`, sets `Reply-To: demokratia@tau.ac.il`, and appends delivery attempts to private `author_notice_history.csv`.
+
 ## Deploy
 
 Copy `wrangler.toml.example` to `wrangler.toml`, then set secrets:
@@ -45,6 +54,6 @@ wrangler secret put EDITOR_PASSWORD
 wrangler deploy
 ```
 
-`GITHUB_TOKEN` needs permission to write repository contents. `EDITOR_PASSWORD` protects the editor API and enables optional editor approval from the page-feedback form; alternatively use `EDITOR_PASSWORD_SHA256` with the SHA-256 hex digest of the password. The page-feedback form never stores the submitted password. `FEEDBACK_PHOTO_DIR` defaults to `page_feedback_photos`, and `PAGE_FEEDBACK_PHOTO_MAX_BYTES` defaults to 8388608. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`, use the same URL plus `/page-feedback` as `pageFeedbackEndpoint`, and use the same URL plus `/admin/page-feedback` as `feedbackEditorEndpoint`.
+`GITHUB_TOKEN` needs permission to write repository contents. `EDITOR_PASSWORD` protects the editor API and enables optional editor approval from the page-feedback form; alternatively use `EDITOR_PASSWORD_SHA256` with the SHA-256 hex digest of the password. The page-feedback form never stores the submitted password. `FEEDBACK_PHOTO_DIR` defaults to `page_feedback_photos`, and `PAGE_FEEDBACK_PHOTO_MAX_BYTES` defaults to 8388608. After deployment, copy the Worker URL into `_data/site.json` as `suggestPaperEndpoint`, use the same URL plus `/page-feedback` as `pageFeedbackEndpoint`, use the same URL plus `/admin/page-feedback` as `feedbackEditorEndpoint`, and use the same URL plus `/admin/author-notices` as `authorNoticeEditorEndpoint`.
 
 If this repository is public, remember that names, emails, phone numbers, and free-text comments committed to CSV files are visible in GitHub history even though the files are excluded from the built Jekyll site. For private handling of personal data, point `GITHUB_REPO`, `QUEUE_PATH`, and `FEEDBACK_QUEUE_PATH` at a private repository and adjust the nightly automation to read those private queues.

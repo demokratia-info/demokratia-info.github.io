@@ -38,11 +38,31 @@ const FEEDBACK_HISTORY_HEADER = [
   "processed_at",
   "processing_notes"
 ];
+const AUTHOR_NOTICE_QUEUE_HEADER = [
+  "created_at",
+  "updated_at",
+  "author_key",
+  "name_he",
+  "name_en",
+  "affiliation",
+  "email",
+  "email_source_url",
+  "paper_slug",
+  "paper_title_he",
+  "paper_title_en",
+  "paper_url",
+  "status",
+  "approved_at",
+  "sent_at",
+  "error",
+  "editor_notes"
+];
 
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
+const AUTHOR_NOTICE_EDITOR_STATUSES = new Set(["pending_editor_release", "ready_to_send", "failed"]);
 const FEEDBACK_SUBMITTER_ROLES = new Set(["paper_author", "field_researcher", "other_or_prefer_not"]);
 const FEEDBACK_COMMENT_MAX_LENGTH = 30000;
 const FEEDBACK_PHOTO_TYPES = new Map([
@@ -80,6 +100,10 @@ export default {
 
       if (kind === "admin-page-feedback") {
         return await handleAdminPageFeedback(request, env, cors);
+      }
+
+      if (kind === "admin-author-notices") {
+        return await handleAdminAuthorNotices(request, env, cors);
       }
 
       if (request.method !== "POST") {
@@ -272,6 +296,20 @@ async function handleAdminPageFeedbackPhoto(request, env, cors) {
   return new Response(file.bytes, { status: 200, headers });
 }
 
+async function handleAdminAuthorNotices(request, env, cors) {
+  await requireEditorPassword(request, env);
+
+  if (request.method === "GET") {
+    return listAuthorNotices(env, cors);
+  }
+
+  if (request.method === "PATCH" || request.method === "POST") {
+    return updateAuthorNoticeStatus(request, env, cors);
+  }
+
+  return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
+}
+
 async function listPageFeedback(env, cors) {
   const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
   const current = await fetchQueue(github, FEEDBACK_QUEUE_HEADER);
@@ -326,6 +364,97 @@ async function listPageFeedbackHistory(env, cors, hours, limit) {
       timezone: "Asia/Jerusalem"
     },
     200,
+    cors
+  );
+}
+
+async function listAuthorNotices(env, cors) {
+  const github = githubConfig(env, "AUTHOR_NOTICE_QUEUE_PATH", "author_notice_queue.csv");
+  const current = await fetchQueue(github, AUTHOR_NOTICE_QUEUE_HEADER);
+  const queue = normalizeQueueCsv(current.content, AUTHOR_NOTICE_QUEUE_HEADER, github.path);
+  const rows = parseCsv(queue);
+  const items = rows
+    .slice(1)
+    .map((row, index) => authorNoticeItemFromRow(row, index))
+    .filter((item) => item.status !== "blocked" && item.status !== "sent" && item.status !== "skipped");
+  const counts = items.reduce((accumulator, item) => {
+    accumulator[item.status] = (accumulator[item.status] || 0) + 1;
+    return accumulator;
+  }, {});
+
+  return jsonResponse(
+    {
+      ok: true,
+      rows: items,
+      counts,
+      senderMode: "gmail",
+      replyTo: "demokratia@tau.ac.il",
+      timezone: "Asia/Jerusalem"
+    },
+    200,
+    cors
+  );
+}
+
+async function updateAuthorNoticeStatus(request, env, cors) {
+  const payload = await request.json();
+  const rowIndex = Number.parseInt(String(payload.rowIndex ?? ""), 10);
+  const status = clean(payload.status, 60);
+  const editorNotes = clean(payload.editorNotes || payload.editor_notes || "", 1000);
+  const updatedAt = clean(payload.updatedAt || payload.updated_at || "", 80);
+  const authorKey = clean(payload.authorKey || payload.author_key || "", 260);
+  const paperSlug = clean(payload.paperSlug || payload.paper_slug || "", 220);
+
+  if (!Number.isInteger(rowIndex) || rowIndex < 0) {
+    throw new Error("Invalid queue row.");
+  }
+  if (!AUTHOR_NOTICE_EDITOR_STATUSES.has(status)) {
+    throw new Error("Status must be pending_editor_release, ready_to_send, or failed.");
+  }
+
+  const github = githubConfig(env, "AUTHOR_NOTICE_QUEUE_PATH", "author_notice_queue.csv");
+
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(github, AUTHOR_NOTICE_QUEUE_HEADER);
+    const queue = normalizeQueueCsv(current.content, AUTHOR_NOTICE_QUEUE_HEADER, github.path);
+    const rows = parseCsv(queue);
+    const csvRow = rows[rowIndex + 1];
+
+    if (!csvRow) throw new Error("Queue row no longer exists.");
+    if (
+      clean(csvRow[1], 80) !== updatedAt
+      || clean(csvRow[2], 260) !== authorKey
+      || clean(csvRow[8], 220) !== paperSlug
+    ) {
+      return jsonResponse(
+        { ok: false, error: "The queue changed. Reload before saving this row." },
+        409,
+        cors
+      );
+    }
+
+    while (csvRow.length < AUTHOR_NOTICE_QUEUE_HEADER.length) csvRow.push("");
+    csvRow[1] = new Date().toISOString();
+    csvRow[12] = status;
+    csvRow[13] = status === "ready_to_send" ? (csvRow[13] || new Date().toISOString()) : "";
+    csvRow[15] = status === "failed" ? csvRow[15] : "";
+    csvRow[16] = editorNotes;
+
+    const nextContent = `${rows.map((row) => csvLine(row)).join("\n")}\n`;
+    const saved = await saveQueue(github, current.sha, nextContent, "Update author notice status");
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return jsonResponse({ ok: true, row: authorNoticeItemFromRow(csvRow, rowIndex) }, 200, cors);
+  }
+
+  return jsonResponse(
+    { ok: false, error: "The queue is busy. Please try again." },
+    409,
     cors
   );
 }
@@ -427,6 +556,29 @@ function feedbackHistoryItemFromRow(row, index) {
   };
 }
 
+function authorNoticeItemFromRow(row, index) {
+  return {
+    rowIndex: index,
+    createdAt: row[0] || "",
+    updatedAt: row[1] || "",
+    authorKey: row[2] || "",
+    nameHe: row[3] || "",
+    nameEn: row[4] || "",
+    affiliation: row[5] || "",
+    email: row[6] || "",
+    emailSourceUrl: row[7] || "",
+    paperSlug: row[8] || "",
+    paperTitleHe: row[9] || "",
+    paperTitleEn: row[10] || "",
+    paperUrl: row[11] || "",
+    status: row[12] || "",
+    approvedAt: row[13] || "",
+    sentAt: row[14] || "",
+    error: row[15] || "",
+    editorNotes: row[16] || ""
+  };
+}
+
 async function appendQueueRow({
   github,
   header,
@@ -481,6 +633,7 @@ function requestKind(request) {
   if (pathname.endsWith("/admin/page-feedback/auth")) return "admin-page-feedback-auth";
   if (pathname.endsWith("/admin/page-feedback/history")) return "admin-page-feedback-history";
   if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
+  if (pathname.endsWith("/admin/author-notices")) return "admin-author-notices";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
 

@@ -7,8 +7,13 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+.env
+.env.*
+.demokratia_author_mail.env
 Authors.MD
 Authors.csv
 page_feedback_queue.csv
 page_feedback_history.csv
 page_feedback_photos/
+author_notice_queue.csv
+author_notice_history.csv

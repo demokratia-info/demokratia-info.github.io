@@ -362,6 +362,39 @@ li { margin: 0 0 6px; }
   font-weight: 700;
 }
 
+.author-mailer-card { gap: 12px; }
+.author-mailer-papers {
+  display: grid;
+  gap: 8px;
+  margin: 4px 0;
+}
+.author-mailer-paper {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f7fbfb;
+  cursor: pointer;
+}
+.author-mailer-paper input { margin-top: 5px; }
+.author-mailer-preview {
+  max-width: 100%;
+  max-height: 260px;
+  margin: 0;
+  padding: 12px 14px;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfbf9;
+  color: var(--ink);
+  direction: rtl;
+  white-space: pre-wrap;
+  font: 15px/1.55 Arial, "Noto Sans Hebrew", "Segoe UI", sans-serif;
+}
+
 .topic-hero { display: grid; grid-template-columns: minmax(0, 1fr) 132px; gap: 22px; align-items: center; margin: 26px 0 0; }
 .topic-icon { display: block; width: 128px; height: 128px; justify-self: end; object-fit: contain; border-radius: 24px; background: #f7fbfb; }
 .topic-note { color: var(--muted); font-size: 17px; }
