@@ -37,6 +37,8 @@ from author_notice_common import (
 
 DEFAULT_REPLY_TO = "demokratia@tau.ac.il"
 DEFAULT_CC = "demokratia@tau.ac.il"
+SIGNATURE_HE = "המרכז למחקר ישומי של סיכוני הדמוקרטיה"
+SIGNATURE_EN = "The Center for Applied Research on Risks to Democracy"
 
 
 def load_env_file(path: Path) -> None:
@@ -124,7 +126,7 @@ def compose_body(rows: list[dict[str, str]]) -> str:
 אם אינך מעוניין/ת שהתמצית תופיע באתר, אפשר להודיע לנו ונפעל להסיר אותה במהירות.
 
 בתודה,
-צוות אתר Demokratia
+{SIGNATURE_HE}
 
 ---
 
@@ -139,7 +141,7 @@ We would be grateful for any comments or corrections. If the summary contains an
 If you prefer that the summary be removed from the website, please let us know and we will remove it promptly.
 
 Thank you,
-The Demokratia website team
+{SIGNATURE_EN}
 """
 
 
