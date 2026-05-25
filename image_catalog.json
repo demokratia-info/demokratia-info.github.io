@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -14331,6 +14331,304 @@
       "generatedAt": "2026-05-25",
       "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
       "qualityNotes": "Generated 2026-05-25 in the older warm Demokratia editorial style: people, civic institutions, documents, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_financial_development_institutional_quality_government_finance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_financial_development_institutional_quality_government_finance_summary_he.html",
+      "usedBy": [
+        "democracy_financial_development_institutional_quality_government_finance_summary_he.html"
+      ],
+      "cardTitleHe": "מימון ציבורי, מוסדות ואיכות הצמיחה",
+      "authorsHe": "Alexandru Minea, Patrick Villieu",
+      "visualDescriptionHe": "איור עריכתי על משרד תקציבים אזרחי, מסמכים וצוות ציבורי הדן במימון ציבורי",
+      "semanticDescriptionHe": "המאמר בוחן כיצד איכות מוסדות ופיתוח פיננסי משפיעים על בחירת הממשלה בכלי מימון לצמיחה, ולכן הוא רלוונטי לדמוקרטיה כמשטר של שקיפות תקציבית ואחריות ציבורית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "financial",
+        "development,",
+        "institutional",
+        "quality",
+        "and",
+        "maximizing-growth",
+        "trade-off"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_does_democracy_cause_growth_meta_analysis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_does_democracy_cause_growth_meta_analysis_summary_he.html",
+      "usedBy": [
+        "democracy_does_democracy_cause_growth_meta_analysis_summary_he.html"
+      ],
+      "cardTitleHe": "דמוקרטיה וצמיחה: מה מלמדת מטא־אנליזה רחבה",
+      "authorsHe": "Marco Colagrossi, Domenico Rossignoli, Mario A. Maggioni",
+      "visualDescriptionHe": "איור עריכתי על חדר מחקר, כרטיסיות מחקרים ומפת מוסדות דמוקרטיים וצמיחה",
+      "semanticDescriptionHe": "המאמר מאחד ממצאים ממאות מחקרים על דמוקרטיה וצמיחה ומספק נקודת כניסה אמפירית לשאלה האם מוסדות דמוקרטיים תורמים לשגשוג.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "does",
+        "democracy",
+        "cause",
+        "growth?",
+        "a",
+        "meta-analysis",
+        "(of"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.html",
+      "usedBy": [
+        "democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.html"
+      ],
+      "cardTitleHe": "סיוע חוץ תנודתי, מוסדות וצמיחה באפריקה שמדרום לסהרה",
+      "authorsHe": "Elliot Boateng, Frank W. Agbola, Amir Mahmood",
+      "visualDescriptionHe": "איור עריכתי על חדר תכנון ציבורי, מפות ומסמכי תקציב סביב סיוע חוץ תנודתי",
+      "semanticDescriptionHe": "המאמר בוחן כיצד תנודתיות בסיוע חוץ ואיכות מוסדית מעצבות צמיחה, ולכן הוא רלוונטי לדמוקרטיה כיכולת לתכנן מדיניות ציבורית אחראית מול משאבים לא יציבים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "foreign",
+        "aid",
+        "volatility",
+        "and",
+        "economic",
+        "growth",
+        "in"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.html",
+      "usedBy": [
+        "democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.html"
+      ],
+      "cardTitleHe": "קניין רוחני, חדשנות וצמיחה: עדות מטא־אנליטית",
+      "authorsHe": "Pedro Cunha Neves, Oscar Afonso, Diana Silva, Elena Sochirca",
+      "visualDescriptionHe": "איור עריכתי על משרד מחקר אזרחי, אבטיפוסים ומסמכי קניין רוחני ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר בוחן את השפעת זכויות הקניין הרוחני על חדשנות וצמיחה ומחדד את האיזון הדמוקרטי בין הגנה משפטית, תחרות וגישה לידע.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "the",
+        "link",
+        "between",
+        "intellectual",
+        "property",
+        "rights,",
+        "innovation,"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.html",
+      "usedBy": [
+        "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.html"
+      ],
+      "cardTitleHe": "אדישות משלמי מסים, אינרציה מוסדית וצמיחה",
+      "authorsHe": "James M. Buchanan",
+      "visualDescriptionHe": "איור עריכתי על חדר שימוע עירוני, אזרחים שקטים ומסמכי מס ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר מחבר בין תגובות ציבוריות למיסוי לבין תנאי צמיחה ואינפלציה, ומציע להבין אדישות פוליטית כסימן שדורש פענוח ולא כהסכמה פשוטה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "taxpayer",
+        "apathy,",
+        "institutional",
+        "inertia,",
+        "and",
+        "economic",
+        "growth"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.html",
+      "usedBy": [
+        "democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.html"
+      ],
+      "cardTitleHe": "התיישנות ידע, אי־שוויון בהון אנושי וצמיחה בעידן אוטומציה",
+      "authorsHe": "Philipp Tobias Hohn, Torben Klarl",
+      "visualDescriptionHe": "איור עריכתי על מרכז למידה ציבורי, עובדים ותשתית ידע בעידן אוטומציה",
+      "semanticDescriptionHe": "המאמר בוחן כיצד התיישנות ידע ואוטומציה משפיעות על הון אנושי וצמיחה, ולכן הוא רלוונטי למדיניות דמוקרטית של הכשרה, ניידות ושוויון הזדמנויות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "knowledge",
+        "obsolescence,",
+        "human",
+        "capital",
+        "inequality,",
+        "and",
+        "growth:"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.html",
+      "usedBy": [
+        "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון הכנסות, הון אנושי וביצועים כלכליים",
+      "authorsHe": "W. H. Chiu",
+      "visualDescriptionHe": "איור עריכתי על מרחב לימוד ציבורי המדגיש גישה לא שווה לחינוך ולמיומנויות",
+      "semanticDescriptionHe": "המאמר מחבר בין חלוקת הכנסות, השקעה בהון אנושי וצמיחה, ומדגיש את התפקיד הדמוקרטי של מוסדות שמאפשרים שוויון הזדמנויות ממשי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "income",
+        "inequality,",
+        "human",
+        "capital",
+        "accumulation",
+        "and",
+        "economic"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.html",
+      "usedBy": [
+        "democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.html"
+      ],
+      "cardTitleHe": "שושלות של הון אנושי וניידות בין־דורית",
+      "authorsHe": "Adrian Adermon, Mikael Lindahl, Mårten Palme",
+      "visualDescriptionHe": "איור עריכתי על ארכיון משפחתי, משרד חינוך ציבורי ודורות המחוברים למסמכים",
+      "semanticDescriptionHe": "המאמר בוחן התמדה בין־דורית של הון אנושי דרך משפחה מורחבת ומדגיש ששוויון הזדמנויות תלוי גם בסביבה משפחתית ומוסדית עמוקה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "dynastic",
+        "human",
+        "capital,",
+        "inequality,",
+        "and",
+        "intergenerational",
+        "mobility"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.html",
+      "usedBy": [
+        "democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.html"
+      ],
+      "cardTitleHe": "שלטון החוק, זכויות קניין וקיבולת פיסקלית",
+      "authorsHe": "Robin Grier, Andrew T. Young, Kevin Grier",
+      "visualDescriptionHe": "איור עריכתי על משרד אוצר ומרשם נכסים, מסמכים ואזרחים סביב אכיפה ציבורית",
+      "semanticDescriptionHe": "המאמר בוחן אם שיפורים בשלטון החוק ובזכויות קניין יוצרים קיבולת פיסקלית, ומדגיש כי מוסדות פורמליים זקוקים גם ליכולת ביצוע ואמון ציבורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "the",
+        "causal",
+        "effects",
+        "of",
+        "rule",
+        "of",
+        "law"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
+      "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_investor_protection_firm_liquidity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_investor_protection_firm_liquidity_summary_he.html",
+      "usedBy": [
+        "democracy_investor_protection_firm_liquidity_summary_he.html"
+      ],
+      "cardTitleHe": "הגנת משקיעים ונזילות חברות בשוק ההון",
+      "authorsHe": "Paul Brockman, Dennis Y. Chung",
+      "visualDescriptionHe": "איור עריכתי על חדר מסחר מפוקח, משקיעים ומסמכי גילוי ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר בוחן כיצד הגנה משפטית על משקיעים משפיעה על נזילות חברות, ומראה שהוגנות מוסדית יכולה להפחית עלויות השתתפות בשוק ההון.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "investor",
+        "protection",
+        "and",
+        "firm",
+        "liquidity"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-26",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
       "tupleFitness": "high"
     }
   ],

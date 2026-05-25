@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 619,
+  "paperCount": 629,
   "papers": [
+    {
+      "slug": "democracy_investor_protection_firm_liquidity_summary_he",
+      "file": "democracy_investor_protection_firm_liquidity_summary_he.html",
+      "permalink": "/democracy_investor_protection_firm_liquidity_summary_he.html",
+      "sortKey": 202605260010,
+      "titleHe": "הגנת משקיעים ונזילות חברות בשוק ההון",
+      "paperTitle": "Investor Protection and Firm Liquidity",
+      "authorsCardHe": "Paul Brockman, Dennis Y. Chung",
+      "sourceAuthors": [
+        "Paul Brockman",
+        "Dennis Y. Chung"
+      ],
+      "journal": "The Journal of Finance, 58(2), 921-937",
+      "dateText": "פורסם: אפריל 2003",
+      "doiUrl": "https://doi.org/10.1111/1540-6261.00551",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_investor_protection_firm_liquidity_summary_he.jpg",
+        "altHe": "איור עריכתי על הגנת משקיעים ונזילות בשוק ההון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר מנצל את שוק המניות בהונג קונג כדי להשוות נזילות בין חברות הפועלות בסביבות הגנת משקיעים שונות אך בתוך מנגנון מסחר ומטבע משותפים. לפי תקציר המקור, סביבות הגנה חלשות נקשרות למרווחי קנייה-מכירה רחבים יותר ולעומק שוק נמוך יותר, בעוד שמניות של חברות הונג קונגיות מציגות מרווחים צרים ועומק גבוה יותר מחברות שמקורן בסין. לכן המאמר מחבר בין דיני משקיעים, מידע ואמון ציבורי בשוק."
+    },
+    {
+      "slug": "democracy_rule_of_law_property_rights_fiscal_capacity_summary_he",
+      "file": "democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.html",
+      "permalink": "/democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.html",
+      "sortKey": 202605260009,
+      "titleHe": "שלטון החוק, זכויות קניין וקיבולת פיסקלית",
+      "paperTitle": "The causal effects of rule of law & property rights on fiscal capacity",
+      "authorsCardHe": "Robin Grier, Andrew T. Young, Kevin Grier",
+      "sourceAuthors": [
+        "Robin Grier",
+        "Andrew T. Young",
+        "Kevin Grier"
+      ],
+      "journal": "European Journal of Political Economy, 74, 102169",
+      "dateText": "פורסם: ספטמבר 2022",
+      "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2021.102169",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_rule_of_law_property_rights_fiscal_capacity_summary_he.jpg",
+        "altHe": "איור עריכתי על שלטון החוק, זכויות קניין וקיבולת פיסקלית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר משתמש בנתונים על 119 מדינות בשנים 1970-2015 ובודק אירועים של שיפור גדול ומתמשך במדדי שלטון החוק וזכויות קניין. לפי תקציר המקור, השיפורים האלה אינם גורמים כשלעצמם לעלייה במדדי קיבולת פיסקלית, אף שהם עשויים להיות תנאי חשוב למוסדות יציבים. לכן המאמר חשוב לדיון דמוקרטי מפני שהוא מזהיר מפני אמונה שרפורמה משפטית פורמלית מספיקה בלי בניית מינהל, אמון ואכיפה."
+    },
+    {
+      "slug": "democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he",
+      "file": "democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.html",
+      "permalink": "/democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.html",
+      "sortKey": 202605260008,
+      "titleHe": "שושלות של הון אנושי וניידות בין־דורית",
+      "paperTitle": "Dynastic Human Capital, Inequality, and Intergenerational Mobility",
+      "authorsCardHe": "Adrian Adermon, Mikael Lindahl, Mårten Palme",
+      "sourceAuthors": [
+        "Adrian Adermon",
+        "Mikael Lindahl",
+        "Mårten Palme"
+      ],
+      "journal": "American Economic Review, 111(5), 1523-1548",
+      "dateText": "פורסם: 1 במאי 2021",
+      "doiUrl": "https://doi.org/10.1257/aer.20190553",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_dynastic_human_capital_inequality_intergenerational_mobility_summary_he.jpg",
+        "altHe": "איור עריכתי על משפחות, חינוך וניידות בין־דורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר מקשר ארבעה דורות באוכלוסייה השוודית ובוחן מידע על קרובי משפחה מורחבים, בני זוג ומשפחותיהם. לפי תקציר המקור, אומדנים מסורתיים של הורה-ילד ממעיטים את ההתמדה הבין־דורית בלפחות שליש, ונתוני אימוץ מצביעים על תרומה סביבתית משמעותית להתמדה ארוכת טווח. לכן המאמר חשוב לדמוקרטיה מפני שהוא מראה כמה עמוקות יכולות להיות תבניות של יתרון חינוכי, גם במדינת רווחה מפותחת."
+    },
+    {
+      "slug": "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he",
+      "file": "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.html",
+      "permalink": "/democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.html",
+      "sortKey": 202605260007,
+      "titleHe": "אי־שוויון הכנסות, הון אנושי וביצועים כלכליים",
+      "paperTitle": "Income Inequality, Human Capital Accumulation and Economic Performance",
+      "authorsCardHe": "W. H. Chiu",
+      "sourceAuthors": [
+        "W. H. Chiu"
+      ],
+      "journal": "The Economic Journal, 108(446), 44-59",
+      "dateText": "פורסם: 1 בינואר 1998",
+      "doiUrl": "https://doi.org/10.1111/1468-0297.00272",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he.jpg",
+        "altHe": "איור עריכתי על אי־שוויון, חינוך והון אנושי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המאמר מנתח את הקשר בין חלוקת הכנסות, מגבלות אשראי והשקעה בהון אנושי. לפי תיאורי המקור, כאשר למשקי בית מוכשרים אך דלי משאבים קשה לממן חינוך, הכלכלה מפסידה גם צמיחה וגם ניידות חברתית. לכן המאמר רלוונטי במיוחד למדיניות דמוקרטית שמבקשת לחבר בין שוויון הזדמנויות, מערכת חינוך וצמיחה מכלילה."
+    },
+    {
+      "slug": "democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he",
+      "file": "democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.html",
+      "permalink": "/democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.html",
+      "sortKey": 202605260006,
+      "titleHe": "התיישנות ידע, אי־שוויון בהון אנושי וצמיחה בעידן אוטומציה",
+      "paperTitle": "Knowledge obsolescence, human capital inequality, and growth: A network perspective in an automated knowledge society",
+      "authorsCardHe": "Philipp Tobias Hohn, Torben Klarl",
+      "sourceAuthors": [
+        "Philipp Tobias Hohn",
+        "Torben Klarl"
+      ],
+      "journal": "Economic Modelling, 155, 107416",
+      "dateText": "פורסם: פברואר 2026",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2025.107416",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_knowledge_obsolescence_human_capital_inequality_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על אוטומציה, למידה ציבורית ואי־שוויון בהון אנושי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר מציג נקודת מבט רשתית על צבירת הון אנושי בחברה שבה ידע מתיישן מהר. לפי תקצירי המקור, התיישנות ידע, מגבלות קוגניטיביות והחשש מאבטלה טכנולוגית יכולים להקשות על עובדים ליצור קשרי למידה, להאט צמיחה ולהעמיק מלכודות מיומנות נמוכה. לכן המאמר חשוב לדיון דמוקרטי מפני שהוא מחבר בין טכנולוגיה, שוויון הזדמנויות ומוסדות הכשרה ציבוריים."
+    },
+    {
+      "slug": "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he",
+      "file": "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.html",
+      "permalink": "/democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.html",
+      "sortKey": 202605260005,
+      "titleHe": "אדישות משלמי מסים, אינרציה מוסדית וצמיחה",
+      "paperTitle": "Taxpayer Apathy, Institutional Inertia, and Economic Growth",
+      "authorsCardHe": "James M. Buchanan",
+      "sourceAuthors": [
+        "James M. Buchanan"
+      ],
+      "journal": "Journal of Public Finance and Public Choice, 17(1), 3-10",
+      "dateText": "פורסם: אפריל 1999",
+      "doiUrl": "https://doi.org/10.1332/251569299x15668906480810",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על אדישות משלמי מסים ושימוע תקציבי ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המאמר משווה בין תקופת מרד משלמי המסים בשנות השבעים ותחילת שנות השמונים לבין האדישות היחסית שנראתה בסוף שנות התשעים. לפי תקציר המקור, אזרחים התקוממו כאשר הכנסותיהם הריאליות נשחקו בתקופה של סטגנציה ואינפלציה, אך נותרו שקטים יותר כאשר המסים נגבו בתקופה של צמיחה ריאלית ואינפלציה נמוכה. לכן המאמר חשוב לדיון דמוקרטי מפני שהוא מראה כיצד תגובת הציבור למיסוי תלויה גם בהקשר כלכלי, לא רק בעקרונות אידאולוגיים."
+    },
+    {
+      "slug": "democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he",
+      "file": "democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.html",
+      "permalink": "/democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.html",
+      "sortKey": 202605260004,
+      "titleHe": "קניין רוחני, חדשנות וצמיחה: עדות מטא־אנליטית",
+      "paperTitle": "The link between intellectual property rights, innovation, and growth: A meta-analysis",
+      "authorsCardHe": "Pedro Cunha Neves, Oscar Afonso, Diana Silva, Elena Sochirca",
+      "sourceAuthors": [
+        "Pedro Cunha Neves",
+        "Oscar Afonso",
+        "Diana Silva",
+        "Elena Sochirca"
+      ],
+      "journal": "Economic Modelling, 97, 196-209",
+      "dateText": "פורסם: אפריל 2021",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2021.01.019",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he.jpg",
+        "altHe": "איור עריכתי על קניין רוחני, חדשנות וצמיחה ציבורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המאמר משלב סקירת ספרות ומטא־אנליזה, ומראה שלזכויות קניין רוחני יש בממוצע השפעה חיובית על חדשנות וצמיחה. לפי תקציר המקור, ההשפעה על חדשנות חלשה יותר במדינות מתפתחות, והתוצאות תלויות מאוד במאפיינים מתודולוגיים של המחקרים. לכן התרומה הדמוקרטית היא בהדגשת הצורך במוסדות משפטיים שמגינים על יצירה אבל גם בודקים מי נהנה מההגנה ומי מודר ממנה."
+    },
+    {
+      "slug": "democracy_foreign_aid_volatility_institutional_quality_growth_summary_he",
+      "file": "democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.html",
+      "permalink": "/democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.html",
+      "sortKey": 202605260003,
+      "titleHe": "סיוע חוץ תנודתי, מוסדות וצמיחה באפריקה שמדרום לסהרה",
+      "paperTitle": "Foreign aid volatility and economic growth in Sub-Saharan Africa: Does institutional quality matter?",
+      "authorsCardHe": "Elliot Boateng, Frank W. Agbola, Amir Mahmood",
+      "sourceAuthors": [
+        "Elliot Boateng",
+        "Frank W. Agbola",
+        "Amir Mahmood"
+      ],
+      "journal": "Economic Modelling, 96, 111-127",
+      "dateText": "פורסם: מרץ 2021",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2020.12.032",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_foreign_aid_volatility_institutional_quality_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על סיוע חוץ, תכנון ציבורי ואיכות מוסדית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר משתמש בנתונים על 45 מדינות באפריקה שמדרום לסהרה בשנים 1980-2017, ובוחן את ההבדל בין התחייבויות סיוע לבין תנודתיות בסיוע. לפי תקציר המקור, התחייבויות סיוע נקשרות לצמיחה, תנודתיות פוגעת בצמיחה, ואיכות מוסדית משפרת את התוצאה אך אינה בהכרח מבטלת את הנזק של תנודתיות. לכן המאמר חשוב לדיון דמוקרטי על קיבולת מדינתית, תכנון תקציבי ואחריות מוסדית מול תורמים ומול אזרחים."
+    },
+    {
+      "slug": "democracy_does_democracy_cause_growth_meta_analysis_summary_he",
+      "file": "democracy_does_democracy_cause_growth_meta_analysis_summary_he.html",
+      "permalink": "/democracy_does_democracy_cause_growth_meta_analysis_summary_he.html",
+      "sortKey": 202605260002,
+      "titleHe": "דמוקרטיה וצמיחה: מה מלמדת מטא־אנליזה רחבה",
+      "paperTitle": "Does democracy cause growth? A meta-analysis (of 2000 regressions)",
+      "authorsCardHe": "Marco Colagrossi, Domenico Rossignoli, Mario A. Maggioni",
+      "sourceAuthors": [
+        "Marco Colagrossi",
+        "Domenico Rossignoli",
+        "Mario A. Maggioni"
+      ],
+      "journal": "European Journal of Political Economy, 61, 101824",
+      "dateText": "פורסם: ינואר 2020",
+      "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2019.101824",
+      "topics": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_does_democracy_cause_growth_meta_analysis_summary_he.jpg",
+        "altHe": "איור עריכתי על חוקרים המשווים מחקרים רבים על דמוקרטיה וצמיחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המאמר מסכם 188 מחקרים ויותר מאלפיים רגרסיות על השפעת הדמוקרטיה על צמיחה כלכלית. לפי תקציר המקור, לאחר התחשבות בהטיית פרסום ובתלות בין אומדנים, נמצא אפקט ישיר חיובי של דמוקרטיה על צמיחה, נוסף על ערוצים עקיפים כמו הון אנושי, יציבות פוליטית וחירות כלכלית. מבחינה דמוקרטית, זהו מאמר שמחזק קריאה מוסדית: דמוקרטיה אינה רק ערך נורמטיבי אלא גם מערכת כללים שיכולה להשפיע על תמריצים, אמון והשקעה."
+    },
+    {
+      "slug": "democracy_financial_development_institutional_quality_government_finance_summary_he",
+      "file": "democracy_financial_development_institutional_quality_government_finance_summary_he.html",
+      "permalink": "/democracy_financial_development_institutional_quality_government_finance_summary_he.html",
+      "sortKey": 202605260001,
+      "titleHe": "מימון ציבורי, מוסדות ואיכות הצמיחה",
+      "paperTitle": "Financial development, institutional quality and maximizing-growth trade-off in government finance",
+      "authorsCardHe": "Alexandru Minea, Patrick Villieu",
+      "sourceAuthors": [
+        "Alexandru Minea",
+        "Patrick Villieu"
+      ],
+      "journal": "Economic Modelling, 27(1), 324-335",
+      "dateText": "פורסם: ינואר 2010",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2009.09.012",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_financial_development_institutional_quality_government_finance_summary_he.jpg",
+        "altHe": "איור עריכתי על מימון ציבורי, מוסדות ושיקולי צמיחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-26",
+      "dateModified": "2026-05-26",
+      "summaryHe": "המחקר מציג מודל של צמיחה אנדוגנית שבו הממשלה מממנת הוצאה ציבורית פרודוקטיבית, אך בחירת כלי המימון תלויה בעלויות עסקה ובאיכות המוסדות. לפי תקצירי המקור, כאשר המוסדות והשווקים הפיננסיים חלשים, מימון אינפלציוני או פתרונות עקיפים יכולים להיראות נוחים יותר בטווח קצר, אך הם מטשטשים אחריות ומכבידים על צמיחה. לכן התרומה הדמוקרטית של המאמר היא בהצגת הקשר בין איכות מוסדית לבין היכולת לבחור מדיניות תקציבית שקופה, יציבה ומוכנה לתת דין וחשבון."
+    },
     {
       "slug": "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he",
       "file": "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.html",
