@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -14630,6 +14630,332 @@
       "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
       "qualityNotes": "Generated 2026-05-26 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, flags, flat vector icons, or schematic layout.",
       "tupleFitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_public_private_property_rights_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_public_private_property_rights_growth_summary_he.html",
+      "usedBy": [
+        "democracy_public_private_property_rights_growth_summary_he.html"
+      ],
+      "cardTitleHe": "הגנה על זכויות קניין בין המדינה לשוק הפרטי",
+      "authorsHe": "Ali Hussein Samadi, Ali Hussein Ostadzad",
+      "visualDescriptionHe": "איור עריכתי של משרד רישום אזרחי שבו נציגי ציבור ובעלי עסקים בוחנים מסמכי קניין וחוזים.",
+      "semanticDescriptionHe": "המאמר עוסק בתמהיל בין הגנה ציבורית ופרטית על קניין, ולכן הדימוי מציג אכיפה מוסדית וחוזית כפעולה משותפת אך מפוקחת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "optimum",
+        "share",
+        "of",
+        "public",
+        "and",
+        "private",
+        "sectors",
+        "in"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_public_private_property_rights_growth_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_balanced_institutional_quality_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_balanced_institutional_quality_growth_summary_he.html",
+      "usedBy": [
+        "democracy_balanced_institutional_quality_growth_summary_he.html"
+      ],
+      "cardTitleHe": "צמיחה כלכלית דורשת איזון בין מוסדות, לא רק ציון ממוצע",
+      "authorsHe": "J. Brandon Bolen, Russell S. Sobel",
+      "visualDescriptionHe": "איור של חדר מדיניות ציבורית שבו חוקרים משווים תחומים מוסדיים שונים סביב שולחן עבודה אזרחי.",
+      "semanticDescriptionHe": "המאמר מדגיש איזון בין תחומי מוסדות ולכן הדימוי מציג כמה תחומי מדיניות שנבחנים יחד ולא מדד יחיד.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "does",
+        "balance",
+        "among",
+        "areas",
+        "of",
+        "institutional",
+        "quality",
+        "matter"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_balanced_institutional_quality_growth_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.html",
+      "usedBy": [
+        "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.html"
+      ],
+      "cardTitleHe": "מרד הטאיפינג וזכויות קניין: מורשת מוסדית ארוכת טווח",
+      "authorsHe": "Weizheng Lai, Lixin Colin Xu, Li Yang",
+      "visualDescriptionHe": "איור היסטורי של חדר מנהל מקומי לאחר סכסוך, עם רשומות קרקע, מסמכי מס ופעילות שיקום אזרחית.",
+      "semanticDescriptionHe": "המאמר עוסק במורשת מוסדית של סכסוך ולכן הדימוי מציג בנייה מחדש של זכויות, מסים ושיתוף פעולה חברתי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "property",
+        "rights",
+        "fiscal",
+        "capacity",
+        "and",
+        "social",
+        "capacity",
+        "the"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_autocracy_democracy_property_contract_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_autocracy_democracy_property_contract_rights_summary_he.html",
+      "usedBy": [
+        "democracy_autocracy_democracy_property_contract_rights_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות קניין וחוזים במשטרים דמוקרטיים ואוטוקרטיים",
+      "authorsHe": "Christopher Clague, Philip Keefer, Stephen Knack, Mancur Olson",
+      "visualDescriptionHe": "איור של חדר מוסדי המחבר חוזים פתוחים בדמוקרטיה עם שולחן שלטון סגור באוטוקרטיה.",
+      "semanticDescriptionHe": "המאמר משווה בין משטרים ולכן הדימוי מציג את ההבדל בין זכויות תחת שלטון חוק לבין הבטחות התלויות בשליט.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "property",
+        "and",
+        "contract",
+        "rights",
+        "in",
+        "autocracies",
+        "and",
+        "democracies"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_autocracy_democracy_property_contract_rights_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_trade_regime_political_system_development_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_trade_regime_political_system_development_summary_he.html",
+      "usedBy": [
+        "democracy_trade_regime_political_system_development_summary_he.html"
+      ],
+      "cardTitleHe": "פתיחות למסחר, כוח פוליטי ופיתוח כלכלי",
+      "authorsHe": "Josef Falkinger, Volker Grossmann",
+      "visualDescriptionHe": "איור של חדר מועצה ליד נמל שבו אליטות, נבחרים ואנשי חינוך דנים בתשתיות ובמסחר.",
+      "semanticDescriptionHe": "המאמר קושר בין משטר מסחרי לבין חלוקת כוח פוליטי ולכן הדימוי מציג נמל, מוסדות ציבור והשקעות חינוך.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "institutions",
+        "and",
+        "development",
+        "the",
+        "interaction",
+        "between",
+        "trade",
+        "regime"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_trade_regime_political_system_development_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_legal_investor_protection_takeovers_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_legal_investor_protection_takeovers_summary_he.html",
+      "usedBy": [
+        "democracy_legal_investor_protection_takeovers_summary_he.html"
+      ],
+      "cardTitleHe": "הגנת משקיעים, השתלטויות ותחרות על שליטה תאגידית",
+      "authorsHe": "Mike Burkart, Denis Gromb, Holger M. Mueller, Fausto Panunzi",
+      "visualDescriptionHe": "איור של חדר דירקטוריון מפוקח ומשרד ניירות ערך, עם מציעים, משקיעים ומסמכי גילוי.",
+      "semanticDescriptionHe": "המאמר עוסק בהגנת משקיעים ובהשתלטויות ולכן הדימוי מציג תחרות תאגידית בתוך מסגרת משפטית מפוקחת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "legal",
+        "investor",
+        "protection",
+        "and",
+        "takeovers"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_legal_investor_protection_takeovers_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_political_regimes_economic_freedom_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_political_regimes_economic_freedom_growth_summary_he.html",
+      "usedBy": [
+        "democracy_political_regimes_economic_freedom_growth_summary_he.html"
+      ],
+      "cardTitleHe": "חירות כלכלית, דמוקרטיה וצמיחה",
+      "authorsHe": "Abdiweli M. Ali, W. Mark Crain",
+      "visualDescriptionHe": "איור של מכון מדיניות ציבורית שבו אזרחים וחוקרים בוחנים השקעה, חירות כלכלית ומוסדות פוליטיים.",
+      "semanticDescriptionHe": "המאמר בוחן את היחס בין משטרים, חירות כלכלית והשקעה ולכן הדימוי מציג ניתוח מוסדי בחדר ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "political",
+        "regimes",
+        "economic",
+        "freedom",
+        "institutions",
+        "and",
+        "growth"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_political_regimes_economic_freedom_growth_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_unbundling_production_world_income_distribution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_unbundling_production_world_income_distribution_summary_he.html",
+      "usedBy": [
+        "democracy_unbundling_production_world_income_distribution_summary_he.html"
+      ],
+      "cardTitleHe": "פיצול הייצור העולמי ואי־שוויון בין מדינות",
+      "authorsHe": "Sergi Basco, Martí Mestieri",
+      "visualDescriptionHe": "איור של חדר מדיניות סחר עם עובדים, חוקרים ומודלים של נמל, מפעל וכיתת לימוד סביב שולחן.",
+      "semanticDescriptionHe": "המאמר עוסק בשרשראות ייצור עולמיות ובחלוקת הכנסות ולכן הדימוי מציג שרשרת אספקה כמנגנון ציבורי וחברתי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "the",
+        "world",
+        "income",
+        "distribution",
+        "the",
+        "effects",
+        "of",
+        "international"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_unbundling_production_world_income_distribution_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_intellectual_property_multinationals_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_intellectual_property_multinationals_growth_summary_he.html",
+      "usedBy": [
+        "democracy_intellectual_property_multinationals_growth_summary_he.html"
+      ],
+      "cardTitleHe": "קניין רוחני, חברות רב־לאומיות וצמיחה",
+      "authorsHe": "Elias Dinopoulos, Paul Segerstrom",
+      "visualDescriptionHe": "איור של משרד חדשנות ציבורי עם ממציאים, נציגי חברות ורגולטורים סביב מסמכי פטנט ואבות־טיפוס.",
+      "semanticDescriptionHe": "המאמר עוסק בקניין רוחני ובחברות רב־לאומיות ולכן הדימוי מציג חדשנות תחת מסגרת רגולטורית ציבורית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "intellectual",
+        "property",
+        "rights",
+        "multinational",
+        "firms",
+        "and",
+        "economic",
+        "growth"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_intellectual_property_multinationals_growth_summary_he.html": "high"
+      }
+    },
+    {
+      "file": "html_qa/democracy_democracy_growth_sub_saharan_africa_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democracy_growth_sub_saharan_africa_summary_he.html",
+      "usedBy": [
+        "democracy_democracy_growth_sub_saharan_africa_summary_he.html"
+      ],
+      "cardTitleHe": "מה קודם למה: דמוקרטיה או צמיחה באפריקה שמדרום לסהרה?",
+      "authorsHe": "Paresh Kumar Narayan, Seema Narayan, Russell Smyth",
+      "visualDescriptionHe": "איור של משרד פיתוח אזרחי עם חוקרים, נציגי קהילה ומקבלי החלטות הבוחנים השקעות ובחירות.",
+      "semanticDescriptionHe": "המאמר עוסק ביחסי סיבתיות בין דמוקרטיה וצמיחה ולכן הדימוי מציג דיון מקצועי ומכבד על מוסדות ופיתוח.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "does",
+        "democracy",
+        "facilitate",
+        "economic",
+        "growth",
+        "or",
+        "does",
+        "economic"
+      ],
+      "sourceType": "generated",
+      "generatedAt": "2026-05-27",
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated 2026-05-27 in the older warm Demokratia editorial style: people, civic institutions, documents, rooms, public spaces, depth and texture; processed to 800x600 JPEG; no intended readable text, logos, watermarks, UI widgets, or flags.",
+      "fitnessByArticle": {
+        "democracy_democracy_growth_sub_saharan_africa_summary_he.html": "high"
+      }
     }
   ],
   "topicGraphics": [

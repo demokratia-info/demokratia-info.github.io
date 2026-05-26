@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 629,
+  "paperCount": 639,
   "papers": [
+    {
+      "slug": "democracy_democracy_growth_sub_saharan_africa_summary_he",
+      "file": "democracy_democracy_growth_sub_saharan_africa_summary_he.html",
+      "permalink": "/democracy_democracy_growth_sub_saharan_africa_summary_he.html",
+      "sortKey": 202605270010,
+      "titleHe": "מה קודם למה: דמוקרטיה או צמיחה באפריקה שמדרום לסהרה?",
+      "paperTitle": "Does democracy facilitate economic growth or does economic growth facilitate democracy? An empirical study of Sub-Saharan Africa",
+      "authorsCardHe": "Paresh Kumar Narayan, Seema Narayan, Russell Smyth",
+      "sourceAuthors": [
+        "Paresh Kumar Narayan",
+        "Seema Narayan",
+        "Russell Smyth"
+      ],
+      "journal": "Economic Modelling, 28(3), 900-910",
+      "dateText": "פורסם: מאי 2011",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2010.11.004",
+      "topics": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democracy_growth_sub_saharan_africa_summary_he.jpg",
+        "altHe": "איור עריכתי על דמוקרטיה וצמיחה באפריקה שמדרום לסהרה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר RePEc, המחקר משתמש תחילה במדד הדמוקרטיה של Freedom House ולאחר מכן בודק רגישות בעזרת מדד Legislative Index of Electoral Competitiveness. הוא מוצא תמיכה בהשערת Lipset, שלפיה בטווח הארוך תוצר ריאלי גורם לדמוקרטיה, בבוצואנה וניזר בשני בסיסי הנתונים, בצ׳אד לפי Freedom House בלבד, ובחוף השנהב וגבון לפי LIEC בלבד. תמיכה בהשערת התאימות, שלפיה דמוקרטיה גורמת להכנסה ריאלית, נמצאה בבוצואנה לפי Freedom House ובמדגסקר, רואנדה, דרום אפריקה וסווזילנד לפי LIEC; תמיכה בהשערת הקונפליקט נמצאה בגבון ובסיירה לאון לפי בסיסי נתונים שונים."
+    },
+    {
+      "slug": "democracy_intellectual_property_multinationals_growth_summary_he",
+      "file": "democracy_intellectual_property_multinationals_growth_summary_he.html",
+      "permalink": "/democracy_intellectual_property_multinationals_growth_summary_he.html",
+      "sortKey": 202605270009,
+      "titleHe": "קניין רוחני, חברות רב־לאומיות וצמיחה",
+      "paperTitle": "Intellectual property rights, multinational firms and economic growth",
+      "authorsCardHe": "Elias Dinopoulos, Paul Segerstrom",
+      "sourceAuthors": [
+        "Elias Dinopoulos",
+        "Paul Segerstrom"
+      ],
+      "journal": "Journal of Development Economics, 92(1), 13-27",
+      "dateText": "פורסם: מאי 2010",
+      "doiUrl": "https://doi.org/10.1016/j.jdeveco.2009.01.007",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intellectual_property_multinationals_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על קניין רוחני, חברות רב־לאומיות וחדשנות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר RePEc למאמר ב־Journal of Development Economics, המודל כולל חברות בצפון שממציאות מוצרים איכותיים יותר, חברות רב־לאומיות שמעבירות ייצור לדרום, וחברות דרומיות שמחקות מוצרים. חיזוק קניין רוחני בדרום, ובפרט אימוץ ויישום הסכם TRIPs, מוביל במודל לעלייה קבועה בהעברת טכנולוגיה בתוך חברות רב־לאומיות, לעלייה קבועה בתעסוקת מחקר ופיתוח בשלוחות דרומיות, לירידה קבועה בפער השכר צפון-דרום ולעלייה זמנית בקצב החדשנות בצפון."
+    },
+    {
+      "slug": "democracy_unbundling_production_world_income_distribution_summary_he",
+      "file": "democracy_unbundling_production_world_income_distribution_summary_he.html",
+      "permalink": "/democracy_unbundling_production_world_income_distribution_summary_he.html",
+      "sortKey": 202605270008,
+      "titleHe": "פיצול הייצור העולמי ואי־שוויון בין מדינות",
+      "paperTitle": "The world income distribution: the effects of international unbundling of production",
+      "authorsCardHe": "Sergi Basco, Martí Mestieri",
+      "sourceAuthors": [
+        "Sergi Basco",
+        "Martí Mestieri"
+      ],
+      "journal": "Journal of Economic Growth, 24(2), 189-221",
+      "dateText": "פורסם אונליין: 7 במרץ 2019; גיליון: יוני 2019",
+      "doiUrl": "https://doi.org/10.1007/s10887-019-09164-4",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_unbundling_production_world_income_distribution_summary_he.jpg",
+        "altHe": "איור עריכתי על פיצול ייצור עולמי ואי־שוויון הכנסות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר Springer, מסחר בתשומות ביניים ופיצול הייצור נעשו חשובים יותר בכלכלה העולמית במהלך 25 השנים שקדמו לפרסום. Basco ו־Mestieri מפתחים מודל דינמי שבו מדינות שונות ברמת הפריון הכולל, ומזהים ערוץ שבו מסחר בתשומות ביניים מעביר הון בין מדינות ומחריף אי־שוויון עולמי בהכנסה וברווחה. מדינות בעלות פריון גבוה מתמיינות לייצור תשומות עתירות הון, מגדילות מלאי הון ושכר ריאלי, והפערים גדלים."
+    },
+    {
+      "slug": "democracy_political_regimes_economic_freedom_growth_summary_he",
+      "file": "democracy_political_regimes_economic_freedom_growth_summary_he.html",
+      "permalink": "/democracy_political_regimes_economic_freedom_growth_summary_he.html",
+      "sortKey": 202605270007,
+      "titleHe": "חירות כלכלית, דמוקרטיה וצמיחה",
+      "paperTitle": "Political Regimes, Economic Freedom, Institutions and Growth",
+      "authorsCardHe": "Abdiweli M. Ali, W. Mark Crain",
+      "sourceAuthors": [
+        "Abdiweli M. Ali",
+        "W. Mark Crain"
+      ],
+      "journal": "Journal of Public Finance and Public Choice, 19(1), 3-21",
+      "dateText": "פורסם: אפריל 2001",
+      "doiUrl": "https://doi.org/10.1332/251569201x15668905707096",
+      "topics": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_regimes_economic_freedom_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על חירות כלכלית, משטר פוליטי וצמיחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר המקור, השפעת מערכות פוליטיות על צמיחה אינה מובנת רק דרך הבחנה בין משטרים דמוקרטיים ולא־דמוקרטיים. המחברים משתמשים במדדי חירות כלכלית של Gwartney-Lawson-Block ומוצאים שחירות כלכלית תורמת לצמיחה בלי תלות באופי המשטר הפוליטי, בעוד השפעת הדמוקרטיה על הצמיחה עמומה יותר ועשויה לפעול בעקיפין דרך ערוץ ההשקעה. המסר אינו אנטי־דמוקרטי אלא מוסדי: חירויות פוליטיות וכלכליות צריכות להיבחן יחד ולא להתבלבל זו בזו."
+    },
+    {
+      "slug": "democracy_legal_investor_protection_takeovers_summary_he",
+      "file": "democracy_legal_investor_protection_takeovers_summary_he.html",
+      "permalink": "/democracy_legal_investor_protection_takeovers_summary_he.html",
+      "sortKey": 202605270006,
+      "titleHe": "הגנת משקיעים, השתלטויות ותחרות על שליטה תאגידית",
+      "paperTitle": "Legal Investor Protection and Takeovers",
+      "authorsCardHe": "Mike Burkart, Denis Gromb, Holger M. Mueller, Fausto Panunzi",
+      "sourceAuthors": [
+        "Mike Burkart",
+        "Denis Gromb",
+        "Holger M. Mueller",
+        "Fausto Panunzi"
+      ],
+      "journal": "The Journal of Finance, 69(3), 1129-1165",
+      "dateText": "פורסם אונליין: 8 במאי 2014; גיליון: יוני 2014",
+      "doiUrl": "https://doi.org/10.1111/jofi.12142",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_legal_investor_protection_takeovers_summary_he.jpg",
+        "altHe": "איור עריכתי על הגנת משקיעים והשתלטויות תאגידיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר המקור, הגנת משקיעים חזקה מגדילה את יכולת המימון החיצוני של מציעים, אך בהיעדר תחרות אפקטיבית על חברת היעד היא אינה משפרת בהכרח יעילות, משום שמחיר ההצעה עולה יחד עם ההכנסה שניתן לשעבד. כאשר יש תחרות אפקטיבית, היכולת המוגברת לגייס מימון מסייעת למציעים יעילים אך פחות עשירים להתחרות במציעים עשירים ופחות יעילים. לכן המאמר מחבר בין משפט, מימון ותחרות."
+    },
+    {
+      "slug": "democracy_trade_regime_political_system_development_summary_he",
+      "file": "democracy_trade_regime_political_system_development_summary_he.html",
+      "permalink": "/democracy_trade_regime_political_system_development_summary_he.html",
+      "sortKey": 202605270005,
+      "titleHe": "פתיחות למסחר, כוח פוליטי ופיתוח כלכלי",
+      "paperTitle": "Institutions and Development: The Interaction Between Trade Regime and Political System",
+      "authorsCardHe": "Josef Falkinger, Volker Grossmann",
+      "sourceAuthors": [
+        "Josef Falkinger",
+        "Volker Grossmann"
+      ],
+      "journal": "Journal of Economic Growth, 10(3), 231-272",
+      "dateText": "פורסם: ספטמבר 2005",
+      "doiUrl": "https://doi.org/10.1007/s10887-005-3534-4",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trade_regime_political_system_development_summary_he.jpg",
+        "altHe": "איור עריכתי על פתיחות למסחר, כוח פוליטי ופיתוח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר Springer, Falkinger ו־Grossmann מפתחים מודל שיווי משקל כללי דו־מגזרי ומראים שבחברה אוליגרכית השקעות ציבוריות המסייעות לתיעוש, כגון חינוך, נוטות להיות נמוכות יותר במשק פתוח מאשר במשק סגור. תחת פתיחות למסחר, הפיתוח מהיר יותר במערכת דמוקרטית, והאליטה הקרקעית עשויה לתמוך בפתיחות דווקא משום שהיא משרתת את האינטרס שלה. המאמר מחבר בין משטר מסחרי, חלוקת כוח פוליטי והיכולת לבנות מדיניות ציבורית מכלילה."
+    },
+    {
+      "slug": "democracy_autocracy_democracy_property_contract_rights_summary_he",
+      "file": "democracy_autocracy_democracy_property_contract_rights_summary_he.html",
+      "permalink": "/democracy_autocracy_democracy_property_contract_rights_summary_he.html",
+      "sortKey": 202605270004,
+      "titleHe": "זכויות קניין וחוזים במשטרים דמוקרטיים ואוטוקרטיים",
+      "paperTitle": "Property and contract rights in autocracies and democracies",
+      "authorsCardHe": "Christopher Clague, Philip Keefer, Stephen Knack, Mancur Olson",
+      "sourceAuthors": [
+        "Christopher Clague",
+        "Philip Keefer",
+        "Stephen Knack",
+        "Mancur Olson"
+      ],
+      "journal": "Journal of Economic Growth, 1(2), 243-276",
+      "dateText": "פורסם: יוני 1996",
+      "doiUrl": "https://doi.org/10.1007/bf00138864",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_autocracy_democracy_property_contract_rights_summary_he.jpg",
+        "altHe": "איור עריכתי על זכויות קניין וחוזים בדמוקרטיות ואוטוקרטיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר Springer, התמריץ של אוטוקרט לכבד קניין וחוזים נובע בעיקר מהרצון בהכנסות ובתוצר עתידיים, ולכן הוא גדל עם אופק התכנון של השליט. לעומת זאת, בדמוקרטיות ותיקות אותם כללי שלטון חוק וזכויות פרט שמבטיחים בחירות חופשיות גם תומכים בזכויות קניין וחוזים. המאמר קושר בין גיל המערכת הדמוקרטית לבין היקף ההגנה על זכויות כאלה."
+    },
+    {
+      "slug": "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he",
+      "file": "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.html",
+      "permalink": "/democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.html",
+      "sortKey": 202605270003,
+      "titleHe": "מרד הטאיפינג וזכויות קניין: מורשת מוסדית ארוכת טווח",
+      "paperTitle": "Property rights, fiscal capacity, and social capacity: The lasting impact of the Taiping Rebellion",
+      "authorsCardHe": "Weizheng Lai, Lixin Colin Xu, Li Yang",
+      "sourceAuthors": [
+        "Weizheng Lai",
+        "Lixin Colin Xu",
+        "Li Yang"
+      ],
+      "journal": "Journal of Economic Growth",
+      "dateText": "פורסם אונליין: 14 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1007/s10887-025-09264-4",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he.jpg",
+        "altHe": "איור עריכתי היסטורי על מרד הטאיפינג ומוסדות מקומיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תיאור המקור של Springer, המחקר עוסק במרד הטאיפינג בשנים 1850-1864 ובוחן אזורים שבהם התרחשו שינויים מוסדיים: חיזוק זכויות קניין בקרקע, קיבולת פיסקלית מקומית וקיבולת חברתית. המחברים קושרים את השינויים לתוצאות ארוכות טווח כמו פעילות כלכלית גבוהה יותר, הכנסות פיסקליות גדולות יותר, נורמות אזרחיות חזקות יותר ותמותה נמוכה יותר בזמן הרעב הגדול של 1959-1961. לכן המאמר חשוב להבנת האופן שבו מוסדות מקומיים נבנים מתוך משבר."
+    },
+    {
+      "slug": "democracy_balanced_institutional_quality_growth_summary_he",
+      "file": "democracy_balanced_institutional_quality_growth_summary_he.html",
+      "permalink": "/democracy_balanced_institutional_quality_growth_summary_he.html",
+      "sortKey": 202605270002,
+      "titleHe": "צמיחה כלכלית דורשת איזון בין מוסדות, לא רק ציון ממוצע",
+      "paperTitle": "Does Balance Among Areas of Institutional Quality Matter for Economic Growth?",
+      "authorsCardHe": "J. Brandon Bolen, Russell S. Sobel",
+      "sourceAuthors": [
+        "J. Brandon Bolen",
+        "Russell S. Sobel"
+      ],
+      "journal": "Southern Economic Journal, 86(4), 1418-1445",
+      "dateText": "פורסם אונליין: 20 במרץ 2020; גיליון: אפריל 2020",
+      "doiUrl": "https://doi.org/10.1002/soej.12428",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_balanced_institutional_quality_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על איזון בין תחומי איכות מוסדית וצמיחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "לפי תקציר המקור, הספרות נטתה למדוד מוסדות בעזרת מדדי חירות כלכלית אך להתעלם מן היחסים בין תחומי המשנה. Bolen ו־Sobel מראים שהשונות הפנימית בין תחומי המדד משפרת את הסברי הצמיחה, ושאינטראקציות עם המערכת המשפטית וזכויות הקניין חשובות במיוחד. השורה הדמוקרטית היא שמוסד חזק אחד אינו מפצה בקלות על מוסד חלש אחר."
+    },
+    {
+      "slug": "democracy_public_private_property_rights_growth_summary_he",
+      "file": "democracy_public_private_property_rights_growth_summary_he.html",
+      "permalink": "/democracy_public_private_property_rights_growth_summary_he.html",
+      "sortKey": 202605270001,
+      "titleHe": "הגנה על זכויות קניין בין המדינה לשוק הפרטי",
+      "paperTitle": "Optimum share of public and private sectors in property rights protection: An augmented endogenous growth model",
+      "authorsCardHe": "Ali Hussein Samadi, Ali Hussein Ostadzad",
+      "sourceAuthors": [
+        "Ali Hussein Samadi",
+        "Ali Hussein Ostadzad"
+      ],
+      "journal": "Economic Modelling, 33, 947-955",
+      "dateText": "פורסם: יולי 2013",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2013.05.026",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_private_property_rights_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על הגנה ציבורית ופרטית על זכויות קניין",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-27",
+      "dateModified": "2026-05-27",
+      "summaryHe": "המחקר שואל מהו החלק המיטבי של מגזר ציבורי ומגזר פרטי בהגנה על זכויות קניין, כאשר ההגנה עצמה משפיעה על תמריצים, השקעה וצמיחה. משום שהמקור הוא מודל תאורטי, הסיכום אינו מציג ממצא אמפירי נקודתי אלא את ההיגיון המוסדי: הגנה על קניין דורשת גם אכיפה ציבורית אמינה וגם יכולת פרטית להגן על חוזים, נכסים והשקעות בלי להפוך את הכוח הפרטי לתחליף לשלטון החוק."
+    },
     {
       "slug": "democracy_investor_protection_firm_liquidity_summary_he",
       "file": "democracy_investor_protection_firm_liquidity_summary_he.html",

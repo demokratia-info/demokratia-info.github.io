@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-27",
   "sampleSize": 6,
-  "seed": "2026-05-26-homepage-high-fit",
+  "seed": "2026-05-27-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 69,
+  "highFitPaperCount": 79,
   "paperSlugs": [
-    "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he",
-    "democracy_intellectual_property_rights_innovation_growth_meta_analysis_summary_he",
-    "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he",
-    "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he",
-    "democracy_palestinian_ngos_in_israel_a_campaign_for_civic_equality_or_ethnic_civil_society_summary_he",
-    "democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he"
+    "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he",
+    "democracy_language_law_in_israel_summary_he",
+    "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he",
+    "democracy_investor_protection_firm_liquidity_summary_he",
+    "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he",
+    "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he"
   ]
 }
