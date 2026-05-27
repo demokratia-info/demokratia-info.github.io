@@ -8,9 +8,9 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
-  "authorsCardHe": "Eyāl Benveniśtî",
+  "authorsCardHe": "Eyal Benvenisti",
   "paperTitle": "The Influence of International Human Rights Law on the Israeli Legal System: Present and Future",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4568-9991\" target=\"_blank\" rel=\"noopener noreferrer\">Eyāl Benveniśtî</a>",
+  "authorsHtml": "<a href=\"https://law.tau.ac.il/profile/ebenve\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Benvenisti</a>",
   "journal": "Israel Law Review",
   "dateText": "פורסם: 1994",
   "doiUrl": "https://doi.org/10.1017/s0021223700017064",
@@ -18,15 +18,15 @@
   "authors": [
     {
       "@type": "Person",
-      "name": "Eyāl Benveniśtî",
-      "url": "https://orcid.org/0000-0003-4568-9991"
+      "name": "Eyal Benvenisti",
+      "url": "https://law.tau.ac.il/profile/ebenve"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
-      "name": "Eyāl Benveniśtî",
-      "url": "https://orcid.org/0000-0003-4568-9991"
+      "name": "Eyal Benvenisti",
+      "url": "https://law.tau.ac.il/profile/ebenve"
     }
   ],
   "topics": [
@@ -49,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-05-27",
+  "lastUpdatedHe": "27 במאי 2026",
   "oneLinerHtml": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית ומראה מדוע הדיון קשור לחוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
