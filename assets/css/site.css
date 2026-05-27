@@ -152,6 +152,18 @@ li { margin: 0 0 6px; }
 .feedback-source { max-width: 720px; margin: 18px 0 0; padding: 12px 14px; border: 1px solid var(--line); border-radius: 6px; background: #eef3f4; color: var(--accent-dark); font-size: 16px; font-weight: 700; }
 .feedback-source-link { unicode-bidi: plaintext; }
 .suggestion-form, .feedback-form { display: grid; gap: 18px; max-width: 680px; margin: 26px 0 0; }
+.privacy-notice {
+  max-width: 720px;
+  margin: 22px 0 0;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-right: 4px solid var(--accent);
+  border-radius: 6px;
+  background: #f7faf9;
+}
+.suggest-main .privacy-notice { border-right-width: 1px; border-left: 4px solid var(--accent); }
+.simple-main .privacy-notice h2 { margin: 0 0 6px; font-size: 20px; line-height: 1.25; }
+.simple-main .privacy-notice p { margin: 0; color: var(--muted); font-size: 15px; line-height: 1.55; }
 .form-field { display: grid; gap: 7px; }
 .form-label { color: var(--accent-dark); font-size: 16px; font-weight: 700; line-height: 1.3; }
 .form-control {

@@ -10,6 +10,11 @@ noindex: true
 
 <p class="feedback-intro">מסך זה מיועד לעורכי האתר. רשימת המחברים והכתובות נטענת רק לאחר הזנת סיסמת עורך. סימון בעמוד זה אינו שולח דוא"ל מיד; השליחה בפועל מתבצעת רק באמצעות הסקריפט המקומי.</p>
 
+<section class="privacy-notice" aria-labelledby="authorMailerPrivacyHeading">
+  <h2 id="authorMailerPrivacyHeading">הודעת פרטיות קצרה</h2>
+  <p>מסך זה שולח סיסמת עורך לאימות ואינו שומר אותה. לאחר כניסה, המערכת מציגה ושומרת סימוני שליחה, הערות עורך וסטטוסי טיפול על הודעות למחברים; התור עצמו כולל שמות מחברים, כתובות דוא"ל, קישורי מאמרים ונתוני שליחה. המידע משמש רק לניהול הודעות למחברים, נשמר במאגר התפעולי הפרטי <code>democracy-paper-suggestions-private</code>, ונגיש רק לעורכי האתר ולמתחזקים מורשים. מחבר/ת או עורך/ת יכולים לבקש מחיקה, תיקון או הפסקת פנייה בכתובת <a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a>.</p>
+</section>
+
 <section class="feedback-editor-panel author-mailer-panel"
          data-author-mailer
          data-endpoint="{{ site.data.site.authorNoticeEditorEndpoint | default: '' | escape }}">

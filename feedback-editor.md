@@ -10,6 +10,11 @@ noindex: true
 
 <p class="feedback-intro">מסך זה מיועד לעורכי האתר. תוכן התור, כולל תצוגות מקדימות של תמונות מוצעות, נטען רק לאחר הזנת סיסמת עורך.</p>
 
+<section class="privacy-notice" aria-labelledby="feedbackEditorPrivacyHeading">
+  <h2 id="feedbackEditorPrivacyHeading">הודעת פרטיות קצרה</h2>
+  <p>מסך זה שולח סיסמת עורך לאימות ואינו שומר אותה. לאחר כניסה, המערכת מציגה ושומרת שינויי סטטוס והערות עורך על בקשות תיקון, כולל פרטי קשר ותמונות שהוגשו דרך טופס ההערות. המידע משמש לניהול תיקונים באתר, נשמר במאגר התפעולי הפרטי <code>democracy-paper-suggestions-private</code>, ונגיש רק לעורכי האתר ולמתחזקים מורשים. לבקשת מחיקה של רשומה או פרטי קשר כתבו ל־<a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a>.</p>
+</section>
+
 <section class="feedback-editor-panel"
          data-feedback-editor
          data-endpoint="{{ site.data.site.feedbackEditorEndpoint | default: '' | escape }}"
