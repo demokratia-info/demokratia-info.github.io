@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 639,
+  "paperCount": 649,
   "papers": [
+    {
+      "slug": "democracy_redistribution_inequality_growth_summary_he",
+      "file": "democracy_redistribution_inequality_growth_summary_he.html",
+      "permalink": "/democracy_redistribution_inequality_growth_summary_he.html",
+      "sortKey": 202605280010,
+      "titleHe": "אי־שוויון נטו נמוך יותר קשור לצמיחה ממושכת יותר",
+      "paperTitle": "Redistribution, inequality, and growth: new evidence",
+      "authorsCardHe": "Andrew Berg, Jonathan D. Ostry, Charalambos G. Tsangarides, Yorbol Yakhshilikov",
+      "sourceAuthors": [
+        "Andrew Berg",
+        "Jonathan D. Ostry",
+        "Charalambos G. Tsangarides",
+        "Yorbol Yakhshilikov"
+      ],
+      "journal": "Journal of Economic Growth, 23(3), 259-305",
+      "dateText": "פורסם אונליין: 26 ביוני 2018; גיליון: ספטמבר 2018",
+      "doiUrl": "https://doi.org/10.1007/s10887-017-9150-2",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_redistribution_inequality_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על חלוקה מחדש, אי־שוויון וצמיחה בחדר מדיניות ציבורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Berg, Ostry, Tsangarides ו־Yakhshilikov משתמשים במאגר חדש יחסית שמבחין בין אי־שוויון שוק לבין אי־שוויון לאחר מסים והעברות, ומחשב את היקף החלוקה מחדש במדינות מפותחות ומתפתחות. הממצא המרכזי הוא שאי־שוויון נטו נמוך יותר קשור באופן עקבי לצמיחה מהירה וממושכת יותר, בעוד שחלוקה מחדש כשלעצמה נראית בדרך כלל ניטרלית מבחינת צמיחה, למעט מקרים רחבים במיוחד. המאמר מחזק טענה ליברלית־דמוקרטית שלפיה שוויון אזרחי והזדמנות כלכלית אינם עומדים בהכרח מול יעילות כלכלית."
+    },
+    {
+      "slug": "democracy_institutional_quality_aid_volatility_growth_summary_he",
+      "file": "democracy_institutional_quality_aid_volatility_growth_summary_he.html",
+      "permalink": "/democracy_institutional_quality_aid_volatility_growth_summary_he.html",
+      "sortKey": 202605280009,
+      "titleHe": "מוסדות חזקים מרככים את נזקי תנודתיות הסיוע הזר",
+      "paperTitle": "The impact of the Interaction between institutional quality and aid volatility on growth: theory and evidence",
+      "authorsCardHe": "Jay Kathavate, Girijasankar Mallik",
+      "sourceAuthors": [
+        "Jay Kathavate",
+        "Girijasankar Mallik"
+      ],
+      "journal": "Economic Modelling, 29(3), 716-724",
+      "dateText": "פורסם אונליין: 24 בפברואר 2012; גיליון: מאי 2012",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2012.01.020",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutional_quality_aid_volatility_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על איכות מוסדית ותנודתיות סיוע בחדר תכנון מדיניות פיתוח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Kathavate ו־Mallik מפתחים מודל שבו ממשלה מקבלת סיוע פועלת בתוך סביבה מוסדית באיכות נתונה, ובוחרת כיצד להקצות את הסיוע. הם בוחנים נתוני פאנל על 78 מדינות בשנים 1984-2004 בעזרת GMM, ומוצאים שתנודתיות סיוע קשורה שלילית לצמיחה לנפש, אך שההשפעה השלילית מתמתנת כאשר איכות המוסדות גבוהה יותר. המאמר ממקם יציבות תקציבית, אחריותיות ויכולת ממשלתית בלב שאלת האפקטיביות של סיוע בין־לאומי."
+    },
+    {
+      "slug": "democracy_meso_institutions_unbundling_summary_he",
+      "file": "democracy_meso_institutions_unbundling_summary_he.html",
+      "permalink": "/democracy_meso_institutions_unbundling_summary_he.html",
+      "sortKey": 202605280008,
+      "titleHe": "מוסדות ביניים מסבירים איך כללים כלליים פועלים בשטח",
+      "paperTitle": "Unbundling institutions: the case for meso-institutions",
+      "authorsCardHe": "Claude Ménard, Gaetano Martino",
+      "sourceAuthors": [
+        "Claude Ménard",
+        "Gaetano Martino"
+      ],
+      "journal": "Journal of Institutional Economics, 21",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1017/s1744137425100192",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_meso_institutions_unbundling_summary_he.jpg",
+        "altHe": "איור עריכתי על מוסדות ביניים המחברים בין כללים ציבוריים ליישום מקומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Ménard ו־Martino טוענים שהדיון הכלכלי במוסדות התקדם אך עדיין סובל ממושג רחב מדי שמכסה מצבים שונים בלי מסגרת מחקר ברורה. הם מציעים לחשוב על <strong>meso-institutions</strong> כמכשירים ומנגנוני תמסורת שמחברים בין כללים, נורמות ואמונות ברמת המאקרו לבין תפיסה, התאמה, יישום או התנגדות של שחקנים ברמת המיקרו. המאמר תורם לשפה מדויקת יותר לניתוח מדוע רפורמות מוסדיות מצליחות במקום אחד ונכשלות במקום אחר."
+    },
+    {
+      "slug": "democracy_institutional_quality_growth_mics_hics_summary_he",
+      "file": "democracy_institutional_quality_growth_mics_hics_summary_he.html",
+      "permalink": "/democracy_institutional_quality_growth_mics_hics_summary_he.html",
+      "sortKey": 202605280007,
+      "titleHe": "איכות המערכת המשפטית וזכויות הקניין חשובה במיוחד לצמיחה",
+      "paperTitle": "Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000–2020",
+      "authorsCardHe": "Mirwais Parsa, Soumya Datta",
+      "sourceAuthors": [
+        "Mirwais Parsa",
+        "Soumya Datta"
+      ],
+      "journal": "International Economic Journal, 37(4), 675-712",
+      "dateText": "פורסם אונליין: 2 באוקטובר 2023; גיליון: 2023",
+      "doiUrl": "https://doi.org/10.1080/10168737.2023.2261012",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutional_quality_growth_mics_hics_summary_he.jpg",
+        "altHe": "איור עריכתי על איכות מוסדית, מערכת משפטית וזכויות קניין במחקר השוואתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Parsa ו־Datta בונים שלושה מדדים משוקללים מתוך 20 אינדיקטורים מוסדיים ומנתחים פאנל של 77 מדינות, בחלוקה למדינות הכנסה בינונית וגבוהה. בעזרת GMM הם מוצאים שמוסדות משפיעים על צמיחה בעיקר דרך השקעה ומסחר יותר מאשר דרך פריון כולל, וששיפור איכות המערכת המשפטית וזכויות הקניין מניב תועלת גדולה במיוחד בתוצר לנפש. הממצאים מבחינים גם בין מדינות הכנסה בינונית, שנהנות יותר משיפור משפט וקניין, לבין מדינות הכנסה גבוהה, שנהנות יותר משיפור הסביבה הרגולטורית."
+    },
+    {
+      "slug": "democracy_public_capital_growth_efficiency_summary_he",
+      "file": "democracy_public_capital_growth_efficiency_summary_he.html",
+      "permalink": "/democracy_public_capital_growth_efficiency_summary_he.html",
+      "sortKey": 202605280006,
+      "titleHe": "תשתיות ציבוריות תורמות לצמיחה רק כשהן ממומנות ומנוהלות היטב",
+      "paperTitle": "Public Capital and Economic Growth: Issues of Quantity, Finance, and Efficiency",
+      "authorsCardHe": "David Alan Aschauer",
+      "sourceAuthors": [
+        "David Alan Aschauer"
+      ],
+      "journal": "Economic Development and Cultural Change, 48(2), 391-406",
+      "dateText": "פורסם: ינואר 2000",
+      "doiUrl": "https://doi.org/10.1086/452464",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_capital_growth_efficiency_summary_he.jpg",
+        "altHe": "איור עריכתי על תכנון תשתיות ציבוריות, מימון ויעילות בחדר מדיניות עירוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Aschauer בוחן את הספרות התאורטית והאמפירית על הון ציבורי וצמיחה, ומציע מסגרת משותפת לניתוח הכמות, המימון והיעילות של הון ציבורי. התקציר מציין שמחקרים רבים מצאו תפקיד חיובי לכמות ההון הציבורי בתוצר לנפש ובצמיחה מעברית, אך גם שמימון ממשלתי יקר דרך מסים עלול לפגוע בצמיחה. החידוש הוא להעמיד יחד את השאלה כמה תשתית יש, איך משלמים עליה, וכמה טוב משתמשים בה."
+    },
+    {
+      "slug": "democracy_investor_protection_corporate_valuation_summary_he",
+      "file": "democracy_investor_protection_corporate_valuation_summary_he.html",
+      "permalink": "/democracy_investor_protection_corporate_valuation_summary_he.html",
+      "sortKey": 202605280005,
+      "titleHe": "הגנת משקיעי מיעוט מעלה את ערך החברות בשווקים עשירים",
+      "paperTitle": "Investor Protection and Corporate Valuation",
+      "authorsCardHe": "Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny",
+      "sourceAuthors": [
+        "Rafael La Porta",
+        "Florencio Lopez-de-Silanes",
+        "Andrei Shleifer",
+        "Robert W. Vishny"
+      ],
+      "journal": "The Journal of Finance, 57(3), 1147-1170",
+      "dateText": "פורסם: יוני 2002",
+      "doiUrl": "https://doi.org/10.1111/1540-6261.00457",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_investor_protection_corporate_valuation_summary_he.jpg",
+        "altHe": "איור עריכתי על הגנת משקיעי מיעוט, בעלי שליטה ושווי חברות בחדר ממשל תאגידי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "La Porta, Lopez-de-Silanes, Shleifer ו־Vishny מציגים מודל על השפעת ההגנה המשפטית על משקיעי מיעוט ועל בעלות תזרימית של בעל השליטה, ואז בוחנים אותו במדגם של 539 חברות גדולות מ־27 כלכלות עשירות. הם מוצאים ראיות לשווי גבוה יותר במדינות שבהן הגנת משקיעי המיעוט טובה יותר, וגם בחברות שבהן לבעל השליטה יש בעלות תזרימית גבוהה יותר. המאמר מציב את שלטון החוק התאגידי כתשתית כלכלית שמגינה על השתתפות הוגנת בשוק ההון."
+    },
+    {
+      "slug": "democracy_state_capacity_public_goods_china_summary_he",
+      "file": "democracy_state_capacity_public_goods_china_summary_he.html",
+      "permalink": "/democracy_state_capacity_public_goods_china_summary_he.html",
+      "sortKey": 202605280004,
+      "titleHe": "יכולת מדינתית חזקה יותר קשורה ליותר מוצרים ציבוריים ותפוקה בסין",
+      "paperTitle": "State capacity, economic output, and public goods in China",
+      "authorsCardHe": "Hua Cheng, Kishore Gawande, Shusen Qi",
+      "sourceAuthors": [
+        "Hua Cheng",
+        "Kishore Gawande",
+        "Shusen Qi"
+      ],
+      "journal": "World Development, 158, 105990",
+      "dateText": "פורסם אונליין: 15 ביוני 2022; גיליון: אוקטובר 2022",
+      "doiUrl": "https://doi.org/10.1016/j.worlddev.2022.105990",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_capacity_public_goods_china_summary_he.jpg",
+        "altHe": "איור עריכתי על יכולת מדינתית, מוצרים ציבוריים ותכנון מחוזי בסין",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Cheng, Gawande ו־Qi משתמשים בשונות היסטורית באבדות אוכלוסייה בשל שלוש מרידות בשנים 1851-1880 ככלי לזיהוי שונות גאוגרפית ביכולת מדינתית מודרנית. לפי תקציר המקור, מחוזות עם יכולת מדינתית גבוהה בסטיית תקן אחת מציגים פעילות חברתית־כלכלית גבוהה בכ־84%, וההשפעה עוברת דרך הוצאות ממשלה גבוהות יותר, מוצרים ציבוריים טובים יותר והשקעה פרטית מתומרצת יותר. המאמר מסייע להבחין בין מדינה חזקה במובן של יכולת ציבורית לבין כוח שלטוני בלתי מוגבל."
+    },
+    {
+      "slug": "democracy_corruption_stock_markets_institutions_summary_he",
+      "file": "democracy_corruption_stock_markets_institutions_summary_he.html",
+      "permalink": "/democracy_corruption_stock_markets_institutions_summary_he.html",
+      "sortKey": 202605280003,
+      "titleHe": "שחיתות פוגעת בתשואות שוקי מניות, אך סוג המוסד משנה את התוצאה",
+      "paperTitle": "Does corruption matter for stock markets? The role of heterogeneous institutions",
+      "authorsCardHe": "Geeta Lakshmi, Shrabani Saha, Keshab Bhattarai",
+      "sourceAuthors": [
+        "Geeta Lakshmi",
+        "Shrabani Saha",
+        "Keshab Bhattarai"
+      ],
+      "journal": "Economic Modelling, 94, 386-400",
+      "dateText": "פורסם אונליין: 22 באוקטובר 2020; גיליון: ינואר 2021",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2020.10.011",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_corruption_stock_markets_institutions_summary_he.jpg",
+        "altHe": "איור עריכתי על שחיתות, מוסדות הטרוגניים ושוקי מניות בחדר פיקוח פיננסי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Lakshmi, Saha ו־Bhattarai מנתחים נתונים חודשיים על ברזיל, רוסיה, הודו וסין בשנים 1995-2014 בעזרת מודלי פאנל ו־Extreme Bounds Analysis. הם מוצאים ששחיתות ומוסדות חלשים נוטים להוריד תשואות מניות, אך אינטראקציות מוסדיות יוצרות תמונה מורכבת: איכות בירוקרטית יכולה למתן את הנזק, בעוד שחיתות בתוך סביבת חוק וסדר עלולה להוריד תשואות. המאמר מציע לחשוב על מוסדות כמשפחה של מנגנונים שונים ולא כמדד איכות אחד."
+    },
+    {
+      "slug": "democracy_rule_of_law_tourism_budget_indian_states_summary_he",
+      "file": "democracy_rule_of_law_tourism_budget_indian_states_summary_he.html",
+      "permalink": "/democracy_rule_of_law_tourism_budget_indian_states_summary_he.html",
+      "sortKey": 202605280002,
+      "titleHe": "שלטון החוק משפיע על תקציבי תיירות בין מדינות בהודו",
+      "paperTitle": "Relating rule of law and budgetary allocation for tourism: Does per capita income growth make a difference for Indian states?",
+      "authorsCardHe": "Nabamita Dutta, Saibal Kar",
+      "sourceAuthors": [
+        "Nabamita Dutta",
+        "Saibal Kar"
+      ],
+      "journal": "Economic Modelling, 71, 263-271",
+      "dateText": "פורסם אונליין: 12 בינואר 2018; גיליון: אפריל 2018",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2017.12.017",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_rule_of_law_tourism_budget_indian_states_summary_he.jpg",
+        "altHe": "איור עריכתי על שלטון החוק, תקצוב תיירות ותכנון ציבורי במדינות הודו",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Dutta ו־Kar משתמשים באמידות פאנל דינמיות כדי לבדוק כיצד שלטון החוק משפיע על הקצאת תקציבי תיירות מן המרכז למדינות הודו. הממצא המרכזי הוא שהידרדרות בשלטון החוק במדינה קשורה לירידה בהקצאת התקציב לתיירות, אך הירידה קטנה יותר במדינות עשירות יותר. מבחינת מדיניות, המאמר מציג את שלטון החוק והתקצוב הציבורי כמנגנונים משלימים לפיתוח מקומי."
+    },
+    {
+      "slug": "democracy_corruption_tax_evasion_growth_summary_he",
+      "file": "democracy_corruption_tax_evasion_growth_summary_he.html",
+      "permalink": "/democracy_corruption_tax_evasion_growth_summary_he.html",
+      "sortKey": 202605280001,
+      "titleHe": "שחיתות פיסקלית משנה את הקשר בין מסים, גבייה וצמיחה",
+      "paperTitle": "Economic growth, corruption and tax evasion",
+      "authorsCardHe": "Roy Cerqueti, Raffaella Coppier",
+      "sourceAuthors": [
+        "Roy Cerqueti",
+        "Raffaella Coppier"
+      ],
+      "journal": "Economic Modelling, 28(1-2), 489-500",
+      "dateText": "פורסם אונליין: 16 בספטמבר 2010; גיליון: ינואר 2011",
+      "doiUrl": "https://doi.org/10.1016/j.econmod.2010.07.006",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_corruption_tax_evasion_growth_summary_he.jpg",
+        "altHe": "איור עריכתי על שחיתות פיסקלית, התחמקות ממס וצמיחה במשרד כספים ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-28",
+      "dateModified": "2026-05-28",
+      "summaryHe": "Cerqueti ו־Coppier מפתחים מודל צמיחה מסוג Ramsey עם מוצר ציבורי יריבי אך לא־ניתן להדרה, שממומן ממסים שניתן להתחמק מהם באמצעות פקח מס מושחת. הם מראים שהיחס בין שיעור המס לבין גביית המס בדינמיקה של צמיחה אינו יחיד, ותלוי בין היתר בעוצמת אפקט הבושה במדינה. לפי התקציר, שיעורי הצמיחה של הכנסה ושל הכנסות ממסים יורדים כאשר שיעור המס עולה, אך הירידה חדה יותר במדינות שבהן אפקט הבושה נמוך."
+    },
     {
       "slug": "democracy_democracy_growth_sub_saharan_africa_summary_he",
       "file": "democracy_democracy_growth_sub_saharan_africa_summary_he.html",

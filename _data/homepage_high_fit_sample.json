@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-27",
+  "lastUpdated": "2026-05-28",
   "sampleSize": 6,
-  "seed": "2026-05-27-homepage-high-fit",
+  "seed": "2026-05-28-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 79,
+  "highFitPaperCount": 89,
   "paperSlugs": [
-    "democracy_a_jewish_and_democratic_state_comparing_government_involvement_in_religion_in_israel_with_other_democracies_summary_he",
-    "democracy_language_law_in_israel_summary_he",
-    "democracy_from_supra_constitutional_principles_to_the_misuse_of_constituent_power_in_israel_summary_he",
-    "democracy_investor_protection_firm_liquidity_summary_he",
-    "democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he",
-    "democracy_redrawing_the_boundaries_of_citizenship_israel_s_new_hegemony_summary_he"
+    "democracy_institutional_quality_aid_volatility_growth_summary_he",
+    "democracy_taxpayer_apathy_institutional_inertia_growth_summary_he",
+    "democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he",
+    "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he",
+    "democracy_the_israeli_supreme_court_and_the_human_rights_revolution_courts_as_agenda_setters_summary_he",
+    "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he"
   ]
 }

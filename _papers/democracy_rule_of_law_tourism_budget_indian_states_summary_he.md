@@ -1,0 +1,140 @@
+---
+{
+  "version": 1,
+  "file": "democracy_rule_of_law_tourism_budget_indian_states_summary_he.html",
+  "slug": "democracy_rule_of_law_tourism_budget_indian_states_summary_he",
+  "titleHe": "שלטון החוק משפיע על תקציבי תיירות בין מדינות בהודו",
+  "subtitleHe": "",
+  "descriptionHe": "המאמר בוחן כיצד הידרדרות בשלטון החוק במדינות הודו משפיעה על הקצאות תקציב פדרליות לתיירות, והאם הכנסה לנפש משנה את גודל הפגיעה. הוא מציג את שלטון החוק כתנאי מעשי להשקעה ציבורית, לא רק כערך משפטי מופשט.",
+  "summaryHe": "Dutta ו־Kar משתמשים באמידות פאנל דינמיות כדי לבדוק כיצד שלטון החוק משפיע על הקצאת תקציבי תיירות מן המרכז למדינות הודו. הממצא המרכזי הוא שהידרדרות בשלטון החוק במדינה קשורה לירידה בהקצאת התקציב לתיירות, אך הירידה קטנה יותר במדינות עשירות יותר. מבחינת מדיניות, המאמר מציג את שלטון החוק והתקצוב הציבורי כמנגנונים משלימים לפיתוח מקומי.",
+  "authorsCardHe": "Nabamita Dutta, Saibal Kar",
+  "paperTitle": "Relating rule of law and budgetary allocation for tourism: Does per capita income growth make a difference for Indian states?",
+  "authorsHtml": "<a href=\"https://www.uwlax.edu/profile/ndutta/\" target=\"_blank\" rel=\"noopener noreferrer\">Nabamita Dutta</a>; <a href=\"https://www.cssscal.org/faculty_saibal_kar.php\" target=\"_blank\" rel=\"noopener noreferrer\">Saibal Kar</a>",
+  "journal": "Economic Modelling, 71, 263-271",
+  "dateText": "פורסם אונליין: 12 בינואר 2018; גיליון: אפריל 2018",
+  "doiUrl": "https://doi.org/10.1016/j.econmod.2017.12.017",
+  "doiLabel": "https://doi.org/10.1016/j.econmod.2017.12.017",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Nabamita Dutta",
+      "url": "https://www.uwlax.edu/profile/ndutta/"
+    },
+    {
+      "@type": "Person",
+      "name": "Saibal Kar",
+      "url": "https://www.cssscal.org/faculty_saibal_kar.php"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Nabamita Dutta",
+      "url": "https://www.uwlax.edu/profile/ndutta/"
+    },
+    {
+      "@type": "Person",
+      "name": "Saibal Kar",
+      "url": "https://www.cssscal.org/faculty_saibal_kar.php"
+    }
+  ],
+  "topics": [
+    "constitutionalism-courts-rule-of-law",
+    "democratic-institutions-economic-prosperity",
+    "institutions-civil-society-public-service"
+  ],
+  "keywords": [
+    "שלטון החוק",
+    "תקצוב",
+    "תיירות",
+    "הודו",
+    "מדינות פדרליות",
+    "הכנסה לנפש",
+    "מדיניות ציבורית"
+  ],
+  "image": {
+    "src": "html_qa/democracy_rule_of_law_tourism_budget_indian_states_summary_he.jpg",
+    "version": "2026-05-28-nightly",
+    "altHe": "איור עריכתי על שלטון החוק, תקצוב תיירות ותכנון ציבורי במדינות הודו",
+    "fitness": "high"
+  },
+  "datePublished": "2026-05-28",
+  "dateModified": "2026-05-28",
+  "lastUpdatedHe": "28 במאי 2026",
+  "oneLinerHtml": "המאמר מראה שהידרדרות בשלטון החוק במדינות הודו קשורה לירידה בתקציבי תיירות מן המרכז. הירידה קטנה יותר במדינות עשירות, ולכן שלטון החוק והכנסה מקומית פועלים יחד בעיצוב התקציב.",
+  "sections": [
+    {
+      "headingHe": "מושגי יסוד בקצרה",
+      "paragraphsHtml": [
+        "<strong>שלטון החוק</strong> כולל ביטחון אישי, אכיפה הוגנת, אמון במשטרה ובמערכת המשפט וצמצום הפרות סדר. בתיירות, רכיבים אלה משפיעים על יכולת למשוך מבקרים, להשקיע בתשתיות ולהפעיל שירותים."
+      ]
+    },
+    {
+      "headingHe": "מה שאלת המחקר המרכזית?",
+      "paragraphsHtml": [
+        "המאמר שואל כיצד שלטון החוק במדינות הודו משפיע על הקצאות תקציב פדרליות לתיירות. הוא מוסיף שאלה משלימה: האם מדינות עשירות ועניות נפגעות באותה מידה כאשר שלטון החוק מתדרדר."
+      ]
+    },
+    {
+      "headingHe": "למה תיירות היא מקרה מבחן חשוב?",
+      "paragraphsHtml": [
+        "תיירות תלויה בתשתיות, ביטחון, נגישות ותדמית ציבורית. גם מדינה עם אתרי תיירות רבים עלולה למצות פחות את הפוטנציאל שלה אם אין תקציב ייעודי ושלטון חוק יציב."
+      ]
+    },
+    {
+      "headingHe": "כיצד אפשר לצפות שהמרכז יגיב להידרדרות בשלטון החוק?",
+      "paragraphsHtml": [
+        "תאורטית, המרכז יכול להגדיל תקציב כדי לשקם תיירות במדינה שנפגעה מאי־סדר. הוא יכול גם להפחית תקציב כדי לא לתגמל מדינה שאינה מצליחה לשמור על תנאים בסיסיים לפעילות תיירותית."
+      ]
+    },
+    {
+      "headingHe": "מה מצאו המחברים בפועל?",
+      "paragraphsHtml": [
+        "המחקר מוצא שהקצאת תקציבי תיירות מגיבה שלילית כאשר שלטון החוק מתדרדר במדינה. כלומר, הידרדרות מוסדית אינה מובילה אוטומטית לחילוץ תקציבי, אלא יכולה לצמצם את התמיכה."
+      ]
+    },
+    {
+      "headingHe": "כיצד הכנסה לנפש משנה את התמונה?",
+      "paragraphsHtml": [
+        "הממצאים מראים שהירידה בתקציב קטנה יותר במדינות עשירות יותר. המשמעות היא שהכנסה מקומית יכולה לרכך את הפגיעה התקציבית שנובעת מהידרדרות בשלטון החוק."
+      ]
+    },
+    {
+      "headingHe": "מה המשמעות לפדרליזם תקציבי?",
+      "paragraphsHtml": [
+        "המאמר מציג תקצוב בין־ממשלתי כמנגנון שמגיב לאיכות מוסדית מקומית. במערכת פדרלית, החלטות המרכז אינן נובעות רק מצרכים כלכליים אלא גם ממדדי ממשל וסדר ציבורי."
+      ]
+    },
+    {
+      "headingHe": "למה שלטון החוק ותקציב הם משלימים?",
+      "paragraphsHtml": [
+        "ללא שלטון חוק, תקציב תיירות עלול להיות פחות יעיל משום שמשקיעים ומבקרים חוששים מסיכון. ללא תקציב, גם מדינה עם שלטון חוק טוב יכולה להתקשות לבנות תשתיות ושיווק."
+      ]
+    },
+    {
+      "headingHe": "מה הלקח למדיניות פיתוח מקומית?",
+      "paragraphsHtml": [
+        "מדיניות פיתוח צריכה לשלב השקעה כלכלית עם שיפור מוסדי. כאשר מטפלים רק בתקציב ומתעלמים מאכיפה, ביטחון ואמון, התוצאה עלולה להיות השקעה שאינה מניבה את מלוא התועלת."
+      ]
+    },
+    {
+      "headingHe": "האם הממצא חל רק על תיירות?",
+      "paragraphsHtml": [
+        "המחקר עוסק בתיירות, אך ההיגיון רחב יותר. תחומי מדיניות שתלויים באמון, תשתיות ופעילות פרטית יכולים להיות רגישים באופן דומה לאיכות שלטון החוק."
+      ]
+    },
+    {
+      "headingHe": "מהי התובנה הדמוקרטית המרכזית?",
+      "paragraphsHtml": [
+        "שלטון החוק הוא תשתית לפיתוח ולא רק עיקרון משפטי. כאשר הוא נשחק, ההפסד יכול להופיע גם בתקציבים, בהזדמנויות מקומיות וביכולת של אזרחים ליהנות מפירות הצמיחה."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "שלטון החוק משפיע על תקציבי תיירות בין מדינות בהודו",
+  "permalink": "/democracy_rule_of_law_tourism_budget_indian_states_summary_he.html",
+  "paper_url": "democracy_rule_of_law_tourism_budget_indian_states_summary_he.html",
+  "sortKey": 202605280002,
+  "sourcePublishedDate": "2018-01-12"
+}
+---
