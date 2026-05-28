@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 649,
+  "paperCount": 659,
   "papers": [
+    {
+      "slug": "democracy_political_scientists_owe_democracy_summary_he",
+      "file": "democracy_political_scientists_owe_democracy_summary_he.html",
+      "permalink": "/democracy_political_scientists_owe_democracy_summary_he.html",
+      "sortKey": 202605290010,
+      "titleHe": "מדעני מדינה יכולים להיות שומרי סף במשבר דמוקרטי",
+      "paperTitle": "What Political Scientists Owe Democracy",
+      "authorsCardHe": "Hanna Lerner, Osnat Akirav, Liron Lavi, Yael Shomer, Gayil Talshir",
+      "sourceAuthors": [
+        "Hanna Lerner",
+        "Osnat Akirav",
+        "Liron Lavi",
+        "Yael Shomer",
+        "Gayil Talshir"
+      ],
+      "journal": "Journal of Democracy, 36(4), 65-74",
+      "dateText": "גיליון אוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1353/jod.2025.a970349",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_scientists_owe_democracy_summary_he.jpg",
+        "altHe": "חוקרי מדע המדינה סביב שולחן עבודה אזרחי בעת משבר דמוקרטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Lerner, Akirav, Lavi, Shomer ו־Talshir מתארות מודל של אקטיביזם אקדמי מאורגן שבו חוקרי מדע המדינה פועלים יחד ובמקביל כיחידים כדי להגן על כללי המשחק הדמוקרטיים. הן משתמשות במקרה הישראלי של מחאות נגד נסיגה דמוקרטית מאז ינואר 2023 כדי להראות כיצד מומחיות, הסברה וייעוץ אסטרטגי יכולים לעצב שיח ציבורי בלי לוותר על אחריות מקצועית. המאמר מבליט גם את המתח בין ניטרליות אקדמית, קיימות ארגונית ותמיכה מוסדית."
+    },
+    {
+      "slug": "democracy_pitkinian_public_representation_citizens_summary_he",
+      "file": "democracy_pitkinian_public_representation_citizens_summary_he.html",
+      "permalink": "/democracy_pitkinian_public_representation_citizens_summary_he.html",
+      "sortKey": 202605290009,
+      "titleHe": "אזרחים שופטים ייצוג פרלמנטרי כמערכת רב־ממדית",
+      "paperTitle": "The Pitkinian public: representation in the eyes of citizens",
+      "authorsCardHe": "Liron Lavi, Clareta Treger, Naama Rivlin-Angert, Tamir Sheafer, Israel Waismel-Manor, Shaul R. Shenhav, Liran Harsgor, Michal Shamir",
+      "sourceAuthors": [
+        "Liron Lavi",
+        "Clareta Treger",
+        "Naama Rivlin-Angert",
+        "Tamir Sheafer",
+        "Israel Waismel-Manor",
+        "Shaul R. Shenhav",
+        "Liran Harsgor",
+        "Michal Shamir"
+      ],
+      "journal": "European Political Science, 23(4), 506-526",
+      "dateText": "גיליון דצמבר 2024",
+      "doiUrl": "https://doi.org/10.1057/s41304-024-00489-2",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pitkinian_public_representation_citizens_summary_he.jpg",
+        "altHe": "אזרחים וחוקרים בוחנים ייצוג פוליטי בחדר דיון פרלמנטרי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Lavi, Treger, Rivlin-Angert, Sheafer, Waismel-Manor, Shenhav, Harsgor ו־Shamir מציעים מסגרת שמחברת בין מושג הייצוג של Pitkin לבין הבחנה בין ייצוג זוגי של נציג מסוים לבין ייצוג קולקטיבי של הפרלמנט. באמצעות פריטי סקר מקוריים בישראל, הם מוצאים שאזרחים חושבים על ייצוג כרב־ממדי אך מייחסים פחות ערך לממדים תיאוריים וסמליים של עמידה במקום הציבור. עמדות דמוקרטיות, לפי התקציר, מעוצבות יותר מהערכת הייצוג הקולקטיבי על ידי הכנסת מאשר מהערכת נציג יחיד."
+    },
+    {
+      "slug": "democracy_israel_political_developments_2024_summary_he",
+      "file": "democracy_israel_political_developments_2024_summary_he.html",
+      "permalink": "/democracy_israel_political_developments_2024_summary_he.html",
+      "sortKey": 202605290008,
+      "titleHe": "שנת 2024 בישראל שילבה מלחמה, מחאה ומבחני משילות",
+      "paperTitle": "Israel: Political Developments and Data in 2024",
+      "authorsCardHe": "Liran Harsgor, Roi Zur",
+      "sourceAuthors": [
+        "Liran Harsgor",
+        "Roi Zur"
+      ],
+      "journal": "European Journal of Political Research Political Data Yearbook, 64(1), 327-347",
+      "dateText": "גיליון דצמבר 2025",
+      "doiUrl": "https://doi.org/10.1111/2047-8852.70032",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_political_developments_2024_summary_he.jpg",
+        "altHe": "חזית הכנסת בירושלים כמוקד של משילות, מחאה ומחלוקת חוקתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Harsgor ו־Zur מתארים את 2024 כשנה שבה מלחמת עזה נמשכה והתרחבה לעימותים ישירים עם חיזבאללה ואיראן, לצד התקפות חות׳יות שהוסיפו אי־יציבות אזורית. בזירה הפנימית הם מציינים התפצלות ויציאה של מרכיבים מתוך המחנה הממלכתי והקואליציה, המשך מחאות סביב ניהול המלחמה ועסקאות החטופים, ומתחים סביב פטורי שירות. התקציר מציין גם צמיחת תוצר של 0.9 אחוז, אינפלציה של 3.2 אחוז, הורדות דירוג אשראי ופסיקה תקדימית של בית המשפט העליון בדבר ביקורת שיפוטית על חוקי יסוד."
+    },
+    {
+      "slug": "democracy_deep_securitization_demographic_demon_summary_he",
+      "file": "democracy_deep_securitization_demographic_demon_summary_he.html",
+      "permalink": "/democracy_deep_securitization_demographic_demon_summary_he.html",
+      "sortKey": 202605290007,
+      "titleHe": "חרדה דמוגרפית יכולה להפוך לשפת ביטחון עמוקה",
+      "paperTitle": "Deep Securitization and Israel’s “Demographic Demon”",
+      "authorsCardHe": "Uriel Abulof",
+      "sourceAuthors": [
+        "Uriel Abulof"
+      ],
+      "journal": "International Political Sociology, 8(4), 396-415",
+      "dateText": "פורסם אונליין: 18 בדצמבר 2014; גיליון דצמבר 2014",
+      "doiUrl": "https://doi.org/10.1111/ips.12070",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_deep_securitization_demographic_demon_summary_he.jpg",
+        "altHe": "חוקרים בחדר מדיניות בוחנים מפות דמוגרפיה, ביטחון וזכויות אזרח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Abulof טוען שתיאוריית הסקיוריטיזציה הקלאסית, המדגישה הבניה של ביטחון כפעולת דיבור, אינה מספקת כאשר חברה חיה בתוך אי־ודאות קיומית עמוקה ומתמשכת. הוא מציע את המושג סקיוריטיזציה עמוקה כדי לתאר שיח ציבורי נרחב שמציג איומים כסבירים, מתמשכים ומסכנים את עצם קיום האומה או המדינה. המקרה הישראלי משמש לבחינת סקיוריטיזציה של דמוגרפיה והקשר שלה לגאוגרפיה ולדמוקרטיה בשיח ובפרקטיקה הישראליים־יהודיים."
+    },
+    {
+      "slug": "democracy_ideological_group_attachment_israel_summary_he",
+      "file": "democracy_ideological_group_attachment_israel_summary_he.html",
+      "permalink": "/democracy_ideological_group_attachment_israel_summary_he.html",
+      "sortKey": 202605290006,
+      "titleHe": "הזדהות עם מחנה אידיאולוגי מייצבת הצבעה במערכת רב־מפלגתית",
+      "paperTitle": "The importance of attachment to an ideological group in multi-party systems: Evidence from Israel",
+      "authorsCardHe": "Odelia Oshri, Omer Yair, Leonie Huddy",
+      "sourceAuthors": [
+        "Odelia Oshri",
+        "Omer Yair",
+        "Leonie Huddy"
+      ],
+      "journal": "Party Politics, 28(6), 1164-1175",
+      "dateText": "פורסם אונליין: 27 בספטמבר 2021; גיליון נובמבר 2022",
+      "doiUrl": "https://doi.org/10.1177/13540688211044475",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ideological_group_attachment_israel_summary_he.jpg",
+        "altHe": "משתתפים וחוקרים בוחנים מחנות אידיאולוגיים בחדר סקר פוליטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Oshri, Yair ו־Huddy מפתחים ומיישמים סולם התקשרות למחנה אידיאולוגי בשני מחקרים שנערכו בישראל עם 1,320 משתתפים. הם מוצאים שהתקשרות כזאת קשורה בחוזקה לבחירת מפלגה ולהשתתפות פוליטית, ושכוחה עצמאי ואף חזק יותר מאידיאולוגיה מבוססת סוגיות ומעוצמת זהות מפלגתית. ניסויי סקר מראים שמשיבים בעלי התקשרות גבוהה מגיבים ביותר כעס או התלהבות לאיום או להרגעה כלפי מעמד המחנה שלהם."
+    },
+    {
+      "slug": "democracy_boundary_national_stories_populist_right_summary_he",
+      "file": "democracy_boundary_national_stories_populist_right_summary_he.html",
+      "permalink": "/democracy_boundary_national_stories_populist_right_summary_he.html",
+      "sortKey": 202605290005,
+      "titleHe": "סיפורי גבול לאומיים מחזקים תמיכה בימין פופוליסטי רדיקלי",
+      "paperTitle": "Voices from the margins: How national stories are linked with support for populist radical right parties",
+      "authorsCardHe": "Odelia Oshri, Eran Amsalem, Shaul R. Shenhav",
+      "sourceAuthors": [
+        "Odelia Oshri",
+        "Eran Amsalem",
+        "Shaul R. Shenhav"
+      ],
+      "journal": "PLOS ONE, 19(8), e0305554",
+      "dateText": "פורסם: 12 באוגוסט 2024",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0305554",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_boundary_national_stories_populist_right_summary_he.jpg",
+        "altHe": "דיון קהילתי סביב מפה ונרטיבים לאומיים שמסמנים גבולות חברתיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Oshri, Amsalem ו־Shenhav משתמשים בסקרי בחירות ייצוגיים מקוריים בארבע דמוקרטיות מערביות כדי לבחון את הקשר בין סיפורי גבול לאומיים לבין תמיכה במפלגות ימין פופוליסטי רדיקלי. הם מוצאים שבוחרים המחזיקים בסיפור לאומי המדגיש גבולות ברורים בין “אנחנו” ו“הם” נוטים יותר להצביע למפלגות כאלה. לפי התקציר, ההשפעה בולטת במיוחד בקרב קבוצות שוליות, ולכן לנרטיבים לאומיים יש כוח גם מחבר וגם מפלג."
+    },
+    {
+      "slug": "democracy_polarization_moral_threat_summary_he",
+      "file": "democracy_polarization_moral_threat_summary_he.html",
+      "permalink": "/democracy_polarization_moral_threat_summary_he.html",
+      "sortKey": 202605290004,
+      "titleHe": "קיטוב נעשה מסוכן כשהיריב נתפס כאיום מוסרי",
+      "paperTitle": "Polarization and Moral Threat: Insights from Systemist Analysis",
+      "authorsCardHe": "Ilona Goldner, Pazit Ben‐Nun Bloom",
+      "sourceAuthors": [
+        "Ilona Goldner",
+        "Pazit Ben‐Nun Bloom"
+      ],
+      "journal": "Social Sciences, 12(8), 453",
+      "dateText": "פורסם: 14 באוגוסט 2023",
+      "doiUrl": "https://doi.org/10.3390/socsci12080453",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarization_moral_threat_summary_he.jpg",
+        "altHe": "סדנת גישור אזרחית שבה קבוצות פוליטיות מתמודדות עם איום מוסרי וקיטוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Goldner ו־Ben‐Nun Bloom מציעות סינתזה תיאורטית שמחברת בין מחקר על נכונות אמריקנים להחליף ערכים דמוקרטיים ביעדים מפלגתיים לבין מחקר על אסטרטגיות ניתוק מוסרי ותפקיד הטינה בעימותים מזוינים. הן טוענות שמוסר ממלא תפקיד כפול בקיטוב: הוא משתתף ביצירת עוינות מפלגתית וגם מזין את התמשכותה והחרפתה. התקציר מדגיש במיוחד את תפקיד שנאת קבוצת החוץ, יותר מאהבת קבוצת הפנים, בהנעת פעולות שליליות."
+    },
+    {
+      "slug": "democracy_religion_democratic_commitment_framework_summary_he",
+      "file": "democracy_religion_democratic_commitment_framework_summary_he.html",
+      "permalink": "/democracy_religion_democratic_commitment_framework_summary_he.html",
+      "sortKey": 202605290003,
+      "titleHe": "דתיות משפיעה על מחויבות דמוקרטית דרך מניעים והקשר",
+      "paperTitle": "Religion and Democratic Commitment: A Unifying Motivational Framework",
+      "authorsCardHe": "Pazit Ben‐Nun Bloom, Gizem Arikan, Allon Vishkin",
+      "sourceAuthors": [
+        "Pazit Ben‐Nun Bloom",
+        "Gizem Arikan",
+        "Allon Vishkin"
+      ],
+      "journal": "Political Psychology, 42(S1), 75-108",
+      "dateText": "פורסם אונליין: 23 באפריל 2021",
+      "doiUrl": "https://doi.org/10.1111/pops.12730",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_democratic_commitment_framework_summary_he.jpg",
+        "altHe": "דיון אזרחי בין משתתפים דתיים וחילונים על סובלנות והשתתפות דמוקרטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Ben‐Nun Bloom, Arikan ו־Vishkin טוענים שאין תשובה אחת לשאלה אם דתיות מקדמת או מעכבת מחויבות לדמוקרטיה. הם סוקרים מחקרים על תמיכה במערכת הדמוקרטית, השתתפות פוליטית וסובלנות פוליטית, ומראים שגישות רב־ממדיות קיימות עדיין אינן מסבירות די הצורך את הסתירות בממצאים. לכן הם מציעים את מודל REME, שממפה קשרים בין אמונה, התנהגות חברתית והתנהגות פרטית לבין המניעים הדתיים שמעצבים אותן."
+    },
+    {
+      "slug": "democracy_democratic_ideals_participation_social_rights_summary_he",
+      "file": "democracy_democratic_ideals_participation_social_rights_summary_he.html",
+      "permalink": "/democracy_democratic_ideals_participation_social_rights_summary_he.html",
+      "sortKey": 202605290002,
+      "titleHe": "תפיסות שונות של דמוקרטיה מובילות לדפוסי השתתפות שונים",
+      "paperTitle": "Democratic ideals and levels of political participation: The role of political and social conceptualisations of democracy",
+      "authorsCardHe": "Jennifer Oser, Marc Hooghe",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Marc Hooghe"
+      ],
+      "journal": "The British Journal of Politics and International Relations, 20(3), 711-730",
+      "dateText": "פורסם אונליין: 10 באפריל 2018; גיליון אוגוסט 2018",
+      "doiUrl": "https://doi.org/10.1177/1369148118768140",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_ideals_participation_social_rights_summary_he.jpg",
+        "altHe": "חדר חינוך אזרחי שבו אזרחים בוחנים דרכי השתתפות פוליטית וחברתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Oser ו־Hooghe מנתחים את הקשר בין אידיאלים דמוקרטיים לבין התנהגות פוליטית באמצעות ניתוח מחלקות חבויות ושאלות רחבות של הסקר החברתי האירופי מ־2012. הם מזהים שתי קבוצות אזרחים המדגישות מושגי אזרחות שונים: תפיסה של זכויות פוליטיות ותפיסה של זכויות חברתיות. לפי התקציר, מי שמדגישים זכויות חברתיות פעילים יחסית יותר בהשתתפות לא־ממוסדת אך פחות בהשתתפות ממוסדת, בעוד שמדגישי זכויות פוליטיות פעילים יותר בכל צורות ההשתתפות."
+    },
+    {
+      "slug": "democracy_organizing_democracy_collective_action_summary_he",
+      "file": "democracy_organizing_democracy_collective_action_summary_he.html",
+      "permalink": "/democracy_organizing_democracy_collective_action_summary_he.html",
+      "sortKey": 202605290001,
+      "titleHe": "ארגון קהילתי משנה את יכולת האזרחים לפעול בדמוקרטיה",
+      "paperTitle": "Organizing and Democracy: Understanding the Possibilities for Transformative Collective Action",
+      "authorsCardHe": "Hahrie Han, Matthew Baggetta, Jennifer Oser",
+      "sourceAuthors": [
+        "Hahrie Han",
+        "Matthew Baggetta",
+        "Jennifer Oser"
+      ],
+      "journal": "Annual Review of Political Science, 27(1), 245-262",
+      "dateText": "פורסם אונליין: 29 ביולי 2024",
+      "doiUrl": "https://doi.org/10.1146/annurev-polisci-041322-043040",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_organizing_democracy_collective_action_summary_he.jpg",
+        "altHe": "פעילי חברה אזרחית בונים יכולת ארגונית ופעולה קולקטיבית במשרד קהילתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-29",
+      "dateModified": "2026-05-29",
+      "summaryHe": "Han, Baggetta ו־Oser טוענים שדמוקרטיה דורשת פעולה קולקטיבית, אך לא כל פעולה קולקטיבית פועלת באותו אופן. הם מבחינים בין organizing, שמבקש להפוך יחידים וקבוצות לסוכנים אפקטיביים המסוגלים להשפיע על תוצאות ציבוריות, לבין mobilizing, שמרכז ומבטא העדפות בזירה הציבורית בלי להתמקד בשינוי אישי או ארגוני. המאמר סוקר ממדי טרנספורמציה ברמות מיקרו, מזו ומקרו, ומציע לחקור ארגון בנפרד ובהשוואה למוביליזציה."
+    },
     {
       "slug": "democracy_redistribution_inequality_growth_summary_he",
       "file": "democracy_redistribution_inequality_growth_summary_he.html",
