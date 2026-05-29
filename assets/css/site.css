@@ -48,6 +48,13 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-region
 
 .logo-wrap { display: block; width: min(529px, 100%); margin: 0 auto 24px; }
 .logo-mark { position: relative; display: block; }
+.logo-placeholder {
+  aspect-ratio: 529 / 89;
+  min-height: 64px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f6f8f8;
+}
 .site-logo { display: block; width: 100%; height: auto; margin: 0 auto; }
 .logo-region { position: absolute; inset-inline: 0; display: block; text-decoration: none; }
 .logo-region-top { top: 0; height: 72%; }
