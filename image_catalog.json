@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-29",
+  "lastUpdated": "2026-05-30",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -15599,6 +15599,305 @@
         "democracy_organizing_democracy_collective_action_summary_he.html": "high"
       },
       "generatedAt": "2026-05-29"
+    },
+    {
+      "file": "html_qa/democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב רגשי נשען יותר על אכזבה מיריבים מאשר על שנאה",
+      "authorsHe": "Mabelle Kretchner, Julia Elad-Strenger, Sivan Hirsch-Hoefler, Tal Orian-Harel, Eran Halperin",
+      "visualDescriptionHe": "דיון קהילתי מתוח המדגיש אכזבה אזרחית בין מחנות ולא שנאה מוחלטת.",
+      "semanticDescriptionHe": "המאמר עוסק באכזבה כרגש מרכזי בקיטוב רגשי ולכן הדימוי מציג יריבים שעדיין מצפים לשותפות אזרחית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "קיטוב רגשי",
+        "אכזבה פוליטית",
+        "שנאה פוליטית",
+        "יריבות אידיאולוגית",
+        "דמוקרטיה יציבה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.html",
+      "usedBy": [
+        "democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.html"
+      ],
+      "cardTitleHe": "הנסיגה הדמוקרטית בישראל תחת נתניהו הייתה ממשית אך מוגבלת מוסדית",
+      "authorsHe": "Neta Oren, Dov Waxman",
+      "visualDescriptionHe": "חדר מוסדי שבו נבחנים מסמכי אחריותיות בתקופת ריכוז כוח פוליטי.",
+      "semanticDescriptionHe": "המאמר עוסק בנסיגה דמוקרטית תחת מנהיגות אישית ולכן הדימוי מתמקד במוסדות, מסמכים ואחריותיות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "נסיגה דמוקרטית",
+        "אי-ליברליזם",
+        "נתניהו",
+        "קיטוב אפקטיבי",
+        "שיטה פרלמנטרית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.html",
+      "usedBy": [
+        "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.html"
+      ],
+      "cardTitleHe": "פופוליזם ימני יכול להיות אידאולוגיה מלאה ולא רק סגנון שלטוני",
+      "authorsHe": "Gayil Talshir",
+      "visualDescriptionHe": "סדנת מחקר הממפה שפה פופוליסטית ימנית, משילות ורוביות.",
+      "semanticDescriptionHe": "המאמר מנתח פופוליזם ימני כאידאולוגיה ולכן הדימוי מציג מיפוי שיטתי של מסרים ורעיונות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "פופוליזם ימני",
+        "משילות",
+        "רצון העם",
+        "רוביות",
+        "זכויות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_political_twittersphere_populist_ideas_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_political_twittersphere_populist_ideas_israel_summary_he.html",
+      "usedBy": [
+        "democracy_political_twittersphere_populist_ideas_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הרשת הפוליטית בטוויטר הגבירה וריכזה רעיונות פופוליסטיים בישראל",
+      "authorsHe": "Eitan Tzelgov, Steven Lloyd Wilson",
+      "visualDescriptionHe": "חדר מחקר דיגיטלי על רשתות מקוונות שמרכזות רעיונות פופוליסטיים.",
+      "semanticDescriptionHe": "המאמר עוסק בתפוצת רעיונות פופוליסטיים ברשת ולכן הדימוי מציג סביבת מחקר של רשתות דיגיטליות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "פופוליזם",
+        "טוויטר פוליטי",
+        "מחוקקים ישראלים",
+        "רשתות חברתיות",
+        "נסיגה דמוקרטית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_political_twittersphere_populist_ideas_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_local_government_rising_new_regionalism_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_local_government_rising_new_regionalism_israel_summary_he.html",
+      "usedBy": [
+        "democracy_local_government_rising_new_regionalism_israel_summary_he.html"
+      ],
+      "cardTitleHe": "משברים בישראל מחזקים את הצורך בממשל מקומי אזורי וגמיש",
+      "authorsHe": "Itai Beeri",
+      "visualDescriptionHe": "חדר תכנון מוניציפלי המדגים שיתוף פעולה אזורי וחוסן מקומי.",
+      "semanticDescriptionHe": "המאמר עוסק באזורים ושלטון מקומי ולכן הדימוי מציג תכנון משותף סביב מפה אזורית לא מסומנת.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "שלטון מקומי",
+        "אזוריות חדשה",
+        "ביזור",
+        "משברים",
+        "חוסן דמוקרטי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_local_government_rising_new_regionalism_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.html",
+      "usedBy": [
+        "democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.html"
+      ],
+      "cardTitleHe": "ייצוג נשי של הימין הרדיקלי עלול לנרמל מדיניות שמחלישה דמוקרטיה",
+      "authorsHe": "Julia Elad-Strenger, Lihi Ben-Shitrit, Sivan Hirsch-Hoefler",
+      "visualDescriptionHe": "סדנת מחקר על ייצוג מגדרי ונרמול מדיניות שוחקת דמוקרטיה.",
+      "semanticDescriptionHe": "המאמר עוסק בסטריאוטיפים מגדריים ונרמול ולכן הדימוי מציג סדנת מחקר פוליטית עם נשים וגברים.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "נסיגה דמוקרטית",
+        "סטריאוטיפים מגדריים",
+        "ימין רדיקלי",
+        "נרמול פוליטי",
+        "לגיטימציה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.html",
+      "usedBy": [
+        "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.html"
+      ],
+      "cardTitleHe": "הדגשת מכנה משותף יכולה להחזיר לגיטימיות לקולות ביקורתיים",
+      "authorsHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
+      "visualDescriptionHe": "מעגל דיאלוג בין-קבוצתי שמחזיר לגיטימיות לקולות ביקורתיים.",
+      "semanticDescriptionHe": "המאמר עוסק בהתערבויות המדגישות מכנה משותף ולכן הדימוי מציג דיאלוג אזרחי קשוב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "לגיטימציה",
+        "קולות ביקורתיים",
+        "התערבות בין-קבוצתית",
+        "מכנה משותף",
+        "כבוד האדם"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_polarization_partisan_bias_public_services_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_polarization_partisan_bias_public_services_summary_he.html",
+      "usedBy": [
+        "democracy_polarization_partisan_bias_public_services_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב מפלגתי מעוות גם הערכות של שירותים ציבוריים יומיומיים",
+      "authorsHe": "Saar Alon-Barkat, Amnon Cavari, Lior Shvarts",
+      "visualDescriptionHe": "מרכז שירות ציבורי שבו אזרחים מעריכים שירותים דרך עדשה מפלגתית.",
+      "semanticDescriptionHe": "המאמר עוסק בהטיה מפלגתית בשירותים ציבוריים ולכן הדימוי מציג מרחב שירות ממשלתי יומיומי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "קיטוב מפלגתי",
+        "שירותים ציבוריים",
+        "אחריותיות",
+        "הטיה מפלגתית",
+        "ישראל 2021-2022"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_polarization_partisan_bias_public_services_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_government_opposition_relations_no_confidence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_government_opposition_relations_no_confidence_summary_he.html",
+      "usedBy": [
+        "democracy_government_opposition_relations_no_confidence_summary_he.html"
+      ],
+      "cardTitleHe": "כללי אי-אמון מעצבים את האסטרטגיה של אופוזיציות בפרלמנט",
+      "authorsHe": "Or Tuttnauer, Reuven Y. Hazan",
+      "visualDescriptionHe": "חדר ועדה פרלמנטרי שממחיש יחסי ממשלה-אופוזיציה וכללי אי-אמון.",
+      "semanticDescriptionHe": "המאמר עוסק בכללי אי-אמון ולכן הדימוי מציג זירה פרלמנטרית עם שני צדדים סביב שולחן.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "אי-אמון",
+        "אופוזיציה",
+        "פרלמנט",
+        "אחריותיות ממשלתית",
+        "יחסי ממשלה-אופוזיציה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_government_opposition_relations_no_confidence_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_cities_fight_for_autonomy_protest_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html",
+      "usedBy": [
+        "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מחאת 2023 בישראל מדגישה את העיר כזירה של אוטונומיה דמוקרטית",
+      "authorsHe": "Nufar Avni",
+      "visualDescriptionHe": "חדר תכנון עירוני הצופה לכיכר מחאה ומדגיש אוטונומיה עירונית.",
+      "semanticDescriptionHe": "המאמר עוסק באוטונומיה עירונית ומחאה ולכן הדימוי מחבר בין חדר עירוני לכיכר ציבורית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "אוטונומיה עירונית",
+        "מחאת 2023",
+        "תל אביב-יפו",
+        "ערים פרוגרסיביות",
+        "נסיגה דמוקרטית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-30"
     }
   ],
   "topicGraphics": [

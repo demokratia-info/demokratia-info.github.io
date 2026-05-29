@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 659,
+  "paperCount": 669,
   "papers": [
+    {
+      "slug": "democracy_cities_fight_for_autonomy_protest_israel_summary_he",
+      "file": "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html",
+      "permalink": "/democracy_cities_fight_for_autonomy_protest_israel_summary_he.html",
+      "sortKey": 202605300010,
+      "titleHe": "מחאת 2023 בישראל מדגישה את העיר כזירה של אוטונומיה דמוקרטית",
+      "paperTitle": "Cities fight for autonomy: A view from an ongoing protest in Israel",
+      "authorsCardHe": "Nufar Avni",
+      "sourceAuthors": [
+        "Nufar Avni"
+      ],
+      "journal": "European Urban and Regional Studies, 31(1), 88-91",
+      "dateText": "פורסם אונליין: 05.10.2023",
+      "doiUrl": "https://doi.org/10.1177/09697764231201563",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_cities_fight_for_autonomy_protest_israel_summary_he.jpg",
+        "altHe": "צוות עירוני ופעילים אזרחיים בוחנים תוכנית עיר מול כיכר מחאה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Avni מתבוננת במחאת 2023 בישראל דרך עדשה של אוטונומיה עירונית. לפי התקציר, אף שהמחאה הארצית אינה ממוסגרת במפורש כמאבק עיר מול מדינה, יש לה ממד עירוני ברור, ובמיוחד בתל אביב-יפו. המאמר מציע שקריאה עירונית של המחאה עוזרת למקם אותה בתוך תהליכים פוליטיים רחבים של קיטוב בין ערים פרוגרסיביות למדינות ריאקציוניות."
+    },
+    {
+      "slug": "democracy_government_opposition_relations_no_confidence_summary_he",
+      "file": "democracy_government_opposition_relations_no_confidence_summary_he.html",
+      "permalink": "/democracy_government_opposition_relations_no_confidence_summary_he.html",
+      "sortKey": 202605300009,
+      "titleHe": "כללי אי-אמון מעצבים את האסטרטגיה של אופוזיציות בפרלמנט",
+      "paperTitle": "Government–Opposition Relations and the Vote of No-Confidence",
+      "authorsCardHe": "Or Tuttnauer, Reuven Y. Hazan",
+      "sourceAuthors": [
+        "Or Tuttnauer",
+        "Reuven Y. Hazan"
+      ],
+      "journal": "Political Studies, 72(3), 984-1004",
+      "dateText": "פורסם אונליין: 26.04.2023",
+      "doiUrl": "https://doi.org/10.1177/00323217231168765",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_government_opposition_relations_no_confidence_summary_he.jpg",
+        "altHe": "חדר ועדה פרלמנטרי שבו ממשלה ואופוזיציה יושבות סביב שולחן אחד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Tuttnauer ו-Hazan מנתחים את הצבעת אי-האמון כמנגנון מרכזי של אחריות ממשלה לפרלמנט. לפי התקציר, הם מבחינים בין שני שלבים, ייזום ההצעה וההצבעה עליה, ובוחנים כיצד הגבלות בכל שלב משפיעות על אסטרטגיות האופוזיציה. הניתוח האמפירי כולל 59 מפלגות אופוזיציה ב-16 מדינות ומוצא שהגבלות חזקות יותר מתואמות עם התנהגות פחות עימותית."
+    },
+    {
+      "slug": "democracy_polarization_partisan_bias_public_services_summary_he",
+      "file": "democracy_polarization_partisan_bias_public_services_summary_he.html",
+      "permalink": "/democracy_polarization_partisan_bias_public_services_summary_he.html",
+      "sortKey": 202605300008,
+      "titleHe": "קיטוב מפלגתי מעוות גם הערכות של שירותים ציבוריים יומיומיים",
+      "paperTitle": "Polarization and Partisan Bias in Citizens’ Evaluations of Public Services",
+      "authorsCardHe": "Saar Alon-Barkat, Amnon Cavari, Lior Shvarts",
+      "sourceAuthors": [
+        "Saar Alon-Barkat",
+        "Amnon Cavari",
+        "Lior Shvarts"
+      ],
+      "journal": "Political Behavior",
+      "dateText": "פורסם אונליין: 30.08.2025",
+      "doiUrl": "https://doi.org/10.1007/s11109-025-10078-8",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarization_partisan_bias_public_services_summary_he.jpg",
+        "altHe": "אזרחים במרכז שירות ציבורי מעריכים שירותים דרך עדשה מפלגתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Alon-Barkat, Cavari ו-Shvarts טוענים שהטיה מפלגתית אינה מוגבלת להערכות של כלכלה, ביטחון או סוגיות מדיניות טעונות. לפי התקציר, בסביבה מקוטבת היא חלה גם על שירותים ציבוריים יומיומיים, ונבחנת בישראל סביב חילופי הממשלה הדרמטיים ב-2021 ו-2022. הנתונים כוללים מחקר סקרים בן שבעה גלים ומאגר סקר מנהלי של הלשכה המרכזית לסטטיסטיקה."
+    },
+    {
+      "slug": "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he",
+      "file": "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.html",
+      "permalink": "/democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.html",
+      "sortKey": 202605300007,
+      "titleHe": "הדגשת מכנה משותף יכולה להחזיר לגיטימיות לקולות ביקורתיים",
+      "paperTitle": "Intergroup psychological interventions highlighting commonalities can increase the perceived legitimacy of critical voices",
+      "authorsCardHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
+      "sourceAuthors": [
+        "Lee Aldar",
+        "Ruthie Pliskin",
+        "Yossi Hasson",
+        "Eran Halperin"
+      ],
+      "journal": "Communications Psychology, 3(1)",
+      "dateText": "פורסם אונליין: 16.04.2025",
+      "doiUrl": "https://doi.org/10.1038/s44271-025-00238-1",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intergroup_interventions_legitimacy_critical_voices_summary_he.jpg",
+        "altHe": "מעגל דיאלוג אזרחי שבו משתתפים מאזינים לקול ביקורתי ומזהים מכנים משותפים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Aldar, Pliskin, Hasson ו-Halperin בוחנים כיצד ניתן להתמודד עם דה-לגיטימציה של קולות ביקורתיים בזמן סיכונים לדמוקרטיה. לפי התקציר, טורניר התערבויות בקרב 1691 יהודים ישראלים מצא ששתי התערבויות שמדגישות מכנים משותפים עם הקבוצה המודרת העלו את הלגיטימיות הנתפסת שלה. הדוגמאות כוללות אינטרסים משותפים כגון תמיכה בקהילות וצמצום פערים בשירותי בריאות, וערכים משותפים כגון כבוד האדם והליך הוגן."
+    },
+    {
+      "slug": "democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he",
+      "file": "democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.html",
+      "permalink": "/democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.html",
+      "sortKey": 202605300006,
+      "titleHe": "ייצוג נשי של הימין הרדיקלי עלול לנרמל מדיניות שמחלישה דמוקרטיה",
+      "paperTitle": "Mainstreaming democratic backsliding: The role of gender stereotypes",
+      "authorsCardHe": "Julia Elad-Strenger, Lihi Ben-Shitrit, Sivan Hirsch-Hoefler",
+      "sourceAuthors": [
+        "Julia Elad-Strenger",
+        "Lihi Ben-Shitrit",
+        "Sivan Hirsch-Hoefler"
+      ],
+      "journal": "European Journal of Political Research, 63(4), 1397-1425",
+      "dateText": "גיליון נובמבר 2024",
+      "doiUrl": "https://doi.org/10.1111/1475-6765.12667",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.jpg",
+        "altHe": "סדנת מחקר פוליטית על סטריאוטיפים מגדריים ונרמול מדיניות שוחקת דמוקרטיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Elad-Strenger, Ben-Shitrit ו-Hirsch-Hoefler מציעות הסבר מגדרי לנרמול של נסיגה דמוקרטית. לפי התקציר, נראות גוברת של נשים המייצגות אגנדות ימין רדיקלי יכולה לגרום למפלגות, פוליטיקאים ומדיניות שוחקת דמוקרטיה להיראות לגיטימיים יותר. המחקרים נערכו בישראל, גרמניה וארצות הברית, עם N = 7203."
+    },
+    {
+      "slug": "democracy_local_government_rising_new_regionalism_israel_summary_he",
+      "file": "democracy_local_government_rising_new_regionalism_israel_summary_he.html",
+      "permalink": "/democracy_local_government_rising_new_regionalism_israel_summary_he.html",
+      "sortKey": 202605300005,
+      "titleHe": "משברים בישראל מחזקים את הצורך בממשל מקומי אזורי וגמיש",
+      "paperTitle": "Local Government Rising: The Emergence of New Regionalism in Israel",
+      "authorsCardHe": "Itai Beeri",
+      "sourceAuthors": [
+        "Itai Beeri"
+      ],
+      "journal": "Geography Research Forum, 44(1), 8-34",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://cris.haifa.ac.il/en/publications/local-government-rising-the-emergence-of-new-regionalism-in-israe-2/",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_government_rising_new_regionalism_israel_summary_he.jpg",
+        "altHe": "פקידים מקומיים בוחנים מפה אזורית בחדר תכנון של שלטון מקומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Beeri מנתח את עליית האזוריות החדשה במסגרת השלטון המקומי בישראל. לפי תקציר עמוד המקור, משברים שונים, כולל מלחמת 7 באוקטובר 2023, חשפו כשלים בממשל ריכוזי והאיצו צורך בביזור, שיתוף פעולה אזורי וחוסן מקומי. המאמר מדגיש שלוש רפורמות משלימות: חוק יסוד לשלטון מקומי ואזורי, מיסוד מבני ממשל אזורי וחיזוק יכולות כוח האדם."
+    },
+    {
+      "slug": "democracy_political_twittersphere_populist_ideas_israel_summary_he",
+      "file": "democracy_political_twittersphere_populist_ideas_israel_summary_he.html",
+      "permalink": "/democracy_political_twittersphere_populist_ideas_israel_summary_he.html",
+      "sortKey": 202605300004,
+      "titleHe": "הרשת הפוליטית בטוויטר הגבירה וריכזה רעיונות פופוליסטיים בישראל",
+      "paperTitle": "The Political Twittersphere as a Breeding Ground for Populist Ideas: The Case of Israel",
+      "authorsCardHe": "Eitan Tzelgov, Steven Lloyd Wilson",
+      "sourceAuthors": [
+        "Eitan Tzelgov",
+        "Steven Lloyd Wilson"
+      ],
+      "journal": "Social Media + Society, 10(3)",
+      "dateText": "פורסם אונליין: 12.08.2024",
+      "doiUrl": "https://doi.org/10.1177/20563051241265863",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_twittersphere_populist_ideas_israel_summary_he.jpg",
+        "altHe": "חדר מחקר שבו חוקרים בוחנים רשתות דיגיטליות של רעיונות פופוליסטיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Tzelgov ו-Wilson מנתחים פעילות טוויטר של מחוקקים ישראלים בשנים 2013-2022 כדי להבין כיצד רעיונות פופוליסטיים מתפשטים ברשת הפוליטית. לפי התקציר, המחקר מוצא עלייה עקבית בתדירות ובריכוז של רעיונות כאלה, שיא בשנת 2022, והשפעה בולטת של ההליכים המשפטיים נגד ראש הממשלה על נושאי השיח. המאמר מחבר בין מדיה חברתית לבין אתגרי נסיגה דמוקרטית בישראל."
+    },
+    {
+      "slug": "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he",
+      "file": "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.html",
+      "permalink": "/democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.html",
+      "sortKey": 202605300003,
+      "titleHe": "פופוליזם ימני יכול להיות אידאולוגיה מלאה ולא רק סגנון שלטוני",
+      "paperTitle": "Populist Rightwing Ideological Exposition: Netanyahu’s Regime as a Case in Point",
+      "authorsCardHe": "Gayil Talshir",
+      "sourceAuthors": [
+        "Gayil Talshir"
+      ],
+      "journal": "Advances in Applied Sociology, 8(4), 329-349",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.4236/aasoci.2018.84019",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he.jpg",
+        "altHe": "חוקרים ממפים מסרים של פופוליזם ימני סביב שולחן דיון אזרחי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Talshir יוצאת נגד ההנחה שפופוליזם הוא בהכרח אידאולוגיה דקה וחסרת עומק. לפי התקציר, המאמר טוען שפופוליזם ימני של מפלגת שלטון שמרנית יכול להפוך לתפיסה שלמה של דמוקרטיה, עוינת לתיאוריות זכויות וממוקדת במשילות ובריבונות הממשלה. המקרה הישראלי הוא בחירות 2015 ומשטר נתניהו."
+    },
+    {
+      "slug": "democracy_king_bibi_israeli_illiberalism_backsliding_summary_he",
+      "file": "democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.html",
+      "permalink": "/democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.html",
+      "sortKey": 202605300002,
+      "titleHe": "הנסיגה הדמוקרטית בישראל תחת נתניהו הייתה ממשית אך מוגבלת מוסדית",
+      "paperTitle": "\"King Bibi\" and Israeli Illiberalism: Assessing Democratic Backsliding in Israel during the Second Netanyahu Era (2009–2021)",
+      "authorsCardHe": "Neta Oren, Dov Waxman",
+      "sourceAuthors": [
+        "Neta Oren",
+        "Dov Waxman"
+      ],
+      "journal": "The Middle East Journal, 76(3), 303-326",
+      "dateText": "פורסם: 01.12.2022",
+      "doiUrl": "https://doi.org/10.3751/76.3.11",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.jpg",
+        "altHe": "חוקרים בוחנים מסמכי אחריותיות מוסדית במסדרון פרלמנטרי בעת משבר דמוקרטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Oren ו-Waxman מנתחים את שנות נתניהו השנייה, מ-2009 עד 2021, דרך מסגרת של נסיגה דמוקרטית ואי-ליברליזם. לפי התקציר, ישראל דמתה בחלק מן הרטוריקה והטקטיקות להונגריה ולטורקיה, אך התוצאה הייתה מוגבלת יותר. ההסבר שהם מדגישים קשור לאופי הקיטוב בישראל, למבנה הפרלמנטרי ולמערכת הבחירות."
+    },
+    {
+      "slug": "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he",
+      "file": "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.html",
+      "permalink": "/democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.html",
+      "sortKey": 202605300001,
+      "titleHe": "קיטוב רגשי נשען יותר על אכזבה מיריבים מאשר על שנאה",
+      "paperTitle": "The disappointing (not hateful) divide: uncovering the negative emotions at the heart of affective polarization",
+      "authorsCardHe": "Mabelle Kretchner, Julia Elad-Strenger, Sivan Hirsch-Hoefler, Tal Orian-Harel, Eran Halperin",
+      "sourceAuthors": [
+        "Mabelle Kretchner",
+        "Julia Elad-Strenger",
+        "Sivan Hirsch-Hoefler",
+        "Tal Orian-Harel",
+        "Eran Halperin"
+      ],
+      "journal": "Cognition and Emotion, 1-20",
+      "dateText": "פורסם אונליין: 18.03.2026",
+      "doiUrl": "https://doi.org/10.1080/02699931.2026.2639074",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_disappointing_not_hateful_divide_affective_polarization_summary_he.jpg",
+        "altHe": "דיון קהילתי מתוח בין קבוצות אידיאולוגיות שמבטא אכזבה אזרחית ולא שנאה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-30",
+      "dateModified": "2026-05-30",
+      "summaryHe": "Kretchner, Elad-Strenger, Hirsch-Hoefler, Orian-Harel ו-Halperin בוחנות אילו רגשות שליליים קשורים לקיטוב רגשי בין יריבים אידיאולוגיים. לפי התקציר, המחקר משווה כעס, פחד, גועל, בוז, אכזבה ושנאה, ומזהה את האכזבה כרגש העקבי והחזק ביותר במדגמים בארצות הברית ובישראל. הממצא חשוב לדמוקרטיה מפני שהוא מציע שקיטוב אינו רק שנאה טהורה, אלא גם קריסה של ציפיות מאזרחים אחרים לתרום לטוב המשותף."
+    },
     {
       "slug": "democracy_political_scientists_owe_democracy_summary_he",
       "file": "democracy_political_scientists_owe_democracy_summary_he.html",
