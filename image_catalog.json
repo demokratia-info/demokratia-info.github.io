@@ -15031,9 +15031,9 @@
       "usedBy": [
         "democracy_meso_institutions_unbundling_summary_he.html"
       ],
-      "cardTitleHe": "מוסדות ביניים מסבירים איך כללים כלליים פועלים בשטח",
+      "cardTitleHe": "מוסדות ביניים מסבירים איך עקרונות מוסדיים מיושמים בשטח",
       "authorsHe": "Claude Ménard, Gaetano Martino",
-      "visualDescriptionHe": "חדר ממשל מקומי שבו כללים כלליים מתורגמים לנהלים, תיאום ויישום בשטח.",
+      "visualDescriptionHe": "חדר ממשל מקומי שבו עקרונות מוסדיים מתורגמים לנהלים, תיאום ויישום בשטח.",
       "semanticDescriptionHe": "המאמר עוסק במוסדות ביניים ולכן הדימוי מדגיש את שכבת התמסורת בין כלל רחב לבין פעולה מקומית.",
       "tags": [
         "institutions-civil-society-public-service",
@@ -15898,6 +15898,306 @@
         "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html": "high"
       },
       "generatedAt": "2026-05-30"
+    },
+    {
+      "file": "html_qa/democracy_globalization_political_cultures_american_israeli_jews_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_globalization_political_cultures_american_israeli_jews_summary_he.html",
+      "usedBy": [
+        "democracy_globalization_political_cultures_american_israeli_jews_summary_he.html"
+      ],
+      "cardTitleHe": "גלובליזציה מקרבת בין שיחי זכויות של יהודים אמריקאים וישראלים",
+      "authorsHe": "Theodore Sasson, Ephraim Tabory",
+      "visualDescriptionHe": "סמינר קהילתי-אקדמי עם מפות ישראל וארצות הברית, המדגיש שיח טרנס-לאומי על זכויות ופלורליזם.",
+      "semanticDescriptionHe": "המאמר עוסק בגלובליזציה, תרבות פוליטית, יהדות אמריקה ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "גלובליזציה",
+        "תרבות פוליטית",
+        "יהדות אמריקה",
+        "יהודים ישראלים",
+        "פלורליזם דתי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_globalization_political_cultures_american_israeli_jews_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.html",
+      "usedBy": [
+        "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.html"
+      ],
+      "cardTitleHe": "משפט גרייזר מציב גם את החוק עצמו מול אחריות לפשעי שולחן",
+      "authorsHe": "Leora Bilsky, Rachel Klagsbrun",
+      "visualDescriptionHe": "אולם משפט היסטורי עם מומחים ומסמכים, המדגיש אחריות ביורוקרטית ותפקיד החוק.",
+      "semanticDescriptionHe": "המאמר עוסק בפשעי שולחן, שלטון החוק, משפט גרייזר ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "פשעי שולחן",
+        "שלטון החוק",
+        "משפט גרייזר",
+        "ג׳נוסייד תרבותי",
+        "אחריות פלילית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_online_emotional_landscape_knesset_government_crisis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_online_emotional_landscape_knesset_government_crisis_summary_he.html",
+      "usedBy": [
+        "democracy_online_emotional_landscape_knesset_government_crisis_summary_he.html"
+      ],
+      "cardTitleHe": "תגובות רגשיות לפוליטיקאים ברשת משתנות בין משבר אזרחי למשבר צבאי",
+      "authorsHe": "Aya Yadlin‐Segal, Gal Yavetz, Jenny Bronstein",
+      "visualDescriptionHe": "חדר מחקר תקשורתי עם כרטיסי תגובות רגשיות, ללא ממשקים קריאים, על תקשורת פוליטית במשבר.",
+      "semanticDescriptionHe": "המאמר עוסק במדיה חברתית, תגובות רגשיות, חברי כנסת ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "מדיה חברתית",
+        "תגובות רגשיות",
+        "חברי כנסת",
+        "משברים אזרחיים",
+        "מלחמת 7 באוקטובר"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_online_emotional_landscape_knesset_government_crisis_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_political_representation_municipal_service_satisfaction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_political_representation_municipal_service_satisfaction_summary_he.html",
+      "usedBy": [
+        "democracy_political_representation_municipal_service_satisfaction_summary_he.html"
+      ],
+      "cardTitleHe": "ייצוג פוליטי סמלי משפיע על שביעות רצון משירותים עירוניים",
+      "authorsHe": "Aliza Forman‐Rabinovici, Itai Beeri",
+      "visualDescriptionHe": "מרכז שירות עירוני שבו תושבים מגוונים ונציגי רשות דנים בשירותים ובייצוג.",
+      "semanticDescriptionHe": "המאמר עוסק בייצוג פוליטי, ייצוג סמלי, שירותים עירוניים ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ייצוג פוליטי",
+        "ייצוג סמלי",
+        "שירותים עירוניים",
+        "חיפה",
+        "מיעוטים"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_political_representation_municipal_service_satisfaction_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.html"
+      ],
+      "cardTitleHe": "קמפיין הזכויות הדיגיטליות בישראל מראה איך חברה אזרחית מגינה על פרטיות",
+      "authorsHe": "Efrat Daskal",
+      "visualDescriptionHe": "סדנת חברה אזרחית על פרטיות דיגיטלית ומאגר ביומטרי, עם מחשבים ומסמכי מדיניות.",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות דיגיטליות, פרטיות, מאגר ביומטרי ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "זכויות דיגיטליות",
+        "פרטיות",
+        "מאגר ביומטרי",
+        "חברה אזרחית",
+        "ממשל דיגיטלי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.html",
+      "usedBy": [
+        "democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.html"
+      ],
+      "cardTitleHe": "גיוס חובה יכול להגביר את רגישות המדינה לשלום החיילים",
+      "authorsHe": "Yagil Levy",
+      "visualDescriptionHe": "שולחן מדיניות קהילתי על גיוס, משפחות ורווחת חיילים ללא סמלים צבאיים בולטים.",
+      "semanticDescriptionHe": "המאמר עוסק בגיוס חובה, יחסי צבא-חברה, מחאה נגד מלחמה ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "גיוס חובה",
+        "יחסי צבא-חברה",
+        "מחאה נגד מלחמה",
+        "רווחת חיילים",
+        "אחריות המדינה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.html",
+      "usedBy": [
+        "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.html"
+      ],
+      "cardTitleHe": "חשיפה סלקטיבית מקטבת כאשר אנשים מכירים בעיקר טיעונים שמחזקים אותם",
+      "authorsHe": "Shira Dvir-Gvirsman",
+      "visualDescriptionHe": "מעבדת תקשורת שבה משתתפים משווים מקורות וטיעונים סביב קיטוב וחשיפה סלקטיבית.",
+      "semanticDescriptionHe": "המאמר עוסק בחשיפה סלקטיבית, תקשורת מפלגתית, קיטוב עמדות ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "חשיפה סלקטיבית",
+        "תקשורת מפלגתית",
+        "קיטוב עמדות",
+        "טיעונים מחזקים",
+        "הנמקה מוטיבציונית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_administrative_process_conflicting_interests_barak_erez_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_administrative_process_conflicting_interests_barak_erez_summary_he.html",
+      "usedBy": [
+        "democracy_administrative_process_conflicting_interests_barak_erez_summary_he.html"
+      ],
+      "cardTitleHe": "ההליך המינהלי הוא זירה לחלוקת אינטרסים ולא רק להפעלת סמכות",
+      "authorsHe": "Daphne Barak‐Erez",
+      "visualDescriptionHe": "חדר שימוע מינהלי עם מפות קרקע ונציגי קהילה סביב איזון אינטרסים.",
+      "semanticDescriptionHe": "המאמר עוסק במשפט מינהלי, אינטרסים מתנגשים, ביקורת שיפוטית ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "משפט מינהלי",
+        "אינטרסים מתנגשים",
+        "ביקורת שיפוטית",
+        "ייצוג אינטרסים",
+        "הקצאת קרקע"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_administrative_process_conflicting_interests_barak_erez_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_west_bank_political_trust_self_sacrifice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_west_bank_political_trust_self_sacrifice_summary_he.html",
+      "usedBy": [
+        "democracy_west_bank_political_trust_self_sacrifice_summary_he.html"
+      ],
+      "cardTitleHe": "אמון פוליטי מסייע להבין נכונות להקרבה בחברה הפלסטינית בגדה",
+      "authorsHe": "Gadi Hitman, Igal Shiri, Eyal Lewin",
+      "visualDescriptionHe": "ראיונות בחדר קהילתי על אמון פוליטי וזכויות אדם בתנאי סכסוך.",
+      "semanticDescriptionHe": "המאמר עוסק באמון פוליטי, הגדה המערבית, חברה פלסטינית ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "אמון פוליטי",
+        "הגדה המערבית",
+        "חברה פלסטינית",
+        "זכויות אדם",
+        "שחיתות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_west_bank_political_trust_self_sacrifice_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html",
+      "usedBy": [
+        "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html"
+      ],
+      "cardTitleHe": "גאוגרפיה פוליטית של שליטה מעמיקה מציבה את זכויות האדם במרכז הדיון",
+      "authorsHe": "Oren Yiftachel",
+      "visualDescriptionHe": "חוקרים בוחנים שכבות מפה ותצלומי אוויר כדי לדון במרחב, שליטה וזכויות.",
+      "semanticDescriptionHe": "המאמר עוסק בגאוגרפיה פוליטית, אפרטהייד, ישראל/פלסטין ולכן הדימוי נבנה כסצנה אזרחית-מחקרית ייחודית לנושא.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "גאוגרפיה פוליטית",
+        "אפרטהייד",
+        "ישראל/פלסטין",
+        "קולוניאליזם התיישבותי",
+        "זכויות אדם"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html": "high"
+      },
+      "generatedAt": "2026-05-31"
     }
   ],
   "topicGraphics": [

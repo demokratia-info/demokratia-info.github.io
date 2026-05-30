@@ -1,8 +1,285 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 669,
+  "paperCount": 679,
   "papers": [
+    {
+      "slug": "democracy_globalization_political_cultures_american_israeli_jews_summary_he",
+      "file": "democracy_globalization_political_cultures_american_israeli_jews_summary_he.html",
+      "permalink": "/democracy_globalization_political_cultures_american_israeli_jews_summary_he.html",
+      "sortKey": 202605310010,
+      "titleHe": "גלובליזציה מקרבת בין שיחי זכויות של יהודים אמריקאים וישראלים",
+      "paperTitle": "Converging Political Cultures: How Globalization is Shaping the Discourses of American and Israeli Jews",
+      "authorsCardHe": "Theodore Sasson, Ephraim Tabory",
+      "sourceAuthors": [
+        "Theodore Sasson",
+        "Ephraim Tabory"
+      ],
+      "journal": "Nationalism and Ethnic Politics, 16(1), 22-41",
+      "dateText": "פורסם: מרץ 2010",
+      "doiUrl": "https://doi.org/10.1080/13537110903583328",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_globalization_political_cultures_american_israeli_jews_summary_he.jpg",
+        "altHe": "קבוצת חוקרים ונציגי קהילה בוחנים מפות ומסמכי זכויות בדיון טרנס-לאומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Sasson ו-Tabory מנתחים עמדות של יהודים אמריקאים וישראלים ממעמד בינוני וממוצא אירופי סביב פלורליזם דתי וזכויות מיעוטים בישראל. לפי התקציר, הם מזהים חפיפה בין חלקים משתי הקבוצות ומסבירים אותה דרך נסיעות, מוסדות יהודיים טרנס-לאומיים, השתלבות ישראל בכלכלה גלובלית ותפיסות ביטחון. התרומה הדמוקרטית היא בהצגת תרבות פוליטית יהודית כמרחב שחוצה גבולות מדינתיים ולא רק כעמדה לאומית סגורה."
+    },
+    {
+      "slug": "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he",
+      "file": "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.html",
+      "permalink": "/democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.html",
+      "sortKey": 202605310009,
+      "titleHe": "משפט גרייזר מציב גם את החוק עצמו מול אחריות לפשעי שולחן",
+      "paperTitle": "The Desk Perpetrator, the Expert Witness, and the Role of Law: The Trial of Arthur Greiser",
+      "authorsCardHe": "Leora Bilsky, Rachel Klagsbrun",
+      "sourceAuthors": [
+        "Leora Bilsky",
+        "Rachel Klagsbrun"
+      ],
+      "journal": "Journal of Genocide Research, 27(1), 1-22",
+      "dateText": "פורסם אונליין: 18.09.2023",
+      "doiUrl": "https://doi.org/10.1080/14623528.2023.2255407",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he.jpg",
+        "altHe": "אולם משפט היסטורי שבו מומחים ועורכי דין בוחנים מסמכים על אחריות ביורוקרטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Bilsky ו-Klagsbrun בוחנות את משפטו של מושל מערב פולין הנאצי ארתור גרייזר כמקרה שבו בית משפט התמודד עם פשעי שולחן. לפי התקציר, המחקר טוען שהקושי אינו רק להוכיח השתתפות או סיוע של מבצע מרוחק, אלא להבין כיצד החוק יוצר, מכסה ולעיתים מחסן את העבריין הביורוקרטי. המאמר מצביע על מושג הג׳נוסייד התרבותי ועל עדויות מומחים כדרך שבה בית הדין הפולני יכול היה להעמיד גם את תפקיד החוק לבחינה."
+    },
+    {
+      "slug": "democracy_online_emotional_landscape_knesset_government_crisis_summary_he",
+      "file": "democracy_online_emotional_landscape_knesset_government_crisis_summary_he.html",
+      "permalink": "/democracy_online_emotional_landscape_knesset_government_crisis_summary_he.html",
+      "sortKey": 202605310008,
+      "titleHe": "תגובות רגשיות לפוליטיקאים ברשת משתנות בין משבר אזרחי למשבר צבאי",
+      "paperTitle": "Online Emotional Landscape of Government and Parliament Communication in Times of Crisis",
+      "authorsCardHe": "Aya Yadlin‐Segal, Gal Yavetz, Jenny Bronstein",
+      "sourceAuthors": [
+        "Aya Yadlin‐Segal",
+        "Gal Yavetz",
+        "Jenny Bronstein"
+      ],
+      "journal": "Media and Communication, 13",
+      "dateText": "פורסם: 13.08.2025",
+      "doiUrl": "https://doi.org/10.17645/mac.10335",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_online_emotional_landscape_knesset_government_crisis_summary_he.jpg",
+        "altHe": "חוקרי תקשורת בוחנים כרטיסי תגובות רגשיות סביב שולחן מחקר מוסדי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Yadlin-Segal, Yavetz ו-Bronstein מנתחים את הנוף הרגשי המקוון סביב תקשורת של פוליטיקאים ישראלים. לפי התקציר, הם בנו מאגר של 25,000 פוסטים של חברי כנסת וממשלה מכל גושי הימין, השמאל והמרכז במשך שנה שכללה שגרה, משבר אזרחי ומשבר צבאי. הממצאים מדגישים שבמשבר צבאי רגשות שנחשבו קרובים, כמו עצב וכעס, אינם בהכרח נעים יחד, ושמשברים מגבירים תגובות קצה ושליליות."
+    },
+    {
+      "slug": "democracy_political_representation_municipal_service_satisfaction_summary_he",
+      "file": "democracy_political_representation_municipal_service_satisfaction_summary_he.html",
+      "permalink": "/democracy_political_representation_municipal_service_satisfaction_summary_he.html",
+      "sortKey": 202605310007,
+      "titleHe": "ייצוג פוליטי סמלי משפיע על שביעות רצון משירותים עירוניים",
+      "paperTitle": "Descriptive and Symbolic: The Connection Between Political Representation and Citizen Satisfaction with Municipal Public Services",
+      "authorsCardHe": "Aliza Forman‐Rabinovici, Itai Beeri",
+      "sourceAuthors": [
+        "Aliza Forman‐Rabinovici",
+        "Itai Beeri"
+      ],
+      "journal": "The American Review of Public Administration, 54(1), 3-18",
+      "dateText": "פורסם אונליין: 16.07.2023",
+      "doiUrl": "https://doi.org/10.1177/02750740231187539",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_representation_municipal_service_satisfaction_summary_he.jpg",
+        "altHe": "תושבים מגוונים ונציגי עירייה דנים במפות שירותים במרכז עירוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Forman-Rabinovici ו-Beeri מחברים בין תאוריות של דמוקרטיה מקומית לבין חוויית השירות הציבורי היומיומי. לפי התקציר, הם משתמשים בסקר תושבים בחיפה כדי לבחון כיצד ייצוג תיאורי וייצוג סמלי משפיעים על שביעות רצון משירותים. הממצא המרכזי הוא שמעבר להרכב הנבחרים, התחושה שמוסדות מייצגים ומכירים בקבוצה יכולה להשפיע ישירות וגם דרך תחושות רחבות יותר כלפי השלטון."
+    },
+    {
+      "slug": "democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he",
+      "file": "democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.html",
+      "permalink": "/democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.html",
+      "sortKey": 202605310006,
+      "titleHe": "קמפיין הזכויות הדיגיטליות בישראל מראה איך חברה אזרחית מגינה על פרטיות",
+      "paperTitle": "The Israeli Digital Rights Movement's campaign for privacy",
+      "authorsCardHe": "Efrat Daskal",
+      "sourceAuthors": [
+        "Efrat Daskal"
+      ],
+      "journal": "Internet Policy Review, 6(3)",
+      "dateText": "פורסם: 19.09.2017",
+      "doiUrl": "https://doi.org/10.14763/2017.3.711",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.jpg",
+        "altHe": "פעילי זכויות דיגיטליות מתכננים קמפיין פרטיות סביב שולחן עם מחשבים ומסמכים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Daskal חוקרת כיצד תנועה אזרחית לזכויות דיגיטליות ניסתה לשכנע נגד מאגר ביומטרי בישראל. לפי התקציר, המחקר מבוסס על פרסומי התנועה ועל השיח העיתונאי סביב הקמפיין בזירות הפוליטית, המשפטית והציבורית בשנים 2009-2017. התוצאה היא ניתוח של פרטיות כתחום שבו חברה אזרחית יכולה לתרגם מומחיות טכנולוגית למסגור דמוקרטי של כוח מדינתי."
+    },
+    {
+      "slug": "democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he",
+      "file": "democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.html",
+      "permalink": "/democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.html",
+      "sortKey": 202605310005,
+      "titleHe": "גיוס חובה יכול להגביר את רגישות המדינה לשלום החיילים",
+      "paperTitle": "The Paradox of Recruitment",
+      "authorsCardHe": "Yagil Levy",
+      "sourceAuthors": [
+        "Yagil Levy"
+      ],
+      "journal": "Defence Studies, 14(2), 216-232",
+      "dateText": "פורסם: 03.04.2014",
+      "doiUrl": "https://doi.org/10.1080/14702436.2014.891853",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.jpg",
+        "altHe": "משפחות וחוקרים דנים במסמכי מדיניות על גיוס ורווחת חיילים במרחב קהילתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Levy משווה בין מקרים אמריקאיים וישראליים בתחומי מחאה נגד מלחמה, פריסת כוחות, הגנת כוחות וחילופי שבויים. לפי התקציר, כאשר גיוס מבוסס על כפייה מדינתית, לציבור יש יותר תמריץ וקול פוליטי סביב רווחת החיילים. התוצאה הפרדוקסלית היא שגיוס חובה יכול לגרום למדינה להעניק משקל גבוה במיוחד לשלום החיילים, לעיתים אף יותר ממחויבותה להגן על אזרחים."
+    },
+    {
+      "slug": "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he",
+      "file": "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.html",
+      "permalink": "/democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.html",
+      "sortKey": 202605310004,
+      "titleHe": "חשיפה סלקטיבית מקטבת כאשר אנשים מכירים בעיקר טיעונים שמחזקים אותם",
+      "paperTitle": "It's Not That We Don't Know, It's That We Don't Care: Explaining Why Selective Exposure Polarizes Attitudes",
+      "authorsCardHe": "Shira Dvir-Gvirsman",
+      "sourceAuthors": [
+        "Shira Dvir-Gvirsman"
+      ],
+      "journal": "Mass Communication and Society, 17(1), 74-97",
+      "dateText": "פורסם אונליין: 10.01.2014",
+      "doiUrl": "https://doi.org/10.1080/15205436.2013.816738",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.jpg",
+        "altHe": "משתתפים במעבדת תקשורת משווים כרטיסי טיעונים ומקורות חדשות מטושטשים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Dvir-Gvirsman מבקשת להסביר את המנגנון שמחבר בין חשיפה סלקטיבית לתקשורת מפלגתית לבין קיטוב עמדות. לפי התקציר, 440 מעורבים פוליטית קיצוניים עברו ריאיון מובנה שבדק היכרות עם טיעונים מחזקים ומאתגרים. הממצאים תומכים בכך שצרכני מדיה מפלגתית מכירים יותר טיעונים שמחזקים את עמדותיהם, ודווקא היכרות זו קשורה לקיטוב."
+    },
+    {
+      "slug": "democracy_administrative_process_conflicting_interests_barak_erez_summary_he",
+      "file": "democracy_administrative_process_conflicting_interests_barak_erez_summary_he.html",
+      "permalink": "/democracy_administrative_process_conflicting_interests_barak_erez_summary_he.html",
+      "sortKey": 202605310003,
+      "titleHe": "ההליך המינהלי הוא זירה לחלוקת אינטרסים ולא רק להפעלת סמכות",
+      "paperTitle": "The Administrative Process as a Domain of Conflicting Interests",
+      "authorsCardHe": "Daphne Barak‐Erez",
+      "sourceAuthors": [
+        "Daphne Barak‐Erez"
+      ],
+      "journal": "Theoretical Inquiries in Law, 6(1), 193-214",
+      "dateText": "פורסם: 24.01.2005",
+      "doiUrl": "https://doi.org/10.2202/1565-3404.1104",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_administrative_process_conflicting_interests_barak_erez_summary_he.jpg",
+        "altHe": "דיון מינהלי סביב שולחן עם מפות קרקע, מסמכים ונציגי קהילה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Barak-Erez טוענת שהליך מינהלי צריך להיתפס כמרחב שבו הרשות מאזנת בין אינטרסים מתנגשים, לעיתים בלי שלצדדים יש זכויות משפטיות מוגדרות מראש ביחס לתוכן ההחלטה. לפי התקציר, החלטות מינהליות משפיעות על זכויות אדם ואזרח, איכות חיים, מחירים, רגולציה והקצאת כספי ציבור. חלקו השני של המאמר מיישם את נקודת המבט הזאת על רגולציית הקרקעות בישראל ועל פרשת הקשת הדמוקרטית המזרחית."
+    },
+    {
+      "slug": "democracy_west_bank_political_trust_self_sacrifice_summary_he",
+      "file": "democracy_west_bank_political_trust_self_sacrifice_summary_he.html",
+      "permalink": "/democracy_west_bank_political_trust_self_sacrifice_summary_he.html",
+      "sortKey": 202605310002,
+      "titleHe": "אמון פוליטי מסייע להבין נכונות להקרבה בחברה הפלסטינית בגדה",
+      "paperTitle": "Palestinian society in the West Bank: trust and self-sacrifice",
+      "authorsCardHe": "Gadi Hitman, Igal Shiri, Eyal Lewin",
+      "sourceAuthors": [
+        "Gadi Hitman",
+        "Igal Shiri",
+        "Eyal Lewin"
+      ],
+      "journal": "Cogent Social Sciences, 10(1)",
+      "dateText": "פורסם: 04.04.2024",
+      "doiUrl": "https://doi.org/10.1080/23311886.2024.2336699",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_west_bank_political_trust_self_sacrifice_summary_he.jpg",
+        "altHe": "חוקרים מראיינים תושבים בחדר קהילתי על אמון פוליטי וזכויות בזמן סכסוך",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Hitman, Shiri ו-Lewin מציעים להשתמש באמון פוליטי כנקודת מוצא להבנת תגובות חברתיות פלסטיניות. לפי התקציר, המחקר כולל ראיונות עם 90 תושבי הגדה המערבית ומתמקד בנושאים פוליטיים וחברתיים מרכזיים, ובהם דמוקרטיה וזכויות אדם, שחיתות ופיצול פוליטי. התרומה היא בהעברת הדיון מניבוי ביטחוני כללי לבחינת תנאי האמון שמעצבים נכונות להקרבה ולפעולה קולקטיבית."
+    },
+    {
+      "slug": "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he",
+      "file": "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html",
+      "permalink": "/democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html",
+      "sortKey": 202605310001,
+      "titleHe": "גאוגרפיה פוליטית של שליטה מעמיקה מציבה את זכויות האדם במרכז הדיון",
+      "paperTitle": "Deepening apartheid: The political geography of colonizing Israel/Palestine",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "Frontiers in Political Science, 4",
+      "dateText": "פורסם: 11.01.2023",
+      "doiUrl": "https://doi.org/10.3389/fpos.2022.981867",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.jpg",
+        "altHe": "חוקרי זכויות בוחנים שכבות מפה ותצלומי אוויר של מרחבים, דרכים ומשטרי שליטה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-05-31",
+      "dateModified": "2026-05-31",
+      "summaryHe": "Yiftachel מנתח את ישראל/פלסטין דרך נקודת מבט גאוגרפית-פוליטית. לפי התקציר, המאמר טוען ששילוב של כוחות קולוניאליים, לאומיים, קפיטליסטיים וליברליים יצר תהליך של העמקת אפרטהייד בכל השטח שבשליטת ישראל בין הים לנהר. התרומה לאתר היא בהצבת שאלות של מרחב, משטר וזכויות במרכז הדיון על דמוקרטיה, אזרחות ושוויון."
+    },
     {
       "slug": "democracy_cities_fight_for_autonomy_protest_israel_summary_he",
       "file": "democracy_cities_fight_for_autonomy_protest_israel_summary_he.html",
@@ -641,7 +918,7 @@
       "file": "democracy_meso_institutions_unbundling_summary_he.html",
       "permalink": "/democracy_meso_institutions_unbundling_summary_he.html",
       "sortKey": 202605280008,
-      "titleHe": "מוסדות ביניים מסבירים איך כללים כלליים פועלים בשטח",
+      "titleHe": "מוסדות ביניים מסבירים איך עקרונות מוסדיים מיושמים בשטח",
       "paperTitle": "Unbundling institutions: the case for meso-institutions",
       "authorsCardHe": "Claude Ménard, Gaetano Martino",
       "sourceAuthors": [
@@ -662,7 +939,7 @@
         "fitness": "high"
       },
       "datePublished": "2026-05-28",
-      "dateModified": "2026-05-28",
+      "dateModified": "2026-05-31",
       "summaryHe": "Ménard ו־Martino טוענים שהדיון הכלכלי במוסדות התקדם אך עדיין סובל ממושג רחב מדי שמכסה מצבים שונים בלי מסגרת מחקר ברורה. הם מציעים לחשוב על <strong>meso-institutions</strong> כמכשירים ומנגנוני תמסורת שמחברים בין כללים, נורמות ואמונות ברמת המאקרו לבין תפיסה, התאמה, יישום או התנגדות של שחקנים ברמת המיקרו. המאמר תורם לשפה מדויקת יותר לניתוח מדוע רפורמות מוסדיות מצליחות במקום אחד ונכשלות במקום אחר."
     },
     {
