@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-01",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -16198,6 +16198,291 @@
         "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.html": "high"
       },
       "generatedAt": "2026-05-31"
+    },
+    {
+      "file": "html_qa/democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html",
+      "usedBy": [
+        "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html"
+      ],
+      "cardTitleHe": "חוקי זיכרון אינם מספיקים כדי לכלול קהילות מזרחיות בנרטיב הלאומי",
+      "authorsHe": "Rebecca Kook, Sophia Solomon",
+      "visualDescriptionHe": "ארכיון קהילתי ודיון אזרחי על שילוב זיכרון מזרחי בנרטיב השואה הישראלי.",
+      "semanticDescriptionHe": "המאמר עוסק בזיכרון לאומי, קהילות מיעוט ושייכות דמוקרטית ולכן הדימוי נבנה כסצנת ארכיון קהילתית ייחודית.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "זיכרון לאומי",
+        "מיעוטים",
+        "שוויון",
+        "שואה",
+        "יהדות צפון אפריקה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.html",
+      "usedBy": [
+        "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.html"
+      ],
+      "cardTitleHe": "הכיבוש ומלחמות עזה מתוארים כאיום מתמשך על הליברליות בישראל",
+      "authorsHe": "Menachem Mautner",
+      "visualDescriptionHe": "חדר סמינר משפטי עם מפות ותיקי מחקר על ביטחון, כיבוש וליברליזם.",
+      "semanticDescriptionHe": "המאמר עוסק בכיבוש, עזה ושחיקה ליברלית ולכן הדימוי נבנה כסצנת מחקר מוסדית על לחץ ביטחוני ודמוקרטי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "כיבוש",
+        "עזה",
+        "ליברליזם",
+        "שלטון החוק"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.html",
+      "usedBy": [
+        "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.html"
+      ],
+      "cardTitleHe": "פיקוח על מודיעין מראה כיצד ביטחון עלול לעקוף הליך חוקי",
+      "authorsHe": "Ephraim Kahana, Daphna Sharfman",
+      "visualDescriptionHe": "חדר פיקוח אזרחי עם תיקי מודיעין חסויים ודיון על גבולות הסודיות.",
+      "semanticDescriptionHe": "המאמר עוסק במלמ״ב, עמימות גרעינית ושלטון החוק ולכן הדימוי נבנה כסצנת ביקורת אזרחית ייחודית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "מודיעין",
+        "פיקוח אזרחי",
+        "שלטון החוק",
+        "ביטחון לאומי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.html",
+      "usedBy": [
+        "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.html"
+      ],
+      "cardTitleHe": "ניסוי Minds of Peace בוחן שלום כהליך אזרחי פתוח",
+      "authorsHe": "Arnon Cahen",
+      "visualDescriptionHe": "אספה אזרחית מדומיינת שבה אזרחים דנים ביישוב סכסוך מול קהל.",
+      "semanticDescriptionHe": "המאמר עוסק בדיאלוג ישראלי־פלסטיני אזרחי ולכן הדימוי נבנה כסצנת דיון ציבורית על פיוס.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "יישוב סכסוכים",
+        "דיאלוג אזרחי",
+        "פיוס"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_political_communication_mandate_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_political_communication_mandate_elections_summary_he.html",
+      "usedBy": [
+        "democracy_political_communication_mandate_elections_summary_he.html"
+      ],
+      "cardTitleHe": "פרשנות בחירות כמנדט מחייב תלויה בתקשורת ובדעת קהל",
+      "authorsHe": "Michal Shamir, Jacob Shamir, Tamir Sheafer",
+      "visualDescriptionHe": "חדר מחקר תקשורתי הבוחן תוצאות בחירות וגרפים אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק במנדט בחירות ובתקשורת פוליטית ולכן הדימוי נבנה כסצנת ניתוח בחירות ייחודית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "בחירות",
+        "מנדט ציבורי",
+        "תקשורת פוליטית",
+        "דעת קהל"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_political_communication_mandate_elections_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.html"
+      ],
+      "cardTitleHe": "תיקונים חוקתיים נבחנים כמבחן לעמידות דמוקרטית",
+      "authorsHe": "Iryna Sofińska, Chen Friedberg",
+      "visualDescriptionHe": "סדנת משפט חוקתי משווה עם קלסרים וסימוני עבודה על תיקונים חוקתיים.",
+      "semanticDescriptionHe": "המאמר עוסק בתיקונים חוקתיים, משאלי עם ומצבי חירום ולכן הדימוי נבנה כסצנת עבודה משפטית השוואתית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "תיקון חוקתי",
+        "משאל עם",
+        "מצב חירום"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_network_hamula_politics_minority_governance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_network_hamula_politics_minority_governance_summary_he.html",
+      "usedBy": [
+        "democracy_network_hamula_politics_minority_governance_summary_he.html"
+      ],
+      "cardTitleHe": "פוליטיקה חמולתית משנה את ביצועי רשתות הממשל המקומי",
+      "authorsHe": "Ashwaq Mondey, Itai Beeri",
+      "visualDescriptionHe": "מפגש ממשל מקומי בקהילת מיעוט סביב מפות שירות ותיאום רשתות.",
+      "semanticDescriptionHe": "המאמר עוסק בממשל רשתות ופוליטיקה חמולתית ולכן הדימוי נבנה כסצנת תיאום מקומית ייחודית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ממשל רשתות",
+        "חמולה",
+        "מיעוטים",
+        "רשויות ערביות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_network_hamula_politics_minority_governance_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.html",
+      "usedBy": [
+        "democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.html"
+      ],
+      "cardTitleHe": "מחמוד מוחמד טהה מציע רפורמה דתית סביב חירות ושוויון",
+      "authorsHe": "Meir Hatina",
+      "visualDescriptionHe": "חדר קריאה אינטלקטואלי על מחשבה פוליטית דתית, חירות ושוויון.",
+      "semanticDescriptionHe": "המאמר עוסק במחשבת טהה ובחיבור בין דת, דמוקרטיה וסוציאליזם ולכן הדימוי נבנה כסצנת מחקר רעיונית.",
+      "tags": [
+        "rights-equality-minorities",
+        "אידאולוגיה פוליטית",
+        "חירות",
+        "שוויון",
+        "רפורמה דתית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.html": "standard"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_interpretative_polarization_across_social_platforms_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_interpretative_polarization_across_social_platforms_summary_he.html",
+      "usedBy": [
+        "democracy_interpretative_polarization_across_social_platforms_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב פרשני ברשתות חברתיות מסביר איך מחלוקת מתקבעת",
+      "authorsHe": "Neta Kligler-Vilenchik, Christian Baden, Moran Yarchi",
+      "visualDescriptionHe": "מעבדת מחקר תקשורת עם מסכים מופשטים לניתוח שיחות מקוונות.",
+      "semanticDescriptionHe": "המאמר עוסק בקיטוב פרשני ובפלטפורמות חברתיות ולכן הדימוי נבנה כסצנת מחקר דיגיטלית ייחודית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "קיטוב פרשני",
+        "רשתות חברתיות",
+        "פייסבוק",
+        "ווטסאפ"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_interpretative_polarization_across_social_platforms_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_haredim_higher_education_liberal_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_haredim_higher_education_liberal_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_haredim_higher_education_liberal_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "השכלה גבוהה לחרדים בוחנת את גבולות הסובלנות הליברלית",
+      "authorsHe": "Tova Hartman, Chaim Zicherman",
+      "visualDescriptionHe": "קמפוס אקדמי שבו סטודנטים ומנהלים דנים בהפרדה מגדרית ושילוב חרדים.",
+      "semanticDescriptionHe": "המאמר עוסק בהשכלה גבוהה לחרדים, סובלנות ליברלית ושוויון מגדרי ולכן הדימוי נבנה כסצנת קמפוס ייחודית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "חרדים",
+        "השכלה גבוהה",
+        "הפרדה מגדרית",
+        "סובלנות ליברלית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_haredim_higher_education_liberal_democracy_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-01"
     }
   ],
   "topicGraphics": [

@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 679,
+  "paperCount": 689,
   "papers": [
+    {
+      "slug": "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he",
+      "file": "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html",
+      "permalink": "/democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html",
+      "sortKey": 202606010010,
+      "titleHe": "חוקי זיכרון אינם מספיקים כדי לכלול קהילות מזרחיות בנרטיב הלאומי",
+      "paperTitle": "“Don't cry, it doesn't belong to us”; critical thoughts on commemoration as a means of inclusion: Mizrahi Jews and Holocaust memory in Israel",
+      "authorsCardHe": "Rebecca Kook, Sophia Solomon",
+      "sourceAuthors": [
+        "Rebecca Kook",
+        "Sophia Solomon"
+      ],
+      "journal": "Nations and Nationalism, 29(4), 1273-1288",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1111/nana.12908",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.jpg",
+        "altHe": "סצנת ארכיון קהילתית על זיכרון מיעוטים ושייכות לנרטיב הלאומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Kook ו־Solomon מנתחות את הקשר בין <strong>זיכרון לאומי</strong>, מיעוטים ודמוקרטיה דרך חקיקה ומדיניות שמבקשות לכלול את סיפורן של קהילות יהודיות מצפון אפריקה בזיכרון השואה בישראל. על בסיס ראיונות קבוצתיים, הן מראות שהכרה רשמית אינה מחיקה מיידית של חוויית הדרה, משום ששייכות אזרחית נוצרת גם דרך האופן שבו קהילה מרגישה מיוצגת, נשמעת ומכובדת."
+    },
+    {
+      "slug": "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he",
+      "file": "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.html",
+      "permalink": "/democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.html",
+      "sortKey": 202606010009,
+      "titleHe": "הכיבוש ומלחמות עזה מתוארים כאיום מתמשך על הליברליות בישראל",
+      "paperTitle": "The Occupied Territories, Gaza, and Israel’s Recent Slide to Authoritarianism",
+      "authorsCardHe": "Menachem Mautner",
+      "sourceAuthors": [
+        "Menachem Mautner"
+      ],
+      "journal": "Law & Ethics of Human Rights, 14(2), 273-292",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1515/lehr-2020-2015",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.jpg",
+        "altHe": "חדר סמינר משפטי על כיבוש, ביטחון ושחיקה ליברלית בדמוקרטיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Mautner מנתח את הקשר בין השליטה בשטחים לבין שחיקה בליברליות הישראלית. לטענתו, הכיבוש מייצר מחאה וביקורת נגד הממשלה וצה״ל, ותגובות ממשלתיות ופעילות של ארגוני ימין אזרחיים כלפי ביקורת זו מערערות או מאיימות על מרכיבים ליברליים של המשטר."
+    },
+    {
+      "slug": "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he",
+      "file": "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.html",
+      "permalink": "/democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.html",
+      "sortKey": 202606010008,
+      "titleHe": "פיקוח על מודיעין מראה כיצד ביטחון עלול לעקוף הליך חוקי",
+      "paperTitle": "Misuse of power in Israeli intelligence",
+      "authorsCardHe": "Ephraim Kahana, Daphna Sharfman",
+      "sourceAuthors": [
+        "Ephraim Kahana",
+        "Daphna Sharfman"
+      ],
+      "journal": "Israel Affairs, 20(1), 62-74",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1080/13537121.2013.863081",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.jpg",
+        "altHe": "חדר פיקוח אזרחי עם תיקי מודיעין חסויים ודיון בשלטון החוק",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Kahana ו־Sharfman מתארים כיצד מלמ״ב, הגוף המופקד על הגנת מדיניות העמימות הגרעינית, פעל במקרים מסוימים מעבר להליך הפלילי הרגיל. דרך הדיון בחקירות, הטרדות וסנקציות לא־משפטיות, המאמר מציב את שאלת גבולות הביטחון מול דמוקרטיה ושלטון החוק."
+    },
+    {
+      "slug": "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he",
+      "file": "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.html",
+      "permalink": "/democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.html",
+      "sortKey": 202606010007,
+      "titleHe": "ניסוי Minds of Peace בוחן שלום כהליך אזרחי פתוח",
+      "paperTitle": "The Minds of Peace Experiment: conflict resolution from the ground up",
+      "authorsCardHe": "Arnon Cahen",
+      "sourceAuthors": [
+        "Arnon Cahen"
+      ],
+      "journal": "Israel Affairs, 18(1), 88-106",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1080/13537121.2012.634274",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.jpg",
+        "altHe": "אספה אזרחית לדיון ישראלי־פלסטיני על יישוב סכסוך מלמטה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Cahen מציג את ניסוי Minds of Peace כמודל שמביא ישראלים ופלסטינים רגילים לדון בצעדים לסיום הסכסוך בפני קהל ובסיוע מנחים. המאמר בוחן את תרומת המודל לדינמיקת הסכסוך ואת התאמתו כאפשרות לאספה ציבורית פלסטינית־ישראלית רחבה יותר."
+    },
+    {
+      "slug": "democracy_political_communication_mandate_elections_summary_he",
+      "file": "democracy_political_communication_mandate_elections_summary_he.html",
+      "permalink": "/democracy_political_communication_mandate_elections_summary_he.html",
+      "sortKey": 202606010006,
+      "titleHe": "פרשנות בחירות כמנדט מחייב תלויה בתקשורת ובדעת קהל",
+      "paperTitle": "The Political Communication of Mandate Elections",
+      "authorsCardHe": "Michal Shamir, Jacob Shamir, Tamir Sheafer",
+      "sourceAuthors": [
+        "Michal Shamir",
+        "Jacob Shamir",
+        "Tamir Sheafer"
+      ],
+      "journal": "Political Communication, 25(1), 47-66",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1080/10584600701807869",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_communication_mandate_elections_summary_he.jpg",
+        "altHe": "חדר מחקר תקשורתי הבוחן תוצאות בחירות ופרשנות מנדט ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Shamir, Shamir ו־Sheafer מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות."
+    },
+    {
+      "slug": "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he",
+      "file": "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.html",
+      "permalink": "/democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.html",
+      "sortKey": 202606010005,
+      "titleHe": "תיקונים חוקתיים נבחנים כמבחן לעמידות דמוקרטית",
+      "paperTitle": "CONSTITUTIONAL AMENDMENTS: COMPARATIVE (RE)VIEW IN CONTEMPORARY CONSTITUTIONALISM",
+      "authorsCardHe": "Iryna Sofińska, Chen Friedberg",
+      "sourceAuthors": [
+        "Iryna Sofińska",
+        "Chen Friedberg"
+      ],
+      "journal": "Legal Horizons, 18(3), 51-62",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.54477/lh.25192353.2023.3.pp.51-62",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he.jpg",
+        "altHe": "סדנת משפט חוקתי משווה על תיקונים חוקתיים ומשאלי עם",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Sofińska ו־Friedberg בוחנות מנגנונים של תיקון חוקתי, לרבות סעיפים נצחיים, משאלי עם והליכי שינוי במשטרי חירום או תנאים חריגים. המאמר משווה בין איטליה, פולין ואוקראינה ומעלה שאלה מרכזית: האם דרך תיקון החוקה תלויה בצורת המשטר, ברמת הקשיחות החוקתית או בתרבות פוליטית ומוסדית רחבה יותר."
+    },
+    {
+      "slug": "democracy_network_hamula_politics_minority_governance_summary_he",
+      "file": "democracy_network_hamula_politics_minority_governance_summary_he.html",
+      "permalink": "/democracy_network_hamula_politics_minority_governance_summary_he.html",
+      "sortKey": 202606010004,
+      "titleHe": "פוליטיקה חמולתית משנה את ביצועי רשתות הממשל המקומי",
+      "paperTitle": "The competing impact of network politics and hamula (clan) politics on perceived network performance: the case of minority networks",
+      "authorsCardHe": "Ashwaq Mondey, Itai Beeri",
+      "sourceAuthors": [
+        "Ashwaq Mondey",
+        "Itai Beeri"
+      ],
+      "journal": "Local Government Studies, 50(1), 204-229",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1080/03003930.2023.2185229",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_network_hamula_politics_minority_governance_summary_he.jpg",
+        "altHe": "מפגש ממשל מקומי בקהילת מיעוט על רשתות שירות ופוליטיקה חמולתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Mondey ו־Beeri בוחנים סקר בקרב 160 חברי רשתות ערביות בישראל, ומראים שפוליטיקה רשתית ופוליטיקה חמולתית משפיעות על הקשר בין ניהול רשתות לבין ביצועים נתפסים. הממצא מדגיש שהטמעת ממשל רשתות בקהילות מיעוט מצריכה הבנה של יחסי כוח חברתיים, מסורתיים ומקומיים."
+    },
+    {
+      "slug": "democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he",
+      "file": "democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.html",
+      "permalink": "/democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.html",
+      "sortKey": 202606010003,
+      "titleHe": "מחמוד מוחמד טהה מציע רפורמה דתית סביב חירות ושוויון",
+      "paperTitle": "Dismantling the sacred in the name of humanity: Mahmud Muhammad Taha’s cultural revolution",
+      "authorsCardHe": "Meir Hatina",
+      "sourceAuthors": [
+        "Meir Hatina"
+      ],
+      "journal": "Journal of Political Ideologies, 27(1), 31-52",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1080/13569317.2021.1968160",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mahmud_taha_cultural_revolution_democracy_socialism_summary_he.jpg",
+        "altHe": "חדר קריאה מחקרי על מחשבה פוליטית דתית, חירות ושוויון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Hatina מציג את טהה כהוגה שניסה לחדש את האסלאם דרך חזרה לערכים אוניברסליים של התקופה המכאית: צדק, חירות ושלום. לפי המאמר, החלוקה החריפה של טהה בין האסלאם המכאי לבין האסלאם המדיני שימשה אותו לביקורת על כפייה, ניצול וזיכרון קולקטיבי ערבי סביב הסכסוך הישראלי־ערבי."
+    },
+    {
+      "slug": "democracy_interpretative_polarization_across_social_platforms_summary_he",
+      "file": "democracy_interpretative_polarization_across_social_platforms_summary_he.html",
+      "permalink": "/democracy_interpretative_polarization_across_social_platforms_summary_he.html",
+      "sortKey": 202606010002,
+      "titleHe": "קיטוב פרשני ברשתות חברתיות מסביר איך מחלוקת מתקבעת",
+      "paperTitle": "Interpretative Polarization across Platforms: How Political Disagreement Develops Over Time on Facebook, Twitter, and WhatsApp",
+      "authorsCardHe": "Neta Kligler-Vilenchik, Christian Baden, Moran Yarchi",
+      "sourceAuthors": [
+        "Neta Kligler-Vilenchik",
+        "Christian Baden",
+        "Moran Yarchi"
+      ],
+      "journal": "Social Media + Society, 6(3)",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1177/2056305120944393",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_interpretative_polarization_across_social_platforms_summary_he.jpg",
+        "altHe": "מעבדת מחקר תקשורת על קיטוב פרשני בשיחות מקוונות מרובות פלטפורמות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Kligler-Vilenchik, Baden ו־Yarchi חוקרים מחלוקת פוליטית ישראלית בשלוש פלטפורמות חברתיות, ומבחינים בין עמדות מנוגדות לבין פרשנויות מנוגדות של אותו נושא. הם מוצאים שעמדות ופרשנויות מנוגדות קשורות זו בזו כבר מתחילת הדיון, ושההבדלים בין הפלטפורמות משקפים גם את מאפייניהן החברתיים־טכנולוגיים."
+    },
+    {
+      "slug": "democracy_haredim_higher_education_liberal_democracy_summary_he",
+      "file": "democracy_haredim_higher_education_liberal_democracy_summary_he.html",
+      "permalink": "/democracy_haredim_higher_education_liberal_democracy_summary_he.html",
+      "sortKey": 202606010001,
+      "titleHe": "השכלה גבוהה לחרדים בוחנת את גבולות הסובלנות הליברלית",
+      "paperTitle": "HIGHER EDUCATION FOR HAREDIM IN ISRAEL",
+      "authorsCardHe": "Tova Hartman, Chaim Zicherman",
+      "sourceAuthors": [
+        "Tova Hartman",
+        "Chaim Zicherman"
+      ],
+      "journal": "Journal of Law and Religion, 34(3), 273-283",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1017/jlr.2019.37",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_haredim_higher_education_liberal_democracy_summary_he.jpg",
+        "altHe": "קמפוס אקדמי בדיון על הפרדה מגדרית, שילוב חרדים וסובלנות ליברלית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "summaryHe": "Hartman ו־Zicherman מנתחים את הוויכוח בישראל על תכניות אקדמיות מופרדות מגדרית לחרדים, לרבות הדיון הציבורי והעתירות לבית המשפט העליון. הם מציבים את המקרה בתוך תאוריה של רב־תרבותיות וסובלנות, ושואלים האם דמוקרטיה ליברלית יכולה או צריכה לסבול פרקטיקה לא־ליברלית כאשר היא עשויה לקדם שילוב חברתי."
+    },
     {
       "slug": "democracy_globalization_political_cultures_american_israeli_jews_summary_he",
       "file": "democracy_globalization_political_cultures_american_israeli_jews_summary_he.html",
