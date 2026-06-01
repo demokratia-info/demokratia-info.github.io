@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-01",
+  "lastUpdated": "2026-06-02",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -16483,6 +16483,310 @@
         "democracy_haredim_higher_education_liberal_democracy_summary_he.html": "high"
       },
       "generatedAt": "2026-06-01"
+    },
+    {
+      "file": "html_qa/democracy_urban_citizenship_gray_space_metrozenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_urban_citizenship_gray_space_metrozenship_summary_he.html",
+      "usedBy": [
+        "democracy_urban_citizenship_gray_space_metrozenship_summary_he.html"
+      ],
+      "cardTitleHe": "עירוניות אפורה מחייבת לחשוב מחדש על אזרחות מטרופולינית",
+      "authorsHe": "Oren Yiftachel",
+      "visualDescriptionHe": "סדנת מפות עירוניות על מרחבים אפורים, אי־פורמליות ואזרחות מטרופולינית.",
+      "semanticDescriptionHe": "המאמר עוסק באזרחות עירונית, מרחבים אפורים וזכות לעיר ולכן הדימוי נבנה כסצנת מחקר ותכנון מטרופולינית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "אזרחות עירונית",
+        "מרחב אפור",
+        "מטרוזנשיפ",
+        "זכות לעיר",
+        "אי־פורמליות עירונית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_urban_citizenship_gray_space_metrozenship_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_local_councillors_governance_reforms_north_south_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_local_councillors_governance_reforms_north_south_summary_he.html",
+      "usedBy": [
+        "democracy_local_councillors_governance_reforms_north_south_summary_he.html"
+      ],
+      "cardTitleHe": "רפורמות ממשל מקומי מתקבלות אחרת בצפון ובדרום אירופה",
+      "authorsHe": "Eran Razin, Anna Hazan",
+      "visualDescriptionHe": "חדר מחקר השוואתי עם מפה, סקרים ותצלומי מועצות מקומיות אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק בעמדות נבחרים מקומיים כלפי רפורמות ממשל ולכן הדימוי נבנה כסצנת מחקר השוואתית על דמוקרטיה מקומית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "שלטון מקומי",
+        "רפורמות ממשל",
+        "חברי מועצות מקומיות",
+        "השתתפות ציבורית",
+        "ביזור"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_local_councillors_governance_reforms_north_south_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.html",
+      "usedBy": [
+        "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מהגרי FSU נוצרים חושפים את גבולות השייכות האזרחית בישראל",
+      "authorsHe": "Rebeca Raijman, Janina Pinsky",
+      "visualDescriptionHe": "מפגש מחקר קהילתי עם משתתפים סביב שולחן, מסמכים מטושטשים ותצלומי משפחה.",
+      "semanticDescriptionHe": "המאמר עוסק במהגרים מחבר המדינות, אפליה ומרחק חברתי ולכן הדימוי נבנה כסצנת ראיונות קהילתית מכבדת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "מהגרים מחבר המדינות",
+        "אפליה נתפסת",
+        "מרחק חברתי",
+        "דת ולאומיות",
+        "שוויון אזרחי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_zionism_political_theology_liberalism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_zionism_political_theology_liberalism_summary_he.html",
+      "usedBy": [
+        "democracy_zionism_political_theology_liberalism_summary_he.html"
+      ],
+      "cardTitleHe": "תיאולוגיה פוליטית של ציונות מציבה את הריבונות בתוך ביקורת המודרניות",
+      "authorsHe": "Raef Zreik",
+      "visualDescriptionHe": "חדר סמינר עם ספרים, מפות ארכיון מטושטשות וחוקרים בדיון על ריבונות ותיאוריה פוליטית.",
+      "semanticDescriptionHe": "המאמר עוסק בתיאולוגיה פוליטית של ציונות ולכן הדימוי נבנה כסצנת סמינר רעיונית על דת, חוק ולאומיות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "תיאולוגיה פוליטית",
+        "ציונות",
+        "ריבונות",
+        "חילון",
+        "ליברליזם"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_zionism_political_theology_liberalism_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_stratified_defensive_planning_democracy_objections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_stratified_defensive_planning_democracy_objections_summary_he.html",
+      "usedBy": [
+        "democracy_stratified_defensive_planning_democracy_objections_summary_he.html"
+      ],
+      "cardTitleHe": "דיוני התנגדויות בתכנון חושפים דמוקרטיה תכנונית מרובדת",
+      "authorsHe": "Talia Margalit, Adriana Kemp",
+      "visualDescriptionHe": "חדר ועדת תכנון עם תושבים, מתכננים ומודל עירוני בדיון על התנגדויות לתכניות.",
+      "semanticDescriptionHe": "המאמר עוסק בדיוני התנגדויות ובדמוקרטיה תכנונית מרובדת ולכן הדימוי נבנה כסצנת ועדת תכנון אזרחית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "דמוקרטיה תכנונית",
+        "התנגדויות לתכניות",
+        "אי־שוויון מרחבי",
+        "ועדות מחוזיות",
+        "שיתוף ציבור"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_stratified_defensive_planning_democracy_objections_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_doing_just_city_social_impact_beersheba_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_doing_just_city_social_impact_beersheba_summary_he.html",
+      "usedBy": [
+        "democracy_doing_just_city_social_impact_beersheba_summary_he.html"
+      ],
+      "cardTitleHe": "הערכת השפעה חברתית הופכת את העיר הצודקת למבחן תכנוני בבאר שבע",
+      "authorsHe": "Oren Yiftachel, Rani Mandelbaum",
+      "visualDescriptionHe": "סטודיו תכנון עם מודל עיר מדברי, מפות שכונתיות ותושבים בדיון על הערכת השפעה חברתית.",
+      "semanticDescriptionHe": "המאמר עוסק בעיר צודקת ובהערכת השפעה חברתית בבאר שבע ולכן הדימוי נבנה כסצנת תכנון אזרחית בנגב.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "עיר צודקת",
+        "הערכת השפעה חברתית",
+        "תכנון עירוני",
+        "באר שבע",
+        "שוויון"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_doing_just_city_social_impact_beersheba_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_local_democracy_jewish_arab_communities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_local_democracy_jewish_arab_communities_summary_he.html",
+      "usedBy": [
+        "democracy_local_democracy_jewish_arab_communities_summary_he.html"
+      ],
+      "cardTitleHe": "ביזור חינוכי משפיע אחרת על דמוקרטיה מקומית ביישובים יהודיים וערביים",
+      "authorsHe": "As’ad Ghanem, Ahmad Hijazi",
+      "visualDescriptionHe": "מרכז קהילתי מקומי שבו אנשי חינוך, פעילים ותושבים בוחנים מפות ותכניות חינוך.",
+      "semanticDescriptionHe": "המאמר עוסק בביזור חינוכי, חברה אזרחית ודמוקרטיה מקומית ולכן הדימוי נבנה כסצנת מפגש קהילתי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "דמוקרטיה מקומית",
+        "ביזור חינוכי",
+        "חברה אזרחית",
+        "קהילות ערביות",
+        "קהילות יהודיות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_local_democracy_jewish_arab_communities_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_nation_owe_non_citizens_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_nation_owe_non_citizens_rights_summary_he.html",
+      "usedBy": [
+        "democracy_nation_owe_non_citizens_rights_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות לא־אזרחים תלויות באופן שבו הציבור מפרש איום ושייכות לאומית",
+      "authorsHe": "Rebeca Raijman, Eldad Davidov, Peter Schmidt, Oshrat Hochman",
+      "visualDescriptionHe": "מעבדת סקרים חברתית עם שאלונים אנונימיים, תרשימים לא קריאים וחוקרים בדיון על זכויות מהגרים.",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות לא־אזרחים, איום ושייכות לאומית ולכן הדימוי נבנה כסצנת מחקר השוואתית על אזרחות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "לא־אזרחים",
+        "זכויות מהגרים",
+        "איום נתפס",
+        "פטריוטיות",
+        "שוביניזם"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_nation_owe_non_citizens_rights_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_rule_law_palestinian_authority_power_justice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_rule_law_palestinian_authority_power_justice_summary_he.html",
+      "usedBy": [
+        "democracy_rule_law_palestinian_authority_power_justice_summary_he.html"
+      ],
+      "cardTitleHe": "שלטון חוק ברשות הפלסטינית מוצג כתנאי לדמוקרטיה ולדו־קיום",
+      "authorsHe": "Hillel Frisch, Menachem Hofnung",
+      "visualDescriptionHe": "חדר מחקר משפטי ומוסדי עם תיקים, מפות מטושטשות ולוח זמנים של בניית מוסדות.",
+      "semanticDescriptionHe": "המאמר עוסק בשלטון החוק, ריכוז כוח ומוסדות דמוקרטיים ברשות הפלסטינית ולכן הדימוי נבנה כסצנת מחקר מוסדית ניטרלית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "שלטון החוק",
+        "הרשות הפלסטינית",
+        "דמוקרטיזציה",
+        "ריכוז סמכות",
+        "חברה אזרחית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_rule_law_palestinian_authority_power_justice_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_participation_ideologies_israeli_planning_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_participation_ideologies_israeli_planning_summary_he.html",
+      "usedBy": [
+        "democracy_participation_ideologies_israeli_planning_summary_he.html"
+      ],
+      "cardTitleHe": "אידיאולוגיות תכנון בישראל מעצבות את גבולות השתתפות הציבור",
+      "authorsHe": "S Gertel, Hubert Law-Yone",
+      "visualDescriptionHe": "משרד תכנון ישראלי היסטורי עם מפות ידניות, מודל עירוני ונציגי ציבור סביב שולחן.",
+      "semanticDescriptionHe": "המאמר עוסק באידיאולוגיות השתתפות בתכנון הישראלי ולכן הדימוי נבנה כסצנת תכנון ארכיונית ומקצועית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "השתתפות ציבורית",
+        "תכנון ישראלי",
+        "אידיאולוגיה תכנונית",
+        "אד־הוקיזם",
+        "קליינטליזם"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_participation_ideologies_israeli_planning_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-02"
     }
   ],
   "topicGraphics": [

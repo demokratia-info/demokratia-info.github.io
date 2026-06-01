@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 689,
+  "paperCount": 699,
   "papers": [
+    {
+      "slug": "democracy_participation_ideologies_israeli_planning_summary_he",
+      "file": "democracy_participation_ideologies_israeli_planning_summary_he.html",
+      "permalink": "/democracy_participation_ideologies_israeli_planning_summary_he.html",
+      "sortKey": 202606020010,
+      "titleHe": "אידיאולוגיות תכנון בישראל מעצבות את גבולות השתתפות הציבור",
+      "paperTitle": "Participation Ideologies in Israeli Planning",
+      "authorsCardHe": "S Gertel, Hubert Law-Yone",
+      "sourceAuthors": [
+        "S Gertel",
+        "H Law-Yone"
+      ],
+      "journal": "Environment and Planning C: Government and Policy, 9(2), 173-188",
+      "dateText": "פורסם: יוני 1991",
+      "doiUrl": "https://doi.org/10.1068/c090173",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_participation_ideologies_israeli_planning_summary_he.jpg",
+        "altHe": "מתכננים ונציגי ציבור בוחנים מפות ארכיון בדיון על השתתפות בתכנון הישראלי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Gertel ו־Law-Yone טוענים שמחקרי השתתפות בתכנון נוטים להתעלם מן התפקיד של אידיאולוגיה בפרקטיקה מקצועית. דרך המקרה הישראלי, הם מראים כיצד דפוסי פיתוח פוליטיים וחברתיים משפיעים על השתתפות הציבור ועל תחושת האחריות של המתכנן."
+    },
+    {
+      "slug": "democracy_rule_law_palestinian_authority_power_justice_summary_he",
+      "file": "democracy_rule_law_palestinian_authority_power_justice_summary_he.html",
+      "permalink": "/democracy_rule_law_palestinian_authority_power_justice_summary_he.html",
+      "sortKey": 202606020009,
+      "titleHe": "שלטון חוק ברשות הפלסטינית מוצג כתנאי לדמוקרטיה ולדו־קיום",
+      "paperTitle": "Power or Justice? Rule and Law in the Palestinian Authority",
+      "authorsCardHe": "Hillel Frisch, Menachem Hofnung",
+      "sourceAuthors": [
+        "Hillel Frisch",
+        "Menachem Hofnung"
+      ],
+      "journal": "Journal of Peace Research, 44(3), 331-348",
+      "dateText": "פורסם: 01.05.2007",
+      "doiUrl": "https://doi.org/10.1177/0022343307076639",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_rule_law_palestinian_authority_power_justice_summary_he.jpg",
+        "altHe": "חוקרים בוחנים תיקי מוסדות ומשפט בדיון על שלטון החוק ברשות הפלסטינית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Frisch ו־Hofnung מעריכים שלוש תזות להסבר חולשת שלטון החוק ברשות הפלסטינית: התערבות חיצונית, מבנה פנימי ותרבות פוליטית. הממצא המרכזי הוא שמרדף אחר כוח הוביל לריכוז סמכות בידי הרשות המבצעת, למרות ניסיונות של פוליטיקאים וחברה אזרחית למנוע זאת."
+    },
+    {
+      "slug": "democracy_nation_owe_non_citizens_rights_summary_he",
+      "file": "democracy_nation_owe_non_citizens_rights_summary_he.html",
+      "permalink": "/democracy_nation_owe_non_citizens_rights_summary_he.html",
+      "sortKey": 202606020008,
+      "titleHe": "זכויות לא־אזרחים תלויות באופן שבו הציבור מפרש איום ושייכות לאומית",
+      "paperTitle": "What Does a Nation Owe Non-Citizens?",
+      "authorsCardHe": "Rebeca Raijman, Eldad Davidov, Peter Schmidt, Oshrat Hochman",
+      "sourceAuthors": [
+        "Rebeca Raijman",
+        "Eldad Davidov",
+        "Peter Schmidt",
+        "Oshrat Hochman"
+      ],
+      "journal": "International Journal of Comparative Sociology, 49(2-3), 195-220",
+      "dateText": "פורסם: אפריל 2008",
+      "doiUrl": "https://doi.org/10.1177/0020715208088912",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_nation_owe_non_citizens_rights_summary_he.jpg",
+        "altHe": "חוקרים בוחנים סקרי דעת קהל על זכויות מהגרים ושייכות אזרחית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Raijman, Davidov, Schmidt ו־Hochman בוחנים כיצד התקשרות לאומית ותפיסת איום משפיעות על נכונות להעניק זכויות למהגרים. ממצאיהם מצביעים על דפוסים פרדוקסליים: ההשפעות של שוביניזם ופטריוטיות חלשות יותר בגרמניה ובישראל, ואילו השפעת האיום חלשה יותר בישראל וחזקה יותר במדינות ליברליות."
+    },
+    {
+      "slug": "democracy_local_democracy_jewish_arab_communities_summary_he",
+      "file": "democracy_local_democracy_jewish_arab_communities_summary_he.html",
+      "permalink": "/democracy_local_democracy_jewish_arab_communities_summary_he.html",
+      "sortKey": 202606020007,
+      "titleHe": "ביזור חינוכי משפיע אחרת על דמוקרטיה מקומית ביישובים יהודיים וערביים",
+      "paperTitle": "The Diverse Impact on Local Democracy - A Comparative Study about Democratisation Processes in Jewish and Arab Communities in Israel",
+      "authorsCardHe": "As’ad Ghanem, Ahmad Hijazi",
+      "sourceAuthors": [
+        "Asad Ghanem",
+        "Ahmad Hijazi"
+      ],
+      "journal": "Lex localis - Journal of Local Self-Government, 9(3), 247-263",
+      "dateText": "פורסם: 04.07.2011",
+      "doiUrl": "https://doi.org/10.4335/9.3.247-263(2011)",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_democracy_jewish_arab_communities_summary_he.jpg",
+        "altHe": "מפגש קהילתי על ביזור חינוך ודמוקרטיה מקומית ביישובים שונים בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Ghanem ו־Hijazi מנתחים יחסים בין מקבלי החלטות מקומיים, ארגוני חברה אזרחית ופעילים קהילתיים במסגרת ביזור חינוכי. המאמר מדגיש שמעורבות קהילתית ביישובים יהודיים נראית ממוסדת ומתמשכת יותר, ואילו בחברה הערבית היא מוגבלת, ספורדית ופחות ממוסדת."
+    },
+    {
+      "slug": "democracy_doing_just_city_social_impact_beersheba_summary_he",
+      "file": "democracy_doing_just_city_social_impact_beersheba_summary_he.html",
+      "permalink": "/democracy_doing_just_city_social_impact_beersheba_summary_he.html",
+      "sortKey": 202606020006,
+      "titleHe": "הערכת השפעה חברתית הופכת את העיר הצודקת למבחן תכנוני בבאר שבע",
+      "paperTitle": "Doing the Just City: Social Impact Assessment and the Planning of Beersheba, Israel",
+      "authorsCardHe": "Oren Yiftachel, Rani Mandelbaum",
+      "sourceAuthors": [
+        "Oren Yiftachel",
+        "Rani Mandelbaum"
+      ],
+      "journal": "Planning Theory & Practice, 18(4), 525-548",
+      "dateText": "פורסם: 02.10.2017",
+      "doiUrl": "https://doi.org/10.1080/14649357.2017.1381758",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_doing_just_city_social_impact_beersheba_summary_he.jpg",
+        "altHe": "סטודיו תכנון בבאר שבע בוחן השפעה חברתית ועקרונות עיר צודקת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Yiftachel ו־Mandelbaum בוחנים את תכנון באר שבע דרך מסגרת העיר הצודקת של שוויון, מגוון ודמוקרטיה. המאמר מדגיש שהערכת השפעה חברתית יכולה לחשוף גם צעדים חיוביים לצמצום אי־שוויון וגם נקודות עיוורון, כגון סכנות עקירה, צרכי מיעוטים וחסר דמוקרטי בתהליך."
+    },
+    {
+      "slug": "democracy_stratified_defensive_planning_democracy_objections_summary_he",
+      "file": "democracy_stratified_defensive_planning_democracy_objections_summary_he.html",
+      "permalink": "/democracy_stratified_defensive_planning_democracy_objections_summary_he.html",
+      "sortKey": 202606020005,
+      "titleHe": "דיוני התנגדויות בתכנון חושפים דמוקרטיה תכנונית מרובדת",
+      "paperTitle": "Stratified and defensive planning democracy: Hearings on objections to plans in nine Israeli cities",
+      "authorsCardHe": "Talia Margalit, Adriana Kemp",
+      "sourceAuthors": [
+        "Talia Margalit",
+        "Adriana Kemp"
+      ],
+      "journal": "Urban Studies, 56(16), 3504-3521",
+      "dateText": "פורסם אונליין: 28.02.2019",
+      "doiUrl": "https://doi.org/10.1177/0042098018810321",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_stratified_defensive_planning_democracy_objections_summary_he.jpg",
+        "altHe": "דיון ועדת תכנון על התנגדויות עירוניות ואי־שוויון מרחבי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Margalit ו־Kemp מנתחות כיצד ועדות תכנון משיבות למתנגדים מקצועיים, יזמיים ואזרחיים, וכיצד ההצדקות משתנות לאורך פערים חברתיים־מרחביים. הממצא המרכזי הוא שילוב של הטיה חיובית כלפי חזקים, הטיה שלילית כלפי חלשים ותשובות ניטרליות יותר לאמצע, היוצרות מופע של הכללה בלי שוויון ממשי."
+    },
+    {
+      "slug": "democracy_zionism_political_theology_liberalism_summary_he",
+      "file": "democracy_zionism_political_theology_liberalism_summary_he.html",
+      "permalink": "/democracy_zionism_political_theology_liberalism_summary_he.html",
+      "sortKey": 202606020004,
+      "titleHe": "תיאולוגיה פוליטית של ציונות מציבה את הריבונות בתוך ביקורת המודרניות",
+      "paperTitle": "Zionism and Political Theology",
+      "authorsCardHe": "Raef Zreik",
+      "sourceAuthors": [
+        "Raef Zreik"
+      ],
+      "journal": "Political Theology, 24(7), 687-705",
+      "dateText": "פורסם: 03.10.2023",
+      "doiUrl": "https://doi.org/10.1080/1462317x.2023.2262226",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_zionism_political_theology_liberalism_summary_he.jpg",
+        "altHe": "סמינר אקדמי על תיאולוגיה פוליטית, ריבונות ולאומיות מודרנית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Zreik מנתח את הציונות דרך תיאולוגיה פוליטית ומראה כיצד היא משלבת רכיבים של לאומיות מודרנית, דת, ליברליזם וקולוניאליזם. הקריאה במאמר מדגישה שמחלוקת על ישראל/פלסטין אינה רק מחלוקת טריטוריאלית, אלא גם שאלה על מקור הסמכות, גבולות החילון והיכולת של ליברליזם להתמודד עם ריבונות מדירה."
+    },
+    {
+      "slug": "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he",
+      "file": "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.html",
+      "permalink": "/democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.html",
+      "sortKey": 202606020003,
+      "titleHe": "מהגרי FSU נוצרים חושפים את גבולות השייכות האזרחית בישראל",
+      "paperTitle": "‘Non-Jewish and Christian’: perceived discrimination and social distance among FSU migrants in Israel",
+      "authorsCardHe": "Rebeca Raijman, Janina Pinsky",
+      "sourceAuthors": [
+        "Rebeca Raijman",
+        "Janina Pinsky"
+      ],
+      "journal": "Israel Affairs, 17(1), 125-141",
+      "dateText": "פורסם: ינואר 2011",
+      "doiUrl": "https://doi.org/10.1080/13537121.2011.522074",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fsu_migrants_discrimination_social_distance_israel_summary_he.jpg",
+        "altHe": "דיון קהילתי מכבד על זהות מהגרים, דת ושייכות אזרחית בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Raijman ו־Pinsky עוסקות במהגרים מחבר המדינות לשעבר שאינם יהודים מבחינה דתית, ובוחנות כיצד הם חווים אפליה ומרחק חברתי בישראל. המאמר מציב את שאלת השוויון האזרחי במקום שבו חוק, זהות לאומית ודת יוצרים גבולות עדינים אך ממשיים של הכללה."
+    },
+    {
+      "slug": "democracy_local_councillors_governance_reforms_north_south_summary_he",
+      "file": "democracy_local_councillors_governance_reforms_north_south_summary_he.html",
+      "permalink": "/democracy_local_councillors_governance_reforms_north_south_summary_he.html",
+      "sortKey": 202606020002,
+      "titleHe": "רפורמות ממשל מקומי מתקבלות אחרת בצפון ובדרום אירופה",
+      "paperTitle": "Attitudes of European Local Councillors towards Local Governance Reforms: A North–South Divide?",
+      "authorsCardHe": "Eran Razin, Anna Hazan",
+      "sourceAuthors": [
+        "Eran Razin",
+        "Anna Hazan"
+      ],
+      "journal": "Local Government Studies, 40(2), 264-291",
+      "dateText": "פורסם אונליין: 06.02.2013",
+      "doiUrl": "https://doi.org/10.1080/03003930.2012.747957",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_councillors_governance_reforms_north_south_summary_he.jpg",
+        "altHe": "חוקרים משווים נתוני סקר של חברי מועצות מקומיות על רפורמות ממשל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Razin ו־Hazan מנתחים עמדות של חברי מועצות מקומיות כלפי סדר יום של רפורמות בשלטון המקומי. המאמר חשוב משום שהוא מזכיר שדמוקרטיה מקומית אינה מיובאת כמודל אחיד; היא תלויה באמון, במסורת מנהלית ובאופן שבו נבחרים מקומיים מבינים השתתפות וביזור."
+    },
+    {
+      "slug": "democracy_urban_citizenship_gray_space_metrozenship_summary_he",
+      "file": "democracy_urban_citizenship_gray_space_metrozenship_summary_he.html",
+      "permalink": "/democracy_urban_citizenship_gray_space_metrozenship_summary_he.html",
+      "sortKey": 202606020001,
+      "titleHe": "עירוניות אפורה מחייבת לחשוב מחדש על אזרחות מטרופולינית",
+      "paperTitle": "Epilogue—from ‘Gray Space' to Equal ‘Metrozenship'? Reflections On Urban Citizenship",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "International Journal of Urban and Regional Research, 39(4), 726-737",
+      "dateText": "פורסם: יולי 2015",
+      "doiUrl": "https://doi.org/10.1111/1468-2427.12263",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_urban_citizenship_gray_space_metrozenship_summary_he.jpg",
+        "altHe": "חוקרים ופעילי קהילה בוחנים מפות עירוניות בדיון על אזרחות מטרופולינית ושוויון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-02",
+      "dateModified": "2026-06-02",
+      "summaryHe": "Yiftachel משתמש בדוגמאות מישראל/פלסטין כדי לבקר את השיח על אזרחות עירונית וזכות לעיר. הטענה המרכזית היא שאי־פורמליות ו״מרחבים אפורים״ יוצרים אזרחות עירונית מתגוננת, ולכן מאבק דמוקרטי צריך לחשוב במונחים מטרופוליניים ושוויוניים יותר."
+    },
     {
       "slug": "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he",
       "file": "democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.html",
