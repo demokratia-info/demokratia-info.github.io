@@ -68,7 +68,7 @@
 
   if (localSubmissionCount() >= dailyLimit) {
     if (submitButton) submitButton.disabled = true;
-    setStatus("You have already submitted two paper suggestions today.", "error");
+    setStatus("You have already submitted five paper suggestions today.", "error");
   }
 
   form.addEventListener("submit", async (event) => {
@@ -77,7 +77,7 @@
     if (!form.reportValidity()) return;
 
     if (localSubmissionCount() >= dailyLimit) {
-      setStatus("You have already submitted two paper suggestions today.", "error");
+      setStatus("You have already submitted five paper suggestions today.", "error");
       return;
     }
 
@@ -104,7 +104,7 @@
       const result = await response.json().catch(() => ({}));
 
       if (response.status === 429) {
-        throw new Error("You have already submitted two paper suggestions today.");
+        throw new Error("You have already submitted five paper suggestions today.");
       }
       if (!response.ok || result.ok === false) {
         throw new Error(result.error || "The suggestion could not be submitted.");

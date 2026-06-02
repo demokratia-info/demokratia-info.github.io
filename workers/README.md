@@ -15,7 +15,7 @@ The Worker:
 - exposes a password-protected author-notice editor API at `/admin/author-notices` for listing queued author notice rows and marking selected rows as `ready_to_send`;
 - keeps page feedback contact fields and submitter-role disclosure optional in effect; the role defaults to `other_or_prefer_not`;
 - stores only a daily salted hash of the submitter IP, not the raw IP address;
-- allows up to two accepted paper suggestions and five accepted page-feedback submissions per source per Israel calendar day;
+- allows up to five accepted paper suggestions and five accepted page-feedback submissions per source per Israel calendar day;
 - writes the queues through the GitHub Contents API.
 
 `suggest_queue.csv` uses this header:

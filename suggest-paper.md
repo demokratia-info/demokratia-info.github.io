@@ -18,7 +18,7 @@ permalink: /suggest-paper.html
       data-suggest-paper-form
       data-endpoint="{{ site.data.site.suggestPaperEndpoint | default: '' | escape }}"
       data-home-url="{{ '/' | relative_url }}"
-      data-daily-limit="{{ site.data.site.suggestPaperDailyLimit | default: 2 }}"
+      data-daily-limit="{{ site.data.site.suggestPaperDailyLimit | default: 5 }}"
       data-redirect-delay-ms="{{ site.data.site.suggestPaperRedirectDelayMs | default: 5000 }}">
   <div class="form-field">
     <label class="form-label" for="paperTitle">Paper title</label>
@@ -45,7 +45,7 @@ permalink: /suggest-paper.html
     <input class="form-control" id="submitterEmail" name="submitterEmail" type="email" autocomplete="email" required maxlength="254">
   </div>
 
-  <p class="form-note">Up to two paper suggestions may be submitted from the same source each calendar day. Email verification will be added when a mail server is available.</p>
+  <p class="form-note">Up to five paper suggestions may be submitted from the same source each calendar day. Email verification will be added when a mail server is available.</p>
 
   <div class="form-actions">
     <button class="button-primary" type="submit">Submit suggestion</button>

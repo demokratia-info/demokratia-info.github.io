@@ -12,7 +12,7 @@
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
-  "suggestPaperDailyLimit": 2,
+  "suggestPaperDailyLimit": 5,
   "suggestPaperRedirectDelayMs": 5000,
   "pageFeedbackEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev/page-feedback",
   "pageFeedbackDailyLimit": 5,

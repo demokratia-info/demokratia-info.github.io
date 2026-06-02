@@ -152,8 +152,8 @@ async function handlePaperSuggestion(request, env, cors) {
     submittedDate,
     ipHash,
     ipHashIndex: 6,
-    dailyLimit: 2,
-    limitMessage: "You have already submitted two paper suggestions today.",
+    dailyLimit: 5,
+    limitMessage: "You have already submitted five paper suggestions today.",
     commitMessage: "Add website paper suggestion",
     cors
   });
