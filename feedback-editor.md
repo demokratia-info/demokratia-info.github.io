@@ -12,7 +12,7 @@ noindex: true
 
 <section class="privacy-notice" aria-labelledby="feedbackEditorPrivacyHeading">
   <h2 id="feedbackEditorPrivacyHeading">הודעת פרטיות קצרה</h2>
-  <p>מסך זה שולח סיסמת עורך לאימות ואינו שומר אותה. לאחר כניסה, המערכת מציגה ושומרת שינויי סטטוס והערות עורך על בקשות תיקון, כולל פרטי קשר ותמונות שהוגשו דרך טופס ההערות. המידע משמש לניהול תיקונים באתר, נשמר במאגר התפעולי הפרטי <code>democracy-paper-suggestions-private</code>, ונגיש רק לעורכי האתר ולמתחזקים מורשים. לבקשת מחיקה של רשומה או פרטי קשר כתבו ל־<a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a>.</p>
+  <p>מסך זה שולח סיסמת עורך לאימות ואינו שומר אותה. לאחר כניסה, המערכת מציגה ושומרת שינויי סטטוס והערות עורך על בקשות תיקון, כולל פרטי קשר ותמונות שהוגשו דרך טופס ההערות. המידע נשמר באופן פרטי ב־<code>democracy-paper-suggestions-private</code>, נגיש רק למנהל האתר, ונמחק לאחר 90 יום.</p>
 </section>
 
 <section class="feedback-editor-panel"

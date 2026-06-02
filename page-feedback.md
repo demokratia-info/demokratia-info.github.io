@@ -11,7 +11,7 @@ permalink: /page-feedback.html
 
 <section class="privacy-notice" aria-labelledby="feedbackPrivacyHeading">
   <h2 id="feedbackPrivacyHeading">הודעת פרטיות קצרה</h2>
-  <p>בטופס נאספים כתובת העמוד, פרטי המאמר, תוכן ההערה, בחירת “מי את/ה”, תמונה מוצעת ומטא־דאטה טכני שלה אם הועלתה, פרטי קשר אם נמסרו, ומזהה מקור יומי מגובב להגבלת שימוש לרעה. סיסמת עורך נשלחת לאימות בלבד ואינה נשמרת. המידע משמש לבדיקת תיקונים ותמונות, נשמר במאגר התפעולי הפרטי <code>democracy-paper-suggestions-private</code>, ונגיש רק לעורכי האתר ולמתחזקים מורשים; פרטי קשר ותמונות מקור אינם מתפרסמים באתר. לבקשת מחיקה כתבו ל־<a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a> וציינו את העמוד או ההערה הרלוונטיים.</p>
+  <p>בטופס נאספים כתובת העמוד, פרטי המאמר, תוכן ההערה, בחירת “מי את/ה”, תמונה מוצעת ומטא־דאטה טכני שלה אם הועלתה, פרטי קשר אם נמסרו, ומזהה מקור יומי מגובב להגבלת שימוש לרעה. סיסמת עורך, אם נשלחת, משמשת לאימות בלבד ואינה נשמרת. המידע נשמר באופן פרטי ב־<code>democracy-paper-suggestions-private</code>, נגיש רק למנהל האתר, ונמחק לאחר 90 יום.</p>
 </section>
 
 <p class="feedback-source" data-page-feedback-source hidden>

@@ -11,7 +11,7 @@ permalink: /suggest-paper.html
 
 <section class="privacy-notice" aria-labelledby="suggestPrivacyHeading">
   <h2 id="suggestPrivacyHeading">Privacy notice</h2>
-  <p>This form collects the paper title, optional author names, optional DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is used only to review paper suggestions and prevent abuse, is stored in the private <code>democracy-paper-suggestions-private</code> operational repository, and is visible only to website editors and authorized technical maintainers. To request deletion of a submission, email <a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a> with enough detail to identify it.</p>
+  <p>This form collects the paper title, optional author names, optional DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is stored privately in <code>democracy-paper-suggestions-private</code>, accessible only to the site admin, and deleted after 90 days.</p>
 </section>
 
 <form class="suggestion-form"
