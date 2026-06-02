@@ -11,7 +11,7 @@ permalink: /suggest-paper.html
 
 <section class="privacy-notice" aria-labelledby="suggestPrivacyHeading">
   <h2 id="suggestPrivacyHeading">Privacy notice</h2>
-  <p>This form collects the paper title, optional author names, optional DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is stored privately in <code>democracy-paper-suggestions-private</code>, accessible only to the site admin, and deleted after 90 days.</p>
+  <p>This form collects the paper title, optional author names, optional DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is stored privately, accessible only to the site admin, and deleted after 90 days.</p>
 </section>
 
 <form class="suggestion-form"
