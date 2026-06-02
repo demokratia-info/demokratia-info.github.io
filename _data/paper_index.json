@@ -1,8 +1,288 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 699,
+  "paperCount": 709,
   "papers": [
+    {
+      "slug": "democracy_global_governance_new_technology_democracy_summary_he",
+      "file": "democracy_global_governance_new_technology_democracy_summary_he.html",
+      "permalink": "/democracy_global_governance_new_technology_democracy_summary_he.html",
+      "sortKey": 202606030010,
+      "titleHe": "משפט גלובלי יכול לחזק דמוקרטיה מול כוחן של טכנולוגיות חדשות",
+      "paperTitle": "Upholding Democracy Amid the Challenges of New Technology: What Role for the Law of Global Governance?",
+      "authorsCardHe": "Eyal Benvenisti",
+      "sourceAuthors": [
+        "Eyal Benvenisti"
+      ],
+      "journal": "European Journal of International Law, 29(1), 9-82",
+      "dateText": "פורסם: 08.05.2018",
+      "doiUrl": "https://doi.org/10.1093/ejil/chy013",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_global_governance_new_technology_democracy_summary_he.jpg",
+        "altHe": "חוקרי משפט ומדיניות בוחנים פלטפורמות דיגיטליות ומסמכי ממשל גלובלי בחדר מחקר בין־לאומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Benvenisti טוען שהשפעתן של פלטפורמות, מידע ואלגוריתמים אינה נשארת בתוך מדינה אחת. לכן הגנה על דמוקרטיה דורשת כללים גלובליים שמגבירים שקיפות, השתתפות ואחריותיות במקום להפקיר את הזירה לממשלות חזקות ולשחקנים פרטיים."
+    },
+    {
+      "slug": "democracy_social_polarization_distress_october_2023_summary_he",
+      "file": "democracy_social_polarization_distress_october_2023_summary_he.html",
+      "permalink": "/democracy_social_polarization_distress_october_2023_summary_he.html",
+      "sortKey": 202606030009,
+      "titleHe": "קיטוב חברתי מעצב תגובות מצוקה לאחר טראומת 7 באוקטובר",
+      "paperTitle": "Social polarization and distress responses to the october 2023 Hamas invasion of Israel",
+      "authorsCardHe": "Yohanan Eshel, Shaul Kimhi, Hadas Marciano, Bruria Adini",
+      "sourceAuthors": [
+        "Yohanan Eshel",
+        "Shaul Kimhi",
+        "Hadas Marciano",
+        "Bruria Adini"
+      ],
+      "journal": "International Journal of Intercultural Relations, 113, 102395",
+      "dateText": "פורסם אונליין: 09.03.2026",
+      "doiUrl": "https://doi.org/10.1016/j.ijintrel.2026.102395",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_polarization_distress_october_2023_summary_he.jpg",
+        "altHe": "חוקרים ואנשי קהילה בוחנים שאלונים אנונימיים על קיטוב חברתי וחוסן לאחר טראומה לאומית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Eshel, Kimhi, Marciano ו־Adini מנתחים שלושה ממדי קיטוב: מוצא אתני, תמיכה בממשלה ורמת דתיות. הממצא המרכזי הוא שעמדה בתוך קווי החלוקה האלה קשורה בעקביות לרמות מצוקה שונות לאחר הטראומה המלחמתית."
+    },
+    {
+      "slug": "democracy_israeli_demonstration_posters_silence_summary_he",
+      "file": "democracy_israeli_demonstration_posters_silence_summary_he.html",
+      "permalink": "/democracy_israeli_demonstration_posters_silence_summary_he.html",
+      "sortKey": 202606030008,
+      "titleHe": "שקט ושתיקה בפוסטרים של המחאה חושפים מאבק על קול דמוקרטי",
+      "paperTitle": "Israeli Demonstration Posters: Spatial Semiotics of Silence",
+      "authorsCardHe": "Michal Ornan-Ephratt",
+      "sourceAuthors": [
+        "Michal Ornan-Ephratt"
+      ],
+      "journal": "Semiotika, 19, 160-197",
+      "dateText": "פורסם: 20.12.2024",
+      "doiUrl": "https://doi.org/10.15388/semiotika.2024.7",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_demonstration_posters_silence_summary_he.jpg",
+        "altHe": "פעילי מחאה וחוקרת סמיוטיקה מסדרים פוסטרים אילמים במרחב ציבורי לאחר הפגנה דמוקרטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Michal Ornan-Ephratt בוחנת 220 פוסטרים, ומתוכם 56 שנקשרו לסוגים שונים של שקט או שתיקה. הניתוח מצביע על כך שפוסטרים אינם רק מסרים כתובים אלא חלק מן המרחב הדמוקרטי שבו אזרחים תובעים קול, נוכחות וסובלנות."
+    },
+    {
+      "slug": "democracy_china_sharp_power_israel_discourse_summary_he",
+      "file": "democracy_china_sharp_power_israel_discourse_summary_he.html",
+      "permalink": "/democracy_china_sharp_power_israel_discourse_summary_he.html",
+      "sortKey": 202606030007,
+      "titleHe": "העוצמה החדה של סין נבלמת בישראל בידי ספקנות ציבורית ושיח ביקורתי",
+      "paperTitle": "The Limits of China’s Sharp Power in Israel’s Academic and Media Discourse",
+      "authorsCardHe": "Mordechai Chaziza, Carmela Lutmar",
+      "sourceAuthors": [
+        "Mordechai Chaziza",
+        "Carmela Lutmar"
+      ],
+      "journal": "China Report, 61(1), 133-152",
+      "dateText": "פורסם אונליין: 16.12.2024",
+      "doiUrl": "https://doi.org/10.1177/00094455241299974",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_china_sharp_power_israel_discourse_summary_he.jpg",
+        "altHe": "חוקרים במעבדת מדיה אקדמית בוחנים גזירי עיתונות ותרשימי השפעה זרה ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Chaziza ו־Lutmar מציבים את ישראל כמקרה מבחן לחוסן דמוקרטי מול מניפולציה, צנזורה והשפעה חיצונית. לפי התקציר, סין ניסתה לעצב תפיסות ציבוריות, אך תמיכתה בעמדות המנוגדות לאינטרסים ישראליים והמודעות הציבורית הגוברת החלישו את הצלחתה."
+    },
+    {
+      "slug": "democracy_likud_1977_democracy_in_danger_campaign_summary_he",
+      "file": "democracy_likud_1977_democracy_in_danger_campaign_summary_he.html",
+      "permalink": "/democracy_likud_1977_democracy_in_danger_campaign_summary_he.html",
+      "sortKey": 202606030006,
+      "titleHe": "המהפך של 1977 מוצג כבחינה של פחדים ועמידות דמוקרטית",
+      "paperTitle": "Likud’s rise to power and the ‘Democracy in Danger’ fearmongering campaign: rhetoric vs. facts",
+      "authorsCardHe": "Asher Cohen",
+      "sourceAuthors": [
+        "Asher Cohen"
+      ],
+      "journal": "Israel Affairs, 24(6), 1073-1092",
+      "dateText": "פורסם אונליין: 18.10.2018",
+      "doiUrl": "https://doi.org/10.1080/13537121.2018.1530429",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_likud_1977_democracy_in_danger_campaign_summary_he.jpg",
+        "altHe": "חברי כנסת מצביעים באולם המליאה בתקופת המהפך הפוליטי והדיון על חילופי שלטון דמוקרטיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "המאמר מנתח את הפער בין רטוריקת אזהרה של אליטות אקדמיות, תרבותיות, פוליטיות ותקשורתיות לבין תוצאות המהפך הפוליטי. הקריאה המרכזית היא שחילופי שלטון מסודרים יכולים לחזק דמוקרטיה גם כאשר הם מלווים בפחד ציבורי חריף."
+    },
+    {
+      "slug": "democracy_intra_party_democracy_index_summary_he",
+      "file": "democracy_intra_party_democracy_index_summary_he.html",
+      "permalink": "/democracy_intra_party_democracy_index_summary_he.html",
+      "sortKey": 202606030005,
+      "titleHe": "מדד לדמוקרטיה פנים־מפלגתית בוחן השתתפות, ייצוג ושקיפות בתוך מפלגות",
+      "paperTitle": "An Intra-Party Democracy Index: Theory, Design and A Demonstration",
+      "authorsCardHe": "Gideon Rahat, Assaf Shapira",
+      "sourceAuthors": [
+        "Gideon Rahat",
+        "Assaf Shapira"
+      ],
+      "journal": "Parliamentary Affairs, 70(1), 84-110",
+      "dateText": "פורסם אונליין: 23.01.2016",
+      "doiUrl": "https://doi.org/10.1093/pa/gsv068",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intra_party_democracy_index_summary_he.jpg",
+        "altHe": "חוקרי מפלגות בוחנים טפסי הצבעה אנונימיים וכרטיסי מדד לדמוקרטיה פנים־מפלגתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Rahat ו־Shapira מציעים למדוד מפלגות כפי שמודדים דמוקרטיה ברמת המדינה: לפי כללים, פתיחות, תחרות ואחריות. המדד מאפשר לשאול אם מפלגה שמבקשת לייצג ציבור רחב גם מפעילה בתוך עצמה נורמות דמוקרטיות."
+    },
+    {
+      "slug": "democracy_prisoners_health_rights_care_gap_summary_he",
+      "file": "democracy_prisoners_health_rights_care_gap_summary_he.html",
+      "permalink": "/democracy_prisoners_health_rights_care_gap_summary_he.html",
+      "sortKey": 202606030004,
+      "titleHe": "זכויות בריאות של אסירים חושפות פער בין כללים רשמיים למימוש בפועל",
+      "paperTitle": "Who Knows Who Cares for Me",
+      "authorsCardHe": "Tomer Einat, Ofer Parchev, Anat Litvin, Niv Michaeli, Gila Zelikovitz",
+      "sourceAuthors": [
+        "Tomer Einat",
+        "Ofer Parchev",
+        "Anat Litvin",
+        "Niv Michaeli",
+        "Gila Zelikovitz"
+      ],
+      "journal": "The Prison Journal, 96(2), 167-190",
+      "dateText": "פורסם אונליין: 22.07.2015",
+      "doiUrl": "https://doi.org/10.1177/0032885515596524",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_prisoners_health_rights_care_gap_summary_he.jpg",
+        "altHe": "חדר מרפאה בכלא שבו אנשי טיפול בוחנים טפסים אנונימיים על זכויות בריאות של אסירים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Einat, Parchev, Litvin, Michaeli ו־Zelikovitz מציבים את זכויות האסירים כמבחן לליברליות של דמוקרטיה. לפי התקציר, חסר בישראל כלי פרגמטי שמיועד להגן ולשמר את זכויות האדם הבסיסיות של אסירים."
+    },
+    {
+      "slug": "democracy_offensive_defensive_military_strategy_1953_summary_he",
+      "file": "democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+      "permalink": "/democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+      "sortKey": 202606030003,
+      "titleHe": "שינוי האסטרטגיה הצבאית ב־1953 מחדד את שאלת הפיקוח האזרחי",
+      "paperTitle": "‘How The Mouse Got His Roar’: The Shift to an ‘Offensive–Defensive’ Military Strategy in Israel in 1953 and its Implications",
+      "authorsCardHe": "Amiram Oren, Oren Barak, Assaf Shapira",
+      "sourceAuthors": [
+        "Amiram Oren",
+        "Oren Barak",
+        "Assaf Shapira"
+      ],
+      "journal": "The International History Review, 35(2), 356-376",
+      "dateText": "פורסם: אפריל 2013",
+      "doiUrl": "https://doi.org/10.1080/07075332.2012.761142",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_offensive_defensive_military_strategy_1953_summary_he.jpg",
+        "altHe": "חדר תכנון ממשלתי משנות החמישים עם אזרחים וקצינים סביב מפת אסטרטגיה וקלסרים ארכיוניים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Oren, Barak ו־Shapira משתמשים במסמכים רשמיים, ראיונות, זיכרונות ומקורות נוספים כדי לבחון רגע מכריע ביחסי צבא, ממשלה ואסטרטגיה. מבחינה דמוקרטית, המאמר מציף שאלות על מקור היוזמה, דיון אזרחי ואחריות על החלטות ביטחוניות ארוכות טווח."
+    },
+    {
+      "slug": "democracy_bedouin_health_policy_distrust_cycle_summary_he",
+      "file": "democracy_bedouin_health_policy_distrust_cycle_summary_he.html",
+      "permalink": "/democracy_bedouin_health_policy_distrust_cycle_summary_he.html",
+      "sortKey": 202606030002,
+      "titleHe": "אי־אמון בין מוסדות בריאות לבדואים בנגב פוגע גם במדיניות וגם בשוויון",
+      "paperTitle": "The cycle of distrust in health policy and behavior: Lessons learned from the Negev Bedouin",
+      "authorsCardHe": "Barak Hermesh, Anat Rosenthal, Nadav Davidovitch",
+      "sourceAuthors": [
+        "Barak Hermesh",
+        "Anat Rosenthal",
+        "Nadav Davidovitch"
+      ],
+      "journal": "PLOS ONE, 15(8), e0237734",
+      "dateText": "פורסם: 20.08.2020",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0237734",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bedouin_health_policy_distrust_cycle_summary_he.jpg",
+        "altHe": "נציגי קהילה בדואית ואנשי בריאות הציבור נפגשים סביב מפות וטפסים אנונימיים במרחב קהילתי בנגב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Hermesh, Rosenthal ו־Davidovitch חוקרים בשנים 2015-2019 היבטים חברתיים־פוליטיים של קמפיין בריאותי בדרום ישראל. באמצעות ראיונות עומק עם אנשי בריאות, חקלאות ושימור טבע, וכן מקורות קהילתיים, הם מציעים להבין אי־אמון כתנאי שמקשה על יישום מדיניות ציבורית."
+    },
+    {
+      "slug": "democracy_right_association_nonprofit_bill_israel_summary_he",
+      "file": "democracy_right_association_nonprofit_bill_israel_summary_he.html",
+      "permalink": "/democracy_right_association_nonprofit_bill_israel_summary_he.html",
+      "sortKey": 202606030001,
+      "titleHe": "הניסיון הראשון להסדיר עמותות בישראל חשף מתח סביב זכות ההתאגדות",
+      "paperTitle": "Israeli democracy and the right of association: the first attempt to pass a nonprofit organisations bill in Israel 1948–1954",
+      "authorsCardHe": "Hadara Bar-Mor, Paula Kabalo",
+      "sourceAuthors": [
+        "Hadara Bar-Mor",
+        "Paula Kabalo"
+      ],
+      "journal": "Israel Affairs, 23(5), 857-882",
+      "dateText": "פורסם אונליין: 02.08.2017",
+      "doiUrl": "https://doi.org/10.1080/13537121.2017.1345409",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_right_association_nonprofit_bill_israel_summary_he.jpg",
+        "altHe": "משפטנים ופעילים אזרחיים בראשית המדינה בוחנים מסמכי רישום עמותות סביב שולחן ארכיוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-06-03",
+      "summaryHe": "Bar-Mor ו־Kabalo מראות שהדיון המקצועי והציבורי בהצעת החוק שיקף גישות דמוקרטיות שונות בראשית המדינה. זכות ההתאגדות נבחנת כאן לא כמושג מופשט, אלא כמוסד משפטי שמגדיר כמה חופש יש לחברה אזרחית מול המדינה."
+    },
     {
       "slug": "democracy_participation_ideologies_israeli_planning_summary_he",
       "file": "democracy_participation_ideologies_israeli_planning_summary_he.html",

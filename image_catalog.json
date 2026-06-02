@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-02",
+  "lastUpdated": "2026-06-03",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -16787,6 +16787,287 @@
         "democracy_participation_ideologies_israeli_planning_summary_he.html": "high"
       },
       "generatedAt": "2026-06-02"
+    },
+    {
+      "file": "html_qa/democracy_global_governance_new_technology_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_global_governance_new_technology_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_global_governance_new_technology_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "משפט גלובלי יכול לחזק דמוקרטיה מול כוחן של טכנולוגיות חדשות",
+      "authorsHe": "Eyal Benvenisti",
+      "visualDescriptionHe": "חדר מחקר משפטי בין־לאומי עם חוקרים, מסמכי מדיניות ומסכים עם דפוסי נתונים לא קריאים.",
+      "semanticDescriptionHe": "המאמר עוסק במשפט גלובלי, טכנולוגיה ואחריותיות דמוקרטית ולכן הדימוי נבנה כסצנת מחקר על פיקוח ציבורי בעידן דיגיטלי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "ממשל גלובלי",
+        "טכנולוגיה",
+        "אחריותיות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_global_governance_new_technology_democracy_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_social_polarization_distress_october_2023_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_social_polarization_distress_october_2023_summary_he.html",
+      "usedBy": [
+        "democracy_social_polarization_distress_october_2023_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב חברתי מעצב תגובות מצוקה לאחר טראומת 7 באוקטובר",
+      "authorsHe": "Yohanan Eshel, Shaul Kimhi, Hadas Marciano, Bruria Adini",
+      "visualDescriptionHe": "מרכז חוסן קהילתי שבו חוקרים ואנשי טיפול בוחנים שאלונים אנונימיים על קיטוב ומצוקה.",
+      "semanticDescriptionHe": "המאמר עוסק בקיטוב חברתי ותגובות מצוקה לאחר טראומה לאומית ולכן הדימוי מתמקד במחקר קהילתי ובחוסן חברתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "קיטוב חברתי",
+        "מצוקה נפשית",
+        "חוסן"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_social_polarization_distress_october_2023_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_israeli_demonstration_posters_silence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_demonstration_posters_silence_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_demonstration_posters_silence_summary_he.html"
+      ],
+      "cardTitleHe": "שקט ושתיקה בפוסטרים של המחאה חושפים מאבק על קול דמוקרטי",
+      "authorsHe": "Michal Ornan-Ephratt",
+      "visualDescriptionHe": "כיכר אזרחית לאחר הפגנה עם פוסטרים אילמים וחוקרת המתעדת את סידורם במרחב.",
+      "semanticDescriptionHe": "המאמר עוסק בפוסטרים, שתיקה וסמיוטיקה של מחאה ולכן הדימוי מציג חומרי מחאה ללא טקסט קריא.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "מחאה",
+        "פוסטרים",
+        "שתיקה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_israeli_demonstration_posters_silence_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_china_sharp_power_israel_discourse_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_china_sharp_power_israel_discourse_summary_he.html",
+      "usedBy": [
+        "democracy_china_sharp_power_israel_discourse_summary_he.html"
+      ],
+      "cardTitleHe": "העוצמה החדה של סין נבלמת בישראל בידי ספקנות ציבורית ושיח ביקורתי",
+      "authorsHe": "Mordechai Chaziza, Carmela Lutmar",
+      "visualDescriptionHe": "מעבדת מדיה אקדמית עם חוקרים, גזירי עיתונות מטושטשים ותרשימי השפעה לא קריאים.",
+      "semanticDescriptionHe": "המאמר עוסק בעוצמה חדה והשפעה זרה על שיח אקדמי ותקשורתי ולכן הדימוי נבנה כסצנת ניתוח מדיה ביקורתית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "עוצמה חדה",
+        "סין",
+        "השפעה זרה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_china_sharp_power_israel_discourse_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_likud_1977_democracy_in_danger_campaign_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_likud_1977_democracy_in_danger_campaign_summary_he.html",
+      "usedBy": [
+        "democracy_likud_1977_democracy_in_danger_campaign_summary_he.html"
+      ],
+      "cardTitleHe": "המהפך של 1977 מוצג כבחינה של פחדים ועמידות דמוקרטית",
+      "authorsHe": "Asher Cohen",
+      "visualDescriptionHe": "צילום היסטורי של חברי כנסת בהרמת ידיים באולם המליאה, מעובד כגרפיקה למאמר על חילופי שלטון.",
+      "semanticDescriptionHe": "המאמר עוסק בעליית הליכוד, חילופי שלטון ורטוריקת סכנה לדמוקרטיה ולכן נבחרה סצנת הצבעה היסטורית של סיעת ליכוד בכנסת.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "מהפך 1977",
+        "ליכוד",
+        "חילופי שלטון"
+      ],
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Likud_Party.jpg",
+      "sourceTitle": "File:Flickr - Government Press Office (GPO) - Likud Party.jpg",
+      "sourceAuthor": "Government Press Office (Israel), via Flickr / Wikimedia Commons",
+      "sourceQuery": "Knesset plenum voting Israel",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flickr_-_Government_Press_Office_%28GPO%29_-_Likud_Party.jpg",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Newly obtained Wikimedia/Commons historical Knesset voting scene, cropped and processed to 800x600 JPEG; selected for the 1977 political-turnover article and not for reuse on future new papers.",
+      "fitnessByArticle": {
+        "democracy_likud_1977_democracy_in_danger_campaign_summary_he.html": "high"
+      },
+      "processedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_intra_party_democracy_index_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_intra_party_democracy_index_summary_he.html",
+      "usedBy": [
+        "democracy_intra_party_democracy_index_summary_he.html"
+      ],
+      "cardTitleHe": "מדד לדמוקרטיה פנים־מפלגתית בוחן השתתפות, ייצוג ושקיפות בתוך מפלגות",
+      "authorsHe": "Gideon Rahat, Assaf Shapira",
+      "visualDescriptionHe": "חדר סמינר מחקרי עם טפסי הצבעה אנונימיים, כרטיסי מדד וחוקרים סביב שולחן.",
+      "semanticDescriptionHe": "המאמר עוסק במדידת דמוקרטיה פנים־מפלגתית ולכן הדימוי מציג עבודה אמפירית על כללי מפלגה ושקיפות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "דמוקרטיה פנים־מפלגתית",
+        "מפלגות",
+        "שקיפות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_intra_party_democracy_index_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_prisoners_health_rights_care_gap_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_prisoners_health_rights_care_gap_summary_he.html",
+      "usedBy": [
+        "democracy_prisoners_health_rights_care_gap_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות בריאות של אסירים חושפות פער בין כללים רשמיים למימוש בפועל",
+      "authorsHe": "Tomer Einat, Ofer Parchev, Anat Litvin, Niv Michaeli, Gila Zelikovitz",
+      "visualDescriptionHe": "מרפאת כלא מכבדת שבה אנשי טיפול בוחנים טפסים אנונימיים עם אדם עצור.",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות בריאות של אסירים ובפער בין כללים ליישום ולכן הדימוי מציג סצנת טיפול מוסדית ולא סנסציונית.",
+      "tags": [
+        "rights-equality-minorities",
+        "אסירים",
+        "זכויות אדם",
+        "בריאות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_prisoners_health_rights_care_gap_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_offensive_defensive_military_strategy_1953_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+      "usedBy": [
+        "democracy_offensive_defensive_military_strategy_1953_summary_he.html"
+      ],
+      "cardTitleHe": "שינוי האסטרטגיה הצבאית ב־1953 מחדד את שאלת הפיקוח האזרחי",
+      "authorsHe": "Amiram Oren, Oren Barak, Assaf Shapira",
+      "visualDescriptionHe": "חדר תכנון ארכיוני משנות החמישים עם אזרחים וקצינים סביב מפת אסטרטגיה.",
+      "semanticDescriptionHe": "המאמר עוסק בשינוי אסטרטגי, צה״ל וממשלה ולכן הדימוי מתמקד בדיון מוסדי ובפיקוח אזרחי ולא בזירת לחימה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "פיקוח אזרחי",
+        "אסטרטגיה צבאית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_offensive_defensive_military_strategy_1953_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_bedouin_health_policy_distrust_cycle_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_bedouin_health_policy_distrust_cycle_summary_he.html",
+      "usedBy": [
+        "democracy_bedouin_health_policy_distrust_cycle_summary_he.html"
+      ],
+      "cardTitleHe": "אי־אמון בין מוסדות בריאות לבדואים בנגב פוגע גם במדיניות וגם בשוויון",
+      "authorsHe": "Barak Hermesh, Anat Rosenthal, Nadav Davidovitch",
+      "visualDescriptionHe": "מפגש קהילתי בנגב בין נציגי ציבור בדואים ואנשי בריאות סביב מפות וטפסים אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק באי־אמון, בריאות הציבור והקהילה הבדואית בנגב ולכן הדימוי נבנה כסצנת מדיניות קהילתית מכבדת.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "אי־אמון",
+        "בריאות הציבור",
+        "בדואים בנגב"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_bedouin_health_policy_distrust_cycle_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_right_association_nonprofit_bill_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_right_association_nonprofit_bill_israel_summary_he.html",
+      "usedBy": [
+        "democracy_right_association_nonprofit_bill_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הניסיון הראשון להסדיר עמותות בישראל חשף מתח סביב זכות ההתאגדות",
+      "authorsHe": "Hadara Bar-Mor, Paula Kabalo",
+      "visualDescriptionHe": "משרד משפטי היסטורי בראשית המדינה עם משפטנים ופעילים סביב מסמכי רישום עמותות.",
+      "semanticDescriptionHe": "המאמר עוסק בזכות ההתאגדות ובחוק עמותות מוקדם ולכן הדימוי מציג חברה אזרחית, ארכיונים ושיקול דעת מנהלי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "זכות ההתאגדות",
+        "עמותות",
+        "חברה אזרחית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_right_association_nonprofit_bill_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-03"
     }
   ],
   "topicGraphics": [

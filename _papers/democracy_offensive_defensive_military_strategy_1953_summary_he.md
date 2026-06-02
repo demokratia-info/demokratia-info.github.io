@@ -1,0 +1,147 @@
+---
+{
+  "version": 1,
+  "file": "democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+  "slug": "democracy_offensive_defensive_military_strategy_1953_summary_he",
+  "titleHe": "שינוי האסטרטגיה הצבאית ב־1953 מחדד את שאלת הפיקוח האזרחי",
+  "subtitleHe": "",
+  "descriptionHe": "המאמר מנתח את המעבר של ישראל בשנת 1953 מאסטרטגיה הגנתית־התקפית לאסטרטגיה התקפית־הגנתית. הוא טוען כי גופי התכנון בצה״ל יזמו את השינוי, וכי הממשלה אישרה אותו ללא התנגדות משמעותית.",
+  "summaryHe": "Oren, Barak ו־Shapira משתמשים במסמכים רשמיים, ראיונות, זיכרונות ומקורות נוספים כדי לבחון רגע מכריע ביחסי צבא, ממשלה ואסטרטגיה. מבחינה דמוקרטית, המאמר מציף שאלות על מקור היוזמה, דיון אזרחי ואחריות על החלטות ביטחוניות ארוכות טווח.",
+  "authorsCardHe": "Amiram Oren, Oren Barak, Assaf Shapira",
+  "paperTitle": "‘How The Mouse Got His Roar’: The Shift to an ‘Offensive–Defensive’ Military Strategy in Israel in 1953 and its Implications",
+  "authorsHtml": "Amiram Oren; <a href=\"https://en.politics.huji.ac.il/people/oren-barak\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Barak</a>; <a href=\"https://en.idi.org.il/experts/2514\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Shapira</a>",
+  "journal": "The International History Review, 35(2), 356-376",
+  "dateText": "פורסם: אפריל 2013",
+  "sourcePublishedDate": "2013-04-01",
+  "doiUrl": "https://doi.org/10.1080/07075332.2012.761142",
+  "doiLabel": "https://doi.org/10.1080/07075332.2012.761142",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Amiram Oren"
+    },
+    {
+      "@type": "Person",
+      "name": "Oren Barak",
+      "url": "https://en.politics.huji.ac.il/people/oren-barak"
+    },
+    {
+      "@type": "Person",
+      "name": "Assaf Shapira",
+      "url": "https://en.idi.org.il/experts/2514"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Amiram Oren"
+    },
+    {
+      "@type": "Person",
+      "name": "Oren Barak",
+      "url": "https://en.politics.huji.ac.il/people/oren-barak"
+    },
+    {
+      "@type": "Person",
+      "name": "Assaf Shapira",
+      "url": "https://en.idi.org.il/experts/2514"
+    }
+  ],
+  "topics": [
+    "institutions-civil-society-public-service",
+    "public-opinion-polarization-violence"
+  ],
+  "keywords": [
+    "אסטרטגיה צבאית",
+    "פיקוח אזרחי",
+    "צה״ל",
+    "1953",
+    "ממשלה",
+    "יחסי צבא חברה",
+    "קבלת החלטות"
+  ],
+  "image": {
+    "src": "html_qa/democracy_offensive_defensive_military_strategy_1953_summary_he.jpg",
+    "version": "2026-06-03-nightly",
+    "altHe": "חדר תכנון ממשלתי משנות החמישים עם אזרחים וקצינים סביב מפת אסטרטגיה וקלסרים ארכיוניים",
+    "fitness": "high"
+  },
+  "datePublished": "2026-06-03",
+  "dateModified": "2026-06-03",
+  "lastUpdatedHe": "3 ביוני 2026",
+  "oneLinerHtml": "המאמר מראה שהחלטות אסטרטגיות אינן רק עניין צבאי מקצועי. הן גם מבחן למוסדות אזרחיים, ליכולת לשאול מי יוזם שינוי ביטחוני ולדרך שבה ממשלה מאשרת אותו.",
+  "sections": [
+    {
+      "headingHe": "מושגי יסוד בקצרה",
+      "paragraphsHtml": [
+        "<strong>פיקוח אזרחי על הצבא</strong> הוא העיקרון שלפיו החלטות ביטחוניות כפופות להנהגה אזרחית נבחרת ולא רק לשיקול מקצועי צבאי. במאמר העיקרון נבחן דרך השאלה מי יזם את שינוי האסטרטגיה ב־1953 וכיצד הממשלה התייחסה אליו."
+      ]
+    },
+    {
+      "headingHe": "מהו השינוי האסטרטגי שהמאמר מתאר?",
+      "paragraphsHtml": [
+        "המאמר מתאר מעבר מאסטרטגיה הגנתית־התקפית לאסטרטגיה התקפית־הגנתית בישראל בשנת 1953. לפי התקציר, שינוי זה עיצב במידה רבה את האופן שבו ישראל חשבה על ביטחון והרתעה גם בהמשך."
+      ]
+    },
+    {
+      "headingHe": "מי יזם את השינוי לפי המחברים?",
+      "paragraphsHtml": [
+        "המחברים טוענים שגופי התכנון של צה״ל, ולא דווקא ראש הממשלה ושר הביטחון דוד בן־גוריון או הרמטכ״ל משה דיין, היו מקור היוזמה המרכזי. הטענה הזאת חשובה משום שהיא מעבירה את תשומת הלב למנגנוני תכנון מוסדיים."
+      ]
+    },
+    {
+      "headingHe": "איך הממשלה נכנסת לתמונה?",
+      "paragraphsHtml": [
+        "לפי התקציר, האסטרטגיה החדשה נדונה ואושרה בממשלה ללא התנגדות. מבחינה דמוקרטית, הדבר מעלה שאלה על עומק הדיון האזרחי ועל התנאים שבהם החלטה צבאית מקבלת לגיטימציה פוליטית."
+      ]
+    },
+    {
+      "headingHe": "אילו מקורות שימשו את המחקר?",
+      "paragraphsHtml": [
+        "המאמר משתמש במסמכים רשמיים ישראליים שלא נוצלו קודם, לצד ראיונות, זיכרונות, ביוגרפיות ומקורות משניים. שילוב מקורות כזה מאפשר לבחון גם את ההליך הפורמלי וגם את ההקשר המוסדי שבו התקבלה ההחלטה."
+      ]
+    },
+    {
+      "headingHe": "למה מאמר היסטורי כזה שייך לדמוקרטיה?",
+      "paragraphsHtml": [
+        "דמוקרטיה אינה נבחנת רק בבחירות אלא גם באופן שבו מתקבלות החלטות ביטחוניות כבדות משקל. כאשר אסטרטגיה צבאית נוצרת בתוך מוסדות מקצועיים, יש חשיבות לשאלה כיצד הציבור ונבחריו מפקחים עליה."
+      ]
+    },
+    {
+      "headingHe": "מהי משמעות המונח התקפית־הגנתית?",
+      "paragraphsHtml": [
+        "המונח מתאר תפיסה שבה פעולה התקפית נתפסת כאמצעי להגנה ולהרתעה. המאמר בוחן כיצד תפיסה כזו אומצה בישראל ומה היו השלכותיה האפשריות על הסכסוך הישראלי־ערבי."
+      ]
+    },
+    {
+      "headingHe": "מה הסיכון בהחלטות ביטחוניות ארוכות טווח?",
+      "paragraphsHtml": [
+        "החלטה אסטרטגית יכולה לעצב דפוסי פעולה במשך שנים גם אם התקבלה ברגע מוסדי מצומצם. לכן נדרש פיקוח שמבין לא רק את הצורך הביטחוני המיידי אלא גם את ההשלכות הפוליטיות והחברתיות."
+      ]
+    },
+    {
+      "headingHe": "איך המאמר מאתגר הסברים קיימים?",
+      "paragraphsHtml": [
+        "המחברים מציינים כי הם מאתגרים עבודות קיימות בכך שהם מראים מתי וכיצד אומצה האסטרטגיה החדשה. האתגר ההיסטורי הזה חשוב משום שהוא מחייב לבדוק מחדש הנחות על מנהיגות, צבא וממשלה."
+      ]
+    },
+    {
+      "headingHe": "מה אפשר ללמוד על יחסי צבא וחברה?",
+      "paragraphsHtml": [
+        "המאמר מצביע על כך שיחסי צבא וחברה מתעצבים גם דרך שגרות תכנון ומסמכים מקצועיים. דמוקרטיה בריאה צריכה להכיר בכוחם של מנגנונים אלה ולא להסתפק בתמונה של מנהיג יחיד שמחליט לבדו."
+      ]
+    },
+    {
+      "headingHe": "מהי התרומה לדיון ציבורי עכשווי?",
+      "paragraphsHtml": [
+        "התרומה היא תזכורת לכך ששאלות ביטחוניות זקוקות לשקיפות מוסדית ולדיון אזרחי רציני. גם כאשר המקצועיות הצבאית חיונית, האחריות הסופית על כיוון אסטרטגי נשארת אחריות דמוקרטית."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "שינוי האסטרטגיה הצבאית ב־1953 מחדד את שאלת הפיקוח האזרחי",
+  "permalink": "/democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+  "paper_url": "democracy_offensive_defensive_military_strategy_1953_summary_he.html",
+  "sortKey": 202606030003
+}
+---
