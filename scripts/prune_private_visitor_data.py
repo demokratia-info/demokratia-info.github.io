@@ -20,6 +20,7 @@ ISRAEL_TZ = ZoneInfo("Asia/Jerusalem")
 DEFAULT_RETENTION_DAYS = 90
 VISITOR_CSV_FILES = {
     "suggest_queue.csv": ("submitted_at", "submitted_date"),
+    "suggest_confirmation_queue.csv": ("submitted_at", "submitted_date", "expires_at", "confirmed_at", "reported_at", "queue_added_at"),
     "page_feedback_queue.csv": ("submitted_at", "submitted_date", "applied_at"),
     "page_feedback_history.csv": ("submitted_at", "submitted_date", "processed_at", "applied_at"),
 }

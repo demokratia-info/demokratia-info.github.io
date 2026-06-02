@@ -11,7 +11,7 @@ The public repo should contain only website source, public content, build script
 - `_layouts/` and `_includes/` - Jekyll templates.
 - `assets/` - public CSS, JavaScript, icons, and supporting assets.
 - `html_qa/` - public article images.
-- `scripts/` - public validation and build-support scripts.
+- `scripts/` - public validation, retention-cleanup, and build-support scripts.
 - `topics/` - public topic pages.
 
 ## Local Checks

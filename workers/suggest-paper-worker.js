@@ -11,6 +11,25 @@ const SUGGEST_QUEUE_HEADER = [
   "authors"
 ];
 
+const SUGGEST_CONFIRMATION_HEADER = [
+  "submitted_date",
+  "submitted_at",
+  "paper_name",
+  "doi",
+  "authors",
+  "submitter_name",
+  "submitter_email",
+  "submitter_ip_hash",
+  "token_hash",
+  "expires_at",
+  "status",
+  "email_sent_at",
+  "confirmed_at",
+  "reported_at",
+  "queue_added_at",
+  "notes"
+];
+
 const FEEDBACK_QUEUE_HEADER = [
   "submitted_date",
   "submitted_at",
@@ -61,6 +80,8 @@ const AUTHOR_NOTICE_QUEUE_HEADER = [
 
 const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
 const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
+const DEFAULT_CONFIRMATION_REPORT_TO = "demokratia.info@gmail.com";
+const DEFAULT_SUGGEST_CONFIRMATION_EXPIRY_DAYS = 7;
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
 const FEEDBACK_EDITOR_STATUSES = new Set(["pending", "approved_for_update", "rejected"]);
 const AUTHOR_NOTICE_EDITOR_STATUSES = new Set(["pending_editor_release", "ready_to_send", "failed"]);
@@ -107,6 +128,14 @@ export default {
         return await handleAdminAuthorNotices(request, env, cors);
       }
 
+      if (kind === "confirm-suggestion") {
+        return await handleSuggestionConfirmationAction(request, env, "confirm");
+      }
+
+      if (kind === "report-suggestion") {
+        return await handleSuggestionConfirmationAction(request, env, "report");
+      }
+
       if (request.method !== "POST") {
         return jsonResponse({ ok: false, error: "Method not allowed." }, 405, cors);
       }
@@ -132,31 +161,348 @@ async function handlePaperSuggestion(request, env, cors) {
   const submittedAt = new Date().toISOString();
   const ipAddress = sourceIp(request);
   const ipHash = await hashSourceIp(ipAddress, submittedDate, env);
-  const github = githubConfig(env, "QUEUE_PATH", "suggest_queue.csv");
+  const activeGithub = githubConfig(env, "QUEUE_PATH", "suggest_queue.csv");
+  const confirmationGithub = githubConfig(
+    env,
+    "SUGGEST_CONFIRMATION_QUEUE_PATH",
+    "suggest_confirmation_queue.csv"
+  );
+  const dailyLimit = parseIntEnv(env.SUGGEST_PAPER_DAILY_LIMIT, 5);
+  const token = confirmationToken();
+  const tokenHash = await hashConfirmationToken(token, env);
+  const expiresAt = confirmationExpiry(env);
+  const confirmUrl = suggestionActionUrl(request, env, "confirm-suggestion", token);
+  const reportUrl = suggestionActionUrl(request, env, "report-suggestion", token);
+  requireConfirmationEmailConfig(env);
 
-  return appendQueueRow({
-    github,
-    header: SUGGEST_QUEUE_HEADER,
+  const created = await appendSuggestionConfirmationRow({
+    confirmationGithub,
+    activeGithub,
     row: [
       submittedDate,
       submittedAt,
       suggestion.paperTitle,
       suggestion.doi,
+      suggestion.authors,
       suggestion.submitterName,
       suggestion.submitterEmail,
       ipHash,
-      "pending",
+      tokenHash,
+      expiresAt,
+      "awaiting_confirmation",
       "",
-      suggestion.authors
+      "",
+      "",
+      "",
+      ""
     ],
     submittedDate,
     ipHash,
-    ipHashIndex: 6,
-    dailyLimit: 5,
+    dailyLimit,
     limitMessage: "You have already submitted five paper suggestions today.",
-    commitMessage: "Add website paper suggestion",
     cors
   });
+
+  if (created instanceof Response) return created;
+
+  try {
+    await sendSuggestionConfirmationEmail(suggestion, confirmUrl, reportUrl, expiresAt, env);
+  } catch (error) {
+    await markSuggestionConfirmationEmailFailed(confirmationGithub, tokenHash, error);
+    throw new Error("Could not send the confirmation email. Please try again later.");
+  }
+
+  await markSuggestionConfirmationEmailSent(confirmationGithub, tokenHash);
+  return jsonResponse(
+    {
+      ok: true,
+      requiresConfirmation: true,
+      message: "Please check your email and click the confirmation link. The suggestion will be added only after confirmation."
+    },
+    200,
+    cors
+  );
+}
+
+async function handleSuggestionConfirmationAction(request, env, action) {
+  if (request.method !== "GET") {
+    return htmlResponse("Method not allowed", "This confirmation link only supports GET requests.", 405);
+  }
+
+  const token = clean(new URL(request.url).searchParams.get("token"), 300);
+  if (!token) {
+    return htmlResponse("Missing confirmation token", "The confirmation link is missing its token.", 400);
+  }
+
+  const tokenHash = await hashConfirmationToken(token, env);
+  const confirmationGithub = githubConfig(
+    env,
+    "SUGGEST_CONFIRMATION_QUEUE_PATH",
+    "suggest_confirmation_queue.csv"
+  );
+
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(confirmationGithub, SUGGEST_CONFIRMATION_HEADER);
+    const queue = normalizeQueueCsv(current.content, SUGGEST_CONFIRMATION_HEADER, confirmationGithub.path);
+    const rows = parseCsv(queue);
+    const rowIndex = rows.findIndex((row, index) => index > 0 && row[8] === tokenHash);
+
+    if (rowIndex < 1) {
+      return htmlResponse(
+        "Confirmation link not found",
+        "We could not find this paper suggestion confirmation link. It may have already expired or been removed.",
+        404
+      );
+    }
+
+    const row = rows[rowIndex];
+    while (row.length < SUGGEST_CONFIRMATION_HEADER.length) row.push("");
+
+    const status = row[10] || "";
+    const now = new Date().toISOString();
+    if (status === "confirmed" && row[14]) {
+      return htmlResponse(
+        "Suggestion already confirmed",
+        "This paper suggestion was already confirmed and added to the review queue."
+      );
+    }
+    if (status === "reported_not_submitter") {
+      return htmlResponse(
+        "Suggestion already reported",
+        "This paper suggestion was already reported as not submitted by this email address."
+      );
+    }
+    if (status === "expired" || confirmationExpired(row[9])) {
+      row[10] = "expired";
+      row[15] = appendNote(row[15], "confirmation_link_expired");
+      const saved = await saveQueue(
+        confirmationGithub,
+        current.sha,
+        `${rows.map((csvRow) => csvLine(csvRow)).join("\n")}\n`,
+        "Expire paper suggestion confirmation"
+      );
+      if (saved.status === 409) continue;
+      if (!saved.ok) {
+        const detail = await saved.text();
+        throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+      }
+      return htmlResponse(
+        "Confirmation link expired",
+        "This confirmation link expired. Please submit the paper suggestion again if you still want it reviewed.",
+        410
+      );
+    }
+
+    if (action === "report") {
+      row[10] = "reported_not_submitter";
+      row[13] = row[13] || now;
+      row[15] = appendNote(row[15], "reported_not_submitted_by_recipient");
+      const saved = await saveQueue(
+        confirmationGithub,
+        current.sha,
+        `${rows.map((csvRow) => csvLine(csvRow)).join("\n")}\n`,
+        "Report unrecognized paper suggestion"
+      );
+      if (saved.status === 409) continue;
+      if (!saved.ok) {
+        const detail = await saved.text();
+        throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+      }
+
+      await sendSuggestionReportEmail(row, env).catch(() => {});
+      return htmlResponse(
+        "Report received",
+        "Thank you. We marked this suggestion as not submitted by this email address, and it will not be added to the review queue."
+      );
+    }
+
+    await ensureConfirmedSuggestionQueued(row, env);
+    row[10] = "confirmed";
+    row[12] = row[12] || now;
+    row[14] = row[14] || now;
+    row[15] = appendNote(row[15], "confirmed_by_email_link");
+    const saved = await saveQueue(
+      confirmationGithub,
+      current.sha,
+      `${rows.map((csvRow) => csvLine(csvRow)).join("\n")}\n`,
+      "Confirm website paper suggestion"
+    );
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return htmlResponse(
+      "Suggestion confirmed",
+      "Thank you. Your paper suggestion was confirmed and added to the review queue."
+    );
+  }
+
+  return htmlResponse(
+    "Queue busy",
+    "The confirmation queue is busy. Please open the link again in a minute.",
+    409
+  );
+}
+
+async function appendSuggestionConfirmationRow({
+  confirmationGithub,
+  activeGithub,
+  row,
+  submittedDate,
+  ipHash,
+  dailyLimit,
+  limitMessage,
+  cors
+}) {
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const [confirmationCurrent, activeCount] = await Promise.all([
+      fetchQueue(confirmationGithub, SUGGEST_CONFIRMATION_HEADER),
+      countRowsByDateAndHash(activeGithub, SUGGEST_QUEUE_HEADER, submittedDate, ipHash, 6)
+    ]);
+    const confirmationQueue = normalizeQueueCsv(
+      confirmationCurrent.content,
+      SUGGEST_CONFIRMATION_HEADER,
+      confirmationGithub.path
+    );
+    const confirmationRows = parseCsv(confirmationQueue);
+    const confirmationCount = confirmationRows
+      .slice(1)
+      .filter((csvRow) => csvRow[0] === submittedDate && csvRow[7] === ipHash)
+      .length;
+
+    if (activeCount + confirmationCount >= dailyLimit) {
+      return jsonResponse({ ok: false, error: limitMessage }, 429, cors);
+    }
+
+    const nextContent = `${confirmationQueue}${csvLine(row)}\n`;
+    const saved = await saveQueue(
+      confirmationGithub,
+      confirmationCurrent.sha,
+      nextContent,
+      "Add pending paper suggestion confirmation"
+    );
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return { ok: true };
+  }
+
+  return jsonResponse(
+    { ok: false, error: "The confirmation queue is busy. Please try again." },
+    409,
+    cors
+  );
+}
+
+async function countRowsByDateAndHash(github, header, submittedDate, ipHash, ipHashIndex) {
+  const current = await fetchQueue(github, header);
+  const queue = normalizeQueueCsv(current.content, header, github.path);
+  return parseCsv(queue)
+    .slice(1)
+    .filter((row) => row[0] === submittedDate && row[ipHashIndex] === ipHash)
+    .length;
+}
+
+async function ensureConfirmedSuggestionQueued(confirmationRow, env) {
+  const activeGithub = githubConfig(env, "QUEUE_PATH", "suggest_queue.csv");
+  const submittedDate = confirmationRow[0] || "";
+  const submittedAt = confirmationRow[1] || "";
+  const paperName = confirmationRow[2] || "";
+  const doi = confirmationRow[3] || "";
+  const authors = confirmationRow[4] || "";
+  const submitterName = confirmationRow[5] || "";
+  const submitterEmail = confirmationRow[6] || "";
+  const ipHash = confirmationRow[7] || "";
+
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(activeGithub, SUGGEST_QUEUE_HEADER);
+    const queue = normalizeQueueCsv(current.content, SUGGEST_QUEUE_HEADER, activeGithub.path);
+    const rows = parseCsv(queue);
+    const alreadyQueued = rows.slice(1).some((row) => (
+      row[0] === submittedDate
+      && row[1] === submittedAt
+      && row[2] === paperName
+      && row[5] === submitterName
+      && row[6] === submitterEmail
+    ));
+
+    if (alreadyQueued) return false;
+
+    const activeRow = [
+      submittedDate,
+      submittedAt,
+      paperName,
+      doi,
+      submitterName,
+      submitterEmail,
+      ipHash,
+      "pending",
+      "email_confirmed",
+      authors
+    ];
+    const saved = await saveQueue(
+      activeGithub,
+      current.sha,
+      `${queue}${csvLine(activeRow)}\n`,
+      "Add confirmed website paper suggestion"
+    );
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+
+    return true;
+  }
+
+  throw new Error("The suggestion queue is busy. Please try again.");
+}
+
+async function markSuggestionConfirmationEmailSent(github, tokenHash) {
+  await updateSuggestionConfirmationEmailFields(github, tokenHash, (row) => {
+    row[11] = row[11] || new Date().toISOString();
+    row[15] = appendNote(row[15], "confirmation_email_sent");
+  });
+}
+
+async function markSuggestionConfirmationEmailFailed(github, tokenHash, error) {
+  await updateSuggestionConfirmationEmailFields(github, tokenHash, (row) => {
+    row[10] = "email_failed";
+    row[15] = appendNote(row[15], `confirmation_email_failed:${clean(error && error.message, 220)}`);
+  }).catch(() => {});
+}
+
+async function updateSuggestionConfirmationEmailFields(github, tokenHash, mutateRow) {
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const current = await fetchQueue(github, SUGGEST_CONFIRMATION_HEADER);
+    const queue = normalizeQueueCsv(current.content, SUGGEST_CONFIRMATION_HEADER, github.path);
+    const rows = parseCsv(queue);
+    const row = rows.find((csvRow, index) => index > 0 && csvRow[8] === tokenHash);
+    if (!row) return false;
+    while (row.length < SUGGEST_CONFIRMATION_HEADER.length) row.push("");
+    mutateRow(row);
+    const saved = await saveQueue(
+      github,
+      current.sha,
+      `${rows.map((csvRow) => csvLine(csvRow)).join("\n")}\n`,
+      "Update paper suggestion confirmation email status"
+    );
+
+    if (saved.status === 409) continue;
+    if (!saved.ok) {
+      const detail = await saved.text();
+      throw new Error(`GitHub update failed: ${saved.status} ${detail}`);
+    }
+    return true;
+  }
+  return false;
 }
 
 async function handlePageFeedback(request, env, cors) {
@@ -636,6 +982,8 @@ function requestKind(request) {
   if (pathname.endsWith("/admin/page-feedback/history")) return "admin-page-feedback-history";
   if (pathname.endsWith("/admin/page-feedback")) return "admin-page-feedback";
   if (pathname.endsWith("/admin/author-notices")) return "admin-author-notices";
+  if (pathname.endsWith("/confirm-suggestion")) return "confirm-suggestion";
+  if (pathname.endsWith("/report-suggestion")) return "report-suggestion";
   return pathname.endsWith("/page-feedback") ? "page-feedback" : "paper-suggestion";
 }
 
@@ -674,6 +1022,208 @@ function validateSuggestionPayload(payload) {
   }
 
   return { paperTitle, authors, doi, submitterName, submitterEmail };
+}
+
+function requireConfirmationEmailConfig(env) {
+  if (!env.RESEND_API_KEY && !env.CONFIRMATION_EMAIL_WEBHOOK_URL) {
+    throw new Error("Confirmation email service is not configured.");
+  }
+  if (!clean(env.CONFIRMATION_MAIL_FROM || env.MAIL_FROM || "", 300)) {
+    throw new Error("Confirmation email sender is not configured.");
+  }
+}
+
+function confirmationToken() {
+  const bytes = new Uint8Array(32);
+  crypto.getRandomValues(bytes);
+  return bytesToBase64(bytes).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/g, "");
+}
+
+async function hashConfirmationToken(token, env) {
+  const secret = env.CONFIRMATION_TOKEN_SECRET || env.IP_HASH_SECRET || env.GITHUB_TOKEN || "change-this-secret";
+  const bytes = new TextEncoder().encode(`${secret}:${token}`);
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)]
+    .map((byte) => byte.toString(16).padStart(2, "0"))
+    .join("");
+}
+
+function confirmationExpiry(env) {
+  const days = parseIntEnv(env.SUGGEST_CONFIRMATION_EXPIRY_DAYS, DEFAULT_SUGGEST_CONFIRMATION_EXPIRY_DAYS);
+  return new Date(Date.now() + days * 24 * 60 * 60 * 1000).toISOString();
+}
+
+function confirmationExpired(expiresAt) {
+  const expiresMs = Date.parse(String(expiresAt || ""));
+  return Number.isFinite(expiresMs) && expiresMs < Date.now();
+}
+
+function suggestionActionUrl(request, env, path, token) {
+  const base = String(env.CONFIRMATION_BASE_URL || new URL(request.url).origin).trim() || new URL(request.url).origin;
+  const url = new URL(`/${path}`, base);
+  url.searchParams.set("token", token);
+  return url.toString();
+}
+
+async function sendSuggestionConfirmationEmail(suggestion, confirmUrl, reportUrl, expiresAt, env) {
+  const subject = "Confirm your Demokratia paper suggestion";
+  const expiryText = new Date(expiresAt).toLocaleString("en-GB", { timeZone: "Asia/Jerusalem" });
+  const details = [
+    `Paper title: ${suggestion.paperTitle}`,
+    suggestion.authors ? `Author names: ${suggestion.authors}` : "",
+    suggestion.doi ? `DOI: ${suggestion.doi}` : ""
+  ].filter(Boolean).join("\n");
+  const text = `Hello ${suggestion.submitterName},
+
+We received a paper suggestion for the Demokratia website from this email address.
+
+${details}
+
+Please confirm that you submitted this suggestion:
+${confirmUrl}
+
+If you did not submit this suggestion, please report it here:
+${reportUrl}
+
+The confirmation link expires on ${expiryText} Israel time. The suggestion will be added to the review queue only after confirmation.
+
+Thank you,
+Demokratia`;
+  const html = `<p>Hello ${escapeHtml(suggestion.submitterName)},</p>
+<p>We received a paper suggestion for the Demokratia website from this email address.</p>
+<p><strong>Paper title:</strong> ${escapeHtml(suggestion.paperTitle)}${suggestion.authors ? `<br><strong>Author names:</strong> ${escapeHtml(suggestion.authors)}` : ""}${suggestion.doi ? `<br><strong>DOI:</strong> ${escapeHtml(suggestion.doi)}` : ""}</p>
+<p><a href="${escapeHtml(confirmUrl)}">Confirm this suggestion</a></p>
+<p>If you did not submit this suggestion, <a href="${escapeHtml(reportUrl)}">report it here</a>.</p>
+<p>The confirmation link expires on ${escapeHtml(expiryText)} Israel time. The suggestion will be added to the review queue only after confirmation.</p>
+<p>Thank you,<br>Demokratia</p>`;
+
+  return sendEmailMessage({
+    to: suggestion.submitterEmail,
+    subject,
+    text,
+    html,
+    env
+  });
+}
+
+async function sendSuggestionReportEmail(row, env) {
+  const subject = "Paper suggestion reported as unrecognized";
+  const reportTo = clean(env.CONFIRMATION_REPORT_TO || DEFAULT_CONFIRMATION_REPORT_TO, 254);
+  const text = `A paper suggestion confirmation link was reported as not submitted by the email recipient.
+
+Submitted at: ${row[1] || ""}
+Paper title: ${row[2] || ""}
+DOI: ${row[3] || ""}
+Authors: ${row[4] || ""}
+Submitter name: ${row[5] || ""}
+Submitter email: ${row[6] || ""}
+
+The pending suggestion was marked reported_not_submitter and was not added to suggest_queue.csv.`;
+  const html = `<p>A paper suggestion confirmation link was reported as not submitted by the email recipient.</p>
+<p><strong>Submitted at:</strong> ${escapeHtml(row[1] || "")}<br>
+<strong>Paper title:</strong> ${escapeHtml(row[2] || "")}<br>
+<strong>DOI:</strong> ${escapeHtml(row[3] || "")}<br>
+<strong>Authors:</strong> ${escapeHtml(row[4] || "")}<br>
+<strong>Submitter name:</strong> ${escapeHtml(row[5] || "")}<br>
+<strong>Submitter email:</strong> ${escapeHtml(row[6] || "")}</p>
+<p>The pending suggestion was marked <code>reported_not_submitter</code> and was not added to <code>suggest_queue.csv</code>.</p>`;
+
+  return sendEmailMessage({ to: reportTo, subject, text, html, env });
+}
+
+async function sendEmailMessage({ to, subject, text, html, env }) {
+  const from = clean(env.CONFIRMATION_MAIL_FROM || env.MAIL_FROM || "", 300);
+  const replyTo = clean(
+    env.CONFIRMATION_MAIL_REPLY_TO || env.MAIL_REPLY_TO || DEFAULT_CONFIRMATION_REPORT_TO,
+    254
+  );
+
+  if (env.RESEND_API_KEY) {
+    const response = await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${env.RESEND_API_KEY}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        from,
+        to: [to],
+        reply_to: replyTo,
+        subject,
+        text,
+        html
+      })
+    });
+    if (!response.ok) {
+      const detail = await response.text();
+      throw new Error(`Email API failed: ${response.status} ${detail}`);
+    }
+    return response;
+  }
+
+  if (env.CONFIRMATION_EMAIL_WEBHOOK_URL) {
+    const headers = { "Content-Type": "application/json" };
+    if (env.CONFIRMATION_EMAIL_WEBHOOK_TOKEN) {
+      headers.Authorization = `Bearer ${env.CONFIRMATION_EMAIL_WEBHOOK_TOKEN}`;
+    }
+    const response = await fetch(env.CONFIRMATION_EMAIL_WEBHOOK_URL, {
+      method: "POST",
+      headers,
+      body: JSON.stringify({ from, to, replyTo, subject, text, html })
+    });
+    if (!response.ok) {
+      const detail = await response.text();
+      throw new Error(`Email webhook failed: ${response.status} ${detail}`);
+    }
+    return response;
+  }
+
+  throw new Error("Confirmation email service is not configured.");
+}
+
+function htmlResponse(title, message, status = 200) {
+  const html = `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${escapeHtml(title)}</title>
+  <style>
+    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f6f1e7; color: #16211f; }
+    main { max-width: 680px; margin: 12vh auto; padding: 0 24px; line-height: 1.6; }
+    a { color: #0f5d58; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>${escapeHtml(title)}</h1>
+    <p>${escapeHtml(message)}</p>
+    <p><a href="${DEFAULT_SITE_ORIGIN}/">Return to the Demokratia website</a></p>
+  </main>
+</body>
+</html>`;
+  return new Response(html, {
+    status,
+    headers: {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-store"
+    }
+  });
+}
+
+function appendNote(existing, note) {
+  const next = clean(note, 300);
+  if (!next) return existing || "";
+  return clean(existing ? `${existing}; ${next}` : next, 1000);
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 async function pageFeedbackRequestPayload(request) {
