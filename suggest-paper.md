@@ -11,7 +11,7 @@ permalink: /suggest-paper.html
 
 <section class="privacy-notice" aria-labelledby="suggestPrivacyHeading">
   <h2 id="suggestPrivacyHeading">Privacy notice</h2>
-  <p>This form collects the paper title, DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is used only to review paper suggestions and prevent abuse, is stored in the private <code>democracy-paper-suggestions-private</code> operational repository, and is visible only to website editors and authorized technical maintainers. To request deletion of a submission, email <a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a> with enough detail to identify it.</p>
+  <p>This form collects the paper title, optional author names, optional DOI, your name, your email address, and a daily salted hash of the source IP address for rate limiting. The information is used only to review paper suggestions and prevent abuse, is stored in the private <code>democracy-paper-suggestions-private</code> operational repository, and is visible only to website editors and authorized technical maintainers. To request deletion of a submission, email <a href="mailto:demokratia@tau.ac.il">demokratia@tau.ac.il</a> with enough detail to identify it.</p>
 </section>
 
 <form class="suggestion-form"
@@ -26,8 +26,13 @@ permalink: /suggest-paper.html
   </div>
 
   <div class="form-field">
-    <label class="form-label" for="doi">DOI number</label>
-    <input class="form-control" id="doi" name="doi" type="text" inputmode="url" autocomplete="off" required maxlength="240" placeholder="10.xxxx/xxxxx">
+    <label class="form-label" for="authors">Author names <span class="optional-label">(optional)</span></label>
+    <input class="form-control" id="authors" name="authors" type="text" autocomplete="off" maxlength="500" placeholder="Author One; Author Two">
+  </div>
+
+  <div class="form-field">
+    <label class="form-label" for="doi">DOI number <span class="optional-label">(optional)</span></label>
+    <input class="form-control" id="doi" name="doi" type="text" inputmode="url" autocomplete="off" maxlength="240" placeholder="10.xxxx/xxxxx">
   </div>
 
   <div class="form-field">

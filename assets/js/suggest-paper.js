@@ -86,6 +86,7 @@
 
     const payload = {
       paperTitle: readField("paperTitle"),
+      authors: readField("authors"),
       doi: readField("doi"),
       submitterName: readField("submitterName"),
       submitterEmail: readField("submitterEmail")

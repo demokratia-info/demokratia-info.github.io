@@ -36,6 +36,7 @@ SUGGEST_QUEUE_REQUIRED_COLUMNS = (
     "submitter_ip_hash",
     "status",
     "notes",
+    "authors",
 )
 
 REQUIRED_PAPER_KEYS = {
@@ -428,9 +429,7 @@ def validate_suggest_queue(errors: list[str]) -> None:
         if not paper_name:
             errors.append(f"suggest_queue.csv row {row_number}: paper_name is required")
         doi_key = normalize_doi(doi)
-        if not doi:
-            errors.append(f"suggest_queue.csv row {row_number}: doi is required")
-        elif not re.fullmatch(r"(?:https://doi\.org/)?10\.\d{4,9}/\S+", doi_key):
+        if doi and not re.fullmatch(r"(?:https://doi\.org/)?10\.\d{4,9}/\S+", doi_key):
             errors.append(f"suggest_queue.csv row {row_number}: doi must look like a DOI")
         if not submitter_name:
             errors.append(f"suggest_queue.csv row {row_number}: submitter_name is required")

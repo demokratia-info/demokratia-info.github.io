@@ -7,7 +7,8 @@ const SUGGEST_QUEUE_HEADER = [
   "submitter_email",
   "submitter_ip_hash",
   "status",
-  "notes"
+  "notes",
+  "authors"
 ];
 
 const FEEDBACK_QUEUE_HEADER = [
@@ -145,7 +146,8 @@ async function handlePaperSuggestion(request, env, cors) {
       suggestion.submitterEmail,
       ipHash,
       "pending",
-      ""
+      "",
+      suggestion.authors
     ],
     submittedDate,
     ipHash,
@@ -659,19 +661,19 @@ function jsonResponse(body, status, headers) {
 
 function validateSuggestionPayload(payload) {
   const paperTitle = clean(payload.paperTitle || payload.paper_name || payload.title, 300);
+  const authors = clean(payload.authors || payload.paperAuthors || payload.paper_authors || payload.author_names, 500);
   const doi = normalizeDoi(clean(payload.doi, 240));
   const submitterName = clean(payload.submitterName || payload.submitter_name || payload.name, 120);
   const submitterEmail = clean(payload.submitterEmail || payload.submitter_email || payload.email, 254).toLowerCase();
 
   if (!paperTitle) throw new Error("Paper title is required.");
-  if (!doi) throw new Error("DOI number is required.");
-  if (!DOI_PATTERN.test(doi)) throw new Error("Please enter a valid DOI number.");
+  if (doi && !DOI_PATTERN.test(doi)) throw new Error("Please enter a valid DOI number.");
   if (!submitterName) throw new Error("Your name is required.");
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail)) {
     throw new Error("A valid email address is required.");
   }
 
-  return { paperTitle, doi, submitterName, submitterEmail };
+  return { paperTitle, authors, doi, submitterName, submitterEmail };
 }
 
 async function pageFeedbackRequestPayload(request) {

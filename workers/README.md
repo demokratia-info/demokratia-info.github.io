@@ -18,6 +18,14 @@ The Worker:
 - allows up to two accepted paper suggestions and five accepted page-feedback submissions per source per Israel calendar day;
 - writes the queues through the GitHub Contents API.
 
+`suggest_queue.csv` uses this header:
+
+```csv
+submitted_date,submitted_at,paper_name,doi,submitter_name,submitter_email,submitter_ip_hash,status,notes,authors
+```
+
+The `doi` and `authors` fields are optional for paper suggestions; when a DOI is provided, the Worker validates that it looks like a DOI.
+
 `page_feedback_queue.csv` uses this header:
 
 ```csv
