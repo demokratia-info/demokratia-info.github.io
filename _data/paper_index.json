@@ -1,8 +1,287 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 709,
+  "paperCount": 719,
   "papers": [
+    {
+      "slug": "democracy_privatizing_policy_formation_democracy_israel_summary_he",
+      "file": "democracy_privatizing_policy_formation_democracy_israel_summary_he.html",
+      "permalink": "/democracy_privatizing_policy_formation_democracy_israel_summary_he.html",
+      "sortKey": 202606040010,
+      "titleHe": "הפרטת עיצוב המדיניות בישראל מעלה שאלת אחריותיות דמוקרטית",
+      "paperTitle": "Does the privatizing of policy formation threaten democracy? Arguments from the Israeli experience",
+      "authorsCardHe": "Eran Vigoda-Gadot, Haim Cohen, Yair Zalmanovitch",
+      "sourceAuthors": [
+        "Eran Vigoda-Gadot",
+        "Haim Cohen",
+        "Yair Zalmanovitch"
+      ],
+      "journal": "Policy Studies, 35(5), 484-497",
+      "dateText": "פורסם אונליין: 05.09.2014",
+      "doiUrl": "https://doi.org/10.1080/01442872.2014.946482",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_privatizing_policy_formation_democracy_israel_summary_he.jpg",
+        "altHe": "צוות מדיניות ציבורית ויועצים חיצוניים דנים במסמכי תכנון בחדר ממשלתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מתמקד בשלב שבו מדיניות עדיין מתעצבת, לפני שהציבור רואה החלטה רשמית. כאשר יועצים וגופים פרטיים משפיעים על השלב הזה, הדמוקרטיה צריכה כלים ברורים יותר לבירור מי קובע, בשם מי, ועל פי אילו מחויבויות ציבוריות."
+    },
+    {
+      "slug": "democracy_high_tech_nation_israeli_polity_summary_he",
+      "file": "democracy_high_tech_nation_israeli_polity_summary_he.html",
+      "permalink": "/democracy_high_tech_nation_israeli_polity_summary_he.html",
+      "sortKey": 202606040009,
+      "titleHe": "אומת ההיי־טק מציבה לדמוקרטיה הישראלית אתגר מוסדי",
+      "paperTitle": "High-tech nation: the future of the Israeli polity",
+      "authorsCardHe": "Gideon Doron",
+      "sourceAuthors": [
+        "Gideon Doron"
+      ],
+      "journal": "Israel Affairs, 17(3), 313-326",
+      "dateText": "פורסם: יולי 2011",
+      "doiUrl": "https://doi.org/10.1080/13537121.2011.584659",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_high_tech_nation_israeli_polity_summary_he.jpg",
+        "altHe": "חוקרי מדיניות ואנשי טכנולוגיה דנים בתשתיות דיגיטליות ובממשל דמוקרטי במעבדת מדיניות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מציע לחשוב על ההיי־טק כעל חלק מן הפוליטיקה הישראלית, ולא רק כעל מנוע צמיחה. כאשר חדשנות נעשית מקור מרכזי לזהות לאומית ולמדיניות, עולה השאלה אם המוסדות הדמוקרטיים מצליחים לתווך בין יעילות, שוויון, ייצוג ופיקוח ציבורי."
+    },
+    {
+      "slug": "democracy_fighting_terrorism_political_arena_summary_he",
+      "file": "democracy_fighting_terrorism_political_arena_summary_he.html",
+      "permalink": "/democracy_fighting_terrorism_political_arena_summary_he.html",
+      "sortKey": 202606040008,
+      "titleHe": "פסילת מפלגות בשל תמיכה בטרור בוחנת את גבולות הדמוקרטיה המתגוננת",
+      "paperTitle": "Fighting Terrorism in the Political Arena",
+      "authorsCardHe": "Suzie Navot",
+      "sourceAuthors": [
+        "Suzie Navot"
+      ],
+      "journal": "Party Politics, 14(6), 745-762",
+      "dateText": "פורסם אונליין: 01.11.2008",
+      "doiUrl": "https://doi.org/10.1177/1354068808093409",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fighting_terrorism_political_arena_summary_he.jpg",
+        "altHe": "ועדה משפטית לבחירות דנה בתיקי ראיות ובפתקי הצבעה אנונימיים ללא סמלי מפלגות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "Navot בוחנת את התיקון האנטי־טרוריסטי בדיני הבחירות בישראל ומשווה אותו גם לחקיקה הספרדית משנת 2002. המאמר מדגיש שהמאבק בטרור בזירה הפוליטית מחייב קווים ברורים, ראיות אמינות ופיקוח שיפוטי כדי שלא להפוך הגנה על הדמוקרטיה לפגיעה בה."
+    },
+    {
+      "slug": "democracy_self_exclusion_strategy_inclusion_shas_summary_he",
+      "file": "democracy_self_exclusion_strategy_inclusion_shas_summary_he.html",
+      "permalink": "/democracy_self_exclusion_strategy_inclusion_shas_summary_he.html",
+      "sortKey": 202606040007,
+      "titleHe": "ש״ס מדגימה כיצד הסתגרות קהילתית יכולה לשמש אסטרטגיית הכלה פוליטית",
+      "paperTitle": "Self-exclusion as a strategy of inclusion: the case of Shas",
+      "authorsCardHe": "David Lehmann, Batia Siebzehner",
+      "sourceAuthors": [
+        "David Lehmann",
+        "Batia Siebzehner"
+      ],
+      "journal": "Citizenship Studies, 12(3), 233-247",
+      "dateText": "פורסם: יוני 2008",
+      "doiUrl": "https://doi.org/10.1080/13621020802015396",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_self_exclusion_strategy_inclusion_shas_summary_he.jpg",
+        "altHe": "מפגש קהילתי דתי ומוניציפלי שבו פעילים ונציגי ציבור דנים בהשתתפות ובהכללה פוליטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מראה כיצד קבוצה שמדגישה נבדלות יכולה להשתמש בנבדלות עצמה כדי להשיג קול פוליטי, משאבים והכרה. מבחינה דמוקרטית, המקרה מאתגר תפיסה של אזרחות אחידה ומעלה שאלה כיצד מערכת פוליטית מכלילה קהילות שאינן מבקשות להיטמע במלואן."
+    },
+    {
+      "slug": "democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he",
+      "file": "democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.html",
+      "permalink": "/democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.html",
+      "sortKey": 202606040006,
+      "titleHe": "טלמון ואוקשוט חושפים עמימות בתוך ביקורת על טוטליטריות",
+      "paperTitle": "Anti-totalitarian ambiguities: Jacob Talmon and Michael Oakeshott",
+      "authorsCardHe": "Efraim Podoksik",
+      "sourceAuthors": [
+        "Efraim Podoksik"
+      ],
+      "journal": "History of European Ideas, 34(2), 206-219",
+      "dateText": "פורסם: יוני 2008",
+      "doiUrl": "https://doi.org/10.1016/j.histeuroideas.2007.12.009",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.jpg",
+        "altHe": "חוקרים בחדר סמינר אוניברסיטאי משווים ספרים וארכיונים על מחשבה אנטי־טוטליטרית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר אינו מסתפק בהצבת דמוקרטיה מול טוטליטריות כזוג מושגים פשוט. הוא בוחן כיצד שני הוגים אנטי־טוטליטריים ניסחו חששות שונים מן הפוליטיקה המודרנית, ומה ניתן ללמוד מכך על גבולות כוח המדינה ועל שפת החירות הליברלית."
+    },
+    {
+      "slug": "democracy_peace_encounters_internet_technology_summary_he",
+      "file": "democracy_peace_encounters_internet_technology_summary_he.html",
+      "permalink": "/democracy_peace_encounters_internet_technology_summary_he.html",
+      "sortKey": 202606040005,
+      "titleHe": "מפגשי שלום מקוונים יוצרים מרחב דיאלוג נדיר לנוער יהודי וערבי",
+      "paperTitle": "Feeling close from a distance: Peace encounters via Internet technology",
+      "authorsCardHe": "Yaacov B. Yablon",
+      "sourceAuthors": [
+        "Yaacov B. Yablon"
+      ],
+      "journal": "New Directions for Youth Development, 2007(116), 99-107",
+      "dateText": "פורסם אונליין: 12.02.2008",
+      "doiUrl": "https://doi.org/10.1002/yd.237",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_peace_encounters_internet_technology_summary_he.jpg",
+        "altHe": "בני נוער יהודים וערבים משתתפים במפגש דיאלוג מקוון במעבדת מחשבים קהילתית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מראה כיצד טכנולוגיה יכולה ליצור מרחב קשר כאשר מפגש פיזי בין קבוצות סכסוך מוגבל או טעון. מבחינה דמוקרטית, החשיבות היא ביכולת לבנות שיחה אזרחית על שוויון וסובלנות גם כאשר המציאות היומיומית מצמצמת הזדמנויות לכך."
+    },
+    {
+      "slug": "democracy_israeli_palestinian_conflict_elections_summary_he",
+      "file": "democracy_israeli_palestinian_conflict_elections_summary_he.html",
+      "permalink": "/democracy_israeli_palestinian_conflict_elections_summary_he.html",
+      "sortKey": 202606040004,
+      "titleHe": "בחירות בישראל עיצבו את הסכסוך דרך ייצוג יותר מאשר דרך דיון עמוק",
+      "paperTitle": "The Israeli—Palestinian Conflict in Israeli Elections",
+      "authorsCardHe": "Michal Shamir, Jacob Shamir",
+      "sourceAuthors": [
+        "Michal Shamir",
+        "Jacob Shamir"
+      ],
+      "journal": "International Political Science Review, 28(4), 469-491",
+      "dateText": "פורסם אונליין: 01.09.2007",
+      "doiUrl": "https://doi.org/10.1177/0192512107079641",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_palestinian_conflict_elections_summary_he.jpg",
+        "altHe": "חוקרים ופקחי בחירות מנתחים פתקים ומפות אנונימיות בחדר לא מפלגתי לאחר מערכת בחירות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מטיל ספק באיכות הדליברציה בבחירות שעסקו בסכסוך, אך מדגיש שהבחירות בכל זאת עיצבו את הסכסוך דרך חילופי שלטון וייצוג דינמי. לכן הבחירות אינן רק מדד לעמדות ציבוריות אלא מנגנון שמשנה את מסלול המדיניות."
+    },
+    {
+      "slug": "democracy_young_immigrants_voting_politics_israel_summary_he",
+      "file": "democracy_young_immigrants_voting_politics_israel_summary_he.html",
+      "permalink": "/democracy_young_immigrants_voting_politics_israel_summary_he.html",
+      "sortKey": 202606040003,
+      "titleHe": "צעירי העלייה מברית המועצות לשעבר מפרשים הצבעה דרך ניסיון הגירה ואזרחות",
+      "paperTitle": "Perspectives of Young Immigrants from the Former USSR on Voting and Politics in Israel",
+      "authorsCardHe": "Rivka A. Eisikovits",
+      "sourceAuthors": [
+        "Rivka A. Eisikovits"
+      ],
+      "journal": "Theory & Research in Social Education, 33(4), 454-475",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1080/00933104.2005.10473291",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_young_immigrants_voting_politics_israel_summary_he.jpg",
+        "altHe": "צעירים עולים במרכז קהילתי לומדים על הצבעה ופוליטיקה ישראלית סביב קלפי אנונימית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מציע לראות בהצבעה לא רק פעולה טכנית של אזרחים חדשים אלא חלק מתהליך למידה פוליטית. צעירים מהגרים מפרשים את הדמוקרטיה הישראלית דרך ניסיון משפחתי, תרבותי וחינוכי, ולכן חינוך אזרחי צריך להכיר במורכבות הזאת."
+    },
+    {
+      "slug": "democracy_reconciliation_compromise_israelis_palestinians_summary_he",
+      "file": "democracy_reconciliation_compromise_israelis_palestinians_summary_he.html",
+      "permalink": "/democracy_reconciliation_compromise_israelis_palestinians_summary_he.html",
+      "sortKey": 202606040002,
+      "titleHe": "עמדות לפיוס ולפשרה תלויות בציפיות לשלום ובאמון בדמוקרטיה",
+      "paperTitle": "Determinants of Reconciliation and Compromise Among Israelis and Palestinians",
+      "authorsCardHe": "Jacob Shamir, Khalil Shikaki",
+      "sourceAuthors": [
+        "Jacob Shamir",
+        "Khalil Shikaki"
+      ],
+      "journal": "Journal of Peace Research, 39(2), 185-202",
+      "dateText": "פורסם: 01.03.2002",
+      "doiUrl": "https://doi.org/10.1177/0022343302039002003",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reconciliation_compromise_israelis_palestinians_summary_he.jpg",
+        "altHe": "חוקרי דעת קהל ישראלים ופלסטינים בוחנים שאלונים אנונימיים על פיוס ופשרה סביב שולחן משותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המחקר נשען על מדגמים מייצגים של 525 ישראלים ו-1,259 פלסטינים בגדה המערבית, ברצועת עזה ובמזרח ירושלים. הממצא המרכזי הוא שציפיות לעתיד של שלום ודמוקרטיה מסבירות עמדות פיוס ופשרה מעבר למאפיינים דמוגרפיים ולעמדות פוליטיות."
+    },
+    {
+      "slug": "democracy_civil_military_elites_democracy_israel_summary_he",
+      "file": "democracy_civil_military_elites_democracy_israel_summary_he.html",
+      "permalink": "/democracy_civil_military_elites_democracy_israel_summary_he.html",
+      "sortKey": 202606040001,
+      "titleHe": "קרבת האליטות הצבאיות והפוליטיות פוגעת בהוגנות התחרות הדמוקרטית",
+      "paperTitle": "Civil-Military Relations and Democracy: The Case of the Military-Political Elites' Connection in Israel",
+      "authorsCardHe": "Eva Etzioni-Halevy",
+      "sourceAuthors": [
+        "Eva Etzioni-Halevy"
+      ],
+      "journal": "Armed Forces & Society, 22(3), 401-417",
+      "dateText": "פורסם אונליין: 01.04.1996",
+      "doiUrl": "https://doi.org/10.1177/0095327x9602200304",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_military_elites_democracy_israel_summary_he.jpg",
+        "altHe": "חדר פיקוח פרלמנטרי שבו נציגים אזרחיים וקצינים ללא סמלים מזהים בוחנים מסמכי מדיניות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-04",
+      "dateModified": "2026-06-04",
+      "summaryHe": "המאמר מתאר כמה ערוצים של קרבה בין צבא לפוליטיקה: תמיכה פומבית של מפקדים במדיניות ממשלתית, מעורבות בעיצוב מדיניות, מינויים פוליטיים בצבא, מעבר מן הצבא לפוליטיקה וקשרים חברתיים בלתי פורמליים. כל אלה יכולים לחזק את הממשלה המכהנת ולפגוע ברוח התחרות הדמוקרטית."
+    },
     {
       "slug": "democracy_global_governance_new_technology_democracy_summary_he",
       "file": "democracy_global_governance_new_technology_democracy_summary_he.html",

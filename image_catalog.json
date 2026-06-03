@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-04",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -17068,6 +17068,290 @@
         "democracy_right_association_nonprofit_bill_israel_summary_he.html": "high"
       },
       "generatedAt": "2026-06-03"
+    },
+    {
+      "file": "html_qa/democracy_privatizing_policy_formation_democracy_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_privatizing_policy_formation_democracy_israel_summary_he.html",
+      "usedBy": [
+        "democracy_privatizing_policy_formation_democracy_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הפרטת עיצוב המדיניות בישראל מעלה שאלת אחריותיות דמוקרטית",
+      "authorsHe": "Eran Vigoda-Gadot, Haim Cohen, Yair Zalmanovitch",
+      "visualDescriptionHe": "צוות מדיניות ציבורית ויועצים חיצוניים סביב שולחן עבודה ממשלתי.",
+      "semanticDescriptionHe": "המאמר עוסק בהפרטת עיצוב מדיניות ולכן הדימוי מציג את המתח בין מומחיות חיצונית לבין אחריות ציבורית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "הפרטת מדיניות",
+        "אחריותיות",
+        "שירות ציבורי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_privatizing_policy_formation_democracy_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_high_tech_nation_israeli_polity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_high_tech_nation_israeli_polity_summary_he.html",
+      "usedBy": [
+        "democracy_high_tech_nation_israeli_polity_summary_he.html"
+      ],
+      "cardTitleHe": "אומת ההיי־טק מציבה לדמוקרטיה הישראלית אתגר מוסדי",
+      "authorsHe": "Gideon Doron",
+      "visualDescriptionHe": "מעבדת מדיניות וטכנולוגיה שבה חוקרים ואנשי ציבור דנים בתשתיות דיגיטליות.",
+      "semanticDescriptionHe": "המאמר עוסק באומת היי־טק ובמוסדות המדינה ולכן הדימוי מחבר חדשנות, ממשל ודיון ציבורי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "היי־טק",
+        "ישראל",
+        "מוסדות דמוקרטיים"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_high_tech_nation_israeli_polity_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_fighting_terrorism_political_arena_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_fighting_terrorism_political_arena_summary_he.html",
+      "usedBy": [
+        "democracy_fighting_terrorism_political_arena_summary_he.html"
+      ],
+      "cardTitleHe": "פסילת מפלגות בשל תמיכה בטרור בוחנת את גבולות הדמוקרטיה המתגוננת",
+      "authorsHe": "Suzie Navot",
+      "visualDescriptionHe": "ועדה משפטית לבחירות בוחנת מסמכי ראיות ופתקי הצבעה אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק בפסילת מפלגות ותמיכה בטרור ולכן הדימוי מתמקד באיזון משפטי־מוסדי ולא באלימות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "דמוקרטיה מתגוננת",
+        "פסילת מפלגות",
+        "טרור"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_fighting_terrorism_political_arena_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_self_exclusion_strategy_inclusion_shas_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_self_exclusion_strategy_inclusion_shas_summary_he.html",
+      "usedBy": [
+        "democracy_self_exclusion_strategy_inclusion_shas_summary_he.html"
+      ],
+      "cardTitleHe": "ש״ס מדגימה כיצד הסתגרות קהילתית יכולה לשמש אסטרטגיית הכלה פוליטית",
+      "authorsHe": "David Lehmann, Batia Siebzehner",
+      "visualDescriptionHe": "מפגש קהילתי דתי ומוניציפלי סביב השתתפות ושירותים ציבוריים.",
+      "semanticDescriptionHe": "המאמר עוסק בש״ס ובהכלה דרך נבדלות ולכן הדימוי מציג קהילה, ייצוג ומוסדות מקומיים בכבוד.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ש״ס",
+        "אזרחות",
+        "הכלה פוליטית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_self_exclusion_strategy_inclusion_shas_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.html",
+      "usedBy": [
+        "democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.html"
+      ],
+      "cardTitleHe": "טלמון ואוקשוט חושפים עמימות בתוך ביקורת על טוטליטריות",
+      "authorsHe": "Efraim Podoksik",
+      "visualDescriptionHe": "חדר סמינר אוניברסיטאי עם חוקרים, ספרים וארכיונים של מחשבה פוליטית.",
+      "semanticDescriptionHe": "המאמר עוסק בהיסטוריה של רעיונות אנטי־טוטליטריים ולכן הדימוי נבנה כסצנת מחקר אינטלקטואלית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "טוטליטריות",
+        "ליברליזם",
+        "היסטוריה של רעיונות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_anti_totalitarian_ambiguities_talmon_oakeshott_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_peace_encounters_internet_technology_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_peace_encounters_internet_technology_summary_he.html",
+      "usedBy": [
+        "democracy_peace_encounters_internet_technology_summary_he.html"
+      ],
+      "cardTitleHe": "מפגשי שלום מקוונים יוצרים מרחב דיאלוג נדיר לנוער יהודי וערבי",
+      "authorsHe": "Yaacov B. Yablon",
+      "visualDescriptionHe": "בני נוער יהודים וערבים במעבדת מחשבים משתתפים בדיאלוג מקוון.",
+      "semanticDescriptionHe": "המאמר עוסק במפגשי שלום מקוונים ולכן הדימוי מציג קשר חינוכי מתווך־טכנולוגיה בין קבוצות.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "דיאלוג מקוון",
+        "נוער יהודי וערבי",
+        "שלום"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_peace_encounters_internet_technology_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_israeli_palestinian_conflict_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_israeli_palestinian_conflict_elections_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_palestinian_conflict_elections_summary_he.html"
+      ],
+      "cardTitleHe": "בחירות בישראל עיצבו את הסכסוך דרך ייצוג יותר מאשר דרך דיון עמוק",
+      "authorsHe": "Michal Shamir, Jacob Shamir",
+      "visualDescriptionHe": "חדר ניתוח בחירות עם פתקים, מפות וחוקרים ללא סמלי מפלגות.",
+      "semanticDescriptionHe": "המאמר עוסק בבחירות ובסכסוך ולכן הדימוי מציג בחינה מוסדית של ייצוג ולגיטימציה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "בחירות",
+        "הסכסוך הישראלי־פלסטיני",
+        "ייצוג"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_israeli_palestinian_conflict_elections_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_young_immigrants_voting_politics_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_young_immigrants_voting_politics_israel_summary_he.html",
+      "usedBy": [
+        "democracy_young_immigrants_voting_politics_israel_summary_he.html"
+      ],
+      "cardTitleHe": "צעירי העלייה מברית המועצות לשעבר מפרשים הצבעה דרך ניסיון הגירה ואזרחות",
+      "authorsHe": "Rivka A. Eisikovits",
+      "visualDescriptionHe": "צעירים עולים במרכז קהילתי לומדים על הצבעה ודיון פוליטי.",
+      "semanticDescriptionHe": "המאמר עוסק בצעירי עלייה ובאזרחות ולכן הדימוי מציג חינוך אזרחי והשתתפות פוליטית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "הגירה",
+        "הצבעה",
+        "חינוך אזרחי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_young_immigrants_voting_politics_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_reconciliation_compromise_israelis_palestinians_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_reconciliation_compromise_israelis_palestinians_summary_he.html",
+      "usedBy": [
+        "democracy_reconciliation_compromise_israelis_palestinians_summary_he.html"
+      ],
+      "cardTitleHe": "עמדות לפיוס ולפשרה תלויות בציפיות לשלום ובאמון בדמוקרטיה",
+      "authorsHe": "Jacob Shamir, Khalil Shikaki",
+      "visualDescriptionHe": "חוקרי דעת קהל ישראלים ופלסטינים בוחנים שאלוני פיוס ופשרה.",
+      "semanticDescriptionHe": "המאמר עוסק בסקרי פיוס ופשרה ולכן הדימוי מציג מחקר ציבורי משותף סביב עמדות ועתיד מדיני.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "פיוס",
+        "פשרה",
+        "דעת קהל"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_reconciliation_compromise_israelis_palestinians_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
+    },
+    {
+      "file": "html_qa/democracy_civil_military_elites_democracy_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_civil_military_elites_democracy_israel_summary_he.html",
+      "usedBy": [
+        "democracy_civil_military_elites_democracy_israel_summary_he.html"
+      ],
+      "cardTitleHe": "קרבת האליטות הצבאיות והפוליטיות פוגעת בהוגנות התחרות הדמוקרטית",
+      "authorsHe": "Eva Etzioni-Halevy",
+      "visualDescriptionHe": "חדר פיקוח פרלמנטרי עם נציגים אזרחיים וקצינים סביב מסמכי מדיניות.",
+      "semanticDescriptionHe": "המאמר עוסק ביחסי צבא־פוליטיקה ולכן הדימוי מציג פיקוח אזרחי ולא סצנה צבאית הירואית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "יחסי צבא-חברה",
+        "פיקוח אזרחי",
+        "אליטות פוליטיות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_civil_military_elites_democracy_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-04"
     }
   ],
   "topicGraphics": [
