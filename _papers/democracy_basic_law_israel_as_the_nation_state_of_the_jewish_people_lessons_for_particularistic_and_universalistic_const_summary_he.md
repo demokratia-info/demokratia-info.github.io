@@ -12,8 +12,8 @@
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/alon-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Harel</a>",
   "journal": "Studia Iuridica",
   "dateText": "פורסם: 2020",
-  "doiUrl": "https://doi.org/10.5604/01.3001.0013.9613",
-  "doiLabel": "https://doi.org/10.5604/01.3001.0013.9613",
+  "doiUrl": "https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_5604_01_3001_0013_9613",
+  "doiLabel": "CEJSH article page for DOI 10.5604/01.3001.0013.9613",
   "authors": [
     {
       "@type": "Person",
@@ -49,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-04",
+  "lastUpdatedHe": "4 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבתי המשפט, חוקתיות ושלטון החוק, ומראה מדוע הדיון במוסדות אינו טכני בלבד. הוא רלוונטי להבנת דמוקרטיה משום שכללים, אכיפה ואמון ציבורי משפיעים על זכויות, צמיחה, אחריותיות והגבלת כוח.",
   "sections": [
     {

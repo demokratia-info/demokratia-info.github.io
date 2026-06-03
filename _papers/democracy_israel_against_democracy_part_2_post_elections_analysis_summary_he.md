@@ -11,8 +11,8 @@
   "authorsCardHe": "Hilla Dayan",
   "paperTitle": "Israel Against Democracy, Part 2: Post-Elections Analysis",
   "authorsHtml": "<a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Amsterdam Law Forum, 5(1), 125",
+  "dateText": "פורסם: 01.12.2013",
   "doiUrl": "https://doi.org/10.37974/alf.246",
   "doiLabel": "https://doi.org/10.37974/alf.246",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-04",
+  "lastUpdatedHe": "4 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
@@ -104,6 +104,7 @@
   "title": "ישראל נגד הדמוקרטיה: ניתוח שלאחר הבחירות",
   "permalink": "/democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.html",
   "paper_url": "democracy_israel_against_democracy_part_2_post_elections_analysis_summary_he.html",
-  "sortKey": 202605210081
+  "sortKey": 202605210081,
+  "sourcePublishedDate": "2013-12-01"
 }
 ---
