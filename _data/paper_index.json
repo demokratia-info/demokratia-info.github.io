@@ -1,8 +1,289 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 719,
+  "paperCount": 729,
   "papers": [
+    {
+      "slug": "democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he",
+      "file": "democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he.html",
+      "permalink": "/democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he.html",
+      "sortKey": 202606070010,
+      "titleHe": "קבוצות אינטרס בישראל פונות לביורוקרטיה גם בתוך דמוקרטיית מפלגות",
+      "paperTitle": "INTEREST GROUPS AND BUREAUCRATS IN A PARTY‐DEMOCRACY: THE CASE OF ISRAEL",
+      "authorsCardHe": "Yael Mshai",
+      "sourceAuthors": [
+        "Yael Mshai"
+      ],
+      "journal": "Public Administration, 70(2), 269-285",
+      "dateText": "פורסם: יוני 1992",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9299.1992.tb00938.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he.jpg",
+        "altHe": "נציגי חברה אזרחית ופקידים בכירים דנים במסמכי מדיניות בחדר מינהל ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Mshai מנתחת את המקרה הישראלי כחריגה מן הציפייה שקבוצות אינטרס בדמוקרטיית מפלגות יפעלו בעיקר דרך מפלגות. לפי התקציר, הקבוצות נמשכות אל המינהל הציבורי עצמו, ופקידים בכירים מקיימים איתן קשרים רבים גם כאשר הם ממעיטים בערך השפעתן."
+    },
+    {
+      "slug": "democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summary_he",
+      "file": "democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summary_he.html",
+      "permalink": "/democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summary_he.html",
+      "sortKey": 202606070009,
+      "titleHe": "איכות מוסדית מתווכת בין דמוקרטיה לבין צמיחה כלכלית",
+      "paperTitle": "Safeguarding Economic Growth Amid Democratic Backsliding: The Primacy of Institutions over Innovation",
+      "authorsCardHe": "Ran Ben-Malka, Sharon Hadad",
+      "sourceAuthors": [
+        "Ran Ben-Malka",
+        "Sharon Hadad"
+      ],
+      "journal": "Economies, 13(8), 237",
+      "dateText": "פורסם: 15.08.2025",
+      "doiUrl": "https://doi.org/10.3390/economies13080237",
+      "topics": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summary_he.jpg",
+        "altHe": "חוקרי מדיניות וכלכלה בוחנים מסמכי צמיחה ואיכות מוסדית בחדר מחקר ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Ben-Malka ו-Hadad משתמשים במודל צמיחה ובניתוח תיווך של פאנל מדינות לשנים 2011-2022. לפי התקציר, איכות מוסדית מסבירה 83.3% מן ההשפעה הכוללת של דמוקרטיה על תפוקה כלכלית, בעוד חדשנות מסבירה 16.7%."
+    },
+    {
+      "slug": "democracy_human_rights_nongovernability_political_culture_summary_he",
+      "file": "democracy_human_rights_nongovernability_political_culture_summary_he.html",
+      "permalink": "/democracy_human_rights_nongovernability_political_culture_summary_he.html",
+      "sortKey": 202606070008,
+      "titleHe": "זכויות אדם נבחנות דרך פוליטיקה, תרבות ומסוגלות שלטונית",
+      "paperTitle": "Human Rights between Non-governability and Political Culture – A New Approach in Human Rights Analysis",
+      "authorsCardHe": "Assaf Meydani",
+      "sourceAuthors": [
+        "Assaf Meydani"
+      ],
+      "journal": "Athens Journal of Politics & International Affair, 1(1), 39-68",
+      "dateText": "פורסם: 04.02.2025",
+      "doiUrl": "https://doi.org/10.30958/ajpia.1-1-2",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_nongovernability_political_culture_summary_he.jpg",
+        "altHe": "נוסעים ועורכת מדיניות בוחנים מסמכי זכויות בתחבורה ציבורית בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Meydani מציע גישה שמדגישה את הפוליטיקה של הגנת זכויות אדם ואת פעולתם של פוליטיקאים, פקידים, קבוצות אינטרס והציבור. לפי התקציר, שלושה משתנים מבניים מרכזיים הם אי־משילות, תרבות פוליטית קצרת טווח ושיפוטיות של הפוליטיקה."
+    },
+    {
+      "slug": "democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he",
+      "file": "democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he.html",
+      "permalink": "/democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he.html",
+      "sortKey": 202606070007,
+      "titleHe": "מטא־שיח מאפשר דיון דמוקרטי גם בתרבות דיבור מאתגרת",
+      "paperTitle": "Practicing deliberation in challenging speech cultures: the role of metadiscourse",
+      "authorsCardHe": "Idit Manosevitch, Elie Friedman, Leah Sprain",
+      "sourceAuthors": [
+        "Idit Manosevitch",
+        "Elie Friedman",
+        "Leah Sprain"
+      ],
+      "journal": "Journal of Communication, 74(4), 322-332",
+      "dateText": "פורסם אונליין: 30.05.2024",
+      "doiUrl": "https://doi.org/10.1093/joc/jqae020",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he.jpg",
+        "altHe": "סטודנטים ומנחים יושבים במעגל דיון מובנה ומקשיבים זה לזה בסמינר אזרחי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Manosevitch, Friedman ו-Sprain בוחנים כיצד משתתפים בפורומים דיוניים בישראל מתייחסים לדיבור עצמו, למסגור האינטראקציה ולמתחים בין תרבות מקומית לבין עקרונות דיוניים. לפי התקציר, מטא־שיח מאפשר להם להכיר בקושי, לשאת ולתת על נורמות ולשלב יצירתית בין שיח ישראלי לבין דליברציה."
+    },
+    {
+      "slug": "democracy_assembling_indias_constitution_new_history_summary_he",
+      "file": "democracy_assembling_indias_constitution_new_history_summary_he.html",
+      "permalink": "/democracy_assembling_indias_constitution_new_history_summary_he.html",
+      "sortKey": 202606070006,
+      "titleHe": "חוקת הודו נבנתה גם מחוץ לאולם האספה המכוננת",
+      "paperTitle": "Assembling India’s Constitution: Towards a New History",
+      "authorsCardHe": "Rohit De, Ornit Shani",
+      "sourceAuthors": [
+        "Rohit De",
+        "Ornit Shani"
+      ],
+      "journal": "Past & Present, 263(1), 205-248",
+      "dateText": "פורסם אונליין: 02.05.2023",
+      "doiUrl": "https://doi.org/10.1093/pastj/gtad009",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_assembling_indias_constitution_new_history_summary_he.jpg",
+        "altHe": "חוקרים בוחנים מכתבים וטיוטות חוקתיות בארכיון היסטורי על השתתפות ציבורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "De ו-Shani מסיטים את המחקר מן האליטה הפוליטית אל מסמכים שלא נחקרו דיים ואל מעורבות ציבורית רחבה. לפי התקציר, החוקה לא רק ניתנה מלמעלה, אלא התגבשה דרך פעולות רבות של התכנסות, פנייה וחינוך פוליטי מחוץ לאולם החוקתי."
+    },
+    {
+      "slug": "democracy_suspending_voluntary_reserve_service_israeli_military_ethics_summary_he",
+      "file": "democracy_suspending_voluntary_reserve_service_israeli_military_ethics_summary_he.html",
+      "permalink": "/democracy_suspending_voluntary_reserve_service_israeli_military_ethics_summary_he.html",
+      "sortKey": 202606070005,
+      "titleHe": "השעיית שירות מילואים התנדבותי מציבה דילמה אתית־דמוקרטית",
+      "paperTitle": "Suspending Voluntary Reserve Service: New Questions in Israeli Military Ethics",
+      "authorsCardHe": "Asa Kasher",
+      "sourceAuthors": [
+        "Asa Kasher"
+      ],
+      "journal": "Conatus, 8(2), 241-256",
+      "dateText": "פורסם: 31.12.2023",
+      "doiUrl": "https://doi.org/10.12681/cjp.35404",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_suspending_voluntary_reserve_service_israeli_military_ethics_summary_he.jpg",
+        "altHe": "דיון אתי אזרחי על שירות מילואים התנדבותי סביב שולחן סמינרי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Kasher מתמקד במשרתים שהתנדבותם ארוכת שנים, כגון טייסים וקציני יחידות מיוחדות, שהשעו שירות או פרשו מול עימות פוליטי על שינוי אופייה הדמוקרטי של המדינה. לפי התקציר, השאלה המרכזית היא האם החלטה כזאת יכולה להיות מוצדקת מוסרית, אתית ודמוקרטית."
+    },
+    {
+      "slug": "democracy_ecohumanism_democratic_culture_activist_pedagogy_summary_he",
+      "file": "democracy_ecohumanism_democratic_culture_activist_pedagogy_summary_he.html",
+      "permalink": "/democracy_ecohumanism_democratic_culture_activist_pedagogy_summary_he.html",
+      "sortKey": 202606070004,
+      "titleHe": "אקו־הומניזם מחבר חינוך דמוקרטי, צדק חברתי וקיימות",
+      "paperTitle": "Ecohumanism, democratic culture and activist pedagogy: Attending to what the known demands of us",
+      "authorsCardHe": "Nimrod Aloni, Wiel Veugelers",
+      "sourceAuthors": [
+        "Nimrod Aloni",
+        "Wiel Veugelers"
+      ],
+      "journal": "Educational Philosophy and Theory, 56(6), 592-604",
+      "dateText": "פורסם אונליין: 22.12.2023",
+      "doiUrl": "https://doi.org/10.1080/00131857.2023.2295216",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ecohumanism_democratic_culture_activist_pedagogy_summary_he.jpg",
+        "altHe": "מורים ותלמידים עובדים יחד על פרויקט סביבתי־אזרחי בחצר בית ספר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Aloni ו-Veugelers נשענים על האתגר של עתיד בר־קיימא ועל קריאה למחנכים להיענות למה שהידע דורש מהם. לפי תקציר OpenAlex, הם מאבחנים סיכונים סביבתיים, פוליטיים, חברתיים, בריאותיים ותרבותיים ומציעים חינוך שמפתח סוכנות אישית, אוריינות פוליטית וחוויות למידה פעילות."
+    },
+    {
+      "slug": "democracy_world_legislatures_covid_first_wave_open_close_summary_he",
+      "file": "democracy_world_legislatures_covid_first_wave_open_close_summary_he.html",
+      "permalink": "/democracy_world_legislatures_covid_first_wave_open_close_summary_he.html",
+      "sortKey": 202606070003,
+      "titleHe": "פרלמנטים דמוקרטיים היו חסינים יותר מסגירה בגל הקורונה הראשון",
+      "paperTitle": "Should I Stay (Open) or Should I Close? World Legislatures during the First Wave of Covid-19",
+      "authorsCardHe": "Israel Waismel-Manor, Ittai Bar-Siman-Tov, Olivier Rozenberg, Asaf Levanon, Cyril Benoît, Gal Ifergane",
+      "sourceAuthors": [
+        "Israel Waismel-Manor",
+        "Ittai Bar-Siman-Tov",
+        "Olivier Rozenberg",
+        "Asaf Levanon",
+        "Cyril Benoît",
+        "Gal Ifergane"
+      ],
+      "journal": "Political Studies, 72(1), 200-226",
+      "dateText": "פורסם אונליין: 12.05.2022",
+      "doiUrl": "https://doi.org/10.1177/00323217221090615",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_world_legislatures_covid_first_wave_open_close_summary_he.jpg",
+        "altHe": "חדר ועדה פרלמנטרית בתקופת מגפה עם מושבים מרווחים ושיחת וידאו מטושטשת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Waismel-Manor ושותפיו מנתחים פעילות חקיקתית בתגובה הראשונית למשבר הקורונה. לפי התקציר, חומרת המגפה לא הסבירה את הגבלת הפרלמנטים; דמוקרטיות היו חסינות יותר, דמוקרטיות שבריריות היו חשופות יותר, ובמדינות חופשיות חלקית טכנולוגיה יכלה למתן את הסיכון."
+    },
+    {
+      "slug": "democracy_people_making_indias_constitution_summary_he",
+      "file": "democracy_people_making_indias_constitution_summary_he.html",
+      "permalink": "/democracy_people_making_indias_constitution_summary_he.html",
+      "sortKey": 202606070002,
+      "titleHe": "הציבור בשולי החברה השתתף בדמיון החוקתי של הודו",
+      "paperTitle": "The People and the Making of India's Constitution",
+      "authorsCardHe": "Ornit Shani",
+      "sourceAuthors": [
+        "Ornit Shani"
+      ],
+      "journal": "The Historical Journal, 65(4), 1102-1123",
+      "dateText": "פורסם אונליין: 31.01.2022",
+      "doiUrl": "https://doi.org/10.1017/s0018246x21000856",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_people_making_indias_constitution_summary_he.jpg",
+        "altHe": "אזרחים וארגונים קהילתיים מתכנסים סביב מסמכי הצעות חוקתיות באולם אזרחי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Shani מנתחת חומרים ארכיוניים שלא נחקרו דיים ומראה כיצד אנשים וארגונים אזרחיים מחוץ לאספה המכוננת ניסחו דרישות, הצעות ותפיסות של הכלה. לפי התקציר, המאמר בונה פרספקטיבה חדשה על יצירת החוקה ועל תרומתה למעבר דמוקרטי ולחוסן חוקתי."
+    },
+    {
+      "slug": "democracy_sharp_power_social_media_electoral_campaigns_summary_he",
+      "file": "democracy_sharp_power_social_media_electoral_campaigns_summary_he.html",
+      "permalink": "/democracy_sharp_power_social_media_electoral_campaigns_summary_he.html",
+      "sortKey": 202606070001,
+      "titleHe": "זיהוי דפוסי טרולים ובוטים חושף חדירה חדה למערכות בחירות",
+      "paperTitle": "Sharp power in social media: Patterns from datasets across electoral campaigns",
+      "authorsCardHe": "Simo Hanouna, Omer Neu, Sharon Pardo, Oren Tsur, Hila Zahavi",
+      "sourceAuthors": [
+        "Simo Hanouna",
+        "Omer Neu",
+        "Sharon Pardo",
+        "Oren Tsur",
+        "Hila Zahavi"
+      ],
+      "journal": "Australian and New Zealand Journal of European Studies, 11(3)",
+      "dateText": "פורסם: 05.02.2021",
+      "doiUrl": "https://doi.org/10.30722/anzjes.vol11.iss3.15110",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_sharp_power_social_media_electoral_campaigns_summary_he.jpg",
+        "altHe": "חוקרי טכנולוגיה אזרחית בוחנים מפות רשת ודפוסי פעילות פוליטיים אנונימיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-07",
+      "dateModified": "2026-06-07",
+      "summaryHe": "Hanouna ושותפיו מתארים שיטה אוטומטית לזיהוי טרולים ובוטים פוליטיים בטוויטר, על בסיס ממצאים מהבחירות לפרלמנט האירופי במאי 2019 ומשתי מערכות הבחירות בישראל ב־2019, וביישום לקמפיין הפדרלי בקנדה באוקטובר 2019. לפי התקציר, זוהו אלפי חשבונות בדפוס פעילות ייחודי ושונה מקבוצת ביקורת."
+    },
     {
       "slug": "democracy_privatizing_policy_formation_democracy_israel_summary_he",
       "file": "democracy_privatizing_policy_formation_democracy_israel_summary_he.html",

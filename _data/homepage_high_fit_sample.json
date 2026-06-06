@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-04",
+  "lastUpdated": "2026-06-07",
   "sampleSize": 6,
-  "seed": "2026-06-04-homepage-high-fit",
-  "selectionMode": "Sampled from papers whose image.fitness is high, with light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 158,
+  "seed": "2026-06-07-homepage-high-fit",
+  "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
+  "highFitPaperCount": 168,
   "paperSlugs": [
-    "democracy_israeli_courts_and_the_paradox_of_international_human_rights_law_summary_he",
-    "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he",
-    "democracy_intergroup_interventions_legitimacy_critical_voices_summary_he",
-    "democracy_state_capacity_public_goods_china_summary_he",
-    "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he",
-    "democracy_economic_political_crises_corruption_institutions_summary_he"
+    "democracy_fsu_migrants_discrimination_social_distance_israel_summary_he",
+    "democracy_high_tech_nation_israeli_polity_summary_he",
+    "democracy_public_capital_growth_efficiency_summary_he",
+    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
+    "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he",
+    "democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he"
   ]
 }
