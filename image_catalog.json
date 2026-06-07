@@ -17629,6 +17629,283 @@
         "democracy_sharp_power_social_media_electoral_campaigns_summary_he.html": "high"
       },
       "generatedAt": "2026-06-07"
+    },
+    {
+      "file": "html_qa/democracy_local_political_corruption_structural_malfunctions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_local_political_corruption_structural_malfunctions_summary_he.html",
+      "usedBy": [
+        "democracy_local_political_corruption_structural_malfunctions_summary_he.html"
+      ],
+      "cardTitleHe": "שחיתות מקומית מתעצבת בין ממשל מרכזי, רשויות ויחסים פנים־עירוניים",
+      "authorsHe": "Itai Beeri, Doron Navot",
+      "visualDescriptionHe": "חדר מועצה עירונית שבו נציגים בוחנים מסמכי תקציב ותכנון.",
+      "semanticDescriptionHe": "המאמר עוסק בשחיתות פוליטית מקומית ככשל מבני ולכן הדימוי מציג מרחב החלטה עירוני עם מסמכי פיקוח, תלות ודיון ציבורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "ממשל מקומי",
+        "שחיתות פוליטית",
+        "פיקוח ציבורי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_local_political_corruption_structural_malfunctions_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_invisible_access_needs_intellectual_disabilities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_invisible_access_needs_intellectual_disabilities_summary_he.html",
+      "usedBy": [
+        "democracy_invisible_access_needs_intellectual_disabilities_summary_he.html"
+      ],
+      "cardTitleHe": "צרכי נגישות בלתי־נראים מחייבים מודל זכויות מעשי לאנשים עם מוגבלות שכלית",
+      "authorsHe": "Shira Yalon-Chamovitz",
+      "visualDescriptionHe": "מרכז קהילתי או שירות ציבורי עם דיון מעשי סביב מודל נגישות.",
+      "semanticDescriptionHe": "המאמר עוסק בצרכי נגישות בלתי־נראים ולכן הדימוי מציג מרחב שירות שבו תמיכה, תיווך והשתתפות הם חלק מן ההתאמה.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "נגישות",
+        "מוגבלות שכלית",
+        "שוויון זכויות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_invisible_access_needs_intellectual_disabilities_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_democratic_consequences_hostile_media_perceptions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democratic_consequences_hostile_media_perceptions_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_consequences_hostile_media_perceptions_summary_he.html"
+      ],
+      "cardTitleHe": "תפיסת תקשורת עוינת עלולה לערער אמון בתקשורת ובקבלת הכרעות דמוקרטיות",
+      "authorsHe": "Yariv Tsfati, Jonathan Cohen",
+      "visualDescriptionHe": "אספה קהילתית סביב מיקרופונים ועיתונים לקראת הכרעה פוליטית שנויה במחלוקת.",
+      "semanticDescriptionHe": "המאמר עוסק בתפיסת תקשורת עוינת ובהשפעתה על אמון דמוקרטי ולכן הדימוי מציג קהילה שחשה חשופה לסיקור תקשורתי ומתווכחת על קבלת החלטה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "תקשורת עוינת",
+        "אמון דמוקרטי",
+        "דעת קהל"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_democratic_consequences_hostile_media_perceptions_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_conflict_regulation_deeply_divided_societies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_conflict_regulation_deeply_divided_societies_summary_he.html",
+      "usedBy": [
+        "democracy_conflict_regulation_deeply_divided_societies_summary_he.html"
+      ],
+      "cardTitleHe": "חברות שסועות מנהלות קונפליקט באמצעות דפוסים שונים של הסדרה פוליטית",
+      "authorsHe": "Sammy Smooha, Theodor Hanf",
+      "visualDescriptionHe": "חדר גישור אזרחי שבו נציגים מקהילות שונות משתתפים בשיחה מוסדית.",
+      "semanticDescriptionHe": "המאמר עוסק בהסדרת קונפליקט בחברות שסועות ולכן הדימוי מציג מנגנון שיח בין קבוצות ולא הכרעה חד־צדדית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "חברות שסועות",
+        "הסדרת קונפליקט",
+        "פלורליזם מוסדי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_conflict_regulation_deeply_divided_societies_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.html",
+      "usedBy": [
+        "democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.html"
+      ],
+      "cardTitleHe": "הפונדמנטליזם היהודי הערני מציב מבחן גבול לדמוקרטיה ולביטחון הציבורי",
+      "authorsHe": "Raphael Cohen-Almagor",
+      "visualDescriptionHe": "חדר ארכיון אזרחי שבו חוקרים בוחנים חומרי תיעוד על תנועות קיצוניות.",
+      "semanticDescriptionHe": "המאמר עוסק בתנועות פונדמנטליסטיות מיליטנטיות ולכן הדימוי מציג ניתוח מחקרי מאופק של קיצוניות בלי להציג סמלים או להאדיר אלימות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "אלימות פוליטית",
+        "פונדמנטליזם",
+        "דמוקרטיה מתגוננת"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_affective_polarization_parliamentary_proceedings_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_affective_polarization_parliamentary_proceedings_summary_he.html",
+      "usedBy": [
+        "democracy_affective_polarization_parliamentary_proceedings_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב רגשי בכנסת נמדד דרך סגנון רגשי ולא רק דרך עמדות אידאולוגיות",
+      "authorsHe": "Gili Goldin, Ella Rabinovich, Shuly Wintner",
+      "visualDescriptionHe": "מעבדת מחקר פרלמנטרית הצופה אל מליאה ובוחנת תמלילים אנונימיים.",
+      "semanticDescriptionHe": "המאמר מודד קיטוב רגשי בדיוני הכנסת ולכן הדימוי מציג חיבור בין מוסד פרלמנטרי לבין ניתוח סגנון שיח.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "קיטוב רגשי",
+        "כנסת",
+        "בלשנות חישובית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_affective_polarization_parliamentary_proceedings_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_umbrella_agreements_israeli_planning_regime_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_umbrella_agreements_israeli_planning_regime_summary_he.html",
+      "usedBy": [
+        "democracy_umbrella_agreements_israeli_planning_regime_summary_he.html"
+      ],
+      "cardTitleHe": "הסכמי גג משנים את משטר התכנון הישראלי דרך עסקאות בין מדינה לרשויות",
+      "authorsHe": "Sharon Eshel, Oren Yiftachel, Talia Margalit",
+      "visualDescriptionHe": "משרד תכנון עם מודל עירוני, תשתיות ונציגי רשויות סביב שולחן עבודה.",
+      "semanticDescriptionHe": "המאמר עוסק בהסכמי גג ובשינוי משטר התכנון ולכן הדימוי מציג מיקוח תכנוני בין מדינה לרשויות סביב פיתוח ותשתיות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "הסכמי גג",
+        "תכנון עירוני",
+        "שלטון מקומי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_umbrella_agreements_israeli_planning_regime_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_religious_accommodation_exit_sex_equality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_accommodation_exit_sex_equality_summary_he.html",
+      "usedBy": [
+        "democracy_religious_accommodation_exit_sex_equality_summary_he.html"
+      ],
+      "cardTitleHe": "הסכמה ויציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
+      "authorsHe": "Yofi Tirosh",
+      "visualDescriptionHe": "חדר ייעוץ משפטי־קהילתי שבו נשים ונציגי קהילה דנים במדיניות התאמה.",
+      "semanticDescriptionHe": "המאמר עוסק ברב־תרבותיות, הסכמה וזכות יציאה ולכן הדימוי מציג דיון זכויות בין התאמה קהילתית לבין שוויון מגדרי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "רב־תרבותיות",
+        "שוויון מגדרי",
+        "חופש דת"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_religious_accommodation_exit_sex_equality_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_holocaust_memorial_day_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_holocaust_memorial_day_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_holocaust_memorial_day_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "יום הזיכרון לשואה עשוי להפחית זמנית קיטוב רגשי דרך אבל משותף",
+      "authorsHe": "Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler, Eran Halperin",
+      "visualDescriptionHe": "מפגש זיכרון קהילתי שקט עם נרות ואנשים המתכנסים יחד.",
+      "semanticDescriptionHe": "המאמר עוסק באבל קולקטיבי ובהפחתה זמנית של קיטוב רגשי ולכן הדימוי מציג רגע זיכרון משותף ומכבד ללא סמלים מפלגתיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "יום הזיכרון לשואה",
+        "קיטוב רגשי",
+        "אבל קולקטיבי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_holocaust_memorial_day_affective_polarization_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_profiling_astroturfers_facebook_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_profiling_astroturfers_facebook_summary_he.html",
+      "usedBy": [
+        "democracy_profiling_astroturfers_facebook_summary_he.html"
+      ],
+      "cardTitleHe": "זיהוי אסטרוטרפרים בפייסבוק הופך איום מידע דמוקרטי לבעיה מדידה",
+      "authorsHe": "Jonathan Schler, Elisheva Bonchek-Dokow",
+      "visualDescriptionHe": "מעבדת מחקר אוניברסיטאית עם מפות רשת וכרטיסי פרופילים אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק בזיהוי אסטרוטרפרים ולכן הדימוי מציג מחקר חישובי של פעילות מקוונת מטעה ללא סמלי פלטפורמה.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "אסטרוטרפינג",
+        "רשתות חברתיות",
+        "למידת מכונה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated with the built-in image tool, then processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_profiling_astroturfers_facebook_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-08"
     }
   ],
   "topicGraphics": [

@@ -1,8 +1,287 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 729,
+  "paperCount": 739,
   "papers": [
+    {
+      "slug": "democracy_local_political_corruption_structural_malfunctions_summary_he",
+      "file": "democracy_local_political_corruption_structural_malfunctions_summary_he.html",
+      "permalink": "/democracy_local_political_corruption_structural_malfunctions_summary_he.html",
+      "sortKey": 202606080010,
+      "titleHe": "שחיתות מקומית מתעצבת בין ממשל מרכזי, רשויות ויחסים פנים־עירוניים",
+      "paperTitle": "Local Political Corruption: Potential structural malfunctions at the central–local, local–local and intra-local levels",
+      "authorsCardHe": "Itai Beeri, Doron Navot",
+      "sourceAuthors": [
+        "Itai Beeri",
+        "Doron Navot"
+      ],
+      "journal": "Public Management Review",
+      "dateText": "פורסם: יוני 2013",
+      "doiUrl": "https://doi.org/10.1080/14719037.2012.707682",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_political_corruption_structural_malfunctions_summary_he.jpg",
+        "altHe": "דיון עירוני סביב מסמכי פיקוח ותקציב שממחיש כשלים מבניים בשלטון המקומי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Itai Beeri ו-Doron Navot מנתח שחיתות פוליטית מקומית כתוצר של מבנים מוסדיים, ולא רק ככשל אישי של נבחרי ציבור. הוא מבחין בין כשלים בממשק בין השלטון המרכזי והמקומי, בין רשויות מקומיות שונות ובתוך הרשות עצמה."
+    },
+    {
+      "slug": "democracy_invisible_access_needs_intellectual_disabilities_summary_he",
+      "file": "democracy_invisible_access_needs_intellectual_disabilities_summary_he.html",
+      "permalink": "/democracy_invisible_access_needs_intellectual_disabilities_summary_he.html",
+      "sortKey": 202606080009,
+      "titleHe": "צרכי נגישות בלתי־נראים מחייבים מודל זכויות מעשי לאנשים עם מוגבלות שכלית",
+      "paperTitle": "Invisible Access Needs of People With Intellectual Disabilities: A Conceptual Model of Practice",
+      "authorsCardHe": "Shira Yalon-Chamovitz",
+      "sourceAuthors": [
+        "Shira Yalon-Chamovitz"
+      ],
+      "journal": "Intellectual and Developmental Disabilities",
+      "dateText": "פורסם: 1 באוקטובר 2009",
+      "doiUrl": "https://doi.org/10.1352/1934-9556-47.5.395",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_invisible_access_needs_intellectual_disabilities_summary_he.jpg",
+        "altHe": "מרכז שירות קהילתי שבו אנשים דנים בהתאמות נגישות שאינן נראות לעין",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Shira Yalon-Chamovitz מדגיש שנגישות אינה מסתכמת ברמפות, מעליות או התאמות פיזיות. עבור אנשים עם מוגבלות שכלית, חסמי הבנה, תקשורת, זמן, תיווך וציפיות חברתיות יכולים להיות בלתי־נראים אך מכריעים בפועל."
+    },
+    {
+      "slug": "democracy_democratic_consequences_hostile_media_perceptions_summary_he",
+      "file": "democracy_democratic_consequences_hostile_media_perceptions_summary_he.html",
+      "permalink": "/democracy_democratic_consequences_hostile_media_perceptions_summary_he.html",
+      "sortKey": 202606080008,
+      "titleHe": "תפיסת תקשורת עוינת עלולה לערער אמון בתקשורת ובקבלת הכרעות דמוקרטיות",
+      "paperTitle": "Democratic Consequences of Hostile Media Perceptions",
+      "authorsCardHe": "Yariv Tsfati, Jonathan Cohen",
+      "sourceAuthors": [
+        "Yariv Tsfati",
+        "Jonathan Cohen"
+      ],
+      "journal": "Harvard International Journal of Press/Politics",
+      "dateText": "פורסם: אוקטובר 2005",
+      "doiUrl": "https://doi.org/10.1177/1081180x05280776",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_consequences_hostile_media_perceptions_summary_he.jpg",
+        "altHe": "אספה קהילתית מתוחה עם עיתונים ומיקרופונים שממחישה חשדנות כלפי תקשורת והכרעה דמוקרטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Yariv Tsfati ו-Jonathan Cohen בוחן את השלכות תופעת התקשורת העוינת בקרב מתיישבים יהודים ברצועת עזה לפני הצבעה פוליטית מרכזית. לפי תקציר המקור, תפיסת סיקור עוין נקשרה לאמון נמוך יותר בתקשורת, ואמון בתקשורת נקשר לאמון בדמוקרטיה ולנכונות לקבל הכרעות דמוקרטיות."
+    },
+    {
+      "slug": "democracy_conflict_regulation_deeply_divided_societies_summary_he",
+      "file": "democracy_conflict_regulation_deeply_divided_societies_summary_he.html",
+      "permalink": "/democracy_conflict_regulation_deeply_divided_societies_summary_he.html",
+      "sortKey": 202606080007,
+      "titleHe": "חברות שסועות מנהלות קונפליקט באמצעות דפוסים שונים של הסדרה פוליטית",
+      "paperTitle": "The Diverse Modes of Conflict-Regulation in Deeply Divided Societies",
+      "authorsCardHe": "Sammy Smooha, Theodor Hanf",
+      "sourceAuthors": [
+        "Sammy Smooha",
+        "Theodor Hanf"
+      ],
+      "journal": "International Journal of Comparative Sociology",
+      "dateText": "פורסם: 1992",
+      "doiUrl": "https://doi.org/10.1163/002071592x00031",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_conflict_regulation_deeply_divided_societies_summary_he.jpg",
+        "altHe": "חדר תיווך אזרחי עם נציגי קהילות שונות סביב שולחן עגול",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Sammy Smooha ו-Theodor Hanf מתמקד באופני הסדרה של קונפליקט בחברות שסועות לעומק. הוא רלוונטי במיוחד לדיון דמוקרטי משום שהוא עוסק בשאלה כיצד מוסדות, הסכמות ויחסי כוח מאפשרים חיים פוליטיים משותפים למרות חלוקות חברתיות עמוקות."
+    },
+    {
+      "slug": "democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he",
+      "file": "democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.html",
+      "permalink": "/democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.html",
+      "sortKey": 202606080006,
+      "titleHe": "הפונדמנטליזם היהודי הערני מציב מבחן גבול לדמוקרטיה ולביטחון הציבורי",
+      "paperTitle": "Vigilant Jewish fundamentalism: From the JDL to Kach (or ‘Shalom Jews, Shalom Dogs')",
+      "authorsCardHe": "Raphael Cohen-Almagor",
+      "sourceAuthors": [
+        "Raphael Cohen-Almagor"
+      ],
+      "journal": "Terrorism and Political Violence",
+      "dateText": "פורסם: מרץ 1992",
+      "doiUrl": "https://doi.org/10.1080/09546559208427137",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.jpg",
+        "altHe": "חוקרים בוחנים תצלומי מחאה ותיקי ארכיון על קיצוניות פוליטית בלי סמלים מזוהים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Raphael Cohen-Almagor מנתח תופעות של פונדמנטליזם יהודי ערני מן ה-JDL ועד כך, על רקע שאלות של קיצוניות פוליטית ואלימות. חשיבותו לאתר היא בדיון בגבול שבין מחאה, ארגון פוליטי, מיליטנטיות ופגיעה בסדר דמוקרטי."
+    },
+    {
+      "slug": "democracy_affective_polarization_parliamentary_proceedings_summary_he",
+      "file": "democracy_affective_polarization_parliamentary_proceedings_summary_he.html",
+      "permalink": "/democracy_affective_polarization_parliamentary_proceedings_summary_he.html",
+      "sortKey": 202606080005,
+      "titleHe": "קיטוב רגשי בכנסת נמדד דרך סגנון רגשי ולא רק דרך עמדות אידאולוגיות",
+      "paperTitle": "Unveiling Affective Polarization Trends in Parliamentary Proceedings",
+      "authorsCardHe": "Gili Goldin, Ella Rabinovich, Shuly Wintner",
+      "sourceAuthors": [
+        "Gili Goldin",
+        "Ella Rabinovich",
+        "Shuly Wintner"
+      ],
+      "journal": "Computational Linguistics",
+      "dateText": "פורסם: 8 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1162/coli.a.600",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_affective_polarization_parliamentary_proceedings_summary_he.jpg",
+        "altHe": "חוקרים בוחנים תמלילי דיון פרלמנטרי ומפות צבע של טון רגשי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Gili Goldin, Ella Rabinovich ו-Shuly Wintner מציע דרך חישובית לכימות קיטוב רגשי המבוססת על סגנון רגשי ולא רק על הבדלי עמדות. לפי תקציר המקור, השיטה משתמשת במדדי ערכיות, עוררות ודומיננטיות ומיישמת אותם על קורפוס דיוני הכנסת בעברית כדי לזהות הבדלים בין ממשלה לאופוזיציה ומגמות לאורך זמן."
+    },
+    {
+      "slug": "democracy_umbrella_agreements_israeli_planning_regime_summary_he",
+      "file": "democracy_umbrella_agreements_israeli_planning_regime_summary_he.html",
+      "permalink": "/democracy_umbrella_agreements_israeli_planning_regime_summary_he.html",
+      "sortKey": 202606080004,
+      "titleHe": "הסכמי גג משנים את משטר התכנון הישראלי דרך עסקאות בין מדינה לרשויות",
+      "paperTitle": "Rescaling and Transforming: “Umbrella Agreements,” Planning Deals, and the Israeli Planning Regime",
+      "authorsCardHe": "Sharon Eshel, Oren Yiftachel, Talia Margalit",
+      "sourceAuthors": [
+        "Sharon Eshel",
+        "Oren Yiftachel",
+        "Talia Margalit"
+      ],
+      "journal": "Land",
+      "dateText": "פורסם: 17 ביוני 2025",
+      "doiUrl": "https://doi.org/10.3390/land14061295",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_umbrella_agreements_israeli_planning_regime_summary_he.jpg",
+        "altHe": "מתכננים ונציגי רשויות בוחנים מודל עירוני שממחיש הסכמי גג ותכנון רחב היקף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Sharon Eshel, Oren Yiftachel ו-Talia Margalit מנתח את הסכמי הגג שהפעילה ממשלת ישראל בעשרות רשויות מקומיות. לפי תקציר המקור, ההסכמים מציעים מימון תשתיות בתמורה להסכמה מוניציפלית לפיתוח מגורים רחב, ובכך מרחיבים את ההיגיון של עסקאות תכנון מן העיר אל קנה המידה הלאומי ומשנים את משטר התכנון הישראלי."
+    },
+    {
+      "slug": "democracy_religious_accommodation_exit_sex_equality_summary_he",
+      "file": "democracy_religious_accommodation_exit_sex_equality_summary_he.html",
+      "permalink": "/democracy_religious_accommodation_exit_sex_equality_summary_he.html",
+      "sortKey": 202606080003,
+      "titleHe": "הסכמה ויציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
+      "paperTitle": "Consent, Multiculturalism, and Exit: A Contemporary Critique of Religious Accommodation and the Right to Sex Equality",
+      "authorsCardHe": "Yofi Tirosh",
+      "sourceAuthors": [
+        "Yofi Tirosh"
+      ],
+      "journal": "Political Theology",
+      "dateText": "פורסם: 17 באוגוסט 2024",
+      "doiUrl": "https://doi.org/10.1080/1462317x.2024.2310409",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_accommodation_exit_sex_equality_summary_he.jpg",
+        "altHe": "דיון משפטי קהילתי על התאמות דתיות, הסכמה ושוויון מגדרי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Yofi Tirosh עוסק במתח בין התאמות דתיות ורב־תרבותיות לבין הזכות לשוויון מגדרי. לפי כותרתו ומסגורו, הוא בוחן באופן ביקורתי טענות של הסכמה ושל אפשרות יציאה מקבוצה, ושואל אם הן מספקות הגנה אמיתית לנשים בתוך הסדרים דתיים או קהילתיים."
+    },
+    {
+      "slug": "democracy_holocaust_memorial_day_affective_polarization_summary_he",
+      "file": "democracy_holocaust_memorial_day_affective_polarization_summary_he.html",
+      "permalink": "/democracy_holocaust_memorial_day_affective_polarization_summary_he.html",
+      "sortKey": 202606080002,
+      "titleHe": "יום הזיכרון לשואה עשוי להפחית זמנית קיטוב רגשי דרך אבל משותף",
+      "paperTitle": "A group that grieves together stays together: Examining the impact of Holocaust Memorial Day in Israel on affective polarization",
+      "authorsCardHe": "Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler, Eran Halperin",
+      "sourceAuthors": [
+        "Tamar Gur",
+        "Shahar Ayal",
+        "Magnus Wagner",
+        "Eli Adler",
+        "Eran Halperin"
+      ],
+      "journal": "Political Psychology",
+      "dateText": "פורסם: דצמבר 2024",
+      "doiUrl": "https://doi.org/10.1111/pops.12956",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_holocaust_memorial_day_affective_polarization_summary_he.jpg",
+        "altHe": "מפגש זיכרון קהילתי שקט עם נרות ואנשים מקבוצות שונות באבל משותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler ו-Eran Halperin בוחן את השפעת יום הזיכרון לשואה על קיטוב רגשי בישראל. לפי תקציר המקור, המחקר כלל מדידה אורכית סביב יום הזיכרון ומצא ירידה בקיטוב רגשי במהלך היום עצמו, כאשר עצב קולקטיבי משמש מנגנון אפשרי להפחתת עוינות בין־קבוצתית."
+    },
+    {
+      "slug": "democracy_profiling_astroturfers_facebook_summary_he",
+      "file": "democracy_profiling_astroturfers_facebook_summary_he.html",
+      "permalink": "/democracy_profiling_astroturfers_facebook_summary_he.html",
+      "sortKey": 202606080001,
+      "titleHe": "זיהוי אסטרוטרפרים בפייסבוק הופך איום מידע דמוקרטי לבעיה מדידה",
+      "paperTitle": "Profiling Astroturfers on Facebook: A Complete Framework for Labeling, Feature Extraction, and Classification",
+      "authorsCardHe": "Jonathan Schler, Elisheva Bonchek-Dokow",
+      "sourceAuthors": [
+        "Jonathan Schler",
+        "Elisheva Bonchek-Dokow"
+      ],
+      "journal": "Machine Learning and Knowledge Extraction",
+      "dateText": "פורסם: 30 בספטמבר 2024",
+      "doiUrl": "https://doi.org/10.3390/make6040108",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_profiling_astroturfers_facebook_summary_he.jpg",
+        "altHe": "מעבדת מחקר בוחנת מפות רשת וכרטיסי פרופילים אנונימיים לזיהוי פעילות מטעה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-08",
+      "dateModified": "2026-06-08",
+      "summaryHe": "המאמר של Jonathan Schler ו-Elisheva Bonchek-Dokow עוסק באסטרוטרפינג מקוון, כלומר קידום אג׳נדות באופן מטעה תוך התחזות למשתמשים רגילים. לפי תקציר המקור, המחברים מציגים מסגרת הכוללת איסוף נתונים, סימון, חילוץ מאפיינים וסיווג, ומדגישים שבפוליטיקה אסטרוטרפינג נחשב לאחד האיומים המקוונים החמורים על דמוקרטיה."
+    },
     {
       "slug": "democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he",
       "file": "democracy_interest_groups_bureaucrats_party_democracy_israel_summary_he.html",
