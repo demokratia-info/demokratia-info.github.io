@@ -11,8 +11,8 @@
   "authorsCardHe": "Adam Shinar",
   "paperTitle": "Idealism and Realism in Israeli Constitutional Law",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Constitutionalism and the Rule of Law",
+  "dateText": "פורסם: 2 בפברואר 2017",
   "doiUrl": "https://doi.org/10.1017/9781316585221.009",
   "doiLabel": "https://doi.org/10.1017/9781316585221.009",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

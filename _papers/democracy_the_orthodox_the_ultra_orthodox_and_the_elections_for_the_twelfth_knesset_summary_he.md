@@ -11,8 +11,8 @@
   "authorsCardHe": "Samuel C. Heilman",
   "paperTitle": "The Orthodox, the Ultra-Orthodox, and the Elections for the Twelfth Knesset",
   "authorsHtml": "Samuel C. Heilman",
-  "journal": "",
-  "dateText": "",
+  "journal": "The Elections in Israel—1988",
+  "dateText": "פורסם: 28 במאי 2019",
   "doiUrl": "https://doi.org/10.4324/9780429310409-8",
   "doiLabel": "https://doi.org/10.4324/9780429310409-8",
   "authors": [
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

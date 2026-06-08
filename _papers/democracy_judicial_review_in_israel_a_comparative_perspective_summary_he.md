@@ -49,8 +49,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
   "sections": [
     {

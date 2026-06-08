@@ -11,8 +11,8 @@
   "authorsCardHe": "David Koren",
   "paperTitle": "Arab Israeli citizens in the 2009 elections: between Israeli citizenship and Palestinian Arab identity",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6939-267X\" target=\"_blank\" rel=\"noopener noreferrer\">David Koren</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Israel Affairs",
+  "dateText": "פורסם: ינואר 2010",
   "doiUrl": "https://doi.org/10.1080/13537120903462043",
   "doiLabel": "https://doi.org/10.1080/13537120903462043",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
