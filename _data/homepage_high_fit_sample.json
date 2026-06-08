@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-09",
   "sampleSize": 6,
-  "seed": "2026-06-08-homepage-high-fit",
+  "seed": "2026-06-09-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 178,
+  "highFitPaperCount": 188,
   "paperSlugs": [
-    "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he",
-    "democracy_religious_accommodation_exit_sex_equality_summary_he",
-    "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he",
-    "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he",
-    "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he",
-    "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he"
+    "democracy_haredim_higher_education_liberal_democracy_summary_he",
+    "democracy_local_political_corruption_structural_malfunctions_summary_he",
+    "democracy_bedouin_health_policy_distrust_cycle_summary_he",
+    "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he",
+    "democracy_likud_1977_democracy_in_danger_campaign_summary_he",
+    "democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he"
   ]
 }

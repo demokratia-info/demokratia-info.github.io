@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-09",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -17906,6 +17906,293 @@
         "democracy_profiling_astroturfers_facebook_summary_he.html": "high"
       },
       "generatedAt": "2026-06-08"
+    },
+    {
+      "file": "html_qa/democracy_opportunistic_legislation_natural_emergency_covid_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_opportunistic_legislation_natural_emergency_covid_summary_he.html",
+      "usedBy": [
+        "democracy_opportunistic_legislation_natural_emergency_covid_summary_he.html"
+      ],
+      "cardTitleHe": "חקיקת הזדמנות בזמן חירום טבעי: צבירת כוח ממשלתי בקורונה",
+      "authorsHe": "Udi Sommer, Jonathan Parent, Quan Li",
+      "visualDescriptionHe": "דיון ועדה ציבורית בזמן חירום בריאותי, עם מסמכים ומסכים פתוחים סביב שולחן רשמי.",
+      "semanticDescriptionHe": "הדימוי מחבר בין חירום בריאותי, הליך חקיקה וריכוז כוח שלטוני, שהם ליבת המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "חקיקת חירום",
+        "קורונה",
+        "ריכוז כוח"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_opportunistic_legislation_natural_emergency_covid_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_government_crises_italy_israel_covid_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_government_crises_italy_israel_covid_summary_he.html",
+      "usedBy": [
+        "democracy_government_crises_italy_israel_covid_summary_he.html"
+      ],
+      "cardTitleHe": "משברי ממשלה באיטליה ובישראל בזמן מגפת הקורונה",
+      "authorsHe": "Andrea Capati, Marco Improta, Tal Lento",
+      "visualDescriptionHe": "חדר ישיבות ממשלתי שבו צוותים פוליטיים דנים במסמכי משבר ובמפת מדיניות.",
+      "semanticDescriptionHe": "הדימוי מציג ניהול משברים פוליטי בתקופת הקורונה, בהתאם להשוואה בין איטליה לישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "קורונה",
+        "משבר ממשלתי",
+        "איטליה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_government_crises_italy_israel_covid_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_global_millionaires_us_investor_visas_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_global_millionaires_us_investor_visas_summary_he.html",
+      "usedBy": [
+        "democracy_global_millionaires_us_investor_visas_summary_he.html"
+      ],
+      "cardTitleHe": "מיליונרים גלובליים והביקוש לוויזות משקיע בארצות הברית",
+      "authorsHe": "Yossi Harpaz",
+      "visualDescriptionHe": "יועצים ואזרחים גלובליים סביב מסמכי הגירה והשקעה בחדר עבודה בין־לאומי.",
+      "semanticDescriptionHe": "הדימוי מתאים למאמר על ויזות משקיע, עושר פרטי ומעבר בין משטרי אזרחות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "ויזת משקיע",
+        "מיליונרים",
+        "אזרחות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_global_millionaires_us_investor_visas_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_loss_democracy_cooperative_kibbutz_industry_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_loss_democracy_cooperative_kibbutz_industry_summary_he.html",
+      "usedBy": [
+        "democracy_loss_democracy_cooperative_kibbutz_industry_summary_he.html"
+      ],
+      "cardTitleHe": "אובדן דמוקרטיה בתעשייה קיבוצית שיתופית",
+      "authorsHe": "Yaffa Moskovich",
+      "visualDescriptionHe": "אסיפת עובדים במפעל שיתופי, שבה משתתפים דנים בהחלטות ניהוליות סביב שולחן ארוך.",
+      "semanticDescriptionHe": "הדימוי ממחיש את המתח בין שיתוף קיבוצי לבין שחיקה של דמוקרטיה ארגונית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "קיבוץ",
+        "דמוקרטיה ארגונית",
+        "תעשייה שיתופית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_loss_democracy_cooperative_kibbutz_industry_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he.html",
+      "usedBy": [
+        "democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he.html"
+      ],
+      "cardTitleHe": "רשימת בדיקה קצרה ושיפור יחס המשטרה לחשודים בטרור",
+      "authorsHe": "Brandon Langley, Barak Ariel, Justice Tankebe, Alex Sutherland, Marcus Beale, Roni Factor, Cristóbal Weinborn",
+      "visualDescriptionHe": "חוקרים ואנשי אכיפה בוחנים טפסים ונהלים בחדר תדרוך שקט.",
+      "semanticDescriptionHe": "הדימוי קשור לניסוי על רשימת בדיקה פרוצדורלית לשיפור טיפול משטרתי בחשודים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "משטרה",
+        "חשודים בטרור",
+        "צדק פרוצדורלי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_personal_community_predictors_community_engagement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_personal_community_predictors_community_engagement_summary_he.html",
+      "usedBy": [
+        "democracy_personal_community_predictors_community_engagement_summary_he.html"
+      ],
+      "cardTitleHe": "מה מנבא סוגים שונים של מעורבות קהילתית?",
+      "authorsHe": "Lea Zanbar, Nick Ellison",
+      "visualDescriptionHe": "קבוצת תושבים מתכננת פעילות קהילתית סביב מפה שכונתית וחומרי הסברה.",
+      "semanticDescriptionHe": "הדימוי מציג מעורבות קהילתית כפעולה חברתית מקומית ולא רק כעמדה כללית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "מעורבות קהילתית",
+        "קהילה",
+        "השתתפות"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_personal_community_predictors_community_engagement_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_end_of_life_decision_making_religious_secular_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_end_of_life_decision_making_religious_secular_summary_he.html",
+      "usedBy": [
+        "democracy_end_of_life_decision_making_religious_secular_summary_he.html"
+      ],
+      "cardTitleHe": "החלטות סוף חיים בקרב דתיים וחילונים בארצות הברית, גרמניה וישראל",
+      "authorsHe": "Mark Schweda, Silke Schicktanz, Aviad E. Raz, Anita Silvers",
+      "visualDescriptionHe": "צוות רפואי ומשפחה יושבים לשיחה רגישה סביב שולחן טיפול.",
+      "semanticDescriptionHe": "הדימוי מתאים לדיון בהחלטות סוף חיים בין ערכים דתיים, חילוניים ומשפחתיים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "סוף החיים",
+        "דת וחילוניות",
+        "ביואתיקה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_end_of_life_decision_making_religious_secular_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_ecosystem_governance_sustainable_development_goals_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ecosystem_governance_sustainable_development_goals_summary_he.html",
+      "usedBy": [
+        "democracy_ecosystem_governance_sustainable_development_goals_summary_he.html"
+      ],
+      "cardTitleHe": "ממשל אקולוגי ויעדי הפיתוח בר־הקיימא של האו״ם",
+      "authorsHe": "Liette Vasseur, Darwin Horning, Mary J. Thornbush, Emmanuelle Cohen-Shacham, Ángela Andrade, Ed Barrow, Steve R. Edwards, Piet Wit, Mike Jones",
+      "visualDescriptionHe": "קבוצת מומחים ותושבים דנה במערכות אקולוגיות, מים ותכנון סביב שולחן מחקר.",
+      "semanticDescriptionHe": "הדימוי מחבר בין ממשל, קיימות וקבלת החלטות סביב מערכות אקולוגיות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "ממשל אקולוגי",
+        "יעדי פיתוח בר־קיימא",
+        "סביבה"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_ecosystem_governance_sustainable_development_goals_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_central_enforcement_convened_committees_local_authorities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_central_enforcement_convened_committees_local_authorities_summary_he.html",
+      "usedBy": [
+        "democracy_central_enforcement_convened_committees_local_authorities_summary_he.html"
+      ],
+      "cardTitleHe": "אכיפה מרכזית בוועדות קרואות ברשויות מקומיות כושלות",
+      "authorsHe": "Yaniv Reingewertz, Itai Beeri",
+      "visualDescriptionHe": "ישיבת עבודה בין אנשי ממשל מקומי ומרכזי עם מפה של שכונות ורשויות.",
+      "semanticDescriptionHe": "הדימוי מציג אכיפה מרכזית ורשויות מקומיות כושלות כבעיה מוסדית ומרחבית.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "שלטון מקומי",
+        "ועדות קרואות",
+        "אכיפה מרכזית"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_central_enforcement_convened_committees_local_authorities_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_democracy_voice_dialogic_pedagogy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democracy_voice_dialogic_pedagogy_summary_he.html",
+      "usedBy": [
+        "democracy_democracy_voice_dialogic_pedagogy_summary_he.html"
+      ],
+      "cardTitleHe": "דמוקרטיה, קול ופדגוגיה דיאלוגית בכיתה",
+      "authorsHe": "Aliza Segal, Itay Pollak, Adam Lefstein",
+      "visualDescriptionHe": "מעגל תלמידים ומורות בדיון כיתתי פתוח, עם מחברות ושולחנות מסודרים.",
+      "semanticDescriptionHe": "הדימוי מציג קול, דיאלוג והשתתפות בכיתה, שהם מוקד המאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "פדגוגיה דיאלוגית",
+        "קול תלמידים",
+        "חינוך דמוקרטי"
+      ],
+      "sourceType": "generated",
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-09 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_democracy_voice_dialogic_pedagogy_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-09",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
     }
   ],
   "topicGraphics": [
