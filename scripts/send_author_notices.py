@@ -214,6 +214,7 @@ def main() -> None:
     parser.add_argument("--max-authors", type=int, default=int(env("AUTHOR_NOTICE_MAX_AUTHORS", "10") or "10"))
     parser.add_argument("--pause-seconds", type=float, default=float(env("AUTHOR_NOTICE_PAUSE_SECONDS", "3") or "3"))
     parser.add_argument("--only-author", default="", help="Optional normalized/name substring filter for testing.")
+    parser.add_argument("--quiet", action="store_true", help="Print only aggregate send status, without recipient details.")
     args = parser.parse_args()
 
     load_env_file(args.env_file)
@@ -258,11 +259,14 @@ def main() -> None:
 
     for rows in groups:
         message = compose_message(rows, settings)
-        print(f"{'SEND' if args.send else 'DRY-RUN'} {message['To']} ({len(rows)} paper(s))")
-        print(f"  From: {message['From']}")
-        print(f"  Reply-To: {message['Reply-To']}")
-        print(f"  Cc: {message.get('Cc', '')}")
-        print(f"  Subject: {message['Subject']}")
+        if args.quiet:
+            print(f"{'SEND' if args.send else 'DRY-RUN'} author notice group ({len(rows)} paper(s))")
+        else:
+            print(f"{'SEND' if args.send else 'DRY-RUN'} {message['To']} ({len(rows)} paper(s))")
+            print(f"  From: {message['From']}")
+            print(f"  Reply-To: {message['Reply-To']}")
+            print(f"  Cc: {message.get('Cc', '')}")
+            print(f"  Subject: {message['Subject']}")
 
         processed_at = now_israel()
         message_id = str(message["Message-ID"])
