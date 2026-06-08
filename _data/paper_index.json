@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 744,
+  "paperCount": 743,
   "papers": [
     {
       "slug": "democracy_opportunistic_legislation_natural_emergency_covid_summary_he",
@@ -13657,32 +13657,6 @@
       "datePublished": "2026-05-21",
       "dateModified": "2026-06-09",
       "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית ופופוליזם."
-    },
-    {
-      "slug": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he",
-      "file": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
-      "permalink": "/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
-      "sortKey": 202605210202,
-      "titleHe": "מה הקשר בין הפוליטיקה של רפורמה חוקתית בישראל לבין שלטון החוק בישראל?",
-      "paperTitle": "The Politics of Constitutional Reform in Israel",
-      "authorsCardHe": "Gideon Doron",
-      "sourceAuthors": [
-        "Gideon Doron"
-      ],
-      "journal": "Israel Affairs",
-      "dateText": "פורסם: 2001",
-      "doiUrl": "",
-      "topics": [
-        "constitutionalism-courts-rule-of-law"
-      ],
-      "image": {
-        "src": "html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg",
-        "altHe": "איור עריכתי על הפוליטיקה של רפורמה חוקתית בישראל",
-        "fitness": "standard"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
-      "summaryHe": "המאמר בוחן את סוגיית הפוליטיקה של רפורמה חוקתית בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק."
     },
     {
       "slug": "democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he",

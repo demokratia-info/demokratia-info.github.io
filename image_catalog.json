@@ -688,29 +688,6 @@
       "qualityNotes": "Soft painterly editorial replacement in the older site style: civic scenes, people, institutions, documents, warm depth, no flat diagram, no text, no logos, no flags."
     },
     {
-      "file": "html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg",
-      "width": 800,
-      "height": 600,
-      "currentHomepagePosition": null,
-      "primaryArticle": "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html",
-      "usedBy": [
-        "democracy_the_politics_of_constitutional_reform_in_israel_summary_he.html"
-      ],
-      "cardTitleHe": "מה הקשר בין הפוליטיקה של רפורמה חוקתית בישראל לבין שלטון החוק בישראל?",
-      "authorsHe": "Gideon Doron",
-      "visualDescriptionHe": "איור עריכתי ייחודי על הפוליטיקה של רפורמה חוקתית בישראל",
-      "semanticDescriptionHe": "המאמר עוסק בהפוליטיקה של רפורמה חוקתית בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
-      "tags": [
-        "constitutionalism-courts-rule-of-law",
-        "politics",
-        "constitutional",
-        "reform",
-        "israel"
-      ],
-      "reuseGuidance": "Use only when the subject match is strong; avoid repeating the same underlying scene on nearby homepage cards.",
-      "qualityNotes": "Soft painterly editorial replacement in the older site style: civic scenes, people, institutions, documents, warm depth, no flat diagram, no text, no logos, no flags."
-    },
-    {
       "file": "html_qa/democracy_the_new_basic_laws_on_human_rights_a_mini_revolution_in_israeli_constitutional_law_summary_he.jpg",
       "width": 800,
       "height": 600,
@@ -4443,7 +4420,7 @@
         "paper-specific"
       ],
       "reuseGuidance": "נוצר כדי לשבור רצף תמונות חוזרות בעמודי נושא; להשתמש שוב רק בהתאמה מושגית חזקה ולא בצמוד לתמונה מאותו מקור חזותי.",
-      "qualityNotes": "Generated 2026-05-21 as a per-paper topic-page diversity replacement derived from html_qa/democracy_the_politics_of_constitutional_reform_in_israel_summary_he.jpg; painterly civic scene, no flat vector icon, sparse schematic composition, text, logo, watermark, or flag."
+      "qualityNotes": "Generated 2026-05-21 as a per-paper topic-page diversity replacement; painterly civic scene, no flat vector icon, sparse schematic composition, text, logo, watermark, or flag."
     },
     {
       "file": "html_qa/democracy_the_constitutional_reform_and_the_occupation_summary_he.jpg",
