@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 745,
+  "paperCount": 744,
   "papers": [
     {
       "slug": "democracy_opportunistic_legislation_natural_emergency_covid_summary_he",
@@ -494,7 +494,7 @@
       "file": "democracy_religious_accommodation_exit_sex_equality_summary_he.html",
       "permalink": "/democracy_religious_accommodation_exit_sex_equality_summary_he.html",
       "sortKey": 202606080003,
-      "titleHe": "הסכמה ויציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
+      "titleHe": "הסכמה וזכות יציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
       "paperTitle": "Consent, Multiculturalism, and Exit: A Contemporary Critique of Religious Accommodation and the Right to Sex Equality",
       "authorsCardHe": "Yofi Tirosh",
       "sourceAuthors": [
@@ -514,7 +514,7 @@
       },
       "datePublished": "2026-06-08",
       "dateModified": "2026-06-09",
-      "summaryHe": "המאמר של Yofi Tirosh עוסק במתח בין התאמות דתיות ורב־תרבותיות לבין הזכות לשוויון מגדרי. לפי כותרתו ומסגורו, הוא בוחן באופן ביקורתי טענות של הסכמה ושל אפשרות יציאה מקבוצה, ושואל אם הן מספקות הגנה אמיתית לנשים בתוך הסדרים דתיים או קהילתיים."
+      "summaryHe": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות."
     },
     {
       "slug": "democracy_holocaust_memorial_day_affective_polarization_summary_he",
@@ -11223,7 +11223,7 @@
       },
       "datePublished": "2026-05-21",
       "dateModified": "2026-06-09",
-      "summaryHe": "המאמר בוחן את תקשורת, דעת קהל ואחריות דמוקרטית בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית."
+      "summaryHe": "המאמר מנתח את משבר האמון שנוצר סביב מדגמי הבחירות של אפריל 2019 בישראל, ומראה כיצד יחסי אמון ואי־אמון בין תקשורת החדשות לבין הקהל אינם נוצרים רק מאי־דיוק מספרי. המסר המרכזי הוא שמדגמי יציאה הם רגע מבחן ציבורי: כאשר התחזית, ההסבר העיתונאי והחוויה הפוליטית של הצופים אינם מתלכדים, האמון בתקשורת נפגע גם אם העבודה המקצועית מורכבת יותר מן הכותרת. לכן המאמר מציע לראות אמון תקשורתי כתהליך דינמי של ציפיות, פרשנות ואחריות ציבורית, ולא כעמדה קבועה בעד או נגד כלי תקשורת."
     },
     {
       "slug": "democracy_the_palestinian_campaign_against_israel_at_the_united_nations_human_rights_council_summary_he",
@@ -13605,32 +13605,6 @@
       "datePublished": "2026-05-21",
       "dateModified": "2026-06-09",
       "summaryHe": "המאמר בוחן את חוק השבות מ־1950 ככלי למימוש עלייה יהודית וקיבוץ גלויות, ומסביר מדוע רות גביזון מצדיקה את עקרון השבות אך מציעה לבחון מחדש חלק מהסדריו."
-    },
-    {
-      "slug": "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he",
-      "file": "democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html",
-      "permalink": "/democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.html",
-      "sortKey": 202605210207,
-      "titleHe": "מה הקשר בין ביקורת שיפוטית והגבלת כוח שלטוני בישראל לבין שלטון החוק בישראל?",
-      "paperTitle": "Judicial Review in Israel: A Comparative Perspective",
-      "authorsCardHe": "Aharon Barak",
-      "sourceAuthors": [
-        "Aharon Barak"
-      ],
-      "journal": "",
-      "dateText": "",
-      "doiUrl": "",
-      "topics": [
-        "constitutionalism-courts-rule-of-law"
-      ],
-      "image": {
-        "src": "html_qa/democracy_judicial_review_in_israel_a_comparative_perspective_summary_he.jpg",
-        "altHe": "איור עריכתי על ביקורת שיפוטית והגבלת כוח שלטוני בישראל",
-        "fitness": "standard"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
-      "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק."
     },
     {
       "slug": "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he",

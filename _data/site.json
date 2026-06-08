@@ -3,12 +3,12 @@
   "baseUrl": "https://demokratia-info.github.io/",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeTitleHe": "מאמרים נבחרים בנושא דמוקרטיה ושלטון החוק",
-  "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק. המאגר כולל תמציות של 745 ממאמרים.",
-  "homeIntroHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק. המאגר כולל תמציות של 745 ממאמרים.",
+  "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק. המאגר כולל תמציות של 744 ממאמרים.",
+  "homeIntroHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק. המאגר כולל תמציות של 744 ממאמרים.",
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-06-09",
-  "cacheVersion": "2026-06-09-source-backed-findings",
+  "cacheVersion": "2026-06-09-feedback-revisions-0058",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",
@@ -22,6 +22,6 @@
   "topicImageVersion": "20260523-topic-icons-v2",
   "paperImageVersion": "2026-06-09-nightly",
   "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
-  "paperCount": 745,
+  "paperCount": 744,
   "feedbackEditorEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev/admin/page-feedback"
 }

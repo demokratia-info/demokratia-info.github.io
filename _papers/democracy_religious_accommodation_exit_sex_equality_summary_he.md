@@ -4,13 +4,13 @@
   "file": "democracy_religious_accommodation_exit_sex_equality_summary_he.html",
   "slug": "democracy_religious_accommodation_exit_sex_equality_summary_he",
   "order": 500,
-  "titleHe": "הסכמה ויציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
+  "titleHe": "הסכמה וזכות יציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
   "subtitleHe": "",
-  "descriptionHe": "המאמר מציע ביקורת עכשווית על התאמות דתיות בתוך רב־תרבותיות, ובוחן האם הסכמה אישית ואפשרות יציאה אכן מגינות על הזכות לשוויון מגדרי.",
-  "summaryHe": "המאמר של Yofi Tirosh עוסק במתח בין התאמות דתיות ורב־תרבותיות לבין הזכות לשוויון מגדרי. לפי כותרתו ומסגורו, הוא בוחן באופן ביקורתי טענות של הסכמה ושל אפשרות יציאה מקבוצה, ושואל אם הן מספקות הגנה אמיתית לנשים בתוך הסדרים דתיים או קהילתיים.",
+  "descriptionHe": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות. המאמר מציב את ההתאמה הדתית כמבחן לשאלה האם הסכמה וזכות יציאה הן הגנות ממשיות או פורמליות בלבד.",
+  "summaryHe": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות.",
   "authorsCardHe": "Yofi Tirosh",
   "paperTitle": "Consent, Multiculturalism, and Exit: A Contemporary Critique of Religious Accommodation and the Right to Sex Equality",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3732-7421\" target=\"_blank\" rel=\"noopener noreferrer\">Yofi Tirosh</a>",
+  "authorsHtml": "<a href=\"https://law.tau.ac.il/profile/ytirosh\" target=\"_blank\" rel=\"noopener noreferrer\">Yofi Tirosh</a>",
   "journal": "Political Theology",
   "dateText": "פורסם: 17 באוגוסט 2024",
   "sourcePublishedDate": "2024-08-17",
@@ -20,14 +20,14 @@
     {
       "@type": "Person",
       "name": "Yofi Tirosh",
-      "url": "https://orcid.org/0000-0003-3732-7421"
+      "url": "https://law.tau.ac.il/profile/ytirosh"
     }
   ],
   "sourceAuthors": [
     {
       "@type": "Person",
       "name": "Yofi Tirosh",
-      "url": "https://orcid.org/0000-0003-3732-7421"
+      "url": "https://law.tau.ac.il/profile/ytirosh"
     }
   ],
   "topics": [
@@ -58,13 +58,6 @@
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר בוחן את היחס בין התאמות דתיות, רב־תרבותיות והזכות לשוויון מגדרי. הוא מתמקד במיוחד בשאלה האם הסכמה אישית ואפשרות יציאה מקבוצה מספיקות כדי להצדיק הסדרים שעלולים לפגוע בנשים."
-      ]
-    },
-    {
-      "headingHe": "מה המאמר מצא או טוען בפועל?",
-      "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: כאשר מערכות משפט ליברליות ברחבי העולם מפתחות צורות חדשות של התאמה רב-תרבותית, מאמר זה מזהה שינוי ראוי לציון. דמוקרטיות עברו מאי-התערבות בנורמות קהילתיות בלתי-ליברליות פנימיות לנכונות הולכת וגוברת לאפשר נורמות לא שוויוניות, במיוחד נורמות המפלות נשים, לספירות חברתיות כלליות, כאמצעי להשתלבות במיעוט. בהסתמך על ביקורות פמיניסטיות על הסכמה ושימוש במשפט הישראלי כמקרה המקרה שלו, המאמר מדגים כיצד השיח הליברלי מאמץ בקלות את הסכמת נשים לעקוף שאלות קשות הנוגעות לפגיעה בשוויון מגדרי.",
-        "בהקשר הדמוקרטי של האתר, המשמעות היא: המאמר של Yofi Tirosh עוסק במתח בין התאמות דתיות ורב־תרבותיות לבין הזכות לשוויון מגדרי. לפי כותרתו ומסגורו, הוא בוחן באופן ביקורתי טענות של הסכמה ושל אפשרות יציאה מקבוצה, ושואל אם הן מספקות הגנה אמיתית לנשים בתוך הסדרים דתיים או קהילתיים."
       ]
     },
     {
@@ -147,7 +140,7 @@
     }
   ],
   "layout": "paper",
-  "title": "הסכמה ויציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
+  "title": "הסכמה וזכות יציאה אינן תמיד מגינות על שוויון מגדרי בהסדרי התאמה דתית",
   "permalink": "/democracy_religious_accommodation_exit_sex_equality_summary_he.html",
   "paper_url": "democracy_religious_accommodation_exit_sex_equality_summary_he.html",
   "sortKey": 202606080003
