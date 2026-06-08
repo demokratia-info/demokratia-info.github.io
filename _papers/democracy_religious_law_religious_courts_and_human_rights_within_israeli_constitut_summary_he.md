@@ -61,8 +61,7 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: המשפט החוקתי הישראלי - דת וחוקה - משפט אישי - בתי דין דתיים - חופש דת - עקרון השוויון בין בני זוג - תחרות שיפוט בין מערכות משפט דתיות וחילוניות. Religious law, religious Courts and human rights within Israeli constitutional structure.",
-        "לכן התרומה של העמוד אינה רק בזיהוי נושא המאמר, אלא בהצגת הטענה או הממצא שהמקור עצמו מדגיש."
+        "המשפט החוקתי הישראלי - דת וחוקה - משפט אישי - בתי דין דתיים - חופש דת - עקרון השוויון בין בני זוג - תחרות שיפוט בין מערכות משפט דתיות וחילוניות. Religious law, religious Courts and human rights within Israeli constitutional structure."
       ]
     },
     {

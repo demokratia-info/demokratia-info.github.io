@@ -57,8 +57,7 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: גדר ביטחון או חומת ביטחון - החלטת בית סוריק ומבחן מידתיות - חוות דעת מייעצת של בית המשפט הבינלאומי - החלטת מארה אבה ההבדלים בין. Israel: The security barrier—between international law, constitutional law, and domestic judicial review.",
-        "לכן התרומה של העמוד אינה רק בזיהוי נושא המאמר, אלא בהצגת הטענה או הממצא שהמקור עצמו מדגיש."
+        "גדר ביטחון או חומת ביטחון - החלטת בית סוריק ומבחן מידתיות - חוות דעת מייעצת של בית המשפט הבינלאומי - החלטת מארה אבה ההבדלים בין. Israel: The security barrier—between international law, constitutional law, and domestic judicial review."
       ]
     },
     {

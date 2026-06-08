@@ -60,8 +60,7 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: סקירת ספר: מצב המדינה האחת: כיבוש ודמוקרטיה בישראל / פלסטין. The One State Condition: Occupation and Democracy in Israel / Palestine.",
-        "לכן התרומה של העמוד אינה רק בזיהוי נושא המאמר, אלא בהצגת הטענה או הממצא שהמקור עצמו מדגיש."
+        "סקירת ספר: מצב המדינה האחת: כיבוש ודמוקרטיה בישראל / פלסטין. The One State Condition: Occupation and Democracy in Israel / Palestine."
       ]
     },
     {

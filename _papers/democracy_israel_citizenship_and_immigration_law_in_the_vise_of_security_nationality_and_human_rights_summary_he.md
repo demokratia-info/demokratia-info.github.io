@@ -64,8 +64,7 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: חוק האזרחות - הגירה וביטחון - פרופיל ואפליה אתנית - איחוד משפחות - פרשנות חוקתית - הזכות לשוויון - הזכות לחיי משפחה. Israel: Citizenship and immigration law in the vise of security, nationality, and human rights.",
-        "לכן התרומה של העמוד אינה רק בזיהוי נושא המאמר, אלא בהצגת הטענה או הממצא שהמקור עצמו מדגיש."
+        "חוק האזרחות - הגירה וביטחון - פרופיל ואפליה אתנית - איחוד משפחות - פרשנות חוקתית - הזכות לשוויון - הזכות לחיי משפחה. Israel: Citizenship and immigration law in the vise of security, nationality, and human rights."
       ]
     },
     {

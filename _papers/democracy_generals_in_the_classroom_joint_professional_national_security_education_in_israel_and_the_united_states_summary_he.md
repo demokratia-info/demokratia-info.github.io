@@ -74,8 +74,7 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המאמר מציג כמה טענות קונקרטיות: המאמר בוחן כיצד המכללות והאוניברסיטאות הללו מחדירות לבוגריהן את היכולת האינטלקטואלית לעסוק ולפתור אתגרים אסטרטגיים ברמת המאקרו וביעילות, כמו גם להפעיל מיומנויות חשיבה ביקורתיות כדי להבטיח זריזות אינטלקטואלית וגמישות. שינויים אלה אינם משפיעים על התוכן האקדמי של המאמר. הערות1 Barış Seçkin, \"Cohesion of NATO Reinforced by Russian Russian,\" סוכנות Anadolu, 4 במרץ 2022. https://www.aa.com.tr/en/russia-ukraine-crisis/cohesion-of-nato-reinforced-by-comfensian-college-45-25-25-26-12-2020 (נגישה ב-6 במרץ 2022).2 \"בהתחשב בחומרתם, הנרי קיסינג'ר התייחס במשותף לשני האירועים הנובעים,\" ב-Crisis: The Anatomy of Two Major Foreign Policy Crises (New York: Simon and Schuster, 2003).3 Carl von Clausewitz (עורך וטרנס.",
-        "לכן התרומה של העמוד אינה רק בזיהוי נושא המאמר, אלא בהצגת הטענה או הממצא שהמקור עצמו מדגיש."
+        "המאמר בוחן כיצד המכללות והאוניברסיטאות הללו מחדירות לבוגריהן את היכולת האינטלקטואלית לעסוק ולפתור אתגרים אסטרטגיים ברמת המאקרו וביעילות, כמו גם להפעיל מיומנויות חשיבה ביקורתיות כדי להבטיח זריזות אינטלקטואלית וגמישות. שינויים אלה אינם משפיעים על התוכן האקדמי של המאמר. הערות1 Barış Seçkin, \"Cohesion of NATO Reinforced by Russian Russian,\" סוכנות Anadolu, 4 במרץ 2022. https://www.aa.com.tr/en/russia-ukraine-crisis/cohesion-of-nato-reinforced-by-comfensian-college-45-25-25-26-12-2020 (נגישה ב-6 במרץ 2022).2 \"בהתחשב בחומרתם, הנרי קיסינג'ר התייחס במשותף לשני האירועים הנובעים,\" ב-Crisis: The Anatomy of Two Major Foreign Policy Crises (New York: Simon and Schuster, 2003).3 Carl von Clausewitz (עורך וטרנס."
       ]
     },
     {
