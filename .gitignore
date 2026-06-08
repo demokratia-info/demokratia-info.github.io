@@ -7,6 +7,13 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+Gemfile.lock
+.ruby-version
+.wrangler/
+pagefind/
+html_check/
+html_qa_*/
+qa_*/
 .env
 .env.*
 .demokratia_author_mail.env

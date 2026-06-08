@@ -59,6 +59,10 @@ def image_hash(paper: dict[str, Any]) -> str:
     return hashlib.sha256(image_path.read_bytes()).hexdigest()
 
 
+def image_src_key(paper: dict[str, Any]) -> str:
+    return str(paper.get("image", {}).get("src", "")).strip().lstrip("/")
+
+
 def image_family(paper: dict[str, Any]) -> str:
     image_src = str(paper.get("image", {}).get("src", ""))
     catalog_path = ROOT / "image_catalog.json"
@@ -96,11 +100,15 @@ def sample_papers(candidates: list[dict[str, Any]], count: int, seed: str) -> li
     rng.shuffle(shuffled)
 
     selected: list[dict[str, Any]] = []
+    selected_image_srcs: set[str] = set()
     selected_hashes: set[str] = set()
     topic_counts: Counter[str] = Counter()
     family_counts: Counter[str] = Counter()
 
     def can_add(paper: dict[str, Any], strict: bool) -> bool:
+        image_src = image_src_key(paper)
+        if image_src and image_src in selected_image_srcs:
+            return False
         digest = image_hash(paper)
         if digest and digest in selected_hashes:
             return False
@@ -112,6 +120,9 @@ def sample_papers(candidates: list[dict[str, Any]], count: int, seed: str) -> li
 
     def add(paper: dict[str, Any]) -> None:
         selected.append(paper)
+        image_src = image_src_key(paper)
+        if image_src:
+            selected_image_srcs.add(image_src)
         digest = image_hash(paper)
         if digest:
             selected_hashes.add(digest)
@@ -141,7 +152,7 @@ def build_output(selected: list[dict[str, Any]], candidates: list[dict[str, Any]
         "lastUpdated": israel_today(),
         "sampleSize": len(selected),
         "seed": seed,
-        "selectionMode": "Sampled from papers whose image.fitness is high, with light topic and visual-family diversity constraints.",
+        "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
         "highFitPaperCount": len(candidates),
         "paperSlugs": [paper["slug"] for paper in selected],
     }

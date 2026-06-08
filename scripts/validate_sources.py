@@ -492,6 +492,7 @@ def validate_homepage_high_fit_sample(papers: list[dict[str, Any]], site_data: d
         errors.append("_data/homepage_high_fit_sample.json: paperSlugs must be unique")
 
     by_slug = {paper.get("slug"): paper for paper in papers}
+    image_srcs: dict[str, str] = {}
     image_hashes: dict[str, str] = {}
     for slug in slugs:
         paper = by_slug.get(slug)
@@ -500,7 +501,14 @@ def validate_homepage_high_fit_sample(papers: list[dict[str, Any]], site_data: d
             continue
         if paper.get("image", {}).get("fitness") != "high":
             errors.append(f"_data/homepage_high_fit_sample.json: {slug} does not have image.fitness high")
-        image_path = clean_local_ref(str(paper.get("image", {}).get("src", "")))
+        image_src = str(paper.get("image", {}).get("src", "")).strip().lstrip("/")
+        if image_src:
+            if image_src in image_srcs:
+                errors.append(
+                    f"_data/homepage_high_fit_sample.json: {slug} repeats image.src {image_src} already used by {image_srcs[image_src]}"
+                )
+            image_srcs[image_src] = str(slug)
+        image_path = clean_local_ref(image_src)
         if image_path and image_path.exists():
             key = hashlib.sha256(image_path.read_bytes()).hexdigest()
             if key in image_hashes:
