@@ -11,7 +11,7 @@
   "authorsCardHe": "Mark Tessler, Audra Grant",
   "paperTitle": "Israel's Arab Citizens: The Continuing Struggle",
   "authorsHtml": "<a href=\"https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Tessler</a>, Audra Grant",
-  "journal": "",
+  "journal": "The ANNALS of the American Academy of Political and Social Science",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.1177/0002716298555001007",
   "doiLabel": "https://doi.org/10.1177/0002716298555001007",
@@ -54,8 +54,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

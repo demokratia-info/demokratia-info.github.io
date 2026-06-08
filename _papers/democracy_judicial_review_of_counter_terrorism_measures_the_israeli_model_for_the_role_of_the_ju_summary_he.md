@@ -11,7 +11,7 @@
   "authorsCardHe": "Yigal Mersel",
   "paperTitle": "Judicial Review of Counter-Terrorism Measures: The Israeli Model for The Role of The Judiciary During the Terror Era",
   "authorsHtml": "Yigal Mersel",
-  "journal": "",
+  "journal": "The Right to a Fair Trial",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.4324/9781315085401-14",
   "doiLabel": "https://doi.org/10.4324/9781315085401-14",
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

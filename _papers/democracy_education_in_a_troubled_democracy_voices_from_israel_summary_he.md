@@ -11,7 +11,7 @@
   "authorsCardHe": "Deborah Court",
   "paperTitle": "Education in a Troubled Democracy: Voices from Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6332-9637\" target=\"_blank\" rel=\"noopener noreferrer\">Deborah Court</a>",
-  "journal": "",
+  "journal": "Curriculum Inquiry",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1111/j.1467-873x.2004.00280.x",
   "doiLabel": "https://doi.org/10.1111/j.1467-873x.2004.00280.x",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

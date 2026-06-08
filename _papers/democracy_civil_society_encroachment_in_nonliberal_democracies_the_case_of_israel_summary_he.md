@@ -11,7 +11,7 @@
   "authorsCardHe": "Hagai Katz, Benjamin Gidron",
   "paperTitle": "Civil Society Encroachment in Nonliberal Democracies: The Case of Israel",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>, <a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>",
-  "journal": "",
+  "journal": "Nonprofit and Civil Society Studies",
   "dateText": "פורסם: 2022",
   "doiUrl": "https://doi.org/10.1007/978-3-030-98008-5_21",
   "doiLabel": "https://doi.org/10.1007/978-3-030-98008-5_21",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

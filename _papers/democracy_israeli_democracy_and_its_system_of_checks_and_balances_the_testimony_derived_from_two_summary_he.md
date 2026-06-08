@@ -11,7 +11,7 @@
   "authorsCardHe": "David Ellenson",
   "paperTitle": "Israeli Democracy and its System of Checks and Balances: The Testimony Derived from Two Supreme Court Opinions by President Asher Grunis",
   "authorsHtml": "<a href=\"https://huc.edu/directory/rabbi-david-ellenson-ph-d/\" target=\"_blank\" rel=\"noopener noreferrer\">David Ellenson</a>",
-  "journal": "",
+  "journal": "Israel Studies",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.2979/is.2023.a903071",
   "doiLabel": "https://doi.org/10.2979/is.2023.a903071",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

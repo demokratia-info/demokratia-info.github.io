@@ -11,7 +11,7 @@
   "authorsCardHe": "Ayman K. Agbaria",
   "paperTitle": "Arab civil society and education in Israel: the Arab Pedagogical Council as a contentious performance to achieve national recognition",
   "authorsHtml": "<a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>",
-  "journal": "",
+  "journal": "Race Ethnicity and Education",
   "dateText": "פורסם: 2013",
   "doiUrl": "https://doi.org/10.1080/13613324.2012.759930",
   "doiLabel": "https://doi.org/10.1080/13613324.2012.759930",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

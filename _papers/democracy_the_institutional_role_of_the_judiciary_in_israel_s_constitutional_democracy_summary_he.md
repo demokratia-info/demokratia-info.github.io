@@ -11,7 +11,7 @@
   "authorsCardHe": "Guy Lurie, Yuval Shany",
   "paperTitle": "The Institutional Role of the Judiciary in Israel’s Constitutional Democracy",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
-  "journal": "",
+  "journal": "SSRN Electronic Journal",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.2139/ssrn.3762937",
   "doiLabel": "https://doi.org/10.2139/ssrn.3762937",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

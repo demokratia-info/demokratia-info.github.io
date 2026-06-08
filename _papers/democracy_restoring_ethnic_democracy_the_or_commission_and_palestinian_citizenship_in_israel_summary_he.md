@@ -11,7 +11,7 @@
   "authorsCardHe": "Yoav Peled",
   "paperTitle": "Restoring Ethnic Democracy: The Or Commission and Palestinian Citizenship in Israel",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yoavpel\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Peled</a>",
-  "journal": "",
+  "journal": "Citizenship Studies",
   "dateText": "פורסם: 2005",
   "doiUrl": "https://doi.org/10.1080/1362102042000338898",
   "doiLabel": "https://doi.org/10.1080/1362102042000338898",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

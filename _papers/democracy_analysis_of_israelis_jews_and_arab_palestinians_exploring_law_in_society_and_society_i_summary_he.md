@@ -11,7 +11,7 @@
   "authorsCardHe": "Gad Barzilai",
   "paperTitle": "Analysis of Israelis Jews and Arab Palestinians: exploring law in society and society in law",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2692-0748\" target=\"_blank\" rel=\"noopener noreferrer\">Gad Barzilai</a>",
-  "journal": "",
+  "journal": "International Journal of Law in Context",
   "dateText": "פורסם: 2015",
   "doiUrl": "https://doi.org/10.1017/s1744552315000191",
   "doiLabel": "https://doi.org/10.1017/s1744552315000191",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

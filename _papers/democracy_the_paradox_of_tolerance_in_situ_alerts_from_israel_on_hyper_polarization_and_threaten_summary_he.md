@@ -11,8 +11,8 @@
   "authorsCardHe": "Helena Desivilya Syna",
   "paperTitle": "The paradox of tolerance? ‘In situ’ alerts from Israel on hyper‐polarization and threatened democracy",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3481-6003\" target=\"_blank\" rel=\"noopener noreferrer\">Helena Desivilya Syna</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Conflict Resolution Quarterly",
+  "dateText": "פורסם אונליין: 27.02.2023",
   "doiUrl": "https://doi.org/10.1002/crq.21375",
   "doiLabel": "https://doi.org/10.1002/crq.21375",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, ומראה מדוע הדיון בנושא קשור ליכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

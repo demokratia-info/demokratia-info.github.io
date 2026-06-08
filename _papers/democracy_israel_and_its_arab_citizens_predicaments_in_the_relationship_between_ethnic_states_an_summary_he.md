@@ -11,7 +11,7 @@
   "authorsCardHe": "Nadim N. Rouhana",
   "paperTitle": "Israel and its Arab citizens: Predicaments in the relationship between ethnic states and ethnonational minorities",
   "authorsHtml": "<a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>",
-  "journal": "",
+  "journal": "Third World Quarterly",
   "dateText": "פורסם: 1998",
   "doiUrl": "https://doi.org/10.1080/01436599814460",
   "doiLabel": "https://doi.org/10.1080/01436599814460",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

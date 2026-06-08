@@ -13,8 +13,8 @@
   "authorsHtml": "Asher Arian",
   "journal": "Routledge",
   "dateText": "פורסם: 2005",
-  "doiUrl": "",
-  "doiLabel": "",
+  "doiUrl": "https://doi.org/10.4324/9780203326152-19",
+  "doiLabel": "https://doi.org/10.4324/9780203326152-19",
   "authors": [
     {
       "@type": "Person",
@@ -47,8 +47,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
   "sections": [
     {

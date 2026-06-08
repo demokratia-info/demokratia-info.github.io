@@ -11,7 +11,7 @@
   "authorsCardHe": "Hagai Katz, Benjamin Gidron",
   "paperTitle": "Encroachment and Reaction of Civil Society in Non-liberal Democracies: The Case of Israel and the New Israel Fund",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>, <a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>",
-  "journal": "",
+  "journal": "Nonprofit Policy Forum",
   "dateText": "פורסם: 2021",
   "doiUrl": "https://doi.org/10.1515/npf-2020-0043",
   "doiLabel": "https://doi.org/10.1515/npf-2020-0043",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -11,7 +11,7 @@
   "authorsCardHe": "Aharon Barak",
   "paperTitle": "The Constitutionalization of the Israeli Legal System as a Result of the Basic Laws and its Effect on Procedural and Substantive Criminal Law",
   "authorsHtml": "<a href=\"https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&amp;nodeId=809\" target=\"_blank\" rel=\"noopener noreferrer\">Aharon Barak</a>",
-  "journal": "",
+  "journal": "Israel Law Review",
   "dateText": "פורסם: 1997",
   "doiUrl": "https://doi.org/10.1017/s0021223700015223",
   "doiLabel": "https://doi.org/10.1017/s0021223700015223",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, ומראה מדוע הדיון בנושא קשור לזהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

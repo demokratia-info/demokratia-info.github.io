@@ -11,7 +11,7 @@
   "authorsCardHe": "Peter Lemish",
   "paperTitle": "Civic and Citizenship Education in Israel",
   "authorsHtml": "Peter Lemish",
-  "journal": "",
+  "journal": "Cambridge Journal of Education",
   "dateText": "פורסם: 2003",
   "doiUrl": "https://doi.org/10.1080/0305764032000064640",
   "doiLabel": "https://doi.org/10.1080/0305764032000064640",
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

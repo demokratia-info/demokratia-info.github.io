@@ -11,8 +11,8 @@
   "authorsCardHe": "DONNA ROBINSON DIVINE",
   "paperTitle": "Citizenship and Democracy in Israel",
   "authorsHtml": "DONNA ROBINSON DIVINE",
-  "journal": "",
-  "dateText": "",
+  "journal": "Essential Israel",
+  "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.2307/j.ctt1zxxz6s.12",
   "doiLabel": "https://doi.org/10.2307/j.ctt1zxxz6s.12",
   "authors": [
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-05-25",
-  "lastUpdatedHe": "25 במאי 2026",
+  "dateModified": "2026-06-08",
+  "lastUpdatedHe": "8 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
