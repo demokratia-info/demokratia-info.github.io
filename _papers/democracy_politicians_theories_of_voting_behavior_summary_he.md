@@ -6,8 +6,8 @@
   "order": 421,
   "titleHe": "תאוריות של פוליטיקאים על התנהגות בוחרים",
   "subtitleHe": "",
-  "descriptionHe": "תמצית בעברית של מאמר על תאוריות של פוליטיקאים על התנהגות בוחרים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
-  "summaryHe": "המאמר בוחן את סוגיית תאוריות של פוליטיקאים על התנהגות בוחרים דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "descriptionHe": "המאמר בוחן אילו תאוריות על התנהגות בוחרים מחזיקים פוליטיקאים נבחרים, ומשווה אותן לתפיסות של אזרחים במדינות שונות.",
+  "summaryHe": "המאמר מצא שפוליטיקאים ב-11 מדינות נוטים לאמץ תפיסה רזה ומינימליסטית של בוחרים, בעוד שאזרחים מחזיקים בתפיסות אופטימיות ומוכוונות מדיניות יותר.",
   "authorsCardHe": "Jack Lucas, Lior Sheffer, Peter John Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufal, Patrick Dumont, Sarah Lachance, Miguel M. Pereira, Mikael Persson, Jean‐Benoît Pilet, Anne Rasmussen, Maj-Britt Sterba, Frédéric Varone",
   "paperTitle": "Politicians’ Theories of Voting Behavior",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3498-7267\" target=\"_blank\" rel=\"noopener noreferrer\">Jack Lucas</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>, <a href=\"https://orcid.org/0000-0003-2690-4158\" target=\"_blank\" rel=\"noopener noreferrer\">Peter John Loewen</a>, <a href=\"https://orcid.org/0000-0003-1814-1015\" target=\"_blank\" rel=\"noopener noreferrer\">Stefaan Walgrave</a>, <a href=\"https://orcid.org/0000-0002-4615-510X\" target=\"_blank\" rel=\"noopener noreferrer\">Karolin Soontjens</a>, <a href=\"https://orcid.org/0000-0002-3135-9775\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Amsalem</a>, <a href=\"https://orcid.org/0000-0002-8646-6076\" target=\"_blank\" rel=\"noopener noreferrer\">Stefanie Bailer</a>, <a href=\"https://orcid.org/0000-0003-4496-6109\" target=\"_blank\" rel=\"noopener noreferrer\">Nathalie Brack</a>, <a href=\"https://orcid.org/0000-0002-8074-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Breunig</a>, <a href=\"https://orcid.org/0000-0001-5047-072X\" target=\"_blank\" rel=\"noopener noreferrer\">Pirmin Bundi</a>, <a href=\"https://orcid.org/0000-0003-1678-8835\" target=\"_blank\" rel=\"noopener noreferrer\">Linda Coufal</a>, <a href=\"https://orcid.org/0000-0001-6124-8833\" target=\"_blank\" rel=\"noopener noreferrer\">Patrick Dumont</a>, <a href=\"https://orcid.org/0000-0001-8341-6113\" target=\"_blank\" rel=\"noopener noreferrer\">Sarah Lachance</a>, <a href=\"https://orcid.org/0000-0001-6621-9863\" target=\"_blank\" rel=\"noopener noreferrer\">Miguel M. Pereira</a>, <a href=\"https://orcid.org/0000-0002-5377-2173\" target=\"_blank\" rel=\"noopener noreferrer\">Mikael Persson</a>, <a href=\"https://orcid.org/0000-0001-5612-0835\" target=\"_blank\" rel=\"noopener noreferrer\">Jean‐Benoît Pilet</a>, <a href=\"https://orcid.org/0000-0002-9517-3929\" target=\"_blank\" rel=\"noopener noreferrer\">Anne Rasmussen</a>, <a href=\"https://orcid.org/0000-0002-4674-1694\" target=\"_blank\" rel=\"noopener noreferrer\">Maj-Britt Sterba</a>, <a href=\"https://orcid.org/0000-0002-5620-3291\" target=\"_blank\" rel=\"noopener noreferrer\">Frédéric Varone</a>",
@@ -232,7 +232,7 @@
   "datePublished": "2026-05-22",
   "dateModified": "2026-06-09",
   "lastUpdatedHe": "9 ביוני 2026",
-  "oneLinerHtml": "תאוריות של פוליטיקאים על התנהגות בוחרים מדגים כיצד סוגיה אקדמית ממוקדת הופכת לשאלה על <strong>דמוקרטיה ליברלית</strong>, אחריות ציבורית, שוויון והגבלת כוח.",
+  "oneLinerHtml": "המאמר מראה שפוליטיקאים ואזרחים מבינים התנהגות הצבעה אחרת: הפוליטיקאים נוטים ל\"ריאליזם דמוקרטי\" מינימליסטי, והאזרחים לתפיסה מדינית ואופטימית יותר.",
   "sections": [
     {
       "headingHe": "מה עומד במרכז הדיון המחקרי?",
@@ -244,7 +244,9 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "בעוד שמדענים פוליטיים עוסקים בקביעות בוויכוחים תיאורטיים נמרצים על בחירות והתנהגות הצבעה, מעטים שמו לב שגם לפוליטיקאים נבחרים יש תיאוריות של בחירות והצבעה. כאן, המאמר חוקר את עמדותיהם של פוליטיקאים על שמונה דיונים תיאורטיים מרכזיים בתחום הבחירות והתנהגות ההצבעה ומשווים תיאוריות של פוליטיקאים לאלו שבידי אזרחים מן השורה. באמצעות נתונים מראיונות פנים אל פנים עם קרוב לאלף פוליטיקאים ב-11 מדינות, יחד עם סקרים מקבילים של יותר מ-12 אלף אזרחים, המאמר מראה שפוליטיקאים מחזיקים ברובם המכריע בתיאוריות רזות, מינימליסטיות, \"דמוקרטיות ריאליסטיות\" של הצבעה, בעוד שהתיאוריות של האזרחים יותר אופטימיות ומוכוונות מדיניות."
+        "המאמר בוחן את עמדותיהם של פוליטיקאים לגבי שמונה ויכוחים תאורטיים מרכזיים בחקר בחירות והתנהגות הצבעה. הוא משווה בין תאוריות של נבחרי ציבור לבין תאוריות של אזרחים רגילים, במקום להסתפק בתאוריות של חוקרי מדע המדינה על התנהגות בוחרים.",
+        "המחקר משתמש בראיונות פנים אל פנים עם קרוב לאלף פוליטיקאים ב-11 מדינות, לצד סקרים מקבילים של יותר מ-12 אלף אזרחים. בכל אחת מ-11 המדינות נמצא שרוב הפוליטיקאים משתייכים לקבוצה סמויה שהמאמר מכנה \"ריאליזם דמוקרטי\": תפיסה רזה, מינימליסטית ופסימית יחסית לגבי יכולותיהם של בוחרים.",
+        "הממצא המרכזי הוא שפוליטיקאים מחזיקים ברובם בתאוריות מינימליסטיות של הצבעה, בעוד שאזרחים מחזיקים בתאוריות אופטימיות ומוכוונות מדיניות יותר. המאמר מדגיש שלתפיסות אלה עשויות להיות השלכות על האופן שבו פוליטיקאים מפרשים ביקוש מצד בוחרים להתמקדות בנושא יחיד, לפוליטיקה אישית, למדיניות קצרת טווח או לצורות ייצוג אחרות."
       ]
     },
     {

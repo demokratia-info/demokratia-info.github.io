@@ -7,7 +7,7 @@
   "titleHe": "יום הזיכרון לשואה עשוי להפחית זמנית קיטוב רגשי דרך אבל משותף",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד יום הזיכרון לשואה בישראל משפיע על קיטוב רגשי, ומראה כיצד עצב קולקטיבי יכול לשמש רגע זמני של לכידות חברתית.",
-  "summaryHe": "המאמר של Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler ו-Eran Halperin בוחן את השפעת יום הזיכרון לשואה על קיטוב רגשי בישראל. לפי תקציר המקור, המחקר כלל מדידה אורכית סביב יום הזיכרון ומצא ירידה בקיטוב רגשי במהלך היום עצמו, כאשר עצב קולקטיבי משמש מנגנון אפשרי להפחתת עוינות בין־קבוצתית.",
+  "summaryHe": "המאמר של Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler ו-Eran Halperin בוחן את השפעת יום הזיכרון לשואה על קיטוב רגשי בישראל. המחקר כלל מדידה אורכית סביב יום הזיכרון ומצא ירידה בקיטוב רגשי במהלך היום עצמו, כאשר עצב קולקטיבי משמש מנגנון אפשרי להפחתת עוינות בין־קבוצתית.",
   "authorsCardHe": "Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler, Eran Halperin",
   "paperTitle": "A group that grieves together stays together: Examining the impact of Holocaust Memorial Day in Israel on affective polarization",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5481-1832\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Gur</a>, <a href=\"https://orcid.org/0000-0002-7357-1969\" target=\"_blank\" rel=\"noopener noreferrer\">Shahar Ayal</a>, Magnus Wagner, <a href=\"https://orcid.org/0000-0002-9005-5536\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Adler</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",
@@ -100,7 +100,7 @@
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
         "הממצאים מצביעים על כך שהקיטוב האפקטיבי ירד במהלך HMD. אפקט זה נתווך בחלקו על ידי עלייה בעצב.",
-        "המאמר של Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler ו-Eran Halperin בוחן את השפעת יום הזיכרון לשואה על קיטוב רגשי בישראל. לפי תקציר המקור, המחקר כלל מדידה אורכית סביב יום הזיכרון ומצא ירידה בקיטוב רגשי במהלך היום עצמו, כאשר עצב קולקטיבי משמש מנגנון אפשרי להפחתת עוינות בין־קבוצתית."
+        "המאמר של Tamar Gur, Shahar Ayal, Magnus Wagner, Eli Adler ו-Eran Halperin בוחן את השפעת יום הזיכרון לשואה על קיטוב רגשי בישראל. המחקר כלל מדידה אורכית סביב יום הזיכרון ומצא ירידה בקיטוב רגשי במהלך היום עצמו, כאשר עצב קולקטיבי משמש מנגנון אפשרי להפחתת עוינות בין־קבוצתית."
       ]
     },
     {
@@ -110,9 +110,9 @@
       ]
     },
     {
-      "headingHe": "מה מצא המחקר לפי תקציר המקור?",
+      "headingHe": "מה מצא המחקר ?",
       "paragraphsHtml": [
-        "לפי תקציר המקור, המחקר מצא שקיטוב רגשי ירד במהלך יום הזיכרון לשואה. התקציר מציין גם שההשפעה נבחנה במחקר אורכי שבו משתתפים נמדדו לפני יום הזיכרון, במהלכו ואחריו."
+        "המחקר מצא שקיטוב רגשי ירד במהלך יום הזיכרון לשואה. התקציר מציין גם שההשפעה נבחנה במחקר אורכי שבו משתתפים נמדדו לפני יום הזיכרון, במהלכו ואחריו."
       ]
     },
     {
