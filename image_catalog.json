@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-11",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -18170,6 +18170,314 @@
       },
       "generatedAt": "2026-06-09",
       "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-09 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_silencing_fellow_citizens_scale_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_silencing_fellow_citizens_scale_summary_he.html",
+      "usedBy": [
+        "democracy_silencing_fellow_citizens_scale_summary_he.html"
+      ],
+      "cardTitleHe": "כשהשתקה פוליטית הופכת לעמדה מדידה בדעת הקהל",
+      "authorsHe": "Yariv Tsfati, Shira Dvir-Gvirsman",
+      "visualDescriptionHe": "אזרחים בדיון ציבורי סביב שולחן תקשורת קהילתי, עם מיקרופונים ודפי הערות ריקים.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Silencing Fellow Citizens: Conceptualization, Measurement, and Validation of a Scale for Measuring the Belief in the Importance of Actively Silencing Others\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "השתקה פוליטית",
+        "חופש ביטוי",
+        "דיון ציבורי"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_silencing_fellow_citizens_scale_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "בחירת מועמדים בתוך מפלגות משפיעה על שביעות הרצון מדמוקרטיה",
+      "authorsHe": "Yael Shomer, Gert-Jan Put, Einat Gedalya-Lavy",
+      "visualDescriptionHe": "חברי מפלגה ואזרחים ממיינים פתקי הצבעה ריקים בחדר סניף מפלגתי.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Intra-Party Politics and Public Opinion: How Candidate Selection Processes Affect Citizens’ Satisfaction with Democracy\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity",
+        "בחירת מועמדים",
+        "מפלגות",
+        "שביעות רצון מדמוקרטיה"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.html",
+      "usedBy": [
+        "democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דת, אליטות וקיטוב מעצבים את דעת הקהל האמריקנית על ישראל",
+      "authorsHe": "Amnon Cavari",
+      "visualDescriptionHe": "חוקרים במכון מדיניות בוחנים דפי סקר ומפה עולמית ללא כיתוב סביב שולחן עבודה.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Religious Beliefs, Elite Polarization, and Public Opinion on Foreign Policy: The Partisan Gap in American Public Opinion Toward Israel\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "דעת קהל",
+        "מדיניות חוץ",
+        "קיטוב אליטות"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_agenda_control_unstable_multiparty_public_sector_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_agenda_control_unstable_multiparty_public_sector_summary_he.html",
+      "usedBy": [
+        "democracy_agenda_control_unstable_multiparty_public_sector_summary_he.html"
+      ],
+      "cardTitleHe": "שליטה בסדר היום בממשלה רב־מפלגתית לא יציבה",
+      "authorsHe": "Maoz Rosenthal",
+      "visualDescriptionHe": "נציגי קואליציה ועובדי ציבור דנים בדפי סדר יום ריקים סביב שולחן ועדה.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Agenda control in an unstable multiparty parliamentary democracy: evidence from the Israeli public sector\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "סדר יום",
+        "קואליציה",
+        "שירות ציבורי"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_agenda_control_unstable_multiparty_public_sector_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_model_ethnic_democracy_response_to_danel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_model_ethnic_democracy_response_to_danel_summary_he.html",
+      "usedBy": [
+        "democracy_model_ethnic_democracy_response_to_danel_summary_he.html"
+      ],
+      "cardTitleHe": "מודל הדמוקרטיה האתנית והוויכוח על שוויון אזרחי בישראל",
+      "authorsHe": "Sammy Smooha",
+      "visualDescriptionHe": "חוקרים בסמינר אקדמי משווים מודלים של אזרחות ושוויון על לוח ללא כיתוב.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"The model of ethnic democracy: Response to Danel\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "דמוקרטיה אתנית",
+        "אזרחות",
+        "זכויות מיעוטים"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_model_ethnic_democracy_response_to_danel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_fence_or_offense_effectiveness_judea_samaria_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_fence_or_offense_effectiveness_judea_samaria_summary_he.html",
+      "usedBy": [
+        "democracy_fence_or_offense_effectiveness_judea_samaria_summary_he.html"
+      ],
+      "cardTitleHe": "גדר ההפרדה כמבחן למדיניות ביטחון ולמחירה הדמוקרטי",
+      "authorsHe": "Hillel Frisch",
+      "visualDescriptionHe": "יועצים אזרחיים ומשפטיים בוחנים מפות תכנון ריקות של תוואי ביטחוני סביב שולחן עבודה.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"(The) Fence or Offense? Testing the Effectiveness of “The Fence” in Judea and Samaria\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "גדר ההפרדה",
+        "מדיניות ביטחון",
+        "מידתיות"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_fence_or_offense_effectiveness_judea_samaria_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_active_representation_street_level_bureaucrats_stereotypes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_active_representation_street_level_bureaucrats_stereotypes_summary_he.html",
+      "usedBy": [
+        "democracy_active_representation_street_level_bureaucrats_stereotypes_summary_he.html"
+      ],
+      "cardTitleHe": "ייצוג פעיל בשירות הציבורי משתנה לפי סטריאוטיפים בתוך המיעוט",
+      "authorsHe": "Sohad Amaria, Einat Lavee, Nissim Cohen",
+      "visualDescriptionHe": "עובדת סוציאלית ואם חד־הורית בשיחת ייעוץ מכבדת במשרד שירותים חברתיים.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Why Active Representation Varies: Cultural Stereotypes and Differential Treatment by Street‐Level Bureaucrats\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ייצוג פעיל",
+        "שירותי רווחה",
+        "אימהות חד־הוריות"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_active_representation_street_level_bureaucrats_stereotypes_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_online_participation_polarized_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_online_participation_polarized_society_summary_he.html",
+      "usedBy": [
+        "democracy_online_participation_polarized_society_summary_he.html"
+      ],
+      "cardTitleHe": "צעירים משתתפים בפוליטיקה מקוונת בזהירות בחברה מקוטבת",
+      "authorsHe": "Limor Ziv, Gal Yavetz",
+      "visualDescriptionHe": "צעירים סביב מחשבים וטלפונים במרחב לימודי, שוקלים תגובה מקוונת בדיון פוליטי.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Navigating the political minefield: strategies for online participation in a polarized society\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "השתתפות מקוונת",
+        "צעירים",
+        "קיטוב"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_online_participation_polarized_society_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_rule_of_law_childrens_weeklies_heroism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_rule_of_law_childrens_weeklies_heroism_summary_he.html",
+      "usedBy": [
+        "democracy_rule_of_law_childrens_weeklies_heroism_summary_he.html"
+      ],
+      "cardTitleHe": "שלטון החוק וגיבורי ילדות בשבועוני הילדים של שנות החמישים",
+      "authorsHe": "Talia Diskin",
+      "visualDescriptionHe": "חוקרת בוחנת שבועוני ילדים ישנים ודפי ארכיון בחדר קריאה היסטורי.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Setting Boundaries to the Rule of Law in Israeli Children’s Weeklies of the 1950s: A Test Case for the Concept of Heroism in Socio-Legal Discourse\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "שלטון החוק",
+        "שבועוני ילדים",
+        "גבורה"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_rule_of_law_childrens_weeklies_heroism_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_journalists_personalization_branding_ideological_positioning_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_journalists_personalization_branding_ideological_positioning_summary_he.html",
+      "usedBy": [
+        "democracy_journalists_personalization_branding_ideological_positioning_summary_he.html"
+      ],
+      "cardTitleHe": "עיתונאים נעשים מותגים אישיים בעידן של קיטוב ופופוליזם",
+      "authorsHe": "Arnon Kedem, Motti Neiger",
+      "visualDescriptionHe": "עיתונאים בחדר חדשות דנים בטלפונים, מחשבים ומסכי מדיה מטושטשים ללא כיתוב.",
+      "semanticDescriptionHe": "הדימוי נוצר במיוחד עבור המאמר \"Journalists’ Personalization: How Self-Promoting, Branding, and Ideological Positioning Redefine Journalistic Practices, Products, and Institutions\" וממחיש את הנושא המרכזי שלו בהקשר אזרחי־דמוקרטי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "עיתונות",
+        "מיתוג אישי",
+        "קיטוב"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-11 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_journalists_personalization_branding_ideological_positioning_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-11",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
     }
   ],
   "topicGraphics": [
