@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-11",
+  "lastUpdated": "2026-06-12",
   "sampleSize": 6,
-  "seed": "2026-06-11-homepage-high-fit",
+  "seed": "2026-06-12-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 198,
+  "highFitPaperCount": 208,
   "paperSlugs": [
-    "democracy_balanced_institutional_quality_growth_summary_he",
-    "democracy_democratic_ideals_participation_social_rights_summary_he",
-    "democracy_political_twittersphere_populist_ideas_israel_summary_he",
-    "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he",
-    "democracy_after_the_storm_the_israeli_supreme_court_and_the_arab_palestinian_minority_in_the_aftermath_o_summary_he",
-    "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he"
+    "democracy_crusades_against_corruption_and_institutionally_induced_strategies_in_the_israeli_supreme_cour_summary_he",
+    "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he",
+    "democracy_impeachment_by_judicial_review_israel_s_odd_system_of_checks_and_balances_summary_he",
+    "democracy_income_inequality_human_capital_accumulation_economic_performance_summary_he",
+    "democracy_active_representation_street_level_bureaucrats_stereotypes_summary_he",
+    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he"
   ]
 }

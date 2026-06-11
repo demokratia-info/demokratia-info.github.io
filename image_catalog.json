@@ -18478,6 +18478,315 @@
       },
       "generatedAt": "2026-06-11",
       "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-11 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_public_communication_science_68_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_public_communication_science_68_countries_summary_he.html",
+      "usedBy": [
+        "democracy_public_communication_science_68_countries_summary_he.html"
+      ],
+      "cardTitleHe": "תקשורת מדעית ציבורית תלויה גם במבנה חברתי־פוליטי",
+      "authorsHe": "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward Maibach, Sabina Mihelj, Dana Harari, Atar Herziger ואחרים",
+      "visualDescriptionHe": "קבוצת אזרחים בחדר מדיה קהילתי דנה במידע מדעי ממקורות שונים סביב שולחן.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על תקשורת מדעית ציבורית, מקורות מידע והשתתפות אזרחית במדינות שונות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "תקשורת מדע",
+        "מידע ציבורי",
+        "מדיה חברתית"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_public_communication_science_68_countries_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.html",
+      "usedBy": [
+        "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.html"
+      ],
+      "cardTitleHe": "התערבויות פסיכולוגיות יכולות לחזק תמיכה בהכללת מיעוטים בפוליטיקה",
+      "authorsHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
+      "visualDescriptionHe": "משתתפים מרקע מגוון יושבים סביב שולחן דיון קהילתי עם פתקים ריקים ומקשיבים זה לזה.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על תמיכה בהכללת מיעוטים בפוליטיקה תחת לחץ מלחמתי ותפיסות איום.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "הכללת מיעוטים",
+        "ייצוג פוליטי",
+        "פסיכולוגיה פוליטית"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_meso_news_spaces_public_private_domains_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_meso_news_spaces_public_private_domains_summary_he.html",
+      "usedBy": [
+        "democracy_meso_news_spaces_public_private_domains_summary_he.html"
+      ],
+      "cardTitleHe": "מרחבי חדשות ביניים משנים את הגבול בין שיחה פרטית לציבורית",
+      "authorsHe": "Neta Kligler-Vilenchik, Ori Tenenboim",
+      "visualDescriptionHe": "משתתפים בחלל קהילתי משתמשים בטלפונים ומחשבים ליד חלון המפריד בין שיחה פרטית לציבורית.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על מרחבי חדשות ביניים, שיתוף חדשות בקבוצות וצורות תקשורת בין הפרטי לציבורי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "מרחבי חדשות",
+        "תקשורת דיגיטלית",
+        "קבוצות וואטסאפ"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_meso_news_spaces_public_private_domains_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.html",
+      "usedBy": [
+        "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.html"
+      ],
+      "cardTitleHe": "משבר פוליטי מתמשך משנה את תחושת החוסן לפי מחנה פוליטי",
+      "authorsHe": "Hadas Marciano, Shaul Kimhi, Yohanan Eshel, Bruria Adini",
+      "visualDescriptionHe": "שתי קבוצות אזרחים יושבות סביב שולחן ארוך בחדר קהילתי עם מרווח ריק ביניהן.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על משבר פוליטי מתמשך, חוסן חברתי וקיטוב בין מחנות בישראל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "חוסן חברתי",
+        "קיטוב פוליטי",
+        "משבר פוליטי"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_democratic_backsliding_potential_civil_servants_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_democratic_backsliding_potential_civil_servants_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_backsliding_potential_civil_servants_summary_he.html"
+      ],
+      "cardTitleHe": "נסיגה דמוקרטית משנה את החלטת הכניסה לשירות הציבורי",
+      "authorsHe": "Reut Marciano, Ilana Shpaizman, Sharon Gilad",
+      "visualDescriptionHe": "מועמדים לשירות הציבורי ממתינים במסדרון מוסדי עם טפסים ריקים ומבטים מהוססים.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על נסיגה דמוקרטית, שירות ציבורי והחלטות כניסה של מועמדים לביורוקרטיה.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "נסיגה דמוקרטית",
+        "שירות ציבורי",
+        "ביורוקרטיה מקצועית"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_democratic_backsliding_potential_civil_servants_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.html",
+      "usedBy": [
+        "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.html"
+      ],
+      "cardTitleHe": "תחושת עמדות חוצות מחנות קשורה לצריכת חדשות פלורליסטית",
+      "authorsHe": "Nitzan Attias, Dana Chudy, Eran Halperin, Meital Balmas",
+      "visualDescriptionHe": "אזרחים סביב שולחן קוראים יחד מקורות חדשות שונים בטלפונים וניירות ללא טקסט קריא.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על עמדות חוצות מחנות, קיטוב וצריכת חדשות פלורליסטית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "קיטוב פוליטי",
+        "עמדות חוצות מחנות",
+        "צריכת חדשות"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.html",
+      "usedBy": [
+        "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.html"
+      ],
+      "cardTitleHe": "כשל מדינתי מקומי אחרי 7 באוקטובר הדגיש את כוח החברה האזרחית",
+      "authorsHe": "Hagai Katz, Benjamin Gidron",
+      "visualDescriptionHe": "מתנדבים במרכז קהילתי מתאמים סיוע סביב שולחן עם קופסאות ומפות ריקות.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על התגייסות חברה אזרחית וכשל מדינתי מקומי לאחר 7 באוקטובר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "חברה אזרחית",
+        "כשל מדינתי",
+        "7 באוקטובר"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_judicial_reform_protest_civic_empowerment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_judicial_reform_protest_civic_empowerment_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_reform_protest_civic_empowerment_summary_he.html"
+      ],
+      "cardTitleHe": "השתתפות במחאה נגד הרפורמה המשפטית נקשרה לתחושת העצמה אזרחית",
+      "authorsHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu, Ricky Cohen",
+      "visualDescriptionHe": "אזרחים מארגנים מחאה סביב שולחן בכיכר עירונית עם שלטים ריקים ומבנה משפטי ברקע.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על מחאה נגד הרפורמה המשפטית, איום נתפס והעצמה אזרחית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "הרפורמה המשפטית",
+        "מחאה אזרחית",
+        "העצמה אזרחית"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_judicial_reform_protest_civic_empowerment_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.html",
+      "usedBy": [
+        "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.html"
+      ],
+      "cardTitleHe": "בזמן מלחמה קשה יותר להבחין בין מידע, מיס־אינפורמציה ותעמולה",
+      "authorsHe": "Nur Givon‐Benjio, Yaniv Reingewertz, Michael L. Gross",
+      "visualDescriptionHe": "משתתפים בסדנת אוריינות מידע בוחנים טלפונים וכרטיסים ריקים בחדר קהילתי מואר.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על מיס־אינפורמציה, תעמולה ואוריינות מידע בזמן מלחמה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "מיס־אינפורמציה",
+        "תעמולה",
+        "מלחמת ישראל–עזה"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.html",
+      "usedBy": [
+        "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מעורבות אזרחית יכולה לחזק צעירים ערבים מודרים בישראל",
+      "authorsHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner, Galit Yanay Ventura",
+      "visualDescriptionHe": "צעירים ומנחים במרכז קהילתי עובדים יחד סביב שולחן עם דפי תכנון ריקים.",
+      "semanticDescriptionHe": "הדימוי נוצר עבור מאמר על מעורבות אזרחית בקרב צעירים ערבים מודרים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "צעירים ערבים",
+        "מעורבות אזרחית",
+        "הדרה חברתית"
+      ],
+      "sourceType": "generated",
+      "sourceUrl": null,
+      "license": null,
+      "reuseGuidance": "Do not reuse for future new papers; created specifically for this paper-page image tuple.",
+      "qualityNotes": "Generated during the 2026-06-12 heartbeat, then center-cropped and processed to 800x600 JPEG for the warm Demokratia civic/documentary article style; no intended readable text, logos, watermarks, UI widgets, weapons, or flags as the main subject.",
+      "fitnessByArticle": {
+        "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.html": "high"
+      },
+      "generatedAt": "2026-06-12",
+      "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
     }
   ],
   "topicGraphics": [

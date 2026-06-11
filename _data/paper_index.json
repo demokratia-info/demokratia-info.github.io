@@ -1,8 +1,307 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 753,
+  "paperCount": 763,
   "papers": [
+    {
+      "slug": "democracy_public_communication_science_68_countries_summary_he",
+      "file": "democracy_public_communication_science_68_countries_summary_he.html",
+      "permalink": "/democracy_public_communication_science_68_countries_summary_he.html",
+      "sortKey": 202606120010,
+      "titleHe": "תקשורת מדעית ציבורית תלויה גם במבנה חברתי־פוליטי",
+      "paperTitle": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
+      "authorsCardHe": "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward Maibach, Sabina Mihelj, Dana Harari, Atar Herziger ואחרים",
+      "sourceAuthors": [
+        "Niels G. Mede",
+        "Viktoria Cologna",
+        "Sebastian Berger",
+        "John C. Besley",
+        "Cameron Brick",
+        "Marina Joubert",
+        "Edward Maibach",
+        "Sabina Mihelj",
+        "Dana Harari",
+        "Atar Herziger"
+      ],
+      "journal": "Science Communication",
+      "dateText": "פורסם אונליין: 21 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1177/10755470251376615",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_communication_science_68_countries_summary_he.jpg",
+        "altHe": "קבוצת אזרחים בחדר מדיה קהילתי דנה במידע מדעי ממקורות שונים סביב שולחן.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Niels G. Mede ועמיתיו מנתחים סקר של 71,922 משיבים ב־68 מדינות על דיאטות מידע מדעי והתנהגות תקשורתית סביב מדע. המאמר מראה כי מדיה חברתית היא מקור מרכזי למידע מדעי ברוב המדינות, וכי תנאים חברתיים־פוליטיים וכלכליים קשורים לדפוסי חשיפה, דיבור ומחאה סביב מדע."
+    },
+    {
+      "slug": "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he",
+      "file": "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.html",
+      "permalink": "/democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.html",
+      "sortKey": 202606120009,
+      "titleHe": "התערבויות פסיכולוגיות יכולות לחזק תמיכה בהכללת מיעוטים בפוליטיקה",
+      "paperTitle": "Legitimizing inclusion: Psychological interventions increase support for minority inclusion in the political game, but less so during wartime",
+      "authorsCardHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
+      "sourceAuthors": [
+        "Lee Aldar",
+        "Ruthie Pliskin",
+        "Yossi Hasson",
+        "Eran Halperin"
+      ],
+      "journal": "Political Psychology",
+      "dateText": "פורסם אונליין: 24 באפריל 2025; בגיליון: פברואר 2026",
+      "doiUrl": "https://doi.org/10.1111/pops.70030",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he.jpg",
+        "altHe": "משתתפים מרקע מגוון יושבים סביב שולחן דיון קהילתי עם פתקים ריקים ומקשיבים זה לזה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson ו-Eran Halperin מציגים התערבויות שנועדו להפחית תפיסות איום ולחזק נורמות של הכללה פוליטית. לפי התקציר, ההתערבויות הגבירו תמיכה בהכללת מיעוטים, אך השפעתן הייתה חלשה יותר בזמן מלחמה."
+    },
+    {
+      "slug": "democracy_meso_news_spaces_public_private_domains_summary_he",
+      "file": "democracy_meso_news_spaces_public_private_domains_summary_he.html",
+      "permalink": "/democracy_meso_news_spaces_public_private_domains_summary_he.html",
+      "sortKey": 202606120008,
+      "titleHe": "מרחבי חדשות ביניים משנים את הגבול בין שיחה פרטית לציבורית",
+      "paperTitle": "Meso News-Spaces and Beyond: News-Related Communication Occurring Between the Public and Private Domains",
+      "authorsCardHe": "Neta Kligler-Vilenchik, Ori Tenenboim",
+      "sourceAuthors": [
+        "Neta Kligler-Vilenchik",
+        "Ori Tenenboim"
+      ],
+      "journal": "Digital Journalism",
+      "dateText": "פורסם אונליין: 9 במאי 2024; בגיליון: 27 במאי 2024",
+      "doiUrl": "https://doi.org/10.1080/21670811.2024.2345201",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_meso_news_spaces_public_private_domains_summary_he.jpg",
+        "altHe": "משתתפים בחלל קהילתי משתמשים בטלפונים ומחשבים ליד חלון המפריד בין שיחה פרטית לציבורית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Neta Kligler-Vilenchik ו-Ori Tenenboim ממסגרים מרחבי תקשורת שנמצאים בין הפרטי לציבורי, כמו קבוצות פייסבוק, מרחבי X, וואטסאפ, טלגרם ופלטפורמות דומות. המאמר מדגיש שמרחבים אלה מאפשרים ייצור ושיתוף חדשות לקהל מוגבל, ולכן הם משנים את האופן שבו אזרחים נחשפים למידע פוליטי."
+    },
+    {
+      "slug": "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he",
+      "file": "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.html",
+      "permalink": "/democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.html",
+      "sortKey": 202606120007,
+      "titleHe": "משבר פוליטי מתמשך משנה את תחושת החוסן לפי מחנה פוליטי",
+      "paperTitle": "Impact of prolonged social crisis on resilience and coping indicators",
+      "authorsCardHe": "Hadas Marciano, Shaul Kimhi, Yohanan Eshel, Bruria Adini",
+      "sourceAuthors": [
+        "Hadas Marciano",
+        "Shaul Kimhi",
+        "Yohanan Eshel",
+        "Bruria Adini"
+      ],
+      "journal": "PLOS ONE",
+      "dateText": "פורסם אונליין: 1 באוגוסט 2024",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0305542",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he.jpg",
+        "altHe": "שתי קבוצות אזרחים יושבות סביב שולחן ארוך בחדר קהילתי עם מרווח ריק ביניהן.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Hadas Marciano, Shaul Kimhi, Yohanan Eshel ו-Bruria Adini מנתחים שלוש מדידות שנערכו לפני הבחירות של אוקטובר 2022, לאחר הקמת הממשלה, ובאוגוסט 2023. לפי התקציר, חוסן חברתי עלה בקרב מצביעי הקואליציה וירד בקרב מצביעי האופוזיציה, לצד הבדלים בתקווה, מצוקה ותחושת סכנה."
+    },
+    {
+      "slug": "democracy_democratic_backsliding_potential_civil_servants_summary_he",
+      "file": "democracy_democratic_backsliding_potential_civil_servants_summary_he.html",
+      "permalink": "/democracy_democratic_backsliding_potential_civil_servants_summary_he.html",
+      "sortKey": 202606120006,
+      "titleHe": "נסיגה דמוקרטית משנה את החלטת הכניסה לשירות הציבורי",
+      "paperTitle": "How Democratic Backsliding Shapes the Entry, Non‐Entry, and Waiting of Potential Civil Servants",
+      "authorsCardHe": "Reut Marciano, Ilana Shpaizman, Sharon Gilad",
+      "sourceAuthors": [
+        "Reut Marciano",
+        "Ilana Shpaizman",
+        "Sharon Gilad"
+      ],
+      "journal": "Public Administration Review",
+      "dateText": "פורסם אונליין: 28 במאי 2026",
+      "doiUrl": "https://doi.org/10.1111/puar.70140",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_backsliding_potential_civil_servants_summary_he.jpg",
+        "altHe": "מועמדים לשירות הציבורי ממתינים במסדרון מוסדי עם טפסים ריקים ומבטים מהוססים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Reut Marciano, Ilana Shpaizman ו-Sharon Gilad משתמשות בראיונות עומק בישראל כדי להרחיב את מודל הירשמן אל החלטות כניסה, אי־כניסה והמתנה של מועמדים לשירות הציבורי. לפי התקציר, התקפות על מקצועיות השירות ועל ערכים ליברליים־דמוקרטיים משפיעות גם על מאגר המגויסים העתידי."
+    },
+    {
+      "slug": "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he",
+      "file": "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.html",
+      "permalink": "/democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.html",
+      "sortKey": 202606120005,
+      "titleHe": "תחושת עמדות חוצות מחנות קשורה לצריכת חדשות פלורליסטית",
+      "paperTitle": "The illusion of political attitudes: perceived (and not actual) cross-cutting attitudes are associated with pluralistic news consumption",
+      "authorsCardHe": "Nitzan Attias, Dana Chudy, Eran Halperin, Meital Balmas",
+      "sourceAuthors": [
+        "Nitzan Attias",
+        "Dana Chudy",
+        "Eran Halperin",
+        "Meital Balmas"
+      ],
+      "journal": "Frontiers in Communication",
+      "dateText": "פורסם אונליין: 20 במאי 2026",
+      "doiUrl": "https://doi.org/10.3389/fcomm.2026.1792815",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he.jpg",
+        "altHe": "אזרחים סביב שולחן קוראים יחד מקורות חדשות שונים בטלפונים וניירות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Nitzan Attias, Dana Chudy, Eran Halperin ו-Meital Balmas מנתחים נתוני סקר משתי מדינות מקוטבות ומבחינים בין עמדות חוצות בפועל לבין עמדות חוצות נתפסות. לפי התקציר, משתתפים רבים טעו בהערכת מבנה עמדותיהם, והתפיסה הסובייקטיבית הייתה קשורה לצריכת חדשות פלורליסטית."
+    },
+    {
+      "slug": "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he",
+      "file": "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.html",
+      "permalink": "/democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.html",
+      "sortKey": 202606120004,
+      "titleHe": "כשל מדינתי מקומי אחרי 7 באוקטובר הדגיש את כוח החברה האזרחית",
+      "paperTitle": "Localized State Failure and Civil Society Mobilization in Israel After 7 October",
+      "authorsCardHe": "Hagai Katz, Benjamin Gidron",
+      "sourceAuthors": [
+        "Hagai Katz",
+        "Benjamin Gidron"
+      ],
+      "journal": "World",
+      "dateText": "פורסם אונליין: 11 במאי 2026",
+      "doiUrl": "https://doi.org/10.3390/world7050081",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he.jpg",
+        "altHe": "מתנדבים במרכז קהילתי מתאמים סיוע סביב שולחן עם קופסאות ומפות ריקות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Hagai Katz ו-Benjamin Gidron מיישמים מסגרת של State-in-Society על ישראל אחרי 7 באוקטובר, ומתבססים על ראיונות עם 19 מובילי חברה אזרחית מ־12 ארגונים בינואר 2024. לפי התקציר, המחקר בוחן החלפה מקיפה של פונקציות מדינה בידי ארגונים אזרחיים ואת ההשלכות של מצב כזה."
+    },
+    {
+      "slug": "democracy_judicial_reform_protest_civic_empowerment_summary_he",
+      "file": "democracy_judicial_reform_protest_civic_empowerment_summary_he.html",
+      "permalink": "/democracy_judicial_reform_protest_civic_empowerment_summary_he.html",
+      "sortKey": 202606120003,
+      "titleHe": "השתתפות במחאה נגד הרפורמה המשפטית נקשרה לתחושת העצמה אזרחית",
+      "paperTitle": "Empowerment amidst turmoil, the association between protest participation against the 2023 Israeli judicial reform, individual perceived threats, and civic empowerment (self-efficacy): a cross-sectional online survey",
+      "authorsCardHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu, Ricky Cohen",
+      "sourceAuthors": [
+        "Anat Gesser-Edelsburg",
+        "Rana Hijazi",
+        "Ester Eliyahu",
+        "Ricky Cohen"
+      ],
+      "journal": "Frontiers in Political Science",
+      "dateText": "פורסם אונליין: 1 באפריל 2026",
+      "doiUrl": "https://doi.org/10.3389/fpos.2026.1650916",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_reform_protest_civic_empowerment_summary_he.jpg",
+        "altHe": "אזרחים מארגנים מחאה סביב שולחן בכיכר עירונית עם שלטים ריקים ומבנה משפטי ברקע.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu ו-Ricky Cohen מנתחות סקר מקוון חתכי על השתתפות במחאות 2023 נגד הרפורמה המשפטית, איומים נתפסים והעצמה אזרחית. התקציר ממסגר מחאה כפעולה קולקטיבית שיכולה לחזק חוללות עצמית מול תחושת איום."
+    },
+    {
+      "slug": "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he",
+      "file": "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.html",
+      "permalink": "/democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.html",
+      "sortKey": 202606120002,
+      "titleHe": "בזמן מלחמה קשה יותר להבחין בין מידע, מיס־אינפורמציה ותעמולה",
+      "paperTitle": "Susceptibility to misinformation and propaganda during wartime: Evidence from the Israel‐Gaza war",
+      "authorsCardHe": "Nur Givon‐Benjio, Yaniv Reingewertz, Michael L. Gross",
+      "sourceAuthors": [
+        "Nur Givon‐Benjio",
+        "Yaniv Reingewertz",
+        "Michael L. Gross"
+      ],
+      "journal": "Political Psychology",
+      "dateText": "פורסם אונליין: 30 במרץ 2026; בגיליון: יוני 2026",
+      "doiUrl": "https://doi.org/10.1111/pops.70127",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he.jpg",
+        "altHe": "משתתפים בסדנת אוריינות מידע בוחנים טלפונים וכרטיסים ריקים בחדר קהילתי מואר.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Nur Givon-Benjio, Yaniv Reingewertz ו-Michael L. Gross מנתחים אתגר של מידע מטעה ותעמולה בזמן מלחמה. לפי התקציר, טכנולוגיות דיגיטליות יוצרות מערכת מידע מורכבת שבה קשה להבחין בין אמיתי למזויף, במיוחד בתקופה של עימות אלים."
+    },
+    {
+      "slug": "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he",
+      "file": "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.html",
+      "permalink": "/democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.html",
+      "sortKey": 202606120001,
+      "titleHe": "מעורבות אזרחית יכולה לחזק צעירים ערבים מודרים בישראל",
+      "paperTitle": "Engaging for change: the influence of civic engagement on at-risk Arab minority youth in Israel",
+      "authorsCardHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner, Galit Yanay Ventura",
+      "sourceAuthors": [
+        "Serene Dakak-Abed Al Wahad",
+        "Lana J. Jeries Loulou",
+        "Limor Goldner",
+        "Galit Yanay Ventura"
+      ],
+      "journal": "Frontiers in Psychology",
+      "dateText": "פורסם אונליין: 20 באפריל 2026",
+      "doiUrl": "https://doi.org/10.3389/fpsyg.2026.1711399",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he.jpg",
+        "altHe": "צעירים ומנחים במרכז קהילתי עובדים יחד סביב שולחן עם דפי תכנון ריקים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-12",
+      "dateModified": "2026-06-12",
+      "summaryHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner ו-Galit Yanay Ventura מנתחות תוכנית מעורבות אזרחית בקרב צעירים ערבים מודרים בישראל. לפי התקציר, המחקר מתמקד בקבוצה החווה אפליה מערכתית, ניכור פוליטי ופערים חברתיים־כלכליים, ובוחן כיצד פעולה אזרחית מאורגנת עשויה להשפיע עליה."
+    },
     {
       "slug": "democracy_silencing_fellow_citizens_scale_summary_he",
       "file": "democracy_silencing_fellow_citizens_scale_summary_he.html",
