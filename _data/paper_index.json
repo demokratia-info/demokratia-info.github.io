@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 763,
+  "paperCount": 762,
   "papers": [
     {
       "slug": "democracy_public_communication_science_68_countries_summary_he",
@@ -16560,7 +16560,7 @@
         "Ismael Abu-Saad",
         "Avi Kaplan"
       ],
-      "journal": "",
+      "journal": "Interchange",
       "dateText": "פורסם: 2004",
       "doiUrl": "https://doi.org/10.1007/bf02698890",
       "topics": [
@@ -16572,7 +16572,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-12",
       "summaryHe": "המאמר מנתח סקר בקרב 529 תלמידי תיכון בדואים בנגב ומוצא זהות ערבית-פלסטינית בולטת לצד אי-ודאות ביחס להשתייכות אזרחית ישראלית. הוא טוען שהניסיון לדה-ערביזציה נכשל משום שמבנה הזהות הלאומית בישראל אינו מעניק מקום שווה לתרבות ולשאיפות הקולקטיביות של אזרחיה הערבים."
     },
     {
@@ -17321,8 +17321,8 @@
       "sourceAuthors": [
         "Natan Lerner"
       ],
-      "journal": "",
-      "dateText": "",
+      "journal": "Patterns of Prejudice",
+      "dateText": "כרך 9, גיליון 6, נובמבר 1975, עמ׳ 1-4; פורסם אונליין: 28 במאי 2010",
       "doiUrl": "https://doi.org/10.1080/0031322x.1975.9969272",
       "topics": [
         "rights-equality-minorities"
@@ -17333,7 +17333,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-12",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {
@@ -17648,32 +17648,6 @@
       "datePublished": "2026-05-21",
       "dateModified": "2026-06-09",
       "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות."
-    },
-    {
-      "slug": "democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he",
-      "file": "democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.html",
-      "permalink": "/democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.html",
-      "sortKey": 202605210072,
-      "titleHe": "כיצד המאמר בוחן את היחס בין ביטחון, כוח ושלטון החוק?",
-      "paperTitle": "The One State Condition: Occupation and Democracy in Israel / Palestine.",
-      "authorsCardHe": "Ramazan ODUNCU",
-      "sourceAuthors": [
-        "Ramazan ODUNCU"
-      ],
-      "journal": "",
-      "dateText": "",
-      "doiUrl": "https://doi.org/10.26513/tocd.553281",
-      "topics": [
-        "democratic-backsliding-populism"
-      ],
-      "image": {
-        "src": "html_qa/democracy_the_one_state_condition_occupation_and_democracy_in_israel_palestine_summary_he.jpg",
-        "altHe": "איור עריכתי: כיצד המאמר בוחן את היחס בין ביטחון, כוח ושלטון החוק?",
-        "fitness": "standard"
-      },
-      "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
-      "summaryHe": "סקירת הספר מתארת את טענת אזולאי ואופיר על הכיבוש מאז 1967, הרחבת ההתנחלויות, שליטה צבאית ופגיעה בזכויות פלסטינים שאינם אזרחים."
     },
     {
       "slug": "democracy_citizenship_and_democracy_in_israel_summary_he",

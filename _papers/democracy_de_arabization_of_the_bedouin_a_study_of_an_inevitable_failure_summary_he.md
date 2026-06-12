@@ -11,7 +11,7 @@
   "authorsCardHe": "Yossi Yonah, Ismael Abu-Saad, Avi Kaplan",
   "paperTitle": "De-arabization of the Bedouin: A study of an inevitable failure",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/yyona/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Yonah</a>, <a href=\"https://orcid.org/0000-0003-2601-7188\" target=\"_blank\" rel=\"noopener noreferrer\">Ismael Abu-Saad</a>, <a href=\"https://orcid.org/0000-0002-2898-0085\" target=\"_blank\" rel=\"noopener noreferrer\">Avi Kaplan</a>",
-  "journal": "",
+  "journal": "Interchange",
   "dateText": "פורסם: 2004",
   "doiUrl": "https://doi.org/10.1007/bf02698890",
   "doiLabel": "https://doi.org/10.1007/bf02698890",
@@ -66,8 +66,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-12",
+  "lastUpdatedHe": "12 ביוני 2026",
   "oneLinerHtml": "המאמר מראה שהניסיון לנתק צעירים בדואים מזהות ערבית-פלסטינית נכשל, ושכישלון זה קשור למתח בין מדינה יהודית-ציונית לבין שוויון אזרחי מלא לערבים בישראל.",
   "sections": [
     {

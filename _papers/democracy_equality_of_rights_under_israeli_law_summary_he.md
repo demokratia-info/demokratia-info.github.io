@@ -11,8 +11,8 @@
   "authorsCardHe": "Natan Lerner",
   "paperTitle": "Equality of rights under Israeli law",
   "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/lerner\" target=\"_blank\" rel=\"noopener noreferrer\">Natan Lerner</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Patterns of Prejudice",
+  "dateText": "כרך 9, גיליון 6, נובמבר 1975, עמ׳ 1-4; פורסם אונליין: 28 במאי 2010",
   "doiUrl": "https://doi.org/10.1080/0031322x.1975.9969272",
   "doiLabel": "https://doi.org/10.1080/0031322x.1975.9969272",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-12",
+  "lastUpdatedHe": "12 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
