@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-11",
+  "lastUpdated": "2026-06-13",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -18766,6 +18766,274 @@
       },
       "generatedAt": "2026-06-12",
       "sourcePromptSummary": "Warm editorial civic image generated for this specific paper topic during the 2026-06-12 heartbeat."
+    },
+    {
+      "file": "html_qa/democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.html",
+      "usedBy": [
+        "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.html"
+      ],
+      "cardTitleHe": "נסיגה דמוקרטית פועלת בכמה חזיתות בעת ובעונה אחת",
+      "authorsHe": "Liron Lavi, Yael Shomer, Gayil Talshir",
+      "visualDescriptionHe": "חדר מחקר אזרחי המשווה בין כמה חזיתות של שחיקה דמוקרטית.",
+      "semanticDescriptionHe": "המאמר עוסק בנסיגה דמוקרטית פועלת בכמה חזיתות בעת ובעונה אחת, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "multiple",
+        "fronts",
+        "democratic",
+        "backsliding",
+        "israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.html"
+      ],
+      "cardTitleHe": "מבט אנתרופולוגי מבפנים על איום הקיצוניות הימנית על הדמוקרטיה בישראל",
+      "authorsHe": "Moshe Shokeid",
+      "visualDescriptionHe": "שולחן עבודה אתנוגרפי מול כיכר ציבורית בזמן משבר דמוקרטי.",
+      "semanticDescriptionHe": "המאמר עוסק במבט אנתרופולוגי מבפנים על איום הקיצוניות הימנית על הדמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "democracy",
+        "israeli",
+        "democracy",
+        "threatened",
+        "right",
+        "wing"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.html",
+      "usedBy": [
+        "democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.html"
+      ],
+      "cardTitleHe": "עיתונות מקצועית נבחנת מחדש בתוך תרבות הטיקטוק",
+      "authorsHe": "Tal Laor",
+      "visualDescriptionHe": "חדר חדשות מקצועי המתמודד עם הפצת חדשות בפלטפורמת וידאו קצר.",
+      "semanticDescriptionHe": "המאמר עוסק בעיתונות מקצועית נבחנת מחדש בתוך תרבות הטיקטוק, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "breaking",
+        "newstainment",
+        "professional",
+        "journalism",
+        "tiktok"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.html",
+      "usedBy": [
+        "democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.html"
+      ],
+      "cardTitleHe": "רפורמת החינוך לגיל הרך בישראל נבחנת דרך זכויות הילד",
+      "authorsHe": "Yaara Shilo, Iris BenDavid-Hadar",
+      "visualDescriptionHe": "מפגש תכנון מדיניות חינוך לגיל הרך המשלב טיפול, תקצוב וזכויות ילדים.",
+      "semanticDescriptionHe": "המאמר עוסק ברפורמת החינוך לגיל הרך בישראל נבחנת דרך זכויות הילד, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "democracy",
+        "early",
+        "childhood",
+        "education",
+        "policy",
+        "childrens"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.html",
+      "usedBy": [
+        "democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.html"
+      ],
+      "cardTitleHe": "הרשתות החברתיות נעשות זירת מאבק על משמעות האלימות בחברה הערבית בישראל",
+      "authorsHe": "Nissim Katz",
+      "visualDescriptionHe": "חדר מדיה קהילתי שבו דנים בשיח דיגיטלי על אלימות והזנחת מדינה.",
+      "semanticDescriptionHe": "המאמר עוסק בהרשתות החברתיות נעשות זירת מאבק על משמעות האלימות בחברה הערבית בישראל, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "medium",
+        "murder",
+        "palestinian",
+        "arab",
+        "social"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.html",
+      "usedBy": [
+        "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אמון מוסדי מעצב את תחושת הביטחון של הורים בבתי ספר ערביים בישראל",
+      "authorsHe": "Waleed Dallasheh",
+      "visualDescriptionHe": "מפגש הורים וצוות בבית ספר סביב אמון, בטיחות ושיתוף פעולה.",
+      "semanticDescriptionHe": "המאמר עוסק באמון מוסדי מעצב את תחושת הביטחון של הורים בבתי ספר ערביים בישראל, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "institutional",
+        "trust",
+        "parental",
+        "safety",
+        "arab"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.html",
+      "usedBy": [
+        "democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.html"
+      ],
+      "cardTitleHe": "צעירות וצעירים ערבים שיוצאים מהשמה חוץ־ביתית מתמודדים עם סיכון, אובדן ושייכות חסרה",
+      "authorsHe": "Samah Mahamid, Haneen Karram-Elias, Yafit Sulimani-Aidan",
+      "visualDescriptionHe": "חדר ליווי חברתי לעוזבי השמה סביב תכנון חיים, דיור ושייכות קהילתית.",
+      "semanticDescriptionHe": "המאמר עוסק בצעירות וצעירים ערבים שיוצאים מהשמה חוץ־ביתית מתמודדים עם סיכון, אובדן ושייכות חסרה, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "girl",
+        "from",
+        "residential",
+        "care",
+        "care"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_childrens_rights_needs_war_adolescents_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_childrens_rights_needs_war_adolescents_israel_summary_he.html",
+      "usedBy": [
+        "democracy_childrens_rights_needs_war_adolescents_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות ונצרכים של מתבגרים בזמן מלחמה נבחנים דרך קולם שלהם",
+      "authorsHe": "Yonat Rum, Erez Milsthen, Heba F. Zedan, Tali Gal",
+      "visualDescriptionHe": "חדר קהילתי שבו מתבגרים מבטאים צרכים וזכויות בזמן מלחמה דרך סקר אנונימי.",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות ונצרכים של מתבגרים בזמן מלחמה נבחנים דרך קולם שלהם, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "childrens",
+        "rights",
+        "needs",
+        "adolescents",
+        "israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.html",
+      "usedBy": [
+        "democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.html"
+      ],
+      "cardTitleHe": "נימוקי בתי הדין הצבאיים חושפים מדוע נאכף המשפט ההומניטרי",
+      "authorsHe": "Liron A. Libman, Amichai Cohen",
+      "visualDescriptionHe": "ארכיון משפטי של בתי דין צבאיים סביב נימוקים, אחריות ואכיפת משפט הומניטרי.",
+      "semanticDescriptionHe": "המאמר עוסק בנימוקי בתי הדין הצבאיים חושפים מדוע נאכף המשפט ההומניטרי, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "reason",
+        "giving",
+        "violations",
+        "israeli",
+        "court"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-13-nightly",
+      "primaryArticle": "democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.html",
+      "usedBy": [
+        "democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.html"
+      ],
+      "cardTitleHe": "למידה מרחוק חשפה אי־שוויון דיגיטלי בקרב סטודנטים ערבים בישראל",
+      "authorsHe": "Nissim Katz",
+      "visualDescriptionHe": "למידה מרחוק בבית שמדגישה חיבור בין טכנולוגיה, תנאי חיים ופערים חברתיים.",
+      "semanticDescriptionHe": "המאמר עוסק בלמידה מרחוק חשפה אי־שוויון דיגיטלי בקרב סטודנטים ערבים בישראל, וממקם את הדיון בתוך שאלות של דמוקרטיה ליברלית, זכויות, מוסדות ציבוריים והגבלת כוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "digital",
+        "inequality",
+        "arab",
+        "students",
+        "remote"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-13 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
     }
   ],
   "topicGraphics": [

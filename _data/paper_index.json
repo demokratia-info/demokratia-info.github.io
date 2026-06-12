@@ -1,8 +1,285 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 762,
+  "paperCount": 772,
   "papers": [
+    {
+      "slug": "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he",
+      "file": "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.html",
+      "permalink": "/democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.html",
+      "sortKey": 202606130010,
+      "titleHe": "נסיגה דמוקרטית פועלת בכמה חזיתות בעת ובעונה אחת",
+      "paperTitle": "The multiple fronts of democratic backsliding: evidence from Israel, Hungary, and India",
+      "authorsCardHe": "Liron Lavi, Yael Shomer, Gayil Talshir",
+      "sourceAuthors": [
+        "Liron Lavi",
+        "Yael Shomer",
+        "Gayil Talshir"
+      ],
+      "journal": "Contemporary Politics, 1-18",
+      "dateText": "פורסם אונליין: 30 במאי 2026",
+      "doiUrl": "https://doi.org/10.1080/13569775.2026.2675024",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.jpg",
+        "altHe": "חדר מחקר אזרחי עם שולחנות, תיקי מסמכים ומפת השוואה בין כמה זירות של נסיגה דמוקרטית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "לירון לביא, יעל שומר וגייל טלשיר מציבות את ישראל לצד הונגריה והודו כמקרי מבחן לנסיגה דמוקרטית עכשווית. המסגור ההשוואתי מדגיש שהסכנה לדמוקרטיה ליברלית נוצרת מהצטברות צעדים בזירות שונות: שינוי כללי משחק, החלשת ביקורת, קיטוב ציבורי ולחץ על מוסדות מפקחים."
+    },
+    {
+      "slug": "democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he",
+      "file": "democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.html",
+      "permalink": "/democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.html",
+      "sortKey": 202606130009,
+      "titleHe": "מבט אנתרופולוגי מבפנים על איום הקיצוניות הימנית על הדמוקרטיה בישראל",
+      "paperTitle": "Israeli democracy threatened under right‐wing extremists: A “native anthropologist's” perspective from 2023",
+      "authorsCardHe": "Moshe Shokeid",
+      "sourceAuthors": [
+        "Moshe Shokeid"
+      ],
+      "journal": "Anthropology and Humanism, 49(2), 105-115",
+      "dateText": "פורסם אונליין: 25 בינואר 2024",
+      "doiUrl": "https://doi.org/10.1111/anhu.12506",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_democracy_threatened_right_wing_extremists_native_anthropologist_summary_he.jpg",
+        "altHe": "שולחן עבודה של חוקר עם מחברות שדה וגזרי עיתונות מול כיכר ציבורית מטושטשת.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "משה שוקד כותב מסה נרטיבית ואימפרסיוניסטית על תמורות מרכזיות בחברה הישראלית דרך עדשת התבוננות אתנוגרפית. לפי תקציר המקור, המאמר בוחן את גבולות העמדה האנתרופולוגית כאשר החוקר אינו רק צופה מן הצד אלא גם אזרח החווה את השבר הדמוקרטי מבפנים."
+    },
+    {
+      "slug": "democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he",
+      "file": "democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.html",
+      "permalink": "/democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.html",
+      "sortKey": 202606130008,
+      "titleHe": "עיתונות מקצועית נבחנת מחדש בתוך תרבות הטיקטוק",
+      "paperTitle": "Breaking Newstainment: Professional Journalism and TikTok Platform Culture, Evidence from the Israeli Media System",
+      "authorsCardHe": "Tal Laor",
+      "sourceAuthors": [
+        "Tal Laor"
+      ],
+      "journal": "Journalism and Media, 7(2), 79",
+      "dateText": "פורסם: 8 באפריל 2026",
+      "doiUrl": "https://doi.org/10.3390/journalmedia7020079",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_breaking_newstainment_professional_journalism_tiktok_israeli_media_summary_he.jpg",
+        "altHe": "חדר חדשות עם מצלמה, טלפון אנכי ומסכי וידאו מטושטשים שמדגישים חדשות בפלטפורמות קצרות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "טל לאור מציג מחקר איכותני על עיתונאים הפועלים במערכת התקשורת הישראלית ומשתמשים בטיקטוק להפצת תוכן חדשותי. לפי תקציר המקור, המאמר מתמקד בתפיסת הפלטפורמה כמרחב עיתונאי, באתגרים מקצועיים ובדרכים שבהן עיתונאים מנסים לשמר אחריות ציבורית בתוך תרבות פלטפורמה בידורית."
+    },
+    {
+      "slug": "democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he",
+      "file": "democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.html",
+      "permalink": "/democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.html",
+      "sortKey": 202606130007,
+      "titleHe": "רפורמת החינוך לגיל הרך בישראל נבחנת דרך זכויות הילד",
+      "paperTitle": "Early Childhood Education Policy and Children Rights: Examining the Israeli Reform",
+      "authorsCardHe": "Yaara Shilo, Iris BenDavid-Hadar",
+      "sourceAuthors": [
+        "Yaara Shilo",
+        "Iris BenDavid-Hadar"
+      ],
+      "journal": "Early Childhood Education Journal",
+      "dateText": "פורסם אונליין: 31 במרץ 2026",
+      "doiUrl": "https://doi.org/10.1007/s10643-026-02120-z",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he.jpg",
+        "altHe": "שולחן תכנון מדיניות לגיל הרך עם קוביות משחק, כיסאות ילדים ומסמכי תקציב לא קריאים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "יערה שילה ואיריס בן דוד-הדר בוחנות את המעבר שבו מעונות יום לגילאי אפס עד שלוש עברו ממסגור של תמיכה באימהות עובדות אל מסגור חינוכי רחב יותר. תקציר המקור מדגיש שהרפורמה מחייבת השקעה בתשתיות, בהכשרת צוות ובסיוע כלכלי למשפחות, כדי שמדיניות הגיל הרך תשרת ילדים על בסיס צורך ולא על בסיס העדפות אוכלוסייה צרות."
+    },
+    {
+      "slug": "democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he",
+      "file": "democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.html",
+      "permalink": "/democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.html",
+      "sortKey": 202606130006,
+      "titleHe": "הרשתות החברתיות נעשות זירת מאבק על משמעות האלימות בחברה הערבית בישראל",
+      "paperTitle": "\"The Medium is the Murder\": Discourse, Power, and the Contested Reality of Violence on Palestinian-Arab Social Media in Israel",
+      "authorsCardHe": "Nissim Katz",
+      "sourceAuthors": [
+        "Nissim Katz"
+      ],
+      "journal": "International Journal of Media and Networks, 4(1), 01-08",
+      "dateText": "פורסם: 23 במרץ 2026",
+      "doiUrl": "https://doi.org/10.33140/ijmn.04.01.03",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_medium_is_the_murder_palestinian_arab_social_media_violence_summary_he.jpg",
+        "altHe": "קבוצת צעירים בחדר מדיה קהילתי דנה בסרטונים מטושטשים ובמשבר אלימות בלי להציג אלימות ישירה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "נסים כץ משתמש בניתוח שיח ביקורתי מולטימודלי כדי לבחון סרטונים ויראליים על משבר האלימות בחברה הפלסטינית־ערבית בישראל. לפי תקציר המאמר, הפלטפורמות יוצרות מרחב נגד־ציבורי שבו האלימות מתפרשת כתוצאה של הזנחת מדינה, אך גם עלולות להאדיר גבריות עבריינית ולשמר גבולות פטריארכליים פנימיים."
+    },
+    {
+      "slug": "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he",
+      "file": "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.html",
+      "permalink": "/democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.html",
+      "sortKey": 202606130005,
+      "titleHe": "אמון מוסדי מעצב את תחושת הביטחון של הורים בבתי ספר ערביים בישראל",
+      "paperTitle": "Institutional Trust and Parental Safety Appraisal in a National Minority Context: Evidence from Arab Schools in Israel",
+      "authorsCardHe": "Waleed Dallasheh",
+      "sourceAuthors": [
+        "Waleed Dallasheh"
+      ],
+      "journal": "Journal of Posthumanism, 6(3), 50-72",
+      "dateText": "פורסם: 10 במרץ 2026",
+      "doiUrl": "https://doi.org/10.63332/joph.v6i3.4055",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he.jpg",
+        "altHe": "הורים וצוות בית ספר יושבים בחדר ייעוץ ודנים בבטיחות ילדים ובאמון מוסדי.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "וליד דלאשה בוחן תפיסות הורים בבתי ספר ערביים בישראל מתוך מודל מוסדי־יחסי. לפי תקציר המקור, המחקר כולל 666 הורים ומראה שאמון מוסדי ומדדי שילוב של ילדים קשורים להערכת בטיחות, לצד תשומת לב לנפגעות חברתית כמו הדרה והתנהגות מינית פוגענית."
+    },
+    {
+      "slug": "democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he",
+      "file": "democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.html",
+      "permalink": "/democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.html",
+      "sortKey": 202606130004,
+      "titleHe": "צעירות וצעירים ערבים שיוצאים מהשמה חוץ־ביתית מתמודדים עם סיכון, אובדן ושייכות חסרה",
+      "paperTitle": "“They Call Me the Girl from Residential Care”: Risks and Stressors of Care Leavers in Arab Society in Israel",
+      "authorsCardHe": "Samah Mahamid, Haneen Karram-Elias, Yafit Sulimani-Aidan",
+      "sourceAuthors": [
+        "Samah Mahamid",
+        "Haneen Karram-Elias",
+        "Yafit Sulimani-Aidan"
+      ],
+      "journal": "Child and Adolescent Social Work Journal",
+      "dateText": "פורסם אונליין: 7 במרץ 2026",
+      "doiUrl": "https://doi.org/10.1007/s10560-026-01085-7",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_girl_from_residential_care_care_leavers_arab_society_israel_summary_he.jpg",
+        "altHe": "צעיר ומלווה חברתי בוחנים תיק תכנון חיים עם מפת קהילה ומפתחות על שולחן.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "סמאח מחאמיד, חנין כרם-אליאס ויפעת סולימני-אידן מנתחות ראיונות חצי־מובנים עם 18 עוזבי השמה ערבים בישראל. לפי תקציר המקור, שלוש התמות המרכזיות הן מחזורי סיכון משפחתיים, ילדות תחת השמה, ואובדן ושייכות חסרה לאחר היציאה מן המסגרת."
+    },
+    {
+      "slug": "democracy_childrens_rights_needs_war_adolescents_israel_summary_he",
+      "file": "democracy_childrens_rights_needs_war_adolescents_israel_summary_he.html",
+      "permalink": "/democracy_childrens_rights_needs_war_adolescents_israel_summary_he.html",
+      "sortKey": 202606130003,
+      "titleHe": "זכויות ונצרכים של מתבגרים בזמן מלחמה נבחנים דרך קולם שלהם",
+      "paperTitle": "Children’s rights and needs during war: the case of adolescents in Israel",
+      "authorsCardHe": "Yonat Rum, Erez Milsthen, Heba F. Zedan, Tali Gal",
+      "sourceAuthors": [
+        "Yonat Rum",
+        "Erez Milsthen",
+        "Heba F. Zedan",
+        "Tali Gal"
+      ],
+      "journal": "Frontiers in Psychology, 17, 1719621",
+      "dateText": "פורסם: 2 במרץ 2026",
+      "doiUrl": "https://doi.org/10.3389/fpsyg.2026.1719621",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_childrens_rights_needs_war_adolescents_israel_summary_he.jpg",
+        "altHe": "מתבגרים לא מזוהים ממלאים כרטיסי סקר בחדר קהילתי עם יועצת ומסמכי מידע ריקים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "יונת רום, ארז מילסתן, הבה פ. זידאן וטלי גל משלבות ניתוח של אמנת זכויות הילד עם בחינה אמפירית של דיווחי מתבגרים בישראל. לפי תקציר המקור, המחקר בודק פערים בין נקודת המבט של מתבגרים לזו של הוריהם, וכן הבדלים בין קבוצות דמוגרפיות באמצעות סקרים בעברית ובערבית."
+    },
+    {
+      "slug": "democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he",
+      "file": "democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.html",
+      "permalink": "/democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.html",
+      "sortKey": 202606130002,
+      "titleHe": "נימוקי בתי הדין הצבאיים חושפים מדוע נאכף המשפט ההומניטרי",
+      "paperTitle": "Why do we enforce the law against IHL violations? Reason-giving in Israeli court-martial judgments",
+      "authorsCardHe": "Liron A. Libman, Amichai Cohen",
+      "sourceAuthors": [
+        "Liron A. Libman",
+        "Amichai Cohen"
+      ],
+      "journal": "The Military Law and the Law of War Review, 63(2), 161-195",
+      "dateText": "פורסם: 1 במרץ 2026",
+      "doiUrl": "https://doi.org/10.4337/mllwr.2025.01.02",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reason_giving_ihl_violations_israeli_court_martial_judgments_summary_he.jpg",
+        "altHe": "שולחן ארכיון משפטי עם תיקי בית דין צבאי וחוקרים הבוחנים נימוקים בפסקי דין.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "לירון א. ליבמן ועמיחי כהן בוחנים כיצד בתי דין צבאיים בישראל מנמקים אכיפה של הפרות משפט הומניטרי בין־לאומי. לפי תקציר המקור, המחקר מבוסס על ניתוח תוכן שיטתי של 60 שנות פסקי דין ובודק את שכיחות הערכים המוזכרים, כגון דאגות הומניטריות לעומת שליטה בכוח הצבאי."
+    },
+    {
+      "slug": "democracy_digital_inequality_arab_students_remote_learning_israel_summary_he",
+      "file": "democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.html",
+      "permalink": "/democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.html",
+      "sortKey": 202606130001,
+      "titleHe": "למידה מרחוק חשפה אי־שוויון דיגיטלי בקרב סטודנטים ערבים בישראל",
+      "paperTitle": "Digital inequality in context: A socio-technical analysis of Arab students’ remote learning in Israel",
+      "authorsCardHe": "Nissim Katz",
+      "sourceAuthors": [
+        "Nissim Katz"
+      ],
+      "journal": "Asia Pacific Journal of Education and Society, 14(1), 6",
+      "dateText": "פורסם: 25 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.20897/apjes/17975",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_digital_inequality_arab_students_remote_learning_israel_summary_he.jpg",
+        "altHe": "סטודנטית לא מזוהה לומדת מרחוק בבית עם מחשב נייד, נתב וחלל משפחתי ברקע.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-13",
+      "dateModified": "2026-06-13",
+      "summaryHe": "נסים כץ מציג ניתוח סוציו־טכני של חוויות סטודנטים ערבים בישראל בלמידה מרחוק. לפי תקציר המקור, המחקר נשען על ראיונות עומק עם 30 סטודנטים ומשלב את גישת העיצוב החברתי של טכנולוגיה עם תיאוריות ההון של בורדייה כדי להסביר כיצד תנאי חיים קודמים עיצבו את ההשפעה של הוראה מקוונת."
+    },
     {
       "slug": "democracy_public_communication_science_68_countries_summary_he",
       "file": "democracy_public_communication_science_68_countries_summary_he.html",
