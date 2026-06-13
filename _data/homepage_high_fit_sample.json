@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-13",
+  "lastUpdated": "2026-06-14",
   "sampleSize": 6,
-  "seed": "2026-06-13-homepage-high-fit",
+  "seed": "2026-06-14-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 218,
+  "highFitPaperCount": 228,
   "paperSlugs": [
-    "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he",
-    "democracy_digital_inequality_arab_students_remote_learning_israel_summary_he",
-    "democracy_analysis_of_the_palestinian_and_israeli_conflict_in_the_perspective_of_international_humanitar_summary_he",
-    "democracy_online_participation_polarized_society_summary_he",
-    "democracy_corruption_tax_evasion_growth_summary_he",
-    "democracy_early_childhood_education_policy_childrens_rights_israeli_reform_summary_he"
+    "democracy_china_sharp_power_israel_discourse_summary_he",
+    "democracy_zionism_political_theology_liberalism_summary_he",
+    "democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he",
+    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
+    "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he",
+    "democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he"
   ]
 }

@@ -1,8 +1,290 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 772,
+  "paperCount": 782,
   "papers": [
+    {
+      "slug": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
+      "file": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he.html",
+      "permalink": "/democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he.html",
+      "sortKey": 202606140010,
+      "titleHe": "לימוד עברית משנה מיומנות, זהות ועמדות אזרחיות",
+      "paperTitle": "Beyond Utility: Language Intervention, Identity Dynamics, and Political Attitude Change Among Palestinian High School Students and Pre-Service Teachers in Post-7 October Israel",
+      "authorsCardHe": "Rakefet Erlich Ron",
+      "sourceAuthors": [
+        "Rakefet Erlich Ron"
+      ],
+      "journal": "Education Sciences 16(2), 353",
+      "dateText": "פורסם אונליין: 23 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.3390/educsci16020353",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he.jpg",
+        "altHe": "כיתת סמינר חמה שבה תלמידים ומורי־עתיד דנים בכרטיסי לימוד ריקים סביב שפה, זהות והשפעה אזרחית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "רקפת ארליך רון מנתחת התערבות שפה בקרב תלמידי תיכון ומורי־עתיד פלסטינים אזרחי ישראל לאחר 7 באוקטובר. לפי תקציר המקור, ההתערבות נקשרה לעלייה במסוגלות בעברית, בתקווה לשלום, בקטגוריזציה משותפת ובתמיכה באסטרטגיות השפעה דמוקרטיות, אך גם חשפה הבדלים בין גיל, זהות והכשרה מקצועית."
+    },
+    {
+      "slug": "democracy_exposure_to_indirect_terrorism_and_support_for_violence_evidence_from_an_israeli_summary_he",
+      "file": "democracy_exposure_to_indirect_terrorism_and_support_for_violence_evidence_from_an_israeli_summary_he.html",
+      "permalink": "/democracy_exposure_to_indirect_terrorism_and_support_for_violence_evidence_from_an_israeli_summary_he.html",
+      "sortKey": 202606140009,
+      "titleHe": "חשיפה דיגיטלית לטרור עקיף עלולה להגביר תמיכה באלימות פוליטית",
+      "paperTitle": "Exposure to indirect terrorism and support for violence: evidence from an Israeli-Palestinian experiment",
+      "authorsCardHe": "Snehashree Mukherjee, Itzik Ben Israel, Daphna Canetti",
+      "sourceAuthors": [
+        "Snehashree Mukherjee",
+        "Itzik Ben Israel",
+        "Daphna Canetti"
+      ],
+      "journal": "Frontiers in Political Science 8, 1723664",
+      "dateText": "פורסם אונליין: 17 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.3389/fpos.2026.1723664",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_exposure_to_indirect_terrorism_and_support_for_violence_evidence_from_an_israeli_summary_he.jpg",
+        "altHe": "חדר מחקר ציבורי שבו משתתפים צופים במסכים מטושטשים וחוקרים בוחנים תגובות אנונימיות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "סנהשרי מוקרג׳י, יציק בן־ישראל ודפנה קנטי משתמשים בניסוי סקר דו־שלבי בקרב 900 משיבים יהודים בישראל כדי לבחון כיצד איום טרור מקוון מעצב עמדות פוליטיות. הממצא המרכזי בתקציר המקור הוא שחשיפה לאיום עקיף יכולה להסיט כעס פנימה, אל נבחרי ציבור מקומיים, וכך להעלות תמיכה באלימות פוליטית."
+    },
+    {
+      "slug": "democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he",
+      "file": "democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he.html",
+      "permalink": "/democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he.html",
+      "sortKey": 202606140008,
+      "titleHe": "בתי משפט לנוער מתעלמים מעוני ומתרגמים אותו לכשל הורי",
+      "paperTitle": "“Poverty Has Nothing to Do with It”: Criministrative Law and a Call for Poverty Awareness in Child Protection Procedures in Israeli Juvenile Courts",
+      "authorsCardHe": "Yael Cohen-Rimer",
+      "sourceAuthors": [
+        "Yael Cohen-Rimer"
+      ],
+      "journal": "Law & Social Inquiry, 1-23",
+      "dateText": "פורסם אונליין: 13 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.1017/lsi.2026.10135",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he.jpg",
+        "altHe": "חדר ייעוץ משפטי־חברתי צנוע עם תיקי רווחה ריקים ושיחה זהירה על עוני, הורות והגנת ילדים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "יעל כהן־רימר בוחנת את בתי המשפט לנוער כזירה שבה עוני נוכח מאוד אך אינו מקבל מעמד משפטי כהסבר להזנחת ילדים. המאמר מציע להבין את ההליך כמשפט ״קרימיניסטרטיבי״, המשלב טקסי אשמה פליליים עם תלות במערכות רווחה, וקורא לאמץ פרדיגמה משפטית מודעת־עוני."
+    },
+    {
+      "slug": "democracy_education_for_values_among_arab_ethnic_minority_in_israel_educators_perspectives_summary_he",
+      "file": "democracy_education_for_values_among_arab_ethnic_minority_in_israel_educators_perspectives_summary_he.html",
+      "permalink": "/democracy_education_for_values_among_arab_ethnic_minority_in_israel_educators_perspectives_summary_he.html",
+      "sortKey": 202606140007,
+      "titleHe": "מחנכים בחברה הערבית רואים בחינוך לערכים תהליך קהילתי ארוך טווח",
+      "paperTitle": "Education for Values Among Arab Ethnic Minority in Israel: Educators' Perspectives",
+      "authorsCardHe": "Raed Zedan",
+      "sourceAuthors": [
+        "Raed Zedan"
+      ],
+      "journal": "Journal of Ethnic and Cultural Studies 13(1), 309-336",
+      "dateText": "פורסם אונליין: 2 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.29333/ejecs/2386",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_education_for_values_among_arab_ethnic_minority_in_israel_educators_perspectives_summary_he.jpg",
+        "altHe": "סדנת מחנכים בכיתה בבית ספר ערבי, סביב שולחן עם דפי שיעור ריקים ושיחה על ערכים אזרחיים וחברתיים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "ראאד זידאן מנתח ראיונות עומק חצי־מובנים עם 158 מחנכים מ־34 בתי ספר יסודיים ציבוריים ביישובים ערביים בישראל בשנת הלימודים 2023-2024. הממצאים בתקציר המקור מדגישים ערכים חברתיים כמו אמפתיה והתחשבות לצד ערכים אישיים של מצוינות והישג, ומציגים את החינוך לערכים כתהליך מתמשך שדורש כלים, הכשרה ושיתוף פעולה עם הורים."
+    },
+    {
+      "slug": "democracy_lived_hybridity_and_armed_citizenship_civilian_gun_ownership_in_contemporary_israel_summary_he",
+      "file": "democracy_lived_hybridity_and_armed_citizenship_civilian_gun_ownership_in_contemporary_israel_summary_he.html",
+      "permalink": "/democracy_lived_hybridity_and_armed_citizenship_civilian_gun_ownership_in_contemporary_israel_summary_he.html",
+      "sortKey": 202606140006,
+      "titleHe": "בעלות אזרחית על נשק בישראל מתקיימת בין זכות אישית להרשאת מדינה",
+      "paperTitle": "Lived hybridity and armed citizenship: civilian gun ownership in contemporary Israel",
+      "authorsCardHe": "Nehemia Stern, Maya Maor, Guy Nagar, Uzi Ben-Shalom",
+      "sourceAuthors": [
+        "Nehemia Stern",
+        "Maya Maor",
+        "Guy Nagar",
+        "Uzi Ben-Shalom"
+      ],
+      "journal": "Theory and Society 55(1), Article 9",
+      "dateText": "פורסם אונליין: 6 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.1007/s11186-025-09665-9",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_lived_hybridity_and_armed_citizenship_civilian_gun_ownership_in_contemporary_israel_summary_he.jpg",
+        "altHe": "חדר הכשרה קהילתי לבטיחות אזרחית עם מבוגרים, טפסים ריקים וארון נעול ברקע, באווירה זהירה ולא מיליטריסטית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "נחמיה שטרן, מאיה מאור, גיא נגר ועוזי בן־שלום מציעים את המושג ״היברידיות חיה״ כדי לתאר בעלות אזרחית על נשק בישראל. לפי תקציר המקור, בעלי נשק אינם פשוט ממשיכים מיליטריזם מדינתי ואינם רק ליברטריאנים של זכויות פרט; הם חיים סתירות בין חוק, הרשאה, ביטחון וזהות."
+    },
+    {
+      "slug": "democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he",
+      "file": "democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he.html",
+      "permalink": "/democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he.html",
+      "sortKey": 202606140005,
+      "titleHe": "בינה מלאכותית משנה את תפקיד הנציגים הדמוקרטיים",
+      "paperTitle": "Of the people, by the algorithm: how AI transforms the role of democratic representatives?",
+      "authorsCardHe": "Yuval Rymon",
+      "sourceAuthors": [
+        "Yuval Rymon"
+      ],
+      "journal": "AI & SOCIETY",
+      "dateText": "פורסם אונליין: 22 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1007/s00146-026-02852-x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he.jpg",
+        "altHe": "חדר ועדה אזרחי־טכנולוגי שבו נציגים וחוקרים בוחנים דפוסי העדפות מופשטים על מסכים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "יובל רימון מנתח כיצד בינה מלאכותית משנה את עבודת הנציגים הדמוקרטיים. לפי תקציר המקור, בצד הקלט היא יכולה לעזור לאסוף ולהבהיר העדפות אזרחים, ובצד הפלט היא מעבירה את הנציגים מתפקיד של מקבלי החלטות ישירים לתפקיד של מעצבי מערכות קבלת החלטות אלגוריתמיות."
+    },
+    {
+      "slug": "democracy_the_dissociative_effects_of_institutional_versus_personal_and_general_social_trust_on_summary_he",
+      "file": "democracy_the_dissociative_effects_of_institutional_versus_personal_and_general_social_trust_on_summary_he.html",
+      "permalink": "/democracy_the_dissociative_effects_of_institutional_versus_personal_and_general_social_trust_on_summary_he.html",
+      "sortKey": 202606140004,
+      "titleHe": "לא כל סוגי האמון מחזקים דמוקרטיה באותה מידה",
+      "paperTitle": "The Dissociative Effects of Institutional Versus Personal and General Social Trust on Democracy",
+      "authorsCardHe": "Yaron Zelekha",
+      "sourceAuthors": [
+        "Yaron Zelekha"
+      ],
+      "journal": "Kyklos 79(2), 519-544",
+      "dateText": "פורסם: מאי 2026",
+      "doiUrl": "https://doi.org/10.1111/kykl.70046",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_dissociative_effects_of_institutional_versus_personal_and_general_social_trust_on_summary_he.jpg",
+        "altHe": "חדר מחקר אזרחי שבו חוקרים משווים גיליונות סקר ומפה מופשטת ללא טקסט על אמון, מוסדות ודמוקרטיה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "ירון זליכה מנתח נתונים מ־100 מדינות המייצגות לפי תקציר המקור 88.5% מאוכלוסיית העולם. הממצא המרכזי הוא הבחנה חדה: אמון אישי ואמון חברתי כללי קשורים לדמוקרטיה חזקה יותר ולתרבות פוליטית ליברלית יותר, ואילו אמון מוסדי גבוה עלול להיקשר לפחות השתתפות, פחות דאגה לחירויות אזרח ופחות אפקטיביות שלטונית."
+    },
+    {
+      "slug": "democracy_the_politicization_of_judicial_selection_in_israel_summary_he",
+      "file": "democracy_the_politicization_of_judicial_selection_in_israel_summary_he.html",
+      "permalink": "/democracy_the_politicization_of_judicial_selection_in_israel_summary_he.html",
+      "sortKey": 202606140003,
+      "titleHe": "רפורמת בחירת השופטים בישראל מעלה את משקל השיקול הפוליטי",
+      "paperTitle": "The Politicization of Judicial Selection in Israel",
+      "authorsCardHe": "Guy Lurie",
+      "sourceAuthors": [
+        "Guy Lurie"
+      ],
+      "journal": "ICL Journal 20(1), 87-108",
+      "dateText": "פורסם אונליין: 26 במרץ 2026",
+      "doiUrl": "https://doi.org/10.1515/icl-2025-0057",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politicization_of_judicial_selection_in_israel_summary_he.jpg",
+        "altHe": "חדר ועדה משפטי שקט עם תיקי מועמדים ריקים, ספרי משפט וכיסא שיפוטי ברקע ללא סמלים רשמיים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "גיא לוריא בוחן את השינוי בשיטת בחירת השופטים בישראל לאחר תיקון חוק־יסוד: השפיטה ממרץ 2025, שאמור להיכנס לתוקף אחרי הבחירות הבאות לכנסת. לפי תקציר המקור, מטרת התיקון והשלכותיו המעשיות הן פוליטיזציה של הליך הבחירה, תוך פגיעה בעקרונות מקצועיות, עצמאות שיפוטית והיכולת להגן על שלטון החוק וזכויות אדם."
+    },
+    {
+      "slug": "democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he",
+      "file": "democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he.html",
+      "permalink": "/democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he.html",
+      "sortKey": 202606140002,
+      "titleHe": "בקרב להט״ב בישראל גיל מבוגר יותר נקשר לפחות בדידות וליותר חוסן",
+      "paperTitle": "Age-related Risk and Protective factors, Quality of Life and Loneliness in the Lives of LGBTQ Adults in Israel",
+      "authorsCardHe": "Raphael Eppler-Hattab, Yitschak Shnoor, Ayelet Berg-Warman, Hyun-Jun Kim",
+      "sourceAuthors": [
+        "Raphael Eppler-Hattab",
+        "Yitschak Shnoor",
+        "Ayelet Berg-Warman",
+        "Hyun-Jun Kim"
+      ],
+      "journal": "Sexuality Research and Social Policy",
+      "dateText": "פורסם אונליין: 17 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1007/s13178-025-01253-x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he.jpg",
+        "altHe": "מרכז קהילתי חמים שבו מבוגרים להט״בים בגילים שונים יושבים במעגל שיחה תומך ללא סיסמאות או טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "רפאל אפלר־חטאב, יצחק שנור, איילת ברג־וורמן והיון־ג׳ון קים מנתחים שאלון מקוון של 231 מבוגרים להט״בים בישראל בגילי 19-81. לפי תקציר המקור, גיל נקשר לפחות תחושת בדידות, יותר תמיכה חברתית, יותר חוסן ואיכות חיים גבוהה יותר, במיוחד כאשר קיימת מעורבות קהילתית ורשת חברתית רחבה."
+    },
+    {
+      "slug": "democracy_language_policy_and_choice_in_israeli_kibbutzim_summary_he",
+      "file": "democracy_language_policy_and_choice_in_israeli_kibbutzim_summary_he.html",
+      "permalink": "/democracy_language_policy_and_choice_in_israeli_kibbutzim_summary_he.html",
+      "sortKey": 202606140001,
+      "titleHe": "מדיניות העברית בקיבוצים עיצבה בחירות לשוניות וזהות של מהגרים",
+      "paperTitle": "Language policy and choice in Israeli kibbutzim",
+      "authorsCardHe": "Blake Steinnecker, Elana Shohamy",
+      "sourceAuthors": [
+        "Blake Steinnecker",
+        "Elana Shohamy"
+      ],
+      "journal": "Language Policy 25(1), Article 2",
+      "dateText": "פורסם אונליין: 9 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1007/s10993-025-09756-4",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_language_policy_and_choice_in_israeli_kibbutzim_summary_he.jpg",
+        "altHe": "חדר ארכיון קיבוצי עם תצלומים ישנים, מחברות ריקות ושיחה סביב שולחן על זיכרונות שפה והגירה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-14",
+      "dateModified": "2026-06-14",
+      "summaryHe": "בלייק סטיינקר ואלנה שוהמי מנתחים 24 ראיונות עם מהגרים דוברי אנגלית וספרדית שחיו בקיבוצים בישראל בין 1949 ל־1982. לפי תקציר המקור, מנגנונים מוסדיים, חינוכיים וקהילתיים עודדו מעבר לעברית, אך גם יצרו עלויות זהותיות וזכויותיות שמדיניות לשון חד־לשונית נוטה להסתיר."
+    },
     {
       "slug": "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he",
       "file": "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.html",
