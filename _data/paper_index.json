@@ -1,8 +1,289 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 782,
+  "paperCount": 792,
   "papers": [
+    {
+      "slug": "democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he",
+      "file": "democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he.html",
+      "permalink": "/democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he.html",
+      "sortKey": 202606150010,
+      "titleHe": "שלטי המחאה נגד הרפורמה המשפטית חיזקו זהות אזרחית משותפת",
+      "paperTitle": "“In sign out”: An analysis of in/out-group dynamics as represented in Israeli judicial reform protest signs",
+      "authorsCardHe": "Shani Pitcho-Prelorentzos, Dorit Bar-Nir, Michal Mahat-Shamir",
+      "sourceAuthors": [
+        "Shani Pitcho-Prelorentzos",
+        "Dorit Bar-Nir",
+        "Michal Mahat-Shamir"
+      ],
+      "journal": "Communication and the Public, Article 20570473251384069",
+      "dateText": "פורסם אונליין: 16 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1177/20570473251384069",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he.jpg",
+        "altHe": "פעילי חברה אזרחית מסדרים שלטי מחאה ריקים בחדר הכנה עם אור אחר הצהריים וללא סיסמאות קריאות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "שני פיצ׳ו־פרלורנצוס, דורית בר־ניר ומיכל מהט־שמיר מנתחות 437 שלטים שנאספו ממחאות נגד הרפורמה המשפטית בישראל בין ינואר לאוגוסט 2023. לפי תקציר המקור, השלטים השתמשו באזכורים ישירים או מרומזים של ״אנחנו״ ו״הם״ כדי לבנות זהות קבוצתית, להגדיר רצונות ורתיעות, לחזק חוסן דרך אתוס והיסטוריה, ולייצר לכידות של חברה אזרחית המחויבת לאידיאלים דמוקרטיים־ליברליים."
+    },
+    {
+      "slug": "democracy_induced_abortion_bodily_autonomy_arab_muslim_women_israel_summary_he",
+      "file": "democracy_induced_abortion_bodily_autonomy_arab_muslim_women_israel_summary_he.html",
+      "permalink": "/democracy_induced_abortion_bodily_autonomy_arab_muslim_women_israel_summary_he.html",
+      "sortKey": 202606150009,
+      "titleHe": "הפלה יזומה של נשים מוסלמיות ערביות בישראל מבטאת אוטונומיה גופנית",
+      "paperTitle": "Induced Abortion as a Declaration of Bodily Autonomy of Arab Muslim Women in Israel",
+      "authorsCardHe": "Noha Ibrahem, Daphna Birenbaum-Carmeli, Maayan Agmon",
+      "sourceAuthors": [
+        "Noha Ibrahem",
+        "Daphna Birenbaum-Carmeli",
+        "Maayan Agmon"
+      ],
+      "journal": "Sexuality Research and Social Policy, online first",
+      "dateText": "פורסם אונליין: 22 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1007/s13178-025-01228-y",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_induced_abortion_bodily_autonomy_arab_muslim_women_israel_summary_he.jpg",
+        "altHe": "שיחה פרטית ומכבדת בחדר ייעוץ רפואי בין אישה לרופאה סביב טפסים ריקים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "נוהא איברהים, דפנה בירנבוים־כרמלי ומעיין אגמון מנתחות מחקר פנומנולוגי איכותני שנערך בשנים 2021-2024 עם 40 נשים מוסלמיות ערביות נשואות בישראל שעברו הפסקת היריון בחמש השנים שקדמו למחקר. לפי תקציר המקור, ההחלטות נבעו מבריאות, אי־יציבות זוגית, מצב כלכלי, לימודים ומומים עובריים, ושימשו דרך להתנגד לאי־שוויון מגדרי ולנורמות מסורתיות."
+    },
+    {
+      "slug": "democracy_intimate_partner_violence_health_inequalities_palestinian_jewish_women_israel_summary_he",
+      "file": "democracy_intimate_partner_violence_health_inequalities_palestinian_jewish_women_israel_summary_he.html",
+      "permalink": "/democracy_intimate_partner_violence_health_inequalities_palestinian_jewish_women_israel_summary_he.html",
+      "sortKey": 202606150008,
+      "titleHe": "אלימות זוגית מעמיקה אי־שוויון בריאותי בין נשים פלסטיניות ויהודיות בישראל",
+      "paperTitle": "The contribution of intimate partner violence in exacerbating health inequalities between Palestinian and Jewish women in Israel",
+      "authorsCardHe": "Nihaya Daoud, Beatris Agronsky, Neveen Ali-Saleh Darawshy, Hadel Alsana, Samira Alfayumi-Zeadna",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Beatris Agronsky",
+        "Neveen Ali-Saleh Darawshy",
+        "Hadel Alsana",
+        "Samira Alfayumi-Zeadna"
+      ],
+      "journal": "International Journal for Equity in Health 24(1), Article 291",
+      "dateText": "פורסם אונליין: 24 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1186/s12939-025-02651-8",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intimate_partner_violence_health_inequalities_palestinian_jewish_women_israel_summary_he.jpg",
+        "altHe": "חדר ייעוץ במרפאה קהילתית עם מטפלת ונשים בשיחה פרטית ותומכת ללא טקסט קריא או סצנה אלימה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "ניהאיה דאוד, ביטריס אגרונסקי, נווין עלי־סאלח דראושה, האדל אלסאנע וסמירה אלפיומי־זעדנה מנתחות נתונים על 436 נשים פלסטיניות ו־965 נשים יהודיות אזרחיות ישראל בגילאי 18-50. לפי תקציר PubMed, נשים פלסטיניות סבלו מתוצאות בריאות גרועות יותר בשבעה מתוך עשרה מדדים, ואלימות זוגית תרמה לחלק ניכר מעודף הפערים בבריאות נפשית, תכנון היריון ורב־תחלואה."
+    },
+    {
+      "slug": "democracy_perceived_fairness_residential_arnona_tax_israel_summary_he",
+      "file": "democracy_perceived_fairness_residential_arnona_tax_israel_summary_he.html",
+      "permalink": "/democracy_perceived_fairness_residential_arnona_tax_israel_summary_he.html",
+      "sortKey": 202606150007,
+      "titleHe": "ציבור בישראל קושר הוגנות בארנונה לשירותים עירוניים וסביבה",
+      "paperTitle": "Assessing the Perceived Fairness of a Property Tax by a Taxpayer Survey: The Case of Residential Arnona Tax in Israel",
+      "authorsCardHe": "Mordekhay Mintz, Boris A. Portnov",
+      "sourceAuthors": [
+        "Mordekhay Mintz",
+        "Boris A. Portnov"
+      ],
+      "journal": "Real Estate Management and Valuation 34(1), 84-96",
+      "dateText": "פורסם: 1 במרץ 2026",
+      "doiUrl": "https://doi.org/10.2478/remav-2026-0007",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_perceived_fairness_residential_arnona_tax_israel_summary_he.jpg",
+        "altHe": "חדר ייעוץ עירוני עם תושבים ומתכנן סביב מפת שכונה מופשטת, טפסים ריקים ומחשבון ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "מרדכי מינץ ובוריס פורטנוב מנתחים סקר מקוון של יותר מ־500 משתתפים בישראל, שדגם אזור מגורים, גיל, הכנסה, מצב משפחתי ובעלות על דירה. לפי תקציר המקור, כ־55% תמכו בשיטה הנוכחית המבוססת על גודל נכס וכ־45% באלטרנטיבה מבוססת ערך, אך התמיכה הייתה רחבה בהרבה בשילוב איכות שירותים עירוניים, מרחב ירוק ואיכות אוויר בשיקולי המס."
+    },
+    {
+      "slug": "democracy_online_racism_young_arab_palestinians_israel_identity_mental_health_summary_he",
+      "file": "democracy_online_racism_young_arab_palestinians_israel_identity_mental_health_summary_he.html",
+      "permalink": "/democracy_online_racism_young_arab_palestinians_israel_identity_mental_health_summary_he.html",
+      "sortKey": 202606150006,
+      "titleHe": "גזענות מקוונת פוגעת ברווחה נפשית של צעירים ערבים־פלסטינים בישראל",
+      "paperTitle": "The psychological outcomes of online racism among young adult Arab-Palestinians in Israel: The moderating role of ethnic identity, national self-definition, and social media political participation.",
+      "authorsCardHe": "Shira Pagorek-Eshel, Raghda Alnabilsy, Haneen Karram-Elias",
+      "sourceAuthors": [
+        "Shira Pagorek-Eshel",
+        "Raghda Alnabilsy",
+        "Haneen Karram-Elias"
+      ],
+      "journal": "American Journal of Orthopsychiatry, online first",
+      "dateText": "פורסם אונליין: 13 בנובמבר 2025",
+      "doiUrl": "https://doi.org/10.1037/ort0000888",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_online_racism_young_arab_palestinians_israel_identity_mental_health_summary_he.jpg",
+        "altHe": "צעירים בסדנה אזרחית יושבים סביב שולחן עם טלפונים מטושטשים ומקשיבים בדיון תומך ללא ממשקי רשת.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "שירה פגורק־אשל, ר׳גדה אלנבילסי וחנין כרם־אליאס מנתחות שאלון של 601 אזרחים ערבים־פלסטינים בישראל בגילאי 18-27. לפי תקציר PubMed, חשיפה גבוהה יותר לגזענות מקוונת נקשרה לרווחה נמוכה יותר ולדיכאון גבוה יותר; זהות אתנית מגובשת הייתה קשורה להגנה מסוימת, בעוד הגדרה לאומית ערבית־פלסטינית חזקה והשתתפות פוליטית ברשת נקשרו לדיכאון או רווחה נמוכה יותר בתנאים מסוימים."
+    },
+    {
+      "slug": "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he",
+      "file": "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he.html",
+      "permalink": "/democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he.html",
+      "sortKey": 202606150005,
+      "titleHe": "אוניברסיטאות בזמן מלחמה יכולות להעמיק קיטוב או לבנות דיאלוג",
+      "paperTitle": "The role of academic institutions in a state of war: the Gaza-Israel conflict",
+      "authorsCardHe": "Tamar Hager, Mohammad Khalaile, Yousef T. Jabareen",
+      "sourceAuthors": [
+        "Tamar Hager",
+        "Mohammad Khalaile",
+        "Yousef T. Jabareen"
+      ],
+      "journal": "Higher Education, online first",
+      "dateText": "פורסם אונליין: 27 בנובמבר 2025",
+      "doiUrl": "https://doi.org/10.1007/s10734-025-01590-1",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he.jpg",
+        "altHe": "מעגל שיח בקמפוס מודרני עם סטודנטים ומרצים יושבים בזהירות סביב כיסאות וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "תמר הגר, מוחמד ח׳ליילה ויוסף ג׳בארין טוענים כי לאחר מתקפת חמאס ב־7 באוקטובר 2023 והאלימות שלאחריה, קמפוסים בישראל משקפים שסעים חברתיים עמוקים. לפי תקציר המקור, אמצעים מדינתיים ומשמעתיים מגבילים ביטוי ומדירים במיוחד קולות ערביים־פלסטיניים, אך מוסדות אקדמיים יכולים גם ליצור מרחבי ביטחון, הכשרה ותמיכה שמקדמים דיאלוג וחוסן."
+    },
+    {
+      "slug": "democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he",
+      "file": "democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he.html",
+      "permalink": "/democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he.html",
+      "sortKey": 202606150004,
+      "titleHe": "מנהיגים ערבים באקדמיה בישראל מתמודדים עם בידוד וטראומה בזמן מלחמה",
+      "paperTitle": "Arab–Israeli Leaders in Israeli Higher Education During the Iron Swords War",
+      "authorsCardHe": "Sima Zach, Mahmood Sindiani",
+      "sourceAuthors": [
+        "Sima Zach",
+        "Mahmood Sindiani"
+      ],
+      "journal": "Behavioral Sciences 15(12), 1710",
+      "dateText": "פורסם אונליין: 10 בדצמבר 2025",
+      "doiUrl": "https://doi.org/10.3390/bs15121710",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he.jpg",
+        "altHe": "צוות אקדמי יושב בדיון תומך ומתוח בחדר ישיבות בקמפוס בזמן משבר ללא מסכים או טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "סימה זך ומחמוד סינדיאני מנתחים את חוויותיהם של מנהיגים אקדמיים ערבים־ישראלים בזמן מלחמת חרבות ברזל. לפי תקציר המקור, המשתתפים תיארו פחד, חרדה, חוסר אונים, ייאוש, בידוד והשתקה, אך גם פרואקטיביות דרך תפקידיהם ותמיכה מצד חברים יהודים; המאמר קורא ליוזמות חוסן ותמיכה באקדמיה בזמן משבר ממושך."
+    },
+    {
+      "slug": "democracy_israeli_arab_leadership_peace_agreements_arab_states_summary_he",
+      "file": "democracy_israeli_arab_leadership_peace_agreements_arab_states_summary_he.html",
+      "permalink": "/democracy_israeli_arab_leadership_peace_agreements_arab_states_summary_he.html",
+      "sortKey": 202606150003,
+      "titleHe": "הנהגה ערבית בישראל מציבה את הסכסוך הפלסטיני במרכז הסכמי השלום",
+      "paperTitle": "Minority Perspective: The Israeli–Arab Leadership Position Over the Israeli Peace Agreements With Arab States",
+      "authorsCardHe": "Chen Kertcher, Gadi Hitman",
+      "sourceAuthors": [
+        "Chen Kertcher",
+        "Gadi Hitman"
+      ],
+      "journal": "Digest of Middle East Studies 35(1), Article e70016",
+      "dateText": "פורסם: ינואר 2026",
+      "doiUrl": "https://doi.org/10.1111/dome.70016",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_arab_leadership_peace_agreements_arab_states_summary_he.jpg",
+        "altHe": "חדר מחקר פרלמנטרי עם חוקרים סביב תיקי תדרוך ריקים ושיחה מוסדית על יחסי רוב ומיעוט.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "חן קרצ׳ר וגדי היטמן בוחנים הצהרות רשמיות של מנהיגים ערבים בישראל בכנסת ביחס לחמשת הסכמי השלום או הנורמליזציה של ישראל עם מדינות ערב. לפי תקציר המקור, למרות הבדלים אידיאולוגיים בין זרמים סוציאליסטיים־קומוניסטיים, לאומיים ואסלאמיים, ההנהגה מציגה עמדה עקבית שמדגישה את פתרון הסכסוך הישראלי־פלסטיני לצד מחלוקות בנושאי השתלבות בחברה הישראלית."
+    },
+    {
+      "slug": "democracy_subversive_invisibility_older_lesbians_israel_summary_he",
+      "file": "democracy_subversive_invisibility_older_lesbians_israel_summary_he.html",
+      "permalink": "/democracy_subversive_invisibility_older_lesbians_israel_summary_he.html",
+      "sortKey": 202606150002,
+      "titleHe": "אי־נראות של לסביות מבוגרות בישראל יכולה להפוך למרחב חירות",
+      "paperTitle": "‘I am so happy to be invisible’: subversive invisibility of older lesbians in Israel",
+      "authorsCardHe": "Olga Edyta Saktura-Żukowicz, Liat Ayalon",
+      "sourceAuthors": [
+        "Olga Edyta Saktura-Żukowicz",
+        "Liat Ayalon"
+      ],
+      "journal": "Ageing and Society 46, Article e42",
+      "dateText": "פורסם: 2026",
+      "doiUrl": "https://doi.org/10.1017/s0144686x26100713",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_subversive_invisibility_older_lesbians_israel_summary_he.jpg",
+        "altHe": "שתי נשים מבוגרות יושבות לשיחה שקטה במרכז קהילתי חמים ומבטאות קרבה וזהות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "אולגה אדיטה סקטורה־זוקוביץ׳ וליאת איילון מתבססות על ראיונות חצי־מובנים עם 21 לסביות ישראליות בגילאי 50-79. לפי תקציר המקור, אי־נראות אינה רק הדרה: היא יכולה לאפשר חירות מנורמות חברתיות, קבלה פנימית של זהות מינית ואסטרטגיות חתרניות של התנגדות חלשה."
+    },
+    {
+      "slug": "democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he",
+      "file": "democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he.html",
+      "permalink": "/democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he.html",
+      "sortKey": 202606150001,
+      "titleHe": "רגישות בין־תרבותית של סטודנטים בדואים דורשת תיווך מתמשך",
+      "paperTitle": "Attitudes towards Intercultural Sensitivity among Muslim-Bedouin Education Students in Southern Israel: A Proposed Educational Mode",
+      "authorsCardHe": "Ofer Gat",
+      "sourceAuthors": [
+        "Ofer Gat"
+      ],
+      "journal": "Social Science and Humanities Journal 10(01), 9650-9679",
+      "dateText": "פורסם אונליין: 1 בינואר 2026",
+      "doiUrl": "https://doi.org/10.18535/sshj.v10i01.2163",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he.jpg",
+        "altHe": "חדר סמינר חינוכי בדרום ישראל עם סטודנטים בדיון קבוצתי בין־תרבותי סביב שולחן וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-06-15",
+      "summaryHe": "עופר גת מנתח רפלקציות של 16 סטודנטים בדואים בקורס חינוך שכלל עבודה קבוצתית ערבית־יהודית. לפי תקציר המקור, הסטודנטים תיארו מאבק ומצוקה בין־תרבותיים, קשיי עברית ומרחק פיזי־תרבותי, אך גם רצון לקרבה, דיאלוג ולמידת תרבות האחר; על בסיס זה מוצע מודל בן שישה צעדים לטיפוח טיפול בין־תרבותי מתמשך."
+    },
     {
       "slug": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
       "file": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he.html",

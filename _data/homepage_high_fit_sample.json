@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-15",
   "sampleSize": 6,
-  "seed": "2026-06-14-homepage-high-fit",
+  "seed": "2026-06-15-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 228,
+  "highFitPaperCount": 238,
   "paperSlugs": [
-    "democracy_china_sharp_power_israel_discourse_summary_he",
-    "democracy_zionism_political_theology_liberalism_summary_he",
-    "democracy_endogenous_growth_intellectual_property_rights_north_south_model_summary_he",
-    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
-    "democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he",
-    "democracy_democratizing_state_religion_relations_a_comparative_study_of_turkey_egypt_and_israel_summary_he"
+    "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he",
+    "democracy_polarization_partisan_bias_public_services_summary_he",
+    "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he",
+    "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
+    "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he",
+    "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he"
   ]
 }
