@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "sampleSize": 6,
-  "seed": "2026-06-15-homepage-high-fit",
+  "seed": "2026-06-16-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 238,
+  "highFitPaperCount": 248,
   "paperSlugs": [
-    "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he",
-    "democracy_polarization_partisan_bias_public_services_summary_he",
-    "democracy_selective_exposure_polarizes_attitudes_arguments_summary_he",
+    "democracy_cross_cutting_attitudes_pluralistic_news_consumption_summary_he",
+    "democracy_self_exclusion_strategy_inclusion_shas_summary_he",
     "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
-    "democracy_the_arab_minority_in_israel_s_economy_patterns_of_ethnic_inequality_summary_he",
-    "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he"
+    "democracy_are_we_there_yet_religion_secularization_and_liberal_democracy_in_israel_summary_he",
+    "democracy_the_israeli_and_united_states_supreme_courts_a_comparative_reflection_on_their_symbols_images_summary_he",
+    "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he"
   ]
 }

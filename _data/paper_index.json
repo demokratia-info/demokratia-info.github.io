@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 792,
+  "paperCount": 802,
   "papers": [
+    {
+      "slug": "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he",
+      "file": "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.html",
+      "permalink": "/democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.html",
+      "sortKey": 202606160010,
+      "titleHe": "מנהיגות בית־ספרית בחינוך הערבי יכולה לפתוח מסלולי צדק ומוביליות",
+      "paperTitle": "Transformative Leadership in Arab Schools in Israel: Strategies for Promoting Social Justice and Mobility",
+      "authorsCardHe": "Alaa Elmalak-Watad",
+      "sourceAuthors": [
+        "Alaa Elmalak-Watad"
+      ],
+      "journal": "Education Sciences 15(10), Article 1374",
+      "dateText": "פורסם: 15 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.3390/educsci15101374",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.jpg",
+        "altHe": "צוות חינוכי בבית ספר ערבי דן בתוכניות תמיכה לתלמידים סביב שולחן עבודה מואר וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Alaa Elmalak-Watad בוחנת כיצד מנהיגות בבתי ספר ערביים בישראל יכולה לפעול כסוכן של צדק חברתי ולא רק כמנגנון ניהולי. המחקר נשען על 60 ראיונות חצי־מובנים עם מנהלים ואנשי צוות ועל תצפיות, ומזהה ארבעה ממדים מרכזיים: קידום הישגים, רווחה רגשית וחברתית, העצמת תלמידים ועידוד מנהיגות, ופיתוח יכולות וכישורים."
+    },
+    {
+      "slug": "democracy_information_seeking_crisis_terrorist_attack_israel_summary_he",
+      "file": "democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.html",
+      "permalink": "/democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.html",
+      "sortKey": 202606160009,
+      "titleHe": "במשבר ביטחוני, חיפוש מידע יכול להפחית אי־ודאות וגם להגביר חרדה",
+      "paperTitle": "Information-seeking behaviour during crisis caused by a terrorist attack in Israel",
+      "authorsCardHe": "Ayelet Ayalon, Noa Aharony",
+      "sourceAuthors": [
+        "Ayelet Ayalon",
+        "Noa Aharony"
+      ],
+      "journal": "Information Research 30(3), pp. 22-42",
+      "dateText": "פורסם: 15 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.47989/ir30341809",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.jpg",
+        "altHe": "משפחה בסלון חשוך בודקת כמה מקורות מידע במסכים מטושטשים בזמן משבר, ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Ayelet Ayalon ו-Noa Aharony מנתחות ראיונות עומק חצי־מובנים עם 25 משתתפים על חיפוש מידע בזמן המשבר שנוצר אחרי מתקפת חמאס ב-7 באוקטובר. המחקר מזהה צרכים, מקורות וחסמים, ומראה שהמשתתפים נעו בין הרצון להפחית אי־ודאות לבין החשש שעודף מידע יגביר חרדה ויפגע בתפקוד."
+    },
+    {
+      "slug": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he",
+      "file": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
+      "permalink": "/democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
+      "sortKey": 202606160008,
+      "titleHe": "דיאלוג חינוכי על ערכים דמוקרטיים מצליח כשהשיחה מחייבת הכרעה מוסרית",
+      "paperTitle": "Seeds for democracy: understanding European values in educational dialogues",
+      "authorsCardHe": "Baruch B. Schwarz, Michael J. Baker, Noa Brandel",
+      "sourceAuthors": [
+        "Baruch B. Schwarz",
+        "Michael J. Baker",
+        "Noa Brandel"
+      ],
+      "journal": "Frontiers in Education 10, Article 1662663",
+      "dateText": "פורסם: 13 באוקטובר 2025",
+      "doiUrl": "https://doi.org/10.3389/feduc.2025.1662663",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.jpg",
+        "altHe": "תלמידים יושבים במעגל כיתתי ומשוחחים בהנחיית מורה סביב כרטיסים ריקים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Baruch B. Schwarz, Michael J. Baker ו-Noa Brandel מתארים מחקר מקרה בתוך פרויקט חינוכי שמקדם אמפתיה, הכלה וסובלנות. באמצעות מסגרת DoE/EoD, המחקר מראה שלמידה אתית יכולה להתחזק כאשר הדיון בנוי סביב דילמה, אך להיחלש כאשר השיחה מושגית מדי והמורה דומיננטי מדי."
+    },
+    {
+      "slug": "democracy_capital_residence_mortality_arab_population_israel_summary_he",
+      "file": "democracy_capital_residence_mortality_arab_population_israel_summary_he.html",
+      "permalink": "/democracy_capital_residence_mortality_arab_population_israel_summary_he.html",
+      "sortKey": 202606160007,
+      "titleHe": "מגורים, הון משפחתי ובריאות חושפים אי־שוויון מורכב בחברה הערבית בישראל",
+      "paperTitle": "Capital, Residence, and Mortality: The Special Case of the Arab Population in Israel, 1995–2001",
+      "authorsCardHe": "Matan Markovizky, Jon Anson",
+      "sourceAuthors": [
+        "Matan Markovizky",
+        "Jon Anson"
+      ],
+      "journal": "Population Research and Policy Review 44(5), Article 54",
+      "dateText": "פורסם: אוקטובר 2025",
+      "doiUrl": "https://doi.org/10.1007/s11113-025-09976-w",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_capital_residence_mortality_arab_population_israel_summary_he.jpg",
+        "altHe": "עובדת קהילה ובני משפחה בוחנים חומרי בריאות ורווחה בחדר שירותים קהילתי ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Matan Markovizky ו-Jon Anson משתמשים במדגם של 192,646 פרטים ערבים מ-41,859 משקי בית ו-317 אזורים סטטיסטיים, על בסיס מפקד 1995 ומעקב עד סוף 2001. המאמר מראה שהון כלכלי ותרבותי וסולידריות משפחתית קשורים לתמותה נמוכה יותר, ושגם מקום המגורים והרכבו האתני מעצבים הבדלים בתוך האוכלוסייה הערבית בישראל."
+    },
+    {
+      "slug": "democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he",
+      "file": "democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.html",
+      "permalink": "/democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.html",
+      "sortKey": 202606160006,
+      "titleHe": "הכללה רדיקלית בישראל־פלסטין מחפשת דיאלוג גם בלי הסכמה ליברלית מלאה",
+      "paperTitle": "Reasoning without consensus: grassroots experiments in radical inclusion in Israel/Palestine",
+      "authorsCardHe": "Erica Weiss",
+      "sourceAuthors": [
+        "Erica Weiss"
+      ],
+      "journal": "Journal of the Royal Anthropological Institute 31(4), pp. 1079-1097",
+      "dateText": "פורסם: דצמבר 2025",
+      "doiUrl": "https://doi.org/10.1111/1467-9655.14321",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.jpg",
+        "altHe": "מעגל משתתפים מגוון בחדר קהילתי מקשיב בדיון אזרחי מתוח ומכבד ללא שלטים או טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Erica Weiss מנתחת את גבולות התבונה הציבורית הליברלית במציאות של משבר אזרחי וסכסוך אלים ומתמשך. דרך Citizens’ Accord Forum ו-Siach Shalom, המאמר מציג ניסיונות ליצור שיטות חלופיות של הכללה רדיקלית, שבהן דיאלוג אינו חייב להתחיל מהנחות ליברליות משותפות או להסתיים בהסכמה."
+    },
+    {
+      "slug": "democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he",
+      "file": "democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.html",
+      "permalink": "/democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.html",
+      "sortKey": 202606160005,
+      "titleHe": "שילוב נשים ערביות בשוק העבודה מושפע מדתיות, מקום מגורים ואיכות המשרה",
+      "paperTitle": "Labor Market Integration of Minority Women: The Role of Religiosity, Residential Area and Their Interaction Among Arab Muslim and Christian Women in Israel",
+      "authorsCardHe": "Ilan Shdema, Moshe Sharabi, Yaron Mor, Hisham Motkal Abu-Rayya",
+      "sourceAuthors": [
+        "Ilan Shdema",
+        "Moshe Sharabi",
+        "Yaron Mor",
+        "Hisham Motkal Abu-Rayya"
+      ],
+      "journal": "World 6(3), Article 125",
+      "dateText": "פורסם: 9 בספטמבר 2025",
+      "doiUrl": "https://doi.org/10.3390/world6030125",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.jpg",
+        "altHe": "נשים ערביות ויועצת תעסוקה יושבות סביב שולחן במרכז הכשרה עם טפסים ריקים וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Ilan Shdema, Moshe Sharabi, Yaron Mor ו-Hisham Motkal Abu-Rayya מנתחים נתוני סקר רשמיים של הלשכה המרכזית לסטטיסטיקה מ-2013 עד 2022, עם מדגם של 4,112 נשים ערביות מוסלמיות ונוצריות. המאמר מוצא קשר בין דתיות, מגורים ביישובים יהודיים או ערביים ותוצאות בשוק העבודה, ובמיוחד מדגיש השפעות בקרב נשים מוסלמיות על איכות התעסוקה, שכר והיקף משרה."
+    },
+    {
+      "slug": "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he",
+      "file": "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.html",
+      "permalink": "/democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.html",
+      "sortKey": 202606160004,
+      "titleHe": "שימוש בערבית ובמקורות אסלאמיים בפסיקה יכול לחזק לגיטימציה משפטית",
+      "paperTitle": "Bridging justice: Arabic language and Islamic sources in Israeli courts – a study of judicial pluralism",
+      "authorsCardHe": "Shai Farber, Rani Amer",
+      "sourceAuthors": [
+        "Shai Farber",
+        "Rani Amer"
+      ],
+      "journal": "International Journal of Law in Context 21(4), pp. 730-748",
+      "dateText": "פורסם: דצמבר 2025",
+      "doiUrl": "https://doi.org/10.1017/s1744552325100165",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.jpg",
+        "altHe": "משפטנים יהודים וערבים מעיינים בתיקים ריקים בחדר ייעוץ משפטי עם ספריית משפט וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Shai Farber ו-Rani Amer מנתחים 78 החלטות שיפוטיות מן השנים 1997-2024 וראיונות עם אנשי מקצוע משפטיים. הם מזהים שישה מניעים לשילוב ערבית ומקורות אסלאמיים בפסיקה: שכנוע, חיזוק סמכות, גישור תרבותי, כבוד הדדי, ביסוס וטיעון חלופי, ומראים שהפרקטיקה מופיעה אצל שופטים ערבים ויהודים ובתחומי משפט שונים."
+    },
+    {
+      "slug": "democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he",
+      "file": "democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.html",
+      "permalink": "/democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.html",
+      "sortKey": 202606160003,
+      "titleHe": "ציפייה לסטיגמה מעצבת את שאיפות ההורות של להט״בים בישראל",
+      "paperTitle": "How Do Openness to Experience and Stigma Anticipation Shape the Parenthood Aspirations of LGB Israeli Individuals?",
+      "authorsCardHe": "Kfir Ifrah, Yuval Shaia, Geva Shenkman",
+      "sourceAuthors": [
+        "Kfir Ifrah",
+        "Yuval Shaia",
+        "Geva Shenkman"
+      ],
+      "journal": "Sexuality Research and Social Policy, Online First",
+      "dateText": "פורסם: 19 באוגוסט 2025",
+      "doiUrl": "https://doi.org/10.1007/s13178-025-01163-y",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.jpg",
+        "altHe": "שיחה מכבדת בחדר ייעוץ משפחתי על הורות עתידית עם טפסים ריקים ותמונות מטושטשות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Kfir Ifrah, Yuval Shaia ו-Geva Shenkman מנתחים שאלונים מקוונים של 314 משתתפים להט״בים ו-392 משתתפים הטרוסקסואלים בני 18-49, שנאספו בין נובמבר 2022 ליולי 2023. המאמר מראה שלהט״בים דיווחו על שאיפות הורות נמוכות יותר, ושציפייה לסטיגמה סביב הורות מתווכת חלק מן הקשר בין נטייה מינית לבין שאיפות ההורות."
+    },
+    {
+      "slug": "democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he",
+      "file": "democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.html",
+      "permalink": "/democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.html",
+      "sortKey": 202606160002,
+      "titleHe": "המשבר סביב הרפורמה המשפטית קשור למצוקה פסיכולוגית גם שנה לאחר מכן",
+      "paperTitle": "Exploring the long-term psychological impact of socio-political crisis in Israel: a network analysis",
+      "authorsCardHe": "Liat Hamama",
+      "sourceAuthors": [
+        "Liat Hamama"
+      ],
+      "journal": "BMC Psychology 13(1), Article 898",
+      "dateText": "פורסם: 12 באוגוסט 2025",
+      "doiUrl": "https://doi.org/10.1186/s40359-025-03231-9",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.jpg",
+        "altHe": "חוקרת ויועצת בקהילה בוחנות תרשים רשת מופשט על דפים מטושטשים בחדר תמיכה ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Liat Hamama מנתחת את ההשלכות הפסיכולוגיות ארוכות הטווח של משבר הרפורמה המשפטית בישראל באמצעות ניתוח רשת. לפי תקציר המאמר, הנתונים נאספו באוגוסט 2023 מ-811 משתתפים ובאפריל-מאי 2024 מ-518 משתתפים, והניתוח מצא שבטווח המוקדם דאגה וחוסר אונים היו מרכזיים, ואילו בטווח המאוחר בלטו כעס, אכזבה וחרדה."
+    },
+    {
+      "slug": "democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he",
+      "file": "democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.html",
+      "permalink": "/democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.html",
+      "sortKey": 202606160001,
+      "titleHe": "בעלות נשים על נשק אזרחי בישראל משנה את שפת הביטחון והמגדר",
+      "paperTitle": "“You Can't Always Run Away”: Gender Reflexivity and Personal Firearms Ownership among Civilian Women Gun Owners in Israel",
+      "authorsCardHe": "Maya Maor, Nehemia Stern, Uzi Ben-Shalom",
+      "sourceAuthors": [
+        "Maya Maor",
+        "Nehemia Stern",
+        "Uzi Ben-Shalom"
+      ],
+      "journal": "Sociological Inquiry 96(2), pp. 399-416",
+      "dateText": "פורסם: מאי 2026",
+      "doiUrl": "https://doi.org/10.1111/soin.70025",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.jpg",
+        "altHe": "נשים יושבות בכיתת בטיחות אזרחית סביב נרתיק נעול וחומרי הדרכה ריקים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-16",
+      "dateModified": "2026-06-16",
+      "summaryHe": "Maya Maor, Nehemia Stern ו-Uzi Ben-Shalom מנתחים 17 ראיונות עומק עם נשים אזרחיות בישראל שמחזיקות באקדח. המאמר טוען שגידול בבעלות פרטית על אקדחים בקרב נשים משבש ומעצב מחדש זהויות מגדריות: נשים חמושות מאמצות תפקיד של מגינות על עצמן ועל משפחותיהן, אך אינן בהכרח מפרקות את המיליטריזציה הגברית הדומיננטית אלא יוצרות דקדוק נשי חדש של ביטחון ואזרחות."
+    },
     {
       "slug": "democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he",
       "file": "democracy_judicial_reform_protest_signs_in_group_out_group_dynamics_summary_he.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -19488,6 +19488,227 @@
         "judicial-reform-protest-signs-in-group-out-group-dynamics"
       ],
       "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-15 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.html",
+      "usedBy": [
+        "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מנהיגות בית־ספרית בחינוך הערבי יכולה לפתוח מסלולי צדק ומוביליות",
+      "authorsHe": "Alaa Elmalak-Watad",
+      "visualDescriptionHe": "צוות חינוכי בבית ספר ערבי דן בתוכניות תמיכה לתלמידים סביב שולחן עבודה מואר וללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד מנהלי בתי ספר ואנשי צוות בחינוך הערבי בישראל מפעילים מנהיגות טרנספורמטיבית כדי להתמודד עם פערים מבניים ולקדם צדק חברתי ומוביליות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "transformative_leadership_arab_schools_social_justice_mobility_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.html",
+      "usedBy": [
+        "democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.html"
+      ],
+      "cardTitleHe": "במשבר ביטחוני, חיפוש מידע יכול להפחית אי־ודאות וגם להגביר חרדה",
+      "authorsHe": "Ayelet Ayalon, Noa Aharony",
+      "visualDescriptionHe": "משפחה בסלון חשוך בודקת כמה מקורות מידע במסכים מטושטשים בזמן משבר, ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח כיצד אזרחים בישראל חיפשו מידע בזמן משבר בעקבות מתקפת טרור, וכיצד עומס מידע וחרדת מידע עיצבו את ההתנהגות שלהם.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "information_seeking_crisis_terrorist_attack_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
+      "usedBy": [
+        "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html"
+      ],
+      "cardTitleHe": "דיאלוג חינוכי על ערכים דמוקרטיים מצליח כשהשיחה מחייבת הכרעה מוסרית",
+      "authorsHe": "Baruch B. Schwarz, Michael J. Baker, Noa Brandel",
+      "visualDescriptionHe": "תלמידים יושבים במעגל כיתתי ומשוחחים בהנחיית מורה סביב כרטיסים ריקים ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מציג מסגרת לניתוח למידה אתית בדיאלוגים חינוכיים ומראה כיצד עיצוב השיחה משפיע על תיאום בין חשיבה מוסרית לבין התנהגות דיאלוגית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "seeds_for_ethical_learning_educational_dialogues"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_capital_residence_mortality_arab_population_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_capital_residence_mortality_arab_population_israel_summary_he.html",
+      "usedBy": [
+        "democracy_capital_residence_mortality_arab_population_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מגורים, הון משפחתי ובריאות חושפים אי־שוויון מורכב בחברה הערבית בישראל",
+      "authorsHe": "Matan Markovizky, Jon Anson",
+      "visualDescriptionHe": "עובדת קהילה ובני משפחה בוחנים חומרי בריאות ורווחה בחדר שירותים קהילתי ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד הון כלכלי ותרבותי, סולידריות משפחתית והרכב אתני של אזור המגורים קשורים לתמותה בקרב האוכלוסייה הערבית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "capital_residence_mortality_arab_population_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.html",
+      "usedBy": [
+        "democracy_reasoning_without_consensus_radical_inclusion_israel_palestine_summary_he.html"
+      ],
+      "cardTitleHe": "הכללה רדיקלית בישראל־פלסטין מחפשת דיאלוג גם בלי הסכמה ליברלית מלאה",
+      "authorsHe": "Erica Weiss",
+      "visualDescriptionHe": "מעגל משתתפים מגוון בחדר קהילתי מקשיב בדיון אזרחי מתוח ומכבד ללא שלטים או טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן יוזמות מקומיות בישראל־פלסטין שמנסות לכלול קולות יהודיים ופלסטיניים בעלי תפיסות לא־ליברליות בתוך שיח אזרחי בלי לדרוש קונצנזוס מלא.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "reasoning_without_consensus_radical_inclusion_israel_palestine"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.html",
+      "usedBy": [
+        "democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שילוב נשים ערביות בשוק העבודה מושפע מדתיות, מקום מגורים ואיכות המשרה",
+      "authorsHe": "Ilan Shdema, Moshe Sharabi, Yaron Mor, Hisham Motkal Abu-Rayya",
+      "visualDescriptionHe": "נשים ערביות ויועצת תעסוקה יושבות סביב שולחן במרכז הכשרה עם טפסים ריקים וללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד דתיות ואזור מגורים קשורים לתעסוקה, היקף משרה, שכר ודרג בקרב נשים ערביות מוסלמיות ונוצריות בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "labor_market_integration_minority_women_religiosity_residence_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.html",
+      "usedBy": [
+        "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he.html"
+      ],
+      "cardTitleHe": "שימוש בערבית ובמקורות אסלאמיים בפסיקה יכול לחזק לגיטימציה משפטית",
+      "authorsHe": "Shai Farber, Rani Amer",
+      "visualDescriptionHe": "משפטנים יהודים וערבים מעיינים בתיקים ריקים בחדר ייעוץ משפטי עם ספריית משפט וללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד שופטים בישראל ובבתי המשפט הצבאיים בגדה משלבים ערבית ומקורות דתיים אסלאמיים בפסקי דין ומה הדבר מלמד על פלורליזם משפטי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "arabic_language_islamic_sources_israeli_courts_judicial_pluralism"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.html",
+      "usedBy": [
+        "democracy_lgb_parenthood_aspirations_stigma_openness_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ציפייה לסטיגמה מעצבת את שאיפות ההורות של להט״בים בישראל",
+      "authorsHe": "Kfir Ifrah, Yuval Shaia, Geva Shenkman",
+      "visualDescriptionHe": "שיחה מכבדת בחדר ייעוץ משפחתי על הורות עתידית עם טפסים ריקים ותמונות מטושטשות ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד נטייה מינית, ציפייה לסטיגמה סביב הורות ופתיחות להתנסות קשורות לשאיפות הורות בקרב להט״בים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "lgb_parenthood_aspirations_stigma_openness_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.html",
+      "usedBy": [
+        "democracy_sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel_summary_he.html"
+      ],
+      "cardTitleHe": "המשבר סביב הרפורמה המשפטית קשור למצוקה פסיכולוגית גם שנה לאחר מכן",
+      "authorsHe": "Liat Hamama",
+      "visualDescriptionHe": "חוקרת ויועצת בקהילה בוחנות תרשים רשת מופשט על דפים מטושטשים בחדר תמיכה ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את ההשפעה הפסיכולוגית המתמשכת של משבר חברתי־פוליטי בישראל סביב הרפורמה המשפטית באמצעות ניתוח רשת והשוואה בין שתי נקודות זמן.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "sociopolitical_crisis_judicial_reform_psychological_network_analysis_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-16-nightly",
+      "primaryArticle": "democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.html",
+      "usedBy": [
+        "democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.html"
+      ],
+      "cardTitleHe": "בעלות נשים על נשק אזרחי בישראל משנה את שפת הביטחון והמגדר",
+      "authorsHe": "Maya Maor, Nehemia Stern, Uzi Ben-Shalom",
+      "visualDescriptionHe": "נשים יושבות בכיתת בטיחות אזרחית סביב נרתיק נעול וחומרי הדרכה ריקים ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד נשים אזרחיות בישראל שמחזיקות באקדח מפרשות ביטחון, מגדר ואזרחות בתוך שינוי במודל הביטחון הממלכתי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "women_gun_owners_gender_reflexivity_security_citizenship_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
       "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
     }
   ],
