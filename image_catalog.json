@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16",
+  "lastUpdated": "2026-06-17",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -19709,6 +19709,226 @@
         "women_gun_owners_gender_reflexivity_security_citizenship_israel"
       ],
       "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-16 nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
+      "usedBy": [
+        "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html"
+      ],
+      "cardTitleHe": "סקסיזם אמביוולנטי מעצב העדפות מגדריות סביב שחרור חטופים",
+      "authorsHe": "Orly Bareket, Michal Reifen-Tagar, Tamar Saguy",
+      "visualDescriptionHe": "קבוצת אזרחים ואזרחיות בחדר מחקר אזרחי דנה בכרטיסי סקר אנונימיים מול מסכים מטושטשים ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד עמדות מגדריות משפיעות על תמיכה ציבורית בקדימות לנשים ולילדים בשחרור חטופים ישראלים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "ambivalent_sexism_gendered_preferences_gaza_hostage_crisis"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.html",
+      "usedBy": [
+        "democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חוסן לאומי נשען גם על התנגדות אזרחית מאורגנת",
+      "authorsHe": "Daniel Rakov, Sarah-Masha Fainberg",
+      "visualDescriptionHe": "מתנדבים ומתנדבות בחדר תיאום אזרחי מסדרים ציוד ומפות חירום ללא טקסט קריא או סמלים צבאיים בולטים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח כיצד התנגדות אזרחית מבוזרת תורמת לחוסן לאומי במלחמות עכשוויות, דרך מקרי אוקראינה וישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "civilian_resistance_national_resilience_ukraine_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.html",
+      "usedBy": [
+        "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שירות צבאי ממשיך לעצב אזרחות ישראלית גם מעבר לגבולות המדינה",
+      "authorsHe": "Jonathan Grossman",
+      "visualDescriptionHe": "אזרחים החיים מחוץ למדינה יושבים סביב מפה ודרכונים בחדר קהילתי, בלי מדים, נשק או טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מציע את המושג מיליטריזם חוץ־טריטוריאלי כדי להסביר כיצד מדינות משייכות ציפיות שירות גם לאזרחים שחיים מחוץ לשטחן.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "extraterritorial_militarism_emigrants_soldiers_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_policy_coherence_school_field_trips_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_policy_coherence_school_field_trips_israel_summary_he.html",
+      "usedBy": [
+        "democracy_policy_coherence_school_field_trips_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מדיניות טיולים שנתיים מלמדת כיצד הנחיות ציבוריות נעשות עקביות או עמומות",
+      "authorsHe": "Maya Mazor Tregerman",
+      "visualDescriptionHe": "אנשי חינוך וקובעי מדיניות בוחנים מפות וחומרי טיול סביב שולחן עבודה, ללא טקסט קריא או סמלי מוסד.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את מידת הקוהרנטיות של מדיניות תכנון הטיולים השנתיים במערכת החינוך הממלכתית בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "policy_coherence_school_field_trips_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.html",
+      "usedBy": [
+        "democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.html"
+      ],
+      "cardTitleHe": "יזמי מדיניות יכולים לעצב רפורמה מנהלית גם מול חסמים מוסדיים",
+      "authorsHe": "Nissim Cohen",
+      "visualDescriptionHe": "צוותי מדיניות ושירות ציבורי מסדרים כרטיסי רפורמה אנונימיים סביב שולחן עבודה ממשלתי ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח את תפקידם של יזמי מדיניות בעיצוב רפורמות מנהליות ציבוריות, תוך בחינה של ניסיון הרפורמה בשירות המדינה בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "policy_entrepreneurs_administrative_reform_israeli_case"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.html",
+      "usedBy": [
+        "democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דיאלוג בין מטפלים יהודים ופלסטינים מציע אתיקה מקצועית בזמן מלחמה",
+      "authorsHe": "Efrat Roginsky, Tamar Hadar, Nihal Midhat-Najami, Buran Saada, Rozan Khoury, Maimounah Hebi",
+      "visualDescriptionHe": "מעגל מטפלות ומטפלים במוזיקה יושב בחדר טיפולי חמים עם כלי נגינה פשוטים, ללא טקסט קריא או סמלים בולטים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מתאר מחקר השתתפותי של מטפלים במוזיקה פלסטינים־ערבים ויהודים בישראל על דיאלוג מקצועי ואתיקה בזמן סכסוך מתמשך.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "dialogue_palestinian_jewish_music_therapists_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.html",
+      "usedBy": [
+        "democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פשקווילים בקהילה החרדית חשפו מאבק על מידע, סמכות ובריאות",
+      "authorsHe": "Sima Zalcberg-Block",
+      "visualDescriptionHe": "לוח מודעות רחוב בשכונה חרדית עם פוסטרים מטושטשים לחלוטין ועוברים ושבים, ללא טקסט קריא או סמלי מוסד.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד מסרי קורונה הופצו בקהילה החרדית בישראל דרך פשקווילים כערוץ תקשורת מסורתי וקהילתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "covid_street_posters_ultra_orthodox_community_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.html"
+      ],
+      "cardTitleHe": "מדד חדש בוחן עד כמה רגולטורים שקופים, אחראים, משתפים ומכלילים",
+      "authorsHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker, Esther Van-Zimmeren",
+      "visualDescriptionHe": "חוקרי מדיניות בוחנים תרשימי רגולציה אנונימיים וכרטיסי נתונים בחדר מחקר, ללא טקסט קריא או לוגואים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מציע מודל מדידה ומאגר נתונים חדש להערכת תכונות דמוקרטיות של גופים רגולטוריים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "democratic_qualities_regulatory_bodies_measurement_database"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.html",
+      "usedBy": [
+        "democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הסכמים קיבוציים בישראל יכולים לקדם שוויון וגם לשמר אפליה",
+      "authorsHe": "Lilach Lurie",
+      "visualDescriptionHe": "חוקרי דיני עבודה ונציגי עובדים בוחנים קלסרים אנונימיים בחדר משא ומתן, ללא טקסט קריא או לוגואים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח את תפקידם של הסכמים קיבוציים בישראל בקידום או בפגיעה בשוויון של קבוצות מוגנות בשוק העבודה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "collective_bargaining_agreements_protected_groups_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-17-nightly",
+      "primaryArticle": "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "יהודים וערבים חילונים בישראל מתמודדים עם מתחים דתיים דומים בתוך קבוצותיהם",
+      "authorsHe": "Oriana Abboud-Armaly, Rachelly Ashwall-Yakar, Michal Raz-Rotem",
+      "visualDescriptionHe": "שני מעגלי דיון קהילתיים של יהודים וערבים בחדר ניטרלי משוחחים סביב כיסאות ופנקסים ללא טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן מתחים דתיים בתוך קבוצות יהודיות וערביות בישראל, דרך חוויות של לא־דתיים משתי החברות.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "intra_group_religious_tension_non_religious_jews_arabs_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-17-nightly paper-addition run.",
       "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
     }
   ],

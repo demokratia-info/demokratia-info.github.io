@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 802,
+  "paperCount": 812,
   "papers": [
+    {
+      "slug": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he",
+      "file": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
+      "permalink": "/democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
+      "sortKey": 202606170010,
+      "titleHe": "סקסיזם אמביוולנטי מעצב העדפות מגדריות סביב שחרור חטופים",
+      "paperTitle": "Ambivalent sexism predicts Israelis’ gendered preferences in the Gaza hostage crisis",
+      "authorsCardHe": "Orly Bareket, Michal Reifen-Tagar, Tamar Saguy",
+      "sourceAuthors": [
+        "Orly Bareket",
+        "Michal Reifen-Tagar",
+        "Tamar Saguy"
+      ],
+      "journal": "Communications Psychology 3(1), Article 113",
+      "dateText": "פורסם: 24 ביולי 2025",
+      "doiUrl": "https://doi.org/10.1038/s44271-025-00279-6",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.jpg",
+        "altHe": "קבוצת אזרחים ואזרחיות בחדר מחקר אזרחי דנה בכרטיסי סקר אנונימיים מול מסכים מטושטשים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Orly Bareket, Michal Reifen-Tagar ו-Tamar Saguy מנתחות מדגם יהודי־ישראלי מייצג של 1,171 משיבים סביב עסקת נובמבר 2023 וממקמות אותו מול שתי עסקאות שחרור חטופים. המחקר מראה שסקסיזם עוין נקשר להתנגדות לקדימות לנשים, ואילו סקסיזם מיטיב נקשר לתמיכה בקדימות כזאת, במיוחד ביחס לאימהות."
+    },
+    {
+      "slug": "democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he",
+      "file": "democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.html",
+      "permalink": "/democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.html",
+      "sortKey": 202606170009,
+      "titleHe": "חוסן לאומי נשען גם על התנגדות אזרחית מאורגנת",
+      "paperTitle": "Civilian Resistance as a Cornerstone of National Resilience: Insights from Ukraine and Israel",
+      "authorsCardHe": "Daniel Rakov, Sarah-Masha Fainberg",
+      "sourceAuthors": [
+        "Daniel Rakov",
+        "Sarah-Masha Fainberg"
+      ],
+      "journal": "Mūsų žinynas: karo mokslo, karinio rengimo ir ugdymo žurnalas, pp. 5-32",
+      "dateText": "פורסם: 10 ביולי 2025",
+      "doiUrl": "https://doi.org/10.47459/mz.2025.40.2.1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.jpg",
+        "altHe": "מתנדבים ומתנדבות בחדר תיאום אזרחי מסדרים ציוד ומפות חירום ללא טקסט קריא או סמלים צבאיים בולטים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Daniel Rakov ו-Sarah-Masha Fainberg משווים בין התנגדות אזרחית באוקראינה מאז פברואר 2022 לבין התגייסות אזרחית בישראל אחרי 7 באוקטובר 2023. הם טוענים שהתנגדות אזרחית אינה רכיב עזר בלבד, אלא נדבך יסודי בהגנה כוללת ובחוסן חברתי, במיוחד בשלבים הראשונים של משבר אלים."
+    },
+    {
+      "slug": "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he",
+      "file": "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.html",
+      "permalink": "/democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.html",
+      "sortKey": 202606170008,
+      "titleHe": "שירות צבאי ממשיך לעצב אזרחות ישראלית גם מעבר לגבולות המדינה",
+      "paperTitle": "Extraterritorial militarism: emigrants as soldiers in Israel",
+      "authorsCardHe": "Jonathan Grossman",
+      "sourceAuthors": [
+        "Jonathan Grossman"
+      ],
+      "journal": "Comparative Migration Studies 13(1), Article 50",
+      "dateText": "פורסם: 8 ביולי 2025",
+      "doiUrl": "https://doi.org/10.1186/s40878-025-00465-9",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he.jpg",
+        "altHe": "אזרחים החיים מחוץ למדינה יושבים סביב מפה ודרכונים בחדר קהילתי, בלי מדים, נשק או טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Jonathan Grossman מנתח שיח פרלמנטרי ישראלי ומראה כיצד אזרחים ומהגרים ישראלים בחו״ל הובנו לעיתים דרך היחס שלהם לשירות בצה״ל. המאמר מזהה שלוש צורות של מיליטריזם חוץ־טריטוריאלי: לא־חיילים, חיילים לשעבר וחיילים עתידיים."
+    },
+    {
+      "slug": "democracy_policy_coherence_school_field_trips_israel_summary_he",
+      "file": "democracy_policy_coherence_school_field_trips_israel_summary_he.html",
+      "permalink": "/democracy_policy_coherence_school_field_trips_israel_summary_he.html",
+      "sortKey": 202606170007,
+      "titleHe": "מדיניות טיולים שנתיים מלמדת כיצד הנחיות ציבוריות נעשות עקביות או עמומות",
+      "paperTitle": "Policy coherence and annual school field trips in Israel",
+      "authorsCardHe": "Maya Mazor Tregerman",
+      "sourceAuthors": [
+        "Maya Mazor Tregerman"
+      ],
+      "journal": "Journal of Outdoor and Environmental Education",
+      "dateText": "פורסם: 2 ביולי 2025",
+      "doiUrl": "https://doi.org/10.1007/s42322-025-00217-4",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_policy_coherence_school_field_trips_israel_summary_he.jpg",
+        "altHe": "אנשי חינוך וקובעי מדיניות בוחנים מפות וחומרי טיול סביב שולחן עבודה, ללא טקסט קריא או סמלי מוסד.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Maya Mazor Tregerman מנתחת מסמכי מדיניות, 12 ראיונות עומק עם מנהלים, מורים ובכירי משרד החינוך, וכן מידע מרחבי מערוצי תכנון מקוונים. הממצאים מצביעים על מדיניות עקבית יחסית בבטיחות וביטחון, אך על חוסר עקביות בהיבטים פדגוגיים ובדרך שבה ההנחיות מופצות לשטח."
+    },
+    {
+      "slug": "democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he",
+      "file": "democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.html",
+      "permalink": "/democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.html",
+      "sortKey": 202606170006,
+      "titleHe": "יזמי מדיניות יכולים לעצב רפורמה מנהלית גם מול חסמים מוסדיים",
+      "paperTitle": "Policy Entrepreneurs and the Design of Administrative Reform: A Conceptual Framework and the Israeli Case",
+      "authorsCardHe": "Nissim Cohen",
+      "sourceAuthors": [
+        "Nissim Cohen"
+      ],
+      "journal": "European Policy Analysis 12(1), Article e70013",
+      "dateText": "פורסם אונליין: 29 ביוני 2025",
+      "doiUrl": "https://doi.org/10.1002/epa2.70013",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.jpg",
+        "altHe": "צוותי מדיניות ושירות ציבורי מסדרים כרטיסי רפורמה אנונימיים סביב שולחן עבודה ממשלתי ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Nissim Cohen מציג מסגרת מושגית להערכת השפעת יזמי מדיניות על רפורמה מנהלית ובוחן אותה דרך ניסיון הרפורמה בשירות המדינה בישראל בשנים 2013-2018. המחקר משתמש בניתוח טקסטואלי ובראיונות עומק עם פוליטיקאים, בכירים וגורמים לא־ממשלתיים כדי להבין מוטיבציות, חסמים ואסטרטגיות."
+    },
+    {
+      "slug": "democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he",
+      "file": "democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.html",
+      "permalink": "/democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.html",
+      "sortKey": 202606170005,
+      "titleHe": "דיאלוג בין מטפלים יהודים ופלסטינים מציע אתיקה מקצועית בזמן מלחמה",
+      "paperTitle": "Breathing war, dreaming connection: Dialogue as an ethical foundation for collaborative work of Palestinian and Jewish music therapists in Israel",
+      "authorsCardHe": "Efrat Roginsky, Tamar Hadar, Nihal Midhat-Najami, Buran Saada, Rozan Khoury, Maimounah Hebi",
+      "sourceAuthors": [
+        "Efrat Roginsky",
+        "Tamar Hadar",
+        "Nihal Midhat-Najami",
+        "Buran Saada",
+        "Rozan Khoury",
+        "Maimounah Hebi"
+      ],
+      "journal": "Approaches: An Interdisciplinary Journal of Music Therapy 17(1)",
+      "dateText": "פורסם: 18 ביוני 2025",
+      "doiUrl": "https://doi.org/10.56883/aijmt.2025.615",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_dialogue_palestinian_jewish_music_therapists_israel_summary_he.jpg",
+        "altHe": "מעגל מטפלות ומטפלים במוזיקה יושב בחדר טיפולי חמים עם כלי נגינה פשוטים, ללא טקסט קריא או סמלים בולטים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Efrat Roginsky, Tamar Hadar, Nihal Midhat-Najami, Buran Saada, Rozan Khoury ו-Maimounah Hebi מתארים קבוצת עבודה משותפת של שישה מטפלים במוזיקה, חוקרים ומחנכים אזרחי ישראל. המחקר השתמש בקבוצת מיקוד של 90 דקות ובניתוח תמטי שהוביל לחמישה נושאים: גבולות מטושטשים, עיצוב על ידי מלחמה, זהויות מקוטעות, בדידות תרבותית ומוזיקה בטיפול בין קיטוב לזהות משותפת."
+    },
+    {
+      "slug": "democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he",
+      "file": "democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.html",
+      "permalink": "/democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.html",
+      "sortKey": 202606170004,
+      "titleHe": "פשקווילים בקהילה החרדית חשפו מאבק על מידע, סמכות ובריאות",
+      "paperTitle": "Messages dissemination regarding covid-19 by street posters: the case of the ultra-Orthodox community in Israel",
+      "authorsCardHe": "Sima Zalcberg-Block",
+      "sourceAuthors": [
+        "Sima Zalcberg-Block"
+      ],
+      "journal": "International Journal for Equity in Health 24(1), Article 169",
+      "dateText": "פורסם: 11 ביוני 2025",
+      "doiUrl": "https://doi.org/10.1186/s12939-025-02445-y",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.jpg",
+        "altHe": "לוח מודעות רחוב בשכונה חרדית עם פוסטרים מטושטשים לחלוטין ועוברים ושבים, ללא טקסט קריא או סמלי מוסד.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Sima Zalcberg-Block מנתחת 20 פשקווילים שנאספו בשנה הראשונה של מגפת הקורונה כדי להבין הפצת מסרי בריאות בקהילה החרדית בישראל. המחקר מזהה שיח רפואי תומך, שיח מתנגד להנחיות ושיח תאולוגי שמפרש את המגפה במונחי דת ומוסר."
+    },
+    {
+      "slug": "democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he",
+      "file": "democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.html",
+      "permalink": "/democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.html",
+      "sortKey": 202606170003,
+      "titleHe": "מדד חדש בוחן עד כמה רגולטורים שקופים, אחראים, משתפים ומכלילים",
+      "paperTitle": "A new measurement model and database of the democratic qualities of regulatory bodies",
+      "authorsCardHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker, Esther Van-Zimmeren",
+      "sourceAuthors": [
+        "Libby Maman",
+        "Jacint Jordana",
+        "David Levi-Faur",
+        "Edoardo Guaschino",
+        "Rahel Schomaker",
+        "Esther Van-Zimmeren"
+      ],
+      "journal": "Policy & Politics 53(4), pp. 753-775",
+      "dateText": "פורסם אונליין: 9 ביוני 2025",
+      "doiUrl": "https://doi.org/10.1332/03055736y2025d000000074",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he.jpg",
+        "altHe": "חוקרי מדיניות בוחנים תרשימי רגולציה אנונימיים וכרטיסי נתונים בחדר מחקר, ללא טקסט קריא או לוגואים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren מפתחים מדדים לשקיפות, אחריותיות, השתתפות והכללה בגופים רגולטוריים. המאגר כולל 49 גופים רגולטוריים לאומיים, תת־לאומיים ועל־לאומיים בשלושה תחומים ובתשע מדינות, ומשתמש בשיטות Item Response Theory לאימות המדדים ומשקלם."
+    },
+    {
+      "slug": "democracy_collective_bargaining_agreements_protected_groups_israel_summary_he",
+      "file": "democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.html",
+      "permalink": "/democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.html",
+      "sortKey": 202606170002,
+      "titleHe": "הסכמים קיבוציים בישראל יכולים לקדם שוויון וגם לשמר אפליה",
+      "paperTitle": "Collective Bargaining Agreements and Protected Groups in Israel",
+      "authorsCardHe": "Lilach Lurie",
+      "sourceAuthors": [
+        "Lilach Lurie"
+      ],
+      "journal": "Industrial Law Journal, Article dwaf012",
+      "dateText": "פורסם: 25 במאי 2025",
+      "doiUrl": "https://doi.org/10.1093/indlaw/dwaf012",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.jpg",
+        "altHe": "חוקרי דיני עבודה ונציגי עובדים בוחנים קלסרים אנונימיים בחדר משא ומתן, ללא טקסט קריא או לוגואים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Lilach Lurie בדקה את כל ההוראות בהסכמים קיבוציים ישראליים לאורך 60 שנה, מ-1957 עד 2016, ובסך הכול 35,520 הסכמים. המחקר מתמקד בנשים, עובדים מבוגרים, אנשים עם מוגבלות והורים, ומראה שהסכמים קיבוציים קידמו זכויות אך גם כללו פרקטיקות מפלות, שירדו בשכיחותן לאורך השנים."
+    },
+    {
+      "slug": "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he",
+      "file": "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.html",
+      "permalink": "/democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.html",
+      "sortKey": 202606170001,
+      "titleHe": "יהודים וערבים חילונים בישראל מתמודדים עם מתחים דתיים דומים בתוך קבוצותיהם",
+      "paperTitle": "Different Religions, Similar Experiences: Intra-Group Religious Tension Among Non-Religious Jews and Arabs in Israel",
+      "authorsCardHe": "Oriana Abboud-Armaly, Rachelly Ashwall-Yakar, Michal Raz-Rotem",
+      "sourceAuthors": [
+        "Oriana Abboud-Armaly",
+        "Rachelly Ashwall-Yakar",
+        "Michal Raz-Rotem"
+      ],
+      "journal": "Religions 16(5), Article 653",
+      "dateText": "פורסם: 21 במאי 2025",
+      "doiUrl": "https://doi.org/10.3390/rel16050653",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he.jpg",
+        "altHe": "שני מעגלי דיון קהילתיים של יהודים וערבים בחדר ניטרלי משוחחים סביב כיסאות ופנקסים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-17",
+      "dateModified": "2026-06-17",
+      "summaryHe": "Oriana Abboud-Armaly, Rachelly Ashwall-Yakar ו-Michal Raz-Rotem מנתחות שני מחקרים איכותניים שנערכו בישראל בשנים 2016-2019. המשתתפים כללו 28 יהודים חילונים ו-28 ערבים חילונים, והמחקר מצא דמיון מפתיע באתגרי ההכרה, השייכות והלגיטימיות מול בני קבוצה דתיים יותר."
+    },
     {
       "slug": "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he",
       "file": "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he.html",
