@@ -11,7 +11,7 @@
   "authorsCardHe": "אסף מידני",
   "paperTitle": "The Israeli Supreme Court and the Human Rights Revolution",
   "authorsHtml": "<a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",
-  "journal": "",
+  "journal": "Cambridge University Press",
   "dateText": "פורסם: 25.07.2011",
   "doiUrl": "https://doi.org/10.1017/cbo9780511998423",
   "doiLabel": "https://doi.org/10.1017/cbo9780511998423",
@@ -47,8 +47,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-16",
+  "lastUpdatedHe": "16 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

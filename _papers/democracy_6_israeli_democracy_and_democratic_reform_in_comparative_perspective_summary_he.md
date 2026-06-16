@@ -11,7 +11,7 @@
   "authorsCardHe": "Arend Lijphart",
   "paperTitle": "Israeli Democracy and Democratic Reform in Comparative Perspective",
   "authorsHtml": "<a href=\"https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html\" target=\"_blank\" rel=\"noopener noreferrer\">Arend Lijphart</a>",
-  "journal": "Israeli Democracy Under Stress",
+  "journal": "Lynne Rienner Publishers",
   "dateText": "פורסם: 31 בדצמבר 1993",
   "doiUrl": "https://doi.org/10.1515/9781685856465-007",
   "doiLabel": "https://doi.org/10.1515/9781685856465-007",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-16",
+  "lastUpdatedHe": "16 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

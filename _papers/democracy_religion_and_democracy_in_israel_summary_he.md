@@ -11,7 +11,7 @@
   "authorsCardHe": "Shlomo Deshen",
   "paperTitle": "Religion and Democracy in Israel",
   "authorsHtml": "Shlomo Deshen",
-  "journal": "Israeli Judaism",
+  "journal": "Routledge",
   "dateText": "פורסם: 16.01.2018",
   "doiUrl": "https://doi.org/10.4324/9781351293921-19",
   "doiLabel": "https://doi.org/10.4324/9781351293921-19",
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-16",
+  "lastUpdatedHe": "16 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק ביחסים בין דת, זהות, מדינה ודמוקרטיה בישראל, ומראה מדוע הדיון בנושא קשור לחופש, שוויון, השתייכות וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
