@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 812,
+  "paperCount": 822,
   "papers": [
+    {
+      "slug": "democracy_politicizing_mobility_covid_international_student_mobility_israel_china_uae_summary_he",
+      "file": "democracy_politicizing_mobility_covid_international_student_mobility_israel_china_uae_summary_he.html",
+      "permalink": "/democracy_politicizing_mobility_covid_international_student_mobility_israel_china_uae_summary_he.html",
+      "sortKey": 202606180010,
+      "titleHe": "מגפת הקורונה הפכה ניידות סטודנטים לשדה של כוח, גבולות ואי־שוויון",
+      "paperTitle": "Politicizing Mobility in the COVID-19 Pandemic: International Student Mobility in Israel, China, and the United Arab Emirates",
+      "authorsCardHe": "Annette Bamberger, Min Ji Kim, Seungah Sarah Lee, Fei Yan",
+      "sourceAuthors": [
+        "Annette Bamberger",
+        "Min Ji Kim",
+        "Seungah Sarah Lee",
+        "Fei Yan"
+      ],
+      "journal": "Social Justice Research 38(3), 290-311",
+      "dateText": "פורסם מקוון: 21 במאי 2025",
+      "doiUrl": "https://doi.org/10.1007/s11211-025-00455-3",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politicizing_mobility_covid_international_student_mobility_israel_china_uae_summary_he.jpg",
+        "altHe": "חוקרים וסטודנטים בחדר אוניברסיטאי בוחנים מפות ומסמכי מדיניות אנונימיים על ניידות בזמן משבר.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Annette Bamberger, Min Ji Kim, Seungah Sarah Lee ו-Fei Yan מראות כי משבר הקורונה לא רק עצר תנועה בין מדינות, אלא חשף כיצד ניידות סטודנטים תלויה בכוח מדינתי, באסטרטגיות מוסדיות ובאי־שוויון. בישראל הן מזהות פתיחה סלקטיבית של גבולות ומתחים בין אינטרסים דתיים וחילוניים, ובמדינות ההשוואה הן בוחנות שליטה נרטיבית, כוח רך ומבנה שוק השכלה כפול."
+    },
+    {
+      "slug": "democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he",
+      "file": "democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he.html",
+      "permalink": "/democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he.html",
+      "sortKey": 202606180009,
+      "titleHe": "כשמטפלים חילונים פוגשים לקוחות חרדים, כשירות תרבותית אינה רק מיומנות מקצועית",
+      "paperTitle": "The Cross-Cultural Competencies and Attitudes Toward Ultraorthodox Clients Among Secular Therapists in Israel: An Explanatory Study",
+      "authorsCardHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis, Jan Domaradzki",
+      "sourceAuthors": [
+        "Einat Doron",
+        "Dariusz Walkowiak",
+        "Rivka Tuval-Mashiach",
+        "Sławomir Tobis",
+        "Jan Domaradzki"
+      ],
+      "journal": "Healthcare 13(10), Article 1210",
+      "dateText": "פורסם: 21 במאי 2025",
+      "doiUrl": "https://doi.org/10.3390/healthcare13101210",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he.jpg",
+        "altHe": "מטפלים בחדר הכשרה מקצועי דנים בכרטיסי מקרה אנונימיים על אמון וכשירות תרבותית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis ו-Jan Domaradzki מנתחים סקר אנונימי שנערך בישראל בין אפריל לנובמבר 2024 בקרב 70 מטפלים חילונים. הממצאים מצביעים על כשירות כללית גבוהה, אך על כשירות נמוכה ומורכבת יותר בעבודה עם לקוחות חרדים, ועל קשר בין ניסיון טיפולי לבין עמדות חיוביות יותר."
+    },
+    {
+      "slug": "democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he",
+      "file": "democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he.html",
+      "permalink": "/democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he.html",
+      "sortKey": 202606180008,
+      "titleHe": "חינוך סביבתי בלי פוליטיקה מחמיץ את ממד הכוח של משבר האקלים",
+      "paperTitle": "Bridging Geopolitics and Environmental Issues in Geography Education: Exploratory Teachers’ Insights from France and Israel",
+      "authorsCardHe": "Tal Yaar-Waisel, Caroline Leininger-Frézal",
+      "sourceAuthors": [
+        "Tal Yaar-Waisel",
+        "Caroline Leininger-Frézal"
+      ],
+      "journal": "European Journal of Geography 16(2), 184-196",
+      "dateText": "פורסם: 19 במאי 2025",
+      "doiUrl": "https://doi.org/10.48088/ejg.t.yaa.16.2.184.196",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he.jpg",
+        "altHe": "מורים בסדנת גאוגרפיה בוחנים מפות ומשאבי למידה ללא טקסט קריא על סביבה ופוליטיקה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Tal Yaar-Waisel ו-Caroline Leininger-Frézal מנתחות תוכניות לימודים וראיונות עם 20 מורים בצרפת ובישראל. הן מראות כי אף שתוכניות הלימודים כוללות גאופוליטיקה סביבתית ומורים מזהים קשר בין סביבה לפוליטיקה, היבטים פוליטיים מקומיים כמעט אינם מודגשים והכשרת המורים אינה תמיד מכינה לכך."
+    },
+    {
+      "slug": "democracy_religion_ideology_governance_israel_political_landscape_summary_he",
+      "file": "democracy_religion_ideology_governance_israel_political_landscape_summary_he.html",
+      "permalink": "/democracy_religion_ideology_governance_israel_political_landscape_summary_he.html",
+      "sortKey": 202606180007,
+      "titleHe": "המתח בין שמרנות חרדית למודרניזציה מעצב את אתגרי המשילות בישראל",
+      "paperTitle": "Theoretical Approaches on Religion, Ideology, and Governance in Israel's Political Landscape",
+      "authorsCardHe": "Yaron Katz",
+      "sourceAuthors": [
+        "Yaron Katz"
+      ],
+      "journal": "Randwick International of Social Science Journal 6(2), 91-103",
+      "dateText": "פורסם: 30 באפריל 2025",
+      "doiUrl": "https://doi.org/10.47175/rissj.v6i2.1146",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_ideology_governance_israel_political_landscape_summary_he.jpg",
+        "altHe": "נציגים קהילתיים מגוונים בחדר דיון עירוני דנים במסמכי מדיניות אנונימיים על דת ומשילות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Yaron Katz מציג ניתוח תאורטי של המתח בין שמרנות חרדית לבין דרישות החברה המודרנית בישראל. המאמר מדגיש כי השמרנות מספקת זהות ויציבות, אך גם מתנגדת לשינויים, בעוד מודרניזציה וקונפליקט פוליטי יוצרים צורך במשילות מסתגלת, בייצוג הוגן ובדיאלוג מכליל."
+    },
+    {
+      "slug": "democracy_equitable_burden_sharing_israel_national_defense_summary_he",
+      "file": "democracy_equitable_burden_sharing_israel_national_defense_summary_he.html",
+      "permalink": "/democracy_equitable_burden_sharing_israel_national_defense_summary_he.html",
+      "sortKey": 202606180006,
+      "titleHe": "שאלת השוויון בנטל הביטחוני היא גם מבחן לחוזה האזרחי בישראל",
+      "paperTitle": "The Controversy Over Equitable Burden-Sharing In Israel's National Defense",
+      "authorsCardHe": "Yaron Katz",
+      "sourceAuthors": [
+        "Yaron Katz"
+      ],
+      "journal": "International Journal of Social Science and Human Research 8(4)",
+      "dateText": "פורסם: 18 באפריל 2025",
+      "doiUrl": "https://doi.org/10.47191/ijsshr/v8-i4-34",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_equitable_burden_sharing_israel_national_defense_summary_he.jpg",
+        "altHe": "משתתפים מקהילות שונות בדיון מדיניות אזרחי על שירות, אחריות ציבורית וחלוקת חובות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Yaron Katz מתאר כיצד הפטור הרחב של גברים חרדים משירות צבאי נעשה שנוי יותר במחלוקת ככל שהאוכלוסייה החרדית גדלה וככל שהמלחמה מחדדת את צורכי הביטחון. המאמר קושר בין מודל האזרח־חייל, ליברליזציה, זהות לאומית וחוזה חברתי חדש או מעודכן בין המדינה לקהילות החרדיות."
+    },
+    {
+      "slug": "democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he",
+      "file": "democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he.html",
+      "permalink": "/democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he.html",
+      "sortKey": 202606180005,
+      "titleHe": "האחים המוסלמים ממשיכים למסגר לגיטימציה דרך דמוקרטיה וזכויות אדם אחרי 2013",
+      "paperTitle": "In Pursuit of Legitimacy: The Muslim Brotherhood’s Discourse on Democracy and Human Rights in Post-2013 Egypt",
+      "authorsCardHe": "Bosmat Yefet",
+      "sourceAuthors": [
+        "Bosmat Yefet"
+      ],
+      "journal": "Religions 16(4), Article 528",
+      "dateText": "פורסם: 18 באפריל 2025",
+      "doiUrl": "https://doi.org/10.3390/rel16040528",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he.jpg",
+        "altHe": "חוקרים בחדר מחקר אקדמי מנתחים הצהרות פוליטיות אנונימיות ומפות אזוריות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Bosmat Yefet בוחנת הצהרות רשמיות של Ikhwanonline מן השנים 2015-2024 כדי להבין כיצד התנועה מבקשת להשיב לעצמה לגיטימציה פוליטית. הממצאים מצביעים על המשכיות רטורית: למרות כישלון המחויבות האסטרטגית לדמוקרטיה כנתיב לדומיננטיות פוליטית, הזרם הוותיק ממשיך להציג את מאבקו כחלק ממאבק העם המצרי בדיכוי ובסמכותנות."
+    },
+    {
+      "slug": "democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he",
+      "file": "democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he.html",
+      "permalink": "/democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he.html",
+      "sortKey": 202606180004,
+      "titleHe": "המחאה סביב הרפורמה המשפטית נקשרה למצוקת הסתגלות גם מעבר לקווי המחנה",
+      "paperTitle": "Symptoms of adjustment disorder during social unrest: The role of varied stances in Israel's sociopolitical climate",
+      "authorsCardHe": "Yafit Levin, Rahel Bachem, Elazar Leshem, Menachem Ben-Ezra, Martin Robinson, Yaira Hamama-Raz",
+      "sourceAuthors": [
+        "Yafit Levin",
+        "Rahel Bachem",
+        "Elazar Leshem",
+        "Menachem Ben-Ezra",
+        "Martin Robinson",
+        "Yaira Hamama-Raz"
+      ],
+      "journal": "Journal of Affective Disorders 381, 584-591",
+      "dateText": "פורסם: יולי 2025",
+      "doiUrl": "https://doi.org/10.1016/j.jad.2025.04.004",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he.jpg",
+        "altHe": "חוקרי בריאות נפש בוחנים כרטיסי סקר ותרשימי רשת אנונימיים על מתח חברתי סביב מחלוקת ציבורית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Yafit Levin, Rahel Bachem, Elazar Leshem, Menachem Ben-Ezra, Martin Robinson ו-Yaira Hamama-Raz מנתחים מדגם מייצג של 1,999 מבוגרים בישראל. המחקר מצא כי מתנגדי הרפורמה דיווחו על רמות גבוהות יותר של הפרעת הסתגלות אפשרית ביחס לניטרלים ולתומכים, אך גם זיהה מבנה סימפטומים דומה בין הקבוצות ואת הקושי להירגע כסימפטום מרכזי."
+    },
+    {
+      "slug": "democracy_ngos_shared_society_israel_vision_function_influence_summary_he",
+      "file": "democracy_ngos_shared_society_israel_vision_function_influence_summary_he.html",
+      "permalink": "/democracy_ngos_shared_society_israel_vision_function_influence_summary_he.html",
+      "sortKey": 202606180003,
+      "titleHe": "ארגוני חברה אזרחית לקידום חברה משותפת בישראל נשענים על חזון דומה ואסטרטגיות שונות",
+      "paperTitle": "Vision, Function, and Influence: Analyzing NGOs for a Shared Society in Israel",
+      "authorsCardHe": "Wurud Jayusi, Adi Binhas",
+      "sourceAuthors": [
+        "Wurud Jayusi",
+        "Adi Binhas"
+      ],
+      "journal": "Conflict Resolution Quarterly 43(1), 99-111",
+      "dateText": "פורסם מקוון: 7 באפריל 2025",
+      "doiUrl": "https://doi.org/10.1002/crq.21481",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ngos_shared_society_israel_vision_function_influence_summary_he.jpg",
+        "altHe": "צוות חברה אזרחית מגוון מתכנן פעילות קהילתית סביב מפות שירותים ופתקיות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Wurud Jayusi ו-Adi Binhas ראיינו שבעה בעלי תפקידים מרכזיים בארבעה ארגוני חברה אזרחית ובחנו גם אתרי ארגונים כדי להבין חזון, אסטרטגיות, מבנה והרכב צוותים. הממצאים מראים כי הארגונים חולקים מטרות דומות אך מתמחים בתחומים שונים, וכי המבנים שלהם משקפים מחויבות לשוויון ולרב־תרבותיות."
+    },
+    {
+      "slug": "democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he",
+      "file": "democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he.html",
+      "permalink": "/democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he.html",
+      "sortKey": 202606180002,
+      "titleHe": "המסלול הישראלי למדיניות הפללת לקוחות מראה כיצד פמיניזם ממשלי עלול לדחוק עובדות מין לשוליים",
+      "paperTitle": "The Sex Work Governance Odyssey: The Israeli Velvet Triangle and the Adoption of the End Demand Policy",
+      "authorsCardHe": "Yeela Lahav-Raz",
+      "sourceAuthors": [
+        "Yeela Lahav-Raz"
+      ],
+      "journal": "Gender, Work & Organization 32(5), 2051-2061",
+      "dateText": "פורסם מקוון: 6 באפריל 2025",
+      "doiUrl": "https://doi.org/10.1111/gwao.13268",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he.jpg",
+        "altHe": "דיון מדיניות זהיר בחדר ועדה על זכויות, שירותים ורגולציה ללא טקסט קריא או דימויים מנצלים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Yeela Lahav-Raz מנתחת את ההקשר החברתי והמוסדי שהוביל לשינוי במדיניות הזנות בישראל, במיוחד דרך פעילות תת־הוועדה למאבק בסחר בנשים ובזנות. המאמר טוען כי תת־הוועדה תפקדה כ“משולש קטיפתי” מקומי, השפיעה על רטוריקה ומדיניות, ובמקביל תרמה לסטיגמטיזציה ולשוליות של עובדות ועובדי מין."
+    },
+    {
+      "slug": "democracy_digital_children_online_democratic_deliberations_summary_he",
+      "file": "democracy_digital_children_online_democratic_deliberations_summary_he.html",
+      "permalink": "/democracy_digital_children_online_democratic_deliberations_summary_he.html",
+      "sortKey": 202606180001,
+      "titleHe": "ילדים כמשתתפים דיגיטליים יכולים להרחיב את הדמיון של דיון דמוקרטי מקוון",
+      "paperTitle": "The Poetics of Digital Children and Designing Online Democratic Deliberations",
+      "authorsCardHe": "Daniella Zlotnik Raz",
+      "sourceAuthors": [
+        "Daniella Zlotnik Raz"
+      ],
+      "journal": "Pólemos 19(1), 47-64",
+      "dateText": "פורסם מקוון: 1 באפריל 2025",
+      "doiUrl": "https://doi.org/10.1515/pol-2025-2008",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_digital_children_online_democratic_deliberations_summary_he.jpg",
+        "altHe": "ילדים ומנחים מבוגרים משתתפים בתרגיל דיון דיגיטלי עם טאבלטים ומסכי וידאו ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-18",
+      "dateModified": "2026-06-18",
+      "summaryHe": "Daniella Zlotnik Raz טוענת שהמחקר על דמוקרטיה דיונית מקוונת עדיין אינו מפתח מספיק את הרעיון של פואטיקה דיונית ואת מקומם של ילדים כמשתתפים. בהסתמך על תובנות מחוויות ילדים בשיחות וידאו בתקופת הקורונה, המאמר מציע המלצות לעיצוב תהליכי דיון מקוונים ואף מציע הקמת מרכז דיגיטלי ייעודי להשתתפות ילדים."
+    },
     {
       "slug": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he",
       "file": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",

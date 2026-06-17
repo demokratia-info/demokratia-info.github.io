@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17",
+  "lastUpdated": "2026-06-18",
   "sampleSize": 6,
-  "seed": "2026-06-17-homepage-high-fit",
+  "seed": "2026-06-18-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 258,
+  "highFitPaperCount": 268,
   "paperSlugs": [
-    "democracy_lived_hybridity_and_armed_citizenship_civilian_gun_ownership_in_contemporary_israel_summary_he",
-    "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he",
-    "democracy_international_law_in_israeli_courts_summary_he",
-    "democracy_holocaust_memorial_day_affective_polarization_summary_he",
-    "democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he",
-    "democracy_china_sharp_power_israel_discourse_summary_he"
+    "democracy_human_rights_nongovernability_political_culture_summary_he",
+    "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he",
+    "democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he",
+    "democracy_nation_owe_non_citizens_rights_summary_he",
+    "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he",
+    "democracy_social_movements_in_an_era_of_post_democracy_how_the_israeli_j14_tent_protests_of_2011_challen_summary_he"
   ]
 }
