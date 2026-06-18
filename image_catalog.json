@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-18",
+  "lastUpdated": "2026-06-19",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -20151,6 +20151,237 @@
       ],
       "reuseGuidance": "Do not reuse for future new papers; generated specifically for this paper in the 2026-06-18-nightly paper-addition run.",
       "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape, no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.html",
+      "usedBy": [
+        "democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.html"
+      ],
+      "cardTitleHe": "התנדבות במרחב כפרי תלויה באומץ לגעת גם בקונפליקטים קהילתיים",
+      "authorsHe": "Yasmin Aboud‐Halabi, Galit Yanay‐Ventura",
+      "visualDescriptionHe": "תושבים במרכז קהילתי כפרי מתכננים התנדבות סביב ילדים ומחלוקות מקומיות, ללא טקסט קריא או סמלים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את המרחב הציבורי הכפרי בצפון ישראל דרך מודעות התושבים לפוטנציאל ההתנדבות שלהם.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public_sphere_volunteering_dynamics_rural_northern_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_good_citizens_new_religious_movements_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_good_citizens_new_religious_movements_israel_summary_he.html",
+      "usedBy": [
+        "democracy_good_citizens_new_religious_movements_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תנועות דתיות חדשות בישראל חיפשו לגיטימציה דרך שפת האזרחות הטובה",
+      "authorsHe": "Guy Ben‐Porat, Boaz Huss",
+      "visualDescriptionHe": "חברי קהילה מארגנים ציוד התנדבות וחומרי לימוד בחדר אזרחי, ללא סמלי דת בולטים או טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח אסטרטגיות לגיטימציה של תנועות דתיות חדשות בישראל על בסיס ראיונות ודיווחים תקשורתיים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "good_citizens_new_religious_movements_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_high_courts_endowments_institutional_change_israel_us_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_high_courts_endowments_institutional_change_israel_us_summary_he.html",
+      "usedBy": [
+        "democracy_high_courts_endowments_institutional_change_israel_us_summary_he.html"
+      ],
+      "cardTitleHe": "תמיכה בשינוי בתי משפט עליונים תלויה בתחושת הרווח שהציבור מייחס להם",
+      "authorsHe": "Eileen Braman, Udi Sommer, Olivier Kamoun",
+      "visualDescriptionHe": "פנים בניין בית המשפט העליון בישראל, צילום תיעודי חופשי המתאים לדיון על בתי משפט עליונים ושינוי מוסדי.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן תמיכה ציבורית בשינוי מאפיינים מוסדיים של בתי משפט עליונים בישראל ובארצות הברית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "high_courts_endowments_institutional_change_israel_us"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons documentary photo, center-cropped/resized to 800x600; direct fit for high-court institutional-change paper; no readable text or logos as focal subject.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Interior_of_Israel_supreme_court_building.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Israel_supreme_court_building.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Avi1111 / Dr. Avishai Teicher"
+    },
+    {
+      "file": "html_qa/democracy_october_7_public_organizations_crisis_communication_social_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_october_7_public_organizations_crisis_communication_social_media_summary_he.html",
+      "usedBy": [
+        "democracy_october_7_public_organizations_crisis_communication_social_media_summary_he.html"
+      ],
+      "cardTitleHe": "אחרי 7 באוקטובר, מסרי שיתוף אזרחים עוררו מעורבות גבוהה במיוחד ברשתות",
+      "authorsHe": "Vincent Mabillard, Raphaël Zumofen, Gal Yavetz, Jenny Bronstein",
+      "visualDescriptionHe": "צוות תקשורת משבר ציבורי בוחן מסכים ומפות מטושטשים בחדר מצב אזרחי, ללא סמלים או טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח שימוש בפייסבוק של ארגונים ציבוריים בישראל לאחר מתקפת 7 באוקטובר ואת השפעת תוכן המסרים על מעורבות אזרחים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "october_7_public_organizations_crisis_communication_social_media"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_queering_militarism_israeli_photography_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_queering_militarism_israeli_photography_summary_he.html",
+      "usedBy": [
+        "democracy_queering_militarism_israeli_photography_summary_he.html"
+      ],
+      "cardTitleHe": "צילום ישראלי קווירי יכול לחשוף את הסדקים בדמות החייל הגברי הלאומי",
+      "authorsHe": "Nissim Gal",
+      "visualDescriptionHe": "סצנת גלריה וסטודיו עם אוצרים ואביזרי פרפורמנס לבושים במלואם, ללא סמלי צבא או טקסט קריא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח את סדרת Soldiers של עדי נס ואת החיבור בין קוויריות, מיליטריזם ולאומיות בצילום ישראלי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "queering_militarism_israeli_photography"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_democratic_education_controversial_issues_students_polarising_times_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_democratic_education_controversial_issues_students_polarising_times_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_education_controversial_issues_students_polarising_times_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך דמוקרטי זקוק לדיון אמיתי במחלוקות גם בעידן של קיטוב ומידע כוזב",
+      "authorsHe": "Simon Eten Angyagre",
+      "visualDescriptionHe": "כיתה ריקה בקולג׳, צילום חופשי שמסמן מרחב חינוכי לדיון אזרחי במחלוקות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את עמדות תלמידים לגבי הוראת סוגיות שנויות במחלוקת כחלק מחינוך דמוקרטי בזמנים מקוטבים.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic_education_controversial_issues_students_polarising_times"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons CC0 classroom photo, center-cropped/resized to 800x600; suitable standard-fitness education scene with no identifiable students.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Empty_class_room.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Empty_class_room.jpg",
+      "license": "CC0",
+      "creator": "Saral Shots"
+    },
+    {
+      "file": "html_qa/democracy_ai_regulatory_sandbox_frameworks_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_ai_regulatory_sandbox_frameworks_israel_summary_he.html",
+      "usedBy": [
+        "democracy_ai_regulatory_sandbox_frameworks_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ארגזי חול רגולטוריים לבינה מלאכותית בישראל מאזנים חדשנות עם אחריות ציבורית חלקית בלבד",
+      "authorsHe": "Amir Cahane, Michael Sierra",
+      "visualDescriptionHe": "רגולטורים, משפטנים ומהנדסים דנים במודל רכב אוטונומי ובמסמכי מדיניות אנונימיים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מציג מקרה בוחן של מסגרות ארגז חול רגולטורי לבינה מלאכותית בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "ai_regulatory_sandbox_frameworks_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_eritrean_forced_migrants_social_integration_israeli_professionals_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_eritrean_forced_migrants_social_integration_israeli_professionals_summary_he.html",
+      "usedBy": [
+        "democracy_eritrean_forced_migrants_social_integration_israeli_professionals_summary_he.html"
+      ],
+      "cardTitleHe": "שילוב מבקשי מקלט אריתראים בישראל מתקיים לצד הדרה משפטית וחברתית מתמשכת",
+      "authorsHe": "Lilach Lev Ari, Arie Herscovici",
+      "visualDescriptionHe": "נציגי קהילה ואנשי מקצוע בשיחת ייעוץ סביב מסמכים אנונימיים על שילוב ושירותים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן תפיסות של שילוב, הכלה והדרה בקרב מבקשי מקלט אריתראים ואנשי מקצוע ישראלים המסייעים להם.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "eritrean_forced_migrants_social_integration_israeli_professionals"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_welfare_rights_online_government_information_readability_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_welfare_rights_online_government_information_readability_israel_summary_he.html",
+      "usedBy": [
+        "democracy_welfare_rights_online_government_information_readability_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מידע ממשלתי על זכויות רווחה צריך להיות מובן, לא רק זמין באינטרנט",
+      "authorsHe": "Frida Elek-BenMoshe, Sheizaf Rafaeli",
+      "visualDescriptionHe": "חוקרים ועובדי שירות ציבורי בוחנים מסכים ומסמכים מטושטשים על קריאות מידע וזכויות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את קריאות המידע המקוון על זכויות והטבות רווחה בישראל ואת הקשר למדדי מעורבות משתמשים.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "welfare_rights_online_government_information_readability_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_transgression_violence_israeli_palestinian_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-19-nightly",
+      "primaryArticle": "democracy_transgression_violence_israeli_palestinian_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_transgression_violence_israeli_palestinian_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "המעבר מטרנסגרסיה לאלימות מציב דילמה דמוקרטית חריפה בסכסוך הישראלי־פלסטיני",
+      "authorsHe": "Yaron Katz",
+      "visualDescriptionHe": "חוקרים ומתווכים מנתחים מפות וכרטיסי מדיה חברתית מטושטשים בחדר אזרחי ללא סמלי מדינה.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את גבולות הטרנסגרסיה והאלימות במסגרת הסכסוך הישראלי־פלסטיני ואת הדילמות הדמוקרטיות שהן יוצרות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "transgression_violence_israeli_palestinian_conflict"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
     }
   ],
   "topicGraphics": [
