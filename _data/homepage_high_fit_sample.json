@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-20",
   "sampleSize": 6,
-  "seed": "2026-06-19-homepage-high-fit",
+  "seed": "2026-06-20-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 277,
+  "highFitPaperCount": 287,
   "paperSlugs": [
-    "democracy_cities_fight_for_autonomy_protest_israel_summary_he",
+    "democracy_childrens_rights_needs_war_adolescents_israel_summary_he",
     "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he",
-    "democracy_israeli_demonstration_posters_silence_summary_he",
-    "democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he",
-    "democracy_democracy_the_jewish_arab_cleavage_and_tolerance_education_in_israel_summary_he",
-    "democracy_ngos_shared_society_israel_vision_function_influence_summary_he"
+    "democracy_holocaust_memorial_day_affective_polarization_summary_he",
+    "democracy_haredim_higher_education_liberal_democracy_summary_he",
+    "democracy_the_dissociative_effects_of_institutional_versus_personal_and_general_social_trust_on_summary_he",
+    "democracy_deepening_apartheid_political_geography_israel_palestine_summary_he"
   ]
 }

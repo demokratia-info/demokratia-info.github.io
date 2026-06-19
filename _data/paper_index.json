@@ -1,8 +1,283 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 832,
+  "paperCount": 842,
   "papers": [
+    {
+      "slug": "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he",
+      "file": "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.html",
+      "permalink": "/democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.html",
+      "sortKey": 202606200010,
+      "titleHe": "השירות הצבאי של הדרוזים אינו מבטיח שוויון אזרחי מלא",
+      "paperTitle": "The Druze in the army: a (very) limited entrance ticket to Israeli (Jewish) society",
+      "authorsCardHe": "Rabah Halabi",
+      "sourceAuthors": [
+        "Rabah Halabi"
+      ],
+      "journal": "Kulturní studia 2024(2), 66-89",
+      "dateText": "פורסם: 1 בנובמבר 2024",
+      "doiUrl": "https://doi.org/10.7160/ks.2024.230204",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.jpg",
+        "altHe": "גברים דרוזים ואנשי קהילה יושבים סביב שולחן בדיון אזרחי על שירות, שייכות ושוויון.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Rabah Halabi מנתח ראיונות עומק עם צעירים דרוזים בישראל ושואל האם השירות הצבאי משמש כרטיס כניסה לחברה היהודית־ישראלית. לפי המאמר, השירות מחזק לעיתים זהות ישראלית, אך אינו מתורגם בהכרח לשוויון זכויות מלא או להסרת שוליות במבנה אתנו־רפובליקני."
+    },
+    {
+      "slug": "democracy_israel_political_developments_data_2023_summary_he",
+      "file": "democracy_israel_political_developments_data_2023_summary_he.html",
+      "permalink": "/democracy_israel_political_developments_data_2023_summary_he.html",
+      "sortKey": 202606200009,
+      "titleHe": "שנת 2023 חשפה בישראל משבר כפול של מוסדות, מחאה וביטחון",
+      "paperTitle": "Israel: Political Developments and Data in 2023",
+      "authorsCardHe": "Yosi Ganel",
+      "sourceAuthors": [
+        "Yosi Ganel"
+      ],
+      "journal": "European Journal of Political Research Political Data Yearbook 63(1), 235-247",
+      "dateText": "בגיליון 63(1), 2024; Crossref מציין פרסום מקוון ב-1 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1111/2047-8852.12469",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_political_developments_data_2023_summary_he.jpg",
+        "altHe": "מבנה הכנסת בירושלים בצילום חוץ המשמש רקע לסקירת מוסדות ופוליטיקה בישראל בשנת 2023.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Yosi Ganel מציג בשנתון הפוליטי האירופי את ישראל בשנת 2023 כשנה של טלטלה אזרחית וביטחונית. הסקירה מחברת בין הצעת הרפורמה המשפטית, מחאות המוניות, תיקונים לחוקי יסוד, מתקפת 7 באוקטובר, ממשלת חירום והשפעות כלכליות."
+    },
+    {
+      "slug": "democracy_judicial_reform_spark_october_7_war_summary_he",
+      "file": "democracy_judicial_reform_spark_october_7_war_summary_he.html",
+      "permalink": "/democracy_judicial_reform_spark_october_7_war_summary_he.html",
+      "sortKey": 202606200008,
+      "titleHe": "הרפורמה המשפטית פגעה בלכידות החברתית שישראל מציגה כלפי חוץ",
+      "paperTitle": "The Judicial Reform in Israel: the Spark that Led to the October 7th War",
+      "authorsCardHe": "Mordechai Levy",
+      "sourceAuthors": [
+        "Mordechai Levy"
+      ],
+      "journal": "Przegląd Politologiczny 2024(2), 25-37",
+      "dateText": "פורסם: 30 ביולי 2024",
+      "doiUrl": "https://doi.org/10.14746/pp.2024.29.2.3",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_reform_spark_october_7_war_summary_he.jpg",
+        "altHe": "חוקרים ואנשי מדיניות בוחנים מסמכים ומפת אירועים מטושטשת בדיון על רפורמה משפטית, מחאה ולכידות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Mordechai Levy מנתח את הרפורמה המשפטית ואת המחאה שנמשכה חודשים ארוכים לפני מתקפת 7 באוקטובר. לפי טענתו, ארגוני חמאס והג׳יהאד האסלאמי פירשו את הפילוג הפנימי בישראל כסימן לחולשה, ולכן לכידות חברתית מוצגת כחלק מתפיסת ההרתעה ולא רק כערך אזרחי."
+    },
+    {
+      "slug": "democracy_lgbtq_older_adults_aging_futures_israel_summary_he",
+      "file": "democracy_lgbtq_older_adults_aging_futures_israel_summary_he.html",
+      "permalink": "/democracy_lgbtq_older_adults_aging_futures_israel_summary_he.html",
+      "sortKey": 202606200007,
+      "titleHe": "זקנה בקהילה הלהט״בית בישראל דורשת זכויות, משפחה נבחרת ומעני טיפול",
+      "paperTitle": "Needs, Experiences, and Hopes for Aging Futures among Older Adults in the LGBTQ Communities: A Qualitative Study in Israel",
+      "authorsCardHe": "Daniel Sperling",
+      "sourceAuthors": [
+        "Daniel Sperling"
+      ],
+      "journal": "Archives of Sexual Behavior 53(8), 3139-3150",
+      "dateText": "פורסם מקוון: 15 ביולי 2024; בגיליון 53(8), אוגוסט 2024",
+      "doiUrl": "https://doi.org/10.1007/s10508-024-02938-x",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_lgbtq_older_adults_aging_futures_israel_summary_he.jpg",
+        "altHe": "מבוגרים ואשת מקצוע יושבים סביב שולחן בחדר קהילתי ומתכננים תמיכה וטיפול לעת זקנה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Daniel Sperling מנתח 21 ראיונות עומק עם חברי וחברות קהילות להט״ב בישראל בני 55 ומעלה. המחקר מצביע על בדידות, גילנות, יחסים משפחתיים מורכבים ופחד מאפליה במוסדות טיפול ודיור, אך גם על אפשרות לדמיין הזדקנות קווירית כבעלת תקווה ויצירתיות."
+    },
+    {
+      "slug": "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he",
+      "file": "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.html",
+      "permalink": "/democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.html",
+      "sortKey": 202606200006,
+      "titleHe": "פגיעה מוסרית של לוחמים יכולה להפוך גם לפעולה אזרחית ופוליטית",
+      "paperTitle": "From active duty to activism: how moral injury and combat trauma drive political activism and societal reintegration among Israeli veterans",
+      "authorsCardHe": "Adi Levy, Michael L. Gross",
+      "sourceAuthors": [
+        "Adi Levy",
+        "Michael L. Gross"
+      ],
+      "journal": "Frontiers in Public Health 12",
+      "dateText": "פורסם: 5 ביוני 2024",
+      "doiUrl": "https://doi.org/10.3389/fpubh.2024.1336406",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.jpg",
+        "altHe": "ותיקי לחימה בלבוש אזרחי יושבים במעגל שיחה על אחריות, שיקום ומעורבות אזרחית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Adi Levy ו-Michael L. Gross מנתחים 13 ראיונות עומק עם חיילים לשעבר שנחשפו לאירועים בעלי פוטנציאל לפגיעה מוסרית. הם מבחינים בין נרטיב הומניטרי, שמוביל לעיתים לתיקון ולעשייה חברתית, לבין נרטיב ביטחון לאומי, שמזין כעס, מחאה ואקטיביזם פוליטי אינטנסיבי."
+    },
+    {
+      "slug": "democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he",
+      "file": "democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.html",
+      "permalink": "/democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.html",
+      "sortKey": 202606200005,
+      "titleHe": "אלימות ונשק בקרב צעירים ערבים קשורים גם לדימויי גבריות ולרשתות חברתיות",
+      "paperTitle": "Exploring the Link between Masculine Perceptions, Violence, Social Media Influence, and Weapon Carrying and Use: A Qualitative Inquiry into Arab Adolescent Boys and Young Men in Israel",
+      "authorsCardHe": "Ibrahim Badarna, Anat Gesser-Edelsburg",
+      "sourceAuthors": [
+        "Ibrahim Badarna",
+        "Anat Gesser-Edelsburg"
+      ],
+      "journal": "Social Sciences 13(3), article 165",
+      "dateText": "פורסם: 13 במרץ 2024",
+      "doiUrl": "https://doi.org/10.3390/socsci13030165",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.jpg",
+        "altHe": "נערים וצעירים ערבים יושבים עם מדריכים בסדנת קהילה על גבריות, אמון וביטחון אישי.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Ibrahim Badarna ו-Anat Gesser-Edelsburg משלבים ניתוח תוכן, אתנוגרפיה דיגיטלית וניתוח סמיוטי כדי להבין אלימות ונשק בקרב 40 נערים וצעירים ערבים מוסלמים ונוצרים בישראל. המאמר מצביע על תפקיד של תפיסות גבריות, אמונת “מכתוב”, חוויות רקע של אלימות, חשד כלפי אכיפה והרגלי מדיה חברתית."
+    },
+    {
+      "slug": "democracy_reform_jewish_female_converts_belonging_recognition_summary_he",
+      "file": "democracy_reform_jewish_female_converts_belonging_recognition_summary_he.html",
+      "permalink": "/democracy_reform_jewish_female_converts_belonging_recognition_summary_he.html",
+      "sortKey": 202606200004,
+      "titleHe": "גיור רפורמי של נשים בישראל הוא גם מאבק על הכרה, מגדר ושייכות",
+      "paperTitle": "Are You Our Sisters? Resistance, Belonging, and Recognition in Israeli Reform Jewish Female Converts",
+      "authorsCardHe": "Einat Libel-Hass, Elazar Ben-Lulu",
+      "sourceAuthors": [
+        "Einat Libel-Hass",
+        "Elazar Ben-Lulu"
+      ],
+      "journal": "Politics and Religion Journal 18(1), 131-157",
+      "dateText": "פורסם: 7 במרץ 2024",
+      "doiUrl": "https://doi.org/10.54561/prj1801131l",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reform_jewish_female_converts_belonging_recognition_summary_he.jpg",
+        "altHe": "נשים יושבות בחדר קהילתי פלורליסטי עם ספרים פתוחים ומשוחחות על שייכות והכרה דתית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Einat Libel-Hass ו-Elazar Ben-Lulu בוחנים נשים מהגרות מברית המועצות לשעבר ומהפיליפינים שבחרו בגיור רפורמי בישראל. לפי המאמר, התהליך הלא־אורתודוקסי מקדם שייכות דתית וחברתית, אך גם פועל כהתנגדות למונופול הדתי האורתודוקסי וכמאבק של נשים על הכרה."
+    },
+    {
+      "slug": "democracy_prison_decision_judicial_review_supreme_court_israel_summary_he",
+      "file": "democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.html",
+      "permalink": "/democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.html",
+      "sortKey": 202606200003,
+      "titleHe": "ביקורת שיפוטית על החלטות שב״ס מעצבת את איכות הענישה בישראל",
+      "paperTitle": "Taking Prison to Court: Exploring the Judicial Review of Prison Decision-Making Through Supreme Court Judges in Israel",
+      "authorsCardHe": "Netanel Dagan, Shmuel Baron",
+      "sourceAuthors": [
+        "Netanel Dagan",
+        "Shmuel Baron"
+      ],
+      "journal": "The British Journal of Criminology 64(4), 913-930",
+      "dateText": "פורסם מקוון: 29 בנובמבר 2023; בגיליון 64(4), יולי 2024",
+      "doiUrl": "https://doi.org/10.1093/bjc/azad068",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.jpg",
+        "altHe": "משפטנים יושבים סביב שולחן עם תיקי מסמכים בדיון על ביקורת שיפוטית של החלטות מנהליות בכלא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Netanel Dagan ו-Shmuel Baron מנתחים ממצאים איכותניים מראיונות עם שופטי בית המשפט העליון בישראל על עתירות אסירים. הם מזהים שלושה אופנים שבהם הביקורת השיפוטית פועלת: ביורוקרטיזציה של ההחלטה, ענישה מחדש של האסיר, או רפורמה בתנאי החיים בכלא."
+    },
+    {
+      "slug": "democracy_esther_hayut_israeli_constitutional_crises_summary_he",
+      "file": "democracy_esther_hayut_israeli_constitutional_crises_summary_he.html",
+      "permalink": "/democracy_esther_hayut_israeli_constitutional_crises_summary_he.html",
+      "sortKey": 202606200002,
+      "titleHe": "נשיאות אסתר חיות הפכה לזירת מבחן להגנה חוקתית על הדמוקרטיה",
+      "paperTitle": "Navigating the judicial ship through stormy waters: President Esther Hayut and the Israeli constitutional crises, 2018–23",
+      "authorsCardHe": "Yaniv Roznai, Shani Schnitzer",
+      "sourceAuthors": [
+        "Yaniv Roznai",
+        "Shani Schnitzer"
+      ],
+      "journal": "International Journal of Constitutional Law 23(1), 179-202",
+      "dateText": "פורסם מקוון: 25 במאי 2025; בגיליון 23(1), 2025",
+      "doiUrl": "https://doi.org/10.1093/icon/moaf013",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_esther_hayut_israeli_constitutional_crises_summary_he.jpg",
+        "altHe": "מבנה בית המשפט העליון בירושלים בצילום חוץ המשמש רקע לדיון במשברים חוקתיים ובביקורת שיפוטית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Yaniv Roznai ו-Shani Schnitzer מנתחים את כהונת נשיאת בית המשפט העליון אסתר חיות על רקע מתקפות פוליטיות ומשברים חוקתיים בישראל בשנים 2018-2023. לטענתם, חיות פיתחה אסטרטגיות שיפוטיות שאפשרו לבית המשפט לשמר ואף לחזק את כוחו, בעיקר דרך ביקורת שיפוטית על תיקונים חוקתיים."
+    },
+    {
+      "slug": "democracy_local_civic_engagement_polycrises_israel_summary_he",
+      "file": "democracy_local_civic_engagement_polycrises_israel_summary_he.html",
+      "permalink": "/democracy_local_civic_engagement_polycrises_israel_summary_he.html",
+      "sortKey": 202606200001,
+      "titleHe": "מעורבות אזרחית מקומית תלויה באמון, באיכות ניהולית ובפערי קהילה",
+      "paperTitle": "Local Civic Engagement in Turbulent Times: Trust in Governance, Managerial Quality, Ethnicity, and Education During Polycrises",
+      "authorsCardHe": "Anna Uster, Eran Vigoda-Gadot, Noam Cohen",
+      "sourceAuthors": [
+        "Anna Uster",
+        "Eran Vigoda-Gadot",
+        "Noam Cohen"
+      ],
+      "journal": "Public Performance & Management Review 49(1), 81-110",
+      "dateText": "פורסם מקוון: 30 ביוני 2025; בגיליון 49(1), ינואר 2026",
+      "doiUrl": "https://doi.org/10.1080/15309576.2025.2510977",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_civic_engagement_polycrises_israel_summary_he.jpg",
+        "altHe": "תושבים, אנשי חינוך ומנהלי שירות ציבורי יושבים סביב שולחן עירוני ודנים במעורבות מקומית ואמון.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-20",
+      "dateModified": "2026-06-20",
+      "summaryHe": "Anna Uster, Eran Vigoda-Gadot ו-Noam Cohen בוחנים מעורבות אזרחית מקומית בישראל בתקופה של משברים מצטלבים. לפי התקציר, איכות הניהול במנהל הציבורי משפיעה מאוד על מעורבות מקומית, והקשרים בין אמון, אתניות והשכלה פועלים אחרת בקרב קבוצות שונות, כולל האוכלוסייה הערבית."
+    },
     {
       "slug": "democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he",
       "file": "democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-20",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -20382,6 +20382,234 @@
       ],
       "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-19-nightly paper-addition run.",
       "qualityNotes": "Generated polished editorial/documentary civic image, 800x600 landscape paper image; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.html",
+      "usedBy": [
+        "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.html"
+      ],
+      "cardTitleHe": "השירות הצבאי של הדרוזים אינו מבטיח שוויון אזרחי מלא",
+      "authorsHe": "Rabah Halabi",
+      "visualDescriptionHe": "חדר קהילה דרוזי בדיון אזרחי על שירות, שייכות ושוויון.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את שירות החובה של דרוזים בישראל ואת הפער בין תרומה צבאית לבין שוויון אזרחי וחברתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "druze_army_limited_entrance_ticket_israeli_society"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_israel_political_developments_data_2023_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_israel_political_developments_data_2023_summary_he.html",
+      "usedBy": [
+        "democracy_israel_political_developments_data_2023_summary_he.html"
+      ],
+      "cardTitleHe": "שנת 2023 חשפה בישראל משבר כפול של מוסדות, מחאה וביטחון",
+      "authorsHe": "Yosi Ganel",
+      "visualDescriptionHe": "צילום חוץ של בניין הכנסת בירושלים כמוקד מוסדי לסקירת שנת 2023.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מסכם את ההתפתחויות הפוליטיות בישראל בשנת 2023 על רקע הרפורמה המשפטית, המחאות והמלחמה.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "israel_political_developments_data_2023"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; institutional civic scene selected for this paper.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Knesset_Israeli_Parliament_Building_%2841404895850%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Knesset_Israeli_Parliament_Building_(41404895850).jpg",
+      "license": "CC0",
+      "creator": "Gary Todd",
+      "sourceTitle": "Knesset Israeli Parliament Building (41404895850).jpg"
+    },
+    {
+      "file": "html_qa/democracy_judicial_reform_spark_october_7_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_judicial_reform_spark_october_7_war_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_reform_spark_october_7_war_summary_he.html"
+      ],
+      "cardTitleHe": "הרפורמה המשפטית פגעה בלכידות החברתית שישראל מציגה כלפי חוץ",
+      "authorsHe": "Mordechai Levy",
+      "visualDescriptionHe": "חדר ניתוח מדיניות עם מסמכים ומפת אירועים מטושטשת על מחאה, משפט וביטחון.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את הקשר שטוען המחבר בין הרפורמה המשפטית בישראל, המחאה האזרחית ותפיסת ההרתעה לפני 7 באוקטובר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "judicial_reform_spark_october_7_war"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_lgbtq_older_adults_aging_futures_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_lgbtq_older_adults_aging_futures_israel_summary_he.html",
+      "usedBy": [
+        "democracy_lgbtq_older_adults_aging_futures_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זקנה בקהילה הלהט״בית בישראל דורשת זכויות, משפחה נבחרת ומעני טיפול",
+      "authorsHe": "Daniel Sperling",
+      "visualDescriptionHe": "חדר ייעוץ קהילתי חם שבו מבוגרים מתכננים טיפול ותמיכה לעת זקנה.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן צרכים, חוויות ותקוות של מבוגרים להט״בים בישראל ביחס להזדקנות, סוף חיים ותמיכה חברתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "lgbtq_older_adults_aging_futures_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.html",
+      "usedBy": [
+        "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.html"
+      ],
+      "cardTitleHe": "פגיעה מוסרית של לוחמים יכולה להפוך גם לפעולה אזרחית ופוליטית",
+      "authorsHe": "Adi Levy, Michael L. Gross",
+      "visualDescriptionHe": "מעגל שיחה אזרחי של ותיקי לחימה על אחריות, שיקום ומעורבות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד פגיעה מוסרית וטראומה קרבית משפיעות על אקטיביזם פוליטי וחברתי של ותיקי לחימה ישראלים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "active_duty_activism_moral_injury_israeli_veterans"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.html",
+      "usedBy": [
+        "democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אלימות ונשק בקרב צעירים ערבים קשורים גם לדימויי גבריות ולרשתות חברתיות",
+      "authorsHe": "Ibrahim Badarna, Anat Gesser-Edelsburg",
+      "visualDescriptionHe": "סדנת קהילה עם צעירים ומדריכים על גבריות, מדיה וביטחון אישי.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד תפיסות גבריות, אלימות, נשיאת נשק והשפעת רשתות חברתיות מעצבות סיכוני ביטחון אישי בחברה הערבית בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "masculinity_violence_social_media_arab_young_men_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_reform_jewish_female_converts_belonging_recognition_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_reform_jewish_female_converts_belonging_recognition_summary_he.html",
+      "usedBy": [
+        "democracy_reform_jewish_female_converts_belonging_recognition_summary_he.html"
+      ],
+      "cardTitleHe": "גיור רפורמי של נשים בישראל הוא גם מאבק על הכרה, מגדר ושייכות",
+      "authorsHe": "Einat Libel-Hass, Elazar Ben-Lulu",
+      "visualDescriptionHe": "קבוצת נשים בחדר לימוד קהילתי פלורליסטי עם ספרים ושיחה על שייכות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח חוויות של נשים שהתגיירו בישראל דרך התנועה הרפורמית ואת הקשר בין גיור, הכרה, מגדר ומונופול דתי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "reform_jewish_female_converts_belonging_recognition"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.html",
+      "usedBy": [
+        "democracy_prison_decision_judicial_review_supreme_court_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית על החלטות שב״ס מעצבת את איכות הענישה בישראל",
+      "authorsHe": "Netanel Dagan, Shmuel Baron",
+      "visualDescriptionHe": "חדר משפטי מוסדי עם תיקים ודיון על פיקוח שיפוטי על החלטות כלא.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד שופטי בית המשפט העליון בישראל מבינים ביקורת שיפוטית על החלטות מנהליות של רשויות הכלא.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "prison_decision_judicial_review_supreme_court_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_esther_hayut_israeli_constitutional_crises_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_esther_hayut_israeli_constitutional_crises_summary_he.html",
+      "usedBy": [
+        "democracy_esther_hayut_israeli_constitutional_crises_summary_he.html"
+      ],
+      "cardTitleHe": "נשיאות אסתר חיות הפכה לזירת מבחן להגנה חוקתית על הדמוקרטיה",
+      "authorsHe": "Yaniv Roznai, Shani Schnitzer",
+      "visualDescriptionHe": "צילום חוץ של בית המשפט העליון בירושלים כרקע למשברים חוקתיים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את נשיאות אסתר חיות בבית המשפט העליון ואת תפקיד בית המשפט במשברים החוקתיים בישראל בשנים 2018-2023.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "esther_hayut_israeli_constitutional_crises"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; institutional civic scene selected for this paper.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Holy_Land_2018_%282%29_P143_Jerusalem_Israel_supreme_court_building.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Holy_Land_2018_(2)_P143_Jerusalem_Israel_supreme_court_building.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Fallaner",
+      "sourceTitle": "Holy Land 2018 (2) P143 Jerusalem Israel supreme court building.jpg"
+    },
+    {
+      "file": "html_qa/democracy_local_civic_engagement_polycrises_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "ai_generated",
+      "createdForRun": "2026-06-20-nightly",
+      "primaryArticle": "democracy_local_civic_engagement_polycrises_israel_summary_he.html",
+      "usedBy": [
+        "democracy_local_civic_engagement_polycrises_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מעורבות אזרחית מקומית תלויה באמון, באיכות ניהולית ובפערי קהילה",
+      "authorsHe": "Anna Uster, Eran Vigoda-Gadot, Noam Cohen",
+      "visualDescriptionHe": "חדר מפגש עירוני עם תושבים ומנהלי שירות ציבורי סביב מפה מקומית מטושטשת.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן מעורבות אזרחית מקומית בישראל בזמן פוליקריזות דרך אמון בממשל, איכות ניהול במנהל הציבורי, אתניות והשכלה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "local_civic_engagement_polycrises_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
+      "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
     }
   ],
   "topicGraphics": [
