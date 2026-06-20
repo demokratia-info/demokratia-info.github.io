@@ -1,8 +1,279 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 842,
+  "paperCount": 852,
   "papers": [
+    {
+      "slug": "democracy_two_concepts_constitutional_legitimacy_summary_he",
+      "file": "democracy_two_concepts_constitutional_legitimacy_summary_he.html",
+      "permalink": "/democracy_two_concepts_constitutional_legitimacy_summary_he.html",
+      "sortKey": 202606210010,
+      "titleHe": "לגיטימיות חוקתית יכולה לנבוע מייצוג העם או מהצדקה רציונלית",
+      "paperTitle": "Two concepts of constitutional legitimacy",
+      "authorsCardHe": "Alon Harel, Adam Shinar",
+      "sourceAuthors": [
+        "Alon Harel",
+        "Adam Shinar"
+      ],
+      "journal": "Global Constitutionalism 12(1), 80-105",
+      "dateText": "פורסם מקוון: 12 באוקטובר 2022; בגיליון 12(1), מרץ 2023",
+      "doiUrl": "https://doi.org/10.1017/s2045381722000156",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_two_concepts_constitutional_legitimacy_summary_he.jpg",
+        "altHe": "מדפי ספרי משפט בספריית בית משפט, כרקע לדיון בלגיטימיות חוקתית.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Alon Harel ו-Adam Shinar שואלים מה מעניק לחוקה לגיטימיות. לפי תקציר המאמר, חוקות יכולות להישען בעיקר על ייצוג העם או על הצדקות של צדק ותבונה, וההבחנה משפיעה על האופן שבו חוקות נכתבות, מאושררות ופועלות לאורך זמן."
+    },
+    {
+      "slug": "democracy_palestinian_muslim_teachers_citizenship_education_summary_he",
+      "file": "democracy_palestinian_muslim_teachers_citizenship_education_summary_he.html",
+      "permalink": "/democracy_palestinian_muslim_teachers_citizenship_education_summary_he.html",
+      "sortKey": 202606210009,
+      "titleHe": "מורים פלסטינים מוסלמים בישראל מחברים בין אסלאם, אזרחות וידע ילידי",
+      "paperTitle": "Spiritual and indigenous funds of knowledge: how Palestinian Muslim teachers reclaim Islam and citizenship education in Israel",
+      "authorsCardHe": "Aline Muff, Ayman K. Agbaria",
+      "sourceAuthors": [
+        "Aline Muff",
+        "Ayman K. Agbaria"
+      ],
+      "journal": "Diaspora, Indigenous, and Minority Education 20(1), 104-120",
+      "dateText": "פורסם מקוון: 17 במאי 2024; בגיליון 20(1), ינואר 2026",
+      "doiUrl": "https://doi.org/10.1080/15595692.2024.2355454",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_muslim_teachers_citizenship_education_summary_he.jpg",
+        "altHe": "מורה ומבוגרים סביב מחשב בכיתה, כרקע לדיון בחינוך לאזרחות וידע קהילתי.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Aline Muff ו-Ayman K. Agbaria בוחנים את מפגש האסלאם והחינוך לאזרחות בקרב מורים פלסטינים מוסלמים בישראל. לפי תקציר המאמר, ראיונות איכותניים עם 15 מורי אזרחות ואסלאם מצאו שרבים מהם נשענים על ידע רוחני אסלאמי וידע פלסטיני ילידי ככלים ביקורתיים מול הגדרות מדינתיות של אזרחות ואסלאם."
+    },
+    {
+      "slug": "democracy_mk_discursive_reactions_social_protest_2011_summary_he",
+      "file": "democracy_mk_discursive_reactions_social_protest_2011_summary_he.html",
+      "permalink": "/democracy_mk_discursive_reactions_social_protest_2011_summary_he.html",
+      "sortKey": 202606210008,
+      "titleHe": "חברי כנסת הגיבו למחאת 2011 בשפה ניאו־ליברלית יותר, לא פחות",
+      "paperTitle": "More of the Same: Discursive Reactions of Members of Knesset to the 2011 ‘Social Protest’ in Israel",
+      "authorsCardHe": "Amit Avigur-Eshel",
+      "sourceAuthors": [
+        "Amit Avigur-Eshel"
+      ],
+      "journal": "Middle East Law and Governance 10(2), 117-140",
+      "dateText": "פורסם: 2 באוגוסט 2018; בגיליון 10(2), 2018",
+      "doiUrl": "https://doi.org/10.1163/18763375-01001006",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mk_discursive_reactions_social_protest_2011_summary_he.jpg",
+        "altHe": "מליאת הכנסת בזמן ישיבה, כרקע לדיון בתגובות חברי כנסת למחאה החברתית.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Amit Avigur-Eshel בוחן כיצד חברי כנסת הגיבו בשיח להצפת המחאה החברתית של 2011. לפי תקציר המאמר, אף שהמחאה השתמשה ברעיונות אנטי־ניאו־ליברליים, סעיפי ההסבר של הצעות חוק פרטיות כללו יותר רעיונות ושפה ניאו־ליברליים לאחר המחאה מאשר לפניה."
+    },
+    {
+      "slug": "democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he",
+      "file": "democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.html",
+      "permalink": "/democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.html",
+      "sortKey": 202606210007,
+      "titleHe": "אידאולוגיה אנטי־ציונית חרדית מסבירה דפוסי מחאה מול המדינה",
+      "paperTitle": "Haredi Anti-Zionist Ideology as the Driving Force Behind the Ultraorthodox Protests in Israel",
+      "authorsCardHe": "Gadi Hitman",
+      "sourceAuthors": [
+        "Gadi Hitman"
+      ],
+      "journal": "Contemporary Review of the Middle East 9(4), 426-443",
+      "dateText": "פורסם מקוון: 12 באוגוסט 2022; בגיליון 9(4), דצמבר 2022",
+      "doiUrl": "https://doi.org/10.1177/23477989221115293",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.jpg",
+        "altHe": "גברים חרדים הולכים בסמטה ברובע היהודי בירושלים, כרקע לדיון על יחסי חרדים ומדינה.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Gadi Hitman מנתח גלי מחאה ולעיתים אלימות מצד הקהילה החרדית בישראל, עם דגש על התנגשויות מאז שנת 2000. לפי תקציר המאמר, השילוב בין תאוריות פרימורדיאליות, קונסטרוקטיביסטיות ותלויות הקשר מוביל למודל שבו הקהילה החרדית מתפקדת כתנועת מחאה פסיבית קבועה המגיבה במהירות ליוזמות מדינה שמשנות את הסטטוס קוו."
+    },
+    {
+      "slug": "democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he",
+      "file": "democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.html",
+      "permalink": "/democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.html",
+      "sortKey": 202606210006,
+      "titleHe": "חוויה וירטואלית בת 360 מעלות יכולה לחזק תמיכה בזכויות להט״ב",
+      "paperTitle": "Immersive parasocial Intergroup Contact: 360-degree immersive experience reduces stereotypes and promotes support for LGBTQ + rights",
+      "authorsCardHe": "Nili Steinfeld",
+      "sourceAuthors": [
+        "Nili Steinfeld"
+      ],
+      "journal": "Virtual Reality 30(1)",
+      "dateText": "פורסם מקוון: 26 בדצמבר 2025; בגיליון 30(1), 2026",
+      "doiUrl": "https://doi.org/10.1007/s10055-025-01266-2",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.jpg",
+        "altHe": "מבט קרוב אל עדשות של משקפי מציאות מדומה, כרקע לדיון על חוויית 360 מעלות וזכויות להט״ב.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Nili Steinfeld בוחנת חוויית וידאו 360 מעלות שבה מופיע גבר הומוסקסואל בעל זהות דתית, ומשווה אותה לחוויה דו־ממדית. לפי תקציר המאמר, חוויית ה-VR הגדילה תמיכה בזכויות משפחה לגברים הומואים ושינתה תפיסות לגבי התאמה בין הומוסקסואליות לזהות דתית, כאשר תחושת נוכחות חברתית שימשה מתווך מרכזי."
+    },
+    {
+      "slug": "democracy_israeli_supreme_court_torture_authorization_summary_he",
+      "file": "democracy_israeli_supreme_court_torture_authorization_summary_he.html",
+      "permalink": "/democracy_israeli_supreme_court_torture_authorization_summary_he.html",
+      "sortKey": 202606210005,
+      "titleHe": "פסיקת טביש מציבה את איסור העינויים במבחן של אישור מראש",
+      "paperTitle": "Revise Your Syllabi: Israeli Supreme Court Upholds Authorization for Torture and Ill-Treatment",
+      "authorsCardHe": "Smadar Ben-Natan",
+      "sourceAuthors": [
+        "Smadar Ben-Natan"
+      ],
+      "journal": "Journal of International Humanitarian Legal Studies 10(1), 41-57",
+      "dateText": "פורסם: 9 ביוני 2019; בגיליון 10(1), 2019",
+      "doiUrl": "https://doi.org/10.1163/18781527-01001008",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_supreme_court_torture_authorization_summary_he.jpg",
+        "altHe": "אולם דיונים בבית המשפט העליון בירושלים, כרקע לדיון בפסיקה על חקירות ועינויים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Smadar Ben-Natan מנתחת את החלטת בית המשפט העליון בעניין Tbeish v Attorney General לאור הלכת הוועד הציבורי נגד עינויים משנת 1999. לפי תקציר המאמר, אף שההחלטה אינה מוצגת כשינוי דין, היא מאשרת בפועל נוהל צורך של השב״כ ומייצרת מסגרת של אישור מוקדם לאמצעי חקירה אלימים."
+    },
+    {
+      "slug": "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he",
+      "file": "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.html",
+      "permalink": "/democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.html",
+      "sortKey": 202606210004,
+      "titleHe": "אמון והוגנות פרוצדורלית מעצבים את הלגיטימציה לביקורת מדינה רחבה",
+      "paperTitle": "Putting auditing in the context of democratic governance: the question of auditing discretion from the public’s perspective",
+      "authorsCardHe": "Dana Natan-Krup, Shlomo Mizrahi",
+      "sourceAuthors": [
+        "Dana Natan-Krup",
+        "Shlomo Mizrahi"
+      ],
+      "journal": "Public Management Review 27(12), 3125-3149",
+      "dateText": "פורסם מקוון: 15 בינואר 2025; בגיליון 27(12), דצמבר 2025",
+      "doiUrl": "https://doi.org/10.1080/14719037.2025.2452889",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.jpg",
+        "altHe": "בניין משרד מבקר המדינה ונציב תלונות הציבור בירושלים בלילה.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Dana Natan-Krup ו-Shlomo Mizrahi בוחנים את הלגיטימציה הציבורית להפעלת שיקול דעת רחב בביקורת ציבורית. לפי התקציר, אמון במערכת הפוליטית וציפיות להוגנות פרוצדורלית קשורים לציפייה שמבקרי מדינה יערכו ביקורות רחבות, לצד יחסים מורכבים עם תפיסות של השפעה אזרחית על הממשלה."
+    },
+    {
+      "slug": "democracy_regime_style_reality_tv_populism_israel_summary_he",
+      "file": "democracy_regime_style_reality_tv_populism_israel_summary_he.html",
+      "permalink": "/democracy_regime_style_reality_tv_populism_israel_summary_he.html",
+      "sortKey": 202606210003,
+      "titleHe": "פופוליזם פועל גם דרך סגנון, טעם ותרבות פופולרית",
+      "paperTitle": "The regime of style: cover versions, reality TV, and the aesthetic principles of populism in Israel and beyond",
+      "authorsCardHe": "Oded Erez",
+      "sourceAuthors": [
+        "Oded Erez"
+      ],
+      "journal": "Popular Music 41(3), 293-312",
+      "dateText": "פורסם מקוון: 24 בנובמבר 2022; בגיליון 41(3), אוקטובר 2022",
+      "doiUrl": "https://doi.org/10.1017/s0261143022000411",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_style_reality_tv_populism_israel_summary_he.jpg",
+        "altHe": "מיקרופון באולפן הקלטות, כרקע לדיון על מוזיקה פופולרית, סגנון ופופוליזם.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Oded Erez מציע להבין פופוליזם גם כמשטר של סגנון, לא רק כתוכן אידאולוגי. דרך דיון בתוכניות טלוויזיה בפורמט Idol ובכהונת מירי רגב כשרת התרבות והספורט, המאמר מראה כיצד טעם, הופעה והתרסה מול אליטה תרבותית נעשים כלים פוליטיים."
+    },
+    {
+      "slug": "democracy_public_support_social_protest_2011_israel_summary_he",
+      "file": "democracy_public_support_social_protest_2011_israel_summary_he.html",
+      "permalink": "/democracy_public_support_social_protest_2011_israel_summary_he.html",
+      "sortKey": 202606210002,
+      "titleHe": "תמיכה במחאה החברתית של 2011 נשענה על מסגור של אי־צדק ואחריות ממשלתית",
+      "paperTitle": "Understanding public support for social protest: testing collective action frames, cognitive liberation and political opportunity in the Israeli 2011 summer protest",
+      "authorsCardHe": "Eran Zaidise, Shosh Shahrabani, Assaf Gal, Uri Ben-Zion",
+      "sourceAuthors": [
+        "Eran Zaidise",
+        "Shosh Shahrabani",
+        "Assaf Gal",
+        "Uri Ben-Zion"
+      ],
+      "journal": "Israel Affairs 24(5), 865-882",
+      "dateText": "פורסם מקוון: 12 באוקטובר 2018; בגיליון 24(5), ספטמבר 2018",
+      "doiUrl": "https://doi.org/10.1080/13537121.2018.1505705",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_support_social_protest_2011_israel_summary_he.jpg",
+        "altHe": "מאהל מחאה בשדרות רוטשילד בתל אביב בזמן מחאת האוהלים של 2011.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Eran Zaidise, Shosh Shahrabani, Assaf Gal ו-Uri Ben-Zion מנתחים תמיכה ציבורית במחאת קיץ 2011 בישראל. לפי התקציר הזמין, המחקר התמקד בשתי דגימות של סטודנטים ומשתתפי מחאה, ובחן כיצד דאגה מאי־צדק חברתי ואמונה באחריות הממשלה קשורות לתמיכה במחאה."
+    },
+    {
+      "slug": "democracy_children_rights_backsliding_backlash_summary_he",
+      "file": "democracy_children_rights_backsliding_backlash_summary_he.html",
+      "permalink": "/democracy_children_rights_backsliding_backlash_summary_he.html",
+      "sortKey": 202606210001,
+      "titleHe": "נסיגה דמוקרטית מחלישה הגנה ליברלית על זכויות ילדים",
+      "paperTitle": "Caught in the crossfire: Children’s rights under backsliding and backlash",
+      "authorsCardHe": "Sara Kahn-Nisser",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Journal of Human Rights 24(1), 77-94",
+      "dateText": "פורסם מקוון: 27 בפברואר 2025; בגיליון 24(1), 2025",
+      "doiUrl": "https://doi.org/10.1080/14754835.2024.2443974",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_children_rights_backsliding_backlash_summary_he.jpg",
+        "altHe": "כיתה ריקה עם שולחנות, מחברות וצמחים, כרקע לדיון על זכויות ילדים תחת נסיגה דמוקרטית.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-21",
+      "dateModified": "2026-06-21",
+      "summaryHe": "Sara Kahn-Nisser בוחנת את הקשר בין נסיגה דמוקרטית לבין הגנה על זכויות ילדים. לפי תקציר המאמר, שחיקה בממד הליברלי של הדמוקרטיה קשורה לפחות הגנה על זכויות ילדים, ואילו שחיקה בממד השוויוני מלווה בממצאים מורכבים יותר לגבי זכויות חברתיות וכלכליות."
+    },
     {
       "slug": "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he",
       "file": "democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.html",

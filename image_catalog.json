@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-20",
+  "lastUpdated": "2026-06-21",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -20610,6 +20610,271 @@
       ],
       "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-20-nightly paper-addition run.",
       "qualityNotes": "Generated polished editorial/documentary civic image, center-cropped/resized to 800x600; no readable text, no logos, no watermarks, no flags as focal subject."
+    },
+    {
+      "file": "html_qa/democracy_children_rights_backsliding_backlash_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_children_rights_backsliding_backlash_summary_he.html",
+      "usedBy": [
+        "democracy_children_rights_backsliding_backlash_summary_he.html"
+      ],
+      "cardTitleHe": "נסיגה דמוקרטית מחלישה הגנה ליברלית על זכויות ילדים",
+      "authorsHe": "Sara Kahn-Nisser",
+      "visualDescriptionHe": "כיתה ריקה עם שולחנות וצמחים ליד לוח, כסימן למקומם של ילדים בדיון זכויות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד נסיגה דמוקרטית, ובעיקר שחיקה ליברלית, קשורה להגנה על זכויות ילדים ולתגובה של מדינות לשיימינג בין-לאומי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "children_rights_backsliding_backlash"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Summer_empty_classroom%2C_blackboard_and_flowers_on_tables%2C_2023.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Summer_empty_classroom,_blackboard_and_flowers_on_tables,_2023.jpg",
+      "license": "CC0",
+      "creator": "AKA MBG",
+      "sourceTitle": "Summer empty classroom, blackboard and flowers on tables, 2023.jpg"
+    },
+    {
+      "file": "html_qa/democracy_public_support_social_protest_2011_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_public_support_social_protest_2011_israel_summary_he.html",
+      "usedBy": [
+        "democracy_public_support_social_protest_2011_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תמיכה במחאה החברתית של 2011 נשענה על מסגור של אי־צדק ואחריות ממשלתית",
+      "authorsHe": "Eran Zaidise, Shosh Shahrabani, Assaf Gal, Uri Ben-Zion",
+      "visualDescriptionHe": "מאהל מחאה בשדרות רוטשילד בזמן מחאת האוהלים של 2011.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח תמיכה ציבורית במחאה החברתית בישראל ב-2011 דרך מסגור אי־צדק, תחושת יכולת פעולה ותפיסת הזדמנות פוליטית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "public_support_social_protest_2011_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PikiWiki_Israel_14069_Tents_Protest_in_Rothschild_Boulevard_in_Tel_Aviv.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_14069_Tents_Protest_in_Rothschild_Boulevard_in_Tel_Aviv.JPG",
+      "license": "CC BY 2.5",
+      "creator": "ד\"ר אבישי טייכר",
+      "sourceTitle": "PikiWiki Israel 14069 Tents Protest in Rothschild Boulevard in Tel Aviv.JPG"
+    },
+    {
+      "file": "html_qa/democracy_regime_style_reality_tv_populism_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_regime_style_reality_tv_populism_israel_summary_he.html",
+      "usedBy": [
+        "democracy_regime_style_reality_tv_populism_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פופוליזם פועל גם דרך סגנון, טעם ותרבות פופולרית",
+      "authorsHe": "Oded Erez",
+      "visualDescriptionHe": "מיקרופון באולפן הקלטות, כרקע לתרבות פופולרית וסגנון פוליטי.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח את הקשר בין סגנון תרבותי, תוכניות ריאליטי מוזיקליות ופופוליזם פוליטי בישראל ומעבר לה.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "regime_style_reality_tv_populism_israel"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Close_up_view_of_a_microphone_set_up_in_a_recording_studio.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Close_up_view_of_a_microphone_set_up_in_a_recording_studio.jpg",
+      "license": "CC BY 2.0",
+      "creator": "Shixart1985",
+      "sourceTitle": "Close up view of a microphone set up in a recording studio.jpg"
+    },
+    {
+      "file": "html_qa/democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "אמון והוגנות פרוצדורלית מעצבים את הלגיטימציה לביקורת מדינה רחבה",
+      "authorsHe": "Dana Natan-Krup, Shlomo Mizrahi",
+      "visualDescriptionHe": "בניין משרד מבקר המדינה ונציב תלונות הציבור בירושלים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן עמדות ציבור בישראל כלפי שיקול דעת של מבקרי מדינה וביקורות רחבות בהקשר של אמון, הוגנות ואחריותיות דמוקרטית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "auditing_discretion_democratic_governance_public_perspective"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/99296_state_comptroller%27s_office_PikiWiki_Israel.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:99296_state_comptroller%27s_office_PikiWiki_Israel.jpg",
+      "license": "CC BY 2.5",
+      "creator": "דוידי ורדי",
+      "sourceTitle": "99296 state comptroller's office PikiWiki Israel.jpg"
+    },
+    {
+      "file": "html_qa/democracy_israeli_supreme_court_torture_authorization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_israeli_supreme_court_torture_authorization_summary_he.html",
+      "usedBy": [
+        "democracy_israeli_supreme_court_torture_authorization_summary_he.html"
+      ],
+      "cardTitleHe": "פסיקת טביש מציבה את איסור העינויים במבחן של אישור מראש",
+      "authorsHe": "Smadar Ben-Natan",
+      "visualDescriptionHe": "אולם דיונים בבית המשפט העליון בירושלים.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן את פסיקת בית המשפט העליון בעניין טביש ואת השפעתה על איסור עינויים, הגנת הצורך ואחריות חוקתית בישראל.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "israeli_supreme_court_torture_authorization"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hearing_hall_in_Israel_supreme_court.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hearing_hall_in_Israel_supreme_court.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Avi1111 dr. avishai teicher",
+      "sourceTitle": "Hearing hall in Israel supreme court.jpg"
+    },
+    {
+      "file": "html_qa/democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.html",
+      "usedBy": [
+        "democracy_immersive_parasocial_contact_lgbtq_rights_vr_summary_he.html"
+      ],
+      "cardTitleHe": "חוויה וירטואלית בת 360 מעלות יכולה לחזק תמיכה בזכויות להט״ב",
+      "authorsHe": "Nili Steinfeld",
+      "visualDescriptionHe": "משקפי מציאות מדומה בתקריב, כרקע לחוויית 360 מעלות.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן אם חוויית VR נרטיבית מפחיתה סטריאוטיפים ומגבירה תמיכה בזכויות להט״ב לעומת וידאו דו־ממדי רגיל.",
+      "tags": [
+        "rights-equality-minorities",
+        "immersive_parasocial_contact_lgbtq_rights_vr"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Virtual_reality_headset.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Virtual_reality_headset.jpg",
+      "license": "CC BY 4.0",
+      "creator": "FloppaIngénieur",
+      "sourceTitle": "Virtual reality headset.jpg"
+    },
+    {
+      "file": "html_qa/democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.html",
+      "usedBy": [
+        "democracy_haredi_antizionist_ideology_ultraorthodox_protests_summary_he.html"
+      ],
+      "cardTitleHe": "אידאולוגיה אנטי־ציונית חרדית מסבירה דפוסי מחאה מול המדינה",
+      "authorsHe": "Gadi Hitman",
+      "visualDescriptionHe": "גברים חרדים הולכים בירושלים, כרקע ליחסי קהילה ומדינה.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן מחאות חרדיות בישראל ומציע שאידאולוגיה אנטי־ציונית היא כוח מניע מרכזי בדפוסי התנגשות מול רשויות המדינה.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "haredi_antizionist_ideology_ultraorthodox_protests"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Young_haredi_men_walking_in_the_Jewish_Quarter_of_Jerusalem_%284767978872%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Young_haredi_men_walking_in_the_Jewish_Quarter_of_Jerusalem_(4767978872).jpg",
+      "license": "CC BY 2.0",
+      "creator": "Christopher Michel",
+      "sourceTitle": "Young haredi men walking in the Jewish Quarter of Jerusalem (4767978872).jpg"
+    },
+    {
+      "file": "html_qa/democracy_mk_discursive_reactions_social_protest_2011_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_mk_discursive_reactions_social_protest_2011_summary_he.html",
+      "usedBy": [
+        "democracy_mk_discursive_reactions_social_protest_2011_summary_he.html"
+      ],
+      "cardTitleHe": "חברי כנסת הגיבו למחאת 2011 בשפה ניאו־ליברלית יותר, לא פחות",
+      "authorsHe": "Amit Avigur-Eshel",
+      "visualDescriptionHe": "מליאת הכנסת בזמן ישיבה, כרקע לתגובות פרלמנטריות למחאה.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מנתח את תגובות השיח של חברי הכנסת למחאה החברתית בישראל ב-2011 דרך סעיפי הסבר בהצעות חוק פרטיות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "mk_discursive_reactions_social_protest_2011"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Knesset_plenum_held_a_sitting_today_%28FL63610028%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Knesset_plenum_held_a_sitting_today_(FL63610028).jpg",
+      "license": "CC BY 4.0",
+      "creator": "IPPA photographer",
+      "sourceTitle": "The Knesset plenum held a sitting today (FL63610028).jpg"
+    },
+    {
+      "file": "html_qa/democracy_palestinian_muslim_teachers_citizenship_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_palestinian_muslim_teachers_citizenship_education_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_muslim_teachers_citizenship_education_summary_he.html"
+      ],
+      "cardTitleHe": "מורים פלסטינים מוסלמים בישראל מחברים בין אסלאם, אזרחות וידע ילידי",
+      "authorsHe": "Aline Muff, Ayman K. Agbaria",
+      "visualDescriptionHe": "מורה וקבוצת לומדים סביב מחשב בכיתה, כרקע להוראה אזרחית.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר בוחן כיצד מורים פלסטינים מוסלמים בישראל מפרשים את הקשר בין אסלאם לבין חינוך לאזרחות וכיצד הם משתמשים בידע רוחני וילידי בהוראה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "palestinian_muslim_teachers_citizenship_education"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Training_Teacher_%26_Students.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Training_Teacher_&_Students.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Dr. Balkrishna Hari Mali",
+      "sourceTitle": "Training Teacher & Students.jpg"
+    },
+    {
+      "file": "html_qa/democracy_two_concepts_constitutional_legitimacy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "sourceType": "wikimedia_commons",
+      "createdForRun": "2026-06-21-nightly",
+      "primaryArticle": "democracy_two_concepts_constitutional_legitimacy_summary_he.html",
+      "usedBy": [
+        "democracy_two_concepts_constitutional_legitimacy_summary_he.html"
+      ],
+      "cardTitleHe": "לגיטימיות חוקתית יכולה לנבוע מייצוג העם או מהצדקה רציונלית",
+      "authorsHe": "Alon Harel, Adam Shinar",
+      "visualDescriptionHe": "מדפי ספרי משפט בספריית בית משפט, כרקע ללגיטימיות חוקתית.",
+      "semanticDescriptionHe": "המאמר עוסק בנושא: המאמר מבחין בין שתי תפיסות של לגיטימיות חוקתית: ייצוג של העם לעומת הצדקה המבוססת על צדק, תבונה והסדרים חוקתיים ראויים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "two_concepts_constitutional_legitimacy"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; added specifically for this paper in the 2026-06-21-nightly paper-addition run.",
+      "qualityNotes": "Wikimedia Commons photograph, center-cropped/resized to 800x600; selected as a paper-specific documentary civic or educational image.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indiana_Supreme_Court_Law_Library_rare_books_shelf.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indiana_Supreme_Court_Law_Library_rare_books_shelf.jpg",
+      "license": "CC0",
+      "creator": "Dominic",
+      "sourceTitle": "Indiana Supreme Court Law Library rare books shelf.jpg"
     }
   ],
   "topicGraphics": [
