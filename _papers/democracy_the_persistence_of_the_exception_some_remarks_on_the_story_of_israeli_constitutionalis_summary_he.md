@@ -11,8 +11,8 @@
   "authorsCardHe": "Raef Zreik",
   "paperTitle": "The Persistence of the Exception: Some Remarks on the Story of Israeli Constitutionalism",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3972-4837\" target=\"_blank\" rel=\"noopener noreferrer\">Raef Zreik</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Thinking Palestine (Zed Books)",
+  "dateText": "פורסם: 2008",
   "doiUrl": "https://doi.org/10.5040/9781350223646.ch-007",
   "doiLabel": "https://doi.org/10.5040/9781350223646.ch-007",
   "authors": [
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

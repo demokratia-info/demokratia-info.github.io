@@ -13,8 +13,8 @@
   "authorsHtml": "<a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",
   "journal": "Amsterdam Law Forum, 5(1), 125",
   "dateText": "פורסם: 01.12.2013",
-  "doiUrl": "",
-  "doiLabel": "",
+  "doiUrl": "https://doi.org/10.37974/alf.246",
+  "doiLabel": "https://doi.org/10.37974/alf.246",
   "authors": [
     {
       "@type": "Person",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

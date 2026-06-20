@@ -11,7 +11,7 @@
   "authorsCardHe": "יניב רוזנאי",
   "paperTitle": "The Judicial Overhaul Post October 7",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",
-  "journal": "",
+  "journal": "Verfassungsblog",
   "dateText": "פורסם: 21.09.2025",
   "sourcePublishedDate": "2025-09-21",
   "doiUrl": "https://doi.org/10.59704/8ceb675ffc71d8c5",
@@ -48,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר בוחן את הרפורמה המשפטית אחרי 7 באוקטובר ומדגיש שהקשר בין ביטחון, חירום ושלטון החוק נעשה מרכזי עוד יותר. התרומה היא הבחנה בין הקפאת עימות פוליטי לבין פתרון מוסדי: גם בעת מלחמה נותרת חשיבות לשאלת הבלמים והאחריות.",
   "sections": [
     {

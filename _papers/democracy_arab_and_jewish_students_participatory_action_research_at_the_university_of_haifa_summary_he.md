@@ -11,7 +11,7 @@
   "authorsCardHe": "Tamar Zelniker, Rachel Hertz-Lazarowitz, Hilla Peretz, Faisal Azaiza, Ruth Sharabany",
   "paperTitle": "Arab and Jewish Students’ Participatory Action Research at the University of Haifa",
   "authorsHtml": "Tamar Zelniker; Rachel Hertz-Lazarowitz; <a href=\"https://orcid.org/0000-0002-1160-2010\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Peretz</a>; <a href=\"https://cris.haifa.ac.il/en/persons/faisal-azaiza\" target=\"_blank\" rel=\"noopener noreferrer\">Faisal Azaiza</a>; Ruth Sharabany",
-  "journal": "",
+  "journal": "Peace Education in Conflict and Post-Conflict Societies (Palgrave Macmillan)",
   "dateText": "פורסם: 2009",
   "doiUrl": "https://doi.org/10.1057/9780230620421_13",
   "doiLabel": "https://doi.org/10.1057/9780230620421_13",
@@ -80,8 +80,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

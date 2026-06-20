@@ -11,7 +11,7 @@
   "authorsCardHe": "Charles S. Liebman",
   "paperTitle": "Religion and Democracy in Israel",
   "authorsHtml": "Charles S. Liebman",
-  "journal": "",
+  "journal": "Israeli Democracy Under Stress (Lynne Rienner Publishers)",
   "dateText": "1993",
   "doiUrl": "https://doi.org/10.1515/9781685856465-015",
   "doiLabel": "https://doi.org/10.1515/9781685856465-015",
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק ביחסים בין דת, זהות, מדינה ודמוקרטיה בישראל, ומראה מדוע הדיון בנושא קשור לחופש, שוויון, השתייכות וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

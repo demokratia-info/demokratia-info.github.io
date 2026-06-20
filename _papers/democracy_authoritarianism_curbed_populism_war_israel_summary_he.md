@@ -11,7 +11,7 @@
   "authorsCardHe": "גיא בן-פורת, דני פילק",
   "paperTitle": "Authoritarianism Curbed? Populism, Democracy and War in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>; <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>",
-  "journal": "",
+  "journal": "Journal of Populism Studies",
   "dateText": "פורסם: 24.09.2025",
   "sourcePublishedDate": "2025-09-24",
   "doiUrl": "https://doi.org/10.55271/jps000118",
@@ -58,8 +58,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר טוען שהמעבר מפופוליזם ימני-דתי לסמכותנות בישראל הוא אפשרות ממשית, אך לא תוצאה בלתי נמנעת, משום שהתנגדות ציבורית ומתחים בתוך הקואליציה מגבילים את ריכוז הכוח.",
   "sections": [
     {

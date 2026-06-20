@@ -11,10 +11,11 @@
   "authorsCardHe": "ברק מדינה",
   "paperTitle": "On Constitutional Identity, Democratic Legitimacy and Judicial Review in Times of Democratic Backsliding: The Case of Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>",
-  "journal": "",
-  "dateText": "פורסם: 2024",
-  "doiUrl": "https://doi.org/10.2139/ssrn.4993837",
-  "doiLabel": "https://doi.org/10.2139/ssrn.4993837",
+  "journal": "International Journal of Constitutional Law",
+  "dateText": "פורסם: 21.05.2026",
+  "sourcePublishedDate": "2026-05-21",
+  "doiUrl": "https://doi.org/10.1093/icon/moag052",
+  "doiLabel": "https://doi.org/10.1093/icon/moag052",
   "authors": [
     {
       "@type": "Person",
@@ -47,8 +48,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר מסביר מדוע בזמני נסיגה דמוקרטית ביקורת שיפוטית אינה רק כוח נגד הרוב, אלא מנגנון לשמירת תנאי הלגיטימיות של הדמוקרטיה עצמה. המאמר עוזר להבין מדוע המחלוקת על בית המשפט אינה רק מוסדית אלא נוגעת לשאלה מה הופך הכרעה דמוקרטית ללגיטימית.",
   "sections": [
     {

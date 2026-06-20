@@ -11,8 +11,8 @@
   "authorsCardHe": "Ruth Gavison",
   "paperTitle": "A Constitution for Israel: Lessons from the American Experiment",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/ruth-gavison\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Gavison</a>",
-  "journal": "",
-  "dateText": "",
+  "journal": "Azure, no. 12, 133-192",
+  "dateText": "פורסם: 2002",
   "doiUrl": "",
   "doiLabel": "",
   "authors": [
@@ -49,8 +49,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר בוחן את סוגיית האפשרות לכונן חוקה בישראל והלקחים מן הניסיון האמריקאי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
   "sections": [
     {

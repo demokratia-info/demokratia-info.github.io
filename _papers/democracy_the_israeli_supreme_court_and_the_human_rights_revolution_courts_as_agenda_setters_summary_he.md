@@ -11,10 +11,10 @@
   "authorsCardHe": "Assaf Meydani",
   "paperTitle": "The Israeli Supreme Court and the Human Rights Revolution: Courts as Agenda Setters",
   "authorsHtml": "<a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",
-  "journal": "",
-  "dateText": "",
-  "doiUrl": "",
-  "doiLabel": "",
+  "journal": "Cambridge University Press",
+  "dateText": "פורסם: 2011",
+  "doiUrl": "https://doi.org/10.1017/CBO9780511998423",
+  "doiLabel": "https://doi.org/10.1017/CBO9780511998423",
   "authors": [
     {
       "@type": "Person",
@@ -50,8 +50,8 @@
     "fitness": "high"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-20",
+  "lastUpdatedHe": "20 ביוני 2026",
   "oneLinerHtml": "המאמר בוחן את סוגיית בית המשפט העליון כסוכן סדר יום בתחום זכויות האדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
   "sections": [
     {
