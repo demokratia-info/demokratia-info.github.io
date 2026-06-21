@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-22",
   "sampleSize": 6,
-  "seed": "2026-06-21-homepage-high-fit",
+  "seed": "2026-06-22-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 293,
+  "highFitPaperCount": 297,
   "paperSlugs": [
-    "democracy_affective_polarization_parliamentary_proceedings_summary_he",
-    "democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he",
-    "democracy_self_exclusion_strategy_inclusion_shas_summary_he",
-    "democracy_transformative_leadership_arab_schools_social_justice_mobility_israel_summary_he",
-    "democracy_policy_coherence_school_field_trips_israel_summary_he",
-    "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he"
+    "democracy_meso_news_spaces_public_private_domains_summary_he",
+    "democracy_international_law_in_israeli_courts_summary_he",
+    "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he",
+    "democracy_organizing_democracy_collective_action_summary_he",
+    "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he",
+    "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he"
   ]
 }

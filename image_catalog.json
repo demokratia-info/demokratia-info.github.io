@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-22",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -20875,6 +20875,286 @@
       "license": "CC0",
       "creator": "Dominic",
       "sourceTitle": "Indiana Supreme Court Law Library rare books shelf.jpg"
+    },
+    {
+      "file": "html_qa/democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
+      "usedBy": [
+        "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html"
+      ],
+      "cardTitleHe": "פערים אתניים בטיפול בטראומה של קשישים בישראל מופיעים דווקא אחרי האשפוז",
+      "authorsHe": "Nura Abdel-Rahman, Nechemia Yoffe, Maya Siman-Tov, Irina Radomislensky, Israel Trauma Group, Kobi Peleg",
+      "visualDescriptionHe": "סימולציה במרכז טראומה בישראל, כרקע לדיון בשוויון אתני בטיפול רפואי בקשישים.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: Achieving ethnic equality in the Israel trauma healthcare system: the case of the elderly population",
+      "tags": [
+        "rights-equality-minorities",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Practicing.JPG",
+      "sourceTitle": "File:Practicing.JPG",
+      "sourceQuery": "Rambam Medical Center trauma simulation",
+      "fitnessForPrimaryArticle": "high"
+    },
+    {
+      "file": "html_qa/democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות יכולה להעניק זכויות ובו בזמן לקבע נישול קולקטיבי",
+      "authorsHe": "Areej Sabbagh-Khoury",
+      "visualDescriptionHe": "כנסיית איקרית, שנותרה בכפר פלסטיני שנחרב, כרקע לדיון באזרחות, נישול וזכויות קולקטיביות.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: Citizenship as Accumulation by Dispossession: The Paradox of Settler Colonial Citizenship",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_Iqrit.jpeg",
+      "sourceTitle": "File:Israel Hiking Map Iqrit.jpeg",
+      "sourceQuery": "Iqrit Palestinian village",
+      "fitnessForPrimaryArticle": "high"
+    },
+    {
+      "file": "html_qa/democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כלכלניות בממשלה אינן בהכרח מכניסות שוויון מגדרי אל לב המדיניות",
+      "authorsHe": "Yael Hasson",
+      "visualDescriptionHe": "בניין משרד האוצר בירושלים, כרקע לדיון בשיקולי שוויון מגדרי בתוך מדיניות כלכלית ממשלתית.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: “Not in the Objective Function”: Gender Equality Considerations in the work of Women Government Economists in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Israel_Ministry_of_Finance.jpg",
+      "sourceTitle": "File:Israel Ministry of Finance.jpg",
+      "sourceQuery": "Israel Ministry of Finance building Jerusalem",
+      "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "נשים חרדיות משכילות יכולות לאתגר נורמות בלי לוותר על שייכות קהילתית",
+      "authorsHe": "Tehila Gado, Rebecca Kook, Ayelet Harel",
+      "visualDescriptionHe": "מפגש חינוכי בבני ברק, כרקע לדיון בנשים חרדיות, השכלה ושייכות קהילתית.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: The Politics of Belonging: A Study of Educated Jewish Ultra-Orthodox (Haredi) Women in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_U.S._Embassy_Tel_Aviv_-_Visit_to_Bnei_Brak_No.193.jpg",
+      "sourceTitle": "File:Flickr - U.S. Embassy Tel Aviv - Visit to Bnei Brak No.193.jpg",
+      "sourceQuery": "Ultra Orthodox women school Bnei Brak",
+      "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מחאת בלפור יצרה אזרחות דרך הופעה ציבורית, לא רק דרך סיסמאות",
+      "authorsHe": "Daphna Ben-Shaul",
+      "visualDescriptionHe": "מחאת בלפור בירושלים בשנת 2020, כרקע לדיון בהופעה ציבורית ובמרחבים אזרחיים.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: Performing civic spheres: aesthetic-political public appearance in the balfour protest in Israel",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Balfour_street_demonstrations_2020_2.jpg",
+      "sourceTitle": "File:Balfour street demonstrations 2020 2.jpg",
+      "sourceQuery": "Balfour protest Israel 2020",
+      "fitnessForPrimaryArticle": "high"
+    },
+    {
+      "file": "html_qa/democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.html",
+      "usedBy": [
+        "democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.html"
+      ],
+      "cardTitleHe": "בתי המשפט הקהילתיים בישראל מעלים שאלות חדשות על צדק, שיקום והערכה",
+      "authorsHe": "Tali Gal, Hadar Dancig-Rosenberg",
+      "visualDescriptionHe": "מבנה בית משפט שלום בישראל, כרקע לדיון בבתי משפט קהילתיים ובהערכת צדק שיקומי.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: Evaluating the Israeli Community Courts: Key Issues, Challenges and Lessons",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY 2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:139291_herzliya_magistrates_court_building_PikiWiki_Israel.jpg",
+      "sourceTitle": "File:139291 herzliya magistrates court building PikiWiki Israel.jpg",
+      "sourceQuery": "Israeli magistrates court building",
+      "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.html",
+      "usedBy": [
+        "democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.html"
+      ],
+      "cardTitleHe": "הטיה אידאולוגית בזכויות חוקתיות נובעת מהעדפת קבוצת הפנים",
+      "authorsHe": "Elena Kantorowicz-Reznichenko, Jarosław Kantorowicz, Keren Weinshall",
+      "visualDescriptionHe": "אולם דיונים בבית המשפט העליון בישראל, כרקע לדיון בזכויות חוקתיות ובהטיה שיפוטית.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: Ideological bias in constitutional judgments: Experimental analysis and potential solutions",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hearing_hall_in_Israel_supreme_court.jpg",
+      "sourceTitle": "File:Hearing hall in Israel supreme court.jpg",
+      "sourceQuery": "Israel Supreme Court hearing hall",
+      "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.html",
+      "usedBy": [
+        "democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.html"
+      ],
+      "cardTitleHe": "אירועי מאי 2021 בערים מעורבות שילבו מניעים אזרחיים, לאומיים ודתיים",
+      "authorsHe": "Gadi Hitman",
+      "visualDescriptionHe": "כוחות משטרה בלוד לאחר אירועי האלימות במאי 2021, כרקע לדיון במשבר אזרחי ויחסי רוב-מיעוט.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: May 2021 Riots by the Arab Minority in Israel: National, Civil or Religious?",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disorders_in_Lod,_May_2021._VII.jpg",
+      "sourceTitle": "File:Disorders in Lod, May 2021. VII.jpg",
+      "sourceQuery": "Lod May 2021 disorders",
+      "fitnessForPrimaryArticle": "high"
+    },
+    {
+      "file": "html_qa/democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.html",
+      "usedBy": [
+        "democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.html"
+      ],
+      "cardTitleHe": "השכלה ומעמד ביניים מחזקים ביטחון עצמי ופעילות ציבורית בחברה הערבית-פלסטינית בישראל",
+      "authorsHe": "Muhammed Khalaily, As’ad Ghanem",
+      "visualDescriptionHe": "מרכז קהילתי ברמה שבגליל, כרקע לדיון בהון אנושי ובפעילות ציבורית בחברה הערבית בישראל.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: The Politics of Faith among the Palestinian-Arab Minority in Israel: Increasing Human Capital and Public Engagement",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY 2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:131722_rama_-_the_new_community_center_PikiWiki_Israel.jpg",
+      "sourceTitle": "File:131722 rama - the new community center PikiWiki Israel.jpg",
+      "sourceQuery": "Arab Israeli community center Rama",
+      "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "currentHomepagePosition": null,
+      "primaryArticle": "democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ערבים פלסטינים עם מוגבלות בישראל מתמודדים עם אפליה מוסדית ומבנית מצטלבת",
+      "authorsHe": "Hira Amin, Leena Badran, Ayelet Gur, Michael Ashley Stein",
+      "visualDescriptionHe": "הפגנת אנשים עם מוגבלות בישראל, כרקע לדיון בזכויות, נגישות ואפליה מצטלבת.",
+      "semanticDescriptionHe": "מקור חזותי חדש עבור המאמר: The experiences of Palestinian Arabs with disabilities in Israel",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "new-nightly-image",
+        "paper-specific"
+      ],
+      "reuseGuidance": "Do not reuse for future new papers; this image was added for this specific paper and should not create repeated adjacent topic-card visuals.",
+      "qualityNotes": "800x600 Wikimedia/Commons crop selected for paper-specific civic, institutional, health, protest, court, community, or accessibility context; no site image was reused.",
+      "sourceType": "wikimedia",
+      "sourceLicense": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Demonstration_of_Disabled_People_July_2018_4.jpg",
+      "sourceTitle": "File:A Demonstration of Disabled People July 2018 4.jpg",
+      "sourceQuery": "disabled people demonstration Israel",
+      "fitnessForPrimaryArticle": "standard"
     }
   ],
   "topicGraphics": [

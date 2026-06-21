@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 852,
+  "paperCount": 862,
   "papers": [
+    {
+      "slug": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he",
+      "file": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
+      "permalink": "/democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
+      "sortKey": 202606220010,
+      "titleHe": "פערים אתניים בטיפול בטראומה של קשישים בישראל מופיעים דווקא אחרי האשפוז",
+      "paperTitle": "Achieving ethnic equality in the Israel trauma healthcare system: the case of the elderly population",
+      "authorsCardHe": "Nura Abdel-Rahman, Nechemia Yoffe, Maya Siman-Tov, Irina Radomislensky, Israel Trauma Group, Kobi Peleg",
+      "sourceAuthors": [
+        "Nura Abdel-Rahman",
+        "Nechemia Yoffe",
+        "Maya Siman-Tov",
+        "Irina Radomislensky",
+        "Israel Trauma Group",
+        "Kobi Peleg"
+      ],
+      "journal": "Israel Journal of Health Policy Research 8(1), Article 25",
+      "dateText": "פורסם מקוון: 13 בפברואר 2019; בגיליון 8(1), דצמבר 2019",
+      "doiUrl": "https://doi.org/10.1186/s13584-019-0294-8",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.jpg",
+        "altHe": "סימולציה במרכז טראומה בישראל, כרקע לדיון בשוויון אתני בטיפול רפואי בקשישים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "Nura Abdel-Rahman, Nechemia Yoffe, Maya Siman-Tov, Irina Radomislensky, Israel Trauma Group ו-Kobi Peleg בוחנים אם מערכת הטראומה בישראל משיגה שוויון אתני בקרב קשישים מאושפזים. המחקר מתבסס על 96,795 נפגעים בני 65 ומעלה ברישום הטראומה הלאומי לשנים 2008-2017, ומראה שהשאלה הדמוקרטית אינה רק מי נכנס לבית החולים אלא גם מי מגיע לטיפול נמרץ, מי נשאר יותר זמן ומי משתחרר לשיקום."
+    },
+    {
+      "slug": "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he",
+      "file": "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.html",
+      "permalink": "/democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.html",
+      "sortKey": 202606220009,
+      "titleHe": "אזרחות יכולה להעניק זכויות ובו בזמן לקבע נישול קולקטיבי",
+      "paperTitle": "Citizenship as Accumulation by Dispossession: The Paradox of Settler Colonial Citizenship",
+      "authorsCardHe": "Areej Sabbagh-Khoury",
+      "sourceAuthors": [
+        "Areej Sabbagh-Khoury"
+      ],
+      "journal": "Sociological Theory 40(2), 151-178",
+      "dateText": "פורסם מקוון: 6 במאי 2022; בגיליון 40(2), יוני 2022",
+      "doiUrl": "https://doi.org/10.1177/07352751221095474",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he.jpg",
+        "altHe": "כנסיית איקרית, שנותרה בכפר פלסטיני שנחרב, כרקע לדיון באזרחות, נישול וזכויות קולקטיביות.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "Areej Sabbagh-Khoury מציעה קריאה ביקורתית של אזרחות פלסטינית בישראל דרך המקרה של עקורים פנימיים שקיבלו אזרחות לאחר שנעקרו ממקומות מוצאם. לפי תקציר המאמר, האזרחות יוצרת פרדוקס כפול: היא מסדירה זכויות מסוימות, אך גם לוכדת את הקבוצה בתוך מבנה שבו צבירת קרקע ומשאבים כרוכה בהמשך נישול."
+    },
+    {
+      "slug": "democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he",
+      "file": "democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.html",
+      "permalink": "/democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.html",
+      "sortKey": 202606220008,
+      "titleHe": "כלכלניות בממשלה אינן בהכרח מכניסות שוויון מגדרי אל לב המדיניות",
+      "paperTitle": "“Not in the Objective Function”: Gender Equality Considerations in the work of Women Government Economists in Israel",
+      "authorsCardHe": "Yael Hasson",
+      "sourceAuthors": [
+        "Yael Hasson"
+      ],
+      "journal": "Feminist Economics 30(3), 131-156",
+      "dateText": "פורסם: 2 ביולי 2024; פורסם מקוון: 24 בספטמבר 2024",
+      "doiUrl": "https://doi.org/10.1080/13545701.2024.2375979",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_not_in_the_objective_function_gender_equality_considerations_in_the_work_of_women_government_economists_in_israel_summary_he.jpg",
+        "altHe": "בניין משרד האוצר בירושלים, כרקע לדיון בשיקולי שוויון מגדרי בתוך מדיניות כלכלית ממשלתית.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "Yael Hasson משתמשת בכלים איכותניים כדי לשאול אם ובאילו תנאים נשים כלכלניות בממשלה מקדמות מדיניות שמפחיתה אי-שוויון מגדרי או מיטיבה עם נשים. הממצא המרכזי לפי התקציר הוא שהצבת נשים בעמדות השפעה אינה מבטיחה ייצוג של אינטרסים מגדריים כאשר ההכשרה המקצועית וההקשר המוסדי מגדירים את הכלכלה כניטרלית."
+    },
+    {
+      "slug": "democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he",
+      "file": "democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.html",
+      "permalink": "/democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.html",
+      "sortKey": 202606220007,
+      "titleHe": "נשים חרדיות משכילות יכולות לאתגר נורמות בלי לוותר על שייכות קהילתית",
+      "paperTitle": "The Politics of Belonging: A Study of Educated Jewish Ultra-Orthodox (Haredi) Women in Israel",
+      "authorsCardHe": "Tehila Gado, Rebecca Kook, Ayelet Harel",
+      "sourceAuthors": [
+        "Tehila Gado",
+        "Rebecca Kook",
+        "Ayelet Harel"
+      ],
+      "journal": "Religions 14(8), 1020",
+      "dateText": "פורסם: 9 באוגוסט 2023",
+      "doiUrl": "https://doi.org/10.3390/rel14081020",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politics_of_belonging_a_study_of_educated_jewish_ultra_orthodox_haredi_women_in_israel_summary_he.jpg",
+        "altHe": "מפגש חינוכי בבני ברק, כרקע לדיון בנשים חרדיות, השכלה ושייכות קהילתית.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר מבוסס על ראיונות קבוצתיים עם נשים חרדיות משכילות בישראל, וממקם את העלייה בהשכלה בתוך קהילה דתית שמרנית. תרומתו לדמוקרטיה ליברלית היא בהבנת ההשתתפות של נשים מתוך קהילות שמרניות לא רק כיציאה מהקהילה, אלא גם כמשא ומתן על שייכות, נורמות ומשאבים."
+    },
+    {
+      "slug": "democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he",
+      "file": "democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.html",
+      "permalink": "/democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.html",
+      "sortKey": 202606220006,
+      "titleHe": "מחאת בלפור יצרה אזרחות דרך הופעה ציבורית, לא רק דרך סיסמאות",
+      "paperTitle": "Performing civic spheres: aesthetic-political public appearance in the balfour protest in Israel",
+      "authorsCardHe": "Daphna Ben-Shaul",
+      "sourceAuthors": [
+        "Daphna Ben-Shaul"
+      ],
+      "journal": "Social Movement Studies 25(3), 374-394",
+      "dateText": "פורסם מקוון: 7 ביוני 2024; בגיליון 25(3), מאי 2026",
+      "doiUrl": "https://doi.org/10.1080/14742837.2024.2362228",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_performing_civic_spheres_aesthetic_political_public_appearance_in_the_balfour_protest_in_israel_summary_he.jpg",
+        "altHe": "מחאת בלפור בירושלים בשנת 2020, כרקע לדיון בהופעה ציבורית ובמרחבים אזרחיים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר מתמקד בהיבט החי והאסתטי של מחאת בלפור ליד מעון ראש הממשלה בירושלים. במקום לראות במחאה רק אוסף דרישות פוליטיות, הוא מראה כיצד הפעלה משותפת של חפצים, דמויות וסצנות יצרה צורות אזרחיות של התנגדות, שייכות ודמיון פוליטי."
+    },
+    {
+      "slug": "democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he",
+      "file": "democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.html",
+      "permalink": "/democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.html",
+      "sortKey": 202606220005,
+      "titleHe": "בתי המשפט הקהילתיים בישראל מעלים שאלות חדשות על צדק, שיקום והערכה",
+      "paperTitle": "Evaluating the Israeli Community Courts: Key Issues, Challenges and Lessons",
+      "authorsCardHe": "Tali Gal, Hadar Dancig-Rosenberg",
+      "sourceAuthors": [
+        "Tali Gal",
+        "Hadar Dancig-Rosenberg"
+      ],
+      "journal": "International Annals of Criminology 62(1), 104-140",
+      "dateText": "פורסם מקוון: 19 באפריל 2024; בגיליון 62(1), מרץ 2024",
+      "doiUrl": "https://doi.org/10.1017/cri.2024.11",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_evaluating_the_israeli_community_courts_key_issues_challenges_and_lessons_summary_he.jpg",
+        "altHe": "מבנה בית משפט שלום בישראל, כרקע לדיון בבתי משפט קהילתיים ובהערכת צדק שיקומי.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר אינו מציג רק תוצאות של הערכה, אלא משתמש בתהליך ההערכה עצמו כדי לשאול מה צריך למדוד כאשר מערכת משפט פלילי עוברת מגישה רגילה לגישה קהילתית ושיקומית. הוא מדגיש תצפיות מובנות בדיונים, ראיונות עומק עם משתתפים והשוואת דפוסי עבריינות חוזרת כמקורות ללמידה מוסדית."
+    },
+    {
+      "slug": "democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he",
+      "file": "democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.html",
+      "permalink": "/democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.html",
+      "sortKey": 202606220004,
+      "titleHe": "הטיה אידאולוגית בזכויות חוקתיות נובעת מהעדפת קבוצת הפנים",
+      "paperTitle": "Ideological bias in constitutional judgments: Experimental analysis and potential solutions",
+      "authorsCardHe": "Elena Kantorowicz-Reznichenko, Jarosław Kantorowicz, Keren Weinshall",
+      "sourceAuthors": [
+        "Elena Kantorowicz-Reznichenko",
+        "Jarosław Kantorowicz",
+        "Keren Weinshall"
+      ],
+      "journal": "Journal of Empirical Legal Studies 19(3), 716-757",
+      "dateText": "פורסם: אוגוסט 2022; בגיליון 19(3), ספטמבר 2022",
+      "doiUrl": "https://doi.org/10.1111/jels.12323",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ideological_bias_in_constitutional_judgments_experimental_analysis_and_potential_solutions_summary_he.jpg",
+        "altHe": "אולם דיונים בבית המשפט העליון בישראל, כרקע לדיון בזכויות חוקתיות ובהטיה שיפוטית.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר עוסק בשאלה רגישה לדמוקרטיה ליברלית: האם אנשים מעריכים זכויות חוקתיות באופן ניטרלי גם כשהזכות מגינה על קבוצה פוליטית שהם מתנגדים לה. ממצאיו מצביעים על כך שהטיה אידאולוגית אינה רק עמדה עקרונית, אלא תגובה קבוצתית שניתן לנסות לרכך באמצעות מחויבות מוקדמת לניטרליות או לזכויות."
+    },
+    {
+      "slug": "democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he",
+      "file": "democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.html",
+      "permalink": "/democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.html",
+      "sortKey": 202606220003,
+      "titleHe": "אירועי מאי 2021 בערים מעורבות שילבו מניעים אזרחיים, לאומיים ודתיים",
+      "paperTitle": "May 2021 Riots by the Arab Minority in Israel: National, Civil or Religious?",
+      "authorsCardHe": "Gadi Hitman",
+      "sourceAuthors": [
+        "Gadi Hitman"
+      ],
+      "journal": "Contemporary Review of the Middle East 10(4), 346-363",
+      "dateText": "פורסם מקוון: 19 באוקטובר 2023; בגיליון 10(4), דצמבר 2023",
+      "doiUrl": "https://doi.org/10.1177/23477989231198326",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_may_2021_riots_by_the_arab_minority_in_israel_national_civil_or_religious_summary_he.jpg",
+        "altHe": "כוחות משטרה בלוד לאחר אירועי האלימות במאי 2021, כרקע לדיון במשבר אזרחי ויחסי רוב-מיעוט.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר מציב את יחסי יהודים ולא-יהודים בישראל על שלושה צירים: דתי, לאומי ואזרחי. תרומתו לשיח הדמוקרטי היא בניסיון לפרק אירוע אלים וטעון למרכיבים שונים של זהות, אזרחות, יחסי מיעוט-רוב והסדר ציבורי, במקום להסבירו באמצעות מניע אחד בלבד."
+    },
+    {
+      "slug": "democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he",
+      "file": "democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.html",
+      "permalink": "/democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.html",
+      "sortKey": 202606220002,
+      "titleHe": "השכלה ומעמד ביניים מחזקים ביטחון עצמי ופעילות ציבורית בחברה הערבית-פלסטינית בישראל",
+      "paperTitle": "The Politics of Faith among the Palestinian-Arab Minority in Israel: Increasing Human Capital and Public Engagement",
+      "authorsCardHe": "Muhammed Khalaily, As’ad Ghanem",
+      "sourceAuthors": [
+        "Muhammed Khalaily",
+        "As’ad Ghanem"
+      ],
+      "journal": "Middle East Critique 32(3), 385-399",
+      "dateText": "פורסם מקוון: 29 ביוני 2023; בגיליון 32(3), יולי 2023",
+      "doiUrl": "https://doi.org/10.1080/19436149.2023.2226887",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_politics_of_faith_among_the_palestinian_arab_minority_in_israel_increasing_human_capital_and_public_engagement_summary_he.jpg",
+        "altHe": "מרכז קהילתי ברמה שבגליל, כרקע לדיון בהון אנושי ובפעילות ציבורית בחברה הערבית בישראל.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר משתמש במושג “politics of faith” כדי לתאר נכונות לשנות את הסטטוס קוו. בהקשר של מיעוט לאומי, הטענה היא שהון אנושי וביטחון עצמי אינם רק הישגים פרטיים, אלא תנאים לפעולה קולקטיבית במרחב הציבורי מול הקהילה ומול המדינה."
+    },
+    {
+      "slug": "democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he",
+      "file": "democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.html",
+      "permalink": "/democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.html",
+      "sortKey": 202606220001,
+      "titleHe": "ערבים פלסטינים עם מוגבלות בישראל מתמודדים עם אפליה מוסדית ומבנית מצטלבת",
+      "paperTitle": "The experiences of Palestinian Arabs with disabilities in Israel",
+      "authorsCardHe": "Hira Amin, Leena Badran, Ayelet Gur, Michael Ashley Stein",
+      "sourceAuthors": [
+        "Hira Amin",
+        "Leena Badran",
+        "Ayelet Gur",
+        "Michael Ashley Stein"
+      ],
+      "journal": "Equality, Diversity and Inclusion: An International Journal 43(1), 41-54",
+      "dateText": "פורסם מקוון: 21 ביוני 2023; בגיליון 43(1), ינואר 2024",
+      "doiUrl": "https://doi.org/10.1108/edi-01-2023-0032",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_experiences_of_palestinian_arabs_with_disabilities_in_israel_summary_he.jpg",
+        "altHe": "הפגנת אנשים עם מוגבלות בישראל, כרקע לדיון בזכויות, נגישות ואפליה מצטלבת.",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-22",
+      "dateModified": "2026-06-22",
+      "summaryHe": "המאמר מבוסס על ראיונות עומק חצי-מובנים עם גברים ונשים ערבים בעלי מוגבלויות שונות. תרומתו לשיח הדמוקרטי היא בהצגת זכויות מוגבלות, שוויון מיעוטים ונגישות ציבורית כזירות מצטלבות, שבהן אזרחות פורמלית אינה מספיקה ללא התאמה מוסדית ומרחבית."
+    },
     {
       "slug": "democracy_two_concepts_constitutional_legitimacy_summary_he",
       "file": "democracy_two_concepts_constitutional_legitimacy_summary_he.html",
