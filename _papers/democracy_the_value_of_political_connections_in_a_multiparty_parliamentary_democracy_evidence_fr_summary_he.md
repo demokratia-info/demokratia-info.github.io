@@ -11,7 +11,7 @@
   "authorsCardHe": "Nimrod David Lehrer",
   "paperTitle": "The value of political connections in a multiparty parliamentary democracy: Evidence from the 2015 elections in Israel",
   "authorsHtml": "Nimrod David Lehrer",
-  "journal": "",
+  "journal": "European Journal of Political Economy",
   "dateText": "פורסם: 2017",
   "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2017.07.001",
   "doiLabel": "https://doi.org/10.1016/j.ejpoleco.2017.07.001",
@@ -44,8 +44,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

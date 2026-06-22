@@ -11,7 +11,7 @@
   "authorsCardHe": "Gary J. Jacobsohn",
   "paperTitle": "Alternative Pluralisms: Israeli and American Constitutionalism in Comparative Perspective",
   "authorsHtml": "<a href=\"https://liberalarts.utexas.edu/lawanddemocracy/faculty/gjj69\" target=\"_blank\" rel=\"noopener noreferrer\">Gary J. Jacobsohn</a>",
-  "journal": "",
+  "journal": "The Review of Politics",
   "dateText": "פורסם: 1989",
   "doiUrl": "https://doi.org/10.1017/s0034670500048075",
   "doiLabel": "https://doi.org/10.1017/s0034670500048075",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

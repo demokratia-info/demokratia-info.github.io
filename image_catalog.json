@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -21155,6 +21155,245 @@
       "sourceTitle": "File:A Demonstration of Disabled People July 2018 4.jpg",
       "sourceQuery": "disabled people demonstration Israel",
       "fitnessForPrimaryArticle": "standard"
+    },
+    {
+      "file": "html_qa/democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.html",
+      "usedBy": [
+        "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.html"
+      ],
+      "cardTitleHe": "המגזר הציבורי כמסלול לשוויון תעסוקתי בין קבוצות אתנו־דתיות בישראל",
+      "authorsHe": "Zafer Büyükkeçeci; Asaf Levanon; Anette Eva Fasang; Vered Kraus; Evgeny Saburov",
+      "visualDescriptionHe": "איור עריכתי על משרד ציבורי, מסמכים ואנשים סביב שולחן עבודה משותף",
+      "semanticDescriptionHe": "המאמר עוסק במסלולי עבודה־משפחה ושכר לפי קבוצות אתנו־דתיות בישראל, ומחבר את הדיון לשוויון אזרחי, מוסדות ציבוריים והזדמנות כלכלית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "שוויון תעסוקתי",
+        "מגזר ציבורי",
+        "קבוצות אתנו־דתיות"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.html",
+      "usedBy": [
+        "democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.html"
+      ],
+      "cardTitleHe": "מודרניזציה, דת ומעמד מיעוט בקרב סטודנטים מוסלמים ודרוזים בישראל",
+      "authorsHe": "Sawsan Kheir",
+      "visualDescriptionHe": "איור עריכתי על קבוצת סטודנטים בקמפוס, זהות דתית ומודרניזציה",
+      "semanticDescriptionHe": "המאמר עוסק במודרניזציה של עולמות דתיים בקרב סטודנטים מוסלמים ודרוזים בישראל, ובקשר בין פלורליזם, מיעוטים ושוויון אזרחי.",
+      "tags": [
+        "rights-equality-minorities",
+        "מיעוטים דתיים",
+        "מודרניזציה",
+        "חילון"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חסמים להשכלה על־תיכונית בקרב צעירות ערביות־בדואיות בישראל",
+      "authorsHe": "Tehila Refaeli; Raghda Alnabilsy; Agat Sold",
+      "visualDescriptionHe": "איור עריכתי על מרכז לימודי קהילתי, מסמכי הרשמה וצעירות סביב שולחן",
+      "semanticDescriptionHe": "המאמר עוסק בחסמים להשכלה על־תיכונית בקרב צעירות ערביות־בדואיות בישראל, וממקם את הדיון בתוך שוויון הזדמנויות, מגדר ומיעוטים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "נשים בדואיות",
+        "השכלה על־תיכונית",
+        "חסמים מבניים"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.html",
+      "usedBy": [
+        "democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.html"
+      ],
+      "cardTitleHe": "אמנות רחוב כצורה של השתתפות פוליטית וחברה אזרחית",
+      "authorsHe": "Graciela Trajtenberg",
+      "visualDescriptionHe": "איור עריכתי על קיר עירוני צבעוני ואנשים במרחב ציבורי",
+      "semanticDescriptionHe": "המאמר עוסק באמנות רחוב בישראל כצורת השתתפות פוליטית וחברה אזרחית, ומחבר בין מרחב ציבורי, מחאה וזכויות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "חברה אזרחית",
+        "אמנות רחוב",
+        "השתתפות פוליטית"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.html",
+      "usedBy": [
+        "democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.html"
+      ],
+      "cardTitleHe": "חברה אזרחית ביפן ובדרום קוריאה מול הסכסוך הישראלי־פלסטיני",
+      "authorsHe": "Michal Zelcer–Lavid; Yoram Evron",
+      "visualDescriptionHe": "איור עריכתי על חדר דיונים אזרחי, מפות מטושטשות ומשתתפים סביב שולחן",
+      "semanticDescriptionHe": "המאמר עוסק במעורבות חברות אזרחיות ביפן ובדרום קוריאה בסכסוך הישראלי־פלסטיני, ובקשר בין מחאה, יחסים בין־לאומיים ושחקנים לא־מדינתיים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "חברה אזרחית",
+        "יחסי מזרח אסיה והמזרח התיכון",
+        "יפן"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.html",
+      "usedBy": [
+        "democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.html"
+      ],
+      "cardTitleHe": "מה מניע אזרחים להשתתף במחאה פוליטית בישראל?",
+      "authorsHe": "Alonit Berenson; Nir Atmor",
+      "visualDescriptionHe": "איור עריכתי על כיכר ציבורית, אזרחים ושלטים ריקים במחאה שקטה",
+      "semanticDescriptionHe": "המאמר עוסק במניעי השתתפות במחאה בישראל, ומחבר בין דעת קהל, פעולה קולקטיבית והשתתפות דמוקרטית מעבר לבחירות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "מחאה",
+        "פעולה קולקטיבית",
+        "דעת קהל"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.html",
+      "usedBy": [
+        "democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב בעמדות הציבור בישראל על החלטות בסוף החיים",
+      "authorsHe": "Moran Bodas; Arnona Ziv; Carmit Rubin; Bernice Oberman; Yoel Tawil; Adir Shaulov; Giora Kaplan; Baruch Velan",
+      "visualDescriptionHe": "איור עריכתי על חדר ייעוץ רפואי, משפחה וצוות רפואי סביב שולחן",
+      "semanticDescriptionHe": "המאמר עוסק בקיטוב בעמדות הציבור בישראל על החלטות סוף החיים, וממקם את הדיון בתוך אוטונומיה, פלורליזם, משפחה וזכויות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "סוף החיים",
+        "אוטונומיה",
+        "דעת קהל"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.html",
+      "usedBy": [
+        "democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.html"
+      ],
+      "cardTitleHe": "חשיפה לאלימות פוליטית, לחץ משפחתי ותוקפנות בקרב נוער ישראלי ופלסטיני",
+      "authorsHe": "Eric F. Dubow; Paul Boxer; Meagan Docherty; L. Rowell Huesmann; Simha F. Landau; Khalil Shikaki",
+      "visualDescriptionHe": "איור עריכתי על מעגל תמיכה משפחתי בחדר קהילתי",
+      "semanticDescriptionHe": "המאמר עוסק בחשיפה לאלימות אתנו־פוליטית בקרב נוער ישראלי ופלסטיני, ובקשר בין לחץ משפחתי, הורות והתפתחות חברתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "אלימות פוליטית",
+        "נוער",
+        "מודל לחץ משפחתי"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.html",
+      "usedBy": [
+        "democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.html"
+      ],
+      "cardTitleHe": "מתוכנית לימודים על סכסוך לתוכנית על אינטגרציה ערבית־ישראלית",
+      "authorsHe": "Jason Olson; Moran Zaga; David Benger",
+      "visualDescriptionHe": "איור עריכתי על כיתת סמינר, מפה מטושטשת ודיון אקדמי סביב שולחן",
+      "semanticDescriptionHe": "המאמר עוסק בתוכנית לימודים להבנת אינטגרציה ערבית־ישראלית, ובקשר בין חינוך אקדמי, חופש אקדמי, סובלנות ושלום אזורי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "חינוך אקדמי",
+        "המזרח התיכון",
+        "חופש אקדמי"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "רפלקסיביות ושינוי במעמדן של נשים ערביות־בדואיות בישראל",
+      "authorsHe": "Khawla Zoabi; Carol Fuller",
+      "visualDescriptionHe": "איור עריכתי על חצר קהילתית, נשים סביב שולחן ומרחב דיון",
+      "semanticDescriptionHe": "המאמר עוסק ברפלקסיביות ושינוי מעמד בקרב נשים ערביות־בדואיות בישראל, ובקשר בין מגדר, משפחה, ביטחון ושוויון.",
+      "tags": [
+        "rights-equality-minorities",
+        "נשים בדואיות",
+        "רפלקסיביות",
+        "מעמד נשים"
+      ],
+      "sourceType": "project_generated_editorial_bitmap",
+      "createdDate": "2026-06-23",
+      "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
     }
   ],
   "topicGraphics": [

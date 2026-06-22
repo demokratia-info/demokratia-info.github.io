@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 862,
+  "paperCount": 872,
   "papers": [
+    {
+      "slug": "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he",
+      "file": "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.html",
+      "permalink": "/democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.html",
+      "sortKey": 202606230010,
+      "titleHe": "המגזר הציבורי כמסלול לשוויון תעסוקתי בין קבוצות אתנו־דתיות בישראל",
+      "paperTitle": "Women’s work-family trajectories and earnings by ethno-religious groups in Israel: More equality in the public sector?",
+      "authorsCardHe": "Zafer Büyükkeçeci; Asaf Levanon; Anette Eva Fasang; Vered Kraus; Evgeny Saburov",
+      "sourceAuthors": [
+        "Zafer Büyükkeçeci",
+        "Asaf Levanon",
+        "Anette Eva Fasang",
+        "Vered Kraus",
+        "Evgeny Saburov"
+      ],
+      "journal": "Advances in Life Course Research",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1016/j.alcr.2025.100659",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.jpg",
+        "altHe": "איור עריכתי על עבודה, משפחה ושוויון תעסוקתי במגזר הציבורי בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "הממצאים מצביעים על כך שקריירות במגזר הציבורי קשורות לנגישות יציבה ושוויונית יותר לנשים חרדיות, מוסלמיות, דרוזיות ונוצריות, בעוד שבמגזר הפרטי הפערים ביציבות ובשכר המצטבר גדולים יותר."
+    },
+    {
+      "slug": "democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he",
+      "file": "democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.html",
+      "permalink": "/democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.html",
+      "sortKey": 202606230009,
+      "titleHe": "מודרניזציה, דת ומעמד מיעוט בקרב סטודנטים מוסלמים ודרוזים בישראל",
+      "paperTitle": "Reflections of modernization in religious worldviews of Israeli religious minority students",
+      "authorsCardHe": "Sawsan Kheir",
+      "sourceAuthors": [
+        "Sawsan Kheir"
+      ],
+      "journal": "Archive for the Psychology of Religion",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.1177/00846724221145340",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reflections_of_modernization_in_religious_worldviews_of_israeli_religious_minority_students_summary_he.jpg",
+        "altHe": "איור עריכתי על סטודנטים ממיעוטים דתיים בישראל בדיון בקמפוס",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המחקר מצביע על ריבוי דרכים שבהן מודרניזציה וחילון חלקי משתלבים בזהות דתית של סטודנטים מוסלמים ודרוזים, ומדגיש שמעמד המיעוט עשוי לעודד תהליכי חילון בעקיפין."
+    },
+    {
+      "slug": "democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he",
+      "file": "democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.html",
+      "permalink": "/democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.html",
+      "sortKey": 202606230008,
+      "titleHe": "חסמים להשכלה על־תיכונית בקרב צעירות ערביות־בדואיות בישראל",
+      "paperTitle": "Barriers to Post-Secondary Education among Young Arab-Bedouin Women in Israel",
+      "authorsCardHe": "Tehila Refaeli; Raghda Alnabilsy; Agat Sold",
+      "sourceAuthors": [
+        "Tehila Refaeli",
+        "Raghda Alnabilsy",
+        "Agat Sold"
+      ],
+      "journal": "Journal of Muslim Minority Affairs",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1080/13602004.2023.2176069",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_barriers_to_post_secondary_education_among_young_arab_bedouin_women_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על צעירות בדואיות, השכלה על־תיכונית וחסמים מבניים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המחקר, שהתבסס על קבוצות עם 11 צעירות בדואיות בנות 20-22, מצא חסמים מבניים וחסמים מגדריים־משפחתיים שמגבילים כניסה להשכלה על־תיכונית ומחייבים תמיכה החל מבית הספר היסודי ועד ההשתלבות בפועל."
+    },
+    {
+      "slug": "democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he",
+      "file": "democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.html",
+      "permalink": "/democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.html",
+      "sortKey": 202606230007,
+      "titleHe": "אמנות רחוב כצורה של השתתפות פוליטית וחברה אזרחית",
+      "paperTitle": "Widening the margins of political participation: The political effect of street art on civil society",
+      "authorsCardHe": "Graciela Trajtenberg",
+      "sourceAuthors": [
+        "Graciela Trajtenberg"
+      ],
+      "journal": "Journal of Civil Society",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1080/17448689.2021.1994201",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_widening_the_margins_of_political_participation_the_political_effect_of_street_art_on_civil_society_summary_he.jpg",
+        "altHe": "איור עריכתי על אמנות רחוב, מרחב ציבורי והשתתפות אזרחית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המאמר טוען שאמנות רחוב, גם כאשר החלה כפעולה בלתי־מורשית, הפכה להתערבות פעילה במרחב הציבורי ולצורת השתתפות פוליטית שמחזקת את עצמה ומרחיבה את מושג החברה האזרחית."
+    },
+    {
+      "slug": "democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he",
+      "file": "democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.html",
+      "permalink": "/democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.html",
+      "sortKey": 202606230006,
+      "titleHe": "חברה אזרחית ביפן ובדרום קוריאה מול הסכסוך הישראלי־פלסטיני",
+      "paperTitle": "East-West Asia relations: the Israeli-Palestinian conflict and civil society in South Korea and Japan",
+      "authorsCardHe": "Michal Zelcer–Lavid; Yoram Evron",
+      "sourceAuthors": [
+        "Michal Zelcer–Lavid",
+        "Yoram Evron"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1080/13537121.2021.1864857",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_east_west_asia_relations_the_israeli_palestinian_conflict_and_civil_society_in_south_korea_and_japan_summary_he.jpg",
+        "altHe": "איור עריכתי על דיון חברה אזרחית במזרח אסיה סביב הסכסוך הישראלי־פלסטיני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המאמר טוען שהתרחבות היחסים בין מזרח אסיה למזרח התיכון יוצרת גם קשרים לא־מדינתיים, וכי מאפייני כל מדינה מעצבים את דפוסי המחאה וההשפעה של חברה אזרחית ביפן ובדרום קוריאה."
+    },
+    {
+      "slug": "democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he",
+      "file": "democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.html",
+      "permalink": "/democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.html",
+      "sortKey": 202606230005,
+      "titleHe": "מה מניע אזרחים להשתתף במחאה פוליטית בישראל?",
+      "paperTitle": "Testing the social psychology of protest: empirical evidence from the Israeli experience",
+      "authorsCardHe": "Alonit Berenson; Nir Atmor",
+      "sourceAuthors": [
+        "Alonit Berenson",
+        "Nir Atmor"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1080/13537121.2020.1754581",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_testing_the_social_psychology_of_protest_empirical_evidence_from_the_israeli_experience_summary_he.jpg",
+        "altHe": "איור עריכתי על מחאה אזרחית ופסיכולוגיה חברתית של השתתפות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המאמר בודק חמישה גורמים מרכזיים להשתתפות במחאה: תחושת עוול, יעילות פוליטית, זהות, רגשות והשתלבות חברתית, ומשתמש בנתוני INES כדי להבין את פרופיל המפגינים במחאת 2011."
+    },
+    {
+      "slug": "democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he",
+      "file": "democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.html",
+      "permalink": "/democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.html",
+      "sortKey": 202606230004,
+      "titleHe": "קיטוב בעמדות הציבור בישראל על החלטות בסוף החיים",
+      "paperTitle": "Polarization in public attitudes toward end-of-life decisions in Israel – A cross-sectional study",
+      "authorsCardHe": "Moran Bodas; Arnona Ziv; Carmit Rubin; Bernice Oberman; Yoel Tawil; Adir Shaulov; Giora Kaplan; Baruch Velan",
+      "sourceAuthors": [
+        "Moran Bodas",
+        "Arnona Ziv",
+        "Carmit Rubin",
+        "Bernice Oberman",
+        "Yoel Tawil",
+        "Adir Shaulov",
+        "Giora Kaplan",
+        "Baruch Velan"
+      ],
+      "journal": "Palliative and Supportive Care",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1017/s1478951523000780",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarization_in_public_attitudes_toward_end_of_life_decisions_in_israel_a_cross_sectional_study_summary_he.jpg",
+        "altHe": "איור עריכתי על דיון רפואי ומשפחתי סביב החלטות סוף החיים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המחקר, שנערך במרץ 2022 במדגם מקוון של 605 מבוגרים בני יותר מ־50, מצא קיטוב סביב אוטונומיה וסיוע רפואי במיתה, לצד הסכמה רחבה יותר על חשיבות מעורבות המשפחה בתהליכי סוף החיים."
+    },
+    {
+      "slug": "democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he",
+      "file": "democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.html",
+      "permalink": "/democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.html",
+      "sortKey": 202606230003,
+      "titleHe": "חשיפה לאלימות פוליטית, לחץ משפחתי ותוקפנות בקרב נוער ישראלי ופלסטיני",
+      "paperTitle": "Political violence exposure and youth aggression in the context of the social ecological systems and family stress models: A four-wave prospective study of Israeli and Palestinian youth",
+      "authorsCardHe": "Eric F. Dubow; Paul Boxer; Meagan Docherty; L. Rowell Huesmann; Simha F. Landau; Khalil Shikaki",
+      "sourceAuthors": [
+        "Eric F. Dubow",
+        "Paul Boxer",
+        "Meagan Docherty",
+        "L. Rowell Huesmann",
+        "Simha F. Landau",
+        "Khalil Shikaki"
+      ],
+      "journal": "International Journal of Behavioral Development",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1177/01650254251377760",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_violence_exposure_and_youth_aggression_in_the_context_of_the_social_ecological_systems_and_summary_he.jpg",
+        "altHe": "איור עריכתי על משפחות, נוער ותמיכה קהילתית לאחר לחץ פוליטי ממושך",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המחקר עקב החל מ־2007 אחר 451 בני נוער יהודים ישראלים ו־600 בני נוער פלסטינים בשלושה גילאים, ומצא שחשיפה לאלימות אתנו־פוליטית קשורה לתוקפנות דרך תהליכים משפחתיים כמו תוקפנות בין ההורים וענישה נוקשה."
+    },
+    {
+      "slug": "democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he",
+      "file": "democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.html",
+      "permalink": "/democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.html",
+      "sortKey": 202606230002,
+      "titleHe": "מתוכנית לימודים על סכסוך לתוכנית על אינטגרציה ערבית־ישראלית",
+      "paperTitle": "From Arab-Israeli Conflict to Arab-Israeli Integration: A New Curriculum for Understanding the Contemporary Middle East",
+      "authorsCardHe": "Jason Olson; Moran Zaga; David Benger",
+      "sourceAuthors": [
+        "Jason Olson",
+        "Moran Zaga",
+        "David Benger"
+      ],
+      "journal": "The Journal of the Middle East and Africa",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1080/21520844.2024.2409482",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_from_arab_israeli_conflict_to_arab_israeli_integration_a_new_curriculum_for_understanding_the_contem_summary_he.jpg",
+        "altHe": "איור עריכתי על כיתה אוניברסיטאית ותוכנית לימודים להבנת אינטגרציה אזורית במזרח התיכון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המאמר טוען שפוליטיזציה אקדמית, תוכן מוטה ונגישות מוגבלת יצרו פער בהבנת השתלבות ישראל במזרח התיכון, ומציע תוכנית לימודים שבוחנת בין היתר חופש אקדמי, סובלנות דתית, יציבות אזורית ושלום ישראלי־פלסטיני."
+    },
+    {
+      "slug": "democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he",
+      "file": "democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.html",
+      "permalink": "/democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.html",
+      "sortKey": 202606230001,
+      "titleHe": "רפלקסיביות ושינוי במעמדן של נשים ערביות־בדואיות בישראל",
+      "paperTitle": "Reflexivity and the change in women’s status: the case of Arab Bedouin women in Israel",
+      "authorsCardHe": "Khawla Zoabi; Carol Fuller",
+      "sourceAuthors": [
+        "Khawla Zoabi",
+        "Carol Fuller"
+      ],
+      "journal": "Cogent Social Sciences",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1080/23311886.2023.2294561",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_reflexivity_and_the_change_in_womens_status_the_case_of_arab_bedouin_women_in_israel_summary_he.jpg",
+        "altHe": "איור עריכתי על נשים ערביות־בדואיות, שיחה קהילתית ושינוי במעמד חברתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-23",
+      "dateModified": "2026-06-23",
+      "summaryHe": "המחקר מציע שירידה בשיעורי הילודה בקרב נשים ערביות־בדואיות קשורה לתהליכי רפלקסיביות סביב נורמות פטריארכליות, שבהם נשים מפתחות אסטרטגיות לשיפור מעמדן, ביטחונן ויציבותן החברתית־כלכלית."
+    },
     {
       "slug": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he",
       "file": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
@@ -18960,7 +19252,7 @@
       "sourceAuthors": [
         "Gary J. Jacobsohn"
       ],
-      "journal": "",
+      "journal": "The Review of Politics",
       "dateText": "פורסם: 1989",
       "doiUrl": "https://doi.org/10.1017/s0034670500048075",
       "topics": [
@@ -18972,7 +19264,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק."
     },
     {
@@ -18986,7 +19278,7 @@
       "sourceAuthors": [
         "Rivka Weill"
       ],
-      "journal": "",
+      "journal": "Berkeley Journal of International Law",
       "dateText": "פורסם: 2012",
       "doiUrl": "https://doi.org/10.15779/z384d36",
       "topics": [
@@ -18998,7 +19290,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק."
     },
     {
@@ -19012,7 +19304,7 @@
       "sourceAuthors": [
         "Guy Lurie"
       ],
-      "journal": "",
+      "journal": "German Law Journal",
       "dateText": "פורסם: 2023",
       "doiUrl": "https://doi.org/10.1017/glj.2023.73",
       "topics": [
@@ -19024,7 +19316,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר בוחן כיצד מוסדות בלתי פורמליים בישראל משפיעים על עצמאות שיפוטית, מינויים, ניהול בתי המשפט והיחסים בין פוליטיקה לשפיטה."
     },
     {
@@ -19094,7 +19386,7 @@
         "Dov Fast",
         "Siegal Sadetzki"
       ],
-      "journal": "",
+      "journal": "Journal of Travel Medicine",
       "dateText": "פורסם: 2020",
       "doiUrl": "https://doi.org/10.1093/jtm/taaa162",
       "topics": [
@@ -19106,7 +19398,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר מציג את חוויית הבחירות בישראל בזמן מגפה כמקרה של פעולה מוסדית תחת לחץ. הוא מדגיש שבחירות דמוקרטיות דורשות לא רק עצם הצבעה אלא גם אמון, כללים הוגנים והגנה על תנאי השתתפות."
     },
     {
@@ -19120,7 +19412,7 @@
       "sourceAuthors": [
         "Nimrod David Lehrer"
       ],
-      "journal": "",
+      "journal": "European Journal of Political Economy",
       "dateText": "פורסם: 2017",
       "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2017.07.001",
       "topics": [
@@ -19132,7 +19424,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל."
     },
     {
@@ -19256,7 +19548,7 @@
         "Eitan Tzelgov",
         "Roi Zur"
       ],
-      "journal": "",
+      "journal": "Frontiers in Political Science",
       "dateText": "פורסם: 2025",
       "doiUrl": "https://doi.org/10.3389/fpos.2025.1627969",
       "topics": [
@@ -19268,7 +19560,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר מתאר הידרדרות במערכת הפוליטית בישראל לאחר בחירות 2022, ובוחן אם אירועי 4 בינואר 2023 ואילך הם רפורמה משפטית מאוחרת או מאמץ שיטתי של נסיגה דמוקרטית. הוא מדגיש את פגיעותה של המסגרת החוקתית בישראל, המבוססת על חוקי יסוד שרבים מהם ניתנים לשינוי ברוב פרלמנטרי רגיל."
     },
     {
@@ -19282,7 +19574,7 @@
       "sourceAuthors": [
         "Maya Mark"
       ],
-      "journal": "",
+      "journal": "Israel Studies",
       "dateText": "פורסם: 2023",
       "doiUrl": "https://doi.org/10.2979/israelstudies.28.3.02",
       "topics": [
@@ -19294,7 +19586,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק."
     },
     {
@@ -19419,7 +19711,7 @@
         "Mitchell A. Seligson",
         "Dan Caspi"
       ],
-      "journal": "",
+      "journal": "The Journal of Applied Behavioral Science",
       "dateText": "פורסם: 1983",
       "doiUrl": "https://doi.org/10.1177/002188638301900107",
       "topics": [
@@ -19431,7 +19723,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {
@@ -19445,7 +19737,7 @@
       "sourceAuthors": [
         "Najwan Saada"
       ],
-      "journal": "",
+      "journal": "The Journal of Social Studies Research",
       "dateText": "פורסם: 2020",
       "doiUrl": "https://doi.org/10.1016/j.jssr.2020.05.003",
       "topics": [
@@ -19457,7 +19749,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {
@@ -19655,7 +19947,7 @@
         "Nadia Ben-Youssef",
         "Sandra Samaan Tamari"
       ],
-      "journal": "",
+      "journal": "Journal of Palestine Studies",
       "dateText": "פורסם: 2018",
       "doiUrl": "https://doi.org/10.1525/jps.2018.48.1.73",
       "topics": [
@@ -19667,7 +19959,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל."
     },
     {
@@ -19682,7 +19974,7 @@
         "Ilan Saban",
         "Muhammad Amara"
       ],
-      "journal": "",
+      "journal": "Israel Law Review",
       "dateText": "פורסם: 2002",
       "doiUrl": "https://doi.org/10.1017/s0021223700012310",
       "topics": [
@@ -19694,7 +19986,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {
@@ -19736,7 +20028,7 @@
         "Mordechai Kremnitzer",
         "Yuval Shany"
       ],
-      "journal": "",
+      "journal": "Law & Ethics of Human Rights",
       "dateText": "פורסם: 2020",
       "doiUrl": "https://doi.org/10.1515/lehr-2020-2010",
       "topics": [
@@ -19748,7 +20040,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות."
     },
     {
@@ -20101,9 +20393,9 @@
       "sourceAuthors": [
         "Lotem Perry-Hazan"
       ],
-      "journal": "",
-      "dateText": "",
-      "doiUrl": "https://doi.org/10.3102/1571660",
+      "journal": "Teaching and Teacher Education",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1016/j.tate.2020.103016",
       "topics": [
         "constitutionalism-courts-rule-of-law"
       ],
@@ -20113,7 +20405,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {
@@ -20787,7 +21079,7 @@
         "Andrew O'Donohue"
       ],
       "journal": "",
-      "dateText": "פורסם: 08.10.2025",
+      "dateText": "מסמך עבודה: 08.10.2025",
       "doiUrl": "https://doi.org/10.31219/osf.io/dt486_v2",
       "topics": [
         "constitutionalism-courts-rule-of-law"
@@ -20798,7 +21090,7 @@
         "fitness": "standard"
       },
       "datePublished": "2026-05-21",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-22",
       "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל."
     },
     {

@@ -11,7 +11,7 @@
   "authorsCardHe": "Mordechai Kremnitzer, Yuval Shany",
   "paperTitle": "Illiberal Measures in Backsliding Democracies: Differences and Similarities between Recent Developments in Israel, Hungary, and Poland",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",
-  "journal": "",
+  "journal": "Law & Ethics of Human Rights",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1515/lehr-2020-2010",
   "doiLabel": "https://doi.org/10.1515/lehr-2020-2010",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, ומראה מדוע הדיון בנושא קשור למוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

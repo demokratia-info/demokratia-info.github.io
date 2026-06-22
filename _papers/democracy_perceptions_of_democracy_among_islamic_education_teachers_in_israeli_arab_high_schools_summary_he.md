@@ -11,7 +11,7 @@
   "authorsCardHe": "Najwan Saada",
   "paperTitle": "Perceptions of democracy among Islamic education teachers in Israeli Arab high schools",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5677-0539\" target=\"_blank\" rel=\"noopener noreferrer\">Najwan Saada</a>",
-  "journal": "",
+  "journal": "The Journal of Social Studies Research",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1016/j.jssr.2020.05.003",
   "doiLabel": "https://doi.org/10.1016/j.jssr.2020.05.003",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

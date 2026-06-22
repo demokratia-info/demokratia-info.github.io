@@ -11,7 +11,7 @@
   "authorsCardHe": "Ilan Saban, Muhammad Amara",
   "paperTitle": "The Status of Arabic in Israel: Reflections on the Power of Law to Produce Social Change",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3688-0954\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Saban</a>, Muhammad Amara",
-  "journal": "",
+  "journal": "Israel Law Review",
   "dateText": "פורסם: 2002",
   "doiUrl": "https://doi.org/10.1017/s0021223700012310",
   "doiLabel": "https://doi.org/10.1017/s0021223700012310",
@@ -54,8 +54,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

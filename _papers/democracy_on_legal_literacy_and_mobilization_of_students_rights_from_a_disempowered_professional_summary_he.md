@@ -11,10 +11,10 @@
   "authorsCardHe": "Lotem Perry-Hazan",
   "paperTitle": "On Legal Literacy and Mobilization of Students' Rights From a Disempowered Professional Status: The Case of Israeli Teachers",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6560-1136\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Perry-Hazan</a>",
-  "journal": "",
-  "dateText": "",
-  "doiUrl": "https://doi.org/10.3102/1571660",
-  "doiLabel": "https://doi.org/10.3102/1571660",
+  "journal": "Teaching and Teacher Education",
+  "dateText": "פורסם: 2020",
+  "doiUrl": "https://doi.org/10.1016/j.tate.2020.103016",
+  "doiLabel": "https://doi.org/10.1016/j.tate.2020.103016",
   "authors": [
     {
       "@type": "Person",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

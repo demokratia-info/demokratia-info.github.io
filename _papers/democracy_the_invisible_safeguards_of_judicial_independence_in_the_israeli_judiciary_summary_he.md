@@ -11,7 +11,7 @@
   "authorsCardHe": "Guy Lurie",
   "paperTitle": "The Invisible Safeguards of Judicial Independence in the Israeli Judiciary",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>",
-  "journal": "",
+  "journal": "German Law Journal",
   "dateText": "פורסם: 2023",
   "doiUrl": "https://doi.org/10.1017/glj.2023.73",
   "doiLabel": "https://doi.org/10.1017/glj.2023.73",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר מראה כי עצמאות שיפוטית בישראל נשענת לא רק על חוקים כתובים אלא גם על נוהגים בלתי פורמליים, שחלקם מגינים מפני התערבות פוליטית וחלקם עלולים לפגוע בשקיפות ובאחריותיות של מערכת המשפט.",
   "sections": [
     {

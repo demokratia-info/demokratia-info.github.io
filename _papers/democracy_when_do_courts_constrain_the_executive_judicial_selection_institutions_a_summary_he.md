@@ -12,7 +12,7 @@
   "paperTitle": "When Do Courts Constrain the Executive? Judicial Selection Institutions and Judicial Allies in Israel",
   "authorsHtml": "<a href=\"https://carnegieendowment.org/people/andrew-odonohue\" target=\"_blank\" rel=\"noopener noreferrer\">Andrew O&#x27;Donohue</a>",
   "journal": "",
-  "dateText": "פורסם: 08.10.2025",
+  "dateText": "מסמך עבודה: 08.10.2025",
   "sourcePublishedDate": "2025-10-08",
   "doiUrl": "https://doi.org/10.31219/osf.io/dt486_v2",
   "doiLabel": "https://doi.org/10.31219/osf.io/dt486_v2",
@@ -47,8 +47,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

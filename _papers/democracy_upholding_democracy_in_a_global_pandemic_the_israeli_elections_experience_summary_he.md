@@ -11,7 +11,7 @@
   "authorsCardHe": "Arnon Afek, Eyal Leshem, Ehud Kaliner, Dov Fast, Siegal Sadetzki",
   "paperTitle": "Upholding democracy in a global pandemic: the Israeli elections experience",
   "authorsHtml": "Arnon Afek; Eyal Leshem; Ehud Kaliner; Dov Fast; Siegal Sadetzki",
-  "journal": "",
+  "journal": "Journal of Travel Medicine",
   "dateText": "פורסם: 2020",
   "doiUrl": "https://doi.org/10.1093/jtm/taaa162",
   "doiLabel": "https://doi.org/10.1093/jtm/taaa162",
@@ -76,8 +76,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, ומראה מדוע הדיון בנושא קשור לייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

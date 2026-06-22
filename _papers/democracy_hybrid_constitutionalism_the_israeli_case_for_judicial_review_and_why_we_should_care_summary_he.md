@@ -11,7 +11,7 @@
   "authorsCardHe": "Rivka Weill",
   "paperTitle": "Hybrid Constitutionalism: The Israeli Case for Judicial Review and Why We Should Care",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/rweill\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Weill</a>",
-  "journal": "",
+  "journal": "Berkeley Journal of International Law",
   "dateText": "פורסם: 2012",
   "doiUrl": "https://doi.org/10.15779/z384d36",
   "doiLabel": "https://doi.org/10.15779/z384d36",
@@ -46,8 +46,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, ומראה מדוע הדיון בנושא קשור לבלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

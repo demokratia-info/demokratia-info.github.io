@@ -11,7 +11,7 @@
   "authorsCardHe": "Nadia Ben-Youssef, Sandra Samaan Tamari",
   "paperTitle": "Enshrining Discrimination: Israel's Nation-State Law",
   "authorsHtml": "Nadia Ben-Youssef; Sandra Samaan Tamari",
-  "journal": "",
+  "journal": "Journal of Palestine Studies",
   "dateText": "פורסם: 2018",
   "doiUrl": "https://doi.org/10.1525/jps.2018.48.1.73",
   "doiLabel": "https://doi.org/10.1525/jps.2018.48.1.73",
@@ -52,8 +52,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, ומראה מדוע הדיון בנושא קשור לזהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "sampleSize": 6,
-  "seed": "2026-06-22-homepage-high-fit",
+  "seed": "2026-06-23-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
   "highFitPaperCount": 297,
   "paperSlugs": [
-    "democracy_meso_news_spaces_public_private_domains_summary_he",
-    "democracy_international_law_in_israeli_courts_summary_he",
-    "democracy_why_the_israeli_constitutional_putsch_is_unconstitutional_summary_he",
-    "democracy_organizing_democracy_collective_action_summary_he",
-    "democracy_disappointing_not_hateful_divide_affective_polarization_summary_he",
-    "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he"
+    "democracy_capital_residence_mortality_arab_population_israel_summary_he",
+    "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
+    "democracy_year_of_rupture_the_deepening_democratic_divide_in_israel_in_2023_summary_he",
+    "democracy_financial_development_institutional_quality_government_finance_summary_he",
+    "democracy_fighting_terrorism_political_arena_summary_he",
+    "democracy_nation_owe_non_citizens_rights_summary_he"
   ]
 }

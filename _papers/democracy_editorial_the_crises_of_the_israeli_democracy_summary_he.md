@@ -11,7 +11,7 @@
   "authorsCardHe": "Yael Shomer, Eitan Tzelgov, Roi Zur",
   "paperTitle": "Editorial: The crises of the Israeli democracy",
   "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://orcid.org/0000-0003-2489-3918\" target=\"_blank\" rel=\"noopener noreferrer\">Eitan Tzelgov</a>, <a href=\"https://orcid.org/0000-0003-3168-9018\" target=\"_blank\" rel=\"noopener noreferrer\">Roi Zur</a>",
-  "journal": "",
+  "journal": "Frontiers in Political Science",
   "dateText": "פורסם: 2025",
   "sourcePublishedDate": "2025-07-14",
   "doiUrl": "https://doi.org/10.3389/fpos.2025.1627969",
@@ -67,8 +67,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר מציג את המשבר הישראלי כעימות על גבולות הכוח השלטוני: מעמד בית המשפט, חולשת המסגרת החוקתית והחשש מריכוז סמכויות בידי הרשות המבצעת.",
   "sections": [
     {

@@ -11,7 +11,7 @@
   "authorsCardHe": "Mitchell A. Seligson, Dan Caspi",
   "paperTitle": "Arabs in Israel: Political Tolerance and Ethnic Conflict",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7202-9422\" target=\"_blank\" rel=\"noopener noreferrer\">Mitchell A. Seligson</a>; <a href=\"https://www.bgu.ac.il/en/u/faculties/humanities-and-social-sciences/departments/communication/dan-caspi-in-memory/\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Caspi</a>",
-  "journal": "",
+  "journal": "The Journal of Applied Behavioral Science",
   "dateText": "פורסם: 1983",
   "doiUrl": "https://doi.org/10.1177/002188638301900107",
   "doiLabel": "https://doi.org/10.1177/002188638301900107",
@@ -56,8 +56,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-06-22",
+  "lastUpdatedHe": "22 ביוני 2026",
   "oneLinerHtml": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, ומראה מדוע הדיון בנושא קשור לשוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הקריאה בו חשובה משום שהיא מחברת בין מקור אקדמי לבין השאלה כיצד דמוקרטיה מגבילה כוח, מגינה על זכויות ושומרת על כללי משחק הוגנים.",
   "sections": [
     {
