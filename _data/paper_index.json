@@ -1,8 +1,281 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 872,
+  "paperCount": 882,
   "papers": [
+    {
+      "slug": "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he",
+      "file": "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.html",
+      "permalink": "/democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.html",
+      "sortKey": 202606240010,
+      "titleHe": "אסטרטגיות זהות מקום של סטודנטים ערבים־ישראלים באוניברסיטה",
+      "paperTitle": "Place Identity Strategies at University Constructed by Minority Arab-Israeli Student Groups",
+      "authorsCardHe": "Miriam Billig",
+      "sourceAuthors": [
+        "Miriam Billig"
+      ],
+      "journal": "Frontiers in Psychology",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.3389/fpsyg.2021.665042",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.jpg",
+        "altHe": "סטודנטים באוניברסיטת חיפה כמטפורה לזהות מקום ושייכות בקמפוס",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר בוחן כיצד סטודנטים ערבים־ישראלים בונים זהות מקום בקמפוס אוניברסיטאי המזוהה עם הרוב ההגמוני בישראל. הוא מזהה ארבע אסטרטגיות: גלויה, מושאלת, נמנעת ואידיאולוגית, ומראה שהן משתנות לפי זמן, מקום, מגדר, שורשיות ועמדה אקטיבית או פסיבית."
+    },
+    {
+      "slug": "democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he",
+      "file": "democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.html",
+      "permalink": "/democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.html",
+      "sortKey": 202606240009,
+      "titleHe": "קורונה, אמון ובריאות ציבורית בחברה החרדית בישראל",
+      "paperTitle": "COVID-19 Amongst the Ultra-Orthodox Population in Israel: An Inside Look into the Causes of the High Morbidity Rates",
+      "authorsCardHe": "Sara Zalcberg; Sima Zalcberg-Block",
+      "sourceAuthors": [
+        "Sara Zalcberg",
+        "Sima Zalcberg-Block"
+      ],
+      "journal": "Contemporary Jewry",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1007/s12397-021-09368-0",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.jpg",
+        "altHe": "חמ״ל עירוני בבני ברק בתקופת הקורונה כמטפורה לשיתוף פעולה בין רשויות לקהילה חרדית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מתבסס על ראיונות עומק, תכתובת דוא״ל ורשומות מקוונות של 25 חרדים שנדבקו בקורונה או באו במגע עם חולה מאומת. הוא מזהה גורמים מבניים, דתיים וחברתיים־אידיאולוגיים לתחלואה הגבוהה, ומדגיש את הצורך בשיתוף פעולה בין רשויות המדינה לרשויות דתיות ובפתרונות בריאות מותאמים תרבותית."
+    },
+    {
+      "slug": "democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he",
+      "file": "democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.html",
+      "permalink": "/democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.html",
+      "sortKey": 202606240008,
+      "titleHe": "צורות שונות של לובן וגזענות מוסדית באקדמיה הישראלית",
+      "paperTitle": "Various shapes of whiteness: A new look at racism and its institutional operation in Israeli academia",
+      "authorsCardHe": "Sarab Abu-Rabia-Queder; Tamar Hager",
+      "sourceAuthors": [
+        "Sarab Abu-Rabia-Queder",
+        "Tamar Hager"
+      ],
+      "journal": "Education, Citizenship and Social Justice",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1177/17461979241292991",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.jpg",
+        "altHe": "סטודנטיות באוניברסיטת חיפה בסדנה אקדמית כמטפורה לגיוון ולכוח מוסדי באקדמיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מציע מסגרת תיאורטית לניתוח כוח באקדמיה הישראלית, מעבר לשפה הרגילה של אפליה ותת־ייצוג. הוא משלב תיאוריית לובן, תיאוריה ביקורתית של גזע, אינטרסקציונליות וקולוניאליות התיישבותית כדי להסביר כיצד נורמות של הקבוצה הדומיננטית מעצבות ידע, ארגון והתקדמות."
+    },
+    {
+      "slug": "democracy_capabilities_divide_ict_bedouin_israel_summary_he",
+      "file": "democracy_capabilities_divide_ict_bedouin_israel_summary_he.html",
+      "permalink": "/democracy_capabilities_divide_ict_bedouin_israel_summary_he.html",
+      "sortKey": 202606240007,
+      "titleHe": "פער היכולות הדיגיטליות בקרב בדואים בישראל",
+      "paperTitle": "The Capabilities Divide: ICT Adoption and Use among Bedouin in Israel",
+      "authorsCardHe": "Avi Marciano; Amit M. Schejter; Rivka Neriya-Ben Shahar",
+      "sourceAuthors": [
+        "Avi Marciano",
+        "Amit M. Schejter",
+        "Rivka Neriya-Ben Shahar"
+      ],
+      "journal": "Journal of Human Development and Capabilities",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1080/19452829.2024.2370417",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_capabilities_divide_ict_bedouin_israel_summary_he.jpg",
+        "altHe": "כפר בדואי לא מוכר בנגב כמטפורה לפערי תשתית ויכולות דיגיטליות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מתבסס על 25 ראיונות עומק עם נשים וגברים בדואים בכפרים לא מוכרים. הוא טוען שמסגרת היכולות מסבירה טוב יותר מפער דיגיטלי טכני כיצד סמארטפונים מאפשרים פעולות רצויות, אך גם כיצד תשתיות, הדרה ודת מעצבים את השימוש בפועל."
+    },
+    {
+      "slug": "democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he",
+      "file": "democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.html",
+      "permalink": "/democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.html",
+      "sortKey": 202606240006,
+      "titleHe": "אתיקה של עיתונאים חרדים בתיווך מדע לציבור",
+      "paperTitle": "Religious Journalists’ Ethics on Communicating Science: The Case of Ultra-Orthodox Reportage in Israel",
+      "authorsCardHe": "Oren Golan; Nakhi Mishol-Shauli",
+      "sourceAuthors": [
+        "Oren Golan",
+        "Nakhi Mishol-Shauli"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.3390/rel15030296",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.jpg",
+        "altHe": "דוכן עיתונים חרדי בירושלים כמטפורה לתיווך מדע לציבור דתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מבוסס על ראיונות עומק עם 20 עורכים ועיתונאים חרדים שסיקרו מדע לפני תקופת הקורונה ובמהלכה. הוא מזהה אתיקות של דאגה, קהילה, מקצועיות ודת, ומראה כיצד עיתונאים דתיים משלבים מקורות ידע שונים לטובת קוראיהם."
+    },
+    {
+      "slug": "democracy_intergenerational_relations_israeli_older_protesters_summary_he",
+      "file": "democracy_intergenerational_relations_israeli_older_protesters_summary_he.html",
+      "permalink": "/democracy_intergenerational_relations_israeli_older_protesters_summary_he.html",
+      "sortKey": 202606240005,
+      "titleHe": "יחסים בין־דוריים במחאת מבוגרים בישראל",
+      "paperTitle": "“You messed up with the wrong generation”: Intergenerational relations from the perspective of Israeli older protesters",
+      "authorsCardHe": "Liat Ayalon; Sarit Okun",
+      "sourceAuthors": [
+        "Liat Ayalon",
+        "Sarit Okun"
+      ],
+      "journal": "Journal of Aging Studies",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1016/j.jaging.2024.101264",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intergenerational_relations_israeli_older_protesters_summary_he.jpg",
+        "altHe": "הפגנה בירושלים נגד הרפורמה המשפטית כמטפורה למחאה בין־דורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מתבסס על 30 ראיונות עם מפגינים ישראלים מעל גיל 65. הוא מראה שמבוגרים ראו עצמם כמובילי מחאה בעלי זמן, ניסיון וערכים, אך גם הדגישו שמחאה אינה שלמה בלי אנרגיה, נוכחות וסמליות של צעירים."
+    },
+    {
+      "slug": "democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he",
+      "file": "democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.html",
+      "permalink": "/democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.html",
+      "sortKey": 202606240004,
+      "titleHe": "אי־שוויון מגדרי משתנה במשקי בית פלסטיניים־ערביים בישראל",
+      "paperTitle": "The diverging gender inequality across households: The case of Palestinian-Arab families in Israel",
+      "authorsCardHe": "Maha Sabbah-Karkabi",
+      "sourceAuthors": [
+        "Maha Sabbah-Karkabi"
+      ],
+      "journal": "Current Sociology",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1177/00113921221141471",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.jpg",
+        "altHe": "נוף של כפר ערבי בישראל כמטפורה למשקי בית ולשינוי חברתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מנתח נתוני סקרים חברתיים בישראל כדי לבחון כיצד מעמד חברתי־כלכלי, השכלה ותפיסות מגדריות משפיעים על חלוקת עבודות הבית והטיפול בילדים בקרב משפחות פלסטיניות־ערביות. הוא מצביע על שוויון מגדרי סלקטיבי יותר במשקי בית משכילים ובמעמד גבוה, לצד גבולות מגדריים שנותרים יציבים בחלק מן המטלות."
+    },
+    {
+      "slug": "democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he",
+      "file": "democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.html",
+      "permalink": "/democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.html",
+      "sortKey": 202606240003,
+      "titleHe": "הנחיות מקדימות לדמנציה בין רוב למיעוט בישראל",
+      "paperTitle": "Exploring the Motivations for Completing Advance Care Directives: A Qualitative Study of Majority/Minority Israeli People Without Dementia",
+      "authorsCardHe": "Perla Werner; Natalie Ulitsa; Hanan AboJabel",
+      "sourceAuthors": [
+        "Perla Werner",
+        "Natalie Ulitsa",
+        "Hanan AboJabel"
+      ],
+      "journal": "Frontiers in Psychiatry",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.3389/fpsyt.2022.864271",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.jpg",
+        "altHe": "התייעצות רפואית במרפאה כמטפורה להנחיות מקדימות ולבחירה אוטונומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר בוחן מניעים בעד ונגד השלמת הנחיות מקדימות לדמנציה בקרב יהודים ותיקים, יוצאי ברית המועצות לשעבר וערבים בישראל. הוא מצביע על חוסר ידע, תפיסות סטיגמטיות ודילמות אתיות, לצד הבדלים תרבותיים באופן שבו אנשים מבינים אוטונומיה וכשירות."
+    },
+    {
+      "slug": "democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he",
+      "file": "democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.html",
+      "permalink": "/democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.html",
+      "sortKey": 202606240002,
+      "titleHe": "עברית אקדמית כחסם לשוויון של סטודנטיות בדואיות",
+      "paperTitle": "An Obstacle in Presenting Academic Equality and the Lack of Personal Prestige in the Academy: The Challenges of the Hebrew Language in the Eyes of Arab-Bedouin Female Students",
+      "authorsCardHe": "Aref Abu-Gweder",
+      "sourceAuthors": [
+        "Aref Abu-Gweder"
+      ],
+      "journal": "Central European Management Journal",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.57030/23364890.cemj.30.4.210",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.jpg",
+        "altHe": "מבנה בית ספר בדואי בבאר שבע כמטפורה לחסמים לשוניים בדרך להשכלה גבוהה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר מתבסס על ראיונות חצי־מובנים עם סטודנטיות ערביות־בדואיות המתמחות בעברית כשפה שנייה. הוא מראה שהעברית פותחת אפשרויות מקצועיות ואישיות, אך גם יוצרת חסמים בכתיבה, בהבנת חומרי לימוד ובהשתתפות שווה בכיתה."
+    },
+    {
+      "slug": "democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he",
+      "file": "democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.html",
+      "permalink": "/democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.html",
+      "sortKey": 202606240001,
+      "titleHe": "הפקעת הערבית מן המרחב האקדמי הישראלי",
+      "paperTitle": "The expropriation of Arabic from Arab-Palestinians: On Arabic and coloniality in the Israeli academic sphere",
+      "authorsCardHe": "Yousef T. Jabareen; Yonatan Mendel",
+      "sourceAuthors": [
+        "Yousef T. Jabareen",
+        "Yonatan Mendel"
+      ],
+      "journal": "Education, Citizenship and Social Justice",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1177/17461979241274774",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.jpg",
+        "altHe": "בניין ספרייה אוניברסיטאית בירושלים כמטפורה למעמד הערבית באקדמיה הישראלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "summaryHe": "המאמר בוחן את מקומה של הערבית באקדמיה הישראלית: כשפת לימוד, כשפת מחקר וכשפה ציבורית בקמפוס. הוא טוען שהוראת הערבית והדיון בה עוצבו לעיתים דרך מסגרות עבריות ומערביות שמצמצמות את השפעתם של דוברי הערבית עצמם."
+    },
     {
       "slug": "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he",
       "file": "democracy_womens_work_family_trajectories_and_earnings_by_ethno_religious_groups_in_israel_more_equality_in_th_summary_he.html",

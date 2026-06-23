@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-06-24",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -21394,6 +21394,306 @@
       "createdDate": "2026-06-23",
       "reuseGuidance": "New paper-specific generated bitmap; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
       "qualityNotes": "Warm editorial raster illustration with civic setting, people, documents or public space; no readable text, logos, flags as main subject, or UI overlays. Marked standard because it is a generated illustrative fit rather than a documentary source photo."
+    },
+    {
+      "file": "html_qa/democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.html",
+      "usedBy": [
+        "democracy_the_expropriation_of_arabic_from_arab_palestinians_summary_he.html"
+      ],
+      "cardTitleHe": "הפקעת הערבית מן המרחב האקדמי הישראלי",
+      "authorsHe": "Yousef T. Jabareen; Yonatan Mendel",
+      "visualDescriptionHe": "צילום תיעודי של ספרייה אוניברסיטאית ישראלית",
+      "semanticDescriptionHe": "המאמר עוסק במעמד הערבית באקדמיה הישראלית ובקשר בין שפה, ידע, כוח מוסדי ושוויון אזרחי.",
+      "tags": [
+        "rights-equality-minorities",
+        "ערבית",
+        "אקדמיה",
+        "שוויון לשוני"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:THE NATIONAL LIBRARY BUILDING OF THE HEBREW UNIVERSITY ON MOUNT SCOPUS IN JERUSALEM. הספריה הלאומית באוניברסיטה העברית בהר הצופים, ירושלים..jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:THE_NATIONAL_LIBRARY_BUILDING_OF_THE_HEBREW_UNIVERSITY_ON_MOUNT_SCOPUS_IN_JERUSALEM._%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%91%D7%94%D7%A8_%D7%94%D7%A6%D7%95%D7%A4%D7%99%D7%9D,_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D..jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/THE_NATIONAL_LIBRARY_BUILDING_OF_THE_HEBREW_UNIVERSITY_ON_MOUNT_SCOPUS_IN_JERUSALEM._%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%91%D7%94%D7%A8_%D7%94%D7%A6%D7%95%D7%A4%D7%99%D7%9D%2C_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D..jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "artist": "Zoltan Kluger",
+      "credit": "This is available from National Photo Collection of Israel, Photography dept. Government Press Office (link), under the digital ID D10-092.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.html",
+      "usedBy": [
+        "democracy_hebrew_language_challenges_arab_bedouin_female_students_summary_he.html"
+      ],
+      "cardTitleHe": "עברית אקדמית כחסם לשוויון של סטודנטיות בדואיות",
+      "authorsHe": "Aref Abu-Gweder",
+      "visualDescriptionHe": "צילום של בית ספר בדואי בבאר שבע",
+      "semanticDescriptionHe": "המאמר עוסק באתגרים לשוניים של סטודנטיות ערביות־בדואיות באקדמיה ובשאלת השוויון בפועל בהשכלה גבוהה.",
+      "tags": [
+        "rights-equality-minorities",
+        "עברית",
+        "סטודנטיות בדואיות",
+        "השכלה גבוהה"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Beer Sheva Bedouin School 1.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beer_Sheva_Bedouin_School_1.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Beer_Sheva_Bedouin_School_1.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "איליה פרינץ",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.html",
+      "usedBy": [
+        "democracy_advance_care_directives_majority_minority_israelis_without_dementia_summary_he.html"
+      ],
+      "cardTitleHe": "הנחיות מקדימות לדמנציה בין רוב למיעוט בישראל",
+      "authorsHe": "Perla Werner; Natalie Ulitsa; Hanan AboJabel",
+      "visualDescriptionHe": "צילום של התייעצות רפואית במרפאה",
+      "semanticDescriptionHe": "המאמר עוסק בהנחיות מקדימות לדמנציה ובשוני בין קבוצות רוב ומיעוט בישראל בהבנת אוטונומיה, כשירות וסטיגמה.",
+      "tags": [
+        "rights-equality-minorities",
+        "בריאות",
+        "אוטונומיה",
+        "דמנציה"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Healthcare professional checks temperature with digital thermometer during patient consultation in a medical office undefined.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Healthcare_professional_checks_temperature_with_digital_thermometer_during_patient_consultation_in_a_medical_office_undefined.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Healthcare_professional_checks_temperature_with_digital_thermometer_during_patient_consultation_in_a_medical_office_undefined.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Shixart1985",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.html",
+      "usedBy": [
+        "democracy_diverging_gender_inequality_palestinian_arab_families_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון מגדרי משתנה במשקי בית פלסטיניים־ערביים בישראל",
+      "authorsHe": "Maha Sabbah-Karkabi",
+      "visualDescriptionHe": "צילום של הכפר ג׳ת בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בחלוקת עבודות בית וטיפול בילדים במשפחות פלסטיניות־ערביות בישראל ובקשר בין מעמד, השכלה ונורמות מגדריות.",
+      "tags": [
+        "rights-equality-minorities",
+        "מגדר",
+        "משפחה",
+        "פלסטינים אזרחי ישראל"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:The Arab village of Jatt (FL45739027).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Arab_village_of_Jatt_(FL45739027).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Arab_village_of_Jatt_%28FL45739027%29.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Yosi Aloni",
+      "credit": "This file is available from Dan Hadani collection of the National Library of Israel. link to the source:The Arab village of Jatt.",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_intergenerational_relations_israeli_older_protesters_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_intergenerational_relations_israeli_older_protesters_summary_he.html",
+      "usedBy": [
+        "democracy_intergenerational_relations_israeli_older_protesters_summary_he.html"
+      ],
+      "cardTitleHe": "יחסים בין־דוריים במחאת מבוגרים בישראל",
+      "authorsHe": "Liat Ayalon; Sarit Okun",
+      "visualDescriptionHe": "צילום תיעודי של הפגנה בירושלים נגד הרפורמה המשפטית",
+      "semanticDescriptionHe": "המאמר עוסק במפגינים מבוגרים בישראל ובאופן שבו הם מבינים מנהיגות, שיתוף צעירים וסולידריות במחאה פוליטית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "מחאה",
+        "יחסים בין־דוריים",
+        "זקנה"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Demonstration against judicial reforms (Jerusalem, 27 March 2023).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Demonstration_against_judicial_reforms_(Jerusalem,_27_March_2023).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Demonstration_against_judicial_reforms_%28Jerusalem%2C_27_March_2023%29.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Nizzan Cohen",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.html",
+      "usedBy": [
+        "democracy_religious_journalists_ethics_science_ultra_orthodox_reportage_summary_he.html"
+      ],
+      "cardTitleHe": "אתיקה של עיתונאים חרדים בתיווך מדע לציבור",
+      "authorsHe": "Oren Golan; Nakhi Mishol-Shauli",
+      "visualDescriptionHe": "צילום של עיתונים חרדיים בירושלים",
+      "semanticDescriptionHe": "המאמר עוסק בעיתונאים חרדים כתווכי ידע מדעי ובאיזון בין מקצועיות, דת, קהילה ודאגה ציבורית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "עיתונות חרדית",
+        "תקשורת מדע"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Ultra Orthodox newspaprs in Jarusalem 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ultra_Orthodox_newspaprs_in_Jarusalem_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ultra_Orthodox_newspaprs_in_Jarusalem_2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Nizzan Zvi Cohen",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_capabilities_divide_ict_bedouin_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_capabilities_divide_ict_bedouin_israel_summary_he.html",
+      "usedBy": [
+        "democracy_capabilities_divide_ict_bedouin_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פער היכולות הדיגיטליות בקרב בדואים בישראל",
+      "authorsHe": "Avi Marciano; Amit M. Schejter; Rivka Neriya-Ben Shahar",
+      "visualDescriptionHe": "צילום של כפר בדואי לא מוכר בנגב",
+      "semanticDescriptionHe": "המאמר עוסק בשימוש בטכנולוגיות מידע בקרב בדואים בישראל ובקשר בין תשתיות, הדרה, דת וגישת היכולות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "בדואים",
+        "פער דיגיטלי"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Unrecognized Bedouin village.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unrecognized_Bedouin_village.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Unrecognized_Bedouin_village.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Neukoln",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.html",
+      "usedBy": [
+        "democracy_various_shapes_of_whiteness_racism_israeli_academia_summary_he.html"
+      ],
+      "cardTitleHe": "צורות שונות של לובן וגזענות מוסדית באקדמיה הישראלית",
+      "authorsHe": "Sarab Abu-Rabia-Queder; Tamar Hager",
+      "visualDescriptionHe": "צילום של סטודנטיות באוניברסיטת חיפה בסדנה אקדמית",
+      "semanticDescriptionHe": "המאמר עוסק בגזענות מוסדית, לובן ונורמות כוח באקדמיה הישראלית ובפגיעתן בסטודנטים ובסגל מקבוצות מיעוט.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "גזענות מוסדית",
+        "אקדמיה"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Students of Women and Gender Studies University of Haifa on training in writing in Wikipedia (1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Students_of_Women_and_Gender_Studies_University_of_Haifa_on_training_in_writing_in_Wikipedia_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Students_of_Women_and_Gender_Studies_University_of_Haifa_on_training_in_writing_in_Wikipedia_%281%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Hanay",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.html",
+      "usedBy": [
+        "democracy_covid_19_ultra_orthodox_population_israel_high_morbidity_summary_he.html"
+      ],
+      "cardTitleHe": "קורונה, אמון ובריאות ציבורית בחברה החרדית בישראל",
+      "authorsHe": "Sara Zalcberg; Sima Zalcberg-Block",
+      "visualDescriptionHe": "צילום של ביקור בחמ״ל הקורונה העירוני בבני ברק",
+      "semanticDescriptionHe": "המאמר עוסק בגורמי תחלואת קורונה גבוהה בחברה החרדית ובחשיבות שיתוף פעולה בין המדינה, רשויות דתיות ושירותי בריאות מותאמים תרבותית.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "חרדים",
+        "קורונה"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Reuven Rivlin visit to the Command Center fighting against COVID-19 of the city of Bnei Brak, November 2020 (GPOHA1 2312).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_visit_to_the_Command_Center_fighting_against_COVID-19_of_the_city_of_Bnei_Brak,_November_2020_(GPOHA1_2312).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Reuven_Rivlin_visit_to_the_Command_Center_fighting_against_COVID-19_of_the_city_of_Bnei_Brak%2C_November_2020_%28GPOHA1_2312%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Haim Zach",
+      "credit": "Spokesperson unit of the President of Israel",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.html",
+      "usedBy": [
+        "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.html"
+      ],
+      "cardTitleHe": "אסטרטגיות זהות מקום של סטודנטים ערבים־ישראלים באוניברסיטה",
+      "authorsHe": "Miriam Billig",
+      "visualDescriptionHe": "צילום של סטודנטים באוניברסיטת חיפה בסדנה אקדמית",
+      "semanticDescriptionHe": "המאמר עוסק באסטרטגיות זהות מקום של סטודנטים ערבים־ישראלים בקמפוס המזוהה עם הרוב ההגמוני בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "זהות מקום",
+        "סטודנטים ערבים־ישראלים",
+        "קמפוס"
+      ],
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-24",
+      "sourceTitle": "File:Students of Archaeology dpartment in University of Haifa on a moment before training in writing in Wikipedia (1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Students_of_Archaeology_dpartment_in_University_of_Haifa_on_a_moment_before_training_in_writing_in_Wikipedia_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Students_of_Archaeology_dpartment_in_University_of_Haifa_on_a_moment_before_training_in_writing_in_Wikipedia_%281%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Hanay",
+      "credit": "Own work",
+      "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
     }
   ],
   "topicGraphics": [
