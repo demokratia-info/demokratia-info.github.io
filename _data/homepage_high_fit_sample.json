@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "sampleSize": 6,
-  "seed": "2026-06-24-homepage-high-fit",
+  "seed": "2026-06-25-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
   "highFitPaperCount": 297,
   "paperSlugs": [
-    "democracy_meso_news_spaces_public_private_domains_summary_he",
-    "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he",
-    "democracy_civic_engagement_at_risk_arab_minority_youth_israel_summary_he",
-    "democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he",
-    "democracy_arabic_language_islamic_sources_israeli_courts_judicial_pluralism_summary_he",
-    "democracy_reform_jewish_female_converts_belonging_recognition_summary_he"
+    "democracy_invisible_access_needs_intellectual_disabilities_summary_he",
+    "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he",
+    "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he",
+    "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he",
+    "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he",
+    "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he"
   ]
 }

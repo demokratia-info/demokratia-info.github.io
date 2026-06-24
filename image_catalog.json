@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -21694,6 +21694,298 @@
       "credit": "Own work",
       "reuseGuidance": "New paper-specific Wikimedia/Commons photo; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a documentary or contextual fit rather than a uniquely exact paper-specific image."
+    },
+    {
+      "file": "html_qa/democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.html",
+      "usedBy": [
+        "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.html"
+      ],
+      "cardTitleHe": "קליטת חוקרים יוצאי ברית המועצות לשעבר באקדמיה הישראלית",
+      "authorsHe": "Victoria Kot; Miri Yemini; Katerina Bodovski",
+      "visualDescriptionHe": "איור עריכתי של חוקרים בחדר סמינר אוניברסיטאי",
+      "semanticDescriptionHe": "המאמר עוסק בשילוב חוקרים יוצאי ברית המועצות לשעבר באקדמיה הישראלית ובקשר בין הון, שייכות ושוויון מוסדי.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "another",
+        "model",
+        "minority",
+        "immigrant",
+        "scholars"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm editorial university seminar scene for immigrant scholars in Israeli academia; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_pious_druze_women_religious_discourse_education_employment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pious_druze_women_religious_discourse_education_employment_summary_he.html",
+      "usedBy": [
+        "democracy_pious_druze_women_religious_discourse_education_employment_summary_he.html"
+      ],
+      "cardTitleHe": "נשים דרוזיות דתיות, השכלה ועבודה מול גבולות השיח הדתי",
+      "authorsHe": "Ebtesam Hasan Barakat",
+      "visualDescriptionHe": "צילום תיעודי של נשים דרוזיות בסאג׳ור",
+      "semanticDescriptionHe": "המאמר עוסק בנשים דרוזיות דתיות, השכלה, תעסוקה וסוכנות בתוך גבולות השיח הדתי והקהילתי.",
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "pious",
+        "druze",
+        "women",
+        "religious",
+        "discourse"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceTitle": "File:131783 sajur-women in the streets of the village PikiWiki Israel.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:131783_sajur-women_in_the_streets_of_the_village_PikiWiki_Israel.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/131783_sajur-women_in_the_streets_of_the_village_PikiWiki_Israel.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "artist": "שלמה רודד",
+      "credit": "PikiWiki Israel / Own work"
+    },
+    {
+      "file": "html_qa/democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.html",
+      "usedBy": [
+        "democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.html"
+      ],
+      "cardTitleHe": "מנהיגות מנהלים ומחויבות מורים במערכת החינוך הערבית בישראל",
+      "authorsHe": "Yasmin Abd El Qader; Pascale Benoliel",
+      "visualDescriptionHe": "איור עריכתי של מנהלת ומורים בחדר צוות",
+      "semanticDescriptionHe": "המאמר עוסק במנהיגות משתפת ומחויבות ארגונית במערכת החינוך הערבית בישראל.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "principal",
+        "leadership",
+        "arab",
+        "education",
+        "minority"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm editorial school staff room scene for principal leadership and Arab teachers in Israel; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
+      "usedBy": [
+        "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אמת, אוטונומיה והמתת חסד בעמדות הציבור בישראל",
+      "authorsHe": "Moran Bodas; Baruch Velan; Giora Kaplan; Arnona Ziv; Carmit Rubin; Kobi Peleg",
+      "visualDescriptionHe": "איור עריכתי של שיחה רפואית רגישה בחדר ייעוץ",
+      "semanticDescriptionHe": "המאמר עוסק בעמדות הציבור בישראל כלפי אמירת אמת לחולים סופניים וסיוע לסיום חיים.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "democracy",
+        "assisted",
+        "life",
+        "termination",
+        "truth",
+        "telling"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated respectful medical consultation scene for truth telling and end-of-life public opinion in Israel; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+      "usedBy": [
+        "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שתיקה וקול בין עובדים סוציאליים יהודים ופלסטינים־ישראלים בעת משבר",
+      "authorsHe": "Neveen Ali-Saleh Darawshy; Sagit Lev; Shlomit Weiss-Dagan",
+      "visualDescriptionHe": "איור עריכתי של עובדים סוציאליים סביב שולחן בזמן משבר",
+      "semanticDescriptionHe": "המאמר עוסק בשתיקה וקול ביחסי עובדים סוציאליים פלסטינים־ישראלים ויהודים בעת אלימות פוליטית.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "voicing",
+        "or",
+        "silence",
+        "social",
+        "workers"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm public-service meeting scene for social workers in a mixed Israeli city during political turmoil; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.html",
+      "usedBy": [
+        "democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות ארגונית, שחיקה וצדק ארגוני בקרב מורים ערבים בישראל",
+      "authorsHe": "Aaron Cohen; Mohammad Abedallah",
+      "visualDescriptionHe": "איור עריכתי של מורים בחדר צוות מתכננים יחד",
+      "semanticDescriptionHe": "המאמר עוסק בהתנהגות אזרחית ארגונית, שחיקה וצדק ארגוני בקרב מורים ערבים בישראל.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "organizational",
+        "citizenship",
+        "counterproductive",
+        "work",
+        "arab"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm teachers lounge scene for organizational citizenship and burnout among Arab teachers; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.html",
+      "usedBy": [
+        "democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.html"
+      ],
+      "cardTitleHe": "נורמות עיתונאיות בטלגרם בזמן מלחמת ישראל-חמאס",
+      "authorsHe": "Dana Weimann-Saks; Vered Elishar; Yaron Ariel",
+      "visualDescriptionHe": "איור עריכתי של עיתונאים ליד שולחן עבודה בזמן בדיקת מידע",
+      "semanticDescriptionHe": "המאמר עוסק בנורמות עיתונאיות ובדילמות אתיות בערוצי טלגרם בזמן מלחמת ישראל-חמאס.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "journalistic",
+        "norms",
+        "telegram",
+        "ethics",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm newsroom ethics scene for Telegram-like alternative news channels during wartime reporting; no intentional readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.html",
+      "usedBy": [
+        "democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד החריג המשפטי מאפשר שיטות חקירה אלימות בישראל",
+      "authorsHe": "Irit Ballas",
+      "visualDescriptionHe": "איור עריכתי של ארכיון משפטי וכיסא ריק בחדר ביקורת",
+      "semanticDescriptionHe": "המאמר עוסק בחריגים משפטיים לאיסור שיטות חקירה אלימות ובקשר בין משפט, ביטחון וזכויות אדם.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "democracy",
+        "fracturing",
+        "exception",
+        "violent",
+        "interrogation",
+        "methods"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated sober legal archive scene for fragmented legal exceptions around violent interrogation; no explicit violence, text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_judicial_review_legislative_process_israel_response_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_judicial_review_legislative_process_israel_response_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_review_legislative_process_israel_response_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית על הליך החקיקה בישראל אחרי קוונטינסקי",
+      "authorsHe": "Gonen Ilan",
+      "visualDescriptionHe": "איור עריכתי של יועצים ומחוקקים סביב תיקי תקציב",
+      "semanticDescriptionHe": "המאמר עוסק בביקורת שיפוטית על הליך החקיקה בישראל, בפסק דין קוונטינסקי ובחוק ההסדרים.",
+      "sourceType": "generated-openai",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "judicial",
+        "review",
+        "legislative",
+        "process",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourcePromptSummary": "Generated warm legislative committee scene for judicial review of legislative procedure and omnibus budget files; no intentional text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.html",
+      "usedBy": [
+        "democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.html"
+      ],
+      "cardTitleHe": "אוסלו, הדרה ולוקליזציה בפוליטיקה של המיעוט הפלסטיני בישראל",
+      "authorsHe": "Mansour Nasasra",
+      "visualDescriptionHe": "צילום היסטורי של נצרת ונוף מקומי",
+      "semanticDescriptionHe": "המאמר עוסק בהשפעת הסכמי אוסלו על הפוליטיקה המקומית והאזרחית של המיעוט הפלסטיני בישראל.",
+      "sourceType": "wikimedia_commons_photo",
+      "createdDate": "2026-06-25",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "politics",
+        "exclusion",
+        "localization",
+        "palestinian",
+        "minority"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceTitle": "File:Nazareth) - P. Bergheim LCCN92500688.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nazareth)_-_P._Bergheim_LCCN92500688.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nazareth%29_-_P._Bergheim_LCCN92500688.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "artist": "P. Bergheim",
+      "credit": "Library of Congress / public domain"
     }
   ],
   "topicGraphics": [

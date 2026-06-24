@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 882,
+  "paperCount": 892,
   "papers": [
+    {
+      "slug": "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he",
+      "file": "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.html",
+      "permalink": "/democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.html",
+      "sortKey": 202606250010,
+      "titleHe": "קליטת חוקרים יוצאי ברית המועצות לשעבר באקדמיה הישראלית",
+      "paperTitle": "Another model minority? Immigrant scholars from the former Soviet Union in Israeli academia",
+      "authorsCardHe": "Victoria Kot; Miri Yemini; Katerina Bodovski",
+      "sourceAuthors": [
+        "Victoria Kot",
+        "Miri Yemini",
+        "Katerina Bodovski"
+      ],
+      "journal": "Education Inquiry",
+      "dateText": "פורסם אונליין: 2023; כרך 16(1), 2025",
+      "doiUrl": "https://doi.org/10.1080/20004508.2023.2168356",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.jpg",
+        "altHe": "חוקרים בחדר סמינר אוניברסיטאי כמטפורה לשילוב יוצאי ברית המועצות לשעבר באקדמיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן את חוויותיהם המקצועיות והאישיות של חוקרים שהיגרו בילדותם מברית המועצות לשעבר והפכו לחברי סגל בכיר בישראל. הוא מראה שגם קבוצה הנתפסת כמודל של השתלבות נדרשת לבנות הון תרבותי, חברתי וחוסני חדש כדי להיכנס למרחבים אליטיסטיים באקדמיה."
+    },
+    {
+      "slug": "democracy_pious_druze_women_religious_discourse_education_employment_summary_he",
+      "file": "democracy_pious_druze_women_religious_discourse_education_employment_summary_he.html",
+      "permalink": "/democracy_pious_druze_women_religious_discourse_education_employment_summary_he.html",
+      "sortKey": 202606250009,
+      "titleHe": "נשים דרוזיות דתיות, השכלה ועבודה מול גבולות השיח הדתי",
+      "paperTitle": "Pious Women Challenge Arrangements Anchored in the Dominancy of the Religious Discourse: Druze Women in Israel as a Case Study",
+      "authorsCardHe": "Ebtesam Hasan Barakat",
+      "sourceAuthors": [
+        "Ebtesam Hasan Barakat"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2023",
+      "doiUrl": "https://doi.org/10.3390/rel14080995",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pious_druze_women_religious_discourse_education_employment_summary_he.jpg",
+        "altHe": "נשים דרוזיות בסאג׳ור כמטפורה להשכלה, תעסוקה וסוכנות דתית בקהילה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן כיצד נשים דרוזיות דתיות בישראל מפעילות סוכנות בתוך קהילה שמרנית ומנסחות מחדש את היחס בין דתיות, מודרניות, השכלה ותעסוקה. על בסיס ראיונות עם עשרים נשים הוא מראה שהן אינן בוחרות רק בין מסורת למודרנה, אלא מרחיבות את ההגדרות הקהילתיות של שתיהן."
+    },
+    {
+      "slug": "democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he",
+      "file": "democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.html",
+      "permalink": "/democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.html",
+      "sortKey": 202606250008,
+      "titleHe": "מנהיגות מנהלים ומחויבות מורים במערכת החינוך הערבית בישראל",
+      "paperTitle": "The implications of principal leadership styles on teachers' organizational commitment in the Israeli Arab educational minority",
+      "authorsCardHe": "Yasmin Abd El Qader; Pascale Benoliel",
+      "sourceAuthors": [
+        "Yasmin Abd El Qader",
+        "Pascale Benoliel"
+      ],
+      "journal": "Psychology in the Schools",
+      "dateText": "פורסם אונליין: 2023; כרך 61(3), 2024",
+      "doiUrl": "https://doi.org/10.1002/pits.23083",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_principal_leadership_arab_education_minority_teachers_commitment_summary_he.jpg",
+        "altHe": "מנהלת ומורים בחדר צוות כמטפורה למנהיגות משתפת בחינוך הערבי בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן כיצד מורים וצוותי ניהול בבתי ספר תיכוניים ערביים בישראל תופסים מנהיגות משתפת, מכוונת, טרנספורמטיבית ועסקתית. הממצאים מצביעים על דומיננטיות של מנהיגות מכוונת, אך גם על קשר חיובי בין מנהיגות משתפת לבין מחויבות מורים מעבר להשפעת הסגנון המכוון."
+    },
+    {
+      "slug": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he",
+      "file": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
+      "permalink": "/democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
+      "sortKey": 202606250007,
+      "titleHe": "אמת, אוטונומיה והמתת חסד בעמדות הציבור בישראל",
+      "paperTitle": "Assisted life termination and truth telling to terminally ill patients – a cross-sectional study of public opinions in Israel",
+      "authorsCardHe": "Moran Bodas; Baruch Velan; Giora Kaplan; Arnona Ziv; Carmit Rubin; Kobi Peleg",
+      "sourceAuthors": [
+        "Moran Bodas",
+        "Baruch Velan",
+        "Giora Kaplan",
+        "Arnona Ziv",
+        "Carmit Rubin",
+        "Kobi Peleg"
+      ],
+      "journal": "Israel Journal of Health Policy Research",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1186/s13584-020-00419-9",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.jpg",
+        "altHe": "שיחה רפואית רגישה כמטפורה לאמת ואוטונומיה בהחלטות סוף חיים בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן עמדות ציבור בישראל כלפי שאלות אתיות בסוף החיים, ובהן אמירת אמת לחולים סופניים וסיוע רפואי למוות. בסקר מקוון מייצג של 515 משתתפים נמצא רוב לתמיכה באמירת אמת גם במצבים קשים, ותמיכה מפוצלת יותר בסיוע לסיום חיים, עם הבדלים חזקים לפי דתיות וקבוצת אוכלוסייה."
+    },
+    {
+      "slug": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he",
+      "file": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+      "permalink": "/democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+      "sortKey": 202606250006,
+      "titleHe": "שתיקה וקול בין עובדים סוציאליים יהודים ופלסטינים־ישראלים בעת משבר",
+      "paperTitle": "Voicing or Silence: Palestinian Israeli and Jewish Israeli Social Workers’ Relationships during Political Turmoil",
+      "authorsCardHe": "Neveen Ali-Saleh Darawshy; Sagit Lev; Shlomit Weiss-Dagan",
+      "sourceAuthors": [
+        "Neveen Ali-Saleh Darawshy",
+        "Sagit Lev",
+        "Shlomit Weiss-Dagan"
+      ],
+      "journal": "The British Journal of Social Work",
+      "dateText": "פורסם אונליין: 2023; כרך 54(2), 2024",
+      "doiUrl": "https://doi.org/10.1093/bjsw/bcad219",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.jpg",
+        "altHe": "עובדים סוציאליים סביב שולחן כמטפורה לשתיקה וקול בשירות ציבורי בזמן משבר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן יחסים מקצועיים בין עובדים סוציאליים פלסטינים־ישראלים ויהודים בזמן אלימות פוליטית ומתיחות בין קבוצות. ראיונות עם 25 עובדים בשירותים ציבוריים בשש ערים מעורבות מצביעים על שתיקה פוליטית כאסטרטגיה מרכזית, לצד רגעים שבהם השתיקה נשברת בשיחות פרטיות, קבוצות וואטסאפ וישיבות צוות."
+    },
+    {
+      "slug": "democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he",
+      "file": "democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.html",
+      "permalink": "/democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.html",
+      "sortKey": 202606250005,
+      "titleHe": "אזרחות ארגונית, שחיקה וצדק ארגוני בקרב מורים ערבים בישראל",
+      "paperTitle": "Examining correlates of organizational citizenship behavior and counterproductive work behavior in a collectivist culture: the case of Arab teachers in Israel",
+      "authorsCardHe": "Aaron Cohen; Mohammad Abedallah",
+      "sourceAuthors": [
+        "Aaron Cohen",
+        "Mohammad Abedallah"
+      ],
+      "journal": "Organization Management Journal",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.1108/omj-01-2020-0863",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_organizational_citizenship_counterproductive_work_arab_teachers_israel_summary_he.jpg",
+        "altHe": "מורים מתכננים יחד בחדר צוות כמטפורה לאזרחות ארגונית וצדק בבתי ספר ערביים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן גורמים אישיים ומצביים הקשורים להתנהגות אזרחית ארגונית ולהתנהגות נגדית בעבודה בקרב 509 מורים בעשרים בתי ספר ערביים בצפון ישראל. הממצאים קושרים התנהגות נגדית לשחיקה, פסיכופתיה נמוכה או גבוהה לפי המדדים, ואינטליגנציה רגשית, בעוד התנהגות אזרחית קשורה לצדק פרוצדורלי, פחות שחיקה ואינטליגנציה רגשית גבוהה יותר."
+    },
+    {
+      "slug": "democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he",
+      "file": "democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.html",
+      "permalink": "/democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.html",
+      "sortKey": 202606250004,
+      "titleHe": "נורמות עיתונאיות בטלגרם בזמן מלחמת ישראל-חמאס",
+      "paperTitle": "Journalistic Norms on Telegram: Ethical Dilemmas Covering the 2023–2025 Israel-Hamas War",
+      "authorsCardHe": "Dana Weimann-Saks; Vered Elishar; Yaron Ariel",
+      "sourceAuthors": [
+        "Dana Weimann-Saks",
+        "Vered Elishar",
+        "Yaron Ariel"
+      ],
+      "journal": "Journal of Media Ethics",
+      "dateText": "פורסם: 2025",
+      "doiUrl": "https://doi.org/10.1080/23736992.2025.2560892",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_journalistic_norms_telegram_ethics_israel_hamas_war_summary_he.jpg",
+        "altHe": "עיתונאים ליד שולחן עבודה כמטפורה לדילמות אתיות בערוצי טלגרם בזמן מלחמה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר בוחן כיצד ערוצי חדשות אלטרנטיביים בטלגרם מתמודדים עם נורמות עיתונאיות ואתיקה בזמן מלחמת ישראל-חמאס. הוא משווה את הפרקטיקות שלהם לקודים אתיים מקובלים ומציג תמונה מורכבת שבה חלק מן הערוצים מקפידים על בדיקת עובדות והגנת מקורות, בעוד אחרים מעדיפים מהירות וסנסציוניות על חשבון דיוק ואתיקה."
+    },
+    {
+      "slug": "democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he",
+      "file": "democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.html",
+      "permalink": "/democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.html",
+      "sortKey": 202606250003,
+      "titleHe": "כיצד החריג המשפטי מאפשר שיטות חקירה אלימות בישראל",
+      "paperTitle": "Fracturing the “Exception”: The Legal Sanctioning of Violent Interrogation Methods in Israel since 1987",
+      "authorsCardHe": "Irit Ballas",
+      "sourceAuthors": [
+        "Irit Ballas"
+      ],
+      "journal": "Law & Social Inquiry",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1017/lsi.2020.11",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fracturing_exception_violent_interrogation_methods_israel_summary_he.jpg",
+        "altHe": "חדר ארכיון משפטי וכיסא ריק כמטפורה לחריגים משפטיים בחקירות אלימות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר מנתח את המבנים המשפטיים שמסדירים שימוש בשיטות חקירה אלימות בישראל מאז 1987. הוא טוען שהמעבר אינו רק מהשעיה רחבה של איסור העינויים להגבלה, אלא למשטר מפוצל של חריגים נפרדים לפי מבצע, קורבן, זמן ומקום, היוצרים יחד מערכת שמכשירה אלימות מדינתית."
+    },
+    {
+      "slug": "democracy_judicial_review_legislative_process_israel_response_summary_he",
+      "file": "democracy_judicial_review_legislative_process_israel_response_summary_he.html",
+      "permalink": "/democracy_judicial_review_legislative_process_israel_response_summary_he.html",
+      "sortKey": 202606250002,
+      "titleHe": "ביקורת שיפוטית על הליך החקיקה בישראל אחרי קוונטינסקי",
+      "paperTitle": "Response: Recent Development regarding Judicial Review of Legislative Process in Israel",
+      "authorsCardHe": "Gonen Ilan",
+      "sourceAuthors": [
+        "Gonen Ilan"
+      ],
+      "journal": "Statute Law Review",
+      "dateText": "פורסם אונליין: 2020; כרך 42(2), 2021",
+      "doiUrl": "https://doi.org/10.1093/slr/hmz029",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_review_legislative_process_israel_response_summary_he.jpg",
+        "altHe": "יועצים ומחוקקים בוחנים תיקי תקציב כמטפורה לביקורת שיפוטית על הליך החקיקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר הוא תגובה משפטית קצרה המשלימה דיון השוואתי על ביקורת שיפוטית של הליך החקיקה. הוא מתמקד בפסק דין קוונטינסקי משנת 2017, שבו נפסל חוק לראשונה בישראל בשל פגמים בהליך החקיקה, ומדגיש את חשיבות חוק ההסדרים כמנגנון חקיקה מהיר ומועד לפגמים."
+    },
+    {
+      "slug": "democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he",
+      "file": "democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.html",
+      "permalink": "/democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.html",
+      "sortKey": 202606250001,
+      "titleHe": "אוסלו, הדרה ולוקליזציה בפוליטיקה של המיעוט הפלסטיני בישראל",
+      "paperTitle": "The Politics of Exclusion and Localization: The Palestinian Minority in Israel and the Oslo Accords",
+      "authorsCardHe": "Mansour Nasasra",
+      "sourceAuthors": [
+        "Mansour Nasasra"
+      ],
+      "journal": "Ethnopolitics",
+      "dateText": "פורסם אונליין: 2019; כרך 20(5), 2021",
+      "doiUrl": "https://doi.org/10.1080/17449057.2019.1683300",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politics_exclusion_localization_palestinian_minority_oslo_summary_he.jpg",
+        "altHe": "נוף היסטורי של נצרת כמטפורה לפוליטיקה מקומית של המיעוט הפלסטיני בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-25",
+      "dateModified": "2026-06-25",
+      "summaryHe": "המאמר שואל כיצד השפיעו הסכמי אוסלו על המיעוט הפלסטיני־ערבי בישראל, שלא זכה למסלול ביטוי או הכרה במסגרת ההסכמים. הוא טוען שאוסלו האיץ תהליך כפול: לוקליזציה של המאבק לזכויות וצדק בתוך ישראל, לצד תמיכה גלויה יותר בזכויות הלאומיות הפלסטיניות ובהגדרה עצמית."
+    },
     {
       "slug": "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he",
       "file": "democracy_place_identity_strategies_minority_arab_israeli_students_summary_he.html",

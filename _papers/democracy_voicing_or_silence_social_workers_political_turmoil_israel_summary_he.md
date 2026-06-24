@@ -1,0 +1,176 @@
+---
+{
+  "version": 1,
+  "file": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+  "slug": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he",
+  "order": 887,
+  "titleHe": "שתיקה וקול בין עובדים סוציאליים יהודים ופלסטינים־ישראלים בעת משבר",
+  "subtitleHe": "",
+  "descriptionHe": "תמצית בעברית של מחקר איכותני על יחסי עובדים סוציאליים פלסטינים־ישראלים ויהודים בערים מעורבות בישראל סביב אירועי מאי 2021.",
+  "summaryHe": "המאמר בוחן יחסים מקצועיים בין עובדים סוציאליים פלסטינים־ישראלים ויהודים בזמן אלימות פוליטית ומתיחות בין קבוצות. ראיונות עם 25 עובדים בשירותים ציבוריים בשש ערים מעורבות מצביעים על שתיקה פוליטית כאסטרטגיה מרכזית, לצד רגעים שבהם השתיקה נשברת בשיחות פרטיות, קבוצות וואטסאפ וישיבות צוות.",
+  "authorsCardHe": "Neveen Ali-Saleh Darawshy; Sagit Lev; Shlomit Weiss-Dagan",
+  "paperTitle": "Voicing or Silence: Palestinian Israeli and Jewish Israeli Social Workers’ Relationships during Political Turmoil",
+  "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/neveen-ali-saleh-darawshy/\" target=\"_blank\" rel=\"noopener noreferrer\">Neveen Ali-Saleh Darawshy</a>; <a href=\"https://cris.biu.ac.il/en/persons/sagit-lev/\" target=\"_blank\" rel=\"noopener noreferrer\">Sagit Lev</a>; <a href=\"https://cris.biu.ac.il/en/persons/shlomit-weiss-dagan/\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomit Weiss-Dagan</a>",
+  "journal": "The British Journal of Social Work",
+  "dateText": "פורסם אונליין: 2023; כרך 54(2), 2024",
+  "doiUrl": "https://doi.org/10.1093/bjsw/bcad219",
+  "doiLabel": "https://doi.org/10.1093/bjsw/bcad219",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Neveen Ali-Saleh Darawshy",
+      "url": "https://cris.biu.ac.il/en/persons/neveen-ali-saleh-darawshy/"
+    },
+    {
+      "@type": "Person",
+      "name": "Sagit Lev",
+      "url": "https://cris.biu.ac.il/en/persons/sagit-lev/"
+    },
+    {
+      "@type": "Person",
+      "name": "Shlomit Weiss-Dagan",
+      "url": "https://cris.biu.ac.il/en/persons/shlomit-weiss-dagan/"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Neveen Ali-Saleh Darawshy",
+      "url": "https://cris.biu.ac.il/en/persons/neveen-ali-saleh-darawshy/"
+    },
+    {
+      "@type": "Person",
+      "name": "Sagit Lev",
+      "url": "https://cris.biu.ac.il/en/persons/sagit-lev/"
+    },
+    {
+      "@type": "Person",
+      "name": "Shlomit Weiss-Dagan",
+      "url": "https://cris.biu.ac.il/en/persons/shlomit-weiss-dagan/"
+    }
+  ],
+  "topics": [
+    "rights-equality-minorities",
+    "public-opinion-polarization-violence",
+    "institutions-civil-society-public-service"
+  ],
+  "keywords": [
+    "עובדים סוציאליים",
+    "ערים מעורבות",
+    "מאי 2021",
+    "שתיקה פוליטית",
+    "יחסי יהודים וערבים",
+    "שירותים ציבוריים",
+    "אלימות פוליטית",
+    "מיעוטים",
+    "אמון מקצועי",
+    "ישראל"
+  ],
+  "image": {
+    "src": "html_qa/democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.jpg",
+    "version": "2026-06-25-nightly",
+    "altHe": "עובדים סוציאליים סביב שולחן כמטפורה לשתיקה וקול בשירות ציבורי בזמן משבר",
+    "fitness": "standard"
+  },
+  "datePublished": "2026-06-25",
+  "dateModified": "2026-06-25",
+  "lastUpdatedHe": "25 ביוני 2026",
+  "oneLinerHtml": "המאמר מציג <strong>שתיקה פוליטית</strong> כאסטרטגיה מקצועית וחברתית ביחסי עובדים סוציאליים יהודים ופלסטינים־ישראלים בעת משבר.",
+  "sections": [
+    {
+      "headingHe": "מה עומד במרכז המאמר?",
+      "paragraphsHtml": [
+        "המאמר בוחן את היחסים בין עובדים סוציאליים פלסטינים־ישראלים ויהודים סביב אירועי מאי 2021, שבהם התרחשו עימותים אלימים בערים מעורבות. הוא מתמקד בעובדים בשירותים ציבוריים ולא רק בעמדות פוליטיות כלליות.",
+        "הנושא חשוב לדמוקרטיה משום ששירות ציבורי אמור להמשיך לפעול גם כאשר החברה שסביבו מתוחה ומקוטבת. יחסים מקצועיים בין קבוצות הופכים במצב כזה למבחן של אמון, קול ושייכות."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען?",
+      "paragraphsHtml": [
+        "החוקרות ראיינו 25 עובדים סוציאליים משתי הקבוצות העובדים בשש ערים מעורבות. הממצאים מצביעים על שתיקה כדרך התמודדות מרכזית עם נושאים פוליטיים, אך גם על מצבים שבהם השתיקה נשברת בקבוצות וואטסאפ, בישיבות צוות ובשיחות פרטיות.",
+        "המאמר מבחין בין נושאי השתיקה, הסיבות לשתיקה והרגעים שבהם קול בכל זאת מופיע. בכך הוא מציג שתיקה לא כאדישות אלא כאסטרטגיה שנועדה לשמור על יחסים, ביטחון ומרחב עבודה."
+      ]
+    },
+    {
+      "headingHe": "מושגי יסוד בקצרה: שתיקה פוליטית בשירות ציבורי",
+      "paragraphsHtml": [
+        "שתיקה פוליטית היא הימנעות מדיבור על נושאים נפיצים כדי להגן על יחסים, מעמד או תחושת ביטחון. היא יכולה לשמור על עבודה משותפת אך גם להסתיר כאב, אי־שוויון או פחד.",
+        "במאמר, השתיקה מתרחשת בתוך צוותים שאמורים לספק שירות ציבורי לכלל האזרחים. לכן היא אינה רק בחירה אישית אלא חלק מתפקוד מוסדי בזמן קונפליקט."
+      ]
+    },
+    {
+      "headingHe": "איפה נמצאת המשמעות הדמוקרטית?",
+      "paragraphsHtml": [
+        "המשמעות הדמוקרטית נמצאת ביכולת של מוסדות ציבור להכיל קונפליקט בלי להשתיק לחלוטין קבוצות מיעוט. אם קול פוליטי או זהותי נתפסים כמסוכנים במקום העבודה, השוויון האזרחי נשאר חלקי.",
+        "עם זאת, המאמר גם מראה מדוע דיבור גלוי אינו תמיד פשוט או בטוח. דמוקרטיה מוסדית צריכה ליצור תנאים שבהם אפשר לדבר בזהירות, באחריות ובכבוד הדדי."
+      ]
+    },
+    {
+      "headingHe": "איזו שאלה המחקר מציב?",
+      "paragraphsHtml": [
+        "השאלה היא כיצד עובדים סוציאליים יהודים ופלסטינים־ישראלים מנהלים יחסים מקצועיים בעת אלימות פוליטית ומתיחות לאומית. זו שאלה על שירות ציבורי במרחב חברתי שסוע."
+      ]
+    },
+    {
+      "headingHe": "באיזו שיטה הוא משתמש?",
+      "paragraphsHtml": [
+        "המחקר איכותני ופנומנולוגי, והוא מבוסס על ראיונות עומק עם 25 עובדים בשש ערים מעורבות. הראיונות נערכו בעברית ובערבית כדי ללכוד חוויות משתי הקבוצות."
+      ]
+    },
+    {
+      "headingHe": "מה הממצא המרכזי לקורא הישראלי?",
+      "paragraphsHtml": [
+        "הממצא המרכזי הוא שרוב המשתתפים התמודדו באמצעות שתיקה סביב פוליטיקה. השתיקה נשברה לעיתים במרחבים מסוימים, אך היא נותרה מנגנון מרכזי לשמירת יחסים ועבודה משותפת."
+      ]
+    },
+    {
+      "headingHe": "איך זה קשור לשוויון או לזכויות?",
+      "paragraphsHtml": [
+        "הקשר לזכויות הוא בזכותם של אנשי מקצוע מקבוצות שונות לעבוד בסביבה שאינה מוחקת זהות או פחד. שוויון אזרחי בשירות הציבורי תלוי גם ביכולת להביע כאב וחוסר ביטחון בלי להיענש חברתית."
+      ]
+    },
+    {
+      "headingHe": "מה המשמעות למוסדות ציבוריים?",
+      "paragraphsHtml": [
+        "שירותים ציבוריים צריכים לפתח הכשרה וכללים לשיחה בין־קבוצתית בזמן משבר. ללא מסגרת כזאת, הצוותים נשארים עם בחירה קשה בין שתיקה שמגינה על היחסים לבין דיבור שעלול לערער אותם."
+      ]
+    },
+    {
+      "headingHe": "איזו זהירות פרשנית נדרשת כאן?",
+      "paragraphsHtml": [
+        "המאמר אינו מציע ששתיקה היא תמיד שלילית או תמיד חיובית. הוא מראה שהיא יכולה להיות גם אמצעי הישרדות מקצועי וגם סימן לכך שחסרים תנאים לשיחה בטוחה."
+      ]
+    },
+    {
+      "headingHe": "מה אפשר ללמוד למדיניות ציבורית?",
+      "paragraphsHtml": [
+        "למדיניות ציבורית, המאמר מצביע על הצורך בתמיכה ארגונית לשירותים בערים מעורבות. הכשרה, הדרכה ומנגנוני תיווך יכולים לעזור לצוותים להתמודד עם משברים בלי להשאיר את האחריות רק על העובדים."
+      ]
+    },
+    {
+      "headingHe": "מה יחפש כאן מי שמתעניין בנושא?",
+      "paragraphsHtml": [
+        "מי שמחפש על עובדים סוציאליים, ערים מעורבות ומאי 2021 ימצא כאן מסגרת שמחברת בין שתיקה, קול ואמון מקצועי. זה מקור חשוב להבנת שירות ציבורי תחת קיטוב ואלימות פוליטית."
+      ]
+    },
+    {
+      "headingHe": "איזה מושג צריך לזכור כדי להבין את המאמר?",
+      "paragraphsHtml": [
+        "המושג החשוב הוא שתיקה פוליטית, משום שהוא מאפשר להבין הימנעות מדיבור כפעולה חברתית ולא רק כחוסר עמדה. המאמר מראה ששתיקה יכולה לשמר יחסים אך גם להגביל הכרה הדדית."
+      ]
+    },
+    {
+      "headingHe": "מה התרומה של המאמר למאגר?",
+      "paragraphsHtml": [
+        "התרומה למאגר היא הכנסת השירותים החברתיים לדיון בדמוקרטיה ושוויון. הוא מדגים כיצד קונפליקט לאומי מגיע אל מקום העבודה הציבורי ומשנה את תנאי האמון בין אזרחים."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "שתיקה וקול בין עובדים סוציאליים יהודים ופלסטינים־ישראלים בעת משבר",
+  "permalink": "/democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+  "paper_url": "democracy_voicing_or_silence_social_workers_political_turmoil_israel_summary_he.html",
+  "sortKey": 202606250006,
+  "sourcePublishedDate": "2023-10-10"
+}
+---
