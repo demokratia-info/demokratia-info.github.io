@@ -577,6 +577,10 @@ def validate_sources(write_index: bool) -> int:
     paper_count = site_data.get("paperCount")
     if paper_count is not None and paper_count != len(papers):
         errors.append(f"_data/site.json: paperCount is {paper_count}, but found {len(papers)} papers")
+    for key in ("homeDescriptionHe", "homeIntroHe"):
+        value = site_data.get(key)
+        if isinstance(value, str) and re.search(r"\d+", value):
+            errors.append(f"_data/site.json: {key} must not include a hard-coded paper count")
 
     index = build_paper_index(papers)
     if write_index:
