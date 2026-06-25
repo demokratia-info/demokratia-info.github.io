@@ -1,0 +1,171 @@
+---
+{
+  "version": 1,
+  "file": "democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.html",
+  "slug": "democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he",
+  "order": 897,
+  "titleHe": "אתנוצנטריות, אוניברסליזם וזכויות חברתיות של פליטים בישראל",
+  "subtitleHe": "",
+  "descriptionHe": "תמצית בעברית של מחקר פיילוט על עמדות ישראלים כלפי זכויות חברתיות של פליטים אפריקאים, ועל המתח בין שיח איום והדרה לבין תמיכה בהכללה דרך מדינת הרווחה.",
+  "summaryHe": "המאמר מנתח ראיונות עם 16 תושבים באזור תל אביב כדי להבין כיצד ישראלים חושבים על פליטים, זכויות חברתיות ומדינת הרווחה. הוא מתאר פער בין שיח פוליטי של איום ואחרות לבין עמדות אוניברסליסטיות שמבקשות לכלול פליטים בתוך מנגנוני רווחה וחברה.",
+  "summarySourceStatus": "Based on abstract only",
+  "authorsCardHe": "Maya Tsfati; Adital Ben-Ari; Iris Lavi",
+  "paperTitle": "Ethnocentrism, universalism, and refugees’ social rights: The Israeli perspective",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5527-5584\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Tsfati</a>; <a href=\"https://cris.haifa.ac.il/en/persons/adital-ben-ari\" target=\"_blank\" rel=\"noopener noreferrer\">Adital Ben-Ari</a>; <a href=\"https://orcid.org/0000-0001-8715-785X\" target=\"_blank\" rel=\"noopener noreferrer\">Iris Lavi</a>",
+  "journal": "International Social Work",
+  "dateText": "פורסם: 2022; כרך 65(2), עמ׳ 356-369",
+  "doiUrl": "https://doi.org/10.1177/0020872820901773",
+  "doiLabel": "https://doi.org/10.1177/0020872820901773",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Maya Tsfati",
+      "url": "https://orcid.org/0000-0002-5527-5584"
+    },
+    {
+      "@type": "Person",
+      "name": "Adital Ben-Ari",
+      "url": "https://cris.haifa.ac.il/en/persons/adital-ben-ari"
+    },
+    {
+      "@type": "Person",
+      "name": "Iris Lavi",
+      "url": "https://orcid.org/0000-0001-8715-785X"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Maya Tsfati",
+      "url": "https://orcid.org/0000-0002-5527-5584"
+    },
+    {
+      "@type": "Person",
+      "name": "Adital Ben-Ari",
+      "url": "https://cris.haifa.ac.il/en/persons/adital-ben-ari"
+    },
+    {
+      "@type": "Person",
+      "name": "Iris Lavi",
+      "url": "https://orcid.org/0000-0001-8715-785X"
+    }
+  ],
+  "topics": [
+    "rights-equality-minorities",
+    "institutions-civil-society-public-service"
+  ],
+  "keywords": [
+    "פליטים",
+    "זכויות חברתיות",
+    "אתנוצנטריות",
+    "אוניברסליזם",
+    "מדינת רווחה",
+    "מבקשי מקלט",
+    "הכלה חברתית",
+    "ישראל",
+    "עבודה סוציאלית",
+    "אחרות"
+  ],
+  "image": {
+    "src": "html_qa/democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.jpg",
+    "version": "2026-06-26-nightly",
+    "altHe": "חדר סיוע חברתי עם טפסים ושיחה סביב זכויות חברתיות של פליטים",
+    "fitness": "standard"
+  },
+  "datePublished": "2026-06-26",
+  "dateModified": "2026-06-26",
+  "lastUpdatedHe": "26 ביוני 2026",
+  "oneLinerHtml": "המאמר מציג את היחס לפליטים בישראל כמתח בין <strong>שיח איום אתנוצנטרי</strong> לבין תפיסה אוניברסלית של זכויות חברתיות.",
+  "sections": [
+    {
+      "headingHe": "זכויות חברתיות במבחן היחס לפליטים",
+      "paragraphsHtml": [
+        "המאמר בוחן כיצד תושבים באזור תל אביב חושבים על פליטים ועל זכאותם להיכלל במנגנוני רווחה. דרך הראיונות הוא מציב את היחס לפליטים כשאלה על גבולות הסולידריות האזרחית בישראל."
+      ]
+    },
+    {
+      "headingHe": "מתח בין איום לבין הכללה",
+      "paragraphsHtml": [
+        "לפי התקציר, עמדות המרואיינים מושפעות משיח פוליטי שמציג פליטים כאיום וכאחרים. לצד זאת, חלק מן המרואיינים מתנגדים לשיח הזה ומדברים בשפה אוניברסלית של הכללה וזכויות חברתיות."
+      ]
+    },
+    {
+      "headingHe": "מושגי יסוד בקצרה: אתנוצנטריות ואוניברסליזם",
+      "paragraphsHtml": [
+        "אתנוצנטריות מציבה את הקבוצה הלאומית או האתנית של הרוב כנקודת המידה המרכזית לזכאות ולהכרה. אוניברסליזם מדגיש זכויות וחובות אנושיות בסיסיות שאינן תלויות בשייכות לקבוצת הרוב."
+      ]
+    },
+    {
+      "headingHe": "המשמעות הדמוקרטית של מדינת הרווחה",
+      "paragraphsHtml": [
+        "מדינת רווחה אינה רק מערכת שירותים אלא גם גבול מוסרי של הקהילה הפוליטית. כאשר חברה מחליטה מי זכאי לסיוע, היא מגדירה בפועל את היקף ההכלה, האחריות והאנושיות שמוכרות בתוכה."
+      ]
+    },
+    {
+      "headingHe": "מה נבדק במחקר הפיילוט?",
+      "paragraphsHtml": [
+        "המחקר ניתח ראיונות עם 16 תושבים באזור תל אביב לגבי פליטים, זכויות חברתיות והכללה. הוא ביקש להבין כיצד אנשים משלבים בין שיח ציבורי על איום לבין תפיסות מוסריות של סולידריות."
+      ]
+    },
+    {
+      "headingHe": "מדוע פליטים הם מבחן לדמוקרטיה ליברלית?",
+      "paragraphsHtml": [
+        "פליטים ומבקשי מקלט נמצאים לעיתים מחוץ לקבוצת האזרחות המלאה, ולכן היחס אליהם חושף את גבולות ההגנה על כבוד וזכויות. דמוקרטיה ליברלית נבחנת גם ביחסה למי שאין להם כוח פוליטי רב בתוכה."
+      ]
+    },
+    {
+      "headingHe": "מהו שיח האיום שהמאמר מזהה?",
+      "paragraphsHtml": [
+        "לפי התקציר, השיח הפוליטי בישראל מעצב פליטים דרך איום ואחרות. שפה כזאת מקשה לראות בהם בעלי צרכים וזכויות, גם כאשר הם חיים בתוך החברה ומושפעים ממוסדותיה."
+      ]
+    },
+    {
+      "headingHe": "מה משמעות הגישה האוניברסליסטית?",
+      "paragraphsHtml": [
+        "גישה אוניברסליסטית רואה זכויות חברתיות בסיסיות כחלק ממחויבות אנושית רחבה. בהקשר של המאמר, היא מאפשרת למרואיינים לדמיין הכללה של פליטים דרך מנגנוני רווחה ולא רק דרך גבולות הגירה."
+      ]
+    },
+    {
+      "headingHe": "איך המאמר קשור לעבודה סוציאלית?",
+      "paragraphsHtml": [
+        "המאמר מתפרסם בתחום העבודה הסוציאלית ומדגיש את מדינת הרווחה כזירה שבה מתורגמות עמדות מוסריות לשירותים. עובדים סוציאליים פועלים בדיוק במקום שבו שיח ציבורי, צורך אנושי ומדיניות נפגשים."
+      ]
+    },
+    {
+      "headingHe": "האם הממצאים מייצגים את כלל הציבור בישראל?",
+      "paragraphsHtml": [
+        "התקציר מציג את המחקר כפיילוט עם 16 מרואיינים מאזור תל אביב. לכן כוחו הוא בהצגת מנגנוני חשיבה ומתח ערכי, ולא במדידה סטטיסטית מלאה של כלל הציבור."
+      ]
+    },
+    {
+      "headingHe": "מה ההבדל בין הגירה לבין זכויות חברתיות כאן?",
+      "paragraphsHtml": [
+        "מדיניות הגירה עוסקת בכניסה, שהייה ומעמד משפטי. זכויות חברתיות שואלות מה חייבת החברה לאנשים שנמצאים בתוכה ונזקקים לבריאות, רווחה, ביטחון בסיסי והכרה אנושית."
+      ]
+    },
+    {
+      "headingHe": "מה יכול ללמוד מכאן מקבל החלטות?",
+      "paragraphsHtml": [
+        "מקבל החלטות יכול ללמוד שהציבור אינו בהכרח נעול בתוך שיח איום בלבד. גם בתוך מציאות פוליטית מקוטבת קיימים משאבים מוסריים של הכללה שאפשר לחזק דרך מדיניות ושפה ציבורית."
+      ]
+    },
+    {
+      "headingHe": "למה המאמר מתאים לנושא זכויות ומיעוטים?",
+      "paragraphsHtml": [
+        "המאמר עוסק בקבוצה שמעמדה החברתי והמשפטי פגיע במיוחד. הוא מציב את שאלת המיעוט לא רק כאזרחות לאומית אלא גם כיכולת לקבל הגנה חברתית כאשר אין כוח פוליטי מאורגן."
+      ]
+    },
+    {
+      "headingHe": "מהי תרומת המאמר למאגר?",
+      "paragraphsHtml": [
+        "המאמר מוסיף דיון ממוקד בזכויות חברתיות של פליטים בישראל. הוא מחבר בין הגירה, רווחה, שיח ציבורי וגבולות הדמוקרטיה הליברלית."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "אתנוצנטריות, אוניברסליזם וזכויות חברתיות של פליטים בישראל",
+  "permalink": "/democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.html",
+  "paper_url": "democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.html",
+  "sortKey": 202606260006
+}
+---

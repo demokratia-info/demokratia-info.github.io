@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "sampleSize": 6,
-  "seed": "2026-06-25-homepage-high-fit",
+  "seed": "2026-06-26-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
   "highFitPaperCount": 297,
   "paperSlugs": [
-    "democracy_invisible_access_needs_intellectual_disabilities_summary_he",
-    "democracy_12_judicial_appointments_and_promotions_in_israel_constitution_law_and_politics_summary_he",
-    "democracy_legitimizing_inclusion_minority_political_game_wartime_summary_he",
-    "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he",
-    "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he",
-    "democracy_religious_protest_and_police_reaction_in_a_theo_democracy_israel_1950_1979_summary_he"
+    "democracy_conflict_regulation_deeply_divided_societies_summary_he",
+    "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he",
+    "democracy_institutional_quality_aid_volatility_growth_summary_he",
+    "democracy_religious_accommodation_exit_sex_equality_summary_he",
+    "democracy_ngos_shared_society_israel_vision_function_influence_summary_he",
+    "democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he"
   ]
 }

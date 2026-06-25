@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 892,
+  "paperCount": 902,
   "papers": [
+    {
+      "slug": "democracy_asymmetry_in_israeli_academia_summary_he",
+      "file": "democracy_asymmetry_in_israeli_academia_summary_he.html",
+      "permalink": "/democracy_asymmetry_in_israeli_academia_summary_he.html",
+      "sortKey": 202606260010,
+      "titleHe": "א־סימטריה במפגש בין סטודנטיות בדואיות ויהודיות באקדמיה הישראלית",
+      "paperTitle": "Asymmetry in Israeli academia",
+      "authorsCardHe": "Aref Abu-Gweder",
+      "sourceAuthors": [
+        "Aref Abu-Gweder"
+      ],
+      "journal": "Journal of International Students",
+      "dateText": "פורסם: 28 בפברואר 2025; כרך 15(3), עמ׳ 91-110",
+      "doiUrl": "https://doi.org/10.32674/3z6vvp28",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_asymmetry_in_israeli_academia_summary_he.jpg",
+        "altHe": "בניין מכללה אקדמית לחינוך כמסגרת למפגש בין סטודנטיות בדואיות ויהודיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר בוחן כיצד סטודנטיות בדואיות חוות מפגש לימודי עם סטודנטיות יהודיות בקורסים רב־תרבותיים. הוא מראה שהמרחב המשותף יכול לייצר שיתוף פעולה, אך גם חושף א־סימטריה: המיעוט נדרש להסביר את זהותו ואת תנאי חייו, בעוד קבוצת הרוב יכולה להישאר בעמדה נוחה ופחות מחויבת לדיאלוג עמוק.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_women_political_religious_leaders_history_summary_he",
+      "file": "democracy_druze_women_political_religious_leaders_history_summary_he.html",
+      "permalink": "/democracy_druze_women_political_religious_leaders_history_summary_he.html",
+      "sortKey": 202606260009,
+      "titleHe": "מנהיגות פוליטית ודתית של נשים דרוזיות לאורך ההיסטוריה",
+      "paperTitle": "Druze Women—Political and Religious Leaders Throughout History",
+      "authorsCardHe": "Ebtesam Barakat; Yusri Hazran",
+      "sourceAuthors": [
+        "Ebtesam Barakat",
+        "Yusri Hazran"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 2 במאי 2025; כרך 16(5), מאמר 589",
+      "doiUrl": "https://doi.org/10.3390/rel16050589",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_women_political_religious_leaders_history_summary_he.jpg",
+        "altHe": "צילום היסטורי של נשים דרוזיות כמטפורה למנהיגות נשית ולמעמד חברתי בקהילה הדרוזית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר מתאר נשים דרוזיות שהופיעו במקורות היסטוריים, ביוגרפיים ופולקלוריים כמנהיגות פוליטיות ודתיות. הוא מדגיש שהנהגתן נשענה על כריזמה, קדושה ומעמד חברתי גבוה, אך גם מראה שהמעמד החריג הזה לא הפך בהכרח לפרויקט רחב של שוויון מגדרי בחברה הדרוזית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_queer_liturgy_active_coping_lgbtq_treatments_medical_tests_summary_he",
+      "file": "democracy_queer_liturgy_active_coping_lgbtq_treatments_medical_tests_summary_he.html",
+      "permalink": "/democracy_queer_liturgy_active_coping_lgbtq_treatments_medical_tests_summary_he.html",
+      "sortKey": 202606260008,
+      "titleHe": "תפילה קווירית כהתמודדות פעילה עם טיפולים ובדיקות רפואיות",
+      "paperTitle": "Queer Liturgy for Active Coping: Jewish Prayers for LGBTQ+ Treatments and Medical Tests",
+      "authorsCardHe": "Elazar Ben-Lulu",
+      "sourceAuthors": [
+        "Elazar Ben-Lulu"
+      ],
+      "journal": "Sexuality & Culture",
+      "dateText": "פורסם אונליין: 19 בפברואר 2025; כרך 29(3), עמ׳ 1099-1120",
+      "doiUrl": "https://doi.org/10.1007/s12119-025-10315-6",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_queer_liturgy_active_coping_lgbtq_treatments_medical_tests_summary_he.jpg",
+        "altHe": "חדר שיחה שקט עם ספר תפילה וקלסר רפואי כמטפורה לליטורגיה קווירית ולתמיכה רפואית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר מנתח שש תפילות יהודיות עכשוויות העוסקות בצרכים רפואיים של להט״ב, ובהם טיפול ב-HIV/AIDS והליכים הקשורים לזהות מינית ומגדרית. הוא מציע לראות בתפילות האלה ליטורגיה של התמודדות פעילה: דרך לשלב גוף, רפואה, אמונה וזהות בלי להשאיר את החוויה הרפואית מחוץ למרחב הדתי והקהילתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_accessibility_healthcare_ethnic_minority_women_bedouins_israel_summary_he",
+      "file": "democracy_accessibility_healthcare_ethnic_minority_women_bedouins_israel_summary_he.html",
+      "permalink": "/democracy_accessibility_healthcare_ethnic_minority_women_bedouins_israel_summary_he.html",
+      "sortKey": 202606260007,
+      "titleHe": "נגישות שירותי בריאות לנשים בדואיות בישראל כמבחן לשוויון",
+      "paperTitle": "Perceptions about the accessibility of healthcare services among ethnic minority women: a qualitative study among Arab Bedouins in Israel",
+      "authorsCardHe": "Haneen Shibli; Limor Aharonson-Daniel; Paula Feder-Bubis",
+      "sourceAuthors": [
+        "Haneen Shibli",
+        "Limor Aharonson-Daniel",
+        "Paula Feder-Bubis"
+      ],
+      "journal": "International Journal for Equity in Health",
+      "dateText": "פורסם: 2021; כרך 20(1), מאמר 117",
+      "doiUrl": "https://doi.org/10.1186/s12939-021-01464-9",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_accessibility_healthcare_ethnic_minority_women_bedouins_israel_summary_he.jpg",
+        "altHe": "נוף של רהט בנגב כמטפורה לנגישות שירותי בריאות לנשים בדואיות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר בוחן כיצד נשים בדואיות בישראל חוות נגישות לשירותי בריאות. מתוך ראיונות איכותניים הוא מדגיש שהחסמים אינם רק גאוגרפיים או כלכליים, אלא נבנים במפגש בין שפה, תרבות, מגדר, מעמד מיעוט ומבנה השירותים הציבוריים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he",
+      "file": "democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.html",
+      "permalink": "/democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.html",
+      "sortKey": 202606260006,
+      "titleHe": "אתנוצנטריות, אוניברסליזם וזכויות חברתיות של פליטים בישראל",
+      "paperTitle": "Ethnocentrism, universalism, and refugees’ social rights: The Israeli perspective",
+      "authorsCardHe": "Maya Tsfati; Adital Ben-Ari; Iris Lavi",
+      "sourceAuthors": [
+        "Maya Tsfati",
+        "Adital Ben-Ari",
+        "Iris Lavi"
+      ],
+      "journal": "International Social Work",
+      "dateText": "פורסם: 2022; כרך 65(2), עמ׳ 356-369",
+      "doiUrl": "https://doi.org/10.1177/0020872820901773",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnocentrism_universalism_refugees_social_rights_israeli_perspective_summary_he.jpg",
+        "altHe": "חדר סיוע חברתי עם טפסים ושיחה סביב זכויות חברתיות של פליטים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר מנתח ראיונות עם 16 תושבים באזור תל אביב כדי להבין כיצד ישראלים חושבים על פליטים, זכויות חברתיות ומדינת הרווחה. הוא מתאר פער בין שיח פוליטי של איום ואחרות לבין עמדות אוניברסליסטיות שמבקשות לכלול פליטים בתוך מנגנוני רווחה וחברה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_punk_fanzine_culture_civil_protest_israeli_youth_summary_he",
+      "file": "democracy_punk_fanzine_culture_civil_protest_israeli_youth_summary_he.html",
+      "permalink": "/democracy_punk_fanzine_culture_civil_protest_israeli_youth_summary_he.html",
+      "sortKey": 202606260005,
+      "titleHe": "פנזיני פאנק, תרבות נוער ומחאה אזרחית בישראל",
+      "paperTitle": "Punk fanzine culture and civil protest among Israeli youth",
+      "authorsCardHe": "Oded Heilbronner",
+      "sourceAuthors": [
+        "Oded Heilbronner"
+      ],
+      "journal": "Punk & Post-Punk",
+      "dateText": "פורסם: 1 באוקטובר 2018; כרך 7(3), עמ׳ 363-381",
+      "doiUrl": "https://doi.org/10.1386/punk.7.3.363_1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_punk_fanzine_culture_civil_protest_israeli_youth_summary_he.jpg",
+        "altHe": "ידיים מסדרות פנזינים ליד מכונת צילום כמטפורה לתרבות פאנק ומחאה אזרחית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר מתאר את פריחת פנזיני הפאנק בישראל מסוף שנות השמונים ועד אמצע שנות התשעים. הוא מציג אותם כחלק ממהפכה תרבותית שבה בני נוער יצרו ערוצי ביטוי עצמאיים, ספגו השפעות מערביות וחיברו תרבות שוליים לתפיסות ליברליות ואזרחיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_process_state_actions_insurgent_violence_israel_palestine_summary_he",
+      "file": "democracy_political_process_state_actions_insurgent_violence_israel_palestine_summary_he.html",
+      "permalink": "/democracy_political_process_state_actions_insurgent_violence_israel_palestine_summary_he.html",
+      "sortKey": 202606260004,
+      "titleHe": "פעולות מדינה ושינויים באלימות פוליטית בישראל־פלסטין",
+      "paperTitle": "POLITICAL PROCESS, STATE ACTIONS, AND VARIATIONS IN INSURGENT VIOLENCE: EVIDENCE FROM ISRAEL-PALESTINE*",
+      "authorsCardHe": "Eitan Y. Alimi; Alon Burstein; Orit Moradov",
+      "sourceAuthors": [
+        "Eitan Y. Alimi",
+        "Alon Burstein",
+        "Orit Moradov"
+      ],
+      "journal": "Mobilization: An International Quarterly",
+      "dateText": "פורסם: 2025; כרך 30(1), עמ׳ 51-72",
+      "doiUrl": "https://doi.org/10.17813/1086-671x-30-1-51",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_process_state_actions_insurgent_violence_israel_palestine_summary_he.jpg",
+        "altHe": "חדר ניתוח מדיניות עם מפות וטבלאות ריקות כמטפורה לפעולות מדינה ולאלימות פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר מרחיב את גישת התהליך הפוליטי כדי להסביר כיצד מבנה ההזדמנויות והאיומים של המדינה מעצב פעולות דיכוי ופיוס, וכיצד פעולות אלה משפיעות על רמות אלימות מתקוממת. הניתוח של פעולות מדינת ישראל והתקפות פלסטיניות באינתיפאדה הראשונה מציע הבחנה חשובה בין פעולות סלקטיביות לבין פעולות לא־מבחינות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_transnationalism_hybridity_religious_practices_zera_beta_israel_summary_he",
+      "file": "democracy_transnationalism_hybridity_religious_practices_zera_beta_israel_summary_he.html",
+      "permalink": "/democracy_transnationalism_hybridity_religious_practices_zera_beta_israel_summary_he.html",
+      "sortKey": 202606260003,
+      "titleHe": "טרנס־לאומיות והיברידיות דתית בתהליך ההגירה של זרע ביתא ישראל",
+      "paperTitle": "Transnationalism and Hybridity in Religious Practices during the Migration Process: The Zera Beta Israel in Ethiopia and Israel",
+      "authorsCardHe": "Ravit Talmi-Cohn",
+      "sourceAuthors": [
+        "Ravit Talmi-Cohn"
+      ],
+      "journal": "Religions",
+      "dateText": "פורסם: 26 בדצמבר 2022; כרך 14(1), מאמר 34",
+      "doiUrl": "https://doi.org/10.3390/rel14010034",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_transnationalism_hybridity_religious_practices_zera_beta_israel_summary_he.jpg",
+        "altHe": "חדר קהילתי עם חפצי טקס ושיחה סביב הגירה וזהות דתית של זרע ביתא ישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר בוחן את מורכבות האמונות והפרקטיקות הדתיות של חברי זרע ביתא ישראל באתיופיה ובישראל. מתוך ראיונות ושיחות הוא מראה שהמעבר אינו ניתן לתיאור בינארי פשוט של יהדות מול נצרות או דתיות מול חילוניות, אלא יוצר היברידיות וטרנס־לאומיות של זהות, זיכרון וקהילה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_noncompliance_law_institutional_maintenance_ultra_religious_schools_summary_he",
+      "file": "democracy_noncompliance_law_institutional_maintenance_ultra_religious_schools_summary_he.html",
+      "permalink": "/democracy_noncompliance_law_institutional_maintenance_ultra_religious_schools_summary_he.html",
+      "sortKey": 202606260002,
+      "titleHe": "אי־ציות לחוק כשימור מוסדי בבתי ספר חרדיים לבנים",
+      "paperTitle": "Noncompliance with the law as institutional maintenance at ultra‐religious schools",
+      "authorsCardHe": "Lotem Perry-Hazan; Netta Barak-Corren; Gil Nachmani",
+      "sourceAuthors": [
+        "Lotem Perry-Hazan",
+        "Netta Barak-Corren",
+        "Gil Nachmani"
+      ],
+      "journal": "Regulation & Governance",
+      "dateText": "פורסם: 2024; כרך 18(2), עמ׳ 612-636",
+      "doiUrl": "https://doi.org/10.1111/rego.12545",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_noncompliance_law_institutional_maintenance_ultra_religious_schools_summary_he.jpg",
+        "altHe": "חדר הנהלה בבית ספר עם ספרים ותיקי רגולציה כמטפורה לאי־ציות ולימודי ליבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר בוחן כיצד בתי ספר חרדיים לבנים מגיבים לרגולציית לימודי הליבה בישראל. הוא נשען על ראיונות ונתוני בתי ספר ממדגם מייצג, ומראה שאי־ציות אינו רק הפרת חוק נקודתית אלא חלק מתחזוקה מוסדית משותפת שבה בתי הספר והמפקחים שומרים על אוטונומיה ועל גבולות האכיפה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_politics_silence_palestinian_faculty_voice_israeli_academia_war_summary_he",
+      "file": "democracy_politics_silence_palestinian_faculty_voice_israeli_academia_war_summary_he.html",
+      "permalink": "/democracy_politics_silence_palestinian_faculty_voice_israeli_academia_war_summary_he.html",
+      "sortKey": 202606260001,
+      "titleHe": "פוליטיקת השתיקה של סגל פלסטיני באקדמיה הישראלית בזמן מלחמה",
+      "paperTitle": "The politics of silence: Palestinian faculty and the struggle for voice in Israeli academia in times of war*",
+      "authorsCardHe": "Maha Sabbah-Karkabi; Sarab Abu-Rabia-Queder",
+      "sourceAuthors": [
+        "Maha Sabbah-Karkabi",
+        "Sarab Abu-Rabia-Queder"
+      ],
+      "journal": "Ethnic and Racial Studies",
+      "dateText": "פורסם אונליין: 3 באוקטובר 2025; עמ׳ 1-19",
+      "doiUrl": "https://doi.org/10.1080/01419870.2025.2561759",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politics_silence_palestinian_faculty_voice_israeli_academia_war_summary_he.jpg",
+        "altHe": "חדר סמינר אוניברסיטאי עם כיסא ריק ומיקרופון כבוי כמטפורה להשתקת סגל פלסטיני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "summaryHe": "המאמר בוחן את חוויותיהם של חברי סגל פלסטינים במוסדות אקדמיים בישראל בתקופת מלחמה. מתוך ראיונות עם 27 חברי סגל הוא מתאר כיצד מנגנוני פיקוח גלויים וסמויים מגדירים אילו דברים ניתנים לאמירה, אילו זהויות נחשבות חשודות, וכיצד דרישות נאמנות ושתיקה פועלות לצד מרחבים של התנגדות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he",
       "file": "democracy_another_model_minority_immigrant_scholars_fsu_israeli_academia_summary_he.html",
