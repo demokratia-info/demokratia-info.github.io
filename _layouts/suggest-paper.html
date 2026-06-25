@@ -35,6 +35,8 @@
       {% include random_paper_link.html %}
       <span aria-hidden="true"> · </span>
       <a href="{{ '/' | relative_url }}">Back to homepage</a>
+      <span aria-hidden="true"> · </span>
+      {% include terms_link.html %}
     </footer>
   </main>
   <script src="{{ '/assets/js/suggest-paper.js' | relative_url }}?v={{ cache_version | uri_escape }}"></script>
