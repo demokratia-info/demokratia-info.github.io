@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "A. Cohen, J. Rynhold",
   "paperTitle": "Social Covenants: The Solution to the Crisis of Religion and State in Israel?",
   "authorsHtml": "A. Cohen, <a href=\"https://cris.biu.ac.il/en/persons/jonathan-rynhold/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Rynhold</a>",

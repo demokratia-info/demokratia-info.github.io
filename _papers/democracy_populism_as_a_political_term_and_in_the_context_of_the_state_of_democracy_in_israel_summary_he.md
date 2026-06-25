@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "דיון תאורטי בפופוליזם כמושג פוליטי עכשווי, עם ישראל כמקרה בוחן למתח בין דמוקרטיה ליברלית, זהות לאומית ושפה פוליטית.",
   "summaryHe": "המאמר מציג את הפופוליזם כתופעה לשונית, חברתית ותרבותית שאינה שייכת למחנה פוליטי אחד, ובוחן זאת דרך הפוליטיקה הישראלית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Nicolae Păun; Shay Tovim",
   "paperTitle": "POPULISM AS A POLITICAL TERM AND IN THE CONTEXT OF THE STATE OF DEMOCRACY IN ISRAEL",
   "authorsHtml": "Nicolae Păun; Shay Tovim",

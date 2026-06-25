@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית הטלטלה הפוליטית סביב הרפורמה המשפטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית הטלטלה הפוליטית סביב הרפורמה המשפטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arieh Saposnik; Natan Aridan",
   "paperTitle": "Introduction: Judicial Overhaul and Political Upheaval in Israel",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/saposnik/\" target=\"_blank\" rel=\"noopener noreferrer\">Arieh Saposnik</a>; Natan Aridan",

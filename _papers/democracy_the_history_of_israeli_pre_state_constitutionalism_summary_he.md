@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אסף לחובסקי, אבירם שחל",
   "paperTitle": "The History of Israeli Pre-State Constitutionalism",
   "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/assaflik\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Likhovski</a>; <a href=\"https://en-law.tau.ac.il/profile/aviramsh\" target=\"_blank\" rel=\"noopener noreferrer\">Aviram Shahal</a>",

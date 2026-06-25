@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה תהליכי דמוקרטיזציה מקומית בקהילות יהודיות וערביות בישראל סביב ביזור בחינוך. הוא מראה שמעורבות קהילתית יכולה לבזר כוח ציבורי, אך גם לחשוף פערים במיסוד ובהמשכיות החברה האזרחית.",
   "summaryHe": "Ghanem ו־Hijazi מנתחים יחסים בין מקבלי החלטות מקומיים, ארגוני חברה אזרחית ופעילים קהילתיים במסגרת ביזור חינוכי. המאמר מדגיש שמעורבות קהילתית ביישובים יהודיים נראית ממוסדת ומתמשכת יותר, ואילו בחברה הערבית היא מוגבלת, ספורדית ופחות ממוסדת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "As’ad Ghanem, Ahmad Hijazi",
   "paperTitle": "The Diverse Impact on Local Democracy - A Comparative Study about Democratisation Processes in Jewish and Arab Communities in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>; Ahmad Hijazi",

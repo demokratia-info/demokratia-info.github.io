@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר מסלולי חיים על עבודה, משפחה ושכר מצטבר בקרב נשים מקבוצות שונות בישראל.",
   "descriptionHe": "המחקר בוחן אם המגזר הציבורי בישראל מצמצם פערי יציבות תעסוקתית ושכר בין נשים מקבוצות אתנו־דתיות, בהשוואה למסלולי קריירה במגזר הפרטי.",
   "summaryHe": "הממצאים מצביעים על כך שקריירות במגזר הציבורי קשורות לנגישות יציבה ושוויונית יותר לנשים חרדיות, מוסלמיות, דרוזיות ונוצריות, בעוד שבמגזר הפרטי הפערים ביציבות ובשכר המצטבר גדולים יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Zafer Büyükkeçeci; Asaf Levanon; Anette Eva Fasang; Vered Kraus; Evgeny Saburov",
   "paperTitle": "Women’s work-family trajectories and earnings by ethno-religious groups in Israel: More equality in the public sector?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3763-2568\" target=\"_blank\" rel=\"noopener noreferrer\">Zafer Büyükkeçeci</a>; <a href=\"https://cris.haifa.ac.il/en/persons/asaf-levanon/\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Levanon</a>; Anette Eva Fasang; Vered Kraus; Evgeny Saburov",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את השפעת איכות המוסדות על צמיחה במדינות בעלות הכנסה בינונית וגבוהה בשנים 2000-2020. הוא מדגיש שמוסדות משפטיים, זכויות קניין ורגולציה אינם רק תנאי רקע לשוק, אלא מסלולים מרכזיים שדרכם כלכלה דמוקרטית יכולה לתמוך בהשקעה ובמסחר.",
   "summaryHe": "Parsa ו־Datta בונים שלושה מדדים משוקללים מתוך 20 אינדיקטורים מוסדיים ומנתחים פאנל של 77 מדינות, בחלוקה למדינות הכנסה בינונית וגבוהה. בעזרת GMM הם מוצאים שמוסדות משפיעים על צמיחה בעיקר דרך השקעה ומסחר יותר מאשר דרך פריון כולל, וששיפור איכות המערכת המשפטית וזכויות הקניין מניב תועלת גדולה במיוחד בתוצר לנפש. הממצאים מבחינים גם בין מדינות הכנסה בינונית, שנהנות יותר משיפור משפט וקניין, לבין מדינות הכנסה גבוהה, שנהנות יותר משיפור הסביבה הרגולטורית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mirwais Parsa, Soumya Datta",
   "paperTitle": "Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000–2020",
   "authorsHtml": "<a href=\"https://www.setonhill.edu/academics/faculty/profiles/business-technology/mirwais-parsa.ph.d.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mirwais Parsa</a>; <a href=\"https://sau.int/faculty/soumya-datta/\" target=\"_blank\" rel=\"noopener noreferrer\">Soumya Datta</a>",

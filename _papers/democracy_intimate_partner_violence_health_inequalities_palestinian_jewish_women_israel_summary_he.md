@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר בקרב 436 נשים פלסטיניות ו־965 נשים יהודיות מכמת את תרומת האלימות הזוגית לעודף פערי בריאות.",
   "descriptionHe": "המאמר בוחן כיצד אלימות מצד בן זוג תורמת לפערי בריאות נפשית ופיזית בין נשים פלסטיניות ויהודיות בישראל, ומציג אותה כתופעה מבנית שמעצימה אי־שוויון מעבר להסברים סוציו־אקונומיים.",
   "summaryHe": "ניהאיה דאוד, ביטריס אגרונסקי, נווין עלי־סאלח דראושה, האדל אלסאנע וסמירה אלפיומי־זעדנה מנתחות נתונים על 436 נשים פלסטיניות ו־965 נשים יהודיות אזרחיות ישראל בגילאי 18-50. לפי תקציר PubMed, נשים פלסטיניות סבלו מתוצאות בריאות גרועות יותר בשבעה מתוך עשרה מדדים, ואלימות זוגית תרמה לחלק ניכר מעודף הפערים בבריאות נפשית, תכנון היריון ורב־תחלואה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nihaya Daoud, Beatris Agronsky, Neveen Ali-Saleh Darawshy, Hadel Alsana, Samira Alfayumi-Zeadna",
   "paperTitle": "The contribution of intimate partner violence in exacerbating health inequalities between Palestinian and Jewish women in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4542-8978\" target=\"_blank\" rel=\"noopener noreferrer\">Nihaya Daoud</a>; Beatris Agronsky; Neveen Ali-Saleh Darawshy; Hadel Alsana; Samira Alfayumi-Zeadna",

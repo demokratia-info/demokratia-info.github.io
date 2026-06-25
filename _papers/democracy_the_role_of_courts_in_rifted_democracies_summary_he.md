@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תפקיד בתי המשפט בדמוקרטיות שסועות, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר מתמודד עם הדילמה של בתי משפט בדמוקרטיה שסועה: מצד אחד, מערכת שיפוט עצמאית נחוצה לחירות, לדמוקרטיה ולשלטון החוק; מצד אחר, בית משפט שנתפס כחורג מגבולותיו עלול להחליש את הלגיטימציה הציבורית שלו. התקציר מציב את המתח הזה בישראל של סוף שנות התשעים, סביב ביקורת חריפה על בית המשפט העליון ונשיאו.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ruth Gavison",
   "paperTitle": "The Role of Courts in Rifted Democracies",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/ruth-gavison\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Gavison</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חיזוי רגשי בבחירות והתקשורת החברתית־פוליטית דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Keren Tenenboim‐Weinblatt, Christian Baden, Tali Aharoni, Maximilian Overbeck",
   "paperTitle": "Affective forecasting in elections: A socio-communicative perspective",
   "authorsHtml": "<a href=\"https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Tenenboim‐Weinblatt</a>, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://en.communication.huji.ac.il/people/tali-aharoni\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Aharoni</a>, <a href=\"https://orcid.org/0000-0003-3658-5584\" target=\"_blank\" rel=\"noopener noreferrer\">Maximilian Overbeck</a>",

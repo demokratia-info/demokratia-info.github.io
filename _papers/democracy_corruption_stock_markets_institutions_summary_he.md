@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד שחיתות ואיכות מוסדית הטרוגנית משפיעות על תשואות מניות בכלכלות BRIC. הוא חשוב לדיון דמוקרטי מפני שהוא מראה ששלטון החוק, אחריותיות ואיכות הבירוקרטיה אינם משפיעים על שווקים באותה דרך כאשר שחיתות קיימת.",
   "summaryHe": "Lakshmi, Saha ו־Bhattarai מנתחים נתונים חודשיים על ברזיל, רוסיה, הודו וסין בשנים 1995-2014 בעזרת מודלי פאנל ו־Extreme Bounds Analysis. הם מוצאים ששחיתות ומוסדות חלשים נוטים להוריד תשואות מניות, אך אינטראקציות מוסדיות יוצרות תמונה מורכבת: איכות בירוקרטית יכולה למתן את הנזק, בעוד שחיתות בתוך סביבת חוק וסדר עלולה להוריד תשואות. המאמר מציע לחשוב על מוסדות כמשפחה של מנגנונים שונים ולא כמדד איכות אחד.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Geeta Lakshmi, Shrabani Saha, Keshab Bhattarai",
   "paperTitle": "Does corruption matter for stock markets? The role of heterogeneous institutions",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8351-719X\" target=\"_blank\" rel=\"noopener noreferrer\">Geeta Lakshmi</a>; <a href=\"https://orcid.org/0000-0001-6729-3811\" target=\"_blank\" rel=\"noopener noreferrer\">Shrabani Saha</a>; <a href=\"https://www.hull.ac.uk/staff-directory/keshab-bhattarai\" target=\"_blank\" rel=\"noopener noreferrer\">Keshab Bhattarai</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד דגל ישראל קיבל משמעויות חדשות במחאות 2023 נגד הרפורמה המשפטית, באמצעות ניתוח סמיוטי ורב-מודאלי של מרחב המחאה.",
   "summaryHe": "המאמר מראה כיצד מפגינים מן המחנה הליברלי-חילוני אימצו מחדש את דגל ישראל כדי לטעון לבעלות על הישראליות ולעצב דיון מחודש בזהות הלאומית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Silvia Adler, Ayelet Kohn",
   "paperTitle": "Discourse in the making: the shifting meaning of the national flag in the context of Israel’s 2023 judicial overhaul",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3663-3048\" target=\"_blank\" rel=\"noopener noreferrer\">Silvia Adler</a>, <a href=\"https://orcid.org/0000-0002-0871-4492\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Kohn</a>",

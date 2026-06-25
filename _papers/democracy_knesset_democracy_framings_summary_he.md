@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד חברי הכנסת ה-24 הגדירו דמוקרטיה בתקופה של לחץ מוסדי, ומראה קשר חזק בין זהות אידיאולוגית-פוליטית לבין מסגור הדמוקרטיה.",
   "summaryHe": "ניתוח איכותני של האופן שבו 72 חברי כנסת מהכנסת ה-24 מסגרו דמוקרטיה, זכויות ומוסדות לפי שיוך אידיאולוגי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "יואב ארד, מייקל פרידמן",
   "paperTitle": "The crises of Israeli democracy: political-ideological framings by members of Israel’s 24th Knesset",
   "authorsHtml": "<a href=\"https://scholar.google.com/citations?user=PIEDt4YAAAAJ&hl=en&inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Arad</a>; <a href=\"https://cris.haifa.ac.il/en/persons/michael-freedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Freedman</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tomer Einat, Anat Litvin, Niv Michaeli, Gila Zelikovitsh, Kathleen Marsh-Davies, Ofer Parchev",
   "paperTitle": "Letting the fox guard the chicken coop: oversight, transparency, and violation of human rights in the Israeli Penal System",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Anat Litvin, <a href=\"https://orcid.org/0000-0003-3069-7884\" target=\"_blank\" rel=\"noopener noreferrer\">Niv Michaeli</a>, Gila Zelikovitsh, <a href=\"https://orcid.org/0000-0002-3437-8891\" target=\"_blank\" rel=\"noopener noreferrer\">Kathleen Marsh-Davies</a>, <a href=\"https://orcid.org/0000-0003-4644-6799\" target=\"_blank\" rel=\"noopener noreferrer\">Ofer Parchev</a>",

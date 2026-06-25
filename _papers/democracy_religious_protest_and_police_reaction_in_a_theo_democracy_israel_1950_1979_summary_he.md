@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מחאה דתית, תגובת משטרה וסובלנות פוליטית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב ואלימות פוליטית, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מחאה דתית, תגובת משטרה וסובלנות פוליטית דרך עדשה של דעת קהל, קיטוב ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "S. Lehman-Wilzig; G. Goldberg",
   "paperTitle": "Religious Protest and Police Reaction in a Theo-Democracy: Israel, 1950-1979",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6635-4923\" target=\"_blank\" rel=\"noopener noreferrer\">Sam Lehman‐Wilzig</a>; G. Goldberg",

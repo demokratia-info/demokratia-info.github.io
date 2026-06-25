@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין מצבי חירום בצרפת ובישראל כדי לבחון כיצד אמצעי חירום נגד טרור עלולים להפוך לקבועים ולפגוע בשלטון החוק, בהפרדת רשויות ובבהירות משפטית.",
   "summaryHe": "המאמר טוען שמצבי חירום אמורים להיות זמניים וחריגים, אך בצרפת ובישראל צעדי חירום נגד טרור הוארכו או הוטמעו בחקיקה רגילה באופן שמעורר חשש דמוקרטי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Myriam Feinberg",
   "paperTitle": "States of emergency in France and Israel – terrorism, “permanent emergencies”, and democracy",
   "authorsHtml": "Myriam Feinberg",

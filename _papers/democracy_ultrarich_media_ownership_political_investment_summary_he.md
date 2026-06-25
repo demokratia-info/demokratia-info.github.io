@@ -8,6 +8,7 @@
   "subtitleHe": "גיא גרוסמן, יותם מרגלית ותמר מיטס בוחנים את ישראל היום כמקרה שבו בעלות תקשורתית של עשירי-על השפיעה על התחרות הפוליטית בישראל.",
   "descriptionHe": "המאמר ב-The Journal of Politics מנתח כיצד בעלות תקשורתית של עשירי-על יכולה להשפיע על תוצאות בחירות, דרך המקרה של ישראל היום ושלדון אדלסון בישראל.",
   "summaryHe": "המאמר מראה שבעלות תקשורתית אינה רק שאלה עסקית, אלא יכולה לשמש כלי בעל השפעה אלקטורלית ופוליטית עמוקה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "גיא גרוסמן, יותם מרגלית ותמר מיטס",
   "paperTitle": "How the Ultrarich Use Media Ownership as a Political Investment",
   "authorsHtml": "<a href=\"https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/guy-grossman\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Grossman</a>; <a href=\"https://www.ymargalit.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>; <a href=\"https://polisci.columbia.edu/content/tamar-mitts\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Mitts</a>",

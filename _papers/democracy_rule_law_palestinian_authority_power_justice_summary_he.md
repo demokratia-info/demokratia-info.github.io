@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את ניסיונה של הרשות הפלסטינית לבנות מוסדות דמוקרטיים ומשפטיים מ־1994 ועד פרוץ העימות המזוין בשנת 2000. הוא מציג את המתח בין ריכוז כוח ביצועי לבין עצמאות משפטית כמפתח להבנת דמוקרטיזציה ושלום.",
   "summaryHe": "Frisch ו־Hofnung מעריכים שלוש תזות להסבר חולשת שלטון החוק ברשות הפלסטינית: התערבות חיצונית, מבנה פנימי ותרבות פוליטית. הממצא המרכזי הוא שמרדף אחר כוח הוביל לריכוז סמכות בידי הרשות המבצעת, למרות ניסיונות של פוליטיקאים וחברה אזרחית למנוע זאת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hillel Frisch, Menachem Hofnung",
   "paperTitle": "Power or Justice? Rule and Law in the Palestinian Authority",
   "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>; <a href=\"https://cris.huji.ac.il/en/persons/menachem-hofnung/\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Hofnung</a>",

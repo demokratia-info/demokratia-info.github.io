@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מקומו של המשפט הבין־לאומי בבתי המשפט בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מקומו של המשפט הבין־לאומי בבתי המשפט בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amichai Cohen",
   "paperTitle": "International law in Israeli Courts",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>",

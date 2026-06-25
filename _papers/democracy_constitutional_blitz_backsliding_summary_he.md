@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מנתח את ינואר-אפריל 2023 כמקרה של האצת שחיקה דמוקרטית דרך שילוב בין רוב קואליציוני, פופוליזם, חקיקה מהירה ותמריצים אישיים.",
   "descriptionHe": "אסנת עקירב בוחנת את החודשים הראשונים של הכנסת ה-25 והממשלה ה-37, ומראה כיצד הצטברות של תמריצים פוליטיים האיצה נסיגה דמוקרטית בישראל.",
   "summaryHe": "הבליץ החוקתי מוצג כמהלך שבו תמריצים פוליטיים, פופוליזם וחקיקה מהירה מחלישים בלמים דמוקרטיים בזמן קצר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אסנת עקירב",
   "paperTitle": "Democratic backsliding and the constitutional blitz",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",

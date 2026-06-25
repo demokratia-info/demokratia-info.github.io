@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה בין ישראל, הונגריה והודו מדגישה שחיקה מצטברת של מוסדות, נורמות ותחרות פוליטית.",
   "descriptionHe": "המאמר משווה בין ישראל, הונגריה והודו כדי לבחון כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד מוסדי יחיד, אלא בכמה חזיתות פוליטיות, משפטיות וציבוריות.",
   "summaryHe": "לירון לביא, יעל שומר וגייל טלשיר מציבות את ישראל לצד הונגריה והודו כמקרי מבחן לנסיגה דמוקרטית עכשווית. המסגור ההשוואתי מדגיש שהסכנה לדמוקרטיה ליברלית נוצרת מהצטברות צעדים בזירות שונות: שינוי כללי משחק, החלשת ביקורת, קיטוב ציבורי ולחץ על מוסדות מפקחים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liron Lavi, Yael Shomer, Gayil Talshir",
   "paperTitle": "The multiple fronts of democratic backsliding: evidence from Israel, Hungary, and India",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3824-1320\" target=\"_blank\" rel=\"noopener noreferrer\">Liron Lavi</a>; <a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>; <a href=\"https://cris.huji.ac.il/en/persons/gayil-talshir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gayil Talshir</a>",

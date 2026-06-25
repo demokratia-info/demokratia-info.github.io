@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה כללי הגנה על בעלי מניות ונושים ואת איכות האכיפה שלהם, ומראה כיצד משפט פרטי לכאורה משפיע על מבנה שוקי ההון. מבחינה דמוקרטית, הוא מדגיש שהגבלת כוח כלכלי ושקיפות מוסדית תלויות גם בכללים שמגינים על משקיעים קטנים ונושים מפני ניצול.",
   "summaryHe": "המאמר בוחן את הקשר בין מסורות משפטיות, הגנת משקיעים, אכיפה וריכוז בעלות בחברות ציבוריות. מדינות המשפט המקובל מציעות בדרך כלל הגנות חזקות יותר למשקיעים, בעוד שמערכות שמקורן במשפט אזרחי צרפתי מציעות הגנות חלשות יותר, ומדינות אחרות נמצאות בין הקצוות. הממצא הציבורי החשוב הוא שהמשפט הכלכלי אינו נפרד מדמוקרטיה: כשהכללים מגינים רק על בעלי כוח או אינם נאכפים, שוקי ההון נעשים ריכוזיים יותר והציבור הרחב מתקשה להשתתף בצמיחה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny",
   "paperTitle": "Law and Finance",
   "authorsHtml": "<a href=\"https://vivo.brown.edu/display/rlaporta\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael La Porta</a>; <a href=\"https://www.skema.edu/en/faculty-and-research/professors/florencio-lopez-de-silanes-molina\" target=\"_blank\" rel=\"noopener noreferrer\">Florencio Lopez-de-Silanes</a>; <a href=\"https://scholar.harvard.edu/shleifer/home\" target=\"_blank\" rel=\"noopener noreferrer\">Andrei Shleifer</a>; <a href=\"https://faculty.chicagobooth.edu/robert-vishny\" target=\"_blank\" rel=\"noopener noreferrer\">Robert W. Vishny</a>",

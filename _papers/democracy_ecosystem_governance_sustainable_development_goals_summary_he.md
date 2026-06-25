@@ -7,6 +7,7 @@
   "subtitleHe": "מאמר שמחזיר את הממשל האקולוגי למרכז הדיון ביעדי הפיתוח הגלובליים.",
   "descriptionHe": "המאמר טוען שיעדי הפיתוח בר־הקיימא של האו״ם תלויים במערכות אקולוגיות מגוונות ועמידות, ולכן ממשל אקולוגי אינו תוספת סביבתית צדדית אלא תנאי להשגת היעדים.",
   "summaryHe": "המאמר מציב את המערכות האקולוגיות כתשתית שעליה נשענים כל 17 יעדי הפיתוח בר־הקיימא. הוא טוען שפיתוח כלכלי קצר־טווח וניהול משאבים לא מקיים פגעו ביכולת להתקדם, ומציע ממשל אקולוגי אדפטיבי שמחבר בין אדם לטבע ומשאיר אחריות מעשית גם לבעלי עניין מקומיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Liette Vasseur, Darwin Horning, Mary J. Thornbush, Emmanuelle Cohen-Shacham, Ángela Andrade, Ed Barrow, Steve R. Edwards, Piet Wit, Mike Jones",
   "paperTitle": "Complex problems and unchallenged solutions: Bringing ecosystem governance to the forefront of the UN sustainable development goals",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7289-2675\" target=\"_blank\" rel=\"noopener noreferrer\">Liette Vasseur</a>; Darwin Horning; <a href=\"https://orcid.org/0000-0001-9354-2797\" target=\"_blank\" rel=\"noopener noreferrer\">Mary J. Thornbush</a>; <a href=\"https://orcid.org/0000-0001-6241-9147\" target=\"_blank\" rel=\"noopener noreferrer\">Emmanuelle Cohen-Shacham</a>; <a href=\"https://orcid.org/0000-0003-0075-6169\" target=\"_blank\" rel=\"noopener noreferrer\">Ángela Andrade</a>; Ed Barrow; Steve R. Edwards; Piet Wit; <a href=\"https://orcid.org/0000-0003-4862-6806\" target=\"_blank\" rel=\"noopener noreferrer\">Mike Jones</a>",

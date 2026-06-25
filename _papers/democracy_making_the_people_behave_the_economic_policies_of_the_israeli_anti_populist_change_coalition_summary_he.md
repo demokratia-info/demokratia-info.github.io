@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Asaf Yakir",
   "paperTitle": "Making ‘the people’ behave: the economic policies of the Israeli anti-populist ‘change’ coalition",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4459-451X\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Yakir</a>",

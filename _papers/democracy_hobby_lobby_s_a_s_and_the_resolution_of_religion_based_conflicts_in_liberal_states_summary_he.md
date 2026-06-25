@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פתרון קונפליקטים מבוססי דת במדינות ליברליות, תוך הדגשת שוויון, חירות מצפון וזכויות נשים.",
   "summaryHe": "המאמר של גילה שטופל משווה בין שני פסקי דין מרכזיים על דת במדינות ליברליות ומראה שהכרעות בשם חופש דת אינן ניטרליות כאשר הן מטילות את המחיר על נשים או על קבוצות לא־דומיננטיות. החשיבות הדמוקרטית היא בהסטת המבט מן השאלה אם המדינה מגינה על דת, אל השאלה את מי ההגנה הזאת מחזקת ואת מי היא מחלישה. לכן המאמר רלוונטי לכל ויכוח על דת ומדינה, חירות מצפון ושוויון אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gila Stopler",
   "paperTitle": "Hobby Lobby, S.A.S., and the resolution of religion-based conflicts in liberal states",
   "authorsHtml": "<a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",

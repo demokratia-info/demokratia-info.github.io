@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את החברה האזרחית בישראל בשנת 2023 דרך המעבר ממחאה נגד הרפורמה המשפטית למתן סיוע, ומתמקד בתפיסת הפעילים והארגונים כאליטה משרתת.",
   "summaryHe": "המחקר מנתח ראיונות עומק עם מנהיגי ארגונים שפעלו במחאה ובסיוע, ומראה כיצד קבוצות מקצועיות ואזרחיות פירשו את תפקידן כהגנה על הדמוקרטיה ועל ביטחון החברה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Benjamin Gidron, Hagai Katz",
   "paperTitle": "Israel's civil society 2023 from protest to aid provision – a serving elite perspective",
   "authorsHtml": "<a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>, <a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>",

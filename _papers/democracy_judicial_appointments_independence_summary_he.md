@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסביר מדוע שיטת מינוי השופטים בישראל נתפסה כמנגנון מרכזי לשמירה על עצמאות בית המשפט ועל תפקידו בהגנה על הדמוקרטיה.",
   "summaryHe": "איך כללי מינוי השופטים משפיעים על עצמאות מערכת המשפט ועל יכולתה להגן על דמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עלי זלצברגר",
   "paperTitle": "Judicial Appointments and Promotions in Israel - Constitution, Law and Politics",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Salzberger</a>",

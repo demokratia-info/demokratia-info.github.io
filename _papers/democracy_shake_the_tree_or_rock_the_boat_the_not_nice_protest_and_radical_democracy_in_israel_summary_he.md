@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מחאה רדיקלית והרחבת גבולות ההשתתפות הדמוקרטית דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gal Levy",
   "paperTitle": "Shake the Tree or Rock the Boat: The Not Nice Protest and Radical Democracy in Israel",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>",

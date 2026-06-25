@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "מחקר אמפירי על הקשר בין ממשלות פופוליסטיות לבין הצבעות בעצרת הכללית של האו״ם בנושאי הסדר הבין־לאומי הליברלי.",
   "summaryHe": "המאמר בוחן אם פופוליזם ממשלתי מתבטא בהתנגדות לנורמות הליבה של הסדר הבין־לאומי הליברלי דרך דפוסי הצבעה באו״ם.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Sandra Destradi, Johannes Vüllers",
   "paperTitle": "Populism and the liberal international order: An analysis of UN voting patterns",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7509-9349\" target=\"_blank\" rel=\"noopener noreferrer\">Sandra Destradi</a>, <a href=\"https://orcid.org/0000-0003-0194-6570\" target=\"_blank\" rel=\"noopener noreferrer\">Johannes Vüllers</a>",

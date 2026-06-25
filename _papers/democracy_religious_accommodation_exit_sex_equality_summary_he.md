@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות. המאמר מציב את ההתאמה הדתית כמבחן לשאלה האם הסכמה וזכות יציאה הן הגנות ממשיות או פורמליות בלבד.",
   "summaryHe": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yofi Tirosh",
   "paperTitle": "Consent, Multiculturalism, and Exit: A Contemporary Critique of Religious Accommodation and the Right to Sex Equality",
   "authorsHtml": "<a href=\"https://law.tau.ac.il/profile/ytirosh\" target=\"_blank\" rel=\"noopener noreferrer\">Yofi Tirosh</a>",

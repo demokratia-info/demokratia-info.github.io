@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "שושנה נתניהו",
   "paperTitle": "The Supreme Court of Israel: A Safeguard of the Rule of Law",
   "authorsHtml": "<a href=\"https://supreme.court.gov.il/sites/en/Pages/JusticesRetired.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Shoshana Netanyahu</a>",

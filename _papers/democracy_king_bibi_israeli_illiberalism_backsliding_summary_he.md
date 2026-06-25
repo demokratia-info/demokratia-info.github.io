@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את ישראל בשנים 2009-2021 כמקרה של נסיגה דמוקרטית בהשוואה להונגריה ולטורקיה. הוא מדגיש כי דפוסי רטוריקה וטקטיקה דמו למקרים אחרים, אך הקיטוב האפקטיבי, השיטה הפרלמנטרית והמערכת האלקטורלית הגבילו את עומק ההצלחה.",
   "summaryHe": "Oren ו-Waxman מנתחים את שנות נתניהו השנייה, מ-2009 עד 2021, דרך מסגרת של נסיגה דמוקרטית ואי-ליברליזם. ישראל דמתה בחלק מן הרטוריקה והטקטיקות להונגריה ולטורקיה, אך התוצאה הייתה מוגבלת יותר. ההסבר שהם מדגישים קשור לאופי הקיטוב בישראל, למבנה הפרלמנטרי ולמערכת הבחירות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Neta Oren, Dov Waxman",
   "paperTitle": "\"King Bibi\" and Israeli Illiberalism: Assessing Democratic Backsliding in Israel during the Second Netanyahu Era (2009–2021)",
   "authorsHtml": "Neta Oren; <a href=\"https://polisci.ucla.edu/person/dov-waxman/\" target=\"_blank\" rel=\"noopener noreferrer\">Dov Waxman</a>",

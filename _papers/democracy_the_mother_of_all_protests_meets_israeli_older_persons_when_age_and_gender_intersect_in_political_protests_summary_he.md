@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liat Ayalon, ‪Sarit Okun‬‏",
   "paperTitle": "The “Mother of All Protests” Meets Israeli Older Persons: When Age and Gender Intersect in Political Protests",
   "authorsHtml": "<a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>, ‪Sarit Okun‬‏",

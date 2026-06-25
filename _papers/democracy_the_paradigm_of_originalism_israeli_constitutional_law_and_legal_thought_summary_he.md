@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hassan Jabareen",
   "paperTitle": "The Paradigm of Originalism: Israeli Constitutional Law and Legal Thought",
   "authorsHtml": "<a href=\"https://www.wiko-berlin.de/en/fellows/academic-year/2015/jabareen-hassan\" target=\"_blank\" rel=\"noopener noreferrer\">Hassan Jabareen</a>",

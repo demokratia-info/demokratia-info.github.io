@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עומק עם 30 סטודנטים מנתחים טכנולוגיה, הון חברתי ותנאי בית בזמן הוראה מקוונת.",
   "descriptionHe": "המאמר מנתח את חוויות הלמידה מרחוק של סטודנטים ערבים בישראל בזמן משבר הקורונה, ומראה כיצד פערים דיגיטליים, כלכליים וחברתיים עיצבו את ההשתתפות האקדמית.",
   "summaryHe": "נסים כץ מציג ניתוח סוציו־טכני של חוויות סטודנטים ערבים בישראל בלמידה מרחוק. לפי תקציר המקור, המחקר נשען על ראיונות עומק עם 30 סטודנטים ומשלב את גישת העיצוב החברתי של טכנולוגיה עם תיאוריות ההון של בורדייה כדי להסביר כיצד תנאי חיים קודמים עיצבו את ההשפעה של הוראה מקוונת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nissim Katz",
   "paperTitle": "Digital inequality in context: A socio-technical analysis of Arab students’ remote learning in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7052-2929\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Katz</a>",

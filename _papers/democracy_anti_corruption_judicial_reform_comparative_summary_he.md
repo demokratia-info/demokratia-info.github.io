@@ -8,6 +8,7 @@
   "subtitleHe": "גינסבורג מציב את הרפורמה המשפטית בישראל בהשוואה בינלאומית ומראה כיצד מוסדות נגד שחיתות משפיעים על עימותים חוקתיים.",
   "descriptionHe": "המאמר מנתח את המשבר החוקתי והרפורמה המשפטית בישראל דרך עדשה השוואתית של מאבק בשחיתות, העצמת בתי משפט ותגובת נגד פוליטית.",
   "summaryHe": "המאמר טוען שהמאבק בשחיתות הוא מקור מרכזי למעמד שנצבר למערכת המשפט בישראל, וכי תגובת נגד להליכי שחיתות היא גורם חשוב בניסיון הקואליציה לצמצם את כוח בית המשפט העליון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "טום גינסבורג",
   "paperTitle": "The Long Hand of Anti-Corruption: Israeli Judicial Reform in Comparative Perspective",
   "authorsHtml": "<a href=\"https://www.law.uchicago.edu/faculty/ginsburg-t\" target=\"_blank\" rel=\"noopener noreferrer\">Tom Ginsburg</a>",

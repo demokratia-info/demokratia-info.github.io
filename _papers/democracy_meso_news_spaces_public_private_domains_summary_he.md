@@ -7,6 +7,7 @@
   "subtitleHe": "קבוצות, צ׳טים ומרחבים דיגיטליים למחצה נעשים זירה חשובה להפצת חדשות.",
   "descriptionHe": "המאמר מציג את מושג מרחבי החדשות הביניים: מקומות דיגיטליים שאינם פרטיים לגמרי ואינם ציבוריים לגמרי, שבהם משתמשים ואנשי מדיה משתפים תוכן חדשותי. הוא חשוב לדמוקרטיה משום שהשפעה ציבורית נוצרת כיום גם בקבוצות ובצ׳טים שאינם נראים כמו זירת תקשורת מסורתית.",
   "summaryHe": "Neta Kligler-Vilenchik ו-Ori Tenenboim ממסגרים מרחבי תקשורת שנמצאים בין הפרטי לציבורי, כמו קבוצות פייסבוק, מרחבי X, וואטסאפ, טלגרם ופלטפורמות דומות. המאמר מדגיש שמרחבים אלה מאפשרים ייצור ושיתוף חדשות לקהל מוגבל, ולכן הם משנים את האופן שבו אזרחים נחשפים למידע פוליטי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Neta Kligler-Vilenchik, Ori Tenenboim",
   "paperTitle": "Meso News-Spaces and Beyond: News-Related Communication Occurring Between the Public and Private Domains",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>, <a href=\"https://orcid.org/0000-0001-7032-9721\" target=\"_blank\" rel=\"noopener noreferrer\">Ori Tenenboim</a>",

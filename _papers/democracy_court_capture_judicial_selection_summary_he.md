@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הצעת ממשלת ישראל מ-2023 לשנות את בחירת וקידום השופטים, וטוען שהיא ניסיון ללכוד את בתי המשפט באמצעות העברת השליטה במינויים לידי הממשלה והקואליציה.",
   "summaryHe": "המאמר טוען שהצעת 2023 למינוי וקידום שופטים אינה רק שינוי מוסדי, אלא מהלך שמעניק לממשלה ולקואליציה שליטה כמעט מלאה בבתי המשפט. הוא בוחן זאת דרך ההיגיון של השיטה הישראלית הקיימת, השינויים שחלו בה בשנים האחרונות, וההשוואה למודלים דמוקרטיים אחרים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "גיא לוריא",
   "paperTitle": "The Attempt to Capture the Courts in Israel",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>",

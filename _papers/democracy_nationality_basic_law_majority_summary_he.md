@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של דורין לוסטיג מנתח את חוק הלאום כחלק מתהליך נסיגה דמוקרטית בישראל ומסביר מדוע הוא מעורר חשש חוקתי לגבי שוויון ומיעוטים.",
   "summaryHe": "איך חוק הלאום משתלב בשאלות של רוב, שוויון אזרחי, חוקתיות ונסיגה דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "דורין לוסטיג",
   "paperTitle": "\"We the Majority...\": The Israeli Nationality Basic Law",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/lustigd\" target=\"_blank\" rel=\"noopener noreferrer\">Doreen Lustig</a>",

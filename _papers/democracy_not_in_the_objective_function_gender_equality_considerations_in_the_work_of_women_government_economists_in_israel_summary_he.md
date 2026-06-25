@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מראה כי הכשרה, הקשר מוסדי ותפיסת ניטרליות כלכלית יכולים לדחוק שיקולי שוויון מגדרי גם כאשר נשים נמצאות בתפקידי כלכלה ממשלתיים.",
   "descriptionHe": "Yael Hasson בוחנת כיצד כלכלניות בגופי כלכלה מרכזיים בשירות המדינה בישראל מתייחסות לשוויון מגדרי במדיניות כלכלית. לפי התקציר, השיקול המגדרי נתפס כשולי, צר וסקטוריאלי לעומת סוגיות כלכליות שמוצגות כאוניברסליות וניטרליות.",
   "summaryHe": "Yael Hasson משתמשת בכלים איכותניים כדי לשאול אם ובאילו תנאים נשים כלכלניות בממשלה מקדמות מדיניות שמפחיתה אי-שוויון מגדרי או מיטיבה עם נשים. הממצא המרכזי לפי התקציר הוא שהצבת נשים בעמדות השפעה אינה מבטיחה ייצוג של אינטרסים מגדריים כאשר ההכשרה המקצועית וההקשר המוסדי מגדירים את הכלכלה כניטרלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yael Hasson",
   "paperTitle": "“Not in the Objective Function”: Gender Equality Considerations in the work of Women Government Economists in Israel",
   "authorsHtml": "<a href=\"https://adva.org/en/team/yael-hasson/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Hasson</a>",

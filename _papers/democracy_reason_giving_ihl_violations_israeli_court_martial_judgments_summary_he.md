@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח שיטתי של 60 שנות פסקי דין בוחן ערכים הומניטריים, שליטה בכוח ואחריות צבאית.",
   "descriptionHe": "המאמר מנתח נימוקים בפסקי דין של בתי דין צבאיים בישראל כדי להבין אילו ערכים מוצגים כהצדקה לאכיפת המשפט ההומניטרי הבין־לאומי.",
   "summaryHe": "לירון א. ליבמן ועמיחי כהן בוחנים כיצד בתי דין צבאיים בישראל מנמקים אכיפה של הפרות משפט הומניטרי בין־לאומי. לפי תקציר המקור, המחקר מבוסס על ניתוח תוכן שיטתי של 60 שנות פסקי דין ובודק את שכיחות הערכים המוזכרים, כגון דאגות הומניטריות לעומת שליטה בכוח הצבאי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liron A. Libman, Amichai Cohen",
   "paperTitle": "Why do we enforce the law against IHL violations? Reason-giving in Israeli court-martial judgments",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0003-2661-2101\" target=\"_blank\" rel=\"noopener noreferrer\">Liron A. Libman</a>; <a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>",

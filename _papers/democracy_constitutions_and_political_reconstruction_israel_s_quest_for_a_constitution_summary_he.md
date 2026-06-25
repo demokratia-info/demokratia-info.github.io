@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ruth Gavison",
   "paperTitle": "Constitutions and Political Reconstruction? Israel's Quest for a Constitution",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/ruth-gavison\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Gavison</a>",

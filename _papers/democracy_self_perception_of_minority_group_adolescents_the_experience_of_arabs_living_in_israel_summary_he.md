@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תפיסה עצמית של מתבגרים ערבים בישראל, ועל המשמעות לשוויון אזרחי, שייכות ומדיניות חברתית.",
   "summaryHe": "המאמר של פייסל עזאיזה ואדיטל בן־ארי מתאר את התפיסה העצמית של מתבגרים ערבים החיים בישראל כקבוצת מיעוט העוברת שינויים תרבותיים, חברתיים ופוליטיים. המשמעות הדמוקרטית היא שהשאלה אינה רק רווחה אישית, אלא גם תנאי שייכות אזרחית ושוויון בתוך מדינה שבה הסכסוך הלאומי משפיע על זהות יומיומית. לכן המאמר מחבר בין עבודה סוציאלית, זכויות מיעוטים ואזרחות שווה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Faisal Azaiza, Adital Ben-Ari",
   "paperTitle": "Self‐perception of minority group adolescents: the experience of Arabs living in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/faisal-azaiza\" target=\"_blank\" rel=\"noopener noreferrer\">Faisal Azaiza</a>, <a href=\"https://cris.haifa.ac.il/en/persons/adital-ben-ari\" target=\"_blank\" rel=\"noopener noreferrer\">Adital Ben-Ari</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית הכללת ילדים עם מוגבלות מהחברה הערבית־פלסטינית בחינוך הישראלי דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Enas Majadley",
   "paperTitle": "Inclusion of Children with Disabilities from the Palestinian-Arab Community in the Israeli Education System",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5403-3746\" target=\"_blank\" rel=\"noopener noreferrer\">Enas Majadley</a>",

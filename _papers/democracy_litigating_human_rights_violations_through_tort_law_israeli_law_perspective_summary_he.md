@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית תביעות נזיקין כהתמודדות עם הפרות זכויות אדם, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית תביעות נזיקין כהתמודדות עם הפרות זכויות אדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Iris Canor; Tamar Gidron; Haya Zandberg",
   "paperTitle": "Litigating Human Rights Violations Through Tort Law: Israeli Law Perspective",
   "authorsHtml": "<a href=\"https://www.law.georgetown.edu/ctls/staff/iris-canor/\" target=\"_blank\" rel=\"noopener noreferrer\">Iris Canor</a>; <a href=\"https://www.colman.ac.il/teaching/lecturers/tamar-gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Gidron</a>; Haya Zandberg",

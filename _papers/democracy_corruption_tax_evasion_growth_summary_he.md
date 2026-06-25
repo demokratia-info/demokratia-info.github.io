@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מודל צמיחה שבו מסים מממנים מוצר ציבורי, אך יזמים יכולים להתחמק מתשלום באמצעות שוחד לפקח מס מושחת. הוא מציב את אמון הציבור, אכיפת המס והנורמות החברתיות כתנאים מוסדיים לצמיחה בת־קיימא.",
   "summaryHe": "Cerqueti ו־Coppier מפתחים מודל צמיחה מסוג Ramsey עם מוצר ציבורי יריבי אך לא־ניתן להדרה, שממומן ממסים שניתן להתחמק מהם באמצעות פקח מס מושחת. הם מראים שהיחס בין שיעור המס לבין גביית המס בדינמיקה של צמיחה אינו יחיד, ותלוי בין היתר בעוצמת אפקט הבושה במדינה. שיעורי הצמיחה של הכנסה ושל הכנסות ממסים יורדים כאשר שיעור המס עולה, אך הירידה חדה יותר במדינות שבהן אפקט הבושה נמוך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Roy Cerqueti, Raffaella Coppier",
   "paperTitle": "Economic growth, corruption and tax evasion",
   "authorsHtml": "<a href=\"https://docenti.unimc.it/roy.cerqueti\" target=\"_blank\" rel=\"noopener noreferrer\">Roy Cerqueti</a>; <a href=\"https://docenti.unimc.it/raffaella.coppier\" target=\"_blank\" rel=\"noopener noreferrer\">Raffaella Coppier</a>",

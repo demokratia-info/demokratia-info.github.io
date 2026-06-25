@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מציע מודל של דמוקרטיה בשלושה מסלולים כדי להתמודד עם המתח בין גבולות חוקתיים לבין הכרעה עממית.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מסביר מדוע גם דמוקרטיה הנשענת על ריבונות העם זקוקה לכללים שמונעים מהכרעה רגעית להרוס את תנאי הדמוקרטיה עצמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "שרון ויינטל",
   "paperTitle": "The Challenge of Reconciling Constitutional Eternity Clauses with Popular Sovereignty: Toward Three-Track Democracy in Israel as a Universal Holistic Constitutional System and Theory",
   "authorsHtml": "Sharon Weintal",

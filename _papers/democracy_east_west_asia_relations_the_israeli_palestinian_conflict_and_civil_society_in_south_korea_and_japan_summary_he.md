@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר על השתתפות לא־מדינתית ביחסים בין מזרח אסיה למזרח התיכון.",
   "descriptionHe": "המאמר בוחן כיצד חברות אזרחיות ביפן ובדרום קוריאה מעורבות בסכסוך הישראלי־פלסטיני, ומה מלמדת המעורבות הזו על יחסים חוצי־אזור ועל שחקנים לא־מדינתיים.",
   "summaryHe": "המאמר טוען שהתרחבות היחסים בין מזרח אסיה למזרח התיכון יוצרת גם קשרים לא־מדינתיים, וכי מאפייני כל מדינה מעצבים את דפוסי המחאה וההשפעה של חברה אזרחית ביפן ובדרום קוריאה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Zelcer–Lavid; Yoram Evron",
   "paperTitle": "East-West Asia relations: the Israeli-Palestinian conflict and civil society in South Korea and Japan",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1817-0556\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Zelcer–Lavid</a>; <a href=\"https://orcid.org/0000-0002-1933-4858\" target=\"_blank\" rel=\"noopener noreferrer\">Yoram Evron</a>",

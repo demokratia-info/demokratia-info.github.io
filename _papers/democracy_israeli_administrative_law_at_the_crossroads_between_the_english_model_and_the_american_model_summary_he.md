@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית נקודת המפנה של הדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daphne Barak-Erez",
   "paperTitle": "Israeli Administrative Law at the Crossroads: Between the English Model and the American Model",
   "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak-Erez</a>",

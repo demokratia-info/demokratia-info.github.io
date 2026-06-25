@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oshrat Hochman, Rebeca Raijman",
   "paperTitle": "The “Jewish premium”: attitudes towards Jewish and non-Jewish immigrants arriving in Israel under the Law of Return",
   "authorsHtml": "<a href=\"https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman\" target=\"_blank\" rel=\"noopener noreferrer\">Oshrat Hochman</a>, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>",

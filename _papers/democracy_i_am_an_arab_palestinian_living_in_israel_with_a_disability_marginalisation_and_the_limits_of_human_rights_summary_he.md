@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מוגבלות, פלסטיניות וזכויות אדם בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מוגבלות, פלסטיניות וזכויות אדם בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Leena Badran, Hira Amin, Ayelet Gur, Michael Ashley Stein",
   "paperTitle": "‘I am an Arab Palestinian living in Israel with a disability’: marginalisation and the limits of human rights",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6585-6008\" target=\"_blank\" rel=\"noopener noreferrer\">Leena Badran</a>, <a href=\"https://orcid.org/0000-0003-0751-156X\" target=\"_blank\" rel=\"noopener noreferrer\">Hira Amin</a>, <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>, <a href=\"https://orcid.org/0000-0001-9564-7461\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Ashley Stein</a>",

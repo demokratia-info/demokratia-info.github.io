@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד סטריאוטיפים תרבותיים משפיעים על נכונותם של בירוקרטים במגע ישיר לייצג באופן פעיל תת־קבוצות מוחלשות בתוך הקהילה שלהם. באמצעות 46 ראיונות עם עובדות ועובדים סוציאליים ערבים ואימהות חד־הוריות ערביות בישראל, הוא מראה שייצוג מיעוטים אינו אחיד גם כאשר נותן השירות והפונה משתייכים לאותה קהילה אתנו־תרבותית.",
   "summaryHe": "Sohad Amaria, Einat Lavee ו-Nissim Cohen מציגים את מושג הגבולות התרבותיים של ייצוג פעיל. המחקר מראה שעובדים סוציאליים ערבים נטו לראות באימהות אלמנות מקרה לגיטימי יותר לאמפתיה וסנגור, בעוד אימהות גרושות ולעיתים פרודות נתקלו ב״אחרות רגשית״ שנבעה מסטריאוטיפים תרבותיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sohad Amaria, Einat Lavee, Nissim Cohen",
   "paperTitle": "Why Active Representation Varies: Cultural Stereotypes and Differential Treatment by Street‐Level Bureaucrats",
   "authorsHtml": "Sohad Amaria, <a href=\"https://cris.haifa.ac.il/en/persons/einat-lavee/\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Lavee</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",

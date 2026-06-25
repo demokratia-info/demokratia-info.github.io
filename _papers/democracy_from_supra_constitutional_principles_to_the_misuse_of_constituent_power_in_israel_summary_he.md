@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שימוש לרעה בסמכות המכוננת בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שימוש לרעה בסמכות המכוננת בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Suzie Navot; Yaniv Roznai",
   "paperTitle": "From Supra-Constitutional Principles to the Misuse of Constituent Power in Israel",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/38336\" target=\"_blank\" rel=\"noopener noreferrer\">Suzie Navot</a>; <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",

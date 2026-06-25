@@ -8,6 +8,7 @@
   "subtitleHe": "מאמר הצעה על הוראת המזרח התיכון העכשווי דרך נורמליזציה, חופש אקדמי וסובלנות דתית.",
   "descriptionHe": "המאמר מציג תוכנית לימודים חדשה להבנת מגמות נורמליזציה ואינטגרציה במזרח התיכון, כולל ספר לימוד וארכיון דיגיטלי נגיש.",
   "summaryHe": "המאמר טוען שפוליטיזציה אקדמית, תוכן מוטה ונגישות מוגבלת יצרו פער בהבנת השתלבות ישראל במזרח התיכון, ומציע תוכנית לימודים שבוחנת בין היתר חופש אקדמי, סובלנות דתית, יציבות אזורית ושלום ישראלי־פלסטיני.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jason Olson; Moran Zaga; David Benger",
   "paperTitle": "From Arab-Israeli Conflict to Arab-Israeli Integration: A New Curriculum for Understanding the Contemporary Middle East",
   "authorsHtml": "Jason Olson; <a href=\"https://orcid.org/0000-0002-2197-116X\" target=\"_blank\" rel=\"noopener noreferrer\">Moran Zaga</a>; David Benger",

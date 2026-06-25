@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר שואל מתי אזרחים מן השורה מוכנים לתמוך בצעדים שפוגעים בדמוקרטיה, ומראה שהתשובה קשורה לא רק לאידיאולוגיה אלא גם לזהות מחנאית, פחד ואמון נמוך בצד השני.",
   "summaryHe": "מחקר על התנאים שבהם אזרחים רגילים מוכנים לתמוך בפגיעה בכללי הדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "נעם גדרון, יותם מרגלית, ליאור שפר, איתמר יקיר",
   "paperTitle": "Why Masses Support Democratic Backsliding",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://www.ymargalit.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>, <a href=\"https://en.idi.org.il/experts/36238\" target=\"_blank\" rel=\"noopener noreferrer\">Itamar Yakir</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה בין אוקראינה לישראל מציבה את החברה האזרחית כמרכיב יסודי במודלים של הגנה כוללת בזמן מלחמה ממושכת.",
   "descriptionHe": "המאמר מנתח כיצד התנגדות אזרחית מבוזרת תורמת לחוסן לאומי במלחמות עכשוויות, דרך מקרי אוקראינה וישראל.",
   "summaryHe": "Daniel Rakov ו-Sarah-Masha Fainberg משווים בין התנגדות אזרחית באוקראינה מאז פברואר 2022 לבין התגייסות אזרחית בישראל אחרי 7 באוקטובר 2023. הם טוענים שהתנגדות אזרחית אינה רכיב עזר בלבד, אלא נדבך יסודי בהגנה כוללת ובחוסן חברתי, במיוחד בשלבים הראשונים של משבר אלים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daniel Rakov, Sarah-Masha Fainberg",
   "paperTitle": "Civilian Resistance as a Cornerstone of National Resilience: Insights from Ukraine and Israel",
   "authorsHtml": "Daniel Rakov, Sarah-Masha Fainberg",

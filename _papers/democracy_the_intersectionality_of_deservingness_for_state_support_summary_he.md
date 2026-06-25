@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על הצטלבות זכאות לתמיכת מדינה, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית הצטלבות זכאות לתמיכת מדינה דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michaela Assouline, Sharon Gilad",
   "paperTitle": "The Intersectionality of Deservingness for State Support",
   "authorsHtml": "Michaela Assouline; <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>",

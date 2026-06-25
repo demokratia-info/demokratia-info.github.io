@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר משתמש בתאוריות של שמרנות, מודרניזציה וקונפליקט כדי לנתח את הפער האידאולוגי בין קהילות חילוניות וחרדיות בישראל.",
   "descriptionHe": "המאמר בוחן כיצד דת, אידאולוגיה ושמרנות משפיעות על משילות בישראל, במיוחד סביב יחסי חילונים וחרדים, שירות צבאי ומדיניות ציבורית.",
   "summaryHe": "Yaron Katz מציג ניתוח תאורטי של המתח בין שמרנות חרדית לבין דרישות החברה המודרנית בישראל. המאמר מדגיש כי השמרנות מספקת זהות ויציבות, אך גם מתנגדת לשינויים, בעוד מודרניזציה וקונפליקט פוליטי יוצרים צורך במשילות מסתגלת, בייצוג הוגן ובדיאלוג מכליל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Theoretical Approaches on Religion, Ideology, and Governance in Israel's Political Landscape",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

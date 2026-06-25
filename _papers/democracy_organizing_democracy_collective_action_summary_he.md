@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מבחין בין ארגון שמפתח יכולת פעולה ציבורית לאורך זמן לבין מוביליזציה שמרכזת העדפות ופעולות נקודתיות. חשיבותו הדמוקרטית היא בהבהרת סוגי הפעולה הקולקטיבית שבאמת יכולים להפוך יחידים וקבוצות לשחקנים המסוגלים לעצב תוצאות ציבוריות.",
   "summaryHe": "Han, Baggetta ו־Oser טוענים שדמוקרטיה דורשת פעולה קולקטיבית, אך לא כל פעולה קולקטיבית פועלת באותו אופן. הם מבחינים בין organizing, שמבקש להפוך יחידים וקבוצות לסוכנים אפקטיביים המסוגלים להשפיע על תוצאות ציבוריות, לבין mobilizing, שמרכז ומבטא העדפות בזירה הציבורית בלי להתמקד בשינוי אישי או ארגוני. המאמר סוקר ממדי טרנספורמציה ברמות מיקרו, מזו ומקרו, ומציע לחקור ארגון בנפרד ובהשוואה למוביליזציה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hahrie Han, Matthew Baggetta, Jennifer Oser",
   "paperTitle": "Organizing and Democracy: Understanding the Possibilities for Transformative Collective Action",
   "authorsHtml": "<a href=\"https://www.hahriehan.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Hahrie Han</a>, <a href=\"https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/baggetta-matthew.html\" target=\"_blank\" rel=\"noopener noreferrer\">Matthew Baggetta</a>, <a href=\"https://cris.bgu.ac.il/en/persons/jennifer-oser/\" target=\"_blank\" rel=\"noopener noreferrer\">Jennifer Oser</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מבחין בין קיטוב עמדתי לבין קיטוב פרשני, ובוחן כיצד מחלוקת פוליטית בישראל מתפתחת לאורך זמן בפייסבוק, בטוויטר ובווטסאפ. הוא מראה שפלטפורמות שונות אינן רק צינורות הפצה, אלא סביבות שמעצבות צורות שונות של הבנת מחלוקת.",
   "summaryHe": "Kligler-Vilenchik, Baden ו־Yarchi חוקרים מחלוקת פוליטית ישראלית בשלוש פלטפורמות חברתיות, ומבחינים בין עמדות מנוגדות לבין פרשנויות מנוגדות של אותו נושא. הם מוצאים שעמדות ופרשנויות מנוגדות קשורות זו בזו כבר מתחילת הדיון, ושההבדלים בין הפלטפורמות משקפים גם את מאפייניהן החברתיים־טכנולוגיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Neta Kligler-Vilenchik, Christian Baden, Moran Yarchi",
   "paperTitle": "Interpretative Polarization across Platforms: How Political Disagreement Develops Over Time on Facebook, Twitter, and WhatsApp",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>; <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>; <a href=\"https://orcid.org/0000-0002-8044-2145\" target=\"_blank\" rel=\"noopener noreferrer\">Moran Yarchi</a>",

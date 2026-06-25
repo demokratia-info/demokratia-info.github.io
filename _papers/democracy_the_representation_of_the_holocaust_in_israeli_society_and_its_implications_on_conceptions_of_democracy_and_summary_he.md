@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד ייצוג השואה בישראל, בעיקר בגישה פרטיקולריסטית המתמקדת בשנאת יהודים, משפיע על תפיסות של דמוקרטיה וזכויות אדם אוניברסליות. הוא מציג גישה הקשרית שמחברת בין הנאציזם, לאומנות קיצונית, פגיעה בערכים ליברליים וזכויות של קבוצות אחרות, ובהן פלסטינים.",
   "summaryHe": "המאמר בוחן את השלכות הוראת וזיכרון השואה בישראל על עמדות כלפי דמוקרטיה וזכויות אדם, וטוען שגישה הקשרית יכולה לחזק הבנה של זכויות אזרח שוות וזכויות אדם אוניברסליות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Irit Keynan, Noga Wolff",
   "paperTitle": "The Representation of the Holocaust in Israeli Society and Its Implications on Conceptions of Democracy and Human Rights of “Others”",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8918-0604\" target=\"_blank\" rel=\"noopener noreferrer\">Irit Keynan</a>, Noga Wolff",

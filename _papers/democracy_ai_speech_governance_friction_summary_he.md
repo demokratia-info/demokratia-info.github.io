@@ -8,6 +8,7 @@
   "subtitleHe": "מאמר על הצורך לעצב מערכות AI שמאפשרות ערעור, שקיפות והשתתפות ציבורית בהחלטות על ביטוי.",
   "descriptionHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, וממקם את הדיון בתוך שאלות של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי.",
   "summaryHe": "המאמר טוען שרגולציה של שיח באמצעות AI צריכה לכלול חיכוך דמוקרטי: יכולת להבין, לערער ולהשתתף בעיצוב כללי ההסרה וההעדפה של תכנים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ניבה אלקין-קורן, מעיין פרל",
   "paperTitle": "Democratic friction in speech governance by AI",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/elkiniva\" target=\"_blank\" rel=\"noopener noreferrer\">Niva Elkin-Koren</a>; <a href=\"https://ric.org.il/researcher/maayan-pearl/\" target=\"_blank\" rel=\"noopener noreferrer\">Maayan Perel</a>",

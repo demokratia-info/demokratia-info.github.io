@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר סוקר את ההסדרה החוקתית של נישואים וגירושים בארץ ישראל המנדטורית ובישראל מאז 1918, ואת שימור סמכותן של קהילות ובתי דין דתיים בענייני מעמד אישי.",
   "summaryHe": "גל אמיר מנתח כיצד משטר המעמד האישי העות'מאני והמנדטורי המשיך לעצב את דיני הנישואים והגירושים בישראל. המאמר טוען שהמחוקק הישראלי נמנע לאורך השנים מהסדרה חוקתית של נישואים אזרחיים, בין היתר בשל חוסר יכולת פוליטית לגבש הסכמה בין יהודים דתיים וחילונים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gal Amir",
   "paperTitle": "Constitutional regulation of civil marriage in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7420-5509\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Amir</a>",

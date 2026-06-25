@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד פיצול בינלאומי של הייצור, מסחר בתשומות ביניים וזרימות הון משפיעים על חלוקת ההכנסות והרווחה בין מדינות.",
   "summaryHe": "המאמר מפתח מודל סחר דינמי שבו מדינות שונות ברמת הפריון, ומראה שמסחר בתשומות ביניים עתירות הון יכול להעביר הון למדינות בעלות פריון גבוה ולהגדיל אי־שוויון עולמי בהכנסה וברווחה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Sergi Basco, Martí Mestieri",
   "paperTitle": "The world income distribution: the effects of international unbundling of production",
   "authorsHtml": "<a href=\"https://www.ub.edu/school-economics/researcher/basco-sergi/\" target=\"_blank\" rel=\"noopener noreferrer\">Sergi Basco</a>; <a href=\"https://economics.northwestern.edu/people/directory/marti-mestieri.html\" target=\"_blank\" rel=\"noopener noreferrer\">Martí Mestieri</a>",

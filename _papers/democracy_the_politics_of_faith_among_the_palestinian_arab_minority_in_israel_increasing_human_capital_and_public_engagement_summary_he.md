@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר טוען כי עליית ההון האנושי והמעמד הבינוני בקרב הציבור הערבי-פלסטיני בישראל תרמה לביטחון עצמי, לאקטיביזם תרבותי וחברתי ולנכונות לשנות את הסטטוס קוו.",
   "descriptionHe": "Muhammed Khalaily ו-As’ad Ghanem בוחנים את העלייה בביטחון העצמי בקרב הציבור הערבי-פלסטיני בישראל בשני העשורים האחרונים. לפי התקציר, העלייה קשורה בחלקה להשכלה גבוהה ולצמיחת מעמד ביניים, ומובילה לפעילות תרבותית, פוליטית וחברתית מאורגנת יותר.",
   "summaryHe": "המאמר משתמש במושג “politics of faith” כדי לתאר נכונות לשנות את הסטטוס קוו. בהקשר של מיעוט לאומי, הטענה היא שהון אנושי וביטחון עצמי אינם רק הישגים פרטיים, אלא תנאים לפעולה קולקטיבית במרחב הציבורי מול הקהילה ומול המדינה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Muhammed Khalaily, As’ad Ghanem",
   "paperTitle": "The Politics of Faith among the Palestinian-Arab Minority in Israel: Increasing Human Capital and Public Engagement",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/33398\" target=\"_blank\" rel=\"noopener noreferrer\">Muhammed Khalaily</a>, <a href=\"https://cris.haifa.ac.il/en/persons/asad-ghanem/\" target=\"_blank\" rel=\"noopener noreferrer\">As’ad Ghanem</a>",

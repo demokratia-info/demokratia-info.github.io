@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד איום ירי רקטות מרצועת עזה השפיע על דפוסי הצבעה בבחירות בישראל, גם בלי להסתפק בחשיפה בפועל לפגיעה.",
   "summaryHe": "המחקר משתמש בשינויים בזמן ובמרחב בטווח הרקטות כדי להשוות יישובים בתוך הטווח ומחוצה לו, ומוצא שביישובים שנכנסו לטווח נרשם שיעור הצבעה גבוה יותר למפלגות ימין, בגודל של 2 עד 6 נקודות אחוז במודלים המרכזיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Anna Getmansky, Thomas Zeitzoff",
   "paperTitle": "Terrorism and Voting: The Effect of Rocket Threat on Voting in Israeli Elections",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0978-7095\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Getmansky</a>, <a href=\"https://orcid.org/0000-0003-4889-7198\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas Zeitzoff</a>",

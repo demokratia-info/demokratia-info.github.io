@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yehouda Shenhav",
   "paperTitle": "The cloak, the cage and the fog of sanctity: the Zionist mission and the role of religion among Arab Jews *",
   "authorsHtml": "Yehouda Shenhav",

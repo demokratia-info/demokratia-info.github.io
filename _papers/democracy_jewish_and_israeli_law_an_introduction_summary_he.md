@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית הקשרים בין משפט יהודי למשפט ישראלי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית הקשרים בין משפט יהודי למשפט ישראלי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shimon Shetreet; Walter Homolka",
   "paperTitle": "Jewish and Israeli Law - An Introduction",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/shimon-shetrit\" target=\"_blank\" rel=\"noopener noreferrer\">Shimon Shetreet</a>; <a href=\"https://orcid.org/0000-0003-1021-2341\" target=\"_blank\" rel=\"noopener noreferrer\">Walter Homolka</a>",

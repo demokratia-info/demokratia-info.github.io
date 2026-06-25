@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מראה כיצד קבוצות שנתפסו כזרות או ככתות אימצו אסטרטגיות רפובליקניות ונאו־ליברליות כדי להפחית התנגדות ציבורית.",
   "descriptionHe": "המאמר מנתח אסטרטגיות לגיטימציה של תנועות דתיות חדשות בישראל על בסיס ראיונות ודיווחים תקשורתיים.",
   "summaryHe": "Guy Ben‐Porat ו-Boaz Huss בוחנים כיצד תנועות דתיות חדשות בישראל התמודדו עם חשד, התנגדות ושיח על כתות. לפי הניתוח, הן פיתחו שתי אסטרטגיות לגיטימציה מרכזיות: האחת מציגה אזרחות רפובליקנית דרך ציונות, אתוס התיישבות ושירות צבאי, והשנייה מציגה אזרחות נאו־ליברלית דרך חינוך, הצלחה וניידות כלכלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Guy Ben‐Porat, Boaz Huss",
   "paperTitle": "Good citizens: legitimization strategies of new religious movements in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben‐Porat</a>, <a href=\"https://cris.bgu.ac.il/en/persons/boaz-huss\" target=\"_blank\" rel=\"noopener noreferrer\">Boaz Huss</a>",

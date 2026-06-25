@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מנתח כיצד פסיקה חוקתית יכולה להגביל או לעצב מדיניות כלכלית בשם עקרונות חוקתיים.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מציע לחשוב על חוקתיות כלכלית שלילית דרך פסיקת בית המשפט העליון בישראל, ועל ההשלכות שלה לריבונות דמוקרטית ולזכויות חברתיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "לילך ליטור",
   "paperTitle": "Conceptualizing Economic Negative Constitutionalism: A Case Study of the Israeli Supreme Court",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2728-7430\" target=\"_blank\" rel=\"noopener noreferrer\">Lilach Litor</a>",

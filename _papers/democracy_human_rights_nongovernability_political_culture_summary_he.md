@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע לנתח זכויות אדם כמדיניות ציבורית המושפעת מאי־משילות, תרבות פוליטית ושיפוטיות, ולא רק כעקרונות משפטיים מופשטים.",
   "summaryHe": "המאמר טוען שהגנה על זכויות אדם בזירה הפנימית תלויה בפעולה של מוסדות מדינה, שחקנים פוליטיים, פקידות, קבוצות אינטרס ובתי משפט. הוא מדגיש את ישראל כמקרה שבו בית המשפט העליון נעשה שחקן מרכזי בעיצוב מדיניות זכויות אדם בתוך מערכת פוליטית מורכבת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Assaf Meydani",
   "paperTitle": "Human Rights between Non-governability and Political Culture – A New Approach in Human Rights Analysis",
   "authorsHtml": "<a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",

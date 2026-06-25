@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם מהגרים דוברי אנגלית וספרדית מ־1949 עד 1982 חושפים את עלויות האידיאולוגיה החד־לשונית.",
   "descriptionHe": "המאמר בוחן כיצד מדיניות לשון בקיבוצים בישראל השפיעה על בחירות לשוניות וזהותיות של מהגרים דוברי אנגלית וספרדית, ומציע ביקורת על מדיניות מחליפה שמעדיפה עברית תוך התעלמות מזכויות וזהויות.",
   "summaryHe": "בלייק סטיינקר ואלנה שוהמי מנתחים 24 ראיונות עם מהגרים דוברי אנגלית וספרדית שחיו בקיבוצים בישראל בין 1949 ל־1982. לפי תקציר המקור, מנגנונים מוסדיים, חינוכיים וקהילתיים עודדו מעבר לעברית, אך גם יצרו עלויות זהותיות וזכויותיות שמדיניות לשון חד־לשונית נוטה להסתיר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Blake Steinnecker, Elana Shohamy",
   "paperTitle": "Language policy and choice in Israeli kibbutzim",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0005-5086-6229\" target=\"_blank\" rel=\"noopener noreferrer\">Blake Steinnecker</a>; <a href=\"https://orcid.org/0000-0003-3462-1588\" target=\"_blank\" rel=\"noopener noreferrer\">Elana Shohamy</a>",

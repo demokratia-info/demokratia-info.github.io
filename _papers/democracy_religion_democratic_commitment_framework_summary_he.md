@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר סוקר את הקשר המורכב בין דתיות לבין מחויבות לדמוקרטיה ומציע מסגרת מאחדת שמבחינה בין ביטויים שונים של דת לבין המניעים שמאחוריהם. התרומה הדמוקרטית שלו היא בהחלפת השאלה הפשטנית אם דתיות בעד או נגד דמוקרטיה בשאלה מתי, באילו מניעים ובאיזה הקשר היא מחזקת או מחלישה נורמות דמוקרטיות.",
   "summaryHe": "Ben‐Nun Bloom, Arikan ו־Vishkin טוענים שאין תשובה אחת לשאלה אם דתיות מקדמת או מעכבת מחויבות לדמוקרטיה. הם סוקרים מחקרים על תמיכה במערכת הדמוקרטית, השתתפות פוליטית וסובלנות פוליטית, ומראים שגישות רב־ממדיות קיימות עדיין אינן מסבירות די הצורך את הסתירות בממצאים. לכן הם מציעים את מודל REME, שממפה קשרים בין אמונה, התנהגות חברתית והתנהגות פרטית לבין המניעים הדתיים שמעצבים אותן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Pazit Ben‐Nun Bloom, Gizem Arikan, Allon Vishkin",
   "paperTitle": "Religion and Democratic Commitment: A Unifying Motivational Framework",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/pazit-bennun\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>, <a href=\"https://www.tcd.ie/political-science/about/people/academic-staff/arikang/\" target=\"_blank\" rel=\"noopener noreferrer\">Gizem Arikan</a>, <a href=\"https://dds.technion.ac.il/people/academic-staff/allon-vishkin/\" target=\"_blank\" rel=\"noopener noreferrer\">Allon Vishkin</a>",

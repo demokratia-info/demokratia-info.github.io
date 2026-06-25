@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על מפגינים ישראלים בני יותר מ־65, ועל האופן שבו הם מבינים מנהיגות, זמן, סולידריות בין־דורית ופעולה פוליטית.",
   "summaryHe": "המאמר מתבסס על 30 ראיונות עם מפגינים ישראלים מעל גיל 65. הוא מראה שמבוגרים ראו עצמם כמובילי מחאה בעלי זמן, ניסיון וערכים, אך גם הדגישו שמחאה אינה שלמה בלי אנרגיה, נוכחות וסמליות של צעירים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liat Ayalon; Sarit Okun",
   "paperTitle": "“You messed up with the wrong generation”: Intergenerational relations from the perspective of Israeli older protesters",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/liat-ayalon\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>, <a href=\"https://jewish-history.biu.ac.il/en/node/1282\" target=\"_blank\" rel=\"noopener noreferrer\">Sarit Okun</a>",

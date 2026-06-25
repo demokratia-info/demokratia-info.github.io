@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Landon Schnabel, Conrad Hackett, David McClendon",
   "paperTitle": "Where Men Appear More Religious Than Women: Turning a Gender Lens on Religion in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2674-3019\" target=\"_blank\" rel=\"noopener noreferrer\">Landon Schnabel</a>, <a href=\"https://orcid.org/0000-0002-1310-965X\" target=\"_blank\" rel=\"noopener noreferrer\">Conrad Hackett</a>, <a href=\"https://orcid.org/0000-0002-0231-0489\" target=\"_blank\" rel=\"noopener noreferrer\">David McClendon</a>",

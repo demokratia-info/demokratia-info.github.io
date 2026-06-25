@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על למידה חברתית־רגשית, ספרות ילדים בעברית ושוויון בחברה מגוונת ומופרדת.",
   "summaryHe": "המאמר בוחן 25 ספרי ילדים בעברית מתוכנית \"מצעד הספרים\" ומנתח כיצד הם מייצגים מיומנויות חברתיות־רגשיות, שוויון וחשיפה לתרבויות שונות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Athar Ḥaj Yaḥya",
   "paperTitle": "Inclusion, Equality and Educational Justice: Enhancing Social-Emotional Learning through Children’s Literature in a Diverse and Segregated Society",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4895-9547\" target=\"_blank\" rel=\"noopener noreferrer\">Athar Ḥaj Yaḥya</a>",

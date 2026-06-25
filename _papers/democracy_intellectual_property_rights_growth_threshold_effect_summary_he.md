@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם זכויות קניין רוחני חזקות יותר מסייעות לצמיחה רק כאשר למדינה יש רמת הון אנושי מספקת. הוא מציע קריאה דמוקרטית זהירה: חיזוק זכויות פורמליות בלי יכולת חברתית להשתמש בידע עלול ליצור תוצאה לא שוויונית.",
   "summaryHe": "המאמר מתמקד בקשר הלא ליניארי בין זכויות קניין רוחני, הון אנושי וצמיחה. המחברים משתמשים בשיטת סף ומוצאים שמתחת לרמה מסוימת של הון אנושי, חיזוק זכויות קניין רוחני עלול לפגוע בצמיחה, בעוד שמעל הסף הקשר אינו בהכרח חיובי. מבחינה דמוקרטית, זהו שיעור חשוב במדיניות מוסדית: העתקת כללים חזקים ממדינה אחת לאחרת אינה מספיקה בלי חינוך, יכולת מקצועית וגישה רחבה לידע.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hamid Mohtadi, Stefan Ruediger",
   "paperTitle": "Intellectual Property Rights and Growth: Is there a Threshold Effect?",
   "authorsHtml": "<a href=\"https://uwm.edu/economics/about/directory/mohtadi-hamid/\" target=\"_blank\" rel=\"noopener noreferrer\">Hamid Mohtadi</a>; <a href=\"https://orcid.org/0000-0003-1054-0636\" target=\"_blank\" rel=\"noopener noreferrer\">Stefan Ruediger</a>",

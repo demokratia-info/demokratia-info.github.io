@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amnon Reichman",
   "paperTitle": "Judicial Independence in Times of War: Prolonged Armed Conflict and Judicial Review of Military Actions in Israel",
   "authorsHtml": "<a href=\"https://law.haifa.ac.il/en/our-staff/lecturers/amnon-reichman/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Reichman</a>",

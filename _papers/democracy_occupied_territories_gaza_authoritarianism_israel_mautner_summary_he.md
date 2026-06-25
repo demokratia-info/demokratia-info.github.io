@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Menachem Mautner טוען שהשליטה המתמשכת בגדה המערבית, לצד מלחמות עזה ואלימות בין סבבי מלחמה, מעצבת תהליכים שמחלישים את הליברליות בישראל. מבחינה דמוקרטית, הוא מציב את יחסי ביטחון, ביקורת ציבורית וזכויות אזרח במרכז הדיון על נסיגה ליברלית.",
   "summaryHe": "Mautner מנתח את הקשר בין השליטה בשטחים לבין שחיקה בליברליות הישראלית. לטענתו, הכיבוש מייצר מחאה וביקורת נגד הממשלה וצה״ל, ותגובות ממשלתיות ופעילות של ארגוני ימין אזרחיים כלפי ביקורת זו מערערות או מאיימות על מרכיבים ליברליים של המשטר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Menachem Mautner",
   "paperTitle": "The Occupied Territories, Gaza, and Israel’s Recent Slide to Authoritarianism",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/mautner\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Mautner</a>",

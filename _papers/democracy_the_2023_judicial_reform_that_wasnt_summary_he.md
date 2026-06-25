@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יהושע שגב",
   "paperTitle": "The 2023 Judicial Reform That Wasn't",
   "authorsHtml": "<a href=\"https://www.netanya.ac.il/team/%D7%93%D7%A8-%D7%A9%D7%95%D7%A7%D7%99-%D7%A9%D7%92%D7%91/\" target=\"_blank\" rel=\"noopener noreferrer\">Joshua Segev</a>",

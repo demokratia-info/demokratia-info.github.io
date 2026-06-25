@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על 231 מבוגרים להט״בים מדגיש את תפקיד התמיכה החברתית, חשיפת הזהות ומעורבות קהילתית.",
   "descriptionHe": "המאמר בוחן גורמי סיכון והגנה המשפיעים על איכות חיים ובדידות בקרב מבוגרים להט״בים בישראל, ומראה כיצד גיל, חוסן, רשת חברתית ומעורבות קהילתית מעצבים רווחה לאורך החיים.",
   "summaryHe": "רפאל אפלר־חטאב, יצחק שנור, איילת ברג־וורמן והיון־ג׳ון קים מנתחים שאלון מקוון של 231 מבוגרים להט״בים בישראל בגילי 19-81. לפי תקציר המקור, גיל נקשר לפחות תחושת בדידות, יותר תמיכה חברתית, יותר חוסן ואיכות חיים גבוהה יותר, במיוחד כאשר קיימת מעורבות קהילתית ורשת חברתית רחבה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Raphael Eppler-Hattab, Yitschak Shnoor, Ayelet Berg-Warman, Hyun-Jun Kim",
   "paperTitle": "Age-related Risk and Protective factors, Quality of Life and Loneliness in the Lives of LGBTQ Adults in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/raphael-eppler-hattab/\" target=\"_blank\" rel=\"noopener noreferrer\">Raphael Eppler-Hattab</a>; <a href=\"https://orcid.org/0000-0001-5050-5638\" target=\"_blank\" rel=\"noopener noreferrer\">Yitschak Shnoor</a>; Ayelet Berg-Warman; Hyun-Jun Kim",

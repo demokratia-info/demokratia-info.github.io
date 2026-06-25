@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציג מודל שבו אי־שוויון משפיע על הכנסה לנפש דרך החלטות השקעה בחינוך, כאשר תוחלת החיים תלויה במידה רבה בהון האנושי של ההורים. מבחינה דמוקרטית, הוא מחבר בין בריאות, חינוך ושוויון הזדמנויות לבין יכולת של חברה לצאת ממלכודות עוני.",
   "summaryHe": "המחקר מתמקד במנגנון שבו ילדים במשפחות עניות צופים תוחלת חיים נמוכה יותר ולכן ההשקעה בחינוך נעשית פחות משתלמת, בעוד שילדים ממשפחות מבוססות נהנים מאופק חיים ומסלול השקעה טובים יותר. המודל יוצר מצבים יציבים מרובים התלויים בהתפלגות ההתחלתית של ההשכלה, ובמצב הנמוך נוצרת מלכודת עוני שבה ילדים עובדים כבלתי משכילים. המשמעות הדמוקרטית היא שהזכות הפורמלית לחינוך אינה מספיקה אם בריאות, חיים ארוכים וציפיות עתידיות מחולקים באופן לא שווה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amparo Castelló-Climent, Rafael Doménech",
   "paperTitle": "Human Capital Inequality, Life Expectancy and Economic Growth",
   "authorsHtml": "<a href=\"https://www.macroeconomiauv.es/amparo-castello-climent-1/\" target=\"_blank\" rel=\"noopener noreferrer\">Amparo Castelló-Climent</a>; <a href=\"https://www.uv.es/rdomenec/CV.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael Doménech</a>",

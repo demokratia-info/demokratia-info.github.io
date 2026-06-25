@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את ההגנות שמעניק המשפט ההומניטרי הבין-לאומי לנשים בעימותים מזוינים, ומיישם אותן על טענות להפרות זכויות נשים בהסלמה הישראלית-פלסטינית של 2023.",
   "summaryHe": "המאמר משתמש באמנות ז׳נבה, בפרוטוקולים הנוספים ובמקורות משניים כדי לדון בטענות לפגיעה בנשים פלסטיניות בעימות של 2023, כולל אלימות מינית, עקירה, פגיעה באזרחים ומניעת סיוע הומניטרי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Hafiz Abdul Rehman Saleem; Shahid Iqbal; Muzzammil Hussain; Muhammad Umair Khan; Toseef Ramzan",
   "paperTitle": "International Humanitarian Law and Women Right Violation in Israel-Palestine Armed Conflict of 2023",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1179-8196\" target=\"_blank\" rel=\"noopener noreferrer\">Hafiz Abdul Rehman Saleem</a>; <a href=\"https://orcid.org/0000-0001-5681-5995\" target=\"_blank\" rel=\"noopener noreferrer\">Shahid Iqbal</a>; <a href=\"https://orcid.org/0000-0003-3612-7620\" target=\"_blank\" rel=\"noopener noreferrer\">Muzzammil Hussain</a>; <a href=\"https://orcid.org/0009-0005-1284-5929\" target=\"_blank\" rel=\"noopener noreferrer\">Muhammad Umair Khan</a>; Toseef Ramzan",

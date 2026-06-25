@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מגדר, איום ותמיכה בהפרת זכויות אדם בסכסוך אסימטרי דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yossi David, Nimrod Rosler, Donald G. Ellis, Ifat Maoz",
   "paperTitle": "Gendering Human Rights: Threat and Gender Perceptions as Predictors of Attitudes towards Violating Human Rights in Asymmetric Conflict",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>, <a href=\"https://orcid.org/0000-0001-5316-9828\" target=\"_blank\" rel=\"noopener noreferrer\">Nimrod Rosler</a>, <a href=\"https://orcid.org/0000-0002-4791-5748\" target=\"_blank\" rel=\"noopener noreferrer\">Donald G. Ellis</a>, <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את מאבקו של מנחם בגין בחקיקת החירום בישראל בשנים 1948-1954 כמקרה של אי-ציות אזרחי שנועד להגן על עקרונות דמוקרטיים כמו הפרדת רשויות והגבלת כוח.",
   "summaryHe": "המאמר בוחן את התנגדותו של מנחם בגין לחקיקת החירום בראשית המדינה כמקרה היסטורי של אי-ציות אזרחי להגנת הדמוקרטיה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Maya Mark",
   "paperTitle": "Civil Disobedience in Defense of Democracy: Menachem Begin’s Struggle Against Emergency Laws in Israel, 1948–1954",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2416-5996\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Mark</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Udi Sommer",
   "paperTitle": "A Strategic Court and National Security: Comparative Lessons from the Israeli Case",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>",

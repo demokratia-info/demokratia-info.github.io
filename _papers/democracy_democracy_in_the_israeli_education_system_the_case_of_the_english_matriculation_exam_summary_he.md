@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חינוך אזרחי, זהות והפנמת ערכים דמוקרטיים בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rana Zaher",
   "paperTitle": "Democracy in the Israeli education system: the case of the English matriculation exam",
   "authorsHtml": "Rana Zaher",

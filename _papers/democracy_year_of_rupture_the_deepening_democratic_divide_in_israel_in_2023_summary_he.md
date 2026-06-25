@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית העמקת השבר הדמוקרטי בישראל בשנת 2023, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית העמקת השבר הדמוקרטי בישראל בשנת 2023 דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yuval Feinstein",
   "paperTitle": "Year of Rupture: The Deepening Democratic Divide in Israel in 2023",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6970-6317\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feinstein</a>",

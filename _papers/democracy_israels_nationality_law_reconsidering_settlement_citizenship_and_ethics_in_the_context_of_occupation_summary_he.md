@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eyal Chowers",
   "paperTitle": "Israel’s ‘Nationality Law’: Reconsidering Settlement, Citizenship and Ethics in the Context of Occupation",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/eyalc\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Chowers</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מדידה חישובית של קיטוב רגשי באמצעות הטון הרגשי של דיבור פרלמנטרי, ומיישם אותה על קורפוס רחב של דיוני הכנסת בעברית.",
   "summaryHe": "המאמר בוחן קיטוב רגשי בדיבור פרלמנטרי באמצעות מדדי ערכיות, עוררות ודומיננטיות. הוא מפתח משאבי VAD לעברית ומיישם אותם על קורפוס הכנסת, הכולל יותר מ-30 מיליון משפטים מדיוני מליאה וועדות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gili Goldin, Ella Rabinovich, Shuly Wintner",
   "paperTitle": "Unveiling Affective Polarization Trends in Parliamentary Proceedings",
   "authorsHtml": "Gili Goldin, Ella Rabinovich, <a href=\"https://cris.haifa.ac.il/en/persons/shuly-wintner/\" target=\"_blank\" rel=\"noopener noreferrer\">Shuly Wintner</a>",

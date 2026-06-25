@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מורי אזרחות בישראל נעים בין קבלת השיח ההגמוני של מדינת הלאום, התנגדות אליו והוראה טרנספורמטיבית בכיתה.",
   "summaryHe": "המאמר מנתח ראיונות עם שנים-עשר מורי אזרחות בירושלים וביישובים סמוכים, ומראה כיצד לחצים לאומיים, מדיניות הערכה ותמיכת בית הספר מעצבים את יכולתם ללמד אזרחות ביקורתית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Aline Muff, Zvi Bekerman",
   "paperTitle": "Agents of the nation-state or transformative intellectuals? Exploring the conflicting roles of civics teachers in Israel",
   "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Aline Muff</a>, <a href=\"https://orcid.org/0000-0002-3493-0770\" target=\"_blank\" rel=\"noopener noreferrer\">Zvi Bekerman</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מנתח את הרפורמה המשפטית לפני ואחרי 7 באוקטובר כצומת בין משבר מוסדי לבין מצב חירום ביטחוני.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מסביר כיצד משבר חוקתי ומשבר ביטחוני יכולים להעצים זה את זה, ולמה דווקא בזמן חירום חשוב לשמר בלמים, שקיפות ואחריות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יניב רוזנאי",
   "paperTitle": "The Judicial Overhaul in Israel Before and After October 7: The Amalgamation of Constitutional Crisis & Security Crisis",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",

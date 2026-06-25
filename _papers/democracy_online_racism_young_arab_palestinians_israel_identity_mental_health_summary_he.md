@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר בקרב 601 צעירים מראה כיצד זהות אתנית עשויה להגן, בעוד הגדרה לאומית ופוליטיקה ברשת קשורות לסיכון נפשי גבוה יותר.",
   "descriptionHe": "המאמר בוחן את הקשר בין חשיפה לגזענות מקוונת לבין רווחה ודיכאון בקרב צעירים ערבים־פלסטינים בישראל, ומראה כיצד זהות אתנית, הגדרה לאומית והשתתפות פוליטית ברשת משנות את עוצמת הפגיעה.",
   "summaryHe": "שירה פגורק־אשל, ר׳גדה אלנבילסי וחנין כרם־אליאס מנתחות שאלון של 601 אזרחים ערבים־פלסטינים בישראל בגילאי 18-27. לפי תקציר PubMed, חשיפה גבוהה יותר לגזענות מקוונת נקשרה לרווחה נמוכה יותר ולדיכאון גבוה יותר; זהות אתנית מגובשת הייתה קשורה להגנה מסוימת, בעוד הגדרה לאומית ערבית־פלסטינית חזקה והשתתפות פוליטית ברשת נקשרו לדיכאון או רווחה נמוכה יותר בתנאים מסוימים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shira Pagorek-Eshel, Raghda Alnabilsy, Haneen Karram-Elias",
   "paperTitle": "The psychological outcomes of online racism among young adult Arab-Palestinians in Israel: The moderating role of ethnic identity, national self-definition, and social media political participation.",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1380-2638\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Pagorek-Eshel</a>; <a href=\"https://orcid.org/0000-0002-5326-6051\" target=\"_blank\" rel=\"noopener noreferrer\">Raghda Alnabilsy</a>; <a href=\"https://orcid.org/0000-0001-5349-4137\" target=\"_blank\" rel=\"noopener noreferrer\">Haneen Karram-Elias</a>",

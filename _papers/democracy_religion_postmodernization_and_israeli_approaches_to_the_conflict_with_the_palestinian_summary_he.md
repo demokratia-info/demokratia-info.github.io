@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jonathan Rynhold",
   "paperTitle": "Religion, Postmodernization, and Israeli Approaches to the Conflict with the Palestinians",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-rynhold\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Rynhold</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד תפיסה של סיקור תקשורתי עוין משפיעה על אמון במוסדות התקשורת, על אמון בדמוקרטיה ועל נכונות לקבל החלטות דמוקרטיות.",
   "summaryHe": "המאמר של Yariv Tsfati ו-Jonathan Cohen בוחן את השלכות תופעת התקשורת העוינת בקרב מתיישבים יהודים ברצועת עזה לפני הצבעה פוליטית מרכזית. תפיסת סיקור עוין נקשרה לאמון נמוך יותר בתקשורת, ואמון בתקשורת נקשר לאמון בדמוקרטיה ולנכונות לקבל הכרעות דמוקרטיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yariv Tsfati, Jonathan Cohen",
   "paperTitle": "Democratic Consequences of Hostile Media Perceptions",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/yariv-tsfati/\" target=\"_blank\" rel=\"noopener noreferrer\">Yariv Tsfati</a>, <a href=\"https://cris.haifa.ac.il/en/persons/jonathan-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Cohen</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מודל צמיחה אנדוגנית שבו הגנה על זכויות קניין נוצרת גם על ידי המגזר הציבורי וגם על ידי המגזר הפרטי. מבחינה דמוקרטית, הוא מדגיש ששלטון החוק הכלכלי הוא תמהיל מוסדי: המדינה אינה יכולה לוותר על אחריות, אך גם מנגנונים פרטיים פועלים בתוך גבולות שהחוק קובע.",
   "summaryHe": "המחקר שואל מהו החלק המיטבי של מגזר ציבורי ומגזר פרטי בהגנה על זכויות קניין, כאשר ההגנה עצמה משפיעה על תמריצים, השקעה וצמיחה. משום שהמקור הוא מודל תאורטי, הסיכום אינו מציג ממצא אמפירי נקודתי אלא את ההיגיון המוסדי: הגנה על קניין דורשת גם אכיפה ציבורית אמינה וגם יכולת פרטית להגן על חוזים, נכסים והשקעות בלי להפוך את הכוח הפרטי לתחליף לשלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ali Hussein Samadi, Ali Hussein Ostadzad",
   "paperTitle": "Optimum share of public and private sectors in property rights protection: An augmented endogenous growth model",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8491-6192\" target=\"_blank\" rel=\"noopener noreferrer\">Ali Hussein Samadi</a>; <a href=\"https://orcid.org/0000-0002-2411-8340\" target=\"_blank\" rel=\"noopener noreferrer\">Ali Hussein Ostadzad</a>",

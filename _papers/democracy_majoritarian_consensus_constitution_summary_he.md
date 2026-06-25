@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד ישראל משלבת מוסדות של דמוקרטיית הסכמה עם אפשרות לרוב קואליציוני לשנות כללים חוקתיים במהירות, וכיצד המשבר סביב מערכת המשפט חשף את המתח הזה.",
   "summaryHe": "המאמר טוען שהמשבר החוקתי בישראל נובע מסתירה בין פוליטיקה קואליציונית יחסית לבין חוקה לא משוריינת, קיטוב גושי ובית משפט חזק שנעשה מוקד לעימות פוליטי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "יוחנן ד' מוסל, מתיו שוגרט",
   "paperTitle": "Majoritarian politics in a consensus democracy: how judicialization of politics helped lay bare the contradictions of Israel's constitution",
   "authorsHtml": "<a href=\"https://polisci.ucdavis.edu/people/johanan-mussel\" target=\"_blank\" rel=\"noopener noreferrer\">Johanan D. Mussel</a>; <a href=\"https://ps.ucdavis.edu/people/matthew-shugart\" target=\"_blank\" rel=\"noopener noreferrer\">Matthew Shugart</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם דמוקרטיה פנים-מפלגתית משפיעה על אמון הבוחרים במפלגות, באמצעות השוואה בין ישראל ובלגיה. הוא מבחין בין היקף הגוף הבוחר מועמדים לבין מידת הריכוזיות של תהליך הבחירה.",
   "summaryHe": "המאמר מצא שבוחרים הנוטים למפלגות עם גוף בוחר רחב יותר, כגון פריימריז או נציגים, מביעים אמון גבוה יותר במפלגה, בעוד שתהליכי בחירה מבוזרים יותר קשורים לאמון נמוך יותר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Shomer, Gert-Jan Put, Einat Gedalya-Lavy",
   "paperTitle": "Does intra-party democracy affect levels of trust in parties? The cases of Belgium and Israel",
   "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://soc.kuleuven.be/io/personeel/staf/00056161\" target=\"_blank\" rel=\"noopener noreferrer\">Gert-Jan Put</a>, <a href=\"https://orcid.org/0000-0001-7371-6921\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Gedalya-Lavy</a>",

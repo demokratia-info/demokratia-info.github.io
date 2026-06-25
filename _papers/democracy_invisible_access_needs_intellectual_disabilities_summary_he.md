@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מודל מושגי להבנת צרכי נגישות שאינם נראים לעין אצל אנשים עם מוגבלות שכלית, וממקם אותם בתוך שאלות של שוויון, כבוד והשתתפות אזרחית.",
   "summaryHe": "המאמר של Shira Yalon-Chamovitz מדגיש שנגישות אינה מסתכמת ברמפות, מעליות או התאמות פיזיות. עבור אנשים עם מוגבלות שכלית, חסמי הבנה, תקשורת, זמן, תיווך וציפיות חברתיות יכולים להיות בלתי־נראים אך מכריעים בפועל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shira Yalon-Chamovitz",
   "paperTitle": "Invisible Access Needs of People With Intellectual Disabilities: A Conceptual Model of Practice",
   "authorsHtml": "Shira Yalon-Chamovitz",

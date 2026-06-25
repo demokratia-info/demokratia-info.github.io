@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nurit Alfasi, Tovi Fenster",
   "paperTitle": "Between socio-spatial and urban justice: Rawls’ principles of justice in the 2011 Israeli Protest Movement",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0403-1491\" target=\"_blank\" rel=\"noopener noreferrer\">Nurit Alfasi</a>, Tovi Fenster",

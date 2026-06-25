@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המעבר של בג״ץ מדיני הכיבוש לשפת זכויות האדם דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amichai Cohen; Yuval Shany",
   "paperTitle": "The switch: The Israel High Court of Justice’s transition from occupation law to human rights law",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",

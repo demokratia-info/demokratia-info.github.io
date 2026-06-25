@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מבוגרים ערבים והמחאה נגד הרפורמה המשפטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מבוגרים ערבים והמחאה נגד הרפורמה המשפטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hanan AboJabel, Liat Ayalon",
   "paperTitle": "Why are Older Israeli Arabs not Part of the Protests Against the Judicial Reform? A Qualitative Study",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8236-717X\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan AboJabel</a>, <a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק ביחסי דת, מדינה ודמוקרטיה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hillel Frisch, Shmuel Sandler",
   "paperTitle": "Religion, State, and the International System in the Israeli–Palestinian Conflict",
   "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>, <a href=\"https://politics.biu.ac.il/node/585\" target=\"_blank\" rel=\"noopener noreferrer\">Shmuel Sandler</a>",

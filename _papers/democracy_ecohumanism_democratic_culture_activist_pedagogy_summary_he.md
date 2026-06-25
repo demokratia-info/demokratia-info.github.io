@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע פרדיגמה לחינוך ערכי שמחברת בין הומניזם, דמוקרטיה, צדק חברתי וקיימות אקולוגית. הוא מתאר שלושה עמודי תווך: אקו־הומניזם, חינוך לאישיות ולתרבות דמוקרטית, ופדגוגיה אקטיביסטית.",
   "summaryHe": "Aloni ו-Veugelers נשענים על האתגר של עתיד בר־קיימא ועל קריאה למחנכים להיענות למה שהידע דורש מהם. לפי תקציר OpenAlex, הם מאבחנים סיכונים סביבתיים, פוליטיים, חברתיים, בריאותיים ותרבותיים ומציעים חינוך שמפתח סוכנות אישית, אוריינות פוליטית וחוויות למידה פעילות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nimrod Aloni, Wiel Veugelers",
   "paperTitle": "Ecohumanism, democratic culture and activist pedagogy: Attending to what the known demands of us",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5577-9208\" target=\"_blank\" rel=\"noopener noreferrer\">Nimrod Aloni</a>, <a href=\"https://orcid.org/0000-0002-5287-0978\" target=\"_blank\" rel=\"noopener noreferrer\">Wiel Veugelers</a>",

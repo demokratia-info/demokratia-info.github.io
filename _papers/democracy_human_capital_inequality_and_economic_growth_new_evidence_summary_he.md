@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מדדים של אי־שוויון בהון אנושי ובוחן כיצד התפלגות ההשכלה קשורה לצמיחה ולהשקעה. התרומה הדמוקרטית שלו היא ההדגשה שלא רק כמה שנות לימוד יש בממוצע חשוב, אלא גם כיצד ההשכלה מתחלקת בין קבוצות.",
   "summaryHe": "המחקר בונה מדדים חדשים לאי־שוויון בהון אנושי על בסיס נתוני השכלה ומשווה מדינות לאורך זמן. החוקרים מחשבים מקדמי ג׳יני והתפלגות השכלה לפי חמישונים ל־108 מדינות במרווחי חמש שנים מ־1960 עד 2000, ומוצאים כי ברוב המדינות אי־השוויון בהון האנושי ירד. הם גם מראים שמדדי אי־שוויון בהון אנושי נותנים תוצאות יציבות יותר ממדדי אי־שוויון בהכנסה במשוואות צמיחה והשקעה, ולכן הם חשובים להבנת הקשר בין חינוך, שוויון ומוסדות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amparo Castelló, Rafael Doménech",
   "paperTitle": "Human Capital Inequality and Economic Growth: Some New Evidence",
   "authorsHtml": "<a href=\"https://www.macroeconomiauv.es/amparo-castello-climent-1/\" target=\"_blank\" rel=\"noopener noreferrer\">Amparo Castelló</a>; <a href=\"https://www.uv.es/rdomenec/CV.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael Doménech</a>",

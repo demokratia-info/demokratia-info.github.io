@@ -7,6 +7,7 @@
   "subtitleHe": "קבוצת מטפלים במוזיקה, חוקרים ומחנכים אזרחי ישראל בחנה כיצד עבודה משותפת מתמודדת עם טראומה, היררכיה וזהויות מפוצלות.",
   "descriptionHe": "המאמר מתאר מחקר השתתפותי של מטפלים במוזיקה פלסטינים־ערבים ויהודים בישראל על דיאלוג מקצועי ואתיקה בזמן סכסוך מתמשך.",
   "summaryHe": "Efrat Roginsky, Tamar Hadar, Nihal Midhat-Najami, Buran Saada, Rozan Khoury ו-Maimounah Hebi מתארים קבוצת עבודה משותפת של שישה מטפלים במוזיקה, חוקרים ומחנכים אזרחי ישראל. המחקר השתמש בקבוצת מיקוד של 90 דקות ובניתוח תמטי שהוביל לחמישה נושאים: גבולות מטושטשים, עיצוב על ידי מלחמה, זהויות מקוטעות, בדידות תרבותית ומוזיקה בטיפול בין קיטוב לזהות משותפת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Efrat Roginsky, Tamar Hadar, Nihal Midhat-Najami, Buran Saada, Rozan Khoury, Maimounah Hebi",
   "paperTitle": "Breathing war, dreaming connection: Dialogue as an ethical foundation for collaborative work of Palestinian and Jewish music therapists in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8895-7282\" target=\"_blank\" rel=\"noopener noreferrer\">Efrat Roginsky</a>, <a href=\"https://orcid.org/0000-0003-1765-0360\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hadar</a>, Nihal Midhat-Najami, Buran Saada, Rozan Khoury, Maimounah Hebi",

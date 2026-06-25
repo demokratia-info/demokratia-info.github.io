@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על שלמות דמוקרטית בעידן מניפולציה דיגיטלית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית שלמות דמוקרטית בעידן מניפולציה דיגיטלית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dalit Ken-Dror Feldman, Yifat Nahmias",
   "paperTitle": "From Bots to Ballots: Democratic Integrity in the Era of Digital Manipulation",
   "authorsHtml": "Dalit Ken-Dror Feldman; Yifat Nahmias",

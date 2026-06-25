@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעורבות התפוצה היהודית בדיונים חוקתיים בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעורבות התפוצה היהודית בדיונים חוקתיים בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shay Baruch Keinan",
   "paperTitle": "Diasporas and Deliberative Democracy: A case study of Jewish diaspora involvement in constitutional deliberations in Israel",
   "authorsHtml": "Shay Baruch Keinan",

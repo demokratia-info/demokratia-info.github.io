@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסכם מחקר רחב על הקשר בין זכויות קניין רוחני, חדשנות וצמיחה כלכלית. מבחינה דמוקרטית, הוא מציב את שאלת האיזון: איך מגינים על יוזמה וידע בלי להפוך כוח משפטי למחסום בפני השתתפות, תחרות ונגישות.",
   "summaryHe": "המאמר משלב סקירת ספרות ומטא־אנליזה, ומראה שלזכויות קניין רוחני יש בממוצע השפעה חיובית על חדשנות וצמיחה. ההשפעה על חדשנות חלשה יותר במדינות מתפתחות, והתוצאות תלויות מאוד במאפיינים מתודולוגיים של המחקרים. לכן התרומה הדמוקרטית היא בהדגשת הצורך במוסדות משפטיים שמגינים על יצירה אבל גם בודקים מי נהנה מההגנה ומי מודר ממנה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Pedro Cunha Neves, Oscar Afonso, Diana Silva, Elena Sochirca",
   "paperTitle": "The link between intellectual property rights, innovation, and growth: A meta-analysis",
   "authorsHtml": "Pedro Cunha Neves; <a href=\"https://orcid.org/0000-0002-9597-9850\" target=\"_blank\" rel=\"noopener noreferrer\">Oscar Afonso</a>; <a href=\"https://orcid.org/0000-0002-4001-2562\" target=\"_blank\" rel=\"noopener noreferrer\">Diana Silva</a>; <a href=\"https://orcid.org/0000-0002-6328-849X\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Sochirca</a>",

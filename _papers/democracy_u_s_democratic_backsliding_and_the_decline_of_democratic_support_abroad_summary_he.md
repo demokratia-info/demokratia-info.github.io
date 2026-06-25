@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק בחוסן דמוקרטי וכללי משחק פוליטיים, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amnon Cavari, Amichai Magen, Benjamin Yoel",
   "paperTitle": "U.S. Democratic Backsliding and the Decline of Democratic Support Abroad",
   "authorsHtml": "<a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>, <a href=\"https://fsi.stanford.edu/node/2222\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Magen</a>, Benjamin Yoel",

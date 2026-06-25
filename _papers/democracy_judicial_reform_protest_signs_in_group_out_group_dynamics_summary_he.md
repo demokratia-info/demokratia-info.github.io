@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח 437 שלטים מינואר עד אוגוסט 2023 מראה כיצד סימון ״אנחנו״ ו״הם״ בנה לכידות, חוסן ואתוס דמוקרטי־ליברלי.",
   "descriptionHe": "המאמר מנתח שלטי מחאה נגד הרפורמה המשפטית בישראל בשנת 2023, ומראה כיצד הם שימשו כלי אזרחי לחיזוק זהות קבוצתית, לכידות, חוסן ומחויבות לערכים דמוקרטיים־ליברליים.",
   "summaryHe": "שני פיצ׳ו־פרלורנצוס, דורית בר־ניר ומיכל מהט־שמיר מנתחות 437 שלטים שנאספו ממחאות נגד הרפורמה המשפטית בישראל בין ינואר לאוגוסט 2023. לפי תקציר המקור, השלטים השתמשו באזכורים ישירים או מרומזים של ״אנחנו״ ו״הם״ כדי לבנות זהות קבוצתית, להגדיר רצונות ורתיעות, לחזק חוסן דרך אתוס והיסטוריה, ולייצר לכידות של חברה אזרחית המחויבת לאידיאלים דמוקרטיים־ליברליים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shani Pitcho-Prelorentzos, Dorit Bar-Nir, Michal Mahat-Shamir",
   "paperTitle": "“In sign out”: An analysis of in/out-group dynamics as represented in Israeli judicial reform protest signs",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9044-5710\" target=\"_blank\" rel=\"noopener noreferrer\">Shani Pitcho-Prelorentzos</a>; <a href=\"https://orcid.org/0000-0003-3579-5731\" target=\"_blank\" rel=\"noopener noreferrer\">Dorit Bar-Nir</a>; <a href=\"https://orcid.org/0000-0002-3630-5573\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Mahat-Shamir</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק בהקשר בין שלטון החוק, מוסדות כלכליים וצמיחה, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Stephan Haggard, Lydia Tiede",
   "paperTitle": "The Rule of Law and Economic Growth: Where are We?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1571-2580\" target=\"_blank\" rel=\"noopener noreferrer\">Stephan Haggard</a>, <a href=\"https://orcid.org/0000-0003-0892-4649\" target=\"_blank\" rel=\"noopener noreferrer\">Lydia Tiede</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם 18 עוזבי השמה מדגישים הדרה חברתית, הקשר תרבותי וצורך בליווי מותאם.",
   "descriptionHe": "המאמר בוחן את הסיכונים והלחצים שחווים עוזבי השמה בחברה הערבית בישראל, ומראה כיצד מיעוט, מגדר, משפחה וסטיגמה מעצבים את המעבר לבגרות.",
   "summaryHe": "סמאח מחאמיד, חנין כרם-אליאס ויפעת סולימני-אידן מנתחות ראיונות חצי־מובנים עם 18 עוזבי השמה ערבים בישראל. לפי תקציר המקור, שלוש התמות המרכזיות הן מחזורי סיכון משפחתיים, ילדות תחת השמה, ואובדן ושייכות חסרה לאחר היציאה מן המסגרת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Samah Mahamid, Haneen Karram-Elias, Yafit Sulimani-Aidan",
   "paperTitle": "“They Call Me the Girl from Residential Care”: Risks and Stressors of Care Leavers in Arab Society in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0006-7984-9403\" target=\"_blank\" rel=\"noopener noreferrer\">Samah Mahamid</a>; <a href=\"https://orcid.org/0000-0001-5349-4137\" target=\"_blank\" rel=\"noopener noreferrer\">Haneen Karram-Elias</a>; <a href=\"https://orcid.org/0000-0002-1869-7120\" target=\"_blank\" rel=\"noopener noreferrer\">Yafit Sulimani-Aidan</a>",

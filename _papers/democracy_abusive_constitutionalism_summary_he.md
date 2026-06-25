@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר הבוחן אם הרפורמה המשפטית בישראל היא שינוי חוקתי לגיטימי או שימוש פוגעני בכוח חוקתי.",
   "summaryHe": "המאמר מציע לבחון שינויי כוח שיפוטי לפי השפעתם המצטברת על ליבת הדמוקרטיה: בחירות חופשיות, זכויות פוליטיות ואיזונים מוסדיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "יניב רוזנאי, רוזלינד דיקסון, דייוויד א' לנדאו",
   "paperTitle": "Judicial Reform or Abusive Constitutionalism in Israel",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://www.unsw.edu.au/staff/rosalind-dixon\" target=\"_blank\" rel=\"noopener noreferrer\">Rosalind Dixon</a>; <a href=\"https://law.fsu.edu/faculty-staff/david-landau\" target=\"_blank\" rel=\"noopener noreferrer\">David E Landau</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Deborah Court",
   "paperTitle": "Education in a Troubled Democracy: Voices from Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6332-9637\" target=\"_blank\" rel=\"noopener noreferrer\">Deborah Court</a>",

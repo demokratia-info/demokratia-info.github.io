@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daphne Barak-Erez; Aeyal Gross",
   "paperTitle": "Social Citizenship: The Neglected Aspect of Israeli Constitutional Law",
   "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak-Erez</a>, <a href=\"https://orcid.org/0000-0002-8642-882X\" target=\"_blank\" rel=\"noopener noreferrer\">Aeyal Gross</a>",

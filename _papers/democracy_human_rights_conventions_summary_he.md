@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "למה אמנות זכויות אדם צריכות לשמש אמת מידה גם בדין הישראלי. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "summaryHe": "למה אמנות זכויות אדם צריכות לשמש אמת מידה גם בדין הישראלי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ברק מדינה",
   "paperTitle": "Domestic Human Rights Adjudication in the Shadow of International Law: The Status of Human Rights Conventions in Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>",

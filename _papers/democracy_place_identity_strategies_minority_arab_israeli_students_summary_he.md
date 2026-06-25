@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר אתנוגרפי ופנומנולוגי על סטודנטים ערבים־ישראלים בקמפוס המזוהה עם הרוב היהודי, ועל אסטרטגיות זהות מקום בתנאי סכסוך אתנו־פוליטי מתמשך.",
   "summaryHe": "המאמר בוחן כיצד סטודנטים ערבים־ישראלים בונים זהות מקום בקמפוס אוניברסיטאי המזוהה עם הרוב ההגמוני בישראל. הוא מזהה ארבע אסטרטגיות: גלויה, מושאלת, נמנעת ואידיאולוגית, ומראה שהן משתנות לפי זמן, מקום, מגדר, שורשיות ועמדה אקטיבית או פסיבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Miriam Billig",
   "paperTitle": "Place Identity Strategies at University Constructed by Minority Arab-Israeli Student Groups",
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/miriam-billig-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Miriam Billig</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם מבקשי מקלט ואנשי מקצוע בתל אביב מצביעים על שייכות חלקית בתוך מודל של הכלה והדרה בו־זמנית.",
   "descriptionHe": "המאמר בוחן תפיסות של שילוב, הכלה והדרה בקרב מבקשי מקלט אריתראים ואנשי מקצוע ישראלים המסייעים להם.",
   "summaryHe": "Lilach Lev Ari ו-Arie Herscovici מנתחים ראיונות חצי־מובנים עם 10 מבקשי מקלט אריתראים ו-11 אנשי מקצוע מעמותות ומעיריית תל אביב. הממצאים מצביעים על תחושת בית מסוימת שנוצרת בזכות קשרים עם אנשי מקצוע, חברים ומעסיקים ישראלים, אך גם על רשתות קהילתיות חלשות, אובדן מנהיגות, מדיניות של הדרה דיפרנציאלית וצורך במעמד משפטי פורמלי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lilach Lev Ari, Arie Herscovici",
   "paperTitle": "Between social integration, incorporation and exclusion: Perceptions of Eritrean forced migrants and Israeli professionals",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4382-3758\" target=\"_blank\" rel=\"noopener noreferrer\">Lilach Lev Ari</a>, <a href=\"https://orcid.org/0000-0001-8099-1657\" target=\"_blank\" rel=\"noopener noreferrer\">Arie Herscovici</a>",

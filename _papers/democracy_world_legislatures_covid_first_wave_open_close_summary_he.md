@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר השוואתי על פעילות בתי מחוקקים ב־159 מדינות בגל הראשון של Covid-19, ועל הקשר בין סיכון בריאותי, משטר פוליטי, טכנולוגיה וסגירת פרלמנטים.",
   "summaryHe": "המאמר מנתח מסד נתונים חדש על פעילות בתי מחוקקים ב־159 מדינות בין 23 במרץ ל־6 באפריל 2020. הוא מצא שחומרת התחלואה לא הסבירה את הגבלת הפרלמנטים, ושבתי מחוקקים במדינות חופשיות חלקית היו פגיעים במיוחד לסגירה או לצמצום פעילות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Israel Waismel-Manor, Ittai Bar-Siman-Tov, Olivier Rozenberg, Asaf Levanon, Cyril Benoît, Gal Ifergane",
   "paperTitle": "Should I Stay (Open) or Should I Close? World Legislatures during the First Wave of Covid-19",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/israel-waismel-manor/\" target=\"_blank\" rel=\"noopener noreferrer\">Israel Waismel-Manor</a>, <a href=\"https://www.ittai.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Ittai Bar-Siman-Tov</a>, <a href=\"https://orcid.org/0000-0003-2468-7639\" target=\"_blank\" rel=\"noopener noreferrer\">Olivier Rozenberg</a>, <a href=\"https://cris.haifa.ac.il/en/persons/asaf-levanon/\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Levanon</a>, <a href=\"https://orcid.org/0000-0001-9247-4702\" target=\"_blank\" rel=\"noopener noreferrer\">Cyril Benoît</a>, <a href=\"https://orcid.org/0000-0001-7450-3776\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Ifergane</a>",

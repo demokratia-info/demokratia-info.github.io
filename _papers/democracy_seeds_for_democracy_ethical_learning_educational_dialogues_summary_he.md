@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר מקרה על למידה אתית מצביע על הפער בין דיבור על ערכים לבין התנהגות דיאלוגית של הקשבה, הכלה וסובלנות.",
   "descriptionHe": "המאמר מציג מסגרת לניתוח למידה אתית בדיאלוגים חינוכיים ומראה כיצד עיצוב השיחה משפיע על תיאום בין חשיבה מוסרית לבין התנהגות דיאלוגית.",
   "summaryHe": "Baruch B. Schwarz, Michael J. Baker ו-Noa Brandel מתארים מחקר מקרה בתוך פרויקט חינוכי שמקדם אמפתיה, הכלה וסובלנות. באמצעות מסגרת DoE/EoD, המחקר מראה שלמידה אתית יכולה להתחזק כאשר הדיון בנוי סביב דילמה, אך להיחלש כאשר השיחה מושגית מדי והמורה דומיננטי מדי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Baruch B. Schwarz, Michael J. Baker, Noa Brandel",
   "paperTitle": "Seeds for democracy: understanding European values in educational dialogues",
   "authorsHtml": "Baruch B. Schwarz; Michael J. Baker; Noa Brandel",

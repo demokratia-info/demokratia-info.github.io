@@ -8,6 +8,7 @@
   "subtitleHe": "סמי סמוחה מציג את ישראל כמקרה של דמוקרטיה אתנית: מדינה שמקיימת בחירות וזכויות מסוימות, אך מזוהה עם קבוצה אתנית לאומית אחת.",
   "descriptionHe": "מאמרו של סמי סמוחה ב-Nations and Nationalism מציג את מודל הדמוקרטיה האתנית ומיישם אותו על ישראל כמדינה יהודית ודמוקרטית שבה הרוב היהודי מחזיק את המדינה ככלי לאומי.",
   "summaryHe": "המאמר מציע מודל לניתוח ישראל כדמוקרטיה אתנית, שבה מתקיימות זכויות מסוימות לצד עליונות מבנית של הלאום היהודי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "סמי סמוחה",
   "paperTitle": "The model of ethnic democracy: Israel as a Jewish and democratic state",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/sammy-smooha/\" target=\"_blank\" rel=\"noopener noreferrer\">Sammy Smooha</a>",

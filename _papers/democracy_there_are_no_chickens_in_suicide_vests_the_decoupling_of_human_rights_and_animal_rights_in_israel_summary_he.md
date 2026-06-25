@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Erica Weiss",
   "paperTitle": "‘There are no chickens in suicide vests’: the decoupling of human rights and animal rights in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7047-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Erica Weiss</a>",

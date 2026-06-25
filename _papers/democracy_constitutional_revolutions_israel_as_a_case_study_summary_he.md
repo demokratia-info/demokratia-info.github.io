@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ישראל כמקרה מבחן למהפכות חוקתיות, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ישראל כמקרה מבחן למהפכות חוקתיות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gideon Sapir",
   "paperTitle": "Constitutional revolutions: Israel as a case-study",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/gideon-sapir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gideon Sapir</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בשמירה על דמוקרטיה בזמן מגפת הקורונה דרך חוויית הבחירות בישראל. התמצית מדגישה את הקשר בין בחירות, ייצוג פוליטי, אחריותיות, אמון ציבורי והוגנות כללי המשחק גם בתקופת משבר בריאותי.",
   "summaryHe": "המאמר מציג את חוויית הבחירות בישראל בזמן מגפה כמקרה של פעולה מוסדית תחת לחץ. הוא מדגיש שבחירות דמוקרטיות דורשות לא רק עצם הצבעה אלא גם אמון, כללים הוגנים והגנה על תנאי השתתפות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arnon Afek, Eyal Leshem, Ehud Kaliner, Dov Fast, Siegal Sadetzki",
   "paperTitle": "Upholding democracy in a global pandemic: the Israeli elections experience",
   "authorsHtml": "Arnon Afek; Eyal Leshem; Ehud Kaliner; Dov Fast; Siegal Sadetzki",

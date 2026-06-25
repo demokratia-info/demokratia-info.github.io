@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על שיח אתי לאחר מלחמה והצדקת מלחמה, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית שיח אתי לאחר מלחמה והצדקת מלחמה דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Akiva Bigman, Udi Lebel",
   "paperTitle": "‘Dying Was Never a Preference’ – Post-War Ethical Discourse (PWED): Casualty Aversion and the War Legitimizing Projects",
   "authorsHtml": "Akiva Bigman, <a href=\"https://orcid.org/0000-0002-0964-019X\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Lebel</a>",

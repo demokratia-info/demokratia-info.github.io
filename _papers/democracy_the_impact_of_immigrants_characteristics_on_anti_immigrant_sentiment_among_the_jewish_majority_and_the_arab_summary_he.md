@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moshe Semyonov, Rebeca Raijman, Anastasia Gorodzeisky, Thomas Hinz",
   "paperTitle": "The impact of immigrants’ characteristics on anti-immigrant sentiment among the Jewish majority and the Arab minority in Israel",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>, <a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>, <a href=\"https://orcid.org/0000-0002-9244-8501\" target=\"_blank\" rel=\"noopener noreferrer\">Anastasia Gorodzeisky</a>, <a href=\"https://orcid.org/0000-0002-8940-3003\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas Hinz</a>",

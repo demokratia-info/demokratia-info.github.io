@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nadiv Mordechay",
   "paperTitle": "The Socio-Political Origins of the Israeli Second Constitutional Revolution",
   "authorsHtml": "Nadiv Mordechay",

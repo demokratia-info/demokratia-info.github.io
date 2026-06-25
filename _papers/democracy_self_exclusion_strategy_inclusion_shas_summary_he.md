@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של David Lehmann ו-Batia Siebzehner מנתח את ש״ס כמקרה שבו הדגשת ייחוד דתי וקהילתי פועלת לצד השתלבות בפוליטיקה הישראלית. הוא מציע להבין הכלה לא רק כהיטמעות אלא גם כיכולת לייצג קבוצה מתוך גבולות זהות ברורים.",
   "summaryHe": "המאמר מראה כיצד קבוצה שמדגישה נבדלות יכולה להשתמש בנבדלות עצמה כדי להשיג קול פוליטי, משאבים והכרה. מבחינה דמוקרטית, המקרה מאתגר תפיסה של אזרחות אחידה ומעלה שאלה כיצד מערכת פוליטית מכלילה קהילות שאינן מבקשות להיטמע במלואן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "David Lehmann, Batia Siebzehner",
   "paperTitle": "Self-exclusion as a strategy of inclusion: the case of Shas",
   "authorsHtml": "<a href=\"https://www.davidlehmann.org/\" target=\"_blank\" rel=\"noopener noreferrer\">David Lehmann</a>; <a href=\"https://truman.huji.ac.il/people/batia-siebzehner\" target=\"_blank\" rel=\"noopener noreferrer\">Batia Siebzehner</a>",

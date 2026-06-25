@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן שלושה מקרים הקשורים למדיניות העמימות הגרעינית בישראל ולפעילות מלמ״ב, ומציג אותם כמבחן למתח בין ביטחון, סנקציות לא־משפטיות ושלטון החוק. הוא חשוב לדיון דמוקרטי מפני שמנגנוני ביטחון קטנים יחסית יכולים להשפיע עמוקות על חירויות אזרחיות.",
   "summaryHe": "Kahana ו־Sharfman מתארים כיצד מלמ״ב, הגוף המופקד על הגנת מדיניות העמימות הגרעינית, פעל במקרים מסוימים מעבר להליך הפלילי הרגיל. דרך הדיון בחקירות, הטרדות וסנקציות לא־משפטיות, המאמר מציב את שאלת גבולות הביטחון מול דמוקרטיה ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ephraim Kahana, Daphna Sharfman",
   "paperTitle": "Misuse of power in Israeli intelligence",
   "authorsHtml": "Ephraim Kahana; Daphna Sharfman",

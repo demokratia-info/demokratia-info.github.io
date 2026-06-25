@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד נורמות של אזרחות טובה ושימוש במדיה דיגיטלית משפיעים על השתתפות פוליטית בקרב אזרחי ישראל יהודים וערבים.",
   "summaryHe": "המחקר מבוסס על סקר טלפוני דו-גלי שנערך בישראל בשנים 2018-2019. הוא מצא שנורמות אזרחות ושימוש פעיל במדיה דיגיטלית בגל הראשון מנבאים השתתפות פוליטית לא-אלקטורלית בגל השני בקרב יהודים וערבים, אך בהצבעה הגורם המובהק היחיד הוא זהות יהודית או ערבית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Jennifer Oser",
   "paperTitle": "How Citizenship Norms and Digital Media Use Affect Political Participation: A Two-Wave Panel Analysis",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1531-4606\" target=\"_blank\" rel=\"noopener noreferrer\">Jennifer Oser</a>",

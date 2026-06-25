@@ -8,6 +8,7 @@
   "subtitleHe": "שמיר מציגה את הבחירות כחלון להבנת ייצוג, מפלגות, סדר יום ציבורי והשתנות הדמוקרטיה בישראל.",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מיכל שמיר",
   "paperTitle": "Introduction: The 2013 Elections and Israeli Democracy",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>",

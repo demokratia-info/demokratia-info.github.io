@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר פנומנולוגי עם 40 נשים נשואות מציג החלטות רבייה כתגובה לבריאות, זוגיות, כלכלה, לימודים ונורמות פטריארכליות.",
   "descriptionHe": "המאמר בוחן כיצד נשים מוסלמיות ערביות בישראל מקבלות החלטות על הפלה יזומה בתוך מגבלות דתיות, משפחתיות ופוליטיות, ומציג את הבחירה כהצהרה של אוטונומיה גופנית וזכויות נשים.",
   "summaryHe": "נוהא איברהים, דפנה בירנבוים־כרמלי ומעיין אגמון מנתחות מחקר פנומנולוגי איכותני שנערך בשנים 2021-2024 עם 40 נשים מוסלמיות ערביות נשואות בישראל שעברו הפסקת היריון בחמש השנים שקדמו למחקר. לפי תקציר המקור, ההחלטות נבעו מבריאות, אי־יציבות זוגית, מצב כלכלי, לימודים ומומים עובריים, ושימשו דרך להתנגד לאי־שוויון מגדרי ולנורמות מסורתיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Noha Ibrahem, Daphna Birenbaum-Carmeli, Maayan Agmon",
   "paperTitle": "Induced Abortion as a Declaration of Bodily Autonomy of Arab Muslim Women in Israel",
   "authorsHtml": "Noha Ibrahem; Daphna Birenbaum-Carmeli; Maayan Agmon",

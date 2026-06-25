@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח שבועוני ילדים בישראל בעשור הראשון למדינה כזירה לעיצוב תודעה משפטית. דרך מושג הגבורה, הוא בוחן כיצד עיתוני ילדים לימדו על חוק, ציות, טובת הכלל וחריגה מן הכללים בזמן שבו החברה הישראלית גיבשה את גבולות שלטון החוק.",
   "summaryHe": "Talia Diskin משתמשת בשבועוני ילדים ישראליים של שנות החמישים כמקור לחקר תודעה משפטית. המאמר מראה שהפרסומים הדגישו מחויבות לשלטון החוק ולדמויות שומרות חוק, אך גם הציגו גיבורים וסיפורים שסיבכו את הגבול בין ציות, גבורה וחריגה מן הסדר המשפטי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Talia Diskin",
   "paperTitle": "Setting Boundaries to the Rule of Law in Israeli Children’s Weeklies of the 1950s: A Test Case for the Concept of Heroism in Socio-Legal Discourse",
   "authorsHtml": "Talia Diskin",

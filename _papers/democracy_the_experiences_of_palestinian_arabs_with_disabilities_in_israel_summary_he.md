@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר בוחן חוויות יומיומיות של אזרחים ערבים פלסטינים עם מוגבלות בישראל, ומראה כיצד נגישות לחינוך, תעסוקה ושירותים מושפעת מהצטלבות בין מיעוט לאומי לבין מוגבלות.",
   "descriptionHe": "Hira Amin, Leena Badran, Ayelet Gur ו-Michael Ashley Stein חוקרים את חוויותיהם של אזרחים ערבים פלסטינים עם מוגבלות בישראל. לפי התקציר, המרואיינים מתמודדים עם קשיי גישה לשירותים, מתקנים והזדמנויות, בשל אפליה מוסדית ומבנית שמעצבת אותם גם כפלסטינים וגם כאנשים עם מוגבלות.",
   "summaryHe": "המאמר מבוסס על ראיונות עומק חצי-מובנים עם גברים ונשים ערבים בעלי מוגבלויות שונות. תרומתו לשיח הדמוקרטי היא בהצגת זכויות מוגבלות, שוויון מיעוטים ונגישות ציבורית כזירות מצטלבות, שבהן אזרחות פורמלית אינה מספיקה ללא התאמה מוסדית ומרחבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hira Amin, Leena Badran, Ayelet Gur, Michael Ashley Stein",
   "paperTitle": "The experiences of Palestinian Arabs with disabilities in Israel",
   "authorsHtml": "<a href=\"https://www.hbku.edu.qa/en/staff/hira-amin\" target=\"_blank\" rel=\"noopener noreferrer\">Hira Amin</a>, <a href=\"https://orcid.org/0000-0002-6585-6008\" target=\"_blank\" rel=\"noopener noreferrer\">Leena Badran</a>, <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>, <a href=\"https://orcid.org/0000-0001-9564-7461\" target=\"_blank\" rel=\"noopener noreferrer\">Michael Ashley Stein</a>",

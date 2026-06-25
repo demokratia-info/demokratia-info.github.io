@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית דפוסי השתתפות דיגיטלית של נשים פלסטיניות במזרח ירושלים דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maya de Vries, Maya Majlaton",
   "paperTitle": "The Voice of Silence: Patterns of Digital Participation Among Palestinian Women in East Jerusalem",
   "authorsHtml": "Maya de Vries; Maya Majlaton",

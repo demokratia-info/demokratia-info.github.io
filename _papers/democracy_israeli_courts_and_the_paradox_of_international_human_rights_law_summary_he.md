@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית היחס בין בתי המשפט בישראל לבין משפט זכויות האדם הבין־לאומי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Natalie R Davidson; Tamar Hostovsky Brandes",
   "paperTitle": "Israeli Courts and the Paradox of International Human Rights Law",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0698-5843\" target=\"_blank\" rel=\"noopener noreferrer\">Natalie R Davidson</a>; <a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

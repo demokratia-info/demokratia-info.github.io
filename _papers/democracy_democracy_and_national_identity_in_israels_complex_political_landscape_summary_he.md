@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין דת, דמוקרטיה וזהות לאומית בפוליטיקה הישראלית, ומתמקד במתח בין זהותה היהודית של המדינה לבין הכלה דמוקרטית של קבוצות דתיות, חילוניות ולא-יהודיות.",
   "summaryHe": "המאמר טוען שהפוליטיקה הישראלית מעוצבת במידה רבה על ידי מפלגות דתיות, הסדרי סטטוס-קוו והיעדר חוקה פורמלית. הוא מדגיש את השפעת המתח הדתי-חילוני על חינוך, דיני משפחה, נישואים, שירות צבאי, מימון חינוך דתי וזכויות מיעוטים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Democracy and National Identity in Israel’s Complex Political Landscape",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע את מדד הכסף עתיר החוזים כדרך לבחון עד כמה אזרחים ועסקים סומכים על אכיפת חוזים ועל הגנת זכויות קניין. הוא מחבר בין איכות מוסדית, השקעה, פריון וצמיחה כלכלית.",
   "summaryHe": "המאמר מפתח את רעיון <strong>הכסף עתיר החוזים</strong>: מדד להתנהגות פיננסית המשקפת אמון באכיפת חוזים ובהגנת קניין. הניתוח קושר ערכי CIM גבוהים יותר להשקעה, להון, להכנסה לנפש, לפריון ולצמיחה, ובוחן גם הסברים חלופיים כמו אינפלציה, חיסכון ופיתוח פיננסי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Christopher Clague, Philip Keefer, Stephen Knack, Mancur Olson",
   "paperTitle": "Contract-Intensive Money: Contract Enforcement, Property Rights, and Economic Performance",
   "authorsHtml": "<a href=\"https://www.econ.umd.edu/facultyprofile/Clague/Christopher\" target=\"_blank\" rel=\"noopener noreferrer\">Christopher Clague</a>; <a href=\"https://orcid.org/0000-0002-6439-3814\" target=\"_blank\" rel=\"noopener noreferrer\">Philip Keefer</a>; Stephen Knack; Mancur Olson",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "למה חשוב לזהות צעדים מוקדמים שמחלישים מוסדות דמוקרטיים לפני שהנזק מצטבר. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "summaryHe": "למה חשוב לזהות צעדים מוקדמים שמחלישים מוסדות דמוקרטיים לפני שהנזק מצטבר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס, יניב רוזנאי",
   "paperTitle": "When the First Brick falls of the Fortress of Democracy: Dealing with the First Slice of the ‘Salami Tactic’ for Eroding Democracy",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>, <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",

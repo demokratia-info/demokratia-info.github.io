@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Jacob Shamir ו-Khalil Shikaki מציג מחקר דעת קהל ישראלי־פלסטיני שנערך בעקבות פסגת קמפ דייוויד של Arafat ו-Barak. הוא בוחן כיצד ציפיות לשלום ודמוקרטיה קשורות לתמיכה בצעדי פיוס ובפשרה פוליטית.",
   "summaryHe": "המחקר נשען על מדגמים מייצגים של 525 ישראלים ו-1,259 פלסטינים בגדה המערבית, ברצועת עזה ובמזרח ירושלים. הממצא המרכזי הוא שציפיות לעתיד של שלום ודמוקרטיה מסבירות עמדות פיוס ופשרה מעבר למאפיינים דמוגרפיים ולעמדות פוליטיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jacob Shamir, Khalil Shikaki",
   "paperTitle": "Determinants of Reconciliation and Compromise Among Israelis and Palestinians",
   "authorsHtml": "Jacob Shamir; Khalil Shikaki",

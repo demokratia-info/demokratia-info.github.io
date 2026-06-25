@@ -8,6 +8,7 @@
   "subtitleHe": "תמר הוסטובסקי ברנדס מראה מדוע דווקא בעידן פופוליסטי, הפניה למשפט בין-לאומי יכולה לחזק זכויות אדם, פלורליזם משפטי ושיח דמוקרטי.",
   "descriptionHe": "מאמרה של תמר הוסטובסקי ברנדס בוחן כיצד עליית הפופוליזם משפיעה על נכונות בתי משפט מקומיים להשתמש במשפט בין-לאומי, ומדוע ויתור על מקור משפטי זה מחליש זכויות ופלורליזם.",
   "summaryHe": "המאמר מסביר מדוע משפט בין-לאומי בבתי משפט מקומיים אינו עניין טכני אלא כלי דמוקרטי נגד הסתגרות פופוליסטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס",
   "paperTitle": "International law in domestic courts in an era of populism",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

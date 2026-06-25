@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר איכותני על הקשר בין מבנה חברתי, משפחה ומדיניות נגישות להשכלה.",
   "descriptionHe": "המאמר בוחן את החסמים שמונעים מצעירות ערביות־בדואיות בישראל להשתלב בהשכלה על־תיכונית, ואת הצורך בהתערבות מוקדמת ומתמשכת.",
   "summaryHe": "המחקר, שהתבסס על קבוצות עם 11 צעירות בדואיות בנות 20-22, מצא חסמים מבניים וחסמים מגדריים־משפחתיים שמגבילים כניסה להשכלה על־תיכונית ומחייבים תמיכה החל מבית הספר היסודי ועד ההשתלבות בפועל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tehila Refaeli; Raghda Alnabilsy; Agat Sold",
   "paperTitle": "Barriers to Post-Secondary Education among Young Arab-Bedouin Women in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6605-742X\" target=\"_blank\" rel=\"noopener noreferrer\">Tehila Refaeli</a>; <a href=\"https://orcid.org/0000-0002-5326-6051\" target=\"_blank\" rel=\"noopener noreferrer\">Raghda Alnabilsy</a>; <a href=\"https://orcid.org/0000-0002-4319-9182\" target=\"_blank\" rel=\"noopener noreferrer\">Agat Sold</a>",

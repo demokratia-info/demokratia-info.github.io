@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חוק השבות ויצירת סדר משפטי אחד בפלסטין, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חוק השבות ויצירת סדר משפטי אחד בפלסטין דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hassan Jabareen",
   "paperTitle": "How the Law of Return Creates One Legal Order in Palestine",
   "authorsHtml": "<a href=\"https://www.qatar.georgetown.edu/hassan-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Hassan Jabareen</a>",

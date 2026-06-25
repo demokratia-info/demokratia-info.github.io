@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה פוליטית בין שתי דמוקרטיות שהתמודדו עם משבר בריאותי ומשבר קואליציוני בעת ובעונה אחת.",
   "descriptionHe": "המאמר משווה בין משברי ממשלה באיטליה ובישראל בזמן מגפת הקורונה, ובוחן כיצד מאפיינים מבניים של קואליציות וזעזוע חיצוני חריג השפיעו על יציבות ממשלתית. הוא חשוב להבנת דמוקרטיה משום שהוא קושר בין ניהול משבר, קואליציות מפוצלות ואחריות פוליטית בזמן חירום.",
   "summaryHe": "המאמר בוחן את משברי הממשלה באיטליה ובישראל בתקופת הקורונה באמצעות שילוב בין גישת מחזור החיים של קואליציות לבין גישת אירועים קריטיים ליציבות ממשלתית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Andrea Capati, Marco Improta, Tal Lento",
   "paperTitle": "Ruling in turbulent times: government crises in Italy and Israel during the COVID-19 pandemic",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2486-567X\" target=\"_blank\" rel=\"noopener noreferrer\">Andrea Capati</a>; <a href=\"https://orcid.org/0000-0003-3830-7887\" target=\"_blank\" rel=\"noopener noreferrer\">Marco Improta</a>; <a href=\"https://orcid.org/0000-0002-1139-8582\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Lento</a>",

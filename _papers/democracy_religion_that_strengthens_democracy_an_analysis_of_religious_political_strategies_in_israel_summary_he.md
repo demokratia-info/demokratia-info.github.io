@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מפלגות דתיות בישראל יכולות להשתמש באותו סמל דתי־לאומי בדרכים פוליטיות שונות, וכיצד ההבדלים האלה משפיעים על יכולתן להשתלב במשחק דמוקרטי ליברלי.",
   "summaryHe": "המאמר משווה בין פרשנויות של הרב עובדיה יוסף ושל הרב שלמה גורן לסמל \"ארץ ישראל\" בהקשר של נסיגה משטחים שנכבשו ב־1967. הוא טוען שההבדל המרכזי אינו מידת הדתיות, אלא אופן השימוש בדוקטרינה דתית: מופשט ונוקשה יותר או קונקרטי וגמיש יותר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ezra Kopelowitz, Matthew Diamond",
   "paperTitle": "Religion that strengthens democracy: An analysis of religious political strategies in Israel",
   "authorsHtml": "<a href=\"https://ekopelowitz.wixsite.com/researchsuccess/about-us\" target=\"_blank\" rel=\"noopener noreferrer\">Ezra Kopelowitz</a>, Matthew Diamond",

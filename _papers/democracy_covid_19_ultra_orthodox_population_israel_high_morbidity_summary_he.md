@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על גורמי התחלואה הגבוהה בקורונה בקרב החברה החרדית בישראל, ועל הקשר בין דת, מבנה קהילתי, אמון ושירותי בריאות מותאמים תרבותית.",
   "summaryHe": "המאמר מתבסס על ראיונות עומק, תכתובת דוא״ל ורשומות מקוונות של 25 חרדים שנדבקו בקורונה או באו במגע עם חולה מאומת. הוא מזהה גורמים מבניים, דתיים וחברתיים־אידיאולוגיים לתחלואה הגבוהה, ומדגיש את הצורך בשיתוף פעולה בין רשויות המדינה לרשויות דתיות ובפתרונות בריאות מותאמים תרבותית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sara Zalcberg; Sima Zalcberg-Block",
   "paperTitle": "COVID-19 Amongst the Ultra-Orthodox Population in Israel: An Inside Look into the Causes of the High Morbidity Rates",
   "authorsHtml": "<a href=\"https://en.sw.huji.ac.il/people/sara-zalcberg\" target=\"_blank\" rel=\"noopener noreferrer\">Sara Zalcberg</a>, <a href=\"https://orcid.org/0000-0001-6551-1096\" target=\"_blank\" rel=\"noopener noreferrer\">Sima Zalcberg-Block</a>",

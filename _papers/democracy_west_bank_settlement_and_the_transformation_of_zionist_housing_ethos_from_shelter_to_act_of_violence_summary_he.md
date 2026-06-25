@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את שינוי אתוס הדיור הציוני ממקלט אזרחי לפרויקט שמייצר שליטה ואלימות מרחבית בגדה המערבית, ואת הקשר בין התנחלויות, שוק דיור ניאו-ליברלי ומחאת הדיור בישראל.",
   "summaryHe": "המאמר מנתח כיצד פרויקט ההתנחלויות שינה את משמעות הדיור בישראל: מבית כמקלט וכבסיס לאזרחות, לבית כאמצעי של כיבוש אזרחי ושל מאבק פוליטי על מרחב.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Allweil",
   "paperTitle": "West Bank Settlement and the Transformation of Zionist Housing Ethos from Shelter to Act of Violence",
   "authorsHtml": "<a href=\"https://architecture.technion.ac.il/people/yael-allweil/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Allweil</a>",

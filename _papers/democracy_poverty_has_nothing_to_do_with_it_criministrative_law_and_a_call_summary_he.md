@@ -7,6 +7,7 @@
   "subtitleHe": "אתנוגרפיה של הליכי הגנת ילדים בישראל מציעה להכניס מודעות לעוני אל שפת המשפט והרווחה.",
   "descriptionHe": "המאמר מנתח הליכים בבתי משפט לנוער בישראל ומראה כיצד מחסור חומרי מופיע בדוחות אך נדחה כהסבר להזנחה, כך שהבעיה המבנית מתורגמת לאשמה הורית ולפיקוח ענישתי.",
   "summaryHe": "יעל כהן־רימר בוחנת את בתי המשפט לנוער כזירה שבה עוני נוכח מאוד אך אינו מקבל מעמד משפטי כהסבר להזנחת ילדים. המאמר מציע להבין את ההליך כמשפט ״קרימיניסטרטיבי״, המשלב טקסי אשמה פליליים עם תלות במערכות רווחה, וקורא לאמץ פרדיגמה משפטית מודעת־עוני.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yael Cohen-Rimer",
   "paperTitle": "“Poverty Has Nothing to Do with It”: Criministrative Law and a Call for Poverty Awareness in Child Protection Procedures in Israeli Juvenile Courts",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6696-5428\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Cohen-Rimer</a>",

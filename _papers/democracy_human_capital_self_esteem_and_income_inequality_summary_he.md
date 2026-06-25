@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משלב הערכה עצמית במודל צמיחה מבוסס הון אנושי, ומראה כיצד הישגים לימודיים יכולים להפוך למנגנון מתמשך של אי־שוויון בהכנסות.",
   "summaryHe": "המאמר טוען שהערכה עצמית, כאשר היא מושפעת מהישגים לימודיים, משפיעה על צבירת הון אנושי ועל התמדה של אי־שוויון בהכנסות. הוא מציג מנגנון שבו פערים לימודיים יוצרים פער בהערכה העצמית, ובהמשך גם פערים כלכליים בין משקי בית וקבוצות אוכלוסייה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Mark Gradstein, Luigi Ventura",
   "paperTitle": "Human capital, self-esteem, and income inequality",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/mark-gradstein/\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Gradstein</a>; <a href=\"https://research.uniroma1.it/en/researcher/0bd38b708627348c716356f7be8b119837956447e774661135c6e605\" target=\"_blank\" rel=\"noopener noreferrer\">Luigi Ventura</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "כלי מחקר למדידת אמונה בחשיבות של השתקת אזרחים אחרים.",
   "descriptionHe": "המאמר מפתח ומתקף מדד הבוחן עד כמה אזרחים רואים בהשתקה פעילה של בעלי עמדות אחרות פעולה רצויה או חשובה. הוא מחבר בין חופש ביטוי, סובלנות פוליטית ודעת קהל לבין השאלה מתי מחלוקת דמוקרטית נהפכת לנכונות לצמצם את קולם של יריבים.",
   "summaryHe": "Yariv Tsfati ו-Shira Dvir-Gvirsman מציעים מסגרת למדידת אמונה בחשיבות של השתקה פעילה של אחרים. התרומה הדמוקרטית של המאמר היא בכך שהוא הופך נטייה אנטי־פלורליסטית לכלי מחקר שאפשר לעקוב אחריו, להשוות אותו ולבחון את קשריו לאמון, זהות פוליטית ותקשורת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yariv Tsfati, Shira Dvir-Gvirsman",
   "paperTitle": "Silencing Fellow Citizens: Conceptualization, Measurement, and Validation of a Scale for Measuring the Belief in the Importance of Actively Silencing Others",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/yariv-tsfati/\" target=\"_blank\" rel=\"noopener noreferrer\">Yariv Tsfati</a>, <a href=\"https://orcid.org/0000-0002-3852-1878\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Dvir-Gvirsman</a>",

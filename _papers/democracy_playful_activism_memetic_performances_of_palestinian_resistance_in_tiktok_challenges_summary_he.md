@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד משתמשים פלסטינים השתמשו באתגרי TikTok ובממים וידאו בזמן ההסלמה במאי 2021 כדי לבצע התנגדות פוליטית משחקית ונגישה.",
   "summaryHe": "המאמר מנתח 500 סרטוני TikTok תחת #gazaunderattack ומראה כיצד סינכרון שפתיים, דואטים ונקודות מבט הפכו למחוות פוליטיות שיתופיות בזמן עימות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Laura Cervi, Tom Divon",
   "paperTitle": "Playful Activism: Memetic Performances of Palestinian Resistance in TikTok #Challenges",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0376-0609\" target=\"_blank\" rel=\"noopener noreferrer\">Laura Cervi</a>, <a href=\"https://orcid.org/0000-0002-7034-615X\" target=\"_blank\" rel=\"noopener noreferrer\">Tom Divon</a>",

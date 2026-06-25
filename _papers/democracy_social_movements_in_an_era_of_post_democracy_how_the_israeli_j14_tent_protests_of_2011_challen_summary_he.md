@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מחאת האוהלים והאתגר הנאו־ליברלי לסדר הדמוקרטי דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sebastian Schipper",
   "paperTitle": "Social movements in an era of post-democracy: how the Israeli J14 tent protests of 2011 challenged neoliberal hegemony through the production of place",
   "authorsHtml": "<a href=\"https://gewohnter-wandel.de/en/person/prof-dr-sebastian-schipper/\" target=\"_blank\" rel=\"noopener noreferrer\">Sebastian Schipper</a>",

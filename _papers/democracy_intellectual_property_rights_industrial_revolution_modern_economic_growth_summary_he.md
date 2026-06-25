@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציב את זכויות הקניין הרוחני בתוך סיפור רחב של המצאה, ידע וצמיחה מודרנית. הזווית הדמוקרטית היא שהגנה על יצירה וידע צריכה לאזן בין תמריץ פרטי לבין הפצת ידע, תחרות והזדמנות ציבורית.",
   "summaryHe": "המאמר משתמש בראשית הצמיחה המודרנית ובמהפכה התעשייתית כדי לבחון כיצד מוסדות של קניין רוחני עיצבו תמריצים להמצאה, שימוש בידע והפצת טכנולוגיה. הוא אינו מצמצם את הצמיחה לפטנטים בלבד, אלא מציב אותם בתוך מערכת רחבה של ידע שימושי, שווקים, מוסדות ואנשים שמסוגלים לנצל רעיונות. מבחינה דמוקרטית, הדיון חשוב מפני שקניין רוחני הוא תמיד איזון: הוא מגן על יוזמה פרטית, אך עלול גם להגביל גישה לידע אם אינו מעוצב בזהירות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Joel Mokyr",
   "paperTitle": "Intellectual Property Rights, the Industrial Revolution, and the Beginnings of Modern Economic Growth",
   "authorsHtml": "<a href=\"https://economics.northwestern.edu/people/directory/joel-mokyr.html\" target=\"_blank\" rel=\"noopener noreferrer\">Joel Mokyr</a>",

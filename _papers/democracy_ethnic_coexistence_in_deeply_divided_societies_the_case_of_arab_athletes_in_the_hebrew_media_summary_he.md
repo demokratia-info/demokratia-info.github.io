@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על קיום אתני משותף וספורטאים ערבים בתקשורת העברית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית קיום אתני משותף וספורטאים ערבים בתקשורת העברית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yuval Yonay, Eran Shor",
   "paperTitle": "Ethnic Coexistence in Deeply Divided Societies: The Case of Arab Athletes in the Hebrew Media",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6637-3614\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Yonay</a>, <a href=\"https://orcid.org/0000-0002-7866-2931\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Shor</a>",

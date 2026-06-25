@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד גלובליזציה משנה את השיח הפוליטי של יהודים אמריקאים וישראלים ביחס לפלורליזם דתי ולזכויות אזרח של מיעוטים בישראל. הוא מצביע על התקרבות בין קבוצות דומות בשני הצדדים, לצד הבדלים פנימיים בכל קהילה.",
   "summaryHe": "Sasson ו-Tabory מנתחים עמדות של יהודים אמריקאים וישראלים ממעמד בינוני וממוצא אירופי סביב פלורליזם דתי וזכויות מיעוטים בישראל. הם מזהים חפיפה בין חלקים משתי הקבוצות ומסבירים אותה דרך נסיעות, מוסדות יהודיים טרנס-לאומיים, השתלבות ישראל בכלכלה גלובלית ותפיסות ביטחון. התרומה הדמוקרטית היא בהצגת תרבות פוליטית יהודית כמרחב שחוצה גבולות מדינתיים ולא רק כעמדה לאומית סגורה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Theodore Sasson, Ephraim Tabory",
   "paperTitle": "Converging Political Cultures: How Globalization is Shaping the Discourses of American and Israeli Jews",
   "authorsHtml": "<a href=\"https://www.brandeis.edu/cmjs/about/staff/theodore-sasson.html\" target=\"_blank\" rel=\"noopener noreferrer\">Theodore Sasson</a>; <a href=\"https://cris.biu.ac.il/en/persons/ephraim-tabory\" target=\"_blank\" rel=\"noopener noreferrer\">Ephraim Tabory</a>",

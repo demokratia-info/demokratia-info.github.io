@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד הון ציבורי משפיע על צמיחה כלכלית דרך שלושה ממדים: כמות התשתיות, דרך המימון שלהן והיעילות שבה משתמשים בהן. מבחינה ציבורית, הוא מדגיש שהשקעה ממשלתית אינה נמדדת רק בגודל התקציב אלא גם באיכות הביצוע ובעלות המימון.",
   "summaryHe": "Aschauer מרחיב מודל צמיחה נאו־קלאסי ומראה שכמות ההון הציבורי, יעילות השימוש בו ומימון באמצעות חוב חיצוני קשורים כולם לצמיחה מעברית. הממצאים מצביעים על תרומה חיובית לכמות וליעילות, אך על פגיעה בצמיחה כאשר ההשקעה ממומנת בחוב חיצוני גבוה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "David Alan Aschauer",
   "paperTitle": "Public Capital and Economic Growth: Issues of Quantity, Finance, and Efficiency",
   "authorsHtml": "David Alan Aschauer",

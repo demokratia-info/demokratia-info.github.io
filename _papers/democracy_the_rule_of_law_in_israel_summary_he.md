@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שלטון החוק בישראל בין שאיפה מוסדית למציאות פוליטית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nir Kedar",
   "paperTitle": "The Rule of Law in Israel",
   "authorsHtml": "<a href=\"https://www.sapir.ac.il/en/node/1662\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kedar</a>",

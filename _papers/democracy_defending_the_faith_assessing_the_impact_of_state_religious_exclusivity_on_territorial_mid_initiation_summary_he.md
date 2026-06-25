@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם מדינות בעלות בלעדיות דתית נוטות ליזום סכסוכים בין-מדינתיים ממיליטריים סביב טריטוריה, ובמיוחד האם הן נלחמות על ערך סמלי-זהותי או על ערך אסטרטגי-חומרי.",
   "summaryHe": "המאמר מנתח נתוני סכסוכים טריטוריאליים בין-מדינתיים בשנים 1990-2001 ומשווה בין מדינות חילוניות למדינות בעלות בלעדיות דתית. הממצא המרכזי הוא שמדינות דתיות-בלעדיות אכן יוזמות יותר סכסוכים כאלה, אך בעיקר סביב טריטוריות בעלות חשיבות אסטרטגית ולא סביב טענות זהותיות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ariel Zellman, Jonathan Fox",
   "paperTitle": "Defending the Faith? Assessing the Impact of State Religious Exclusivity on Territorial MID Initiation",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1106-1282\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Zellman</a>, <a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>",

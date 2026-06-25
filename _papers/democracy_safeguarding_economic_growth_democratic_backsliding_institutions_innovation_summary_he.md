@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד דמוקרטיה קשורה לתוצר לנפש דרך שני ערוצים: איכות מוסדית וחדשנות. הניתוח מציב במרכז את שלטון החוק וזכויות הקניין, ומראה מדוע שחיקה מוסדית עלולה לפגוע גם בצמיחה כלכלית.",
   "summaryHe": "Ben-Malka ו-Hadad מנתחים פאנל מאוזן של 123 מדינות בשנים 2011-2022 באמצעות מודל צמיחה מורחב וניתוח תיווך. הממצא המרכזי הוא שאיכות מוסדית מסבירה 83.3% מן ההשפעה הכוללת של דמוקרטיה על התמ\"ג לנפש, לעומת 16.7% לחדשנות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ran Ben-Malka, Sharon Hadad",
   "paperTitle": "Safeguarding Economic Growth Amid Democratic Backsliding: The Primacy of Institutions over Innovation",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1266-670X\" target=\"_blank\" rel=\"noopener noreferrer\">Ran Ben-Malka</a>, <a href=\"https://orcid.org/0000-0003-1799-0170\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Hadad</a>",

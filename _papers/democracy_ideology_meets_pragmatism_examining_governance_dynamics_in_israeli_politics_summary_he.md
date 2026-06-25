@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את המתח בין עקרונות אידיאולוגיים לבין צרכי ממשל מעשיים בפוליטיקה הישראלית, במיוחד במפגש בין דת, מדינה ודמוקרטיה חילונית.",
   "summaryHe": "המאמר טוען שהשפעתן של מפלגות דתיות והמרכזיות של ערכים דתיים במדיניות ציבורית יוצרות אתגר מתמשך ליציבות וללכידות בישראל. הוא דן גם במעמד האזרחות של אזרחי ישראל הערבים, בחוק הלאום ובמגבלות על השתתפות מלאה במרחב הציבורי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Ideology Meets Pragmatism: Examining Governance Dynamics in Israeli Politics",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

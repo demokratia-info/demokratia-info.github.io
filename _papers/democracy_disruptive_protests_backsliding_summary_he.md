@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את המחאה נגד הרפורמה המשפטית בישראל ומציע שמחאה לא-אלימה אך משבשת יכולה לסייע לגיוס תומכים ולשינוי עמדות של מתנגדים חלשים.",
   "summaryHe": "מחקר על מחאת 2023 נגד הרפורמה המשפטית ועל האופן שבו פעולות שיבוש לא-אלימות השפיעו על תמיכה וגיוס.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אריק שומן, נועה כהן-אייק, אריק נולס, עירן הלפרין",
   "paperTitle": "Evidence for the Effectiveness of Large-Scale Disruptive Protests in the Context of Democratic Backsliding",
   "authorsHtml": "<a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>, <a href=\"https://orcid.org/0000-0003-1975-1069\" target=\"_blank\" rel=\"noopener noreferrer\">Noa Cohen-Eick</a>, <a href=\"https://wp.nyu.edu/knowleslab/people/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Knowles</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",

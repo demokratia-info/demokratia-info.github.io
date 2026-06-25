@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בממשל, שירות ציבורי ואתוס דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ממשל, שירות ציבורי ואתוס דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eran Vigoda‐Gadot, Shlomo Mizrahi",
   "paperTitle": "Public Sector Management and the Democratic Ethos: A 5-Year Study of Key Relationships in Israel",
   "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda‐Gadot</a>, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>",

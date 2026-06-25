@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הוויכוח על הרפורמה המשפטית בישראל כמקרה מבחן למתח בין שלטון הרוב, עצמאות שיפוטית, ביקורת שיפוטית ואמון הציבור בדמוקרטיה.",
   "summaryHe": "המאמר מנתח את תוכנית הרפורמה המשפטית בישראל ואת טענות התומכים והמתנגדים סביב סמכות בית המשפט העליון, בחירת שופטים ופסקת התגברות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Israel’s Judicial Reform Debate: An Essential Case Study for Democracy and Judicial Independence",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

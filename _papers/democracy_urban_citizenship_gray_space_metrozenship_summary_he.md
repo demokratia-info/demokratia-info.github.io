@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את מושגי ה״מרחב האפור״ וה״מטרוזנשיפ״ כדי להסביר מדוע מאבקים על זכות לעיר אינם מסתכמים בשירותים עירוניים. הוא קושר בין אי־פורמליות, משטרי עיר גלובליים ולאומיות מתמשכת לבין הצורך באזרחות עירונית שוויונית יותר.",
   "summaryHe": "Yiftachel משתמש בדוגמאות מישראל/פלסטין כדי לבקר את השיח על אזרחות עירונית וזכות לעיר. הטענה המרכזית היא שאי־פורמליות ו״מרחבים אפורים״ יוצרים אזרחות עירונית מתגוננת, ולכן מאבק דמוקרטי צריך לחשוב במונחים מטרופוליניים ושוויוניים יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oren Yiftachel",
   "paperTitle": "Epilogue—from ‘Gray Space' to Equal ‘Metrozenship'? Reflections On Urban Citizenship",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>",

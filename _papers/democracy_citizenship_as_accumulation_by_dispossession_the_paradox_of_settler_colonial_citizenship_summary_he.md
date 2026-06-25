@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח את אזרחותם של פלסטינים אזרחי ישראל, ובמיוחד עקורים פנימיים, כפרדוקס שבו זכויות אזרחיות מתקיימות לצד אובדן קרקע ותביעות קולקטיביות.",
   "descriptionHe": "Areej Sabbagh-Khoury מחברת בין לימודי אזרחות לבין תאוריית צבירה באמצעות נישול, ומראה כיצד אזרחות בהקשר קולוניאלי-התיישבותי יכולה להסדיר זכויות ותנועה אך גם לקבע אובדן קולקטיבי.",
   "summaryHe": "Areej Sabbagh-Khoury מציעה קריאה ביקורתית של אזרחות פלסטינית בישראל דרך המקרה של עקורים פנימיים שקיבלו אזרחות לאחר שנעקרו ממקומות מוצאם. לפי תקציר המאמר, האזרחות יוצרת פרדוקס כפול: היא מסדירה זכויות מסוימות, אך גם לוכדת את הקבוצה בתוך מבנה שבו צבירת קרקע ומשאבים כרוכה בהמשך נישול.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Areej Sabbagh-Khoury",
   "paperTitle": "Citizenship as Accumulation by Dispossession: The Paradox of Settler Colonial Citizenship",
   "authorsHtml": "<a href=\"https://en.sociology.huji.ac.il/people/areej-sabbagh-khoury-%D8%AF-%D8%A3%D8%B1%D9%8A%D8%AC-%D8%B5%D8%A8%D8%A7%D8%BA-%D8%AE%D9%88%D8%B1%D9%8A\" target=\"_blank\" rel=\"noopener noreferrer\">Areej Sabbagh-Khoury</a>",

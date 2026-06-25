@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר אמפירי על ענישה, מוצא אתני ותקופות לחימה בבתי משפט השלום בישראל.",
   "summaryHe": "המחקר בוחן אם תקופות של מלחמה, מבצע צבאי או אינתיפאדה השפיעו על הפער בין נאשמים יהודים וערבים בהחלטות על ביטול הרשעה בעבירות עוון בישראל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Tomer Einat, Sharon Toys",
   "paperTitle": "The Effects of Wartime on Discrimination in the Punishment of Arab vs. Jewish Defendants in the Israeli Criminal Law System",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>, Sharon Toys",

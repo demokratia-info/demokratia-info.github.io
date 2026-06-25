@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פעולות תביעת זכויות של פליטים אריתריאים וארגוני חברה אזרחית בתוך משטר המקלט הישראלי.",
   "summaryHe": "המאמר בוחן כיצד פליטים אריתריאים וארגוני חברה אזרחית מערערים על הדרה ממשטר המקלט, ומראה את גבולות פעולות האזרחות כמסגרת התנגדות רחבה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Tanja R. Müller",
   "paperTitle": "Acts of citizenship as a politics of resistance? Reflections on realizing concrete rights within the Israeli asylum regime",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1497-918X\" target=\"_blank\" rel=\"noopener noreferrer\">Tanja R. Müller</a>",

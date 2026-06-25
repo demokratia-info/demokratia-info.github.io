@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מדיניות ישראל כלפי מבקשי מקלט אפריקאים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מדיניות ישראל כלפי מבקשי מקלט אפריקאים דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hadas Yaron, Nurit Hashimshony‐Yaffe, John R. Campbell",
   "paperTitle": "“Infiltrators” or Refugees? An Analysis of Israel's Policy Towards African Asylum‐Seekers",
   "authorsHtml": "Hadas Yaron; Nurit Hashimshony‐Yaffe; <a href=\"https://orcid.org/0000-0003-4977-4587\" target=\"_blank\" rel=\"noopener noreferrer\">John R. Campbell</a>",

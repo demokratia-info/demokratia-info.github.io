@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מסגרת תיאורטית לקשר בין קיטוב רגשי, איום מוסרי ונסיגה דמוקרטית. הוא מסביר כיצד שנאת קבוצת החוץ, ניתוק מוסרי וטינה יכולים להפוך תחרות מפלגתית לעוינות שמחלישה מחויבות לנורמות דמוקרטיות.",
   "summaryHe": "Goldner ו־Ben‐Nun Bloom מציעות סינתזה תיאורטית באמצעות גרפיקה סיסטמית. המאמר מחבר בין מחקר על נכונות אמריקנים להעדיף מטרות מפלגתיות על פני עקרונות דמוקרטיים לבין מחקר על ניתוק מוסרי, טינה וטריוויאליזציה כדרכי התמודדות עם החלטות מאיימות מוסרית. הטענה המרכזית היא שמוסר ממלא תפקיד כפול בקיטוב: הוא מסייע ליצירת עוינות מפלגתית וגם מזין את התמשכותה והחרפתה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ilona Goldner, Pazit Ben‐Nun Bloom",
   "paperTitle": "Polarization and Moral Threat: Insights from Systemist Analysis",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/ilona-hillel-goldner\" target=\"_blank\" rel=\"noopener noreferrer\">Ilona Goldner</a>, <a href=\"https://en.politics.huji.ac.il/people/pazit-bennun\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>",

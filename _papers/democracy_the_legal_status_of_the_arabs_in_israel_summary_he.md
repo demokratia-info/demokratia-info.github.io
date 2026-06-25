@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המעמד המשפטי של האזרחים הערבים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המעמד המשפטי של האזרחים הערבים בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "David Kretzmer",
   "paperTitle": "The Legal Status of the Arabs in Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/david-kretzmer\" target=\"_blank\" rel=\"noopener noreferrer\">David Kretzmer</a>",

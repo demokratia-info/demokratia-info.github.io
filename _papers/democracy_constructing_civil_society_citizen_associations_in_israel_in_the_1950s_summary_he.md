@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Paula Kabalo",
   "paperTitle": "Constructing Civil Society: Citizen Associations in Israel in the 1950s",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0666-0347\" target=\"_blank\" rel=\"noopener noreferrer\">Paula Kabalo</a>",

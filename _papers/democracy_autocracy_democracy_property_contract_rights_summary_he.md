@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין דמוקרטיות ואוטוקרטיות בשאלה מתי משטרים מגינים על זכויות קניין וחוזים, ומדגיש את חשיבות משך הזמן של שליטים ומשטרים.",
   "summaryHe": "המאמר טוען שאוטוקרט יציב ובעל אופק שלטוני ארוך עשוי להגן על קניין וחוזים כדי להגדיל הכנסות עתידיות, בעוד שאוטוקרט לא יציב נוטה יותר להחרים נכסים זמינים. בדמוקרטיות, ההגנה על זכויות אלה מתחזקת בעיקר כאשר המערכת הדמוקרטית מתמשכת ומתבססת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Christopher Clague, Philip Keefer, Stephen Knack, Mancur Olson",
   "paperTitle": "Property and contract rights in autocracies and democracies",
   "authorsHtml": "<a href=\"https://www.econ.umd.edu/facultyprofile/Clague/Christopher\" target=\"_blank\" rel=\"noopener noreferrer\">Christopher Clague</a>; <a href=\"https://orcid.org/0000-0002-6439-3814\" target=\"_blank\" rel=\"noopener noreferrer\">Philip Keefer</a>; Stephen Knack; Mancur Olson",

@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר קהילתי שמבחין בין צורות שונות של השתתפות ומחפש את הגורמים שמסבירים אותן.",
   "descriptionHe": "המאמר בוחן אילו גורמים אישיים וקהילתיים מנבאים שני סוגים של מעורבות קהילתית בישראל: פיתוח ותכנון לעומת אקטיביזם וסנגור.",
   "summaryHe": "במדגם של 494 משתתפים ישראלים, המחקר מצא שתחושת שליטה ורוב המשתנים הקהילתיים מנבאים את שני סוגי המעורבות, בעוד הערכה עצמית ושנות פעילות אינן מנבאות אותן באופן כללי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Lea Zanbar, Nick Ellison",
   "paperTitle": "Personal and community factors as predictors of different types of community engagement",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0733-1959\" target=\"_blank\" rel=\"noopener noreferrer\">Lea Zanbar</a>; Nick Ellison",

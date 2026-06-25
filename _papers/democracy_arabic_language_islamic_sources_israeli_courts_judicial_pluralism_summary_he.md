@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח 78 החלטות שיפוטיות וראיונות עם אנשי משפט מצביע על שישה מניעים לשילוב לשוני ותרבותי בבתי משפט בישראל ובבתי דין צבאיים.",
   "descriptionHe": "המאמר בוחן כיצד שופטים בישראל ובבתי המשפט הצבאיים בגדה משלבים ערבית ומקורות דתיים אסלאמיים בפסקי דין ומה הדבר מלמד על פלורליזם משפטי.",
   "summaryHe": "Shai Farber ו-Rani Amer מנתחים 78 החלטות שיפוטיות מן השנים 1997-2024 וראיונות עם אנשי מקצוע משפטיים. הם מזהים שישה מניעים לשילוב ערבית ומקורות אסלאמיים בפסיקה: שכנוע, חיזוק סמכות, גישור תרבותי, כבוד הדדי, ביסוס וטיעון חלופי, ומראים שהפרקטיקה מופיעה אצל שופטים ערבים ויהודים ובתחומי משפט שונים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shai Farber, Rani Amer",
   "paperTitle": "Bridging justice: Arabic language and Islamic sources in Israeli courts – a study of judicial pluralism",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6252-805X\" target=\"_blank\" rel=\"noopener noreferrer\">Shai Farber</a>; Rani Amer",

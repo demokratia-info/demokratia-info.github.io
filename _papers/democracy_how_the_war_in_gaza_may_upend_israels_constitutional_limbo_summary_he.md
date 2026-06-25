@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מלחמת עזה והמבוי הסתום החוקתי בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מלחמת עזה והמבוי הסתום החוקתי בישראל דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Noam Kozlov",
   "paperTitle": "How the War in Gaza May Upend Israel’s Constitutional Limbo",
   "authorsHtml": "Noam Kozlov",

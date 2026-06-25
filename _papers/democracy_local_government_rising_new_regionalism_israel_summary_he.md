@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את עליית האזוריות החדשה בשלטון המקומי בישראל כתגובה למשברים ביטחוניים, סביבתיים, כלכליים, דמוקרטיים ובריאותיים. הוא מציע מסגרת שמחברת בין חשיפת כשלים בממשל ריכוזי לבין חיזוק שיתוף פעולה אזורי ורפורמות מוסדיות בשלטון המקומי.",
   "summaryHe": "Beeri מנתח את עליית האזוריות החדשה במסגרת השלטון המקומי בישראל. לפי תקציר עמוד המקור, משברים שונים, כולל מלחמת 7 באוקטובר 2023, חשפו כשלים בממשל ריכוזי והאיצו צורך בביזור, שיתוף פעולה אזורי וחוסן מקומי. המאמר מדגיש שלוש רפורמות משלימות: חוק יסוד לשלטון מקומי ואזורי, מיסוד מבני ממשל אזורי וחיזוק יכולות כוח האדם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Itai Beeri",
   "paperTitle": "Local Government Rising: The Emergence of New Regionalism in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>",

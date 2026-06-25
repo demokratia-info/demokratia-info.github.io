@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח רשת של נתוני אורך בישראל מצביע על דאגה, חוסר אונים, כעס, אכזבה וחרדה כצמתים מרכזיים במצוקה אזרחית מתמשכת.",
   "descriptionHe": "המאמר בוחן את ההשפעה הפסיכולוגית המתמשכת של משבר חברתי־פוליטי בישראל סביב הרפורמה המשפטית באמצעות ניתוח רשת והשוואה בין שתי נקודות זמן.",
   "summaryHe": "Liat Hamama מנתחת את ההשלכות הפסיכולוגיות ארוכות הטווח של משבר הרפורמה המשפטית בישראל באמצעות ניתוח רשת. לפי תקציר המאמר, הנתונים נאספו באוגוסט 2023 מ-811 משתתפים ובאפריל-מאי 2024 מ-518 משתתפים, והניתוח מצא שבטווח המוקדם דאגה וחוסר אונים היו מרכזיים, ואילו בטווח המאוחר בלטו כעס, אכזבה וחרדה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liat Hamama",
   "paperTitle": "Exploring the long-term psychological impact of socio-political crisis in Israel: a network analysis",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5498-7443\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Hamama</a>",

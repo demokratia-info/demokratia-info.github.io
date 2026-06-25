@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על חוויות העבודה של אחיות ואחים ערבים בבתי חולים ציבוריים בישראל, ועל התנאים המוסדיים הדרושים לשוויון ולכשירות תרבותית במערכת הבריאות.",
   "summaryHe": "המאמר בוחן 13 ראיונות עומק עם אחיות ואחים ערבים בבתי חולים ציבוריים בישראל. הוא מתאר שילוב מקצועי והזדמנויות תעסוקה לצד סטריאוטיפים, סירוב לקבל טיפול וגילויי עוינות, ומציע תגובה מוסדית לקשיים ייחודיים אלה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Keshet, Ariela Popper‐Giveon",
   "paperTitle": "Work experiences of ethnic minority nurses: a qualitative study",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9128-4648\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Keshet</a>, <a href=\"https://orcid.org/0000-0002-9252-9360\" target=\"_blank\" rel=\"noopener noreferrer\">Ariela Popper‐Giveon</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חוקתיות, חוקי יסוד והמבנה הדמוקרטי בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yofi Tirosh",
   "paperTitle": "Diminishing constitutional law: The first three decades of women’s exclusion adjudication in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3732-7421\" target=\"_blank\" rel=\"noopener noreferrer\">Yofi Tirosh</a>",

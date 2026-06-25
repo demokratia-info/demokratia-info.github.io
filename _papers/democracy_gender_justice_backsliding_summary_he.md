@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "ניתוח של הקשר בין הרפורמה המשפטית בישראל לבין יוזמות חקיקה הפוגעות בצדק מגדרי, בהגנות נגד אפליה ובמרחב הפעולה של נשים וקבוצות שוליות.",
   "summaryHe": "המאמר טוען שהנסיגה הדמוקרטית בישראל מתבטאת גם בהחלשת ההגנות המשפטיות על שוויון מגדרי ובהכשרת הפרדה ואפליה בשם דת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "רעות איצקוביץ'-מלכה",
   "paperTitle": "Law, Gender Justice, and the Dynamics of Democratic Backsliding",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drreutitzkovitchmalka.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Reut Itzkovitch-Malka</a>",

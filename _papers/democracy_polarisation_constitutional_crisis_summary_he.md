@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את המשבר החוקתי בישראל דרך עליית הקיטוב הפוליטי, ובעיקר דרך קיטוב רגשי שמחליש אמון בין מחנות ומחריף את המאבק על בית המשפט.",
   "summaryHe": "איך קיטוב רגשי ופוליטי הופך את הוויכוח על בית המשפט לעימות חוקתי חריף וקשה לפתרון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עידו פורת",
   "paperTitle": "Political Polarisation and the Constitutional Crisis in Israel",
   "authorsHtml": "<a href=\"https://clb.ac.il/en/lecturers/iddo-porat/\" target=\"_blank\" rel=\"noopener noreferrer\">Iddo Porat</a>",

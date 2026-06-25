@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר טוען שהמשבר סביב השינויים החוקתיים בישראל לא נשאר בתוך עולם המשפט והפוליטיקה; הוא השפיע גם על תפיסת הסיכון של הכלכלה הישראלית.",
   "summaryHe": "מה קורה לאמון משקיעים ולתפיסת סיכון בזמן משבר חוקתי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ארז כהן",
   "paperTitle": "Political and public discourse surrounding constitutional reform and its implications for the Israeli economy",
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/erez-cohen-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Erez Cohen</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על סיכולים ממוקדים ומשפט זכויות האדם, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית סיכולים ממוקדים ומשפט זכויות האדם דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "David Kretzmer",
   "paperTitle": "Targeted Killing of Suspected Terrorists: Extra-Judicial Executions or Legitimate Means of Defence?",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/david-kretzmer\" target=\"_blank\" rel=\"noopener noreferrer\">David Kretzmer</a>",

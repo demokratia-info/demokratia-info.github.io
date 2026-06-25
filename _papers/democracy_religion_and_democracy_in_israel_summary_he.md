@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק ביחסים בין דת, זהות, מדינה ודמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של חופש, שוויון, השתייכות וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק ביחסים בין דת, זהות, מדינה ודמוקרטיה בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shlomo Deshen",
   "paperTitle": "Religion and Democracy in Israel",
   "authorsHtml": "Shlomo Deshen",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על נכונות ישראלים מקבוצות רוב ומיעוט להשלים הנחיות מקדימות לטיפול בדמנציה, ועל הקשר בין אוטונומיה, כשירות, סטיגמה ותרבות.",
   "summaryHe": "המאמר בוחן מניעים בעד ונגד השלמת הנחיות מקדימות לדמנציה בקרב יהודים ותיקים, יוצאי ברית המועצות לשעבר וערבים בישראל. הוא מצביע על חוסר ידע, תפיסות סטיגמטיות ודילמות אתיות, לצד הבדלים תרבותיים באופן שבו אנשים מבינים אוטונומיה וכשירות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Perla Werner; Natalie Ulitsa; Hanan AboJabel",
   "paperTitle": "Exploring the Motivations for Completing Advance Care Directives: A Qualitative Study of Majority/Minority Israeli People Without Dementia",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/perla-werner/\" target=\"_blank\" rel=\"noopener noreferrer\">Perla Werner</a>, <a href=\"https://loop.frontiersin.org/people/1680012/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Natalie Ulitsa</a>, <a href=\"https://en.sw.huji.ac.il/people/hanan-abojabel\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan AboJabel</a>",

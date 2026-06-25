@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מתאר רגשות של פחד, חרדה והשתקה לצד יוזמה, תמיכה וחיפוש חוסן במוסדות להשכלה גבוהה.",
   "descriptionHe": "המאמר בוחן את חוויותיהם של מנהיגים ערבים־ישראלים בהשכלה הגבוהה בזמן מלחמת חרבות ברזל, ומדגיש את המתח בין מצוקה, בידוד ופגיעה בתחושת הביטחון לבין תמיכה, פרואקטיביות וחוסן מוסדי.",
   "summaryHe": "סימה זך ומחמוד סינדיאני מנתחים את חוויותיהם של מנהיגים אקדמיים ערבים־ישראלים בזמן מלחמת חרבות ברזל. לפי תקציר המקור, המשתתפים תיארו פחד, חרדה, חוסר אונים, ייאוש, בידוד והשתקה, אך גם פרואקטיביות דרך תפקידיהם ותמיכה מצד חברים יהודים; המאמר קורא ליוזמות חוסן ותמיכה באקדמיה בזמן משבר ממושך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sima Zach, Mahmood Sindiani",
   "paperTitle": "Arab–Israeli Leaders in Israeli Higher Education During the Iron Swords War",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4138-6360\" target=\"_blank\" rel=\"noopener noreferrer\">Sima Zach</a>; Mahmood Sindiani",

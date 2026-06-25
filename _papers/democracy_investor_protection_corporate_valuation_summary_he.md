@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד הגנה משפטית על בעלי מניות מיעוט ובעלות תזרימית של בעל שליטה קשורות לשווי חברות. הזווית הדמוקרטית־מוסדית היא ששוק הון מתפקד תלוי בכללים שמגבילים ניצול כוח ומאפשרים אמון בין משקיעים, מנהלים ובעלי שליטה.",
   "summaryHe": "La Porta, Lopez-de-Silanes, Shleifer ו־Vishny מציגים מודל על השפעת ההגנה המשפטית על משקיעי מיעוט ועל בעלות תזרימית של בעל השליטה, ואז בוחנים אותו במדגם של 539 חברות גדולות מ־27 כלכלות עשירות. הם מוצאים ראיות לשווי גבוה יותר במדינות שבהן הגנת משקיעי המיעוט טובה יותר, וגם בחברות שבהן לבעל השליטה יש בעלות תזרימית גבוהה יותר. המאמר מציב את שלטון החוק התאגידי כתשתית כלכלית שמגינה על השתתפות הוגנת בשוק ההון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny",
   "paperTitle": "Investor Protection and Corporate Valuation",
   "authorsHtml": "<a href=\"https://vivo.brown.edu/display/rlaporta\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael La Porta</a>; <a href=\"https://www.skema.edu/en/faculty-and-research/professors/florencio-lopez-de-silanes-molina\" target=\"_blank\" rel=\"noopener noreferrer\">Florencio Lopez-de-Silanes</a>; <a href=\"https://scholar.harvard.edu/shleifer/home\" target=\"_blank\" rel=\"noopener noreferrer\">Andrei Shleifer</a>; <a href=\"https://faculty.chicagobooth.edu/robert-vishny\" target=\"_blank\" rel=\"noopener noreferrer\">Robert W. Vishny</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין משטרים פוליטיים, חירות כלכלית, מוסדות וצמיחה. מבחינה דמוקרטית, הוא מזהיר מפני הסבר פשטני שלפיו עצם הסיווג לדמוקרטיה או לא־דמוקרטיה מספיק כדי להבין ביצועים כלכליים.",
   "summaryHe": "השפעת מערכות פוליטיות על צמיחה אינה מובנת רק דרך הבחנה בין משטרים דמוקרטיים ולא־דמוקרטיים. המחברים משתמשים במדדי חירות כלכלית של Gwartney-Lawson-Block ומוצאים שחירות כלכלית תורמת לצמיחה בלי תלות באופי המשטר הפוליטי, בעוד השפעת הדמוקרטיה על הצמיחה עמומה יותר ועשויה לפעול בעקיפין דרך ערוץ ההשקעה. המסר אינו אנטי־דמוקרטי אלא מוסדי: חירויות פוליטיות וכלכליות צריכות להיבחן יחד ולא להתבלבל זו בזו.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Abdiweli M. Ali, W. Mark Crain",
   "paperTitle": "Political Regimes, Economic Freedom, Institutions and Growth",
   "authorsHtml": "Abdiweli M. Ali; <a href=\"https://economics.lafayette.edu/people/w-mark-crain/\" target=\"_blank\" rel=\"noopener noreferrer\">W. Mark Crain</a>",

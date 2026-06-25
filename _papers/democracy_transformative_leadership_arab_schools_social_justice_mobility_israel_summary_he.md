@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני על בתי ספר ערביים בישראל מצביע על מנהיגות שמחברת הישגים, רווחה רגשית, העצמה וכישורי עתיד.",
   "descriptionHe": "המאמר בוחן כיצד מנהלי בתי ספר ואנשי צוות בחינוך הערבי בישראל מפעילים מנהיגות טרנספורמטיבית כדי להתמודד עם פערים מבניים ולקדם צדק חברתי ומוביליות.",
   "summaryHe": "Alaa Elmalak-Watad בוחנת כיצד מנהיגות בבתי ספר ערביים בישראל יכולה לפעול כסוכן של צדק חברתי ולא רק כמנגנון ניהולי. המחקר נשען על 60 ראיונות חצי־מובנים עם מנהלים ואנשי צוות ועל תצפיות, ומזהה ארבעה ממדים מרכזיים: קידום הישגים, רווחה רגשית וחברתית, העצמת תלמידים ועידוד מנהיגות, ופיתוח יכולות וכישורים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alaa Elmalak-Watad",
   "paperTitle": "Transformative Leadership in Arab Schools in Israel: Strategies for Promoting Social Justice and Mobility",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6981-1974\" target=\"_blank\" rel=\"noopener noreferrer\">Alaa Elmalak-Watad</a>",

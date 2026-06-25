@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את סדר היום של בג\"ץ בישראל בשנים 1995-2018 כדי להעריך כיצד בית המשפט משתלב בתהליכי שיפוטיזציה של פוליטיקה וקביעת מדיניות.",
   "summaryHe": "המחקר מנתח 2,674 החלטות של בג\"ץ ומראה שבית המשפט עסק בסוגיות פוליטיות מרכזיות, אך דפוסי תשומת הלב שלו מצביעים על מעורבות סלקטיבית ומורכבת יותר מהתיאור הפשוט של השתלטות שיפוטית על מדיניות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Maoz Rosenthal, Assaf Meydani",
   "paperTitle": "The agenda premises of the judicialization of politics: policy attention in Israel’s high court of justice",
   "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>, <a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",

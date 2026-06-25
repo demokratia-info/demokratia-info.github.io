@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מציג מאגר פאנל על קיטוב בישראל בתקופת מערכות בחירות חוזרות, ומספק תשתית למחקר על זהות פוליטית, עמדות ואמון.",
   "descriptionHe": "מאגר הפאנל מאפשר לעקוב אחר קיטוב בישראל לאורך משבר פוליטי מתמשך ולא רק לצלם עמדות בנקודת זמן אחת. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
   "summaryHe": "מאגר הפאנל מאפשר לעקוב אחר קיטוב בישראל לאורך משבר פוליטי מתמשך ולא רק לצלם עמדות בנקודת זמן אחת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "נעם גדרון, ליאור שפר וגיא מור",
   "paperTitle": "The Israel Polarization Panel Dataset, 2019–2021",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>; <a href=\"https://deepstory.huji.ac.il/people/guy-mor\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Mor</a>",

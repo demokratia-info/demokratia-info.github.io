@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית נקודת המפנה של הדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית נקודת המפנה של הדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Asher Arian",
   "paperTitle": "Israeli Democracy at the Crossroads",
   "authorsHtml": "Asher Arian",

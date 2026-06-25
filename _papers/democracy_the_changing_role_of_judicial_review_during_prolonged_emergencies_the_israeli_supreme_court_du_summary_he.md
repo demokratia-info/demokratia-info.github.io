@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית והגבלת כוח שלטוני בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ittai Bar-Siman-Tov; Itay Cohen; Chani Koth",
   "paperTitle": "The Changing Role of Judicial Review during Prolonged Emergencies: The Israeli Supreme Court during COVID-19",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8110-639X\" target=\"_blank\" rel=\"noopener noreferrer\">Ittai Bar-Siman-Tov</a>; <a href=\"https://orcid.org/0000-0002-5077-4085\" target=\"_blank\" rel=\"noopener noreferrer\">Itay Cohen</a>; Chani Koth",

@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות בישראל מראים כיצד התקפות על מקצועיות הביורוקרטיה משפיעות על מועמדים לשירות המדינה.",
   "descriptionHe": "המאמר בוחן כיצד נסיגה דמוקרטית והתקפות פוליטיות על שירות ציבורי מקצועי משפיעות על מי ששוקלים להיכנס לשירות המדינה, להמתין או לוותר. הוא חשוב לדמוקרטיה משום שהגנת מוסדות אינה תלויה רק במשרתי ציבור קיימים, אלא גם בדור הבא של מי שיבחרו אם להצטרף אליהם.",
   "summaryHe": "Reut Marciano, Ilana Shpaizman ו-Sharon Gilad משתמשות בראיונות עומק בישראל כדי להרחיב את מודל הירשמן אל החלטות כניסה, אי־כניסה והמתנה של מועמדים לשירות הציבורי. לפי התקציר, התקפות על מקצועיות השירות ועל ערכים ליברליים־דמוקרטיים משפיעות גם על מאגר המגויסים העתידי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Reut Marciano, Ilana Shpaizman, Sharon Gilad",
   "paperTitle": "How Democratic Backsliding Shapes the Entry, Non‐Entry, and Waiting of Potential Civil Servants",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3522-4309\" target=\"_blank\" rel=\"noopener noreferrer\">Reut Marciano</a>, <a href=\"https://politics.biu.ac.il/en/node/1141\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>",

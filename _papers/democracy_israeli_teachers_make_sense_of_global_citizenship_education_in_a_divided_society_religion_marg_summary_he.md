@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מורים בישראל מפרשים חינוך לאזרחות גלובלית בחברה מפוצלת, ובמיוחד כיצד דת, שוליות חברתית וגלובליזציה כלכלית מעצבות את המשמעות שהם מייחסים לו.",
   "summaryHe": "המאמר משווה בין תפיסות של מורים יהודים חילונים, יהודים דתיים וערבים פלסטינים לגבי חינוך לאזרחות גלובלית בישראל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Heela Goren; Claire Maxwell; Miri Yemini",
   "paperTitle": "Israeli teachers make sense of global citizenship education in a divided society- religion, marginalisation and economic globalisation",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2234-0199\" target=\"_blank\" rel=\"noopener noreferrer\">Heela Goren</a>; <a href=\"https://orcid.org/0000-0002-1266-8011\" target=\"_blank\" rel=\"noopener noreferrer\">Claire Maxwell</a>; <a href=\"https://orcid.org/0000-0002-5633-6473\" target=\"_blank\" rel=\"noopener noreferrer\">Miri Yemini</a>",

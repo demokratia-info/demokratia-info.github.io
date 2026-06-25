@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר על מלחמת עזה־ישראל מציג את הקמפוס כמראה של שסעים חברתיים וכזירה אפשרית למנהיגות אזרחית.",
   "descriptionHe": "המאמר בוחן את תפקידם של מוסדות אקדמיים בישראל בזמן מלחמה, ומראה כיצד קמפוסים משקפים קיטוב, דיכוי ביטוי ושוליות של סטודנטים וסגל ערבים־פלסטינים, אך יכולים גם לפתח דיאלוג בין־תרבותי וחוסן חינוכי.",
   "summaryHe": "תמר הגר, מוחמד ח׳ליילה ויוסף ג׳בארין טוענים כי לאחר מתקפת חמאס ב־7 באוקטובר 2023 והאלימות שלאחריה, קמפוסים בישראל משקפים שסעים חברתיים עמוקים. לפי תקציר המקור, אמצעים מדינתיים ומשמעתיים מגבילים ביטוי ומדירים במיוחד קולות ערביים־פלסטיניים, אך מוסדות אקדמיים יכולים גם ליצור מרחבי ביטחון, הכשרה ותמיכה שמקדמים דיאלוג וחוסן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tamar Hager, Mohammad Khalaile, Yousef T. Jabareen",
   "paperTitle": "The role of academic institutions in a state of war: the Gaza-Israel conflict",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9544-0516\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hager</a>; <a href=\"https://orcid.org/0000-0003-1261-9823\" target=\"_blank\" rel=\"noopener noreferrer\">Mohammad Khalaile</a>; <a href=\"https://ric.org.il/researcher/yousef-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Yousef T. Jabareen</a>",

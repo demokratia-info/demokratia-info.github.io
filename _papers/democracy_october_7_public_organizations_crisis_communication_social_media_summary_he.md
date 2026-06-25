@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח פייסבוק של ארגונים ציבוריים בישראל מראה כיצד סוגי מסרים שונים בזמן טרור ומשבר משנים תגובות אזרחיות.",
   "descriptionHe": "המאמר מנתח שימוש בפייסבוק של ארגונים ציבוריים בישראל לאחר מתקפת 7 באוקטובר ואת השפעת תוכן המסרים על מעורבות אזרחים.",
   "summaryHe": "Vincent Mabillard, Raphaël Zumofen, Gal Yavetz ו-Jenny Bronstein בוחנים כיצד ארגונים ציבוריים בישראל השתמשו בפייסבוק לאחר מתקפת חמאס ב-7 באוקטובר 2023. הניתוח מראה שפוסטים חדשותיים יצרו יותר מעורבות מאשר מסרי הרגעה והעצמה, וכי במונחים מוחלטים רמות המעורבות הגבוהות ביותר הופיעו כאשר רשויות פרסמו מסרים על שיתוף פעולה אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Vincent Mabillard, Raphaël Zumofen, Gal Yavetz, Jenny Bronstein",
   "paperTitle": "Responding to the October 7th Attack: Analyzing Israeli Public Organizations' Crisis Communication and Citizen Engagement on Social Media",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0064-3685\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Mabillard</a>, <a href=\"https://orcid.org/0000-0003-2349-4085\" target=\"_blank\" rel=\"noopener noreferrer\">Raphaël Zumofen</a>, <a href=\"https://orcid.org/0000-0002-9147-4134\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Yavetz</a>, <a href=\"https://orcid.org/0000-0003-0424-3870\" target=\"_blank\" rel=\"noopener noreferrer\">Jenny Bronstein</a>",

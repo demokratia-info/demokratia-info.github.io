@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מדוע צריכת תקשורת מפלגתית קשורה לקיטוב עמדות. במחקר על מדגם של 440 מעורבים פוליטית קיצוניים, נמצא שמשתמשי מדיה מפלגתית מכירים יותר טיעונים שמחזקים את עמדותיהם, אך אינם בהכרח מכירים פחות טיעונים מאתגרים.",
   "summaryHe": "Dvir-Gvirsman מבקשת להסביר את המנגנון שמחבר בין חשיפה סלקטיבית לתקשורת מפלגתית לבין קיטוב עמדות. 440 מעורבים פוליטית קיצוניים עברו ריאיון מובנה שבדק היכרות עם טיעונים מחזקים ומאתגרים. הממצאים תומכים בכך שצרכני מדיה מפלגתית מכירים יותר טיעונים שמחזקים את עמדותיהם, ודווקא היכרות זו קשורה לקיטוב.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shira Dvir-Gvirsman",
   "paperTitle": "It's Not That We Don't Know, It's That We Don't Care: Explaining Why Selective Exposure Polarizes Attitudes",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3852-1878\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Dvir-Gvirsman</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע מודל צפון-דרום לצמיחה אנדוגנית שבה זכויות קניין רוחני משפיעות על חדשנות, חיקוי והפצת טכנולוגיה. הזווית הדמוקרטית היא שהגנה על ידע בעולם לא שוויוני מחלקת כוח בין מרכזים חדשניים לבין מדינות המבקשות ללמוד ולהתפתח.",
   "summaryHe": "המאמר מציג הצעת מודל תיאורטי לצמיחה אנדוגנית שבה זכויות קניין רוחני מעצבות את היחסים בין כלכלה חדשנית יותר לבין כלכלה שנשענת יותר על למידה, חיקוי והטמעת טכנולוגיה. במקום לראות הגנה על פטנטים כפתרון יחיד, המודל מאפשר לחשוב על המחיר והתרומה של כללים שונים להפצת ידע בין מדינות. מבחינה דמוקרטית, הדיון חשוב מפני שכללי קניין רוחני בינלאומיים משפיעים על חלוקת הזדמנויות, על תלות טכנולוגית ועל היכולת של מדינות לבנות רווחה ציבורית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mónica L. Azevedo, Óscar Afonso, Sandra T. Silva",
   "paperTitle": "Endogenous growth and intellectual property rights: A north–south modeling proposal",
   "authorsHtml": "Mónica L. Azevedo; <a href=\"https://orcid.org/0000-0002-9597-9850\" target=\"_blank\" rel=\"noopener noreferrer\">Óscar Afonso</a>; <a href=\"https://orcid.org/0000-0002-8843-3999\" target=\"_blank\" rel=\"noopener noreferrer\">Sandra T. Silva</a>",

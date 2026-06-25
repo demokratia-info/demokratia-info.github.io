@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על שימוש בטכנולוגיות מידע ותקשורת בקרב בדואים בכפרים לא מוכרים בישראל, ועל הקשר בין תשתיות, מובייל, דת, יכולות ושוויון דיגיטלי.",
   "summaryHe": "המאמר מתבסס על 25 ראיונות עומק עם נשים וגברים בדואים בכפרים לא מוכרים. הוא טוען שמסגרת היכולות מסבירה טוב יותר מפער דיגיטלי טכני כיצד סמארטפונים מאפשרים פעולות רצויות, אך גם כיצד תשתיות, הדרה ודת מעצבים את השימוש בפועל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Avi Marciano; Amit M. Schejter; Rivka Neriya-Ben Shahar",
   "paperTitle": "The Capabilities Divide: ICT Adoption and Use among Bedouin in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/avi-marciano/\" target=\"_blank\" rel=\"noopener noreferrer\">Avi Marciano</a>, <a href=\"https://www.bgu.ac.il/en/people/amitsch/\" target=\"_blank\" rel=\"noopener noreferrer\">Amit M. Schejter</a>, <a href=\"https://ws.sapir.ac.il/lecturers/lectpage.php?id=1614\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Neriya-Ben Shahar</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "תמר הוסטובסקי ברנדס מנתחת את חוק הלאום דרך שלוש שאלות: זכויות הפרט, זכויות קבוצתיות והיכולת לבנות סולידריות אזרחית מכלילה.",
   "descriptionHe": "המאמר של תמר הוסטובסקי ברנדס ב-Minnesota Journal of International Law בוחן את חוק הלאום ואת השלכותיו על שוויון, הגדרה עצמית, זכויות מיעוטים וסולידריות חברתית בישראל.",
   "summaryHe": "המאמר מסביר מדוע חוק הלאום מעורר לא רק חששות לשוויון משפטי, אלא גם פגיעה עמוקה יותר ביכולת ליצור סולידריות אזרחית משותפת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס",
   "paperTitle": "Basic Law: Israel as the Nation State of the Jewish People: Implications for Equality, Self-Determination and Social Solidarity",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

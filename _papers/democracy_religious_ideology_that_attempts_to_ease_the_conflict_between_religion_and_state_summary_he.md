@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אידיאולוגיה דתית המבקשת להפחית את המתח בין דת ומדינה בישראל, ועל משמעותה לדמוקרטיה ולפלורליזם.",
   "summaryHe": "המאמר של משה הלינגר מנתח את משנתם של שני רבנים ציוניים־דתיים בולטים שמנסים להקל על המתח בין דת למדינה בישראל. מבחינה דמוקרטית, העניין המרכזי הוא האפשרות שבתוך מסורת דתית עצמה יתפתחו שפות של פשרה, הכרה במציאות מודרנית והסדרים ציבוריים שאינם נשענים רק על הכרעת רוב או כפייה. לכן המאמר חשוב לדיון על פלורליזם, דת ציבורית והסכמות חוקתיות בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moshe Hellinger",
   "paperTitle": "Religious Ideology That Attempts to Ease the Conflict between Religion and State: An Analysis of the Teachings of Two Leading Religious-Zionist Rabbis in the State of Israel",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/moshe-hellinger\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Hellinger</a>",

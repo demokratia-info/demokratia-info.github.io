@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום ואתיקה של המדינה לאחר המהפכה החוקתית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eyal Chowers",
   "paperTitle": "Ethics and the state: Israel's nationality law and the revision of a revolution",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/eyalc\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Chowers</a>",

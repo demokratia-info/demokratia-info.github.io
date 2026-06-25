@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מעמד הערבית באוניברסיטאות בישראל, ועל הקשר בין שפה, כוח אקדמי, קולוניאליות ושוויון אזרחי של ערבים־פלסטינים בישראל.",
   "summaryHe": "המאמר בוחן את מקומה של הערבית באקדמיה הישראלית: כשפת לימוד, כשפת מחקר וכשפה ציבורית בקמפוס. הוא טוען שהוראת הערבית והדיון בה עוצבו לעיתים דרך מסגרות עבריות ומערביות שמצמצמות את השפעתם של דוברי הערבית עצמם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yousef T. Jabareen; Yonatan Mendel",
   "paperTitle": "The expropriation of Arabic from Arab-Palestinians: On Arabic and coloniality in the Israeli academic sphere",
   "authorsHtml": "<a href=\"https://www.telhai.ac.il/sites/default/files/2024-09/Yousef%20Jabareen%20CV%20_%20Aug%202024_0.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Yousef T. Jabareen</a>, <a href=\"https://orcid.org/0000-0002-5499-8043\" target=\"_blank\" rel=\"noopener noreferrer\">Yonatan Mendel</a>",

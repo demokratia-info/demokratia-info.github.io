@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את השימוש ברשתות חברתיות בבחירות בישראל, במיוחד את האופן שבו פוליטיקאים חדשים וותיקים השתמשו בהן כדי לעקוף תיווך מסורתי ולגייס תמיכה.",
   "summaryHe": "המאמר מנתח את תפקיד הרשתות החברתיות בבחירות בישראל ואת השימוש האגרסיבי של בנימין נתניהו במדיה זו לגיוס תמיכה פוליטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Israel’s Social Media Elections",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

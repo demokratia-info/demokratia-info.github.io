@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מבדיל בין תיקון מוסדי שמחזק אמון ציבורי לבין רפורמה שמחלישה עצמאות, שקיפות ולגיטימציה דמוקרטית.",
   "descriptionHe": "המאמר מזהה ארבע בעיות מבניות בפעולת בג״ץ: בירור עובדות, הרכבי שופטים, זכות עמידה ומינוי שופטים, ומבחין בינן לבין רפורמות שמרכזות כוח פוליטי.",
   "summaryHe": "המאמר טוען שמשבר הלגיטימציה של בג״ץ אינו נובע רק מתוצאות פסקי דין או מהרכב שופטים מסוים, אלא גם ממבנים מוסדיים של ההליך. הוא מציע לתקן את כללי העמידה, בירור העובדות, הרכבי השופטים ומינוי השופטים כך שיחזקו עצמאות, שקיפות ואמון בהליך.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "יהושע (שוקי) שגב",
   "paperTitle": "Reforming the Israeli High Court of Justice: Proposed versus Desirable",
   "authorsHtml": "<a href=\"https://www.netanya.ac.il/team/%D7%93%D7%A8-%D7%A9%D7%95%D7%A7%D7%99-%D7%A9%D7%92%D7%91/\" target=\"_blank\" rel=\"noopener noreferrer\">Joshua Segev</a>",

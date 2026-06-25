@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amit M. Schejter, Moran Yemini",
   "paperTitle": "“Eyes Have They, But They See Not”: Israeli Election Laws, Freedom of Expression, and the Need for Transparent Speech",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3670-2165\" target=\"_blank\" rel=\"noopener noreferrer\">Amit M. Schejter</a>, Moran Yemini",

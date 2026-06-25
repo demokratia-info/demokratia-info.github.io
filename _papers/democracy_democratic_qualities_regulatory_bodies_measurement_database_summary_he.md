@@ -7,6 +7,7 @@
   "subtitleHe": "מאגר על 49 גופים רגולטוריים בשלושה תחומים ובתשע מדינות מאפשר למדוד תכונות דמוקרטיות של רגולציה גם בחוק וגם בפועל.",
   "descriptionHe": "המאמר מציע מודל מדידה ומאגר נתונים חדש להערכת תכונות דמוקרטיות של גופים רגולטוריים.",
   "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren מפתחים מדדים לשקיפות, אחריותיות, השתתפות והכללה בגופים רגולטוריים. המאגר כולל 49 גופים רגולטוריים לאומיים, תת־לאומיים ועל־לאומיים בשלושה תחומים ובתשע מדינות, ומשתמש בשיטות Item Response Theory לאימות המדדים ומשקלם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker, Esther Van-Zimmeren",
   "paperTitle": "A new measurement model and database of the democratic qualities of regulatory bodies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2911-3191\" target=\"_blank\" rel=\"noopener noreferrer\">Libby Maman</a>, <a href=\"https://orcid.org/0000-0003-2700-6747\" target=\"_blank\" rel=\"noopener noreferrer\">Jacint Jordana</a>, <a href=\"https://orcid.org/0000-0001-6998-5483\" target=\"_blank\" rel=\"noopener noreferrer\">David Levi-Faur</a>, <a href=\"https://orcid.org/0000-0001-5775-9657\" target=\"_blank\" rel=\"noopener noreferrer\">Edoardo Guaschino</a>, <a href=\"https://orcid.org/0000-0003-0054-094X\" target=\"_blank\" rel=\"noopener noreferrer\">Rahel Schomaker</a>, Esther Van-Zimmeren",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Erez Cohen",
   "paperTitle": "The Activity of Commercial Lobbies in the Israeli Knesset During 2015–2018: Undermining or Realising the Democratic Foundations?",
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/erez-cohen-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Erez Cohen</a>",

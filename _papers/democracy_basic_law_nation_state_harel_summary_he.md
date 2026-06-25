@@ -8,6 +8,7 @@
   "subtitleHe": "אלון הראל מנתח את חוק הלאום כחלק מתגובה שמרנית לליברליזציה חוקתית, ומזהיר מפני פגיעה שיטתית בחירויות דמוקרטיות.",
   "descriptionHe": "מאמרו של אלון הראל ב-Nationalities Papers מציג את חוק הלאום כרכיב במאבק חוקתי רחב על אופייה של ישראל, על זכויות מיעוטים ועל גבולות הדמוקרטיה הליברלית.",
   "summaryHe": "המאמר קורא את חוק הלאום לא כטקסט סמלי בלבד, אלא כשלב במאבק על היחס בין זהות רוב, חירויות דמוקרטיות ושוויון אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אלון הראל",
   "paperTitle": "Basic Law: Israel as the Nation State of the Jewish People",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/alon-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Harel</a>",

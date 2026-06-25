@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית בג״ץ והמיעוט הערבי אחרי אירועי אוקטובר 2000 דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ilan Saban",
   "paperTitle": "After the Storm? The Israeli Supreme Court and the Arab-Palestinian Minority in the Aftermath of October 2000",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3688-0954\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Saban</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "איך אפליה במרחב הפרטי יכולה לדחוק מיעוטים מן המרחב הציבורי. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "summaryHe": "איך אפליה במרחב הפרטי יכולה לדחוק מיעוטים מן המרחב הציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מיכל טמיר",
   "paperTitle": "The Freedom to Exclude: The Case of Israeli Society",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0000-5470-8950\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Tamir</a>",

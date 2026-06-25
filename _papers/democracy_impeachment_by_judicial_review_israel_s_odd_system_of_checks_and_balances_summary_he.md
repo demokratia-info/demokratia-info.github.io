@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על הדחה באמצעות ביקורת שיפוטית במערכת האיזונים הישראלית, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר מנתח דוקטרינה ייחודית שהתפתחה בבית המשפט העליון בישראל מאז שנות התשעים: הסרת נושאי משרה מתפקידם באמצעות הליכי ביקורת שיפוטית רגילים. הדוקטרינה אינה נשענת על מסגרת חוקתית פורמלית של הדחה, אך השפיעה עמוקות על היחסים בין הרשות השופטת לבין הרשות הפוליטית ועל עליית כוחו של בית המשפט.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yoav Dotan",
   "paperTitle": "Impeachment by Judicial Review: Israel’s Odd System of Checks and Balances",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/%D7%99%D7%95%D7%90%D7%91-%D7%93%D7%95%D7%AA%D7%9F\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Dotan</a>",

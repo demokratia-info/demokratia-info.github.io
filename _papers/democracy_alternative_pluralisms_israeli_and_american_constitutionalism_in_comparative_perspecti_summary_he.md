@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gary J. Jacobsohn",
   "paperTitle": "Alternative Pluralisms: Israeli and American Constitutionalism in Comparative Perspective",
   "authorsHtml": "<a href=\"https://liberalarts.utexas.edu/lawanddemocracy/faculty/gjj69\" target=\"_blank\" rel=\"noopener noreferrer\">Gary J. Jacobsohn</a>",

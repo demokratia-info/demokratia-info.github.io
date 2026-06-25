@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חילול מקומות קדושים של מיעוטים בתקופות אי־יציבות משטרית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ariel Zellman, Andrea Malji",
   "paperTitle": "Diversionary desecration? Regime instability and societal violence against minority sacred spaces",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1106-1282\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Zellman</a>, <a href=\"https://orcid.org/0000-0001-5905-3236\" target=\"_blank\" rel=\"noopener noreferrer\">Andrea Malji</a>",

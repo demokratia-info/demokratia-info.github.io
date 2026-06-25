@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח את “המשולש הקטיפתי” הישראלי סביב מדיניות הזנות, וטוען שהפללת לקוחות חיזקה אידאולוגיות גלובליות ושמרניות גם יחד.",
   "descriptionHe": "המאמר בוחן את אימוץ מדיניות הפללת הלקוחות בישראל ואת האופן שבו רשתות פמיניסטיות ומוסדיות עיצבו את השיח והכיוון המדינתי.",
   "summaryHe": "Yeela Lahav-Raz מנתחת את ההקשר החברתי והמוסדי שהוביל לשינוי במדיניות הזנות בישראל, במיוחד דרך פעילות תת־הוועדה למאבק בסחר בנשים ובזנות. המאמר טוען כי תת־הוועדה תפקדה כ“משולש קטיפתי” מקומי, השפיעה על רטוריקה ומדיניות, ובמקביל תרמה לסטיגמטיזציה ולשוליות של עובדות ועובדי מין.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yeela Lahav-Raz",
   "paperTitle": "The Sex Work Governance Odyssey: The Israeli Velvet Triangle and the Adoption of the End Demand Policy",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1753-3375\" target=\"_blank\" rel=\"noopener noreferrer\">Yeela Lahav-Raz</a>",

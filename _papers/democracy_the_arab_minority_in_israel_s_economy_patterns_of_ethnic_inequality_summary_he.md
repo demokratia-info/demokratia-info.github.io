@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית אי־שוויון כלכלי של המיעוט הערבי בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aziz Haidar; Noah Lewin-Epstein; Moshe Semyonov",
   "paperTitle": "The Arab Minority in Israel's Economy: Patterns of Ethnic Inequality.",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3201-4971\" target=\"_blank\" rel=\"noopener noreferrer\">Aziz Haidar</a>, <a href=\"https://english.tau.ac.il/profile/noah1\" target=\"_blank\" rel=\"noopener noreferrer\">Noah Lewin-Epstein</a>, <a href=\"https://people1.socsci.tau.ac.il/mu/semyonov/\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Semyonov</a>",

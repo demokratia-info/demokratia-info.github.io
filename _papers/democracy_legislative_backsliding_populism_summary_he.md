@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד נסיגה חקיקתית ופופוליזם סמכותני מופיעים בתהליכי חקיקת חוקי יסוד בישראל.",
   "summaryHe": "המחקר משווה דיונים בשלושה חוקי יסוד ומוצא שבכנסת ה-25 הופיעו יותר סימני נסיגה חקיקתית מאשר בכנסת ה-20.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "אסנת עקירב",
   "paperTitle": "Populism and legislative backsliding",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",

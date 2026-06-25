@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד תפיסת נסיגה דמוקרטית בזמן הרפורמה המשפטית בישראל ב-2023 נקשרה לאבל פוליטי, מצוקה נפשית והשתתפות אזרחית בקרב מתנגדי הרפורמה.",
   "summaryHe": "המחקר משתמש בתיאוריות של אבל ואובדן מעורפל כדי להסביר כיצד איום על דמותה הדמוקרטית של המדינה עשוי להיתפס כאובדן פוליטי מתמשך, ולהשפיע גם על בריאות נפשית וגם על השתתפות במחאה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Einat Yehene, Shay Ohayon",
   "paperTitle": "Political grief and ambiguous loss in a threatened democracy: psychological distress and civic responses during Israel’s judicial reform",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9780-3974\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Yehene</a>, <a href=\"https://orcid.org/0000-0001-8417-9121\" target=\"_blank\" rel=\"noopener noreferrer\">Shay Ohayon</a>",

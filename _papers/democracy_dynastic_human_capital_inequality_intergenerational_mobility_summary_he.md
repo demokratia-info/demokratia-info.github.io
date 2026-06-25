@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משתמש בנתוני אוכלוסייה שוודיים המקשרים ארבעה דורות כדי לבחון כיצד הון אנושי עובר במשפחה המורחבת. הוא מראה שמדידת ניידות רק דרך קשר הורה-ילד ממעיטה את ההתמדה הבין-דורית של יתרון והשכלה.",
   "summaryHe": "המחקר מצא שהתמדה בהון אנושי חזקה יותר כאשר מודדים את השושלת המשפחתית המורחבת, כולל דודים, דודות ובני דודים של ההורים, ולא רק את ההורים עצמם.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Adrian Adermon, Mikael Lindahl, Mårten Palme",
   "paperTitle": "Dynastic Human Capital, Inequality, and Intergenerational Mobility",
   "authorsHtml": "Adrian Adermon; Mikael Lindahl; Mårten Palme",

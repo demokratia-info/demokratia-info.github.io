@@ -8,6 +8,7 @@
   "subtitleHe": "רוזנאי מנתח כיצד המלחמה והמשבר הביטחוני שינו אך לא ביטלו את שאלות היסוד סביב הרפורמה המשפטית.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית אחרי 7 באוקטובר ומדגיש שהקשר בין ביטחון, חירום ושלטון החוק נעשה מרכזי עוד יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יניב רוזנאי",
   "paperTitle": "The Judicial Overhaul Post October 7",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",

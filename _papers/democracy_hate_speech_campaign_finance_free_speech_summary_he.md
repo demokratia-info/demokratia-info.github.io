@@ -8,6 +8,7 @@
   "subtitleHe": "ברק מדינה מנתח כיצד איסור הסתה לשנאה והסדרת מימון בחירות עלולים ליצור תוצאות בלתי מכוונות שמחלישות את מעמד חופש הביטוי בישראל.",
   "descriptionHe": "ברק מדינה בוחן את התוצאות הבלתי מכוונות של איסור על תמיכה בשנאה ושל הסדרת מימון בחירות, ואת השפעתן על חופש הביטוי בישראל.",
   "summaryHe": "המאמר מזהיר שמדיניות שנועדה להגן מפני פגיעה יכולה, בתנאים מסוימים, להחליש את התרבות החוקתית שמגינה על חופש הביטוי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ברק מדינה",
   "paperTitle": "Unintended consequences of prohibiting advocacy of hatred and regulating campaign finance: The weakening status of freedom of speech in Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה בין 314 משתתפים להט״בים ו-392 הטרוסקסואלים מצביעה על תפקידם של סטיגמה צפויה ופתיחות להתנסות בהחלטות על הורות.",
   "descriptionHe": "המאמר בוחן כיצד נטייה מינית, ציפייה לסטיגמה סביב הורות ופתיחות להתנסות קשורות לשאיפות הורות בקרב להט״בים בישראל.",
   "summaryHe": "Kfir Ifrah, Yuval Shaia ו-Geva Shenkman מנתחים שאלונים מקוונים של 314 משתתפים להט״בים ו-392 משתתפים הטרוסקסואלים בני 18-49, שנאספו בין נובמבר 2022 ליולי 2023. המאמר מראה שלהט״בים דיווחו על שאיפות הורות נמוכות יותר, ושציפייה לסטיגמה סביב הורות מתווכת חלק מן הקשר בין נטייה מינית לבין שאיפות ההורות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Kfir Ifrah, Yuval Shaia, Geva Shenkman",
   "paperTitle": "How Do Openness to Experience and Stigma Anticipation Shape the Parenthood Aspirations of LGB Israeli Individuals?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4982-2406\" target=\"_blank\" rel=\"noopener noreferrer\">Kfir Ifrah</a>; Yuval Shaia; <a href=\"https://www.runi.ac.il/en/faculty/gshenkman/\" target=\"_blank\" rel=\"noopener noreferrer\">Geva Shenkman</a>",

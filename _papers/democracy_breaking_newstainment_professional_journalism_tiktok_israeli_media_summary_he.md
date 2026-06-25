@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני על עיתונאים ישראלים, חדשות קצרות ואתגרי מקצועיות בפלטפורמות בידוריות.",
   "descriptionHe": "המאמר בוחן מדוע וכיצד עיתונאים במערכת התקשורת הישראלית משתמשים בטיקטוק, ומה קורה לנורמות מקצועיות כאשר חדשות מופצות במרחב שמבוסס על וידאו קצר ובידור.",
   "summaryHe": "טל לאור מציג מחקר איכותני על עיתונאים הפועלים במערכת התקשורת הישראלית ומשתמשים בטיקטוק להפצת תוכן חדשותי. לפי תקציר המקור, המאמר מתמקד בתפיסת הפלטפורמה כמרחב עיתונאי, באתגרים מקצועיים ובדרכים שבהן עיתונאים מנסים לשמר אחריות ציבורית בתוך תרבות פלטפורמה בידורית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tal Laor",
   "paperTitle": "Breaking Newstainment: Professional Journalism and TikTok Platform Culture, Evidence from the Israeli Media System",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5464-4325\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Laor</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את חברה אזרחית, ארגונים ומרחב פעולה דמוקרטי בישראל דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eran Vigoda‐Gadot, Rotem Miller-Mor, Shlomo Mizrahi, Eyal Tevet",
   "paperTitle": "The bureaucracy-democracy tango: a dual-source empirical revalidation by structural equation modelling in the Israeli public sector",
   "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda‐Gadot</a>, Rotem Miller-Mor, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>, Eyal Tevet",

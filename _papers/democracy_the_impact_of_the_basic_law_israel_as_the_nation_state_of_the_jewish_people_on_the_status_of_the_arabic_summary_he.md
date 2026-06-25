@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חוק הלאום ומעמד השפה הערבית בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום ומעמד השפה הערבית בישראל דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Meital Pinto",
   "paperTitle": "The Impact of the Basic Law: Israel as the Nation State of the Jewish People on the Status of the Arabic Language in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3383-1102\" target=\"_blank\" rel=\"noopener noreferrer\">Meital Pinto</a>",

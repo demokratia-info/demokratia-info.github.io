@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "איך עמדות ציבוריות כלפי עמותות יכולות לאפשר או לבלום פגיעה במרחב הדמוקרטי. החשיבות הציבורית של המאמר היא בכך שהוא עוזר לזהות כיצד נסיגה דמוקרטית מתפתחת לא רק בצעד דרמטי אחד, אלא גם דרך רצף החלטות, שפה פוליטית ותמריצים מוסדיים שמחלישים בלמים, נורמות ואמון ציבורי.",
   "summaryHe": "איך עמדות ציבוריות כלפי עמותות יכולות לאפשר או לבלום פגיעה במרחב הדמוקרטי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אסיף אפרת, עומר יאיר",
   "paperTitle": "Foreign Agents? Public Attitudes Toward Nongovernmental Organizations in a Backsliding Democracy",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את מחאת 2023 בישראל נגד הרפורמה המוסדית דרך שאלת סכנות האוטוקרטיזציה, וממקם אותה בתוך מתחים היסטוריים בין זהות יהודית בלעדית לבין דמוקרטיה רפובליקאית אוניברסלית.",
   "summaryHe": "המאמר מנתח את המחאה הישראלית נגד הרפורמה המוסדית של 2023 כמקרה של פוליטיקה מתעמתת בעת נסיגה דמוקרטית. הוא משתמש במושג ההיסטרזיס של בורדייה כדי להסביר כיצד מתחים היסטוריים בזהות המדינה הופכים למשבר פוליטי עכשווי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Alon Helled",
   "paperTitle": "Crossing the Democratic Boundaries? Israeli protest against the Autocratization Perils of the 2023 Institutional Reform",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3787-0045\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Helled</a>",

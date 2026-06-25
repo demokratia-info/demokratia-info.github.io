@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את המשפט החוקתי הישראלי על רקע המאבק בטרור, ובפרט את חוקי היסוד, מבחני המידתיות והיקף הביקורת השיפוטית על רשויות הביטחון. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מראה כיצד בית המשפט מתמודד עם מתח בין ביטחון, זכויות יסוד וסמכות שלטונית.",
   "summaryHe": "המאמר בוחן כיצד חוקי היסוד ובית המשפט העליון בישראל מעצבים את גבולות המאבק בטרור מול זכויות חוקתיות וביקורת שיפוטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ariel L. Bendor",
   "paperTitle": "THE ISRAELI CONSTITUTION AND THE FIGHT AGAINST TERRORISM",
   "authorsHtml": "<a href=\"https://law.biu.ac.il/en/node/475\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel L. Bendor</a>",

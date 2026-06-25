@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שרטוט מחדש של גבולות האזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שרטוט מחדש של גבולות האזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nadim N. Rouhana; Nimer Sultany",
   "paperTitle": "Redrawing the Boundaries of Citizenship: Israel's New Hegemony",
   "authorsHtml": "<a href=\"https://fletcher.tufts.edu/academics/faculty/nadim-rouhana\" target=\"_blank\" rel=\"noopener noreferrer\">Nadim N. Rouhana</a>, <a href=\"https://orcid.org/0000-0002-7922-7683\" target=\"_blank\" rel=\"noopener noreferrer\">Nimer Sultany</a>",

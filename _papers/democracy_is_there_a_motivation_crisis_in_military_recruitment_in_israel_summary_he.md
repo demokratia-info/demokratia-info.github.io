@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על משבר המוטיבציה בגיוס לצבא בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית משבר המוטיבציה בגיוס לצבא בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yagil Levy",
   "paperTitle": "Is There a Motivation Crisis in Military Recruitment in Israel?",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/profyagillevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Yagil Levy</a>",

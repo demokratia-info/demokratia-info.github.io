@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר נרטיבי על בני דור 1.5 של העלייה מברית המועצות לשעבר, שהשתלבו כסגל בכיר באקדמיה הישראלית ועל ההון התרבותי, החברתי והחוסני שנדרש מהם.",
   "summaryHe": "המאמר בוחן את חוויותיהם המקצועיות והאישיות של חוקרים שהיגרו בילדותם מברית המועצות לשעבר והפכו לחברי סגל בכיר בישראל. הוא מראה שגם קבוצה הנתפסת כמודל של השתלבות נדרשת לבנות הון תרבותי, חברתי וחוסני חדש כדי להיכנס למרחבים אליטיסטיים באקדמיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Victoria Kot; Miri Yemini; Katerina Bodovski",
   "paperTitle": "Another model minority? Immigrant scholars from the former Soviet Union in Israeli academia",
   "authorsHtml": "Victoria Kot; <a href=\"https://cris.tau.ac.il/en/persons/miri-yemini/\" target=\"_blank\" rel=\"noopener noreferrer\">Miri Yemini</a>; <a href=\"https://orcid.org/0000-0003-1997-5214\" target=\"_blank\" rel=\"noopener noreferrer\">Katerina Bodovski</a>",

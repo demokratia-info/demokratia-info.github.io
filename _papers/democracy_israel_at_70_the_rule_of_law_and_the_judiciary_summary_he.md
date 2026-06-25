@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שלטון החוק והרשות השופטת בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שלטון החוק והרשות השופטת בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mohammed Saif-Alden Wattad",
   "paperTitle": "Israel at 70: The Rule of Law and the Judiciary",
   "authorsHtml": "Mohammed Saif-Alden Wattad",

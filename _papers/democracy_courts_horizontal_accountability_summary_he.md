@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "מחקרם של מעוז רוזנטל ואסף מידני מראה שבית משפט יכול לתרום לאחריות שלטונית, אבל גם פועל באופן אסטרטגי בתוך אילוצים פוליטיים.",
   "summaryHe": "איך ביקורת שיפוטית יכולה לשמור על אחריות שלטונית גם כאשר הדמוקרטיה אינה מלאה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מעוז רוזנטל, אסף מידני",
   "paperTitle": "Courts and Horizontal Accountability in Hybrid Regimes: Judicial Review and the Quality of Democracy",
   "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>; <a href=\"https://www.int.mta.ac.il/faculty-members/prof.-meydani-assaf\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meydani</a>",

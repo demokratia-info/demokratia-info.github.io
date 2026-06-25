@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את ניסיונות ההשפעה של סין על שיח אקדמי ותקשורתי בישראל דרך מושג העוצמה החדה. הוא טוען שהשפעה זו הייתה מוגבלת, בין היתר בשל חשדנות ציבורית וגיאופוליטיקה אזורית.",
   "summaryHe": "Chaziza ו־Lutmar מציבים את ישראל כמקרה מבחן לחוסן דמוקרטי מול מניפולציה, צנזורה והשפעה חיצונית. סין ניסתה לעצב תפיסות ציבוריות, אך תמיכתה בעמדות המנוגדות לאינטרסים ישראליים והמודעות הציבורית הגוברת החלישו את הצלחתה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mordechai Chaziza, Carmela Lutmar",
   "paperTitle": "The Limits of China’s Sharp Power in Israel’s Academic and Media Discourse",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1256-9694\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Chaziza</a>; <a href=\"https://cris.haifa.ac.il/en/persons/carmela-lutmar/\" target=\"_blank\" rel=\"noopener noreferrer\">Carmela Lutmar</a>",

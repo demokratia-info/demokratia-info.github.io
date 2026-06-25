@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר קושר בין תוכניות ריאליטי מוזיקליות לבין סגנון פוליטי פופוליסטי, ובוחן את כהונת מירי רגב כמקרה ישראלי של פוליטיקת טעם וזהות.",
   "descriptionHe": "המאמר מנתח את הקשר בין סגנון תרבותי, תוכניות ריאליטי מוזיקליות ופופוליזם פוליטי בישראל ומעבר לה.",
   "summaryHe": "Oded Erez מציע להבין פופוליזם גם כמשטר של סגנון, לא רק כתוכן אידאולוגי. דרך דיון בתוכניות טלוויזיה בפורמט Idol ובכהונת מירי רגב כשרת התרבות והספורט, המאמר מראה כיצד טעם, הופעה והתרסה מול אליטה תרבותית נעשים כלים פוליטיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oded Erez",
   "paperTitle": "The regime of style: cover versions, reality TV, and the aesthetic principles of populism in Israel and beyond",
   "authorsHtml": "<a href=\"https://en.musicology.huji.ac.il/people/oded-erez-0\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Erez</a>",

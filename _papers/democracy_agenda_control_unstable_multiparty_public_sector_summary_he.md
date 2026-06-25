@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן שליטה בסדר היום במערכת פרלמנטרית רב־מפלגתית לא יציבה, באמצעות עדויות מן הסקטור הציבורי הישראלי. הוא מדגיש שסדר היום אינו רק רשימת נושאים טכנית, אלא מנגנון כוח שקובע אילו החלטות יגיעו לדיון, מי יוכל לעכב אותן ואיך קואליציות מנהלות מחלוקות.",
   "summaryHe": "Maoz Rosenthal מנתח את השליטה בסדר היום כמשאב פוליטי במערכת פרלמנטרית שבה קואליציות מורכבות ותמריצי הישרדות ממשלתית משפיעים על קבלת החלטות. המאמר חשוב משום שהוא מחבר בין מוסדות, שירות ציבורי ויציבות דמוקרטית לבין השאלה מי שולט בנקודת הכניסה למדיניות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maoz Rosenthal",
   "paperTitle": "Agenda control in an unstable multiparty parliamentary democracy: evidence from the Israeli public sector",
   "authorsHtml": "<a href=\"https://www.jmc.ac.il/en/about/contact-list/maoz-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Maoz Rosenthal</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מינויים וקידומים שיפוטיים בין חוקה, חוק ופוליטיקה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eli M. Salzberger",
   "paperTitle": "12. Judicial Appointments and Promotions in Israel: Constitution, Law and Politics",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli M. Salzberger</a>",

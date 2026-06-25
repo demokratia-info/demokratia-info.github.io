@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם שופטי בית המשפט העליון מראים שלעתירות אסירים יש שלושה דפוסים: ביורוקרטיזציה, ענישה מחדש או רפורמה בחיי הכלא.",
   "descriptionHe": "המאמר בוחן כיצד שופטי בית המשפט העליון בישראל מבינים ביקורת שיפוטית על החלטות מנהליות של רשויות הכלא.",
   "summaryHe": "Netanel Dagan ו-Shmuel Baron מנתחים ממצאים איכותניים מראיונות עם שופטי בית המשפט העליון בישראל על עתירות אסירים. הם מזהים שלושה אופנים שבהם הביקורת השיפוטית פועלת: ביורוקרטיזציה של ההחלטה, ענישה מחדש של האסיר, או רפורמה בתנאי החיים בכלא.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Netanel Dagan, Shmuel Baron",
   "paperTitle": "Taking Prison to Court: Exploring the Judicial Review of Prison Decision-Making Through Supreme Court Judges in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5610-8801\" target=\"_blank\" rel=\"noopener noreferrer\">Netanel Dagan</a>, Shmuel Baron",

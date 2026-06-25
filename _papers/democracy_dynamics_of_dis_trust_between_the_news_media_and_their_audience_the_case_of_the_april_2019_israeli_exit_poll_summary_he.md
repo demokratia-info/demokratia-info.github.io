@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את יחסי האמון ואי־האמון בין תקשורת החדשות לבין הקהל דרך מדגמי הבחירות בישראל באפריל 2019, ומסביר מדוע מדידה עיתונאית בזמן אמת יכולה להפוך למשבר אמון דמוקרטי.",
   "summaryHe": "המאמר מנתח את משבר האמון שנוצר סביב מדגמי הבחירות של אפריל 2019 בישראל, ומראה כיצד יחסי אמון ואי־אמון בין תקשורת החדשות לבין הקהל אינם נוצרים רק מאי־דיוק מספרי. המסר המרכזי הוא שמדגמי יציאה הם רגע מבחן ציבורי: כאשר התחזית, ההסבר העיתונאי והחוויה הפוליטית של הצופים אינם מתלכדים, האמון בתקשורת נפגע גם אם העבודה המקצועית מורכבת יותר מן הכותרת. לכן המאמר מציע לראות אמון תקשורתי כתהליך דינמי של ציפיות, פרשנות ואחריות ציבורית, ולא כעמדה קבועה בעד או נגד כלי תקשורת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tali Aharoni, Keren Tenenboim‐Weinblatt, Christian Baden, Maximilian Overbeck",
   "paperTitle": "Dynamics of (dis)trust between the news media and their audience: The case of the April 2019 Israeli exit polls",
   "authorsHtml": "<a href=\"https://en.communication.huji.ac.il/people/tali-aharoni\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Aharoni</a>, <a href=\"https://en.communication.huji.ac.il/people/keren-tenenboim-weinblatt\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Tenenboim‐Weinblatt</a>, <a href=\"https://en.communication.huji.ac.il/people/christian-baden\" target=\"_blank\" rel=\"noopener noreferrer\">Christian Baden</a>, <a href=\"https://orcid.org/0000-0003-3658-5584\" target=\"_blank\" rel=\"noopener noreferrer\">Maximilian Overbeck</a>",

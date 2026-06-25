@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "David Ellenson",
   "paperTitle": "The Supreme Court, Yeshiva Students, and Military Conscription: Judicial Review, the Grunis Dissent, and its Implications for Israeli Democracy and Law",
   "authorsHtml": "<a href=\"https://huc.edu/directory/rabbi-david-ellenson-ph-d/\" target=\"_blank\" rel=\"noopener noreferrer\">David Ellenson</a>",

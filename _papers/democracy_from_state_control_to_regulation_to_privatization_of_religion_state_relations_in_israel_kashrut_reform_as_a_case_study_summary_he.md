@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על רפורמת הכשרות ושינוי יחסי דת ומדינה בישראל, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר משתמש ברפורמת הכשרות כמקרה מבחן לשינוי רחב ביחסי דת ומדינה בישראל. הוא מתאר מעבר מהספקה ושליטה מדינתית ישירה של שירותים דתיים אל מודלים של רגולציה, נסיגה והפרטה חלקית. הטענה המרכזית היא שמודל הסטטוס־קוו כבר אינו מתאר כראוי את המציאות, מפני שיחסי דת ומדינה נעשים היברידיים ומשלבים שוק, פיקוח, מונופולים ישנים ומנגנונים חדשים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nahshon Perez, Elisheva Rosman",
   "paperTitle": "From State Control to Regulation to Privatization of Religion–State Relations in Israel: Kashrut Reform as a Case-Study",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/nahshon-perez\" target=\"_blank\" rel=\"noopener noreferrer\">Nahshon Perez</a>; <a href=\"https://politics.biu.ac.il/en/node/596\" target=\"_blank\" rel=\"noopener noreferrer\">Elisheva Rosman</a>",

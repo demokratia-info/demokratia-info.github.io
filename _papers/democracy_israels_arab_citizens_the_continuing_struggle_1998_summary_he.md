@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדם הפוליטי והחברתי של אזרחי ישראל הערבים עד סוף שנות ה-90, ובוחן את המתח בין זהותה היהודית של המדינה, אופייה הדמוקרטי ושיקולי הביטחון שלה.",
   "summaryHe": "המאמר מתאר את מאבקם המתמשך של אזרחי ישראל הערבים לשילוב פוליטי, לצמצום אי-שוויון ולייצוג התואם את משקלם הדמוגרפי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Mark Tessler",
   "paperTitle": "Israel’s Arab Citizens: The Continuing Struggle (1998)",
   "authorsHtml": "<a href=\"https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Tessler</a>",

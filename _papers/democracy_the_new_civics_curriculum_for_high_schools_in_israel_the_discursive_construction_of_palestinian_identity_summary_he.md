@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תוכנית האזרחות החדשה וזהות פלסטינית בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית תוכנית האזרחות החדשה וזהות פלסטינית בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Halleli Pinson",
   "paperTitle": "The new civics curriculum for high schools in Israel: The discursive construction of Palestinian identity and narratives",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/halleli/\" target=\"_blank\" rel=\"noopener noreferrer\">Halleli Pinson</a>",

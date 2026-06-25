@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע לפרק את המושג הרחב \"מוסדות\" לשכבות, ולהתמקד במוסדות ביניים שמתרגמים כללים ונורמות כלליים לפעולה של שחקנים בשטח.",
   "summaryHe": "Ménard ו־Martino טוענים שמוסדות אינם ניתנים להבנה או למדידה היטב כמושג כוללני אחד. הם מציעים מסגרת של <strong>meso-institutions</strong> שמחברת בין כללי מאקרו לבין התנהגות מיקרו, וכך מאפשרת מחקר אמפירי מדויק יותר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Claude Ménard, Gaetano Martino",
   "paperTitle": "Unbundling institutions: the case for meso-institutions",
   "authorsHtml": "<a href=\"https://claudemenard.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Claude Ménard</a>; <a href=\"https://www.unipg.it/personale/gaetano.martino\" target=\"_blank\" rel=\"noopener noreferrer\">Gaetano Martino</a>",

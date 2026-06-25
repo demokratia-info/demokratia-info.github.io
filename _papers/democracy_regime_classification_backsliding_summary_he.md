@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסביר כיצד הוויכוח על הרפורמה המשפטית קשור לשאלה רחבה יותר: איזה סוג של דמוקרטיה ישראל היא, ומה גבולות המשטר שאותו מסווגים.",
   "summaryHe": "למה סיווג המשטר הישראלי משנה את האופן שבו מבינים את המשבר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "גל אריאלי",
   "paperTitle": "The Democratic Backsliding Debate and the Controversy over Regime Classification in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/gal-ariely/\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Ariely</a>",

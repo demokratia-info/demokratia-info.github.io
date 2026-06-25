@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ואמון הציבור בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בחירות, ייצוג פוליטי ואמון הציבור בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arend Lijphart, Peter James Bowman, Reuven Y. Hazan",
   "paperTitle": "Party systems and issue dimensions: Israel and thirty‐five other old and new democracies compared",
   "authorsHtml": "<a href=\"https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html\" target=\"_blank\" rel=\"noopener noreferrer\">Arend Lijphart</a>, Peter James Bowman, <a href=\"https://orcid.org/0000-0003-4852-0649\" target=\"_blank\" rel=\"noopener noreferrer\">Reuven Y. Hazan</a>",

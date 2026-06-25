@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את ניסיונות המדינה להפריד את צעירי הבדואים בנגב מזהות ערבית-פלסטינית, ומראה מדוע מדיניות זו נכשלה על רקע אפליה, הדרה וזהות לאומית שאינה כוללת תרבות ומורשת ערביות.",
   "summaryHe": "המאמר מנתח סקר בקרב 529 תלמידי תיכון בדואים בנגב ומוצא זהות ערבית-פלסטינית בולטת לצד אי-ודאות ביחס להשתייכות אזרחית ישראלית. הוא טוען שהניסיון לדה-ערביזציה נכשל משום שמבנה הזהות הלאומית בישראל אינו מעניק מקום שווה לתרבות ולשאיפות הקולקטיביות של אזרחיה הערבים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yossi Yonah, Ismael Abu-Saad, Avi Kaplan",
   "paperTitle": "De-arabization of the Bedouin: A study of an inevitable failure",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/staffmemberslobby/yyona/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Yonah</a>, <a href=\"https://orcid.org/0000-0003-2601-7188\" target=\"_blank\" rel=\"noopener noreferrer\">Ismael Abu-Saad</a>, <a href=\"https://orcid.org/0000-0002-2898-0085\" target=\"_blank\" rel=\"noopener noreferrer\">Avi Kaplan</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את המעבר של ישראל בשנת 1953 מאסטרטגיה הגנתית־התקפית לאסטרטגיה התקפית־הגנתית. הוא טוען כי גופי התכנון בצה״ל יזמו את השינוי, וכי הממשלה אישרה אותו ללא התנגדות משמעותית.",
   "summaryHe": "Oren, Barak ו־Shapira משתמשים במסמכים רשמיים, ראיונות, זיכרונות ומקורות נוספים כדי לבחון רגע מכריע ביחסי צבא, ממשלה ואסטרטגיה. מבחינה דמוקרטית, המאמר מציף שאלות על מקור היוזמה, דיון אזרחי ואחריות על החלטות ביטחוניות ארוכות טווח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amiram Oren, Oren Barak, Assaf Shapira",
   "paperTitle": "‘How The Mouse Got His Roar’: The Shift to an ‘Offensive–Defensive’ Military Strategy in Israel in 1953 and its Implications",
   "authorsHtml": "Amiram Oren; <a href=\"https://en.politics.huji.ac.il/people/oren-barak\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Barak</a>; <a href=\"https://en.idi.org.il/experts/2514\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Shapira</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "מסגרת מושגית ומקרה הרפורמה בשירות המדינה בישראל בשנים 2013-2018 מסבירים כיצד שחקנים מקומיים מקדמים שינוי מנהלי.",
   "descriptionHe": "המאמר מנתח את תפקידם של יזמי מדיניות בעיצוב רפורמות מנהליות ציבוריות, תוך בחינה של ניסיון הרפורמה בשירות המדינה בישראל.",
   "summaryHe": "Nissim Cohen מציג מסגרת מושגית להערכת השפעת יזמי מדיניות על רפורמה מנהלית ובוחן אותה דרך ניסיון הרפורמה בשירות המדינה בישראל בשנים 2013-2018. המחקר משתמש בניתוח טקסטואלי ובראיונות עומק עם פוליטיקאים, בכירים וגורמים לא־ממשלתיים כדי להבין מוטיבציות, חסמים ואסטרטגיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nissim Cohen",
   "paperTitle": "Policy Entrepreneurs and the Design of Administrative Reform: A Conceptual Framework and the Israeli Case",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",

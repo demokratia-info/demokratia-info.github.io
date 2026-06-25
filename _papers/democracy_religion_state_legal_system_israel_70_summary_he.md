@@ -8,6 +8,7 @@
   "subtitleHe": "זלצברגר בוחן את הקשר בין המשפט הישראלי, זהות יהודית-דמוקרטית והמתח המתמשך בין דת, מדינה וזכויות.",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עלי זלצברגר",
   "paperTitle": "Israel at 70: The Relations Between Religion and State, Democracy, and the Israeli Legal System",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Salzberger</a>",

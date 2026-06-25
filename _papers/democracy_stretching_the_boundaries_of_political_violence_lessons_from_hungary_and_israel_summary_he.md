@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין הונגריה לישראל ומציע להרחיב את מושג האלימות הפוליטית כך שיכלול שפה מסיתה, דה-לגיטימציה וצעדי ענישה מוסדיים שאינם בהכרח פיזיים.",
   "summaryHe": "המאמר בוחן כיצד ממשלות ימין שמרניות בהונגריה ובישראל משתמשות בחקיקה, בהחלשת מערכת המשפט ובסימון יריבים כדי לשנות את אופי המדינה והחברה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gadi Hitman",
   "paperTitle": "STRETCHING THE BOUNDARIES OF POLITICAL VIOLENCE: LESSONS FROM HUNGARY AND ISRAEL",
   "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>",

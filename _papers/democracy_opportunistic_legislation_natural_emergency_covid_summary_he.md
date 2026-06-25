@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על האופן שבו מצב חירום טבעי יכול להפוך להזדמנות להרחבת סמכות שלטונית.",
   "descriptionHe": "המאמר מנתח את חקיקת הזדמנות בזמן חירום טבעי: צבירת כוח ממשלתי בקורונה ומציג ממצא או טענה קונקרטיים מתוך מקור אקדמי מזוהה. הוא חשוב לדמוקרטיה ליברלית משום שהוא מחבר בין זכויות, שוויון ומיעוטים לבין שאלות של כוח, זכויות, אחריות ציבורית ואמון במוסדות.",
   "summaryHe": "המחקר בוחן הגבלות הפלות ברמת המדינה במהלך התפרצות COVID-19. הניתוחים ההשוואתיים האיכותיים של המחקר מצביעים על כך שלפחות בהקשר הפוליטי של זכויות רבייה ותחת מצב החירום של COVID-19, היו אלה רמת החירום, רמות הדתיות במדינה והדומיננטיות הרפובליקנית בממשלה שניבאו היטב את הסבירות לחקיקה אופורטוניסטית. בהקשר דמוקרטי, הממצא המרכזי הוא שהנושא אינו רק טכני או מקצועי: הוא משפיע על האופן שבו כוח מופעל, מוגבל ומוצדק כלפי אזרחים וקבוצות שונות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Udi Sommer, Jonathan Parent, Quan Li",
   "paperTitle": "Opportunistic legislation under a natural emergency: Grabbing government power in a democracy during COVID ‐19",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9284-5291\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>; Jonathan Parent; <a href=\"https://orcid.org/0000-0002-8851-3585\" target=\"_blank\" rel=\"noopener noreferrer\">Quan Li</a>",

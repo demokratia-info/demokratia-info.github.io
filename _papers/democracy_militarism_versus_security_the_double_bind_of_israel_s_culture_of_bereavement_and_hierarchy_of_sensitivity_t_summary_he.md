@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Udi Lebel",
   "paperTitle": "Militarism versus Security? The Double-Bind of Israel's Culture of Bereavement and Hierarchy of Sensitivity to Loss",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0964-019X\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Lebel</a>",

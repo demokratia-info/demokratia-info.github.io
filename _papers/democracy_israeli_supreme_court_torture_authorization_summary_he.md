@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח את החלטת בית המשפט העליון בעניין טביש מול הלכת הוועד הציבורי נגד עינויים, וטוען שהיא מאפשרת מסגרת ארגונית לאמצעי חקירה אלימים.",
   "descriptionHe": "המאמר בוחן את פסיקת בית המשפט העליון בעניין טביש ואת השפעתה על איסור עינויים, הגנת הצורך ואחריות חוקתית בישראל.",
   "summaryHe": "Smadar Ben-Natan מנתחת את החלטת בית המשפט העליון בעניין Tbeish v Attorney General לאור הלכת הוועד הציבורי נגד עינויים משנת 1999. לפי תקציר המאמר, אף שההחלטה אינה מוצגת כשינוי דין, היא מאשרת בפועל נוהל צורך של השב״כ ומייצרת מסגרת של אישור מוקדם לאמצעי חקירה אלימים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Smadar Ben-Natan",
   "paperTitle": "Revise Your Syllabi: Israeli Supreme Court Upholds Authorization for Torture and Ill-Treatment",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/smadar1\" target=\"_blank\" rel=\"noopener noreferrer\">Smadar Ben-Natan</a>",

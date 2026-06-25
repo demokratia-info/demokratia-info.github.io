@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם 158 מחנכים בבתי ספר יסודיים מדגישים אמפתיה, הישגיות, מדיה ושיתוף פעולה עם הורים.",
   "descriptionHe": "המאמר בוחן תפיסות של מחנכים בבתי ספר יסודיים בחברה הערבית בישראל לגבי חינוך לערכים, ומדגיש את הצורך בהכשרה, התאמה לעידן הדיגיטלי ושיתוף הורים.",
   "summaryHe": "ראאד זידאן מנתח ראיונות עומק חצי־מובנים עם 158 מחנכים מ־34 בתי ספר יסודיים ציבוריים ביישובים ערביים בישראל בשנת הלימודים 2023-2024. הממצאים בתקציר המקור מדגישים ערכים חברתיים כמו אמפתיה והתחשבות לצד ערכים אישיים של מצוינות והישג, ומציגים את החינוך לערכים כתהליך מתמשך שדורש כלים, הכשרה ושיתוף פעולה עם הורים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Raed Zedan",
   "paperTitle": "Education for Values Among Arab Ethnic Minority in Israel: Educators' Perspectives",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2823-2140\" target=\"_blank\" rel=\"noopener noreferrer\">Raed Zedan</a>",

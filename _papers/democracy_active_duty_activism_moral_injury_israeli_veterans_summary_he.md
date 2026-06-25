@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם ותיקי לחימה בישראל מראים כיצד אשמה, בושה, כעס ותסכול מובילים למסלולים שונים של אקטיביזם אחרי השירות.",
   "descriptionHe": "המאמר בוחן כיצד פגיעה מוסרית וטראומה קרבית משפיעות על אקטיביזם פוליטי וחברתי של ותיקי לחימה ישראלים.",
   "summaryHe": "Adi Levy ו-Michael L. Gross מנתחים 13 ראיונות עומק עם חיילים לשעבר שנחשפו לאירועים בעלי פוטנציאל לפגיעה מוסרית. הם מבחינים בין נרטיב הומניטרי, שמוביל לעיתים לתיקון ולעשייה חברתית, לבין נרטיב ביטחון לאומי, שמזין כעס, מחאה ואקטיביזם פוליטי אינטנסיבי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Adi Levy, Michael L. Gross",
   "paperTitle": "From active duty to activism: how moral injury and combat trauma drive political activism and societal reintegration among Israeli veterans",
   "authorsHtml": "Adi Levy, <a href=\"https://orcid.org/0000-0001-5835-7879\" target=\"_blank\" rel=\"noopener noreferrer\">Michael L. Gross</a>",

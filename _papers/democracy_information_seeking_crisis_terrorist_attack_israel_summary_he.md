@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם 25 ישראלים אחרי מתקפת 7 באוקטובר מצביעים על סינון, הימנעות וריבוי ערוצים כדרכי התמודדות עם עומס מידע.",
   "descriptionHe": "המאמר מנתח כיצד אזרחים בישראל חיפשו מידע בזמן משבר בעקבות מתקפת טרור, וכיצד עומס מידע וחרדת מידע עיצבו את ההתנהגות שלהם.",
   "summaryHe": "Ayelet Ayalon ו-Noa Aharony מנתחות ראיונות עומק חצי־מובנים עם 25 משתתפים על חיפוש מידע בזמן המשבר שנוצר אחרי מתקפת חמאס ב-7 באוקטובר. המחקר מזהה צרכים, מקורות וחסמים, ומראה שהמשתתפים נעו בין הרצון להפחית אי־ודאות לבין החשש שעודף מידע יגביר חרדה ויפגע בתפקוד.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ayelet Ayalon, Noa Aharony",
   "paperTitle": "Information-seeking behaviour during crisis caused by a terrorist attack in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0327-9866\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Ayalon</a>; <a href=\"https://orcid.org/0000-0003-1440-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Noa Aharony</a>",

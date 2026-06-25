@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על נשים דרוזיות דתיות בישראל, ועל האופן שבו השכלה גבוהה ותעסוקה איכותית מרחיבות את גבולות השיח הדתי והקהילתי.",
   "summaryHe": "המאמר בוחן כיצד נשים דרוזיות דתיות בישראל מפעילות סוכנות בתוך קהילה שמרנית ומנסחות מחדש את היחס בין דתיות, מודרניות, השכלה ותעסוקה. על בסיס ראיונות עם עשרים נשים הוא מראה שהן אינן בוחרות רק בין מסורת למודרנה, אלא מרחיבות את ההגדרות הקהילתיות של שתיהן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ebtesam Hasan Barakat",
   "paperTitle": "Pious Women Challenge Arrangements Anchored in the Dominancy of the Religious Discourse: Druze Women in Israel as a Case Study",
   "authorsHtml": "Ebtesam Hasan Barakat",

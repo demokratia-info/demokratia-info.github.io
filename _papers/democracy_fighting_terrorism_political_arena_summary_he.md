@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Suzie Navot מנתח את המסגרת המשפטית לפסילת מפלגות ומועמדים בישראל בשל תמיכה בטרור או אלימות. הוא מציב את הדילמה של דמוקרטיה מתגוננת: כיצד להגן על ההליך הדמוקרטי בלי לצמצם יתר על המידה השתתפות פוליטית.",
   "summaryHe": "Navot בוחנת את התיקון האנטי־טרוריסטי בדיני הבחירות בישראל ומשווה אותו גם לחקיקה הספרדית משנת 2002. המאמר מדגיש שהמאבק בטרור בזירה הפוליטית מחייב קווים ברורים, ראיות אמינות ופיקוח שיפוטי כדי שלא להפוך הגנה על הדמוקרטיה לפגיעה בה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Suzie Navot",
   "paperTitle": "Fighting Terrorism in the Political Arena",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/38336\" target=\"_blank\" rel=\"noopener noreferrer\">Suzie Navot</a>",

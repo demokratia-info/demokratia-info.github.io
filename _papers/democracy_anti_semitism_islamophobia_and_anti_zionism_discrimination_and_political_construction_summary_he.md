@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אנטישמיות, אסלאמופוביה ואנטי־ציונות כהבניה פוליטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית אנטישמיות, אסלאמופוביה ואנטי־ציונות כהבניה פוליטית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alberto Spektorowski",
   "paperTitle": "Anti-Semitism, Islamophobia and Anti-Zionism: Discrimination and Political Construction",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/albertos\" target=\"_blank\" rel=\"noopener noreferrer\">Alberto Spektorowski</a>",

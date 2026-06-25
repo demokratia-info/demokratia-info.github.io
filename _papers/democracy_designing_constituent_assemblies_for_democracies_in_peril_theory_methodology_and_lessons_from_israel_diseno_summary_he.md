@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Netta Barak-Corren, Hanna Lerner, Tirza Kelman",
   "paperTitle": "Designing Constituent Assemblies for Democracies in Peril: Theory, Methodology, and Lessons from Israel; Diseño de asambleas constituyentes para democracias en peligro: teoría, metodología y lecciones de Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://cris.tau.ac.il/en/persons/hanna-lerner/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>, Tirza Kelman",

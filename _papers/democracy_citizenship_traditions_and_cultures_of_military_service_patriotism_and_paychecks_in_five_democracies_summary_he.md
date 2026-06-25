@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה כיצד ציבור בחמש דמוקרטיות מפרש את מניעי השירות הצבאי: פטריוטיות ואזרחות טובה לעומת שכר, הטבות או היעדר חלופות. הוא קושר את ההבדלים לשיחי אזרחות לאומיים ולמאפייני הפעילות הצבאית.",
   "summaryHe": "המאמר מציג סקרים מייצגים מצרפת, גרמניה, ישראל, בריטניה וארצות הברית שנערכו בין 2018 ל-2021. הממצאים מראים שונות רחבה בין מדינות בתפיסת מניעי השירות, ומציעים שההסבר העיקרי נעוץ בשילוב בין תרבות אזרחות לאומית לקצב המבצעי של הצבא.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav, Markus Steinbrecher",
   "paperTitle": "Citizenship Traditions and Cultures of Military Service: Patriotism and Paychecks in Five Democracies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6504-060X\" target=\"_blank\" rel=\"noopener noreferrer\">Ronald R. Krebs</a>, <a href=\"https://orcid.org/0000-0002-4470-1242\" target=\"_blank\" rel=\"noopener noreferrer\">Robert Ralston</a>, <a href=\"https://orcid.org/0000-0002-4242-5088\" target=\"_blank\" rel=\"noopener noreferrer\">Thierry Balzacq</a>, <a href=\"https://orcid.org/0000-0001-6923-4946\" target=\"_blank\" rel=\"noopener noreferrer\">David Blagden</a>, <a href=\"https://orcid.org/0000-0002-8820-3579\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>, Markus Steinbrecher",

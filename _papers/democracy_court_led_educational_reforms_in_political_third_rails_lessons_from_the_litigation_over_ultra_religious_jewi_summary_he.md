@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lotem Perry‐Hazan",
   "paperTitle": "Court-led educational reforms in political third rails: lessons from the litigation over ultra-religious Jewish schools in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6560-1136\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Perry‐Hazan</a>",

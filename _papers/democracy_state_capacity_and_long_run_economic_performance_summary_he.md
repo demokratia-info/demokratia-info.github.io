@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mark Dincecco, Gabriel Katz",
   "paperTitle": "State Capacity and Long‐Run Economic Performance",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2860-7069\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Dincecco</a>, <a href=\"https://orcid.org/0000-0001-5970-2769\" target=\"_blank\" rel=\"noopener noreferrer\">Gabriel Katz</a>",

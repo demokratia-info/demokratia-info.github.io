@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן עמדות של חברי מועצות מקומיות כלפי רפורמות ממשל מקומי באירופה ובישראל. הוא מראה שהעדפות לרפורמות של השתתפות, ביזור ויעילות אינן אוניברסליות, אלא מושפעות מהקשר מוסדי ופוליטי.",
   "summaryHe": "Razin ו־Hazan מנתחים עמדות של חברי מועצות מקומיות כלפי סדר יום של רפורמות בשלטון המקומי. המאמר חשוב משום שהוא מזכיר שדמוקרטיה מקומית אינה מיובאת כמודל אחיד; היא תלויה באמון, במסורת מנהלית ובאופן שבו נבחרים מקומיים מבינים השתתפות וביזור.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eran Razin, Anna Hazan",
   "paperTitle": "Attitudes of European Local Councillors towards Local Governance Reforms: A North–South Divide?",
   "authorsHtml": "<a href=\"https://en.geography.huji.ac.il/people/eran-razin\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Razin</a>; Anna Hazan",

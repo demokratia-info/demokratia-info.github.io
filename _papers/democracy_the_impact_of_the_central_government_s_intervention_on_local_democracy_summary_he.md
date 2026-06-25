@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על התערבות השלטון המרכזי ודמוקרטיה מקומית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית התערבות השלטון המרכזי ודמוקרטיה מקומית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Itai Beeri",
   "paperTitle": "The impact of the central government’s intervention on local democracy",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>",

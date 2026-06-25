@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין מאבקי זכויות נשים וזכויות להט\"ב בישראל בשנים 1970-2010 כדי לבחון את גבולות השינוי החברתי באמצעות ליטיגציה.",
   "summaryHe": "המחקר טוען שהצלחות משפטיות אינן מתורגמות תמיד לשינוי חברתי רחב. בהשוואה בין זכויות נשים לזכויות להט\"ב בישראל, המאמר מצביע על פער בין הישגים חקיקתיים ושיפוטיים לבין מדדים חברתיים יחסיים לאורך זמן.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yoav Dotan",
   "paperTitle": "The Boundaries of Social Transformation through Litigation: Women's and LGBT Rights in Israel, 1970–2010",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/%D7%99%D7%95%D7%90%D7%91-%D7%93%D7%95%D7%AA%D7%9F\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Dotan</a>",

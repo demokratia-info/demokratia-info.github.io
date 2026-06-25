@@ -7,6 +7,7 @@
   "subtitleHe": "17 ראיונות עומק עם נשים בעלות אקדח מציגים שילוב מורכב בין אימהות, נשיות, ביטחון אישי ואזרחות ממוגדרת.",
   "descriptionHe": "המאמר בוחן כיצד נשים אזרחיות בישראל שמחזיקות באקדח מפרשות ביטחון, מגדר ואזרחות בתוך שינוי במודל הביטחון הממלכתי.",
   "summaryHe": "Maya Maor, Nehemia Stern ו-Uzi Ben-Shalom מנתחים 17 ראיונות עומק עם נשים אזרחיות בישראל שמחזיקות באקדח. המאמר טוען שגידול בבעלות פרטית על אקדחים בקרב נשים משבש ומעצב מחדש זהויות מגדריות: נשים חמושות מאמצות תפקיד של מגינות על עצמן ועל משפחותיהן, אך אינן בהכרח מפרקות את המיליטריזציה הגברית הדומיננטית אלא יוצרות דקדוק נשי חדש של ביטחון ואזרחות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maya Maor, Nehemia Stern, Uzi Ben-Shalom",
   "paperTitle": "“You Can't Always Run Away”: Gender Reflexivity and Personal Firearms Ownership among Civilian Women Gun Owners in Israel",
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/maya-maor/\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Maor</a>; <a href=\"https://orcid.org/0000-0002-4842-0544\" target=\"_blank\" rel=\"noopener noreferrer\">Nehemia Stern</a>; <a href=\"https://cris.ariel.ac.il/en/persons/uzi-ben-shalom-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Uzi Ben-Shalom</a>",

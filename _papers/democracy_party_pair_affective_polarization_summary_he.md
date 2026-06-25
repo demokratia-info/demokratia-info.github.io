@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מציע למדוד קיטוב רגשי בין זוגות של מפלגות, וכך מתאים את הדיון ממערכת דו-מפלגתית למציאות רב-מפלגתית כמו ישראל.",
   "descriptionHe": "המאמר בוחן קיטוב רגשי כיחסים בין זוגות מפלגות, ולא רק כעוינות כללית בין מחנות, על בסיס נתוני סקר מעשרים דמוקרטיות מערביות.",
   "summaryHe": "המאמר מנתח 506 זוגות מפלגות ב־81 מערכות בחירות בשנים 1996-2017 ומראה שסלידה ממפלגות אחרות קשורה לפערים אידיאולוגיים, להסדרים קואליציוניים ולחריגות של מפלגות ימין רדיקלי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "נעם גדרון, ג׳יימס אדמס וויל הורן",
   "paperTitle": "Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://polisci.ucdavis.edu/people/james-adams\" target=\"_blank\" rel=\"noopener noreferrer\">James Adams</a>; <a href=\"https://www.clemson.edu/cbshs/about/profiles/rwhorne\" target=\"_blank\" rel=\"noopener noreferrer\">Will Horne</a>",

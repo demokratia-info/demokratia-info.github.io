@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מקורות התחממות רגשית מפלגתית לאחר בחירות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מקורות התחממות רגשית מפלגתית לאחר בחירות דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Noam Gidron, Lior Sheffer",
   "paperTitle": "Differentiating the sources of post‐election partisan affect warming",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>",

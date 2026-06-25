@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mark Tessler, Audra Grant",
   "paperTitle": "Israel's Arab Citizens: The Continuing Struggle",
   "authorsHtml": "<a href=\"https://lsa.umich.edu/studying-religion/people/faculty/mark-tessler.html\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Tessler</a>, Audra Grant",

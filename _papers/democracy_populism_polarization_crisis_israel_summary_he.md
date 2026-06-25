@@ -8,6 +8,7 @@
   "subtitleHe": "רוזנאי וגדרון מציעים מסגרת להבנת החיבור בין פוליטיקה פופוליסטית, מחנות יריבים ושחיקת מוסדות.",
   "descriptionHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, וממקם את הדיון בתוך שאלות של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי.",
   "summaryHe": "המאמר מסביר שמשבר דמוקרטי מתפתח כאשר פופוליזם וקיטוב מצדיקים פגיעה במוסדות בשם רצון העם או בשם מאבק במחנה היריב.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יניב רוזנאי, נעם גדרון",
   "paperTitle": "Israel -Populism, Polarization and the Crisis of Democracy",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "ניתוח אידאולוגי של משטר נתניהו כמקרה של פופוליזם ימני שמפתח תפיסה רחבה של משילות, יהדות, ניאו־ליברליזם וניאו־שמרנות.",
   "summaryHe": "המאמר חולק על התפיסה שפופוליזם הוא אידאולוגיה דקה בלבד, ומציג את הפופוליזם הימני בישראל כתפיסה מגובשת שמבקשת לשנות את כללי המשחק הדמוקרטיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gayil Talshir",
   "paperTitle": "Populist Rightwing Ideological Exposition: Netanyahu’s Regime as a Case in Point",
   "authorsHtml": "<a href=\"https://cris.huji.ac.il/en/persons/gayil-talshir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gayil Talshir</a>",

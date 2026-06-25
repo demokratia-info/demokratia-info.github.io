@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד בתי משפט בישראל דנים בהורות של אנשים עם מוגבלות, באמצעות ניתוח שיטתי של 78 פסקי דין. הוא רלוונטי לזכויות ולשלטון החוק משום שהוא מצביע על פער בין זכויות מוכרות לבין התמיכה והיחס הניתנים בהליכים משפטיים בפועל.",
   "summaryHe": "המאמר מנתח 78 פסקי דין בישראל שעסקו בהורים עם מוגבלות, ומראה פערים בין זכויות משפטיות לבין יישומן בהליכי אימוץ, משמורת ותמיכה הורית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Michal Segal, Ayelet Gur",
   "paperTitle": "The Legal Landscape of Parenting with Disabilities: A Study of Court Judgments Involving Parents with Disabilities in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8234-1439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Segal</a>, <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>",

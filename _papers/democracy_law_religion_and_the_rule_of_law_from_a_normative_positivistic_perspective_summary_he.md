@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית דת, משפט ושלטון החוק מנקודת מבט נורמטיבית־פוזיטיביסטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Izhak Englard",
   "paperTitle": "Law, Religion, and the Rule of Law from a Normative-Positivistic Perspective",
   "authorsHtml": "Izhak Englard",

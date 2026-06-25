@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על יחסי בית המשפט העליון ומשרד האוצר בעיצוב מדיניות בריאות דרך חוק ההסדרים.",
   "summaryHe": "המאמר בוחן כיצד עתירות בתחום שירותי הבריאות נדחות למרות ביקורת שיפוטית חריפה, ומה המשמעות להגנה המשפטית על הזכות לבריאות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Daniel Sperling, Nissim Cohen",
   "paperTitle": "A neo-institutional analysis of the hidden interaction between the Israeli Supreme Court and the Ministry of Finance: the right to healthcare services",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4371-7736\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Sperling</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם שילוב זיכרון של יהודים יוצאי צפון אפריקה בחוקי הנצחה בישראל מצליח לחזק שייכות ושוויון. הממצא המרכזי הוא שגם כאשר המדינה מרחיבה את סיפור הזיכרון הרשמי, תחושות הדרה מן הנרטיב הלאומי עשויות להישאר חזקות.",
   "summaryHe": "Kook ו־Solomon מנתחות את הקשר בין <strong>זיכרון לאומי</strong>, מיעוטים ודמוקרטיה דרך חקיקה ומדיניות שמבקשות לכלול את סיפורן של קהילות יהודיות מצפון אפריקה בזיכרון השואה בישראל. על בסיס ראיונות קבוצתיים, הן מראות שהכרה רשמית אינה מחיקה מיידית של חוויית הדרה, משום ששייכות אזרחית נוצרת גם דרך האופן שבו קהילה מרגישה מיוצגת, נשמעת ומכובדת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rebecca Kook, Sophia Solomon",
   "paperTitle": "“Don't cry, it doesn't belong to us”; critical thoughts on commemoration as a means of inclusion: Mizrahi Jews and Holocaust memory in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/becky-kook/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebecca Kook</a>; <a href=\"https://orcid.org/0000-0001-6907-1550\" target=\"_blank\" rel=\"noopener noreferrer\">Sophia Solomon</a>",

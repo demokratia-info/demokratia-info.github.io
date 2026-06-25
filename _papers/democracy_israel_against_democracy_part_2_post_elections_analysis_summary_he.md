@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hilla Dayan",
   "paperTitle": "Israel Against Democracy, Part 2: Post-Elections Analysis",
   "authorsHtml": "<a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",

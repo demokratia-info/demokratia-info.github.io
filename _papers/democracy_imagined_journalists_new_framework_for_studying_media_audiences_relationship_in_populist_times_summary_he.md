@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על דימויי עיתונאים בישראל בעידן פופוליזם אנטי־תקשורתי.",
   "summaryHe": "המאמר מציע את מסגרת \"העיתונאים המדומיינים\" ובוחן כיצד קהלים בישראל מתארים עיתונאים, אילו סוגי ביקורת הם מעלים, וכיצד עמדות אלה קשורות להזדהות פוליטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ayala Panievsky, Yossi David, Noam Gidron, Lior Sheffer",
   "paperTitle": "Imagined Journalists: New Framework for Studying Media–Audiences Relationship in Populist Times",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9296-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Ayala Panievsky</a>, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>, <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>",

@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Rivka A. Eisikovits בוחן כיצד צעירים שעלו מברית המועצות לשעבר מבינים הצבעה ופוליטיקה בישראל. הוא מחבר בין חינוך אזרחי, זהות מהגרת והשתתפות דמוקרטית במדינה שקולטת קהילות חדשות.",
   "summaryHe": "המאמר מציע לראות בהצבעה לא רק פעולה טכנית של אזרחים חדשים אלא חלק מתהליך למידה פוליטית. צעירים מהגרים מפרשים את הדמוקרטיה הישראלית דרך ניסיון משפחתי, תרבותי וחינוכי, ולכן חינוך אזרחי צריך להכיר במורכבות הזאת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rivka A. Eisikovits",
   "paperTitle": "Perspectives of Young Immigrants from the Former USSR on Voting and Politics in Israel",
   "authorsHtml": "Rivka A. Eisikovits",

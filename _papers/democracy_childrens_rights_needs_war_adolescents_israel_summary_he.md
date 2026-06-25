@@ -7,6 +7,7 @@
   "subtitleHe": "שילוב בין אמנת זכויות הילד לבין דיווחי ילדים והורים בישראל אחרי 7 באוקטובר.",
   "descriptionHe": "המאמר בוחן את מימוש הזכויות והצרכים של מתבגרים בישראל בזמן המלחמה שלאחר מתקפת 7 באוקטובר 2023, ומשלב ניתוח נורמטיבי עם דיווחים אמפיריים של ילדים והורים.",
   "summaryHe": "יונת רום, ארז מילסתן, הבה פ. זידאן וטלי גל משלבות ניתוח של אמנת זכויות הילד עם בחינה אמפירית של דיווחי מתבגרים בישראל. לפי תקציר המקור, המחקר בודק פערים בין נקודת המבט של מתבגרים לזו של הוריהם, וכן הבדלים בין קבוצות דמוגרפיות באמצעות סקרים בעברית ובערבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yonat Rum, Erez Milsthen, Heba F. Zedan, Tali Gal",
   "paperTitle": "Children’s rights and needs during war: the case of adolescents in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8883-8606\" target=\"_blank\" rel=\"noopener noreferrer\">Yonat Rum</a>; Erez Milsthen; <a href=\"https://en.law.huji.ac.il/people/heba-f-zedan\" target=\"_blank\" rel=\"noopener noreferrer\">Heba F. Zedan</a>; <a href=\"https://en.law.huji.ac.il/people/tali-gal\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Gal</a>",

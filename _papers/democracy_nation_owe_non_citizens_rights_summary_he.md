@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן נכונות של אזרחים להעניק זכויות אזרחות למהגרים בצרפת, גרמניה, ארצות הברית וישראל. הוא מראה שהקשר בין פטריוטיות, שוביניזם, תפיסת איום והקצאת זכויות מורכב יותר מן ההבחנה הרגילה בין מדינות אתנו־לאומיות וליברליות.",
   "summaryHe": "Raijman, Davidov, Schmidt ו־Hochman בוחנים כיצד התקשרות לאומית ותפיסת איום משפיעות על נכונות להעניק זכויות למהגרים. ממצאיהם מצביעים על דפוסים פרדוקסליים: ההשפעות של שוביניזם ופטריוטיות חלשות יותר בגרמניה ובישראל, ואילו השפעת האיום חלשה יותר בישראל וחזקה יותר במדינות ליברליות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rebeca Raijman, Eldad Davidov, Peter Schmidt, Oshrat Hochman",
   "paperTitle": "What Does a Nation Owe Non-Citizens?",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>; <a href=\"https://dss.uni-koeln.de/de/institut/personen/d/prof-dr-eldad-davidov\" target=\"_blank\" rel=\"noopener noreferrer\">Eldad Davidov</a>; <a href=\"https://www.uni-giessen.de/de/fbz/zentren/zeu/Team/zeumembersall/Peter_Schmidt/dpschmidt\" target=\"_blank\" rel=\"noopener noreferrer\">Peter Schmidt</a>; <a href=\"https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman\" target=\"_blank\" rel=\"noopener noreferrer\">Oshrat Hochman</a>",

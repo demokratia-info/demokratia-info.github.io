@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Bella Kovner, Nadera Shalhoub‐Kevorkian",
   "paperTitle": "Children, human rights organisations, and the law under occupation: the case of Palestinian children in East Jerusalem",
   "authorsHtml": "Bella Kovner, <a href=\"https://orcid.org/0000-0002-2807-0540\" target=\"_blank\" rel=\"noopener noreferrer\">Nadera Shalhoub‐Kevorkian</a>",

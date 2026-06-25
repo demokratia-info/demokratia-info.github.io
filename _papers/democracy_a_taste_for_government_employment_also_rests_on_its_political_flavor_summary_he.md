@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על טעם לתעסוקה ממשלתית והעדפות פוליטיות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית טעם לתעסוקה ממשלתית והעדפות פוליטיות דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sharon Gilad, Raanan Sulitzeanu‐Kenan, David Levi‐Faur",
   "paperTitle": "A taste for government employment also rests on its political flavor",
   "authorsHtml": "<a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0001-9663-8954\" target=\"_blank\" rel=\"noopener noreferrer\">Raanan Sulitzeanu‐Kenan</a>, <a href=\"https://orcid.org/0000-0001-6998-5483\" target=\"_blank\" rel=\"noopener noreferrer\">David Levi‐Faur</a>",

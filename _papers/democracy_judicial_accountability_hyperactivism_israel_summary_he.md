@@ -8,6 +8,7 @@
   "subtitleHe": "דותן מנתח את הטענה לאקטיביזם-יתר של בג״ץ ואת השאלה כיצד דמוקרטיה מפקחת על שופטים בלי לפגוע בעצמאותם.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר בוחן את אחריות בית המשפט הגבוה לצדק בישראל ואת המתח בין ביקורת על אקטיביזם שיפוטי לבין הצורך לשמור על ביקורת שיפוטית עצמאית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יואב דותן",
   "paperTitle": "Judicial accountability in Israel: The high court of justice and the phenomenon of judicial hyperactivism",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/%D7%99%D7%95%D7%90%D7%91-%D7%93%D7%95%D7%AA%D7%9F\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Dotan</a>",

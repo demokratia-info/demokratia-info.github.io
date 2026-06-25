@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר על האופן שבו סטודנטים ממיעוטים דתיים משלבים אמונה, מודרניות ומעמד חברתי מורכב.",
   "descriptionHe": "המאמר בוחן כיצד סטודנטים מוסלמים ודרוזים בישראל משלבים עולמות דתיים עם מודרניזציה, ומתמקד בהשפעת מעמדם כמיעוטים דתיים ואתניים.",
   "summaryHe": "המחקר מצביע על ריבוי דרכים שבהן מודרניזציה וחילון חלקי משתלבים בזהות דתית של סטודנטים מוסלמים ודרוזים, ומדגיש שמעמד המיעוט עשוי לעודד תהליכי חילון בעקיפין.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sawsan Kheir",
   "paperTitle": "Reflections of modernization in religious worldviews of Israeli religious minority students",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0627-4881\" target=\"_blank\" rel=\"noopener noreferrer\">Sawsan Kheir</a>",

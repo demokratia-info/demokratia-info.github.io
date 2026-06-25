@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציג תגובה של Sammy Smooha לביקורת על מודל הדמוקרטיה האתנית. הוא מחדד את ההבחנה בין דמוקרטיה ליברלית, דמוקרטיה אתנית ומשטרים שאינם דמוקרטיים, וממקם את ישראל בתוך דיון השוואתי על זכויות מיעוטים, אזרחות ודומיננטיות של רוב אתני.",
   "summaryHe": "Sammy Smooha משיב לביקורת על מודל הדמוקרטיה האתנית ומבהיר את השימוש במודל כמסגרת אנליטית להבנת ישראל וחברות מחולקות אחרות. המאמר חשוב משום שהוא מאלץ את הדיון הדמוקרטי להתמודד עם השאלה האם בחירות וזכויות אזרחיות יכולות להתקיים לצד העדפה מוסדית של קבוצת רוב אתנית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sammy Smooha",
   "paperTitle": "The model of ethnic democracy: Response to Danel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/sammy-smooha/\" target=\"_blank\" rel=\"noopener noreferrer\">Sammy Smooha</a>",

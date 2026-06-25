@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את היחסים בין קבוצות אינטרס לבין פקידי מדינה בישראל של תחילת שנות התשעים. הוא מראה שמבנה מפלגתי חזק אינו בהכרח מונע פנייה ישירה למינהל הציבורי, ולכן מחייב חשיבה על אחריותיות ופיקוח גם בתוך הביורוקרטיה.",
   "summaryHe": "Mshai מנתחת את המקרה הישראלי כחריגה מן הציפייה שקבוצות אינטרס בדמוקרטיית מפלגות יפעלו בעיקר דרך מפלגות. הקבוצות נמשכות אל המינהל הציבורי עצמו, ופקידים בכירים מקיימים איתן קשרים רבים גם כאשר הם ממעיטים בערך השפעתן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yael Mshai",
   "paperTitle": "INTEREST GROUPS AND BUREAUCRATS IN A PARTY‐DEMOCRACY: THE CASE OF ISRAEL",
   "authorsHtml": "Yael Mshai",

@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח הצהרות בכנסת מראה עמדה עקבית של מנהיגים ערבים כלפי הסכמים עם מצרים, ירדן ומדינות ערב ב־2020.",
   "descriptionHe": "המאמר מנתח את עמדות ההנהגה הערבית בישראל כלפי הסכמי שלום ונורמליזציה של ישראל עם מדינות ערב, ומראה כיצד זהויות ישראליות, פלסטיניות ואסלאמיות מעצבות סדרי עדיפויות פוליטיים.",
   "summaryHe": "חן קרצ׳ר וגדי היטמן בוחנים הצהרות רשמיות של מנהיגים ערבים בישראל בכנסת ביחס לחמשת הסכמי השלום או הנורמליזציה של ישראל עם מדינות ערב. לפי תקציר המקור, למרות הבדלים אידיאולוגיים בין זרמים סוציאליסטיים־קומוניסטיים, לאומיים ואסלאמיים, ההנהגה מציגה עמדה עקבית שמדגישה את פתרון הסכסוך הישראלי־פלסטיני לצד מחלוקות בנושאי השתלבות בחברה הישראלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Chen Kertcher, Gadi Hitman",
   "paperTitle": "Minority Perspective: The Israeli–Arab Leadership Position Over the Israeli Peace Agreements With Arab States",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6524-8478\" target=\"_blank\" rel=\"noopener noreferrer\">Chen Kertcher</a>; <a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>",

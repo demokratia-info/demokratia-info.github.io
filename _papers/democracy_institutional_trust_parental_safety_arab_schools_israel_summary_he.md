@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על 666 הורים ערבים בוחן בטיחות בית־ספרית, דיווח ופנייה לעזרה בהקשר של מיעוט לאומי.",
   "descriptionHe": "המאמר בוחן כיצד אמון במוסדות, קשרי בית־ספר ושילוב ילדים מסבירים את האופן שבו הורים ערבים בישראל מעריכים את בטיחות ילדיהם בבית הספר.",
   "summaryHe": "וליד דלאשה בוחן תפיסות הורים בבתי ספר ערביים בישראל מתוך מודל מוסדי־יחסי. לפי תקציר המקור, המחקר כולל 666 הורים ומראה שאמון מוסדי ומדדי שילוב של ילדים קשורים להערכת בטיחות, לצד תשומת לב לנפגעות חברתית כמו הדרה והתנהגות מינית פוגענית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Waleed Dallasheh",
   "paperTitle": "Institutional Trust and Parental Safety Appraisal in a National Minority Context: Evidence from Arab Schools in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1292-2443\" target=\"_blank\" rel=\"noopener noreferrer\">Waleed Dallasheh</a>",

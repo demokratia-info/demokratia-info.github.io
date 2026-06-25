@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם תמיכת מדינה בדת מחזקת את לגיטימיות הממשלה במדינות בעלות רוב נוצרי, באמצעות נתוני Religion and State ו־World Values Survey מהשנים 1990-2014.",
   "summaryHe": "המחקר מצא שבמדינות בעלות רוב נוצרי, תמיכת מדינה בדת קשורה לרמות נמוכות יותר של אמון בממשלה ובפרלמנט, ולא בהכרח מחזקת לגיטימיות פוליטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Jonathan Fox, Jori Breslawski",
   "paperTitle": "State Support for Religion and Government Legitimacy in Christian-Majority Countries",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>, <a href=\"https://www.american.edu/spa/faculty/jbreslawski.cfm\" target=\"_blank\" rel=\"noopener noreferrer\">Jori Breslawski</a>",

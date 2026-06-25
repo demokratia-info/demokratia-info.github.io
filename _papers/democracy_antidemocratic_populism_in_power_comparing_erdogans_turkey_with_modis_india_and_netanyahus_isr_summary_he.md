@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית פופוליזם אנטי־דמוקרטי בהשוואה בין ישראל, טורקיה והודו דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Julius Maximilian Rogenhofer; Ayala Panievsky",
   "paperTitle": "Antidemocratic populism in power: comparing Erdoğan’s Turkey with Modi’s India and Netanyahu’s Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9660-0868\" target=\"_blank\" rel=\"noopener noreferrer\">Julius Maximilian Rogenhofer</a>; <a href=\"https://orcid.org/0000-0001-9296-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Ayala Panievsky</a>",

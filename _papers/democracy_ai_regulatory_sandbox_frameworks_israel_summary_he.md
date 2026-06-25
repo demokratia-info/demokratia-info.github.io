@@ -7,6 +7,7 @@
   "subtitleHe": "מיפוי מסמכי מדיניות, חקיקה ומסגרות קיימות מצביע על העדפה ישראלית לניסויים מגזריים במקום משטר AI כולל.",
   "descriptionHe": "המאמר מציג מקרה בוחן של מסגרות ארגז חול רגולטורי לבינה מלאכותית בישראל.",
   "summaryHe": "Amir Cahane ו-Michael Sierra ממפים את התפתחות ארגזי החול הרגולטוריים לבינה מלאכותית בישראל מאז 2018, על בסיס מסמכי מדיניות, חקיקה ומסגרות מיושמות. הם מנתחים את תחומי הרכב האוטונומי, הפינטק וההנחיות הכלליות לחקיקה, ומסיקים שהגישה הישראלית פרגמטית ומגזרית אך עלולה שלא להתמודד במלואה עם אחריות אלגוריתמית, פיקוח אנושי ותיאום בין רשויות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amir Cahane, Michael Sierra",
   "paperTitle": "Nascent regulatory sandbox frameworks for AI in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0457-782X\" target=\"_blank\" rel=\"noopener noreferrer\">Amir Cahane</a>, Michael Sierra",

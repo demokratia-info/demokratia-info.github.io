@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חילון, דת וליברליזם בדמוקרטיה הישראלית, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר בוחן מדוע חילון במרחבים מסוימים בישראל אינו מוביל בהכרח לליברליזם מלא. הדת ממשיכה למלא תפקיד בשיח הלאומי ובסימון גבולות קבוצתיים, וקבוצות אתניות שונות מייחסות חשיבות שונה לטקסים דתיים. לכן חילון יכול להתקדם בתוך גבולות לאומיים צרים, בלי מחויבות מספקת לחופש דת, סובלנות ושוויון ליברלי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Guy Ben-Porat",
   "paperTitle": "Are We There Yet? Religion, Secularization and Liberal Democracy in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>",

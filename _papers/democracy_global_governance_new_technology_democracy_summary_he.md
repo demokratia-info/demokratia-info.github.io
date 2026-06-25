@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Eyal Benvenisti בוחן כיצד טכנולוגיות חדשות מערערות מנגנוני אחריות דמוקרטית, ומה יכול להיות תפקידו של משפט הממשל הגלובלי. הוא מציב אתגר כפול: כוח פרטי חוצה גבולות ומוסדות בין־לאומיים שאינם תמיד כפופים לביקורת ציבורית.",
   "summaryHe": "Benvenisti טוען שהשפעתן של פלטפורמות, מידע ואלגוריתמים אינה נשארת בתוך מדינה אחת. לכן הגנה על דמוקרטיה דורשת כללים גלובליים שמגבירים שקיפות, השתתפות ואחריותיות במקום להפקיר את הזירה לממשלות חזקות ולשחקנים פרטיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eyal Benvenisti",
   "paperTitle": "Upholding Democracy Amid the Challenges of New Technology: What Role for the Law of Global Governance?",
   "authorsHtml": "<a href=\"https://law.tau.ac.il/profile/ebenve\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Benvenisti</a>",

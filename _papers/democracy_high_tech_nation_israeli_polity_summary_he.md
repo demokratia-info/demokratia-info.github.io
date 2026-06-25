@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Gideon Doron בוחן את דימוי ישראל כאומת היי־טק ואת משמעותו לעתיד הפוליטי של המדינה. הוא קורא לראות בחדשנות טכנולוגית לא רק סיפור כלכלי אלא גם כוח שמארגן מחדש מוסדות, אזרחות וסדרי עדיפויות ציבוריים.",
   "summaryHe": "המאמר מציע לחשוב על ההיי־טק כעל חלק מן הפוליטיקה הישראלית, ולא רק כעל מנוע צמיחה. כאשר חדשנות נעשית מקור מרכזי לזהות לאומית ולמדיניות, עולה השאלה אם המוסדות הדמוקרטיים מצליחים לתווך בין יעילות, שוויון, ייצוג ופיקוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gideon Doron",
   "paperTitle": "High-tech nation: the future of the Israeli polity",
   "authorsHtml": "Gideon Doron",

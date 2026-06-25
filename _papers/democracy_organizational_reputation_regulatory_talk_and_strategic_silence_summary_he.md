@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מוניטין ארגוני, דיבור רגולטורי ושתיקה אסטרטגית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moshe Maor, Sharon Gilad, Pazit Ben‐Nun Bloom",
   "paperTitle": "Organizational Reputation, Regulatory Talk, and Strategic Silence",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0411-2977\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Maor</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://politics.huji.ac.il/people/pazit-ben-nun-bloom\" target=\"_blank\" rel=\"noopener noreferrer\">Pazit Ben‐Nun Bloom</a>",

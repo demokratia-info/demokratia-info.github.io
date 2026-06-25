@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית והדרכים האזרחיות להתמודד איתה, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את נסיגה דמוקרטית והדרכים האזרחיות להתמודד איתה דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Doron Shultziner",
   "paperTitle": "The Movement Against Democratic Backsliding in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3370-2194\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Shultziner</a>",

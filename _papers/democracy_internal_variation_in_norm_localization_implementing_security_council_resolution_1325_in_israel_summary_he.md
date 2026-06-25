@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sarai B. Aharoni",
   "paperTitle": "Internal Variation in Norm Localization: Implementing Security Council Resolution 1325 in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9096-4828\" target=\"_blank\" rel=\"noopener noreferrer\">Sarai B. Aharoni</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mirjam Künkler, Hanna Lerner",
   "paperTitle": "A private matter? Religious education and democracy in Indonesia and Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7737-9245\" target=\"_blank\" rel=\"noopener noreferrer\">Mirjam Künkler</a>, <a href=\"https://cris.tau.ac.il/en/persons/hanna-lerner/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>",

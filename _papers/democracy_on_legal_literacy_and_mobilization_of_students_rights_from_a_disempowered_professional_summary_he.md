@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lotem Perry-Hazan",
   "paperTitle": "On Legal Literacy and Mobilization of Students' Rights From a Disempowered Professional Status: The Case of Israeli Teachers",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6560-1136\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Perry-Hazan</a>",

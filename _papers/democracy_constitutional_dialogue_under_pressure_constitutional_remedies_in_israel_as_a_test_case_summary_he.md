@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תרופות חוקתיות, דיאלוג מוסדי והגנה על עותרים, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר בוחן את תיאוריית הדיאלוג החוקתי דרך שאלת התרופות החוקתיות בישראל. הוא מכיר בכך שדיאלוג בין בית המשפט למחוקק יכול להעניק לגיטימציה ולפתוח מרחב תגובה פוליטי, אך מזהיר שמיקוד יתר במוסדות עלול להותיר את העותרים ללא סעד מלא. לכן המאמר מציע לחשוב מחדש על תרופות חזקות שמשנות סטטוס־קוו ומגינות בפועל על זכויות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Bell Yosef",
   "paperTitle": "Constitutional Dialogue Under Pressure: Constitutional Remedies in Israel as a Test Case",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/bellelitey\" target=\"_blank\" rel=\"noopener noreferrer\">Bell Yosef</a>",

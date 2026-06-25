@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע להבין החלטות מינהליות כפעולות של איזון בין אינטרסים מתנגשים של יחידים וקבוצות. הוא מראה כיצד דיני מינהל, ייצוג אינטרסים וביקורת שיפוטית אמורים להבטיח שהחלטות חלוקתיות יתקבלו בהגינות ובמשקל ראוי.",
   "summaryHe": "Barak-Erez טוענת שהליך מינהלי צריך להיתפס כמרחב שבו הרשות מאזנת בין אינטרסים מתנגשים, לעיתים בלי שלצדדים יש זכויות משפטיות מוגדרות מראש ביחס לתוכן ההחלטה. החלטות מינהליות משפיעות על זכויות אדם ואזרח, איכות חיים, מחירים, רגולציה והקצאת כספי ציבור. חלקו השני של המאמר מיישם את נקודת המבט הזאת על רגולציית הקרקעות בישראל ועל פרשת הקשת הדמוקרטית המזרחית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daphne Barak‐Erez",
   "paperTitle": "The Administrative Process as a Domain of Conflicting Interests",
   "authorsHtml": "<a href=\"https://www.tau.ac.il/law/barakerez/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphne Barak‐Erez</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד תנודתיות בסיוע חוץ ואיכות מוסדית משפיעות על צמיחה במדינות אפריקה שמדרום לסהרה. תרומתו הדמוקרטית היא בהדגשת הבעיה של ממשל שמבוסס על משאבים לא יציבים: גם כסף חיצוני יכול להחליש תכנון ציבורי אם מוסדות אינם מסוגלים להפוך אותו למדיניות אמינה.",
   "summaryHe": "המחקר משתמש בנתונים על 45 מדינות באפריקה שמדרום לסהרה בשנים 1980-2017, ובוחן את ההבדל בין התחייבויות סיוע לבין תנודתיות בסיוע. התחייבויות סיוע נקשרות לצמיחה, תנודתיות פוגעת בצמיחה, ואיכות מוסדית משפרת את התוצאה אך אינה בהכרח מבטלת את הנזק של תנודתיות. לכן המאמר חשוב לדיון דמוקרטי על קיבולת מדינתית, תכנון תקציבי ואחריות מוסדית מול תורמים ומול אזרחים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Elliot Boateng, Frank W. Agbola, Amir Mahmood",
   "paperTitle": "Foreign aid volatility and economic growth in Sub-Saharan Africa: Does institutional quality matter?",
   "authorsHtml": "Elliot Boateng; Frank W. Agbola; Amir Mahmood",

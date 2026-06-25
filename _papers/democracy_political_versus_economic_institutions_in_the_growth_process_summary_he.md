@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק במוסדות, מימון וצמיחה כלכלית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Emmanuel Flachaire, Cecilia García-Peñalosa, Maty Konte",
   "paperTitle": "Political versus economic institutions in the growth process",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2291-6015\" target=\"_blank\" rel=\"noopener noreferrer\">Emmanuel Flachaire</a>, <a href=\"https://sites.google.com/view/ceciliagarciapenalosa\" target=\"_blank\" rel=\"noopener noreferrer\">Cecilia García-Peñalosa</a>, <a href=\"https://orcid.org/0000-0003-1672-126X\" target=\"_blank\" rel=\"noopener noreferrer\">Maty Konte</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "סקר בקרב בני 50 ומעלה מציג פערים סביב אוטונומיה רפואית, סיוע במיתה ותפקיד המשפחה.",
   "descriptionHe": "המחקר בוחן עמדות ציבור בישראל על תהליכי סוף החיים, כולל אמירת אמת, סיוע רפואי במיתה, הנשמה, הזנה, טיפול בכאב ומעורבות משפחתית.",
   "summaryHe": "המחקר, שנערך במרץ 2022 במדגם מקוון של 605 מבוגרים בני יותר מ־50, מצא קיטוב סביב אוטונומיה וסיוע רפואי במיתה, לצד הסכמה רחבה יותר על חשיבות מעורבות המשפחה בתהליכי סוף החיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moran Bodas; Arnona Ziv; Carmit Rubin; Bernice Oberman; Yoel Tawil; Adir Shaulov; Giora Kaplan; Baruch Velan",
   "paperTitle": "Polarization in public attitudes toward end-of-life decisions in Israel – A cross-sectional study",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6182-6362\" target=\"_blank\" rel=\"noopener noreferrer\">Moran Bodas</a>; <a href=\"https://orcid.org/0000-0003-1147-8686\" target=\"_blank\" rel=\"noopener noreferrer\">Arnona Ziv</a>; Carmit Rubin; Bernice Oberman; Yoel Tawil; <a href=\"https://orcid.org/0000-0002-9620-781X\" target=\"_blank\" rel=\"noopener noreferrer\">Adir Shaulov</a>; <a href=\"https://orcid.org/0000-0001-9341-1332\" target=\"_blank\" rel=\"noopener noreferrer\">Giora Kaplan</a>; <a href=\"https://orcid.org/0000-0002-2725-3249\" target=\"_blank\" rel=\"noopener noreferrer\">Baruch Velan</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hassan Jabareen",
   "paperTitle": "Can the Court normalize the exception in non-emergency cases? Palestinian cases before the Israeli Supreme Court",
   "authorsHtml": "<a href=\"https://www.qatar.georgetown.edu/hassan-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Hassan Jabareen</a>",

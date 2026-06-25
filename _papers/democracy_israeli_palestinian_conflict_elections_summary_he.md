@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Michal Shamir ו-Jacob Shamir מנתח את תפקיד הבחירות בישראל ביחס לסכסוך הישראלי־פלסטיני בשנים 1992 עד 2003. הוא בוחן דיון ציבורי, לגיטימציה וייצוג, ומראה שהבחירות השפיעו על מדיניות הסכסוך גם כאשר איכות הדיון הייתה מוגבלת.",
   "summaryHe": "המאמר מטיל ספק באיכות הדליברציה בבחירות שעסקו בסכסוך, אך מדגיש שהבחירות בכל זאת עיצבו את הסכסוך דרך חילופי שלטון וייצוג דינמי. לכן הבחירות אינן רק מדד לעמדות ציבוריות אלא מנגנון שמשנה את מסלול המדיניות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Shamir, Jacob Shamir",
   "paperTitle": "The Israeli—Palestinian Conflict in Israeli Elections",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>; Jacob Shamir",

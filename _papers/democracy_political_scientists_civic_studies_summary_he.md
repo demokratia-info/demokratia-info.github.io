@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר מראה כיצד הוויכוח על לימודי אזרחות בישראל איפשר למדעני מדינה להשתתף בעיצוב הדיון על יהודית ודמוקרטית, ליברליזם ופנייה אנטי-ליברלית.",
   "descriptionHe": "המאמר מנתח את הוויכוח על לימודי אזרחות בישראל כזירה שבה מדעני מדינה מתערבים במאבק על משמעות המדינה היהודית והדמוקרטית ועל גבולות הדמוקרטיה הליברלית.",
   "summaryHe": "מיכל נויבאואר-שני מראה שלימודי אזרחות בישראל הפכו לזירת מעורבות ציבורית של מדעני מדינה, במיוחד סביב המתח בין מחנות ליברליים ושמרניים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "מיכל נויבאואר-שני",
   "paperTitle": "Tackling the challenge of liberal democracy in Israel: the role of political scientists in the civic studies debate",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/michal-neubauer-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Neubauer-Shani</a>",

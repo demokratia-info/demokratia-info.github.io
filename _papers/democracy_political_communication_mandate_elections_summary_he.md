@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מתי תוצאות בחירות מתפרשות כמנדט מדיניות למנהיגים נבחרים, ומתמקד בישראל בשנים 1992-2003. הוא מראה שמנדט בחירות אינו נובע אוטומטית מתוצאה בקלפי, אלא מתהליך תקשורתי ופוליטי שמעניק משמעות לתוצאה.",
   "summaryHe": "Shamir, Shamir ו־Sheafer מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Shamir, Jacob Shamir, Tamir Sheafer",
   "paperTitle": "The Political Communication of Mandate Elections",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>; Jacob Shamir; <a href=\"https://en.communication.huji.ac.il/people/prof-tamir-sheafer-0\" target=\"_blank\" rel=\"noopener noreferrer\">Tamir Sheafer</a>",

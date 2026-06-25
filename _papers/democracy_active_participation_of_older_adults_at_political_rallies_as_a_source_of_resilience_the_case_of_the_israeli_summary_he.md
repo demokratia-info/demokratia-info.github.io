@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מחאה, קיטוב והגבולות של פעולה פוליטית דמוקרטית דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Boaz M. Ben‐David, Ortal Shimon-Raz, Yuval Palgi, Lia Ring, Tchelet Bresslet",
   "paperTitle": "ACTIVE PARTICIPATION OF OLDER ADULTS AT POLITICAL RALLIES AS A SOURCE OF RESILIENCE: THE CASE OF THE ISRAELI PROTEST",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0392-962X\" target=\"_blank\" rel=\"noopener noreferrer\">Boaz M. Ben‐David</a>, <a href=\"https://orcid.org/0000-0002-6464-8370\" target=\"_blank\" rel=\"noopener noreferrer\">Ortal Shimon-Raz</a>, <a href=\"https://orcid.org/0000-0002-8675-5513\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Palgi</a>, <a href=\"https://orcid.org/0000-0001-5203-4091\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Ring</a>, Tchelet Bresslet",

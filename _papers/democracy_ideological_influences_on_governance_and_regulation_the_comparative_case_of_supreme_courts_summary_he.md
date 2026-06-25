@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אידאולוגיה, רגולציה ובתי משפט עליונים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית אידאולוגיה, רגולציה ובתי משפט עליונים דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Keren Weinshall, Udi Sommer, Ya’acov Ritov",
   "paperTitle": "Ideological influences on governance and regulation: The comparative case of supreme courts",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/keren-weinshall-margel\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall</a>, <a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>, <a href=\"https://orcid.org/0000-0002-6046-8479\" target=\"_blank\" rel=\"noopener noreferrer\">Ya’acov Ritov</a>",

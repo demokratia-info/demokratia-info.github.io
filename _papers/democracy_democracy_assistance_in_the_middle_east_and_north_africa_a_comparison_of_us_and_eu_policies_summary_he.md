@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית סיוע לדמוקרטיה במזרח התיכון: ארצות הברית והאיחוד האירופי דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daniela Huber",
   "paperTitle": "Democracy Assistance in the Middle East and North Africa: A Comparison of US and EU Policies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2318-7720\" target=\"_blank\" rel=\"noopener noreferrer\">Daniela Huber</a>",

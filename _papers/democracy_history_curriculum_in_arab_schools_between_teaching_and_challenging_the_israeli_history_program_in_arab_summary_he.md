@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על תוכנית הלימודים בהיסטוריה בבתי ספר ערביים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית תוכנית הלימודים בהיסטוריה בבתי ספר ערביים דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rabah Halabi",
   "paperTitle": "History curriculum in Arab schools: between teaching and challenging the Israeli history program in Arab schools",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9777-8315\" target=\"_blank\" rel=\"noopener noreferrer\">Rabah Halabi</a>",

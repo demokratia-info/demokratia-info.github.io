@@ -7,6 +7,7 @@
   "subtitleHe": "נתוני הסקר החברתי של הלמ״ס לשנים 2013-2022 מצביעים על קשרים שונים בין דתיות, יישוב מגורים ותוצאות עבודה בקרב נשים מוסלמיות ונוצריות.",
   "descriptionHe": "המאמר בוחן כיצד דתיות ואזור מגורים קשורים לתעסוקה, היקף משרה, שכר ודרג בקרב נשים ערביות מוסלמיות ונוצריות בישראל.",
   "summaryHe": "Ilan Shdema, Moshe Sharabi, Yaron Mor ו-Hisham Motkal Abu-Rayya מנתחים נתוני סקר רשמיים של הלשכה המרכזית לסטטיסטיקה מ-2013 עד 2022, עם מדגם של 4,112 נשים ערביות מוסלמיות ונוצריות. המאמר מוצא קשר בין דתיות, מגורים ביישובים יהודיים או ערביים ותוצאות בשוק העבודה, ובמיוחד מדגיש השפעות בקרב נשים מוסלמיות על איכות התעסוקה, שכר והיקף משרה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ilan Shdema, Moshe Sharabi, Yaron Mor, Hisham Motkal Abu-Rayya",
   "paperTitle": "Labor Market Integration of Minority Women: The Role of Religiosity, Residential Area and Their Interaction Among Arab Muslim and Christian Women in Israel",
   "authorsHtml": "Ilan Shdema; <a href=\"https://orcid.org/0000-0001-8570-8769\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Sharabi</a>; <a href=\"https://orcid.org/0009-0003-7811-7575\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Mor</a>; <a href=\"https://orcid.org/0000-0003-2352-7414\" target=\"_blank\" rel=\"noopener noreferrer\">Hisham Motkal Abu-Rayya</a>",

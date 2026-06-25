@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני על 16 סטודנטים לחינוך בדרום ישראל מציע מודל פדגוגי להתמודדות עם מרחק, שפה ואי־שוויון.",
   "descriptionHe": "המאמר בוחן עמדות של סטודנטים מוסלמים־בדואים לחינוך בדרום ישראל כלפי רגישות בין־תרבותית, ומראה מדוע מפגש אקדמי משותף זקוק לתיווך פדגוגי כדי להתמודד עם מרחק פוליטי, לשוני וחברתי.",
   "summaryHe": "עופר גת מנתח רפלקציות של 16 סטודנטים בדואים בקורס חינוך שכלל עבודה קבוצתית ערבית־יהודית. לפי תקציר המקור, הסטודנטים תיארו מאבק ומצוקה בין־תרבותיים, קשיי עברית ומרחק פיזי־תרבותי, אך גם רצון לקרבה, דיאלוג ולמידת תרבות האחר; על בסיס זה מוצע מודל בן שישה צעדים לטיפוח טיפול בין־תרבותי מתמשך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ofer Gat",
   "paperTitle": "Attitudes towards Intercultural Sensitivity among Muslim-Bedouin Education Students in Southern Israel: A Proposed Educational Mode",
   "authorsHtml": "Ofer Gat",

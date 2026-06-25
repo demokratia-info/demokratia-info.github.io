@@ -7,6 +7,7 @@
   "subtitleHe": "שני ניסויי שטח אזרחיים מציעים דרכי שיחה עם קהילות שאינן נכנסות בקלות לכללי התבונה הציבורית הליברלית.",
   "descriptionHe": "המאמר בוחן יוזמות מקומיות בישראל־פלסטין שמנסות לכלול קולות יהודיים ופלסטיניים בעלי תפיסות לא־ליברליות בתוך שיח אזרחי בלי לדרוש קונצנזוס מלא.",
   "summaryHe": "Erica Weiss מנתחת את גבולות התבונה הציבורית הליברלית במציאות של משבר אזרחי וסכסוך אלים ומתמשך. דרך Citizens’ Accord Forum ו-Siach Shalom, המאמר מציג ניסיונות ליצור שיטות חלופיות של הכללה רדיקלית, שבהן דיאלוג אינו חייב להתחיל מהנחות ליברליות משותפות או להסתיים בהסכמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Erica Weiss",
   "paperTitle": "Reasoning without consensus: grassroots experiments in radical inclusion in Israel/Palestine",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7047-6712\" target=\"_blank\" rel=\"noopener noreferrer\">Erica Weiss</a>",

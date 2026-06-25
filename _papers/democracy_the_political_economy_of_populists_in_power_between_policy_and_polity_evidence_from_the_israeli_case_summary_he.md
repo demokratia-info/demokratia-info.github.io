@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Asaf Yakir, Doron Navot, Dani Filc",
   "paperTitle": "The political economy of populists in power, between policy and polity: Evidence from the Israeli case",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4459-451X\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Yakir</a>, <a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>, <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>",

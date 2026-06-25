@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daphna Canetti, Israel Waismel-Manor, Naor Cohen, Carmit Rapaport",
   "paperTitle": "What Does National Resilience Mean in a Democracy? Evidence from the United States and Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>, <a href=\"https://cris.haifa.ac.il/en/persons/israel-waismel-manor/\" target=\"_blank\" rel=\"noopener noreferrer\">Israel Waismel-Manor</a>, Naor Cohen, <a href=\"https://cris.haifa.ac.il/en/persons/carmit-rapaport/\" target=\"_blank\" rel=\"noopener noreferrer\">Carmit Rapaport</a>",

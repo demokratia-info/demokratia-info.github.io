@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעבר ובקשרים בין תנועות פונדמנטליסטיות יהודיות מיליטנטיות, וממקם אותן בתוך שאלות של אלימות פוליטית, קיצוניות וגבולות ההשתתפות הדמוקרטית.",
   "summaryHe": "המאמר של Raphael Cohen-Almagor מנתח תופעות של פונדמנטליזם יהודי ערני מן ה-JDL ועד כך, על רקע שאלות של קיצוניות פוליטית ואלימות. חשיבותו לאתר היא בדיון בגבול שבין מחאה, ארגון פוליטי, מיליטנטיות ופגיעה בסדר דמוקרטי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Raphael Cohen-Almagor",
   "paperTitle": "Vigilant Jewish fundamentalism: From the JDL to Kach (or ‘Shalom Jews, Shalom Dogs')",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5869-9243\" target=\"_blank\" rel=\"noopener noreferrer\">Raphael Cohen-Almagor</a>",

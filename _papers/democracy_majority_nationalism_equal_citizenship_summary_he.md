@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "מחקר אמפירי על האופן שבו חוקי לאומיות רוב משפיעים על שוויון אזרחי של מיעוטים. החשיבות הציבורית של המאמר היא בכך שהוא מחזיר את שאלת השוויון והזכויות אל מרכז הדיון הדמוקרטי: לא רק מי מחזיק ברוב פוליטי, אלא האם כל אזרחית ואזרח יכולים ליהנות מהגנה, שייכות והשתתפות בתנאים הוגנים.",
   "summaryHe": "מחקר אמפירי על האופן שבו חוקי לאומיות רוב משפיעים על שוויון אזרחי של מיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "נטע ברק-קורן, נעם גדרון, יובל פלדמן",
   "paperTitle": "Majority Nationalism Laws and the Equal Citizenship of Minorities: Experimental, Panel, and Cross-Sectional Evidence from Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/netta-barak-corren\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Barak-Corren</a>, <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>, <a href=\"https://law.biu.ac.il/en/feldman\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Feldman</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד עובדי מדינה מקצועיים מגיבים כשהם מזהים נסיגה דמוקרטית ואיום על עצמאות השירות הציבורי, דרך מקרה השינוי המשפטי בישראל ב-2023.",
   "summaryHe": "המאמר בוחן את תגובותיהם של עובדי מדינה בישראל לשינוי המשפטי, ובמיוחד את הקשר בין תפיסת איום דמוקרטי לבין כוונות עזיבה, השמעת קול ומאמץ בעבודה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "סער אלון-ברקת, שרון גלעד, ניר קוסטי, אילנה שפייזמן",
   "paperTitle": "Career Civil Servants' Socially Embedded Responses to Democratic Backsliding",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>, <a href=\"https://sharon-gilad.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Gilad</a>, <a href=\"https://orcid.org/0000-0002-6779-0276\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Kosti</a>, <a href=\"https://politics.biu.ac.il/en/node/1141\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Shpaizman</a>",

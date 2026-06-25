@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מפרש את הרפורמה המשפטית בישראל כחלק משינוי בזהות החוקתית: ממחויבות פורמלית לשוויון אזרחי לכיוון שמעדיף זהות יהודית על פני ערובות דמוקרטיות ושוויון זכויות.",
   "summaryHe": "המאמר טוען שהרפורמה המשפטית אינה רק ניסיון לבטל את המהפכה החוקתית של 1992, אלא חלק מפרויקט חוקתי רחב יותר שמחליש בלמים על הממשלה ומערער את עקרון האזרחות השווה, במיוחד ביחס למיעוט הפלסטיני־ערבי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "ברק מדינה, עפרה בלוך",
   "paperTitle": "The Two Revolutions of Israel's National Identity",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>; <a href=\"https://english.tau.ac.il/profile/ofrabloch\" target=\"_blank\" rel=\"noopener noreferrer\">Ofra Bloch</a>",

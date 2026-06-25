@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חלוקת עבודות הבית והטיפול בילדים במשפחות פלסטיניות־ערביות בישראל, ועל הקשר בין מעמד, השכלה, נורמות מגדריות ושוויון אזרחי.",
   "summaryHe": "המאמר מנתח נתוני סקרים חברתיים בישראל כדי לבחון כיצד מעמד חברתי־כלכלי, השכלה ותפיסות מגדריות משפיעים על חלוקת עבודות הבית והטיפול בילדים בקרב משפחות פלסטיניות־ערביות. הוא מצביע על שוויון מגדרי סלקטיבי יותר במשקי בית משכילים ובמעמד גבוה, לצד גבולות מגדריים שנותרים יציבים בחלק מן המטלות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maha Sabbah-Karkabi",
   "paperTitle": "The diverging gender inequality across households: The case of Palestinian-Arab families in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/maha-sabbah/\" target=\"_blank\" rel=\"noopener noreferrer\">Maha Sabbah-Karkabi</a>",

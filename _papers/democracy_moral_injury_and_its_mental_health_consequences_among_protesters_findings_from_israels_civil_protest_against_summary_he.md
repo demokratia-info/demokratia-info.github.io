@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yossi Levi‐Belz, Yoav Groweiss, Carmel Blank",
   "paperTitle": "Moral injury and its mental health consequences among protesters: findings from Israel’s civil protest against the government's judicial reform",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8865-5639\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Levi‐Belz</a>, Yoav Groweiss, <a href=\"https://orcid.org/0000-0002-2637-0531\" target=\"_blank\" rel=\"noopener noreferrer\">Carmel Blank</a>",

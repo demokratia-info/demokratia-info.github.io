@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן פרסונליזציה של עיתונאים: קידום עצמי, מיתוג אישי ומיצוב אידאולוגי שמשנים את העבודה העיתונאית ואת מוסדות התקשורת. באמצעות ראיונות עם 18 עיתונאים בולטים מישראל, איטליה וארצות הברית וניתוח תוכן של 600 ציוצים של 30 עיתונאים, הוא מחבר בין פרקטיקות מדיה חברתית לבין קיטוב ופופוליזם.",
   "summaryHe": "Arnon Kedem ו-Motti Neiger מרחיבים את הדיון בפרסונליזציה פוליטית אל תוך העיתונות עצמה. המאמר טוען שמיתוג עצמי, חגיגת הדמות העיתונאית ומיצוב אידאולוגי אינם רק תופעות צדדיות ברשתות, אלא חלק משינוי עמוק ביחסים בין עיתונאים, מוצרים עיתונאיים, מוסדות תקשורת וקהל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arnon Kedem, Motti Neiger",
   "paperTitle": "Journalists’ Personalization: How Self-Promoting, Branding, and Ideological Positioning Redefine Journalistic Practices, Products, and Institutions",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0346-4719\" target=\"_blank\" rel=\"noopener noreferrer\">Arnon Kedem</a>, <a href=\"https://cris.biu.ac.il/en/persons/motti-neiger\" target=\"_blank\" rel=\"noopener noreferrer\">Motti Neiger</a>",

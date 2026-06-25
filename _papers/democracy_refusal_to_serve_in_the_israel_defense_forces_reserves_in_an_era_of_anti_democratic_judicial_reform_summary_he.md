@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בהרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את הרפורמה המשפטית, עצמאות שיפוטית והאיזונים הדמוקרטיים דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ayelet Harel‐Shalev",
   "paperTitle": "Refusal to serve in the Israel Defense Forces reserves in an era of anti-democratic judicial reform",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/researcher/ayelet-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Harel‐Shalev</a>",

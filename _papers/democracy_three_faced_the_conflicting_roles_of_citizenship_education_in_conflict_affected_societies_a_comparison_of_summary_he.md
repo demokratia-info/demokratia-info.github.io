@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה כיצד מורים ותלמידים מפרשים חינוך לאזרחות בארבעה בתי ספר בצפון אירלנד ובישראל, ומראה כיצד סכסוך, קהילה ומבחנים מעצבים את גבולות הדיון האזרחי.",
   "summaryHe": "המאמר בוחן חינוך לאזרחות בבתי ספר קתוליים, פרוטסטנטיים, יהודיים־ישראליים וערביים־פלסטיניים, ומזהה שלוש פרשנויות מתחרות: העצמה אזרחית, כלי פוליטי שמציף או משתיק מחלוקת, ומקצוע שמצטמצם לביצועים ולבחינות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Aline Muff, Caitlin Donnelly",
   "paperTitle": "Three-faced: The conflicting roles of citizenship education in conflict-affected societies – A comparison of Northern Ireland and Israel",
   "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Aline Muff</a>, <a href=\"https://orcid.org/0000-0002-4188-5699\" target=\"_blank\" rel=\"noopener noreferrer\">Caitlin Donnelly</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן במודל תאורטי כיצד הגנה משפטית על משקיעים משפיעה על יעילות שוק ההשתלטויות כאשר מציעים מוגבלים במימון.",
   "summaryHe": "המאמר טוען שהגנת משקיעים חזקה מגדילה את יכולת המימון החיצוני של מציעים, אך היא משפרת יעילות בעיקר כאשר קיימת תחרות אפקטיבית על חברת היעד.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Mike Burkart, Denis Gromb, Holger M. Mueller, Fausto Panunzi",
   "paperTitle": "Legal Investor Protection and Takeovers",
   "authorsHtml": "<a href=\"https://www.hhs.se/en/persons/b/burkart-mike/\" target=\"_blank\" rel=\"noopener noreferrer\">Mike Burkart</a>; <a href=\"https://sites.google.com/hec.fr/denis-gromb/home\" target=\"_blank\" rel=\"noopener noreferrer\">Denis Gromb</a>; <a href=\"https://www.stern.nyu.edu/faculty/bio/holger-mueller\" target=\"_blank\" rel=\"noopener noreferrer\">Holger M. Mueller</a>; <a href=\"https://economics.unibocconi.eu/faculty/fausto-panunzi\" target=\"_blank\" rel=\"noopener noreferrer\">Fausto Panunzi</a>",

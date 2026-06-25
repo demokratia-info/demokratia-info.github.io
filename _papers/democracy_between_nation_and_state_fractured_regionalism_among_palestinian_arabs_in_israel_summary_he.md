@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות, שוויון ומעמדן של קבוצות מיעוט בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oren Yiftachel",
   "paperTitle": "Between nation and state: `fractured' regionalism among Palestinian-Arabs in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>",

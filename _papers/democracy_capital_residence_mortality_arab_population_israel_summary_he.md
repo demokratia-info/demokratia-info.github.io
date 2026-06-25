@@ -7,6 +7,7 @@
   "subtitleHe": "מעקב אחר מדגם מפקד 1995 עד 2001 מצא קשר בין הון כלכלי, הון תרבותי, סולידריות משפחתית ומרחב מגורים לבין תמותה.",
   "descriptionHe": "המאמר בוחן כיצד הון כלכלי ותרבותי, סולידריות משפחתית והרכב אתני של אזור המגורים קשורים לתמותה בקרב האוכלוסייה הערבית בישראל.",
   "summaryHe": "Matan Markovizky ו-Jon Anson משתמשים במדגם של 192,646 פרטים ערבים מ-41,859 משקי בית ו-317 אזורים סטטיסטיים, על בסיס מפקד 1995 ומעקב עד סוף 2001. המאמר מראה שהון כלכלי ותרבותי וסולידריות משפחתית קשורים לתמותה נמוכה יותר, ושגם מקום המגורים והרכבו האתני מעצבים הבדלים בתוך האוכלוסייה הערבית בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Matan Markovizky, Jon Anson",
   "paperTitle": "Capital, Residence, and Mortality: The Special Case of the Arab Population in Israel, 1995–2001",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4650-3909\" target=\"_blank\" rel=\"noopener noreferrer\">Matan Markovizky</a>; <a href=\"https://www.bgu.ac.il/en/people/anson/\" target=\"_blank\" rel=\"noopener noreferrer\">Jon Anson</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מדיניות, מדינה ואלימות פוליטית של ערבים במדינה היהודית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Badi Hasisi, Ami Pedahzur",
   "paperTitle": "State, policy, and political violence: Arabs in the Jewish state",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4506-5636\" target=\"_blank\" rel=\"noopener noreferrer\">Badi Hasisi</a>, <a href=\"https://liberalarts.utexas.edu/plan2/faculty/ap2976\" target=\"_blank\" rel=\"noopener noreferrer\">Ami Pedahzur</a>",

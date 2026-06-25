@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חירות דתית במדינת ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חירות דתית במדינת ישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Natan Lerner",
   "paperTitle": "Religious Liberty in the State of Israel",
   "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/lerner\" target=\"_blank\" rel=\"noopener noreferrer\">Natan Lerner</a>",

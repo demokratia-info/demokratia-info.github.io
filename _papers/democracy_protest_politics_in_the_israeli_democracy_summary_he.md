@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית פוליטיקת מחאה והמרחב הדמוקרטי בישראל, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית פוליטיקת מחאה והמרחב הדמוקרטי בישראל דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eva Etzioni-Halevy",
   "paperTitle": "Protest Politics in the Israeli Democracy",
   "authorsHtml": "Eva Etzioni-Halevy",

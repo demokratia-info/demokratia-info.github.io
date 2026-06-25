@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם אזרחים בדמוקרטיות מתחשבים בעמדות החיילים עצמם כאשר הם מגבשים תמיכה במבצעים צבאיים. הוא מתבסס על סקרים וניסוי בצרפת, ישראל, בריטניה וארצות הברית.",
   "summaryHe": "המאמר מראה שתמיכה ציבורית במבצע צבאי מושפעת מן השאלה אם האזרחים מאמינים שהחיילים עצמם תומכים במבצע, ובוחן את המנגנונים של ביצוע צבאי, הסכמה ואמפתיה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ronald R. Krebs, Robert Ralston, Thierry Balzacq, David Blagden, Shaul R. Shenhav",
   "paperTitle": "Do Soldiers Get a Say? Soldiers’ Views and Public Support for Military Operations in Four Democracies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6504-060X\" target=\"_blank\" rel=\"noopener noreferrer\">Ronald R. Krebs</a>, <a href=\"https://orcid.org/0000-0002-4470-1242\" target=\"_blank\" rel=\"noopener noreferrer\">Robert Ralston</a>, <a href=\"https://orcid.org/0000-0002-4242-5088\" target=\"_blank\" rel=\"noopener noreferrer\">Thierry Balzacq</a>, <a href=\"https://orcid.org/0000-0001-6923-4946\" target=\"_blank\" rel=\"noopener noreferrer\">David Blagden</a>, <a href=\"https://orcid.org/0000-0002-8820-3579\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>",

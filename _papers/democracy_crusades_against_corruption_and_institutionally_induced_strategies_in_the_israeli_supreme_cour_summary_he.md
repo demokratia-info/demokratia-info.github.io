@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מאבק בשחיתות ואסטרטגיות מוסדיות בבית המשפט העליון דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Udi Sommer",
   "paperTitle": "Crusades against Corruption and Institutionally-induced Strategies in the Israeli Supreme Court",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>",

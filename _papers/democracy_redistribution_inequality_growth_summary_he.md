@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין אי־שוויון, חלוקה מחדש וצמיחה באמצעות נתונים שמפרידים בין אי־שוויון שוק לבין אי־שוויון לאחר מסים והעברות. הוא שואל אם מדיניות חלוקה מחדש פוגעת בצמיחה, או אם דווקא אי־שוויון גבוה הוא שמחליש צמיחה יציבה.",
   "summaryHe": "המאמר מצא שאי־שוויון נטו נמוך יותר קשור לצמיחה מהירה וממושכת יותר, גם כאשר שולטים בהיקף החלוקה מחדש. חלוקה מחדש פיסקלית אינה נראית בדרך כלל כמכשול צמיחה, למעט אפשרות של השפעה שלילית במקרים קיצוניים מאוד.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Andrew Berg, Jonathan D. Ostry, Charalambos G. Tsangarides, Yorbol Yakhshilikov",
   "paperTitle": "Redistribution, inequality, and growth: new evidence",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2968-0068\" target=\"_blank\" rel=\"noopener noreferrer\">Andrew Berg</a>; <a href=\"https://orcid.org/0000-0002-0315-8378\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan D. Ostry</a>; Charalambos G. Tsangarides; Yorbol Yakhshilikov",

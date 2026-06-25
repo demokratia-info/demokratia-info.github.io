@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על סגנונות מנהיגות של מנהלי בתי ספר במערכת החינוך הערבית בישראל ועל הקשר שלהם למחויבות ארגונית של מורים.",
   "summaryHe": "המאמר בוחן כיצד מורים וצוותי ניהול בבתי ספר תיכוניים ערביים בישראל תופסים מנהיגות משתפת, מכוונת, טרנספורמטיבית ועסקתית. הממצאים מצביעים על דומיננטיות של מנהיגות מכוונת, אך גם על קשר חיובי בין מנהיגות משתפת לבין מחויבות מורים מעבר להשפעת הסגנון המכוון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yasmin Abd El Qader; Pascale Benoliel",
   "paperTitle": "The implications of principal leadership styles on teachers' organizational commitment in the Israeli Arab educational minority",
   "authorsHtml": "Yasmin Abd El Qader; <a href=\"https://cris.biu.ac.il/en/persons/pascale-benoliel/\" target=\"_blank\" rel=\"noopener noreferrer\">Pascale Benoliel</a>",

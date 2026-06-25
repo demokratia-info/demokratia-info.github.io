@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד רמות ומקורות של אי־שוויון בהכנסות משפיעים על היכולת של מדינה למשוך ולשמר עובדים מיומנים. חשיבותו הדמוקרטית היא בכך שהוא מחבר בין הגירה, שכר, הון אנושי ושאלה ציבורית על מי נהנה משוק עבודה פתוח.",
   "summaryHe": "המחקר שואל אם אי־שוויון גבוה מושך מהגרים מיומנים משום שהוא מגדיל את התשואה לכישורים, או שמקורות שונים של אי־שוויון יוצרים דפוסים מורכבים יותר. המודל מבחין בין כישורים כלליים לבין כישורים הספציפיים למדינת המוצא, ומראה שהקשר בין כישורים בלתי נצפים לבין הגירה יכול להיות בצורת U הפוכה. באמצעות נתונים על מהגרים ישראלים לפני החלטת ההגירה, החוקרים מוצאים תמיכה אמפירית בתחזיות המודל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eric D. Gould, Omer Moav",
   "paperTitle": "Does High Inequality Attract High Skilled Immigrants?",
   "authorsHtml": "<a href=\"https://en.economics.huji.ac.il/people/eric-gould\" target=\"_blank\" rel=\"noopener noreferrer\">Eric D. Gould</a>; <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>",

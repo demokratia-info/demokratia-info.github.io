@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את סעיף 5ב לחוק העוולות האזרחיות ואת חסינות המדינה מתביעות נזיקין של תושבי עזה, תוך דיון בדיני נזיקין ישראליים, במשפט משווה, בדיני כיבוש ובזכויות אדם בינלאומיות.",
   "summaryHe": "המאמר טוען שהשלילה הגורפת של פיצוי מתושבי עזה וממי שמוגדרים קשורים לארגוני טרור קשה להצדקה כאשר הנזק אינו קשור ישירות לפעולה לחימתית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ya'ara Mordecai",
   "paperTitle": "When the Cannons Roar, Tort Laws Are Silent? A Re-examination of Section 5B of the Civil Wrongs (Liability of the State) Law",
   "authorsHtml": "Ya'ara Mordecai",

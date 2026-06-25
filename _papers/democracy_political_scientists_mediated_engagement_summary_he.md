@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר בוחן כיצד חוקרות וחוקרי מדע המדינה בישראל תופסים הופעה בתקשורת בתקופת הרפורמה המשפטית והקיטוב סביב הדמוקרטיה.",
   "descriptionHe": "מיכל נויבאואר-שני ואלי פרידמן מנתחים ראיונות עם מדעני מדינה ישראלים, ומראים את המתח בין מומחיות מקצועית, עמדה נורמטיבית, זהירות אקדמית ונוכחות תקשורתית בזמן משבר דמוקרטי.",
   "summaryHe": "מדעני מדינה בזמן משבר דמוקרטי נעים בין מומחיות ציבורית, חינוך לדמוקרטיה, חשש מזיהוי מפלגתי וניסיון להשפיע דרך תקשורת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מיכל נויבאואר-שני ואלי פרידמן",
   "paperTitle": "‘Speaking truth to power'? Political scientists’ mediated engagement within the context of democratic backsliding",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/michal-neubauer-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Neubauer-Shani</a>; <a href=\"https://www.aac.ac.il/en/staff/dr-elie-friedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Elie Friedman</a>",

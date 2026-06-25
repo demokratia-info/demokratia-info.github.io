@@ -7,6 +7,7 @@
   "subtitleHe": "אתנוגרפיה ו־36 ראיונות מציעים להבין נשיאת נשק אזרחית כ״היברידיות חיה״ של כוח, חוק וזהות.",
   "descriptionHe": "המאמר מנתח תרבות נשק אזרחית בישראל דרך שלוש וחצי שנות עבודת שדה ו־36 ראיונות, ומראה כיצד בעלי נשק מנווטים בין פריבילגיה שמעניקה המדינה לבין שפה ליברלית של זכות אישית.",
   "summaryHe": "נחמיה שטרן, מאיה מאור, גיא נגר ועוזי בן־שלום מציעים את המושג ״היברידיות חיה״ כדי לתאר בעלות אזרחית על נשק בישראל. לפי תקציר המקור, בעלי נשק אינם פשוט ממשיכים מיליטריזם מדינתי ואינם רק ליברטריאנים של זכויות פרט; הם חיים סתירות בין חוק, הרשאה, ביטחון וזהות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nehemia Stern, Maya Maor, Guy Nagar, Uzi Ben-Shalom",
   "paperTitle": "Lived hybridity and armed citizenship: civilian gun ownership in contemporary Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4842-0544\" target=\"_blank\" rel=\"noopener noreferrer\">Nehemia Stern</a>; <a href=\"https://cris.ariel.ac.il/en/persons/maya-maor/\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Maor</a>; Guy Nagar; <a href=\"https://cris.ariel.ac.il/en/persons/uzi-ben-shalom-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Uzi Ben-Shalom</a>",

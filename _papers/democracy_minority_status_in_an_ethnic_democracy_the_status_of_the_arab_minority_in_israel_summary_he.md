@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sammy Smooha",
   "paperTitle": "Minority status in an ethnic democracy: The status of the Arab minority in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/sammy-smooha/\" target=\"_blank\" rel=\"noopener noreferrer\">Sammy Smooha</a>",

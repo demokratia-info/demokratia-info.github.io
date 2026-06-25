@@ -8,6 +8,7 @@
   "subtitleHe": "המקרה הישראלי מראה כיצד התערבות חזותית במרחב הציבורי יכולה להרחיב את גבולות הפעולה האזרחית.",
   "descriptionHe": "המאמר משתמש בסצנת אמנות הרחוב בישראל כדי לבחון כיצד פרקטיקות חזותיות במרחב הציבורי יכולות לתפקד כמחאה וכהשתתפות פוליטית.",
   "summaryHe": "המאמר טוען שאמנות רחוב, גם כאשר החלה כפעולה בלתי־מורשית, הפכה להתערבות פעילה במרחב הציבורי ולצורת השתתפות פוליטית שמחזקת את עצמה ומרחיבה את מושג החברה האזרחית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Graciela Trajtenberg",
   "paperTitle": "Widening the margins of political participation: The political effect of street art on civil society",
   "authorsHtml": "Graciela Trajtenberg",

@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר עוסק בחינוך לדמוקרטיה בישראל ומדגיש את הקושי לטפח ערכים דמוקרטיים, זכויות וסובלנות בתוך מציאות של סכסוך וזהויות מתחרות.",
   "descriptionHe": "המאמר מזכיר שחינוך לדמוקרטיה אינו רק לימוד מוסדות, אלא תהליך של טיפוח סובלנות, זכויות, ביקורתיות והכרה בלגיטימיות של האחר. החשיבות הציבורית של המאמר היא בכך שהוא מדגיש שהדמוקרטיה נשענת על מוסדות, שירות ציבורי וחברה אזרחית מתפקדים; כאשר המרחבים האלה נחלשים, גם ההכרעה האלקטורלית עצמה מאבדת חלק מכוחה המתקן.",
   "summaryHe": "המאמר מזכיר שחינוך לדמוקרטיה אינו רק לימוד מוסדות, אלא תהליך של טיפוח סובלנות, זכויות, ביקורתיות והכרה בלגיטימיות של האחר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ערן הלפרין ודניאל בר-טל",
   "paperTitle": "Democratic Values and Education for Democracy in the State of Israel",
   "authorsHtml": "<a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>; <a href=\"https://english.tau.ac.il/profile/daniel\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Bar-Tal</a>",

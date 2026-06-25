@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Eva Etzioni-Halevy טוען שהקשר הקרוב בין האליטה הצבאית לבין האליטה הממשלתית־פוליטית בישראל פוגע באיכות הדמוקרטיה. לפי המאמר, הקשר מעניק לממשלה יתרון אלקטורלי בלתי הוגן מול האופוזיציה.",
   "summaryHe": "המאמר מתאר כמה ערוצים של קרבה בין צבא לפוליטיקה: תמיכה פומבית של מפקדים במדיניות ממשלתית, מעורבות בעיצוב מדיניות, מינויים פוליטיים בצבא, מעבר מן הצבא לפוליטיקה וקשרים חברתיים בלתי פורמליים. כל אלה יכולים לחזק את הממשלה המכהנת ולפגוע ברוח התחרות הדמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eva Etzioni-Halevy",
   "paperTitle": "Civil-Military Relations and Democracy: The Case of the Military-Political Elites' Connection in Israel",
   "authorsHtml": "Eva Etzioni-Halevy",

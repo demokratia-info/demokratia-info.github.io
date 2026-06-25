@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר אורך בן ארבעה גלים בוחן כיצד אירועים פוליטיים מחלחלים לתפקוד המשפחה ולהתפתחות בני נוער.",
   "descriptionHe": "המחקר בוחן מודל שבו חשיפה משפחתית לאלימות אתנו־פוליטית מנבאת תפקוד משפחתי שלילי, ענישה פיזית נוקשה ותוקפנות של ילדים בשלבי התבגרות מאוחרים.",
   "summaryHe": "המחקר עקב החל מ־2007 אחר 451 בני נוער יהודים ישראלים ו־600 בני נוער פלסטינים בשלושה גילאים, ומצא שחשיפה לאלימות אתנו־פוליטית קשורה לתוקפנות דרך תהליכים משפחתיים כמו תוקפנות בין ההורים וענישה נוקשה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eric F. Dubow; Paul Boxer; Meagan Docherty; L. Rowell Huesmann; Simha F. Landau; Khalil Shikaki",
   "paperTitle": "Political violence exposure and youth aggression in the context of the social ecological systems and family stress models: A four-wave prospective study of Israeli and Palestinian youth",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2718-2268\" target=\"_blank\" rel=\"noopener noreferrer\">Eric F. Dubow</a>; <a href=\"https://orcid.org/0000-0001-7072-9364\" target=\"_blank\" rel=\"noopener noreferrer\">Paul Boxer</a>; <a href=\"https://orcid.org/0000-0002-5995-5122\" target=\"_blank\" rel=\"noopener noreferrer\">Meagan Docherty</a>; L. Rowell Huesmann; <a href=\"https://orcid.org/0000-0003-0848-7282\" target=\"_blank\" rel=\"noopener noreferrer\">Simha F. Landau</a>; Khalil Shikaki",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מועמדים לנשיאות בברזיל השתמשו בטוויטר בבחירות 2018 ו-2022, ומקשר בין נושאי קמפיין לבין מסרים שליליים או מסרי שבח עצמי. הוא חשוב להבנת דמוקרטיה משום שהוא מראה כיצד תחרות בחירות ברשתות חברתיות יכולה לעבור מדיון במדיניות לתקשורת שלילית ומקטבת.",
   "summaryHe": "המאמר מנתח 1,191 ציוצים של מועמדים לנשיאות ברזיל בבחירות 2018 ו-2022, ומראה עלייה בשליליות לצד קשר שונה בין נושאי מדיניות לבין אסטרטגיות קמפיין.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Isabella Gonçalves, Mathias-Felipe De-Lima-Santos, Vicente Fenoll, Yossi David",
   "paperTitle": "Evolution of Brazilian Democracy: Unveiling Election Dynamics in Political Issues, Negativity, and Acclaim",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6492-9236\" target=\"_blank\" rel=\"noopener noreferrer\">Isabella Gonçalves</a>, <a href=\"https://orcid.org/0000-0001-8879-7381\" target=\"_blank\" rel=\"noopener noreferrer\">Mathias-Felipe De-Lima-Santos</a>, <a href=\"https://orcid.org/0000-0002-5851-4237\" target=\"_blank\" rel=\"noopener noreferrer\">Vicente Fenoll</a>, <a href=\"https://www.bgu.ac.il/staffmemberslobby/davidyos/\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi David</a>",

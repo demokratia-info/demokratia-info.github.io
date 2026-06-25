@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד חלוקת ההון האנושי, קידמה טכנולוגית וצמיחה כלכלית משפיעות זו על זו לאורך שלבי התפתחות שונים של כלכלה.",
   "summaryHe": "המאמר טוען כי חלוקת ההון האנושי יכולה ליצור תחילה קיטוב בשכר ובהכנסה, אך גם להשפיע על מעבר עתידי לשוויון ולשגשוג.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Oded Galor, Daniel Tsiddon",
   "paperTitle": "The Distribution of Human Capital and Economic Growth",
   "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, <a href=\"https://english.tau.ac.il/profile/tsiddon\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Tsiddon</a>",

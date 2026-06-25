@@ -8,6 +8,7 @@
   "subtitleHe": "גביזון דנה באפשרות לעגן חזון חוקתי שמחזיק יחד יהודיות, דמוקרטיה, זכויות והסכמה אזרחית.",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "רות גביזון",
   "paperTitle": "Constitutional Anchoring of Israel’s Vision:",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/ruth-gavison\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Gavison</a>",

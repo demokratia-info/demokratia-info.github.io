@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן חוקי זיכרון בישראל ככלי של שליטה חברתית, דרך היחס לנכבה ולזיכרון עקירתם של יהודים מארצות ערב ומאיראן.",
   "summaryHe": "המאמר מנתח כיצד מוסדות ואליטות שלטוניות משתמשים בחקיקת זיכרון כדי לעצב גבולות של שייכות, הכרה ושכחה ציבורית. הוא מראה שהשפעתם של חוקים כאלה אינה רק משפטית, אלא בעיקר פוליטית וסמלית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yifat Gutman, Noam Tirosh",
   "paperTitle": "Balancing Atrocities and Forced Forgetting: Memory Laws as a Means of Social Control in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4742-6004\" target=\"_blank\" rel=\"noopener noreferrer\">Yifat Gutman</a>, <a href=\"https://orcid.org/0000-0002-9930-6661\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Tirosh</a>",

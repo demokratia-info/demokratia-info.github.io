@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר אורך בישראל על חוסן חברתי, מצוקה ותקווה סביב המשבר הפוליטי של 2022–2023.",
   "descriptionHe": "המאמר בוחן לאורך זמן כיצד משבר פוליטי־חברתי בישראל השפיע על חוסן, מצוקה, תקווה ותחושת סכנה בקרב הציבור היהודי. הוא חשוב לדמוקרטיה משום שהוא מראה כיצד קיטוב פוליטי אינו נשאר ברמת עמדות, אלא משפיע על מדדי חוסן ותפקוד חברתי.",
   "summaryHe": "Hadas Marciano, Shaul Kimhi, Yohanan Eshel ו-Bruria Adini מנתחים שלוש מדידות שנערכו לפני הבחירות של אוקטובר 2022, לאחר הקמת הממשלה, ובאוגוסט 2023. לפי התקציר, חוסן חברתי עלה בקרב מצביעי הקואליציה וירד בקרב מצביעי האופוזיציה, לצד הבדלים בתקווה, מצוקה ותחושת סכנה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hadas Marciano, Shaul Kimhi, Yohanan Eshel, Bruria Adini",
   "paperTitle": "Impact of prolonged social crisis on resilience and coping indicators",
   "authorsHtml": "<a href=\"https://reswell.tau.ac.il/H_Marciano\" target=\"_blank\" rel=\"noopener noreferrer\">Hadas Marciano</a>, <a href=\"https://reswell.tau.ac.il/shaul-kimhi\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul Kimhi</a>, <a href=\"https://cris.haifa.ac.il/en/persons/yohanan-eshel/\" target=\"_blank\" rel=\"noopener noreferrer\">Yohanan Eshel</a>, <a href=\"https://cris.tau.ac.il/en/persons/bruria-adini/\" target=\"_blank\" rel=\"noopener noreferrer\">Bruria Adini</a>",

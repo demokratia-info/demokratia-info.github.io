@@ -8,6 +8,7 @@
   "subtitleHe": "נבות ולוריא מנתחים את המשבר המשפטי כערעור על עצמאות מוסדות הביקורת ועל יכולת המשפט להגביל כוח שלטוני.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מסביר מדוע פגיעה בעצמאות המשפטית אינה רק מחלוקת בין רשויות אלא איום על תנאי היסוד של דמוקרטיה חוקתית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "סוזי נבות, גיא לוריא",
   "paperTitle": "An Attack on the Rule of Law in Israel",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/38336\" target=\"_blank\" rel=\"noopener noreferrer\">Suzie Navot</a>; <a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות אדם ובית המשפט העליון בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות אדם ובית המשפט העליון בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aharon Barak",
   "paperTitle": "Human Rights in Israel",
   "authorsHtml": "<a href=\"https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&amp;nodeId=809\" target=\"_blank\" rel=\"noopener noreferrer\">Aharon Barak</a>",

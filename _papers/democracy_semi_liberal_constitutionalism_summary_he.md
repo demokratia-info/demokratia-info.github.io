@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חוקתיות חצי־ליברלית וזכויות במצבי אי־שוויון, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר מציע את המושג “חוקתיות חצי־ליברלית” כדי לתאר מערכות שמחויבות בו בזמן לזכויות ליברליות ולערכים או אינטרסים שמגבילים חלק מהזכויות הללו באופן מתמשך. ישראל משמשת דוגמה דרך יחסי דת ומדינה ודיני המעמד האישי. הטענה החשובה היא שהפעלת נימוק ליברלי רגיל בתוך מערכת חצי־ליברלית עלולה להחמיץ פערי כוח ולהגן על זכויות של חלק מהקבוצות על חשבון אחרות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gila Stopler",
   "paperTitle": "Semi-liberal constitutionalism",
   "authorsHtml": "<a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",

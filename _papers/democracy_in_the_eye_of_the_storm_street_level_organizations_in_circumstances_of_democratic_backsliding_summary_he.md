@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ארגוני שטח בעין הסערה של נסיגה דמוקרטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ארגוני שטח בעין הסערה של נסיגה דמוקרטית דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Anat Gofen",
   "paperTitle": "In the eye of the storm: Street‐level organizations in circumstances of democratic backsliding",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4438-8655\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Gofen</a>",

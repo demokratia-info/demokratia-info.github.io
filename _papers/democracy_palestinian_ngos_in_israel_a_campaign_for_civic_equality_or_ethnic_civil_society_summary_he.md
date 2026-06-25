@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית עמותות פלסטיניות בישראל בין שוויון אזרחי לחברה אזרחית אתנית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oded Haklai",
   "paperTitle": "Palestinian NGOs in Israel: A Campaign for Civic Equality or ?Ethnic Civil Society??",
   "authorsHtml": "Oded Haklai",

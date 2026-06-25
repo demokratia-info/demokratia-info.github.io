@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על שירות צבאי, חברי כנסת וערכים רפובליקניים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית שירות צבאי, חברי כנסת וערכים רפובליקניים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ben Herzog",
   "paperTitle": "Elevating the significance of military service: Knesset members and republican values",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6397-6284\" target=\"_blank\" rel=\"noopener noreferrer\">Ben Herzog</a>",

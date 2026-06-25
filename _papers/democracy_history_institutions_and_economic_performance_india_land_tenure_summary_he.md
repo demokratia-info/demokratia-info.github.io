@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד שיטות קרקע קולוניאליות בהודו יצרו הבדלים מתמשכים בין אזורים שבהם הוכרו בעלי אדמות לבין אזורים שבהם ההסדרים נשענו יותר על מעבדי הקרקע.",
   "summaryHe": "המחקר משווה בין אזורים בהודו לפי מוסדות גביית הקרקע שהבריטים הנהיגו. הוא מראה שאזורים שבהם זכויות הקרקע ניתנו היסטורית לבעלי אדמות התאפיינו לאחר העצמאות בהשקעה חקלאית ובפריון נמוכים יותר, וגם בהשקעות נמוכות יותר בבריאות ובחינוך.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Abhijit Banerjee, Lakshmi Iyer",
   "paperTitle": "History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India",
   "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/abhijit-banerjee\" target=\"_blank\" rel=\"noopener noreferrer\">Abhijit Banerjee</a>; <a href=\"https://keough.nd.edu/about/faculty-staff-directory/lakshmi-iyer/\" target=\"_blank\" rel=\"noopener noreferrer\">Lakshmi Iyer</a>",

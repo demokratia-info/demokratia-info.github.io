@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין דמוקרטיה אתנית לפלורליזם שוויוני כדי לבחון את המתח בין זהותה היהודית של ישראל לבין מחויבויותיה הדמוקרטיות.",
   "summaryHe": "המאמר טוען שדמוקרטיה אתנית משמרת את הסטטוס קוו ואת הדומיננטיות היהודית, בעוד שפלורליזם שוויוני מציע רפורמות להרחבת שוויון וזכויות מיעוטים אך מעורר התנגדות סביב אופייה היהודי של המדינה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Israel's Dual Identity: A Comparative Analysis of Ethnic Democracy and Egalitarian Pluralism",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על יחס המדינה לדתות מיעוט בישראל, ועל החובות המוסריות והחוקתיות הנובעות משוויון אזרחי.",
   "summaryHe": "המאמר של גדעון ספיר ודניאל סטטמן שואל כיצד ישראל צריכה להתייחס לדתות מיעוט, והאם מדיניותה כלפיהן מתיישבת עם חובות מוסריות וחוקתיות. נקודת הכובד הדמוקרטית היא ההבחנה בין זהות יהודית ציבורית לבין הפליה או העדפה דתית שפוגעת באזרחים שאינם יהודים. לכן המאמר מסייע לחשוב על מדינה יהודית ודמוקרטית לא כסיסמה, אלא כמשטר של חובות שוויון ממשיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gideon Sapir, Daniel Statman",
   "paperTitle": "MINORITY RELIGIONS IN ISRAEL",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/gideon-sapir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gideon Sapir</a>, <a href=\"https://cris.haifa.ac.il/en/persons/daniel-statman\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Statman</a>",

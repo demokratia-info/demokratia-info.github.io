@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק באזרחות, שייכות וזכויות בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את אזרחות, שייכות וזכויות בדמוקרטיה הישראלית דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Itay Chay Machtei Samov, Yael Yishai",
   "paperTitle": "Fragmented citizenship in a religious-national democracy: homosexuals in Israel",
   "authorsHtml": "Itay Chay Machtei Samov, <a href=\"https://cris.haifa.ac.il/en/persons/yael-yishai/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Yishai</a>",

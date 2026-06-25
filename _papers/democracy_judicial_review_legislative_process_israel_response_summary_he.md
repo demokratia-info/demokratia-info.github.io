@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של תגובה משפטית על התפתחות הביקורת השיפוטית על הליך החקיקה בישראל, ובמיוחד פסק דין קוונטינסקי וחוק ההסדרים.",
   "summaryHe": "המאמר הוא תגובה משפטית קצרה המשלימה דיון השוואתי על ביקורת שיפוטית של הליך החקיקה. הוא מתמקד בפסק דין קוונטינסקי משנת 2017, שבו נפסל חוק לראשונה בישראל בשל פגמים בהליך החקיקה, ומדגיש את חשיבות חוק ההסדרים כמנגנון חקיקה מהיר ומועד לפגמים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gonen Ilan",
   "paperTitle": "Response: Recent Development regarding Judicial Review of Legislative Process in Israel",
   "authorsHtml": "Gonen Ilan",

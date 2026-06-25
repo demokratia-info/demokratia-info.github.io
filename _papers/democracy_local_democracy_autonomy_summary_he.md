@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "איך אוטונומיה מקומית יכולה להרחיב את ההבנה של דמוקרטיה מעבר לבחירות ולמוסדות ברמה הלאומית. החשיבות הציבורית של המאמר היא בכך שהוא מדגיש שהדמוקרטיה נשענת על מוסדות, שירות ציבורי וחברה אזרחית מתפקדים; כאשר המרחבים האלה נחלשים, גם ההכרעה האלקטורלית עצמה מאבדת חלק מכוחה המתקן.",
   "summaryHe": "איך אוטונומיה מקומית יכולה להרחיב את ההבנה של דמוקרטיה מעבר לבחירות ולמוסדות ברמה הלאומית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ישי בלנק, איסי רוזן-צבי, דן לרגמן",
   "paperTitle": "Local democracy as local autonomy",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yblank\" target=\"_blank\" rel=\"noopener noreferrer\">Yishai Blank</a>; <a href=\"https://en-law.tau.ac.il/profile/issirz\" target=\"_blank\" rel=\"noopener noreferrer\">Issi Rosen-Zvi</a>; <a href=\"https://en-law.tau.ac.il/profile/danlargm\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Largman</a>",

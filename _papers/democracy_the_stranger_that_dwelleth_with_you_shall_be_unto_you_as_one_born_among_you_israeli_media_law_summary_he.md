@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית דיני תקשורת וזכויות תרבות של המיעוט הפלסטיני בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amit Schejter",
   "paperTitle": "The Stranger That Dwelleth with You Shall Be unto You as One Born among You: Israeli Media Law and the Cultural Rights of the Palestinian-Israeli Minority",
   "authorsHtml": "<a href=\"https://in.bgu.ac.il/en/humsos/comm-Studies/pages/staff/amit_schejter.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Amit Schejter</a>",

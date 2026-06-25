@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק בדעת קהל, בחירות וקיטוב פוליטי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Alon-Tirosh, Dorit Hadar-Shoval",
   "paperTitle": "Leadership and identity politics on the eve of the Israeli 2015 elections: children’s perspectives",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8035-9125\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Alon-Tirosh</a>, <a href=\"https://orcid.org/0000-0002-1376-3096\" target=\"_blank\" rel=\"noopener noreferrer\">Dorit Hadar-Shoval</a>",

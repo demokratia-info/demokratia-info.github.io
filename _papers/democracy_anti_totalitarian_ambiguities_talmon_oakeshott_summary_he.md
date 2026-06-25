@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Efraim Podoksik משווה בין Jacob Talmon לבין Michael Oakeshott סביב ביקורת על טוטליטריות. דרך היסטוריה של רעיונות הוא מראה שגם התנגדות לשלטון טוטליטרי יכולה לשאת בתוכה עמימות לגבי חירות, רציונליזם, מסורת ופוליטיקה.",
   "summaryHe": "המאמר אינו מסתפק בהצבת דמוקרטיה מול טוטליטריות כזוג מושגים פשוט. הוא בוחן כיצד שני הוגים אנטי־טוטליטריים ניסחו חששות שונים מן הפוליטיקה המודרנית, ומה ניתן ללמוד מכך על גבולות כוח המדינה ועל שפת החירות הליברלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Efraim Podoksik",
   "paperTitle": "Anti-totalitarian ambiguities: Jacob Talmon and Michael Oakeshott",
   "authorsHtml": "<a href=\"https://cris.huji.ac.il/en/persons/efraim-podoksik/\" target=\"_blank\" rel=\"noopener noreferrer\">Efraim Podoksik</a>",

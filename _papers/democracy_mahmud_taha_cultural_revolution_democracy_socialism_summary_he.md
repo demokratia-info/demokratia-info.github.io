@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את מחשבתו של מחמוד מוחמד טהה, הוגה סודאני שחיבר בין סופיות, דמוקרטיה וסוציאליזם. חשיבותו לדיון דמוקרטי היא בהצגת פרויקט דתי־פוליטי שמבקש לבסס אתיקה של חירות, שוויון ושלום מול מסורות של כפייה.",
   "summaryHe": "Hatina מציג את טהה כהוגה שניסה לחדש את האסלאם דרך חזרה לערכים אוניברסליים של התקופה המכאית: צדק, חירות ושלום. לפי המאמר, החלוקה החריפה של טהה בין האסלאם המכאי לבין האסלאם המדיני שימשה אותו לביקורת על כפייה, ניצול וזיכרון קולקטיבי ערבי סביב הסכסוך הישראלי־ערבי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Meir Hatina",
   "paperTitle": "Dismantling the sacred in the name of humanity: Mahmud Muhammad Taha’s cultural revolution",
   "authorsHtml": "<a href=\"https://en.islamic-mideast.huji.ac.il/people/meir-hatina\" target=\"_blank\" rel=\"noopener noreferrer\">Meir Hatina</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "יאיר שגיא, גיא לוריא ואמנון רייכמן משחזרים את ההיסטוריה המוסדית של הנהלת בתי המשפט מ-1948 עד אמצע שנות התשעים.",
   "descriptionHe": "המאמר ב-Journal of Israeli History מציג היסטוריה של הנהלת בתי המשפט בישראל, את מודל מנהל בתי המשפט, ואת המתחים בין הרשות השופטת, הרשות המבצעת, נשיאי בתי המשפט ושופטים מן השורה.",
   "summaryHe": "המאמר מראה שההיסטוריה של הנהלת בתי המשפט היא מפתח להבנת עצמאות הרשות השופטת והיחסים בין רשויות בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יאיר שגיא, גיא לוריא ואמנון רייכמן",
   "paperTitle": "A history of the administration of courts in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/yair-sagy/\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Sagy</a>; <a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>; <a href=\"https://law.haifa.ac.il/en/our-staff/lecturers/amnon-reichman/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Reichman</a>",

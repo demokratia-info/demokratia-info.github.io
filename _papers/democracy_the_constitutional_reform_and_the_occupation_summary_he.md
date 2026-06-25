@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין תוכנית הרפורמה החוקתית של ממשלת ישראל שנכנסה לתפקיד בדצמבר 2022 לבין שינוי מדיניות ישראל בגדה המערבית.",
   "summaryHe": "המאמר טוען כי הרפורמה החוקתית נועדה לאפשר מהלכי מדיניות בעניין הכיבוש שעלולים להיתקל בייעוץ משפטי ובביקורת שיפוטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "דוד קרצמר",
   "paperTitle": "The ‘Constitutional Reform’ and the Occupation",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/david-kretzmer\" target=\"_blank\" rel=\"noopener noreferrer\">David Kretzmer</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את הרפורמה המשפטית בישראל כחלק מתהליך רחב של שחיקה דמוקרטית, שבו צעדים משפטיים ומוסדיים מצטברים מחלישים את הפרדת הרשויות ואת ההגנה על זכויות.",
   "summaryHe": "ניתוח הרפורמה המשפטית כתהליך מצטבר של ריכוז כוח שלטוני ופגיעה בבלמים מוסדיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "סוזי נבות",
   "paperTitle": "An Overview of Israel's ‘Judicial Overhaul’: Small Parts of a Big Populist Picture",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/38336\" target=\"_blank\" rel=\"noopener noreferrer\">Suzie Navot</a>",

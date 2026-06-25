@@ -7,6 +7,7 @@
   "subtitleHe": "מסה אתנוגרפית שמחברת בין התבוננות חברתית ארוכת טווח לבין משבר פוליטי ב־2023.",
   "descriptionHe": "המאמר מציע עדות אנתרופולוגית אישית על שינויים בחברה הישראלית ועל האופן שבו קיצוניות פוליטית מאיימת על הדמוקרטיה בישראל.",
   "summaryHe": "משה שוקד כותב מסה נרטיבית ואימפרסיוניסטית על תמורות מרכזיות בחברה הישראלית דרך עדשת התבוננות אתנוגרפית. לפי תקציר המקור, המאמר בוחן את גבולות העמדה האנתרופולוגית כאשר החוקר אינו רק צופה מן הצד אלא גם אזרח החווה את השבר הדמוקרטי מבפנים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moshe Shokeid",
   "paperTitle": "Israeli democracy threatened under right‐wing extremists: A “native anthropologist's” perspective from 2023",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/shokeid\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Shokeid</a>",

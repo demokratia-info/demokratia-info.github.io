@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על חינוך אזרחי פעיל באמצעות למידה מבוססת פרויקטים בקרב סטודנטים בחברה רב-אתנית בישראל.",
   "summaryHe": "המחקר מצא שלמידה מבוססת פרויקטים יכולה לחזק ידע אזרחי, תחושת מסוגלות ונכונות למעורבות אזרחית בקרב סטודנטים, במיוחד בני מיעוטים לא-יהודים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Osnat Akirav",
   "paperTitle": "Active civic education using project-based learning and attitudes towards civic engagement",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",

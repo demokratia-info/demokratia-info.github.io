@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את התפתחות משטר ההגירה והאזרחות בישראל בראשית המאה ה-21, תוך התמקדות בזכויות האזרחים הפלסטינים. הוא טוען שישראל נעה מדגם של דמוקרטיה אתנית לעבר מבנה הדומה יותר לאתנוקרטיה.",
   "summaryHe": "Peled מנתח את הפגיעה בזכויות אזרחות של פלסטינים אזרחי ישראל דרך חוק איחוד המשפחות, פסיקת בג״ץ, אירועי אוקטובר 2000 ותוכניות לשינוי גבול ואזרחות. המאמר מציג את הפגיעה באזרחות כיעד מדיניות מצטבר ולא רק כתוצר לוואי ביטחוני או דמוגרפי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yoav Peled",
   "paperTitle": "Citizenship Betrayed: Israel's Emerging Immigration and Citizenship Regime",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/yoavpel\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Peled</a>",

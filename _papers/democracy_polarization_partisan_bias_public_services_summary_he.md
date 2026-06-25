@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם הטיה מפלגתית מעוותת גם הערכות של שירותים ציבוריים יומיומיים בישראל. סביב חילופי הממשלות ב-2021 וב-2022 הוא מוצא שהזדהות עם הקואליציה או האופוזיציה משנה את ההערכה של חינוך, בריאות, שיטור ותחבורה.",
   "summaryHe": "המאמר טוען שבסביבה מקוטבת, אזרחים אינם שופטים רק כלכלה, ביטחון או סוגיות מדיניות דרך נאמנות מפלגתית; ההטיה מופיעה גם בהערכת שירותים ציבוריים מוחשיים, והיא מקשה על אחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Saar Alon-Barkat, Amnon Cavari, Lior Shvarts",
   "paperTitle": "Polarization and Partisan Bias in Citizens’ Evaluations of Public Services",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/saar-alon-barkat\" target=\"_blank\" rel=\"noopener noreferrer\">Saar Alon-Barkat</a>; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; Lior Shvarts",

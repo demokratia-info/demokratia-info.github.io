@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על הציונות הדתית בישראל במגננה פוליטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית הציונות הדתית בישראל במגננה פוליטית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tamar Hermann",
   "paperTitle": "The Religions Zionist Sector at Bay",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7762-1054\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hermann</a>",

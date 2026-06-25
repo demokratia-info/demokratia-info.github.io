@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חקיקה שמבטחת זהות יהודית והשלכותיה על אזרחות שווה דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ronnie Olesker",
   "paperTitle": "Law-making and the Securitization of the Jewish Identity in Israel",
   "authorsHtml": "Ronnie Olesker",

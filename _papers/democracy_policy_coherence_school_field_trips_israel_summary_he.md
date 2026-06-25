@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על תכנון מסלולי טיולים במערכת החינוך הישראלית מראה פער בין עקביות בענייני בטיחות לבין עמימות פדגוגית.",
   "descriptionHe": "המאמר בוחן את מידת הקוהרנטיות של מדיניות תכנון הטיולים השנתיים במערכת החינוך הממלכתית בישראל.",
   "summaryHe": "Maya Mazor Tregerman מנתחת מסמכי מדיניות, 12 ראיונות עומק עם מנהלים, מורים ובכירי משרד החינוך, וכן מידע מרחבי מערוצי תכנון מקוונים. הממצאים מצביעים על מדיניות עקבית יחסית בבטיחות וביטחון, אך על חוסר עקביות בהיבטים פדגוגיים ובדרך שבה ההנחיות מופצות לשטח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maya Mazor Tregerman",
   "paperTitle": "Policy coherence and annual school field trips in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0003-1706-2005\" target=\"_blank\" rel=\"noopener noreferrer\">Maya Mazor Tregerman</a>",

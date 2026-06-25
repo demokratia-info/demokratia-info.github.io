@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rita Golstein-Galperin, Nissim Cohen, Emre Cinar",
   "paperTitle": "Navigating Public Sector Innovation Under Populist Contexts: Insights from Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0004-8091-8731\" target=\"_blank\" rel=\"noopener noreferrer\">Rita Golstein-Galperin</a>, <a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>, <a href=\"https://orcid.org/0000-0003-2464-7987\" target=\"_blank\" rel=\"noopener noreferrer\">Emre Cinar</a>",

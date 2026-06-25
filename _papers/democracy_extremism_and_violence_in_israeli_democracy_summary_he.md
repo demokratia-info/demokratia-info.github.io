@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, וממקם את הדיון בתוך שאלות של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ehud Sprinzak",
   "paperTitle": "Extremism and violence in Israeli democracy",
   "authorsHtml": "<a href=\"https://ict.org.il/ourteam/prof-ehud-sprinzak-zl/\" target=\"_blank\" rel=\"noopener noreferrer\">Ehud Sprinzak</a>",

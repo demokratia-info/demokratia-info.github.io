@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על בית כנסת ומדינה בצה״ל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית בית כנסת ומדינה בצה״ל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Karin Carmit Yefet",
   "paperTitle": "Synagogue and State in the Israeli Military: A Story of “Inappropriate Integration”",
   "authorsHtml": "Karin Carmit Yefet",

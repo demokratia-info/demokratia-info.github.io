@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על זכויות אדם בזמן טרור מנקודת מבט שיפוטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות אדם בזמן טרור מנקודת מבט שיפוטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aharon Barak",
   "paperTitle": "Human rights in times of terror – a judicial point of view",
   "authorsHtml": "<a href=\"https://www.academy.ac.il/Index2/Entry.aspx?entryId=18319&amp;nodeId=809\" target=\"_blank\" rel=\"noopener noreferrer\">Aharon Barak</a>",

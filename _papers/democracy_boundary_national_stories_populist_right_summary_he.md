@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד סיפורים לאומיים שמבליטים הבחנה בין קבוצת הפנים לקבוצת החוץ קשורים להצבעה למפלגות ימין פופוליסטי רדיקלי. חשיבותו הדמוקרטית היא בהראותו שנרטיבים לאומיים יכולים ליצור לכידות, אך גם להעמיק הדרה וקיטוב במיוחד בקרב קבוצות שוליות.",
   "summaryHe": "Oshri, Amsalem ו־Shenhav משתמשים בסקרי בחירות ייצוגיים מקוריים בארבע דמוקרטיות מערביות כדי לבחון את הקשר בין סיפורי גבול לאומיים לבין תמיכה במפלגות ימין פופוליסטי רדיקלי. הם מוצאים שבוחרים המחזיקים בסיפור לאומי המדגיש גבולות ברורים בין קבוצת הפנים לקבוצת החוץ נוטים יותר להצביע למפלגות כאלה. ההשפעה בולטת במיוחד בקרב קבוצות שוליות, ולכן לנרטיבים לאומיים יש כוח גם מחבר וגם מפלג.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Odelia Oshri, Eran Amsalem, Shaul R. Shenhav",
   "paperTitle": "Voices from the margins: How national stories are linked with support for populist radical right parties",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/odelia-oshri\" target=\"_blank\" rel=\"noopener noreferrer\">Odelia Oshri</a>, <a href=\"https://smart.huji.ac.il/people/eran-amsalem\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Amsalem</a>, <a href=\"https://shaulshenhav.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul R. Shenhav</a>",

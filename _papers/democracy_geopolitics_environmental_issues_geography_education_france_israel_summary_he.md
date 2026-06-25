@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה בין צרפת לישראל מראה שמורים מכירים בקשר בין החלטות סביבתיות לפוליטיקה, אך מתקשים לשלב היבטים פוליטיים מקומיים בהוראת גאוגרפיה.",
   "descriptionHe": "המאמר בוחן כיצד סוגיות סביבתיות ופוליטיות משתלבות בהוראת גאוגרפיה בצרפת ובישראל, ומה מונע ממורים להפוך את הקשר הזה לחלק ברור מן ההכשרה והכיתה.",
   "summaryHe": "Tal Yaar-Waisel ו-Caroline Leininger-Frézal מנתחות תוכניות לימודים וראיונות עם 20 מורים בצרפת ובישראל. הן מראות כי אף שתוכניות הלימודים כוללות גאופוליטיקה סביבתית ומורים מזהים קשר בין סביבה לפוליטיקה, היבטים פוליטיים מקומיים כמעט אינם מודגשים והכשרת המורים אינה תמיד מכינה לכך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tal Yaar-Waisel, Caroline Leininger-Frézal",
   "paperTitle": "Bridging Geopolitics and Environmental Issues in Geography Education: Exploratory Teachers’ Insights from France and Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-9817-7290\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Yaar-Waisel</a>, <a href=\"https://orcid.org/0000-0003-0890-6408\" target=\"_blank\" rel=\"noopener noreferrer\">Caroline Leininger-Frézal</a>",

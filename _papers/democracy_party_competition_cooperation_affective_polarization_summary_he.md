@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר משתמש בניסוי טבעי ובניסויי סקר בישראל כדי להראות שתחרות מפלגתית מחריפה קיטוב רגשי, בעוד שיתוף פעולה בין מפלגות יכול לרכך אותו.",
   "descriptionHe": "לוטם בסן-נייגט וחגי מ׳ וייס בוחנים כיצד תחרות ושיתוף פעולה בין מפלגות בישראל משפיעים על רגשות הבוחרים כלפי מחנות פוליטיים אחרים.",
   "summaryHe": "המאמר מראה שתמריצים מפלגתיים אינם רק תוצאה של קיטוב רגשי; הם גם מנגנון שמייצר או מפחית אותו.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "לוטם בסן-נייגט וחגי מ׳ וייס",
   "paperTitle": "Party Competition and Cooperation Shape Affective Polarization: Evidence from Natural and Survey Experiments in Israel",
   "authorsHtml": "<a href=\"https://www.hks.harvard.edu/faculty/lotem-bassan-nygate\" target=\"_blank\" rel=\"noopener noreferrer\">Lotem Bassan-Nygate</a>; <a href=\"https://www.chagaiweiss.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Chagai M. Weiss</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מקורות ישראליים, פלסטיניים ובינלאומיים מכנים את המבנה בין ישראל לשטחים הפלסטיניים, וכיצד שינויי לשון משקפים הסלמה, התמתנות ומאבק על מסגור הסכסוך.",
   "summaryHe": "המאמר מנתח את המונחים ״גדר ביטחון״, ״חומת אפרטהייד״, ״חומת הפרדה״ ומונחים נוספים, ומראה שהזירה שבה נאמרים הדברים משפיעה על הבחירה הלשונית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Richard Rogers, Anat Ben-David",
   "paperTitle": "Coming to terms: a conflict analysis of the usage, in official and unofficial sources, of ‘security fence’, ‘apartheid wall’, and other terms for the structure between Israel and the Palestinian territories",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9897-6559\" target=\"_blank\" rel=\"noopener noreferrer\">Richard Rogers</a>, <a href=\"https://orcid.org/0000-0003-4510-5634\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Ben-David</a>",

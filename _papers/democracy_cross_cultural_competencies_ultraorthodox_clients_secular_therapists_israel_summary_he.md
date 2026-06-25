@@ -7,6 +7,7 @@
   "subtitleHe": "סקר בקרב 70 מטפלים חילונים בישראל מצביע על פער בין כשירות בין־תרבותית כללית לבין עמדות מורכבות כלפי לקוחות חרדים.",
   "descriptionHe": "המאמר בוחן כשירות בין־תרבותית ועמדות של מטפלים חילונים בישראל ביחס ללקוחות חרדים, על רקע חוסר אמון ומתחים סוציו־פוליטיים בין הקבוצות.",
   "summaryHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis ו-Jan Domaradzki מנתחים סקר אנונימי שנערך בישראל בין אפריל לנובמבר 2024 בקרב 70 מטפלים חילונים. הממצאים מצביעים על כשירות כללית גבוהה, אך על כשירות נמוכה ומורכבת יותר בעבודה עם לקוחות חרדים, ועל קשר בין ניסיון טיפולי לבין עמדות חיוביות יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis, Jan Domaradzki",
   "paperTitle": "The Cross-Cultural Competencies and Attitudes Toward Ultraorthodox Clients Among Secular Therapists in Israel: An Explanatory Study",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0002-4807-3471\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Doron</a>, <a href=\"https://orcid.org/0000-0001-8874-2401\" target=\"_blank\" rel=\"noopener noreferrer\">Dariusz Walkowiak</a>, <a href=\"https://orcid.org/0000-0002-7741-1807\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Tuval-Mashiach</a>, <a href=\"https://orcid.org/0000-0002-0764-3258\" target=\"_blank\" rel=\"noopener noreferrer\">Sławomir Tobis</a>, <a href=\"https://orcid.org/0000-0002-9710-832X\" target=\"_blank\" rel=\"noopener noreferrer\">Jan Domaradzki</a>",

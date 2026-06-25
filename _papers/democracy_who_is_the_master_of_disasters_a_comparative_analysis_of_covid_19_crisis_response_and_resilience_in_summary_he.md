@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ניהול משברים וחוסן במשטרים דמוקרטיים, היברידיים וסמכותניים דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arielle Kaim, Ina Kubbe",
   "paperTitle": "Who Is the Master of Disasters? A Comparative Analysis of COVID‐19 Crisis Response and Resilience in Democracies, Hybrid Regimes, and Autocratic States",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-1251-3551\" target=\"_blank\" rel=\"noopener noreferrer\">Arielle Kaim</a>, <a href=\"https://orcid.org/0000-0002-2941-806X\" target=\"_blank\" rel=\"noopener noreferrer\">Ina Kubbe</a>",

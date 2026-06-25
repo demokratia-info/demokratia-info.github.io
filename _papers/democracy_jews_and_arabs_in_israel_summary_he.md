@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית יחסי יהודים וערבים והבסיס החברתי של דמוקרטיה משותפת דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Shamir; John L. Sullivan",
   "paperTitle": "Jews and Arabs in Israel",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>; John L. Sullivan",

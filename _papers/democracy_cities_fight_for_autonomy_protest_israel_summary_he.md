@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משתמש במחאה בישראל בשנת 2023 כדי לחשוב על אוטונומיה עירונית בעידן של קיטוב בין ערים פרוגרסיביות למדינות הנעות בכיוון ריאקציוני. הוא מדגיש את תל אביב-יפו כמוקד מחאה וכרשות שמבקשת מרחב פעולה מול אגנדות לא-ליברליות של הממשלה.",
   "summaryHe": "Avni מתבוננת במחאת 2023 בישראל דרך עדשה של אוטונומיה עירונית. אף שהמחאה הארצית אינה ממוסגרת במפורש כמאבק עיר מול מדינה, יש לה ממד עירוני ברור, ובמיוחד בתל אביב-יפו. המאמר מציע שקריאה עירונית של המחאה עוזרת למקם אותה בתוך תהליכים פוליטיים רחבים של קיטוב בין ערים פרוגרסיביות למדינות ריאקציוניות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nufar Avni",
   "paperTitle": "Cities fight for autonomy: A view from an ongoing protest in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8317-808X\" target=\"_blank\" rel=\"noopener noreferrer\">Nufar Avni</a>",

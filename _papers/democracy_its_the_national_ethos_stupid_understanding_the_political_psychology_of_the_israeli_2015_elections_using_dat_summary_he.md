@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את בחירות 2015 בישראל דרך עמדות הבוחרים כלפי אתוס לאומי, ומראה כיצד מפלגות שונות ממוקמות על רצף שבין דגשים רפובליקניים לליברליים.",
   "summaryHe": "ניתוח של דפוסי הצבעה בישראל 2015 דרך אתוס לאומי, אמון במוסדות ועמדות כלפי ביטחון, פטריוטיות ובית המשפט העליון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Eyal Lewin",
   "paperTitle": "“It’s the National Ethos, Stupid”! – Understanding the Political Psychology of the Israeli 2015 Elections Using Data from the National Resilience Survey",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5461-6634\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Lewin</a>",

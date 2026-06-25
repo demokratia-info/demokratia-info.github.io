@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן ב־30 מדינות באפריקה שמדרום לסהרה אם דמוקרטיה מקדמת צמיחה, או שצמיחה מקדמת דמוקרטיה. מבחינה דמוקרטית, הוא מדגיש שהקשר בין זכויות פוליטיות להתפתחות כלכלית אינו אחיד, ולכן מדיניות אחראית צריכה להיזהר מהבטחות חד־כיווניות.",
   "summaryHe": "לפי תקציר RePEc, המחקר משתמש תחילה במדד הדמוקרטיה של Freedom House ולאחר מכן בודק רגישות בעזרת מדד Legislative Index of Electoral Competitiveness. הוא מוצא תמיכה בהשערת Lipset, שלפיה בטווח הארוך תוצר ריאלי גורם לדמוקרטיה, בבוצואנה וניזר בשני בסיסי הנתונים, בצ׳אד לפי Freedom House בלבד, ובחוף השנהב וגבון לפי LIEC בלבד. תמיכה בהשערת התאימות, שלפיה דמוקרטיה גורמת להכנסה ריאלית, נמצאה בבוצואנה לפי Freedom House ובמדגסקר, רואנדה, דרום אפריקה וסווזילנד לפי LIEC; תמיכה בהשערת הקונפליקט נמצאה בגבון ובסיירה לאון לפי בסיסי נתונים שונים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Paresh Kumar Narayan, Seema Narayan, Russell Smyth",
   "paperTitle": "Does democracy facilitate economic growth or does economic growth facilitate democracy? An empirical study of Sub-Saharan Africa",
   "authorsHtml": "<a href=\"https://research.monash.edu/en/persons/paresh-kumar-narayan/\" target=\"_blank\" rel=\"noopener noreferrer\">Paresh Kumar Narayan</a>; <a href=\"https://orcid.org/0000-0002-3993-4981\" target=\"_blank\" rel=\"noopener noreferrer\">Seema Narayan</a>; <a href=\"https://research.monash.edu/en/persons/russell-smyth/\" target=\"_blank\" rel=\"noopener noreferrer\">Russell Smyth</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על מדגם יהודי־ישראלי מראה כיצד סקסיזם עוין וסקסיזם מיטיב מנבאים עמדות שונות כלפי קדימות לנשים בעסקאות חטופים.",
   "descriptionHe": "המאמר בוחן כיצד עמדות מגדריות משפיעות על תמיכה ציבורית בקדימות לנשים ולילדים בשחרור חטופים ישראלים.",
   "summaryHe": "Orly Bareket, Michal Reifen-Tagar ו-Tamar Saguy מנתחות מדגם יהודי־ישראלי מייצג של 1,171 משיבים סביב עסקת נובמבר 2023 וממקמות אותו מול שתי עסקאות שחרור חטופים. המחקר מראה שסקסיזם עוין נקשר להתנגדות לקדימות לנשים, ואילו סקסיזם מיטיב נקשר לתמיכה בקדימות כזאת, במיוחד ביחס לאימהות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Orly Bareket, Michal Reifen-Tagar, Tamar Saguy",
   "paperTitle": "Ambivalent sexism predicts Israelis’ gendered preferences in the Gaza hostage crisis",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3464-0893\" target=\"_blank\" rel=\"noopener noreferrer\">Orly Bareket</a>, <a href=\"https://orcid.org/0000-0003-0960-9114\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Reifen-Tagar</a>, <a href=\"https://orcid.org/0000-0002-0989-0615\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Saguy</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר איכותני על יחסי עובדים סוציאליים פלסטינים־ישראלים ויהודים בערים מעורבות בישראל סביב אירועי מאי 2021.",
   "summaryHe": "המאמר בוחן יחסים מקצועיים בין עובדים סוציאליים פלסטינים־ישראלים ויהודים בזמן אלימות פוליטית ומתיחות בין קבוצות. ראיונות עם 25 עובדים בשירותים ציבוריים בשש ערים מעורבות מצביעים על שתיקה פוליטית כאסטרטגיה מרכזית, לצד רגעים שבהם השתיקה נשברת בשיחות פרטיות, קבוצות וואטסאפ וישיבות צוות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Neveen Ali-Saleh Darawshy; Sagit Lev; Shlomit Weiss-Dagan",
   "paperTitle": "Voicing or Silence: Palestinian Israeli and Jewish Israeli Social Workers’ Relationships during Political Turmoil",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/neveen-ali-saleh-darawshy/\" target=\"_blank\" rel=\"noopener noreferrer\">Neveen Ali-Saleh Darawshy</a>; <a href=\"https://cris.biu.ac.il/en/persons/sagit-lev/\" target=\"_blank\" rel=\"noopener noreferrer\">Sagit Lev</a>; <a href=\"https://cris.biu.ac.il/en/persons/shlomit-weiss-dagan/\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomit Weiss-Dagan</a>",

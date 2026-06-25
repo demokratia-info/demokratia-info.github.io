@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח הצהרות רשמיות משנים 2015-2024 מראה כיצד הנהגת הזרם הוותיק משתמשת בשיח דמוקרטי מול דיכוי, גלות ופיצול פנימי.",
   "descriptionHe": "המאמר מנתח את שיח האחים המוסלמים על דמוקרטיה וזכויות אדם במצרים אחרי ההפיכה הצבאית של 2013.",
   "summaryHe": "Bosmat Yefet בוחנת הצהרות רשמיות של Ikhwanonline מן השנים 2015-2024 כדי להבין כיצד התנועה מבקשת להשיב לעצמה לגיטימציה פוליטית. הממצאים מצביעים על המשכיות רטורית: למרות כישלון המחויבות האסטרטגית לדמוקרטיה כנתיב לדומיננטיות פוליטית, הזרם הוותיק ממשיך להציג את מאבקו כחלק ממאבק העם המצרי בדיכוי ובסמכותנות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Bosmat Yefet",
   "paperTitle": "In Pursuit of Legitimacy: The Muslim Brotherhood’s Discourse on Democracy and Human Rights in Post-2013 Egypt",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7390-8333\" target=\"_blank\" rel=\"noopener noreferrer\">Bosmat Yefet</a>",

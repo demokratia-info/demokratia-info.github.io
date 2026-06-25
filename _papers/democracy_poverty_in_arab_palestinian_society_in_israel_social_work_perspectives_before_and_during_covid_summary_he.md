@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית בזמן חירום מתמשך וקורונה דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ensherah Khoury; Michal Krumer-Nevo",
   "paperTitle": "Poverty in Arab-Palestinian society in Israel: Social work perspectives before and during COVID-19",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4927-3790\" target=\"_blank\" rel=\"noopener noreferrer\">Ensherah Khoury</a>; <a href=\"https://orcid.org/0000-0003-0813-5439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Krumer-Nevo</a>",

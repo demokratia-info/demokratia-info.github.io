@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר בוחן מדוע התמיכה בהכללת מיעוטים נחלשת תחת איום ומלחמה.",
   "descriptionHe": "המאמר בוחן האם התערבויות פסיכולוגיות המוצגות ככתבות חדשות יכולות להגביר תמיכה של קבוצת רוב בהכללת מיעוטים במשחק הפוליטי. הוא חשוב לדמוקרטיה משום שייצוג מיעוטים אינו תלוי רק בחוקים, אלא גם בנכונות הציבור הרחב לראות בהם שחקנים פוליטיים לגיטימיים.",
   "summaryHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson ו-Eran Halperin מציגים התערבויות שנועדו להפחית תפיסות איום ולחזק נורמות של הכללה פוליטית. לפי התקציר, ההתערבויות הגבירו תמיכה בהכללת מיעוטים, אך השפעתן הייתה חלשה יותר בזמן מלחמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
   "paperTitle": "Legitimizing inclusion: Psychological interventions increase support for minority inclusion in the political game, but less so during wartime",
   "authorsHtml": "<a href=\"https://www.universiteitleiden.nl/en/staffmembers/lee-aldar\" target=\"_blank\" rel=\"noopener noreferrer\">Lee Aldar</a>, <a href=\"https://www.universiteitleiden.nl/en/staffmembers/ruthie-pliskin\" target=\"_blank\" rel=\"noopener noreferrer\">Ruthie Pliskin</a>, <a href=\"https://orcid.org/0000-0003-4127-0034\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Hasson</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",

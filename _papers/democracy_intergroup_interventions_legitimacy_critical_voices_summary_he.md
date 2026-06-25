@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד התערבויות פסיכולוגיות בין-קבוצתיות יכולות להגדיל את הלגיטימיות הנתפסת של ארגון ביקורתי בקרב יהודים ישראלים, במיוחד באמצעות הדגשת מכנים משותפים ערכיים ומעשיים.",
   "summaryHe": "המחקר בדק בקרב יהודים ישראלים כיצד מסרים המדגישים דמיון בין קבוצה שעברה דה-לגיטימציה לבין ערכים או אינטרסים מיינסטרימיים משפיעים על תפיסת הלגיטימיות שלה. הניתוח מצא ששתי התערבויות כאלה היו יעילות יותר בהעלאת הלגיטימיות הנתפסת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Lee Aldar, Ruthie Pliskin, Yossi Hasson, Eran Halperin",
   "paperTitle": "Intergroup psychological interventions highlighting commonalities can increase the perceived legitimacy of critical voices",
   "authorsHtml": "<a href=\"https://www.universiteitleiden.nl/en/staffmembers/lee-aldar\" target=\"_blank\" rel=\"noopener noreferrer\">Lee Aldar</a>; <a href=\"https://www.universiteitleiden.nl/en/staffmembers/ruthie-pliskin\" target=\"_blank\" rel=\"noopener noreferrer\">Ruthie Pliskin</a>; <a href=\"https://orcid.org/0000-0003-4127-0034\" target=\"_blank\" rel=\"noopener noreferrer\">Yossi Hasson</a>; <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",

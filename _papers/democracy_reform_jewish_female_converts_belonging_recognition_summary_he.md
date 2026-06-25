@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על מתגיירות מן העבר הסובייטי והפיליפינים מראה כיצד בחירה בגיור לא־אורתודוקסי נעשית פעולה דתית ופוליטית.",
   "descriptionHe": "המאמר מנתח חוויות של נשים שהתגיירו בישראל דרך התנועה הרפורמית ואת הקשר בין גיור, הכרה, מגדר ומונופול דתי.",
   "summaryHe": "Einat Libel-Hass ו-Elazar Ben-Lulu בוחנים נשים מהגרות מברית המועצות לשעבר ומהפיליפינים שבחרו בגיור רפורמי בישראל. לפי המאמר, התהליך הלא־אורתודוקסי מקדם שייכות דתית וחברתית, אך גם פועל כהתנגדות למונופול הדתי האורתודוקסי וכמאבק של נשים על הכרה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Einat Libel-Hass, Elazar Ben-Lulu",
   "paperTitle": "Are You Our Sisters? Resistance, Belonging, and Recognition in Israeli Reform Jewish Female Converts",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6834-3139\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Libel-Hass</a>, <a href=\"https://orcid.org/0000-0002-4258-541X\" target=\"_blank\" rel=\"noopener noreferrer\">Elazar Ben-Lulu</a>",

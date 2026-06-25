@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית בית המשפט של אהרן ברק, מהפכות חוקתיות ונסיגה דמוקרטית דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rivka Weill",
   "paperTitle": "The Strategic Common Law Court of Aharon Barak and its Aftermath: On Judicially-Led Constitutional Revolutions and Democratic Backsliding",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/rweill\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Weill</a>",

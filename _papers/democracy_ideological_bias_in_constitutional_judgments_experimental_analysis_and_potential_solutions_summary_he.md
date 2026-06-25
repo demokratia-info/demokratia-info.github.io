@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מציג שני ניסויים על החלטות הנוגעות לזכות להפגין, ומוצא שהתחייבות מוקדמת לאי-משוא פנים או לתעדוף זכויות חוקתיות יכולה לצמצם פגיעה בקבוצת חוץ.",
   "descriptionHe": "Elena Kantorowicz-Reznichenko, Jarosław Kantorowicz ו-Keren Weinshall בוחנים הטיה אידאולוגית בשיפוט חוקתי באמצעות ניסויים על הזכות להפגין. לפי התקציר, ההטיה מונעת מהעדפת קבוצת הפנים, והצהרה מוקדמת על אי-משוא פנים או על תעדוף זכויות חוקתיות סייעה שלא להפלות קבוצות חוץ.",
   "summaryHe": "המאמר עוסק בשאלה רגישה לדמוקרטיה ליברלית: האם אנשים מעריכים זכויות חוקתיות באופן ניטרלי גם כשהזכות מגינה על קבוצה פוליטית שהם מתנגדים לה. ממצאיו מצביעים על כך שהטיה אידאולוגית אינה רק עמדה עקרונית, אלא תגובה קבוצתית שניתן לנסות לרכך באמצעות מחויבות מוקדמת לניטרליות או לזכויות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Elena Kantorowicz-Reznichenko, Jarosław Kantorowicz, Keren Weinshall",
   "paperTitle": "Ideological bias in constitutional judgments: Experimental analysis and potential solutions",
   "authorsHtml": "<a href=\"https://www.eur.nl/en/people/elena-kantorowicz-reznichenko\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Kantorowicz-Reznichenko</a>, <a href=\"https://www.universiteitleiden.nl/en/staffmembers/jaroslaw-kantorowicz\" target=\"_blank\" rel=\"noopener noreferrer\">Jarosław Kantorowicz</a>, <a href=\"https://en.law.huji.ac.il/people/keren-weinshall-margel\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall</a>",

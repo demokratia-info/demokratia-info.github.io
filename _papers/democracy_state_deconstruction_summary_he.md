@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את משבר הדמוקרטיה בישראל כתהליך של פירוק מוסדות המדינה, ולא רק כמחלוקת על בית המשפט. הוא מדגיש כיצד רטוריקה פופוליסטית, מאבק בשומרי סף והחלשת מוסדות שלטון משנים את בסיסי החיים המשותפים והקיום האזרחי.",
   "summaryHe": "המאמר טוען שהמשבר הישראלי הוא מתקפה על יכולת המדינה ומוסדותיה, שבה פירוק מוסדי משמש עיקרון מארגן של פעולה פוליטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "דורון נבות, יאיר גולדשמידט",
   "paperTitle": "The deconstruction of the Israeli state",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>; <a href=\"https://scholar.google.com/citations?user=Aidc494AAAAJ&hl=iw&inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Goldshmidt</a>",

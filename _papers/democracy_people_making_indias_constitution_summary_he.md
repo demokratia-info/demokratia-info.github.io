@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד אנשים וארגונים אזרחיים מחוץ לאספה המכוננת השתתפו בדמיון, בניסוח ובתביעה של החוקה ההודית בראשית תהליך כתיבתה.",
   "summaryHe": "המאמר משתמש בחומרי ארכיון שלא נחקרו דיים כדי להראות שתהליך יצירת החוקה בהודו לא היה רק מהלך אליטיסטי מלמעלה, אלא גם זירה שבה אזרחים וארגונים הציעו חזונות חוקתיים, דרישות ותפיסות הכלה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ornit Shani",
   "paperTitle": "The People and the Making of India's Constitution",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/ornit-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Ornit Shani</a>",

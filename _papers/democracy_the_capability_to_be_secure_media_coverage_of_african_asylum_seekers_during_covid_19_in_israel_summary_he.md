@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בתקשורת, דעת קהל ואחריות דמוקרטית בישראל, וממקם את הדיון בתוך שאלות של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את תקשורת, דעת קהל ואחריות דמוקרטית בישראל דרך עדשה של דעת קהל, קיטוב, מחאה, בחירות ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Baruch Shomron",
   "paperTitle": "The Capability ‘To Be Secure’: Media Coverage of African Asylum Seekers During Covid-19 in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3943-782X\" target=\"_blank\" rel=\"noopener noreferrer\">Baruch Shomron</a>",

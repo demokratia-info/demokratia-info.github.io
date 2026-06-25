@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של מוסדות, חברה אזרחית ושירות ציבורי, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית תנועות מחאה והיכולת להשפיע על דמוקרטיה בישראל דרך עדשה של מוסדות, חברה אזרחית ושירות ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Leonie Fleischmann",
   "paperTitle": "Protest Movements and Democracy in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1228-9142\" target=\"_blank\" rel=\"noopener noreferrer\">Leonie Fleischmann</a>",

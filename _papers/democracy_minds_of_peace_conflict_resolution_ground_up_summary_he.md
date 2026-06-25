@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מתאר יוזמה שמפגישה אזרחים ישראלים ופלסטינים לסימולציה ציבורית של משא ומתן. הערך הדמוקרטי שלו הוא בבחינת האפשרות שיישוב סכסוך אינו רק משא ומתן מדינתי סגור, אלא גם תהליך של השתתפות אזרחית, הקשבה והכרעה ציבורית.",
   "summaryHe": "Cahen מציג את ניסוי Minds of Peace כמודל שמביא ישראלים ופלסטינים רגילים לדון בצעדים לסיום הסכסוך בפני קהל ובסיוע מנחים. המאמר בוחן את תרומת המודל לדינמיקת הסכסוך ואת התאמתו כאפשרות לאספה ציבורית פלסטינית־ישראלית רחבה יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arnon Cahen",
   "paperTitle": "The Minds of Peace Experiment: conflict resolution from the ground up",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4763-193X\" target=\"_blank\" rel=\"noopener noreferrer\">Arnon Cahen</a>",

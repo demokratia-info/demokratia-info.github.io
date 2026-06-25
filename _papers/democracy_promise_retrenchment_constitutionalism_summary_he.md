@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "איך התחזקות הביקורת השיפוטית לוותה בהתנגדות פוליטית, פופוליזם ושחיקת זכויות. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד כללים משפטיים, ביקורת שיפוטית ועיצוב מוסדי משפיעים בפועל על היכולת להגביל כוח שלטוני, לשמור על אחריות ציבורית ולהבטיח שכללי המשחק הדמוקרטיים לא יישחקו בהדרגה.",
   "summaryHe": "איך התחזקות הביקורת השיפוטית לוותה בהתנגדות פוליטית, פופוליזם ושחיקת זכויות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אדם שנער, ברק מדינה, גילה שטופלר",
   "paperTitle": "From promise to retrenchment: On the changing landscape of Israeli constitutionalism",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>; <a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>; <a href=\"https://clb.ac.il/en/lecturers/gila-stopler/\" target=\"_blank\" rel=\"noopener noreferrer\">Gila Stopler</a>",

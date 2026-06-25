@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מפתח תאוריה של הגנה עצמית דמוקרטית של בתי משפט חוקתיים מול רפורמות שעלולות לשמש להשתלטות פוליטית ולשחיקה דמוקרטית.",
   "summaryHe": "המאמר טוען כי בתי משפט חוקתיים רשאים להגן על היבטים מוסדיים חיוניים שלהם כאשר רפורמות משפטיות מסכנות את הדמוקרטיה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Pablo José Castillo Ortiz, Yaniv Roznai",
   "paperTitle": "The Democratic Self-Defence of Constitutional Courts",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4540-1855\" target=\"_blank\" rel=\"noopener noreferrer\">Pablo José Castillo Ortiz</a>, <a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הפוליטיקה של שוויון, גיוון והכלה במועצות מקומיות בישראל, תוך התמקדות בנשים יהודיות ופלסטיניות ובמעורבותן בקבלת החלטות עירונית.",
   "summaryHe": "המאמר מציג ממצאים ראשוניים ממחקר פעולה בשמונה מועצות מקומיות בצפון, ומראה שמעורבות משמעותית של נשים בהחלטות אסטרטגיות ברשות המקומית נותרת חלקית בלבד.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Helena Desivilya Syna, Michal Palgi, Maha Sabbah Karkabi",
   "paperTitle": "Unpacking the politics of equality, diversity and inclusion: The case of Israeli Jewish and Palestinian women in municipal councils",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3481-6003\" target=\"_blank\" rel=\"noopener noreferrer\">Helena Desivilya Syna</a>, <a href=\"https://orcid.org/0000-0003-1349-9659\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Palgi</a>, <a href=\"https://orcid.org/0000-0001-9351-7284\" target=\"_blank\" rel=\"noopener noreferrer\">Maha Sabbah Karkabi</a>",

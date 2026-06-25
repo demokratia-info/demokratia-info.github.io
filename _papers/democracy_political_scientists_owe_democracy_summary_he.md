@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את תפקידם של מדעני מדינה בהגנה על מוסדות דמוקרטיים בזמן משבר, על בסיס ההתארגנות של חוקרים ישראלים מאז ינואר 2023. התרומה הדמוקרטית שלו היא בהצגת מומחיות אקדמית כמשאב ציבורי שמחזק שיח מושכל, פעולה אזרחית ואחריות מקצועית.",
   "summaryHe": "Lerner, Akirav, Lavi, Shomer ו־Talshir מתארות מודל של אקטיביזם אקדמי מאורגן שבו חוקרי מדע המדינה פועלים יחד ובמקביל כיחידים כדי להגן על כללי המשחק הדמוקרטיים. הן משתמשות במקרה הישראלי של מחאות נגד נסיגה דמוקרטית מאז ינואר 2023 כדי להראות כיצד מומחיות, הסברה וייעוץ אסטרטגי יכולים לעצב שיח ציבורי בלי לוותר על אחריות מקצועית. המאמר מבליט גם את המתח בין ניטרליות אקדמית, קיימות ארגונית ותמיכה מוסדית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hanna Lerner, Osnat Akirav, Liron Lavi, Yael Shomer, Gayil Talshir",
   "paperTitle": "What Political Scientists Owe Democracy",
   "authorsHtml": "<a href=\"https://cris.tau.ac.il/en/persons/hanna-lerner/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Lerner</a>, <a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>, <a href=\"https://orcid.org/0000-0003-3824-1320\" target=\"_blank\" rel=\"noopener noreferrer\">Liron Lavi</a>, <a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://cris.huji.ac.il/en/persons/gayil-talshir/\" target=\"_blank\" rel=\"noopener noreferrer\">Gayil Talshir</a>",

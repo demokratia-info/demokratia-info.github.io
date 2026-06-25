@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מציע לעצב תהליכי היוועצות דיגיטליים שמכירים בילדים כמשתתפים פעילים ובכוח הפואטי של תקשורת מקוונת.",
   "descriptionHe": "המאמר בוחן את המפגש בין פואטיקה, ילדים ודיון דמוקרטי מקוון, ומציע עקרונות לעיצוב תהליכי השתתפות דיגיטליים ממוקדי ילדים.",
   "summaryHe": "Daniella Zlotnik Raz טוענת שהמחקר על דמוקרטיה דיונית מקוונת עדיין אינו מפתח מספיק את הרעיון של פואטיקה דיונית ואת מקומם של ילדים כמשתתפים. בהסתמך על תובנות מחוויות ילדים בשיחות וידאו בתקופת הקורונה, המאמר מציע המלצות לעיצוב תהליכי דיון מקוונים ואף מציע הקמת מרכז דיגיטלי ייעודי להשתתפות ילדים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daniella Zlotnik Raz",
   "paperTitle": "The Poetics of Digital Children and Designing Online Democratic Deliberations",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5952-0359\" target=\"_blank\" rel=\"noopener noreferrer\">Daniella Zlotnik Raz</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח פוסטרים מהמחאה נגד הרפורמה המשפטית בישראל בשנת 2023, ובוחן כיצד שתיקה, החסרה והשתקה פעלו כסימנים פוליטיים במרחב ההפגנה.",
   "summaryHe": "המאמר בוחן 220 פוסטרים, מתוכם 56 שנקשרו לסוגים שונים של שתיקה, ומראה כיצד חומרי מחאה חזותיים ולשוניים משתתפים בעיצוב המרחב הדמוקרטי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Michal Ornan-Ephratt",
   "paperTitle": "Israeli Demonstration Posters: Spatial Semiotics of Silence",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/michal-ornan-ephratt/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Ornan-Ephratt</a>",

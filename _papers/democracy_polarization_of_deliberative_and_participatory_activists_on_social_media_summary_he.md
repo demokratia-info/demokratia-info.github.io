@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את האקטיביזם המקוון למען רומן זדורוב בישראל ומראה כיצד קבוצות תמיכה במדיה חברתית התפצלו בין זירה דיונית המחפשת אמת לבין זירה השתתפותית המבקשת חשיפה ומעורבות.",
   "summaryHe": "המאמר מציג את קמפיין הצדק לרומן זדורוב כמקרה שבו אקטיביזם ברשתות חברתיות מתארגן סביב שני היגיונות שונים: בירור עובדתי ודיון מבוסס מידע, מול הרחבת קשב ציבורי והגברת מעורבות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Azi Lev‐On",
   "paperTitle": "Polarization of Deliberative and Participatory Activists on Social Media",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0248-9802\" target=\"_blank\" rel=\"noopener noreferrer\">Azi Lev‐On</a>",

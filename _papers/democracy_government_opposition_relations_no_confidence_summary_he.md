@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מגבלות על ייזום הצעת אי-אמון ועל ההצבעה עליה קשורות לאסטרטגיות של מפלגות אופוזיציה בפרלמנטים אירופיים.",
   "summaryHe": "המאמר מנתח נתוני הצבעות חקיקה של 59 מפלגות אופוזיציה ב-16 מדינות באירופה. הניתוח מראה שמגבלות על אי-אמון קשורות להתנהגות אופוזיציונית פחות עימותית רק כאשר הן חלות יחד על שני שלבי המנגנון: ייזום ההצעה וההצבעה עליה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Or Tuttnauer, Reuven Y. Hazan",
   "paperTitle": "Government–Opposition Relations and the Vote of No-Confidence",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7338-3717\" target=\"_blank\" rel=\"noopener noreferrer\">Or Tuttnauer</a>; <a href=\"https://orcid.org/0000-0003-4852-0649\" target=\"_blank\" rel=\"noopener noreferrer\">Reuven Y. Hazan</a>",

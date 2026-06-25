@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר בוחן את חוק הלאום דרך שוויון, הגדרה עצמית וסולידריות חברתית במדינה יהודית ודמוקרטית.",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט.",
   "summaryHe": "המאמר מנתח את חוק הלאום ושואל כיצד ניתן לשמר שוויון אזרחי וסולידריות חברתית כאשר ההכרה החוקתית מדגישה זהות לאומית של רוב.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס",
   "paperTitle": "Israel's Nation-State Law – What Now for Equality, Self-Determination, and Social Solidarity?",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

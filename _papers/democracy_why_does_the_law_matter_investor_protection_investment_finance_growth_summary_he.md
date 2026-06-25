@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד הגנת משקיעים משנה את הדרך שבה חברות משקיעות ומגייסות מימון. מבחינה דמוקרטית, הוא מדגיש שחוק פרטי ואכיפה מוסדית אינם רק עניין של שוק ההון, אלא חלק מתנאי האמון, השוויון וההזדמנות בכלכלה פוליטית פתוחה.",
   "summaryHe": "המאמר קושר בין הגנת משקיעים לבין איכות ההשקעה: במדינות שבהן ההגנה המשפטית חזקה יותר, השקעות מגיבות יותר לאיתותים על הזדמנויות כלכליות ופחות לתזרים מזומנים פנימי שמבטא מגבלות מימון. המימון הוא מנגנון מרכזי בקשר הזה, מפני שהגנה טובה מאפשרת גיוס הון חיצוני כאשר יש הזדמנות עסקית ומגבילה השקעות פחות יעילות. הזווית הדמוקרטית היא שמוסדות משפטיים שמגנים על משקיעים יכולים להפחית שרירות, להרחיב גישה למימון ולחזק אחריות ציבורית של בעלי כוח כלכלי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "R. David McLean, Tianyu Zhang, Mengxin Zhao",
   "paperTitle": "Why Does the Law Matter? Investor Protection and Its Effects on Investment, Finance, and Growth",
   "authorsHtml": "<a href=\"https://msb.georgetown.edu/profiles/david-mclean/\" target=\"_blank\" rel=\"noopener noreferrer\">R. David McLean</a>; <a href=\"https://msacct.cuhk.edu.cn/en/node/3882\" target=\"_blank\" rel=\"noopener noreferrer\">Tianyu Zhang</a>; <a href=\"https://orcid.org/0009-0006-9937-9293\" target=\"_blank\" rel=\"noopener noreferrer\">Mengxin Zhao</a>",

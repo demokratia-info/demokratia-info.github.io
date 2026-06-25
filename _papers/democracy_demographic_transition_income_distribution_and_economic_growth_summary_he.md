@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מודל צמיחה שבו פריון ילודה, חלוקת הכנסות והשקעה בהון אנושי משתנים יחד לאורך תהליך הפיתוח הכלכלי.",
   "summaryHe": "המאמר טוען כי מעבר דמוגרפי ודינמיקה דמוית קוזנץ בחלוקת ההכנסות הם תנאים לצמיחה המבוססת על צבירת הון אנושי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Momi Dahan, Daniel Tsiddon",
   "paperTitle": "Demographic Transition, Income Distribution, and Economic Growth",
   "authorsHtml": "<a href=\"https://en.public-policy.huji.ac.il/people/momi-dahan\" target=\"_blank\" rel=\"noopener noreferrer\">Momi Dahan</a>, <a href=\"https://english.tau.ac.il/profile/tsiddon\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Tsiddon</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "מאוטנר מנתח את ישראל דרך מושג הנסיגה הדמוקרטית ומדגיש את הקשר בין משפט, תרבות פוליטית ומוסדות.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מציב את ישראל בתוך הדיון הבינלאומי על נסיגה דמוקרטית ומראה כיצד שחיקה מוסדית יכולה להצטבר גם בלי ביטול פורמלי של בחירות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מנחם מאוטנר",
   "paperTitle": "Democratic Backsliding in Israel",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/mautner\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Mautner</a>",

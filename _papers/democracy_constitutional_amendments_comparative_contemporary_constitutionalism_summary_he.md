@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה הליכי תיקון חוקתי באיטליה, פולין ואוקראינה, ומתמקד ביוזמה, רוב פרלמנטרי, משאלי עם, סעיפים נצחיים ומגבלות בזמן חירום.",
   "summaryHe": "Sofińska ו־Friedberg מנתחות כיצד מנגנוני תיקון חוקתי מאזנים בין גמישות פוליטית לבין יציבות חוקתית. ההשוואה מראה שתיקון חוקתי יכול לחזק לגיטימציה ודיון ציבורי, אך כאשר הוא נעשה בחיפזון או בלי תמיכה אזרחית הוא עלול לערער יציבות ולפגוע בלגיטימיות של החוקה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Iryna Sofińska, Chen Friedberg",
   "paperTitle": "CONSTITUTIONAL AMENDMENTS: COMPARATIVE (RE)VIEW IN CONTEMPORARY CONSTITUTIONALISM",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3853-7626\" target=\"_blank\" rel=\"noopener noreferrer\">Iryna Sofińska</a>; <a href=\"https://orcid.org/0000-0001-9552-1084\" target=\"_blank\" rel=\"noopener noreferrer\">Chen Friedberg</a>",

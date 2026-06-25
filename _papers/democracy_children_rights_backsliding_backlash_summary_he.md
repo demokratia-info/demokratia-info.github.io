@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח השוואתי של זכויות ילדים מראה שהשחיקה בממד הליברלי של הדמוקרטיה קשורה לפגיעה בהגנה על ילדים ולתגובה נגד ביקורת בין-לאומית.",
   "descriptionHe": "המאמר בוחן כיצד נסיגה דמוקרטית, ובעיקר שחיקה ליברלית, קשורה להגנה על זכויות ילדים ולתגובה של מדינות לשיימינג בין-לאומי.",
   "summaryHe": "Sara Kahn-Nisser בוחנת את הקשר בין נסיגה דמוקרטית לבין הגנה על זכויות ילדים. לפי תקציר המאמר, שחיקה בממד הליברלי של הדמוקרטיה קשורה לפחות הגנה על זכויות ילדים, ואילו שחיקה בממד השוויוני מלווה בממצאים מורכבים יותר לגבי זכויות חברתיות וכלכליות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sara Kahn-Nisser",
   "paperTitle": "Caught in the crossfire: Children’s rights under backsliding and backlash",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drsarakahnnisser.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Sara Kahn-Nisser</a>",

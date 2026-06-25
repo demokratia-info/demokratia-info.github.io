@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את מושג הסומוד כפרקטיקה של אזרחות לשונית בקרב נוער פלסטיני בישראל, דרך ראיונות וניתוח ביטוי פוליטי ותרבותי מחוץ למערכת החינוך הרשמית.",
   "summaryHe": "המאמר טוען שסומוד פותח לנוער פלסטיני בישראל מרחבים לשוניים וסמיוטיים להתנגד למחיקת זהותם הלאומית ולבנות קול פוליטי מחוץ למסגרות המדינה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Muzna Awayed‐Bishara",
   "paperTitle": "Sumud pedagogy as linguistic citizenship: Palestinian youth in Israel against imposed subjectivities",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4092-3582\" target=\"_blank\" rel=\"noopener noreferrer\">Muzna Awayed‐Bishara</a>",

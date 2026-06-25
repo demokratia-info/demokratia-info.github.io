@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן תיקונים חוקתיים כתופעה בלתי נמנעת במשפט החוקתי, ומדגיש את הפוטנציאל הדמוקרטי שלהם כאשר הם מעוגנים בכללים פורמליים וברורים. הוא רלוונטי להבנת דמוקרטיה משום שהוא מחבר בין שינוי חוקתי, ודאות משפטית, שלטון החוק והיחסים בין סמכות מכוננת לבין שלטון העם.",
   "summaryHe": "המאמר טוען שתיקונים חוקתיים הם חלק בלתי נמנע מחיי חוקות, ושכללים פורמליים לשינוי יכולים לחזק ודאות משפטית ושלטון חוק.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Antoni Abat Ninet",
   "paperTitle": "The inexorableness of constitutional amendments and its democratic potentiality",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1091-0820\" target=\"_blank\" rel=\"noopener noreferrer\">Antoni Abat Ninet</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע קריאה מחדש של מהפכת השפיטה של שנות התשעים בישראל, וטוען שהבנתה מחייבת להתייחס למתח בין זהות יהודית ודמוקרטית ולשינויים העולמיים שלאחר המלחמה הקרה.",
   "summaryHe": "קריאה מחדש של מהפכת שנות התשעים כרקע להבנת רפורמת 2023–25 והמאבק על זהותה הדמוקרטית-ליברלית של ישראל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "אודי זומר, רייצ'ל קולסון, נתניאל שמידט",
   "paperTitle": "Reconceptualizing the 1990s judicial revolution in Israel and its implications for 2023–25",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>; Rachel Colson; Nathaniel Schmidt",

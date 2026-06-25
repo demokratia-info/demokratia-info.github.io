@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד הידרדרות בשלטון החוק במדינות הודו משפיעה על הקצאות תקציב פדרליות לתיירות, והאם הכנסה לנפש משנה את גודל הפגיעה. הוא מציג את שלטון החוק כתנאי מעשי להשקעה ציבורית, לא רק כערך משפטי מופשט.",
   "summaryHe": "Dutta ו־Kar משתמשים באמידות פאנל דינמיות כדי לבדוק כיצד שלטון החוק משפיע על הקצאת תקציבי תיירות מן המרכז למדינות הודו. הממצא המרכזי הוא שהידרדרות בשלטון החוק במדינה קשורה לירידה בהקצאת התקציב לתיירות, אך הירידה קטנה יותר במדינות עשירות יותר. מבחינת מדיניות, המאמר מציג את שלטון החוק והתקצוב הציבורי כמנגנונים משלימים לפיתוח מקומי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nabamita Dutta, Saibal Kar",
   "paperTitle": "Relating rule of law and budgetary allocation for tourism: Does per capita income growth make a difference for Indian states?",
   "authorsHtml": "<a href=\"https://www.uwlax.edu/profile/ndutta/\" target=\"_blank\" rel=\"noopener noreferrer\">Nabamita Dutta</a>; <a href=\"https://www.cssscal.org/faculty_saibal_kar.php\" target=\"_blank\" rel=\"noopener noreferrer\">Saibal Kar</a>",

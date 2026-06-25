@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציג מדד שיטתי למדידת רמת הדמוקרטיה הפנים־מפלגתית. הוא מגדיר חמישה ממדים: השתתפות, ייצוג, תחרות, היענות ושקיפות, ומדגים את השימוש בהם על מפלגות בישראל.",
   "summaryHe": "Rahat ו־Shapira מציעים למדוד מפלגות כפי שמודדים דמוקרטיה ברמת המדינה: לפי כללים, פתיחות, תחרות ואחריות. המדד מאפשר לשאול אם מפלגה שמבקשת לייצג ציבור רחב גם מפעילה בתוך עצמה נורמות דמוקרטיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gideon Rahat, Assaf Shapira",
   "paperTitle": "An Intra-Party Democracy Index: Theory, Design and A Demonstration",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/gideon-rahat\" target=\"_blank\" rel=\"noopener noreferrer\">Gideon Rahat</a>; <a href=\"https://en.idi.org.il/experts/2514\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Shapira</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הדיון הפוליטי והחקיקתי בישראל על משילות עבודת המין, ומתמקד בשאלה כיצד עובדות ועובדי מין תופסים חקיקה שנעשית עליהם אך לעיתים קרובות בלעדיהם.",
   "summaryHe": "המחקר מצא שהליכי החקיקה בישראל מאז 2007 דחקו עובדות ועובדי מין מחוץ לדיון הפוליטי, אף שהמדיניות משפיעה ישירות על תנאי עבודתם, רווחתם והסטיגמה כלפיהם.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Stephanie Levy-Aronovic, Yeela Lahav-Raz, Aviad E. Raz",
   "paperTitle": "Who Takes Part in the Political Game? The Sex Work Governance Debate in Israel",
   "authorsHtml": "Stephanie Levy-Aronovic, <a href=\"https://orcid.org/0000-0003-1753-3375\" target=\"_blank\" rel=\"noopener noreferrer\">Yeela Lahav-Raz</a>, <a href=\"https://orcid.org/0000-0001-6268-0409\" target=\"_blank\" rel=\"noopener noreferrer\">Aviad E. Raz</a>",

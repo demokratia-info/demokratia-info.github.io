@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מיליטריזם רך אזרחי בחינוך בלתי פורמלי בישראל דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Erella Grassiani, Nir Gazit",
   "paperTitle": "Civilian ‘soft’ militarism through informal education in Israel: learning to protect and connect to the land",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0722-400X\" target=\"_blank\" rel=\"noopener noreferrer\">Erella Grassiani</a>, <a href=\"https://orcid.org/0000-0002-8807-6530\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Gazit</a>",

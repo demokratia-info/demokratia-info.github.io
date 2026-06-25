@@ -8,6 +8,7 @@
   "subtitleHe": "ניתוח אמפירי של מחאת הצדק החברתי דרך פסיכולוגיה חברתית של פעולה קולקטיבית.",
   "descriptionHe": "המאמר בוחן את מניעי ההשתתפות במחאה בישראל באמצעות נתוני מחקר הבחירות הישראלי והתמקדות במשתתפי מחאת הצדק החברתי של 2011.",
   "summaryHe": "המאמר בודק חמישה גורמים מרכזיים להשתתפות במחאה: תחושת עוול, יעילות פוליטית, זהות, רגשות והשתלבות חברתית, ומשתמש בנתוני INES כדי להבין את פרופיל המפגינים במחאת 2011.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alonit Berenson; Nir Atmor",
   "paperTitle": "Testing the social psychology of protest: empirical evidence from the Israeli experience",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8133-4093\" target=\"_blank\" rel=\"noopener noreferrer\">Alonit Berenson</a>; <a href=\"https://orcid.org/0000-0003-4281-1795\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Atmor</a>",

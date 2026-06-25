@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם שיפורים גדולים ומתמשכים בשלטון החוק ובזכויות קניין גורמים לעלייה ביכולת המדינה לגבות הכנסות. חשיבותו הדמוקרטית היא בכך שהוא מפריד בין תנאי הכרחי לכאורה לבין תוצאה מוסדית בפועל: חוק טוב אינו הופך אוטומטית למדינה בעלת קיבולת.",
   "summaryHe": "המחקר משתמש בנתונים על 119 מדינות בשנים 1970-2015 ובודק אירועים של שיפור גדול ומתמשך במדדי שלטון החוק וזכויות קניין. השיפורים האלה אינם גורמים כשלעצמם לעלייה במדדי קיבולת פיסקלית, אף שהם עשויים להיות תנאי חשוב למוסדות יציבים. לכן המאמר חשוב לדיון דמוקרטי מפני שהוא מזהיר מפני אמונה שרפורמה משפטית פורמלית מספיקה בלי בניית מינהל, אמון ואכיפה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Robin Grier, Andrew T. Young, Kevin Grier",
   "paperTitle": "The causal effects of rule of law & property rights on fiscal capacity",
   "authorsHtml": "Robin Grier; <a href=\"https://orcid.org/0000-0002-5123-8495\" target=\"_blank\" rel=\"noopener noreferrer\">Andrew T. Young</a>; Kevin Grier",

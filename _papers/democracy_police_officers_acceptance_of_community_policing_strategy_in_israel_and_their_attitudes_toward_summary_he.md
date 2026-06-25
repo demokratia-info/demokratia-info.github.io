@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amikam Harpaz; Sergio Herzog",
   "paperTitle": "Police officers' acceptance of community policing strategy in Israel and their attitudes towards the Arab minority",
   "authorsHtml": "Amikam Harpaz; Sergio Herzog",

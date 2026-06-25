@@ -7,6 +7,7 @@
   "subtitleHe": "העברת האחריות למשרד החינוך מעלה שאלות של נגישות, שוויון והכרה בחינוך בגילאי אפס עד שלוש.",
   "descriptionHe": "המאמר מנתח את רפורמת 2022 במדיניות החינוך והטיפול לגיל הרך בישראל, ומציג אותה כשאלה של זכויות ילדים, שוויון הזדמנויות ונגישות לשירות ציבורי חיוני.",
   "summaryHe": "יערה שילה ואיריס בן דוד-הדר בוחנות את המעבר שבו מעונות יום לגילאי אפס עד שלוש עברו ממסגור של תמיכה באימהות עובדות אל מסגור חינוכי רחב יותר. תקציר המקור מדגיש שהרפורמה מחייבת השקעה בתשתיות, בהכשרת צוות ובסיוע כלכלי למשפחות, כדי שמדיניות הגיל הרך תשרת ילדים על בסיס צורך ולא על בסיס העדפות אוכלוסייה צרות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaara Shilo, Iris BenDavid-Hadar",
   "paperTitle": "Early Childhood Education Policy and Children Rights: Examining the Israeli Reform",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0482-8804\" target=\"_blank\" rel=\"noopener noreferrer\">Yaara Shilo</a>; <a href=\"https://cris.biu.ac.il/en/persons/iris-bendavid-hadar/\" target=\"_blank\" rel=\"noopener noreferrer\">Iris BenDavid-Hadar</a>",

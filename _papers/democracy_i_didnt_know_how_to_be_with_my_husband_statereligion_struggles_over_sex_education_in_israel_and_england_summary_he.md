@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדת, זהות יהודית וזכויות אזרחיות בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את דת, זהות יהודית וזכויות אזרחיות בישראל דרך עדשה של שוויון אזרחי, זכויות מיעוטים, אזרחות, הכלה והדרה פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lea Taragin‐Zeller, Ben Kasstan",
   "paperTitle": "‘I Didn’t Know How to Be with My Husband’: State‐Religion Struggles over Sex Education in Israel and England",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1886-4080\" target=\"_blank\" rel=\"noopener noreferrer\">Lea Taragin‐Zeller</a>, <a href=\"https://orcid.org/0000-0002-9020-2954\" target=\"_blank\" rel=\"noopener noreferrer\">Ben Kasstan</a>",

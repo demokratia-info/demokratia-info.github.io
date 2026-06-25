@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, וממקם את הדיון בתוך שאלות של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mordechai Kremnitzer, Yuval Shany",
   "paperTitle": "Illiberal Measures in Backsliding Democracies: Differences and Similarities between Recent Developments in Israel, Hungary, and Poland",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",

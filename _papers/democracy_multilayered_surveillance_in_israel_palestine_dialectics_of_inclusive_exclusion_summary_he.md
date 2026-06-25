@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את מנגנוני המעקב בישראל/פלסטין כשלוש שכבות של שליטה, נרמול וגיוס פוליטי, ואת תרומתם לשימור משטר עם רכיבים ליברליים, סמכותניים וכיבוש צבאי.",
   "summaryHe": "המאמר מבחין בין מעקב מדיר כלפי פלסטינים, מעקב מנרמל כלפי אזרחים יהודים־ישראלים, ומעקב מגלבל המפעיל קהילות ציוניות מחוץ לישראל. הטענה המרכזית היא שמעקב משמש לשימור נאמנות לציונות ולמשטר, אך הוא גם מייצר התנגדות וחושף את ההיגיון הסמכותני של המערכת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ariel Handel, Hilla Dayan",
   "paperTitle": "Multilayered surveillance in Israel/Palestine: Dialectics of inclusive exclusion",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5961-1071\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel Handel</a>, <a href=\"https://www.uva.nl/profiel/d/a/h.dayan/h.dayan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Dayan</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח שימוש באתר זכויות ישראלי מראה שקריאות טקסטים, זמן שהייה ושיעורי נטישה אינם מספרים סיפור פשוט על הבנה.",
   "descriptionHe": "המאמר בוחן את קריאות המידע המקוון על זכויות והטבות רווחה בישראל ואת הקשר למדדי מעורבות משתמשים.",
   "summaryHe": "Frida Elek-BenMoshe ו-Sheizaf Rafaeli מנתחים נתוני שימוש של שנה באתר זכויות ישראלי כדי לבדוק כיצד מאפייני קריאות של מידע ממשלתי על זכויות והטבות קשורים למעורבות משתמשים. הם מוצאים שרוב הטקסטים מתאימים לפי מדד Flesch-Kincaid לרמת קולג׳, שטקסטים פחות קריאים נקשרו לזמן שהייה ארוך יותר ולשיעור נטישה נמוך יותר, ושנדרש מדד קריאות המותאם לעברית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Frida Elek-BenMoshe, Sheizaf Rafaeli",
   "paperTitle": "Readability of online government information about welfare rights and benefits: the Israeli case",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6208-1457\" target=\"_blank\" rel=\"noopener noreferrer\">Frida Elek-BenMoshe</a>, <a href=\"https://rafaeli.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Sheizaf Rafaeli</a>",

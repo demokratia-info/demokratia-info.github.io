@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "David Kretzmer",
   "paperTitle": "The New Basic Laws on Human Rights: A Mini-Revolution in Israeli Constitutional Law?",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/david-kretzmer\" target=\"_blank\" rel=\"noopener noreferrer\">David Kretzmer</a>",

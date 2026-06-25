@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציג מסגרת מלאה לזיהוי אסטרוטרפרים בפייסבוק, על בסיס נתוני בחירות בישראל, תיוג יעיל, חילוץ מאפיינים זמניים וסיווג בלמידת מכונה.",
   "summaryHe": "המאמר מנתח פעילות פייסבוק לאורך 15 חודשים שבהם התקיימו שלוש מערכות בחירות בישראל, ומראה כיצד תכונות פעילות ותזמון משפרות זיהוי של פרופילים החשודים כאסטרוטרפרים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Jonathan Schler, Elisheva Bonchek-Dokow",
   "paperTitle": "Profiling Astroturfers on Facebook: A Complete Framework for Labeling, Feature Extraction, and Classification",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2233-455X\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Schler</a>, <a href=\"https://orcid.org/0000-0002-0173-0502\" target=\"_blank\" rel=\"noopener noreferrer\">Elisheva Bonchek-Dokow</a>",

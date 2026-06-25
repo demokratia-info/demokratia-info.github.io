@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חינוך לזכויות אדם בהקשר הגיאוגרפי והפוליטי של ישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Neve Gordon",
   "paperTitle": "The Geography and Political Context of Human Rights Education: Israel as a Case Study",
   "authorsHtml": "<a href=\"https://www.qmul.ac.uk/law/people/academic-staff/items/gordon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Neve Gordon</a>",

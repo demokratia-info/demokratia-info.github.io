@@ -8,6 +8,7 @@
   "subtitleHe": "ברק מדינה דן בלגיטימיות של ביקורת שיפוטית כאשר נסיגה דמוקרטית מאיימת על יסודות המשטר.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מסביר מדוע בזמני נסיגה דמוקרטית ביקורת שיפוטית אינה רק כוח נגד הרוב, אלא מנגנון לשמירת תנאי הלגיטימיות של הדמוקרטיה עצמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ברק מדינה",
   "paperTitle": "On Constitutional Identity, Democratic Legitimacy and Judicial Review in Times of Democratic Backsliding: The Case of Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/barak-medina\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Medina</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yehiel S. Kaplan",
   "paperTitle": "Enforcement of Divorce Judgments in Jewish Courts in Israel: The Interaction Between Religious and Constitutional Law*",
   "authorsHtml": "<a href=\"https://law.haifa.ac.il/en/lecturers_eng/kaplane/\" target=\"_blank\" rel=\"noopener noreferrer\">Yehiel S. Kaplan</a>",

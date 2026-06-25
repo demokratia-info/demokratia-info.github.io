@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על התפקדות למפלגות בישראל והקשר שלה לדמוקרטיה השתתפותית ולהשפעה פוליטית של אזרחים וקבוצות מאורגנות.",
   "summaryHe": "המאמר בוחן כיצד התפקדות למפלגות בישראל יכולה להגדיל את כוחם הפוליטי של אזרחים וקבוצות מאורגנות באמצעות השתתפות בבחירת מועמדים ויושבי ראש מפלגה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "David Schwartz, Daniel Galily",
   "paperTitle": "The Feasibility of Participatory Democracy —Examination of the Influence of the Phenomenon of Registration to Parties in Israel on the Level of the Citizen’s Political Participation",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3989-8546\" target=\"_blank\" rel=\"noopener noreferrer\">David Schwartz</a>, <a href=\"https://orcid.org/0000-0001-9111-4502\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Galily</a>",

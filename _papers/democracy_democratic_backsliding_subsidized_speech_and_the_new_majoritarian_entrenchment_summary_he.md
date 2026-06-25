@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית נסיגה דמוקרטית, ביטוי מסובסד והשתרשות רובנית דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Adam Shinar",
   "paperTitle": "Democratic Backsliding, Subsidized Speech, and the New Majoritarian Entrenchment",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>",

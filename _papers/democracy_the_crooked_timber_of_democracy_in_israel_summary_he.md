@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית החומר העקום של הדמוקרטיה בישראל, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית החומר העקום של הדמוקרטיה בישראל דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dahlia Scheindlin",
   "paperTitle": "The Crooked Timber of Democracy in Israel",
   "authorsHtml": "Dahlia Scheindlin",

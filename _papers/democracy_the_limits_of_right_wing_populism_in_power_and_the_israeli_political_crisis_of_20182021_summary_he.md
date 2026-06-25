@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בפופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את פופוליזם, מוסדות דמוקרטיים והגבלת כוח שלטוני דרך עדשה של נסיגה דמוקרטית, פופוליזם, שחיקת מוסדות וחוסן אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Doron Navot, Yair Goldshmidt, Asaf Yakir",
   "paperTitle": "The Limits of Right-Wing Populism in Power and the Israeli Political Crisis of 2018–2021",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>, <a href=\"https://scholar.google.com/citations?user=Aidc494AAAAJ&amp;hl=iw&amp;inst=2457744612629960019\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Goldshmidt</a>, <a href=\"https://orcid.org/0000-0003-4459-451X\" target=\"_blank\" rel=\"noopener noreferrer\">Asaf Yakir</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית בין אתני לאזרחי: האוטופיה הריאליסטית של הציונות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yitzḥak Conforti",
   "paperTitle": "Between ethnic and civic: the realistic Utopia of Zionism",
   "authorsHtml": "Yitzḥak Conforti",

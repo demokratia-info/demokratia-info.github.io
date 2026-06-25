@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ההיסטוריה הפוליטית של קמפיין בחירות 2009 בישראל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Manfred Gerstenfeld",
   "paperTitle": "The run-up to the elections: a political history of the 2009 campaign",
   "authorsHtml": "Manfred Gerstenfeld",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Miriam Gur-Arye; Thomas Weigend",
   "paperTitle": "Constitutional Review of Criminal Prohibitions Affecting Human Dignity and Liberty: German and Israeli Perspectives",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7281-8715\" target=\"_blank\" rel=\"noopener noreferrer\">Miriam Gur-Arye</a>; <a href=\"https://orcid.org/0000-0002-6862-0500\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas Weigend</a>",

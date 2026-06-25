@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין ההתגייסות האזרחית נגד הרפורמה המשפטית לבין מיעוט המחאה לאחר פרוץ מלחמת עזה, ושואל מה הפער מלמד על ליברליזם, זכויות ושוויון בישראל.",
   "summaryHe": "אדם שנער טוען שהמחאה נגד הרפורמה המשפטית גייסה שפה ליברלית אוניברסלית אך נמנעה לרוב מעיסוק בכיבוש ובאפליית אזרחים פלסטינים בישראל. הפער בין עוצמת המחאה ב־2023 לבין התגובה המוגבלת לפגיעה בזכויות בזמן המלחמה מעורר ספק לגבי עומק ההטמעה של ערכים ליברליים בישראל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "אדם שנער",
   "paperTitle": "Constitutional Overhaul, the War in Gaza, and the Puzzle of Civic Mobilization in Israel",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daron Acemoglu, Camilo García-Jimeno, James A. Robinson",
   "paperTitle": "State Capacity and Economic Development: A Network Approach",
   "authorsHtml": "<a href=\"https://economics.mit.edu/people/faculty/daron-acemoglu\" target=\"_blank\" rel=\"noopener noreferrer\">Daron Acemoglu</a>, <a href=\"https://economics.sas.upenn.edu/people/camilo-garcia-jimeno\" target=\"_blank\" rel=\"noopener noreferrer\">Camilo García-Jimeno</a>, <a href=\"https://harris.uchicago.edu/directory/james-robinson\" target=\"_blank\" rel=\"noopener noreferrer\">James A. Robinson</a>",

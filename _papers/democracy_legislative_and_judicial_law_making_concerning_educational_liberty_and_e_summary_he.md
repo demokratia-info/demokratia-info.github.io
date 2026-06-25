@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עמוס שפירא",
   "paperTitle": "Legislative and Judicial Law-making Concerning Educational Liberty and Equality: Some Israeli Constitutional Law Perspectives",
   "authorsHtml": "<a href=\"https://en-law.tau.ac.il/profile/shapira1_71\" target=\"_blank\" rel=\"noopener noreferrer\">Amos Shapira</a>",

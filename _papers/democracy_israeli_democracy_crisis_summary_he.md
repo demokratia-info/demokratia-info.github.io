@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסביר את המשבר הישראלי לא כאירוע יחיד, אלא כתוצאה של שילוב בין קיטוב פוליטי עמוק, מבנה מוסדי פגיע ומאבק על גבולות הכוח השלטוני.",
   "summaryHe": "הסבר תמציתי למשבר הישראלי דרך קיטוב, מוסדות חלשים ותמריצים פוליטיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "נעם גדרון",
   "paperTitle": "Why Israeli Democracy Is in Crisis",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",

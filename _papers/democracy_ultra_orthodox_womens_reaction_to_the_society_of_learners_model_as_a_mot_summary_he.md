@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות.",
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אשר סוזין, איילת בנאי, לי כהנר",
   "paperTitle": "Ultra-Orthodox Women's Reaction to the \"Society of Learners\" Model as a Motive among Israel's Ultra-Orthodox Feminists",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-asher-suzin/\" target=\"_blank\" rel=\"noopener noreferrer\">Asher Suzin</a>; <a href=\"https://politics.haifa.ac.il/index.php/en/people/faculty/54-ayelet-banai\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Banai</a>; <a href=\"https://www.oranim.ac.il/sites/heb/academic-units/social-sciences-faculty/geography-studies/about/staff/pages/lee-cahaner.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Lee Cahaner</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר השוואתי על דת, חילוניות והכרעות רפואיות בסוף החיים בשלוש מדינות.",
   "descriptionHe": "המאמר בוחן עמדות של דתיים וחילונים בארצות הברית, גרמניה וישראל כלפי החלטות סוף חיים. הוא מראה שהעמדות אינן נקבעות בפשטות לפי לאום, תרבות או דת, אלא נוצרות בתוך הקשר אישי, משפחתי, חברתי ומשפטי.",
   "summaryHe": "המחקר מבוסס על 12 קבוצות מיקוד עם 82 משתתפים דתיים וחילונים בארצות הברית, גרמניה וישראל. הניתוח מצא מורכבות רבה בעמדות כלפי הנחיות מקדימות, סיוע במוות והחלטות טיפול בסוף החיים: יש לעיתים הסכמות מקומיות החורגות מאינדיבידואליזם קיצוני, אך אין התאמה פשוטה בין עמדה לבין מדינה או שיוך דתי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Mark Schweda, Silke Schicktanz, Aviad E. Raz, Anita Silvers",
   "paperTitle": "Beyond cultural stereotyping: views on end-of-life decision making among religious and secular persons in the USA, Germany, and Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3270-6561\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Schweda</a>; <a href=\"https://orcid.org/0000-0001-9627-752X\" target=\"_blank\" rel=\"noopener noreferrer\">Silke Schicktanz</a>; <a href=\"https://orcid.org/0000-0001-6268-0409\" target=\"_blank\" rel=\"noopener noreferrer\">Aviad E. Raz</a>; Anita Silvers",

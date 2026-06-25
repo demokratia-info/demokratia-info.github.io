@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מראה כיצד גיוס חובה יכול לחזק זהות ישראלית ובה בעת לחשוף גבולות קשים של שוויון, הכרה ואזרחות.",
   "descriptionHe": "המאמר בוחן את שירות החובה של דרוזים בישראל ואת הפער בין תרומה צבאית לבין שוויון אזרחי וחברתי.",
   "summaryHe": "Rabah Halabi מנתח ראיונות עומק עם צעירים דרוזים בישראל ושואל האם השירות הצבאי משמש כרטיס כניסה לחברה היהודית־ישראלית. לפי המאמר, השירות מחזק לעיתים זהות ישראלית, אך אינו מתורגם בהכרח לשוויון זכויות מלא או להסרת שוליות במבנה אתנו־רפובליקני.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rabah Halabi",
   "paperTitle": "The Druze in the army: a (very) limited entrance ticket to Israeli (Jewish) society",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9777-8315\" target=\"_blank\" rel=\"noopener noreferrer\">Rabah Halabi</a>",

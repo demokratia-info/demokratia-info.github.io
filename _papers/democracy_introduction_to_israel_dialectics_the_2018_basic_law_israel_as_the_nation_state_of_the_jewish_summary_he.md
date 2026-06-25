@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חוק הלאום והשפעתו על זכויות ושייכות, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חוק הלאום והשפעתו על זכויות ושייכות דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Peleg",
   "paperTitle": "Introduction to Israel Dialectics-The 2018 Basic Law: Israel as the Nation-State of the Jewish People",
   "authorsHtml": "<a href=\"https://govlaw.lafayette.edu/people/ilan-peleg/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Peleg</a>",

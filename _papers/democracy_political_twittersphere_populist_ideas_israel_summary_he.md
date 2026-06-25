@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח פעילות טוויטר של מחוקקים ישראלים בשנים 2013-2022 בעזרת רשת עצבית מפוקחת, כדי לעקוב אחר תפוצה, ריכוז ותוכן של רעיונות פופוליסטיים בשיח הפוליטי המקוון.",
   "summaryHe": "Tzelgov ו-Wilson מצאו עלייה מערכתית בשימוש ברעיונות פופוליסטיים בטוויטר הפוליטי הישראלי, במיוחד בקרב מחוקקים ממפלגות דתיות-לאומיות ובשיח שהגיע לשיאו ב-2022.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Eitan Tzelgov, Steven Lloyd Wilson",
   "paperTitle": "The Political Twittersphere as a Breeding Ground for Populist Ideas: The Case of Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2489-3918\" target=\"_blank\" rel=\"noopener noreferrer\">Eitan Tzelgov</a>; Steven Lloyd Wilson",

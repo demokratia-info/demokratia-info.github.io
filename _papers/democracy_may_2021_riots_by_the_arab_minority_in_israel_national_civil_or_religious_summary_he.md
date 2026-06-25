@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר בוחן את האלימות של מאי 2021 בערים מעורבות בישראל ושואל אם מקורה היה לאומי, דתי, אזרחי או שילוב של שלוש הזירות.",
   "descriptionHe": "Gadi Hitman מנתח את אירועי מאי 2021 בקרב המיעוט הערבי בישראל, בעיקר בערים מעורבות. לפי התקציר, המחקר האיכותני מתבסס על ראיונות עם תושבים ערבים ועל דיווחי תקשורת, ומסיק כי עניינים אזרחיים היו הסיבה המרכזית למהומות בערים מעורבות, על רקע היסטורי לאומי ודתי.",
   "summaryHe": "המאמר מציב את יחסי יהודים ולא-יהודים בישראל על שלושה צירים: דתי, לאומי ואזרחי. תרומתו לשיח הדמוקרטי היא בניסיון לפרק אירוע אלים וטעון למרכיבים שונים של זהות, אזרחות, יחסי מיעוט-רוב והסדר ציבורי, במקום להסבירו באמצעות מניע אחד בלבד.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gadi Hitman",
   "paperTitle": "May 2021 Riots by the Arab Minority in Israel: National, Civil or Religious?",
   "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>",

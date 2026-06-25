@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית הדין החל על עזה שאינה מוגדרת כשטח כבוש, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית הדין החל על עזה שאינה מוגדרת כשטח כבוש דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yuval Shany",
   "paperTitle": "The Law Applicable to Non-Occupied Gaza: A Comment on Bassiouni v. The Prime Minister of Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",

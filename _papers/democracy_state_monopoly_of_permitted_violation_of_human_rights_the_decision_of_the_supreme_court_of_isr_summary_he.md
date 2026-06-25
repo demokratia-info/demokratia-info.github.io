@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית גבולות הפרטת בתי הסוהר וחובת המדינה להגן על זכויות דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Richard Harding",
   "paperTitle": "State monopoly of permitted violation of human rights: The decision of the Supreme Court of Israel prohibiting the private operation and management of prisons",
   "authorsHtml": "<a href=\"https://research-repository.uwa.edu.au/en/persons/richard-harding/\" target=\"_blank\" rel=\"noopener noreferrer\">Richard Harding</a>",

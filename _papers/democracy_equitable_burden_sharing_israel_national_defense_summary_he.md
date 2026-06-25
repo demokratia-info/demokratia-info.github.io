@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח כיצד המלחמה במזרח התיכון העצימה את הדיון בגיוס גברים חרדים ובחלוקת חובות הביטחון בין קבוצות אזרחיות.",
   "descriptionHe": "המאמר בוחן את המחלוקת סביב שוויון בנטל הביטחוני בישראל ואת האפשרות שהמלחמה תוביל לשינויים ביחסי החברה, הצבא והמדינה.",
   "summaryHe": "Yaron Katz מתאר כיצד הפטור הרחב של גברים חרדים משירות צבאי נעשה שנוי יותר במחלוקת ככל שהאוכלוסייה החרדית גדלה וככל שהמלחמה מחדדת את צורכי הביטחון. המאמר קושר בין מודל האזרח־חייל, ליברליזציה, זהות לאומית וחוזה חברתי חדש או מעודכן בין המדינה לקהילות החרדיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "The Controversy Over Equitable Burden-Sharing In Israel's National Defense",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

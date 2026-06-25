@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המחקר בוחן כיצד מנהלי בתי ספר יהודים וערבים בישראל מבינים ומיישמים מנהיגות חינוכית לקידום שוויון וצדק חברתי.",
   "summaryHe": "המחקר מתבסס על ראיונות עם חמישה מנהלים יהודים וחמישה מנהלים ערבים, ומראה כיצד מסלולי חיים, מדיניות חינוך ופערים מערכתיים מעצבים פרקטיקות של צדק חברתי בבתי ספר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Khalid Husny Arar",
   "paperTitle": "Leadership for Equity and Social Justice in Arab And Jewish Schools in Israel: Leadership Trajectories and Pedagogical Praxis",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4094-966X\" target=\"_blank\" rel=\"noopener noreferrer\">Khalid Husny Arar</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם מוסדות פוליטיים גורמים לצמיחה כלכלית, ומערער על הטענה שהספרות הקיימת הצליחה לבסס קשר סיבתי כזה. הוא מציב במרכז את ההון האנושי והחברתי כמקור מרכזי לצמיחה ולדמוקרטיזציה.",
   "summaryHe": "המאמר טוען שהעדויות הקיימות אינן מוכיחות שמוסדות פוליטיים גורמים לצמיחה, ושמדדי הון אנושי מסבירים טוב יותר גם צמיחה וגם שיפור מוסדי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer",
   "paperTitle": "Do Institutions Cause Growth?",
   "authorsHtml": "<a href=\"https://www.hks.harvard.edu/faculty/edward-glaeser\" target=\"_blank\" rel=\"noopener noreferrer\">Edward L. Glaeser</a>, <a href=\"https://vivo.brown.edu/display/rlaporta\" target=\"_blank\" rel=\"noopener noreferrer\">Rafael La Porta</a>, <a href=\"https://orcid.org/0000-0002-5204-5599\" target=\"_blank\" rel=\"noopener noreferrer\">Florencio Lopez-de-Silanes</a>, <a href=\"https://scholar.harvard.edu/shleifer/home\" target=\"_blank\" rel=\"noopener noreferrer\">Andrei Shleifer</a>",

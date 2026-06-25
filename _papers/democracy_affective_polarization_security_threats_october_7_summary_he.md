@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר בוחן אם איום ביטחוני קיצוני יצר אחדות פנימית ומראה, לפי תקצירו, שקיטוב רגשי בישראל נותר עמיד גם אחרי 7 באוקטובר והמלחמה בעזה.",
   "descriptionHe": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
   "summaryHe": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עומר יאיר, יאיר אמיטל, אמנון כוורי, אסיף אפרת ונעם גדרון",
   "paperTitle": "The Persistence of Affective Polarization in Times of Security Threats: Evidence from Post-October 7 Israel",
   "authorsHtml": "<a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>; <a href=\"https://en.politics.huji.ac.il/people/yair-amitai\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Amital</a>; <a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://www.runi.ac.il/en/faculty/asif-efrat/\" target=\"_blank\" rel=\"noopener noreferrer\">Asif Efrat</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>",

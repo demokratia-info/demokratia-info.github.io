@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן תפיסות אפליה ומרחק חברתי בקרב מהגרים מחבר המדינות לשעבר בישראל המזוהים כנוצרים ולא יהודים. הוא מדגיש כיצד דת, מוצא ומעמד אזרחי מעצבים גבולות שייכות גם בתוך קבוצת מהגרים גדולה.",
   "summaryHe": "Raijman ו־Pinsky עוסקות במהגרים מחבר המדינות לשעבר שאינם יהודים מבחינה דתית, ובוחנות כיצד הם חווים אפליה ומרחק חברתי בישראל. המאמר מציב את שאלת השוויון האזרחי במקום שבו חוק, זהות לאומית ודת יוצרים גבולות עדינים אך ממשיים של הכללה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rebeca Raijman, Janina Pinsky",
   "paperTitle": "‘Non-Jewish and Christian’: perceived discrimination and social distance among FSU migrants in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/rebeca-raijman/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebeca Raijman</a>; Janina Pinsky",

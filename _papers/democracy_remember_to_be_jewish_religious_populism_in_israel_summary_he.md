@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין דת לפופוליזם בישראל דרך התפתחותן של ש\"ס והליכוד. הוא מראה כיצד זהות יהודית משמשת גם בסיס לשייכות פוליטית וגם כלי לסימון איומים וקבוצות מודרות.",
   "summaryHe": "המאמר טוען שבישראל הדת ממלאת תפקיד כפול בפופוליזם: היא מגדירה את תוכן הקהילה הפוליטית היהודית, אך גם מסמנת אויבים כגון לא־יהודים, מבקשי מקלט ואליטות חילוניות שמוצגות כלא נאמנות. ההשוואה בין ש\"ס לליכוד מציגה פופוליזם מכליל מול פופוליזם מדיר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Guy Ben Porat; Dani Filc",
   "paperTitle": "Remember to be Jewish: Religious Populism in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben Porat</a>; <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>",

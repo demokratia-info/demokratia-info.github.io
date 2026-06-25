@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר קורא לעבור ממדידת חיבה וסלידה כללית למיפוי רגשות מובחנים כמו פחד, כעס, בוז ואכזבה, כדי להבין טוב יותר קיטוב רגשי.",
   "descriptionHe": "המאמר מסביר שקיטוב רגשי אינו רגש אחד אלא משפחה של רגשות שונים, שכל אחד מהם עשוי להוביל להתנהגות פוליטית אחרת. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
   "summaryHe": "המאמר מסביר שקיטוב רגשי אינו רגש אחד אלא משפחה של רגשות שונים, שכל אחד מהם עשוי להוביל להתנהגות פוליטית אחרת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ערן הלפרין, מבל קרצ׳נר, סיון הירש-הופלר ויוליה אלעד-שטרנגר",
   "paperTitle": "The affective gap: a call for a comprehensive examination of the discrete emotions underlying affective polarization",
   "authorsHtml": "<a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>; <a href=\"https://mores-horizon.eu/experts/mabelle-kretchner\" target=\"_blank\" rel=\"noopener noreferrer\">Mabelle Kretchner</a>; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>; <a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם חוב חיצוני גבוה מנבא צמיחה נמוכה יותר, וכיצד מרווחי סיכון ואיכות מוסדית משנים את הקשר. הוא חשוב לדמוקרטיה מפני שחוב ציבורי קובע מי יישא בעלויות מחר ועד כמה מוסדות מסוגלים לנהל סיכון בשקיפות.",
   "summaryHe": "המאמר בוחן את הקשר בין חוב חיצוני, מרווחי ריביות ריבוניים, איכות מוסדית וצמיחה כלכלית. עלייה בחוב חיצוני כולל, ארוך טווח וציבורי יכולה לנבא האטה בצמיחה, אך איכות מוסדית טובה יותר עשויה לצמצם את הנזק, גם כאשר עלויות המימון גבוהות. מבחינה דמוקרטית, הדיון בחוב הוא דיון באחריות בין־דורית: החלטות על borrowing today משפיעות על תקציבים עתידיים, שירותים ציבוריים ויכולת אזרחים לבקר את ניהול הסיכון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ruohan Wang, Yi Xue, Wenping Zheng",
   "paperTitle": "Does high external debt predict lower economic growth? Role of sovereign spreads and institutional quality",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5852-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Ruohan Wang</a>; <a href=\"https://orcid.org/0000-0001-9418-6704\" target=\"_blank\" rel=\"noopener noreferrer\">Yi Xue</a>; <a href=\"https://orcid.org/0000-0003-2757-2669\" target=\"_blank\" rel=\"noopener noreferrer\">Wenping Zheng</a>",

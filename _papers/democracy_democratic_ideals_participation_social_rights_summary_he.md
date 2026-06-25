@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד אידיאלים דמוקרטיים של אזרחים קשורים להשתתפות פוליטית, על בסיס שאלות הסקר החברתי האירופי משנת 2012 ב־29 מדינות. תרומתו היא בהבחנה בין תפיסה של זכויות פוליטיות לבין תפיסה של זכויות חברתיות, ובבדיקת הקשר שלהן להצבעה, מחאה וצורות פעולה אחרות.",
   "summaryHe": "Oser ו־Hooghe מנתחים את הקשר בין אידיאלים דמוקרטיים לבין התנהגות פוליטית באמצעות ניתוח מחלקות חבויות ושאלות רחבות של הסקר החברתי האירופי מ־2012. הם מזהים שתי קבוצות אזרחים המדגישות מושגי אזרחות שונים: תפיסה של זכויות פוליטיות ותפיסה של זכויות חברתיות. מי שמדגישים זכויות חברתיות פעילים יחסית יותר בהשתתפות לא־ממוסדת אך פחות בהשתתפות ממוסדת, בעוד שמדגישי זכויות פוליטיות פעילים יותר בכל צורות ההשתתפות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jennifer Oser, Marc Hooghe",
   "paperTitle": "Democratic ideals and levels of political participation: The role of political and social conceptualisations of democracy",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/jennifer-oser/\" target=\"_blank\" rel=\"noopener noreferrer\">Jennifer Oser</a>, <a href=\"https://soc.kuleuven.be/centre-for-political-research/Personeel/00043550\" target=\"_blank\" rel=\"noopener noreferrer\">Marc Hooghe</a>",

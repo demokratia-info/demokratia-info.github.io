@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מיכל שמיר, קרן וינשל-מרגל",
   "paperTitle": "“Your Honor, Restrain Us”: The Political Dynamics of the Right to Be Elected in the Israeli Democracy",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/michalshamir/\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Shamir</a>; <a href=\"https://en.law.huji.ac.il/people/keren-weinshall\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall-Margel</a>",

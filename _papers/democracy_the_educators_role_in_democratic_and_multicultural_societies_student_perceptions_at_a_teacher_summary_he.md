@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית תפקיד המחנך בחברה דמוקרטית ורב־תרבותית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Hisherik; Ilana Paul-Binyamin",
   "paperTitle": "The educator’s role in democratic and multicultural societies: student perceptions at a teacher training college in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4017-5713\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Hisherik</a>; <a href=\"https://orcid.org/0000-0001-5566-2763\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Paul-Binyamin</a>",

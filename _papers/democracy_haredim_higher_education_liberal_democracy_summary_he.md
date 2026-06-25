@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר דן בתכניות השכלה גבוהה בהפרדה מגדרית לחרדים בישראל, ובוחן אותן דרך שאלת היחס של דמוקרטיה ליברלית למיעוטים לא־ליברליים. הוא מציב במרכז את המתח בין שילוב, סובלנות, שוויון מגדרי וזכות יציאה מתרבות קהילתית.",
   "summaryHe": "הרטמן וזיכרמן מנתחים את הוויכוח בישראל על תכניות אקדמיות מופרדות מגדרית לחרדים, לרבות הדיון הציבורי והעתירות לבית המשפט העליון. הם מציבים את המקרה בתוך תאוריה של רב־תרבותיות וסובלנות, ושואלים האם דמוקרטיה ליברלית יכולה או צריכה לסבול פרקטיקה לא־ליברלית כאשר היא עשויה לקדם שילוב חברתי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "טובה הרטמן, חיים זיכרמן",
   "paperTitle": "HIGHER EDUCATION FOR HAREDIM IN ISRAEL",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/prof-tova-hartman/\" target=\"_blank\" rel=\"noopener noreferrer\">טובה הרטמן</a>, <a href=\"https://www.ono.ac.il/eng/lecturer-new/?id=6518\" target=\"_blank\" rel=\"noopener noreferrer\">חיים זיכרמן</a>",

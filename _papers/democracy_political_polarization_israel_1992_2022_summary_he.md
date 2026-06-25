@@ -8,6 +8,7 @@
   "subtitleHe": "הפרק ממקם את הבחירות של 2022 בתוך שלושה עשורים של קיטוב פוליטי בישראל, ומחבר בין זהות מפלגתית, גושים ושינוי מוסדי.",
   "descriptionHe": "הפרק מספק מבט היסטורי על קיטוב בישראל ומזכיר שמשבר פוליטי עכשווי נשען על תהליכים ארוכי טווח. החשיבות הציבורית של המאמר היא בכך שהוא מראה כיצד עמדות הציבור, רגשות פוליטיים וקיטוב משפיעים על נכונות לקבל כללי משחק משותפים, לכבד יריבים פוליטיים ולהגן על מוסדות גם כאשר הם פועלים נגד העדפה מחנאית רגעית.",
   "summaryHe": "הפרק מספק מבט היסטורי על קיטוב בישראל ומזכיר שמשבר פוליטי עכשווי נשען על תהליכים ארוכי טווח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יאיר אמיתי, נעם גדרון ועומר יאיר",
   "paperTitle": "Political Polarization in Israel, 1992–2022",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/yair-amitai\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Amitai</a>; <a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את כישלון המערכת המשפטית הישראלית במניעת עינויים של עצירים פלסטינים בשטחים, ואת המתח בין שלטון החוק, זכויות אדם ונרטיב הביטחון הלאומי.",
   "summaryHe": "המאמר טוען כי הדין הישראלי התנגד רשמית לעינויים אך בפועל התקשה לבלום אותם, ולעיתים העניק להם תמיכה שקטה ומסויגת בשם הביטחון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Barak Cohen",
   "paperTitle": "Democracy and the Mis-Rule of Law: The Israeli Legal System's Failure to Prevent Torture in the Occupied Territories",
   "authorsHtml": "Barak Cohen",

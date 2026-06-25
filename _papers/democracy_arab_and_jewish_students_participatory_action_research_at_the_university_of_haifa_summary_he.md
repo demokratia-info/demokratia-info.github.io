@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tamar Zelniker, Rachel Hertz-Lazarowitz, Hilla Peretz, Faisal Azaiza, Ruth Sharabany",
   "paperTitle": "Arab and Jewish Students’ Participatory Action Research at the University of Haifa",
   "authorsHtml": "Tamar Zelniker; Rachel Hertz-Lazarowitz; <a href=\"https://orcid.org/0000-0002-1160-2010\" target=\"_blank\" rel=\"noopener noreferrer\">Hilla Peretz</a>; <a href=\"https://cris.haifa.ac.il/en/persons/faisal-azaiza\" target=\"_blank\" rel=\"noopener noreferrer\">Faisal Azaiza</a>; Ruth Sharabany",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שפת המשפטנים הממשלתיים והגנת זכויות האדם בבג״ץ דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yoav Dotan",
   "paperTitle": "Judicial Rhetoric, Government Lawyers, and Human Rights: The Case of the Israeli High Court of Justice during the Intifada",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/%D7%99%D7%95%D7%90%D7%91-%D7%93%D7%95%D7%AA%D7%9F\" target=\"_blank\" rel=\"noopener noreferrer\">Yoav Dotan</a>",

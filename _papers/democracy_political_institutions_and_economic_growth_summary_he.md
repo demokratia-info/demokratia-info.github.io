@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מבנים חוקתיים שונים של קבלת החלטות תקציביות משפיעים על מדיניות כלכלית וצמיחה במודל של דורות חופפים, עם הבדלים בגיל ובהעדפות כלפי מוצרים ציבוריים.",
   "summaryHe": "המאמר משווה בין החלטות תקציב בפרלמנט לבין האצלת סמכות לשר הוצאות, ומראה כיצד קואליציות, גיל הבוחרים וצמיחת האוכלוסייה משנים את רמת הצמיחה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Laura Marsiliani, Thomas I. Renström",
   "paperTitle": "Political institutions and economic growth",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3802-074X\" target=\"_blank\" rel=\"noopener noreferrer\">Laura Marsiliani</a>, <a href=\"https://orcid.org/0000-0002-2898-2507\" target=\"_blank\" rel=\"noopener noreferrer\">Thomas I. Renström</a>",

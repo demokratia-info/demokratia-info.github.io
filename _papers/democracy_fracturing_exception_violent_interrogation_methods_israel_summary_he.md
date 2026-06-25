@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר משפטי על המבנים המשפטיים שמסדירים שיטות חקירה אלימות בישראל מאז 1987 ועל ריבוי החריגים לאיסור העינויים.",
   "summaryHe": "המאמר מנתח את המבנים המשפטיים שמסדירים שימוש בשיטות חקירה אלימות בישראל מאז 1987. הוא טוען שהמעבר אינו רק מהשעיה רחבה של איסור העינויים להגבלה, אלא למשטר מפוצל של חריגים נפרדים לפי מבצע, קורבן, זמן ומקום, היוצרים יחד מערכת שמכשירה אלימות מדינתית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Irit Ballas",
   "paperTitle": "Fracturing the “Exception”: The Legal Sanctioning of Violent Interrogation Methods in Israel since 1987",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/irit-ballas/\" target=\"_blank\" rel=\"noopener noreferrer\">Irit Ballas</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד תהליכי בחירת מועמדים בתוך מפלגות קשורים לשביעות הרצון של אזרחים מן הדמוקרטיה. הוא מציב את הדמוקרטיה הפנימית במפלגות כחוליה חשובה בין ייצוג פוליטי, אחריותיות ואמון הציבור במערכת.",
   "summaryHe": "Yael Shomer, Gert-Jan Put ו-Einat Gedalya-Lavy מנתחים את הקשר בין אופן בחירת מועמדים בתוך מפלגות לבין שביעות רצון אזרחית מדמוקרטיה. המאמר מראה שדמוקרטיה אינה מתחילה רק ביום הבחירות הכללי, אלא גם בשאלה מי מקבל כוח להשפיע על רשימות המועמדים שהאזרחים פוגשים בקלפי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yael Shomer, Gert-Jan Put, Einat Gedalya-Lavy",
   "paperTitle": "Intra-Party Politics and Public Opinion: How Candidate Selection Processes Affect Citizens’ Satisfaction with Democracy",
   "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://soc.kuleuven.be/io/personeel/staf/00056161\" target=\"_blank\" rel=\"noopener noreferrer\">Gert-Jan Put</a>, <a href=\"https://orcid.org/0000-0001-7371-6921\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Gedalya-Lavy</a>",

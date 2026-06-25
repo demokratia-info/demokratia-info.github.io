@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד התקשרות רגשית למחנה אידיאולוגי משפיעה על בחירה מפלגתית ועל השתתפות פוליטית בישראל. התרומה הדמוקרטית שלו היא בהסבר מדוע אזרחים במערכת רב־מפלגתית נשארים מחוברים למחנות גם כאשר מפלגות משתנות, מתפצלות או נחלשות.",
   "summaryHe": "Oshri, Yair ו־Huddy מפתחים ומיישמים סולם התקשרות למחנה אידיאולוגי בשני מחקרים שנערכו בישראל עם 1,320 משתתפים. הם מוצאים שהתקשרות כזאת קשורה בחוזקה לבחירת מפלגה ולהשתתפות פוליטית, ושכוחה עצמאי ואף חזק יותר מאידיאולוגיה מבוססת סוגיות ומעוצמת זהות מפלגתית. ניסויי סקר מראים שמשיבים בעלי התקשרות גבוהה מגיבים ביותר כעס או התלהבות לאיום או להרגעה כלפי מעמד המחנה שלהם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Odelia Oshri, Omer Yair, Leonie Huddy",
   "paperTitle": "The importance of attachment to an ideological group in multi-party systems: Evidence from Israel",
   "authorsHtml": "<a href=\"https://en.politics.huji.ac.il/people/odelia-oshri\" target=\"_blank\" rel=\"noopener noreferrer\">Odelia Oshri</a>, <a href=\"https://omeryair.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Yair</a>, <a href=\"https://www.stonybrook.edu/experts/profile.php?name=leonie-huddy\" target=\"_blank\" rel=\"noopener noreferrer\">Leonie Huddy</a>",

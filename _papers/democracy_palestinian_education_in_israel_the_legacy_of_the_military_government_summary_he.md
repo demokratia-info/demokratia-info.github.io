@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד הממשל הצבאי בישראל בשנים 1948-1966 עיצב את מערכת החינוך הערבית-פלסטינית, וכיצד מורשת זו המשיכה להשפיע על מדיניות, תוכניות לימודים, משאבים ומעמד אזרחי.",
   "summaryHe": "Abu-Saad טוען שמערכת החינוך הציבורית לאזרחים הערבים-פלסטינים התפתחה בתוך משטר של שליטה צבאית, ושגם לאחר ביטולו הפורמלי נמשכו מנגנוני מרגינליזציה, שליטה תרבותית-חברתית ואי-שוויון במשאבים ובהישגים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ismael Abu‐Saad",
   "paperTitle": "Palestinian Education in Israel: The Legacy of the Military Government",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2601-7188\" target=\"_blank\" rel=\"noopener noreferrer\">Ismael Abu‐Saad</a>",

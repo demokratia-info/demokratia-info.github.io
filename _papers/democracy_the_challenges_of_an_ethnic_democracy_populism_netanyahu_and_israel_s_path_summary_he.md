@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הפופוליזם של נתניהו במסגרת הדמוקרטיה האתנית בישראל, ובעיקר את המתח בין לאומיות יהודית, ערכים דמוקרטיים וזכויות מיעוטים.",
   "summaryHe": "המאמר טוען כי סגנון הפוסט-פופוליזם של נתניהו משלב בסיס סמלי מכליל עם רטוריקה לאומית-אתנית מדירה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Daniel Gal",
   "paperTitle": "The Challenges of an Ethnic-democracy: Populism, Netanyahu and Israel's Path",
   "authorsHtml": "Daniel Gal",

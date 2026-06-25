@@ -7,6 +7,7 @@
   "subtitleHe": "סקר ישראלי בוחן מתי הציבור מצפה ממבקרי מדינה להפעיל שיקול דעת רחב, וכיצד אמון פוליטי ותפיסות השפעה אזרחית קשורים לכך.",
   "descriptionHe": "המאמר בוחן עמדות ציבור בישראל כלפי שיקול דעת של מבקרי מדינה וביקורות רחבות בהקשר של אמון, הוגנות ואחריותיות דמוקרטית.",
   "summaryHe": "Dana Natan-Krup ו-Shlomo Mizrahi בוחנים את הלגיטימציה הציבורית להפעלת שיקול דעת רחב בביקורת ציבורית. לפי התקציר, אמון במערכת הפוליטית וציפיות להוגנות פרוצדורלית קשורים לציפייה שמבקרי מדינה יערכו ביקורות רחבות, לצד יחסים מורכבים עם תפיסות של השפעה אזרחית על הממשלה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dana Natan-Krup, Shlomo Mizrahi",
   "paperTitle": "Putting auditing in the context of democratic governance: the question of auditing discretion from the public’s perspective",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6907-6327\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Natan-Krup</a>, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציג את משבר הדמוקרטיה הישראלית דרך אי־יציבות שלטונית, קיטוב, פופוליזם, שחיתות ועימות סביב מעמד בית המשפט העליון. הוא ממקם את הרפורמה המשפטית בתוך דיון רחב על ריכוז כוח ושחיקה דמוקרטית.",
   "summaryHe": "המאמר מתאר הידרדרות במערכת הפוליטית בישראל לאחר בחירות 2022, ובוחן אם אירועי 4 בינואר 2023 ואילך הם רפורמה משפטית מאוחרת או מאמץ שיטתי של נסיגה דמוקרטית. הוא מדגיש את פגיעותה של המסגרת החוקתית בישראל, המבוססת על חוקי יסוד שרבים מהם ניתנים לשינוי ברוב פרלמנטרי רגיל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Shomer, Eitan Tzelgov, Roi Zur",
   "paperTitle": "Editorial: The crises of the Israeli democracy",
   "authorsHtml": "<a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>, <a href=\"https://orcid.org/0000-0003-2489-3918\" target=\"_blank\" rel=\"noopener noreferrer\">Eitan Tzelgov</a>, <a href=\"https://orcid.org/0000-0003-3168-9018\" target=\"_blank\" rel=\"noopener noreferrer\">Roi Zur</a>",

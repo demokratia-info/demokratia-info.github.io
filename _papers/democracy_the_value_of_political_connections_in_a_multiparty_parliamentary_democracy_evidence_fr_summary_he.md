@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל, וממקם את הדיון בתוך שאלות של ייצוג, אחריותיות, אמון ציבורי והוגנות כללי המשחק. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בבחירות, ייצוג פוליטי ופעולת מוסדות נבחרים בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nimrod David Lehrer",
   "paperTitle": "The value of political connections in a multiparty parliamentary democracy: Evidence from the 2015 elections in Israel",
   "authorsHtml": "Nimrod David Lehrer",

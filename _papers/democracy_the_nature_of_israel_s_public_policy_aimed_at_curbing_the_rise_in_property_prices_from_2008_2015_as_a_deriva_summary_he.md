@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את צעדי המדיניות שננקטו בישראל בשנים 2008-2015 כדי לבלום את עליית מחירי הדיור, וקושר אותם למבנה הממשל ולתפיסת העולם הכלכלית המקומית. תרומתו היא בטענה שממשל דמוקרטי חלש ובלתי יציב מעודד מדיניות המשרתת אינטרסים פוליטיים קצרי טווח.",
   "summaryHe": "המאמר בוחן את מדיניות הדיור בישראל בשנים 2008-2015, וטוען שמבנה ממשלי בלתי יציב הוביל למדיניות פוזיטיביסטית שמושפעת מאינטרסים של מעצבי המדיניות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Erez Cohen",
   "paperTitle": "The Nature of Israel's Public Policy Aimed at Curbing the Rise in Property Prices from 2008-2015, as a Derivative of the Country's Governance Structure",
   "authorsHtml": "<a href=\"https://cris.ariel.ac.il/en/persons/erez-cohen-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Erez Cohen</a>",

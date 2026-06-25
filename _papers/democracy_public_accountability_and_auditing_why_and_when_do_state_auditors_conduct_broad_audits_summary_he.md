@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אחריותיות ציבורית וביקורת המדינה, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית אחריותיות ציבורית וביקורת המדינה דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dana Natan Krup, Shlomo Mizrahi",
   "paperTitle": "Public accountability and auditing: Why and when do state auditors conduct broad audits?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6907-6327\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Natan Krup</a>, <a href=\"https://cris.haifa.ac.il/en/persons/shlomo-mizrahi\" target=\"_blank\" rel=\"noopener noreferrer\">Shlomo Mizrahi</a>",

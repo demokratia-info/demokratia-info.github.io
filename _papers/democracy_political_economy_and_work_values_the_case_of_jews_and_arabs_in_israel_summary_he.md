@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ערכי עבודה וכלכלה פוליטית בקרב יהודים וערבים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moshe Sharabi",
   "paperTitle": "Political economy and work values: the case of Jews and Arabs in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8570-8769\" target=\"_blank\" rel=\"noopener noreferrer\">Moshe Sharabi</a>",

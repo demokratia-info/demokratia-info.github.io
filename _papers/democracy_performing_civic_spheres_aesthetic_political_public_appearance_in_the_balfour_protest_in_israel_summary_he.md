@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח את מחאת בלפור כפרפורמנס אסתטי-פוליטי שבו חפצים, דמויות, סצנות והשתתפות גופנית בנו מרחבים אזרחיים שונים סביב ערכים דמוקרטיים.",
   "descriptionHe": "Daphna Ben-Shaul בוחנת את מחאת בלפור בישראל בשנים 2020-2021 כמופע ציבורי מתמשך נגד פגיעה בערכים דמוקרטיים. לפי התקציר, המחאה טשטשה את הגבול בין פעולה פוליטית לפרקטיקות אמנותיות, ויצרה כמה סוגים של מרחבים אזרחיים דרך הופעה, משחק והשתתפות.",
   "summaryHe": "המאמר מתמקד בהיבט החי והאסתטי של מחאת בלפור ליד מעון ראש הממשלה בירושלים. במקום לראות במחאה רק אוסף דרישות פוליטיות, הוא מראה כיצד הפעלה משותפת של חפצים, דמויות וסצנות יצרה צורות אזרחיות של התנגדות, שייכות ודמיון פוליטי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daphna Ben-Shaul",
   "paperTitle": "Performing civic spheres: aesthetic-political public appearance in the balfour protest in Israel",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/bensha\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Ben-Shaul</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין דמוקרטיה לצמיחה כלכלית במדגם רחב של מדינות, תוך שליטה במשתנים מוסדיים וחברתיים כגון תמ\"ג התחלתי, השכלה, ילודה ושלטון החוק.",
   "summaryHe": "המאמר מנתח פאנל של כ-100 מדינות בשנים 1960-1990 ובוחן את שיעורי הצמיחה של התמ\"ג הריאלי לנפש בשלוש תקופות. הממצא המרכזי המובא בנתונים הוא שלאחר שליטה במשתנים מרכזיים, ההשפעה הכוללת של דמוקרטיה על צמיחה חלשה ושלילית, בעוד ששלטון החוק קשור חיובית לצמיחה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Robert J. Barro",
   "paperTitle": "Democracy and growth",
   "authorsHtml": "<a href=\"https://barro.scholars.harvard.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Robert J. Barro</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על זהות דינמית בקרב אזרחים פלסטינים בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית זהות דינמית בקרב אזרחים פלסטינים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ilana Paul‐Binyamin",
   "paperTitle": "The dynamic dimension of identity in Palestinian citizens of Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5566-2763\" target=\"_blank\" rel=\"noopener noreferrer\">Ilana Paul‐Binyamin</a>",

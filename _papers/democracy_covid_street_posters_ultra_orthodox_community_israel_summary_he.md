@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח עשרים מודעות רחוב מתקופת הקורונה מצביע על שלושה שיחים: תמיכה רפואית, התנגדות להנחיות ופירוש תאולוגי של המגפה.",
   "descriptionHe": "המאמר בוחן כיצד מסרי קורונה הופצו בקהילה החרדית בישראל דרך פשקווילים כערוץ תקשורת מסורתי וקהילתי.",
   "summaryHe": "Sima Zalcberg-Block מנתחת 20 פשקווילים שנאספו בשנה הראשונה של מגפת הקורונה כדי להבין הפצת מסרי בריאות בקהילה החרדית בישראל. המחקר מזהה שיח רפואי תומך, שיח מתנגד להנחיות ושיח תאולוגי שמפרש את המגפה במונחי דת ומוסר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sima Zalcberg-Block",
   "paperTitle": "Messages dissemination regarding covid-19 by street posters: the case of the ultra-Orthodox community in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6551-1096\" target=\"_blank\" rel=\"noopener noreferrer\">Sima Zalcberg-Block</a>",

@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על דת ומדינה בישראל בין זהות יהודית לאופי דמוקרטי, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר משתמש בנתוני Religion and State כדי לבחון האם המעורבות הממשלתית בדת בישראל חריגה עד כדי ערעור אופייה הדמוקרטי. במקום להסתפק בשאלה זהותית כללית על “יהודית ודמוקרטית”, הוא משווה את דפוסי המעורבות הישראליים למתרחש בדמוקרטיות אחרות. המסקנה המרכזית מורכבת: עצם קיומם של הסדרים דתיים אינו שולל דמוקרטיה, אך רמת המעורבות, תחומיה והקשריה עדיין חשובים להבנת חירות, שוויון ותחרות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jonathan Fox, Jonathan Rynhold",
   "paperTitle": "A Jewish and Democratic State? Comparing Government Involvement in Religion in Israel with other Democracies",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-fox/\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Fox</a>; <a href=\"https://cris.biu.ac.il/en/persons/jonathan-rynhold\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Rynhold</a>",

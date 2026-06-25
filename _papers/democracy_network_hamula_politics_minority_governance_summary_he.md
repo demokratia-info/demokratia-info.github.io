@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן רשתות ממשל בקהילות מיעוט מסורתיות בישראל, ומתמקד ביחס בין ניהול רשתות, פוליטיקה ארגונית ופוליטיקה חמולתית. הוא מראה שדמוקרטיה מקומית אינה תלויה רק במבנה פורמלי, אלא גם בכוחות חברתיים שמעצבים אמון, ביצועים ושיתוף פעולה.",
   "summaryHe": "Mondey ו־Beeri בוחנים סקר בקרב 160 חברי רשתות ערביות בישראל, ומראים שפוליטיקה רשתית ופוליטיקה חמולתית משפיעות על הקשר בין ניהול רשתות לבין ביצועים נתפסים. הממצא מדגיש שהטמעת ממשל רשתות בקהילות מיעוט מצריכה הבנה של יחסי כוח חברתיים, מסורתיים ומקומיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ashwaq Mondey, Itai Beeri",
   "paperTitle": "The competing impact of network politics and hamula (clan) politics on perceived network performance: the case of minority networks",
   "authorsHtml": "Ashwaq Mondey; <a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית הטענה כי הפוטש החוקתי בישראל אינו חוקתי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית הטענה כי הפוטש החוקתי בישראל אינו חוקתי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alon Harel",
   "paperTitle": "Why the Israeli Constitutional Putsch is Unconstitutional",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/alon-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Harel</a>",

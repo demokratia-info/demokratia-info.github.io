@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח סעיפי הסבר בהצעות חוק פרטיות מראה כיצד המחאה החברתית עיצבה תגובות פרלמנטריות שהציגו ניאו־ליברליזם כשפה של היענות דמוקרטית.",
   "descriptionHe": "המאמר מנתח את תגובות השיח של חברי הכנסת למחאה החברתית בישראל ב-2011 דרך סעיפי הסבר בהצעות חוק פרטיות.",
   "summaryHe": "Amit Avigur-Eshel בוחן כיצד חברי כנסת הגיבו בשיח להצפת המחאה החברתית של 2011. לפי תקציר המאמר, אף שהמחאה השתמשה ברעיונות אנטי־ניאו־ליברליים, סעיפי ההסבר של הצעות חוק פרטיות כללו יותר רעיונות ושפה ניאו־ליברליים לאחר המחאה מאשר לפניה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amit Avigur-Eshel",
   "paperTitle": "More of the Same: Discursive Reactions of Members of Knesset to the 2011 ‘Social Protest’ in Israel",
   "authorsHtml": "<a href=\"https://ws.sapir.ac.il/lecturers/lectpage.php?id=8394\" target=\"_blank\" rel=\"noopener noreferrer\">Amit Avigur-Eshel</a>",

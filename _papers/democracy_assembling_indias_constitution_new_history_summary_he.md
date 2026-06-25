@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מציע היסטוריה חדשה של ניסוח חוקת הודו דרך מסמכים וקולות מחוץ לדיוני האספה המכוננת. הוא מדגיש את תפקידם של ציבור מגוון, עתירות וציפיות נורמטיביות בהתקבלות ובחוסן של החוקה.",
   "summaryHe": "De ו-Shani מסיטים את המחקר מן האליטה הפוליטית אל מסמכים שלא נחקרו דיים ואל מעורבות ציבורית רחבה. החוקה לא רק ניתנה מלמעלה, אלא התגבשה דרך פעולות רבות של התכנסות, פנייה וחינוך פוליטי מחוץ לאולם החוקתי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rohit De, Ornit Shani",
   "paperTitle": "Assembling India’s Constitution: Towards a New History",
   "authorsHtml": "<a href=\"https://history.yale.edu/people/rohit-de\" target=\"_blank\" rel=\"noopener noreferrer\">Rohit De</a>, <a href=\"https://cris.haifa.ac.il/en/persons/ornit-shani/\" target=\"_blank\" rel=\"noopener noreferrer\">Ornit Shani</a>",

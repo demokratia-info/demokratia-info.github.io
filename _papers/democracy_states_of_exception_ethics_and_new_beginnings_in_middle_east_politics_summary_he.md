@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מצב החריג, אתיקה והתחדשות פוליטית במזרח התיכון, עם דגש על גבולות כוח, חוקתיות ואחריות דמוקרטית.",
   "summaryHe": "המאמר של חאלד פוראני מציב את מצב החירום לא רק כמנגנון ביטחוני או משפטי, אלא כשאלה אתית על האפשרות להתחיל סדר פוליטי אחר. עבור דמוקרטיה ליברלית, נקודת המפתח היא שמצב חריג עלול להצדיק השעיית נורמות, אבל הוא גם חושף את הצורך לדון מחדש באחריות, חירות והגבלת כוח. לכן הקריאה בו חשובה במיוחד לחברות שבהן ביטחון, לאומיות וסמכות שלטונית נוטים להצטלב.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Khaled Furani",
   "paperTitle": "States of Exception, Ethics and New Beginnings in Middle East Politics",
   "authorsHtml": "<a href=\"https://cris.tau.ac.il/en/persons/khaled-furani/\" target=\"_blank\" rel=\"noopener noreferrer\">Khaled Furani</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הקשר בין אמון פוליטי לבין נכונות של תושבי הגדה המערבית לשאת בעלויות של מאבק אלים. על בסיס ראיונות עם 90 תושבים, הוא מתמקד בשישה נושאים: מאבק מזוין, דמוקרטיה וזכויות אדם, הקרע בין אש״ף לחמאס, רמת חיים, שחיתות ברשות הפלסטינית ואמון פוליטי.",
   "summaryHe": "Hitman, Shiri ו-Lewin מציעים להשתמש באמון פוליטי כנקודת מוצא להבנת תגובות חברתיות פלסטיניות. המחקר כולל ראיונות עם 90 תושבי הגדה המערבית ומתמקד בנושאים פוליטיים וחברתיים מרכזיים, ובהם דמוקרטיה וזכויות אדם, שחיתות ופיצול פוליטי. התרומה היא בהעברת הדיון מניבוי ביטחוני כללי לבחינת תנאי האמון שמעצבים נכונות להקרבה ולפעולה קולקטיבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gadi Hitman, Igal Shiri, Eyal Lewin",
   "paperTitle": "Palestinian society in the West Bank: trust and self-sacrifice",
   "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>; Igal Shiri; <a href=\"https://orcid.org/0000-0001-5461-6634\" target=\"_blank\" rel=\"noopener noreferrer\">Eyal Lewin</a>",

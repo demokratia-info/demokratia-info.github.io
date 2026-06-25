@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מפתח מודל סחר צפון-דרום כדי לבחון כיצד חיזוק זכויות קניין רוחני במדינות מתפתחות משפיע על חברות רב־לאומיות, העברת טכנולוגיה וצמיחה. מבחינה דמוקרטית, הוא מדגיש שהגנה על חדשנות צריכה להיבחן יחד עם גישה לטכנולוגיה, פערי שכר ופיתוח מכליל.",
   "summaryHe": "לפי תקציר RePEc למאמר ב־Journal of Development Economics, המודל כולל חברות בצפון שממציאות מוצרים איכותיים יותר, חברות רב־לאומיות שמעבירות ייצור לדרום, וחברות דרומיות שמחקות מוצרים. חיזוק קניין רוחני בדרום, ובפרט אימוץ ויישום הסכם TRIPs, מוביל במודל לעלייה קבועה בהעברת טכנולוגיה בתוך חברות רב־לאומיות, לעלייה קבועה בתעסוקת מחקר ופיתוח בשלוחות דרומיות, לירידה קבועה בפער השכר צפון-דרום ולעלייה זמנית בקצב החדשנות בצפון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Elias Dinopoulos, Paul Segerstrom",
   "paperTitle": "Intellectual property rights, multinational firms and economic growth",
   "authorsHtml": "<a href=\"https://people.clas.ufl.edu/dinopoe/\" target=\"_blank\" rel=\"noopener noreferrer\">Elias Dinopoulos</a>; <a href=\"https://orcid.org/0000-0002-8516-1908\" target=\"_blank\" rel=\"noopener noreferrer\">Paul Segerstrom</a>",

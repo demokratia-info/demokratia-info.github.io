@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית הרפורמה המשפטית ובריאות הציבור כעניין דמוקרטי דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shelly Kamin-Friedman; Hagai Levine; Nadav Davidovitch; Aron M Troen; Y Tony Yang",
   "paperTitle": "Israel's judicial overhaul: a threat to the Health in All Policies approach",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8870-4760\" target=\"_blank\" rel=\"noopener noreferrer\">Shelly Kamin-Friedman</a>; <a href=\"https://orcid.org/0000-0002-5597-4916\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Levine</a>; <a href=\"https://orcid.org/0000-0001-5709-9265\" target=\"_blank\" rel=\"noopener noreferrer\">Nadav Davidovitch</a>; <a href=\"https://orcid.org/0000-0001-9738-2524\" target=\"_blank\" rel=\"noopener noreferrer\">Aron M Troen</a>; <a href=\"https://orcid.org/0000-0002-0155-8490\" target=\"_blank\" rel=\"noopener noreferrer\">Y Tony Yang</a>",

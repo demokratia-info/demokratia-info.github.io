@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אקטיביזם חברתי נגד דה-חילון בחינוך הממלכתי הלא-דתי בישראל דרך עדשה של תנועות חברתיות. הוא מתמקד באופן שבו פעילים ממסגרים את הבעיה, מתארגנים ופועלים בזירה המקומית כדי להגן על עקרונות חילוניים בחינוך הציבורי.",
   "summaryHe": "German Ben-Hayun ו-Berkovich ערכו מחקר איכותני המבוסס על ראיונות עומק עם פעילים חברתיים בין נובמבר 2022 למרץ 2023. המחקר מצא מסגור אבחוני של דה-חילון כמניפולטיבי ולא אתי, מסגור פתרונות המבוסס על זכויות וחלופות חינוכיות, ושימוש בארגון קהילתי ובתקשורת בעיקר בזירה המקומית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Shiran German Ben-Hayun, Izhak Berkovich",
   "paperTitle": "Social activism against the desecularization of non-religious state education in Israel: a social movement lens",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7919-9451\" target=\"_blank\" rel=\"noopener noreferrer\">Shiran German Ben-Hayun</a>, <a href=\"https://orcid.org/0000-0001-5710-3666\" target=\"_blank\" rel=\"noopener noreferrer\">Izhak Berkovich</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית אזרחות כמסכה בהשוואה בין צרפת לישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית אזרחות כמסכה בהשוואה בין צרפת לישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Leora Bilsky",
   "paperTitle": "Muslim headscarves in France and army uniforms in Israel: a comparative study of citizenship as mask",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4357-3696\" target=\"_blank\" rel=\"noopener noreferrer\">Leora Bilsky</a>",

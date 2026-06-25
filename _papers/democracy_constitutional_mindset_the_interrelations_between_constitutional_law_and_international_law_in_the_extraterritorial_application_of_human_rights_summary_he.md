@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חוקתי או בין־לאומי? זכויות אדם מעבר לגבולות המדינה, עם דגש על דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.",
   "summaryHe": "המאמר בוחן את החלת זכויות האדם מעבר לגבולות המדינה באמצעות השוואה בין המודל האמריקאי, האירופי והישראלי. הוא מראה שהבחירה בין משפט חוקתי לבין משפט בין־לאומי אינה טכנית בלבד: היא מעצבת את היקף הזכויות, את היחס בין המדינה לשטח שבו היא פועלת, ואת האופן שבו בתי משפט מתמודדים עם אזורים משפטיים אפורים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Smadar Ben-Natan",
   "paperTitle": "Constitutional Mindset: The Interrelations between Constitutional Law and International Law in the Extraterritorial Application of Human Rights",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/smadar1\" target=\"_blank\" rel=\"noopener noreferrer\">Smadar Ben-Natan</a>",

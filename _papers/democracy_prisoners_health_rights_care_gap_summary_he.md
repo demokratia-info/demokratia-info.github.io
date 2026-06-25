@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את החקיקה והנהלים בישראל לגבי זכויות אדם וגישה לשירותי בריאות של אסירים. הוא מדגיש פער בין ההסדרים הפורמליים של שירות בתי הסוהר לבין מימושם בפועל.",
   "summaryHe": "Einat, Parchev, Litvin, Michaeli ו־Zelikovitz מציבים את זכויות האסירים כמבחן לליברליות של דמוקרטיה. חסר בישראל כלי פרגמטי שמיועד להגן ולשמר את זכויות האדם הבסיסיות של אסירים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tomer Einat, Ofer Parchev, Anat Litvin, Niv Michaeli, Gila Zelikovitz",
   "paperTitle": "Who Knows Who Cares for Me",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/tomer-einat/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Einat</a>; <a href=\"https://orcid.org/0000-0003-4644-6799\" target=\"_blank\" rel=\"noopener noreferrer\">Ofer Parchev</a>; Anat Litvin; <a href=\"https://orcid.org/0000-0003-3069-7884\" target=\"_blank\" rel=\"noopener noreferrer\">Niv Michaeli</a>; Gila Zelikovitz",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את הסכמי הגג ככלי שבו המדינה מממנת תשתיות מקומיות מהכנסות שיווק קרקע, תמורת הסכמה עירונית לבנייה רחבת היקף.",
   "summaryHe": "המאמר של Sharon Eshel, Oren Yiftachel ו-Talia Margalit בוחן את הסכמי הגג שנחתמו עם 32 רשויות בישראל בין 2013 ל-2019. הוא טוען שההסכמים העבירו את היגיון \"עסקאות התכנון\" מן העיר אל קנה המידה הלאומי, חיזקו שליטה מדינתית בקרקע ובתכנון לצורך פיתוח דיור פרטי, והחלישו שיקולים דמוקרטיים, מקצועיים וחברתיים בתכנון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Sharon Eshel, Oren Yiftachel, Talia Margalit",
   "paperTitle": "Rescaling and Transforming: “Umbrella Agreements,” Planning Deals, and the Israeli Planning Regime",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9667-8240\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Eshel</a>, <a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>, <a href=\"https://english.tau.ac.il/profile/taliamar\" target=\"_blank\" rel=\"noopener noreferrer\">Talia Margalit</a>",

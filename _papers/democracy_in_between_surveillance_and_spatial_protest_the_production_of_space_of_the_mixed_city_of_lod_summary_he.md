@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על לוד כעיר מעורבת, מנגנוני מעקב, תכנון מרחבי ומחאה מרחבית פלסטינית.",
   "summaryHe": "המאמר מנתח את ייצור המרחב בלוד דרך המושגים של אנרי לפבר, ומראה כיצד מדיניות תכנון, הפרדה, תשתיות ומעקב מעצבות את חיי התושבים הפלסטינים ואת אפשרויות ההתנגדות שלהם.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Haim Yacobi",
   "paperTitle": "In-Between Surveillance and Spatial Protest: the Production of Space of the 'Mixed City' of Lod?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0758-8594\" target=\"_blank\" rel=\"noopener noreferrer\">Haim Yacobi</a>",

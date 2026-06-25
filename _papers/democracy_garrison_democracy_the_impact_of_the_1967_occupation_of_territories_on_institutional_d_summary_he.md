@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון לאומי, שליטה בשטחים והיחס בין כוח שלטוני לשלטון החוק, וממקם את הדיון בתוך שאלות של פיקוח על כוח, זכויות, אחריות שלטונית וגבולות חירום. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בביטחון לאומי, שליטה בשטחים והיחס בין כוח שלטוני לשלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alon Pinkas",
   "paperTitle": "Garrison Democracy: The Impact of the 1967 Occupation of Territories on Institutional Democracy in Israel",
   "authorsHtml": "Alon Pinkas",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פוליטיקת בריתות ומחאה בקואליציות רב־אתניות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית פוליטיקת בריתות ומחאה בקואליציות רב־אתניות דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Devorah S. Manekin, Tamar Mitts, Yael Zeira",
   "paperTitle": "The politics of allyship: Multiethnic coalitions and mass attitudes toward protest",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5651-3396\" target=\"_blank\" rel=\"noopener noreferrer\">Devorah S. Manekin</a>, <a href=\"https://polisci.columbia.edu/content/tamar-mitts\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Mitts</a>, <a href=\"https://orcid.org/0000-0003-2809-5956\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Zeira</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד פיקוח המדינה על שירותי רווחה לנערות ערביות־פלסטיניות בישראל פועל בתוך הקשר של סכסוך לאומי, יחסי רוב־מיעוט ואי־שוויון חברתי־פוליטי.",
   "summaryHe": "המחקר מצא שמדיניות רווחה אוניברסלית ועיוורת להבדלי לאום ומגדר מקשה על פקחים להבטיח שירותים מתאימים לנערות ערביות־פלסטיניות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Lia Levin, Haneen Karram-Elias, Shira Pagorek-Eshel, Raghda Alnabilsy",
   "paperTitle": "State inspection in contexts of cultural and sociopolitical conflict: The case of social services offered to Arab-Palestinian young women in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4337-6265\" target=\"_blank\" rel=\"noopener noreferrer\">Lia Levin</a>, Haneen Karram-Elias, <a href=\"https://orcid.org/0000-0003-1380-2638\" target=\"_blank\" rel=\"noopener noreferrer\">Shira Pagorek-Eshel</a>, <a href=\"https://orcid.org/0000-0002-5326-6051\" target=\"_blank\" rel=\"noopener noreferrer\">Raghda Alnabilsy</a>",

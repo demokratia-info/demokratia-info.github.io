@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם תהליכי בחירת מועמדים דמוקרטיים יותר בתוך מפלגות בישראל קשורים למעורבות פוליטית של אזרחים, מעבר לעצם ההצבעה או הפעילות המפלגתית.",
   "summaryHe": "המחקר משלב נתוני סקרי INES משבע מערכות בחירות בישראל בשנים 1996-2015 עם נתונים על שיטות בחירת מועמדים במפלגות. הוא מוצא שתהליכים מכילים יותר קשורים לרמות גבוהות יותר של עניין ומעורבות פוליטית, אך אינם מתורגמים לעלייה בהצבעה או בפעילות מפלגתית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gert-Jan Put, Yael Shomer",
   "paperTitle": "Are Citizens More Politically Engaged when Candidate Selection is Democratic? Analysis of Seven Parliamentary Election Cycles in Israel (1996–2015)",
   "authorsHtml": "<a href=\"https://soc.kuleuven.be/io/personeel/staf/00056161\" target=\"_blank\" rel=\"noopener noreferrer\">Gert-Jan Put</a>, <a href=\"https://people.socsci.tau.ac.il/mu/yshomer/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Shomer</a>",

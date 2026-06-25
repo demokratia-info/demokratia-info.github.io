@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני עם בני ובנות 55 ומעלה מתאר בדידות, פחד מאפליה וסכנה של חזרה לארון בגיל מבוגר.",
   "descriptionHe": "המאמר בוחן צרכים, חוויות ותקוות של מבוגרים להט״בים בישראל ביחס להזדקנות, סוף חיים ותמיכה חברתית.",
   "summaryHe": "Daniel Sperling מנתח 21 ראיונות עומק עם חברי וחברות קהילות להט״ב בישראל בני 55 ומעלה. המחקר מצביע על בדידות, גילנות, יחסים משפחתיים מורכבים ופחד מאפליה במוסדות טיפול ודיור, אך גם על אפשרות לדמיין הזדקנות קווירית כבעלת תקווה ויצירתיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Daniel Sperling",
   "paperTitle": "Needs, Experiences, and Hopes for Aging Futures among Older Adults in the LGBTQ Communities: A Qualitative Study in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4371-7736\" target=\"_blank\" rel=\"noopener noreferrer\">Daniel Sperling</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "הפרק משתמש במקרה נתניהו כדי לבחון כיצד אחריות ציבורית, אחריות משפטית ושלטון החוק נפגשים כאשר ראש הרשות המבצעת נתון להליך פלילי.",
   "descriptionHe": "מרדכי קרמניצר ודנה בלנדר מנתחים את אחריותם של נבחרי ציבור בכירים ברשות המבצעת דרך מקרה נתניהו, ואת המתח בין מנדט פוליטי לבין נורמות של אמון ציבורי ושלטון החוק.",
   "summaryHe": "הפרק מציב את מקרה נתניהו כמבחן למערכת דמוקרטית שבה נבחר ציבור בכיר מחזיק במנדט פוליטי אך כפוף גם לאמות מידה ציבוריות ומשפטיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "מרדכי קרמניצר ודנה בלנדר",
   "paperTitle": "Public and Legal Responsibility of Senior Elected Representatives in the Executive Branch",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>; <a href=\"https://en.idi.org.il/experts/2177\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Blander</a>",

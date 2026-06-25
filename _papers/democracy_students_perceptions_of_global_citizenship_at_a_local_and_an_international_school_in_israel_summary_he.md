@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין תפיסות תלמידים לגבי אזרחות גלובלית בבית ספר ציבורי מקומי ובבית ספר בינלאומי בישראל, בתוך הקשר של חברה הנתונה בסכסוך מתמשך.",
   "summaryHe": "המחקר מצא שתלמידים משני סוגי בתי הספר תיארו אזרחות גלובלית באופן דומה, אף שהם לומדים במסגרות חינוכיות שונות מאוד ובתכניות לימודים שונות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Miri Yemini, Shira Furstenburg",
   "paperTitle": "Students’ perceptions of global citizenship at a local and an international school in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5633-6473\" target=\"_blank\" rel=\"noopener noreferrer\">Miri Yemini</a>; Shira Furstenburg",

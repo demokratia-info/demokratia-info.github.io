@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מודל צמיחה שבו זכויות קניין משתנות מתוך המאבק של קבוצות אינטרס על גישה להון. הוא מראה כיצד מוסדות קניין יכולים לתמוך בצמיחה, להישחק, או להשאיר כלכלה במלכודת צמיחה נמוכה.",
   "summaryHe": "המאמר מציג מודל ניאו־קלאסי שבו קניין משותף וקניין פרטי אינם נתונים קבועים אלא משטרים שמתחלפים בעקבות תמריצים של קבוצות מחפשות־רנטה. המעבר לקניין פרטי מתרחש כאשר הכלכלה עשירה מספיק כדי להצדיק השקעה במוסדות שמגינים על רווחים פרטיים, אך עושר גבוה יותר עלול להפוך חיפוש רנטות לרווחי ולשחוק את אותם מוסדות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Aaron Tornell",
   "paperTitle": "Economic Growth and Decline with Endogenous Property Rights",
   "authorsHtml": "<a href=\"https://economics.ucla.edu/person/aaron-tornell/\" target=\"_blank\" rel=\"noopener noreferrer\">Aaron Tornell</a>",

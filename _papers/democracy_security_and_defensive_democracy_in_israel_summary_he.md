@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ביטחון ודמוקרטיה מתגוננת בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ביטחון ודמוקרטיה מתגוננת בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sharon Weinblum",
   "paperTitle": "Security and Defensive Democracy in Israel",
   "authorsHtml": "Sharon Weinblum",

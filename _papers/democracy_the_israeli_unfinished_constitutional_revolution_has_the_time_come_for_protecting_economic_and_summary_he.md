@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות כלכליות וחברתיות במהפכה החוקתית שלא הושלמה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yoram Rabin; Yuval Shany",
   "paperTitle": "The Israeli Unfinished Constitutional Revolution: Has the Time Come for Protecting Economic and Social Rights?",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3058-058X\" target=\"_blank\" rel=\"noopener noreferrer\">Yoram Rabin</a>, <a href=\"https://en.law.huji.ac.il/people/yuval-shany\" target=\"_blank\" rel=\"noopener noreferrer\">Yuval Shany</a>",

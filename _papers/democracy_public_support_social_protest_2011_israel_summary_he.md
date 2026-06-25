@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על מחאת קיץ 2011 בישראל בוחן כיצד מסגור פעולה קולקטיבית, שחרור קוגניטיבי והזדמנות פוליטית מסבירים תמיכה ציבורית במחאה.",
   "descriptionHe": "המאמר מנתח תמיכה ציבורית במחאה החברתית בישראל ב-2011 דרך מסגור אי־צדק, תחושת יכולת פעולה ותפיסת הזדמנות פוליטית.",
   "summaryHe": "Eran Zaidise, Shosh Shahrabani, Assaf Gal ו-Uri Ben-Zion מנתחים תמיכה ציבורית במחאת קיץ 2011 בישראל. לפי התקציר הזמין, המחקר התמקד בשתי דגימות של סטודנטים ומשתתפי מחאה, ובחן כיצד דאגה מאי־צדק חברתי ואמונה באחריות הממשלה קשורות לתמיכה במחאה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eran Zaidise, Shosh Shahrabani, Assaf Gal, Uri Ben-Zion",
   "paperTitle": "Understanding public support for social protest: testing collective action frames, cognitive liberation and political opportunity in the Israeli 2011 summer protest",
   "authorsHtml": "<a href=\"https://eranzaidise.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Zaidise</a>, <a href=\"https://ric.org.il/researcher/shosh-shahrabani/\" target=\"_blank\" rel=\"noopener noreferrer\">Shosh Shahrabani</a>, Assaf Gal, <a href=\"https://cris.bgu.ac.il/en/persons/uri-ben-zion/\" target=\"_blank\" rel=\"noopener noreferrer\">Uri Ben-Zion</a>",

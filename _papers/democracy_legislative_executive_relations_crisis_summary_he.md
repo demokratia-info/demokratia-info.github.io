@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של אסנת עקירב בוחן כיצד מאז 2019 השתנו יחסי הכנסת והממשלה בישראל, וכיצד התחזקות הרשות המבצעת החלישה את יכולת הפיקוח הפרלמנטרית.",
   "summaryHe": "המאמר מראה כיצד משבר פוליטי ומשפטי סביב נתניהו, ולאחר מכן תקופת המלחמה, העבירו כוח מן הכנסת אל הממשלה והותירו את בית המשפט העליון כבלם מרכזי אך לא תמיד מספיק.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "אסנת עקירב",
   "paperTitle": "Legislative-Executive Relations in Israel: Constitutional Crisis 2023-2024",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/osnat-akirav/\" target=\"_blank\" rel=\"noopener noreferrer\">Osnat Akirav</a>",

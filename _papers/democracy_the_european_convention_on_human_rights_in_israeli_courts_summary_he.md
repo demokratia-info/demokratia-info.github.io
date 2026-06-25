@@ -10,6 +10,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על השימוש של בתי משפט בישראל באמנה האירופית לזכויות אדם ובפסיקת בית הדין האירופי כמקורות למשפט משווה.",
   "summaryHe": "המאמר בוחן כיצד בתי משפט בישראל מפנים לאמנה האירופית לזכויות אדם ולפסיקת בית הדין האירופי, ומראה שהשימוש בהן אינו רק מרחיב הגנה על זכויות אלא גם עשוי להצדיק שיקול דעת רחב למדינה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Tamar Hostovsky Brandes, Natalie R. Davidson",
   "paperTitle": "The European Convention on Human Rights in Israeli Courts",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>; <a href=\"https://orcid.org/0000-0003-0698-5843\" target=\"_blank\" rel=\"noopener noreferrer\">Natalie R. Davidson</a>",

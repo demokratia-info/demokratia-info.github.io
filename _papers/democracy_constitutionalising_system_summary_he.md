@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם המחאה והמשבר סביב הרפורמה המשפטית בישראל יכולים להיחשב רגע חוקתי, ומה נדרש כדי להפוך משבר כזה לתהליך חוקתי ממשי.",
   "summaryHe": "מנאל תותרי-ג'ובראן טוענת שיש לנתח את האירועים בישראל בתוך הקשר רחב של תהליכים חברתיים, משפטיים ופוליטיים שהתרחשו בעשורים האחרונים. המאמר מציע לחשוב על 'חוקתיות' המערכת החוקתית בישראל לא כרגע בודד של מחאה, אלא כתהליך שמושפע ממבנה חוקי היסוד, מתנועות חברתיות ומכוחות ציבוריים רחבים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "מנאל תותרי-ג'ובראן",
   "paperTitle": "Constitutionalising Israel's Constitutional System",
   "authorsHtml": "<a href=\"https://law.biu.ac.il/en/node/3499\" target=\"_blank\" rel=\"noopener noreferrer\">Manal Totry-Jubran</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד אמונות דתיות וקיטוב בין אליטות פוליטיות קשורים לפער מפלגתי בעמדות הציבור האמריקני כלפי ישראל. הוא חשוב להבנת דמוקרטיה משום שהוא מראה כיצד מדיניות חוץ יכולה להפוך לזירה של זהות מפלגתית, רמזי אליטות ועמדות ציבור מקוטבות.",
   "summaryHe": "Amnon Cavari מנתח את הפער המפלגתי בדעת הקהל האמריקנית כלפי ישראל דרך שילוב של אמונות דתיות, התיישרות מפלגתית וקיטוב בין אליטות. המאמר מציע להבין תמיכה במדיניות חוץ לא רק כתגובה לאירועים בינלאומיים, אלא גם כתוצר של מבנה פוליטי פנימי ושל זהויות חברתיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amnon Cavari",
   "paperTitle": "Religious Beliefs, Elite Polarization, and Public Opinion on Foreign Policy: The Partisan Gap in American Public Opinion Toward Israel",
   "authorsHtml": "<a href=\"https://lsa.umich.edu/qmss/people/faculty/AmnonCavari.html\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>",

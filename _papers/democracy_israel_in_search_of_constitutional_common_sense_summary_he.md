@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את המחלוקת בישראל סביב עילת הסבירות, אקטיביזם שיפוטי והיעדר חוקה מלאה, ומעריך את השלכות ביטול העילה על ביקורת מינהלית והגנה על זכויות.",
   "summaryHe": "המאמר טוען שהשימוש הרחב בעילת הסבירות קשור לחסר חוקתי בישראל, אך שביטולה בחקיקה עלול להחליש את ההגנה השיפוטית על זכויות ואת הפיקוח על השלטון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Paweł Sadowski",
   "paperTitle": "Israel - In Search of Constitutional Common Sense",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9480-643X\" target=\"_blank\" rel=\"noopener noreferrer\">Paweł Sadowski</a>",

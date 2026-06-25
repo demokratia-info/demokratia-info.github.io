@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית, וממקם את הדיון בתוך שאלות של יכולת מחלוקת דמוקרטית, אמון הדדי וחופש ביטוי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בדעת קהל, שיח ציבורי, קיטוב ואלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Helena Desivilya Syna",
   "paperTitle": "The paradox of tolerance? ‘In situ’ alerts from Israel on hyper‐polarization and threatened democracy",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3481-6003\" target=\"_blank\" rel=\"noopener noreferrer\">Helena Desivilya Syna</a>",

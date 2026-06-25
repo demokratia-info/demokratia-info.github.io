@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד ייצוג פוליטי תיאורי וסמלי קשור לשביעות רצון של תושבים משירותים ציבוריים עירוניים. במקרה של חיפה, הממצאים מדגישים שייצוג סמלי עשוי להיות חשוב במיוחד להבנת חווייתם של אזרחים בכלל ושל מיעוטים בפרט.",
   "summaryHe": "Forman-Rabinovici ו-Beeri מחברים בין תאוריות של דמוקרטיה מקומית לבין חוויית השירות הציבורי היומיומי. הם משתמשים בסקר תושבים בחיפה כדי לבחון כיצד ייצוג תיאורי וייצוג סמלי משפיעים על שביעות רצון משירותים. הממצא המרכזי הוא שמעבר להרכב הנבחרים, התחושה שמוסדות מייצגים ומכירים בקבוצה יכולה להשפיע ישירות וגם דרך תחושות רחבות יותר כלפי השלטון.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aliza Forman‐Rabinovici, Itai Beeri",
   "paperTitle": "Descriptive and Symbolic: The Connection Between Political Representation and Citizen Satisfaction with Municipal Public Services",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2459-972X\" target=\"_blank\" rel=\"noopener noreferrer\">Aliza Forman‐Rabinovici</a>; <a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>",

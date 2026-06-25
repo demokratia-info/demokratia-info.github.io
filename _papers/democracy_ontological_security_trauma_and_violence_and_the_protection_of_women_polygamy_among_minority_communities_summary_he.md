@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מדיניות המדינה כלפי פוליגמיה בקהילה הבדואית בנגב משלבת הגנה על נשים עם נרטיבים של ביטחון אונטולוגי, זהות, שייכות ושליטה במיעוט.",
   "summaryHe": "Harel-Shalev ו-Kook מנתחות מדיניות וראיונות קבוצתיים עם 32 נשים כדי להראות את הפער בין מנגנוני ההגנה שמקדמת המדינה לבין האופן שבו נשים חוות פוליגמיה, אלימות, חוסר ביטחון וזהות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ayelet Harel‐Shalev, Rebecca Kook",
   "paperTitle": "Ontological Security, Trauma and Violence, and the Protection of Women: Polygamy Among Minority Communities",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/researcher/ayelet-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Harel‐Shalev</a>; <a href=\"https://cris.bgu.ac.il/en/persons/becky-kook/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebecca Kook</a>",

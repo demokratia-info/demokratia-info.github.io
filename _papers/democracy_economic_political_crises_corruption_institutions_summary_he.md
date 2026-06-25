@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד משברים כלכליים ופוליטיים משפיעים על שחיתות, והאם מוסדות חזקים מסוגלים לבלום אותה. הוא חשוב לדמוקרטיה מפני שבמשבר הפיתוי לעקוף כללים גדל, והיכולת לשמור על אחריות ציבורית נבחנת בזמן אמת.",
   "summaryHe": "המאמר משתמש בנתוני V-Dem עבור יותר מ־130 מדינות לאורך התקופה 1800-2020 כדי לבדוק את הקשר בין משברים, איכות מוסדית ושחיתות. מוסדות חזקים יכולים להגביל שחיתות במצבים מסוימים כמו אלימות פוליטית ואזרחית או האטה כלכלית, אך ההשפעה נחלשת או נעלמת בסוגי משבר אחרים כמו התמוטטות דמוקרטית, הפיכות, מלחמות ומשברי מטבע, אינפלציה או חוב. מבחינה דמוקרטית, המאמר מזכיר שמוסדות אינם קישוט של שגרה; הם קו ההגנה כאשר פחד, לחץ וכסף ציבורי מרוכזים בידי בעלי כוח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Shrabani Saha, Kunal Sen",
   "paperTitle": "Do economic and political crises lead to corruption? The role of institutions",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6729-3811\" target=\"_blank\" rel=\"noopener noreferrer\">Shrabani Saha</a>; <a href=\"https://research.manchester.ac.uk/en/persons/kunal-sen\" target=\"_blank\" rel=\"noopener noreferrer\">Kunal Sen</a>",

@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Yaacov B. Yablon מתאר תוכנית בת שלושה חודשים שבה תקשורת אינטרנטית שימשה בסיס למפגשים בין נוער יהודי ישראלי לבין נוער ערבי. התוכנית עסקה בשוויון, דמוקרטיה, סובלנות ושלום בתוך מציאות של סכסוך מתמשך.",
   "summaryHe": "המאמר מראה כיצד טכנולוגיה יכולה ליצור מרחב קשר כאשר מפגש פיזי בין קבוצות סכסוך מוגבל או טעון. מבחינה דמוקרטית, החשיבות היא ביכולת לבנות שיחה אזרחית על שוויון וסובלנות גם כאשר המציאות היומיומית מצמצמת הזדמנויות לכך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaacov B. Yablon",
   "paperTitle": "Feeling close from a distance: Peace encounters via Internet technology",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/yaacov-yablon/\" target=\"_blank\" rel=\"noopener noreferrer\">Yaacov B. Yablon</a>",

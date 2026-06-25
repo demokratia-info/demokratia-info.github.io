@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד ישראל ניהלה את מגפת הקורונה ואת מדיניות הכניסה וההגירה בתקופה של משבר חוקתי בין פברואר ליולי 2020. הוא רלוונטי לדמוקרטיה משום שהוא מצביע על המתח בין סמכויות חירום, פיקוח פרלמנטרי והגנה על זכויות מהגרים, פליטים ומשפחות.",
   "summaryHe": "המאמר מנתח את מדיניות הקורונה בישראל כלפי כניסה, הגירה וזכויות מהגרים בזמן משבר חוקתי, ומתמקד בחודשים פברואר-יולי 2020.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "טלי קריצמן-אמיר",
   "paperTitle": "Flattening the Curve, Constitutional Crisis and Immigrants' Rights Protections: The Case of Israel",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/tally-kritzman-amir\" target=\"_blank\" rel=\"noopener noreferrer\">Tally Kritzman-Amir</a>",

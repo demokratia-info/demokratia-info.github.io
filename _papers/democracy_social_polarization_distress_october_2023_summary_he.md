@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד קווי קיטוב בתוך החברה היהודית בישראל קשורים לתגובות מצוקה לאחר מתקפת חמאס ב־7 באוקטובר 2023. הוא משתמש במדגם של 2,002 משיבים כדי להראות שקיטוב חברתי הוא גם אתגר נפשי וגם איום על סולידריות דמוקרטית.",
   "summaryHe": "Eshel, Kimhi, Marciano ו־Adini מנתחים שלושה ממדי קיטוב: מוצא אתני, תמיכה בממשלה ורמת דתיות. הממצא המרכזי הוא שעמדה בתוך קווי החלוקה האלה קשורה בעקביות לרמות מצוקה שונות לאחר הטראומה המלחמתית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yohanan Eshel, Shaul Kimhi, Hadas Marciano, Bruria Adini",
   "paperTitle": "Social polarization and distress responses to the october 2023 Hamas invasion of Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/yohanan-eshel/\" target=\"_blank\" rel=\"noopener noreferrer\">Yohanan Eshel</a>; <a href=\"https://reswell.tau.ac.il/shaul-kimhi\" target=\"_blank\" rel=\"noopener noreferrer\">Shaul Kimhi</a>; <a href=\"https://reswell.tau.ac.il/H_Marciano\" target=\"_blank\" rel=\"noopener noreferrer\">Hadas Marciano</a>; <a href=\"https://cris.tau.ac.il/en/persons/bruria-adini/\" target=\"_blank\" rel=\"noopener noreferrer\">Bruria Adini</a>",

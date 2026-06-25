@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר דן בשאלות אתיות שהתעוררו כאשר אנשי מילואים מתנדבים בישראל השעו שירות מול מה שנתפס כניסיון לשנות את אופייה הדמוקרטי של המדינה.",
   "summaryHe": "המאמר בוחן האם השעיית שירות מילואים התנדבותי יכולה להיות מוצדקת מוסרית, אתית ודמוקרטית כאשר המשרתים רואים במהלכי הממשלה פגיעה ביסודות המשטר הדמוקרטי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Asa Kasher",
   "paperTitle": "Suspending Voluntary Reserve Service: New Questions in Israeli Military Ethics",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/kasher\" target=\"_blank\" rel=\"noopener noreferrer\">Asa Kasher</a>",

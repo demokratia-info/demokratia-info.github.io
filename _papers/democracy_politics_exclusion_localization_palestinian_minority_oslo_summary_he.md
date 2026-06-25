@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על השפעת הסכמי אוסלו על הפוליטיקה של המיעוט הפלסטיני בישראל ועל המעבר למאבק מקומי לזכויות מיעוט וצדק בתוך ישראל.",
   "summaryHe": "המאמר שואל כיצד השפיעו הסכמי אוסלו על המיעוט הפלסטיני־ערבי בישראל, שלא זכה למסלול ביטוי או הכרה במסגרת ההסכמים. הוא טוען שאוסלו האיץ תהליך כפול: לוקליזציה של המאבק לזכויות וצדק בתוך ישראל, לצד תמיכה גלויה יותר בזכויות הלאומיות הפלסטיניות ובהגדרה עצמית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mansour Nasasra",
   "paperTitle": "The Politics of Exclusion and Localization: The Palestinian Minority in Israel and the Oslo Accords",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/mansour-nasasra/\" target=\"_blank\" rel=\"noopener noreferrer\">Mansour Nasasra</a>",

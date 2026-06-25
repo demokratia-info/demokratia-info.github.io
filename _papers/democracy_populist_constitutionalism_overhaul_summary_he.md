@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "ניתוח ההפיכה המשפטית בישראל כפרויקט חוקתי פופוליסטי, על רקע חולשות מוסדיות שמקלות על ריכוז כוח שלטוני.",
   "summaryHe": "המאמר טוען שההפיכה המשפטית בישראל אינה שינוי מוסדי נקודתי בלבד, אלא פרויקט חוקתי פופוליסטי שמאיים על בלמים, איזונים וביקורת שיפוטית.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "יניב רוזנאי, עמיחי כהן",
   "paperTitle": "Populist Constitutionalism and the Judicial Overhaul in Israel",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>; <a href=\"https://en.idi.org.il/experts/1491\" target=\"_blank\" rel=\"noopener noreferrer\">Amichai Cohen</a>",

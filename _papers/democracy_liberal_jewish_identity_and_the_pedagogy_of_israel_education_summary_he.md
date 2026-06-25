@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד חינוך על ישראל יכול להעמיק זהות יהודית ליברלית כאשר זהות מובנת כמחויבות אתית ולא רק כמדד פסיכולוגי או סוציולוגי.",
   "summaryHe": "המאמר מתבסס על ראיונות עם עשרים מחנכי ישראל בולטים מארבע מדינות, וטוען שחינוך על ישראל יכול לסייע לתלמידים לפתח זהות יהודית אתית ועבה יותר ממקורות יהודיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Benji Davis, Hanan Alexander",
   "paperTitle": "Liberal Jewish identity and the pedagogy of Israel education",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0003-8046-4859\" target=\"_blank\" rel=\"noopener noreferrer\">Benji Davis</a>, <a href=\"https://orcid.org/0000-0001-9667-7873\" target=\"_blank\" rel=\"noopener noreferrer\">Hanan Alexander</a>",

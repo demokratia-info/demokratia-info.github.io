@@ -7,6 +7,7 @@
   "subtitleHe": "סקר של יותר מ־500 משתתפים מצא תמיכה רחבה בשילוב איכות שירותים, מרחב ירוק ואיכות אוויר בשיקולי מס רכוש.",
   "descriptionHe": "המאמר בוחן תפיסות של הוגנות כלפי מס הארנונה למגורים בישראל, ומראה שהציבור מבקש לקשור את חישוב המס לא רק לגודל או ערך הנכס אלא גם לשירותים עירוניים, סביבה ואמון במדיניות.",
   "summaryHe": "מרדכי מינץ ובוריס פורטנוב מנתחים סקר מקוון של יותר מ־500 משתתפים בישראל, שדגם אזור מגורים, גיל, הכנסה, מצב משפחתי ובעלות על דירה. לפי תקציר המקור, כ־55% תמכו בשיטה הנוכחית המבוססת על גודל נכס וכ־45% באלטרנטיבה מבוססת ערך, אך התמיכה הייתה רחבה בהרבה בשילוב איכות שירותים עירוניים, מרחב ירוק ואיכות אוויר בשיקולי המס.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mordekhay Mintz, Boris A. Portnov",
   "paperTitle": "Assessing the Perceived Fairness of a Property Tax by a Taxpayer Survey: The Case of Residential Arnona Tax in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4997-6672\" target=\"_blank\" rel=\"noopener noreferrer\">Mordekhay Mintz</a>; <a href=\"https://orcid.org/0000-0003-1537-0832\" target=\"_blank\" rel=\"noopener noreferrer\">Boris A. Portnov</a>",

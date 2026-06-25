@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alaa Azaizah",
   "paperTitle": "The Principle of Equality in the Eyes of the Israeli Citizens: A Comparative Study between Arab and Jewish Citizens in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0002-8455-0343\" target=\"_blank\" rel=\"noopener noreferrer\">Alaa Azaizah</a>",

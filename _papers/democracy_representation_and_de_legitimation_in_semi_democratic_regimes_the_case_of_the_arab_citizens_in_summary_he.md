@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ייצוג ודה־לגיטימציה של אזרחים ערבים דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Salim Brake",
   "paperTitle": "Representation and De-legitimation in Semi-democratic Regimes: The Case of the Arab Citizens in Israel",
   "authorsHtml": "Salim Brake",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד סיכון תמותה, בריאות והשקעה בהון אנושי יכולים לשמר אי־שוויון בין־דורי, במיוחד כאשר שווקי ביטוח ואנונות אינם מושלמים.",
   "summaryHe": "המאמר מציב הון בריאות במודל דורות חופפים ומראה שאי־שוויון התחלתי בבריאות יכול להפוך למנגנון שמקבע פערי עושר והכנסה בין משקי בית. בריאות משפיעה לא רק על פריון אלא גם על סיכון תמותה, ולכן משנה את התמריצים להשקיע בחינוך, בחיסכון ובהעברה לדור הבא.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Shankha Chakraborty, Mausumi Das",
   "paperTitle": "Mortality, Human Capital and Persistent Inequality",
   "authorsHtml": "<a href=\"https://cas.uoregon.edu/directory/economics/all/shankhac\" target=\"_blank\" rel=\"noopener noreferrer\">Shankha Chakraborty</a>; <a href=\"https://www.du.ac.in/uploads/departments/faculty_members/Economics/2974.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Mausumi Das</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "ביטול עילת הסבירות מוצג במאמר כפגיעה בשלטון החוק, בשומרי הסף ובחובת הממשלה לפעול לטובת הציבור.",
   "descriptionHe": "המאמר מנתח את תיקון חוק יסוד: השפיטה שביקש למנוע מבתי המשפט להתערב בהחלטות הממשלה, ראש הממשלה והשרים מטעמי סבירות. הוא מציג את התיקון כחלק ממאבק רחב יותר על ביקורת שיפוטית, שלטון החוק ומגבלות הכוח השלטוני בישראל.",
   "summaryHe": "קרמניצר טוען שביטול עילת הסבירות משחרר את הממשלה והשרים מחובה מרכזית לפעול כנאמני ציבור, מחליש את היועצת המשפטית לממשלה ושומרי הסף, ומסכן מינויים, מנהל תקין, שירות ציבורי מגוון ואמון ציבורי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "מרדכי קרמניצר",
   "paperTitle": "Releasing the Government from Acting Reasonably; or, the Government Says Goodbye to Reasonableness",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1308\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Kremnitzer</a>",

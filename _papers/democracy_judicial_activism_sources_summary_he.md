@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסביר את מקורות האקטיביזם השיפוטי בישראל ואת תפקידו של בית המשפט העליון בעיצוב זכויות, איזונים ובלמים ודמוקרטיה ליברלית ללא חוקה מלאה.",
   "summaryHe": "איך בית המשפט העליון בישראל הפך למנגנון מרכזי של זכויות, ביקורת שלטונית והגנה על דמוקרטיה ליברלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "עלי זלצברגר",
   "paperTitle": "Judicial Activism in Israel: Sources, Forms and Manifestations",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/eli-salzberger\" target=\"_blank\" rel=\"noopener noreferrer\">Eli Salzberger</a>",

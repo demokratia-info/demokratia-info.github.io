@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על תוכנית מעורבות אזרחית בוחן השפעה על סוכנות, שייכות והדרה חברתית.",
   "descriptionHe": "המאמר בוחן כיצד תוכנית מאורגנת של מעורבות אזרחית השפיעה על צעירים ערבים בישראל המתמודדים עם הדרה חברתית, ניכור פוליטי ופערים חברתיים־כלכליים. הוא חשוב לדמוקרטיה משום שהוא מחבר בין השתתפות אזרחית, שוויון מיעוטים ויכולת של צעירים להשפיע על סביבתם.",
   "summaryHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner ו-Galit Yanay Ventura מנתחות תוכנית מעורבות אזרחית בקרב צעירים ערבים מודרים בישראל. לפי התקציר, המחקר מתמקד בקבוצה החווה אפליה מערכתית, ניכור פוליטי ופערים חברתיים־כלכליים, ובוחן כיצד פעולה אזרחית מאורגנת עשויה להשפיע עליה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner, Galit Yanay Ventura",
   "paperTitle": "Engaging for change: the influence of civic engagement on at-risk Arab minority youth in Israel",
   "authorsHtml": "Serene Dakak-Abed Al Wahad, <a href=\"https://orcid.org/0000-0001-9085-9838\" target=\"_blank\" rel=\"noopener noreferrer\">Lana J. Jeries Loulou</a>, <a href=\"https://orcid.org/0000-0002-5237-8051\" target=\"_blank\" rel=\"noopener noreferrer\">Limor Goldner</a>, Galit Yanay Ventura",

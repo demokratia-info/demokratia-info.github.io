@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית דימויי בתי המשפט העליונים בישראל ובארצות הברית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית דימויי בתי המשפט העליונים בישראל ובארצות הברית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Barbara A. Perry",
   "paperTitle": "The Israeli and United States Supreme Courts: A Comparative Reflection on Their Symbols, Images, and Functions",
   "authorsHtml": "Barbara A. Perry",

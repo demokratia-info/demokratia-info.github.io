@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המטא־אנליזה בוחנת אלפי אומדנים ממחקרים על הקשר בין דמוקרטיה לצמיחה ומנסה להפריד ממצא יציב מרעש מחקרי. הערך הציבורי שלה הוא בהעברת הוויכוח מן הסיסמה הכללית אל שאלה אמפירית זהירה: באילו תנאים מוסדות דמוקרטיים תורמים לצמיחה.",
   "summaryHe": "המאמר מסכם 188 מחקרים ויותר מאלפיים רגרסיות על השפעת הדמוקרטיה על צמיחה כלכלית. לאחר התחשבות בהטיית פרסום ובתלות בין אומדנים, נמצא אפקט ישיר חיובי של דמוקרטיה על צמיחה, נוסף על ערוצים עקיפים כמו הון אנושי, יציבות פוליטית וחירות כלכלית. מבחינה דמוקרטית, זהו מאמר שמחזק קריאה מוסדית: דמוקרטיה אינה רק ערך נורמטיבי אלא גם מערכת כללים שיכולה להשפיע על תמריצים, אמון והשקעה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Marco Colagrossi, Domenico Rossignoli, Mario A. Maggioni",
   "paperTitle": "Does democracy cause growth? A meta-analysis (of 2000 regressions)",
   "authorsHtml": "<a href=\"https://mcolagrossi.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Marco Colagrossi</a>; Domenico Rossignoli; Mario A. Maggioni",

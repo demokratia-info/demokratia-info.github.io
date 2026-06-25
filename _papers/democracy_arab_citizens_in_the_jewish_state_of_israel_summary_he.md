@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות.",
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "יצחק גל-נור",
   "paperTitle": "Arab Citizens in the “Jewish” State of Israel",
   "authorsHtml": "<a href=\"https://federmann.huji.ac.il/people/itzhak-galnoor\" target=\"_blank\" rel=\"noopener noreferrer\">Itzhak Galnoor</a>",

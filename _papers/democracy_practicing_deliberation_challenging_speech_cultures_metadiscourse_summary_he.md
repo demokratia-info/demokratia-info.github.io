@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח פורומים מובנים של דיון בישראל ומראה כיצד משתתפים משתמשים במטא־שיח כדי לגשר בין נורמות דיבור מקומיות לבין עקרונות של דמוקרטיה דיונית. הוא מדגיש שתרבות אינה רק מכשול אלא גם חומר גלם לעיצוב פרקטיקה דמוקרטית.",
   "summaryHe": "Manosevitch, Friedman ו-Sprain בוחנים כיצד משתתפים בפורומים דיוניים בישראל מתייחסים לדיבור עצמו, למסגור האינטראקציה ולמתחים בין תרבות מקומית לבין עקרונות דיוניים. מטא־שיח מאפשר להם להכיר בקושי, לשאת ולתת על נורמות ולשלב יצירתית בין שיח ישראלי לבין דליברציה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Idit Manosevitch, Elie Friedman, Leah Sprain",
   "paperTitle": "Practicing deliberation in challenging speech cultures: the role of metadiscourse",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5195-2106\" target=\"_blank\" rel=\"noopener noreferrer\">Idit Manosevitch</a>, <a href=\"https://www.aac.ac.il/en/staff/dr-elie-friedman/\" target=\"_blank\" rel=\"noopener noreferrer\">Elie Friedman</a>, <a href=\"https://www.colorado.edu/cmdi/people/communication/leah-sprain\" target=\"_blank\" rel=\"noopener noreferrer\">Leah Sprain</a>",

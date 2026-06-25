@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד סטריאוטיפים מגדריים יכולים להפוך מפלגות, פוליטיקאים ומדיניות שפוגעים בדמוקרטיה ללגיטימיים יותר בעיני חלק מן הציבור. הוא מבוסס על מחקרים בישראל, גרמניה וארצות הברית ומראה שההשפעה בולטת דווקא בקרב נשים ובוחרי שמאל שנרתעים בדרך כלל מדימוי ימני רדיקלי גברי.",
   "summaryHe": "Elad-Strenger, Ben-Shitrit ו-Hirsch-Hoefler מציעות הסבר מגדרי לנרמול של נסיגה דמוקרטית. נראות גוברת של נשים המייצגות אגנדות ימין רדיקלי יכולה לגרום למפלגות, פוליטיקאים ומדיניות שוחקת דמוקרטיה להיראות לגיטימיים יותר. המחקרים נערכו בישראל, גרמניה וארצות הברית, עם N = 7203.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Julia Elad-Strenger, Lihi Ben-Shitrit, Sivan Hirsch-Hoefler",
   "paperTitle": "Mainstreaming democratic backsliding: The role of gender stereotypes",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/julia-elad-strenger/\" target=\"_blank\" rel=\"noopener noreferrer\">Julia Elad-Strenger</a>; Lihi Ben-Shitrit; <a href=\"https://www.runi.ac.il/en/faculty/hsivan\" target=\"_blank\" rel=\"noopener noreferrer\">Sivan Hirsch-Hoefler</a>",

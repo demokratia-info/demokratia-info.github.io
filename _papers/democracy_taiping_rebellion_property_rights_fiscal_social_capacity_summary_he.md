@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מרד הטאיפינג בסין עיצב מוסדות מקומיים לאורך זמן, במיוחד זכויות קניין בקרקע, יכולת פיסקלית וקיבולת חברתית.",
   "summaryHe": "המחקר מראה שבחלק מאזורי שלטון הטאיפינג, ובעיקר באזורי Late Taiping, התפתחו זכויות קניין חזקות יותר, יכולת פיסקלית מקומית גבוהה יותר ויותר ארגוני צדקה מקומיים, עם קשרים מתמשכים להכנסה, תיעוש מוקדם, הכנסות ציבוריות, הון אנושי וחוסן חברתי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Weizheng Lai, Lixin Colin Xu, Li Yang",
   "paperTitle": "Property rights, fiscal capacity, and social capacity: The lasting impact of the Taiping Rebellion",
   "authorsHtml": "<a href=\"https://www.bowdoin.edu/profiles/faculty/w.lai/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Weizheng Lai</a>; <a href=\"https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/\" target=\"_blank\" rel=\"noopener noreferrer\">Lixin Colin Xu</a>; <a href=\"https://www.zew.de/en/team/lya\" target=\"_blank\" rel=\"noopener noreferrer\">Li Yang</a>",

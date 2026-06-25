@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את קמפיין התנועה לזכויות דיגיטליות בישראל נגד המאגר הביומטרי בין השנים 2009 ל-2017. הוא מצביע על שלוש מסגרות שכנוע: חוסר נחיצות של המאגר בדמוקרטיה, חוסר יעילותו ואי-כשירות ממשלתית באבטחתו.",
   "summaryHe": "Daskal חוקרת כיצד תנועה אזרחית לזכויות דיגיטליות ניסתה לשכנע נגד מאגר ביומטרי בישראל. המחקר מבוסס על פרסומי התנועה ועל השיח העיתונאי סביב הקמפיין בזירות הפוליטית, המשפטית והציבורית בשנים 2009-2017. התוצאה היא ניתוח של פרטיות כתחום שבו חברה אזרחית יכולה לתרגם מומחיות טכנולוגית למסגור דמוקרטי של כוח מדינתי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Efrat Daskal",
   "paperTitle": "The Israeli Digital Rights Movement's campaign for privacy",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3772-2173\" target=\"_blank\" rel=\"noopener noreferrer\">Efrat Daskal</a>",

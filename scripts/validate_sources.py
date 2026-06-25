@@ -25,6 +25,7 @@ ARTICLE_IMAGE_SIZE = (800, 600)
 MAX_TOPIC_IMAGE_RUN = 2
 MIN_SECTION_SENTENCES = 2
 IMAGE_FITNESS_VALUES = {"high", "standard", "low"}
+SUMMARY_SOURCE_STATUSES = {"Based on full text", "Based on abstract only"}
 QUEUE_REQUIRED_COLUMNS = ("paper_name", "authors", "doi", "topic")
 SUGGEST_QUEUE_REQUIRED_COLUMNS = (
     "submitted_date",
@@ -45,6 +46,7 @@ REQUIRED_PAPER_KEYS = {
     "titleHe",
     "descriptionHe",
     "summaryHe",
+    "summarySourceStatus",
     "authorsCardHe",
     "authorsHtml",
     "paperTitle",
@@ -192,6 +194,7 @@ def build_paper_index(papers: list[dict[str, Any]]) -> dict[str, Any]:
                 "datePublished": paper["datePublished"],
                 "dateModified": paper["dateModified"],
                 "summaryHe": paper["summaryHe"],
+                "summarySourceStatus": paper["summarySourceStatus"],
             }
         )
     return {
@@ -272,6 +275,10 @@ def validate_paper(paper: dict[str, Any], topic_ids: set[str], errors: list[str]
             errors.append(f"{label}: datePublished should match sortKey date {expected_published}")
     if paper.get("datePublished") and paper.get("dateModified") and paper["dateModified"] < paper["datePublished"]:
         errors.append(f"{label}: dateModified cannot be earlier than datePublished")
+    if paper.get("summarySourceStatus") not in SUMMARY_SOURCE_STATUSES:
+        errors.append(
+            f"{label}: summarySourceStatus must be one of {', '.join(sorted(SUMMARY_SOURCE_STATUSES))}"
+        )
 
     topics = paper.get("topics")
     if not isinstance(topics, list) or not topics:

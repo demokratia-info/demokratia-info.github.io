@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מזכיר שדמוקרטיה אינה נשענת רק על בתי משפט ובחירות, אלא גם על ארגונים חברתיים וכלכליים שיש להם כוח ממשי לעצור מהלכים שלטוניים.",
   "summaryHe": "איך כוח עבודה מאורגן יכול להשפיע על מאבקים נגד נסיגה דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אסף בונדי",
   "paperTitle": "Workers for democracy? Trade unions and the struggle against democratic backsliding",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3864-1957\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf S. Bondy</a>",

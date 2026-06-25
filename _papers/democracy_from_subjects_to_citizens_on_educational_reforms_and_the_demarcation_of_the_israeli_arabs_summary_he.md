@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מרפורמות חינוך לאזרחותם של ערבים בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מרפורמות חינוך לאזרחותם של ערבים בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gal Levy",
   "paperTitle": "From Subjects to Citizens: On Educational Reforms and the Demarcation of the “Israeli-Arabs”",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>",

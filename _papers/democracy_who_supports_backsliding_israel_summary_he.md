@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר אמפירי על התנאים שבהם אזרחים תומכים בפגיעה בכללי המשחק הדמוקרטיים.",
   "descriptionHe": "המחקר בוחן מי בציבור הישראלי תומך בנסיגה דמוקרטית סביב תוכנית הממשלה לצמצום כוחם של בתי המשפט, באמצעות נתוני סקר פאנל וסקר נוסף שנאספו לפני ואחרי הכרזת הרפורמה.",
   "summaryHe": "המחקר מצא שהתמיכה בתוכנית המשפטית קשורה בעיקר לזיקה חזקה לנתניהו ולסלידה ממחנה האופוזיציה, ופחות לתפיסה רובנית של דמוקרטיה או להתנסות שלילית עם מערכת המשפט.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "נעם גדרון, יותם מרגלית, ליאור שפר, איתמר יקיר",
   "paperTitle": "Who Supports Democratic Backsliding? Evidence from Israel",
   "authorsHtml": "<a href=\"https://noamgidron.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Noam Gidron</a>; <a href=\"https://www.ymargalit.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>; <a href=\"https://english.tau.ac.il/profile/liorsheffer\" target=\"_blank\" rel=\"noopener noreferrer\">Lior Sheffer</a>; <a href=\"https://en.idi.org.il/experts/36238\" target=\"_blank\" rel=\"noopener noreferrer\">Itamar Yakir</a>",

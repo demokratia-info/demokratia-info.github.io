@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על ערוצי חדשות אלטרנטיביים בטלגרם בזמן מלחמת ישראל-חמאס ועל הדילמות האתיות שהם מציבים לנורמות עיתונאיות בישראל.",
   "summaryHe": "המאמר בוחן כיצד ערוצי חדשות אלטרנטיביים בטלגרם מתמודדים עם נורמות עיתונאיות ואתיקה בזמן מלחמת ישראל-חמאס. הוא משווה את הפרקטיקות שלהם לקודים אתיים מקובלים ומציג תמונה מורכבת שבה חלק מן הערוצים מקפידים על בדיקת עובדות והגנת מקורות, בעוד אחרים מעדיפים מהירות וסנסציוניות על חשבון דיוק ואתיקה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dana Weimann-Saks; Vered Elishar; Yaron Ariel",
   "paperTitle": "Journalistic Norms on Telegram: Ethical Dilemmas Covering the 2023–2025 Israel-Hamas War",
   "authorsHtml": "Dana Weimann-Saks; Vered Elishar; <a href=\"https://orcid.org/0000-0002-9705-5416\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Ariel</a>",

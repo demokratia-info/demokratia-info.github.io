@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את משפטו של ארתור גרייזר בשנת 1946 כדי לבחון כיצד החוק יכול גם לאפשר פשעי שולחן וגם לשמש זירה לבירור אחריותם. הוא מדגיש את תפקידם של מומחים ואת שאלת אחריותו של שלטון החוק עצמו.",
   "summaryHe": "Bilsky ו-Klagsbrun בוחנות את משפטו של מושל מערב פולין הנאצי ארתור גרייזר כמקרה שבו בית משפט התמודד עם פשעי שולחן. המחקר טוען שהקושי אינו רק להוכיח השתתפות או סיוע של מבצע מרוחק, אלא להבין כיצד החוק יוצר, מכסה ולעיתים מחסן את העבריין הביורוקרטי. המאמר מצביע על מושג הג׳נוסייד התרבותי ועל עדויות מומחים כדרך שבה בית הדין הפולני יכול היה להעמיד גם את תפקיד החוק לבחינה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Leora Bilsky, Rachel Klagsbrun",
   "paperTitle": "The Desk Perpetrator, the Expert Witness, and the Role of Law: The Trial of Arthur Greiser",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4357-3696\" target=\"_blank\" rel=\"noopener noreferrer\">Leora Bilsky</a>; Rachel Klagsbrun",

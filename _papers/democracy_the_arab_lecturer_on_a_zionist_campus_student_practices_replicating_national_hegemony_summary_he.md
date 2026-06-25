@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מרצה ערבי בקמפוס ציוני ודפוסי הגמוניה לאומית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ibrahim Mahajne; Nuzha Allassad Alhuzail",
   "paperTitle": "The Arab Lecturer on a Zionist Campus: Student Practices Replicating National Hegemony",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-3916-6011\" target=\"_blank\" rel=\"noopener noreferrer\">Ibrahim Mahajne</a>; <a href=\"https://ric.org.il/researcher/nuzha-alhuzail/\" target=\"_blank\" rel=\"noopener noreferrer\">Nuzha Allassad Alhuzail</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם 21 נשים בגילאי 50-79 מציעים קריאה מורכבת של גיל, מגדר, מיניות והתנגדות חלשה.",
   "descriptionHe": "המאמר מנתח כיצד לסביות מבוגרות בישראל חוות אי־נראות חברתית, ומראה שבצד אפליה מצטלבת היא יכולה לשמש גם אסטרטגיה חתרנית לביטוי זהות וחופש אישי.",
   "summaryHe": "אולגה אדיטה סקטורה־זוקוביץ׳ וליאת איילון מתבססות על ראיונות חצי־מובנים עם 21 לסביות ישראליות בגילאי 50-79. לפי תקציר המקור, אי־נראות אינה רק הדרה: היא יכולה לאפשר חירות מנורמות חברתיות, קבלה פנימית של זהות מינית ואסטרטגיות חתרניות של התנגדות חלשה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Olga Edyta Saktura-Żukowicz, Liat Ayalon",
   "paperTitle": "‘I am so happy to be invisible’: subversive invisibility of older lesbians in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4976-5894\" target=\"_blank\" rel=\"noopener noreferrer\">Olga Edyta Saktura-Żukowicz</a>; <a href=\"https://social-work.biu.ac.il/en/Ayalon_Liat_En\" target=\"_blank\" rel=\"noopener noreferrer\">Liat Ayalon</a>",

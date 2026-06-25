@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ערכי מנהלים, אחריותיות ולחצי משבר בשירות הציבורי דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "R. Schwartz",
   "paperTitle": "Managerial Values and Accountability Pressures: Challenges of Crisis and Disaster",
   "authorsHtml": "R. Schwartz",

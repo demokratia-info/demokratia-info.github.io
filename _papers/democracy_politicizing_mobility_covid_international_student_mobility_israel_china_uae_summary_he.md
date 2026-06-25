@@ -7,6 +7,7 @@
   "subtitleHe": "השוואה בין ישראל, סין ואיחוד האמירויות מראה כיצד מדיניות ניידות בינלאומית של סטודנטים נטענה במאבקים על זהות, שליטה וצדק חברתי.",
   "descriptionHe": "המאמר מנתח את הפוליטיזציה של ניידות סטודנטים בינלאומית בזמן מגפת הקורונה, ומתמקד בישראל, סין ואיחוד האמירויות.",
   "summaryHe": "Annette Bamberger, Min Ji Kim, Seungah Sarah Lee ו-Fei Yan מראות כי משבר הקורונה לא רק עצר תנועה בין מדינות, אלא חשף כיצד ניידות סטודנטים תלויה בכוח מדינתי, באסטרטגיות מוסדיות ובאי־שוויון. בישראל הן מזהות פתיחה סלקטיבית של גבולות ומתחים בין אינטרסים דתיים וחילוניים, ובמדינות ההשוואה הן בוחנות שליטה נרטיבית, כוח רך ומבנה שוק השכלה כפול.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Annette Bamberger, Min Ji Kim, Seungah Sarah Lee, Fei Yan",
   "paperTitle": "Politicizing Mobility in the COVID-19 Pandemic: International Student Mobility in Israel, China, and the United Arab Emirates",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8006-5557\" target=\"_blank\" rel=\"noopener noreferrer\">Annette Bamberger</a>, <a href=\"https://orcid.org/0000-0002-6027-7031\" target=\"_blank\" rel=\"noopener noreferrer\">Min Ji Kim</a>, <a href=\"https://orcid.org/0000-0003-4391-7049\" target=\"_blank\" rel=\"noopener noreferrer\">Seungah Sarah Lee</a>, <a href=\"https://orcid.org/0000-0001-8375-0816\" target=\"_blank\" rel=\"noopener noreferrer\">Fei Yan</a>",

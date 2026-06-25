@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "ענת סקולניקוב",
   "paperTitle": "Religious law, religious Courts and human rights within Israeli constitutional structure",
   "authorsHtml": "<a href=\"https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/scolnicov.php\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Scolnicov</a>",

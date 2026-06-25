@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rami Zeedan",
   "paperTitle": "Reconsidering the Druze Narrative in the Wake of the Basic Law: Israel as the Nation-State of the Jewish People",
   "authorsHtml": "<a href=\"https://kujewishstudies.ku.edu/people/rami-zeedan\" target=\"_blank\" rel=\"noopener noreferrer\">Rami Zeedan</a>",

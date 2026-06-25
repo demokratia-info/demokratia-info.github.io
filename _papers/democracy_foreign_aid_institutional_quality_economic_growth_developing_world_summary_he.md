@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן האם סיוע חוץ תורם לצמיחה כאשר איכות המוסדות במדינה המקבלת משתנה. מבחינה דמוקרטית, הוא מדגיש שכסף ציבורי חוצה גבולות זקוק לשקיפות, יכולת מדינה ואחריות כדי להפוך להשקעה חברתית.",
   "summaryHe": "המאמר בוחן את השילוב בין סיוע חוץ לבין איכות מוסדית במדינות מתפתחות, ומבדיל בין סוגי סיוע כמו חינוך, בריאות וחקלאות. הזמין, המחקר משתמש בנתוני מדינות מתפתחות לאורך כמה עשורים ומראה שהשפעת הסיוע אינה אחידה: היא תלויה בסוג הסיוע, באזור וביכולת המוסדות להפוך כסף לתוצאה ציבורית. הזווית הדמוקרטית היא שסולידריות בינלאומית אינה מספיקה בלי מנגנוני אחריות, שקיפות ושירות ציבורי שמונעים בזבוז או תלות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Admasu Asfaw Maruta, Rajabrata Banerjee, Tony Cavoli",
   "paperTitle": "Foreign aid, institutional quality and economic growth: Evidence from the developing world",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7340-7643\" target=\"_blank\" rel=\"noopener noreferrer\">Admasu Asfaw Maruta</a>; <a href=\"https://orcid.org/0000-0002-9610-5178\" target=\"_blank\" rel=\"noopener noreferrer\">Rajabrata Banerjee</a>; <a href=\"https://people.unisa.edu.au/Tony.Cavoli\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Cavoli</a>",

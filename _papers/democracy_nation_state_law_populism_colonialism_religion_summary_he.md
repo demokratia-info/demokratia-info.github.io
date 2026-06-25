@@ -8,6 +8,7 @@
   "subtitleHe": "אימן אגבאריה קורא את חוק הלאום דרך השפה הדתית-אתנולאומית שמעניקה לפוליטיקת הרוב הצדקה היסטורית, טריטוריאלית ומדירה.",
   "descriptionHe": "מאמרו של אימן אגבאריה ב-Journal of Ecumenical Studies מנתח את חוק הלאום כנקודת מפגש בין פופוליזם, קולוניאליות ודת בישראל, ואת השלכותיו על פלסטינים אזרחי ישראל ועל הדמוקרטיה.",
   "summaryHe": "המאמר טוען שחוק הלאום אינו רק חוק זהות, אלא מנגנון שמחזק שפה אתנולאומית-דתית ומצמצם את המקום הדמוקרטי של מיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אימן אגבאריה",
   "paperTitle": "The Nation-State Law, Populist Politics, Colonialism, and Religion in Israel: Linkages and Transformations",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/ayman-agbaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman Agbaria</a>",

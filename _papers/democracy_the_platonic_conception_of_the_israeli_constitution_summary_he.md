@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית התפיסה האפלטונית של החוקה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית התפיסה האפלטונית של החוקה הישראלית דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Iddo Porat",
   "paperTitle": "The Platonic Conception of the Israeli Constitution",
   "authorsHtml": "<a href=\"https://clb.ac.il/en/lecturers/iddo-porat/\" target=\"_blank\" rel=\"noopener noreferrer\">Iddo Porat</a>",

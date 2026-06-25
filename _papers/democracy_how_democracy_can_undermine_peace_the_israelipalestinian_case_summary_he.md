@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מוסדות דמוקרטיים בישראל, ובעיקר שיטת הבחירות, מבנה הקואליציות ודעת הקהל, השפיעו על תהליך השלום הישראלי-פלסטיני בין מדריד, אוסלו וקמפ דיוויד.",
   "summaryHe": "המאמר טוען כי במקרה הישראלי-פלסטיני הדמוקרטיה לא רק שיקפה את רצון הציבור, אלא גם יצרה מנגנוני תיווך קואליציוניים שהחלישו את השפעתו על תהליך השלום.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Lev Topor",
   "paperTitle": "How Democracy Can Undermine Peace: The Israeli–Palestinian Case",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-1836-5150\" target=\"_blank\" rel=\"noopener noreferrer\">Lev Topor</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "לימור יהודה מציעה בסיס תיאורטי למשפט של שלום: לא רק זכויות יחידים, אלא יחסים שווים ולא-שולטים בין קבוצות לאומיות.",
   "descriptionHe": "מאמרה של לימור יהודה ב-Oxford Journal of Legal Studies מציע את מושג השוויון הקולקטיבי כבסיס נורמטיבי להסדרי שלום במקומות מפולגים וליחסים בין זכויות אדם, הגדרה עצמית ואי-שליטה.",
   "summaryHe": "המאמר מציע לחשוב על שלום דמוקרטי דרך שוויון בין קבוצות לאומיות, ולא רק דרך פשרה בין ביטחון לזכויות יחידים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "לימור יהודה",
   "paperTitle": "Collective Equality: Theoretical Foundations for the Law of Peace",
   "authorsHtml": "<a href=\"https://law.huji.ac.il/people/%D7%9C%D7%99%D7%9E%D7%95%D7%A8-%D7%99%D7%94%D7%95%D7%93%D7%94-0\" target=\"_blank\" rel=\"noopener noreferrer\">Limor Yehuda</a>",

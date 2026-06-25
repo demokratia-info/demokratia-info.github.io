@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח דיוני כנסת מראה כיצד שיח מיליטריסטי מדרג ישראלים בחו״ל לפי שירות צבאי בעבר, בהווה או בעתיד.",
   "descriptionHe": "המאמר מציע את המושג מיליטריזם חוץ־טריטוריאלי כדי להסביר כיצד מדינות משייכות ציפיות שירות גם לאזרחים שחיים מחוץ לשטחן.",
   "summaryHe": "Jonathan Grossman מנתח שיח פרלמנטרי ישראלי ומראה כיצד אזרחים ומהגרים ישראלים בחו״ל הובנו לעיתים דרך היחס שלהם לשירות בצה״ל. המאמר מזהה שלוש צורות של מיליטריזם חוץ־טריטוריאלי: לא־חיילים, חיילים לשעבר וחיילים עתידיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jonathan Grossman",
   "paperTitle": "Extraterritorial militarism: emigrants as soldiers in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7244-2498\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Grossman</a>",

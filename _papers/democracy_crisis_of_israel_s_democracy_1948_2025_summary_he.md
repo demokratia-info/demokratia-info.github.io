@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית משבר הדמוקרטיה בישראל לאורך זמן, וממקם את הדיון בתוך שאלות של נסיגה דמוקרטית ופופוליזם, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית משבר הדמוקרטיה בישראל לאורך זמן דרך עדשה של נסיגה דמוקרטית ופופוליזם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ilan Peleg; Ruth Amir",
   "paperTitle": "Crisis of Israel's Democracy, 1948-2025",
   "authorsHtml": "<a href=\"https://govlaw.lafayette.edu/people/ilan-peleg/\" target=\"_blank\" rel=\"noopener noreferrer\">Ilan Peleg</a>; <a href=\"https://orcid.org/0000-0003-0659-5626\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Amir</a>",

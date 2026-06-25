@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית פרויקט המצלמות של בצלם ואכיפת המשפט הבין־לאומי דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Pini Pavel Miretski, Sascha‐Dominik Bachmann",
   "paperTitle": "The Panopticon of International Law: B’Tselem’s Camera Project and the Enforcement of International Law in a Transnational Society",
   "authorsHtml": "Pini Pavel Miretski, <a href=\"https://orcid.org/0000-0002-8742-0766\" target=\"_blank\" rel=\"noopener noreferrer\">Sascha‐Dominik Bachmann</a>",

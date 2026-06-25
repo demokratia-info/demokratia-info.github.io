@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר חוזר לשנים 1948-1954 ולניסיון הראשון להעביר חוק עמותות בישראל. הוא מתמקד בשאלות של שיקול דעת ממשלתי ברישום ופירוק ארגונים, ובחריגת מפלגות מן ההסדר המוצע.",
   "summaryHe": "Bar-Mor ו־Kabalo מראות שהדיון המקצועי והציבורי בהצעת החוק שיקף גישות דמוקרטיות שונות בראשית המדינה. זכות ההתאגדות נבחנת כאן לא כמושג מופשט, אלא כמוסד משפטי שמגדיר כמה חופש יש לחברה אזרחית מול המדינה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hadara Bar-Mor, Paula Kabalo",
   "paperTitle": "Israeli democracy and the right of association: the first attempt to pass a nonprofit organisations bill in Israel 1948–1954",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8085-7893\" target=\"_blank\" rel=\"noopener noreferrer\">Hadara Bar-Mor</a>; <a href=\"https://orcid.org/0000-0002-0666-0347\" target=\"_blank\" rel=\"noopener noreferrer\">Paula Kabalo</a>",

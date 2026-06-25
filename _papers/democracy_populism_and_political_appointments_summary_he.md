@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על פופוליזם ומינויים פוליטיים, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית פופוליזם ומינויים פוליטיים דרך עדשה של שחיקת מוסדות, פופוליזם והגנות מפני ריכוז כוח.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nissim Cohen, Ron Duhl",
   "paperTitle": "Populism and Political Appointments",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/nissim-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Cohen</a>, Ron Duhl",

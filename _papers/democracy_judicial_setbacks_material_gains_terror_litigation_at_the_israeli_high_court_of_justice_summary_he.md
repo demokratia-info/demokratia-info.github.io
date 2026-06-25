@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית עתירות טרור בבג״ץ בין הישגים חומריים וכשלונות משפטיים דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Menachem Hofnung; Keren Weinshall Margel",
   "paperTitle": "Judicial Setbacks, Material Gains: Terror Litigation at the Israeli High Court of Justice",
   "authorsHtml": "<a href=\"https://cris.huji.ac.il/en/persons/menachem-hofnung/\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Hofnung</a>; <a href=\"https://en.law.huji.ac.il/people/keren-weinshall\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall Margel</a>",

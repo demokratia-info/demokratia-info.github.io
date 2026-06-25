@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על 35,520 הסכמים קיבוציים בישראל בשנים 1957-2016 בוחן נשים, עובדים מבוגרים, אנשים עם מוגבלות והורים.",
   "descriptionHe": "המאמר מנתח את תפקידם של הסכמים קיבוציים בישראל בקידום או בפגיעה בשוויון של קבוצות מוגנות בשוק העבודה.",
   "summaryHe": "Lilach Lurie בדקה את כל ההוראות בהסכמים קיבוציים ישראליים לאורך 60 שנה, מ-1957 עד 2016, ובסך הכול 35,520 הסכמים. המחקר מתמקד בנשים, עובדים מבוגרים, אנשים עם מוגבלות והורים, ומראה שהסכמים קיבוציים קידמו זכויות אך גם כללו פרקטיקות מפלות, שירדו בשכיחותן לאורך השנים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Lilach Lurie",
   "paperTitle": "Collective Bargaining Agreements and Protected Groups in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4562-8470\" target=\"_blank\" rel=\"noopener noreferrer\">Lilach Lurie</a>",

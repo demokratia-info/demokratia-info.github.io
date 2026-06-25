@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית זכויות האזרחים הפלסטינים בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית זכויות האזרחים הפלסטינים בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Raphael Cohen-Almagor",
   "paperTitle": "Israel as an Ethnic Democracy: Palestinian Citizens and the Fight for Equal Rights",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5869-9243\" target=\"_blank\" rel=\"noopener noreferrer\">Raphael Cohen-Almagor</a>",

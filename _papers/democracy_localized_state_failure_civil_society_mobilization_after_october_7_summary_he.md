@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם מובילי ארגוני חברה אזרחית בוחנים החלפה והשלמה של שירותי מדינה בזמן משבר.",
   "descriptionHe": "המאמר בוחן האם התגייסות החברה האזרחית לאחר מתקפת 7 באוקטובר השלימה את פעולת המדינה או החליפה אותה בתחומים מרכזיים. הוא חשוב לדמוקרטיה משום שהוא בודק את היחס בין מדינה, ארגוני חברה אזרחית ואחריות ציבורית בזמן שבו שירותים חיוניים אינם פועלים כמצופה.",
   "summaryHe": "Hagai Katz ו-Benjamin Gidron מיישמים מסגרת של State-in-Society על ישראל אחרי 7 באוקטובר, ומתבססים על ראיונות עם 19 מובילי חברה אזרחית מ־12 ארגונים בינואר 2024. לפי התקציר, המחקר בוחן החלפה מקיפה של פונקציות מדינה בידי ארגונים אזרחיים ואת ההשלכות של מצב כזה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hagai Katz, Benjamin Gidron",
   "paperTitle": "Localized State Failure and Civil Society Mobilization in Israel After 7 October",
   "authorsHtml": "<a href=\"https://www.bgu.ac.il/en/people/katzh/\" target=\"_blank\" rel=\"noopener noreferrer\">Hagai Katz</a>, <a href=\"https://tzin.bgu.ac.il/~gidron/\" target=\"_blank\" rel=\"noopener noreferrer\">Benjamin Gidron</a>",

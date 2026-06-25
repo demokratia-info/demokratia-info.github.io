@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד אי־אמון בין מוסדות בריאות לבין קהילות בדואיות בנגב עיצב קמפיין ממשלתי לשליטה בברוצלוזיס. הוא מציע לראות באי־אמון תופעה בעלת מנגנונים משלה, ולא רק היעדר אמון.",
   "summaryHe": "המאמר בוחן בשנים 2015-2019 קמפיין בריאותי בדרום ישראל באמצעות ראיונות, תצפיות ומסמכי מדיניות ותקשורת. הניתוח מזהה שלושה דפוסים של אי־אמון שמקשים על מדיניות בריאות בקהילה מוחלשת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Barak Hermesh, Anat Rosenthal, Nadav Davidovitch",
   "paperTitle": "The cycle of distrust in health policy and behavior: Lessons learned from the Negev Bedouin",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4271-1305\" target=\"_blank\" rel=\"noopener noreferrer\">Barak Hermesh</a>; <a href=\"https://cris.bgu.ac.il/en/persons/anat-rosenthal/\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Rosenthal</a>; <a href=\"https://orcid.org/0000-0001-5709-9265\" target=\"_blank\" rel=\"noopener noreferrer\">Nadav Davidovitch</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על זהות המבקר, קהל היעד ודעת קהל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית זהות המבקר, קהל היעד ודעת קהל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yehonatan Abramson, Anil Menon, Abir Gitlin",
   "paperTitle": "Whose critique matters? The effects of critic identity and audience on public opinion",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6410-1212\" target=\"_blank\" rel=\"noopener noreferrer\">Yehonatan Abramson</a>, <a href=\"https://orcid.org/0000-0001-8857-003X\" target=\"_blank\" rel=\"noopener noreferrer\">Anil Menon</a>, Abir Gitlin",

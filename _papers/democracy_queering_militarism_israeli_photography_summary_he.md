@@ -7,6 +7,7 @@
   "subtitleHe": "קריאה בסדרת Soldiers של עדי נס מראה כיצד פרפורמנס, קרקס ופגיעות מערערים את הטבעיות המדומיינת של מיליטריזם ומגדר.",
   "descriptionHe": "המאמר מנתח את סדרת Soldiers של עדי נס ואת החיבור בין קוויריות, מיליטריזם ולאומיות בצילום ישראלי.",
   "summaryHe": "Nissim Gal מנתח את סדרת Soldiers של עדי נס באמצעות תאוריה קווירית, תאוריית פרפורמנס וביקורת פוסט־קולוניאלית. הוא טוען שהאסתטיקה של קרקס צבאי, תנוחות מבוימות ופגיעות גופנית מערערות את הדימוי ההטרונורמטיבי וההיפר־גברי של הזהות הצבאית הישראלית, ומציגות קוויריות כאתר של התנגדות ושינוי בתוך כוח מדינתי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nissim Gal",
   "paperTitle": "Queering Militarism in Israeli Photography",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/nissim-gal\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Gal</a>",

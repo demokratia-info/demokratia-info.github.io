@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בדרכים שונות שבהן חברות שסועות מווסתות קונפליקט פוליטי, ומדגיש כי אין מודל יחיד להסדרת יחסים בין קבוצות בחברה מחולקת.",
   "summaryHe": "המאמר של Sammy Smooha ו-Theodor Hanf מתמקד באופני הסדרה של קונפליקט בחברות שסועות לעומק. הוא רלוונטי במיוחד לדיון דמוקרטי משום שהוא עוסק בשאלה כיצד מוסדות, הסכמות ויחסי כוח מאפשרים חיים פוליטיים משותפים למרות חלוקות חברתיות עמוקות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sammy Smooha, Theodor Hanf",
   "paperTitle": "The Diverse Modes of Conflict-Regulation in Deeply Divided Societies",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/sammy-smooha/\" target=\"_blank\" rel=\"noopener noreferrer\">Sammy Smooha</a>, Theodor Hanf",

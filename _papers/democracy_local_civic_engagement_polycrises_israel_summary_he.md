@@ -7,6 +7,7 @@
   "subtitleHe": "סקר ישראלי לאורך שלוש שנים בוחן כיצד אמון בממשל, איכות הניהול הציבורי, אתניות והשכלה משפיעים על השתתפות מקומית בזמן ריבוי משברים.",
   "descriptionHe": "המאמר בוחן מעורבות אזרחית מקומית בישראל בזמן פוליקריזות דרך אמון בממשל, איכות ניהול במנהל הציבורי, אתניות והשכלה.",
   "summaryHe": "Anna Uster, Eran Vigoda-Gadot ו-Noam Cohen בוחנים מעורבות אזרחית מקומית בישראל בתקופה של משברים מצטלבים. לפי התקציר, איכות הניהול במנהל הציבורי משפיעה מאוד על מעורבות מקומית, והקשרים בין אמון, אתניות והשכלה פועלים אחרת בקרב קבוצות שונות, כולל האוכלוסייה הערבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Anna Uster, Eran Vigoda-Gadot, Noam Cohen",
   "paperTitle": "Local Civic Engagement in Turbulent Times: Trust in Governance, Managerial Quality, Ethnicity, and Education During Polycrises",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8450-8415\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Uster</a>, <a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda-Gadot</a>, Noam Cohen",

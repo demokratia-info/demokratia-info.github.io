@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מדוע חוקתיות זכויות מעוררת התנגדות ציבורית בישראל, גם בקרב שחקנים שאינם בהכרח אנטי־ליברלים. הוא מתמקד באופן שבו טענות על שייכות וזהות קולקטיבית מערערות על התערבות שיפוטית להגנת זכויות.",
   "summaryHe": "המחקר משתמש בניתוח שיח איכותי של שלושה מקרים בישראל שבהם הגנה שיפוטית על זכויות אדם עוררה התנגדות ציבורית ופוליטית חריגה. הוא מזהה שלושה שיחי התנגדות: לאומי, קהילתי ונייטיביסטי־מקומי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "דנה אלכסנדר",
   "paperTitle": "Rights Constitutionalism and the Challenge of Belonging: An Empirical Inquiry into the Israeli Case",
   "authorsHtml": "<a href=\"https://www.ucl.ac.uk/laws/people/dana-alexander\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Alexander</a>",

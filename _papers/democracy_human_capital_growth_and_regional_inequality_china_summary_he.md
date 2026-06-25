@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הפיזור בקצב הצמיחה הכלכלית והצמיחה בפריון הכולל בין מחוזות בסין, ומקשר אותו להון פיזי, הון אנושי, תשתיות, טכנולוגיה ורפורמות שוק. מבחינה דמוקרטית, הוא מחדד את השאלה כיצד מדיניות פיתוח יכולה לצמצם פערים אזוריים ולא רק להגדיל תוצר ממוצע.",
   "summaryHe": "המחקר מנתח צמיחה מחוזית בסין ושואל מדוע אזורים שונים נהנים מקצב צמיחה ופריון שונה. לפי תקצירי המקור הזמינים, ההסבר משלב השקעה בהון פיזי, הון אנושי ותשתיות, חדירת טכנולוגיה והתפשטותה, השקעות זרות ישירות ורפורמות שוק, ובמיוחד השינוי סביב מסע הדרום של דנג שיאופינג ב־1992. המאמר מוצא כי הון אנושי משפיע חיובית על תפוקה לעובד ועל צמיחת פריון, ולכן חינוך ותשתיות אינם רק כלי יעילות אלא גם כלי לצמצום פערים אזוריים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Belton Fleisher, Haizheng Li, Min Qiang Zhao",
   "paperTitle": "Human capital, economic growth, and regional inequality in China",
   "authorsHtml": "<a href=\"https://economics.osu.edu/people/fleisher.1\" target=\"_blank\" rel=\"noopener noreferrer\">Belton Fleisher</a>; <a href=\"https://econ.gatech.edu/people/person/haizheng-li\" target=\"_blank\" rel=\"noopener noreferrer\">Haizheng Li</a>; Min Qiang Zhao",

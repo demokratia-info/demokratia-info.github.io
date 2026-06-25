@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מבחין בין עמדות חוצות בפועל לבין תפיסה עצמית של מורכבות פוליטית.",
   "descriptionHe": "המאמר בוחן כיצד אנשים שתופסים את עמדותיהם כחוצות מחנות צורכים חדשות פוליטיות, גם כאשר העמדות שלהם בפועל מיושרות יותר מכפי שנדמה להם. הוא חשוב לדמוקרטיה משום שפלורליזם תקשורתי עשוי להיות קשור לאופן שבו אזרחים מדמיינים את עצמם בתוך קיטוב.",
   "summaryHe": "Nitzan Attias, Dana Chudy, Eran Halperin ו-Meital Balmas מנתחים נתוני סקר משתי מדינות מקוטבות ומבחינים בין עמדות חוצות בפועל לבין עמדות חוצות נתפסות. לפי התקציר, משתתפים רבים טעו בהערכת מבנה עמדותיהם, והתפיסה הסובייקטיבית הייתה קשורה לצריכת חדשות פלורליסטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nitzan Attias, Dana Chudy, Eran Halperin, Meital Balmas",
   "paperTitle": "The illusion of political attitudes: perceived (and not actual) cross-cutting attitudes are associated with pluralistic news consumption",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0004-4267-8802\" target=\"_blank\" rel=\"noopener noreferrer\">Nitzan Attias</a>, <a href=\"https://orcid.org/0000-0002-2378-0287\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Chudy</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>, <a href=\"https://orcid.org/0000-0001-9191-0488\" target=\"_blank\" rel=\"noopener noreferrer\">Meital Balmas</a>",

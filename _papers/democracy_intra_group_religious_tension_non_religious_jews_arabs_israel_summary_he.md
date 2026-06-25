@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח איכותני של שתי קבוצות בישראל מצביע על גבולות של הבנה, שייכות והכרה בין לא־דתיים לבין בני קבוצתם הדתיים.",
   "descriptionHe": "המאמר בוחן מתחים דתיים בתוך קבוצות יהודיות וערביות בישראל, דרך חוויות של לא־דתיים משתי החברות.",
   "summaryHe": "Oriana Abboud-Armaly, Rachelly Ashwall-Yakar ו-Michal Raz-Rotem מנתחות שני מחקרים איכותניים שנערכו בישראל בשנים 2016-2019. המשתתפים כללו 28 יהודים חילונים ו-28 ערבים חילונים, והמחקר מצא דמיון מפתיע באתגרי ההכרה, השייכות והלגיטימיות מול בני קבוצה דתיים יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oriana Abboud-Armaly, Rachelly Ashwall-Yakar, Michal Raz-Rotem",
   "paperTitle": "Different Religions, Similar Experiences: Intra-Group Religious Tension Among Non-Religious Jews and Arabs in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7883-0854\" target=\"_blank\" rel=\"noopener noreferrer\">Oriana Abboud-Armaly</a>, <a href=\"https://orcid.org/0000-0002-8730-8432\" target=\"_blank\" rel=\"noopener noreferrer\">Rachelly Ashwall-Yakar</a>, <a href=\"https://orcid.org/0000-0002-0721-7427\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Raz-Rotem</a>",

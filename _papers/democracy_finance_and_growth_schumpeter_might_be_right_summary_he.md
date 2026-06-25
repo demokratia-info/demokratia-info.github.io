@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הטענה שמערכת פיננסית מפותחת אינה רק תוצאה של צמיחה, אלא יכולה לסייע לחזות ולעצב צמיחה עתידית. החשיבות הדמוקרטית היא בקשר בין מוסדות אמינים, הקצאת אשראי, השקעה ציבורית ויכולת של חברה לבנות הזדמנויות לאורך זמן.",
   "summaryHe": "המאמר מציב את המימון כחלק ממבנה מוסדי רחב: מתווכים פיננסיים, אכיפת חוזים, מידע על לווים והקצאת חסכונות משפיעים על השקעה, חדשנות ופריון. הביבליוגרפי הזמין, רמת הפיתוח הפיננסי של מדינה מסייעת לחזות את שיעור הצמיחה שלה לאורך השנים הבאות, באופן שמתיישב עם הרעיון השומפטריאני שלפיו שירותים פיננסיים יכולים להזין צמיחה ארוכת טווח. מבחינה דמוקרטית, הטענה אינה שמימון מחליף זכויות או מוסדות פוליטיים, אלא שמוסדות כלכליים שקופים והוגנים הם חלק מן התשתית המעשית שמאפשרת השתתפות, ניידות ואחריות ציבורית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Robert G. King, Ross Levine",
   "paperTitle": "Finance and Growth: Schumpeter Might Be Right",
   "authorsHtml": "<a href=\"https://www.bu.edu/urop/profile/robert-king/\" target=\"_blank\" rel=\"noopener noreferrer\">Robert G. King</a>; <a href=\"https://profiles.stanford.edu/ross-levine\" target=\"_blank\" rel=\"noopener noreferrer\">Ross Levine</a>",

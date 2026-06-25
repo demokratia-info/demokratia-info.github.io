@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מהומות אנטי־ערביות והשאלה המזרחית בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מהומות אנטי־ערביות והשאלה המזרחית בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hillel Cohen",
   "paperTitle": "Anti-Arab riots in Israel and the Mizrahi question, 1948-67",
   "authorsHtml": "<a href=\"https://en-hum.huji.ac.il/people/hillel-cohen\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Cohen</a>",

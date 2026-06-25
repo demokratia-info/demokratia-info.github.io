@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות, וממקם את הדיון בתוך שאלות של מוסדות, זכויות, אחריות ציבורית וכללי משחק משותפים. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בנסיגה דמוקרטית, פופוליזם ושחיקת מוסדות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Arend Lijphart",
   "paperTitle": "Israeli Democracy and Democratic Reform in Comparative Perspective",
   "authorsHtml": "<a href=\"https://polisci.ucsd.edu/people/faculty/faculty-directory/emeriti-faculty/lijphart-profile.html\" target=\"_blank\" rel=\"noopener noreferrer\">Arend Lijphart</a>",

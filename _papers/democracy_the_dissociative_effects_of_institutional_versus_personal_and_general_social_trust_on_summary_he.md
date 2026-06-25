@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על 100 מדינות מבחין בין אמון אישי וחברתי לבין אמון מוסדי שעלול להחליש ביקורת ציבורית.",
   "descriptionHe": "המאמר בוחן קשרים בין אמון אישי, אמון חברתי כללי ואמון מוסדי לבין דמוקרטיה, ומראה שאמון במוסדות אינו תמיד משאב דמוקרטי אם הוא מפחית פיקוח, השתתפות ודאגה לחירויות אזרח.",
   "summaryHe": "ירון זליכה מנתח נתונים מ־100 מדינות המייצגות לפי תקציר המקור 88.5% מאוכלוסיית העולם. הממצא המרכזי הוא הבחנה חדה: אמון אישי ואמון חברתי כללי קשורים לדמוקרטיה חזקה יותר ולתרבות פוליטית ליברלית יותר, ואילו אמון מוסדי גבוה עלול להיקשר לפחות השתתפות, פחות דאגה לחירויות אזרח ופחות אפקטיביות שלטונית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaron Zelekha",
   "paperTitle": "The Dissociative Effects of Institutional Versus Personal and General Social Trust on Democracy",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-4039-9699\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Zelekha</a>",

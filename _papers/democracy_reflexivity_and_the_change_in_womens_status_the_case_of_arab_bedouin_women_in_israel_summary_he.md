@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר ראיונות על ירידה בפריון, נורמות פטריארכליות ואסטרטגיות לשינוי חברתי.",
   "descriptionHe": "המאמר בוחן כיצד נשים ערביות־בדואיות בישראל מדברות באופן רפלקסיבי על נורמות משפחתיות וחברתיות שמאיימות על ביטחונן, יציבותן ומעמדן.",
   "summaryHe": "המחקר מציע שירידה בשיעורי הילודה בקרב נשים ערביות־בדואיות קשורה לתהליכי רפלקסיביות סביב נורמות פטריארכליות, שבהם נשים מפתחות אסטרטגיות לשיפור מעמדן, ביטחונן ויציבותן החברתית־כלכלית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Khawla Zoabi; Carol Fuller",
   "paperTitle": "Reflexivity and the change in women’s status: the case of Arab Bedouin women in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0002-8318-3860\" target=\"_blank\" rel=\"noopener noreferrer\">Khawla Zoabi</a>; <a href=\"https://orcid.org/0000-0002-3816-5068\" target=\"_blank\" rel=\"noopener noreferrer\">Carol Fuller</a>",

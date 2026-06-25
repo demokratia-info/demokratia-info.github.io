@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nadia Ben-Youssef, Sandra Samaan Tamari",
   "paperTitle": "Enshrining Discrimination: Israel's Nation-State Law",
   "authorsHtml": "Nadia Ben-Youssef; Sandra Samaan Tamari",

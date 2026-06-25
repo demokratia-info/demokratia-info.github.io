@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד חשבונות פוליטיים חריגים בטוויטר פעלו סביב מערכות בחירות, במסגרת מושג ה-sharp power. הוא מציג שיטה לזיהוי דפוסי פעילות של טרולים ובוטים פוליטיים ומקשר אותם לסיכון למערכות בחירות דמוקרטיות.",
   "summaryHe": "Hanouna ושותפיו מנתחים ארבעה מאגרי טוויטר הקשורים לבחירות לפרלמנט האירופי ב-2019, לשתי מערכות הבחירות בישראל ב-2019 ולקמפיין הפדרלי בקנדה באוקטובר 2019. הם מזהים אלפי חשבונות שעסקו בפוליטיקה קנדית והציגו דפוסי פעילות שונים באופן מובהק מקבוצת ביקורת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Simo Hanouna, Omer Neu, Sharon Pardo, Oren Tsur, Hila Zahavi",
   "paperTitle": "Sharp power in social media: Patterns from datasets across electoral campaigns",
   "authorsHtml": "Simo Hanouna, Omer Neu, <a href=\"https://orcid.org/0000-0003-3886-3664\" target=\"_blank\" rel=\"noopener noreferrer\">Sharon Pardo</a>, <a href=\"https://orcid.org/0000-0002-6809-2234\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Tsur</a>, <a href=\"https://orcid.org/0000-0001-8933-9489\" target=\"_blank\" rel=\"noopener noreferrer\">Hila Zahavi</a>",

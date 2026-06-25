@@ -7,6 +7,7 @@
   "subtitleHe": "קבוצות דיון עם תלמידים באנגליה מדגישות את הערך האזרחי והאישי של לימוד סוגיות שנויות במחלוקת.",
   "descriptionHe": "המאמר בוחן את עמדות תלמידים לגבי הוראת סוגיות שנויות במחלוקת כחלק מחינוך דמוקרטי בזמנים מקוטבים.",
   "summaryHe": "Simon Eten Angyagre מנתח דיוני קבוצות עם תלמידים בבתי ספר תיכוניים באנגליה כדי להבין כיצד הם תופסים הוראת סוגיות שנויות במחלוקת. המאמר מדגיש שהדיון במחלוקת חשוב גם להתפתחות אינטלקטואלית ואישית מול פייק ניוז ומידע מטעה, וגם לרכישת מיומנויות פוליטיות ואזרחיות להשתתפות עתידית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Simon Eten Angyagre",
   "paperTitle": "Democratic education and the teaching of controversial issues in polarising times: Students’ views and experiences",
   "authorsHtml": "Simon Eten Angyagre",

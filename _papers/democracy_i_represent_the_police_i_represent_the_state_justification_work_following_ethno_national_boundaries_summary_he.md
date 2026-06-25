@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את עבודת ההצדקה של שוטרות ערביות במשטרת ישראל, ואת האופן שבו הן מתמודדות עם חציית גבולות מגדריים, אתנו־לאומיים ומרחביים.",
   "summaryHe": "המחקר מבוסס על ראיונות איכותניים מובנים למחצה עם 27 שוטרות ערביות במשטרת ישראל. הניתוח מראה כיצד המשתתפות מסבירות את בחירתן המקצועית ומתמודדות עם ביקורת, קונפליקטים ערכיים ויחסי אמון מתוחים בין המשטרה לבין האוכלוסייה הערבית בישראל.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Tal Meler",
   "paperTitle": "“I represent the police I represent the state” – Justification work following ethno-national boundaries crossing among Arab female police officers in Israel",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/tal-meler/\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Meler</a>",

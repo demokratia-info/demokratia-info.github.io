@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מפתח תיאוריית צמיחה אבולוציונית שמסבירה את המעבר ההיסטורי מקיפאון מלתוסיאני לצמיחה כלכלית מתמשכת דרך יחסי הגומלין בין אוכלוסייה, טכנולוגיה, הון אנושי ופוריות.",
   "summaryHe": "Galor ו-Moav טוענים שקיפאון כלכלי ממושך יצר לחצי ברירה טבעית שהעדיפו השקעה באיכות הילדים ובהון אנושי. שינוי זה בהרכב ההעדפות באוכלוסייה תרם להתקדמות טכנולוגית, למעבר דמוגרפי ולצמיחה מתמשכת.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Oded Galor, Omer Moav",
   "paperTitle": "Natural Selection and the Origin of Economic Growth",
   "authorsHtml": "<a href=\"https://economics.brown.edu/people/oded-galor\" target=\"_blank\" rel=\"noopener noreferrer\">Oded Galor</a>, <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>",

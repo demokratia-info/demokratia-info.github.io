@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר ממפה נקודות תורפה מבניות שמאפשרות שחיתות פוליטית מקומית, ומראה מדוע ממשל מקומי נקי תלוי גם ביחסי כוח בין המדינה, הרשויות והשחקנים בתוך הרשות.",
   "summaryHe": "המאמר של Itai Beeri ו-Doron Navot מנתח שחיתות פוליטית מקומית כתוצר של מבנים מוסדיים, ולא רק ככשל אישי של נבחרי ציבור. הוא מבחין בין כשלים בממשק בין השלטון המרכזי והמקומי, בין רשויות מקומיות שונות ובתוך הרשות עצמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Itai Beeri, Doron Navot",
   "paperTitle": "Local Political Corruption: Potential structural malfunctions at the central–local, local–local and intra-local levels",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/itai-beeri/\" target=\"_blank\" rel=\"noopener noreferrer\">Itai Beeri</a>, <a href=\"https://cris.haifa.ac.il/en/persons/doron-navot/\" target=\"_blank\" rel=\"noopener noreferrer\">Doron Navot</a>",

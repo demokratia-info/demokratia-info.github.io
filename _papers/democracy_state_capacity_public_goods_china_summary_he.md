@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן באופן סיבתי את תפקיד היכולת המדינתית באספקת מוצרים ציבוריים ובביצועים כלכליים במחוזות בסין. הוא מדגיש שמדינה אפקטיבית אינה רק מנגנון גבייה, אלא יכולת להפוך משאבים ציבוריים להשקעה, שירותים ותמריצים פרטיים.",
   "summaryHe": "Cheng, Gawande ו־Qi משתמשים בשונות היסטורית באבדות אוכלוסייה בשל שלוש מרידות בשנים 1851-1880 ככלי לזיהוי שונות גאוגרפית ביכולת מדינתית מודרנית. מחוזות עם יכולת מדינתית גבוהה בסטיית תקן אחת מציגים פעילות חברתית־כלכלית גבוהה בכ־84%, וההשפעה עוברת דרך הוצאות ממשלה גבוהות יותר, מוצרים ציבוריים טובים יותר והשקעה פרטית מתומרצת יותר. המאמר מסייע להבחין בין מדינה חזקה במובן של יכולת ציבורית לבין כוח שלטוני בלתי מוגבל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hua Cheng, Kishore Gawande, Shusen Qi",
   "paperTitle": "State capacity, economic output, and public goods in China",
   "authorsHtml": "<a href=\"https://isbf.sysu.edu.cn/zh-hans/teacher/2638\" target=\"_blank\" rel=\"noopener noreferrer\">Hua Cheng</a>; <a href=\"https://mccombs.utexas.edu/faculty-and-research/faculty-directory/kishore-gawande/\" target=\"_blank\" rel=\"noopener noreferrer\">Kishore Gawande</a>; <a href=\"https://scholar.xmu.edu.cn/Authors/Index?id=QiShuSen\" target=\"_blank\" rel=\"noopener noreferrer\">Shusen Qi</a>",

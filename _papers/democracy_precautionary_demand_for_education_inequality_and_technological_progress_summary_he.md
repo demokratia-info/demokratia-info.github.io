@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד שינוי טכנולוגי מגדיל סיכון ואי־שוויון בשוק העבודה, וכיצד הסיכון הזה משפיע על החלטות השכלה. הוא חשוב לדיון ציבורי משום שהוא מצביע על קשר בין מבנה הכלכלה, נגישות להשכלה ופערים בין עובדים משכילים ולא משכילים.",
   "summaryHe": "המאמר טוען ששינוי טכנולוגי מגדיל במיוחד את הסיכון של עובדים חסרי השכלה, מפני שכישוריהם תלויי־טכנולוגיה נשחקים מהר יותר. מול הסיכון הזה נוצרת דרישה זהירותית להשכלה כללית, שמסייעת להסתגל לטכנולוגיות חדשות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Eric D. Gould, Omer Moav, Bruce A. Weinberg",
   "paperTitle": "Precautionary Demand for Education, Inequality, and Technological Progress",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6564-2168\" target=\"_blank\" rel=\"noopener noreferrer\">Eric D. Gould</a>, <a href=\"https://omermoav.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Omer Moav</a>, <a href=\"https://economics.osu.edu/people/weinberg.27\" target=\"_blank\" rel=\"noopener noreferrer\">Bruce A. Weinberg</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את מקומו של בית המשפט העליון הישראלי בביקורת על פעולות הרשויות בשטחים הפלסטיניים הכבושים, ובמיוחד ביחס להתנחלויות. הוא מדגיש את המתח בין ביקורת שיפוטית מרסנת לבין פסיקה שאפשרה למדיניות ההתנחלות להתבסס.",
   "summaryHe": "Kretzmer מתאר כיצד בג\"ץ דן באלפי עתירות הנוגעות לשלטון הישראלי בשטחים, ובהן הריסות בתים, גירוש, תפיסת קרקע, היתרי כניסה והקמת התנחלויות. ביחס להתנחלויות, המאמר עוקב אחר פסקי דין מרכזיים ומראה כיצד בית המשפט השפיע על גבולות הפעולה של הרשויות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "David Kretzmer",
   "paperTitle": "Settlements in the Supreme Court of Israel",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/david-kretzmer\" target=\"_blank\" rel=\"noopener noreferrer\">David Kretzmer</a>",

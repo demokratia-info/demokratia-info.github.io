@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית בתי המשפט, שלטון החוק והאיזונים המוסדיים בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "W. T. Mallison; S. V. Mallison",
   "paperTitle": "The Role of International Law in Achieving Justice and Peace in Palestine-Israel",
   "authorsHtml": "W. T. Mallison; S. V. Mallison",

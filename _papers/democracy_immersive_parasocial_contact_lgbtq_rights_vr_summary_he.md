@@ -7,6 +7,7 @@
   "subtitleHe": "ניסוי על מגע בין־קבוצתי פרה־חברתי בוחן כיצד וידאו 360 מעלות, נוכחות חברתית ולקיחת פרספקטיבה משפיעים על סטריאוטיפים ותמיכה בזכויות.",
   "descriptionHe": "המאמר בוחן אם חוויית VR נרטיבית מפחיתה סטריאוטיפים ומגבירה תמיכה בזכויות להט״ב לעומת וידאו דו־ממדי רגיל.",
   "summaryHe": "Nili Steinfeld בוחנת חוויית וידאו 360 מעלות שבה מופיע גבר הומוסקסואל בעל זהות דתית, ומשווה אותה לחוויה דו־ממדית. לפי תקציר המאמר, חוויית ה-VR הגדילה תמיכה בזכויות משפחה לגברים הומואים ושינתה תפיסות לגבי התאמה בין הומוסקסואליות לזהות דתית, כאשר תחושת נוכחות חברתית שימשה מתווך מרכזי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nili Steinfeld",
   "paperTitle": "Immersive parasocial Intergroup Contact: 360-degree immersive experience reduces stereotypes and promotes support for LGBTQ + rights",
   "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/communication/en/nili-steinfeld/\" target=\"_blank\" rel=\"noopener noreferrer\">Nili Steinfeld</a>",

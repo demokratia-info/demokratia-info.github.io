@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את הגישה להליכי פונדקאות בישראל עבור הקהילה הלהט\"בית, ואת הקשר בין דיני פונדקאות לזכות לשוויון, חיי משפחה והורות. הוא מתמקד בהתפתחות המשפטית בישראל, בתיקון חוק הפונדקאות ובפסיקת בג\"ץ 781/15.",
   "summaryHe": "המאמר מנתח את חוק הפונדקאות בישראל ואת פסיקת בג\"ץ 781/15, וטוען שהסדרי הגישה לפונדקאות פגעו בשוויון ובזכות להורות של יחידים וזוגות גברים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Ilany, Netta Ilany",
   "paperTitle": "The LGBT community in Israel: access to the surrogacy procedure and legal right for equality, family life and parenthood",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-6111-1730\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Ilany</a>, <a href=\"https://orcid.org/0000-0002-9413-4266\" target=\"_blank\" rel=\"noopener noreferrer\">Netta Ilany</a>",

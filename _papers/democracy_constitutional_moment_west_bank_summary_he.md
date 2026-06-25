@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר טוען שאי אפשר להבין את הרגע החוקתי בישראל בלי להתייחס גם לשאלת השליטה בגדה המערבית ולמי נכלל בתוך הקהילה הפוליטית שמעצבת את החוקה.",
   "summaryHe": "מבט על הקשר בין המשבר החוקתי בישראל לבין המציאות המשפטית והפוליטית בגדה המערבית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס",
   "paperTitle": "The Constitutional Overhaul and the West Bank: Is Israel's Constitutional Moment Occupied?",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

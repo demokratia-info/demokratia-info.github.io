@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה תשובות של ועדות מחוזיות להתנגדויות לתכניות בתשע ערים בישראל. הוא מראה שהליך שנראה פתוח ושיתופי יכול לשמר הטיה לטובת שחקנים חזקים ולייצר הכללה פורמלית בלבד.",
   "summaryHe": "Margalit ו־Kemp מנתחות כיצד ועדות תכנון משיבות למתנגדים מקצועיים, יזמיים ואזרחיים, וכיצד ההצדקות משתנות לאורך פערים חברתיים־מרחביים. הממצא המרכזי הוא שילוב של הטיה חיובית כלפי חזקים, הטיה שלילית כלפי חלשים ותשובות ניטרליות יותר לאמצע, היוצרות מופע של הכללה בלי שוויון ממשי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Talia Margalit, Adriana Kemp",
   "paperTitle": "Stratified and defensive planning democracy: Hearings on objections to plans in nine Israeli cities",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/taliamar\" target=\"_blank\" rel=\"noopener noreferrer\">Talia Margalit</a>; <a href=\"https://english.tau.ac.il/profile/akemp\" target=\"_blank\" rel=\"noopener noreferrer\">Adriana Kemp</a>",

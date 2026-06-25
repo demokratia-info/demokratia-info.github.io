@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית משתפי פעולה, צדק מעברי והסכסוך הישראלי־פלסטיני דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ron Dudai, Hillel Cohen",
   "paperTitle": "Triangle of Betrayal: Collaborators and Transitional Justice in the Israeli-Palestinian Conflict",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0660-0704\" target=\"_blank\" rel=\"noopener noreferrer\">Ron Dudai</a>, <a href=\"https://en-hum.huji.ac.il/people/hillel-cohen\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Cohen</a>",

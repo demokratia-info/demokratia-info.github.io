@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מדוע אזרחים עשויים להעניק לגיטימציה לאלימות של מחנה פוליטי אחד נגד מחנה יריב. הוא משווה בין הסבר רגשי המבוסס על קיטוב רגשי לבין הסבר אינסטרומנטלי המבוסס על תחושה שלקבוצה אין דרכים לא אלימות יעילות להשיג את מטרותיה.",
   "summaryHe": "המאמר משווה בין קיטוב רגשי לבין יעילות קבוצתית לא אלימה נמוכה כהסברים ללגיטימציה של אלימות בין מחנות פוליטיים, באמצעות סקרים בישראל ובארצות הברית בשנת 2020.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Tal Orian Harel, Eric Shuman, Ifat Maoz, Meital Balmas, Eran Halperin",
   "paperTitle": "Examining real-world legitimization of cross-party violence through two explanatory frameworks: Affective polarization and low group efficacy",
   "authorsHtml": "<a href=\"https://www.asc.upenn.edu/people/faculty/tal-orian-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Tal Orian Harel</a>, <a href=\"https://psychology.as.virginia.edu/people/eric-shuman\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Shuman</a>, <a href=\"https://en.communication.huji.ac.il/people/prof-ifat-maoz\" target=\"_blank\" rel=\"noopener noreferrer\">Ifat Maoz</a>, <a href=\"https://orcid.org/0000-0001-9191-0488\" target=\"_blank\" rel=\"noopener noreferrer\">Meital Balmas</a>, <a href=\"https://en.psychology.huji.ac.il/people/eran-halperin-0\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Halperin</a>",

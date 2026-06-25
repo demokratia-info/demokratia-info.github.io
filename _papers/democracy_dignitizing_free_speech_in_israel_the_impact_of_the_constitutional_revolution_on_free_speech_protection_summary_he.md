@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד המהפכה החוקתית של 1992 השפיעה על ההגנה על חופש הביטוי בישראל דרך התחזקות מושג כבוד האדם בפסיקת בית המשפט העליון.",
   "summaryHe": "המאמר טוען כי עיגון כבוד האדם בחוקי היסוד הוביל לניתוח גובר של חופש הביטוי במונחי כבוד, וכי מהלך זה עלול לצמצם את ההגנה על ביטוי.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Guy E. Carmi",
   "paperTitle": "“Dignitizing” Free Speech in Israel: The Impact of the Constitutional Revolution on Free Speech Protection",
   "authorsHtml": "Guy E. Carmi",

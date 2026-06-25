@@ -8,6 +8,7 @@
   "subtitleHe": "גיא לוריא, אמנון רייכמן ויאיר שגיא מנתחים את מנהל בתי המשפט בישראל כרגולטור של שופטים וכמוסד חיוני להבנת עצמאות הרשות השופטת.",
   "descriptionHe": "המאמר ב-Regulation & Governance בוחן את תהליך הסוכנותיות של הנהלת בתי המשפט בישראל, ואת השפעתו על ניהול שופטים, עצמאות שיפוטית, יעילות ומערכת האיזונים בין רשויות.",
   "summaryHe": "המאמר מראה שעצמאות שיפוטית אינה תלויה רק במינוי שופטים או בפסקי דין, אלא גם במבנה המנהלי שמנהל את בתי המשפט ואת עבודת השופטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "גיא לוריא, אמנון רייכמן ויאיר שגיא",
   "paperTitle": "Agencification and the administration of courts in Israel",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>; <a href=\"https://law.haifa.ac.il/en/our-staff/lecturers/amnon-reichman/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Reichman</a>; <a href=\"https://cris.haifa.ac.il/en/persons/yair-sagy/\" target=\"_blank\" rel=\"noopener noreferrer\">Yair Sagy</a>",

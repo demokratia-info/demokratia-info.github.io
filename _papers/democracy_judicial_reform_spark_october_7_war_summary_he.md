@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר טוען כי מאבק פנימי סביב מערכת המשפט השפיע על תפיסות הרתעה של ארגונים עוינים, ומדגיש את חשיבות הלכידות לדמוקרטיה במצב ביטחוני.",
   "descriptionHe": "המאמר בוחן את הקשר שטוען המחבר בין הרפורמה המשפטית בישראל, המחאה האזרחית ותפיסת ההרתעה לפני 7 באוקטובר.",
   "summaryHe": "Mordechai Levy מנתח את הרפורמה המשפטית ואת המחאה שנמשכה חודשים ארוכים לפני מתקפת 7 באוקטובר. לפי טענתו, ארגוני חמאס והג׳יהאד האסלאמי פירשו את הפילוג הפנימי בישראל כסימן לחולשה, ולכן לכידות חברתית מוצגת כחלק מתפיסת ההרתעה ולא רק כערך אזרחי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mordechai Levy",
   "paperTitle": "The Judicial Reform in Israel: the Spark that Led to the October 7th War",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0002-7223-6891\" target=\"_blank\" rel=\"noopener noreferrer\">Mordechai Levy</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק במוסדות דמוקרטיים ואחריות ציבורית, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Momi Dahan, Michel Strawczynski",
   "paperTitle": "Budget institutions and government effectiveness",
   "authorsHtml": "<a href=\"https://en.public-policy.huji.ac.il/people/momi-dahan\" target=\"_blank\" rel=\"noopener noreferrer\">Momi Dahan</a>, <a href=\"https://michelstrawczynski.huji.ac.il/\" target=\"_blank\" rel=\"noopener noreferrer\">Michel Strawczynski</a>",

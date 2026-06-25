@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר חתך על עמדות הציבור בישראל כלפי אמירת אמת לחולים סופניים והסיוע לסיום חיים.",
   "summaryHe": "המאמר בוחן עמדות ציבור בישראל כלפי שאלות אתיות בסוף החיים, ובהן אמירת אמת לחולים סופניים וסיוע רפואי למוות. בסקר מקוון מייצג של 515 משתתפים נמצא רוב לתמיכה באמירת אמת גם במצבים קשים, ותמיכה מפוצלת יותר בסיוע לסיום חיים, עם הבדלים חזקים לפי דתיות וקבוצת אוכלוסייה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Moran Bodas; Baruch Velan; Giora Kaplan; Arnona Ziv; Carmit Rubin; Kobi Peleg",
   "paperTitle": "Assisted life termination and truth telling to terminally ill patients – a cross-sectional study of public opinions in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-6182-6362\" target=\"_blank\" rel=\"noopener noreferrer\">Moran Bodas</a>; <a href=\"https://orcid.org/0000-0002-2725-3249\" target=\"_blank\" rel=\"noopener noreferrer\">Baruch Velan</a>; <a href=\"https://orcid.org/0000-0001-9341-1332\" target=\"_blank\" rel=\"noopener noreferrer\">Giora Kaplan</a>; <a href=\"https://orcid.org/0000-0003-1147-8686\" target=\"_blank\" rel=\"noopener noreferrer\">Arnona Ziv</a>; Carmit Rubin; <a href=\"https://english.tau.ac.il/profile/peleg\" target=\"_blank\" rel=\"noopener noreferrer\">Kobi Peleg</a>",

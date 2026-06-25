@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית ביקורת שיפוטית נחותה וחוקתיות עממית בערכאות דיוניות דרך עדשה של חוקתיות, ביקורת על כוח שלטוני ושמירה על שלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ori Aronson",
   "paperTitle": "Inferiorizing Judicial Review: Popular Constitutionalism in Trial Courts",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-5180-1583\" target=\"_blank\" rel=\"noopener noreferrer\">Ori Aronson</a>",

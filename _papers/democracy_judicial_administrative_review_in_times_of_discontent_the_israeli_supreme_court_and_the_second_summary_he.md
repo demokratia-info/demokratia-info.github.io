@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית ביקורת מינהלית בתקופת האינתיפאדה השנייה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית ביקורת מינהלית בתקופת האינתיפאדה השנייה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Guy I. Seidman",
   "paperTitle": "Judicial Administrative Review in Times of Discontent: The Israeli Supreme Court and the Second Palestinian Uprising",
   "authorsHtml": "Guy I. Seidman",

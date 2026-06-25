@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני בארבעה ארגונים ישראליים מראה כיצד חזון, מבנה, שותפויות ושיטות עבודה משפיעים על יכולתם לקדם שוויון ורב־תרבותיות.",
   "descriptionHe": "המאמר מנתח ארבעה ארגונים ישראליים הפועלים לקידום חברה משותפת, ובוחן את ההתאמה הפנימית שלהם באמצעות מסגרת McKinsey 7S.",
   "summaryHe": "Wurud Jayusi ו-Adi Binhas ראיינו שבעה בעלי תפקידים מרכזיים בארבעה ארגוני חברה אזרחית ובחנו גם אתרי ארגונים כדי להבין חזון, אסטרטגיות, מבנה והרכב צוותים. הממצאים מראים כי הארגונים חולקים מטרות דומות אך מתמחים בתחומים שונים, וכי המבנים שלהם משקפים מחויבות לשוויון ולרב־תרבותיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Wurud Jayusi, Adi Binhas",
   "paperTitle": "Vision, Function, and Influence: Analyzing NGOs for a Shared Society in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-0754-6703\" target=\"_blank\" rel=\"noopener noreferrer\">Wurud Jayusi</a>, <a href=\"https://orcid.org/0000-0002-0791-1590\" target=\"_blank\" rel=\"noopener noreferrer\">Adi Binhas</a>",

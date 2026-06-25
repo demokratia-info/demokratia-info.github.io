@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמדו החוקתי של כבוד האדם בישראל ובהשוואה דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ariel L. Bendor; Michael Sachs",
   "paperTitle": "The Constitutional Status of Human Dignity in Germany and Israel",
   "authorsHtml": "<a href=\"https://law.biu.ac.il/en/node/475\" target=\"_blank\" rel=\"noopener noreferrer\">Ariel L. Bendor</a>; Michael Sachs",

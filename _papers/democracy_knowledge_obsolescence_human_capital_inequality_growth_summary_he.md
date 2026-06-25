@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד אוטומציה והתיישנות מהירה של ידע יכולות להעמיק אי־שוויון בהון אנושי ולפגוע בצמיחה. מבחינה דמוקרטית, הוא מציב את הלמידה לאורך החיים כתשתית ציבורית: בלי מוסדות שמאפשרים עדכון מיומנויות, שוק העבודה עלול להפוך למנגנון הדרה.",
   "summaryHe": "המחקר מציג נקודת מבט רשתית על צבירת הון אנושי בחברה שבה ידע מתיישן מהר. לפי תקצירי המקור, התיישנות ידע, מגבלות קוגניטיביות והחשש מאבטלה טכנולוגית יכולים להקשות על עובדים ליצור קשרי למידה, להאט צמיחה ולהעמיק מלכודות מיומנות נמוכה. לכן המאמר חשוב לדיון דמוקרטי מפני שהוא מחבר בין טכנולוגיה, שוויון הזדמנויות ומוסדות הכשרה ציבוריים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Philipp Tobias Hohn, Torben Klarl",
   "paperTitle": "Knowledge obsolescence, human capital inequality, and growth: A network perspective in an automated knowledge society",
   "authorsHtml": "Philipp Tobias Hohn; <a href=\"https://orcid.org/0000-0002-3059-1150\" target=\"_blank\" rel=\"noopener noreferrer\">Torben Klarl</a>",

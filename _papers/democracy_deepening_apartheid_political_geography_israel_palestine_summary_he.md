@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח את ישראל/פלסטין דרך גאוגרפיה פוליטית וטוען כי המשטר בין הים לנהר מתאפיין בתהליך של העמקת אפרטהייד. הוא קושר בין קולוניזציה, עליונות משפטית-פוליטית, תכנון מרחבי ומעמדות אזרחיים לא שווים.",
   "summaryHe": "המאמר בוחן את המשטר בישראל/פלסטין כמשטר מרחבי אחד שבו מסגרות משפטיות ופוליטיות שונות מייצרות היררכיה בין קבוצות. הניתוח מדגיש קרקע, התיישבות, תנועה ומעמד אזרחי כמרכיבים מרכזיים בהבנת דמוקרטיה ושוויון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Oren Yiftachel",
   "paperTitle": "Deepening apartheid: The political geography of colonizing Israel/Palestine",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>",

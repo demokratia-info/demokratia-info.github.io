@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן השתתפות פוליטית מקוונת של צעירים בישראל תחת קיטוב חברתי ופוליטי. באמצעות יומני פעילות מפייסבוק וראיונות עומק, הוא מראה כיצד צעירים מנווטים בין רצון להשתתף לבין חשש מחשיפה, עימות והזדהות מפלגתית ברורה מדי.",
   "summaryHe": "Limor Ziv ו-Gal Yavetz ניתחו 23,223 פעולות פייסבוק של 50 משתתפים, ובהן 2,323 דפוסים פוליטיים־מפלגתיים ו-1,434 דפוסים חברתיים־פוליטיים, לצד ראיונות עומק. הממצא המרכזי הוא שפעילות מקוונת חושפת לעיתים ״אני פוליטי״ נסתר: המשתתפים נוטים לאינטראקציות לא מחייבות כמו לייקים ומרגישים נוח יותר בזירות חברתיות־פוליטיות מאשר בוויכוח מפלגתי ישיר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Limor Ziv, Gal Yavetz",
   "paperTitle": "Navigating the political minefield: strategies for online participation in a polarized society",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8169-9623\" target=\"_blank\" rel=\"noopener noreferrer\">Limor Ziv</a>, <a href=\"https://orcid.org/0000-0002-9147-4134\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Yavetz</a>",

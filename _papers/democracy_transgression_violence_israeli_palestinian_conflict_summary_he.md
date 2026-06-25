@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח כיצד מחאה, הפרת נורמות, כוח מדינתי ופלטפורמות דיגיטליות יכולים להסלים פחד ומידע מטעה.",
   "descriptionHe": "המאמר בוחן את גבולות הטרנסגרסיה והאלימות במסגרת הסכסוך הישראלי־פלסטיני ואת הדילמות הדמוקרטיות שהן יוצרות.",
   "summaryHe": "Yaron Katz מציג ניתוח תאורטי של הקשר בין טרנסגרסיה, אלימות ודילמות מוסריות בדמוקרטיה, תוך שימוש בסכסוך הישראלי־פלסטיני כמקרה מרכזי. הוא מבחין בין הפרת נורמות כמו מחאה או אי־ציות אזרחי לבין אלימות פיזית או שימוש בכוח, ומדגיש כיצד פלטפורמות דיגיטליות, פחד קולקטיבי ומידע מטעה יכולים להאיץ הסלמה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaron Katz",
   "paperTitle": "Exploring the Limits of Transgression and Violence within the Israeli-Palestinian Conflict",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3348-7778\" target=\"_blank\" rel=\"noopener noreferrer\">Yaron Katz</a>",

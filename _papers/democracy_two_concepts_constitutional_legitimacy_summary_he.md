@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מבחין בין חוקות שמבססות את סמכותן על ייצוג לבין חוקות שמבססות אותה על צדק ותבונה, ומראה כיצד ההבדל משפיע על ניסוח, אשרור ופעולה חוקתית.",
   "descriptionHe": "המאמר מבחין בין שתי תפיסות של לגיטימיות חוקתית: ייצוג של העם לעומת הצדקה המבוססת על צדק, תבונה והסדרים חוקתיים ראויים.",
   "summaryHe": "Alon Harel ו-Adam Shinar שואלים מה מעניק לחוקה לגיטימיות. לפי תקציר המאמר, חוקות יכולות להישען בעיקר על ייצוג העם או על הצדקות של צדק ותבונה, וההבחנה משפיעה על האופן שבו חוקות נכתבות, מאושררות ופועלות לאורך זמן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Alon Harel, Adam Shinar",
   "paperTitle": "Two concepts of constitutional legitimacy",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/alon-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Alon Harel</a>, <a href=\"https://www.runi.ac.il/en/faculty/ashinar\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Shinar</a>",

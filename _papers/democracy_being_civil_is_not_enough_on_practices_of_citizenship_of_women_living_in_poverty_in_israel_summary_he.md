@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד נשים החיות בעוני בישראל הפכו את מאבקן לדיור ציבורי ממאבק אישי למעשה אזרחי ופוליטי. הוא מציב במרכז את סיפורי החיים שלהן ואת משמעות הבית, הזכויות והאזרחות מתוך ניסיונן.",
   "summaryHe": "Levy ו־Kohan-Benlulu מנתחים את מאבק הדיור הציבורי לאחר מחאת האוהלים של 2011 באמצעות סיפורי חיים של נשים בעוני. המאמר מראה כיצד אכזבה ממסלול זכויות פורמלי הובילה לצורות אזרחות אזרחיות, מגוונות ופעילות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gal Levy, Riki Kohan-Benlulu",
   "paperTitle": "Being civil is not enough: On practices of citizenship of women living in poverty in Israel",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/drgallevy.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Levy</a>, Riki Kohan-Benlulu",

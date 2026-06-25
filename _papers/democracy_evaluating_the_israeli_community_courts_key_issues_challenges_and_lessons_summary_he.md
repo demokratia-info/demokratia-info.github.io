@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר משתמש בהערכת בתי המשפט הקהילתיים בישראל כדי לדון בשאלות מחקר, מתודולוגיה, אתיקה ולוגיסטיקה שמעבר למדידת עבריינות חוזרת בלבד.",
   "descriptionHe": "Tali Gal ו-Hadar Dancig-Rosenberg מנתחות את הערכת בתי המשפט הקהילתיים בישראל. לפי התקציר, שמונה בתי משפט כאלה הוקמו בעשור האחרון, והמאמר משתמש בשלושה מודולי מחקר כדי לדון באתגרים של הערכת צדק קהילתי ושיקומי.",
   "summaryHe": "המאמר אינו מציג רק תוצאות של הערכה, אלא משתמש בתהליך ההערכה עצמו כדי לשאול מה צריך למדוד כאשר מערכת משפט פלילי עוברת מגישה רגילה לגישה קהילתית ושיקומית. הוא מדגיש תצפיות מובנות בדיונים, ראיונות עומק עם משתתפים והשוואת דפוסי עבריינות חוזרת כמקורות ללמידה מוסדית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tali Gal, Hadar Dancig-Rosenberg",
   "paperTitle": "Evaluating the Israeli Community Courts: Key Issues, Challenges and Lessons",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/tali-gal\" target=\"_blank\" rel=\"noopener noreferrer\">Tali Gal</a>, <a href=\"https://cris.biu.ac.il/en/persons/hadar-dancig-rosenberg/\" target=\"_blank\" rel=\"noopener noreferrer\">Hadar Dancig-Rosenberg</a>",

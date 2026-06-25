@@ -8,6 +8,7 @@
   "subtitleHe": "רועי לוי משתמש בניסוי שדה כדי לבדוק כיצד חשיפה לחדשות בפייסבוק משפיעה על אתרי חדשות, עמדות כלפי המפלגה היריבה ודעות פוליטיות.",
   "descriptionHe": "מאמרו של רועי לוי ב-American Economic Review מציג ניסוי שדה על צריכת חדשות ברשתות חברתיות, חשיפה לתוכן תואם או מנוגד לעמדות, והשפעת אלגוריתמים על קיטוב פוליטי.",
   "summaryHe": "המאמר מראה שרשתות חברתיות משפיעות על סוג החדשות שאנשים צורכים ועל רגשות כלפי היריב הפוליטי, אך לא בהכרח משנות דעות מדיניות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "רועי לוי",
   "paperTitle": "Social Media, News Consumption, and Polarization: Evidence from a Field Experiment",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/roeelevy\" target=\"_blank\" rel=\"noopener noreferrer\">Roee Levy</a>",

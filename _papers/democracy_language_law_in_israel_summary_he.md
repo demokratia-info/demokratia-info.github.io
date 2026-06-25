@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את דיני השפה בישראל כזירה שבה משפט, אידיאולוגיה ופרקטיקה מתנגשים סביב מעמד העברית והערבית.",
   "summaryHe": "המאמר מנתח כיצד המחוקק ובתי המשפט מאזנים בין עברית כסמל לאומי לבין זכויות שפה של דוברי ערבית וקבוצות נוספות.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yocheved Deutch",
   "paperTitle": "Language Law in Israel",
   "authorsHtml": "Yocheved Deutch",

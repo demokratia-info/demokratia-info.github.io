@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משתמש בהערכת השפעה חברתית כדי לבחון תכנון עירוני בבאר שבע דרך עקרונות של עיר צודקת. הוא מראה שתכנון יכול לקדם שוויון ודמוקרטיה, אך גם להחמיץ פגיעות של עקירה, מיעוטים וגרעון השתתפותי.",
   "summaryHe": "Yiftachel ו־Mandelbaum בוחנים את תכנון באר שבע דרך מסגרת העיר הצודקת של שוויון, מגוון ודמוקרטיה. המאמר מדגיש שהערכת השפעה חברתית יכולה לחשוף גם צעדים חיוביים לצמצום אי־שוויון וגם נקודות עיוורון, כגון סכנות עקירה, צרכי מיעוטים וחסר דמוקרטי בתהליך.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oren Yiftachel, Rani Mandelbaum",
   "paperTitle": "Doing the Just City: Social Impact Assessment and the Planning of Beersheba, Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/oren-yiftachel\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Yiftachel</a>; Rani Mandelbaum",

@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח את כהונתה מול משברים חוקתיים מתגלגלים וטוען שבית המשפט פיתח אסטרטגיות לשימור כוחו מול הרשות המבצעת והמחוקקת.",
   "descriptionHe": "המאמר בוחן את נשיאות אסתר חיות בבית המשפט העליון ואת תפקיד בית המשפט במשברים החוקתיים בישראל בשנים 2018-2023.",
   "summaryHe": "Yaniv Roznai ו-Shani Schnitzer מנתחים את כהונת נשיאת בית המשפט העליון אסתר חיות על רקע מתקפות פוליטיות ומשברים חוקתיים בישראל בשנים 2018-2023. לטענתם, חיות פיתחה אסטרטגיות שיפוטיות שאפשרו לבית המשפט לשמר ואף לחזק את כוחו, בעיקר דרך ביקורת שיפוטית על תיקונים חוקתיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yaniv Roznai, Shani Schnitzer",
   "paperTitle": "Navigating the judicial ship through stormy waters: President Esther Hayut and the Israeli constitutional crises, 2018–23",
   "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/yroznai\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Roznai</a>, <a href=\"https://orcid.org/0009-0003-0678-3018\" target=\"_blank\" rel=\"noopener noreferrer\">Shani Schnitzer</a>",

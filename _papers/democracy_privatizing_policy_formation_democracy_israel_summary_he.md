@@ -9,6 +9,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Eran Vigoda-Gadot, Haim Cohen ו-Yair Zalmanovitch בוחן אם מעבר של עיצוב מדיניות לידיים פרטיות מחליש את הדמוקרטיה. דרך הניסיון הישראלי הוא מציב את שאלת האחריותיות, השקיפות והאיזון בין מומחיות חיצונית לבין שירות ציבורי מחויב לציבור.",
   "summaryHe": "המאמר מתמקד בשלב שבו מדיניות עדיין מתעצבת, לפני שהציבור רואה החלטה רשמית. כאשר יועצים וגופים פרטיים משפיעים על השלב הזה, הדמוקרטיה צריכה כלים ברורים יותר לבירור מי קובע, בשם מי, ועל פי אילו מחויבויות ציבוריות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eran Vigoda-Gadot, Haim Cohen, Yair Zalmanovitch",
   "paperTitle": "Does the privatizing of policy formation threaten democracy? Arguments from the Israeli experience",
   "authorsHtml": "<a href=\"https://sites.google.com/edu.haifa.ac.il/prof-eran-vigoda-gadot/home\" target=\"_blank\" rel=\"noopener noreferrer\">Eran Vigoda-Gadot</a>; Haim Cohen; Yair Zalmanovitch",

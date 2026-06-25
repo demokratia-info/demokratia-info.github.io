@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר על מלחמת ישראל–עזה בוחן פגיעות למידע מטעה ולתעמולה בסביבה דיגיטלית מורכבת.",
   "descriptionHe": "המאמר בוחן פגיעות למיס־אינפורמציה ולתעמולה בזמן מלחמת ישראל–עזה, על רקע טכנולוגיות דיגיטליות שמקשות להבחין בין אמת לשקר. הוא חשוב לדמוקרטיה משום שמידע אמין הוא תנאי לדיון ציבורי, לביקורת שלטונית ולהכרעות אזרחיות בזמן חירום.",
   "summaryHe": "Nur Givon-Benjio, Yaniv Reingewertz ו-Michael L. Gross מנתחים אתגר של מידע מטעה ותעמולה בזמן מלחמה. לפי התקציר, טכנולוגיות דיגיטליות יוצרות מערכת מידע מורכבת שבה קשה להבחין בין אמיתי למזויף, במיוחד בתקופה של עימות אלים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nur Givon‐Benjio, Yaniv Reingewertz, Michael L. Gross",
   "paperTitle": "Susceptibility to misinformation and propaganda during wartime: Evidence from the Israel‐Gaza war",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0008-0093-0821\" target=\"_blank\" rel=\"noopener noreferrer\">Nur Givon‐Benjio</a>, <a href=\"https://orcid.org/0000-0002-6957-8623\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Reingewertz</a>, <a href=\"https://orcid.org/0000-0001-5835-7879\" target=\"_blank\" rel=\"noopener noreferrer\">Michael L. Gross</a>",

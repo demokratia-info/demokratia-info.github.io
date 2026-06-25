@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המהפכה החוקתית והסדר הכלכלי החדש בישראל דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ran Hirschl",
   "paperTitle": "The \"Constitutional Revolution\" and the Emergence of a New Economic Order in Israel",
   "authorsHtml": "<a href=\"https://www.politics.utoronto.ca/people/directories/all-faculty/ran-hirschl\" target=\"_blank\" rel=\"noopener noreferrer\">Ran Hirschl</a>",

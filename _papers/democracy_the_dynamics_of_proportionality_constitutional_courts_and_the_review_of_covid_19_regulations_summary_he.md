@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על ביקורת חוקתית, מידתיות ותקנות קורונה, עם דגש על זכויות יסוד, מומחיות שלטונית ותפקיד בתי המשפט בזמן משבר.",
   "summaryHe": "המאמר בוחן כיצד בתי משפט חוקתיים התמודדו עם הגבלות הקורונה באמצעות מבחני מידתיות, ומציע ביקורת סמי-פרוצדורלית כדרך ביניים בין התערבות מהותית מלאה לבין דחייה רחבה לשיקול דעת הממשלה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Ladislav Vyhnánek, Anna Blechová, Michael Bátrla, Jakub Míšek, Tereza Novotná, Amnon Reichman, Jakub Harašta",
   "paperTitle": "The Dynamics of Proportionality: Constitutional Courts and the Review of COVID-19 Regulations.",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9761-5313\" target=\"_blank\" rel=\"noopener noreferrer\">Ladislav Vyhnánek</a>, <a href=\"https://orcid.org/0009-0008-7119-753X\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Blechová</a>, Michael Bátrla, <a href=\"https://orcid.org/0000-0002-8465-6087\" target=\"_blank\" rel=\"noopener noreferrer\">Jakub Míšek</a>, <a href=\"https://orcid.org/0000-0002-1426-4547\" target=\"_blank\" rel=\"noopener noreferrer\">Tereza Novotná</a>, <a href=\"https://law.haifa.ac.il/en/our-staff/lecturers/amnon-reichman/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Reichman</a>, <a href=\"https://orcid.org/0000-0002-5722-0325\" target=\"_blank\" rel=\"noopener noreferrer\">Jakub Harašta</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "ראיונות עם מורי אזרחות ואסלאם מצביעים על שימוש בידע רוחני ופלסטיני ילידי כדי לאתגר הגדרות מדינתיות של אזרחות ודת.",
   "descriptionHe": "המאמר בוחן כיצד מורים פלסטינים מוסלמים בישראל מפרשים את הקשר בין אסלאם לבין חינוך לאזרחות וכיצד הם משתמשים בידע רוחני וילידי בהוראה.",
   "summaryHe": "Aline Muff ו-Ayman K. Agbaria בוחנים את מפגש האסלאם והחינוך לאזרחות בקרב מורים פלסטינים מוסלמים בישראל. לפי תקציר המאמר, ראיונות איכותניים עם 15 מורי אזרחות ואסלאם מצאו שרבים מהם נשענים על ידע רוחני אסלאמי וידע פלסטיני ילידי ככלים ביקורתיים מול הגדרות מדינתיות של אזרחות ואסלאם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aline Muff, Ayman K. Agbaria",
   "paperTitle": "Spiritual and indigenous funds of knowledge: how Palestinian Muslim teachers reclaim Islam and citizenship education in Israel",
   "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/Ehemalige_Mitarbeiter_innen/Muff/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Aline Muff</a>, <a href=\"https://edu.haifa.ac.il/en/faculty/agbaria-ayman-prof/\" target=\"_blank\" rel=\"noopener noreferrer\">Ayman K. Agbaria</a>",

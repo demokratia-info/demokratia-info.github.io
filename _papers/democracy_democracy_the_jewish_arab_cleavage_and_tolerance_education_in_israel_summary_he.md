@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית חינוך לסובלנות מול השסע היהודי־ערבי, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית חינוך לסובלנות מול השסע היהודי־ערבי דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Dan Soen",
   "paperTitle": "Democracy, The Jewish-Arab Cleavage and tolerance education in Israel",
   "authorsHtml": "Dan Soen",

@@ -7,6 +7,7 @@
   "subtitleHe": "ניסוי השוואתי בישראל ובארצות הברית בוחן כיצד אפקט הבעלות ותפיסות תועלת מעצבים עמדות כלפי שינוי מוסדי.",
   "descriptionHe": "המאמר בוחן תמיכה ציבורית בשינוי מאפיינים מוסדיים של בתי משפט עליונים בישראל ובארצות הברית.",
   "summaryHe": "Eileen Braman, Udi Sommer ו-Olivier Kamoun משלבים תובנות מכלכלה התנהגותית, אפקט הבעלות ותורת הערך כדי להבין כיצד אזרחים חושבים על רווחים אישיים וחברתיים מבתי משפט עליונים. באמצעות עיצוב ניסויי השוואתי בישראל ובארצות הברית, הם מראים שתפיסות התועלת מן המוסד השיפוטי משפיעות על רגשות ותמיכה כלפי הצעות לשינוי מוסדי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Eileen Braman, Udi Sommer, Olivier Kamoun",
   "paperTitle": "High Courts, Endowments, and Support for Institutional Change: Evidence from Israel and the United States",
   "authorsHtml": "<a href=\"https://polisci.indiana.edu/about/faculty/braman-eileen.html\" target=\"_blank\" rel=\"noopener noreferrer\">Eileen Braman</a>, <a href=\"https://english.tau.ac.il/profile/udis\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Sommer</a>, Olivier Kamoun",

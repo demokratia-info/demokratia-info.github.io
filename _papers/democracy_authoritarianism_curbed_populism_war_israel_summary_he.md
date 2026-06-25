@@ -8,6 +8,7 @@
   "subtitleHe": "בן-פורת ופילק בוחנים את היחס בין פופוליזם, מלחמה ודמוקרטיה בישראל.",
   "descriptionHe": "המאמר מנתח את הקשר בין פופוליזם ימני, דת ולאומיות בישראל, ובוחן מדוע פרויקט אנטי-ליברלי אינו מוביל בהכרח לסמכותנות מלאה.",
   "summaryHe": "המאמר מציב את ניסיון שינוי מערכת המשפט בישראל מאז 2023 כמקרה מבחן לפופוליזם ימני-דתי. הוא טוען שהחיבור בין פופוליזם הדרתי לדת יכול להצדיק ריכוז כוח ודיכוי התנגדות, אך גם יוצר מתחים פנימיים והתנגדות ציבורית שמגבילים את הדחף הסמכותני.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "גיא בן-פורת, דני פילק",
   "paperTitle": "Authoritarianism Curbed? Populism, Democracy and War in Israel",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/guy-ben-porat\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Ben-Porat</a>; <a href=\"https://cris.bgu.ac.il/en/persons/dani-filc\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Filc</a>",

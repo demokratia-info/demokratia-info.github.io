@@ -7,6 +7,7 @@
   "subtitleHe": "ניתוח שיח מולטימודלי של טיקטוק ואינסטגרם סביב אלימות, הזנחת מדינה והיררכיות פנימיות.",
   "descriptionHe": "המאמר מנתח כיצד אלימות פנימית בחברה הפלסטינית־ערבית בישראל מיוצגת ומאותגרת בטיקטוק ובאינסטגרם, וכיצד הרשתות משמשות גם ביקורת על המדינה וגם מרחב שמשעתק כוח פנימי.",
   "summaryHe": "נסים כץ משתמש בניתוח שיח ביקורתי מולטימודלי כדי לבחון סרטונים ויראליים על משבר האלימות בחברה הפלסטינית־ערבית בישראל. לפי תקציר המאמר, הפלטפורמות יוצרות מרחב נגד־ציבורי שבו האלימות מתפרשת כתוצאה של הזנחת מדינה, אך גם עלולות להאדיר גבריות עבריינית ולשמר גבולות פטריארכליים פנימיים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Nissim Katz",
   "paperTitle": "\"The Medium is the Murder\": Discourse, Power, and the Contested Reality of Violence on Palestinian-Arab Social Media in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-7052-2929\" target=\"_blank\" rel=\"noopener noreferrer\">Nissim Katz</a>",

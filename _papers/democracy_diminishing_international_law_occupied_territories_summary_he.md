@@ -8,6 +8,7 @@
   "subtitleHe": "המאמר עוקב אחר הירידה במעמד המשפט הבינלאומי בהחלטות בג״ץ על השטחים ומדגיש את משמעותה לשלטון החוק.",
   "descriptionHe": "המאמר עוסק בתפקיד בתי המשפט, הביקורת השיפוטית והחוקתיות בשמירה על שלטון החוק, וממקם את הדיון בתוך שאלות של בלמים מוסדיים, עצמאות משפטית והגבלת כוח שלטוני.",
   "summaryHe": "המאמר מראה כיצד היחס למשפט הבינלאומי בפסיקת בית המשפט העליון על השטחים נעשה מצומצם יותר, ומה המשמעות הדמוקרטית של שינוי זה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "תמר הוסטובסקי ברנדס",
   "paperTitle": "The diminishing status of international law in the decisions of the Israeli Supreme Court concerning the Occupied Territories",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-tamar-ostovsky-brandes/\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hostovsky Brandes</a>",

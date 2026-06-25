@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר התערבות בקרב תלמידים ומורי־עתיד פלסטינים אזרחי ישראל מראה כיצד שפה יכולה להיות גם זירת מגע פוליטי.",
   "descriptionHe": "המאמר בוחן התערבות ממוקדת בלימוד עברית בקרב 119 תלמידי תיכון ומורי־עתיד פלסטינים אזרחי ישראל, ומראה כיצד שיפור לשוני נקשר לתחושת מסוגלות, תקווה ואסטרטגיות השפעה דמוקרטיות.",
   "summaryHe": "רקפת ארליך רון מנתחת התערבות שפה בקרב תלמידי תיכון ומורי־עתיד פלסטינים אזרחי ישראל לאחר 7 באוקטובר. לפי תקציר המקור, ההתערבות נקשרה לעלייה במסוגלות בעברית, בתקווה לשלום, בקטגוריזציה משותפת ובתמיכה באסטרטגיות השפעה דמוקרטיות, אך גם חשפה הבדלים בין גיל, זהות והכשרה מקצועית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Rakefet Erlich Ron",
   "paperTitle": "Beyond Utility: Language Intervention, Identity Dynamics, and Political Attitude Change Among Palestinian High School Students and Pre-Service Teachers in Post-7 October Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2849-5183\" target=\"_blank\" rel=\"noopener noreferrer\">Rakefet Erlich Ron</a>",

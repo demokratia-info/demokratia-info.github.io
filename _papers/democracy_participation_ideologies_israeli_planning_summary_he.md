@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן השתתפות ציבורית בתכנון הישראלי דרך מקורות אידיאולוגיים של פרקטיקות תכנון. הוא מציע להבין אד־הוקיזם, קליינטליזם, פופוליזם ודמוקרטיה קיבוצית כמסגרות שמעצבות את הקשר בין מתכננים לציבור.",
   "summaryHe": "Gertel ו־Law-Yone טוענים שמחקרי השתתפות בתכנון נוטים להתעלם מן התפקיד של אידיאולוגיה בפרקטיקה מקצועית. דרך המקרה הישראלי, הם מראים כיצד דפוסי פיתוח פוליטיים וחברתיים משפיעים על השתתפות הציבור ועל תחושת האחריות של המתכנן.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "S Gertel, Hubert Law-Yone",
   "paperTitle": "Participation Ideologies in Israeli Planning",
   "authorsHtml": "S Gertel; Hubert Law-Yone",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר משווה בין מוסדות, גיאוגרפיה ואינטגרציה מסחרית כהסברים לרמות הכנסה בין מדינות, וטוען שאיכות המוסדות היא הגורם המרכזי ביותר בפיתוח כלכלי.",
   "summaryHe": "Rodrik, Subramanian ו-Trebbi בוחנים רגרסיות בין-מדינתיות במדגמים של 64, 79 ו-137 מדינות, ומראים שכאשר מביאים בחשבון את איכות המוסדות, התרומה הישירה של גיאוגרפיה ומסחר להכנסה נחלשת מאוד.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Dani Rodrik, Arvind Subramanian, Francesco Trebbi",
   "paperTitle": "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development",
   "authorsHtml": "<a href=\"https://drodrik.scholars.harvard.edu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Dani Rodrik</a>, <a href=\"https://www.piie.com/experts/senior-research-staff/arvind-subramanian\" target=\"_blank\" rel=\"noopener noreferrer\">Arvind Subramanian</a>, <a href=\"https://haas.berkeley.edu/faculty/francesco-trebbi/\" target=\"_blank\" rel=\"noopener noreferrer\">Francesco Trebbi</a>",

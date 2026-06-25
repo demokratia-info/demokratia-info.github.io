@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חברה אזרחית מול ריבונות צבאית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חברה אזרחית מול ריבונות צבאית דרך עדשה של מוסדות ציבוריים, חברה אזרחית ואחריותיות דמוקרטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Udi Lebel",
   "paperTitle": "Civil Society versus Military Sovereignty",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0964-019X\" target=\"_blank\" rel=\"noopener noreferrer\">Udi Lebel</a>",

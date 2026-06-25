@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית חינוך לרב־תרבותיות בניהול מדיניות חינוך בישראל דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Asmahan Masry-Herzallah",
   "paperTitle": "Education for multiculturalism in a master's degree program in Policy and Administration in Education: Comparing Jewish and Arab students in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-9522-9232\" target=\"_blank\" rel=\"noopener noreferrer\">Asmahan Masry-Herzallah</a>",

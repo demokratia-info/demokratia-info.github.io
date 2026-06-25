@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני עם 40 נערים וצעירים ערבים בישראל מצביע על קשר בין גבריות, פטליזם, נשק, חשד כלפי אכיפה ותכני מדיה.",
   "descriptionHe": "המאמר בוחן כיצד תפיסות גבריות, אלימות, נשיאת נשק והשפעת רשתות חברתיות מעצבות סיכוני ביטחון אישי בחברה הערבית בישראל.",
   "summaryHe": "Ibrahim Badarna ו-Anat Gesser-Edelsburg משלבים ניתוח תוכן, אתנוגרפיה דיגיטלית וניתוח סמיוטי כדי להבין אלימות ונשק בקרב 40 נערים וצעירים ערבים מוסלמים ונוצרים בישראל. המאמר מצביע על תפקיד של תפיסות גבריות, אמונת “מכתוב”, חוויות רקע של אלימות, חשד כלפי אכיפה והרגלי מדיה חברתית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ibrahim Badarna, Anat Gesser-Edelsburg",
   "paperTitle": "Exploring the Link between Masculine Perceptions, Violence, Social Media Influence, and Weapon Carrying and Use: A Qualitative Inquiry into Arab Adolescent Boys and Young Men in Israel",
   "authorsHtml": "Ibrahim Badarna, <a href=\"https://cris.haifa.ac.il/en/persons/anat-gesser-edelsburg/\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Gesser-Edelsburg</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר של Asher Cohen חוזר לבחירות 1977 ולשיח שהציג את עליית הליכוד כסכנה לדמוקרטיה. הוא טוען כי לפי בחינתו, חילופי השלטון סימנו דווקא טרנספורמציה דמוקרטית עמוקה בזהותה של ישראל.",
   "summaryHe": "המאמר מנתח את הפער בין רטוריקת אזהרה של אליטות אקדמיות, תרבותיות, פוליטיות ותקשורתיות לבין תוצאות המהפך הפוליטי. הקריאה המרכזית היא שחילופי שלטון מסודרים יכולים לחזק דמוקרטיה גם כאשר הם מלווים בפחד ציבורי חריף.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Asher Cohen",
   "paperTitle": "Likud’s rise to power and the ‘Democracy in Danger’ fearmongering campaign: rhetoric vs. facts",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/asher-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Asher Cohen</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר המשווה בין בריטניה וישראל בשאלת מצבי חירום, סכסוך אתני והאיזון בין ביטחון, זכויות ופיקוח מוסדי.",
   "summaryHe": "המאמר של מנחם הופנונג מציב את בריטניה וישראל כמקרי מבחן לשאלה כיצד דמוקרטיות ליברליות משתמשות במצב חירום מול סכסוך אתני. המשמעות הדמוקרטית היא שמנגנוני חירום אינם רק תגובה לאיום, אלא גם כלי שמרכז כוח ברשות המבצעת ועלול לעקוף ביקורת פרלמנטרית ושיפוטית. לכן המאמר חשוב להבנת היחס בין ביטחון, זכויות מיעוטים ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Menachem Hofnung",
   "paperTitle": "States of emergency and ethnic conflict in liberal democracies: Great Britain and Israel",
   "authorsHtml": "<a href=\"https://cris.huji.ac.il/en/persons/menachem-hofnung/\" target=\"_blank\" rel=\"noopener noreferrer\">Menachem Hofnung</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על השפעת המסגור \"מסתננים\" לעומת \"מבקשי מקלט\" על עמדות בישראל כלפי כניסת מהגרים מאפריקה.",
   "summaryHe": "המאמר בוחן ניסוי סקר בישראל ומראה כיצד ניסוח שונה של אותה קבוצה משנה תמיכה באיסור כניסה, לצד הבדלים לפי הזדהות פוליטית ומוצא אתני.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Oshrat Hochman",
   "paperTitle": "Infiltrators or Asylum Seekers? Framing and Attitudes Toward Asylum Seekers in Israel",
   "authorsHtml": "<a href=\"https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Oshrat.Hochman\" target=\"_blank\" rel=\"noopener noreferrer\">Oshrat Hochman</a>",

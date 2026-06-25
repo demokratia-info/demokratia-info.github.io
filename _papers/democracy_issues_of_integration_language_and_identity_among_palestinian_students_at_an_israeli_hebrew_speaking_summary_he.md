@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית שילוב, שפה וזהות של סטודנטים פלסטינים באוניברסיטה עברית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Friederike Stock, Yiftach Ron",
   "paperTitle": "Issues of integration, language and identity among Palestinian students at an Israeli “Hebrew‐speaking” University",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-4182-3778\" target=\"_blank\" rel=\"noopener noreferrer\">Friederike Stock</a>, <a href=\"https://orcid.org/0000-0002-1790-5127\" target=\"_blank\" rel=\"noopener noreferrer\">Yiftach Ron</a>",

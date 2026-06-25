@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מנתח התנגשויות בין מפגינים חרדים לבין המשטרה מאז 2000, ומציע מודל תאורטי המשלב יסודות פרימורדיאליים, קונסטרוקטיביסטיים ותלויי הקשר.",
   "descriptionHe": "המאמר בוחן מחאות חרדיות בישראל ומציע שאידאולוגיה אנטי־ציונית היא כוח מניע מרכזי בדפוסי התנגשות מול רשויות המדינה.",
   "summaryHe": "Gadi Hitman מנתח גלי מחאה ולעיתים אלימות מצד הקהילה החרדית בישראל, עם דגש על התנגשויות מאז שנת 2000. לפי תקציר המאמר, השילוב בין תאוריות פרימורדיאליות, קונסטרוקטיביסטיות ותלויות הקשר מוביל למודל שבו הקהילה החרדית מתפקדת כתנועת מחאה פסיבית קבועה המגיבה במהירות ליוזמות מדינה שמשנות את הסטטוס קוו.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Gadi Hitman",
   "paperTitle": "Haredi Anti-Zionist Ideology as the Driving Force Behind the Ultraorthodox Protests in Israel",
   "authorsHtml": "<a href=\"https://www.ariel.ac.il/wp/mecarc/dr-gadi-hitman/\" target=\"_blank\" rel=\"noopener noreferrer\">Gadi Hitman</a>",

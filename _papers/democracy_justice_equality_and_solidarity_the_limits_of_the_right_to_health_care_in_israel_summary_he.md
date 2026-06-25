@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Roy Gilbar, Hadara Bar-Mor",
   "paperTitle": "JUSTICE, EQUALITY AND SOLIDARITY: THE LIMITS OF THE RIGHT TO HEALTH CARE IN ISRAEL",
   "authorsHtml": "Roy Gilbar, <a href=\"https://orcid.org/0000-0002-8085-7893\" target=\"_blank\" rel=\"noopener noreferrer\">Hadara Bar-Mor</a>",

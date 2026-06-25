@@ -7,6 +7,7 @@
   "subtitleHe": "המאמר מראה כיצד נשים חרדיות משכילות בישראל מתארות שייכות דתית כמשאב חברתי שמאפשר להן להשתלב, להפיק תועלת ולהשתתף בתהליכים דמוקרטיים בלי לפרק זהות דתית.",
   "descriptionHe": "Tehila Gado, Rebecca Kook ו-Ayelet Harel בוחנות את משמעות השייכות עבור נשים חרדיות משכילות בישראל. לפי התקציר, המשתתפות מבטאות גאווה וזהות דתית חזקה, אך גם משתמשות בהון החברתי של הקהילה כדי לאתגר נורמות תוך שמירה על מחויבות קהילתית.",
   "summaryHe": "המאמר מבוסס על ראיונות קבוצתיים עם נשים חרדיות משכילות בישראל, וממקם את העלייה בהשכלה בתוך קהילה דתית שמרנית. תרומתו לדמוקרטיה ליברלית היא בהבנת ההשתתפות של נשים מתוך קהילות שמרניות לא רק כיציאה מהקהילה, אלא גם כמשא ומתן על שייכות, נורמות ומשאבים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tehila Gado, Rebecca Kook, Ayelet Harel",
   "paperTitle": "The Politics of Belonging: A Study of Educated Jewish Ultra-Orthodox (Haredi) Women in Israel",
   "authorsHtml": "<a href=\"https://en-contemporaryjewry.huji.ac.il/people/tehila-gado\" target=\"_blank\" rel=\"noopener noreferrer\">Tehila Gado</a>, <a href=\"https://cris.bgu.ac.il/en/persons/becky-kook/\" target=\"_blank\" rel=\"noopener noreferrer\">Rebecca Kook</a>, <a href=\"https://www.bgu.ac.il/en/researcher/ayelet-harel\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Harel</a>",

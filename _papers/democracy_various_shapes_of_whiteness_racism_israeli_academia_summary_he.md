@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר תיאורטי על לובן, גזענות מוסדית, אינטרסקציונליות וקולוניאליות התיישבותית באקדמיה הישראלית, ועל הדרת סטודנטים וחוקרים מקבוצות מיעוט.",
   "summaryHe": "המאמר מציע מסגרת תיאורטית לניתוח כוח באקדמיה הישראלית, מעבר לשפה הרגילה של אפליה ותת־ייצוג. הוא משלב תיאוריית לובן, תיאוריה ביקורתית של גזע, אינטרסקציונליות וקולוניאליות התיישבותית כדי להסביר כיצד נורמות של הקבוצה הדומיננטית מעצבות ידע, ארגון והתקדמות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Sarab Abu-Rabia-Queder; Tamar Hager",
   "paperTitle": "Various shapes of whiteness: A new look at racism and its institutional operation in Israeli academia",
   "authorsHtml": "<a href=\"https://cris.bgu.ac.il/en/persons/sarab-abu-rabia-queder/\" target=\"_blank\" rel=\"noopener noreferrer\">Sarab Abu-Rabia-Queder</a>, <a href=\"https://orcid.org/0000-0001-9544-0516\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Hager</a>",

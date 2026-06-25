@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על יחסי מגדר, דת ומדינה בבתי ספר דתיים ממלכתיים בישראל, ועל משמעותם לשוויון ולמדיניות ציבורית.",
   "summaryHe": "המאמר של חנה הרצוג מנתח את בית הספר הדתי הממלכתי כמקום שבו מגדר, דת ומדינה אינם קטגוריות יציבות ונפרדות, אלא כוחות שמעצבים זה את זה. מבחינה דמוקרטית, הדיון חשוב משום שמערכת חינוך ציבורית יכולה לשמר היררכיות מגדריות בשם מסורת, אך גם להפוך לזירה שבה אזרחות ושוויון מתפרשים מחדש. לכן המאמר מחבר בין מדיניות חינוך, דת ציבורית וזכויות נשים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hanna Herzog",
   "paperTitle": "Trisection of forces: gender, religion and the state – the case of state‐run religious schools in Israel",
   "authorsHtml": "<a href=\"https://people1.socsci.tau.ac.il/mu/hannaherzog/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanna Herzog</a>",

@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן אם מדינות צומחות יותר כאשר תחומי האיכות המוסדית שלהן מאוזנים, ולא רק כאשר המדד הממוצע שלהן גבוה. מבחינה דמוקרטית, הוא מדגיש שרפורמה מוסדית אינה יכולה להסתפק באי של מצוינות לצד חולשות עמוקות בשלטון החוק, זכויות קניין או רגולציה.",
   "summaryHe": "הספרות נטתה למדוד מוסדות בעזרת מדדי חירות כלכלית אך להתעלם מן היחסים בין תחומי המשנה. Bolen ו־Sobel מראים שהשונות הפנימית בין תחומי המדד משפרת את הסברי הצמיחה, ושאינטראקציות עם המערכת המשפטית וזכויות הקניין חשובות במיוחד. השורה הדמוקרטית היא שמוסד חזק אחד אינו מפצה בקלות על מוסד חלש אחר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "J. Brandon Bolen, Russell S. Sobel",
   "paperTitle": "Does Balance Among Areas of Institutional Quality Matter for Economic Growth?",
   "authorsHtml": "<a href=\"https://www.mc.edu/faculty/u/bbolen\" target=\"_blank\" rel=\"noopener noreferrer\">J. Brandon Bolen</a>; <a href=\"https://www.citadel.edu/marketing-supply-chain-economics/faculty-staff/dr-russell-s-sobel/\" target=\"_blank\" rel=\"noopener noreferrer\">Russell S. Sobel</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מוסדות ונוהגים בלתי פורמליים במערכת המשפט הישראלית, ואת תרומתם לעצמאות שיפוטית או לפגיעה באחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מראה כיצד כללים שאינם כתובים בחוק יכולים להגן על בתי המשפט מפני התערבות פוליטית, אך גם ליצור בעיות ניהול ושקיפות.",
   "summaryHe": "המאמר בוחן כיצד מוסדות בלתי פורמליים בישראל משפיעים על עצמאות שיפוטית, מינויים, ניהול בתי המשפט והיחסים בין פוליטיקה לשפיטה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Guy Lurie",
   "paperTitle": "The Invisible Safeguards of Judicial Independence in the Israeli Judiciary",
   "authorsHtml": "<a href=\"https://en.idi.org.il/experts/1406\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Lurie</a>",

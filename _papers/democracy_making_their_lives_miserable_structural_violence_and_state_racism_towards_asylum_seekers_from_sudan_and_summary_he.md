@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית אלימות מבנית וגזענות מדינתית כלפי מבקשי מקלט דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Maayan Ravid",
   "paperTitle": "Making Their Lives Miserable: Structural Violence and State Racism towards Asylum Seekers from Sudan and Eritrea in Israel",
   "authorsHtml": "<a href=\"https://www.law.ox.ac.uk/people/maayan-ravid-0\" target=\"_blank\" rel=\"noopener noreferrer\">Maayan Ravid</a>",

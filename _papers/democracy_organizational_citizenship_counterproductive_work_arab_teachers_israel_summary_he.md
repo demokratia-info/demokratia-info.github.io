@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על התנהגות אזרחית ארגונית והתנהגות נגדית בעבודה בקרב מורים בבתי ספר ערביים בצפון ישראל.",
   "summaryHe": "המאמר בוחן גורמים אישיים ומצביים הקשורים להתנהגות אזרחית ארגונית ולהתנהגות נגדית בעבודה בקרב 509 מורים בעשרים בתי ספר ערביים בצפון ישראל. הממצאים קושרים התנהגות נגדית לשחיקה, פסיכופתיה נמוכה או גבוהה לפי המדדים, ואינטליגנציה רגשית, בעוד התנהגות אזרחית קשורה לצדק פרוצדורלי, פחות שחיקה ואינטליגנציה רגשית גבוהה יותר.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aaron Cohen; Mohammad Abedallah",
   "paperTitle": "Examining correlates of organizational citizenship behavior and counterproductive work behavior in a collectivist culture: the case of Arab teachers in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/aaron-cohen/\" target=\"_blank\" rel=\"noopener noreferrer\">Aaron Cohen</a>; Mohammad Abedallah",

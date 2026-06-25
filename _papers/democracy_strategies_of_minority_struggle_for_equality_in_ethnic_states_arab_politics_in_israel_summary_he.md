@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על מאבק המיעוט הערבי לשוויון במדינה אתנית, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית מאבק המיעוט הערבי לשוויון במדינה אתנית דרך עדשה של זכויות, שוויון אזרחי והיכולת של קבוצות שונות להשתתף בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Amal Jamal",
   "paperTitle": "Strategies of Minority Struggle for Equality in Ethnic States: Arab Politics in Israel",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/ajamal\" target=\"_blank\" rel=\"noopener noreferrer\">Amal Jamal</a>",

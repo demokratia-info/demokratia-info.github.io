@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מנתח כיצד פתיחות למסחר משתלבת עם מבנה פוליטי אוליגרכי או דמוקרטי, ומראה מדוע אליטות קרקעיות עשויות לחסום חינוך ציבורי ותיעוש.",
   "summaryHe": "המאמר מפתח מודל שיווי משקל כללי דו־מגזרי עם חינוך ציבורי ממומן ממסים, וטוען שבכלכלות עתירות קרקע או משאבי טבע פתיחות למסחר עלולה להאט פיתוח כאשר הכוח הפוליטי נשלט בידי בעלי קרקע.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Josef Falkinger, Volker Grossmann",
   "paperTitle": "Institutions and Development: The Interaction Between Trade Regime and Political System",
   "authorsHtml": "<a href=\"https://www.econ.uzh.ch/en/people/emeriti/falkinger.html\" target=\"_blank\" rel=\"noopener noreferrer\">Josef Falkinger</a>; <a href=\"https://www.unifr.ch/makro/en/chair/team/prof.-dr.-volker-grossmann.html\" target=\"_blank\" rel=\"noopener noreferrer\">Volker Grossmann</a>",

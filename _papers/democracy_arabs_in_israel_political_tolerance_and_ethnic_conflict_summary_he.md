@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא בוחן כיצד הסדרים מוסדיים וחברתיים משפיעים על זכויות, אחריות ציבורית וכללי משחק משותפים.",
   "summaryHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Mitchell A. Seligson, Dan Caspi",
   "paperTitle": "Arabs in Israel: Political Tolerance and Ethnic Conflict",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7202-9422\" target=\"_blank\" rel=\"noopener noreferrer\">Mitchell A. Seligson</a>; <a href=\"https://www.bgu.ac.il/en/u/faculties/humanities-and-social-sciences/departments/communication/dan-caspi-in-memory/\" target=\"_blank\" rel=\"noopener noreferrer\">Dan Caspi</a>",

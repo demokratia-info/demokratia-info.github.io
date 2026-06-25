@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט ושלטון החוק, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני דרך עדשה של חוקתיות, בתי משפט ושלטון החוק.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Tri Mahwati; Ana Risma Nanda",
   "paperTitle": "Analysis of the Palestinian and Israeli Conflict in the Perspective of International Humanitarian Law",
   "authorsHtml": "Tri Mahwati; Ana Risma Nanda",

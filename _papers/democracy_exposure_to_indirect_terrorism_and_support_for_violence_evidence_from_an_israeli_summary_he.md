@@ -7,6 +7,7 @@
   "subtitleHe": "ניסוי סקר ישראלי־פלסטיני מצביע על תפקיד הכעס כמתווך בין איום מקוון לבין אלימות נגד נבחרי ציבור.",
   "descriptionHe": "המאמר בוחן כיצד חשיפה מתווכת־סייבר לאיום טרור עקיף משפיעה על תמיכה באלימות נגד פוליטיקאים בישראל, ומדגיש שהמנגנון המרכזי עובר דרך כעס ולא רק דרך פחד או תחושת איום.",
   "summaryHe": "סנהשרי מוקרג׳י, יציק בן־ישראל ודפנה קנטי משתמשים בניסוי סקר דו־שלבי בקרב 900 משיבים יהודים בישראל כדי לבחון כיצד איום טרור מקוון מעצב עמדות פוליטיות. הממצא המרכזי בתקציר המקור הוא שחשיפה לאיום עקיף יכולה להסיט כעס פנימה, אל נבחרי ציבור מקומיים, וכך להעלות תמיכה באלימות פוליטית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Snehashree Mukherjee, Itzik Ben Israel, Daphna Canetti",
   "paperTitle": "Exposure to indirect terrorism and support for violence: evidence from an Israeli-Palestinian experiment",
   "authorsHtml": "Snehashree Mukherjee; <a href=\"https://cris.tau.ac.il/en/persons/isaac-ben-israel/\" target=\"_blank\" rel=\"noopener noreferrer\">Itzik Ben Israel</a>; <a href=\"https://cris.haifa.ac.il/en/persons/daphna-canetti/\" target=\"_blank\" rel=\"noopener noreferrer\">Daphna Canetti</a>",

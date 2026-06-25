@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על האופן שבו סטודנטיות ערביות־בדואיות חוות את העברית כשפה שנייה באקדמיה, ועל הקשר בין שפה, יוקרה, השכלה ושוויון הזדמנויות.",
   "summaryHe": "המאמר מתבסס על ראיונות חצי־מובנים עם סטודנטיות ערביות־בדואיות המתמחות בעברית כשפה שנייה. הוא מראה שהעברית פותחת אפשרויות מקצועיות ואישיות, אך גם יוצרת חסמים בכתיבה, בהבנת חומרי לימוד ובהשתתפות שווה בכיתה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aref Abu-Gweder",
   "paperTitle": "An Obstacle in Presenting Academic Equality and the Lack of Personal Prestige in the Academy: The Challenges of the Hebrew Language in the Eyes of Arab-Bedouin Female Students",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2050-2150\" target=\"_blank\" rel=\"noopener noreferrer\">Aref Abu-Gweder</a>",

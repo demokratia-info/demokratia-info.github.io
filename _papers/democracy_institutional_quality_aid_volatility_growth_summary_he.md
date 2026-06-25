@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן תאורטית ואמפירית כיצד תנודתיות בסיוע חוץ משפיעה על צמיחה, ומה קורה כאשר איכות המוסדות במדינה המקבלת גבוהה יותר. הזווית הדמוקרטית היא שממשל אחראי ושקוף יכול להפוך סיוע בלתי יציב לפחות מזיק לכלכלה ולציבור.",
   "summaryHe": "Kathavate ו־Mallik מפתחים מודל שבו ממשלה מקבלת סיוע פועלת בתוך סביבה מוסדית באיכות נתונה, ובוחרת כיצד להקצות את הסיוע. הם בוחנים נתוני פאנל על 78 מדינות בשנים 1984-2004 בעזרת GMM, ומוצאים שתנודתיות סיוע קשורה שלילית לצמיחה לנפש, אך שההשפעה השלילית מתמתנת כאשר איכות המוסדות גבוהה יותר. המאמר ממקם יציבות תקציבית, אחריותיות ויכולת ממשלתית בלב שאלת האפקטיביות של סיוע בין־לאומי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jay Kathavate, Girijasankar Mallik",
   "paperTitle": "The impact of the Interaction between institutional quality and aid volatility on growth: theory and evidence",
   "authorsHtml": "Jay Kathavate; Girijasankar Mallik",

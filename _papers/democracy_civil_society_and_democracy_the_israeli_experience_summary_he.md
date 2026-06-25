@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את תרומת החברה האזרחית לדמוקרטיה בישראל באמצעות סקר של עמותות וארגונים התנדבותיים, ומתמקד באוטונומיה, גישה למוסדות, אינטגרציה וסובלנות.",
   "summaryHe": "המאמר בוחן האם החברה האזרחית בישראל מתפקדת כבית ספר לדמוקרטיה, ומראה שההקשר הפוליטי מעצב את דפוסי הפעולה והעמדות של ארגונים אזרחיים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Yael Yishai",
   "paperTitle": "Civil Society and Democracy: The Israeli Experience",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/yael-yishai/\" target=\"_blank\" rel=\"noopener noreferrer\">Yael Yishai</a>",

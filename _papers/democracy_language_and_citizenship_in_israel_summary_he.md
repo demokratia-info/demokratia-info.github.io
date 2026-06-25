@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית שפה ואזרחות בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית שפה ואזרחות בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Elana Shohamy; Tzahi Kanza",
   "paperTitle": "Language and Citizenship in Israel",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3462-1588\" target=\"_blank\" rel=\"noopener noreferrer\">Elana Shohamy</a>; Tzahi Kanza",

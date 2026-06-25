@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר ממפה מחקרי משפט וחברה שנכתבו בישראל בידי חוקרים יהודים וערבים-פלסטינים, ובוחן כיצד הם עוסקים בכוח פוליטי, מדינת הלאום, זכויות ושוויון.",
   "summaryHe": "המאמר מנתח מאות מחקרים על משפט וחברה שפורסמו מאז שנות ה-1950 בעברית, ערבית ואנגלית, ומראה כיצד ידע מקומי וידע גלובלי משתלבים בדיונים על בית המשפט, רב-תרבותיות, כיבוש, ניאו-ליברליזם ושוויון.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Gad Barzilai",
   "paperTitle": "Analysis of Israelis Jews and Arab Palestinians: exploring law in society and society in law",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2692-0748\" target=\"_blank\" rel=\"noopener noreferrer\">Gad Barzilai</a>",

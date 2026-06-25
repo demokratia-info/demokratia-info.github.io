@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד משתמשי פייסבוק הגיבו רגשית לפוסטים של חברי כנסת וחברי ממשלה בישראל בתקופות שגרה, מחאת הרפורמה המשפטית והמלחמה לאחר 7 באוקטובר.",
   "summaryHe": "Yadlin-Segal, Yavetz ו-Bronstein מנתחים מאגר של 24,491 פוסטים שפורסמו בין נובמבר 2022 לנובמבר 2023 בידי חברי כנסת וממשלה פעילים מהימין, המרכז והשמאל. הניתוח מראה שסוג המשבר משנה את דפוסי הרגש המקוונים, ושמשבר צבאי הגביר במיוחד תגובות קצה ורגשות שליליים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Aya Yadlin‐Segal, Gal Yavetz, Jenny Bronstein",
   "paperTitle": "Online Emotional Landscape of Government and Parliament Communication in Times of Crisis",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7199-6664\" target=\"_blank\" rel=\"noopener noreferrer\">Aya Yadlin‐Segal</a>; <a href=\"https://orcid.org/0000-0002-9147-4134\" target=\"_blank\" rel=\"noopener noreferrer\">Gal Yavetz</a>; <a href=\"https://orcid.org/0000-0003-0424-3870\" target=\"_blank\" rel=\"noopener noreferrer\">Jenny Bronstein</a>",

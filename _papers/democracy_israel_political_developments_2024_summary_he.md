@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסכם את ההתפתחויות הפוליטיות בישראל בשנת 2024 וממקם אותן בתוך שילוב של מלחמה מתמשכת, משברים קואליציוניים, מחאה ציבורית ומבחנים חוקתיים. מבחינה דמוקרטית, הוא מספק תמונת נתונים על מדינה שבה ביטחון, כלכלה, ביקורת שיפוטית ואמון ציבורי נדחסו לשנה פוליטית אחת.",
   "summaryHe": "Harsgor ו־Zur מתארים את 2024 כשנה שבה מלחמת עזה נמשכה והתרחבה לעימותים ישירים עם חיזבאללה ואיראן, לצד התקפות חות׳יות שהוסיפו אי־יציבות אזורית. בזירה הפנימית הם מציינים התפצלות ויציאה של מרכיבים מתוך המחנה הממלכתי והקואליציה, המשך מחאות סביב ניהול המלחמה ועסקאות החטופים, ומתחים סביב פטורי שירות. התקציר מציין גם צמיחת תוצר של 0.9 אחוז, אינפלציה של 3.2 אחוז, הורדות דירוג אשראי ופסיקה תקדימית של בית המשפט העליון בדבר ביקורת שיפוטית על חוקי יסוד.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Liran Harsgor, Roi Zur",
   "paperTitle": "Israel: Political Developments and Data in 2024",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/liran-harsgor/\" target=\"_blank\" rel=\"noopener noreferrer\">Liran Harsgor</a>, <a href=\"https://www.essex.ac.uk/people/zurro97408/roi-zur\" target=\"_blank\" rel=\"noopener noreferrer\">Roi Zur</a>",

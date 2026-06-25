@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את ביטחון, כיבוש והגבלות חוקתיות על כוח ציבורי דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Anat Stern, Ilai Z. Saltzman",
   "paperTitle": "Generals in the classroom: Joint professional national security education in Israel and the United States",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-8659-8108\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Stern</a>, <a href=\"https://orcid.org/0000-0002-2024-2168\" target=\"_blank\" rel=\"noopener noreferrer\">Ilai Z. Saltzman</a>",

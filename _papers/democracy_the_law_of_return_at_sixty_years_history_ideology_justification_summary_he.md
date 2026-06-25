@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר מסביר את חוק השבות כחוק ההגירה הישראלי שמעניק ליהודים זכות עלייה, בוחן את הרקע ההיסטורי והאידאולוגי שלו, ומנתח מדוע רות גביזון מצדיקה את עקרון ההעדפה ליהודים לצד ביקורת על חלק מן ההסדרים המעשיים.",
   "summaryHe": "המאמר בוחן את חוק השבות מ־1950 ככלי למימוש עלייה יהודית וקיבוץ גלויות, ומסביר מדוע רות גביזון מצדיקה את עקרון השבות אך מציעה לבחון מחדש חלק מהסדריו.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Ruth Gavison",
   "paperTitle": "The Law of Return at Sixty Years: History, Ideology, Justification",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/ruth-gavison\" target=\"_blank\" rel=\"noopener noreferrer\">Ruth Gavison</a>",

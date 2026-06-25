@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "מחקר על האופן שבו ארגוני חברה אזרחית חרדיים יכולים לשמר גבולות קהילתיים במקום לקדם ליברליזציה. החשיבות הציבורית של המאמר היא בכך שהוא מדגיש שהדמוקרטיה נשענת על מוסדות, שירות ציבורי וחברה אזרחית מתפקדים; כאשר המרחבים האלה נחלשים, גם ההכרעה האלקטורלית עצמה מאבדת חלק מכוחה המתקן.",
   "summaryHe": "מחקר על האופן שבו ארגוני חברה אזרחית חרדיים יכולים לשמר גבולות קהילתיים במקום לקדם ליברליזציה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אשר סוזין",
   "paperTitle": "Do Civil Society Organizations Promote Democracy? The Case of the Ultra-Orthodox in Israel",
   "authorsHtml": "<a href=\"https://www.ono.ac.il/lecturer/dr-asher-suzin/\" target=\"_blank\" rel=\"noopener noreferrer\">Asher Suzin</a>",

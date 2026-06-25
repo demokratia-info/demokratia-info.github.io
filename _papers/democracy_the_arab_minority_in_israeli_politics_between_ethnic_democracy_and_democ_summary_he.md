@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במעמדן הפוליטי והאזרחי של קבוצות מיעוט בישראל, וממקם את הדיון בתוך שאלות של שוויון אזרחי, השתתפות פוליטית והגנה על זכויות.",
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום זכויות, שוויון ומיעוטים, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "בנימין נויברגר",
   "paperTitle": "The Arab Minority in Israeli Politics: Between ‘Ethnic Democracy’ and ‘Democratic Integration’",
   "authorsHtml": "<a href=\"https://www.openu.ac.il/en/personalsites/benyaminneuberger.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Benyamin Neuberger</a>",

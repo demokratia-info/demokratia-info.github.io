@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בחוק הלאום, זהות לאומית, שוויון אזרחי והמסגרת החוקתית בישראל, וממקם את הדיון בתוך שאלות של זהות חוקתית, זכויות שוות ומעמדן של קבוצות מיעוט.",
   "summaryHe": "המאמר ממקם את הדיון בתוך תחום חוקתיות, בתי משפט ושלטון החוק, ומראה כיצד סוגיה ממוקדת יכולה להשפיע על מוסדות, זכויות ואמון ציבורי בדמוקרטיה.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "אורית קמיר",
   "paperTitle": "Basic Law: Israel as Nation-State—National Honor Defies Human Dignity and Universal Human Rights",
   "authorsHtml": "<a href=\"https://www.oritkamir.org/about/\" target=\"_blank\" rel=\"noopener noreferrer\">Orit Kamir</a>",

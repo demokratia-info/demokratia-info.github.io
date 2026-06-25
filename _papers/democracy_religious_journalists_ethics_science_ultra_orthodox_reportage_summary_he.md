@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מחקר על עיתונאים ועורכים חרדים בישראל, ועל הדרך שבה הם מתווכים ידע מדעי לקוראים דתיים תוך איזון בין מקצועיות, קהילה, דת וטיפול.",
   "summaryHe": "המאמר מבוסס על ראיונות עומק עם 20 עורכים ועיתונאים חרדים שסיקרו מדע לפני תקופת הקורונה ובמהלכה. הוא מזהה אתיקות של דאגה, קהילה, מקצועיות ודת, ומראה כיצד עיתונאים דתיים משלבים מקורות ידע שונים לטובת קוראיהם.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Oren Golan; Nakhi Mishol-Shauli",
   "paperTitle": "Religious Journalists’ Ethics on Communicating Science: The Case of Ultra-Orthodox Reportage in Israel",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/oren-golan/\" target=\"_blank\" rel=\"noopener noreferrer\">Oren Golan</a>, <a href=\"https://orcid.org/0000-0002-6964-7561\" target=\"_blank\" rel=\"noopener noreferrer\">Nakhi Mishol-Shauli</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית דרך עדשה של מוסדות ציבור, חברה אזרחית, שירות ציבורי, ממשל ואחריותיות.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Itay Pollak, Aliza Segal, Adam Lefstein, Assaf Meshulam",
   "paperTitle": "Teaching controversial issues in a fragile democracy: defusing deliberation in Israeli primary classrooms",
   "authorsHtml": "Itay Pollak, <a href=\"https://orcid.org/0000-0002-9135-4642\" target=\"_blank\" rel=\"noopener noreferrer\">Aliza Segal</a>, <a href=\"https://orcid.org/0000-0002-9686-2662\" target=\"_blank\" rel=\"noopener noreferrer\">Adam Lefstein</a>, <a href=\"https://orcid.org/0000-0001-6139-9834\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Meshulam</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית מעמד המיעוט הערבי בדמוקרטיה הישראלית דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yousef T. Jabareen",
   "paperTitle": "The Politics Of Equality: The Limits Of Collective Rights Litigation And The Case Of The Palestinian-Arab Minority In Israel",
   "authorsHtml": "<a href=\"https://ric.org.il/researcher/yousef-jabareen/\" target=\"_blank\" rel=\"noopener noreferrer\">Yousef T. Jabareen</a>",

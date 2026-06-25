@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את גדר ההפרדה ביהודה ושומרון דרך שאלת האפקטיביות של מדיניות ביטחון. חשיבותו הדמוקרטית היא בכך שהוא מחייב להפריד בין טענות אמפיריות על ביטחון לבין שאלות נורמטיביות על זכויות, חופש תנועה, שליטה טריטוריאלית ואחריות ציבורית.",
   "summaryHe": "Hillel Frisch מציב את גדר ההפרדה כמקרה לבחינת מדיניות ביטחון שנויה במחלוקת. גם כאשר הדיון הציבורי טעון מבחינה מוסרית ופוליטית, המאמר מזכיר שדמוקרטיה צריכה לבחון טענות אפקטיביות באופן אמפירי ובמקביל לשאול מי משלם את המחיר האזרחי והזכויותי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Hillel Frisch",
   "paperTitle": "(The) Fence or Offense? Testing the Effectiveness of “The Fence” in Judea and Samaria",
   "authorsHtml": "<a href=\"https://shalem.ac.il/en/personnel/hillel-frisch/\" target=\"_blank\" rel=\"noopener noreferrer\">Hillel Frisch</a>",

@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בסוגיית המשפט החוקתי בישראל, וממקם את הדיון בתוך שאלות של זכויות, שוויון ומיעוטים, דמוקרטיה ליברלית, זכויות והגבלת כוח ציבורי.",
   "summaryHe": "המאמר בוחן את סוגיית המשפט החוקתי בישראל דרך עדשה של זכויות, שוויון ומיעוטים.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Aeyal M. Gross",
   "paperTitle": "The Politics of Rights in Israeli Constitutional Law",
   "authorsHtml": "<a href=\"https://english.tau.ac.il/profile/agross\" target=\"_blank\" rel=\"noopener noreferrer\">Aeyal M. Gross</a>",

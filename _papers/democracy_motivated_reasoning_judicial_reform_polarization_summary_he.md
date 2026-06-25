@@ -8,6 +8,7 @@
   "subtitleHe": "מחקר בפסיכולוגיה פוליטית על האופן שבו זהות, אמון ורגשות מעצבים פרשנות של אותו אירוע פוליטי.",
   "descriptionHe": "המחקר בוחן כיצד ישראלים יהודים פירשו את הרפורמה המשפטית של 2023 דרך זהות פוליטית, אמון מוסדי ותפיסות שונות של דמוקרטיה.",
   "summaryHe": "המחקר מנתח סקרי פאנל שנערכו במרץ 2023 ומראה שהרפורמה המשפטית יצרה אשכולות מובחנים של תמיכה והתנגדות. המחנות נבדלו באמון בממשלה ובמערכת המשפט, בזהות אזרחית ואתנו־דתית, בפטריוטיות ובמשקל שהם מייחסים למאפיינים שונים של דמוקרטיה.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "דורה סימונוביץ׳, אנה דורפמן, מעיין קציר",
   "paperTitle": "Exploring motivated reasoning in polarization over the unfolding 2023 judicial reform in Israel",
   "authorsHtml": "<a href=\"https://sites.biu.ac.il/en/emotions-conflict-lab/page/6756\" target=\"_blank\" rel=\"noopener noreferrer\">Dora Simunovic</a>; <a href=\"https://sites.biu.ac.il/en/emotions-conflict-lab/page/6756\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Dorfman</a>; <a href=\"https://soccco.uni-koeln.de/maayan-katzir\" target=\"_blank\" rel=\"noopener noreferrer\">Maayan Katzir</a>",

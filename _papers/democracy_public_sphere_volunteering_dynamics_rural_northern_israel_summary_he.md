@@ -7,6 +7,7 @@
   "subtitleHe": "מחקר איכותני בשני יישובים בצפון ישראל מראה כיצד מחלוקות סביב ילדים, זהות ושייכות מצמצמות את גבולות ההשתתפות האזרחית.",
   "descriptionHe": "המאמר בוחן את המרחב הציבורי הכפרי בצפון ישראל דרך מודעות התושבים לפוטנציאל ההתנדבות שלהם.",
   "summaryHe": "Yasmin Aboud‐Halabi ו-Galit Yanay‐Ventura מנתחות 32 ראיונות בשני יישובים כפריים באותה מועצה אזורית בצפון ישראל, אחד יהודי ואחד ערבי. הן מראות כי קונפליקטים מקומיים שבהם ילדים עומדים במרכז יכולים לחסום התנדבות קהילתית רחבה, ולהותיר בעיקר התנדבות ממסדית, ממוקדת וזהירה שאינה מתמודדת עם מוקדי המחלוקת.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Yasmin Aboud‐Halabi, Galit Yanay‐Ventura",
   "paperTitle": "The Public Sphere as a Meaningful Arena for Volunteering Dynamics: The Case of a Rural Space in Northern Israel",
   "authorsHtml": "Yasmin Aboud‐Halabi, <a href=\"https://orcid.org/0000-0002-4946-9454\" target=\"_blank\" rel=\"noopener noreferrer\">Galit Yanay‐Ventura</a>",

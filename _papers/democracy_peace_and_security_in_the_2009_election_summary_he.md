@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "תמצית בעברית של מאמר על שלום וביטחון בבחירות 2009 בישראל, עם דגש על המשמעות לדמוקרטיה ליברלית, לשלטון החוק, לזכויות ולאחריות ציבורית.",
   "summaryHe": "המאמר בוחן את סוגיית שלום וביטחון בבחירות 2009 בישראל דרך עדשה של דעת קהל, קיטוב והגבולות של מחלוקת פוליטית לגיטימית.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Jonathan Rynhold",
   "paperTitle": "Peace and security in the 2009 election",
   "authorsHtml": "<a href=\"https://cris.biu.ac.il/en/persons/jonathan-rynhold\" target=\"_blank\" rel=\"noopener noreferrer\">Jonathan Rynhold</a>",

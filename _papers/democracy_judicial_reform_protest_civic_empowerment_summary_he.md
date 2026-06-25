@@ -7,6 +7,7 @@
   "subtitleHe": "סקר מקוון בוחן איום נתפס, מחאה וחוללות עצמית בתקופת המשבר החוקתי של 2023.",
   "descriptionHe": "המאמר בוחן את הקשר בין השתתפות במחאה נגד הרפורמה המשפטית בישראל לבין תחושת העצמה אזרחית וחוללות עצמית, על רקע איומים נתפסים. הוא חשוב לדמוקרטיה משום שהוא מתאר מחאה לא רק כהתנגדות פוליטית אלא גם כמנגנון אפשרי של חוסן ושליטה אזרחית.",
   "summaryHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu ו-Ricky Cohen מנתחות סקר מקוון חתכי על השתתפות במחאות 2023 נגד הרפורמה המשפטית, איומים נתפסים והעצמה אזרחית. התקציר ממסגר מחאה כפעולה קולקטיבית שיכולה לחזק חוללות עצמית מול תחושת איום.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu, Ricky Cohen",
   "paperTitle": "Empowerment amidst turmoil, the association between protest participation against the 2023 Israeli judicial reform, individual perceived threats, and civic empowerment (self-efficacy): a cross-sectional online survey",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/anat-gesser-edelsburg/\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Gesser-Edelsburg</a>, <a href=\"https://orcid.org/0000-0002-3662-2851\" target=\"_blank\" rel=\"noopener noreferrer\">Rana Hijazi</a>, <a href=\"https://orcid.org/0009-0002-8395-2452\" target=\"_blank\" rel=\"noopener noreferrer\">Ester Eliyahu</a>, <a href=\"https://orcid.org/0000-0003-2868-9666\" target=\"_blank\" rel=\"noopener noreferrer\">Ricky Cohen</a>",

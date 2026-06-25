@@ -7,6 +7,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי. החשיבות הציבורית שלו היא בכך שהוא מחבר בין מבנה מוסדי לבין תוצאות חברתיות, משפטיות או כלכליות שמעצבות את איכות הדמוקרטיה. הסיכום מדגיש בזהירות את הזווית הדמוקרטית: כללים יציבים והוגנים משפיעים על היכולת להגביל כוח, להגן על זכויות ולקיים מדיניות ציבורית אמינה.",
   "summaryHe": "המאמר עוסק במוסדות ציבוריים, ממשל ואמון אזרחי, וממקם את הדיון בתוך שאלות של מוסדות, שלטון החוק, אחריותיות ואמון ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Assaf Moghadam, Michel Wyss",
   "paperTitle": "The Political Power of Proxies: Why Nonstate Actors Use Local Surrogates",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0002-7218-262X\" target=\"_blank\" rel=\"noopener noreferrer\">Assaf Moghadam</a>, <a href=\"https://orcid.org/0000-0002-8040-0543\" target=\"_blank\" rel=\"noopener noreferrer\">Michel Wyss</a>",

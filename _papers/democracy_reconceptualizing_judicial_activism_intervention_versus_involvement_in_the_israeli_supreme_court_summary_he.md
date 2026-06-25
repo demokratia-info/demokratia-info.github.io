@@ -8,6 +8,7 @@
   "subtitleHe": "",
   "descriptionHe": "המאמר עוסק בבתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל, וממקם את הדיון בתוך שאלות של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי. הוא רלוונטי להבנת הדמוקרטיה בישראל משום שהוא מחבר בין מקור אקדמי לבין שאלות של זכויות, מוסדות, אמון ציבורי והגבלת כוח.",
   "summaryHe": "המאמר בוחן את בתי המשפט, ביקורת שיפוטית ושלטון החוק בישראל דרך עדשה של חוקתיות, בתי משפט, שלטון החוק, ביקורת שיפוטית והגבלת כוח ציבורי.",
+  "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Keren Weinshall",
   "paperTitle": "Reconceptualizing Judicial Activism: Intervention Versus Involvement in the Israeli Supreme Court",
   "authorsHtml": "<a href=\"https://en.law.huji.ac.il/people/keren-weinshall-margel\" target=\"_blank\" rel=\"noopener noreferrer\">Keren Weinshall</a>",
