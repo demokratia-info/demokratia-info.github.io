@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 902,
+  "paperCount": 912,
   "papers": [
+    {
+      "slug": "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he",
+      "file": "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.html",
+      "permalink": "/democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.html",
+      "sortKey": 202606270010,
+      "titleHe": "מיקור המונים של מעקב בוחרים באפליקציות קמפיין",
+      "paperTitle": "Little Samaritan Brothers: Crowdsourcing Voter Surveillance",
+      "authorsCardHe": "Anat Ben-David",
+      "sourceAuthors": [
+        "Anat Ben-David"
+      ],
+      "journal": "The Law & Ethics of Human Rights",
+      "dateText": "פורסם אונליין: 25 בינואר 2024; כרך 17(2), עמ׳ 127-165",
+      "doiUrl": "https://doi.org/10.1515/lehr-2023-2008",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.jpg",
+        "altHe": "מתנדבי קמפיין יושבים סביב שולחן עם מחשבים וטפסים ריקים כמטפורה למיקור המונים של מעקב בוחרים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר מנתח כיצד מעקב בוחרים בקמפיינים דיגיטליים אינו פועל רק מלמעלה, באמצעות מפלגות וכלים מרכזיים, אלא גם מן הצד, באמצעות אזרחים שמתנדבים לאסוף מידע עבור יעדים אלקטורליים. דרך מושג מיקור ההמונים הוא מצביע על מתח בין שפה של השתתפות פוליטית לבין תשתיות מעקב חברתיות, טכנולוגיות ופוליטיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he",
+      "file": "democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.html",
+      "permalink": "/democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.html",
+      "sortKey": 202606270009,
+      "titleHe": "הברית בין חרד״לים לשמרנות הישראלית במאבק על הגמוניה",
+      "paperTitle": "“On the Side of the Good”: Political Alliances of Religious Zionists and Israeli Conservatism in the Quest to Hegemony",
+      "authorsCardHe": "Mordy Miller; Hayim Katsman",
+      "sourceAuthors": [
+        "Mordy Miller",
+        "Hayim Katsman"
+      ],
+      "journal": "Politics and Religion Journal",
+      "dateText": "פורסם: 7 במרץ 2024; כרך 18(1), עמ׳ 105-129",
+      "doiUrl": "https://doi.org/10.54561/prj1801105m",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.jpg",
+        "altHe": "דיון סגור בחדר ספרייה סביב שולחן כמטפורה לברית אידאולוגית בין דת ופוליטיקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר בוחן את שיתוף הפעולה בין השמרנות הישראלית לבין חוגי חרד״ל המזוהים עם הרב צבי טאו. לפי התקציר, הברית המפתיעה מוסברת באמצעות פרשנות ייחודית של מצב חירום רוחני ובאמצעות לקחים פוליטיים שנלמדו מתוכנית ההתנתקות מעזה ב-2005.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_representation_israeli_healthcare_professions_summary_he",
+      "file": "democracy_arab_representation_israeli_healthcare_professions_summary_he.html",
+      "permalink": "/democracy_arab_representation_israeli_healthcare_professions_summary_he.html",
+      "sortKey": 202606270008,
+      "titleHe": "ייצוג ערבים במקצועות הבריאות בישראל בין הישגים לפערים",
+      "paperTitle": "Arab representation in Israeli healthcare professions: achievements, challenges and opportunities",
+      "authorsCardHe": "Bruce Rosen; Sami H. Miaari",
+      "sourceAuthors": [
+        "Bruce Rosen",
+        "Sami H. Miaari"
+      ],
+      "journal": "Israel Journal of Health Policy Research",
+      "dateText": "פורסם: 3 בפברואר 2025; כרך 14(1), מאמר 7",
+      "doiUrl": "https://doi.org/10.1186/s13584-024-00663-3",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_representation_israeli_healthcare_professions_summary_he.jpg",
+        "altHe": "אנשי צוות רפואי מגוונים במסדרון הכשרה בבית חולים כמטפורה לייצוג ערבים במקצועות הבריאות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר מספק סקירה של ייצוג ערבים בישראל בארבעה מקצועות בריאות מרכזיים: רפואה, סיעוד, רפואת שיניים ורוקחות. לפי התקציר, הוא בוחן תעסוקה, רישוי ולימודים לאורך העשור האחרון, מציב את הממצאים בהקשר רחב יותר של תעסוקת ערבים בישראל, ומציע השלכות מדיניות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he",
+      "file": "democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.html",
+      "permalink": "/democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.html",
+      "sortKey": 202606270007,
+      "titleHe": "אבות ערבים בהדרכת הורים בין מסורת למודרניות בישראל",
+      "paperTitle": "Between tradition and modernity: Arab fathers’ experiences of parental guidance in Israel",
+      "authorsCardHe": "Anat Freund; Michal Shamai; Sumood Kadah",
+      "sourceAuthors": [
+        "Anat Freund",
+        "Michal Shamai",
+        "Sumood Kadah"
+      ],
+      "journal": "Journal of Ethnic & Cultural Diversity in Social Work",
+      "dateText": "פורסם אונליין: 24 ביולי 2024; עמ׳ 1-13",
+      "doiUrl": "https://doi.org/10.1080/15313204.2024.2383448",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.jpg",
+        "altHe": "קבוצת אבות יושבת עם מדריך בחדר שירות קהילתי כמטפורה להדרכת הורים בחברה הערבית בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר בוחן את חוויית הדרכת ההורים מנקודת מבטם של אבות מן המיעוט הערבי בישראל. לפי התקציר, המחקר האיכותני מבוסס על ראיונות חצי־מובנים עם 15 אבות, ומזהה ארבעה נושאים: הפניה להדרכה, עמדות כלפי המפגש הטיפולי בהקשר התרבותי, שינויים שחוו האבות, ותהליכים וטכניקות משמעותיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he",
+      "file": "democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.html",
+      "permalink": "/democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.html",
+      "sortKey": 202606270006,
+      "titleHe": "חוב כפוי כהתעללות כלכלית בנשים ערביות־פלסטיניות בישראל",
+      "paperTitle": "Economic abuse: Coercive debt of Arab-Palestinian women in Israel",
+      "authorsCardHe": "Tal Meler; Raghda Alnabilsy; Bernstein Miri",
+      "sourceAuthors": [
+        "Tal Meler",
+        "Raghda Alnabilsy",
+        "Bernstein Miri"
+      ],
+      "journal": "International Journal of Comparative Sociology",
+      "dateText": "פורסם אונליין: 20 בספטמבר 2024; כרך 66(2), עמ׳ 349-371",
+      "doiUrl": "https://doi.org/10.1177/00207152241277204",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.jpg",
+        "altHe": "פגישה במשרד סיוע משפטי סביב מסמכים ריקים כמטפורה לחוב כפוי והתעללות כלכלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר מתמקד בחוב כפוי כצורה של התעללות כלכלית שמופעלת בידי בני זוג או בני זוג לשעבר כלפי נשים השייכות למיעוט לאומי ילידי. לפי התקציר, המחקר מבוסס על ראיונות עומק חצי־מובנים שנערכו בשנת 2022 עם נשים ערביות־פלסטיניות בישראל ועל ניתוח של 21 מקרים משפטיים, ומראה כיצד החוב פוגע ביכולת לבנות חיים חופשיים מאלימות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he",
+      "file": "democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.html",
+      "permalink": "/democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.html",
+      "sortKey": 202606270005,
+      "titleHe": "אלימות מיילדותית וההתמודדות עמה בקולות של נשים ערביות ויהודיות בישראל",
+      "paperTitle": "Obstetric Violence (OV) Consequences and Coping Strategies: Insights Through the Voices of Arab and Jewish Women in Israel",
+      "authorsCardHe": "Dganit Sharon; Raghda Alnabilsy",
+      "sourceAuthors": [
+        "Dganit Sharon",
+        "Raghda Alnabilsy"
+      ],
+      "journal": "Violence Against Women",
+      "dateText": "פורסם אונליין: 10 בנובמבר 2024; כרך 31(15-16), עמ׳ 3838-3861",
+      "doiUrl": "https://doi.org/10.1177/10778012241292291",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.jpg",
+        "altHe": "שיחה רגישה בחדר ייעוץ רפואי כמטפורה לכבוד הגוף והתמודדות לאחר אלימות מיילדותית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר מציג מחקר איכותני שמבקש להשמיע את קולן של נשים ערביות ויהודיות בישראל שחוו אלימות מיילדותית. לפי התקציר, המחקר מבוסס על ניתוח תמטי של 20 ראיונות עומק חצי־מובנים, ומתאר שני אשכולות מרכזיים: השלכות פיזיות, רגשיות, זוגיות ואמון, ואסטרטגיות התמודדות כגון הדחקה, הימנעות, חוסן ופנייה לעזרה חיצונית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he",
+      "file": "democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.html",
+      "permalink": "/democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.html",
+      "sortKey": 202606270004,
+      "titleHe": "דעיכת המפלגות והתחזקות רשימות חמולתיות בשלטון המקומי הערבי־פלסטיני בישראל",
+      "paperTitle": "The Decline of Political Parties in Transitional Societies: Arab Palestinian Local Government in Israel",
+      "authorsCardHe": "Muhammed Khalaily",
+      "sourceAuthors": [
+        "Muhammed Khalaily"
+      ],
+      "journal": "Middle East Critique",
+      "dateText": "פורסם אונליין: 6 בספטמבר 2024; כרך 34(4), עמ׳ 939-959",
+      "doiUrl": "https://doi.org/10.1080/19436149.2024.2398326",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.jpg",
+        "altHe": "אולם מועצה מקומית עם תושבים בדיון כמטפורה לשלטון מקומי וייצוג פוליטי ערבי־פלסטיני בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר בוחן את היחלשות המפלגות הפוליטיות המייצגות את המיעוט הערבי־פלסטיני בישראל ואת התחזקות הרשימות החמולתיות בבחירות המקומיות. לפי התקציר, התהליך נובע משילוב בין מבנים חברתיים פנימיים, מדיניות מדינתית והקשר אזורי, ומעלה שאלות על ייצוג, פעולה קולקטיבית ושלטון מקומי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he",
+      "file": "democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.html",
+      "permalink": "/democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.html",
+      "sortKey": 202606270003,
+      "titleHe": "סטודנטים פלסטינים ממזרח ירושלים במוסדות הכשרה ישראליים בין חלום לפרדוקס",
+      "paperTitle": "Pursuing Dreams, Confronting Paradoxes: Palestinian Students in Israeli Institutions",
+      "authorsCardHe": "Khansaa Diab",
+      "sourceAuthors": [
+        "Khansaa Diab"
+      ],
+      "journal": "Social Sciences",
+      "dateText": "פורסם: 28 במאי 2024; כרך 13(6), מאמר 290",
+      "doiUrl": "https://doi.org/10.3390/socsci13060290",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.jpg",
+        "altHe": "חזית מכללת דוד ילין בירושלים כמקום הכשרה למורים בהקשר של סטודנטים פלסטינים במוסדות ישראליים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר מציג חקירה איכותנית של נרטיבים של סטודנטים פלסטינים ממזרח ירושלים במכללה ישראלית להכשרת מורים. לפי התקציר, סדנאות וביטוי אמנותי חושפים שאיפות, אתגרים ואסטרטגיות התמודדות בתוך מרחב חינוכי מורכב, וממקמים את החוויה במסגרת תאוריות של חוסן, זהות חברתית, גזע ביקורתי ופסיכולוגיה בין־תרבותית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he",
+      "file": "democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.html",
+      "permalink": "/democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.html",
+      "sortKey": 202606270002,
+      "titleHe": "תפיסות אזרחים בישראל את האינטליגנציה הרגשית של בנימין נתניהו",
+      "paperTitle": "If you rake me over the coals… – The Emotional Intelligence of Benjamin Netanyahu: The Prime Minister of Israel, as Perceived by Israeli Citizens",
+      "authorsCardHe": "Yaffa Buskila; Tamar Chem Levi; Andrea Kayne",
+      "sourceAuthors": [
+        "Yaffa Buskila",
+        "Tamar Chem Levi",
+        "Andrea Kayne"
+      ],
+      "journal": "Athens Journal of Social Sciences",
+      "dateText": "פורסם: 2 בינואר 2022; כרך 9(2), עמ׳ 161-180",
+      "doiUrl": "https://doi.org/10.30958/ajss.9-2-4",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.jpg",
+        "altHe": "חדר מחקר דעת קהל עם משתתפים ושאלונים ריקים כמטפורה לתפיסות אזרחים את מנהיגות פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר בוחן כיצד אזרחים ישראלים תופסים את האינטליגנציה הרגשית של בנימין נתניהו כמנהיג פוליטי. לפי התקציר, שאלון נשלח ל-414 משתתפים ישראלים בעלי תואר אקדמי ראשון ומעלה, והממצאים מצאו תפיסה גבוהה יחסית של אינטליגנציה רגשית, ממוצע 5.08 מתוך 7, לצד דיון באפשרות של שימוש גם בצד האפל של אינטליגנציה רגשית להשגת מטרות פוליטיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he",
+      "file": "democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.html",
+      "permalink": "/democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.html",
+      "sortKey": 202606270001,
+      "titleHe": "פרדוקס השוויון המגדרי במתמטיקה בעיני מורים בישראל",
+      "paperTitle": "Unpacking the gender equality paradox: narratives about mathematics and gender among teachers",
+      "authorsCardHe": "Laurie H. Rubel; Juhaina Awawdeh Shahbari",
+      "sourceAuthors": [
+        "Laurie H. Rubel",
+        "Juhaina Awawdeh Shahbari"
+      ],
+      "journal": "Research in Mathematics Education",
+      "dateText": "פורסם אונליין: 3 בדצמבר 2024; עמ׳ 1-22",
+      "doiUrl": "https://doi.org/10.1080/14794802.2024.2435016",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.jpg",
+        "altHe": "סדנת מורים עם חומרי מתמטיקה ריקים כמטפורה לנרטיבים על מגדר ומתמטיקה בבתי ספר בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-27",
+      "dateModified": "2026-06-27",
+      "summaryHe": "המאמר בוחן נרטיבים של מורים על מתמטיקה ומגדר בישראל, על רקע מגמות שונות בבתי ספר דוברי עברית ודוברי ערבית. לפי התקציר, בבתי ספר דוברי ערבית בנות עולות בעקביות על בנים במתמטיקה ומיוצגות יותר במסלולים מתקדמים, והמחקר סקר 809 מורים, בהם 457 מבתי ספר דוברי ערבית ו-352 מבתי ספר דוברי עברית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_asymmetry_in_israeli_academia_summary_he",
       "file": "democracy_asymmetry_in_israeli_academia_summary_he.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-26",
+  "lastUpdated": "2026-06-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -22305,6 +22305,326 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated university seminar room scene for Palestinian faculty voice and self-silencing; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.html",
+      "usedBy": [
+        "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.html"
+      ],
+      "cardTitleHe": "מיקור המונים של מעקב בוחרים באפליקציות קמפיין",
+      "authorsHe": "Anat Ben-David",
+      "visualDescriptionHe": "איור־צילום עריכתי של משרד קמפיין קהילתי עם מתנדבים, מחשבים וטפסים ריקים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על מעקב בוחרים בקמפיינים דיגיטליים, ועל האופן שבו אזרחים המשתמשים באפליקציות קמפיין משתתפים באיסוף נתונים שמשרת מפלגות ומועמדים.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "democracy",
+        "little",
+        "samaritan",
+        "brothers",
+        "crowdsourcing",
+        "voter",
+        "surveillance",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated campaign-office scene for crowdsourced voter surveillance and digital participation; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.html",
+      "usedBy": [
+        "democracy_political_alliances_religious_zionists_israeli_conservatism_hegemony_summary_he.html"
+      ],
+      "cardTitleHe": "הברית בין חרד״לים לשמרנות הישראלית במאבק על הגמוניה",
+      "authorsHe": "Mordy Miller; Hayim Katsman",
+      "visualDescriptionHe": "איור־צילום עריכתי של חדר דיונים עם ספרים ושולחן עגול",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הברית הפוליטית בין חוגי חרד״ל סביב הרב צבי טאו לבין השמרנות הישראלית, ועל האופן שבו לקחי ההתנתקות ומסגור של מצב חירום רוחני תומכים בשיתוף פעולה אידאולוגי.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "democracy",
+        "democracy",
+        "political",
+        "alliances",
+        "religious",
+        "zionists",
+        "israeli",
+        "conservatism",
+        "hegemony",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated seminar-room scene for religious Zionist and Israeli conservative coalition building; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_arab_representation_israeli_healthcare_professions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_representation_israeli_healthcare_professions_summary_he.html",
+      "usedBy": [
+        "democracy_arab_representation_israeli_healthcare_professions_summary_he.html"
+      ],
+      "cardTitleHe": "ייצוג ערבים במקצועות הבריאות בישראל בין הישגים לפערים",
+      "authorsHe": "Bruce Rosen; Sami H. Miaari",
+      "visualDescriptionHe": "איור־צילום עריכתי של צוותי בריאות מגוונים במסדרון הכשרה מוסדי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ייצוג אזרחים ערבים בישראל במקצועות רפואה, סיעוד, רפואת שיניים ורוקחות, ועל המשמעות של מגמות תעסוקה, רישוי ולימודים למדיניות שוויון.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "arab",
+        "representation",
+        "israeli",
+        "healthcare",
+        "professions",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated hospital-training corridor scene for Arab representation in healthcare professions; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.html",
+      "usedBy": [
+        "democracy_arab_fathers_parental_guidance_tradition_modernity_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אבות ערבים בהדרכת הורים בין מסורת למודרניות בישראל",
+      "authorsHe": "Anat Freund; Michal Shamai; Sumood Kadah",
+      "visualDescriptionHe": "איור־צילום עריכתי של קבוצת אבות במפגש הדרכה קהילתי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על חוויותיהם של אבות מן המיעוט הערבי בישראל שהשתתפו בהדרכת הורים, ועל המפגש בין טיפול, תרבות, אבהות ושינוי חברתי.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "arab",
+        "fathers",
+        "parental",
+        "guidance",
+        "tradition",
+        "modernity",
+        "israel",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated family-services room scene for Arab fathers in parental guidance; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.html",
+      "usedBy": [
+        "democracy_economic_abuse_coercive_debt_arab_palestinian_women_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חוב כפוי כהתעללות כלכלית בנשים ערביות־פלסטיניות בישראל",
+      "authorsHe": "Tal Meler; Raghda Alnabilsy; Bernstein Miri",
+      "visualDescriptionHe": "איור־צילום עריכתי של משרד סיוע משפטי ושיחה סביב מסמכים וכלי חישוב",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על חוב כפוי כצורה של התעללות כלכלית כלפי נשים ערביות־פלסטיניות בישראל, ועל הקשר בין אלימות זוגית, שוליות מרובה וזכויות בסיסיות.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "democracy",
+        "economic",
+        "abuse",
+        "coercive",
+        "debt",
+        "arab",
+        "palestinian",
+        "women",
+        "israel",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated legal-aid office scene for coercive debt and economic abuse; no readable text, private data, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.html",
+      "usedBy": [
+        "democracy_obstetric_violence_consequences_coping_strategies_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אלימות מיילדותית וההתמודדות עמה בקולות של נשים ערביות ויהודיות בישראל",
+      "authorsHe": "Dganit Sharon; Raghda Alnabilsy",
+      "visualDescriptionHe": "איור־צילום עריכתי של חדר ייעוץ במרפאת נשים ושיחה מכבדת",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אלימות מיילדותית, השלכותיה ואסטרטגיות ההתמודדות של נשים ערביות ויהודיות בישראל, מתוך גישה פמיניסטית ומתודולוגיה איכותנית.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democracy",
+        "democracy",
+        "obstetric",
+        "violence",
+        "consequences",
+        "coping",
+        "strategies",
+        "israel",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated women’s-health consultation room scene for obstetric violence consequences and coping; no readable text, logos, flags, or graphic imagery."
+    },
+    {
+      "file": "html_qa/democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.html",
+      "usedBy": [
+        "democracy_decline_political_parties_arab_palestinian_local_government_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דעיכת המפלגות והתחזקות רשימות חמולתיות בשלטון המקומי הערבי־פלסטיני בישראל",
+      "authorsHe": "Muhammed Khalaily",
+      "visualDescriptionHe": "איור־צילום עריכתי של אולם מועצה מקומית ותושבים בדיון",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על היחלשות מפלגות לאומיות ערביות־פלסטיניות בישראל ועל עליית רשימות חמולתיות בזירה המוניציפלית בשלושת העשורים האחרונים.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "decline",
+        "political",
+        "parties",
+        "arab",
+        "palestinian",
+        "local",
+        "government",
+        "israel",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated municipal meeting-room scene for Arab Palestinian local government and party decline; no readable text, campaign signs, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_students_israeli_institutions_dreams_paradoxes_summary_he.html"
+      ],
+      "cardTitleHe": "סטודנטים פלסטינים ממזרח ירושלים במוסדות הכשרה ישראליים בין חלום לפרדוקס",
+      "authorsHe": "Khansaa Diab",
+      "visualDescriptionHe": "צילום של חזית מכללת דוד ילין בירושלים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על סטודנטים פלסטינים ממזרח ירושלים הלומדים במכללה ישראלית להכשרת מורים, ועל הדרכים שבהן הם מתמודדים עם שאיפות מקצועיות, בידוד, אפליה והסכסוך הישראלי־פלסטיני.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "palestinian",
+        "students",
+        "israeli",
+        "institutions",
+        "dreams",
+        "paradoxes",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "wikimedia_commons_photo",
+      "sourceTitle": "File:David Yellin College.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David%20Yellin%20College.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/David_Yellin_College.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "artist": "Hovev",
+      "credit": "Own work"
+    },
+    {
+      "file": "html_qa/democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.html",
+      "usedBy": [
+        "democracy_emotional_intelligence_netanyahu_israeli_citizens_summary_he.html"
+      ],
+      "cardTitleHe": "תפיסות אזרחים בישראל את האינטליגנציה הרגשית של בנימין נתניהו",
+      "authorsHe": "Yaffa Buskila; Tamar Chem Levi; Andrea Kayne",
+      "visualDescriptionHe": "איור־צילום עריכתי של חדר מחקר וסקר דעת קהל על מנהיגות פוליטית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על האופן שבו אזרחים ישראלים בעלי תואר אקדמי ראשון ומעלה תפסו את האינטליגנציה הרגשית של בנימין נתניהו, ועל הקשר בין מנהיגות, השפעה פוליטית ושימוש חיובי או שלילי בכישורים רגשיים.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "emotional",
+        "intelligence",
+        "netanyahu",
+        "israeli",
+        "citizens",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated public-opinion research room for perceived emotional intelligence of political leadership; no real politician portraits, readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.html",
+      "usedBy": [
+        "democracy_gender_equality_paradox_mathematics_teachers_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פרדוקס השוויון המגדרי במתמטיקה בעיני מורים בישראל",
+      "authorsHe": "Laurie H. Rubel; Juhaina Awawdeh Shahbari",
+      "visualDescriptionHe": "איור־צילום עריכתי של סדנת מורים עם חומרי מתמטיקה ושיחה קבוצתית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על נרטיבים של מורים בישראל לגבי מתמטיקה ומגדר, ועל הבדלים בין בתי ספר דוברי עברית ודוברי ערבית ביחס למיתוסים על יכולת מתמטית ועליונות בנים.",
+      "createdDate": "2026-06-27",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "gender",
+        "equality",
+        "paradox",
+        "mathematics",
+        "teachers",
+        "israel",
+        "summary"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated teacher professional-development workshop for gender narratives in mathematics education; no readable text, logos, flags, or watermarks."
     }
   ],
   "topicGraphics": [
