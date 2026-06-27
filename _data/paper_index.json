@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 912,
+  "paperCount": 922,
   "papers": [
+    {
+      "slug": "democracy_democratic_parenting_parent_education_usa_israel_summary_he",
+      "file": "democracy_democratic_parenting_parent_education_usa_israel_summary_he.html",
+      "permalink": "/democracy_democratic_parenting_parent_education_usa_israel_summary_he.html",
+      "sortKey": 202606280010,
+      "titleHe": "הורות דמוקרטית בין שיעורי הורים בישראל ובארצות הברית",
+      "paperTitle": "Democratic Parenting: Parental interpretation of parent education messages in the USA and Israel",
+      "authorsCardHe": "Shlomit Oryan",
+      "sourceAuthors": [
+        "Shlomit Oryan"
+      ],
+      "journal": "International Journal about Parents in Education",
+      "dateText": "פורסם אונליין: 11 בנובמבר 2023; כרך 8, גיליון 1",
+      "doiUrl": "https://doi.org/10.54195/ijpe.18230",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_parenting_parent_education_usa_israel_summary_he.jpg",
+        "altHe": "מעגל חינוך הורים בחדר קהילתי כמטפורה לפרשנות מקומית של ידע על הורות דמוקרטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן כיצד ידע גלובלי על הורות דמוקרטית עובר דרך מערכות חינוך הורים בארצות הברית ובישראל. לפי התקציר, אף שהתיאוריות המועברות להורים דומות, ההורים מפרשים ומיישמים אותן אחרת בהתאם לאמונות תרבותיות ולרקע חברתי־פוליטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he",
+      "file": "democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.html",
+      "permalink": "/democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.html",
+      "sortKey": 202606280009,
+      "titleHe": "הורות או חיים ללא ילדים בקרב מבוגרים להט״בים והטרוסקסואלים",
+      "paperTitle": "Deciding to parent or remain childfree: Comparing sexual minority and heterosexual childless adults from Israel, Portugal, and the United Kingdom.",
+      "authorsCardHe": "Geva Shenkman; Jorge Gato; Fiona Tasker; Chen Erez; Daniela Leal",
+      "sourceAuthors": [
+        "Geva Shenkman",
+        "Jorge Gato",
+        "Fiona Tasker",
+        "Chen Erez",
+        "Daniela Leal"
+      ],
+      "journal": "Journal of Family Psychology",
+      "dateText": "פורסם: ספטמבר 2021; כרך 35, גיליון 6, עמ׳ 844-850",
+      "doiUrl": "https://doi.org/10.1037/fam0000843",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.jpg",
+        "altHe": "קבוצת מחקר באוניברסיטה הדנה בבחירות משפחתיות ובאוטונומיה של מבוגרים חסרי ילדים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר משווה בין מבוגרים חסרי ילדים משלוש מדינות ובין משתתפים להט״בים והטרוסקסואלים. לפי התקציר, משתתפים מישראל ומפורטוגל דיווחו על רצון וכוונה להורות ועל חשש מחיים ללא ילדים ברמות גבוהות יותר ממשתתפים מבריטניה, ומשתתפים להט״בים דיווחו בכלליות על רצון וכוונה נמוכים יותר מן המשתתפים ההטרוסקסואלים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he",
+      "file": "democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.html",
+      "permalink": "/democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.html",
+      "sortKey": 202606280008,
+      "titleHe": "שלושה דורות של נשים ישראליות ממוצא אתיופי בין שוויון, משפחה וידע",
+      "paperTitle": "Changes in values and ways of knowing among three generations of Israeli women of Ethiopian origin",
+      "authorsCardHe": "Oshrat Sulika Rotem; Michael Weinstock; Patricia M. Greenfield",
+      "sourceAuthors": [
+        "Oshrat Sulika Rotem",
+        "Michael Weinstock",
+        "Patricia M. Greenfield"
+      ],
+      "journal": "Current Research in Ecological and Social Psychology",
+      "dateText": "פורסם: 2024; כרך 6, מאמר 100186",
+      "doiUrl": "https://doi.org/10.1016/j.cresp.2024.100186",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.jpg",
+        "altHe": "שיחה ביתית בין שלושה דורות של נשים ממוצא אתיופי בישראל סביב שולחן משפחתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן שלושה דורות של נשים ישראליות ממוצא אתיופי באמצעות דילמות חברתיות שנבנו למחקר. לפי התקציר, נמצאה מגמה היסטורית לעבר שוויון מגדרי ותפיסת ידע יחסית יותר, כאשר נערות נטו להדגיש בחירה ואוטונומיה יותר מן הסבתות, והאימהות נטו להימצא בין שתי הקבוצות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_women_gender_struggle_religious_realities_israel_summary_he",
+      "file": "democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.html",
+      "permalink": "/democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.html",
+      "sortKey": 202606280007,
+      "titleHe": "מאבקי נשים דרוזיות בישראל בתוך מציאות דתית וחברתית מורכבת",
+      "paperTitle": "Gender Struggle Within Complex Religious Realities: Druze Women in Israel as a Case Study",
+      "authorsCardHe": "Ebtesam Barakat",
+      "sourceAuthors": [
+        "Ebtesam Barakat"
+      ],
+      "journal": "Gender Issues",
+      "dateText": "פורסם אונליין: 22 בפברואר 2021; כרך 39, גיליון 1, עמ׳ 39-63",
+      "doiUrl": "https://doi.org/10.1007/s12147-021-09275-6",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.jpg",
+        "altHe": "נשים דרוזיות בשיחה בחצר קהילתית כמטפורה למשא ומתן על בחירה וניידות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר טוען כי אף שאין לנשים דרוזיות בישראל מבנה פורמלי ברור שמאפשר להן להיאבק בפטריארכיה, רבות מהן מנהלות מאבקים יומיומיים על זכויות בסיסיות. לפי תקציר המו״ל, המאמר מתמקד בשני שדות מרכזיים: מימוש בחירה אישית ביחסים ובמיניות, והרחבת ניידות באמצעות אסטרטגיות של הסתרה ומשא ומתן משפחתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he",
+      "file": "democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.html",
+      "permalink": "/democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.html",
+      "sortKey": 202606280006,
+      "titleHe": "דניאל בר-טל על הסכסוך הישראלי-פלסטיני לפני ואחרי 7 באוקטובר",
+      "paperTitle": "Daniel Bar‐Tal, on the Israeli‐Palestinian conflict, before and after October 7, 2023: In conversation with James Liu and Veronica Hopner",
+      "authorsCardHe": "Daniel Bar-Tal",
+      "sourceAuthors": [
+        "Daniel Bar-Tal"
+      ],
+      "journal": "Political Psychology",
+      "dateText": "פורסם אונליין: 28 באוקטובר 2024; כרך 46, גיליון 6, עמ׳ 1419-1439",
+      "doiUrl": "https://doi.org/10.1111/pops.13055",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.jpg",
+        "altHe": "ראיון אקדמי בחדר סמינר על סכסוך, זיכרון קולקטיבי ואפשרויות לפתרון פוליטי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר הוא ראיון אקדמי עם דניאל בר-טל המתמקד במצב בישראל ובפלסטין אחרי מתקפת חמאס ב-7 באוקטובר 2023 והמלחמה בעזה. לפי התקציר, הראיון מיישם את תיאוריית הקונפליקט הבלתי פתיר של בר-טל כדי לדון באתוס של סכסוך, זיכרון קולקטיבי, אוריינטציה רגשית קולקטיבית והאפשרות לטפל במרכיבים אלה בדרך לפתרון שלום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_diaspora_military_service_belonging_israel_summary_he",
+      "file": "democracy_diaspora_military_service_belonging_israel_summary_he.html",
+      "permalink": "/democracy_diaspora_military_service_belonging_israel_summary_he.html",
+      "sortKey": 202606280005,
+      "titleHe": "שירות צבאי של תפוצות בישראל כמסלול לשייכות, הגירה וזהות",
+      "paperTitle": "Fighting to belong: drivers for transnational diaspora military service in Israel and beyond",
+      "authorsCardHe": "Lior Yohanani",
+      "sourceAuthors": [
+        "Lior Yohanani"
+      ],
+      "journal": "Comparative Migration Studies",
+      "dateText": "פורסם אונליין: 2 בפברואר 2024; כרך 12, גיליון 1",
+      "doiUrl": "https://doi.org/10.1186/s40878-024-00363-6",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_diaspora_military_service_belonging_israel_summary_he.jpg",
+        "altHe": "צעירים בתהליך אוריינטציה אזרחית בישראל כמטפורה לשירות תפוצות, שייכות והגירה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן שירות צבאי של בני תפוצות בישראל במצב שבו השירות אינו נובע ממשבר מיידי או מחובת גיוס במדינת מוצא. לפי התקציר, המחקר משתמש בנתוני סקר וראיונות של יותר מ-1,100 חיילי תפוצות ומשווה בין צפון אמריקאים, ישראלים-אמריקאים ואנשים מברית המועצות לשעבר, ומציע שלושה מודלים מניעים: אידיאולוגי, ניעות והתחברות מחדש.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ultranationalism_ultra_orthodoxy_shas_summary_he",
+      "file": "democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.html",
+      "permalink": "/democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.html",
+      "sortKey": 202606280004,
+      "titleHe": "לאומנות וחרדיות מזרחית: המקרה של ש״ס ותנועת התשובה",
+      "paperTitle": "Ultranationalism and Ultra-Orthodoxy: The Case of Shas",
+      "authorsCardHe": "Nissim Leon",
+      "sourceAuthors": [
+        "Nissim Leon"
+      ],
+      "journal": "Politics and Religion Journal",
+      "dateText": "פורסם אונליין: 7 במרץ 2024; כרך 18, גיליון 1, עמ׳ 77-103",
+      "doiUrl": "https://doi.org/10.54561/prj1801077l",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.jpg",
+        "altHe": "מפגש קהילתי בבית מדרש שכונתי כמטפורה לשיח חרדי־מזרחי על לאומיות וסמכות רבנית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן כיצד שיח חרדי־מזרחי מעבד עמדות לאומניות בקרב ציבור תומכי ש״ס, במיוחד דרך תנועת התשובה בפריפריה החברתית בישראל. לפי התקציר, עבודת שדה בקרב דרשני תשובה מקומיים מצאה שהם השתמשו במסר לאומני כדי להדגיש דבקות במסורת יהודית ובסמכות רבנית, לצד גרסה מורכבת ונזילה של לאומנות דתית שאינה שוללת בהכרח אינטראקציה תרבותית בין יהודים לערבים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_migrant_workers_children_military_belonging_israel_summary_he",
+      "file": "democracy_migrant_workers_children_military_belonging_israel_summary_he.html",
+      "permalink": "/democracy_migrant_workers_children_military_belonging_israel_summary_he.html",
+      "sortKey": 202606280003,
+      "titleHe": "ילדי מהגרי עבודה בישראל, שירות צבאי ומסלולי שייכות אזרחית",
+      "paperTitle": "“In the army I’m no longer typecast as the son of migrant workers”: modalities of inclusion and belonging among children of migrant workers in the military in Israel",
+      "authorsCardHe": "Galia Sabar; Deby Babis; Anabel Lifszyc-Friedlander; Uzi Ben-Shalom",
+      "sourceAuthors": [
+        "Galia Sabar",
+        "Deby Babis",
+        "Anabel Lifszyc-Friedlander",
+        "Uzi Ben-Shalom"
+      ],
+      "journal": "Frontiers in Psychology",
+      "dateText": "פורסם אונליין: 24 בינואר 2024; כרך 15",
+      "doiUrl": "https://doi.org/10.3389/fpsyg.2024.1300081",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_migrant_workers_children_military_belonging_israel_summary_he.jpg",
+        "altHe": "צעירים בתהליך אוריינטציה אזרחית כמטפורה לילדי מהגרי עבודה, שירות ושייכות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן כיצד מיעוטים לא-אזרחים חווים שירות צבאי, דרך המקרה של ילדי מהגרי עבודה בינלאומיים בישראל. לפי התקציר, החלטות ממשלה בשנים 2006 ו-2010 העניקו מעמד אזרחי לכ-1,500 ילדים, הפכו אותם לזכאים לשירות, ולאחר שנת שירות ראשונה אפשרו להם אזרחות ישראלית ולבני משפחתם הקרובה תושבות קבע; המחקר מזהה שייכות פורמלית, חברתית ולעיתים דתית כמסלולי הכללה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_forensic_evidence_public_attitudes_israel_summary_he",
+      "file": "democracy_forensic_evidence_public_attitudes_israel_summary_he.html",
+      "permalink": "/democracy_forensic_evidence_public_attitudes_israel_summary_he.html",
+      "sortKey": 202606280002,
+      "titleHe": "עמדות הציבור בישראל כלפי ראיות פורנזיות ואמינותן",
+      "paperTitle": "Forensic Science – Believe It or Not? Public Attitudes toward Forensic Evidence in Israel",
+      "authorsCardHe": "Naomi Kaplan-Damary; Tal Jonathan-Zamir; Gali Perry; Eran Itskovich",
+      "sourceAuthors": [
+        "Naomi Kaplan-Damary",
+        "Tal Jonathan-Zamir",
+        "Gali Perry",
+        "Eran Itskovich"
+      ],
+      "journal": "International Annals of Criminology",
+      "dateText": "פורסם אונליין: 19 באפריל 2024; כרך 62, גיליון 1, עמ׳ 226-254",
+      "doiUrl": "https://doi.org/10.1017/cri.2024.4",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_forensic_evidence_public_attitudes_israel_summary_he.jpg",
+        "altHe": "חוקרים סביב שולחן ראיות פורנזיות וסקר ציבורי כמטפורה לאמון הציבור במדע פורנזי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן כיצד הציבור בישראל תופס ראיות פורנזיות בתקופה שבה המדע הפורנזי עובר רפורמה וביקורת בינלאומית. לפי התקציר, סקר בקרב הציבור הישראלי מצא אמון ניכר ביכולת ראיות פורנזיות לזהות מבצע עבירה, אך אמון נמוך יותר כאשר נשאלים על שלבים מסוימים בתהליך, וכן טעויות בהערכת אמינותם של סוגי ראיות מסוימים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_police_communication_victims_discontinued_cases_israel_summary_he",
+      "file": "democracy_police_communication_victims_discontinued_cases_israel_summary_he.html",
+      "permalink": "/democracy_police_communication_victims_discontinued_cases_israel_summary_he.html",
+      "sortKey": 202606280001,
+      "titleHe": "תקשורת משטרתית עם נפגעי עבירה בתיקים שנסגרו בישראל",
+      "paperTitle": "Victims' satisfaction with police communication strategies in discontinued cases: Unveiling the limits through a randomised controlled trial in Israel",
+      "authorsCardHe": "Esther Buchnik; Barak Ariel; Eran Itskovich",
+      "sourceAuthors": [
+        "Esther Buchnik",
+        "Barak Ariel",
+        "Eran Itskovich"
+      ],
+      "journal": "Journal of Criminal Justice",
+      "dateText": "פורסם: מאי 2024; כרך 92, מאמר 102194",
+      "doiUrl": "https://doi.org/10.1016/j.jcrimjus.2024.102194",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_police_communication_victims_discontinued_cases_israel_summary_he.jpg",
+        "altHe": "מוקד שירות משטרתי ושיחת טלפון לנפגע עבירה כמטפורה לצדק פרוצדורלי ותקשורת בתיקים שנסגרו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-28",
+      "dateModified": "2026-06-28",
+      "summaryHe": "המאמר בוחן נפגעי עבירה שדיווחו על פשעים באופן מקוון במחוז הדרום בישראל ותיקיהם נסגרו. לפי התקציר, ניסוי אקראי מצא כי שיחת הרגעה נוספת לפי עקרונות צדק פרוצדורלי לא שיפרה באופן מובהק את שביעות הרצון, האמון או תחושת הביטחון מעבר לקשר הראשוני, בעוד ששיחת חוקר שיפרה שביעות רצון ותפיסות של צדק פרוצדורלי לעומת העדר קשר, ומכתב בלבד לא שיפר את תפיסות הנפגעים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he",
       "file": "democracy_little_samaritan_brothers_crowdsourcing_voter_surveillance_summary_he.html",

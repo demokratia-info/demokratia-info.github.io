@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-27",
+  "lastUpdated": "2026-06-28",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -22625,6 +22625,302 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated or documentary contextual fit rather than an approved exact source image.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated teacher professional-development workshop for gender narratives in mathematics education; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_democratic_parenting_parent_education_usa_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_democratic_parenting_parent_education_usa_israel_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_parenting_parent_education_usa_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הורות דמוקרטית בין שיעורי הורים בישראל ובארצות הברית",
+      "authorsHe": "Shlomit Oryan",
+      "visualDescriptionHe": "מעגל חינוך הורים בחדר קהילתי מגוון",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על האופן שבו הורים בישראל ובארצות הברית מפרשים מסרים של חינוך הורים סביב הורות דמוקרטית, ועל הקשר בין ידע גלובלי, תרבות מקומית ורקע חברתי־פוליטי.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "democratic",
+        "parenting",
+        "parent",
+        "education",
+        "usa",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated parent-education discussion circle for democratic parenting across cultures; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.html",
+      "usedBy": [
+        "democracy_parent_or_childfree_sexual_minority_heterosexual_adults_summary_he.html"
+      ],
+      "cardTitleHe": "הורות או חיים ללא ילדים בקרב מבוגרים להט״בים והטרוסקסואלים",
+      "authorsHe": "Geva Shenkman; Jorge Gato; Fiona Tasker; Chen Erez; Daniela Leal",
+      "visualDescriptionHe": "קבוצת מבוגרים בדיון מחקרי על בחירות משפחתיות",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר המשווה בין מבוגרים חסרי ילדים להט״בים והטרוסקסואלים בישראל, פורטוגל ובריטניה, ובוחן רצון להורות, כוונה להורות וחשש מחיים ללא ילדים.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "democracy",
+        "parent",
+        "or",
+        "childfree",
+        "sexual",
+        "minority",
+        "heterosexual",
+        "adults"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated university discussion scene for parenthood and childfree choices across sociocultural contexts; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.html",
+      "usedBy": [
+        "democracy_ethiopian_origin_israeli_women_values_knowledge_generations_summary_he.html"
+      ],
+      "cardTitleHe": "שלושה דורות של נשים ישראליות ממוצא אתיופי בין שוויון, משפחה וידע",
+      "authorsHe": "Oshrat Sulika Rotem; Michael Weinstock; Patricia M. Greenfield",
+      "visualDescriptionHe": "שלושה דורות של נשים ממוצא אתיופי בשיחה ביתית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הבדלים בין סבתות, אימהות ונערות ישראליות ממוצא אתיופי בערכים, תפיסות ידע, מחויבות משפחתית ושוויון מגדרי.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "democracy",
+        "ethiopian",
+        "origin",
+        "israeli",
+        "women",
+        "values",
+        "knowledge",
+        "generations"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated intergenerational home conversation scene for Ethiopian-origin Israeli women, values, knowledge, and autonomy; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.html",
+      "usedBy": [
+        "democracy_druze_women_gender_struggle_religious_realities_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מאבקי נשים דרוזיות בישראל בתוך מציאות דתית וחברתית מורכבת",
+      "authorsHe": "Ebtesam Barakat",
+      "visualDescriptionHe": "נשים דרוזיות בשיחה בחצר קהילתית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על דרכי פעולה של נשים דרוזיות בישראל במאבק יומיומי נגד הגבלות פטריארכליות, במיוחד סביב בחירה אישית, מיניות וניידות.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "democracy",
+        "druze",
+        "women",
+        "gender",
+        "struggle",
+        "religious",
+        "realities",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated Druze women community courtyard conversation for gender rights, personal choice, and mobility; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.html",
+      "usedBy": [
+        "democracy_bar_tal_israeli_palestinian_conflict_after_october_7_summary_he.html"
+      ],
+      "cardTitleHe": "דניאל בר-טל על הסכסוך הישראלי-פלסטיני לפני ואחרי 7 באוקטובר",
+      "authorsHe": "Daniel Bar-Tal",
+      "visualDescriptionHe": "ראיון אקדמי בחדר סמינר על סכסוך וזיכרון קולקטיבי",
+      "semanticDescriptionHe": "תמצית בעברית של ראיון אקדמי ב-Political Psychology עם דניאל בר-טל על הסכסוך הישראלי-פלסטיני, המלחמה אחרי 7 באוקטובר 2023 ותיאוריית הקונפליקט הבלתי פתיר.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "democracy",
+        "democracy",
+        "bar",
+        "tal",
+        "israeli",
+        "palestinian",
+        "conflict",
+        "after",
+        "october",
+        "7"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated academic interview seminar scene for intractable conflict, collective memory, and conflict resolution; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_diaspora_military_service_belonging_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_diaspora_military_service_belonging_israel_summary_he.html",
+      "usedBy": [
+        "democracy_diaspora_military_service_belonging_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שירות צבאי של תפוצות בישראל כמסלול לשייכות, הגירה וזהות",
+      "authorsHe": "Lior Yohanani",
+      "visualDescriptionHe": "צעירים באוריינטציה אזרחית על שייכות והגירה",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על שירות צבאי של בני תפוצות בישראל, המניעים להשתתפות בו והקשר בין שירות, שייכות, ניעות חברתית והגירה.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "diaspora",
+        "military",
+        "service",
+        "belonging",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated civic orientation scene for diaspora military service, belonging, mobility, and immigration; no readable text, logos, flags, weapons, or insignia."
+    },
+    {
+      "file": "html_qa/democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.html",
+      "usedBy": [
+        "democracy_ultranationalism_ultra_orthodoxy_shas_summary_he.html"
+      ],
+      "cardTitleHe": "לאומנות וחרדיות מזרחית: המקרה של ש״ס ותנועת התשובה",
+      "authorsHe": "Nissim Leon",
+      "visualDescriptionHe": "מפגש קהילתי בבית מדרש שכונתי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הקשר בין עמדות לאומניות בקרב מצביעי ש״ס לבין שיח חרדי־מזרחי בתנועת התשובה בישראל.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "ultranationalism",
+        "ultra",
+        "orthodoxy",
+        "shas"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated Mizrahi-Haredi community study-hall discussion for Shas, teshuva discourse, and religious ultranationalism; no readable text, logos, flags, or campaign materials."
+    },
+    {
+      "file": "html_qa/democracy_migrant_workers_children_military_belonging_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_migrant_workers_children_military_belonging_israel_summary_he.html",
+      "usedBy": [
+        "democracy_migrant_workers_children_military_belonging_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ילדי מהגרי עבודה בישראל, שירות צבאי ומסלולי שייכות אזרחית",
+      "authorsHe": "Galia Sabar; Deby Babis; Anabel Lifszyc-Friedlander; Uzi Ben-Shalom",
+      "visualDescriptionHe": "צעירים בתהליך ייעוץ אזרחי על מעמד ושייכות",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ילדי מהגרי עבודה לא-אזרחים בישראל ששירתו בצה״ל, ועל הדרכים שבהן השירות השפיע על אזרחות, השתייכות ולגיטימציה חברתית.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democracy",
+        "democracy",
+        "migrant",
+        "workers",
+        "children",
+        "military",
+        "belonging",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated civic-service orientation scene for children of migrant workers, military service, and belonging; no readable text, logos, flags, weapons, or insignia."
+    },
+    {
+      "file": "html_qa/democracy_forensic_evidence_public_attitudes_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_forensic_evidence_public_attitudes_israel_summary_he.html",
+      "usedBy": [
+        "democracy_forensic_evidence_public_attitudes_israel_summary_he.html"
+      ],
+      "cardTitleHe": "עמדות הציבור בישראל כלפי ראיות פורנזיות ואמינותן",
+      "authorsHe": "Naomi Kaplan-Damary; Tal Jonathan-Zamir; Gali Perry; Eran Itskovich",
+      "visualDescriptionHe": "חוקרים סביב שולחן ראיות פורנזיות וסקר ציבורי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על תפיסות הציבור בישראל ביחס למדע פורנזי, ראיות פורנזיות, אמינותן והשלכותיהן על לגיטימיות המשטרה ומערכת המשפט הפלילי.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democracy",
+        "democracy",
+        "forensic",
+        "evidence",
+        "public",
+        "attitudes",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated criminology lab/seminar scene for forensic evidence and public attitudes; no readable text, logos, weapons, gore, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_police_communication_victims_discontinued_cases_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_police_communication_victims_discontinued_cases_israel_summary_he.html",
+      "usedBy": [
+        "democracy_police_communication_victims_discontinued_cases_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תקשורת משטרתית עם נפגעי עבירה בתיקים שנסגרו בישראל",
+      "authorsHe": "Esther Buchnik; Barak Ariel; Eran Itskovich",
+      "visualDescriptionHe": "מוקד שירות ציבורי ושיחת טלפון על תיק שנסגר",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ניסוי אקראי בישראל שבחן האם דרכי תקשורת שונות של המשטרה עם נפגעי עבירה בתיקים שנסגרו משפרות שביעות רצון, צדק פרוצדורלי ואמון.",
+      "createdDate": "2026-06-28",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democracy",
+        "democracy",
+        "police",
+        "communication",
+        "victims",
+        "discontinued",
+        "cases",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated police-administration callback office scene for victim communication and procedural justice; no readable text, logos, weapons, or watermarks."
     }
   ],
   "topicGraphics": [
