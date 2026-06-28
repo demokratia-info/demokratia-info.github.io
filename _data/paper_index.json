@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 922,
+  "paperCount": 932,
   "papers": [
+    {
+      "slug": "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he",
+      "file": "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.html",
+      "permalink": "/democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.html",
+      "sortKey": 202606290010,
+      "titleHe": "דילמות אתיות ומשפטיות של עובדים סוציאליים בישראל בזמן הקורונה",
+      "paperTitle": "Ethical and legal dilemmas experienced by Israeli social workers during the COVID-19 pandemic",
+      "authorsCardHe": "Michal Segal; Ayelet Gur",
+      "sourceAuthors": [
+        "Michal Segal",
+        "Ayelet Gur"
+      ],
+      "journal": "Journal of Social Work",
+      "dateText": "פורסם אונליין: 16 בפברואר 2023; כרך 23, גיליון 3, עמ׳ 411-427",
+      "doiUrl": "https://doi.org/10.1177/14680173221144203",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.jpg",
+        "altHe": "עובדת סוציאלית במרכז קהילתי משוחחת עם פונה בתקופת חירום בריאותית כמטפורה לדילמות פרטיות ושירות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר בוחן כיצד עובדים סוציאליים בישראל קיבלו החלטות כאשר מגפת הקורונה יצרה מתח בין חובת טיפול, שמירה על פרטיות ובריאות העובדים עצמם. לפי התקציר, סקר איכותני בקרב 478 עובדים סוציאליים זיהה שלושה מוקדי קושי: חשש לפגיעה בפרטיות ובסודיות של מקבלי שירות, סיכון בריאותי לעובדים, וקושי לספק שירות מקצועי בתנאי חירום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_instability_israel_causes_consequences_summary_he",
+      "file": "democracy_political_instability_israel_causes_consequences_summary_he.html",
+      "permalink": "/democracy_political_instability_israel_causes_consequences_summary_he.html",
+      "sortKey": 202606290009,
+      "titleHe": "אי־יציבות פוליטית בישראל: סיבות מוסדיות וחברתיות והמחיר הציבורי",
+      "paperTitle": "Political instability in Israel over the last decades – Causes and consequences",
+      "authorsCardHe": "Erez Cohen",
+      "sourceAuthors": [
+        "Erez Cohen"
+      ],
+      "journal": "Cogent Social Sciences",
+      "dateText": "פורסם אונליין: 17 בדצמבר 2023; כרך 10, גיליון 1, מאמר 2293316",
+      "doiUrl": "https://doi.org/10.1080/23311886.2023.2293316",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_instability_israel_causes_consequences_summary_he.jpg",
+        "altHe": "חדר ועדה פרלמנטרי ריק אחרי משא ומתן קואליציוני כמטפורה לאי־יציבות פוליטית בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר סוקר את הידרדרות יציבות הממשלות בישראל מאז סוף שנות התשעים ובייחוד בשנים האחרונות. לפי תקציר OpenAlex, המאמר מזהה הטרוגניות חברתית, שינויי תרבות פוליטית ואפשרויות רבות לפיזור הכנסת כגורמים שמחלישים יציבות, ומקשר זאת לקושי לקדם מדיניות ארוכת טווח ולנטייה של פוליטיקאים להעדיף הישרדות פוליטית על אינטרס ציבורי רחב.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_covid_triage_ethics_israel_position_paper_summary_he",
+      "file": "democracy_covid_triage_ethics_israel_position_paper_summary_he.html",
+      "permalink": "/democracy_covid_triage_ethics_israel_position_paper_summary_he.html",
+      "sortKey": 202606290008,
+      "titleHe": "הכרעות תיעדוף רפואי בישראל בזמן הקורונה בין שוויון, שקיפות ואמון ציבורי",
+      "paperTitle": "Israeli Position Paper: Triage Decisions for Severely Ill Patients During the COVID-19 Pandemic. Joint Commission of the Israel National Bioethics Council, the Ethics Bureau of the Israel Medical Association and Representatives from the Israeli Ministry of Health",
+      "authorsCardHe": "Avraham Steinberg; Ephrat Levy-Lahad; Tami Karni; Noam J. Zohar; Gil Siegal; Charles L. Sprung; Israel National Bioethics Council; Ethics Bureau of the Israel Medical Association; Representatives from the Israeli Ministry of Health",
+      "sourceAuthors": [
+        "Avraham Steinberg",
+        "Ephrat Levy-Lahad",
+        "Tami Karni",
+        "Noam J. Zohar",
+        "Gil Siegal",
+        "Charles L. Sprung",
+        "Israel National Bioethics Council",
+        "Ethics Bureau of the Israel Medical Association",
+        "Representatives from the Israeli Ministry of Health"
+      ],
+      "journal": "Rambam Maimonides Medical Journal",
+      "dateText": "פורסם אונליין: 31 ביולי 2020; כרך 11, גיליון 3, מאמר e0019",
+      "doiUrl": "https://doi.org/10.5041/rmmj.10411",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_triage_ethics_israel_position_paper_summary_he.jpg",
+        "altHe": "ועדת אתיקה רפואית בבית חולים דנה בתיעדוף משאבים בזמן מגפה כמטפורה לשוויון ושקיפות בהחלטות חירום",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר מציג תרגום לאנגלית של הנחיות הוועדה הישראלית המשותפת לתיעדוף חולים קשים בזמן מגפת הקורונה. לפי התקציר, ארבע ועדות משנה רפואיות, משפטיות, אתיות־חברתיות ודתיות גיבשו עקרונות וקריטריונים מעשיים לתיעדוף משאבים מצילי חיים, ובהם תנאי הפעלה, שוויון בגישה, חלוקה הוגנת, שקיפות, עקביות, טיפול פליאטיבי, מנגנוני פתרון בעיות ואמון ציבורי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_attachment_family_court_child_protection_custody_summary_he",
+      "file": "democracy_attachment_family_court_child_protection_custody_summary_he.html",
+      "permalink": "/democracy_attachment_family_court_child_protection_custody_summary_he.html",
+      "sortKey": 202606290007,
+      "titleHe": "תיאוריית ההתקשרות בבית המשפט: שימוש זהיר בהחלטות הגנת ילדים ומשמורת",
+      "paperTitle": "Attachment goes to court: child protection and custody issues",
+      "authorsCardHe": "Tommie Forslund; Pehr Granqvist; Marinus H. van IJzendoorn; Avi Sagi-Schwartz; Danya Glaser ואחרים",
+      "sourceAuthors": [
+        "Tommie Forslund",
+        "Pehr Granqvist",
+        "Marinus H. van IJzendoorn",
+        "Avi Sagi-Schwartz",
+        "Danya Glaser"
+      ],
+      "journal": "Attachment & Human Development",
+      "dateText": "פורסם אונליין: 11 בינואר 2021; כרך 24, גיליון 1, עמ׳ 1-52",
+      "doiUrl": "https://doi.org/10.1080/14616734.2020.1840762",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_attachment_family_court_child_protection_custody_summary_he.jpg",
+        "altHe": "חדר ייעוץ בבית משפט למשפחה עם אנשי מקצוע הדנים בטובת הילד ובהערכת התקשרות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר בוחן כיצד תיאוריית ההתקשרות ומחקרי התקשרות משמשים בבתי משפט לענייני משפחה, ומזהיר מפני אי־הבנות ויישומים שגויים. לפי התקציר, המאמר מציע שלושה עקרונות: צורך הילד במטפלים מוכרים שאינם פוגעניים, ערך הרציפות של טיפול טוב־דיו, ותועלת של רשת קשרי התקשרות; הוא גם מדגיש שמדדי התנהגות מטפלים צריכים לעמוד במרכז ההכרעה המשפטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_shared_responsibility_labor_rights_supply_chains_summary_he",
+      "file": "democracy_shared_responsibility_labor_rights_supply_chains_summary_he.html",
+      "permalink": "/democracy_shared_responsibility_labor_rights_supply_chains_summary_he.html",
+      "sortKey": 202606290006,
+      "titleHe": "אחריות משותפת לזכויות עובדים בשרשראות אספקה גלובליות",
+      "paperTitle": "Shared Responsibility and Labor Rights in Global Supply Chains",
+      "authorsCardHe": "Yossi Dahan; Hanna Lerner; Faina Milman-Sivan",
+      "sourceAuthors": [
+        "Yossi Dahan",
+        "Hanna Lerner",
+        "Faina Milman-Sivan"
+      ],
+      "journal": "Journal of Business Ethics",
+      "dateText": "פורסם אונליין: 10 בנובמבר 2021; כרך 182, גיליון 4, עמ׳ 1025-1040",
+      "doiUrl": "https://doi.org/10.1007/s10551-021-04988-w",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_shared_responsibility_labor_rights_supply_chains_summary_he.jpg",
+        "altHe": "נציגי עובדים, מנהל ורגולטור דנים סביב שולחן בשרשרת אספקה כמטפורה לאחריות משותפת לזכויות עובדים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר מציע מודל נורמטיבי של אחריות משותפת לתיקון תנאי עבודה בלתי צודקים ולהגנה על זכויות עובדים בשרשראות אספקה גלובליות. לפי תקציר Semantic Scholar, המודל טוען שהאחריות צריכה להתחלק בין שחקנים פרטיים ומוסדיים, ומציע חמישה עקרונות להקצאת אחריות: קשר, תרומה, תועלת, יכולת וכוח, לצד אפשרויות יישום במנגנונים מוסדיים לאומיים ובין־לאומיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_patients_rights_hospital_accreditation_israel_summary_he",
+      "file": "democracy_patients_rights_hospital_accreditation_israel_summary_he.html",
+      "permalink": "/democracy_patients_rights_hospital_accreditation_israel_summary_he.html",
+      "sortKey": 202606290005,
+      "titleHe": "זכויות מטופלים דרך אקרדיטציה בבתי חולים בישראל",
+      "paperTitle": "Promoting patients’ rights through hospital accreditation",
+      "authorsCardHe": "Daniel Sperling; Rina B. Pikkel",
+      "sourceAuthors": [
+        "Daniel Sperling",
+        "Rina B. Pikkel"
+      ],
+      "journal": "Israel Journal of Health Policy Research",
+      "dateText": "פורסם אונליין: 21 בספטמבר 2020; כרך 9, גיליון 1, מאמר 47",
+      "doiUrl": "https://doi.org/10.1186/s13584-020-00405-1",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_patients_rights_hospital_accreditation_israel_summary_he.jpg",
+        "altHe": "ישיבת אקרדיטציה בבית חולים עם נציגת זכויות מטופלים כמטפורה לקידום זכויות דרך תקני איכות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר בוחן האם וכיצד תהליך אקרדיטציה בבתי חולים מקדם זכויות מטופלים בישראל. לפי התקציר, המחברים משווים בין תקני JCI לבין חוק זכויות החולה, תשנ״ו-1995, ומראים כי פרק זכויות המטופל באקרדיטציה מעלה מודעות ויישום של זכויות מטופלים ומשפחותיהם, אך גם חושף פערים בין מסגרת תקנית לבין ההסדרה המשפטית הלאומית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israel_family_court_therapeutic_jurisprudence_summary_he",
+      "file": "democracy_israel_family_court_therapeutic_jurisprudence_summary_he.html",
+      "permalink": "/democracy_israel_family_court_therapeutic_jurisprudence_summary_he.html",
+      "sortKey": 202606290004,
+      "titleHe": "בית המשפט לענייני משפחה בישראל כמודל של משפט טיפולי",
+      "paperTitle": "The Israel Family Court – Therapeutic jurisprudence and jurisprudential therapy from the start",
+      "authorsCardHe": "Philip M. Marcus",
+      "sourceAuthors": [
+        "Philip M. Marcus"
+      ],
+      "journal": "International Journal of Law and Psychiatry",
+      "dateText": "פורסם: מרץ 2019; כרך 63, עמ׳ 68-75",
+      "doiUrl": "https://doi.org/10.1016/j.ijlp.2018.06.006",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_family_court_therapeutic_jurisprudence_summary_he.jpg",
+        "altHe": "דיון ביחידת סיוע של בית משפט לענייני משפחה כמטפורה לשילוב סמכות שיפוטית ותמיכה טיפולית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר מתאר את בית המשפט לענייני משפחה בישראל כמסגרת ששילבה מראש משפט טיפולי ויחידות סיוע חברתיות. לפי תקציר Semantic Scholar, חוק בית המשפט לענייני משפחה, תשנ״ה-1995, כלל הוראה מהפכנית שלפיה יחידת סיוע מאוישת בעובדים סוציאליים בכירים תהיה חלק מכל בית משפט; יחידות אלה נותנות הערכה, ייעוץ וסיוע, וכן תומכות במפגשי מידע, גישור, הפניות לטיפול ושמיעת צורכי ילדים בהליכים הנוגעים לעתידם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_students_mixed_segregated_schools_israel_summary_he",
+      "file": "democracy_arab_students_mixed_segregated_schools_israel_summary_he.html",
+      "permalink": "/democracy_arab_students_mixed_segregated_schools_israel_summary_he.html",
+      "sortKey": 202606290003,
+      "titleHe": "זהות ועמדות של תלמידים ערבים בבתי ספר מופרדים ומעורבים בישראל",
+      "paperTitle": "Arabs in segregated vs. mixed Jewish–Arab schools in Israel: their identities and attitudes towards Jews",
+      "authorsCardHe": "Natalie Levy",
+      "sourceAuthors": [
+        "Natalie Levy"
+      ],
+      "journal": "Ethnic and Racial Studies",
+      "dateText": "פורסם אונליין: 23 בפברואר 2023; כרך 46, גיליון 12, עמ׳ 2720-2746",
+      "doiUrl": "https://doi.org/10.1080/01419870.2023.2177118",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_students_mixed_segregated_schools_israel_summary_he.jpg",
+        "altHe": "תלמידים יהודים וערבים יושבים לשיחה בכיתה מעורבת כמטפורה לזהות ועמדות בין־קבוצתיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר משווה בין תלמידים ערבים בישראל הלומדים בבתי ספר מופרדים לבין תלמידים בבתי ספר יהודיים־ערביים מעורבים מסוגים שונים. לפי תקציר OpenAlex, תלמידים בבתי ספר מעורבים נוטים להגדיר את עצמם במונחים לאומיים; תלמידים ערבים בבתי ספר עבריים מעורבים נסיבתית נוטים יותר להזדהות כישראלים, ואילו תלמידים בבתי ספר רב־תרבותיים ומופרדים נוטים יותר להזדהות כפלסטינים; הזדהות ישראלית נקשרה לעמדות חיוביות יותר כלפי יהודים, ולא נמצא קשר מובהק בין הזדהות פלסטינית לעמדות שליליות כלפי יהודים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_palestinian_israeli_market_kafr_qasim_summary_he",
+      "file": "democracy_palestinian_israeli_market_kafr_qasim_summary_he.html",
+      "permalink": "/democracy_palestinian_israeli_market_kafr_qasim_summary_he.html",
+      "sortKey": 202606290002,
+      "titleHe": "שוק כפר קאסם כמרחב פלסטיני־ישראלי של קרבה, ניכור וסדר חברתי חלופי",
+      "paperTitle": "The Palestinian-Israeli market: ‘feels like somewhere else’",
+      "authorsCardHe": "Azri Amram",
+      "sourceAuthors": [
+        "Azri Amram"
+      ],
+      "journal": "Identities",
+      "dateText": "פורסם אונליין: 21 במרץ 2023; כרך 31, גיליון 6, עמ׳ 793-812",
+      "doiUrl": "https://doi.org/10.1080/1070289X.2023.2186627",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_israeli_market_kafr_qasim_summary_he.jpg",
+        "altHe": "שוק פתוח עם מוכרים וקונים מגוונים כמטפורה למרחב פלסטיני־ישראלי משותף בכפר קאסם",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר בוחן את שוק כפר קאסם כמרחב שבו יהודים מזרחים ואזרחים פלסטינים בישראל עובדים, קונים ומבלים זה לצד זה. לפי תקציר OpenAlex, האתנוגרפיה שנערכה בשנים 2016-2019 טוענת שהשוק נתפס כמרחב המציע סדר חברתי ופוליטי חלופי לקבוצות החוות דיכוי בחברה הישראלית, ובמיוחד דרך תחושות של מרחב תרבותי משותף ו'מקום אחר'.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_women_status_21st_century_summary_he",
+      "file": "democracy_druze_women_status_21st_century_summary_he.html",
+      "permalink": "/democracy_druze_women_status_21st_century_summary_he.html",
+      "sortKey": 202606290001,
+      "titleHe": "מעמדן של נשים דרוזיות בישראל במאה ה־21 בין חינוך, דת ושינוי חברתי",
+      "paperTitle": "The development of the status of Druze women in the 21st century",
+      "authorsCardHe": "Janan Faraj Falah",
+      "sourceAuthors": [
+        "Janan Faraj Falah"
+      ],
+      "journal": "Frontiers in Sociology",
+      "dateText": "פורסם אונליין: 21 בספטמבר 2023; כרך 8, מאמר 1206494",
+      "doiUrl": "https://doi.org/10.3389/fsoc.2023.1206494",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_women_status_21st_century_summary_he.jpg",
+        "altHe": "נשים דרוזיות צעירות ומבוגרות יושבות לשיחה על לימודים וקריירה כמטפורה לשינוי מעמדן במאה ה־21",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-29",
+      "dateModified": "2026-06-29",
+      "summaryHe": "המאמר מנתח סיבות חברתיות, אישיות ודתיות לשינוי במעמדן של נשים דרוזיות בישראל. לפי התקציר, מאז פתיחת כיתה לנשים בשנות השבעים והתרחבות ההשכלה בעשורים האחרונים חל שינוי יסודי, ובשנת 2020 נשים דרוזיות היו 68% מכלל הסטודנטים הדרוזים לתואר ראשון ו-64.8% מן הסטודנטים הדרוזים לתואר שני; השינוי השפיע גם על המקצועות שבהם נשים דרוזיות עובדות ועל החברה הדרוזית בכללה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_democratic_parenting_parent_education_usa_israel_summary_he",
       "file": "democracy_democratic_parenting_parent_education_usa_israel_summary_he.html",

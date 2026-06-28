@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -22921,6 +22921,291 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because it is a generated contextual fit rather than an approved exact source image.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated police-administration callback office scene for victim communication and procedural justice; no readable text, logos, weapons, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.html",
+      "usedBy": [
+        "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דילמות אתיות ומשפטיות של עובדים סוציאליים בישראל בזמן הקורונה",
+      "authorsHe": "Michal Segal; Ayelet Gur",
+      "visualDescriptionHe": "עובדת סוציאלית ופונה במשרד שירותים חברתיים בזמן חירום בריאותי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על דילמות אתיות ומשפטיות שחוו עובדים סוציאליים בישראל בזמן מגפת הקורונה, ועל השלכותיהן לזכויות, פרטיות ושירותים חברתיים במצב חירום.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democracy",
+        "ethical",
+        "and",
+        "legal",
+        "dilemmas",
+        "experienced",
+        "by"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated Israeli social-work office scene for COVID-era ethical and legal dilemmas, privacy, emergency service delivery, and worker safety; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_political_instability_israel_causes_consequences_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_instability_israel_causes_consequences_summary_he.html",
+      "usedBy": [
+        "democracy_political_instability_israel_causes_consequences_summary_he.html"
+      ],
+      "cardTitleHe": "אי־יציבות פוליטית בישראל: סיבות מוסדיות וחברתיות והמחיר הציבורי",
+      "authorsHe": "Erez Cohen",
+      "visualDescriptionHe": "חדר ועדה פרלמנטרי ריק עם שולחן משא ומתן ומסמכים ריקים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הידרדרות יציבות הממשלות בישראל, הגורמים החברתיים והמוסדיים לכך, וההשלכות על יכולת משילות דמוקרטית ומדיניות ציבורית.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "democracy",
+        "political",
+        "instability",
+        "in",
+        "israel",
+        "over",
+        "the"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked standard because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated parliamentary committee-room scene for coalition fragmentation and political instability; no readable text, logos, party symbols, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_covid_triage_ethics_israel_position_paper_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_triage_ethics_israel_position_paper_summary_he.html",
+      "usedBy": [
+        "democracy_covid_triage_ethics_israel_position_paper_summary_he.html"
+      ],
+      "cardTitleHe": "הכרעות תיעדוף רפואי בישראל בזמן הקורונה בין שוויון, שקיפות ואמון ציבורי",
+      "authorsHe": "Avraham Steinberg; Ephrat Levy-Lahad; Tami Karni; Noam J. Zohar; Gil Siegal; Charles L. Sprung; Israel National Bioethics Council; Ethics Bureau of the Israel Medical Association; Representatives from the Israeli Ministry of Health",
+      "visualDescriptionHe": "ועדת אתיקה רפואית בחדר בית חולים עם אנשי רפואה ומשפט סביב מסמכים ריקים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר המציג את נייר העמדה הישראלי על תיעדוף חולים קשים בזמן מגפת הקורונה, ואת עקרונות השוויון, השקיפות, ההוגנות והאמון הציבורי שמלווים אותו.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "israeli",
+        "position",
+        "paper",
+        "triage",
+        "decisions",
+        "for"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated hospital ethics committee scene for COVID triage, scarce life-saving resources, equity, transparency, and public trust; no identifiable patients, readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_attachment_family_court_child_protection_custody_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_attachment_family_court_child_protection_custody_summary_he.html",
+      "usedBy": [
+        "democracy_attachment_family_court_child_protection_custody_summary_he.html"
+      ],
+      "cardTitleHe": "תיאוריית ההתקשרות בבית המשפט: שימוש זהיר בהחלטות הגנת ילדים ומשמורת",
+      "authorsHe": "Tommie Forslund; Pehr Granqvist; Marinus H. van IJzendoorn; Avi Sagi-Schwartz; Danya Glaser ואחרים",
+      "visualDescriptionHe": "שולחן דיון בבית משפט למשפחה עם אנשי משפט ורווחה ופינת ילדים מטושטשת",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר קונצנזוס על השימוש בתיאוריית ההתקשרות בבתי משפט לענייני משפחה, בהליכי הגנת ילדים ובהכרעות משמורת.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democracy",
+        "attachment",
+        "goes",
+        "to",
+        "court",
+        "child",
+        "protection"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated family-court consultation scene for attachment theory, child protection, custody decisions, and evidence-based welfare assessment; no readable documents, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_shared_responsibility_labor_rights_supply_chains_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_shared_responsibility_labor_rights_supply_chains_summary_he.html",
+      "usedBy": [
+        "democracy_shared_responsibility_labor_rights_supply_chains_summary_he.html"
+      ],
+      "cardTitleHe": "אחריות משותפת לזכויות עובדים בשרשראות אספקה גלובליות",
+      "authorsHe": "Yossi Dahan; Hanna Lerner; Faina Milman-Sivan",
+      "visualDescriptionHe": "מפגש במפעל בין נציגי עובדים, מנהל ורגולטור סביב תרשים ייצור ריק",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר המציע מודל נורמטיבי של אחריות משותפת לתיקון תנאי עבודה בלתי צודקים ולהגנה על זכויות עובדים בשרשראות אספקה גלובליות.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democracy",
+        "shared",
+        "responsibility",
+        "and",
+        "labor",
+        "rights",
+        "in"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated supply-chain labor-rights meeting scene with workers' representatives, manager, and public regulator; no readable text, logos, flags, brand marks, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_patients_rights_hospital_accreditation_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_patients_rights_hospital_accreditation_israel_summary_he.html",
+      "usedBy": [
+        "democracy_patients_rights_hospital_accreditation_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות מטופלים דרך אקרדיטציה בבתי חולים בישראל",
+      "authorsHe": "Daniel Sperling; Rina B. Pikkel",
+      "visualDescriptionHe": "מפגש בבית חולים בין אנשי צוות, מנהל ונציגת זכויות מטופלים סביב רשימות בדיקה ריקות",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על האופן שבו תהליכי אקרדיטציה בבתי חולים בישראל מקדמים זכויות מטופלים, ועל הפער בין תקני JCI לבין ההגנה בחקיקה הלאומית.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democracy",
+        "promoting",
+        "patients",
+        "rights",
+        "through",
+        "hospital",
+        "accreditation"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated hospital accreditation and patients-rights review scene with clinicians, administrator, and advocate; no readable text, logos, identifiable patients, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_israel_family_court_therapeutic_jurisprudence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_family_court_therapeutic_jurisprudence_summary_he.html",
+      "usedBy": [
+        "democracy_israel_family_court_therapeutic_jurisprudence_summary_he.html"
+      ],
+      "cardTitleHe": "בית המשפט לענייני משפחה בישראל כמודל של משפט טיפולי",
+      "authorsHe": "Philip M. Marcus",
+      "visualDescriptionHe": "חדר גישור ויחידת סיוע בבית משפט למשפחה עם אנשי משפט ועבודה סוציאלית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על בית המשפט לענייני משפחה בישראל, יחידות הסיוע החברתיות, והרעיון של משפט טיפולי בתוך סמכות שיפוטית.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democracy",
+        "the",
+        "israel",
+        "family",
+        "court",
+        "therapeutic",
+        "jurisprudence"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated Israeli family-court and social-services unit scene for therapeutic jurisprudence, mediation, children's welfare, and legal support; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_arab_students_mixed_segregated_schools_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_students_mixed_segregated_schools_israel_summary_he.html",
+      "usedBy": [
+        "democracy_arab_students_mixed_segregated_schools_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות ועמדות של תלמידים ערבים בבתי ספר מופרדים ומעורבים בישראל",
+      "authorsHe": "Natalie Levy",
+      "visualDescriptionHe": "מעגל תלמידים בבית ספר רב־תרבותי עם מורה וספרי לימוד ריקים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על תלמידים ערבים בבתי ספר מופרדים ומעורבים בישראל, ועל הקשר בין מסגרת החינוך, זהות עצמית ועמדות כלפי יהודים.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "arabs",
+        "in",
+        "segregated",
+        "vs.",
+        "mixed",
+        "jewish"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated multicultural school discussion scene for Arab students in mixed and segregated schools, identity, and intergroup attitudes; no readable text, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_palestinian_israeli_market_kafr_qasim_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_israeli_market_kafr_qasim_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_israeli_market_kafr_qasim_summary_he.html"
+      ],
+      "cardTitleHe": "שוק כפר קאסם כמרחב פלסטיני־ישראלי של קרבה, ניכור וסדר חברתי חלופי",
+      "authorsHe": "Azri Amram",
+      "visualDescriptionHe": "שוק פתוח הומה עם מוכרים וקונים מגוונים סביב דוכני ירקות ללא שילוט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר אתנוגרפי על שוק כפר קאסם כמרחב שבו יהודים מזרחים ואזרחים פלסטינים בישראל עובדים, קונים ומבלים זה לצד זה.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "the",
+        "palestinian-israeli",
+        "market",
+        "‘feels",
+        "like",
+        "somewhere"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated open-air market scene for Kafr Qasim, Palestinian citizens of Israel, Mizrahi Jewish visitors, shared cultural space, and everyday coexistence amid inequality; no readable signs, logos, flags, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_druze_women_status_21st_century_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_druze_women_status_21st_century_summary_he.html",
+      "usedBy": [
+        "democracy_druze_women_status_21st_century_summary_he.html"
+      ],
+      "cardTitleHe": "מעמדן של נשים דרוזיות בישראל במאה ה־21 בין חינוך, דת ושינוי חברתי",
+      "authorsHe": "Janan Faraj Falah",
+      "visualDescriptionHe": "מפגש בין־דורי של נשים דרוזיות סביב שולחן לימוד וייעוץ קהילתי",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הגורמים החברתיים, האישיים והדתיים לשינוי במעמדן של נשים דרוזיות בישראל במאה ה־21.",
+      "createdDate": "2026-06-29",
+      "tags": [
+        "rights-equality-minorities",
+        "democracy",
+        "the",
+        "development",
+        "of",
+        "the",
+        "status",
+        "of"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper's subject and contains no readable text, logos, watermarks, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated intergenerational Druze women's community learning scene for education, professional change, gender equality, and community norms; no readable text, logos, flags, symbols as main subject, or watermarks."
     }
   ],
   "topicGraphics": [

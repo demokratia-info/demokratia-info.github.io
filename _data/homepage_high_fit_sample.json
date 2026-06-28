@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "sampleSize": 6,
-  "seed": "2026-06-28-homepage-high-fit",
+  "seed": "2026-06-29-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 297,
+  "highFitPaperCount": 306,
   "paperSlugs": [
-    "democracy_prisoners_health_rights_care_gap_summary_he",
-    "democracy_religion_democratic_commitment_framework_summary_he",
-    "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he",
-    "democracy_desk_perpetrator_expert_witness_role_law_greiser_summary_he",
-    "democracy_regime_style_reality_tv_populism_israel_summary_he",
-    "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he"
+    "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he",
+    "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he",
+    "democracy_does_democracy_cause_growth_meta_analysis_summary_he",
+    "democracy_model_ethnic_democracy_response_to_danel_summary_he",
+    "democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he",
+    "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he"
   ]
 }
