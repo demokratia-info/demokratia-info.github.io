@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 932,
+  "paperCount": 942,
   "papers": [
+    {
+      "slug": "democracy_arab_women_caretakers_kibbutz_kindergartens_israel_summary_he",
+      "file": "democracy_arab_women_caretakers_kibbutz_kindergartens_israel_summary_he.html",
+      "permalink": "/democracy_arab_women_caretakers_kibbutz_kindergartens_israel_summary_he.html",
+      "sortKey": 202606300010,
+      "titleHe": "מטפלות ערביות בגני קיבוץ בין עבודה חינוכית, זהות וקבלה מותנית",
+      "paperTitle": "‘You can’t have it both ways’: Arab women caretakers in kibbutz kindergartens in Israel",
+      "authorsCardHe": "Edith Blit-Cohen; Maya Galperin",
+      "sourceAuthors": [
+        "Edith Blit-Cohen",
+        "Maya Galperin"
+      ],
+      "journal": "Early Child Development and Care",
+      "dateText": "פורסם אונליין: 24 באוקטובר 2023; כרך 194, גיליון 5-6, עמ׳ 810-822",
+      "doiUrl": "https://doi.org/10.1080/03004430.2023.2273796",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_women_caretakers_kibbutz_kindergartens_israel_summary_he.jpg",
+        "altHe": "מטפלות וילדים בכיתת גן קיבוצית כמטפורה למפגש בין עבודה חינוכית, זהות וקבלה מותנית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן את אתגריהן ודרכי ההתמודדות של נשים ערביות העובדות כמטפלות בגני קיבוץ בישראל. לפי התקציר, 15 ראיונות חצי־מובנים חשפו שלושה מוקדים: תפיסה עצמית הנעה בין ישראליות חילונית לבין זהות מוסלמית־ערבית ואזרחית משולבת, תגובות משפחתיות לעבודה בקיבוץ ולאימוץ נורמות מערביות וקיבוציות, וקבלה מותנית מצד החברה היהודית בקיבוץ.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_lost_common_identity_nationality_bill_summary_he",
+      "file": "democracy_druze_lost_common_identity_nationality_bill_summary_he.html",
+      "permalink": "/democracy_druze_lost_common_identity_nationality_bill_summary_he.html",
+      "sortKey": 202606300009,
+      "titleHe": "אובדן תחושת ה״אנחנו״ בקרב דרוזים בישראל אחרי חוק הלאום",
+      "paperTitle": "When a Sense of “We” Is Lost: Investigating the Consequences of a Lost Common Identity Among Druze in Israel",
+      "authorsCardHe": "Tamar Saguy; Danit Sobol-Sarag; Samer Halabi; Katherine Stroebe; Emile Bruneau; Siwar Hasan-Aslih",
+      "sourceAuthors": [
+        "Tamar Saguy",
+        "Danit Sobol-Sarag",
+        "Samer Halabi",
+        "Katherine Stroebe",
+        "Emile Bruneau",
+        "Siwar Hasan-Aslih"
+      ],
+      "journal": "Social Psychological and Personality Science",
+      "dateText": "פורסם אונליין: 19 בנובמבר 2019; כרך 11, גיליון 5, עמ׳ 667-675",
+      "doiUrl": "https://doi.org/10.1177/1948550619884562",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_lost_common_identity_nationality_bill_summary_he.jpg",
+        "altHe": "דיון קהילתי דרוזי סביב שולחן כמטפורה לאובדן זהות משותפת ושאלות אזרחות אחרי חוק הלאום",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר שואל מה קורה כאשר זהות משותפת עם קבוצת הרוב כבר נוצרה אך לאחר מכן נחווית כאבודה. לפי התקציר, סקר בקרב 178 דרוזים בישראל אחרי חוק הלאום מצא שאובדן תחושת זהות משותפת ניבא צורות פעולה רדיקליות, במיוחד בקרב צעירים, גם לאחר שליטה במנבאים מוכרים של פעולה אלימה ולא־אלימה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_muslim_minority_religious_education_israel_summary_he",
+      "file": "democracy_muslim_minority_religious_education_israel_summary_he.html",
+      "permalink": "/democracy_muslim_minority_religious_education_israel_summary_he.html",
+      "sortKey": 202606300008,
+      "titleHe": "חינוך דתי בבתי ספר מוסלמיים בישראל בין ריכוזיות, תקצוב וזהות מיעוט",
+      "paperTitle": "Religious Education among Minority Muslim Schools in Israel: The Condition and Overview",
+      "authorsCardHe": "Nohad Ali",
+      "sourceAuthors": [
+        "Nohad Ali"
+      ],
+      "journal": "Jurnal Pendidikan Islam",
+      "dateText": "פורסם: 8 בינואר 2018; כרך 3, גיליון 2, עמ׳ 125-140",
+      "doiUrl": "https://doi.org/10.15575/jpi.v3i2.1628",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_minority_religious_education_israel_summary_he.jpg",
+        "altHe": "מורה ותלמידים בכיתה מוסלמית בישראל כמטפורה לחינוך דתי, משאבים וזהות מיעוט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר מתאר את מערכת החינוך בישראל כמערכת ריכוזית השולטת גם במימון וגם בתוכניות לימודים של בתי ספר יהודיים וערביים. לפי התקציר, בחינוך הערבי והמוסלמי מתגלים פערי משאבים, אפליה תקציבית ותוכניות פיתוח חלשות יותר, והמאמר מציג את התפתחות מוסדות החינוך האסלאמיים כניסיון לשמר זהות דתית ולאומית של מיעוט מוסלמי בישראל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_bedouin_druze_women_higher_education_internal_immigration_summary_he",
+      "file": "democracy_bedouin_druze_women_higher_education_internal_immigration_summary_he.html",
+      "permalink": "/democracy_bedouin_druze_women_higher_education_internal_immigration_summary_he.html",
+      "sortKey": 202606300007,
+      "titleHe": "נשים בדואיות ודרוזיות חוזרות מן האקדמיה כ״מהגרות פנימיות״ בקהילה",
+      "paperTitle": "Identity and gender in cultural transitions: returning home from higher education as ‘internal immigration’ among Bedouin and Druze women in Israel",
+      "authorsCardHe": "Sarab Abu-Rabia-Queder; Naomi Weiner-Levy",
+      "sourceAuthors": [
+        "Sarab Abu-Rabia-Queder",
+        "Naomi Weiner-Levy"
+      ],
+      "journal": "Social Identities",
+      "dateText": "פורסם: נובמבר 2008; כרך 14, גיליון 6, עמ׳ 665-682",
+      "doiUrl": "https://doi.org/10.1080/13504630802462778",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bedouin_druze_women_higher_education_internal_immigration_summary_he.jpg",
+        "altHe": "נשים צעירות וקרובת משפחה סביב חומרי לימוד כמטפורה לחזרה מן האקדמיה ולשינוי זהות מגדרית בקהילה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן את חזרתן של נשים בדואיות ודרוזיות מלימודים באוניברסיטאות ישראליות אל ביתן ותרבותן. לפי התקציר, הכניסה לאוניברסיטה במרחב יהודי־ישראלי חושפת אותן לערכים ונורמות שונים מאלה של תרבות המוצא, והחזרה לכפרים מלווה בשינויים בזהות המגדרית ובתחושת היותן ״מהגרות פנימיות״ בתוך תרבותן שלהן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_christian_identity_religious_education_israel_summary_he",
+      "file": "democracy_christian_identity_religious_education_israel_summary_he.html",
+      "permalink": "/democracy_christian_identity_religious_education_israel_summary_he.html",
+      "sortKey": 202606300006,
+      "titleHe": "חינוך נוצרי בישראל מעצב זהות של מיעוט בתוך מיעוט",
+      "paperTitle": "“Minority within minority” or a “minority of two majorities”: religious education and the making of Christian identity in Israel",
+      "authorsCardHe": "Ayman K. Agbaria; Hazar Obeid Shehadeh",
+      "sourceAuthors": [
+        "Ayman K. Agbaria",
+        "Hazar Obeid Shehadeh"
+      ],
+      "journal": "British Journal of Religious Education",
+      "dateText": "פורסם אונליין: 3 בינואר 2022; כרך 44, גיליון 3, עמ׳ 256-270",
+      "doiUrl": "https://doi.org/10.1080/01416200.2021.2021504",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_christian_identity_religious_education_israel_summary_he.jpg",
+        "altHe": "מורים ותלמידים בדיון חינוכי כמטפורה לעיצוב זהות נוצרית בישראל כמיעוט בתוך מיעוט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר האיכותני בוחן כיצד הוראה קונפסיונלית של נצרות מעצבת זהות נוצרית בישראל. לפי התקציר, המחקר מתמקד במורי חינוך דתי, במטרותיהם ובאתגריהם, ומנתח שתי עמדות זהות: נוצרים כמיעוט בתוך המיעוט הערבי בישראל, ונוצרים כמיעוט מול שתי קבוצות רוב, מוסלמית ויהודית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_tiny_religious_minorities_druze_rights_summary_he",
+      "file": "democracy_tiny_religious_minorities_druze_rights_summary_he.html",
+      "permalink": "/democracy_tiny_religious_minorities_druze_rights_summary_he.html",
+      "sortKey": 202606300005,
+      "titleHe": "זכויות של מיעוטים דתיים קטנים דרך המקרה הדרוזי",
+      "paperTitle": "Tiny religious minorities and minority group rights: the case of the Druze community",
+      "authorsCardHe": "Yakub Halabi",
+      "sourceAuthors": [
+        "Yakub Halabi"
+      ],
+      "journal": "Social Identities",
+      "dateText": "פורסם אונליין: 4 בספטמבר 2020; כרך 26, גיליון 6, עמ׳ 739-755",
+      "doiUrl": "https://doi.org/10.1080/13504630.2020.1814234",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_tiny_religious_minorities_druze_rights_summary_he.jpg",
+        "altHe": "דיון קהילתי דרוזי בין דורות כמטפורה לזכויות מיעוטים דתיים קטנים ולשימור קהילה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר עוסק במיעוטים דתיים קטנים ומתמקד בדרוזים בישראל, בלבנון ובסוריה. לפי התקציר, מיעוטים כאלה שומרים לרוב על פרופיל נמוך אך חשופים במיוחד לאלימות, המרות כפויות, טיהור אתני במלחמות אזרחים, אפליה מצד מדינות וחברות, והתבוללות העלולה להביא להיעלמותם לאורך זמן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_palestinian_arab_youth_excluded_citizenship_identity_summary_he",
+      "file": "democracy_palestinian_arab_youth_excluded_citizenship_identity_summary_he.html",
+      "permalink": "/democracy_palestinian_arab_youth_excluded_citizenship_identity_summary_he.html",
+      "sortKey": 202606300004,
+      "titleHe": "צעירים פלסטינים־ערבים בישראל מנסחים אזרחות מתוך הדרה",
+      "paperTitle": "The excluded citizenship identity: Palestinian/Arab Israeli young people negotiating their political identities",
+      "authorsCardHe": "Halleli Pinson",
+      "sourceAuthors": [
+        "Halleli Pinson"
+      ],
+      "journal": "British Journal of Sociology of Education",
+      "dateText": "פורסם: מרץ 2008; כרך 29, גיליון 2, עמ׳ 201-212",
+      "doiUrl": "https://doi.org/10.1080/01425690701837554",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_arab_youth_excluded_citizenship_identity_summary_he.jpg",
+        "altHe": "תלמידי תיכון ערבים בדיון כיתתי על אזרחות ושייכות כמטפורה לזהות אזרחית מודרת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן כיצד תלמידי תיכון ערבים־פלסטינים בישראל מנהלים את זהותם האזרחית והלאומית. לפי התקציר, המחקר נשען על ראיונות חצי־מובנים וקבוצות מיקוד עם 20 תלמידים בבית ספר תיכון ערבי־מוסלמי, ומראה שהתלמידים מודעים לפוליטיקה של האזרחות בישראל ומשתמשים בשיחי אזרחות שונים כדי להגדיר שייכות והדרה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_religious_tribunals_democratic_states_rabbinical_courts_summary_he",
+      "file": "democracy_religious_tribunals_democratic_states_rabbinical_courts_summary_he.html",
+      "permalink": "/democracy_religious_tribunals_democratic_states_rabbinical_courts_summary_he.html",
+      "sortKey": 202606300003,
+      "titleHe": "בתי דין רבניים במדינה דמוקרטית בין אוטונומיה דתית ושוויון מגדרי",
+      "paperTitle": "Religious Tribunals in Democratic States: Lessons from the Israeli Rabbinical Courts",
+      "authorsCardHe": "Daphna Hacker",
+      "sourceAuthors": [
+        "Daphna Hacker"
+      ],
+      "journal": "Journal of Law and Religion",
+      "dateText": "פורסם: ינואר 2012; כרך 27, גיליון 1, עמ׳ 59-81",
+      "doiUrl": "https://doi.org/10.1017/s0748081400000527",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_tribunals_democratic_states_rabbinical_courts_summary_he.jpg",
+        "altHe": "דיון משפטי סביב שולחן על דיני משפחה דתיים כמטפורה למתח בין אוטונומיה דתית ושוויון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן את המתח בין אוטונומיה של קהילות דתיות בדיני משפחה לבין נורמות ליברליות האוסרות אפליה. לפי התקציר, דיני משפחה דתיים עשויים להיות חיוניים לשימור תרבותי, אך גם להפלות נשים, זוגות מאותו מין ובני קבוצות אחרות, והמאמר משתמש בבתי הדין הרבניים בישראל כדי לדון בגבולות הרצויים של אוטונומיה דתית במדינה דמוקרטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_high_schools_identity_citizenship_summary_he",
+      "file": "democracy_druze_high_schools_identity_citizenship_summary_he.html",
+      "permalink": "/democracy_druze_high_schools_identity_citizenship_summary_he.html",
+      "sortKey": 202606300002,
+      "titleHe": "בתי ספר תיכוניים דרוזיים מעצבים זהות ואזרחות בישראל",
+      "paperTitle": "Role of Druze high schools in Israel in shaping students’ identity and citizenship",
+      "authorsCardHe": "Deborah Court; Randa Abbas",
+      "sourceAuthors": [
+        "Deborah Court",
+        "Randa Abbas"
+      ],
+      "journal": "Education, Citizenship and Social Justice",
+      "dateText": "פורסם: יולי 2010; כרך 5, גיליון 2, עמ׳ 145-162",
+      "doiUrl": "https://doi.org/10.1177/1746197910370725",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_high_schools_identity_citizenship_summary_he.jpg",
+        "altHe": "תלמידים דרוזים ומורה בדיון כיתתי כמטפורה לעיצוב זהות ואזרחות בבתי ספר תיכוניים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן כיצד שני בתי ספר תיכוניים דרוזיים בישראל מעצבים זהות ואזרחות של מתבגרים. לפי התקציר, המחקר השתמש בראיונות עם מורים, מנהלים, קובעי מדיניות ותלמידים, לצד תצפיות וניתוח מסמכים, ומצא ארבעה מנגנונים מרכזיים: חינוך לערכים רב־ממדי, פיתוח זהות ואזרחות, למידה משמעותית וטובת הקהילה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_state_controlled_education_palestinian_arab_identity_summary_he",
+      "file": "democracy_state_controlled_education_palestinian_arab_identity_summary_he.html",
+      "permalink": "/democracy_state_controlled_education_palestinian_arab_identity_summary_he.html",
+      "sortKey": 202606300001,
+      "titleHe": "חינוך בשליטת המדינה וזהות פלסטינית־ערבית בישראל",
+      "paperTitle": "State-Controlled Education and Identity Formation Among the Palestinian Arab Minority in Israel",
+      "authorsCardHe": "Ismael Abu-Saad",
+      "sourceAuthors": [
+        "Ismael Abu-Saad"
+      ],
+      "journal": "American Behavioral Scientist",
+      "dateText": "פורסם אונליין: 23 בפברואר 2006; כרך 49, גיליון 8, עמ׳ 1085-1100",
+      "doiUrl": "https://doi.org/10.1177/0002764205284720",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_controlled_education_palestinian_arab_identity_summary_he.jpg",
+        "altHe": "תלמידים ומורה בבית ספר ערבי מול מרחב מנהלי כמטפורה לחינוך בשליטת המדינה וזהות פלסטינית בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-06-30",
+      "dateModified": "2026-06-30",
+      "summaryHe": "המאמר בוחן את תפקיד מערכת החינוך הממלכתית בעיצוב זהות ובמנגנוני שליטה בקרב המיעוט הפלסטיני־ערבי בישראל. לפי התקציר, במדינות לאום רבות הזהות הלאומית אינה כוללת את כל האזרחים, וכאשר המדינה אינה מספקת צרכים בסיסיים של זהות, הכלה ושוויון, עשויות להתפתח זהויות פוליטיות וקולקטיביות חלופיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he",
       "file": "democracy_social_workers_ethical_legal_dilemmas_covid_israel_summary_he.html",

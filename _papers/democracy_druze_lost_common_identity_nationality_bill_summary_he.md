@@ -1,0 +1,192 @@
+---
+{
+  "version": 1,
+  "file": "democracy_druze_lost_common_identity_nationality_bill_summary_he.html",
+  "slug": "democracy_druze_lost_common_identity_nationality_bill_summary_he",
+  "order": 934,
+  "titleHe": "אובדן תחושת ה״אנחנו״ בקרב דרוזים בישראל אחרי חוק הלאום",
+  "subtitleHe": "סקר בקרב 178 משתתפים בוחן איך הדרה חוקתית נתפסת משנה הזדהות ונכונות לפעולה",
+  "descriptionHe": "תמצית בעברית של מאמר על דרוזים בישראל, חוק הלאום, אובדן זהות משותפת עם הרוב היהודי, והקשר בין הדרה נתפסת לבין נכונות לפעולה פוליטית.",
+  "summaryHe": "המאמר שואל מה קורה כאשר זהות משותפת עם קבוצת הרוב כבר נוצרה אך לאחר מכן נחווית כאבודה. לפי התקציר, סקר בקרב 178 דרוזים בישראל אחרי חוק הלאום מצא שאובדן תחושת זהות משותפת ניבא צורות פעולה רדיקליות, במיוחד בקרב צעירים, גם לאחר שליטה במנבאים מוכרים של פעולה אלימה ולא־אלימה.",
+  "summarySourceStatus": "Based on abstract only",
+  "authorsCardHe": "Tamar Saguy; Danit Sobol-Sarag; Samer Halabi; Katherine Stroebe; Emile Bruneau; Siwar Hasan-Aslih",
+  "paperTitle": "When a Sense of “We” Is Lost: Investigating the Consequences of a Lost Common Identity Among Druze in Israel",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-0989-0615\" target=\"_blank\" rel=\"noopener noreferrer\">Tamar Saguy</a>; <a href=\"https://orcid.org/0000-0001-8831-4677\" target=\"_blank\" rel=\"noopener noreferrer\">Danit Sobol-Sarag</a>; Samer Halabi; <a href=\"https://orcid.org/0000-0002-3933-1531\" target=\"_blank\" rel=\"noopener noreferrer\">Katherine Stroebe</a>; <a href=\"https://orcid.org/0000-0001-7294-8675\" target=\"_blank\" rel=\"noopener noreferrer\">Emile Bruneau</a>; <a href=\"https://orcid.org/0000-0002-8563-2394\" target=\"_blank\" rel=\"noopener noreferrer\">Siwar Hasan-Aslih</a>",
+  "journal": "Social Psychological and Personality Science",
+  "dateText": "פורסם אונליין: 19 בנובמבר 2019; כרך 11, גיליון 5, עמ׳ 667-675",
+  "doiUrl": "https://doi.org/10.1177/1948550619884562",
+  "doiLabel": "https://doi.org/10.1177/1948550619884562",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Tamar Saguy",
+      "url": "https://orcid.org/0000-0002-0989-0615"
+    },
+    {
+      "@type": "Person",
+      "name": "Danit Sobol-Sarag",
+      "url": "https://orcid.org/0000-0001-8831-4677"
+    },
+    {
+      "@type": "Person",
+      "name": "Samer Halabi"
+    },
+    {
+      "@type": "Person",
+      "name": "Katherine Stroebe",
+      "url": "https://orcid.org/0000-0002-3933-1531"
+    },
+    {
+      "@type": "Person",
+      "name": "Emile Bruneau",
+      "url": "https://orcid.org/0000-0001-7294-8675"
+    },
+    {
+      "@type": "Person",
+      "name": "Siwar Hasan-Aslih",
+      "url": "https://orcid.org/0000-0002-8563-2394"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Tamar Saguy",
+      "url": "https://orcid.org/0000-0002-0989-0615"
+    },
+    {
+      "@type": "Person",
+      "name": "Danit Sobol-Sarag",
+      "url": "https://orcid.org/0000-0001-8831-4677"
+    },
+    {
+      "@type": "Person",
+      "name": "Samer Halabi"
+    },
+    {
+      "@type": "Person",
+      "name": "Katherine Stroebe",
+      "url": "https://orcid.org/0000-0002-3933-1531"
+    },
+    {
+      "@type": "Person",
+      "name": "Emile Bruneau",
+      "url": "https://orcid.org/0000-0001-7294-8675"
+    },
+    {
+      "@type": "Person",
+      "name": "Siwar Hasan-Aslih",
+      "url": "https://orcid.org/0000-0002-8563-2394"
+    }
+  ],
+  "topics": [
+    "rights-equality-minorities",
+    "public-opinion-polarization-violence"
+  ],
+  "keywords": [
+    "דרוזים",
+    "חוק הלאום",
+    "זהות משותפת",
+    "הדרה",
+    "פעולה פוליטית",
+    "מיעוטים",
+    "אזרחות",
+    "ישראל"
+  ],
+  "image": {
+    "src": "html_qa/democracy_druze_lost_common_identity_nationality_bill_summary_he.jpg",
+    "version": "2026-06-30-nightly",
+    "altHe": "דיון קהילתי דרוזי סביב שולחן כמטפורה לאובדן זהות משותפת ושאלות אזרחות אחרי חוק הלאום",
+    "fitness": "high"
+  },
+  "datePublished": "2026-06-30",
+  "dateModified": "2026-06-30",
+  "lastUpdatedHe": "30 ביוני 2026",
+  "oneLinerHtml": "המאמר מצביע על כך ש<strong>הדרה חוקתית נתפסת</strong> יכולה להפוך משבר זהות של מיעוט לשאלה של פעולה פוליטית.",
+  "sections": [
+    {
+      "headingHe": "זהות משותפת שנבנית ואז נסדקת",
+      "paragraphsHtml": [
+        "המאמר יוצא מנקודת מוצא שלפיה זהויות משותפות יכולות לשפר יחסים בין קבוצות, אך גם להישבר. במקרה הדרוזי בישראל, השבר נבחן אחרי חוק הלאום, שנתפס על ידי רבים כמדיר אזרחים שאינם יהודים."
+      ]
+    },
+    {
+      "headingHe": "מושגי יסוד בקצרה: זהות משותפת",
+      "paragraphsHtml": [
+        "זהות משותפת היא תחושה שקבוצות שונות שייכות לאותו ״אנחנו״ פוליטי או אזרחי. כאשר מיעוט שחווה קשר חזק עם הרוב מרגיש שהקשר הזה נשלל, הפגיעה יכולה להיות חריפה יותר מאשר העדר שייכות מלכתחילה."
+      ]
+    },
+    {
+      "headingHe": "סקר לאחר אירוע חוקתי טעון",
+      "paragraphsHtml": [
+        "לפי התקציר, המחקר סקר 178 דרוזים בישראל בעקבות חוק הלאום. הבחירה בדרוזים חשובה משום שלחלקים מן הקהילה, ובמיוחד לצעירים המשרתים בצבא, היו קשרים חזקים עם הרוב היהודי ועם מסגרת אזרחית ישראלית משותפת."
+      ]
+    },
+    {
+      "headingHe": "מה הייתה שאלת המחקר המרכזית?",
+      "paragraphsHtml": [
+        "השאלה המרכזית הייתה מה קורה כאשר תחושת זהות משותפת נוצרת ואז נחווית כאבודה. המחקר בדק אם אובדן כזה מנבא נכונות לצורות פעולה רדיקליות מעבר למנבאים מוכרים של מחאה ופעולה פוליטית."
+      ]
+    },
+    {
+      "headingHe": "למה חוק הלאום מופיע במרכז הניתוח?",
+      "paragraphsHtml": [
+        "חוק הלאום שימש בהקשר המחקרי כאירוע שנתפס על ידי רבים כמדיר כלפי לא־יהודים. לכן הוא מאפשר לבחון כיצד מסר חוקתי וסמלי יכול להשפיע על תחושת אזרחות של מיעוט שנחשב משולב יחסית."
+      ]
+    },
+    {
+      "headingHe": "מה מיוחד במקרה הדרוזי?",
+      "paragraphsHtml": [
+        "הדרוזים הם מיעוט קטן בישראל, והתקציר מדגיש את קשריהם החזקים עם הרוב היהודי ואת שירותם הצבאי של צעירים דרוזים רבים. דווקא משום כך, אובדן תחושת השותפות יכול להיתפס כהפרת הבטחה אזרחית ולא רק כעוד ביטוי למרחק בין קבוצות."
+      ]
+    },
+    {
+      "headingHe": "איזה ממצא מדגיש התקציר?",
+      "paragraphsHtml": [
+        "התקציר מציין שאובדן הזהות המשותפת ניבא צורות פעולה רדיקליות בקרב דרוזים צעירים. הקשר נותר יציב גם לאחר שליטה במנבאים קלאסיים יותר של פעולה אלימה ולא־אלימה, ולכן אינו מוצג רק כתוצר של כעס כללי."
+      ]
+    },
+    {
+      "headingHe": "איך זה קשור לשוויון אזרחי?",
+      "paragraphsHtml": [
+        "שוויון אזרחי אינו נמדד רק בזכויות פורמליות אלא גם בתחושה שהמדינה מכירה באזרחיה כחלק מן הציבור הפוליטי. כאשר מיעוט מרגיש שה״אנחנו״ הלאומי מצטמצם, הפגיעה היא גם פסיכולוגית וגם מוסדית."
+      ]
+    },
+    {
+      "headingHe": "מה המשמעות למדיניות חוקתית?",
+      "paragraphsHtml": [
+        "המאמר מראה שלסמלים חוקתיים יש תוצאות חברתיות אפשריות. ניסוח חוקי יסוד, מסרים על שייכות והכרה במיעוטים יכולים להשפיע על אמון, הזדהות ונכונות לפעולה פוליטית."
+      ]
+    },
+    {
+      "headingHe": "מדוע המחקר חשוב לדיון על מחאה?",
+      "paragraphsHtml": [
+        "המחקר מחבר בין תחושת הדרה לבין פעולה, ולא מסתפק בשאלה אם מיעוטים תומכים במדינה או מתנגדים לה. הוא מציע לראות מחאה גם כתגובה לשינוי במעמד הזהות המשותפת ולא רק כבחירה אידאולוגית נפרדת."
+      ]
+    },
+    {
+      "headingHe": "מה אפשר ללמוד על צעירים דרוזים?",
+      "paragraphsHtml": [
+        "לפי התקציר, הדגש על צעירים חשוב משום שהם עשויים להיות קשורים במיוחד למסגרות ישראליות משותפות כגון שירות צבאי. כאשר הקשר הזה נחווה כחד־צדדי או פגוע, תחושת האכזבה יכולה להיות חזקה במיוחד."
+      ]
+    },
+    {
+      "headingHe": "איך המאמר תורם להבנת יחסי רוב ומיעוט?",
+      "paragraphsHtml": [
+        "המאמר מראה שיחסי רוב ומיעוט אינם תלויים רק במרחק או בקרבה קיימים, אלא גם בציפיות שנוצרו לאורך זמן. מיעוט שהוזמן להיות חלק מן הכלל יכול להגיב בעוצמה כאשר הכלל מגדיר את עצמו מחדש בלעדיו."
+      ]
+    },
+    {
+      "headingHe": "מהי התרומה המרכזית לדמוקרטיה ליברלית?",
+      "paragraphsHtml": [
+        "התרומה המרכזית היא ההדגשה שהכרה אזרחית היא משאב דמוקרטי ממשי. מדינה ליברלית אינה יכולה להסתפק בשילוב פונקציונלי של מיעוטים כאשר מסריה החוקתיים מערערים את תחושת השייכות שלהם."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "אובדן תחושת ה״אנחנו״ בקרב דרוזים בישראל אחרי חוק הלאום",
+  "permalink": "/democracy_druze_lost_common_identity_nationality_bill_summary_he.html",
+  "paper_url": "democracy_druze_lost_common_identity_nationality_bill_summary_he.html",
+  "sortKey": 202606300009,
+  "sourcePublishedDate": "2019-11-19"
+}
+---

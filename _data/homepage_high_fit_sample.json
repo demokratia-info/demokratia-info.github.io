@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-29",
+  "lastUpdated": "2026-06-30",
   "sampleSize": 6,
-  "seed": "2026-06-29-homepage-high-fit",
+  "seed": "2026-06-30-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 306,
+  "highFitPaperCount": 316,
   "paperSlugs": [
-    "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he",
-    "democracy_localized_state_failure_civil_society_mobilization_after_october_7_summary_he",
-    "democracy_does_democracy_cause_growth_meta_analysis_summary_he",
-    "democracy_model_ethnic_democracy_response_to_danel_summary_he",
-    "democracy_of_the_people_by_the_algorithm_how_ai_transforms_the_role_of_summary_he",
-    "democracy_intra_group_religious_tension_non_religious_jews_arabs_israel_summary_he"
+    "democracy_state_capacity_public_goods_china_summary_he",
+    "democracy_political_representation_municipal_service_satisfaction_summary_he",
+    "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he",
+    "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he",
+    "democracy_religion_ideology_governance_israel_political_landscape_summary_he",
+    "democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he"
   ]
 }
