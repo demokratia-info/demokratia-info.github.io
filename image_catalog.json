@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -23496,6 +23496,289 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated Palestinian Arab school scene with classroom and administrative doorway for state-controlled education, identity formation, inclusion, and equality; no readable text, logos, flags, posters, or watermarks."
+    },
+    {
+      "file": "html_qa/democracy_religious_discrimination_diaspora_un_voting_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_discrimination_diaspora_un_voting_israel_summary_he.html",
+      "usedBy": [
+        "democracy_religious_discrimination_diaspora_un_voting_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אפליה דתית, תפוצות ודפוסי הצבעה באו״ם על ישראל",
+      "authorsHe": "Tatyana Haykin; Jonathan Fox; Nikola Mirilovic",
+      "visualDescriptionHe": "אולם הצבעה בין־לאומי עם נציגים מגוונים סביב שולחנות, מסמכים ריקים ואוזניות תרגום",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אפליה דתית פנימית, תפוצות יהודיות ומוסלמיות ודפוסי הצבעה באו״ם על ישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "religious",
+        "discrimination",
+        "diaspora",
+        "united",
+        "nations",
+        "voting"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated international assembly voting chamber for religious discrimination, diaspora politics, and UN voting on Israel; no readable text, logos, flags, maps, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_voting_locally_abstaining_nationally_minority_turnout_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_voting_locally_abstaining_nationally_minority_turnout_summary_he.html",
+      "usedBy": [
+        "democracy_voting_locally_abstaining_nationally_minority_turnout_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע מיעוטים מצביעים מקומית אך נמנעים בבחירות ארציות?",
+      "authorsHe": "Maoz Rosenthal; Hani Zubida; David Nachmias",
+      "visualDescriptionHe": "מרכז קהילתי המשמש קלפי מקומית עם אזרחים ערבים, דרוזים ויהודים ליד שולחן הצבעה",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ייצוג תיאורי, ייצוג מהותי ודפוסי הצבעה מקומיים וארציים של מיעוטים בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "voting",
+        "locally",
+        "abstaining",
+        "nationally",
+        "descriptive",
+        "representation"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated civic polling-place scene for local turnout, national abstention, and minority representation; no readable text, party logos, flags, ballot markings, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_druze_muslim_kindergarten_teachers_child_safety_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_druze_muslim_kindergarten_teachers_child_safety_summary_he.html",
+      "usedBy": [
+        "democracy_druze_muslim_kindergarten_teachers_child_safety_summary_he.html"
+      ],
+      "cardTitleHe": "גננות דרוזיות ומוסלמיות מתמודדות עם פגיעה מינית בילדים מתוך אחריות קהילתית",
+      "authorsHe": "Noah Bar Gosen; Laura I. Sigad; Jordan Shaibe; Amani Halaby; Efrat Lusky‐Weisrose; Dafna Tener",
+      "visualDescriptionHe": "גננות ויועצת סביב שולחן בגן ילדים לאחר שעות הפעילות עם חומרי בטיחות ריקים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על התמודדות גננות דרוזיות ומוסלמיות־ערביות עם פגיעה מינית בילדי גן בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "need",
+        "raise",
+        "awareness",
+        "never",
+        "give",
+        "israeli"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated after-hours kindergarten safety meeting for Druze and Muslim Arab teachers facing child-safety concerns; no abuse depiction, distressed child, readable text, logos, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_palestinian_arab_binational_democracy_vision_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_arab_binational_democracy_vision_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_arab_binational_democracy_vision_summary_he.html"
+      ],
+      "cardTitleHe": "החזון הפלסטיני־ערבי בישראל לדמוקרטיה דו־לאומית",
+      "authorsHe": "Sammy Smooha",
+      "visualDescriptionHe": "שולחן דיון אזרחי על עיצוב חוקתי ושוויון בין יהודים ופלסטינים־ערבים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על חזון פלסטיני־ערבי בישראל להפיכת ישראל לדמוקרטיה דו־לאומית.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "israeli",
+        "palestinian",
+        "arab",
+        "vision",
+        "transforming",
+        "israel"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated civic constitutional roundtable for binational democracy, equal citizenship, and Jewish-Palestinian Arab deliberation; no readable text, flags, logos, maps, protest signs, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_minority_identity_discourse_arab_dream_play_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_minority_identity_discourse_arab_dream_play_summary_he.html",
+      "usedBy": [
+        "democracy_minority_identity_discourse_arab_dream_play_summary_he.html"
+      ],
+      "cardTitleHe": "תיאטרון כטריגר לשיח זהות של תלמידים פלסטינים בישראל",
+      "authorsHe": "Anat Gesser‐Edelsburg",
+      "visualDescriptionHe": "דיון לאחר הצגה בבית ספר עם תלמידים פלסטינים ואנשי חינוך מול במה ריקה",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על השפעת צפייה בהצגה An Arab Dream על שיח זהות של תלמידים פלסטינים בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "minority",
+        "identity",
+        "discourse",
+        "impact",
+        "viewing",
+        "play"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated small school theater discussion after a play about Palestinian minority identity discourse; no readable text, posters, flags, logos, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_english_gatekeeper_jews_arabs_higher_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_english_gatekeeper_jews_arabs_higher_education_summary_he.html",
+      "usedBy": [
+        "democracy_english_gatekeeper_jews_arabs_higher_education_summary_he.html"
+      ],
+      "cardTitleHe": "אנגלית כשומר סף להשכלה גבוהה בין יהודים לערבים בישראל",
+      "authorsHe": "Yariv Feniger; Hanna Ayalon",
+      "visualDescriptionHe": "מרכז קבלה אוניברסיטאי עם סטודנטים מגוונים, טפסים ריקים ודלת כיתה כסמל לשומר סף",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אנגלית כשומר סף להשכלה גבוהה ועל אי־שוויון בין יהודים לערבים בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "english",
+        "gatekeeper",
+        "inequality",
+        "between",
+        "jews",
+        "arabs"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated university admissions and language-preparation center for English as a gatekeeper to higher education; no readable text, university logos, flags, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_diversity_management_police_reform_arab_minority_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_diversity_management_police_reform_arab_minority_summary_he.html",
+      "usedBy": [
+        "democracy_diversity_management_police_reform_arab_minority_summary_he.html"
+      ],
+      "cardTitleHe": "רפורמה במשטרה וניהול גיוון מול המיעוט הערבי בישראל",
+      "authorsHe": "Guy Ben‐Porat; Fany Yuval; Shlomo Mizrahi",
+      "visualDescriptionHe": "מפגש קהילתי בחדר עירוני בין תושבים ערבים, אנשי משטרה ונציגי ציבור סביב שולחן",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ניהול גיוון, רפורמה משטרתית והמיעוט הערבי בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "challenge",
+        "diversity",
+        "management",
+        "police",
+        "reform",
+        "arab"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated mixed-city community policing meeting for diversity management and police reform; no police logos or insignia, readable text, weapons focus, flags, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_peculiarities_israeli_democracy_jewish_arab_relations_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_peculiarities_israeli_democracy_jewish_arab_relations_summary_he.html",
+      "usedBy": [
+        "democracy_peculiarities_israeli_democracy_jewish_arab_relations_summary_he.html"
+      ],
+      "cardTitleHe": "הייחודיות של הדמוקרטיה הישראלית ויחסי יהודים־ערבים",
+      "authorsHe": "Ahmad H. Sa’di",
+      "visualDescriptionHe": "פורום אזרחי במרכז קהילתי מעורב שבו יהודים וערבים דנים בכללי שייכות ואמון",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על הייחודיות של הדמוקרטיה הישראלית והשלכותיה ליחסי יהודים־ערבים.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "peculiarities",
+        "israel",
+        "democracy",
+        "some",
+        "theoretical",
+        "practical"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated mixed-city civic education forum for Israeli democracy and Jewish-Arab relations; no readable text, flags, maps, logos, protest signs, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_policing_alienated_minorities_divided_cities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_policing_alienated_minorities_divided_cities_summary_he.html",
+      "usedBy": [
+        "democracy_policing_alienated_minorities_divided_cities_summary_he.html"
+      ],
+      "cardTitleHe": "שיטור מיעוטים מנוכרים בערים מחולקות תלוי בעיקר בהוגנות",
+      "authorsHe": "Avital Mentovich; Guy Ben‐Porat; Natalie Levy; Phillip Atiba Goff; Tom R. Tyler",
+      "visualDescriptionHe": "שולחן דיאלוג קהילתי ברחוב של עיר מעורבת עם תושבים ושוטרים ללא סמלים רשמיים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על שיטור מיעוטים מנוכרים בערים מחולקות ועל חשיבות ההוגנות ללגיטימיות המשטרה.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "policing",
+        "alienated",
+        "minorities",
+        "divided",
+        "cities"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated mixed urban neighborhood community-policing dialogue for legitimacy, fairness, and trust in divided cities; no police logos or insignia, weapons focus, readable text, flags, protest signs, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_personality_traits_arab_teachers_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_personality_traits_arab_teachers_israel_summary_he.html",
+      "usedBy": [
+        "democracy_personality_traits_arab_teachers_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תכונות אישיות של מורים ערבים במערכת החינוך הערבית בישראל",
+      "authorsHe": "Jamal Abu-Hussain; Nadia Fakhri Abu Hussain",
+      "visualDescriptionHe": "סדנת פיתוח מקצועי למורים ערבים בכיתה עם דפי עבודה ריקים ושיחה קבוצתית",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על תכונות אישיות של מורים ערבים במערכת החינוך הערבית בישראל.",
+      "createdDate": "2026-07-01",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "personality",
+        "traits",
+        "minority",
+        "arab",
+        "teachers",
+        "arab"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated Arab school professional-development workshop for teachers discussing self-reflection and teaching practice; no readable text, school logos, flags, psychological-test labels, watermarks, or UI overlays."
     }
   ],
   "topicGraphics": [

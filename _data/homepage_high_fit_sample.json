@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "sampleSize": 6,
-  "seed": "2026-06-30-homepage-high-fit",
+  "seed": "2026-07-01-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 316,
+  "highFitPaperCount": 326,
   "paperSlugs": [
-    "democracy_state_capacity_public_goods_china_summary_he",
+    "democracy_meso_institutions_unbundling_summary_he",
     "democracy_political_representation_municipal_service_satisfaction_summary_he",
-    "democracy_populist_rightwing_ideological_exposition_netanyahu_summary_he",
-    "democracy_extraterritorial_militarism_emigrants_soldiers_israel_summary_he",
-    "democracy_religion_ideology_governance_israel_political_landscape_summary_he",
-    "democracy_adjustment_disorder_social_unrest_israel_sociopolitical_climate_summary_he"
+    "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he",
+    "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he",
+    "democracy_english_gatekeeper_jews_arabs_higher_education_summary_he",
+    "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he"
   ]
 }
