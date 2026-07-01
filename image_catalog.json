@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -23779,6 +23779,288 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated Arab school professional-development workshop for teachers discussing self-reflection and teaching practice; no readable text, school logos, flags, psychological-test labels, watermarks, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "עמותות, האו״ם ופוליטיקת זכויות האדם בסכסוך הערבי־ישראלי",
+      "authorsHe": "Gerald M. Steinberg",
+      "visualDescriptionHe": "אולם דיונים בין־לאומי עם נציגים וארגוני חברה אזרחית סביב שולחנות ומסמכי זכויות אדם ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על עמותות, האו״ם ופוליטיקת זכויות האדם בסכסוך הערבי־ישראלי.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ארגוני חברה אזרחית",
+        "זכויות אדם",
+        "האו״ם",
+        "לגיטימציה",
+        "הסכסוך הערבי־ישראלי",
+        "אחריות ציבורית"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.html",
+      "usedBy": [
+        "democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אפליה נתפסת ואיכות חיים בריאותית בקרב ערבים ויהודים בישראל",
+      "authorsHe": "Orna Baron Epel; Giora Kaplan; Mika Moran",
+      "visualDescriptionHe": "חדר המתנה במרפאה ציבורית עם חוקרים ומשתתפים מגוונים סביב שולחן סקר ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אפליה נתפסת ואיכות חיים בריאותית בקרב ערבים ויהודים בישראל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "אפליה נתפסת",
+        "בריאות הציבור",
+        "ערבים בישראל",
+        "מהגרים",
+        "איכות חיים",
+        "אי־שוויון"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_druze_tradition_religious_education_secrets_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_druze_tradition_religious_education_secrets_summary_he.html",
+      "usedBy": [
+        "democracy_druze_tradition_religious_education_secrets_summary_he.html"
+      ],
+      "cardTitleHe": "האם חינוך למסורת מספיק לשימור זהות דרוזית בישראל?",
+      "authorsHe": "Deborah Court; Randa Abbas",
+      "visualDescriptionHe": "חדר למידה קהילתי בכפר דרוזי עם צעירים ומבוגרים סביב ספרים ותמונות משפחתיות ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על האם חינוך למסורת מספיק לשימור זהות דרוזית בישראל?.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "דרוזים בישראל",
+        "חינוך למסורת",
+        "זהות קהילתית",
+        "דת סודית",
+        "השכלה גבוהה",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.html",
+      "usedBy": [
+        "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.html"
+      ],
+      "cardTitleHe": "אפליה נתפסת, זהות קבוצתית ורווחה בקרב חרדים בישראל",
+      "authorsHe": "Yoav S. Bergman; Gabriel Horenczyk; Rachel Abramovsky-Zitter",
+      "visualDescriptionHe": "חדר קהילתי חרדי צנוע עם קבוצות שיחה ותה סביב שולחנות ללא טקסט קריא או סמלים רשמיים",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על אפליה נתפסת, זהות קבוצתית ורווחה בקרב חרדים בישראל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "חרדים בישראל",
+        "אפליה נתפסת",
+        "זהות קבוצתית",
+        "רווחה סובייקטיבית",
+        "מיעוטים",
+        "חוסן קהילתי"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_school_ceremonies_druze_identity_citizenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_school_ceremonies_druze_identity_citizenship_summary_he.html",
+      "usedBy": [
+        "democracy_school_ceremonies_druze_identity_citizenship_summary_he.html"
+      ],
+      "cardTitleHe": "טקסי בית ספר וזהות אזרחית־דרוזית בשני תיכונים בישראל",
+      "authorsHe": "Randa Abbas",
+      "visualDescriptionHe": "אולם בית ספר דרוזי לפני טקס אזרחי עם מורים מבוגרים המסדרים כיסאות ופודיום ללא תלמידים וללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על טקסי בית ספר וזהות אזרחית־דרוזית בשני תיכונים בישראל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "טקסים בית־ספריים",
+        "דרוזים בישראל",
+        "חינוך לאזרחות",
+        "זהות",
+        "פטריוטיות",
+        "חינוך"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_equality_contact_interventions_jews_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_equality_contact_interventions_jews_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_equality_contact_interventions_jews_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שוויון בתקשורת במפגשי דיאלוג בין יהודים לערבים בישראל",
+      "authorsHe": "Ifat Maoz",
+      "visualDescriptionHe": "מעגל דיאלוג במרכז קהילתי עם יהודים וערבים מבוגרים יושבים בגובה שווה ומקשיבים ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על שוויון בתקשורת במפגשי דיאלוג בין יהודים לערבים בישראל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "דיאלוג יהודי־ערבי",
+        "התערבויות מגע",
+        "שוויון בתקשורת",
+        "פתרון סכסוכים",
+        "צדק חברתי",
+        "הוגנות"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.html",
+      "usedBy": [
+        "democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.html"
+      ],
+      "cardTitleHe": "ארגוני שכונה, מדינת הרווחה וזכויות אזרחות",
+      "authorsHe": "Shlomo Hasson; David Ley",
+      "visualDescriptionHe": "ישיבת תושבים בחדר קהילתי עירוני סביב מפות וטפסים ריקים עם נציג ציבור ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על ארגוני שכונה, מדינת הרווחה וזכויות אזרחות.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "ארגוני שכונה",
+        "מדינת הרווחה",
+        "זכויות אזרחות",
+        "משילות עירונית",
+        "שירותים ציבוריים",
+        "שותפות"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_coping_resources_trust_institutions_iron_swords_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_coping_resources_trust_institutions_iron_swords_summary_he.html",
+      "usedBy": [
+        "democracy_coping_resources_trust_institutions_iron_swords_summary_he.html"
+      ],
+      "cardTitleHe": "משאבי התמודדות ואמון במוסדות בזמן מלחמת חרבות ברזל",
+      "authorsHe": "Orna Braun-Lewensohn; Tehila Kalagy; Sarah Abu-Kaf",
+      "visualDescriptionHe": "מרכז חוסן קהילתי לאחר מצב חירום עם יהודים וערבים מבוגרים בשיחה שקטה עם יועצת ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על משאבי התמודדות ואמון במוסדות בזמן מלחמת חרבות ברזל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "מלחמת חרבות ברזל",
+        "אמון במוסדות",
+        "תחושת קוהרנטיות",
+        "מצוקה נפשית",
+        "יהודים וערבים",
+        "חוסן"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.html",
+      "usedBy": [
+        "democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.html"
+      ],
+      "cardTitleHe": "איומים נתפסים והקצאת זכויות פוליטיות, חברתיות ותרבותיות בישראל",
+      "authorsHe": "Gal Ariely",
+      "visualDescriptionHe": "חדר מחקר דעת קהל עם משתתפים ממיינים כרטיסי סקר ריקים לשלוש מגירות זכויות ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על איומים נתפסים והקצאת זכויות פוליטיות, חברתיות ותרבותיות בישראל.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "אזרחות",
+        "איום נתפס",
+        "זכויות פוליטיות",
+        "זכויות רווחה",
+        "זכויות תרבות",
+        "לגיטימציה"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_jewish_arab_college_students_dating_gender_norms_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_jewish_arab_college_students_dating_gender_norms_summary_he.html",
+      "usedBy": [
+        "democracy_jewish_arab_college_students_dating_gender_norms_summary_he.html"
+      ],
+      "cardTitleHe": "עמדות סטודנטים יהודים וערבים בישראל כלפי זוגיות, מגדר ונורמות חברתיות",
+      "authorsHe": "Amir Hetsroni",
+      "visualDescriptionHe": "חצר קמפוס ישראלית עם סטודנטים מבוגרים יהודים וערבים בקבוצות שיחה סביב שולחנות ללא טקסט קריא",
+      "semanticDescriptionHe": "תמצית בעברית של מאמר על עמדות סטודנטים יהודים וערבים בישראל כלפי זוגיות, מגדר ונורמות חברתיות.",
+      "createdDate": "2026-07-02",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "סטודנטים יהודים וערבים",
+        "נורמות מגדריות",
+        "זוגיות",
+        "יחסים חברתיים",
+        "מיעוטים",
+        "עמדות"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
     }
   ],
   "topicGraphics": [

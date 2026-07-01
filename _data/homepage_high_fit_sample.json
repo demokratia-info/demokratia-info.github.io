@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "sampleSize": 6,
-  "seed": "2026-07-01-homepage-high-fit",
+  "seed": "2026-07-02-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 326,
+  "highFitPaperCount": 336,
   "paperSlugs": [
-    "democracy_meso_institutions_unbundling_summary_he",
-    "democracy_political_representation_municipal_service_satisfaction_summary_he",
-    "democracy_intra_party_candidate_selection_satisfaction_democracy_summary_he",
-    "democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he",
-    "democracy_english_gatekeeper_jews_arabs_higher_education_summary_he",
-    "democracy_litigating_human_rights_violations_through_tort_law_israeli_law_perspective_summary_he"
+    "democracy_auditing_discretion_democratic_governance_public_perspective_summary_he",
+    "democracy_mk_discursive_reactions_social_protest_2011_summary_he",
+    "democracy_religious_discrimination_diaspora_un_voting_israel_summary_he",
+    "democracy_autocracy_democracy_property_contract_rights_summary_he",
+    "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he",
+    "democracy_intellectual_property_rights_growth_threshold_effect_summary_he"
   ]
 }

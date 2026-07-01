@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 952,
+  "paperCount": 962,
   "papers": [
+    {
+      "slug": "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he",
+      "file": "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.html",
+      "permalink": "/democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.html",
+      "sortKey": 202607020010,
+      "titleHe": "עמותות, האו״ם ופוליטיקת זכויות האדם בסכסוך הערבי־ישראלי",
+      "paperTitle": "NGOs, the UN, and the Politics of Human Rights in the Arab—Israeli Conflict",
+      "authorsCardHe": "Gerald M. Steinberg",
+      "sourceAuthors": [
+        "Gerald M. Steinberg"
+      ],
+      "journal": "Israel Journal of Foreign Affairs, 5(1), 73-88",
+      "dateText": "פורסם: ינואר 2011",
+      "doiUrl": "https://doi.org/10.1080/23739770.2011.11446444",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.jpg",
+        "altHe": "אולם דיונים בין־לאומי עם נציגים וארגוני חברה אזרחית סביב שולחנות ומסמכי זכויות אדם ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר מציב את הדיון בארגוני זכויות אדם ובאו״ם בתוך המחלוקת על הסכסוך הערבי־ישראלי. לפי המטא־דאטה של המאמר, המוקד הוא בפוליטיקה של זכויות אדם: מי מנסח את הטענות, באילו מוסדות הן מקבלות תוקף, וכיצד ארגוני חברה אזרחית משתתפים בעיצוב סדר היום הבין־לאומי. התרומה הדמוקרטית של המאמר אינה בהכרעה אם טענה מסוימת מוצדקת, אלא בהזמנה לבחון את מנגנוני התיווך של טענות זכויות. כאשר זכויות אדם נעשות שפה ציבורית מרכזית, חשוב להבין גם את מוסדות הבקרה, האינטרסים וההטיות האפשריות שבתוכן הן מופעלות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he",
+      "file": "democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.html",
+      "permalink": "/democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.html",
+      "sortKey": 202607020009,
+      "titleHe": "אפליה נתפסת ואיכות חיים בריאותית בקרב ערבים ויהודים בישראל",
+      "paperTitle": "Perceived discrimination and health-related quality of life among Arabs and Jews in Israel: A population-based survey",
+      "authorsCardHe": "Orna Baron Epel; Giora Kaplan; Mika Moran",
+      "sourceAuthors": [
+        "Orna Baron Epel",
+        "Giora Kaplan",
+        "Mika Moran"
+      ],
+      "journal": "BMC Public Health, 10, Article 282",
+      "dateText": "פורסם: 27 במאי 2010",
+      "doiUrl": "https://doi.org/10.1186/1471-2458-10-282",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he.jpg",
+        "altHe": "חדר המתנה במרפאה ציבורית עם חוקרים ומשתתפים מגוונים סביב שולחן סקר ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר בודק כיצד אפליה נתפסת לפי מוצא ואתניות קשורה לבריאות ולאיכות חיים בישראל. לפי התקציר, הסקר כלל 1,004 ישראלים בני 35-65, ומתוכם 952 נכללו בניתוחי הרגרסיה. שיעורי דיווח על אפליה היו גבוהים במיוחד בקרב מהגרים מברית המועצות לשעבר ובקרב ערבים, ובתחומים כמו חינוך ותעסוקה כ-30% מן המהגרים וכ-20% מן הערבים דיווחו על אפליה. הקשר לבריאות נמצא מורכב: לאחר התאמות סוציו־אקונומיות, אפליה נקשרה לבריאות פיזית ירודה בקרב יהודים לא־מהגרים ומהגרים, אך לא בקרב ערבים, והחוקרים מציעים צורך במחקר נוסף להבנת הדפוס.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_tradition_religious_education_secrets_summary_he",
+      "file": "democracy_druze_tradition_religious_education_secrets_summary_he.html",
+      "permalink": "/democracy_druze_tradition_religious_education_secrets_summary_he.html",
+      "sortKey": 202607020008,
+      "titleHe": "האם חינוך למסורת מספיק לשימור זהות דרוזית בישראל?",
+      "paperTitle": "Will “Education for Tradition” Be Enough in a Closing Circle of Secrets? The Case of the Israeli Druze",
+      "authorsCardHe": "Deborah Court; Randa Abbas",
+      "sourceAuthors": [
+        "Deborah Court",
+        "Randa Abbas"
+      ],
+      "journal": "Religious Education, 109(5), 489-506",
+      "dateText": "פורסם: 20 באוקטובר 2014",
+      "doiUrl": "https://doi.org/10.1080/00344087.2014.956515",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_tradition_religious_education_secrets_summary_he.jpg",
+        "altHe": "חדר למידה קהילתי בכפר דרוזי עם צעירים ומבוגרים סביב ספרים ותמונות משפחתיות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר בוחן את גבולותיו של חינוך למסורת בחברה הדרוזית בישראל. לפי התקציר, כל המרואיינים ביטאו מחויבות לערכי כבוד משפחתי, כבוד לאחר, צניעות ואמונה דרוזית, אך רובם אינם דתיים במובן המחמיר ומגדירים עצמם מסורתיים. מפני שהדת הדרוזית סודית ופתוחה ללימוד מעמיק רק למי שחיים לפי חוקי הדת, החינוך לערכים מתקיים בעיקר במשפחה. רבים מן המשתתפים ביקשו ויתורים או התאמות מצד ההנהגה הדתית כדי לאפשר השכלה גבוהה, עבודה מחוץ לכפר וגם קשר עמוק יותר למסורת, אחרת הם חוששים לעתיד הדת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he",
+      "file": "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.html",
+      "permalink": "/democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.html",
+      "sortKey": 202607020007,
+      "titleHe": "אפליה נתפסת, זהות קבוצתית ורווחה בקרב חרדים בישראל",
+      "paperTitle": "Perceived Discrimination and Well-Being Among the Ultra-Orthodox in Israel: The Mediating Role of Group Identity",
+      "authorsCardHe": "Yoav S. Bergman; Gabriel Horenczyk; Rachel Abramovsky-Zitter",
+      "sourceAuthors": [
+        "Yoav S. Bergman",
+        "Gabriel Horenczyk",
+        "Rachel Abramovsky-Zitter"
+      ],
+      "journal": "Journal of Cross-Cultural Psychology, 48(9), 1320-1327",
+      "dateText": "פורסם אונליין: 4 באוגוסט 2017",
+      "doiUrl": "https://doi.org/10.1177/0022022117722859",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he.jpg",
+        "altHe": "חדר קהילתי חרדי צנוע עם קבוצות שיחה ותה סביב שולחנות ללא טקסט קריא או סמלים רשמיים.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר בודק אם אפליה נתפסת יכולה, בנסיבות מסוימות, להיות קשורה דווקא לרווחה סובייקטיבית גבוהה יותר בקרב קבוצת מיעוט. לפי התקציר, 332 חברי החברה החרדית בישראל השתתפו במחקר, ונמצא שאפליה קבוצתית נתפסת הייתה מתואמת חיובית עם רווחה סובייקטיבית. הקשר הזה תווך על ידי זהות חרדית, כלומר תחושת שייכות חזקה לקבוצה עשויה להסביר חלק מן הדפוס. התרומה הדמוקרטית היא בהדגשת המורכבות של אפליה: פגיעה חברתית יכולה להתקיים לצד מנגנוני חוסן פנימיים, ואין בכך כדי להצדיק את האפליה עצמה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_school_ceremonies_druze_identity_citizenship_summary_he",
+      "file": "democracy_school_ceremonies_druze_identity_citizenship_summary_he.html",
+      "permalink": "/democracy_school_ceremonies_druze_identity_citizenship_summary_he.html",
+      "sortKey": 202607020006,
+      "titleHe": "טקסי בית ספר וזהות אזרחית־דרוזית בשני תיכונים בישראל",
+      "paperTitle": "How do school-based ceremonies contribute to adolescents’ identity design? A case study in two Druze high schools",
+      "authorsCardHe": "Randa Abbas",
+      "sourceAuthors": [
+        "Randa Abbas"
+      ],
+      "journal": "Citizenship Teaching & Learning, 15(3), 323-340",
+      "dateText": "פורסם: 1 באוקטובר 2020",
+      "doiUrl": "https://doi.org/10.1386/ctl_00037_1",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_school_ceremonies_druze_identity_citizenship_summary_he.jpg",
+        "altHe": "אולם בית ספר דרוזי לפני טקס אזרחי עם מורים מבוגרים המסדרים כיסאות ופודיום ללא תלמידים וללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר מנתח את תרומתם של טקסים בית־ספריים לעיצוב זהות אזרחית וקהילתית בשני בתי ספר דרוזיים בישראל. לפי התקציר, לדרוזים בישראל יש מעמד ייחודי לעומת קבוצות ערביות אחרות, בין היתר בשל שירות צבאי ורמות גבוהות של פטריוטיות. טקסים ממלכתיים, ובעיקר טקסי זיכרון, משלבים ידע היסטורי עם רגשות של אובדן, גבורה והקרבה. המחקר מצא כי בשני בתי הספר ניתן דגש רב לפעילויות האלה, והן מחזקות גם זהות דרוזית־ישראלית וגאווה אזרחית וגם זהות דרוזית ייחודית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_equality_contact_interventions_jews_arabs_israel_summary_he",
+      "file": "democracy_equality_contact_interventions_jews_arabs_israel_summary_he.html",
+      "permalink": "/democracy_equality_contact_interventions_jews_arabs_israel_summary_he.html",
+      "sortKey": 202607020005,
+      "titleHe": "שוויון בתקשורת במפגשי דיאלוג בין יהודים לערבים בישראל",
+      "paperTitle": "Evaluating the Communication between Groups in Dispute: Equality in Contact Interventions between Jews and Arabs in Israel",
+      "authorsCardHe": "Ifat Maoz",
+      "sourceAuthors": [
+        "Ifat Maoz"
+      ],
+      "journal": "Negotiation Journal, 21(1), 131-146",
+      "dateText": "פורסם: 1 בינואר 2005",
+      "doiUrl": "https://doi.org/10.1111/j.1571-9979.2005.00050.x",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_equality_contact_interventions_jews_arabs_israel_summary_he.jpg",
+        "altHe": "מעגל דיאלוג במרכז קהילתי עם יהודים וערבים מבוגרים יושבים בגובה שווה ומקשיבים ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר מציע דרך להעריך מפגשי מגע ופתרון סכסוכים לפי איכות התקשורת בפועל בין הקבוצות. לפי התקציר, השאלה אינה רק האם התקיים מפגש בין יהודים לערבים בישראל, אלא האם האינטראקציה יצרה יחסים והתנהגויות שמקיימים סטנדרטים של צדק חברתי, שוויון והוגנות. סימטריה בתקשורת חשובה במיוחד בסכסוכים המאופיינים באי־שוויון בכוח, מפני שהיא יכולה לדגם כבוד הדדי וסובלנות. המאמר מתאר מחקר שבחן את מידת התרומה השווה של חברי שתי הקבוצות לשיחה ומציע קווים מנחים ליצירת שוויון תקשורתי בהתערבויות דומות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he",
+      "file": "democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.html",
+      "permalink": "/democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.html",
+      "sortKey": 202607020004,
+      "titleHe": "ארגוני שכונה, מדינת הרווחה וזכויות אזרחות",
+      "paperTitle": "Neighborhood Organizations, the Welfare State, and Citizenship Rights",
+      "authorsCardHe": "Shlomo Hasson; David Ley",
+      "sourceAuthors": [
+        "Shlomo Hasson",
+        "David Ley"
+      ],
+      "journal": "Urban Affairs Review, 33(1), 28-58",
+      "dateText": "פורסם: ספטמבר 1997",
+      "doiUrl": "https://doi.org/10.1177/107808749703300102",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_neighborhood_organizations_welfare_state_citizenship_rights_summary_he.jpg",
+        "altHe": "ישיבת תושבים בחדר קהילתי עירוני סביב מפות וטפסים ריקים עם נציג ציבור ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר משווה בין ארגוני שכונה בקנדה ובישראל ושואל כיצד הם קשורים למדינת הרווחה ולזכויות אזרחות. לפי התקציר, למרות הבדלים ממשיים בין שתי מדינות הרווחה, קיימות דומות מספקת שמאפשרת ללמוד מן ההשוואה. המחברים מזהים חמישה משטרים או דגמים שמחברים בין סוגי ארגונים, צורות של מדינת רווחה ותוצאות מבחינת זכויות אזרחות. המסקנה הזהירה היא שדגם של שותפות או ייצור משותף בין תושבים ומדינה נראה מבטיח במיוחד לחיזוק זכויות אזרחות ומשילות עירונית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_coping_resources_trust_institutions_iron_swords_summary_he",
+      "file": "democracy_coping_resources_trust_institutions_iron_swords_summary_he.html",
+      "permalink": "/democracy_coping_resources_trust_institutions_iron_swords_summary_he.html",
+      "sortKey": 202607020003,
+      "titleHe": "משאבי התמודדות ואמון במוסדות בזמן מלחמת חרבות ברזל",
+      "paperTitle": "Have Coping Resources and Trust in State Institutions Helped Jews and Arabs to Overcome Stress During the Iron Swords War?",
+      "authorsCardHe": "Orna Braun-Lewensohn; Tehila Kalagy; Sarah Abu-Kaf",
+      "sourceAuthors": [
+        "Orna Braun-Lewensohn",
+        "Tehila Kalagy",
+        "Sarah Abu-Kaf"
+      ],
+      "journal": "European Journal of Investigation in Health, Psychology and Education, 15(4), 59",
+      "dateText": "פורסם: 13 באפריל 2025",
+      "doiUrl": "https://doi.org/10.3390/ejihpe15040059",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_coping_resources_trust_institutions_iron_swords_summary_he.jpg",
+        "altHe": "מרכז חוסן קהילתי לאחר מצב חירום עם יהודים וערבים מבוגרים בשיחה שקטה עם יועצת ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר בודק את תפקידם של אמון במוסדות ותחושת קוהרנטיות כמשאבי התמודדות בזמן מלחמת חרבות ברזל. לפי התקציר, 471 משתתפים, 69.9% יהודים ו-30.1% ערבים, מילאו שאלון על חשיפה למלחמה, אמון במוסדות, תחושת קוהרנטיות ותוצאות בריאות נפשית. יהודים דיווחו על חשיפה גבוהה יותר לאירועי מלחמה, תחושת קוהרנטיות חזקה יותר ופחות מצוקה נפשית לעומת ערבים. תחושת קוהרנטיות הגנה מפני מצוקה בשתי הקבוצות, ואמון במוסדות פעל אחרת: אמון בצבא נקשר למצוקה נמוכה יותר בקרב יהודים, ואמון בפרלמנט נקשר למצוקה גבוהה יותר בקרב ערבים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he",
+      "file": "democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.html",
+      "permalink": "/democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.html",
+      "sortKey": 202607020002,
+      "titleHe": "איומים נתפסים והקצאת זכויות פוליטיות, חברתיות ותרבותיות בישראל",
+      "paperTitle": "Spheres of citizenship: The role of distinct perceived threats in legitimizing allocation of political, welfare and cultural rights in Israel",
+      "authorsCardHe": "Gal Ariely",
+      "sourceAuthors": [
+        "Gal Ariely"
+      ],
+      "journal": "International Journal of Intercultural Relations, 35(2), 213-225",
+      "dateText": "פורסם: מרץ 2011",
+      "doiUrl": "https://doi.org/10.1016/j.ijintrel.2010.08.003",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_spheres_citizenship_perceived_threats_rights_israel_summary_he.jpg",
+        "altHe": "חדר מחקר דעת קהל עם משתתפים ממיינים כרטיסי סקר ריקים לשלוש מגירות זכויות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר עוסק ב״מרחבי אזרחות״ ושואל כיצד איומים נתפסים שונים משפיעים על נכונות להקצות זכויות פוליטיות, זכויות רווחה וזכויות תרבות בישראל. לפי המטא־דאטה והכותרת, מוקד המאמר הוא בקשר בין תפיסות איום לבין לגיטימציה להגבלת או הרחבת זכויות. התרומה הדמוקרטית היא בהבחנה בין סוגי זכויות: אדם עשוי לתמוך בזכות רווחה אך להתנגד לזכות פוליטית או תרבותית, והדבר תלוי בסוג האיום שהוא מייחס לקבוצה אחרת. כך האזרחות אינה מופיעה כחבילה אחת, אלא כשדה שבו ביטחון, כלכלה, תרבות ושייכות מתחרים זה בזה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_jewish_arab_college_students_dating_gender_norms_summary_he",
+      "file": "democracy_jewish_arab_college_students_dating_gender_norms_summary_he.html",
+      "permalink": "/democracy_jewish_arab_college_students_dating_gender_norms_summary_he.html",
+      "sortKey": 202607020001,
+      "titleHe": "עמדות סטודנטים יהודים וערבים בישראל כלפי זוגיות, מגדר ונורמות חברתיות",
+      "paperTitle": "Differences between Jewish–Israeli and Arab–Israeli college students in attitudes toward date selection and sex relations: A research note",
+      "authorsCardHe": "Amir Hetsroni",
+      "sourceAuthors": [
+        "Amir Hetsroni"
+      ],
+      "journal": "Personal Relationships, 9(4), 507-517",
+      "dateText": "פורסם: דצמבר 2002",
+      "doiUrl": "https://doi.org/10.1111/1475-6811.00032",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jewish_arab_college_students_dating_gender_norms_summary_he.jpg",
+        "altHe": "חצר קמפוס ישראלית עם סטודנטים מבוגרים יהודים וערבים בקבוצות שיחה סביב שולחנות ללא טקסט קריא.",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-02",
+      "dateModified": "2026-07-02",
+      "summaryHe": "המאמר מציג הערת מחקר על הבדלים בין סטודנטים יהודים וערבים־מוסלמים בישראל בעמדות כלפי בחירת בני זוג ויחסים מגדריים. לפי התקציר, 214 יהודים ו-162 ערבים מילאו שאלונים, וכ-70% מן המשיבים בשתי הקבוצות היו נשים. יהודים יותר מערבים וגברים יותר מנשים נטו לציין מראה חיצוני כקריטריון לבחירת בן או בת זוג. בשתי הקבוצות נשים חשבו שנדרשת תקופת היכרות ארוכה יותר לפני יחסים מיניים, אך בקרב ערבים נמצאו פערי מגדר גדולים יותר, והחוקרים שלטו בדתיות, מצב משפחתי ומצב כלכלי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_religious_discrimination_diaspora_un_voting_israel_summary_he",
       "file": "democracy_religious_discrimination_diaspora_un_voting_israel_summary_he.html",
