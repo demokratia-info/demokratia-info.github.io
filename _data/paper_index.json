@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 962,
+  "paperCount": 972,
   "papers": [
+    {
+      "slug": "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he",
+      "file": "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.html",
+      "permalink": "/democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.html",
+      "sortKey": 202607030010,
+      "titleHe": "הצטלבות מגדר ואתניות בתת־ייצוג של רופאים ערבים בישראל",
+      "paperTitle": "Intersectionality and underrepresentation among health care workforce: the case of Arab physicians in Israel",
+      "authorsCardHe": "Yael Keshet; Ariela Popper‐Giveon; Ido Liberman",
+      "sourceAuthors": [
+        "Yael Keshet",
+        "Ariela Popper‐Giveon",
+        "Ido Liberman"
+      ],
+      "journal": "Israel Journal of Health Policy Research",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1186/s13584-015-0004-0",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.jpg",
+        "altHe": "צוות רפואי מגוון בחדר הדרכה בבית חולים ציבורי דן בייצוג של רופאות ערביות ובשוויון תעסוקתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המחקר בוחן מדוע הערבים בישראל מיוצגים בחסר בקרב רופאים, ומציע לראות את הבעיה דרך הצטלבות של אתניות ומגדר. לפי התקציר, החוקרות והחוקר שילבו נתוני סקר כוח אדם משנת 2011 עם ראיונות עומק עם רופאים ערבים ואחיות בבתי חולים ישראליים. הממצא המרכזי הוא שתת־הייצוג הערבי ברפואה קשור במיוחד לתת־הייצוג של נשים ערביות, שנפגעות מציפיות מגדריות, דפוסי השכלה ותעסוקה ומבנים חברתיים פטריארכליים. לכן שאלת הייצוג במערכת הבריאות אינה רק עניין של הכשרה מקצועית, אלא גם מבחן לשוויון אזרחי וליכולת של שירות ציבורי לשקף את כלל החברה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_right_to_the_city_arab_cities_israel_summary_he",
+      "file": "democracy_right_to_the_city_arab_cities_israel_summary_he.html",
+      "permalink": "/democracy_right_to_the_city_arab_cities_israel_summary_he.html",
+      "sortKey": 202607030009,
+      "titleHe": "הזכות לעיר והערכת זכויות עירוניות בערים ערביות בישראל",
+      "paperTitle": "‘The right to the city’ revisited: Assessing urban rights – The case of Arab Cities in Israel",
+      "authorsCardHe": "Yosef Jabareen",
+      "sourceAuthors": [
+        "Yosef Jabareen"
+      ],
+      "journal": "Habitat International",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.1016/j.habitatint.2013.06.006",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_right_to_the_city_arab_cities_israel_summary_he.jpg",
+        "altHe": "תושבים ומתכננים דנים במפות עירוניות ריקות מול נוף של עיר ערבית הררית בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר של יוסף ג׳בארין עוסק בזכות לעיר כדרך לבחון את מצבן של ערים ערביות בישראל. לפי תקצירי המו״ל והמטא־דאטה, הוא אינו מסתפק בסיסמה פוליטית, אלא מבקש להציע מסגרת הערכה לזכויות עירוניות וליישם אותה על מציאות של מיעוט לאומי במרחב עירוני. הדיון מחבר בין תכנון, קרקע, דיור, שירותים עירוניים והשתתפות ציבורית, וממקם אותם בתוך שאלת השוויון של אזרחים ערבים. מבחינה דמוקרטית, המאמר מדגיש שזכויות אינן מתקיימות רק בבית המשפט או בפרלמנט, אלא גם ברחוב, בשכונה, בתוכנית המתאר וביכולת להשפיע על עתיד העיר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_higher_education_arabs_israel_empowerment_control_summary_he",
+      "file": "democracy_higher_education_arabs_israel_empowerment_control_summary_he.html",
+      "permalink": "/democracy_higher_education_arabs_israel_empowerment_control_summary_he.html",
+      "sortKey": 202607030008,
+      "titleHe": "השכלה גבוהה לערבים בישראל בין העצמה לשליטה מוסדית",
+      "paperTitle": "Higher Education among the Arabs in Israel: Formal Policy between Empowerment and Control",
+      "authorsCardHe": "Majid Al‐Haj",
+      "sourceAuthors": [
+        "Majid Al‐Haj"
+      ],
+      "journal": "Higher Education Policy",
+      "dateText": "פורסם: 2003",
+      "doiUrl": "https://doi.org/10.1057/palgrave.hep.8300025",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_higher_education_arabs_israel_empowerment_control_summary_he.jpg",
+        "altHe": "סטודנטים ערבים ויהודים בסמינר אוניברסיטאי דנים בהשכלה גבוהה, נגישות ורב־תרבותיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר מנתח את התפתחות ההשכלה הגבוהה בקרב האזרחים הערבים בישראל מאז קום המדינה, ואת הגורמים שעיכבו את נגישותם למוסדות האקדמיים. לפי תקציר המו״ל, הוא נשען על סטטיסטיקה רשמית, מסמכים וסקר שנערך באוניברסיטת חיפה בשנת 2001 בקרב מדגם של סטודנטים ערבים ויהודים. הטענה המרכזית היא שגם כאשר המוסדות האקדמיים נהנים מאוטונומיה יחסית, המדיניות כלפי ההשכלה הגבוהה ממשיכה לשקף יחסי כוח ומדיניות שנוצרו בשלבי חינוך מוקדמים יותר. לכן השכלה גבוהה יכולה להעצים יחידים וקבוצות, אך גם לשחזר ריבוד חברתי והגמוניה תרבותית אם אינה מלווה בחלוקת כוח שוויונית וברב־תרבותיות ממשית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he",
+      "file": "democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.html",
+      "permalink": "/democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.html",
+      "sortKey": 202607030007,
+      "titleHe": "זהות קולקטיבית ונכונות לקשרים עם יהודים בקרב סטודנטים ערבים",
+      "paperTitle": "Collective identity and readiness for social relations with Jews among Palestinian Arab students at the David Yellin Teacher Training College in Israel",
+      "authorsCardHe": "Khansaa Diab; Mahmoud Mi’ari",
+      "sourceAuthors": [
+        "Khansaa Diab",
+        "Mahmoud Mi’ari"
+      ],
+      "journal": "Intercultural Education",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.1080/14675980701685289",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.jpg",
+        "altHe": "סטודנטים במכללה להכשרת מורים יושבים במעגל דיון על זהות וקשרים מקצועיים בין ערבים ליהודים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר בוחן סטודנטים ערבים־פלסטינים במכללת דוד ילין להכשרת מורים, ושואל כיצד זהות קולקטיבית קשורה לנכונות לקשרים עם סטודנטים יהודים. לפי התקציר, רכיבי הזהות הערבי והפלסטיני חזקים, ואילו הרכיב האזרחי הישראלי חלש מאוד. עם זאת, אף שהקשרים בפועל בין סטודנטים ערבים ליהודים מוגבלים, הסטודנטים הערבים מביעים נכונות גבוהה יותר לקשרים מקצועיים וחברתיים מכפי שהם מייחסים לסטודנטים יהודים. הממצא החשוב הוא שלא נמצא קשר בין רכיבי הזהות לבין היכרות עם יהודים או נכונות לקשרים, ולכן זהות לאומית חזקה אינה בהכרח סותרת פתיחות מקצועית וחברתית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_improving_arab_jewish_relations_coexistence_education_summary_he",
+      "file": "democracy_improving_arab_jewish_relations_coexistence_education_summary_he.html",
+      "permalink": "/democracy_improving_arab_jewish_relations_coexistence_education_summary_he.html",
+      "sortKey": 202607030006,
+      "titleHe": "תוכניות חינוך לדו־קיום ושיפור יחסי יהודים־ערבים בישראל",
+      "paperTitle": "Introduction to Improving Arab‐Jewish Relations in Israel: Theory and Practice in Coexistence Educational Programs",
+      "authorsCardHe": "Cookie White Stephan; Rachel Hertz‐Lazarowitz; Tamar Zelniker; Walter G. Stephan",
+      "sourceAuthors": [
+        "Cookie White Stephan",
+        "Rachel Hertz‐Lazarowitz",
+        "Tamar Zelniker",
+        "Walter G. Stephan"
+      ],
+      "journal": "Journal of Social Issues",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1111/j.0022-4537.2004.00109.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_improving_arab_jewish_relations_coexistence_education_summary_he.jpg",
+        "altHe": "מחנכים יהודים וערבים מתכננים סדנת דו־קיום במרכז קהילתי סביב שולחן עגול",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "מאמר המבוא מציג גיליון מיוחד על תוכניות חינוך לדו־קיום שנועדו לשפר את יחסי היהודים והערבים בישראל. לפי התקציר, מומחים יהודים וערבים בישראל פיתחו תוכניות בין־קבוצתיות חדשניות, ואנשי חינוך ומחקר משני הצדדים השקיעו מאמץ בהפחתת עוינות. המאמר מספק רקע היסטורי לסכסוך, מתאר תפיסות שונות של הצדדים, ומדגיש גורמים כמו תרבות, מעמד חברתי־כלכלי ואתניות. תרומתו הדמוקרטית היא בהצבת מפגש חינוכי לא כפתרון קסם, אלא כזירה שבה אפשר לבחון כיצד מוסדות חינוך וחברה אזרחית מנסים להתמודד עם קיטוב, פחד ואי־שוויון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he",
+      "file": "democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.html",
+      "permalink": "/democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.html",
+      "sortKey": 202607030005,
+      "titleHe": "אמון במערכת הבריאות בקרב ערבים, מהגרים יהודים ויהודים ותיקים",
+      "paperTitle": "Trust in the Israeli Healthcare System Among Arabs, Jewish Immigrants, and Non-immigrants",
+      "authorsCardHe": "Ronit Pinchas‐Mizrachi; Beth G. Zalcman; Nihaya Daoud",
+      "sourceAuthors": [
+        "Ronit Pinchas‐Mizrachi",
+        "Beth G. Zalcman",
+        "Nihaya Daoud"
+      ],
+      "journal": "International Journal of Behavioral Medicine",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1007/s12529-020-09902-8",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.jpg",
+        "altHe": "מרפאה ציבורית שבה מטופלים מקבוצות שונות נפגשים עם צוות רפואי סביב טפסים ריקים ושירות נגיש",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר בוחן אמון במערכת הבריאות בישראל בקרב שלוש קבוצות: ערבים, מהגרים יהודים ויהודים שאינם מהגרים. לפי תקציר PubMed, המחקר השתמש בנתוני הסקר החברתי של הלשכה המרכזית לסטטיסטיקה משנת 2017, ובדק את האמון באמצעות שאלה על אמון במערכת הבריאות. בניגוד לתמונה שמוכרת ממחקרים רבים על מיעוטים ומהגרים, נמצא שערבים ומהגרים יהודים דיווחו על אמון גבוה יותר במערכת הבריאות מאשר יהודים לא־מהגרים, גם לאחר התאמות סטטיסטיות. החוקרות מדגישות כי רכיבי אמון שונים מסבירים את התמונה בכל קבוצה, וכי הממצא מעלה שאלות על ציפיות, נגישות ואיכות טיפול.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_male_nurses_gender_ethnic_diversity_summary_he",
+      "file": "democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.html",
+      "permalink": "/democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.html",
+      "sortKey": 202607030004,
+      "titleHe": "אחים ערבים בישראל וגיוון מגדרי־אתני בכוח העבודה הסיעודי",
+      "paperTitle": "Increasing gender and ethnic diversity in the health care workforce: The case of Arab male nurses in Israel",
+      "authorsCardHe": "Ariela Popper‐Giveon; Yael Keshet; Ido Liberman",
+      "sourceAuthors": [
+        "Ariela Popper‐Giveon",
+        "Yael Keshet",
+        "Ido Liberman"
+      ],
+      "journal": "Nursing Outlook",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1016/j.outlook.2015.08.001",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.jpg",
+        "altHe": "צוות סיעודי מגוון בבית חולים ציבורי כולל אחים ערבים העובדים יחד סביב דפי טיפול ריקים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר עוסק באחים ערבים בישראל כמקרה שמאתגר את ההנחה שסיעוד הוא מקצוע נשי בעיקרו. לפי תקציר PubMed, החוקרות והחוקר השתמשו בנתוני סקר כוח אדם של הלשכה המרכזית לסטטיסטיקה לשנים 2011-2013 ובראיונות עומק עם 13 אחים ערבים בבתי חולים ציבוריים. הממצא הכמותי המרכזי הוא שגברים היו 38.6% מן האחים והאחיות הערבים, לעומת 7.5% בלבד בקרב יהודים ואחרים. הראיונות הראו שאחים ערבים מסבירים את בחירתם במקצוע דרך תפקידים מגדריים מקובלים, תעסוקה בטוחה והזדמנות מקצועית, אך גם מעלים שאלות על שימור כוח עבודה מגוון במערכת בריאות רב־תרבותית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_education_for_democracy_israel_structural_impediments_summary_he",
+      "file": "democracy_education_for_democracy_israel_structural_impediments_summary_he.html",
+      "permalink": "/democracy_education_for_democracy_israel_structural_impediments_summary_he.html",
+      "sortKey": 202607030003,
+      "titleHe": "חינוך לדמוקרטיה בישראל מול חסמים מבניים ודילמות יסוד",
+      "paperTitle": "Education for democracy in Israel: Structural impediments and basic dilemmas",
+      "authorsCardHe": "Benyamin Neuberger",
+      "sourceAuthors": [
+        "Benyamin Neuberger"
+      ],
+      "journal": "International Journal of Educational Development",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.1016/j.ijedudev.2006.10.013",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_education_for_democracy_israel_structural_impediments_summary_he.jpg",
+        "altHe": "כיתה לחינוך אזרחי בישראל שבה מורה ותלמידים בוגרים דנים בזכויות, מוסדות ודמוקרטיה ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר של בנימין נויברגר בוחן את החינוך לדמוקרטיה בישראל דרך חסמים מבניים ודילמות יסוד. לפי תקצירי המו״ל והמטא־דאטה, המאמר עוסק בקשיים הנובעים מן המציאות הישראלית עצמה: מתח בין יהדות ודמוקרטיה, בין ביטחון לזכויות, בין זהות לאומית לפלורליזם ובין קבוצות חינוך שונות. החינוך לדמוקרטיה מוצג לא רק כהוראת מושגים, אלא כמשימה מוסדית שמתקיימת בתוך חברה שסועה ומערכת חינוך מפוצלת. חשיבותו הדמוקרטית היא בהדגשת התנאים שבהם תלמידים לומדים לא רק מהי דמוקרטיה, אלא גם כיצד לחיות עם מחלוקת, זכויות וכללים משותפים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he",
+      "file": "democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.html",
+      "permalink": "/democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.html",
+      "sortKey": 202607030002,
+      "titleHe": "דיאלוג יהודי־ערבי ושינוי אידיאולוגי בקרב ישראלים יהודים",
+      "paperTitle": "Dialogue and ideology: The effect of continuous involvement in Jewish-Arab dialogue encounters on the ideological perspectives of Israeli-Jews",
+      "authorsCardHe": "Yiftach Ron; Ifat Maoz; Zvi Bekerman",
+      "sourceAuthors": [
+        "Yiftach Ron",
+        "Ifat Maoz",
+        "Zvi Bekerman"
+      ],
+      "journal": "International Journal of Intercultural Relations",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1016/j.ijintrel.2010.07.001",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.jpg",
+        "altHe": "מנחי דיאלוג יהודים וערבים יושבים במעגל קטן לאחר סדנה ומשוחחים על זהות ואי־שוויון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר בוחן את השפעתה של מעורבות מתמשכת במפגשי דיאלוג יהודי־ערבי על תפיסות אידיאולוגיות של ישראלים יהודים. לפי תקצירי המו״ל והמטא־דאטה, הוא מתעניין לא רק בשאלה אם מפגש משפר עמדות בין־אישיות, אלא אם הוא משנה הבנות עמוקות יותר על הסכסוך, יחסי רוב ומיעוט וזהות פוליטית. המיקוד בישראלים יהודים חשוב משום שקבוצת הרוב מחזיקה בכוח מוסדי רב יותר, ולכן שינוי בתפיסותיה עשוי להשפיע על תנאי הדיאלוג עצמו. מבחינה דמוקרטית, המאמר מציב דיאלוג כזירה שבה אפשר לבחון האם מפגש מתמשך מעודד הכרה באי־שוויון או רק מפחית מתח רגשי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_public_services_post_nomadic_bedouin_israel_summary_he",
+      "file": "democracy_public_services_post_nomadic_bedouin_israel_summary_he.html",
+      "permalink": "/democracy_public_services_post_nomadic_bedouin_israel_summary_he.html",
+      "sortKey": 202607030001,
+      "titleHe": "שירותים ציבוריים לחברה בדואית לאחר נוודות בנגב",
+      "paperTitle": "Provision of Public Services to the Post-Nomadic Bedouin Society in Israel",
+      "authorsCardHe": "Avinoam Meir",
+      "sourceAuthors": [
+        "Avinoam Meir"
+      ],
+      "journal": "The Service Industries Journal",
+      "dateText": "פורסם: 1990",
+      "doiUrl": "https://doi.org/10.1080/02642069000000088",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_services_post_nomadic_bedouin_israel_summary_he.jpg",
+        "altHe": "מרכז שירותים ציבוריים ביישוב בדואי בנגב שבו תושבים וצוות ציבורי דנים בשירותי חינוך ובריאות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-03",
+      "dateModified": "2026-07-03",
+      "summaryHe": "המאמר עוסק באספקת שירותים ציבוריים לחברה בדואית בדרום ישראל בתקופה של מעבר מנוודות להתיישבות ולעיור חלקי. לפי התקציר, תהליך זה ייחודי משום שקבוצות נוודיות נשענות בדרך כלל על משאבים פנימיים להשגת מטרות שירות, ואילו במקרה הזה הבדואים נדרשים להשתמש במשאבים חיצוניים של מערכת ציבורית. הניתוח מתמקד בשירותי חינוך ובריאות ומוצא שהם מוגבלים מבחינה מרחבית, תפקודית ותרבותית. המשמעות הדמוקרטית היא ששוויון בשירות ציבורי אינו מסתכם בהקמת מוסד, אלא דורש התאמה למרחב, לאורחות חיים וליחסי אמון בין המדינה לקהילת מיעוט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he",
       "file": "democracy_ngos_un_human_rights_arab_israeli_conflict_summary_he.html",

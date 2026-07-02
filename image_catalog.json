@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-02",
+  "lastUpdated": "2026-07-03",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24056,6 +24056,278 @@
         "יחסים חברתיים",
         "מיעוטים",
         "עמדות"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.html",
+      "usedBy": [
+        "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הצטלבות מגדר ואתניות בתת־ייצוג של רופאים ערבים בישראל",
+      "authorsHe": "Yael Keshet; Ariela Popper‐Giveon; Ido Liberman",
+      "visualDescriptionHe": "צוות רפואי מגוון בחדר הדרכה בבית חולים ציבורי דן בייצוג של רופאות ערביות ובשוויון תעסוקתי",
+      "semanticDescriptionHe": "המאמר משתמש בגישת הצטלבותיות כדי לבחון תת־ייצוג של ערבים במקצוע הרפואה בישראל, ומראה שהפער אינו רק אתני אלא קשור במיוחד לתת־ייצוג של נשים ערביות. על בסיס סקר כוח אדם וראיונות עומק, הוא קושר בין מגדר, אתניות, דפוסי השכלה ותעסוקה לבין שוויון במערכת הבריאות.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "הצטלבותיות",
+        "ייצוג מקצועי",
+        "רופאות ערביות",
+        "מערכת הבריאות",
+        "שוויון",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_right_to_the_city_arab_cities_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_right_to_the_city_arab_cities_israel_summary_he.html",
+      "usedBy": [
+        "democracy_right_to_the_city_arab_cities_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הזכות לעיר והערכת זכויות עירוניות בערים ערביות בישראל",
+      "authorsHe": "Yosef Jabareen",
+      "visualDescriptionHe": "תושבים ומתכננים דנים במפות עירוניות ריקות מול נוף של עיר ערבית הררית בישראל",
+      "semanticDescriptionHe": "המאמר חוזר אל מושג הזכות לעיר ומציע מסגרת להערכת זכויות עירוניות, תוך יישום על ערים ערביות בישראל. הוא מציב את התכנון, הקרקע, הדיור, השירותים וההשתתפות העירונית כחלק מדיון רחב בשוויון אזרחי ובצדק מרחבי.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "הזכות לעיר",
+        "זכויות עירוניות",
+        "ערים ערביות",
+        "תכנון עירוני",
+        "שוויון",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_higher_education_arabs_israel_empowerment_control_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_higher_education_arabs_israel_empowerment_control_summary_he.html",
+      "usedBy": [
+        "democracy_higher_education_arabs_israel_empowerment_control_summary_he.html"
+      ],
+      "cardTitleHe": "השכלה גבוהה לערבים בישראל בין העצמה לשליטה מוסדית",
+      "authorsHe": "Majid Al‐Haj",
+      "visualDescriptionHe": "סטודנטים ערבים ויהודים בסמינר אוניברסיטאי דנים בהשכלה גבוהה, נגישות ורב־תרבותיות",
+      "semanticDescriptionHe": "המאמר מנתח את מדיניות ההשכלה הגבוהה כלפי המיעוט הערבי בישראל וטוען כי היא פועלת בין אפשרות להעצמה לבין שימור יחסי כוח. על בסיס נתונים רשמיים, מסמכים וסקר באוניברסיטת חיפה, הוא קושר בין נגישות לאקדמיה, הגמוניה תרבותית ורב־תרבותיות.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "השכלה גבוהה",
+        "ערבים בישראל",
+        "מדיניות פורמלית",
+        "רב־תרבותיות",
+        "שוויון",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.html",
+      "usedBy": [
+        "democracy_collective_identity_palestinian_arab_students_jewish_relations_summary_he.html"
+      ],
+      "cardTitleHe": "זהות קולקטיבית ונכונות לקשרים עם יהודים בקרב סטודנטים ערבים",
+      "authorsHe": "Khansaa Diab; Mahmoud Mi’ari",
+      "visualDescriptionHe": "סטודנטים במכללה להכשרת מורים יושבים במעגל דיון על זהות וקשרים מקצועיים בין ערבים ליהודים",
+      "semanticDescriptionHe": "המאמר בוחן את רכיבי הזהות הקולקטיבית של סטודנטים ערבים־פלסטינים במכללה להכשרת מורים בישראל ואת נכונותם לקשרים מקצועיים וחברתיים עם סטודנטים יהודים. הוא מוצא זהות ערבית ופלסטינית חזקה לצד רכיב ישראלי חלש, אך גם נכונות גבוהה יחסית לקשרים מקצועיים וחברתיים.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "זהות קולקטיבית",
+        "סטודנטים ערבים",
+        "יחסי יהודים־ערבים",
+        "חינוך מורים",
+        "אזרחות",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_improving_arab_jewish_relations_coexistence_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_improving_arab_jewish_relations_coexistence_education_summary_he.html",
+      "usedBy": [
+        "democracy_improving_arab_jewish_relations_coexistence_education_summary_he.html"
+      ],
+      "cardTitleHe": "תוכניות חינוך לדו־קיום ושיפור יחסי יהודים־ערבים בישראל",
+      "authorsHe": "Cookie White Stephan; Rachel Hertz‐Lazarowitz; Tamar Zelniker; Walter G. Stephan",
+      "visualDescriptionHe": "מחנכים יהודים וערבים מתכננים סדנת דו־קיום במרכז קהילתי סביב שולחן עגול",
+      "semanticDescriptionHe": "מאמר המבוא מציג את הרקע, התיאוריה והפרקטיקה של תוכניות חינוכיות לשיפור יחסי יהודים־ערבים בישראל. הוא מסביר את מקורות העוינות, את תפיסות הסכסוך משני הצדדים ואת התפקיד של תרבות, מעמד ואתניות בעיצוב מפגשים בין־קבוצתיים.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "דו־קיום",
+        "יחסי יהודים־ערבים",
+        "חינוך בין־קבוצתי",
+        "קונפליקט",
+        "זהות",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.html",
+      "usedBy": [
+        "democracy_trust_israeli_healthcare_system_arabs_immigrants_summary_he.html"
+      ],
+      "cardTitleHe": "אמון במערכת הבריאות בקרב ערבים, מהגרים יהודים ויהודים ותיקים",
+      "authorsHe": "Ronit Pinchas‐Mizrachi; Beth G. Zalcman; Nihaya Daoud",
+      "visualDescriptionHe": "מרפאה ציבורית שבה מטופלים מקבוצות שונות נפגשים עם צוות רפואי סביב טפסים ריקים ושירות נגיש",
+      "semanticDescriptionHe": "המאמר משווה אמון במערכת הבריאות הישראלית בין ערבים, מהגרים יהודים ויהודים שאינם מהגרים, על בסיס הסקר החברתי של הלשכה המרכזית לסטטיסטיקה לשנת 2017. הוא מוצא שבניגוד לציפייה ממחקרים על מיעוטים ומהגרים, הקבוצות המיעוטיות דיווחו על אמון גבוה יותר מן הקבוצה היהודית הלא־מהגרת.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "אמון במוסדות",
+        "מערכת הבריאות",
+        "ערבים בישראל",
+        "מהגרים",
+        "שוויון בבריאות",
+        "אפליה"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.html",
+      "usedBy": [
+        "democracy_arab_male_nurses_gender_ethnic_diversity_summary_he.html"
+      ],
+      "cardTitleHe": "אחים ערבים בישראל וגיוון מגדרי־אתני בכוח העבודה הסיעודי",
+      "authorsHe": "Ariela Popper‐Giveon; Yael Keshet; Ido Liberman",
+      "visualDescriptionHe": "צוות סיעודי מגוון בבית חולים ציבורי כולל אחים ערבים העובדים יחד סביב דפי טיפול ריקים",
+      "semanticDescriptionHe": "המאמר בוחן את מקומם של גברים ערבים במקצוע הסיעוד בישראל, תחום שבו גברים הם לרוב מיעוט אך בקרב האוכלוסייה הערבית שיעורם גבוה במיוחד. על בסיס סקר כוח אדם וראיונות עומק, הוא מנתח את הקשר בין גיוון אתני, מגדר, גבריות והשתלבות במערכת הבריאות.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "אחים ערבים",
+        "סיעוד",
+        "גיוון תעסוקתי",
+        "מגדר",
+        "מערכת הבריאות",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_education_for_democracy_israel_structural_impediments_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_education_for_democracy_israel_structural_impediments_summary_he.html",
+      "usedBy": [
+        "democracy_education_for_democracy_israel_structural_impediments_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך לדמוקרטיה בישראל מול חסמים מבניים ודילמות יסוד",
+      "authorsHe": "Benyamin Neuberger",
+      "visualDescriptionHe": "כיתה לחינוך אזרחי בישראל שבה מורה ותלמידים בוגרים דנים בזכויות, מוסדות ודמוקרטיה ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר דן בחינוך לדמוקרטיה בישראל ובחסמים מבניים שמקשים עליו, כולל מתחים בין ביטחון, דת ומדינה, זהות לאומית, פלורליזם ומבנה אזרחי. הוא מציג את החינוך האזרחי כזירה שבה דמוקרטיה אינה רק חומר לימוד אלא גם מחלוקת על ערכים ומוסדות.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "חינוך לדמוקרטיה",
+        "אזרחות",
+        "חינוך אזרחי",
+        "ישראל",
+        "שלטון החוק",
+        "מוסדות"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.html",
+      "usedBy": [
+        "democracy_dialogue_ideology_jewish_arab_encounters_israeli_jews_summary_he.html"
+      ],
+      "cardTitleHe": "דיאלוג יהודי־ערבי ושינוי אידיאולוגי בקרב ישראלים יהודים",
+      "authorsHe": "Yiftach Ron; Ifat Maoz; Zvi Bekerman",
+      "visualDescriptionHe": "מנחי דיאלוג יהודים וערבים יושבים במעגל קטן לאחר סדנה ומשוחחים על זהות ואי־שוויון",
+      "semanticDescriptionHe": "המאמר בוחן כיצד מעורבות מתמשכת במפגשי דיאלוג יהודי־ערבי משפיעה על נקודות המבט האידיאולוגיות של ישראלים יהודים. הוא מתמקד בשאלה אם מפגש חוזר ונשנה יכול לשנות תפיסות על יחסי רוב־מיעוט, זהות המדינה ושוויון.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "rights-equality-minorities",
+        "דיאלוג יהודי־ערבי",
+        "אידיאולוגיה",
+        "מפגש בין־קבוצתי",
+        "ישראלים יהודים",
+        "שוויון",
+        "מיעוטים"
+      ],
+      "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
+      "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
+      "sourceType": "generated-openai",
+      "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_public_services_post_nomadic_bedouin_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_services_post_nomadic_bedouin_israel_summary_he.html",
+      "usedBy": [
+        "democracy_public_services_post_nomadic_bedouin_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שירותים ציבוריים לחברה בדואית לאחר נוודות בנגב",
+      "authorsHe": "Avinoam Meir",
+      "visualDescriptionHe": "מרכז שירותים ציבוריים ביישוב בדואי בנגב שבו תושבים וצוות ציבורי דנים בשירותי חינוך ובריאות",
+      "semanticDescriptionHe": "המאמר מנתח את אספקת השירותים הציבוריים לחברה בדואית בדרום ישראל בתהליך מעבר מנוודות להתיישבות ועיור חלקי. הוא מתמקד בחינוך ובריאות ומראה כיצד אילוצים מרחביים, תפקודיים ותרבותיים יוצרים מתחים במפגש בין קהילה למוסדות המדינה.",
+      "createdDate": "2026-07-03",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "בדואים בנגב",
+        "שירותים ציבוריים",
+        "חינוך",
+        "בריאות",
+        "התיישבות",
+        "מיעוטים"
       ],
       "reuseGuidance": "New paper-specific image for this article; do not reuse for future new papers unless the subject match is exact and no nearby cards repeat the same visual family.",
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
