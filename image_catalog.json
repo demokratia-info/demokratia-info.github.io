@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-04",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24333,6 +24333,246 @@
       "qualityNotes": "Cropped and resized to 800x600 JPEG for this article. Marked high because the generated scene is specifically matched to the paper subject and contains no readable text, logos, watermarks, UI overlays, or dominant flags.",
       "sourceType": "generated-openai",
       "sourcePromptSummary": "Generated warm civic-documentary editorial image matched to this paper subject; no readable text, logos, watermarks, flags as main subject, or UI overlays."
+    },
+    {
+      "file": "html_qa/democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.html",
+      "usedBy": [
+        "democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.html"
+      ],
+      "cardTitleHe": "Perceived Discrimination and Stigma in the Context of the Long-Term Care Insurance Law from the Perspectives of Arabs and the Jews in the North of Israel",
+      "authorsHe": "Liat Ayalon",
+      "visualDescriptionHe": "משרד שירותים קהילתי בצפון ישראל שבו זקנים, בני משפחה ועובדי ציבור משוחחים על גמלת סיעוד",
+      "semanticDescriptionHe": "המאמר עוסק בהפליה נתפסת, סטיגמה ואמון בשירותי רווחה סביב חוק ביטוח סיעוד בקרב ערבים ויהודים בצפון ישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "perceived_discrimination_stigma_long_term_care_arab_jewish_israel"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_universities_druze_women_identity_transitions_higher_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_universities_druze_women_identity_transitions_higher_education_summary_he.html",
+      "usedBy": [
+        "democracy_universities_druze_women_identity_transitions_higher_education_summary_he.html"
+      ],
+      "cardTitleHe": "אוניברסיטה כמפגש משנה זהות לנשים דרוזיות ראשונות בהשכלה הגבוהה",
+      "authorsHe": "Naomi Weiner-Levy",
+      "visualDescriptionHe": "סמינר אוניברסיטאי שבו סטודנטיות דרוזיות משוחחות עם עמיתות על לימודים וזהות",
+      "semanticDescriptionHe": "המאמר עוסק בהשכלה גבוהה, מעבר תרבותי ושינוי זהותי בקרב נשים דרוזיות ראשונות באקדמיה הישראלית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "universities_druze_women_identity_transitions_higher_education"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.html",
+      "usedBy": [
+        "democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.html"
+      ],
+      "cardTitleHe": "משבר המיעוטים במדינה אתנית והאזרחים הפלסטינים בישראל",
+      "authorsHe": "Nadim N. Rouhana; As’ad Ghanem",
+      "visualDescriptionHe": "חדר דיון אזרחי עם מנהיגות קהילתית ערבית, מסמכים ומפות מול הקשר מוסדי ישראלי",
+      "semanticDescriptionHe": "המאמר עוסק במדינות אתניות, אזרחות שווה, זכויות מיעוטים ומעמדם של האזרחים הפלסטינים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "crisis_minorities_ethnic_states_palestinian_citizens_israel"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_gay_rights_israel_new_era_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gay_rights_israel_new_era_summary_he.html",
+      "usedBy": [
+        "democracy_gay_rights_israel_new_era_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות להט״ב בישראל לאחר פרשת אל־על",
+      "authorsHe": "Alon Harel",
+      "visualDescriptionHe": "חדר ייעוץ משפטי שבו בני זוג מאותו מין ועורך דין בוחנים מסמכי תיק שוויון זכויות",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות להט״ב, שוויון בעבודה, בית המשפט העליון והרחבת ההגנה המשפטית על מיעוטים מיניים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "gay_rights_israel_new_era"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_children_disabilities_human_rights_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_children_disabilities_human_rights_israel_summary_he.html",
+      "usedBy": [
+        "democracy_children_disabilities_human_rights_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות ילדים עם מוגבלויות בישראל בין חזון ליישום",
+      "authorsHe": "Dina Feldman",
+      "visualDescriptionHe": "בית ספר קהילתי נגיש שבו ילדים עם מוגבלויות, הורים ואנשי חינוך משתתפים יחד בפעילות מכלילה",
+      "semanticDescriptionHe": "המאמר עוסק בזכויות ילדים עם מוגבלויות בישראל, נגישות, חינוך מכליל, בריאות והפער בין חזון זכויות אדם ליישום.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "children_disabilities_human_rights_israel"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_bedouin_arab_women_higher_education_barriers_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bedouin_arab_women_higher_education_barriers_summary_he.html",
+      "usedBy": [
+        "democracy_bedouin_arab_women_higher_education_barriers_summary_he.html"
+      ],
+      "cardTitleHe": "נשים בדואיות־ערביות מול חסמי ההשכלה הגבוהה בישראל",
+      "authorsHe": "Ismael Abu-Saad; Tamar Horowitz; Kathleen Abu-Saad",
+      "visualDescriptionHe": "חדר ייעוץ אקדמי בנגב שבו סטודנטיות בדואיות־ערביות משוחחות עם יועצת על לימודים וחסמים",
+      "semanticDescriptionHe": "המאמר עוסק בנשים בדואיות־ערביות, חסמי השכלה גבוהה, מודרניזציה קהילתית, חוסן וסוכנות במיעוט ילידי בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "bedouin_arab_women_higher_education_barriers"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.html",
+      "usedBy": [
+        "democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פלורליזם חברתי־אתני בבתי ספר תיכוניים ערביים בישראל",
+      "authorsHe": "Muhammad Suwaed",
+      "visualDescriptionHe": "מעגל דיאלוג בבית ספר ערבי בגליל שבו מנהל, צוות ותלמידים דנים בכבוד לשונות ובפלורליזם חברתי־אתני",
+      "semanticDescriptionHe": "המאמר עוסק בפלורליזם חברתי־אתני בבתי ספר ערביים בישראל, יחסי מוסלמים ונוצרים, סובלנות ותפקיד מנהלי בתי ספר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "socio_ethnic_pluralism_arab_high_schools_israel"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.html",
+      "usedBy": [
+        "democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.html"
+      ],
+      "cardTitleHe": "חינוך ציבורי לבדואי הנגב בין פיתוח לשליטה מוסדית",
+      "authorsHe": "Avinoam Meir",
+      "visualDescriptionHe": "מרכז שירות חינוכי בנגב שבו משפחות בדואיות ואנשי חינוך ציבורי דנים בנגישות לשירותי בית ספר",
+      "semanticDescriptionHe": "המאמר עוסק באספקת שירותי חינוך ציבוריים לבדואי הנגב, התיישבות, מודרניזציה, פיתוח ותלות מוסדית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "pastoral_nomads_public_education_negev_bedouin"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.html",
+      "usedBy": [
+        "democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.html"
+      ],
+      "cardTitleHe": "צדק סביבתי חלוקתי ונגישות לגנים בערים מעורבות בישראל",
+      "authorsHe": "Itzhak Omer; Udi Or",
+      "visualDescriptionHe": "חדר תכנון עירוני שבו תושבים ומתכננים דנים במפות ופארקים בערים מעורבות בישראל",
+      "semanticDescriptionHe": "המאמר עוסק בצדק סביבתי חלוקתי, נגישות לשטחים ירוקים, רמלה ולוד, אי־שוויון מרחבי וזכויות מיעוטים בעיר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "distributive_environmental_justice_mixed_israeli_cities"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+      "usedBy": [
+        "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חשיפה ממושכת לאלימות פוליטית בקרב מתבגרים יהודים וערבים",
+      "authorsHe": "Michelle Slone; Tomer Shechner",
+      "visualDescriptionHe": "סביבת ייעוץ ומחקר בבית ספר שבה מתבגרים יהודים וערבים יושבים עם יועצת ושאלונים לא קריאים",
+      "semanticDescriptionHe": "המאמר עוסק בחשיפה של מתבגרים יהודים וערבים בישראל לאלימות פוליטית, בהשפעה סובייקטיבית ובהבדלים אתניים לאורך האינתיפאדה השנייה.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "political_violence_exposure_jewish_arab_adolescents_israel"
+      ],
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-04 nightly heartbeat",
+      "license": "Generated site asset",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
+      "fitness": "high"
     }
   ],
   "topicGraphics": [

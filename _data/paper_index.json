@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 972,
+  "paperCount": 982,
   "papers": [
+    {
+      "slug": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he",
+      "file": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+      "permalink": "/democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+      "sortKey": 202607040010,
+      "titleHe": "חשיפה ממושכת לאלימות פוליטית בקרב מתבגרים יהודים וערבים",
+      "paperTitle": "Adolescents Exposed to 7 Years of Political Violence: Differential Relations Between Exposure and Its Impact for Jewish and Arab Israelis",
+      "authorsCardHe": "Michelle Slone; Tomer Shechner",
+      "sourceAuthors": [
+        "Michelle Slone",
+        "Tomer Shechner"
+      ],
+      "journal": "Child Indicators Research",
+      "dateText": "פורסם: 2011",
+      "doiUrl": "https://doi.org/10.1007/s12187-011-9110-x",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.jpg",
+        "altHe": "מתבגרים יהודים וערבים יושבים עם יועצת בבית ספר סביב שאלוני מחקר לא קריאים ודנים בחוויות חשיפה לאלימות פוליטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר בוחן מתבגרים ישראלים יהודים וערבים שגדלו בסביבת הסכסוך הישראלי־פלסטיני לאורך שבע שנות האינתיפאדה השנייה, בין 1998 ל־2004. לפי תקציר המו״ל, מטרת המחקר הראשונה הייתה לתאר חשיפה לאלימות פוליטית ואת ההשפעה שיוחסה לה, והמטרה השנייה הייתה לבחון הבדלים בין קבוצות אתניות לאורך שלוש תקופות: לפני שיא האינתיפאדה, בזמן השיא ובתקופת דעיכה. המחקר כלל 3,800 מתבגרים שמילאו שאלון אירועי חיים פוליטיים, אשר הניב מדדי חשיפה אובייקטיבית והשפעה סובייקטיבית. הממצאים המתוארים בתקציר מראים שהחשיפה הגיעה לשיא בתקופת השיא, אך עלייה בחשיפה לא לוותה בהכרח בעלייה בהשפעה, וכי נמצאו הבדלים בין יהודים לערבים גם ברמת החשיפה וגם בדפוסי ההשפעה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he",
+      "file": "democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.html",
+      "permalink": "/democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.html",
+      "sortKey": 202607040009,
+      "titleHe": "צדק סביבתי חלוקתי ונגישות לגנים בערים מעורבות בישראל",
+      "paperTitle": "Distributive Environmental Justice in the City: Differential Access in Two Mixed Israeli Cities",
+      "authorsCardHe": "Itzhak Omer; Udi Or",
+      "sourceAuthors": [
+        "Itzhak Omer",
+        "Udi Or"
+      ],
+      "journal": "Tijdschrift voor Economische en Sociale Geografie",
+      "dateText": "פורסם: 2005",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9663.2005.00474.x",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_distributive_environmental_justice_mixed_israeli_cities_summary_he.jpg",
+        "altHe": "תושבים ומתכננים עירוניים בוחנים מודל ומפות של פארקים ושבילים בעיר מעורבת בישראל כדי לדון בנגישות לשטחים ירוקים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר של יצחק עומר ואודי אור עוסק בצדק סביבתי חלוקתי ובוחן נגישות לשטחים ירוקים בערים המעורבות רמלה ולוד. לפי התקציר, נחיתות חברתית־כלכלית של המיעוט הערבי והקצאה לא שוויונית של משאבים בין יישובים יהודיים וערביים הן עובדות מוכרות, אך עד למחקר זה לא הייתה עדות מספקת לשאלה אם אי־שוויון כזה מתקיים גם בתוך ערים מעורבות. המחקר משתמש בנתונים ברזולוציה גבוהה על אוכלוסייה ותשתיות ומראה שהמיעוט הערבי בערים אלה נהנה מנגישות נמוכה בהרבה לשטחים ירוקים לעומת הרוב היהודי. הממצאים מוצגים כבסיס לדיון ציבורי, לתכנון מאוזן יותר ולהעצמת מיעוטים וארגוני חברה אזרחית נגד אי־שוויון מרחבי וחברתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_pastoral_nomads_public_education_negev_bedouin_summary_he",
+      "file": "democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.html",
+      "permalink": "/democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.html",
+      "sortKey": 202607040008,
+      "titleHe": "חינוך ציבורי לבדואי הנגב בין פיתוח לשליטה מוסדית",
+      "paperTitle": "Pastoral Nomads and the Dialectics of Development and Modernization: Delivering Public Educational Services to the Israeli Negev Bedouin",
+      "authorsCardHe": "Avinoam Meir",
+      "sourceAuthors": [
+        "Avinoam Meir"
+      ],
+      "journal": "Environment and Planning D: Society and Space",
+      "dateText": "פורסם: 1986",
+      "doiUrl": "https://doi.org/10.1068/d040085",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pastoral_nomads_public_education_negev_bedouin_summary_he.jpg",
+        "altHe": "הורים, תלמידים, מורה ועובד חינוך ציבורי יושבים במרכז שירות חינוכי בנגב ודנים בנגישות לבית ספר בקהילה בדואית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר של אבינועם מאיר עוסק ברועים נוודים באפריקה ובמזרח התיכון שנכנסו למגע גובר עם ממשלות דרך תהליכי התיישבות ומודרניזציה, ומתמקד במקרה של שירותי חינוך ציבוריים לבדואי הנגב בישראל. לפי התקציר, תהליכים אלה יכולים להפוך קבוצות נוודיות לתלויות במוצרים ציבוריים, וכך להעניק למדינות כלים מניפולטיביים של שליטה פוליטית. החינוך הציבורי מוצג ככלי מרכזי במיוחד בהקשר הזה. מבחינה דמוקרטית, המאמר מזמין קריאה כפולה של שירות ציבורי: הוא יכול להרחיב הזדמנויות וזכויות, אך גם לשמש מנגנון של פיקוח ועיצוב חברתי אם אינו בנוי על שיתוף, התאמה וכבוד לקהילה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he",
+      "file": "democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.html",
+      "permalink": "/democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.html",
+      "sortKey": 202607040007,
+      "titleHe": "פלורליזם חברתי־אתני בבתי ספר תיכוניים ערביים בישראל",
+      "paperTitle": "Encouraging Socio-Ethnic Pluralism in Arab High Schools in Israel: Perspective of the Headmasters and Educational Staff",
+      "authorsCardHe": "Muhammad Suwaed",
+      "sourceAuthors": [
+        "Muhammad Suwaed"
+      ],
+      "journal": "International Education Studies",
+      "dateText": "פורסם: 2014",
+      "doiUrl": "https://doi.org/10.5539/ies.v7n4p86",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_socio_ethnic_pluralism_arab_high_schools_israel_summary_he.jpg",
+        "altHe": "מנהל, מורות ותלמידים יושבים במעגל דיאלוג בכיתה בבית ספר תיכון ערבי בגליל ומקדמים פלורליזם חברתי־אתני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר בוחן בתי ספר תיכוניים ערביים בגליל, בישראל, שמעסיקים ומשרתים אוכלוסייה מעורבת של מוסלמים ונוצרים. לפי התקציר, המחקר מציג את נקודת המבט של מנהלים וצוותים חינוכיים, מתאר מאמצים לקרב בין קבוצות, בוחן תוכניות חינוכיות פנימיות וחיצוניות, ומנתח את תפקיד המנהלים והצוות המוביל בקידום שינוי חברתי. הממצאים המתוארים בתקציר מצביעים על הבדלים משמעותיים בתפיסת המצב בין נציגי רוב ומיעוט בכל כפר, ועל כך שהתלמידים אינם נחשפים דיים לתרבויות זו של זו ומושפעים מתפיסות שגויות או שטחיות. מבחינה דמוקרטית, המאמר מציב את בית הספר כזירה לבניית פלורליזם, סובלנות וחופש בחירה בתוך חברה מגוונת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_bedouin_arab_women_higher_education_barriers_summary_he",
+      "file": "democracy_bedouin_arab_women_higher_education_barriers_summary_he.html",
+      "permalink": "/democracy_bedouin_arab_women_higher_education_barriers_summary_he.html",
+      "sortKey": 202607040006,
+      "titleHe": "נשים בדואיות־ערביות מול חסמי ההשכלה הגבוהה בישראל",
+      "paperTitle": "Confronting Barriers to the Participation of Bedouin-Arab Women in Israeli Higher Education",
+      "authorsCardHe": "Ismael Abu-Saad; Tamar Horowitz; Kathleen Abu-Saad",
+      "sourceAuthors": [
+        "Ismael Abu-Saad",
+        "Tamar Horowitz",
+        "Kathleen Abu-Saad"
+      ],
+      "journal": "Literacy Information and Computer Education Journal",
+      "dateText": "פורסם: 2017",
+      "doiUrl": "https://doi.org/10.20533/licej.2040.2589.2017.0365",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bedouin_arab_women_higher_education_barriers_summary_he.jpg",
+        "altHe": "סטודנטיות בדואיות־ערביות יושבות עם יועצת אקדמית בחדר סמינר בנגב ודנות בדרכי השתתפות בהשכלה גבוהה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר עוסק בנשים בדואיות־ערביות מן הנגב ובהשתתפותן בהשכלה גבוהה בישראל. לפי התקציר, הבדואים בנגב הם חלק מן המיעוט הפלסטיני־ערבי הילידי בישראל, שעברו תהליך עיור מהיר ואובדן של כלכלה מסורתית המבוססת על מרעה וחקלאות עונתית. שינויים אלה חייבו עיצוב מחדש של תפקיד האישה הבדואית בחיי הקהילה. ממצאי המחקר המתוארים בתקציר מצביעים על כך שנשים בדואיות בהשכלה הגבוהה הפגינו חוסן וסוכנות, השתתפו במודרניזציה של מסורות בדואיות ובאינדיגניזציה של מודרניות מערבית, וחוו את ההשכלה הגבוהה כדרך חיונית להתפתחות אישית וקהילתית למרות חסמים רבים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_children_disabilities_human_rights_israel_summary_he",
+      "file": "democracy_children_disabilities_human_rights_israel_summary_he.html",
+      "permalink": "/democracy_children_disabilities_human_rights_israel_summary_he.html",
+      "sortKey": 202607040005,
+      "titleHe": "זכויות ילדים עם מוגבלויות בישראל בין חזון ליישום",
+      "paperTitle": "Human Rights of Children with Disabilities in Israel - The Vision and the Reality",
+      "authorsCardHe": "Dina Feldman",
+      "sourceAuthors": [
+        "Dina Feldman"
+      ],
+      "journal": "Disability Studies Quarterly",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.18061/dsq.v29i1.172",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_children_disabilities_human_rights_israel_summary_he.jpg",
+        "altHe": "ילדים עם מוגבלויות, הורים ואנשי חינוך משתתפים יחד בפעילות בבית ספר נגיש ומכליל בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר של דינה פלדמן עוסק בזכויות ילדים עם מוגבלויות בישראל על רקע אמנת זכויות הילד ואמנת זכויות אנשים עם מוגבלויות. לפי התקציר, כ־8.7% מן הילדים בישראל מתמודדים עם אתגרים תפקודיים, מוגבלויות או מחלות כרוניות הדורשות טיפול רפואי או לא רפואי מתמשך. המאמר מתאר את החזון הבינלאומי של חיים מלאים ומכובדים בקהילה, עם משפחה, חופש ביטוי, השתתפות והזדמנויות שוות, ובוחן את המצב בישראל בתחומי חיים, משפחה, חינוך, בריאות ונגישות. מסקנת התקציר היא שישראל השקיעה רבות בחקיקה, תקציבים ושירותים, אך עדיין מתקשה להשלים מעבר מעשי למודל זכויות האדם של מוגבלות, במיוחד בפריפריה חברתית וגאוגרפית ובחינוך מכליל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_gay_rights_israel_new_era_summary_he",
+      "file": "democracy_gay_rights_israel_new_era_summary_he.html",
+      "permalink": "/democracy_gay_rights_israel_new_era_summary_he.html",
+      "sortKey": 202607040004,
+      "titleHe": "זכויות להט״ב בישראל לאחר פרשת אל־על",
+      "paperTitle": "Gay Rights in Israel: A New Era?",
+      "authorsCardHe": "Alon Harel",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "International Journal of Discrimination and the Law",
+      "dateText": "פורסם: 1996",
+      "doiUrl": "https://doi.org/10.1177/135822919600100304",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gay_rights_israel_new_era_summary_he.jpg",
+        "altHe": "בני זוג מאותו מין ועורך דין יושבים בחדר ייעוץ משפטי אזרחי ודנים בתיק שוויון זכויות בעבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר של אלון הראל בוחן את פרשת אל־על, שבה דייל ביקש להרחיב הטבות לבן זוגו מאותו מין, כמפגש ראשון של בית המשפט העליון עם זכויות מיעוטים מיניים. לפי התקציר, המקרה הופיע לאחר שינויים משפטיים מהירים: ביטול הפללת יחסי מין בין גברים בשנת 1988, תיקון חוק שוויון הזדמנויות בעבודה בשנת 1992 שאסר הפליה בשל נטייה מינית, ושינויים משפטיים נוספים פחות בולטים. המאמר מנתח את פסק הדין, את האפשרות להשתמש בו להרחבת זכויות, ואת התחומים שבהם נדרשות רפורמות נוספות. מבחינה דמוקרטית, הוא מראה כיצד זכויות מיעוט מתקדמות דרך שילוב של חקיקה, פסיקה ואסטרטגיה משפטית תחת מגבלות פוליטיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he",
+      "file": "democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.html",
+      "permalink": "/democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.html",
+      "sortKey": 202607040003,
+      "titleHe": "משבר המיעוטים במדינה אתנית והאזרחים הפלסטינים בישראל",
+      "paperTitle": "The Crisis of Minorities in Ethnic States: The Case of Palestinian Citizens in Israel",
+      "authorsCardHe": "Nadim N. Rouhana; As’ad Ghanem",
+      "sourceAuthors": [
+        "Nadim N. Rouhana",
+        "As’ad Ghanem"
+      ],
+      "journal": "International Journal of Middle East Studies",
+      "dateText": "פורסם: 1998",
+      "doiUrl": "https://doi.org/10.1017/s0020743800066204",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_crisis_minorities_ethnic_states_palestinian_citizens_israel_summary_he.jpg",
+        "altHe": "פעילים ואנשי ציבור ערבים יושבים סביב שולחן עם מסמכים ומפות במרחב אזרחי מול מבנה מוסדי ישראלי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר של נדימ נ׳ רוחאנא ואסעד גאנם עוסק במשבר המיעוטים במדינות אתניות, ומתמקד באזרחים הפלסטינים בישראל. לפי תקציר המו״ל, נקודת המוצא היא שרוב המדינות בעולם, דמוקרטיות ולא דמוקרטיות, הן רב־אתניות, ושמדינה רב־אתנית ליברלית־דמוקרטית אמורה לשרת את הצרכים הקולקטיביים של כל אזרחיה ללא תלות בשיוך אתני. אזרחות, במובן זה, אמורה להיות הקריטריון היחיד לשייכות למדינה ולהזדמנות שווה. המאמר חשוב לדיון הישראלי משום שהוא מציב את המתח בין מבנה אתני של המדינה לבין הבטחת שוויון אזרחי וזכויות מיעוטים כבעיה חוקתית ופוליטית מרכזית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_universities_druze_women_identity_transitions_higher_education_summary_he",
+      "file": "democracy_universities_druze_women_identity_transitions_higher_education_summary_he.html",
+      "permalink": "/democracy_universities_druze_women_identity_transitions_higher_education_summary_he.html",
+      "sortKey": 202607040002,
+      "titleHe": "אוניברסיטה כמפגש משנה זהות לנשים דרוזיות ראשונות בהשכלה הגבוהה",
+      "paperTitle": "Universities as a meeting point with new academic knowledge, society and culture: cognitive and emotional transitions during higher education",
+      "authorsCardHe": "Naomi Weiner-Levy",
+      "sourceAuthors": [
+        "Naomi Weiner-Levy"
+      ],
+      "journal": "Cambridge Journal of Education",
+      "dateText": "פורסם: 2008",
+      "doiUrl": "https://doi.org/10.1080/03057640802484740",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_universities_druze_women_identity_transitions_higher_education_summary_he.jpg",
+        "altHe": "סטודנטיות דרוזיות יושבות בסמינר אוניברסיטאי עם מחברות וחומרי לימוד ודנות בזהות, ידע והשכלה גבוהה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר בוחן את חוויותיהן של נשים דרוזיות שהיו הראשונות בקהילה או בכפר שלהן ללמוד באוניברסיטה, ושואל כיצד מפגש עם תרבות אקדמית, ידע חדש ופרקטיקות יומיומיות השפיע על זהותן. לפי התקציר, המרחק הגיאוגרפי הקצר בין הכפרים הדרוזיים לאוניברסיטה התגלה כמסע חברתי ורגשי ארוך בהרבה מן הצפוי. המחקר נשען על 34 ראיונות ומראה שהאוניברסיטה העניקה לנשים כלים להעריך מחדש זהויות, תפקידים ונורמות. מבחינה דמוקרטית, המאמר ממקם השכלה גבוהה לא רק כערוץ מוביליות אישי, אלא גם כזירה שבה מיעוטים ונשים מנהלים משא ומתן עם שייכות, חירות אישית ושינוי חברתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he",
+      "file": "democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.html",
+      "permalink": "/democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.html",
+      "sortKey": 202607040001,
+      "titleHe": "הפליה וסטיגמה במימוש גמלת סיעוד בקרב ערבים ויהודים בצפון ישראל",
+      "paperTitle": "Perceived Discrimination and Stigma in the Context of the Long-Term Care Insurance Law from the Perspectives of Arabs and the Jews in the North of Israel",
+      "authorsCardHe": "Liat Ayalon",
+      "sourceAuthors": [
+        "Liat Ayalon"
+      ],
+      "journal": "International Journal of Environmental Research and Public Health",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.3390/ijerph16193511",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_perceived_discrimination_stigma_long_term_care_arab_jewish_israel_summary_he.jpg",
+        "altHe": "זקנים ערבים ויהודים, בני משפחה ועובדי שירות ציבורי יושבים סביב שולחן במשרד קהילתי ודנים במימוש זכויות סיעוד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "summaryHe": "המאמר עוסק בחוק ביטוח סיעוד, המספק תמיכה לזקנים בישראל המבקשים להישאר בביתם, ובוחן את חוויית ההפליה והסטיגמה סביב מימוש הזכאות בצפון ישראל. לפי התקציר, המחקר התבסס על ראיונות עם עובדי המוסד לביטוח לאומי, זקנים, בני משפחה ומטפלות בית, ובחן את המפגש עם מערכת השירות. ארבעה דפוסים מרכזיים עלו: תחושת הפליה חזקה בקרב מרואיינים ערבים, הפנמת סטיגמה אצל חלקם, טענות משתמעות כלפי ערבים כמי שמרמים את המערכת, ושלילה כמעט מוחלטת של הפליה מצד מרואיינים יהודים ועובדי מוסד. מבחינה דמוקרטית, המאמר מדגיש ששוויון בשירותי רווחה אינו נמדד רק בכללי זכאות, אלא גם באמון, בכבוד ובדרך שבה קבוצות רוב ומיעוט מפרשות את אותה מערכת ציבורית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he",
       "file": "democracy_intersectionality_underrepresentation_arab_physicians_israel_summary_he.html",

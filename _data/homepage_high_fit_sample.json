@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-04",
   "sampleSize": 6,
-  "seed": "2026-07-03-homepage-high-fit",
+  "seed": "2026-07-04-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 346,
+  "highFitPaperCount": 356,
   "paperSlugs": [
-    "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he",
-    "democracy_misinformation_propaganda_wartime_israel_gaza_war_summary_he",
-    "democracy_public_private_property_rights_growth_summary_he",
-    "democracy_mk_discursive_reactions_social_protest_2011_summary_he",
-    "democracy_equitable_burden_sharing_israel_national_defense_summary_he",
-    "democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he"
+    "democracy_education_for_democracy_israel_structural_impediments_summary_he",
+    "democracy_government_opposition_relations_no_confidence_summary_he",
+    "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he",
+    "democracy_regime_style_reality_tv_populism_israel_summary_he",
+    "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he",
+    "democracy_esther_hayut_israeli_constitutional_crises_summary_he"
   ]
 }

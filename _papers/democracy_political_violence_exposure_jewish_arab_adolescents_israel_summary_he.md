@@ -1,0 +1,151 @@
+---
+{
+  "version": 1,
+  "file": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+  "slug": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he",
+  "order": 202607040010,
+  "titleHe": "חשיפה ממושכת לאלימות פוליטית בקרב מתבגרים יהודים וערבים",
+  "subtitleHe": "",
+  "descriptionHe": "המאמר מתאר חשיפה לאלימות פוליטית ואת השפעתה הסובייקטיבית בקרב מתבגרים יהודים וערבים בישראל לאורך תקופות שונות של האינתיפאדה השנייה. הוא מבחין בין רמת החשיפה האובייקטיבית לבין האופן שבו בני נוער מייחסים לה השפעה.",
+  "summaryHe": "המאמר בוחן מתבגרים ישראלים יהודים וערבים שגדלו בסביבת הסכסוך הישראלי־פלסטיני לאורך שבע שנות האינתיפאדה השנייה, בין 1998 ל־2004. לפי תקציר המו״ל, מטרת המחקר הראשונה הייתה לתאר חשיפה לאלימות פוליטית ואת ההשפעה שיוחסה לה, והמטרה השנייה הייתה לבחון הבדלים בין קבוצות אתניות לאורך שלוש תקופות: לפני שיא האינתיפאדה, בזמן השיא ובתקופת דעיכה. המחקר כלל 3,800 מתבגרים שמילאו שאלון אירועי חיים פוליטיים, אשר הניב מדדי חשיפה אובייקטיבית והשפעה סובייקטיבית. הממצאים המתוארים בתקציר מראים שהחשיפה הגיעה לשיא בתקופת השיא, אך עלייה בחשיפה לא לוותה בהכרח בעלייה בהשפעה, וכי נמצאו הבדלים בין יהודים לערבים גם ברמת החשיפה וגם בדפוסי ההשפעה.",
+  "summarySourceStatus": "Based on abstract only",
+  "authorsCardHe": "Michelle Slone; Tomer Shechner",
+  "paperTitle": "Adolescents Exposed to 7 Years of Political Violence: Differential Relations Between Exposure and Its Impact for Jewish and Arab Israelis",
+  "authorsHtml": "<a href=\"https://cris.tau.ac.il/en/persons/michelle-slone/\" target=\"_blank\" rel=\"noopener noreferrer\">Michelle Slone</a>; <a href=\"https://cris.haifa.ac.il/en/persons/tomer-shechner/\" target=\"_blank\" rel=\"noopener noreferrer\">Tomer Shechner</a>",
+  "journal": "Child Indicators Research",
+  "dateText": "פורסם: 2011",
+  "doiUrl": "https://doi.org/10.1007/s12187-011-9110-x",
+  "doiLabel": "https://doi.org/10.1007/s12187-011-9110-x",
+  "authors": [
+    {
+      "@type": "Person",
+      "name": "Michelle Slone",
+      "url": "https://cris.tau.ac.il/en/persons/michelle-slone/"
+    },
+    {
+      "@type": "Person",
+      "name": "Tomer Shechner",
+      "url": "https://cris.haifa.ac.il/en/persons/tomer-shechner/"
+    }
+  ],
+  "sourceAuthors": [
+    {
+      "@type": "Person",
+      "name": "Michelle Slone",
+      "url": "https://cris.tau.ac.il/en/persons/michelle-slone/"
+    },
+    {
+      "@type": "Person",
+      "name": "Tomer Shechner",
+      "url": "https://cris.haifa.ac.il/en/persons/tomer-shechner/"
+    }
+  ],
+  "topics": [
+    "rights-equality-minorities",
+    "public-opinion-polarization-violence"
+  ],
+  "keywords": [
+    "אלימות פוליטית",
+    "מתבגרים",
+    "יהודים וערבים",
+    "האינתיפאדה השנייה",
+    "חשיפה אובייקטיבית",
+    "השפעה סובייקטיבית",
+    "בריאות נפשית",
+    "סכסוך",
+    "קבוצות אתניות",
+    "ישראל"
+  ],
+  "image": {
+    "src": "html_qa/democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.jpg",
+    "version": "2026-07-04-nightly",
+    "altHe": "מתבגרים יהודים וערבים יושבים עם יועצת בבית ספר סביב שאלוני מחקר לא קריאים ודנים בחוויות חשיפה לאלימות פוליטית",
+    "fitness": "high",
+    "fitnessSource": "nightly_generated_specific"
+  },
+  "datePublished": "2026-07-04",
+  "dateModified": "2026-07-04",
+  "lastUpdatedHe": "4 ביולי 2026",
+  "oneLinerHtml": "המאמר מבחין בין <strong>חשיפה לאלימות פוליטית</strong> לבין ההשפעה הסובייקטיבית שלה, ומראה שהקשר ביניהן שונה בקרב מתבגרים יהודים וערבים.",
+  "sections": [
+    {
+      "headingHe": "חשיפה והשפעה אינן אותו דבר",
+      "paragraphsHtml": [
+        "המאמר מבחין בין אירועים שאליהם המתבגר נחשף לבין המשמעות וההשפעה שהוא מייחס להם. ההבחנה הזאת חשובה משום שהיא מראה שפגיעה חברתית אינה נמדדת רק בכמות אירועים."
+      ]
+    },
+    {
+      "headingHe": "מושגי יסוד בקצרה",
+      "paragraphsHtml": [
+        "<strong>אלימות פוליטית</strong> היא אלימות שמקורה בסכסוך, מאבק כוח או פעולה פוליטית, והיא משפיעה גם על מי שאינם משתתפים בה ישירות. במאמר הזה היא נבחנת דרך חיי מתבגרים יהודים וערבים בתקופות שונות של האינתיפאדה השנייה."
+      ]
+    },
+    {
+      "headingHe": "מי השתתף במחקר?",
+      "paragraphsHtml": [
+        "לפי תקציר המו״ל, המחקר כלל 3,800 מתבגרים יהודים וערבים בישראל. המשתתפים נדגמו בעיצוב חתך בשלוש תקופות חשיפה, ולכן המחקר מאפשר להשוות דפוסים לאורך זמן ולא רק לתאר רגע אחד."
+      ]
+    },
+    {
+      "headingHe": "אילו תקופות נבדקו?",
+      "paragraphsHtml": [
+        "המחקר הבחין בין תקופה מקדימה, שיא האינתיפאדה ותקופת דעיכה. החלוקה הזאת מאפשרת לבדוק האם שינוי בעוצמת הסכסוך בסביבה מתורגם באופן דומה לחוויית בני הנוער."
+      ]
+    },
+    {
+      "headingHe": "מהו שאלון אירועי חיים פוליטיים?",
+      "paragraphsHtml": [
+        "לפי התקציר, המשתתפים מילאו שאלון Political Life Events שהפיק מדדי חשיפה אובייקטיבית והשפעה סובייקטיבית. הכלי הזה חשוב משום שהוא מפריד בין קרבה לאירועים לבין התחושה שהאירועים משפיעים על החיים."
+      ]
+    },
+    {
+      "headingHe": "מה קרה לחשיפה לאורך התקופות?",
+      "paragraphsHtml": [
+        "התקציר מציין שכצפוי, החשיפה הגיעה לשיא בתקופת שיא האינתיפאדה. עם זאת, העלייה בחשיפה לא לוותה בהכרח בעלייה מקבילה בהשפעה הסובייקטיבית."
+      ]
+    },
+    {
+      "headingHe": "למה הפער בין חשיפה להשפעה חשוב?",
+      "paragraphsHtml": [
+        "הפער מלמד שחוויית אלימות פוליטית עוברת דרך זהות, הקשר חברתי, פרשנות ומשאבי התמודדות. לכן מדיניות רווחה וחינוך אינה יכולה להסתמך רק על מפת אירועים ביטחוניים."
+      ]
+    },
+    {
+      "headingHe": "אילו הבדלים נמצאו בין יהודים לערבים?",
+      "paragraphsHtml": [
+        "לפי התקציר, נמצאו הבדלים בין הקבוצות גם בחשיפה האובייקטיבית וגם בהשפעה הסובייקטיבית ובדפוסיהן לאורך הזמן. ההבדלים נדונים במאמר מזווית תרבותית, פוליטית־אידיאולוגית והתפתחותית."
+      ]
+    },
+    {
+      "headingHe": "מהי המשמעות הדמוקרטית של המחקר?",
+      "paragraphsHtml": [
+        "ילדים ובני נוער מקבוצות שונות חווים את אותו סכסוך דרך מיקומים חברתיים שונים. דמוקרטיה שמבקשת להגן על אזרחיה צריכה להבין את הפערים האלה במקום להניח חוויה לאומית אחידה."
+      ]
+    },
+    {
+      "headingHe": "איך המאמר קשור לשירותי חינוך ורווחה?",
+      "paragraphsHtml": [
+        "בתי ספר, יועצים ושירותי רווחה צריכים לזהות שגם חשיפה דומה יכולה לקבל משמעות אחרת בקבוצות שונות. התערבות טובה צריכה להיות רגישה לזהות, לשפה, לקהילה ולתחושת שייכות."
+      ]
+    },
+    {
+      "headingHe": "מה אסור להסיק מן הממצאים?",
+      "paragraphsHtml": [
+        "אין להסיק שקבוצה אחת בהכרח נפגעת יותר בכל מצב או שכל בני הנוער בתוך קבוצה מגיבים אותו דבר. המאמר מדגיש דפוסים קבוצתיים, אך עצם ההבחנה בין חשיפה להשפעה מזכירה שהחוויה מורכבת."
+      ]
+    },
+    {
+      "headingHe": "איזו שאלה נשארת פתוחה?",
+      "paragraphsHtml": [
+        "השאלה היא כיצד בונים מדיניות תמיכה שמכירה בהבדלים אתניים בלי להנציח הפרדה או סטיגמה. תשובה דמוקרטית צריכה לשלב הגנה אוניברסלית על ילדים עם התאמה לקהילות שחוות את הסכסוך בדרכים שונות."
+      ]
+    }
+  ],
+  "layout": "paper",
+  "title": "חשיפה ממושכת לאלימות פוליטית בקרב מתבגרים יהודים וערבים",
+  "permalink": "/democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+  "paper_url": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
+  "sortKey": 202607040010,
+  "sourcePublishedDate": "2011-02-22"
+}
+---
