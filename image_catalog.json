@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04",
+  "lastUpdated": "2026-07-05",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24573,6 +24573,249 @@
       "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
       "qualityNotes": "Polished civic documentary/editorial image, 800x600, no readable text, no logos, no watermarks; generated for a specific article-image tuple.",
       "fitness": "high"
+    },
+    {
+      "file": "html_qa/democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.html",
+      "usedBy": [
+        "democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.html"
+      ],
+      "cardTitleHe": "נגישות להשכלה גבוהה וצמצום פערי שכר בקרב ערבים בישראל",
+      "authorsHe": "Albert Yirmiyahu; Ofir D. Rubin; Miki Malul",
+      "visualDescriptionHe": "מבט אווירי על קמפוס אוניברסיטאי בבאר שבע כסמל לנגישות להשכלה גבוהה ולפערים אזרחיים",
+      "semanticDescriptionHe": "המאמר בוחן כיצד הרחבת הנגישות להשכלה גבוהה בעקבות חוק המכללות האקדמיות השפיעה על המיעוט הערבי בישראל. הוא קושר בין פתיחת מסלולי לימוד לבין פוטנציאל השתכרות ומציג השכלה גבוהה כמנגנון מוסדי לצמצום אי־שוויון.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "higher_education_access_wage_inequality_arab_minority_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ben_Gurion_university_and_Health_sciences_campus.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ben_Gurion_university_and_Health_sciences_campus.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Omer berner",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_jewish_arab_relations_adolescence_perspective_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_jewish_arab_relations_adolescence_perspective_summary_he.html",
+      "usedBy": [
+        "democracy_jewish_arab_relations_adolescence_perspective_summary_he.html"
+      ],
+      "cardTitleHe": "יחסי יהודים וערבים בישראל דרך מבט של מתבגרים",
+      "authorsHe": "Rachel Seginer",
+      "visualDescriptionHe": "תלמידים יהודים וערבים יושבים במעגל שיחה בבית ספר ודנים בתקוות ופחדים לעתיד ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר מנתח תקוות ופחדים של תלמידי תיכון יהודים וערבים בישראל ומראה כיצד יחסים בין־קבוצתיים נכנסים לדמיון העתידי של בני נוער. הוא מדגיש שלום, מלחמה, יחס לרשויות ושאלות קולקטיביות כמרכיבים של אזרחות בגיל ההתבגרות.",
+      "tags": [
+        "rights-equality-minorities",
+        "jewish_arab_relations_adolescence_perspective"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.html",
+      "usedBy": [
+        "democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.html"
+      ],
+      "cardTitleHe": "הקליניקה הפתוחה בין הומניטריות רפואית לזכויות אדם",
+      "authorsHe": "Nora Gottlieb; Dani Filc; Nadav Davidovitch",
+      "visualDescriptionHe": "חדר המתנה במרפאה קהילתית צנועה עם מתנדב רפואי ומטופלים סביב טפסים לא קריאים",
+      "semanticDescriptionHe": "המאמר מנתח את הקליניקה הפתוחה בישראל כמקרה מבחן למתח בין סיוע רפואי הומניטרי, זכויות אדם וסנגור פוליטי עבור מהגרים ואוכלוסיות מודרות. הוא שואל מתי שירות של ארגון אזרחי ממלא חלל חיוני ומתי הוא עלול להכשיר את נסיגת המדינה מאחריות חברתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "medical_humanitarianism_human_rights_israeli_open_clinic"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_both_arab_and_woman_palestinian_women_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_both_arab_and_woman_palestinian_women_israel_summary_he.html",
+      "usedBy": [
+        "democracy_both_arab_and_woman_palestinian_women_israel_summary_he.html"
+      ],
+      "cardTitleHe": "להיות גם ערבייה וגם אישה בחוויות היומיום של אזרחיות פלסטיניות בישראל",
+      "authorsHe": "Hanna Herzog",
+      "visualDescriptionHe": "קבוצת נשים יושבת לשיחה במרחב קהילתי ואקדמי חם ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר משתמש בעדשה פמיניסטית ופוסט־קולוניאלית כדי לנתח את חוויות היומיום של נשים פלסטיניות משכילות אזרחיות ישראל. הוא מדגיש כיצד מגדר, לאומיות, מעמד, דת ואתניות יוצרים מרחב ביניים שבו נשים מנהלות זהויות מורכבות ומאתגרות קטגוריות חברתיות.",
+      "tags": [
+        "rights-equality-minorities",
+        "both_arab_and_woman_palestinian_women_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.html",
+      "usedBy": [
+        "democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.html"
+      ],
+      "cardTitleHe": "סדנאות מפגש יהודי־ערבי לנוער בגישה לויניאנית",
+      "authorsHe": "David Bargal; Haviva Bar",
+      "visualDescriptionHe": "סדנת נוער יהודי־ערבי במעגל כיסאות עם מנחים ולוח פתקים לא קריאים",
+      "semanticDescriptionHe": "המאמר מיישם מושגים מתורת השדה של קורט לוין לתכנון ולניתוח סדנאות ניהול קונפליקט בין נוער ערבי־פלסטיני ויהודי בישראל. הוא מחבר זהות אתנית, שינוי אישי בתוך קבוצה ומחקר פעולה כדי להבין מתי מפגש בין־קבוצתי יכול לשנות עמדות ותקשורת.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "lewinian_intergroup_workshops_arab_jewish_youth"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.html",
+      "usedBy": [
+        "democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.html"
+      ],
+      "cardTitleHe": "תמיכה חברתית ומצוקה נפשית בקרב זקנים בדואים בישראל",
+      "authorsHe": "Sarah Abu‐Kaf; Ora Nakash; Tsahi Hayat; Michal Cohen",
+      "visualDescriptionHe": "זקנים בדואים ואשת קהילה יושבים בחצר מוצלת לשיחה על תמיכה ובריאות נפש ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר בוחן הבדלים מגדריים בתמיכה חברתית ובמצוקה נפשית בקרב זקנים בדואים ערבים בישראל. הוא מראה כיצד סוגי תמיכה שונים קשורים למצוקה באופן שונה אצל נשים וגברים, ומדגיש את חשיבות הרגישות המגדרית בשירותים חברתיים ובריאותיים למיעוטים.",
+      "tags": [
+        "rights-equality-minorities",
+        "social_support_psychological_distress_bedouin_elderly_gender"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_invention_of_nation_druze_in_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_invention_of_nation_druze_in_israel_summary_he.html",
+      "usedBy": [
+        "democracy_invention_of_nation_druze_in_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות דרוזית בישראל בין קהילה, ערביות ואזרחות ישראלית",
+      "authorsHe": "Rabah Halabi",
+      "visualDescriptionHe": "נוף רחב בדאלית אל־כרמל כסמל למרחב קהילתי דרוזי בישראל ולשאלות זהות ושייכות",
+      "semanticDescriptionHe": "המאמר מנתח את הזהות הדרוזית בישראל כתוצר של משא ומתן בין הקהילה, המדינה, קבוצות הרוב וקבוצות ערביות אחרות. על בסיס ראיונות עם סטודנטים דרוזים, הוא מציג זהות רב־שכבתית הנעה בין דם, ערביות מופחתת ואזרחות ישראלית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "invention_of_nation_druze_in_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Daliyat_al-Karmel_-_%D7%93%D7%90%D7%9C%D7%99%D7%AA_%D7%90%D7%9C-%D7%9B%D7%A8%D7%9E%D7%9C_(6156326162).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Daliyat_al-Karmel_-_%D7%93%D7%90%D7%9C%D7%99%D7%AA_%D7%90%D7%9C-%D7%9B%D7%A8%D7%9E%D7%9C_%286156326162%29.jpg",
+      "license": "CC BY 2.0",
+      "creator": "RonAlmog from Israel",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.html",
+      "usedBy": [
+        "democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.html"
+      ],
+      "cardTitleHe": "זהות מזרחית כמקור תרבותי במעמד הביניים הישראלי",
+      "authorsHe": "Guy Abutbul-Selinger",
+      "visualDescriptionHe": "מתבגרים ומשפחה במרחב ביתי־מעמדי חם משוחחים על זהות ושייכות ללא טקסט קריא",
+      "semanticDescriptionHe": "המאמר בוחן כיצד מתבגרים ממשפחות מזרחיות במעמד הביניים בישראל מייחסים משמעות חיובית לזהות אתנית. במקום לראות הזדהות מיעוטית רק כהתנגדות או כהפנמת נחיתות, הוא מציג אותה כמשאב תרבותי של ביטחון, אותנטיות ושייכות.",
+      "tags": [
+        "rights-equality-minorities",
+        "minority_ethnic_identity_cultural_resource_israeli_middle_class"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.html",
+      "usedBy": [
+        "democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.html"
+      ],
+      "cardTitleHe": "עמדות יהודים בישראל כלפי ארגוני זכויות אדם ופטריוטיות",
+      "authorsHe": "Julia Chaitin; Sharon Steinberg; Shoshana Steinberg",
+      "visualDescriptionHe": "קבוצת דיון אזרחית סביב שאלוני מחקר לא קריאים על ארגוני זכויות ופטריוטיות",
+      "semanticDescriptionHe": "המאמר בוחן כיצד יהודים בישראל תופסים פעילות של ארגוני זכויות אדם ואת הקשר בינה לבין פטריוטיות. על בסיס שאלון ל־503 משתתפים וניתוח תגובות כתובות, הוא מציג קשר טעון בין נטייה פוליטית, חילוניות, השכלה ורגשות שליליים כלפי אקטיביזם זכויות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "jewish_israeli_attitudes_human_rights_organizations_patriotism"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שוליות חברתית־כלכלית והעדפות פוליטיות של ערבים בישראל",
+      "authorsHe": "Sami H. Miaari; Amit Loewenthal; Wifag Adnan",
+      "visualDescriptionHe": "חדר קהילתי ביישוב ערבי שבו תושבים וחוקרים בוחנים מפה ריקה ונתוני בחירות לא קריאים",
+      "semanticDescriptionHe": "המאמר בוחן את הקשר בין מאפיינים חברתיים־כלכליים לבין דפוסי הצבעה בקרב ערבים בישראל. על בסיס נתוני פאנל של 63 יישובים ערביים, תוצאות בחירות ואינדיקטורים חברתיים־כלכליים בשבע מערכות בחירות, הוא מנתח ייצוג, הדרה פוליטית והצבעה אינסטרומנטלית.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "socioeconomic_marginalization_political_preferences_palestinian_arabs_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [

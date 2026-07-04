@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04",
+  "lastUpdated": "2026-07-05",
   "sampleSize": 6,
-  "seed": "2026-07-04-homepage-high-fit",
+  "seed": "2026-07-05-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 356,
+  "highFitPaperCount": 365,
   "paperSlugs": [
-    "democracy_education_for_democracy_israel_structural_impediments_summary_he",
-    "democracy_government_opposition_relations_no_confidence_summary_he",
-    "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he",
-    "democracy_regime_style_reality_tv_populism_israel_summary_he",
-    "democracy_institutional_trust_parental_safety_arab_schools_israel_summary_he",
-    "democracy_esther_hayut_israeli_constitutional_crises_summary_he"
+    "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he",
+    "democracy_agenda_control_unstable_multiparty_public_sector_summary_he",
+    "democracy_digital_children_online_democratic_deliberations_summary_he",
+    "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he",
+    "democracy_polarization_partisan_bias_public_services_summary_he",
+    "democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he"
   ]
 }

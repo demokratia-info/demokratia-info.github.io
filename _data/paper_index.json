@@ -1,8 +1,295 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 982,
+  "paperCount": 992,
   "papers": [
+    {
+      "slug": "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he",
+      "file": "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.html",
+      "permalink": "/democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.html",
+      "sortKey": 202607050010,
+      "titleHe": "שוליות חברתית־כלכלית והעדפות פוליטיות של ערבים בישראל",
+      "paperTitle": "Socioeconomic marginalization and political preferences: evidence from Palestinian Arabs in Israel",
+      "authorsCardHe": "Sami H. Miaari; Amit Loewenthal; Wifag Adnan",
+      "sourceAuthors": [
+        "Sami H. Miaari",
+        "Amit Loewenthal",
+        "Wifag Adnan"
+      ],
+      "journal": "Acta Politica",
+      "dateText": "פורסם: 2024",
+      "doiUrl": "https://doi.org/10.1057/s41269-024-00341-x",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.jpg",
+        "altHe": "חדר קהילתי ביישוב ערבי שבו תושבים וחוקרים בוחנים מפה ריקה ונתוני בחירות לא קריאים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "מיעארי, לוונטל ועדנאן בוחנים את הקשר בין מאפיינים חברתיים־כלכליים לבין דפוסי הצבעה בקרב ערבים בישראל. לפי התקציר, המחקר משלב נתוני פאנל על 63 יישובים ערביים עם תוצאות בחירות ואינדיקטורים חברתיים־כלכליים לאורך שבע מערכות בחירות בין 1996 ל־2015. הממצאים תואמים תאוריות של ייצוג מהותי והדרה פוליטית: ייצוג ערבים במפלגות יהודיות תרם להשתתפות, ואירועי האינתיפאדה השנייה נקשרו לירידה ארוכת טווח בשיעור ההצבעה. בנוסף, ככל שהמצב החברתי־כלכלי השתפר, פחתה התלות במפלגות רוב יהודיות לאספקת טובין ציבוריים, ולכן התחזקה ההעדפה למפלגות ערביות על פני מפלגות שמאל ציוניות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he",
+      "file": "democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.html",
+      "permalink": "/democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.html",
+      "sortKey": 202607050009,
+      "titleHe": "עמדות יהודים בישראל כלפי ארגוני זכויות אדם ופטריוטיות",
+      "paperTitle": "Jewish-Israeli Attitudes toward Human Rights Organizations and Patriotism",
+      "authorsCardHe": "Julia Chaitin; Sharon Steinberg; Shoshana Steinberg",
+      "sourceAuthors": [
+        "Julia Chaitin",
+        "Sharon Steinberg",
+        "Shoshana Steinberg"
+      ],
+      "journal": "Ethnopolitics",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1080/17449057.2019.1679488",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jewish_israeli_attitudes_human_rights_organizations_patriotism_summary_he.jpg",
+        "altHe": "קבוצת דיון אזרחית סביב שאלוני מחקר לא קריאים על ארגוני זכויות ופטריוטיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "חייטין, שרון שטיינברג ושושנה שטיינברג בוחנות עמדות של יהודים בישראל כלפי שלושה ארגוני זכויות אדם וכלפי היחס בין אקטיביזם זכויות לבין פטריוטיות. לפי התקציר, משיבים שמאליים וחילונים נטו לתמוך יותר בפעילות כזאת, אך אקטיביזם זכויות נתפס לעיתים קרובות כלא פטריוטי, ולהשכלה לא היה תמיד תפקיד ברור בעיצוב העמדות. התגובות הכתובות היו רגשיות ושליליות, והמאמר מסביר את הממצאים דרך זווית פסיכו־חברתית. החשיבות הדמוקרטית היא בהבנת התנאים שבהם זכויות אדם נתפסות כחלק מן האזרחות או כאיום עליה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he",
+      "file": "democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.html",
+      "permalink": "/democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.html",
+      "sortKey": 202607050008,
+      "titleHe": "זהות מזרחית כמקור תרבותי במעמד הביניים הישראלי",
+      "paperTitle": "Subordinate by Choice? Minority Ethnic Identity as Cultural Resource in the Israeli Middle Class",
+      "authorsCardHe": "Guy Abutbul-Selinger",
+      "sourceAuthors": [
+        "Guy Abutbul-Selinger"
+      ],
+      "journal": "The American Sociologist",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.1007/s12108-022-09545-0",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minority_ethnic_identity_cultural_resource_israeli_middle_class_summary_he.jpg",
+        "altHe": "מתבגרים ומשפחה במרחב ביתי־מעמדי חם משוחחים על זהות ושייכות ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "אבוטבול־סלינגר בוחן הזדהות אתנית בקרב מתבגרים מזרחים ממשפחות מעמד ביניים בישראל. לפי תקציר המו״ל, הספרות הליברלית נוטה לראות הזדהות מיעוטית או כהתנגדות פוליטית או כהפנמת זהות מוכתמת שמקשה על השתלבות, אך המחקר מתמקד במשמעות שהמתבגרים עצמם מעניקים למזרחיות. על בסיס ראיונות, המאמר מוצא שבמרחבים מסוימים במעמד הביניים, מזרחיות יכולה להיתפס כמשאב חיובי של אותנטיות, ביטחון ומעמד חברתי בקרב בני גילם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_invention_of_nation_druze_in_israel_summary_he",
+      "file": "democracy_invention_of_nation_druze_in_israel_summary_he.html",
+      "permalink": "/democracy_invention_of_nation_druze_in_israel_summary_he.html",
+      "sortKey": 202607050007,
+      "titleHe": "זהות דרוזית בישראל בין קהילה, ערביות ואזרחות ישראלית",
+      "paperTitle": "Invention of a Nation: The Druze in Israel",
+      "authorsCardHe": "Rabah Halabi",
+      "sourceAuthors": [
+        "Rabah Halabi"
+      ],
+      "journal": "Journal of Asian and African Studies",
+      "dateText": "פורסם: 2013",
+      "doiUrl": "https://doi.org/10.1177/0021909613485700",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_invention_of_nation_druze_in_israel_summary_he.jpg",
+        "altHe": "נוף בדאלית אל־כרמל כסמל למרחב קהילתי דרוזי בישראל ולשאלות זהות ושייכות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "חלבי בוחן את הזהות הדרוזית בישראל דרך ראיונות עם 50 סטודנטים דרוזים. לפי התקציר, שלוש קטגוריות תוכן מרכזיות עלו מן הראיונות: ״דרוזי בדם״, ״ערבי, אבל פחות״ ו״להיות ישראלי״. הזהות הדרוזית מוצגת כתוצר של יחסים מורכבים עם המדינה, עם יהודים ועם ערבים אחרים, כאשר שירות צבאי, יחס המדינה והאמונה בגלגול נשמות ממלאים תפקידים מרכזיים. המאמר חשוב לשיח דמוקרטי משום שהוא מראה כיצד מדינה וקבוצת מיעוט מעצבות יחד גבולות שייכות, נאמנות וזהות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he",
+      "file": "democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.html",
+      "permalink": "/democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.html",
+      "sortKey": 202607050006,
+      "titleHe": "תמיכה חברתית ומצוקה נפשית בקרב זקנים בדואים בישראל",
+      "paperTitle": "Social Support and Psychological Distress among the Bedouin Arab Elderly in Israel: The Moderating Role of Gender",
+      "authorsCardHe": "Sarah Abu‐Kaf; Ora Nakash; Tsahi Hayat; Michal Cohen",
+      "sourceAuthors": [
+        "Sarah Abu‐Kaf",
+        "Ora Nakash",
+        "Tsahi Hayat",
+        "Michal Cohen"
+      ],
+      "journal": "International Journal of Environmental Research and Public Health",
+      "dateText": "פורסם: 2022",
+      "doiUrl": "https://doi.org/10.3390/ijerph19074358",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_support_psychological_distress_bedouin_elderly_gender_summary_he.jpg",
+        "altHe": "זקנים בדואים ואשת קהילה יושבים בחצר מוצלת לשיחה על תמיכה ובריאות נפש ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "אבו־כף, נקש, חייט וכהן בוחנים מדגם נוחות של 170 זקנים בדואים ערבים בישראל באמצעות ראיונות פנים אל פנים ושאלוני דיווח עצמי. לפי התקציר, גברים דיווחו על מצוקה נפשית נמוכה יותר ועל תמיכה אינסטרומנטלית גבוהה יותר, ואילו נשים שדיווחו על רמות נמוכות של תמיכה נתפסת ואינסטרומנטלית דיווחו גם על מצוקה נפשית גבוהה יותר. המאמר חשוב משום שהוא מציב את הבריאות הנפשית של זקנים ממיעוט מוחלש בתוך הקשר של מגדר, קהילה ונגישות לתמיכה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he",
+      "file": "democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.html",
+      "permalink": "/democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.html",
+      "sortKey": 202607050005,
+      "titleHe": "סדנאות מפגש יהודי־ערבי לנוער בגישה לויניאנית",
+      "paperTitle": "A Lewinian Approach to Intergroup Workshops for Arab‐Palestinian and Jewish Youth",
+      "authorsCardHe": "David Bargal; Haviva Bar",
+      "sourceAuthors": [
+        "David Bargal",
+        "Haviva Bar"
+      ],
+      "journal": "Journal of Social Issues",
+      "dateText": "פורסם: 1992",
+      "doiUrl": "https://doi.org/10.1111/j.1540-4560.1992.tb00889.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_lewinian_intergroup_workshops_arab_jewish_youth_summary_he.jpg",
+        "altHe": "סדנת נוער יהודי־ערבי במעגל כיסאות עם מנחים ולוח פתקים לא קריאים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "ברגל ובר מנתחים סדנאות ניהול קונפליקט בין נוער ערבי־פלסטיני ויהודי בישראל דרך שלושה מקורות ידע מתורת השדה: זהות אתנית ויחסי רוב־מיעוט, שינוי אישי בתוך קבוצה, ועקרונות מחקר פעולה. לפי התקציר, יישום המושגים בסדנאות הוביל לשינוי בעמדות המשתתפים, לפיתוח שיטות להכשרת מנחים ולידע מצטבר על הבדלים בסגנונות תקשורת בין הקבוצות. המאמר חשוב לשיח דמוקרטי משום שהוא בוחן מפגש לא כסיסמה של דו־קיום אלא כתהליך חינוכי מובנה, תצפיתי וניתן ללמידה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_both_arab_and_woman_palestinian_women_israel_summary_he",
+      "file": "democracy_both_arab_and_woman_palestinian_women_israel_summary_he.html",
+      "permalink": "/democracy_both_arab_and_woman_palestinian_women_israel_summary_he.html",
+      "sortKey": 202607050004,
+      "titleHe": "להיות גם ערבייה וגם אישה בחוויות היומיום של אזרחיות פלסטיניות בישראל",
+      "paperTitle": "‘Both an Arab and a woman’: gendered, racialised experiences of female Palestinian citizens of Israel",
+      "authorsCardHe": "Hanna Herzog",
+      "sourceAuthors": [
+        "Hanna Herzog"
+      ],
+      "journal": "Social Identities",
+      "dateText": "פורסם: 2004",
+      "doiUrl": "https://doi.org/10.1080/1350463042000190994",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_both_arab_and_woman_palestinian_women_israel_summary_he.jpg",
+        "altHe": "קבוצת נשים יושבת לשיחה במרחב קהילתי ואקדמי חם ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "הרצוג מנתחת 108 ראיונות עומק עם נשים פלסטיניות משכילות אזרחיות ישראל כדי להבין כיצד חוויות יומיומיות מגדריות וגזעיות מעצבות זהות. לפי התקציר, הנשים נמצאות ב״מקום שלישי״ בין מבנים תרבותיים, מגדריים, מעמדיים, לאומיים וגזעיים, ובתוכו הן מפתחות מרחבי ביניים וזהויות משתנות. התרומה הדמוקרטית של המאמר היא בהצגת שוויון לא כקטגוריה משפטית בלבד אלא כחוויה יומיומית שבה אזרחות, מגדר ומיעוט לאומי נפגשים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he",
+      "file": "democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.html",
+      "permalink": "/democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.html",
+      "sortKey": 202607050003,
+      "titleHe": "הקליניקה הפתוחה בין הומניטריות רפואית לזכויות אדם",
+      "paperTitle": "Medical humanitarianism, human rights and political advocacy: The case of the Israeli Open Clinic",
+      "authorsCardHe": "Nora Gottlieb; Dani Filc; Nadav Davidovitch",
+      "sourceAuthors": [
+        "Nora Gottlieb",
+        "Dani Filc",
+        "Nadav Davidovitch"
+      ],
+      "journal": "Social Science & Medicine",
+      "dateText": "פורסם: 2012",
+      "doiUrl": "https://doi.org/10.1016/j.socscimed.2011.07.018",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_medical_humanitarianism_human_rights_israeli_open_clinic_summary_he.jpg",
+        "altHe": "חדר המתנה במרפאה קהילתית צנועה עם מתנדב רפואי ומטופלים סביב טפסים לא קריאים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "גוטליב, פילק ודוידוביץ׳ מנתחים את הקליניקה הפתוחה של ארגון זכויות אדם בישראל כמקרה מבחן למתח בין טיפול רפואי הומניטרי, זכויות אדם וסנגור פוליטי. לפי תקציר PubMed, ארגונים הומניטריים ממלאים לעיתים את החלל שנוצר כאשר מדינת הרווחה נסוגה ממתן שירותים למהגרים ולאוכלוסיות מודרות, אך בכך הם עלולים גם לתרום ללגיטימציה של הנסיגה הזאת. המאמר מתמקד בדיון פנימי משנת 2007 על סגירה זמנית של הקליניקה כדי ללחוץ על הממשלה, ומראה כיצד מושגים כמו זכאות, אחריות המדינה וסולידריות רפואית מקבלים משמעויות מתחרות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_jewish_arab_relations_adolescence_perspective_summary_he",
+      "file": "democracy_jewish_arab_relations_adolescence_perspective_summary_he.html",
+      "permalink": "/democracy_jewish_arab_relations_adolescence_perspective_summary_he.html",
+      "sortKey": 202607050002,
+      "titleHe": "יחסי יהודים וערבים בישראל דרך מבט של מתבגרים",
+      "paperTitle": "Jewish-Arab Relations in Israel: A Psychology of Adolescence Perspective",
+      "authorsCardHe": "Rachel Seginer",
+      "sourceAuthors": [
+        "Rachel Seginer"
+      ],
+      "journal": "The Journal of Psychology",
+      "dateText": "פורסם: 1986",
+      "doiUrl": "https://doi.org/10.1080/00223980.1986.9915486",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jewish_arab_relations_adolescence_perspective_summary_he.jpg",
+        "altHe": "תלמידים יהודים וערבים יושבים במעגל שיחה בבית ספר ודנים בתקוות ופחדים לעתיד ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "סגינר בוחנת יחסי יהודים וערבים בישראל דרך נתוני תלמידי תיכון שתיארו תקוות ופחדים לעתיד. לפי התקציר, יותר מתבגרים ערבים מאשר יהודים התייחסו לקבוצה האתנית האחרת, והאזכורים כללו תקווה לשלום ופחד ממלחמה; אצל ערבים הופיע גם חוסר שביעות רצון מרשויות ישראל. המאמר חשוב משום שהוא מראה שהסכסוך והיחסים בין קבוצות אינם רק עניין של עמדות מבוגרים או מפלגות, אלא חלק מאופן שבו בני נוער מדמיינים עתיד אישי וקולקטיבי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he",
+      "file": "democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.html",
+      "permalink": "/democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.html",
+      "sortKey": 202607050001,
+      "titleHe": "נגישות להשכלה גבוהה וצמצום פערי שכר בקרב ערבים בישראל",
+      "paperTitle": "Does greater accessibility to higher education reduce wage inequality? The case of the Arab minority in Israel",
+      "authorsCardHe": "Albert Yirmiyahu; Ofir D. Rubin; Miki Malul",
+      "sourceAuthors": [
+        "Albert Yirmiyahu",
+        "Ofir D. Rubin",
+        "Miki Malul"
+      ],
+      "journal": "Studies in Higher Education",
+      "dateText": "פורסם: 2015",
+      "doiUrl": "https://doi.org/10.1080/03075079.2015.1076781",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_higher_education_access_wage_inequality_arab_minority_israel_summary_he.jpg",
+        "altHe": "מבט אווירי על קמפוס אוניברסיטאי בבאר שבע כסמל לנגישות להשכלה גבוהה ולפערים אזרחיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-05",
+      "dateModified": "2026-07-05",
+      "summaryHe": "המאמר של ירמיהו, רובין ומלול בוחן את חוק המכללות האקדמיות בישראל כרפורמה מוסדית שנועדה להרחיב את הנגישות להשכלה גבוהה לכלל האוכלוסייה. לפי התקציר, החוק תרם במיוחד להגדלת הנגישות של המיעוט הערבי להשכלה גבוהה, יותר מאשר לשאר האוכלוסייה, והשיפור בנגישות בא לידי ביטוי גם בעלייה בפוטנציאל ההשתכרות של ערבים בישראל. החשיבות הדמוקרטית של הממצא היא שהשכלה גבוהה אינה רק שירות ציבורי, אלא מסלול שבאמצעותו מדינה יכולה לצמצם פערים אזרחיים וכלכליים בין קבוצות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he",
       "file": "democracy_political_violence_exposure_jewish_arab_adolescents_israel_summary_he.html",
