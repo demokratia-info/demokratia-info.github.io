@@ -1,8 +1,64 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 992,
+  "paperCount": 994,
   "papers": [
+    {
+      "slug": "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he",
+      "file": "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.html",
+      "permalink": "/democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.html",
+      "sortKey": 202607060002,
+      "titleHe": "עבודה סוציאלית עם המיעוט הערבי בישראל בתקופת הקורונה",
+      "paperTitle": "Social Work Practice with Ethnic Minorities during the COVID-19 Pandemic: Learning from the Arab Minority in Israel",
+      "authorsCardHe": "Hani Nouman",
+      "sourceAuthors": [
+        "Hani Nouman"
+      ],
+      "journal": "The British Journal of Social Work",
+      "dateText": "פורסם אונליין: 27 ביולי 2021",
+      "doiUrl": "https://doi.org/10.1093/bjsw/bcab124",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.jpg",
+        "altHe": "עובדים סוציאליים ומתנדבים מסדרים סיוע קהילתי בחדר רווחה בתקופת הקורונה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-06",
+      "dateModified": "2026-07-06",
+      "summaryHe": "המאמר של חני נוימן מנתח את עבודתם של עובדים סוציאליים ציבוריים עם המיעוט הערבי בישראל בתקופת הקורונה. המחקר נשען על 25 ראיונות עומק עם עובדים סוציאליים שעבדו במחלקות רווחה ביישובים ערביים ובערים מעורבות, בתקופה שבה שירותים נסגרו, מידע רשמי בערבית הגיע באיחור ופערים כלכליים ובריאותיים החריפו. הממצאים מציגים שבע אסטרטגיות פעולה בשלוש משפחות: הגנה ותמיכה, גישור על פערי שפה ותרבות, וקידום מדיניות של צדק חברתי. התרומה הדמוקרטית של המאמר היא בהצגת שירות ציבורי לא רק כמנגנון חלוקה של סיוע, אלא כזירה שבה שוויון, נגישות, אמון ושותפות עם קהילה נבחנים בזמן אמת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he",
+      "file": "democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.html",
+      "permalink": "/democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.html",
+      "sortKey": 202607060001,
+      "titleHe": "זכאות היברידית לזכויות חברתיות בקרב מקבלי סיוע בישראל",
+      "paperTitle": "Hybrid entitlement: Welfare recipients' perceptions of entitlement to social rights",
+      "authorsCardHe": "Einat Lavee",
+      "sourceAuthors": [
+        "Einat Lavee"
+      ],
+      "journal": "Journal of Social Policy",
+      "dateText": "פורסם אונליין: 15 ביוני 2021; בגיליון: אוקטובר 2022",
+      "doiUrl": "https://doi.org/10.1017/S0047279421000441",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.jpg",
+        "altHe": "פגישה מכבדת בין מקבלת סיוע לעובדת שירות ציבורי סביב טפסי רווחה ריקים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-06",
+      "dateModified": "2026-07-06",
+      "summaryHe": "המאמר של עינת לביא מנתח כיצד אנשים החיים בעוני ומקבלים תמיכה ציבורית בישראל מפרשים את זכאותם לזכויות חברתיות. על בסיס 76 ראיונות עומק, המחקר מראה שרוב המשתתפים אינם מבססים את זכאותם רק על מודל אוניברסלי של אזרחות חברתית, אך גם אינם מאמצים לחלוטין את ההיגיון של אזרחות שוק. במקום זאת, הם מנסחים זכאות היברידית: הם מקבלים את הדרישה להשתתף בשוק העבודה ולהיות מפרנסים עצמאיים, אך דורשים מן המדינה ליצור תנאים שמאפשרים עצמאות כלכלית, עבודה מכבדת ותמיכה בהורות ובעבודה. מבחינה דמוקרטית, המאמר חשוב משום שהוא חושף כיצד שינוי במדינת הרווחה משנה את משמעות האזרחות עצמה, ואת השאלה מי נתפס כזכאי לתמיכה ציבורית מלאה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he",
       "file": "democracy_socioeconomic_marginalization_political_preferences_palestinian_arabs_israel_summary_he.html",

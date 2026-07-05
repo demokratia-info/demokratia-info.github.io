@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-06",
   "sampleSize": 6,
-  "seed": "2026-07-05-homepage-high-fit",
+  "seed": "2026-07-06-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, preferring the current paperImageVersion when enough papers are available, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 862,
+  "highFitPaperCount": 932,
   "paperSlugs": [
-    "democracy_voter_election_frames_what_were_the_elections_about_summary_he",
-    "democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he",
-    "democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he",
-    "democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he",
-    "democracy_arab_citizens_in_the_jewish_state_of_israel_summary_he",
-    "democracy_political_communication_mandate_elections_summary_he"
+    "democracy_diasporas_and_deliberative_democracy_a_case_study_of_jewish_diaspora_involvement_in_constituti_summary_he",
+    "democracy_inferiorizing_judicial_review_popular_constitutionalism_in_trial_courts_summary_he",
+    "democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he",
+    "democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he",
+    "democracy_online_participation_polarized_society_summary_he",
+    "democracy_israel_s_arab_citizens_the_continuing_struggle_summary_he"
   ]
 }

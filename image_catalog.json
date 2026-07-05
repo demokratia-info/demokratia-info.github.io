@@ -24816,6 +24816,54 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.html",
+      "usedBy": [
+        "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.html"
+      ],
+      "cardTitleHe": "עבודה סוציאלית עם המיעוט הערבי בישראל בתקופת הקורונה",
+      "authorsHe": "Hani Nouman",
+      "visualDescriptionHe": "חדר רווחה קהילתי בתקופת הקורונה שבו עובדים סוציאליים ומתנדבים מסדרים סיוע למשפחות ולקשישים",
+      "semanticDescriptionHe": "המאמר בוחן אסטרטגיות פעולה של עובדים סוציאליים בשירות הציבורי עם קהילות ערביות בישראל בזמן מגפת הקורונה, כולל שימוש בנכסים קהילתיים, גישור שפה ותרבות וקידום צדק חברתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "social_work_ethnic_minorities_covid_arab_minority_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.html",
+      "usedBy": [
+        "democracy_hybrid_entitlement_welfare_recipients_social_rights_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זכאות היברידית לזכויות חברתיות בקרב מקבלי סיוע בישראל",
+      "authorsHe": "Einat Lavee",
+      "visualDescriptionHe": "פגישת רווחה מכבדת בחדר שירות ציבורי סביב טפסים ריקים, תיק משפחתי ותיק בית ספר",
+      "semanticDescriptionHe": "המאמר מנתח כיצד מקבלי סיוע בישראל משלבים מחויבות לעבודה עם דרישה שהמדינה תיצור תנאים לזכויות חברתיות, עצמאות כלכלית ועבודה מכבדת.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "hybrid_entitlement_welfare_recipients_social_rights_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-06 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
