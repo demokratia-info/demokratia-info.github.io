@@ -71,6 +71,10 @@ def image_src_key(paper: dict[str, Any]) -> str:
 
 
 def image_family(paper: dict[str, Any]) -> str:
+    visual_anchor = str(paper.get("image", {}).get("visualAnchor", "")).strip()
+    if visual_anchor:
+        return visual_anchor
+
     image_src = str(paper.get("image", {}).get("src", ""))
     catalog_path = ROOT / "image_catalog.json"
     if not catalog_path.exists():

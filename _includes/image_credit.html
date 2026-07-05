@@ -1,10 +1,16 @@
 {% assign image = include.image %}
-{% if image.sourcePage or image.license or image.provider %}
+{% if image.sourcePage or image.license or image.provider or image.creator %}
   <span class="image-credit-label">קרדיט תמונה:</span>
   {% if image.sourcePage %}
     <a class="latin" href="{{ image.sourcePage }}" target="_blank" rel="noopener noreferrer">מקור התמונה</a>
   {% elsif image.provider %}
     <span class="latin">{{ image.provider }}</span>
+  {% endif %}
+  {% if image.creator %}
+    {% if image.sourcePage or image.provider %}
+      <span aria-hidden="true"> · </span>
+    {% endif %}
+    <span class="latin">{{ image.creator }}</span>
   {% endif %}
   {% if image.license %}
     <span aria-hidden="true"> · </span>
