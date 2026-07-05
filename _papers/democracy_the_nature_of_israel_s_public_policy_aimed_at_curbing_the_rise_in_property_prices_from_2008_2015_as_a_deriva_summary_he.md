@@ -44,14 +44,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/772_economy_democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_price.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על ממשל, שירות ציבורי ואתוס דמוקרטי בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מנתח את מדיניות ישראל לבלימת עליית מחירי הדיור בשנים 2008-2015, וטוען שמבנה ממשל חלש ובלתי יציב השפיע על בחירת צעדי המדיניות.",
   "sections": [
     {

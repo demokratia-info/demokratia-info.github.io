@@ -46,14 +46,21 @@
     "חוקי יסוד"
   ],
   "image": {
-    "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/371_court_democracy_israel_constitutional_moment_admin_law_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על רגע חוקתי, משפט מינהלי ומאבק על ביקורת שיפוטית בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-20",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "יואב דותן טוען שהרפורמה המשפטית של 2023 חשפה כי ליבת הביקורת השיפוטית בישראל היא מינהלית יותר מחוקתית, ולכן ההגנה עליה היא גם מאבק על אופייה של הדמוקרטיה בישראל.",
   "sections": [
     {

@@ -57,14 +57,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sources_of_security_fence_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/117_security_democracy_coming_to_terms_a_conflict_analysis_of_the_usage_in_official_and_unofficial_sour.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על שפת גדר ההפרדה והמאבק על מונחי הסכסוך",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שמאבק על שמות כמו ״גדר ביטחון״ ו״חומת אפרטהייד״ הוא גם מאבק פוליטי על פרשנות, קהל יעד ולגיטימציה בינלאומית.",
   "sections": [
     {

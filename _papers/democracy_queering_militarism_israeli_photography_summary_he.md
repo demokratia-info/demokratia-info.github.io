@@ -43,14 +43,21 @@
     "הומונציונליזם"
   ],
   "image": {
-    "src": "html_qa/democracy_queering_militarism_israeli_photography_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/607_minorities_democracy_queering_militarism_israeli_photography_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אוצרים ומבצעים לבושים במלואם מסדרים אביזרי צילום ופרפורמנס בגלריה ביקורתית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר קורא בצילום מבוים כמרחב שבו גוף קווירי יכול לחשוף ולשבש את ההיגיון המגדרי של מיליטריזם לאומי.",
   "sections": [
     {

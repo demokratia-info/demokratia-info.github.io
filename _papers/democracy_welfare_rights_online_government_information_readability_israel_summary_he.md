@@ -54,14 +54,21 @@
     "מיצוי זכויות"
   ],
   "image": {
-    "src": "html_qa/democracy_welfare_rights_online_government_information_readability_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/837_court_democracy_welfare_rights_online_government_information_readability_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים ועובדי שירות ציבורי בוחנים מסכים ומסמכים אנונימיים על קריאות מידע וזכויות רווחה.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הנגשת זכויות דורשת לא רק אתר ממשלתי, אלא שפה ומבנה שמאפשרים לאנשים להבין מה מגיע להם ומה לעשות עכשיו.",
   "sections": [
     {

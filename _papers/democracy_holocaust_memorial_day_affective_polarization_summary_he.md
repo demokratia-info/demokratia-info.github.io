@@ -81,14 +81,21 @@
     "עוינות פוליטית"
   ],
   "image": {
-    "src": "html_qa/democracy_holocaust_memorial_day_affective_polarization_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/294_media_democracy_holocaust_memorial_day_affective_polarization_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מפגש זיכרון קהילתי שקט עם נרות ואנשים מקבוצות שונות באבל משותף",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-08",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "אבל משותף אינו פותר מחלוקת פוליטית, אך הוא יכול ליצור רגע קצר שבו תחושת שייכות משותפת מצמצמת עוינות בין קבוצות.",
   "sections": [
     {

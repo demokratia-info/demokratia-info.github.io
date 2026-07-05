@@ -42,14 +42,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-17",
+    "src": "assets/article-images/115_minorities_democracy_collective_bargaining_agreements_protected_groups_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי דיני עבודה ונציגי עובדים בוחנים קלסרים אנונימיים בחדר משא ומתן, ללא טקסט קריא או לוגואים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
-  "lastUpdatedHe": "17 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שמוסדות עבודה קולקטיביים יכולים להיות כלי לשוויון, אך רק אם שקיפות וחוק מונעים מהם לשמר הפליה.",
   "sections": [
     {

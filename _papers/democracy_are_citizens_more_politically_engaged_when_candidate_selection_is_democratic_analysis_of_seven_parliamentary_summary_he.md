@@ -53,14 +53,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_analysis_of_seven_parliamentary_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/054_elections_democracy_are_citizens_more_politically_engaged_when_candidate_selection_is_democratic_ana.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שתהליכי בחירת מועמדים פתוחים יותר במפלגות ישראליות קשורים ליותר קשב ודיון פוליטי, אך לא בהכרח ליותר הצבעה או השתתפות מפלגתית.",
   "sections": [
     {

@@ -44,14 +44,21 @@
     "חירות דמוקרטית"
   ],
   "image": {
-    "src": "html_qa/democracy_majority_nationalism_equal_citizenship_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/071_knesset_democracy_basic_law_nation_state_harel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על לאומיות רוב, חוק הלאום ושוויון אזרחי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:knesset"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הראל טוען שחוק הלאום מעגן את זהות הרוב היהודי בתוך המבנה החוקתי באופן שמחליש ערכים אוניברסליים ושוויון אזרחי. החשש הדמוקרטי אינו רק מהכרזה זהותית, אלא מהצטברות של צעדים שמצמצמים חירויות ומקדמים דגם של דמוקרטיה סמכותנית.",
   "sections": [
     {

@@ -43,14 +43,21 @@
     "אזרחות"
   ],
   "image": {
-    "src": "html_qa/democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religious_schools_in_israel_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/823_gender_democracy_trisection_of_forces_gender_religion_and_the_state_the_case_of_state_run_religio.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של דיון ציבורי על מגדר, דת ומדינה בחינוך הדתי הממלכתי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "בית הספר הדתי הממלכתי הוא זירה שבה המדינה, הדת והמגדר מגדירים יחד את גבולות השוויון והאזרחות.",
   "sections": [
     {

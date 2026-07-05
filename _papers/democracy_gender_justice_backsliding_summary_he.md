@@ -42,14 +42,21 @@
     "שלטון החוק"
   ],
   "image": {
-    "src": "html_qa/democracy_gender_justice_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/264_gender_democracy_gender_justice_backsliding_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על צדק מגדרי ונסיגה דמוקרטית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-06-10",
-  "lastUpdatedHe": "10 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את הצדק המגדרי כזירה מרכזית שבה החלשת מוסדות דמוקרטיים הופכת לפגיעה ממשית בזכויות ובהשתתפות אזרחית.",
   "sections": [
     {

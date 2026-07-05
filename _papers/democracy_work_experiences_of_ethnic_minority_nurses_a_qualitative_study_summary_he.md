@@ -57,14 +57,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/857_minorities_democracy_work_experiences_of_ethnic_minority_nurses_a_qualitative_study_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על חוויות עבודה של אחיות מקבוצות מיעוט",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד שילוב של אחיות ואחים ערבים במערכת הבריאות הציבורית יכול לחזק <strong>טיפול כשיר תרבותית</strong>, אך גם לחשוף דפוסים יומיומיים של הדרה ועוינות.",
   "sections": [
     {

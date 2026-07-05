@@ -47,14 +47,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_engagement_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/021_education_democracy_active_civic_education_using_project_based_learning_and_attitudes_towards_civic_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על חינוך אזרחי פעיל ולמידה מבוססת פרויקטים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר מצא כי למידה אזרחית מבוססת פרויקטים מחזקת הבנה של שקיפות, אחריותיות וזכויות, ומעודדת מחשבה על מעורבות אזרחית עתידית.",
   "sections": [
     {

@@ -60,14 +60,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_opportunistic_legislation_natural_emergency_covid_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-09",
+    "src": "assets/article-images/527_knesset_democracy_opportunistic_legislation_natural_emergency_covid_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "דיון ועדה ציבורית בזמן חירום בריאותי, עם מסמכים ומסכים פתוחים סביב שולחן רשמי.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:knesset"
   },
   "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר בוחן הגבלות הפלות ברמת המדינה במהלך התפרצות COVID-19. הניתוחים ההשוואתיים האיכותיים של המחקר מצביעים על כך שלפחות בהקשר הפוליטי של זכויות רבייה ותחת מצב החירום של COVID-19, היו אלה רמת החירום, רמות הדתיות במדינה והדומיננטיות הרפובליקנית בממשלה שניבאו היטב את הסבירות לחקיקה אופורטוניסטית. לכן הקריאה במאמר מסייעת להבין כיצד זכויות, שוויון ומיעוטים מתורגם למוסדות, מדיניות והתנהגות ציבורית.",
   "sections": [
     {

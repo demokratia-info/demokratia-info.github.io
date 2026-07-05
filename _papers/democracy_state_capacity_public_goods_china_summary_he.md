@@ -63,14 +63,21 @@
     "מיסוי"
   ],
   "image": {
-    "src": "html_qa/democracy_state_capacity_public_goods_china_summary_he.jpg",
-    "version": "2026-05-28-nightly",
+    "src": "assets/article-images/674_economy_democracy_state_capacity_public_goods_china_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על יכולת מדינתית, מוצרים ציבוריים ותכנון מחוזי בסין",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-28",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן כיצד יכולת מדינתית במחוזות סין קשורה לתפוקה ולמוצרים ציבוריים. הממצא המרכזי הוא שיכולת חזקה יותר קשורה לפעילות חברתית־כלכלית גבוהה יותר דרך הוצאה ציבורית, שירותים והשקעה פרטית.",
   "sections": [
     {

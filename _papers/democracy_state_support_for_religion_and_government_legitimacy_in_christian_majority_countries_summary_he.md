@@ -53,14 +53,21 @@
     "דמוקרטיה"
   ],
   "image": {
-    "src": "html_qa/democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_countries_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/681_religion_democracy_state_support_for_religion_and_government_legitimacy_in_christian_majority_count.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של דיון ציבורי על תמיכת המדינה בדת, תקציבים ואמון בממשלה",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "במדינות בעלות רוב נוצרי, תמיכת מדינה בדת אינה בהכרח מייצרת לגיטימיות; המחקר מוצא קשר שלילי בינה לבין אמון בממשלה ובפרלמנט.",
   "sections": [
     {

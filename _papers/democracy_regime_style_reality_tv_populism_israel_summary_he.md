@@ -41,14 +41,21 @@
     "מירי רגב"
   ],
   "image": {
+    "src": "assets/article-images/621_protest_democracy_regime_style_reality_tv_populism_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מיקרופון באולפן הקלטות, כרקע לדיון על מוזיקה פופולרית, סגנון ופופוליזם.",
     "fitness": "high",
-    "src": "html_qa/democracy_regime_style_reality_tv_populism_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-21"
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-06-21",
-  "dateModified": "2026-06-21",
-  "lastUpdatedHe": "21 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "פופוליזם אינו רק מה שאומרים בשם העם; הוא גם איך מבצעים טעם, זהות והתנגשות עם אליטות תרבותיות.",
   "sections": [
     {

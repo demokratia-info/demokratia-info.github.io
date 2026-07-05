@@ -44,14 +44,21 @@
     "משפט בין־לאומי"
   ],
   "image": {
-    "src": "html_qa/democracy_global_governance_new_technology_democracy_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/269_court_democracy_global_governance_new_technology_democracy_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי משפט ומדיניות בוחנים פלטפורמות דיגיטליות ומסמכי ממשל גלובלי בחדר מחקר בין־לאומי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מסביר מדוע אתגרי טכנולוגיה אינם רק עניין של רגולציה מקומית. כאשר כוח דיגיטלי חוצה גבולות, גם הגנה על דמוקרטיה צריכה מנגנוני אחריות רחבים יותר.",
   "sections": [
     {

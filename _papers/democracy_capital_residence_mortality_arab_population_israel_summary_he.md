@@ -52,14 +52,21 @@
     "מגורים"
   ],
   "image": {
-    "src": "html_qa/democracy_capital_residence_mortality_arab_population_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-16",
+    "src": "assets/article-images/085_minorities_democracy_capital_residence_mortality_arab_population_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "עובדת קהילה ובני משפחה בוחנים חומרי בריאות ורווחה בחדר שירותים קהילתי ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-16",
-  "dateModified": "2026-06-16",
-  "lastUpdatedHe": "16 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "אי־שוויון בריאותי אינו נובע רק מהכנסה אישית; הוא נטוע גם במקום מגורים, הון תרבותי ורשתות משפחתיות.",
   "sections": [
     {

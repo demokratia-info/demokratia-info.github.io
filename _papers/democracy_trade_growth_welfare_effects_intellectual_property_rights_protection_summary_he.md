@@ -40,14 +40,21 @@
     "פטנטים"
   ],
   "image": {
-    "src": "html_qa/democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he.jpg",
-    "version": "2026-05-25-nightly",
+    "src": "assets/article-images/816_economy_democracy_trade_growth_welfare_effects_intellectual_property_rights_protection_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על סחר, מחקר ופיתוח והגנת קניין רוחני",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שקניין רוחני משפיע גם על סחר, מגוון תשומות ורווחה, ולא רק על המצאה. הוא מדגיש שההגנה שכל מדינה בוחרת לעצמה עלולה להיות חזקה יותר מן הרמה שטובה לכולם יחד.",
   "sections": [
     {

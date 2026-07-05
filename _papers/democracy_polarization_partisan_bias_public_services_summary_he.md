@@ -60,14 +60,21 @@
     "ביצועי ממשלה"
   ],
   "image": {
-    "src": "html_qa/democracy_polarization_partisan_bias_public_services_summary_he.jpg",
-    "version": "2026-05-30-nightly",
+    "src": "assets/article-images/553_civic_democracy_polarization_partisan_bias_public_services_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אזרחים במרכז שירות ציבורי מעריכים שירותים דרך עדשה מפלגתית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-30",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהטיה מפלגתית חודרת גם לשירותים ציבוריים מוחשיים, ולכן פוגעת ביכולת של אזרחים להעריך ביצועי ממשלה ולהטיל עליה <strong>אחריות דמוקרטית</strong>.",
   "sections": [
     {

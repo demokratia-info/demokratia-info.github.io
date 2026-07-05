@@ -54,14 +54,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_central_enforcement_convened_committees_local_authorities_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-09",
+    "src": "assets/article-images/087_economy_democracy_central_enforcement_convened_committees_local_authorities_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "ישיבת עבודה בין אנשי ממשל מקומי ומרכזי עם מפה של שכונות ורשויות.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר מיישם את מתודולוגיית ההבדלים בהפרשים באמצעות נתונים על 77 רשויות ישראליות בשנים 2000–2011 כדי לענות על שאלה זו. המחקר מוצא השפעה ניכרת של ועדות שהתכנסו על הביצועים הכספיים של הרשויות המקומיות, לרבות הפחתה של 11% בעלויות העבודה העירוניות, הפחתה של 6% בגירעונות השוטפים והפחתה של 40% בחוב העירוני. המחקר מוצא גם כמה עדויות לעלייה בגביית המס המקומית. לכן הקריאה במאמר מסייעת להבין כיצד מוסדות דמוקרטיים וכלכלה מתורגם למוסדות, מדיניות והתנהגות ציבורית.",
   "sections": [
     {

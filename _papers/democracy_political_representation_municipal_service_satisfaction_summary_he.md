@@ -52,14 +52,21 @@
     "דמוקרטיה מקומית"
   ],
   "image": {
-    "src": "html_qa/democracy_political_representation_municipal_service_satisfaction_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/566_minorities_democracy_political_representation_municipal_service_satisfaction_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תושבים מגוונים ונציגי עירייה דנים במפות שירותים במרכז עירוני",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה ששביעות רצון משירותים עירוניים אינה רק תוצאה של ביצוע טכני. היא קשורה גם לשאלה אם תושבים, ובמיוחד מיעוטים, מרגישים שהשלטון המקומי מכיר בהם ומייצג אותם.",
   "sections": [
     {

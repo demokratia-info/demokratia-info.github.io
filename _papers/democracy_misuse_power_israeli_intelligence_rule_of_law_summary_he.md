@@ -51,14 +51,21 @@
     "סנקציות לא משפטיות"
   ],
   "image": {
-    "src": "html_qa/democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.jpg",
-    "version": "2026-06-01-nightly",
+    "src": "assets/article-images/492_security_democracy_misuse_power_israeli_intelligence_rule_of_law_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר פיקוח אזרחי עם תיקי מודיעין חסויים ודיון בשלטון החוק",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד הגנה על סוד ביטחוני יכולה לעבור מאכיפה חוקית לפעולה אפורה שמרתיעה אזרחים וחוקרים. הדיון ממקם את פיקוח המודיעין בלב שאלת שלטון החוק בדמוקרטיה.",
   "sections": [
     {

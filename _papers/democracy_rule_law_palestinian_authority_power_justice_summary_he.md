@@ -55,14 +55,21 @@
     "מוסדות משפטיים"
   ],
   "image": {
-    "src": "html_qa/democracy_rule_law_palestinian_authority_power_justice_summary_he.jpg",
-    "version": "2026-06-02-nightly",
+    "src": "assets/article-images/647_minorities_democracy_rule_law_palestinian_authority_power_justice_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בוחנים תיקי מוסדות ומשפט בדיון על שלטון החוק ברשות הפלסטינית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-02",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את שלטון החוק לא רק כתנאי לסדר פנימי אלא גם כגורם שעשוי להשפיע על יחסים בין ישויות פוליטיות. ריכוז כוח ביצועי פוגע ביכולת להפוך מוסדות משפטיים לבסיס לדמוקרטיה ולשלום.",
   "sections": [
     {

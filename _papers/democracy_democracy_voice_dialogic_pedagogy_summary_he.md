@@ -60,14 +60,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_democracy_voice_dialogic_pedagogy_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-09",
+    "src": "assets/article-images/165_civic_democracy_democracy_voice_dialogic_pedagogy_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מעגל תלמידים ומורות בדיון כיתתי פתוח, עם מחברות ושולחנות מסודרים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "פדגוגיה דיאלוגית נתפסת באופן נרחב כאמצעי מצוין לחינוך תלמידים להשתתפות אזרחית בדמוקרטיה דיונית. בפרט, המאמר מתמקד בהופעתם ובאינטראקציה של קולות, המוגדרים כ(1) הזדמנות לדבר, (2) הבעת רעיונות משלו, (3) בתנאים של האדם עצמו ו-(4) קשובה של אחרים. בעוד שהנורמה בכיתות בישראל היא השתתפות שופעת וחסרת קול, בפרק הכיתה הנדיר שנבחן כאן, המחקר מוצא תלמידים – והמורה שלהם – עסוקים בהתלבטות סוערת ורב-קולית. לכן הקריאה במאמר מסייעת להבין כיצד מוסדות ציבור, חברה אזרחית ושירות ציבורי מתורגם למוסדות, מדיניות והתנהגות ציבורית.",
   "sections": [
     {

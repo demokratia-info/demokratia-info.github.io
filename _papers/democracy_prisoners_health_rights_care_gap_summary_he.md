@@ -79,14 +79,21 @@
     "פיקוח מוסדי"
   ],
   "image": {
-    "src": "html_qa/democracy_prisoners_health_rights_care_gap_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/589_minorities_democracy_prisoners_health_rights_care_gap_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר מרפאה בכלא שבו אנשי טיפול בוחנים טפסים אנונימיים על זכויות בריאות של אסירים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר ממקם את בריאות האסירים בלב מבחן זכויות האדם. דמוקרטיה נבחנת לא רק בחופש של אזרחים חופשיים, אלא גם בהגנה על מי שנמצאים תחת שליטה מוסדית מלאה.",
   "sections": [
     {

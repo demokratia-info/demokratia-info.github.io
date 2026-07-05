@@ -64,14 +64,21 @@
     "ברוצלוזיס"
   ],
   "image": {
-    "src": "html_qa/democracy_bedouin_health_policy_distrust_cycle_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/072_minorities_democracy_bedouin_health_policy_distrust_cycle_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נציגי קהילה בדואית ואנשי בריאות הציבור נפגשים סביב מפות וטפסים אנונימיים במרחב קהילתי בנגב",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שכאשר מדיניות בריאות מופעלת בתוך היסטוריה של הדרה, פיקוח וחשדנות, צעדים מקצועיים לכאורה עלולים להעמיק אי־אמון במקום לצמצם אותו.",
   "sections": [
     {

@@ -43,14 +43,21 @@
     "איזונים ובלמים"
   ],
   "image": {
-    "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/449_court_democracy_legislative_executive_relations_crisis_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על שינוי יחסי כוח בין מוסדות שלטון, כנסת, ממשלה ובית משפט",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שבין 2019 ל-2024 התחזק הכוח הביצועי בישראל על חשבון הכנסת, במיוחד סביב כתבי האישום של נתניהו, המלחמה וסוגיות כמו התקציב וגיוס תלמידי ישיבות.",
   "sections": [
     {

@@ -62,14 +62,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_privatizing_policy_formation_democracy_israel_summary_he.jpg",
-    "version": "2026-06-04-nightly",
+    "src": "assets/article-images/590_court_democracy_privatizing_policy_formation_democracy_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "צוות מדיניות ציבורית ויועצים חיצוניים דנים במסמכי תכנון בחדר ממשלתי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-04",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מסיט את תשומת הלב מן השאלה מי מבצע מדיניות אל השאלה מי מעצב אותה. בדמוקרטיה ליברלית, גם שלב ההכנה צריך להישאר שקוף, מנומק וכפוף לאחריות ציבורית.",
   "sections": [
     {

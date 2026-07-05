@@ -44,14 +44,21 @@
     "דמוקרטיה ישראלית"
   ],
   "image": {
-    "src": "html_qa/democracy_israeli_democracy_crisis_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/550_court_democracy_polarisation_constitutional_crisis_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על משבר בדמוקרטיה הישראלית, קיטוב פוליטי ומוסדות חוקתיים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "עידו פורת טוען שהמשבר החוקתי בישראל אינו רק ויכוח משפטי על סמכויות בית המשפט. הוא נעשה חריף במיוחד מפני שהפוליטיקה הישראלית מקוטבת יותר, והקיטוב הרגשי גורם לכל צד לראות את הצד השני כאיום על זהותה של המדינה.",
   "sections": [
     {

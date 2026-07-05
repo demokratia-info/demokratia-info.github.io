@@ -58,14 +58,21 @@
     "בית המשפט העליון"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/427_court_democracy_judicial_revolution_reconceptualized_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על בית משפט, איזונים ובלמים והוויכוח על מהפכה משפטית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-15",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שרפורמת 2023–25 אינה רק תגובה ל״אקטיביזם שיפוטי״, אלא חלק ממאבק עמוק יותר על זהות ישראל ועל מקומם של בתי המשפט באיזונים ובלמים דמוקרטיים.",
   "sections": [
     {

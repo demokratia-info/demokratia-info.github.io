@@ -44,14 +44,21 @@
     "דמוקרטיה מתגוננת"
   ],
   "image": {
-    "src": "html_qa/democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/835_security_democracy_vigilant_jewish_fundamentalism_jdl_kach_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בוחנים תצלומי מחאה ותיקי ארכיון על קיצוניות פוליטית בלי סמלים מזוהים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-08",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "קיצוניות פוליטית מאורגנת בוחנת את יכולתה של דמוקרטיה להגן על חופש פוליטי בלי לאפשר אלימות, הדרה ואיום על יריבים.",
   "sections": [
     {

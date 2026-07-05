@@ -57,14 +57,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challenges_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/549_media_democracy_playful_activism_memetic_performances_of_palestinian_resistance_in_tiktok_challe.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על אקטיביזם משחקי והתנגדות פלסטינית בטיקטוק",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "אתגרי <strong>TikTok</strong> תחת #gazaunderattack מראים כיצד חיקוי, דואטים ופרפורמנס משחקי יכולים להפוך לכלי השתתפות פוליטית בזמן עימות.",
   "sections": [
     {

@@ -41,14 +41,21 @@
     "פער מפלגתי"
   ],
   "image": {
-    "src": "html_qa/democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-11",
+    "src": "assets/article-images/636_media_democracy_religious_beliefs_elite_polarization_foreign_policy_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים במכון מדיניות בוחנים דפי סקר ומפה עולמית ללא כיתוב סביב שולחן עבודה.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
-  "lastUpdatedHe": "11 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד עמדה כלפי ישראל יכולה להיקשר לזהות מפלגתית ודתית, ולא רק לשיפוט נקודתי של מדיניות חוץ.",
   "sections": [
     {

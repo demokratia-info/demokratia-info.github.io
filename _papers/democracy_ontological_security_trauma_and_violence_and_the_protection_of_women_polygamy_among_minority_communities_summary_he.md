@@ -57,15 +57,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_among_minority_communities_summary_he.jpg",
-    "version": "2026-05-22-feedback-revisions-1825",
+    "src": "assets/article-images/526_gender_democracy_ontological_security_trauma_and_violence_and_the_protection_of_women_polygamy_am.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אישה מתבוננת בנוף שקט כסמל לחיפוש אחר ביטחון, רציפות והגנה בתוך מציאות חברתית פגיעה",
     "fitness": "high",
-    "fitnessSource": "approved_user_upload"
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שסוגיית הפוליגמיה אינה רק מדיניות להגנה על נשים, אלא גם זירה של זהות מדינתית, שייכות ושליטה במיעוט.",
   "sections": [
     {

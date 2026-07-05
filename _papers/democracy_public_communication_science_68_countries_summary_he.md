@@ -132,14 +132,21 @@
     "מחאה סביב מדע"
   ],
   "image": {
-    "src": "html_qa/democracy_public_communication_science_68_countries_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-12",
+    "src": "assets/article-images/600_media_democracy_public_communication_science_68_countries_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "קבוצת אזרחים בחדר מדיה קהילתי דנה במידע מדעי ממקורות שונים סביב שולחן.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-12",
-  "dateModified": "2026-06-12",
-  "lastUpdatedHe": "12 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציב את תקשורת המדע כמרחב אזרחי שבו נגישות למידע, אמון במוסדות ומבני תקשורת משפיעים על השתתפות ציבורית.",
   "sections": [
     {

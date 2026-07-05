@@ -42,14 +42,21 @@
     "דעת קהל"
   ],
   "image": {
-    "src": "html_qa/democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/654_gender_democracy_selective_exposure_polarizes_attitudes_arguments_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משתתפים במעבדת תקשורת משווים כרטיסי טיעונים ומקורות חדשות מטושטשים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שקיטוב אינו נובע רק מכך שאנשים אינם מכירים טיעונים נגדיים. לעיתים הבעיה היא שהם מכירים היטב את הטיעונים שמחזקים אותם, ומעניקים להם משקל פוליטי ורגשי גבוה במיוחד.",
   "sections": [
     {

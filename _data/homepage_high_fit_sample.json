@@ -4,13 +4,13 @@
   "sampleSize": 6,
   "seed": "2026-07-05-homepage-high-fit",
   "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 365,
+  "highFitPaperCount": 930,
   "paperSlugs": [
-    "democracy_citizenship_as_accumulation_by_dispossession_the_paradox_of_settler_colonial_citizenship_summary_he",
-    "democracy_agenda_control_unstable_multiparty_public_sector_summary_he",
-    "democracy_digital_children_online_democratic_deliberations_summary_he",
-    "democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he",
-    "democracy_polarization_partisan_bias_public_services_summary_he",
-    "democracy_attitudes_intercultural_sensitivity_muslim_bedouin_education_students_southern_israel_summary_he"
+    "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he",
+    "democracy_nation_state_law_populism_colonialism_religion_summary_he",
+    "democracy_the_constitution_of_israel_summary_he",
+    "democracy_israel_family_court_therapeutic_jurisprudence_summary_he",
+    "democracy_universities_druze_women_identity_transitions_higher_education_summary_he",
+    "democracy_education_for_democracy_israel_structural_impediments_summary_he"
   ]
 }

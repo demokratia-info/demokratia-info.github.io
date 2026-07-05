@@ -41,14 +41,21 @@
     "בחירה ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.jpg",
-    "version": "2026-05-26-nightly",
+    "src": "assets/article-images/697_economy_democracy_taxpayer_apathy_institutional_inertia_growth_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על אדישות משלמי מסים ושימוע תקציבי ציבורי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-26",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר של ג׳יימס ביוקנן קורא את המעבר ממחאת מסים לאדישות מסים דרך שינוי בתנאים מקרו־כלכליים ובתחושת הרווחה של האזרחים. המאמר משווה בין תקופת מרד משלמי המסים בשנות השבעים ותחילת שנות השמונים לבין האדישות היחסית שנראתה בסוף שנות התשעים.",
   "sections": [
     {

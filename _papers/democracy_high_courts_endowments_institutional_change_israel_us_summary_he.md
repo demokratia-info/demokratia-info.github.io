@@ -61,14 +61,21 @@
     "חוקתיות"
   ],
   "image": {
-    "src": "html_qa/democracy_high_courts_endowments_institutional_change_israel_us_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/286_court_democracy_high_courts_endowments_institutional_change_israel_us_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "פנים בניין בית המשפט העליון בישראל, כזירה מוסדית לדיון על שינוי בתי משפט.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "עמדות כלפי שינוי בתי משפט אינן רק אידאולוגיה; הן קשורות לשאלה מה אזרחים חושבים שהם והחברה מקבלים מהמוסד הקיים.",
   "sections": [
     {

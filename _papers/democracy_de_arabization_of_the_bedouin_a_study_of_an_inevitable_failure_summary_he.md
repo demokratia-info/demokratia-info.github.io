@@ -61,14 +61,21 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he.jpg",
-    "version": "2026-05-21-topic-image-diversity",
+    "src": "assets/article-images/149_minorities_democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי: דה־ערביזציה של הבדואים: מחקר על כישלון בלתי נמנע",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-12",
-  "lastUpdatedHe": "12 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהניסיון לנתק צעירים בדואים מזהות ערבית-פלסטינית נכשל, ושכישלון זה קשור למתח בין מדינה יהודית-ציונית לבין שוויון אזרחי מלא לערבים בישראל.",
   "sections": [
     {

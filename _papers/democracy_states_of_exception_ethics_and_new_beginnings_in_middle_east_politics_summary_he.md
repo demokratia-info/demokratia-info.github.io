@@ -43,14 +43,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/684_court_democracy_states_of_exception_ethics_and_new_beginnings_in_middle_east_politics_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של דיון אזרחי על מצב חירום, אתיקה וחידוש פוליטי במזרח התיכון",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מצב חירום אינו רק כלי ביטחוני, אלא מבחן ליכולת של דמוקרטיה להגביל כוח ולפתוח אפשרות לאחריות פוליטית חדשה.",
   "sections": [
     {

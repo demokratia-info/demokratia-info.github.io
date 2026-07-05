@@ -52,14 +52,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_personal_community_predictors_community_engagement_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-09",
+    "src": "assets/article-images/547_civic_democracy_personal_community_predictors_community_engagement_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "קבוצת תושבים מתכננת פעילות קהילתית סביב מפה שכונתית וחומרי הסברה.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר מראה שמעורבות קהילתית תלויה פחות בוותק ובהערכה עצמית, ויותר בתחושת שליטה, שייכות, מחויבות, ידע על שירותים ואמון במנהיגים מקומיים.",
   "sections": [
     {

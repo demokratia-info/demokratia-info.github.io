@@ -63,14 +63,21 @@
     "משבר ביטחוני"
   ],
   "image": {
-    "src": "html_qa/democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-17",
+    "src": "assets/article-images/039_gender_democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "קבוצת אזרחים ואזרחיות בחדר מחקר אזרחי דנה בכרטיסי סקר אנונימיים מול מסכים מטושטשים ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
-  "lastUpdatedHe": "17 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "עמדות על מגדר אינן נשארות מחוץ למשבר ביטחוני; הן משפיעות גם על האופן שבו הציבור שופט קדימות, פגיעות והקרבה.",
   "sections": [
     {

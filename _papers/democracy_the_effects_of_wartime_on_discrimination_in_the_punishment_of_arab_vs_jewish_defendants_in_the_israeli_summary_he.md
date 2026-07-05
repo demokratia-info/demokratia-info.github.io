@@ -55,14 +55,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_defendants_in_the_israeli_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/734_security_democracy_the_effects_of_wartime_on_discrimination_in_the_punishment_of_arab_vs_jewish_def.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על אפליה בענישה בין נאשמים ערבים ויהודים בזמן מלחמה",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר בוחן אם תקופות לחימה משנות את דפוסי האפליה בענישה בין נאשמים יהודים וערבים בבתי משפט השלום בישראל.",
   "sections": [
     {

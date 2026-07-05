@@ -43,14 +43,21 @@
     "דמוקרטיה"
   ],
   "image": {
-    "src": "html_qa/democracy_deep_securitization_demographic_demon_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/150_security_democracy_deep_securitization_demographic_demon_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בחדר מדיניות בוחנים מפות דמוגרפיה, ביטחון וזכויות אזרח",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מסביר כיצד דמוגרפיה יכולה להפוך לשאלת ביטחון קיומית ולא רק לנתון חברתי. המושג סקיוריטיזציה עמוקה עוזר להבין מדוע שיח כזה משפיע על דמוקרטיה, גבולות וזכויות.",
   "sections": [
     {

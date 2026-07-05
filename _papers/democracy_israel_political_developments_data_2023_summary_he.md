@@ -41,14 +41,21 @@
     "כלכלה פוליטית"
   ],
   "image": {
-    "src": "html_qa/democracy_israel_political_developments_data_2023_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/375_security_democracy_israel_political_developments_data_2023_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מבנה הכנסת בירושלים בצילום חוץ המשמש רקע לסקירת מוסדות ופוליטיקה בישראל בשנת 2023.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "שנת 2023 מוצגת כנקודת מבחן שבה משבר חוקתי, מחאה אזרחית והלם ביטחוני הזינו זה את זה.",
   "sections": [
     {

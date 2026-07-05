@@ -45,14 +45,21 @@
     "זכויות נשים"
   ],
   "image": {
-    "src": "html_qa/democracy_religious_accommodation_exit_sex_equality_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/635_gender_democracy_religious_accommodation_exit_sex_equality_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "דיון משפטי קהילתי על התאמות דתיות, הסכמה ושוויון מגדרי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-06-08",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "כאשר התאמה דתית נשענת על טענה של הסכמה או יציאה, צריך לבדוק אם לנשים יש בפועל כוח, חלופות וזכויות שוות.",
   "sections": [
     {

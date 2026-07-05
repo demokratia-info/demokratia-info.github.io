@@ -44,14 +44,21 @@
     "שלטון החוק"
   ],
   "image": {
-    "src": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/349_court_democracy_international_law_domestic_courts_populism_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על משפט בין-לאומי, בתי משפט וזכויות אדם מול פופוליזם",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שבתי משפט הנסוגים ממשפט בין-לאומי בעידן פופוליסטי מוותרים על מקור חשוב להגנה על זכויות אדם ועל פלורליזם משפטי. בדמוקרטיה ליברלית, פתיחת השיח המשפטי למקורות חיצוניים יכולה להיות בלם מול פוליטיקה שמציגה את רצון הרוב כקול יחיד ובלעדי.",
   "sections": [
     {

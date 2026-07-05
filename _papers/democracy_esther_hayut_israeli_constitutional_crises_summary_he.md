@@ -53,14 +53,21 @@
     "חוקי יסוד"
   ],
   "image": {
-    "src": "html_qa/democracy_esther_hayut_israeli_constitutional_crises_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/224_court_democracy_esther_hayut_israeli_constitutional_crises_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מבנה בית המשפט העליון בירושלים בצילום חוץ המשמש רקע לדיון במשברים חוקתיים ובביקורת שיפוטית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את כהונת חיות כניסיון לנווט בית משפט תחת מתקפה פוליטית מתמשכת ולשמר את כללי היסוד הדמוקרטיים.",
   "sections": [
     {

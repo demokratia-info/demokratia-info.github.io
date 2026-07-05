@@ -52,14 +52,21 @@
     "קיטוב"
   ],
   "image": {
-    "src": "html_qa/democracy_conflict_regulation_deeply_divided_societies_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/118_protest_democracy_conflict_regulation_deeply_divided_societies_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר תיווך אזרחי עם נציגי קהילות שונות סביב שולחן עגול",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-06-08",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "בחברה שסועה, דמוקרטיה אינה נמדדת רק בבחירות אלא גם במנגנונים שמאפשרים לקבוצות יריבות לחיות בתוך מסגרת פוליטית אחת.",
   "sections": [
     {

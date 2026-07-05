@@ -43,14 +43,21 @@
     "שוויון אזרחי"
   ],
   "image": {
-    "src": "html_qa/democracy_legislative_backsliding_populism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/507_religion_democracy_nation_state_law_populism_colonialism_religion_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על חוק יסוד, פופוליזם אתנולאומי ופגיעה בשוויון",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "אגבאריה טוען שחוק הלאום משנה את היחס בין יהודיות לדמוקרטיה באמצעות שפה דתית-אתנולאומית שמעניקה לרוב מעמד של בעל הבית הפוליטי. הדמוקרטיה הליברלית נפגעת כאשר אזרחות שווה מוחלפת בסיפור שממקם מיעוטים כנסבלים אך לא כשותפים מלאים.",
   "sections": [
     {

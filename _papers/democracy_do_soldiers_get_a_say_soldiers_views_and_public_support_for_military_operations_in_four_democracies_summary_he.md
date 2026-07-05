@@ -84,14 +84,21 @@
     "אחריותיות"
   ],
   "image": {
-    "src": "html_qa/democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_in_four_democracies_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/193_security_democracy_do_soldiers_get_a_say_soldiers_views_and_public_support_for_military_operations_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: האם לחיילים יש קול בהחלטות על מבצעים צבאיים?",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן אם לחיילים יש קול עקיף בדעת הקהל: בארבע דמוקרטיות, תמיכה במבצע צבאי תלויה גם בתפיסת הציבור את עמדת החיילים שיישלחו אליו.",
   "sections": [
     {

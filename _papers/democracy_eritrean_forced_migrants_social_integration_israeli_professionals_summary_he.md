@@ -53,14 +53,21 @@
     "מעמד משפטי"
   ],
   "image": {
-    "src": "html_qa/democracy_eritrean_forced_migrants_social_integration_israeli_professionals_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/223_minorities_democracy_eritrean_forced_migrants_social_integration_israeli_professionals_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נציגי קהילה ואנשי מקצוע יושבים סביב שולחן ייעוץ עם מסמכים אנונימיים על שירותים ושילוב חברתי.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המקרה האריתראי בתל אביב מראה ששייכות יומיומית יכולה להתקיים גם כאשר המדינה משמרת אי־ודאות משפטית והדרה מבנית.",
   "sections": [
     {

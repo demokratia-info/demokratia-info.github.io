@@ -43,14 +43,21 @@
     "משילות"
   ],
   "image": {
-    "src": "html_qa/democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/659_minorities_democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "דיון מדיניות זהיר בחדר ועדה על זכויות, שירותים ורגולציה ללא טקסט קריא או דימויים מנצלים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מדיניות שנועדה להגן על נשים יכולה להחמיר שוליות אם היא מעוצבת בלי להקשיב למי שחיות תחתיה.",
   "sections": [
     {

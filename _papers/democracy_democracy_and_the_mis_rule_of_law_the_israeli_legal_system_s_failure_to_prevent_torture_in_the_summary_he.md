@@ -42,14 +42,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_torture_in_the_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/155_court_democracy_democracy_and_the_mis_rule_of_law_the_israeli_legal_system_s_failure_to_prevent_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על כשל המערכת המשפטית במניעת עינויים בשטחים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן כיצד בתי המשפט והמערכת המשפטית בישראל התקשו למנוע עינויים בשטחים, למרות מחויבות רשמית לזכויות אדם ולשלטון החוק.",
   "sections": [
     {

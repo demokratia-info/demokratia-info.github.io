@@ -47,14 +47,21 @@
     "מדיה"
   ],
   "image": {
-    "src": "html_qa/democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/331_minorities_democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_is.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד מסגור כ<strong>\"מסתננים\"</strong> לעומת \"מבקשי מקלט\" קשור לעמדות הדרה כלפי אנשים מאפריקה שנכנסו לישראל דרך גבול מצרים.",
   "sections": [
     {

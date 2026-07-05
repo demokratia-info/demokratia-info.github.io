@@ -75,14 +75,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of_social_services_offered_to_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/678_gender_democracy_state_inspection_in_contexts_of_cultural_and_sociopolitical_conflict_the_case_of.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "פיקוח המדינה על שירותים לנערות ערביות־פלסטיניות מראה כיצד <strong>מדיניות שוויונית לכאורה</strong> עלולה להחליש אחריות ציבורית כאשר היא מתעלמת מצרכים מקומיים, מגדריים ולאומיים.",
   "sections": [
     {

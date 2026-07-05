@@ -55,14 +55,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.jpg",
-    "version": "2026-05-21-image-audit",
+    "src": "assets/article-images/642_religion_democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על פופוליזם דתי וזיכרון יהודי בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד זהות יהודית משמשת בפופוליזם הישראלי גם כתביעה להיכללות, בעיקר אצל ש\"ס, וגם כסימון איומים והדרה, בעיקר אצל הליכוד.",
   "sections": [
     {

@@ -83,14 +83,21 @@
     "שירותי בריאות"
   ],
   "image": {
-    "src": "html_qa/democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/145_haredi_democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summ.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מטפלים בחדר הכשרה מקצועי דנים בכרטיסי מקרה אנונימיים על אמון וכשירות תרבותית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:haredi"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "פערים בעמדות של אנשי מקצוע כלפי קבוצה חברתית אינם נשארים מחוץ לחדר הטיפולים; הם משפיעים על נגישות, אמון ושוויון בשירות.",
   "sections": [
     {

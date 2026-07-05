@@ -42,14 +42,21 @@
     "ישראל 2009-2017"
   ],
   "image": {
-    "src": "html_qa/democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/396_elections_democracy_israeli_digital_rights_privacy_campaign_biometric_database_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "פעילי זכויות דיגיטליות מתכננים קמפיין פרטיות סביב שולחן עם מחשבים ומסמכים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את פרטיות המידע כזירה דמוקרטית מובהקת. הוא מראה כיצד קמפיין אזרחי יכול לתקוף מאגר ביומטרי לא רק בשם הזכות לפרטיות, אלא גם בשם נחיצות, יעילות ואחריות שלטונית.",
   "sections": [
     {

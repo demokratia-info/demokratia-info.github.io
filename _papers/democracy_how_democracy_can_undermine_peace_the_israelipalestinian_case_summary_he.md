@@ -44,14 +44,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_how_democracy_can_undermine_peace_the_israelipalestinian_case_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/296_minorities_democracy_how_democracy_can_undermine_peace_the_israelipalestinian_case_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על אזרחות, שוויון ומעמדן של קבוצות מיעוט בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-10",
-  "lastUpdatedHe": "10 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן את הקשר בין בחירות, קואליציות ודעת קהל בישראל, וטוען שמבנה דמוקרטי מפוצל יכול לפעמים להחליש תהליך שלום גם כאשר הציבור נע לכיוון תמיכה בפשרה.",
   "sections": [
     {

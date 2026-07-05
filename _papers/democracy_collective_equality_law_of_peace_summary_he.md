@@ -43,14 +43,21 @@
     "מקומות מפולגים"
   ],
   "image": {
-    "src": "html_qa/democracy_constitutionalising_system_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/116_court_democracy_collective_equality_law_of_peace_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על שוויון קולקטיבי, קבוצות לאומיות והסדר חוקתי של שלום",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "יהודה טוענת שהמתח בין שלום לצדק מוצג לעיתים בצורה צרה מדי, כאילו זכויות אדם הן רק זכויות יחידים מול פשרות פוליטיות. מושג השוויון הקולקטיבי מאפשר לבחון הסדרי שלום לפי יחסים של שוויון ואי-שליטה בין קבוצות לאומיות, ולכן הוא חשוב במיוחד לדמוקרטיה במקומות מפולגים.",
   "sections": [
     {

@@ -116,14 +116,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_ecosystem_governance_sustainable_development_goals_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-09",
+    "src": "assets/article-images/207_economy_democracy_ecosystem_governance_sustainable_development_goals_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "קבוצת מומחים ותושבים דנה במערכות אקולוגיות, מים ותכנון סביב שולחן מחקר.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שכל 17 יעדי הפיתוח בר־הקיימא נשענים על מערכות אקולוגיות עמידות, ולכן יש להציב ממשל אקולוגי אדפטיבי במרכז המדיניות ולא בשוליה.",
   "sections": [
     {

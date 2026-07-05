@@ -41,14 +41,21 @@
     "איזונים ובלמים"
   ],
   "image": {
-    "src": "html_qa/democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summary_he.jpg",
-    "version": "2026-05-21-topic-image-diversity",
+    "src": "assets/article-images/752_court_democracy_the_invisible_safeguards_of_judicial_independence_in_the_israeli_judiciary_summa.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי: מנגנוני ההגנה הסמויים על עצמאות השיפוט בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-22",
-  "lastUpdatedHe": "22 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כי עצמאות שיפוטית בישראל נשענת לא רק על חוקים כתובים אלא גם על נוהגים בלתי פורמליים, שחלקם מגינים מפני התערבות פוליטית וחלקם עלולים לפגוע בשקיפות ובאחריותיות של מערכת המשפט.",
   "sections": [
     {

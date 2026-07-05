@@ -90,7 +90,12 @@
       {% endif %}
       <figure class="paper-hero-image" data-image-fitness="high">
         <img src="{{ paper_image_src | relative_url }}" alt="{{ page.image.altHe | escape }}" width="800" height="600" decoding="async" fetchpriority="high">
+        {% if page.image.sourcePage or page.image.license or page.image.provider %}
+          <figcaption class="image-credit" data-pagefind-ignore>{% include image_credit.html image=page.image %}</figcaption>
+        {% endif %}
       </figure>
+    {% elsif page.image.sourcePage or page.image.license or page.image.provider %}
+      <p class="image-credit image-credit-standalone" data-pagefind-ignore>{% include image_credit.html image=page.image %}</p>
     {% endif %}
 
     <p class="one-liner">{{ page.oneLinerHtml }}</p>

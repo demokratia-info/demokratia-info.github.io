@@ -53,14 +53,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_being_civil_is_not_enough_on_practices_of_citizenship_of_women_living_in_poverty_in_israel_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/073_gender_democracy_being_civil_is_not_enough_on_practices_of_citizenship_of_women_living_in_poverty.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על אזרחות, שייכות וזכויות בדמוקרטיה הישראלית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שנשים בעוני אינן אזרחיות פסיביות או חסרות שפה של זכויות; דרך מאבק הדיור הציבורי הן מגדירות מחדש בית, זכאות ואזרחות פוליטית.",
   "sections": [
     {

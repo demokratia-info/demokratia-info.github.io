@@ -43,14 +43,21 @@
     "שוויון אזרחי"
   ],
   "image": {
-    "src": "html_qa/democracy_freedom_to_exclude_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/229_minorities_democracy_ethnic_democracy_model_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על דמוקרטיה אתנית, רוב לאומי וזכויות מיעוטים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "סמוחה מציע את המושג דמוקרטיה אתנית כדי לתאר משטר שבו המדינה מזוהה עם קבוצה אתנית אחת אך מעניקה זכויות מסוימות גם למיעוט. במקרה הישראלי, המודל מדגיש את המתח המתמשך בין הגדרה יהודית של המדינה לבין שוויון אזרחי מלא לערבים פלסטינים אזרחי ישראל.",
   "sections": [
     {

@@ -83,14 +83,21 @@
     "דעת קהל בישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_abusive_constitutionalism_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/031_security_democracy_affective_polarization_security_threats_october_7_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על חברה מקוטבת בזמן איום ביטחוני ומשבר דמוקרטי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-20",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציב מבחן חשוב להנחה שאסון ביטחוני מאחד את החברה ומראה שקיטוב רגשי עשוי להישאר יציב גם מול איום קיצוני. מבחינה דמוקרטית, הממצא מחייב להבחין בין סולידריות מול איום לבין שיקום אמון פוליטי פנימי; הראשון אינו מבטיח את השני.",
   "sections": [
     {

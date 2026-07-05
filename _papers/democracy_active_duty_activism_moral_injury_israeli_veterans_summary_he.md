@@ -51,14 +51,21 @@
     "שילוב חברתי"
   ],
   "image": {
-    "src": "html_qa/democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/022_civic_democracy_active_duty_activism_moral_injury_israeli_veterans_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "ותיקי לחימה בלבוש אזרחי יושבים במעגל שיחה על אחריות, שיקום ומעורבות אזרחית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שפגיעה מוסרית אינה רק נזק אישי, אלא גם כוח שמחזיר ותיקי לחימה לזירה האזרחית והפוליטית.",
   "sections": [
     {

@@ -92,14 +92,21 @@
     "דמוקרטיות שבריריות"
   ],
   "image": {
-    "src": "html_qa/democracy_world_legislatures_covid_first_wave_open_close_summary_he.jpg",
-    "version": "2026-06-07-nightly",
+    "src": "assets/article-images/858_civic_democracy_world_legislatures_covid_first_wave_open_close_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר ועדה פרלמנטרית בתקופת מגפה עם מושבים מרווחים ושיחת וידאו מטושטשת",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כי בגל הראשון של Covid-19, סגירת פרלמנטים לא נבעה בהכרח מחומרת המגפה; בחלק מהמקרים משבר בריאותי יצר סיכון ממשי ל<strong>החלשת פיקוח דמוקרטי</strong>.",
   "sections": [
     {

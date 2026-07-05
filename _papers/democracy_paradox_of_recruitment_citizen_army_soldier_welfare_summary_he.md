@@ -42,14 +42,21 @@
     "ישראל וארצות הברית"
   ],
   "image": {
-    "src": "html_qa/democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/534_civic_democracy_paradox_of_recruitment_citizen_army_soldier_welfare_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משפחות וחוקרים דנים במסמכי מדיניות על גיוס ורווחת חיילים במרחב קהילתי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציע פרדוקס חשוב ביחסי צבא-חברה: כאשר המדינה כופה שירות, היא גם יוצרת ציבור בעל יכולת מחאה ותביעה לאחריות. לכן מודל הגיוס משפיע על רווחת חיילים, על שימוש בכוח ועל גבולות אחריות המדינה.",
   "sections": [
     {

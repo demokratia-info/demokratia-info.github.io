@@ -74,14 +74,21 @@
     "אלימות פוליטית"
   ],
   "image": {
-    "src": "html_qa/democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues_negativity_and_acclaim_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/233_elections_democracy_evolution_of_brazilian_democracy_unveiling_election_dynamics_in_political_issues.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: התפתחות הדמוקרטיה הברזילאית בשיח בחירות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שבבחירות לנשיאות ברזיל ב-2022 הקמפיין בטוויטר היה שלילי יותר ופחות מבוסס שבח עצמי מאשר ב-2018, במיוחד סביב שחיתות, קוביד-19 ומדיניות מגדר.",
   "sections": [
     {

@@ -52,14 +52,21 @@
     "פופוליזם"
   ],
   "image": {
-    "src": "html_qa/democracy_journalists_personalization_branding_ideological_positioning_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-11",
+    "src": "assets/article-images/412_media_democracy_journalists_personalization_branding_ideological_positioning_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "עיתונאים בחדר חדשות דנים בטלפונים, מחשבים ומסכי מדיה מטושטשים ללא כיתוב.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
-  "lastUpdatedHe": "11 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שעידן הרשתות הופך חלק מן העיתונאים לא רק למתווכי מידע אלא גם לדמויות ממותגות, והדבר משנה את אמון הציבור ואת גבולות המקצוע.",
   "sections": [
     {

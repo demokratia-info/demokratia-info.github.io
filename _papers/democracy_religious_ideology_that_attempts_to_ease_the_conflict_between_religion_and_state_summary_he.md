@@ -43,14 +43,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/638_religion_democracy_religious_ideology_that_attempts_to_ease_the_conflict_between_religion_and_state.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של חדר לימוד אזרחי שבו רבנים, חוקרים ונציגי ציבור דנים בפשרה בין דת למדינה",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מצביע על אפשרות לפשרה בין דת למדינה מתוך שפה דתית, ולא רק מתוך הכרעה משפטית חיצונית.",
   "sections": [
     {

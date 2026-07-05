@@ -42,14 +42,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/712_minorities_democracy_the_challenges_of_an_ethnic_democracy_populism_netanyahu_and_israel_s_path_summa.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על אתגרי הדמוקרטיה האתנית והפופוליזם בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן כיצד פופוליזם ימני בישראל מאתגר את האיזון בין זהות יהודית-אתנית, ערכים דמוקרטיים והגנה על מיעוטים.",
   "sections": [
     {

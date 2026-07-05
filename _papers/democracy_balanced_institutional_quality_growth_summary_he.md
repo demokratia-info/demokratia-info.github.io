@@ -52,14 +52,21 @@
     "רפורמה מוסדית"
   ],
   "image": {
-    "src": "html_qa/democracy_balanced_institutional_quality_growth_summary_he.jpg",
-    "version": "2026-05-27-nightly",
+    "src": "assets/article-images/067_economy_democracy_balanced_institutional_quality_growth_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על איזון בין תחומי איכות מוסדית וצמיחה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-27",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן אם מדינות צומחות יותר כאשר תחומי האיכות המוסדית שלהן מאוזנים, ולא רק כאשר המדד הממוצע שלהן גבוה. הספרות נטתה למדוד מוסדות בעזרת מדדי חירות כלכלית אך להתעלם מן היחסים בין תחומי המשנה.",
   "sections": [
     {

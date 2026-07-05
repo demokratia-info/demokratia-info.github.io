@@ -45,14 +45,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_civil_disobedience_in_defense_of_democracy_menachem_begins_struggle_against_emergency_laws_in_israel_1948195_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/103_court_democracy_civil_disobedience_in_defense_of_democracy_menachem_begins_struggle_against_emer.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מאבקו של מנחם בגין בחוקי החירום בשנים 1948-1954 מדגים כיצד אי-ציות אזרחי יכול לשמש תגובה עקרונית לשחיקת עקרונות דמוקרטיים.",
   "sections": [
     {

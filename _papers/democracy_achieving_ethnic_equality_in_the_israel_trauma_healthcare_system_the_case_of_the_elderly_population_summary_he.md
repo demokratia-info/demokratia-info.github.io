@@ -87,14 +87,21 @@
     "מערכת בריאות"
   ],
   "image": {
+    "src": "assets/article-images/020_minorities_democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "סימולציה במרכז טראומה בישראל, כרקע לדיון בשוויון אתני בטיפול רפואי בקשישים.",
     "fitness": "high",
-    "src": "html_qa/democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-22"
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-22",
-  "dateModified": "2026-06-22",
-  "lastUpdatedHe": "22 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "שוויון במערכת בריאות דמוקרטית נמדד גם בשלבי ההמשך של הטיפול: אשפוז ממושך, טיפול נמרץ ושחרור לשיקום.",
   "sections": [
     {

@@ -60,14 +60,21 @@
     "ישראל גרמניה וארצות הברית"
   ],
   "image": {
-    "src": "html_qa/democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.jpg",
-    "version": "2026-05-30-nightly",
+    "src": "assets/article-images/472_gender_democracy_mainstreaming_democratic_backsliding_gender_stereotypes_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "סדנת מחקר פוליטית על סטריאוטיפים מגדריים ונרמול מדיניות שוחקת דמוקרטיה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-30",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שסטריאוטיפים מגדריים יכולים לרכך את הדימוי הציבורי של אגנדות שוחקות דמוקרטיה. כאשר נשים מייצגות מדיניות ימין רדיקלי, חלק מן הציבור עשוי לראות אותה כלגיטימית יותר.",
   "sections": [
     {

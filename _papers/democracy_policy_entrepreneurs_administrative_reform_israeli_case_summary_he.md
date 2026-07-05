@@ -41,14 +41,21 @@
     "עיצוב מדיניות"
   ],
   "image": {
-    "src": "html_qa/democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-17",
+    "src": "assets/article-images/557_civic_democracy_policy_entrepreneurs_administrative_reform_israeli_case_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "צוותי מדיניות ושירות ציבורי מסדרים כרטיסי רפורמה אנונימיים סביב שולחן עבודה ממשלתי ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
-  "lastUpdatedHe": "17 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "רפורמה מנהלית אינה נולדת רק ממבנה פורמלי; היא תלויה גם בשחקנים שמזהים חלון הזדמנויות ומתרגמים רעיון למהלך מוסדי.",
   "sections": [
     {

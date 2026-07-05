@@ -43,14 +43,21 @@
     "בזמן"
   ],
   "image": {
-    "src": "html_qa/democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/843_court_democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על אחריות המדינה בנזיקין בזמן לחימה",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן את סעיף 5ב לחוק העוולות האזרחיות ומראה כיצד חסינות נזיקית רחבה מדי עלולה לפגוע באחריות המדינה ובזכות לסעד על פגיעה לא מוצדקת.",
   "sections": [
     {

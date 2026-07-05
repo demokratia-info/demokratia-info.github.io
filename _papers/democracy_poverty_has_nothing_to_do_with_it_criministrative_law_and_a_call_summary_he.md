@@ -43,14 +43,21 @@
     "אי־שוויון"
   ],
   "image": {
-    "src": "html_qa/democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-14",
+    "src": "assets/article-images/583_economy_democracy_poverty_has_nothing_to_do_with_it_criministrative_law_and_a_call_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר ייעוץ משפטי־חברתי צנוע עם תיקי רווחה ריקים ושיחה זהירה על עוני, הורות והגנת ילדים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-06-14",
-  "dateModified": "2026-06-14",
-  "lastUpdatedHe": "14 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "כאשר מערכת משפטית רואה מחסור חומרי אך מסרבת להכיר בו כהסבר, היא עלולה להפוך עוני לאשמה אישית במקום לסוגיית זכויות ושוויון.",
   "sections": [
     {

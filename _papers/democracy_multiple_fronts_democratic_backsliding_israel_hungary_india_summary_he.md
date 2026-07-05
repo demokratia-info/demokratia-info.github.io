@@ -62,14 +62,21 @@
     "איזונים ובלמים"
   ],
   "image": {
-    "src": "html_qa/democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-13",
+    "src": "assets/article-images/501_court_democracy_multiple_fronts_democratic_backsliding_israel_hungary_india_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר מחקר אזרחי עם שולחנות, תיקי מסמכים ומפת השוואה בין כמה זירות של נסיגה דמוקרטית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-13",
-  "dateModified": "2026-06-13",
-  "lastUpdatedHe": "13 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "נסיגה דמוקרטית אינה מתרחשת רק בחוק אחד או במוסד אחד; היא מתקדמת דרך כמה חזיתות שמחלישות יחד את יכולת הציבור להגביל כוח שלטוני.",
   "sections": [
     {

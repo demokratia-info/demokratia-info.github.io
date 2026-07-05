@@ -63,14 +63,21 @@
     "בחירות"
   ],
   "image": {
-    "src": "html_qa/democracy_boundary_national_stories_populist_right_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/080_protest_democracy_boundary_national_stories_populist_right_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "דיון קהילתי סביב מפה ונרטיבים לאומיים שמסמנים גבולות חברתיים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שסיפורים לאומיים המדגישים גבול בין קבוצת הפנים לקבוצת החוץ קשורים לתמיכה בימין פופוליסטי רדיקלי. ההשפעה חזקה במיוחד בקרב קבוצות שוליות, ולכן נרטיב לאומי יכול להפוך ממקור לכידות למנוע קיטוב.",
   "sections": [
     {

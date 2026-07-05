@@ -60,14 +60,21 @@
     "מאבק אלים"
   ],
   "image": {
-    "src": "html_qa/democracy_west_bank_political_trust_self_sacrifice_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/838_security_democracy_west_bank_political_trust_self_sacrifice_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים מראיינים תושבים בחדר קהילתי על אמון פוליטי וזכויות בזמן סכסוך",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציע לקרוא נכונות להקרבה דרך אמון פוליטי ולא רק דרך הערכות ביטחוניות. הוא מראה שדמוקרטיה, זכויות אדם, שחיתות ופיצול פנימי הם חלק מהדרך שבה תושבי הגדה מבינים פעולה פוליטית.",
   "sections": [
     {

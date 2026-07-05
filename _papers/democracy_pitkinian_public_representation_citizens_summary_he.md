@@ -113,14 +113,21 @@
     "ייצוג זוגי"
   ],
   "image": {
-    "src": "html_qa/democracy_pitkinian_public_representation_citizens_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/548_civic_democracy_pitkinian_public_representation_citizens_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אזרחים וחוקרים בוחנים ייצוג פוליטי בחדר דיון פרלמנטרי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שאזרחים מבחינים בין סוגי ייצוג, אך עמדותיהם הדמוקרטיות קשורות יותר לשאלה אם הכנסת מייצגת אותם כמוסד קולקטיבי מאשר לשאלה אם נציג יחיד מייצג אותם.",
   "sections": [
     {

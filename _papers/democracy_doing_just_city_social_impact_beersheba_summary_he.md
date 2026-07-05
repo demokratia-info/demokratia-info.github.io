@@ -52,14 +52,21 @@
     "דמוקרטיה"
   ],
   "image": {
-    "src": "html_qa/democracy_doing_just_city_social_impact_beersheba_summary_he.jpg",
-    "version": "2026-06-02-nightly",
+    "src": "assets/article-images/197_minorities_democracy_doing_just_city_social_impact_beersheba_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "סטודיו תכנון בבאר שבע בוחן השפעה חברתית ועקרונות עיר צודקת",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-02",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהערכת השפעה חברתית יכולה להפוך עקרונות של עיר צודקת לכלי תכנוני מעשי. היא בוחנת אם תכנון מצמצם אי־שוויון או רק מציג אותו בשפה מקצועית.",
   "sections": [
     {

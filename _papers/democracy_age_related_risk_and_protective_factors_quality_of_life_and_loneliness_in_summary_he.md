@@ -68,14 +68,21 @@
     "תמיכה חברתית"
   ],
   "image": {
-    "src": "html_qa/democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-14",
+    "src": "assets/article-images/033_minorities_democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summar.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מרכז קהילתי חמים שבו מבוגרים להט״בים בגילים שונים יושבים במעגל שיחה תומך ללא סיסמאות או טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-14",
-  "dateModified": "2026-06-14",
-  "lastUpdatedHe": "14 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "רווחה של מבוגרים להט״בים אינה תלויה בגיל בלבד; היא נוצרת דרך רשתות חברתיות, חוסן, חשיפת זהות ומדיניות קהילתית רב־גילית.",
   "sections": [
     {

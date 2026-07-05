@@ -53,14 +53,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_good_citizens_new_religious_movements_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/273_religion_democracy_good_citizens_new_religious_movements_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מבוגרים בחדר קהילתי מארגנים חומרי לימוד וציוד התנדבות כחלק מדיון על אזרחות ושייכות.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "קבוצות דתיות חדשות יכולות להקטין התנגדות ציבורית כאשר הן מתרגמות שונות דתית לשפת תרומה אזרחית מוכרת.",
   "sections": [
     {

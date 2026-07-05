@@ -43,14 +43,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_religion_ideology_governance_israel_political_landscape_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/627_haredi_democracy_religion_ideology_governance_israel_political_landscape_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נציגים קהילתיים מגוונים בחדר דיון עירוני דנים במסמכי מדיניות אנונימיים על דת ומשילות.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:haredi"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "משילות דמוקרטית בישראל נדרשת לתווך בין זהות דתית, שינויים חברתיים, ייצוג הוגן ושאלות של אחריות אזרחית.",
   "sections": [
     {

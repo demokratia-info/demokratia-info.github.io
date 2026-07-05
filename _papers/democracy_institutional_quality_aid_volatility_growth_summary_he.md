@@ -49,14 +49,21 @@
     "אחריותיות"
   ],
   "image": {
-    "src": "html_qa/democracy_institutional_quality_aid_volatility_growth_summary_he.jpg",
-    "version": "2026-05-28-nightly",
+    "src": "assets/article-images/335_economy_democracy_institutional_quality_aid_volatility_growth_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על איכות מוסדית ותנודתיות סיוע בחדר תכנון מדיניות פיתוח",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-28",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שתנודתיות בסיוע חוץ קשורה לפגיעה בצמיחה, אך מוסדות חזקים יכולים לרכך את הנזק. לכן אפקטיביות של סיוע תלויה לא רק בכמות הכסף אלא גם ביכולת הציבורית לנהל אותו לאורך זמן.",
   "sections": [
     {

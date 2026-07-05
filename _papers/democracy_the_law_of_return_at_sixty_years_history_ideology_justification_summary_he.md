@@ -45,14 +45,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/761_court_democracy_the_law_of_return_at_sixty_years_history_ideology_justification_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על חוק השבות והצדקתו במדינה יהודית ודמוקרטית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "חוק השבות מ־1950 מעניק ליהודים זכות עלייה לישראל; גביזון מציגה אותו ככלי למימוש קיבוץ גלויות והגדרה עצמית יהודית, אך מציעה לבחון מחדש חלק מההסדרים שנבנו סביבו.",
   "sections": [
     {

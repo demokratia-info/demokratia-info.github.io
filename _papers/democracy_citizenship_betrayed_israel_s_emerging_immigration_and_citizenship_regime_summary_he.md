@@ -41,14 +41,21 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summary_he.jpg",
-    "version": "2026-05-21-image-audit",
+    "src": "assets/article-images/099_religion_democracy_citizenship_betrayed_israel_s_emerging_immigration_and_citizenship_regime_summar.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי: אזרחות נבגדת: משטר ההגירה והאזרחות המתהווה בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שמשטר האזרחות המתעצב בישראל מטשטש בין פלסטינים אזרחים ללא־אזרחים, ובכך מחליש את עצם מעמד האזרחות של המיעוט הפלסטיני.",
   "sections": [
     {

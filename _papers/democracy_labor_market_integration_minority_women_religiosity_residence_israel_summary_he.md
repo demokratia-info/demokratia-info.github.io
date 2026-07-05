@@ -70,14 +70,21 @@
     "שוויון תעסוקתי"
   ],
   "image": {
-    "src": "html_qa/democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-16",
+    "src": "assets/article-images/434_gender_democracy_labor_market_integration_minority_women_religiosity_residence_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נשים ערביות ויועצת תעסוקה יושבות סביב שולחן במרכז הכשרה עם טפסים ריקים וללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-06-16",
-  "dateModified": "2026-06-16",
-  "lastUpdatedHe": "16 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "שוויון תעסוקתי של נשים ערביות תלוי לא רק בהשתתפות בעבודה, אלא גם באיכות המשרה, בשכר, במקום המגורים ובחסמים קהילתיים ומוסדיים.",
   "sections": [
     {

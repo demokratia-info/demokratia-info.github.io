@@ -45,14 +45,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_leadership_traje_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/445_minorities_democracy_leadership_for_equity_and_social_justice_in_arab_and_jewish_schools_in_israel_le.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מנהיגות חינוכית לשוויון וצדק חברתי בבתי ספר",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר בוחן כיצד חמישה מנהלים יהודים וחמישה מנהלים ערבים בישראל מקדמים צדק חברתי בבתי ספר בתוך מערכת חינוך שממשיכה לשקף פערים אתניים וחברתיים.",
   "sections": [
     {

@@ -68,14 +68,21 @@
     "צמיחה כלכלית"
   ],
   "image": {
-    "src": "html_qa/democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performance_summary_he.jpg",
-    "version": "2026-05-25-nightly",
+    "src": "assets/article-images/135_economy_democracy_contract_intensive_money_contract_enforcement_property_rights_economic_performan.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על חוזים, בנק ציבורי ואמון באכיפה מוסדית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד החזקת כסף בתוך מוסדות פיננסיים יכולה לשמש מדד לאמון באכיפת חוזים ובזכויות קניין, וכיצד אמון כזה נקשר להשקעה ולביצועים כלכליים.",
   "sections": [
     {

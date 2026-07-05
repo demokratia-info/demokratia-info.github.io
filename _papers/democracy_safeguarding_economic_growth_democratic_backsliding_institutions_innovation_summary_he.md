@@ -53,14 +53,21 @@
     "כלכלה פוליטית"
   ],
   "image": {
-    "src": "html_qa/democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summary_he.jpg",
-    "version": "2026-06-07-nightly",
+    "src": "assets/article-images/651_economy_democracy_safeguarding_economic_growth_democratic_backsliding_institutions_innovation_summ.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי מדיניות וכלכלה בוחנים מסמכי צמיחה ואיכות מוסדית בחדר מחקר ציבורי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-06-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען כי תרומתה הכלכלית של דמוקרטיה עוברת בעיקר דרך מוסדות יציבים, שלטון חוק וזכויות קניין, ולא רק דרך עידוד חדשנות.",
   "sections": [
     {

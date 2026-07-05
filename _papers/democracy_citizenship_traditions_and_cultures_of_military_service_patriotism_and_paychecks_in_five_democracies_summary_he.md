@@ -95,14 +95,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_citizenship_traditions_and_cultures_of_military_service_patriotism_and_paychecks_in_five_democracies_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/100_security_democracy_citizenship_traditions_and_cultures_of_military_service_patriotism_and_paychecks.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על מסורות אזרחות ותרבויות שירות צבאי בדמוקרטיות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שתפיסות ציבוריות של שירות צבאי שונות מאוד בין דמוקרטיות, וששירות נתפס לעיתים כשליחות אזרחית ולעיתים כעבודה בשכר או כברירת מחדל.",
   "sections": [
     {

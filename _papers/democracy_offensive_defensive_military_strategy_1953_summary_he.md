@@ -62,14 +62,21 @@
     "קבלת החלטות"
   ],
   "image": {
-    "src": "html_qa/democracy_offensive_defensive_military_strategy_1953_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/521_security_democracy_offensive_defensive_military_strategy_1953_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר תכנון ממשלתי משנות החמישים עם אזרחים וקצינים סביב מפת אסטרטגיה וקלסרים ארכיוניים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהחלטות אסטרטגיות אינן רק עניין צבאי מקצועי. הן גם מבחן למוסדות אזרחיים, ליכולת לשאול מי יוזם שינוי ביטחוני ולדרך שבה ממשלה מאשרת אותו.",
   "sections": [
     {

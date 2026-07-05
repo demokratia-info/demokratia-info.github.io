@@ -52,14 +52,21 @@
     "חוסן אזרחי"
   ],
   "image": {
-    "src": "html_qa/democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-16",
+    "src": "assets/article-images/333_civic_democracy_information_seeking_crisis_terrorist_attack_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משפחה בסלון חשוך בודקת כמה מקורות מידע במסכים מטושטשים בזמן משבר, ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-16",
-  "dateModified": "2026-06-16",
-  "lastUpdatedHe": "16 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "חוסן אזרחי בעידן דיגיטלי תלוי לא רק בזמינות מידע, אלא גם ביכולת לסנן, להצליב ולהפסיק צריכה מזיקה בזמן משבר.",
   "sections": [
     {

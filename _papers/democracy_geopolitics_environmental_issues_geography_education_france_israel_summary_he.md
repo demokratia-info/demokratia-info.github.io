@@ -52,14 +52,21 @@
     "אזרחות סביבתית"
   ],
   "image": {
-    "src": "html_qa/democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/267_education_democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מורים בסדנת גאוגרפיה בוחנים מפות ומשאבי למידה ללא טקסט קריא על סביבה ופוליטיקה.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הוראת סביבה נעשית אזרחית יותר כאשר היא מסבירה מי מחליט, מי נפגע ומי משתתף בעיצוב המדיניות.",
   "sections": [
     {

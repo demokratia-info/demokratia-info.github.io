@@ -44,14 +44,21 @@
     "שוויון עירוני"
   ],
   "image": {
-    "src": "html_qa/democracy_urban_citizenship_gray_space_metrozenship_summary_he.jpg",
-    "version": "2026-06-02-nightly",
+    "src": "assets/article-images/834_minorities_democracy_urban_citizenship_gray_space_metrozenship_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים ופעילי קהילה בוחנים מפות עירוניות בדיון על אזרחות מטרופולינית ושוויון",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-02",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציע לראות במאבק על העיר מאבק על אזרחות שוויונית במרחב מטרופוליני, במיוחד במקומות שבהם אי־פורמליות ולאומיות יוצרות שכבות שונות של זכאות ושייכות.",
   "sections": [
     {

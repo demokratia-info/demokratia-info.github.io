@@ -47,14 +47,21 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_rights_in_israel_1970_2010_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/709_gender_democracy_the_boundaries_of_social_transformation_through_litigation_women_s_and_lgbt_righ.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על גבולות שינוי חברתי בהתדיינות זכויות נשים ולהט״ב בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן את גבולות הליטיגציה ככלי לשינוי חברתי דרך השוואה בין זכויות נשים וזכויות להט\"ב בישראל.",
   "sections": [
     {

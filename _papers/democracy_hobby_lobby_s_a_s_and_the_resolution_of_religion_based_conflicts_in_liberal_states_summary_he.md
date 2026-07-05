@@ -43,14 +43,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_states_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/293_gender_democracy_hobby_lobby_s_a_s_and_the_resolution_of_religion_based_conflicts_in_liberal_stat.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של מוסדות חוקתיים הדנים בקונפליקט בין דת, שוויון וזכויות גוף",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הגנה חוקתית על דת צריכה להיבחן גם לפי המחיר שהיא מטילה על שוויון, חירות גוף וזכויות של קבוצות שאינן רוב דומיננטי.",
   "sections": [
     {

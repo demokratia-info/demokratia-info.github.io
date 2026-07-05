@@ -63,14 +63,21 @@
     "זכויות קניין"
   ],
   "image": {
-    "src": "html_qa/democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.jpg",
-    "version": "2026-05-25-nightly",
+    "src": "assets/article-images/852_economy_democracy_why_does_the_law_matter_investor_protection_investment_finance_growth_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על הגנת משקיעים, מסמכים פיננסיים ופיקוח מוסדי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הגנת משקיעים חזקה יכולה להפוך את שוק ההון ממרחב של כוח פרטי למנגנון מוסדי שמכוון השקעה יעילה יותר. לכן אכיפת זכויות, שקיפות וגישה למימון הן גם שאלות של שלטון החוק.",
   "sections": [
     {

@@ -54,14 +54,21 @@
     "חוקי זיכרון"
   ],
   "image": {
-    "src": "html_qa/democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.jpg",
-    "version": "2026-06-01-nightly",
+    "src": "assets/article-images/493_court_democracy_mizrahi_holocaust_memory_inclusion_national_narrative_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "סצנת ארכיון קהילתית על זיכרון מיעוטים ושייכות לנרטיב הלאומי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהכרה חוקית בזיכרון של קהילות מיעוט היא צעד חשוב, אך אינה מספיקה לבדה ליצירת שייכות דמוקרטית. השאלה היא איך ההכרה מתורגמת לייצוג ממשי בחינוך, בהנצחה ובסיפור הציבורי.",
   "sections": [
     {

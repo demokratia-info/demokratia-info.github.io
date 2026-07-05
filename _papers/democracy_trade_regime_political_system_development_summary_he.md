@@ -53,14 +53,21 @@
     "פיתוח"
   ],
   "image": {
-    "src": "html_qa/democracy_trade_regime_political_system_development_summary_he.jpg",
-    "version": "2026-05-27-nightly",
+    "src": "assets/article-images/817_economy_democracy_trade_regime_political_system_development_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על פתיחות למסחר, כוח פוליטי ופיתוח",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-27",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "פתיחות למסחר אינה מבטיחה פיתוח: במשטר הנשלט בידי בעלי קרקע היא עלולה לחזק התנגדות ל<strong>חינוך ציבורי ותיעוש</strong>.",
   "sections": [
     {

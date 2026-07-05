@@ -50,14 +50,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_israel_summary_he.jpg",
-    "version": "2026-05-21-image-audit",
+    "src": "assets/article-images/578_protest_democracy_populism_as_a_political_term_and_in_the_context_of_the_state_of_democracy_in_isr.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על פופוליזם כמושג פוליטי בהקשר הישראלי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שפופוליזם אינו רק סיסמה פוליטית, אלא שימוש בשפה שמבטא תגובת נגד ל<strong>אליטות שלטוניות</strong> בתוך הקשרים חברתיים ותרבותיים.",
   "sections": [
     {

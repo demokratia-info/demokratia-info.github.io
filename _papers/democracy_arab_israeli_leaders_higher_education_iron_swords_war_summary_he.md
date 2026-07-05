@@ -49,14 +49,21 @@
     "השתקה"
   ],
   "image": {
-    "src": "html_qa/democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-15",
+    "src": "assets/article-images/051_education_democracy_arab_israeli_leaders_higher_education_iron_swords_war_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "צוות אקדמי יושב בדיון תומך ומתוח בחדר ישיבות בקמפוס בזמן משבר ללא מסכים או טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-06-15",
-  "dateModified": "2026-06-15",
-  "lastUpdatedHe": "15 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "בזמן מלחמה, מוסדות אקדמיים נבחנים ביכולתם להגן על מנהיגות מיעוט, לאפשר דיבור ולבנות חוסן בלי למחוק פחד ובידוד.",
   "sections": [
     {

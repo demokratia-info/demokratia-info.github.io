@@ -62,14 +62,21 @@
     "תקשורת פוליטית"
   ],
   "image": {
-    "src": "html_qa/democracy_online_emotional_landscape_knesset_government_crisis_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/523_security_democracy_online_emotional_landscape_knesset_government_crisis_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי תקשורת בוחנים כרטיסי תגובות רגשיות סביב שולחן מחקר מוסדי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שמשברים אזרחיים וצבאיים מייצרים דפוסי תגובה רגשית שונים סביב תקשורת פוליטית בפייסבוק.",
   "sections": [
     {

@@ -42,14 +42,21 @@
     "מיעוטים"
   ],
   "image": {
-    "src": "html_qa/democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/198_druze_democracy_druze_army_limited_entrance_ticket_israeli_society_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "גברים דרוזים ואנשי קהילה יושבים סביב שולחן בדיון אזרחי על שירות, שייכות ושוויון.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:druze"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "שירות צבאי יכול להעניק הכרה סמלית, אך המאמר מדגיש שהכרה כזאת אינה מחליפה שוויון אזרחי ממשי.",
   "sections": [
     {

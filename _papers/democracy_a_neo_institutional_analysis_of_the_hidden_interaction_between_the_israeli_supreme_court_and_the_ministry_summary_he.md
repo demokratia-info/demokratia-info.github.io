@@ -57,14 +57,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supreme_court_and_the_ministry_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/012_economy_democracy_a_neo_institutional_analysis_of_the_hidden_interaction_between_the_israeli_supre.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על בית המשפט העליון, משרד האוצר והזכות לשירותי בריאות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד חוק ההסדרים ופסיקת בית המשפט העליון מעצבים את הזכות לשירותי בריאות, ומחזקים בפועל את כוחו של משרד האוצר במדיניות ציבורית.",
   "sections": [
     {

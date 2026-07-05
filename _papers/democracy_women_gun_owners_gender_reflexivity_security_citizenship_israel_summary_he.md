@@ -62,14 +62,21 @@
     "בעלות אזרחית על אקדח"
   ],
   "image": {
-    "src": "html_qa/democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-16",
+    "src": "assets/article-images/856_gender_democracy_women_gun_owners_gender_reflexivity_security_citizenship_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נשים יושבות בכיתת בטיחות אזרחית סביב נרתיק נעול וחומרי הדרכה ריקים ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-06-16",
-  "dateModified": "2026-06-16",
-  "lastUpdatedHe": "16 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "כאשר ביטחון אישי עובר מן המדינה אל האזרחית החמושה, משתנה גם הדרך שבה נשיות, אימהות ואזרחות מתפקדות במרחב הציבורי.",
   "sections": [
     {

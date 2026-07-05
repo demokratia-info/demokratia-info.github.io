@@ -63,14 +63,21 @@
     "עצמאות שיפוטית"
   ],
   "image": {
-    "src": "html_qa/democracy_first_brick_democratic_erosion_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/289_court_democracy_history_court_administration_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על היסטוריה מוסדית של הנהלת בתי המשפט ושלטון החוק",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "ההיסטוריה של הנהלת בתי המשפט בישראל אינה רק סיפור ניהולי. היא חושפת כיצד עצמאות שיפוטית נבנית בתוך מתחים מתמשכים בין שר המשפטים, נשיא בית המשפט העליון, מנהל בתי המשפט, נשיאי ערכאות ושופטים מן השורה.",
   "sections": [
     {

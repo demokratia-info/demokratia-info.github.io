@@ -75,14 +75,21 @@
     "השוואה בין מדינות"
   ],
   "image": {
-    "src": "html_qa/democracy_nation_owe_non_citizens_rights_summary_he.jpg",
-    "version": "2026-06-02-nightly",
+    "src": "assets/article-images/504_protest_democracy_nation_owe_non_citizens_rights_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בוחנים סקרי דעת קהל על זכויות מהגרים ושייכות אזרחית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-06-02",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהנכונות לתת זכויות למהגרים אינה נובעת רק מסוג המשטר או ממדיניות ההגירה הרשמית. היא מושפעת מאופן שבו אזרחים מפרשים שייכות, איום וזהות לאומית.",
   "sections": [
     {

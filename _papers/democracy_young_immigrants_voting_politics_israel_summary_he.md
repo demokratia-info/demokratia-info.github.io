@@ -44,14 +44,21 @@
     "פוליטיקה ישראלית"
   ],
   "image": {
-    "src": "html_qa/democracy_young_immigrants_voting_politics_israel_summary_he.jpg",
-    "version": "2026-06-04-nightly",
+    "src": "assets/article-images/860_elections_democracy_young_immigrants_voting_politics_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "צעירים עולים במרכז קהילתי לומדים על הצבעה ופוליטיקה ישראלית סביב קלפי אנונימית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-06-04",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מזכיר שהשתתפות פוליטית של מהגרים נוצרת בתוך תהליך למידה וזהות. הצבעה היא פעולה אזרחית, אבל המשמעות שלה משתנה לפי ניסיון הגירה, שפה, משפחה ומפגש עם מוסדות המדינה.",
   "sections": [
     {

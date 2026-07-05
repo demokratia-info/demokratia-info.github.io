@@ -53,14 +53,21 @@
     "מחאה"
   ],
   "image": {
-    "src": "html_qa/democracy_democratic_ideals_participation_social_rights_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/170_civic_democracy_democratic_ideals_participation_social_rights_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר חינוך אזרחי שבו אזרחים בוחנים דרכי השתתפות פוליטית וחברתית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שאידיאלים דמוקרטיים אינם רק עמדות מופשטות. מי שמדגישים זכויות פוליטיות פעילים יותר בכלל צורות ההשתתפות, ואילו מדגישי זכויות חברתיות נוטים יותר לפעולה לא־ממוסדת ופחות לפעולה ממוסדת.",
   "sections": [
     {

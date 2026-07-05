@@ -43,14 +43,21 @@
     "בחירות"
   ],
   "image": {
-    "src": "html_qa/democracy_likud_1977_democracy_in_danger_campaign_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/457_elections_democracy_likud_1977_democracy_in_danger_campaign_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חברי כנסת מצביעים באולם המליאה בתקופת המהפך הפוליטי והדיון על חילופי שלטון דמוקרטיים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציע לבחון אזהרות על סכנה לדמוקרטיה מול עובדות מוסדיות. חילופי שלטון יכולים להיות רגע של פחד, אך גם רגע שבו מתבררת יכולת הדמוקרטיה להכיל תחרות אמיתית.",
   "sections": [
     {

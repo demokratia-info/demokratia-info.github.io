@@ -63,14 +63,21 @@
     "חקלאות"
   ],
   "image": {
-    "src": "html_qa/democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.jpg",
-    "version": "2026-05-25-nightly",
+    "src": "assets/article-images/249_economy_democracy_foreign_aid_institutional_quality_economic_growth_developing_world_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על סיוע חוץ, מוסדות ציבוריים ותכנון פיתוח",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "סיוע חוץ יכול לתמוך בצמיחה רק כאשר מוסדות מקומיים מסוגלים לתכנן, לבצע ולדווח. לכן הדיון בסיוע הוא גם דיון בשירות ציבורי, שקיפות ואחריות דמוקרטית.",
   "sections": [
     {

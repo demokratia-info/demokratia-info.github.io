@@ -54,14 +54,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_israeli_palestinian_conflict_elections_summary_he.jpg",
-    "version": "2026-06-04-nightly",
+    "src": "assets/article-images/397_elections_democracy_israeli_palestinian_conflict_elections_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים ופקחי בחירות מנתחים פתקים ומפות אנונימיות בחדר לא מפלגתי לאחר מערכת בחירות",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-06-04",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שבחירות יכולות לעצב סכסוך גם כאשר הדיון הציבורי סביבו אינו עמוק דיו. העברת שלטון וייצוג משתנה עשויים להשפיע על מדיניות יותר מן ההצדקות שנאמרות בקמפיין.",
   "sections": [
     {

@@ -44,14 +44,21 @@
     "עמדות כלפי יריבים"
   ],
   "image": {
-    "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/666_media_democracy_social_media_news_polarization_experiment_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על חדשות ברשתות חברתיות, שיח ציבורי וקיטוב פוליטי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "הניסוי של לוי מראה שחשיפה לחדשות ברשתות חברתיות משנה את מסלולי החשיפה למידע ואת היחס הרגשי ליריבים פוליטיים, אך אינה בהכרח משנה דעות מדיניות. הדמוקרטיה נפגעת במיוחד כאשר אלגוריתמים מצמצמים חשיפה לתוכן מנוגד לעמדות ומחזקים הפרדה בין מחנות.",
   "sections": [
     {

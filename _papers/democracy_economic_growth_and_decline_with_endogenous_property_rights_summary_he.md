@@ -42,14 +42,21 @@
     "מלכודת צמיחה"
   ],
   "image": {
-    "src": "html_qa/democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.jpg",
-    "version": "2026-05-24-nightly",
+    "src": "assets/article-images/204_economy_democracy_economic_growth_and_decline_with_endogenous_property_rights_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מועצה מקומית, זכויות קניין ומשאבים משותפים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-24",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "זכויות קניין אינן רק תנאי רקע לצמיחה: המאמר מראה כיצד קבוצות אינטרס יכולות ליצור, לשמר או לשחוק מוסדות קניין, וכך לייצר צמיחה, דעיכה או מלכודת צמיחה נמוכה.",
   "sections": [
     {

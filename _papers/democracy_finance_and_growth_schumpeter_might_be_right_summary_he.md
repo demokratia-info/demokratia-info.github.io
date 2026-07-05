@@ -53,14 +53,21 @@
     "השקעה"
   ],
   "image": {
-    "src": "html_qa/democracy_finance_and_growth_schumpeter_might_be_right_summary_he.jpg",
-    "version": "2026-05-24-nightly",
+    "src": "assets/article-images/245_economy_democracy_finance_and_growth_schumpeter_might_be_right_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מימון, השקעה וצמיחה במוסדות ציבוריים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-24",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מערכת פיננסית שמתווכת מידע, אשראי וחיסכון יכולה להיות חלק מן התשתית המוסדית של צמיחה. לכן הדיון במימון הוא גם דיון בשלטון החוק, אמון ציבורי והזדמנות כלכלית.",
   "sections": [
     {

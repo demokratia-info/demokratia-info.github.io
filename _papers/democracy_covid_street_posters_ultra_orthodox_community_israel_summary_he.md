@@ -42,14 +42,21 @@
     "אמון ציבורי"
   ],
   "image": {
-    "src": "html_qa/democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-17",
+    "src": "assets/article-images/143_haredi_democracy_covid_street_posters_ultra_orthodox_community_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "לוח מודעות רחוב בשכונה חרדית עם פוסטרים מטושטשים לחלוטין ועוברים ושבים, ללא טקסט קריא או סמלי מוסד.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:haredi"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
-  "lastUpdatedHe": "17 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "תקשורת בריאות שוויונית צריכה להבין לא רק מה המדינה אומרת, אלא גם באילו ערוצים קהילות מקבלות או דוחות סמכות.",
   "sections": [
     {

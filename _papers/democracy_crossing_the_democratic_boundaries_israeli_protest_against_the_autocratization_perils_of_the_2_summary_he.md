@@ -45,14 +45,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_perils_of_the_2_summary_he.jpg",
-    "version": "2026-05-21-image-audit",
+    "src": "assets/article-images/147_protest_democracy_crossing_the_democratic_boundaries_israeli_protest_against_the_autocratization_p.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מחאה נגד סכנות אוטוקרטיזציה ברפורמה מוסדית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מפרש את מחאת 2023 בישראל לא רק כתגובה לרפורמה משפטית, אלא כביטוי למתח עמוק בין בלעדיות יהודית של המדינה לבין תפיסה דמוקרטית אוניברסלית.",
   "sections": [
     {

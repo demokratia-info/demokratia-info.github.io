@@ -51,14 +51,21 @@
     "אמון באכיפה"
   ],
   "image": {
-    "src": "html_qa/democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/478_media_democracy_masculinity_violence_social_media_arab_young_men_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נערים וצעירים ערבים יושבים עם מדריכים בסדנת קהילה על גבריות, אמון וביטחון אישי.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מניעת אלימות מחייבת להבין את השפה החברתית של גבריות, כבוד, מדיה ואמון, ולא רק להגביר אכיפה.",
   "sections": [
     {

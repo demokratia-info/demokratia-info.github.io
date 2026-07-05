@@ -62,14 +62,21 @@
     "דעת קהל"
   ],
   "image": {
-    "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/539_civic_democracy_party_pair_affective_polarization_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על יחסים בין מפלגות וקיטוב רגשי בדמוקרטיה רב-מפלגתית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-20",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "קיטוב רגשי במערכות רב־מפלגתיות הוא רשת של יחסים בין מפלגות: פערי מדיניות מגבירים סלידה, שותפות קואליציונית מרככת אותה, ומפלגות ימין רדיקלי מעוררות דחייה חריגה.",
   "sections": [
     {

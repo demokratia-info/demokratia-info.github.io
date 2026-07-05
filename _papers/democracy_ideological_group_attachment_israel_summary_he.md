@@ -62,14 +62,21 @@
     "בחירת מפלגה"
   ],
   "image": {
-    "src": "html_qa/democracy_ideological_group_attachment_israel_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/316_elections_democracy_ideological_group_attachment_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משתתפים וחוקרים בוחנים מחנות אידיאולוגיים בחדר סקר פוליטי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהתקשרות למחנה אידיאולוגי יכולה להיות חזקה מזהות מפלגתית רגילה. בישראל, קשר רגשי כזה קשור להצבעה, להשתתפות ולתגובות של כעס או התלהבות מול איום פוליטי.",
   "sections": [
     {

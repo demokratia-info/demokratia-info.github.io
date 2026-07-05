@@ -51,14 +51,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_conceptions_of_democracy_and_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/796_court_democracy_the_representation_of_the_holocaust_in_israeli_society_and_its_implications_on_c.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-10",
-  "lastUpdatedHe": "10 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן כיצד ייצוג פרטיקולריסטי של השואה בישראל עלול לצמצם את הבנת הקשר בין לאומנות קיצונית, קריסת ערכים דמוקרטיים וזכויות אדם, ומציע גישה הקשרית להוראת השואה שמדגישה זכויות אוניברסליות.",
   "sections": [
     {

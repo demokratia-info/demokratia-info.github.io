@@ -43,14 +43,21 @@
     "ביטחון ודמוקרטיה"
   ],
   "image": {
-    "src": "html_qa/democracy_judicial_reform_spark_october_7_war_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/424_security_democracy_judicial_reform_spark_october_7_war_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים ואנשי מדיניות בוחנים מסמכים ומפת אירועים מטושטשת בדיון על רפורמה משפטית, מחאה ולכידות.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מזהיר שפילוג פנימי סביב כללי המשטר עלול להיתפס גם מחוץ למדינה כחולשה אסטרטגית.",
   "sections": [
     {

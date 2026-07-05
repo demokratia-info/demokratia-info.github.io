@@ -52,14 +52,21 @@
     "דעת קהל"
   ],
   "image": {
-    "src": "html_qa/democracy_meso_news_spaces_public_private_domains_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-12",
+    "src": "assets/article-images/484_media_democracy_meso_news_spaces_public_private_domains_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משתתפים בחלל קהילתי משתמשים בטלפונים ומחשבים ליד חלון המפריד בין שיחה פרטית לציבורית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-12",
-  "dateModified": "2026-06-12",
-  "lastUpdatedHe": "12 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מסביר מדוע חלק חשוב מן השיחה החדשותית הדמוקרטית מתרחש כיום במרחבים חצי־פרטיים שקשה לראותם דרך מודלים ישנים של תקשורת המונים.",
   "sections": [
     {

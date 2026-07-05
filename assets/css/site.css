@@ -128,6 +128,9 @@ li { margin: 0 0 6px; }
 .latin { direction: ltr; unicode-bidi: embed; display: inline-block; max-width: 100%; text-align: left; vertical-align: top; }
 .paper-hero-image { margin: 0 0 26px; }
 .paper-hero-image img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border: 1px solid var(--line); border-radius: 8px; background: #eef3f4; }
+.image-credit { margin: 7px 0 0; color: #707070; font-size: 13px; line-height: 1.45; }
+.image-credit-standalone { margin: -14px 0 24px; }
+.image-credit-label { font-weight: 700; color: #555; }
 .one-liner { margin: 28px 0; color: var(--accent); font-size: 20px; line-height: 1.5; font-weight: 700; }
 .paper-main section, .simple-main section { margin: 22px 0 0; }
 .paper-main section h2, .simple-main section h2 { margin: 0 0 8px; font-size: 25px; }

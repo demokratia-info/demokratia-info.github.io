@@ -43,14 +43,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitarian_pluralism_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/379_minorities_democracy_israel_s_dual_identity_a_comparative_analysis_of_ethnic_democracy_and_egalitaria.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מוסדות, זכויות ואחריות ציבורית בדמוקרטיה הישראלית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציב זו מול זו שתי תשובות למתח היהודי־דמוקרטי בישראל: ניהול הסטטוס קוו דרך דמוקרטיה אתנית, או שינוי מבני לעבר פלורליזם שוויוני.",
   "sections": [
     {

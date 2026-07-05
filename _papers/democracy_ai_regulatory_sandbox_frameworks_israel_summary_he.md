@@ -52,14 +52,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_ai_regulatory_sandbox_frameworks_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/036_court_democracy_ai_regulatory_sandbox_frameworks_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "משפטנים, מהנדסים ורגולטורים בוחנים מודל רכב אוטונומי ומסמכי מדיניות אנונימיים בחדר עבודה.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "ניסוי רגולטורי יכול לסייע לחדשנות, אך בדמוקרטיה הוא חייב לשמור גם על אחריותיות, שקיפות והגנה על הציבור.",
   "sections": [
     {

@@ -54,14 +54,21 @@
     "ביקורת שיפוטית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_involving_parents_with_disabilit_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/762_court_democracy_the_legal_landscape_of_parenting_with_disabilities_a_study_of_court_judgments_in.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: הורות עם מוגבלות בפסקי דין בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן 78 פסקי דין על הורים עם מוגבלות בישראל, ומראה כיצד בתי המשפט מתייחסים למוגבלות, לתמיכות נדרשות ולפער בין זכויות מוכרות לבין יישום בפועל.",
   "sections": [
     {

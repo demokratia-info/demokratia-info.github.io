@@ -55,14 +55,21 @@
     "שוויון מגדרי"
   ],
   "image": {
-    "src": "html_qa/democracy_haredim_higher_education_liberal_democracy_summary_he.jpg",
-    "version": "2026-06-01-nightly",
+    "src": "assets/article-images/279_haredi_democracy_haredim_higher_education_liberal_democracy_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "קמפוס אקדמי בדיון על הפרדה מגדרית, שילוב חרדים וסובלנות ליברלית",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:haredi"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר משתמש בהשכלה גבוהה לחרדים כדי לבחון מתי סובלנות ליברלית כלפי פרקטיקה לא־ליברלית מקדמת שילוב ומתי היא פוגעת בשוויון. הזכות לצאת מן הקהילה הופכת לקריטריון מרכזי בדיון.",
   "sections": [
     {

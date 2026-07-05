@@ -37,14 +37,21 @@
     "ביקורת שיפוטית"
   ],
   "image": {
-    "src": "html_qa/democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on_free_speech_protection_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/183_court_democracy_dignitizing_free_speech_in_israel_the_impact_of_the_constitutional_revolution_on.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: המהפכה החוקתית והגנת חופש הביטוי בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מנתח את המעבר של דיני חופש הביטוי בישראל מפרדיגמה של חירות לפרדיגמה של כבוד האדם בעקבות המהפכה החוקתית.",
   "sections": [
     {

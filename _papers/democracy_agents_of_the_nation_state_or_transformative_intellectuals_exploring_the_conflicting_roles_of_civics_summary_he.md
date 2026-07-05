@@ -57,14 +57,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflicting_roles_of_civics_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/035_education_democracy_agents_of_the_nation_state_or_transformative_intellectuals_exploring_the_conflic.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על מורי אזרחות בישראל בין סוכני מדינה לאינטלקטואלים משני מציאות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שמורי אזרחות בישראל אינם רק מעבירי חומר לימוד: הם פועלים בתוך מתח בין נאמנות למדינת הלאום, דיון בזכויות ושוויון, ויכולת לעודד חשיבה ביקורתית.",
   "sections": [
     {

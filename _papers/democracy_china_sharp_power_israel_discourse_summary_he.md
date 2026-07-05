@@ -54,14 +54,21 @@
     "צנזורה"
   ],
   "image": {
-    "src": "html_qa/democracy_china_sharp_power_israel_discourse_summary_he.jpg",
-    "version": "2026-06-03-nightly",
+    "src": "assets/article-images/091_media_democracy_china_sharp_power_israel_discourse_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים במעבדת מדיה אקדמית בוחנים גזירי עיתונות ותרשימי השפעה זרה ללא טקסט קריא",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שחוסן דמוקרטי מול השפעה זרה תלוי לא רק בחוקי ביטחון. הוא תלוי גם בספקנות ציבורית, תקשורת ביקורתית ואקדמיה שאינה מוותרת על עצמאותה.",
   "sections": [
     {

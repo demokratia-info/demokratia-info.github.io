@@ -50,14 +50,21 @@
     "ישראל 2009-2021"
   ],
   "image": {
-    "src": "html_qa/democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.jpg",
-    "version": "2026-05-30-nightly",
+    "src": "assets/article-images/431_court_democracy_king_bibi_israeli_illiberalism_backsliding_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בוחנים מסמכי אחריותיות מוסדית במסדרון פרלמנטרי בעת משבר דמוקרטי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-30",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציב את ישראל לצד הונגריה וטורקיה כדי להבין מה דומה ומה שונה במסלול של נסיגה דמוקרטית. הוא מראה שמבנה מוסדי וקיטוב מסוג מסוים יכולים להגביל גם מנהיגות שמפעילה רטוריקה וטקטיקות אי-ליברליות.",
   "sections": [
     {

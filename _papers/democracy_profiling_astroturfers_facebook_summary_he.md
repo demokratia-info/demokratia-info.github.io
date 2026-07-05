@@ -55,14 +55,21 @@
     "רשתות חברתיות"
   ],
   "image": {
-    "src": "html_qa/democracy_profiling_astroturfers_facebook_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/592_economy_democracy_profiling_astroturfers_facebook_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מעבדת מחקר בוחנת מפות רשת וכרטיסי פרופילים אנונימיים לזיהוי פעילות מטעה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-06-08",
-  "dateModified": "2026-06-10",
-  "lastUpdatedHe": "10 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שקבוצה קטנה של פרופילים חשודים יכולה לייצר נפח תגובות גדול, ולכן זיהוי אחראי של אסטרוטרפינג הוא חלק מהגנה על אמון ושיח דמוקרטי.",
   "sections": [
     {

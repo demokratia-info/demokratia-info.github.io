@@ -225,14 +225,21 @@
     "בוחרים"
   ],
   "image": {
-    "src": "html_qa/democracy_politicians_theories_of_voting_behavior_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/574_elections_democracy_politicians_theories_of_voting_behavior_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על תאוריות של פוליטיקאים על התנהגות בוחרים",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שפוליטיקאים ואזרחים מבינים התנהגות הצבעה אחרת: הפוליטיקאים נוטים ל\"ריאליזם דמוקרטי\" מינימליסטי, והאזרחים לתפיסה מדינית ואופטימית יותר.",
   "sections": [
     {

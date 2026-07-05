@@ -52,14 +52,21 @@
     "דמוקרטיה פרלמנטרית"
   ],
   "image": {
-    "src": "html_qa/democracy_government_opposition_relations_no_confidence_summary_he.jpg",
-    "version": "2026-05-30-nightly",
+    "src": "assets/article-images/275_elections_democracy_government_opposition_relations_no_confidence_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר ועדה פרלמנטרי שבו ממשלה ואופוזיציה יושבות סביב שולחן אחד",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-30",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "כללי אי-אמון אינם רק פרוצדורה פרלמנטרית: כאשר גם הייזום וגם ההצבעה מוגבלים, האופוזיציה נוטה להתנהגות חקיקתית פחות עימותית.",
   "sections": [
     {

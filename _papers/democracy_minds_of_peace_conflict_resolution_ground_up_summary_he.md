@@ -44,14 +44,21 @@
     "אספה ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.jpg",
-    "version": "2026-06-01-nightly",
+    "src": "assets/article-images/486_minorities_democracy_minds_of_peace_conflict_resolution_ground_up_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אספה אזרחית לדיון ישראלי־פלסטיני על יישוב סכסוך מלמטה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן ניסוי שבו אזרחים ישראלים ופלסטינים מדמים משא ומתן לשלום מול קהל. בכך הוא מעביר את השאלה מן חדרי המנהיגים אל מרחב השתתפות אזרחי פתוח.",
   "sections": [
     {

@@ -52,14 +52,21 @@
     "קיטוב"
   ],
   "image": {
-    "src": "html_qa/democracy_silencing_fellow_citizens_scale_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-11",
+    "src": "assets/article-images/662_protest_democracy_silencing_fellow_citizens_scale_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "אזרחים בדיון ציבורי סביב שולחן תקשורת קהילתי, עם מיקרופונים ודפי הערות ריקים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
-  "lastUpdatedHe": "11 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציע לראות בהשתקת יריבים לא רק התנהגות חריגה, אלא עמדה פוליטית שניתן למדוד ולנתח כחלק מבריאות השיח הדמוקרטי.",
   "sections": [
     {

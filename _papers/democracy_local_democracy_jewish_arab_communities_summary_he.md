@@ -52,14 +52,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_local_democracy_jewish_arab_communities_summary_he.jpg",
-    "version": "2026-06-02-nightly",
+    "src": "assets/article-images/464_minorities_democracy_local_democracy_jewish_arab_communities_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מפגש קהילתי על ביזור חינוך ודמוקרטיה מקומית ביישובים שונים בישראל",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-02",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שביזור כוח ציבורי דרך חינוך אינו משפיע באופן שווה בכל קהילה. כדי שדמוקרטיה מקומית תתחזק, החברה האזרחית צריכה יכולת ארגונית, המשכיות וגישה אמיתית למוקדי החלטה.",
   "sections": [
     {

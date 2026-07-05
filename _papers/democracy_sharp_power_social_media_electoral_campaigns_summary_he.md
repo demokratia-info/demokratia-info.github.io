@@ -80,14 +80,21 @@
     "התערבות זרה"
   ],
   "image": {
-    "src": "html_qa/democracy_sharp_power_social_media_electoral_campaigns_summary_he.jpg",
-    "version": "2026-06-07-nightly",
+    "src": "assets/article-images/661_media_democracy_sharp_power_social_media_electoral_campaigns_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי טכנולוגיה אזרחית בוחנים מפות רשת ודפוסי פעילות פוליטיים אנונימיים",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-06-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד ניתוח מטא-דאטה, רשתות ותוכן בטוויטר יכול לחשוף דפוסי פעולה חריגים שמבקשים להשפיע על שיח בחירות דמוקרטי.",
   "sections": [
     {

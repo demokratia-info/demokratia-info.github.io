@@ -54,14 +54,21 @@
     "אחריותיות"
   ],
   "image": {
-    "src": "html_qa/democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in_israel_a_social_movement_lens_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/663_education_democracy_social_activism_against_the_desecularization_of_non_religious_state_education_in.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: פעילות חברתית נגד הדתה בחינוך הממלכתי בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד מאבק על אופיו החילוני של החינוך הממלכתי הופך לתנועה אזרחית מקומית, עם מסגור של עוול, זיהוי שחקנים אחראים וגיוס דרך קהילה ותקשורת.",
   "sections": [
     {

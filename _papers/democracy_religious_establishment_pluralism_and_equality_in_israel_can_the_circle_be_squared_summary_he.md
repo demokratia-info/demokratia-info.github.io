@@ -42,14 +42,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squared_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/637_religion_democracy_religious_establishment_pluralism_and_equality_in_israel_can_the_circle_be_squar.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על ממסד דתי, פלורליזם ושוויון אזרחי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:religion"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שאי אפשר ליישב ממסד דתי חזק עם שוויון ליברלי באמצעות פלורליזם סביל בלבד. אם המעגל ניתן לריבוע, זה רק באמצעות פלורליזם שוויוני ופעיל שמציב גבולות לכוח דתי ממוסד ומגן בפועל על שוויון וחירות.",
   "sections": [
     {

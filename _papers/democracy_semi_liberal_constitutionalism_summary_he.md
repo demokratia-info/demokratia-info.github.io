@@ -50,14 +50,21 @@
     "אזרחות"
   ],
   "image": {
-    "src": "html_qa/democracy_semi_liberal_constitutionalism_summary_he.jpg",
-    "version": "2026-05-22-manual-daily-10",
+    "src": "assets/article-images/657_court_democracy_semi_liberal_constitutionalism_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מסדרון בית משפט וקבוצות אזרחים הממחישים מתח בין זכויות, דת ומעמד אישי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "חוקתיות חצי־ליברלית וזכויות במצבי אי־שוויון מציב את שאלת <strong>הדמוקרטיה הליברלית</strong> דרך מוסדות, זכויות ואחריות ציבורית.",
   "sections": [
     {

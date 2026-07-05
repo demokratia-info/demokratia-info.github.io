@@ -62,14 +62,21 @@
     "השתתפות"
   ],
   "image": {
-    "src": "html_qa/democracy_organizing_democracy_collective_action_summary_he.jpg",
-    "version": "2026-05-29-nightly",
+    "src": "assets/article-images/529_civic_democracy_organizing_democracy_collective_action_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "פעילי חברה אזרחית בונים יכולת ארגונית ופעולה קולקטיבית במשרד קהילתי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-29",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מבחין בין ארגון שמפתח סוכנות אזרחית לבין מוביליזציה שמרכזת העדפות ופעולות. ההבחנה חשובה מפני שדמוקרטיה צריכה לא רק השתתפות רגעית אלא גם יכולת קולקטיבית מתמשכת.",
   "sections": [
     {

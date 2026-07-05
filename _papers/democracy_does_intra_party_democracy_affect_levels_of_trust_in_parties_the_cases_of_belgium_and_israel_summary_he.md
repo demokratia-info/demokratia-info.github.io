@@ -64,14 +64,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgium_and_israel_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/196_elections_democracy_does_intra_party_democracy_affect_levels_of_trust_in_parties_the_cases_of_belgiu.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על בחירות, ייצוג פוליטי ואמון הציבור בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:elections"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן את הקשר בין בחירת מועמדים בתוך מפלגות לבין אמון ציבורי, ומראה שבישראל ובבלגיה הכללה רחבה יותר של בוחרים מחזקת אמון אך ביזור מקומי עשוי להחליש אותו.",
   "sections": [
     {

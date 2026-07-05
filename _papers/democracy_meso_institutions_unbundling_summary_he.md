@@ -54,14 +54,21 @@
     "שלטון החוק"
   ],
   "image": {
-    "src": "html_qa/democracy_meso_institutions_unbundling_summary_he.jpg",
-    "version": "2026-05-28-nightly",
+    "src": "assets/article-images/483_court_democracy_meso_institutions_unbundling_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על מוסדות ביניים המחברים בין כללים ציבוריים ליישום מקומי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-28",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שכדי להבין מדוע כללים מוסדיים פועלים אחרת במקומות שונים, צריך לבחון את מוסדות הביניים שמתרגמים אותם ליישום, התאמה או התנגדות.",
   "sections": [
     {

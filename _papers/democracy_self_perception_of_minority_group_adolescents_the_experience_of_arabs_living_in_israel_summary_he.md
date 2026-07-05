@@ -53,14 +53,21 @@
     "אזרחות"
   ],
   "image": {
-    "src": "html_qa/democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_israel_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/656_minorities_democracy_self_perception_of_minority_group_adolescents_the_experience_of_arabs_living_in_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של מרכז קהילתי וחצר בית ספר סביב שייכות אזרחית של בני נוער ערבים בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "תפיסה עצמית של בני נוער ערבים בישראל קשורה לא רק לרווחה, אלא גם לתנאי שייכות, שוויון והכרה אזרחית.",
   "sections": [
     {

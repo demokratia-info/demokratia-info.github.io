@@ -43,14 +43,21 @@
     "עיצוב דיגיטלי"
   ],
   "image": {
-    "src": "html_qa/democracy_digital_children_online_democratic_deliberations_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/181_education_democracy_digital_children_online_democratic_deliberations_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "ילדים ומנחים מבוגרים משתתפים בתרגיל דיון דיגיטלי עם טאבלטים ומסכי וידאו ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "עיצוב דיגיטלי דמוקרטי צריך לראות בילדים משתתפים בעלי קול, דמיון וצרכים ייחודיים, לא רק משתמשים צעירים.",
   "sections": [
     {

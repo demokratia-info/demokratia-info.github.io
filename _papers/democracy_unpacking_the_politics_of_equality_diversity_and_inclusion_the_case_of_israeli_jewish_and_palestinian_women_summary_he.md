@@ -67,14 +67,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_jewish_and_palestinian_women_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/832_gender_democracy_unpacking_the_politics_of_equality_diversity_and_inclusion_the_case_of_israeli_j.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על פוליטיקה של שוויון, גיוון והכלה במועצות מקומיות",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "במועצות מקומיות בישראל, ייצוג נשים אינו מתורגם בהכרח ל<strong>השפעה אסטרטגית</strong> על החלטות עירוניות.",
   "sections": [
     {

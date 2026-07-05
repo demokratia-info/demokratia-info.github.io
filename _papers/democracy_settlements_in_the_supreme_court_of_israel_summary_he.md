@@ -39,14 +39,21 @@
     "ביקורת שיפוטית"
   ],
   "image": {
-    "src": "html_qa/democracy_settlements_in_the_supreme_court_of_israel_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/658_court_democracy_settlements_in_the_supreme_court_of_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: התנחלויות בבית המשפט העליון בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את בג\"ץ כשחקן מרכזי בעיצוב השליטה המשפטית בשטחים: ביקורת שיפוטית שהגבילה חלק מפעולות הרשויות, אך גם ליוותה את התבססות מפעל ההתנחלויות.",
   "sections": [
     {

@@ -62,14 +62,21 @@
     "אמון פוליטי"
   ],
   "image": {
-    "src": "html_qa/democracy_masses_support_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/373_civic_democracy_israel_polarization_panel_dataset_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על סקרי דעת קהל, פאנל וקיטוב פוליטי בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-05-20",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מאגר הפאנל מאפשר לעקוב אחר קיטוב בישראל לאורך משבר פוליטי מתמשך ולא רק לצלם עמדות בנקודת זמן אחת. בדמוקרטיה ליברלית, מדידה עקבית של קיטוב מסייעת להבין מתי מחלוקת פוליטית הופכת לאיבה שמערערת אמון במוסדות וביריבים.",
   "sections": [
     {

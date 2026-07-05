@@ -63,14 +63,21 @@
     "מוסדות דמוקרטיים"
   ],
   "image": {
-    "src": "html_qa/democracy_civil_society_ngos_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/463_court_democracy_local_democracy_autonomy_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על התארגנות מקומית, מוסדות עירוניים וחברה אזרחית במרחב דמוקרטי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-17",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "ישי בלנק, איסי רוזן-צבי ודן לרגמן טוענים שדמוקרטיה מקומית אינה רק גרסה מוקטנת של הדמוקרטיה הלאומית. המאמר מראה שאוטונומיה מקומית, התנגדות מקומית למדיניות לאומית ודיון מקומי בגבולות הליברליזם הם חלק ממשי מן החיים הדמוקרטיים.",
   "sections": [
     {

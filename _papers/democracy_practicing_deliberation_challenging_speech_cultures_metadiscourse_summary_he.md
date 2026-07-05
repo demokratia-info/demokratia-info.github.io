@@ -63,14 +63,21 @@
     "פורומים דיוניים"
   ],
   "image": {
-    "src": "html_qa/democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he.jpg",
-    "version": "2026-06-07-nightly",
+    "src": "assets/article-images/585_civic_democracy_practicing_deliberation_challenging_speech_cultures_metadiscourse_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "סטודנטים ומנחים יושבים במעגל דיון מובנה ומקשיבים זה לזה בסמינר אזרחי",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שדיון דמוקרטי אינו דורש תרבות דיבור מושלמת מראש. הוא יכול להיבנות דרך רגעים שבהם המשתתפים מדברים על אופן הדיבור, מגדירים גבולות ומתרגמים עקרונות דיוניים לשפה מקומית.",
   "sections": [
     {

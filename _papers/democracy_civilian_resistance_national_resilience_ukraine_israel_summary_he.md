@@ -48,14 +48,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-17",
+    "src": "assets/article-images/112_civic_democracy_civilian_resistance_national_resilience_ukraine_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "מתנדבים ומתנדבות בחדר תיאום אזרחי מסדרים ציוד ומפות חירום ללא טקסט קריא או סמלים צבאיים בולטים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
-  "lastUpdatedHe": "17 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "חוסן דמוקרטי במלחמה תלוי לא רק ביכולת צבאית, אלא גם ברשתות אזרחיות שמחזיקות תפקוד, אמון וסולידריות.",
   "sections": [
     {

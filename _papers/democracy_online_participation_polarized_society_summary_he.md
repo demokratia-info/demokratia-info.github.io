@@ -52,14 +52,21 @@
     "שיח דיגיטלי"
   ],
   "image": {
-    "src": "html_qa/democracy_online_participation_polarized_society_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-11",
+    "src": "assets/article-images/524_civic_democracy_online_participation_polarized_society_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "צעירים סביב מחשבים וטלפונים במרחב לימודי, שוקלים תגובה מקוונת בדיון פוליטי.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:civic"
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
-  "lastUpdatedHe": "11 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהשתתפות פוליטית מקוונת אינה תמיד הכרזה פומבית; בחברה מקוטבת היא יכולה להופיע כניווט זהיר, לייקים לא מחייבים והימנעות מעימות מפלגתי ישיר.",
   "sections": [
     {

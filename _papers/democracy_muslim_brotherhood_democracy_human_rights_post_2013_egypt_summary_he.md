@@ -44,14 +44,21 @@
     "שיח פוליטי"
   ],
   "image": {
-    "src": "html_qa/democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-18",
+    "src": "assets/article-images/502_court_democracy_muslim_brotherhood_democracy_human_rights_post_2013_egypt_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרים בחדר מחקר אקדמי מנתחים הצהרות פוליטיות אנונימיות ומפות אזוריות ללא טקסט קריא.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-06-18",
-  "lastUpdatedHe": "18 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "שיח דמוקרטי יכול לשמש כלי לגיטימציה גם כאשר תנועה פוליטית נמנעת מדיון עמוק ברפורמה מוסדית פנימית.",
   "sections": [
     {

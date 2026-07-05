@@ -44,14 +44,21 @@
     "ביקורת שיפוטית"
   ],
   "image": {
-    "src": "html_qa/democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/748_court_democracy_the_inexorableness_of_constitutional_amendments_and_its_democratic_potentiality_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: נוקשות תיקונים חוקתיים והפוטנציאל הדמוקרטי שלהם",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שתיקונים חוקתיים אינם חריגה מן הסדר החוקתי אלא רכיב קבוע בו, ושעיצובם הפורמלי יכול לשמש ערובה לוודאות משפטית, לשלטון החוק ולדיון דמוקרטי על שינוי חוקתי.",
   "sections": [
     {

@@ -43,14 +43,21 @@
     "ישראל"
   ],
   "image": {
-    "src": "html_qa/democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and_israel_summary_he.jpg",
-    "version": "2026-05-23-nightly-0015",
+    "src": "assets/article-images/682_minorities_democracy_states_of_emergency_and_ethnic_conflict_in_liberal_democracies_great_britain_and.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי חם של ועדה פרלמנטרית הדנה במצב חירום, סכסוך אתני ופיקוח מוסדי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "מצב חירום בדמוקרטיה ליברלית חייב להיבחן לפי ההשפעה שלו על זכויות מיעוטים, ביקורת מוסדית וריכוז כוח.",
   "sections": [
     {

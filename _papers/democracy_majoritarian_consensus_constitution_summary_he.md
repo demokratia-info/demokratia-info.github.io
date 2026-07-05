@@ -55,14 +55,21 @@
     "חוקי יסוד"
   ],
   "image": {
-    "src": "html_qa/democracy_regime_classification_backsliding_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/473_court_democracy_majoritarian_consensus_constitution_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על סיווג משטר, דמוקרטיית הסכמה ומשבר רובני בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-19",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד הרפורמה המשפטית חשפה את הסתירה בין מוסדות הסכמה בישראל לבין יכולתו של רוב קואליציוני צר לנסות לשנות את כללי המשחק החוקתיים.",
   "sections": [
     {

@@ -54,14 +54,21 @@
     "בית המשפט הגבוה לצדק"
   ],
   "image": {
-    "src": "html_qa/democracy_human_rights_conventions_summary_he.jpg",
-    "version": "800x600-landscape",
+    "src": "assets/article-images/142_court_democracy_courts_horizontal_accountability_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור על בית משפט, זכויות אדם ושלטון החוק בהקשר של אחריות שלטונית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:court"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המחקר קובע שבית משפט יכול להיות מנגנון אחריות חשוב במשטר היברידי, אבל הוא אינו פועל בחלל ריק. לפי מעוז רוזנטל ממכללת ירושלים הרב-תחומית ואסף מידני מהמכללה האקדמית תל אביב-יפו, פסיקות בג״ץ בענייני השטחים מלמדות שביקורת שיפוטית מושפעת גם מאילוצים אסטרטגיים, ולכן הגנה על שלטון החוק דורשת יותר מעצם קיומו של בית משפט חזק.",
   "sections": [
     {

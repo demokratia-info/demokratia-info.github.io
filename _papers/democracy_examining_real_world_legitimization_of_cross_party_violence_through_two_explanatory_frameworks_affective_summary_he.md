@@ -85,14 +85,21 @@
     "וקיטוב"
   ],
   "image": {
-    "src": "html_qa/democracy_examining_real_world_legitimization_of_cross_party_violence_through_two_explanatory_frameworks_affective_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/234_media_democracy_examining_real_world_legitimization_of_cross_party_violence_through_two_explanat.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על לגיטימציה לאלימות בין־מפלגתית וקיטוב רגשי",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שבשני הקשרים פוליטיים ממשיים, לגיטימציה לאלימות בין מחנות נקשרה יותר לתחושת חוסר יעילות של פעולה לא אלימה מאשר לקיטוב רגשי כשלעצמו.",
   "sections": [
     {

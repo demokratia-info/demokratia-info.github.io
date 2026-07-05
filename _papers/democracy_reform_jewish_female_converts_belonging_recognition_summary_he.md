@@ -53,14 +53,21 @@
     "פלורליזם דתי"
   ],
   "image": {
-    "src": "html_qa/democracy_reform_jewish_female_converts_belonging_recognition_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-20",
+    "src": "assets/article-images/618_gender_democracy_reform_jewish_female_converts_belonging_recognition_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "נשים יושבות בחדר קהילתי פלורליסטי עם ספרים פתוחים ומשוחחות על שייכות והכרה דתית.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "lastUpdatedHe": "20 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג גיור רפורמי כניסיון להיכנס לקהילה יהודית וגם כערעור על גבולות ההכרה שמכתיב מונופול דתי.",
   "sections": [
     {

@@ -44,14 +44,21 @@
     "פוליטיקה ישראלית"
   ],
   "image": {
-    "src": "html_qa/democracy_high_tech_nation_israeli_polity_summary_he.jpg",
-    "version": "2026-06-04-nightly",
+    "src": "assets/article-images/288_protest_democracy_high_tech_nation_israeli_polity_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי מדיניות ואנשי טכנולוגיה דנים בתשתיות דיגיטליות ובממשל דמוקרטי במעבדת מדיניות",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-06-04",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר שואל מה קורה לדמוקרטיה כאשר חדשנות טכנולוגית הופכת לחלק מן הזהות המדינתית. ההצלחה הכלכלית חשובה, אך היא אינה מחליפה מוסדות שמבטיחים ייצוג, שוויון ואחריותיות.",
   "sections": [
     {

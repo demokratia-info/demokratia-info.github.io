@@ -82,14 +82,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_armed_conflict_of_summary_he.jpg",
-    "version": "2026-05-21-image-audit",
+    "src": "assets/article-images/348_gender_democracy_international_humanitarian_law_and_women_right_violation_in_israel_palestine_arm.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על משפט הומניטרי בין־לאומי והסכסוך הישראלי־פלסטיני",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:gender"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען כי בעימות הישראלי-פלסטיני של 2023 נחשף פער חריף בין ההגנות המשפטיות המיועדות לנשים בזמן מלחמה לבין יישומן בפועל.",
   "sections": [
     {

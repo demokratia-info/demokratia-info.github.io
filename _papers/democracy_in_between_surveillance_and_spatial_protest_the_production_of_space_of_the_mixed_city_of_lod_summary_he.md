@@ -45,14 +45,21 @@
     "בעיר"
   ],
   "image": {
-    "src": "html_qa/democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed_city_of_lod_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/323_protest_democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על מעקב ומחאה מרחבית בעיר המעורבת לוד",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המקרה של לוד מציג כיצד <strong>תכנון עירוני, מעקב ומחאה מרחבית</strong> משתלבים במאבק על זהות, שוויון וזכות לעיר.",
   "sections": [
     {

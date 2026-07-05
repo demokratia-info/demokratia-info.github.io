@@ -47,14 +47,21 @@
     "מדיניות ציבורית"
   ],
   "image": {
-    "src": "html_qa/democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_through_children_s_summary_he.jpg",
-    "version": "2026-05-22-nightly-100c",
+    "src": "assets/article-images/326_education_democracy_inclusion_equality_and_educational_justice_enhancing_social_emotional_learning_t.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור או צילום עריכתי חם ומפורט על שוויון וצדק חינוכי בספרות ילדים בחברה מופרדת",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "ניתוח ספרי ילדים מתוכנית \"מצעד הספרים\" מראה את הפוטנציאל של <strong>למידה חברתית־רגשית</strong>, לצד מגבלות בייצוג המיעוט הערבי ובאיזון בין קטגוריות SEL.",
   "sections": [
     {

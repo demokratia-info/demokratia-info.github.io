@@ -49,14 +49,21 @@
     "חוסן דמוקרטי"
   ],
   "image": {
-    "src": "html_qa/democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/456_education_democracy_liberal_jewish_identity_and_the_pedagogy_of_israel_education_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: זהות יהודית ליברלית וחינוך לישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:education"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שחינוך על ישראל הוא כלי פדגוגי נגד-תרבותי: הוא מציע ללומדים לעסוק בישראל כדי לגבש חזונות יהודיים של חיים טובים מעבר לסובלנות ליברלית כללית.",
   "sections": [
     {

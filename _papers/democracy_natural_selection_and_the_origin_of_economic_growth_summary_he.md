@@ -56,14 +56,21 @@
     "צמיחה כלכלית"
   ],
   "image": {
-    "src": "html_qa/democracy_natural_selection_and_the_origin_of_economic_growth_summary_he.jpg",
-    "version": "2026-05-23-extra-100-economics-refill",
+    "src": "assets/article-images/510_economy_democracy_natural_selection_and_the_origin_of_economic_growth_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תמונה עריכתית: ברירה טבעית ומקורות הצמיחה הכלכלית",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מסביר את מקור הצמיחה הכלכלית המודרנית כמפגש בין ברירה טבעית, הון אנושי, פוריות והתקדמות טכנולוגית.",
   "sections": [
     {

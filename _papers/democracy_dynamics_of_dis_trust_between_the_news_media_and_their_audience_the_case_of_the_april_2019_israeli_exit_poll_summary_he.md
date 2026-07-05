@@ -74,14 +74,21 @@
     "דמוקרטיה ליברלית"
   ],
   "image": {
-    "src": "html_qa/democracy_dynamics_of_dis_trust_between_the_news_media_and_their_audience_the_case_of_the_april_2019_israeli_exit_poll_summary_he.jpg",
-    "version": "2026-05-21-nightly-100b",
+    "src": "assets/article-images/200_media_democracy_dynamics_of_dis_trust_between_the_news_media_and_their_audience_the_case_of_the_.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי על תקשורת, דעת קהל ואחריות דמוקרטית בישראל",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:media"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שמדגמי בחירות אינם רק כלי חיזוי, אלא רגע שבו עיתונות, ציפיות ציבוריות ותוצאות פוליטיות נפגשות ויכולות לחזק או לשחוק אמון בתקשורת.",
   "sections": [
     {

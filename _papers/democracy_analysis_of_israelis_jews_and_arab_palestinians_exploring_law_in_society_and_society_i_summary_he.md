@@ -41,14 +41,21 @@
     "הדרה"
   ],
   "image": {
-    "src": "html_qa/democracy_analysis_of_israelis_jews_and_arab_palestinians_exploring_law_in_society_and_society_i_summary_he.jpg",
-    "version": "2026-05-21-topic-image-diversity",
+    "src": "assets/article-images/040_minorities_democracy_analysis_of_israelis_jews_and_arab_palestinians_exploring_law_in_society_and_soc.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי: יהודים וערבים בישראל: משפט בחברה וחברה במשפט",
-    "fitness": "standard"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "literal_or_near_literal_subject_match",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את חקר המשפט והחברה בישראל כמפה של מאבקים על מדינת הלאום, זכויות, שוויון ותפקיד בית המשפט בחיים הציבוריים.",
   "sections": [
     {

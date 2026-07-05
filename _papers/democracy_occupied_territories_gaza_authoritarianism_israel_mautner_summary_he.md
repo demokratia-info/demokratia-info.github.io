@@ -45,14 +45,21 @@
     "שלטון החוק"
   ],
   "image": {
-    "src": "html_qa/democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.jpg",
-    "version": "2026-06-01-nightly",
+    "src": "assets/article-images/518_security_democracy_occupied_territories_gaza_authoritarianism_israel_mautner_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חדר סמינר משפטי על כיבוש, ביטחון ושחיקה ליברלית בדמוקרטיה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:security"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר מציב את הכיבוש ואת העימותים סביב עזה כגורמים שמפעילים לחץ מתמשך על הליברליות הישראלית. הוא מדגיש שהשחיקה הדמוקרטית נוצרת גם דרך תגובות מוסדיות לביקורת אזרחית.",
   "sections": [
     {

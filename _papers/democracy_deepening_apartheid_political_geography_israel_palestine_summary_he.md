@@ -42,14 +42,21 @@
     "אזרחות"
   ],
   "image": {
-    "src": "html_qa/democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.jpg",
-    "version": "2026-05-31-nightly",
+    "src": "assets/article-images/151_protest_democracy_deepening_apartheid_political_geography_israel_palestine_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "חוקרי זכויות בוחנים שכבות מפה ותצלומי אוויר של מרחבים, דרכים ומשטרי שליטה",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:protest"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "המאמר טוען כי הדיון בדמוקרטיה בישראל/פלסטין אינו יכול להסתפק במוסדות פורמליים, משום שהמרחב, הקרקע, ההתיישבות והמעמד המשפטי מייצרים בפועל היררכיות פוליטיות עמוקות.",
   "sections": [
     {

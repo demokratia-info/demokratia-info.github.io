@@ -42,14 +42,21 @@
     "זכויות קניין"
   ],
   "image": {
-    "src": "html_qa/democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summary_he.jpg",
-    "version": "2026-05-25-nightly",
+    "src": "assets/article-images/343_economy_democracy_intellectual_property_rights_industrial_revolution_modern_economic_growth_summar.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "איור עריכתי היסטורי על ממציאים, מכונות וזכויות קניין רוחני",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "contextual_anchor_review_recommended",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:economy"
   },
   "datePublished": "2026-05-25",
-  "dateModified": "2026-06-09",
-  "lastUpdatedHe": "9 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "זכויות קניין רוחני הן כלי מוסדי לעידוד המצאה, אך כוחן תלוי באיזון בין תגמול לממציאים לבין זרימת ידע לציבור. לכן ההיסטוריה של הצמיחה המודרנית היא גם היסטוריה של עיצוב כללים.",
   "sections": [
     {

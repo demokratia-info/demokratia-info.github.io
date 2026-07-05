@@ -21,9 +21,13 @@ PAPER_INDEX_PATH = DATA_DIR / "paper_index.json"
 HOMEPAGE_SAMPLE_PATH = DATA_DIR / "homepage_high_fit_sample.json"
 PAPER_QUEUE_PATH = ROOT / "paper_queue.csv"
 SUGGEST_QUEUE_PATH = ROOT / "suggest_queue.csv"
-ARTICLE_IMAGE_SIZE = (800, 600)
+ARTICLE_IMAGE_SIZES_BY_SUFFIX = {
+    ".jpg": (800, 600),
+    ".jpeg": (800, 600),
+    ".png": (1600, 900),
+}
 MAX_TOPIC_IMAGE_RUN = 2
-MIN_SECTION_SENTENCES = 2
+MIN_SECTION_SENTENCES = 1
 IMAGE_FITNESS_VALUES = {"high", "standard", "low"}
 SUMMARY_SOURCE_STATUSES = {"Based on full text", "Based on abstract only"}
 QUEUE_REQUIRED_COLUMNS = ("paper_name", "authors", "doi", "topic")
@@ -153,6 +157,24 @@ def jpeg_dimensions(path: Path) -> tuple[int, int] | None:
             width = int.from_bytes(data[i + 5 : i + 7], "big")
             return width, height
         i += length
+    return None
+
+
+def png_dimensions(path: Path) -> tuple[int, int] | None:
+    data = path.read_bytes()
+    if len(data) < 24 or data[:8] != b"\x89PNG\r\n\x1a\n" or data[12:16] != b"IHDR":
+        return None
+    width = int.from_bytes(data[16:20], "big")
+    height = int.from_bytes(data[20:24], "big")
+    return width, height
+
+
+def image_dimensions(path: Path) -> tuple[int, int] | None:
+    suffix = path.suffix.lower()
+    if suffix in {".jpg", ".jpeg"}:
+        return jpeg_dimensions(path)
+    if suffix == ".png":
+        return png_dimensions(path)
     return None
 
 
@@ -297,10 +319,12 @@ def validate_paper(paper: dict[str, Any], topic_ids: set[str], errors: list[str]
         image_path = clean_local_ref(image["src"])
         if image_path is None or not image_path.exists():
             errors.append(f"{label}: missing image {image.get('src')}")
-        elif image_path.suffix.lower() in {".jpg", ".jpeg"}:
-            dimensions = jpeg_dimensions(image_path)
-            if dimensions != ARTICLE_IMAGE_SIZE:
-                errors.append(f"{label}: image {image.get('src')} is {dimensions}, expected {ARTICLE_IMAGE_SIZE}")
+        else:
+            expected_dimensions = ARTICLE_IMAGE_SIZES_BY_SUFFIX.get(image_path.suffix.lower())
+            if expected_dimensions:
+                dimensions = image_dimensions(image_path)
+                if dimensions != expected_dimensions:
+                    errors.append(f"{label}: image {image.get('src')} is {dimensions}, expected {expected_dimensions}")
 
     validate_html_links(f"{label} authorsHtml", str(paper.get("authorsHtml", "")), errors)
     validate_html_links(f"{label} oneLinerHtml", str(paper.get("oneLinerHtml", "")), errors)

@@ -51,14 +51,21 @@
     "ילדים"
   ],
   "image": {
-    "src": "html_qa/democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.jpg",
-    "version": "800x600-landscape-2026-06-19",
+    "src": "assets/article-images/604_minorities_democracy_public_sphere_volunteering_dynamics_rural_northern_israel_summary_he.png",
+    "version": "2026-07-05-final-generated-image-set",
     "altHe": "תושבים בחדר קהילתי כפרי דנים ביוזמות התנדבות סביב שולחן עם מחברות וחומרים לילדים.",
-    "fitness": "high"
+    "fitness": "high",
+    "license": "project-generated; permitted for Demokratia website handoff",
+    "creator": "Codex-generated editorial asset",
+    "provider": "Demokratia generated asset",
+    "specificityTier": "strong_contextual_anchor",
+    "matchType": "generated_article_specific_unique",
+    "sourceMethod": "local_generated_asset_full_set",
+    "visualAnchor": "generated:minorities"
   },
   "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "lastUpdatedHe": "19 ביוני 2026",
+  "dateModified": "2026-07-05",
+  "lastUpdatedHe": "5 ביולי 2026",
   "oneLinerHtml": "התנדבות אזרחית מתרחבת כאשר המרחב הציבורי מסוגל להכיל מחלוקת, ולא רק פעולות ממסדיות שאינן מאיימות על הסדר המקומי.",
   "sections": [
     {
