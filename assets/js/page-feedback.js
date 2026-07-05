@@ -459,21 +459,11 @@
     try {
       const response = await fetch(endpoint, {
         method: "POST",
-        mode: "no-cors",
+        headers: {
+          "Accept": "application/json"
+        },
         body: payload
       });
-      if (response.type === "opaque") {
-        if (!hasEditorPassword()) {
-          setLocalSubmissionCount(localSubmissionCount() + 1);
-        }
-        showThankYou(
-          false,
-          hasEditorPassword()
-            ? "ההערה נשלחה. אם סיסמת העורך נכונה, היא תסומן לעדכון לאחר בדיקה."
-            : normalThankYouMessage
-        );
-        return;
-      }
       const result = await response.json().catch(() => ({}));
       if (!response.ok || result.ok === false) {
         throw new Error(result.error || "לא ניתן היה לשמור את העריכה.");

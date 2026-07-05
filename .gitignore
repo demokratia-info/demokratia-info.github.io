@@ -17,6 +17,7 @@ qa_*/
 fulltext/
 .env
 .env.*
+workers/wrangler.toml
 .demokratia_author_mail.env
 Authors.MD
 Authors.csv
