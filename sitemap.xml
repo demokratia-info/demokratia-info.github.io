@@ -34,6 +34,12 @@ permalink: /sitemap.xml
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>{{ "/conditions.html" | absolute_url }}</loc>
+    <lastmod>{{ site.data.site.lastUpdated }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>{{ "/suggest-paper.html" | absolute_url }}</loc>
     <lastmod>{{ site.data.site.lastUpdated }}</lastmod>
     <changefreq>monthly</changefreq>
