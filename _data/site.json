@@ -1,7 +1,6 @@
 {
   "version": 1,
   "baseUrl": "https://democracy.tau.ac.il/",
-  "formOrigin": "https://demokratia-info.github.io",
   "feedbackSourceOrigins": "https://democracy.tau.ac.il,https://demokratia-info.github.io",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeTitleHe": "מאמרים נבחרים בנושא דמוקרטיה ושלטון החוק",
@@ -10,7 +9,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-07-05",
-  "cacheVersion": "2026-07-05-form-origin-fallback",
+  "cacheVersion": "2026-07-05-feedback-nocors",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",

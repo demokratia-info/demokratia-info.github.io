@@ -4,7 +4,6 @@
   {% assign page_title = page.title | append: " | " | append: site.data.site.siteNameHe %}
   {% include head.html title=page_title description=page.description type="website" image="HEB_bold.jpg" %}
   {% assign cache_version = site.data.site.cacheVersion | default: site.data.site.lastUpdated %}
-  {% include form_origin_redirect.html %}
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
