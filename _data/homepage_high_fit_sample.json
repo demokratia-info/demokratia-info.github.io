@@ -3,14 +3,14 @@
   "lastUpdated": "2026-07-05",
   "sampleSize": 6,
   "seed": "2026-07-05-homepage-high-fit",
-  "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
-  "highFitPaperCount": 930,
+  "selectionMode": "Sampled from papers whose image.fitness is high, preferring the current paperImageVersion when enough papers are available, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
+  "highFitPaperCount": 862,
   "paperSlugs": [
-    "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he",
-    "democracy_nation_state_law_populism_colonialism_religion_summary_he",
-    "democracy_the_constitution_of_israel_summary_he",
-    "democracy_israel_family_court_therapeutic_jurisprudence_summary_he",
-    "democracy_universities_druze_women_identity_transitions_higher_education_summary_he",
-    "democracy_education_for_democracy_israel_structural_impediments_summary_he"
+    "democracy_voter_election_frames_what_were_the_elections_about_summary_he",
+    "democracy_the_political_power_of_proxies_why_nonstate_actors_use_local_surrogates_summary_he",
+    "democracy_procedural_justice_checklist_suspected_terrorists_police_summary_he",
+    "democracy_de_arabization_of_the_bedouin_a_study_of_an_inevitable_failure_summary_he",
+    "democracy_arab_citizens_in_the_jewish_state_of_israel_summary_he",
+    "democracy_political_communication_mandate_elections_summary_he"
   ]
 }

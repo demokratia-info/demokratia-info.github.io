@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PAPERS_DIR = ROOT / "_papers"
 DATA_DIR = ROOT / "_data"
 OUTPUT_PATH = DATA_DIR / "homepage_high_fit_sample.json"
+SITE_DATA_PATH = DATA_DIR / "site.json"
 DEFAULT_COUNT = 6
 
 
@@ -49,6 +50,12 @@ def load_paper(path: Path) -> dict[str, Any]:
 
 def load_papers() -> list[dict[str, Any]]:
     return [load_paper(path) for path in sorted(PAPERS_DIR.glob("*.md"))]
+
+
+def load_site_data() -> dict[str, Any]:
+    if not SITE_DATA_PATH.exists():
+        return {}
+    return json.loads(SITE_DATA_PATH.read_text(encoding="utf-8"))
 
 
 def image_hash(paper: dict[str, Any]) -> str:
@@ -89,6 +96,23 @@ def high_fit_candidates(papers: list[dict[str, Any]]) -> list[dict[str, Any]]:
         if paper.get("image", {}).get("fitness") == "high" and paper.get("image", {}).get("src")
     ]
     return sorted(candidates, key=lambda paper: (paper.get("slug", ""), paper.get("sortKey", 0)))
+
+
+def preferred_homepage_candidates(
+    candidates: list[dict[str, Any]], site_data: dict[str, Any], count: int
+) -> list[dict[str, Any]]:
+    paper_image_version = str(site_data.get("paperImageVersion", "")).strip()
+    if not paper_image_version:
+        return candidates
+
+    preferred = [
+        paper
+        for paper in candidates
+        if str(paper.get("image", {}).get("version", "")).strip() == paper_image_version
+    ]
+    if len(preferred) >= count:
+        return preferred
+    return candidates
 
 
 def sample_papers(candidates: list[dict[str, Any]], count: int, seed: str) -> list[dict[str, Any]]:
@@ -152,7 +176,7 @@ def build_output(selected: list[dict[str, Any]], candidates: list[dict[str, Any]
         "lastUpdated": israel_today(),
         "sampleSize": len(selected),
         "seed": seed,
-        "selectionMode": "Sampled from papers whose image.fitness is high, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
+        "selectionMode": "Sampled from papers whose image.fitness is high, preferring the current paperImageVersion when enough papers are available, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints.",
         "highFitPaperCount": len(candidates),
         "paperSlugs": [paper["slug"] for paper in selected],
     }
@@ -167,7 +191,9 @@ def main() -> int:
 
     seed = args.seed or f"{israel_today()}-homepage-high-fit"
     papers = load_papers()
-    candidates = high_fit_candidates(papers)
+    site_data = load_site_data()
+    all_high_fit_candidates = high_fit_candidates(papers)
+    candidates = preferred_homepage_candidates(all_high_fit_candidates, site_data, args.count)
     selected = sample_papers(candidates, args.count, seed)
     output = build_output(selected, candidates, seed)
     text = canonical_json(output)
