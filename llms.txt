@@ -5,11 +5,11 @@ permalink: /llms.txt
 # {{ site.data.site.siteNameHe }}
 
 {% assign paper_count = site.papers | size %}
-{% capture home_count_sentence %}המאגר כולל תמציות של {{ paper_count }} מאמרים.{% endcapture %}
+{% capture home_count_sentence %}המאגר כולל תקצירים של {{ paper_count }} מאמרים.{% endcapture %}
 {% capture home_description %}{{ site.data.site.homeDescriptionHe }} {{ home_count_sentence }}{% endcapture %}
 > {{ home_description | strip }}
 
-אתר עברי המרכז תמציות נגישות לקהל הרחב של מאמרים אקדמיים מאת חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.
+אתר עברי המרכז תקצירים נגישים לקהל הרחב של מאמרים אקדמיים מאת חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק.
 
 ## דפי נושאים מרכזיים
 
@@ -17,7 +17,7 @@ permalink: /llms.txt
 - [{{ topic.titleHe }}]({{ topic.page | absolute_url }}): {{ topic.descriptionHe }}
 {% endfor %}
 
-## תמציות מאמרים
+## תקצירי מאמרים
 
 {% assign papers = site.papers | sort: "sortKey" | reverse %}
 {% for paper in papers %}

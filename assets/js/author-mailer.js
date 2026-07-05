@@ -110,7 +110,7 @@
       .filter((row) => row.status === "ready_to_send")
       .map((row, index) => `${index + 1}. ${row.paperTitleHe || row.paperTitleEn}\n   ${row.paperUrl}`)
       .join("\n");
-    return `שלום ${name},\n\nבאתר "הנגשת מידע בנושאי דמוקרטיה" פרסמנו תמצית/תמציות בעברית של מאמר/ים אקדמיים שלך:\n\n${links || "[בחרו לפחות מאמר אחד לשליחה]"}\n\nנשמח לקבל הערות או תיקונים. אם אינך מעוניין/ת שהתמצית תופיע באתר, אפשר להודיע לנו ונפעל להסיר אותה במהירות.\n\n---\n\nDear ${name},\n\nWe published Hebrew summary page(s) for your academic paper(s) on the Demokratia website.\n\nPlease reply with corrections or removal requests.`;
+    return `שלום ${name},\n\nבאתר "הנגשת מידע בנושאי דמוקרטיה" פרסמנו תקציר או תקצירים בעברית של מאמר/ים אקדמיים שלך:\n\n${links || "[בחרו לפחות מאמר אחד לשליחה]"}\n\nנשמח לקבל הערות או תיקונים. אם אינך מעוניין/ת שהתקציר יופיע באתר, אפשר להודיע לנו ונפעל להסיר אותו במהירות.\n\n---\n\nDear ${name},\n\nWe published Hebrew summary page(s) for your academic paper(s) on the Demokratia website.\n\nPlease reply with corrections or removal requests.`;
   };
 
   const rowControl = (row) => {

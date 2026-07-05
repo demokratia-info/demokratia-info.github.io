@@ -117,13 +117,13 @@ def compose_body(rows: list[dict[str, str]]) -> str:
 
     return f"""שלום {name},
 
-באתר "הנגשת מידע בנושאי דמוקרטיה" פרסמנו תמצית/תמציות בעברית של מאמר/ים אקדמיים שלך:
+באתר "הנגשת מידע בנושאי דמוקרטיה" פרסמנו תקציר או תקצירים בעברית של מאמר/ים אקדמיים שלך:
 
 {hebrew_papers}
 
-נשמח מאוד לקבל הערות או תיקונים. אם יש בתמצית טעות, חוסר דיוק, ניסוח מטעה, או נקודה חשובה שכדאי להוסיף, אפשר להשיב להודעה זו או לכתוב אל demokratia@tau.ac.il.
+נשמח מאוד לקבל הערות או תיקונים. אם יש בתקציר טעות, חוסר דיוק, ניסוח מטעה, או נקודה חשובה שכדאי להוסיף, אפשר להשיב להודעה זו או לכתוב אל demokratia@tau.ac.il.
 
-אם אינך מעוניין/ת שהתמצית תופיע באתר, אפשר להודיע לנו ונפעל להסיר אותה במהירות.
+אם אינך מעוניין/ת שהתקציר יופיע באתר, אפשר להודיע לנו ונפעל להסיר אותו במהירות.
 
 בתודה,
 {SIGNATURE_HE}
@@ -148,7 +148,7 @@ Thank you,
 def compose_message(rows: list[dict[str, str]], settings: dict[str, str | int]) -> EmailMessage:
     recipient = rows[0]["email"].strip().lower()
     message = EmailMessage()
-    message["Subject"] = "תמציות מאמריך באתר Demokratia / Your paper summaries on Demokratia"
+    message["Subject"] = "תקצירי מאמריך באתר Demokratia / Your paper summaries on Demokratia"
     message["From"] = str(settings["from"])
     message["To"] = recipient
     if settings.get("cc"):

@@ -1,7 +1,7 @@
 ---
 layout: random-paper
 title: מעבר לעמוד אקראי
-description: מעבר אוטומטי לתמצית מאמר אקראית באתר.
+description: מעבר אוטומטי לתקציר מאמר אקראי באתר.
 permalink: /random-paper.html
 ---
 

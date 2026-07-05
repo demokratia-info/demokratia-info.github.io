@@ -4,8 +4,8 @@
   "feedbackSourceOrigins": "https://democracy.tau.ac.il,https://demokratia-info.github.io",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeTitleHe": "מאמרים נבחרים בנושא דמוקרטיה ושלטון החוק",
-  "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
-  "homeIntroHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
+  "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תקצירים של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
+  "homeIntroHe": "מטרת המאגר היא להנגיש בעברית תקצירים של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-07-05",
@@ -22,7 +22,7 @@
   "authorNoticeEditorEndpoint": "https://democracy-paper-suggestions.demokratia-info.workers.dev/admin/author-notices",
   "topicImageVersion": "20260523-topic-icons-v2",
   "paperImageVersion": "2026-07-05-real-photo-handoff",
-  "readingNoteHe": "התמצית שלעיל היא תמצית עצמאית בעברית, שנכתבה בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. היא אינה תרגום רשמי של התקציר או של המאמר, אינה מטעם המחברים או כתב העת, ואינה מחליפה קריאה במקור",
+  "readingNoteHe": "התקציר שלעיל הוא תקציר עצמאי בעברית, שנכתב בסיוע כלי בינה מלאכותית ובעריכה אנושית, על בסיס המאמר המקורי. הוא אינו תרגום רשמי של התקציר או של המאמר, אינו מטעם המחברים או כתב העת, ואינו מחליף קריאה במקור",
   "paperCount": 992,
   "feedbackEditorEndpoint": "https://democracy-paper-suggestions.demokratia-info.workers.dev/admin/page-feedback"
 }

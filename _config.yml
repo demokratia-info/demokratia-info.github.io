@@ -1,5 +1,5 @@
 title: "הנגשת מידע בנושאי דמוקרטיה"
-description: "תמציות מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק."
+description: "תקצירי מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק."
 url: "https://democracy.tau.ac.il"
 baseurl: ""
 home_url: "https://democracy.tau.ac.il/index.html"
@@ -25,6 +25,7 @@ exclude:
   - AGENTS.md
   - Authors.csv
   - data/
+  - fulltext/
   - node_modules/
   - pagefind/
   - scripts/

@@ -2,7 +2,7 @@
 <html lang="he" dir="rtl">
 <head>
   {% assign paper_count = site.papers | size %}
-  {% capture home_count_sentence %}המאגר כולל תמציות של {{ paper_count }} מאמרים.{% endcapture %}
+  {% capture home_count_sentence %}המאגר כולל תקצירים של {{ paper_count }} מאמרים.{% endcapture %}
   {% capture home_description %}{{ site.data.site.homeDescriptionHe }} {{ home_count_sentence }}{% endcapture %}
   {% capture home_intro %}{{ site.data.site.homeIntroHe }} {{ home_count_sentence }}{% endcapture %}
   {% assign title = site.data.site.homeTitleHe %}
@@ -48,7 +48,7 @@
       {% include site_logo.html %}
       <h1>{{ site.data.site.homeTitleHe }}</h1>
       <p class="intro">{{ home_intro | strip }}</p>
-      <div class="search-panel" id="search" role="search" aria-label="חיפוש בתמציות"></div>
+      <div class="search-panel" id="search" role="search" aria-label="חיפוש בתקצירים"></div>
     </header>
 
     <section class="section topics-section" aria-labelledby="topics-heading">
@@ -68,7 +68,7 @@
             <span class="topic-content">
               <h2>{{ topic.titleHe }}</h2>
               <p>{{ topic.descriptionHe }}</p>
-              <span class="topic-count">{{ topic_count }} תמציות בנושא</span>
+              <span class="topic-count">{{ topic_count }} תקצירים בנושא</span>
             </span>
           </a>
         {% endfor %}
@@ -76,7 +76,7 @@
     </section>
 
     <section class="section latest-section" aria-labelledby="latest-heading">
-      <h2 class="section-heading" id="latest-heading">תמציות נבחרות</h2>
+      <h2 class="section-heading" id="latest-heading">תקצירים נבחרים</h2>
       <div class="grid">
         {% assign all_papers = site.papers | sort: "sortKey" | reverse %}
         {% assign homepage_sample_slugs = site.data.homepage_high_fit_sample.paperSlugs %}
@@ -147,7 +147,7 @@
         showSubResults: true,
         showImages: false,
         translations: {
-          placeholder: "חיפוש בתמציות",
+          placeholder: "חיפוש בתקצירים",
           clear_search: "ניקוי החיפוש",
           load_more: "תוצאות נוספות",
           search_label: "חיפוש באתר",

@@ -65,12 +65,12 @@
         {% endif %}
       {% endfor %}
       <div class="topic-hero">
-        <p class="topic-note">מאמר יכול להופיע ביותר מנושא אחד כאשר הוא עוסק, למשל, גם בזכויות וגם במוסדות או גם בפופוליזם וגם בבית המשפט. בעמוד זה מופיעות {{ count }} תמציות שמשויכות לנושא.</p>
+        <p class="topic-note">מאמר יכול להופיע ביותר מנושא אחד כאשר הוא עוסק, למשל, גם בזכויות וגם במוסדות או גם בפופוליזם וגם בבית המשפט. בעמוד זה מופיעים {{ count }} תקצירים שמשויכים לנושא.</p>
         <img class="topic-icon" src="{{ topic_image | relative_url }}" alt="{{ topic.imageAltHe | escape }}" width="160" height="160" decoding="async" fetchpriority="high">
       </div>
     </header>
 
-    <section class="grid" aria-label="תמציות בנושא {{ topic.titleHe | escape }}">
+    <section class="grid" aria-label="תקצירים בנושא {{ topic.titleHe | escape }}">
       {% assign all_papers = site.papers | sort: "sortKey" | reverse %}
       {% assign new_badge_days = site.data.site.newBadgeDays | default: 3 %}
       {% assign new_badge_offset_seconds = new_badge_days | minus: 1 | times: 86400 %}

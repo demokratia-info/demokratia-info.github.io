@@ -86,10 +86,10 @@ permalink: /page-feedback.html
 <p class="form-status" data-page-feedback-status hidden role="status" aria-live="polite"></p>
 
 <section class="page-summary-editor" data-summary-editor hidden aria-labelledby="summaryEditorHeading">
-  <h2 id="summaryEditorHeading">עריכת תמצית העמוד</h2>
+  <h2 id="summaryEditorHeading">עריכת תקציר העמוד</h2>
   <p class="form-note">מסך זה נטען רק לאחר אימות סיסמת עורך. השינויים נשמרים כבקשת עדכון מאושרת לתור ההערות, ותהליך ההארטביט הבא יחיל אותם לאחר בדיקה.</p>
   <div class="form-actions">
-    <button class="button-secondary" type="button" data-summary-editor-load>טעינת התמצית לעריכה</button>
+    <button class="button-secondary" type="button" data-summary-editor-load>טעינת התקציר לעריכה</button>
   </div>
   <div class="summary-editor-fields" data-summary-editor-fields hidden></div>
   <div class="form-actions summary-editor-actions" data-summary-editor-actions hidden>

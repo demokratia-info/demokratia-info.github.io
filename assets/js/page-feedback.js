@@ -320,11 +320,11 @@
       });
       if (!response.ok) throw new Error("לא ניתן היה לטעון את עמוד המאמר.");
       renderSummaryEditor(summaryFromDocument(await response.text()));
-      setPanelStatus(summaryEditorStatus, "התמצית נטענה. אפשר לערוך את הטקסט ולשמור כעדכון מאושר.", "info");
+      setPanelStatus(summaryEditorStatus, "התקציר נטען. אפשר לערוך את הטקסט ולשמור כעדכון מאושר.", "info");
     } catch (error) {
       summaryEditorFields.hidden = true;
       summaryEditorActions.hidden = true;
-      setPanelStatus(summaryEditorStatus, error.message || "לא ניתן היה לטעון את התמצית לעריכה.", "error");
+      setPanelStatus(summaryEditorStatus, error.message || "לא ניתן היה לטעון את התקציר לעריכה.", "error");
     } finally {
       if (summaryEditorLoadButton) summaryEditorLoadButton.disabled = false;
       if (summaryEditorResetButton) summaryEditorResetButton.disabled = false;
@@ -344,7 +344,7 @@
 
   const collectSummaryRevision = () => {
     if (!summaryEditorFields || summaryEditorFields.hidden) {
-      throw new Error("יש לטעון את התמצית לפני שמירת העריכה.");
+      throw new Error("יש לטעון את התקציר לפני שמירת העריכה.");
     }
 
     const titleHe = readEditorControl("titleHe");
@@ -358,7 +358,7 @@
 
     if (!titleHe) throw new Error("כותרת העמוד אינה יכולה להיות ריקה.");
     if (!oneLinerHtml) throw new Error("שורת הפתיחה אינה יכולה להיות ריקה.");
-    if (!sections.length) throw new Error("יש להשאיר לפחות סעיף אחד בתמצית.");
+    if (!sections.length) throw new Error("יש להשאיר לפחות סעיף אחד בתקציר.");
     for (const section of sections) {
       if (!section.headingHe || !section.paragraphsHtml.length) {
         throw new Error("לכל סעיף צריך להיות שם ולפחות פסקה אחת.");
@@ -411,7 +411,7 @@
       }
       editorPasswordVerified = true;
       if (summaryEditor) summaryEditor.hidden = false;
-      setPanelStatus(editorAuthStatus, "סיסמת העורך אומתה. אפשר לערוך את התמצית של העמוד הזה.", "info");
+      setPanelStatus(editorAuthStatus, "סיסמת העורך אומתה. אפשר לערוך את התקציר של העמוד הזה.", "info");
       await loadSummaryEditor();
       if (summaryEditor) summaryEditor.scrollIntoView({ behavior: "smooth", block: "start" });
     } catch (error) {

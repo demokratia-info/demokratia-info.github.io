@@ -5,7 +5,7 @@
   "slug": "democracy_world_legislatures_covid_first_wave_open_close_summary_he",
   "titleHe": "פרלמנטים דמוקרטיים היו חסינים יותר מסגירה בגל הקורונה הראשון",
   "subtitleHe": "",
-  "descriptionHe": "תמצית בעברית של מחקר השוואתי על פעילות בתי מחוקקים ב־159 מדינות בגל הראשון של Covid-19, ועל הקשר בין סיכון בריאותי, משטר פוליטי, טכנולוגיה וסגירת פרלמנטים.",
+  "descriptionHe": "תקציר בעברית של מחקר השוואתי על פעילות בתי מחוקקים ב־159 מדינות בגל הראשון של Covid-19, ועל הקשר בין סיכון בריאותי, משטר פוליטי, טכנולוגיה וסגירת פרלמנטים.",
   "summaryHe": "המאמר מנתח מסד נתונים חדש על פעילות בתי מחוקקים ב־159 מדינות בין 23 במרץ ל־6 באפריל 2020. הוא מצא שחומרת התחלואה לא הסבירה את הגבלת הפרלמנטים, ושבתי מחוקקים במדינות חופשיות חלקית היו פגיעים במיוחד לסגירה או לצמצום פעילות.",
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Israel Waismel-Manor, Ittai Bar-Siman-Tov, Olivier Rozenberg, Asaf Levanon, Cyril Benoît, Gal Ifergane",
