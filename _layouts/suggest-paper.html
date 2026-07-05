@@ -4,6 +4,7 @@
   {% assign page_title = page.title | append: " | " | append: site.data.site.siteNameHe %}
   {% include head.html title=page_title description=page.description type="website" image="HEB_bold.jpg" %}
   {% assign cache_version = site.data.site.cacheVersion | default: site.data.site.lastUpdated %}
+  {% include form_origin_redirect.html %}
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,7 +25,7 @@
   <a class="skip-link suggest-skip-link" href="#main-content">Skip to main content</a>
   <main class="simple-main suggest-main" id="main-content" tabindex="-1" data-pagefind-body>
     {% include site_logo.html %}
-    <a class="home-link" href="{{ '/' | relative_url }}" aria-label="Back to homepage" data-pagefind-ignore>
+    <a class="home-link" href="{{ site.home_url | default: '/' | escape }}" aria-label="Back to homepage" data-pagefind-ignore>
       {% include home_icon.html %}
       <span>Back to homepage</span>
     </a>
@@ -34,7 +35,7 @@
       <span aria-hidden="true"> · </span>
       {% include random_paper_link.html %}
       <span aria-hidden="true"> · </span>
-      <a href="{{ '/' | relative_url }}">Back to homepage</a>
+      <a href="{{ site.home_url | default: '/' | escape }}">Back to homepage</a>
       <span aria-hidden="true"> · </span>
       {% include terms_link.html %}
     </footer>

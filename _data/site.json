@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "baseUrl": "https://demokratia-info.github.io/",
+  "baseUrl": "https://democracy.tau.ac.il/",
+  "formOrigin": "https://demokratia-info.github.io",
+  "feedbackSourceOrigins": "https://democracy.tau.ac.il,https://demokratia-info.github.io",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
   "homeTitleHe": "מאמרים נבחרים בנושא דמוקרטיה ושלטון החוק",
   "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תמציות של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
@@ -8,7 +10,7 @@
   "homepageLatestCount": 6,
   "topicPageSize": 50,
   "lastUpdated": "2026-07-05",
-  "cacheVersion": "2026-07-05-real-photo-handoff",
+  "cacheVersion": "2026-07-05-form-origin-fallback",
   "newBadgeDays": 3,
   "recentSourcePaperDays": 365,
   "suggestPaperEndpoint": "https://democracy-paper-suggestions.democracy-info.workers.dev",

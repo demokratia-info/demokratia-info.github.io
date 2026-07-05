@@ -23,7 +23,8 @@ permalink: /page-feedback.html
       data-page-feedback-form
       data-endpoint="{{ site.data.site.pageFeedbackEndpoint | default: '' | escape }}"
       data-editor-endpoint="{{ site.data.site.feedbackEditorEndpoint | default: '' | escape }}"
-      data-home-url="{{ '/' | relative_url }}"
+      data-source-origins="{{ site.data.site.feedbackSourceOrigins | default: site.url | escape }}"
+      data-home-url="{{ site.home_url | default: '/' | escape }}"
       data-daily-limit="{{ site.data.site.pageFeedbackDailyLimit | default: 5 }}"
       data-redirect-delay-ms="{{ site.data.site.pageFeedbackRedirectDelayMs | default: 5000 }}"
       data-photo-max-bytes="{{ site.data.site.pageFeedbackPhotoMaxBytes | default: 8388608 }}"

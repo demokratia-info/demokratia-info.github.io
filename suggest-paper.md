@@ -17,7 +17,7 @@ permalink: /suggest-paper.html
 <form class="suggestion-form"
       data-suggest-paper-form
       data-endpoint="{{ site.data.site.suggestPaperEndpoint | default: '' | escape }}"
-      data-home-url="{{ '/' | relative_url }}"
+      data-home-url="{{ site.home_url | default: '/' | escape }}"
       data-daily-limit="{{ site.data.site.suggestPaperDailyLimit | default: 5 }}"
       data-redirect-delay-ms="{{ site.data.site.suggestPaperRedirectDelayMs | default: 5000 }}">
   <div class="form-field">

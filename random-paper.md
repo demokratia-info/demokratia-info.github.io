@@ -9,7 +9,7 @@ permalink: /random-paper.html
 
 <p data-pagefind-ignore>מעביר לעמוד אקראי...</p>
 
-<p data-pagefind-ignore><a id="randomPaperFallback" href="{{ '/' | relative_url }}">לעמוד הבית</a></p>
+<p data-pagefind-ignore><a id="randomPaperFallback" href="{{ site.home_url | default: '/' | escape }}">לעמוד הבית</a></p>
 
 <script data-pagefind-ignore>
 (() => {

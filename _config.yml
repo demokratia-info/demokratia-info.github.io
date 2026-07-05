@@ -1,7 +1,8 @@
 title: "הנגשת מידע בנושאי דמוקרטיה"
 description: "תמציות מאמרים אקדמיים של חוקרות וחוקרים ישראלים בנושאי דמוקרטיה ליברלית, זכויות, מוסדות ושלטון החוק."
-url: "https://demokratia-info.github.io"
+url: "https://democracy.tau.ac.il"
 baseurl: ""
+home_url: "https://democracy.tau.ac.il/index.html"
 lang: he
 direction: rtl
 timezone: Asia/Jerusalem

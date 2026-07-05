@@ -46,7 +46,7 @@
     {% include site_logo.html %}
 
     <nav class="page-nav" aria-label="ניווט עמוד המאמר" data-pagefind-ignore>
-      <a class="home-link" href="{{ '/' | relative_url }}" aria-label="חזרה לעמוד הבית">
+      <a class="home-link" href="{{ site.home_url | default: '/' | escape }}" aria-label="חזרה לעמוד הבית">
         {% include home_icon.html %}
         <span>לעמוד הבית</span>
       </a>
@@ -117,7 +117,7 @@
       <span aria-hidden="true"> · </span>
       {% include random_paper_link.html %}
       <span aria-hidden="true"> · </span>
-      <a href="{{ '/' | relative_url }}">חזרה לעמוד הבית</a>
+      <a href="{{ site.home_url | default: '/' | escape }}">חזרה לעמוד הבית</a>
       <span aria-hidden="true"> · </span>
       <a href="{{ '/accessibility.html' | relative_url }}">הצהרת נגישות</a>
       <span aria-hidden="true"> · </span>

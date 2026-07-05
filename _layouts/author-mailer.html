@@ -4,12 +4,13 @@
   {% assign page_title = page.title | append: " | " | append: site.data.site.siteNameHe %}
   {% include head.html title=page_title description=page.description type="website" image="HEB_bold.jpg" noindex=true %}
   {% assign cache_version = site.data.site.cacheVersion | default: site.data.site.lastUpdated %}
+  {% include form_origin_redirect.html %}
 </head>
 <body>
   <a class="skip-link" href="#main-content">דילוג לתוכן המרכזי</a>
   <main class="simple-main feedback-editor-main" id="main-content" tabindex="-1" data-pagefind-ignore>
     {% include site_logo.html %}
-    <a class="home-link" href="{{ '/' | relative_url }}" aria-label="חזרה לעמוד הבית" data-pagefind-ignore>
+    <a class="home-link" href="{{ site.home_url | default: '/' | escape }}" aria-label="חזרה לעמוד הבית" data-pagefind-ignore>
       {% include home_icon.html %}
       <span>לעמוד הבית</span>
     </a>
@@ -17,7 +18,7 @@
     <footer class="footer-links" data-pagefind-ignore>
       {% include random_paper_link.html %}
       <span aria-hidden="true"> · </span>
-      <a href="{{ '/' | relative_url }}">חזרה לעמוד הבית</a>
+      <a href="{{ site.home_url | default: '/' | escape }}">חזרה לעמוד הבית</a>
       <span aria-hidden="true"> · </span>
       <a href="{{ '/accessibility.html' | relative_url }}">הצהרת נגישות</a>
       <span aria-hidden="true"> · </span>

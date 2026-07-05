@@ -134,7 +134,8 @@
     <footer class="footer-links" data-pagefind-ignore>
       {% include feedback_link.html title=site.data.site.homeTitleHe %}
       {% include random_paper_link.html %}
-      <a href="{{ '/suggest-paper.html' | relative_url }}">הצע מאמר</a>
+      {% assign form_origin = site.data.site.formOrigin | default: site.url %}
+      <a href="{{ form_origin | append: '/suggest-paper.html' }}">הצע מאמר</a>
       <a href="{{ '/accessibility.html' | relative_url }}">הצהרת נגישות</a>
       {% include terms_link.html %}
     </footer>

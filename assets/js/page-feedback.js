@@ -5,6 +5,11 @@
   const endpoint = (form.dataset.endpoint || "").trim();
   const editorEndpoint = (form.dataset.editorEndpoint || "").trim();
   const editorAuthEndpoint = editorEndpoint ? `${editorEndpoint.replace(/\/+$/, "")}/auth` : "";
+  const sourceOrigins = (form.dataset.sourceOrigins || window.location.origin)
+    .split(",")
+    .map((item) => item.trim())
+    .filter(Boolean);
+  if (!sourceOrigins.includes(window.location.origin)) sourceOrigins.push(window.location.origin);
   const homeUrl = form.dataset.homeUrl || "/";
   const dailyLimit = Number.parseInt(form.dataset.dailyLimit || "5", 10);
   const redirectDelayMs = Number.parseInt(form.dataset.redirectDelayMs || "5000", 10);
@@ -100,18 +105,18 @@
     if (field && "value" in field) field.value = value || "";
   };
 
-  const sameOriginUrl = (value) => {
+  const allowedSourceUrl = (value) => {
     if (!value) return "";
     try {
       const url = new URL(value, window.location.origin);
-      return url.origin === window.location.origin ? url.toString() : "";
+      return sourceOrigins.includes(url.origin) ? url.toString() : "";
     } catch {
       return "";
     }
   };
 
-  const sourcePageUrl = sameOriginUrl(params.get("page") || params.get("pageUrl"))
-    || sameOriginUrl(document.referrer);
+  const sourcePageUrl = allowedSourceUrl(params.get("page") || params.get("pageUrl"))
+    || allowedSourceUrl(document.referrer);
   const slugFromUrl = (value) => {
     try {
       const filename = new URL(value).pathname.split("/").filter(Boolean).pop() || "";
@@ -152,7 +157,7 @@
     return;
   }
 
-  const safeRedirectUrl = () => sameOriginUrl(readField("pageUrl")) || homeUrl;
+  const safeRedirectUrl = () => allowedSourceUrl(readField("pageUrl")) || homeUrl;
 
   const hasEditorPassword = () => Boolean(readField("editorPassword"));
 

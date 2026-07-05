@@ -78,8 +78,8 @@ const AUTHOR_NOTICE_QUEUE_HEADER = [
   "editor_notes"
 ];
 
-const DEFAULT_ALLOWED_ORIGINS = "https://demokratia-info.github.io";
-const DEFAULT_SITE_ORIGIN = "https://demokratia-info.github.io";
+const DEFAULT_ALLOWED_ORIGINS = "https://democracy.tau.ac.il,https://demokratia-info.github.io";
+const DEFAULT_SITE_ORIGIN = "https://democracy.tau.ac.il";
 const DEFAULT_CONFIRMATION_REPORT_TO = "demokratia.info@gmail.com";
 const DEFAULT_SUGGEST_CONFIRMATION_EXPIRY_DAYS = 7;
 const DOI_PATTERN = /^(?:https?:\/\/(?:dx\.)?doi\.org\/|doi:\s*)?10\.\d{4,9}\/\S+$/i;
@@ -989,10 +989,12 @@ function requestKind(request) {
 
 function corsHeaders(request, env) {
   const origin = request.headers.get("Origin") || "";
-  const allowed = String(env.ALLOWED_ORIGINS || DEFAULT_ALLOWED_ORIGINS)
-    .split(",")
+  const allowed = Array.from(new Set([
+    ...String(DEFAULT_ALLOWED_ORIGINS).split(","),
+    ...String(env.ALLOWED_ORIGINS || "").split(",")
+  ]
     .map((item) => item.trim())
-    .filter(Boolean);
+    .filter(Boolean)));
   const allowedOrigin = allowed.includes(origin) ? origin : allowed[0] || DEFAULT_ALLOWED_ORIGINS;
   return {
     "Access-Control-Allow-Origin": allowedOrigin,
