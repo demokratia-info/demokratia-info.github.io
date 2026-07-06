@@ -3,6 +3,7 @@ layout: page-feedback
 title: הצעות לתיקונים והערות
 description: שליחת הערות, הצעות לתיקון או דיווח על טעות בעמוד באתר.
 permalink: /page-feedback.html
+noindex: true
 ---
 
 # הצעות לתיקונים והערות
