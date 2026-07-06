@@ -6,7 +6,7 @@
   "titleHe": "פרשנות בחירות כמנדט מחייב תלויה בתקשורת ובדעת קהל",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן מתי תוצאות בחירות מתפרשות כמנדט מדיניות למנהיגים נבחרים, ומתמקד בישראל בשנים 1992-2003. הוא מראה שמנדט בחירות אינו נובע אוטומטית מתוצאה בקלפי, אלא מתהליך תקשורתי ופוליטי שמעניק משמעות לתוצאה.",
-  "summaryHe": "Shamir, Shamir ו־Sheafer מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות.",
+  "summaryHe": "שמיר, שמיר ושפר מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות.",
   "summarySourceStatus": "Based on abstract only",
   "authorsCardHe": "Michal Shamir, Jacob Shamir, Tamir Sheafer",
   "paperTitle": "The Political Communication of Mandate Elections",
@@ -62,30 +62,15 @@
     "מנהיגות נבחרת"
   ],
   "image": {
-    "src": "assets/article-images/real_photo_558_media_democracy_political_communication_mandate_elections_summary_he.jpg",
-    "version": "2026-07-05-real-photo-handoff",
-    "altHe": "תצלום הקשור לפרשנות בחירות כמנדט מחייב תלויה בתקשורת ובדעת קהל",
+    "src": "html_qa/democracy_political_communication_mandate_elections_summary_he.jpg",
+    "version": "2026-07-06-feedback-revisions-0307",
+    "altHe": "חדר מחקר תקשורתי עם עיתונים וגרפים לניתוח תוצאות בחירות ודעת קהל",
     "fitness": "high",
-    "license": "CC BY-SA 4.0",
-    "creator": "Danny-w",
-    "provider": "Wikimedia Commons",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Israeli_Educational_Television_-_witch_puppet.jpg",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israeli_Educational_Television_-_witch_puppet.jpg",
-    "fileTitle": "Israeli Educational Television - witch puppet.jpg",
-    "sourceDimensions": "4160x3120",
-    "localDimensions": "800x600",
-    "specificityTier": "literal_or_near_literal_subject_match",
-    "matchType": "wikimedia_commons_real_photo",
-    "matchQuality": "real_photo_strong_contextual_match",
-    "sourceMethod": "wikimedia_commons_real_photo",
-    "visualAnchor": "real_photo:media",
-    "handoffStatus": "ready_to_review_real_photo",
-    "finalHandoffStatus": "ready_to_replace_image",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "fitnessSource": "approved_feedback_existing_page_image"
   },
   "datePublished": "2026-06-01",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-06",
+  "lastUpdatedHe": "6 ביולי 2026",
   "oneLinerHtml": "המאמר מסביר מדוע ניצחון בבחירות אינו בהכרח מנדט ברור למדיניות. המנדט נבנה דרך פרשנות תקשורתית, נתוני דעת קהל ושיח פוליטי שאחרי הבחירות.",
   "sections": [
     {
@@ -97,8 +82,8 @@
     {
       "headingHe": "מה המאמר מצא או טוען בפועל?",
       "paragraphsHtml": [
-        "מחקר המקרה האמפירי שבמאמר הוא ישראל בין השנים 1992 ל-2003, תקופה המאופיינת בתפניות רבות בממשלה ובמדיניות, תוצאות בחירות גסות ושינויים משמעותיים בדעת הקהל, כאשר ניתן היה לצפות לבחירות למנדט. תוך שימוש במערך עשיר של נתונים על חמש הבחירות בתקופה זו, המאמר בוחן את התנאים ההכרחיים לפרשנויות של בחירות המנדט ולפרשנויות שלאחר הבחירות בפועל. המחקר מוצא כי באף מערכת בחירות לא התקיימו כל התנאים ואף אחד מהם לא הוגדר כבחירות מנדט.",
-        "Shamir, Shamir ו־Sheafer מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות."
+        "מקרה הבוחן האמפירי שבמאמר הוא ישראל בין השנים 1992 ל-2003, תקופה המאופיינת בתפניות רבות בממשלה ובמדיניות, תוצאות בחירות דרמטיות ושינויים משמעותיים בדעת הקהל, כאשר ניתן היה לצפות לבחירות למנדט. תוך שימוש במערך עשיר של נתונים על חמש הבחירות בתקופה זו, המאמר בוחן את התנאים ההכרחיים לפרשנויות של בחירות המנדט ולפרשנויות שלאחר הבחירות בפועל. המחקר מוצא כי באף מערכת בחירות לא התקיימו כל התנאים ואף אחד מהם לא הוגדר כבחירות מנדט.",
+        "שמיר, שמיר ושפר מציעים מודל לתנאים הנדרשים כדי שבחירות יתפרשו כמנדט מדיניות. בניתוח חמש מערכות בחירות בישראל בין 1992 ל־2003, הם מוצאים שאף מערכת לא מילאה את כל התנאים ולא הוגדרה בבירור כמנדט בחירות."
       ]
     },
     {
