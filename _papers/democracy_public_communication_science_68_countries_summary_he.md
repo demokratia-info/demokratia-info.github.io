@@ -5,9 +5,9 @@
   "slug": "democracy_public_communication_science_68_countries_summary_he",
   "titleHe": "תקשורת מדעית ציבורית תלויה גם במבנה חברתי־פוליטי",
   "subtitleHe": "סקר בין־לאומי רחב על מקורות מידע מדעי, מעורבות ציבורית ותנאים פוליטיים־כלכליים.",
-  "descriptionHe": "המאמר משתמש בסקר ב־68 מדינות כדי לבחון כיצד אנשים נחשפים למידע מדעי, משתפים אותו ומשתתפים בדיון ציבורי סביב מדע. התרומה הדמוקרטית שלו היא בהצבת תקשורת המדע כחלק מן התשתית האזרחית של אמון, השתתפות ונגישות למידע.",
-  "summaryHe": "Niels G. Mede ועמיתיו מנתחים סקר של 71,922 משיבים ב־68 מדינות על דיאטות מידע מדעי והתנהגות תקשורתית סביב מדע. המאמר מראה כי מדיה חברתית היא מקור מרכזי למידע מדעי ברוב המדינות, וכי תנאים חברתיים־פוליטיים וכלכליים קשורים לדפוסי חשיפה, דיבור ומחאה סביב מדע.",
-  "summarySourceStatus": "Based on abstract only",
+  "descriptionHe": "המאמר מנתח סקר בינלאומי ב־68 מדינות כדי לבחון מאילו מקורות אנשים מקבלים מידע על מדע וכיצד הם מדברים, משתפים ופועלים סביב מידע מדעי.",
+  "summaryHe": "המחקר משתמש בנתוני TISP מ־71,922 משיבים ב־68 מדינות על דיאטות מידע מדעי והתנהגות תקשורתית סביב מדע. הוא מצא שמדיה חברתית היא מקור מרכזי למידע מדעי ברוב המדינות, ושדפוסי חשיפה ודיבור על מדע משתנים בין מדינות ונקשרים לתנאים חברתיים, פוליטיים וכלכליים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward Maibach, Sabina Mihelj, Dana Harari, Atar Herziger ואחרים",
   "paperTitle": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5707-7568\" target=\"_blank\" rel=\"noopener noreferrer\">Niels G. Mede</a>, <a href=\"https://orcid.org/0000-0003-3706-8669\" target=\"_blank\" rel=\"noopener noreferrer\">Viktoria Cologna</a>, <a href=\"https://orcid.org/0000-0003-2392-1024\" target=\"_blank\" rel=\"noopener noreferrer\">Sebastian Berger</a>, <a href=\"https://orcid.org/0000-0002-8778-4973\" target=\"_blank\" rel=\"noopener noreferrer\">John C. Besley</a>, <a href=\"https://orcid.org/0000-0002-7174-8193\" target=\"_blank\" rel=\"noopener noreferrer\">Cameron Brick</a>, <a href=\"https://orcid.org/0000-0003-0178-1796\" target=\"_blank\" rel=\"noopener noreferrer\">Marina Joubert</a>, <a href=\"https://orcid.org/0000-0003-3409-9187\" target=\"_blank\" rel=\"noopener noreferrer\">Edward Maibach</a>, <a href=\"https://orcid.org/0000-0002-8557-2504\" target=\"_blank\" rel=\"noopener noreferrer\">Sabina Mihelj</a>, <a href=\"https://orcid.org/0000-0001-6105-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Harari</a>, <a href=\"https://orcid.org/0000-0002-3223-0132\" target=\"_blank\" rel=\"noopener noreferrer\">Atar Herziger</a> ואחרים",
@@ -154,14 +154,22 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   "datePublished": "2026-06-12",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
-  "oneLinerHtml": "המאמר מציב את תקשורת המדע כמרחב אזרחי שבו נגישות למידע, אמון במוסדות ומבני תקשורת משפיעים על השתתפות ציבורית.",
+  "dateModified": "2026-07-07",
+  "lastUpdatedHe": "7 ביולי 2026",
+  "oneLinerHtml": "המאמר מציב תקשורת מדע כמרחב אזרחי שבו מקורות מידע, שיחה ציבורית ותנאים חברתיים מעצבים השתתפות סביב ידע מדעי.",
   "sections": [
     {
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר בוחן כיצד אזרחים במדינות שונות נתקלים במידע מדעי, אילו ערוצי תקשורת משמשים אותם, ועד כמה הם מדברים או פועלים סביב נושאי מדע. הבסיס האמפירי הוא סקר בין־לאומי ב־68 מדינות עם 71,922 משיבים, שמאפשר להשוות בין דפוסי שימוש במדיה לבין תנאים חברתיים־פוליטיים וכלכליים."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען בפועל?",
+      "paragraphsHtml": [
+        "המאמר בוחן את נתוני Trust in Science and Science-Related Populism, הכוללים 71,922 משיבים ב־68 מדינות מכל היבשות המיושבות. הוא מתמקד בשאלה היכן אנשים נתקלים במידע על מדע וכיצד הם מתקשרים עליו עם אחרים, ובוחן הבדלים בין מדינות לצד קשרים לתנאים חברתיים־פוליטיים וכלכליים.",
+        "הניתוח מראה שמידע מדעי אינו מגיע רק דרך חינוך פורמלי או הסברה של מדענים, אלא גם דרך חדשות, מדיה חברתית, שירותי מסרים, שיחות אישיות, מוזיאונים, הרצאות ציבוריות, מחאות ואף תרבות פופולרית. ברוב המדינות שנבדקו, מדיה חברתית נמצאה כאחד המקורות השימושיים ביותר למידע מדעי.",
+        "המאמר מדגיש שהשוואה גלובלית נחוצה משום שמחקר קודם נטה להתמקד בצפון הגלובלי. הוא מצא, בין היתר, שבחברות קולקטיביסטיות אנשים נוטים להיות פחות גלויים בדיבור יומיומי על מדע, ושקיימים הבדלים בין אזורים ומדינות בדפוסי חשיפה, שיחה ומעורבות סביב מדע."
       ]
     },
     {

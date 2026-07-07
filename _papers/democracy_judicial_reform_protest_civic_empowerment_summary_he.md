@@ -5,9 +5,9 @@
   "slug": "democracy_judicial_reform_protest_civic_empowerment_summary_he",
   "titleHe": "השתתפות במחאה נגד הרפורמה המשפטית נקשרה לתחושת העצמה אזרחית",
   "subtitleHe": "סקר מקוון בוחן איום נתפס, מחאה וחוללות עצמית בתקופת המשבר החוקתי של 2023.",
-  "descriptionHe": "המאמר בוחן את הקשר בין השתתפות במחאה נגד הרפורמה המשפטית בישראל לבין תחושת העצמה אזרחית וחוללות עצמית, על רקע איומים נתפסים. הוא חשוב לדמוקרטיה משום שהוא מתאר מחאה לא רק כהתנגדות פוליטית אלא גם כמנגנון אפשרי של חוסן ושליטה אזרחית.",
-  "summaryHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu ו-Ricky Cohen מנתחות סקר מקוון חתכי על השתתפות במחאות 2023 נגד הרפורמה המשפטית, איומים נתפסים והעצמה אזרחית. התקציר ממסגר מחאה כפעולה קולקטיבית שיכולה לחזק חוללות עצמית מול תחושת איום.",
-  "summarySourceStatus": "Based on abstract only",
+  "descriptionHe": "המאמר בוחן כיצד השתתפות במחאת 2023 נגד הרפורמה המשפטית נקשרה לאיומים נתפסים, חשיפה לאלימות, כוונות הגירה ותחושת העצמה אזרחית.",
+  "summaryHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu ו-Ricky Cohen מנתחות סקר מקוון חתכי של 570 משתתפים על מחאת 2023 נגד הרפורמה המשפטית. המחקר מצא שאיומים נתפסים, גיל, חשיפה לאלימות מילולית ברשת וכוונות הגירה נקשרו לדפוסי השתתפות, ושעצם ההשתתפות נקשרה לחוללות עצמית אזרחית גבוהה יותר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Anat Gesser-Edelsburg, Rana Hijazi, Ester Eliyahu, Ricky Cohen",
   "paperTitle": "Empowerment amidst turmoil, the association between protest participation against the 2023 Israeli judicial reform, individual perceived threats, and civic empowerment (self-efficacy): a cross-sectional online survey",
   "authorsHtml": "<a href=\"https://cris.haifa.ac.il/en/persons/anat-gesser-edelsburg/\" target=\"_blank\" rel=\"noopener noreferrer\">Anat Gesser-Edelsburg</a>, <a href=\"https://orcid.org/0000-0002-3662-2851\" target=\"_blank\" rel=\"noopener noreferrer\">Rana Hijazi</a>, <a href=\"https://orcid.org/0009-0002-8395-2452\" target=\"_blank\" rel=\"noopener noreferrer\">Ester Eliyahu</a>, <a href=\"https://orcid.org/0000-0003-2868-9666\" target=\"_blank\" rel=\"noopener noreferrer\">Ricky Cohen</a>",
@@ -95,14 +95,22 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "datePublished": "2026-06-12",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
-  "oneLinerHtml": "המאמר מציב את מחאת 2023 כזירה שבה איום חוקתי, פעולה קולקטיבית ותחושת יכולת אזרחית נפגשים.",
+  "dateModified": "2026-07-07",
+  "lastUpdatedHe": "7 ביולי 2026",
+  "oneLinerHtml": "המאמר מראה שמחאה פוליטית יכולה לפעול גם כמרחב של איום, התמודדות והעצמה אזרחית.",
   "sections": [
     {
       "headingHe": "מה המאמר בוחן?",
       "paragraphsHtml": [
         "המאמר בוחן את הקשר בין השתתפות במחאה נגד הרפורמה המשפטית של 2023 לבין איומים נתפסים והעצמה אזרחית. הוא מתבסס על סקר מקוון חתכי וממקם פעולה קולקטיבית בתוך דיון על חוסן, שליטה ובריאות ציבורית רחבה."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען בפועל?",
+      "paragraphsHtml": [
+        "המחקר התבסס על סקר מקוון חתכי של 570 משתתפים ובחן השתתפות במחאות נגד הרפורמה המשפטית ב-2023, איומים נתפסים, חשיפה לאלימות מילולית ברשת ולאלימות משטרתית, כוונות הגירה ותחושת העצמה אזרחית. הניתוח מצא שאיומים נתפסים גבוהים יותר נקשרו למוטיבציה גבוהה יותר להשתתף במחאה, ושגיל מבוגר יותר נקשר להשתתפות מחאתית גבוהה יותר.",
+        "המחקר מצא גם שחשיפה לאלימות מילולית ברשתות החברתיות סביב התנגדות לשינוי המשפטי נקשרה לרמות גבוהות יותר של השתתפות במחאה. בניגוד לציפייה הראשונית, משתתפים שחוו בעצמם אלימות מילולית או אלימות משטרתית היו פחות צפויים להפסיק להשתתף במחאות.",
+        "הניתוח מראה שהשתתפות במחאות נקשרה באופן חיובי לתחושת העצמה אזרחית וחוללות עצמית, כלומר לאמונה של אדם ביכולתו להשפיע. בנוסף, נמצאה פעילות מחאתית גבוהה יותר בקרב מי שנקטו צעדים מעשיים לקראת הגירה, והמחקר מציין כי פעילות זו הונעה ממניעים פנימיים ומערכים אישיים."
       ]
     },
     {

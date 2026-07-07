@@ -6,9 +6,9 @@
   "order": 925,
   "titleHe": "הכרעות תיעדוף רפואי בישראל בזמן הקורונה בין שוויון, שקיפות ואמון ציבורי",
   "subtitleHe": "נייר עמדה ישראלי מתרגם עקרונות אתיים, משפטיים ורפואיים לפרוטוקול תיעדוף במשבר מחסור",
-  "descriptionHe": "תקציר בעברית של מאמר המציג את נייר העמדה הישראלי על תיעדוף חולים קשים בזמן מגפת הקורונה, ואת עקרונות השוויון, השקיפות, ההוגנות והאמון הציבורי שמלווים אותו.",
-  "summaryHe": "המאמר מציג תרגום לאנגלית של הנחיות הוועדה הישראלית המשותפת לתיעדוף חולים קשים בזמן מגפת הקורונה. לפי התקציר, ארבע ועדות משנה רפואיות, משפטיות, אתיות־חברתיות ודתיות גיבשו עקרונות וקריטריונים מעשיים לתיעדוף משאבים מצילי חיים, ובהם תנאי הפעלה, שוויון בגישה, חלוקה הוגנת, שקיפות, עקביות, טיפול פליאטיבי, מנגנוני פתרון בעיות ואמון ציבורי.",
-  "summarySourceStatus": "Based on abstract only",
+  "descriptionHe": "המאמר מציג את נייר העמדה הישראלי לתיעדוף חולים קשים בזמן מגפת הקורונה, כולל עקרונות אתיים, משפטיים, דתיים ורפואיים לחלוקת משאבים מצילי חיים במחסור.",
+  "summaryHe": "המאמר מביא תרגום לאנגלית של ההנחיות הלאומיות הישראליות לתיעדוף חולים קשים אם מערכת הבריאות תוצף בזמן הקורונה. ארבע ועדות משנה רפואיות, משפטיות, אתיות־חברתיות ודתיות גיבשו עקרונות כלליים, קריטריונים רפואיים מעשיים ופרוטוקול תיעדוף. ההנחיות עוסקות בשוויון גישה, חלוקה הוגנת, שקיפות, עקביות, טיפול פליאטיבי, מנגנוני פתרון בעיות ואמון הציבור.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Avraham Steinberg; Ephrat Levy-Lahad; Tami Karni; Noam J. Zohar; Gil Siegal; Charles L. Sprung; Israel National Bioethics Council; Ethics Bureau of the Israel Medical Association; Representatives from the Israeli Ministry of Health",
   "paperTitle": "Israeli Position Paper: Triage Decisions for Severely Ill Patients During the COVID-19 Pandemic. Joint Commission of the Israel National Bioethics Council, the Ethics Bureau of the Israel Medical Association and Representatives from the Israeli Ministry of Health",
   "authorsHtml": "Avraham Steinberg; Ephrat Levy-Lahad; Tami Karni; <a href=\"https://philosophy.biu.ac.il/en/NoamZohar\" target=\"_blank\" rel=\"noopener noreferrer\">Noam J. Zohar</a>; <a href=\"https://www.ono.ac.il/eng/lecturer/gil-siegal/\" target=\"_blank\" rel=\"noopener noreferrer\">Gil Siegal</a>; Charles L. Sprung; Israel National Bioethics Council; Ethics Bureau of the Israel Medical Association; Representatives from the Israeli Ministry of Health",
@@ -116,14 +116,22 @@
     "fitness": "high"
   },
   "datePublished": "2026-06-29",
-  "dateModified": "2026-06-29",
-  "lastUpdatedHe": "29 ביוני 2026",
-  "oneLinerHtml": "המאמר מדגיש כי <strong>תיעדוף רפואי במשבר</strong> חייב להישען על כללים שוויוניים, שקופים ועקביים כדי לשמור על אמון הציבור.",
+  "dateModified": "2026-07-07",
+  "lastUpdatedHe": "7 ביולי 2026",
+  "oneLinerHtml": "<strong>תיעדוף רפואי במשבר</strong> דורש כללים שוויוניים, שקופים ועקביים כדי להגן על זכויות חולים ועל אמון הציבור.",
   "sections": [
     {
       "headingHe": "נייר עמדה רפואי־ציבורי",
       "paragraphsHtml": [
         "המאמר מציג את נייר העמדה הישראלי לתיעדוף חולים קשים בתקופת הקורונה. החשיבות הדמוקרטית שלו נובעת מן הצורך להסדיר מראש החלטות קשות על משאבים מצילי חיים ולא להשאיר אותן לאלתור נקודתי."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען בפועל?",
+      "paragraphsHtml": [
+        "המאמר מציג מסמך הסכמה ישראלי שנועד להנחות תיעדוף של חולים קשים בזמן מגפת הקורונה, במקרה שמערכת הבריאות תוצף ומשאבים מצילי חיים יהיו במחסור. המסמך נבנה בידי ועדה משותפת של המועצה הלאומית לביואתיקה, הלשכה לאתיקה של ההסתדרות הרפואית ונציגי משרד הבריאות.",
+        "העבודה גובשה באמצעות ארבע ועדות משנה של מומחים בתחומים רפואיים, משפטיים, אתיים־חברתיים ודתיים. ההנחיות כוללות עקרונות כלליים, קריטריונים רפואיים מעשיים ופרוטוקול תיעדוף להפעלה במצב חירום של מחסור.",
+        "נייר העמדה מפרט נושאים כגון תנאי הפעלה של ההנחיות, שוויון בגישה לטיפול, חלוקה הוגנת, שקיפות, עקביות, טיפול פליאטיבי, סדרי עדיפויות במדיניות רפואית ומנגנונים לפתרון בעיות. המסקנה היא שהפרוטוקול מספק מפת דרכים חברתית ורפואית להקצאת משאבים במגפת הקורונה או באסונות אחרים, תוך חיזוק אמון הציבור בצוותים הרפואיים."
       ]
     },
     {
