@@ -37,8 +37,8 @@ from author_notice_common import (
 
 DEFAULT_REPLY_TO = "demokratia@tau.ac.il"
 DEFAULT_CC = "demokratia@tau.ac.il"
-SIGNATURE_HE = "המרכז למחקר ישומי של סיכוני הדמוקרטיה"
-SIGNATURE_EN = "The Center for Applied Research on Risks to Democracy"
+SIGNATURE_HE = "אוניברסיטת תל אביב"
+SIGNATURE_EN = "Tel Aviv University"
 
 
 def load_env_file(path: Path) -> None:
@@ -65,7 +65,7 @@ def mail_settings() -> dict[str, str | int]:
         "port": int(env("AUTHOR_NOTICE_SMTP_PORT", "587")),
         "user": smtp_user,
         "password": env("AUTHOR_NOTICE_SMTP_PASSWORD"),
-        "from": env("AUTHOR_NOTICE_MAIL_FROM", formataddr(("Demokratia", smtp_user)) if smtp_user else ""),
+        "from": env("AUTHOR_NOTICE_MAIL_FROM", formataddr(("democracy.tau.ac.il", smtp_user)) if smtp_user else ""),
         "reply_to": env("AUTHOR_NOTICE_REPLY_TO", DEFAULT_REPLY_TO),
         "cc": env("AUTHOR_NOTICE_CC", DEFAULT_CC),
     }
@@ -117,7 +117,7 @@ def compose_body(rows: list[dict[str, str]]) -> str:
 
     return f"""שלום {name},
 
-באתר "הנגשת מידע בנושאי דמוקרטיה" פרסמנו תקציר או תקצירים בעברית של מאמר/ים אקדמיים שלך:
+באתר democracy.tau.ac.il פרסמנו תקציר או תקצירים בעברית של מאמר/ים אקדמיים שלך:
 
 {hebrew_papers}
 
@@ -132,7 +132,7 @@ def compose_body(rows: list[dict[str, str]]) -> str:
 
 Dear {name},
 
-We published Hebrew summary page(s) for your academic paper(s) on the Demokratia website:
+We published Hebrew summary page(s) for your academic paper(s) on democracy.tau.ac.il:
 
 {english_papers}
 
@@ -148,7 +148,7 @@ Thank you,
 def compose_message(rows: list[dict[str, str]], settings: dict[str, str | int]) -> EmailMessage:
     recipient = rows[0]["email"].strip().lower()
     message = EmailMessage()
-    message["Subject"] = "תקצירי מאמריך באתר Demokratia / Your paper summaries on Demokratia"
+    message["Subject"] = "תקצירי מאמריך באתר democracy.tau.ac.il / Your paper summaries on democracy.tau.ac.il"
     message["From"] = str(settings["from"])
     message["To"] = recipient
     if settings.get("cc"):
