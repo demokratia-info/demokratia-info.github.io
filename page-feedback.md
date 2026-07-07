@@ -12,7 +12,8 @@ noindex: true
 
 <section class="privacy-notice" aria-labelledby="feedbackPrivacyHeading">
   <h2 id="feedbackPrivacyHeading">הודעת פרטיות קצרה</h2>
-  <p>בטופס נאספים כתובת העמוד, פרטי המאמר, תוכן ההערה, בחירת “מי את/ה”, תמונה מוצעת ומטא־דאטה טכני שלה אם הועלתה, פרטי קשר אם נמסרו, ומזהה מקור יומי מגובב להגבלת שימוש לרעה. סיסמת עורך, אם נשלחת, משמשת לאימות בלבד ואינה נשמרת. המידע נשמר באופן פרטי ב־<code>democracy-paper-suggestions-private</code>, נגיש רק למנהל האתר, ונמחק לאחר 90 יום.</p>
+  <p>הפרטים שתמסרו ישמשו אך ורק לטיפול בפנייתכם, בהתאם למדיניות הפרטיות ותנאי השימוש של האתר.</p>
+  <p>לעיון במדיניות: <a href="{{ '/conditions.html' | relative_url }}">תנאי השימוש</a></p>
 </section>
 
 <p class="feedback-source" data-page-feedback-source hidden>
