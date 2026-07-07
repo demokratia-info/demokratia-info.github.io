@@ -51,12 +51,40 @@ const FEEDBACK_QUEUE_HEADER = [
   "suggested_photo_size",
   "suggested_photo_width",
   "suggested_photo_height",
-  "submitter_role"
+  "submitter_role",
+  "full_text_path",
+  "full_text_name",
+  "full_text_type",
+  "full_text_size"
 ];
 const FEEDBACK_HISTORY_HEADER = [
-  ...FEEDBACK_QUEUE_HEADER,
+  "submitted_date",
+  "submitted_at",
+  "page_url",
+  "page_title",
+  "page_slug",
+  "paper_title",
+  "doi",
+  "comment",
+  "submitter_email",
+  "submitter_phone",
+  "submitter_ip_hash",
+  "status",
+  "editor_notes",
+  "applied_at",
+  "suggested_photo_path",
+  "suggested_photo_name",
+  "suggested_photo_type",
+  "suggested_photo_size",
+  "suggested_photo_width",
+  "suggested_photo_height",
+  "submitter_role",
   "processed_at",
-  "processing_notes"
+  "processing_notes",
+  "full_text_path",
+  "full_text_name",
+  "full_text_type",
+  "full_text_size"
 ];
 const AUTHOR_NOTICE_QUEUE_HEADER = [
   "created_at",
@@ -94,6 +122,8 @@ const FEEDBACK_PHOTO_TYPES = new Map([
 ]);
 const DEFAULT_FEEDBACK_PHOTO_DIR = "page_feedback_photos";
 const DEFAULT_FEEDBACK_PHOTO_MAX_BYTES = 8 * 1024 * 1024;
+const DEFAULT_FEEDBACK_FULLTEXT_DIR = "page_feedback_fulltext";
+const DEFAULT_FEEDBACK_FULLTEXT_MAX_BYTES = 50 * 1024 * 1024;
 const DEFAULT_FEEDBACK_HISTORY_HOURS = 48;
 const DEFAULT_FEEDBACK_HISTORY_LIMIT = 200;
 
@@ -506,14 +536,15 @@ async function updateSuggestionConfirmationEmailFields(github, tokenHash, mutate
 }
 
 async function handlePageFeedback(request, env, cors) {
-  const { payload, photo } = await pageFeedbackRequestPayload(request);
+  const { payload, photo, fullText } = await pageFeedbackRequestPayload(request);
 
   if (clean(payload.website, 120)) {
     return jsonResponse({ ok: true }, 200, cors);
   }
 
   const hasPhotoUpload = Boolean(photo && photo.size > 0);
-  const feedback = validateFeedbackPayload(payload, env, hasPhotoUpload);
+  const hasFullTextUpload = Boolean(fullText && fullText.size > 0);
+  const feedback = validateFeedbackPayload(payload, env, hasPhotoUpload || hasFullTextUpload);
   const photoMeta = await validateFeedbackPhoto(photo, payload, env);
   const submittedDate = israelDate();
   const submittedAt = new Date().toISOString();
@@ -522,10 +553,21 @@ async function handlePageFeedback(request, env, cors) {
   const github = githubConfig(env, "FEEDBACK_QUEUE_PATH", "page_feedback_queue.csv");
   const dailyLimit = parseIntEnv(env.PAGE_FEEDBACK_DAILY_LIMIT, 5);
   const approvedByEditorPassword = await optionalEditorPasswordMatches(payload, env);
+  if (hasFullTextUpload && !approvedByEditorPassword) {
+    throw new Error("Full text upload requires a valid editor password.");
+  }
+  const fullTextMeta = await validateFeedbackFullText(fullText, payload, env);
   const feedbackStatus = approvedByEditorPassword ? "approved_for_update" : "pending";
   const photoPath = photoMeta
     ? feedbackPhotoPath(feedback, submittedDate, submittedAt, ipHash, photoMeta.extension, env)
     : "";
+  const fullTextPath = fullTextMeta
+    ? feedbackFullTextPath(feedback, submittedDate, submittedAt, ipHash, env)
+    : "";
+  const editorNotes = appendNote(
+    approvedByEditorPassword ? "submitted_with_editor_password" : "",
+    fullTextMeta ? "full_text_uploaded" : ""
+  );
   const row = [
     submittedDate,
     submittedAt,
@@ -539,7 +581,7 @@ async function handlePageFeedback(request, env, cors) {
     feedback.submitterPhone,
     ipHash,
     feedbackStatus,
-    approvedByEditorPassword ? "submitted_with_editor_password" : "",
+    editorNotes,
     "",
     photoPath,
     photoMeta ? photoMeta.name : "",
@@ -547,9 +589,14 @@ async function handlePageFeedback(request, env, cors) {
     photoMeta ? String(photoMeta.size) : "",
     photoMeta ? String(photoMeta.width) : "",
     photoMeta ? String(photoMeta.height) : "",
-    feedback.submitterRole
+    feedback.submitterRole,
+    fullTextPath,
+    fullTextMeta ? fullTextMeta.name : "",
+    fullTextMeta ? fullTextMeta.type : "",
+    fullTextMeta ? String(fullTextMeta.size) : ""
   ];
   let photoSaved = false;
+  let fullTextSaved = false;
 
   return appendQueueRow({
     github,
@@ -559,6 +606,10 @@ async function handlePageFeedback(request, env, cors) {
       if (photoMeta && !photoSaved) {
         await saveFeedbackPhoto(photoPath, photoMeta, env);
         photoSaved = true;
+      }
+      if (fullTextMeta && !fullTextSaved) {
+        await saveFeedbackFullText(fullTextPath, fullTextMeta, env);
+        fullTextSaved = true;
       }
       return row;
     },
@@ -868,7 +919,7 @@ async function updatePageFeedbackStatus(request, env, cors) {
   );
 }
 
-function feedbackItemFromRow(row, index) {
+function feedbackItemFromRow(row, index, fullTextStartIndex = 21) {
   return {
     rowIndex: index,
     source: "queue",
@@ -891,13 +942,18 @@ function feedbackItemFromRow(row, index) {
     suggestedPhotoSize: row[17] || "",
     suggestedPhotoWidth: row[18] || "",
     suggestedPhotoHeight: row[19] || "",
-    submitterRole: row[20] || "other_or_prefer_not"
+    submitterRole: row[20] || "other_or_prefer_not",
+    fullTextPath: row[fullTextStartIndex] || "",
+    fullTextName: row[fullTextStartIndex + 1] || "",
+    fullTextType: row[fullTextStartIndex + 2] || "",
+    fullTextSize: row[fullTextStartIndex + 3] || ""
   };
 }
 
 function feedbackHistoryItemFromRow(row, index) {
+  const item = feedbackItemFromRow(row, index, 23);
   return {
-    ...feedbackItemFromRow(row, index),
+    ...item,
     source: "history",
     processedAt: row[21] || "",
     processingNotes: row[22] || ""
@@ -1237,13 +1293,15 @@ async function pageFeedbackRequestPayload(request) {
       if (typeof value === "string") payload[key] = value;
     }
     const photo = formData.get("suggestedPhoto");
+    const fullText = formData.get("fullTextFile");
     return {
       payload,
-      photo: photo && typeof photo === "object" && "arrayBuffer" in photo ? photo : null
+      photo: photo && typeof photo === "object" && "arrayBuffer" in photo ? photo : null,
+      fullText: fullText && typeof fullText === "object" && "arrayBuffer" in fullText ? fullText : null
     };
   }
 
-  return { payload: await request.json(), photo: null };
+  return { payload: await request.json(), photo: null, fullText: null };
 }
 
 function validateFeedbackPayload(payload, env, hasPhotoUpload = false) {
@@ -1314,6 +1372,44 @@ async function validateFeedbackPhoto(photo, payload, env) {
     size: photo.size,
     width: dimensions.width,
     height: dimensions.height
+  };
+}
+
+async function validateFeedbackFullText(fullText, payload, env) {
+  if (!fullText || !fullText.size) return null;
+
+  const type = clean(fullText.type || payload.fullTextType || payload.full_text_type || "", 80).toLowerCase();
+  if (type && type !== "application/pdf" && type !== "application/x-pdf" && type !== "application/octet-stream") {
+    throw new Error("Full text upload must be a PDF file.");
+  }
+
+  const maxBytes = parseIntEnv(env.PAGE_FEEDBACK_FULLTEXT_MAX_BYTES, DEFAULT_FEEDBACK_FULLTEXT_MAX_BYTES);
+  if (fullText.size > maxBytes) {
+    throw new Error(`Full text PDF is too large. Maximum size is ${Math.floor(maxBytes / 1024 / 1024)}MB.`);
+  }
+
+  const name = clean(fullText.name || payload.fullTextName || payload.full_text_name || "full-text.pdf", 180);
+  if (!/\.pdf$/i.test(name)) {
+    throw new Error("Full text upload must use a .pdf filename.");
+  }
+
+  const bytes = new Uint8Array(await fullText.arrayBuffer());
+  if (
+    bytes.length < 5
+    || bytes[0] !== 0x25
+    || bytes[1] !== 0x50
+    || bytes[2] !== 0x44
+    || bytes[3] !== 0x46
+    || bytes[4] !== 0x2d
+  ) {
+    throw new Error("Full text upload must be a valid PDF file.");
+  }
+
+  return {
+    bytes,
+    type: type && type !== "application/octet-stream" ? type : "application/pdf",
+    name,
+    size: fullText.size
   };
 }
 
@@ -1511,6 +1607,16 @@ function feedbackPhotoPath(feedback, submittedDate, submittedAt, ipHash, extensi
   return `${baseDir}/${submittedDate}/${stamp}-${slug}-${suffix}.${extension}`;
 }
 
+function feedbackFullTextPath(feedback, submittedDate, submittedAt, ipHash, env) {
+  const baseDir = String(env.FEEDBACK_FULLTEXT_DIR || DEFAULT_FEEDBACK_FULLTEXT_DIR)
+    .trim()
+    .replace(/^\/+|\/+$/g, "") || DEFAULT_FEEDBACK_FULLTEXT_DIR;
+  const slug = safePathPart(feedback.pageSlug || slugFromPageUrl(feedback.pageUrl) || "paper");
+  const stamp = submittedAt.replace(/\D/g, "").slice(0, 14);
+  const suffix = ipHash.slice(0, 12) || "upload";
+  return `${baseDir}/${submittedDate}/${stamp}-${slug}-${suffix}.pdf`;
+}
+
 function safePathPart(value) {
   return String(value || "")
     .normalize("NFKD")
@@ -1533,6 +1639,22 @@ async function saveFeedbackPhoto(path, photoMeta, env) {
   if (!response.ok) {
     const detail = await response.text();
     throw new Error(`GitHub photo upload failed: ${response.status} ${detail}`);
+  }
+}
+
+async function saveFeedbackFullText(path, fullTextMeta, env) {
+  const github = githubConfig(env, "FEEDBACK_FULLTEXT_DIR", DEFAULT_FEEDBACK_FULLTEXT_DIR);
+  github.path = path;
+  const response = await saveGitHubFile(
+    github,
+    fullTextMeta.bytes,
+    `Add page feedback full text PDF for ${path.split("/").pop()}`
+  );
+
+  if (response.status === 409) return;
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`GitHub full text upload failed: ${response.status} ${detail}`);
   }
 }
 

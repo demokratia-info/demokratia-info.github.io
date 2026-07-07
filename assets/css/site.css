@@ -177,7 +177,7 @@ li { margin: 0 0 6px; }
 .feedback-textarea { min-height: 170px; resize: vertical; }
 .feedback-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
 .form-note { color: var(--muted); font-size: 15px; line-height: 1.5; }
-.feedback-photo-status { margin-top: 4px; }
+.feedback-photo-status, .fulltext-upload-status { margin-top: 4px; }
 .form-actions { display: flex; align-items: center; gap: 12px; }
 .editor-auth-actions { margin-top: 4px; }
 .button-primary {
@@ -335,7 +335,8 @@ li { margin: 0 0 6px; }
   background: #f7fbfb;
   white-space: pre-wrap;
 }
-.feedback-editor-photo {
+.feedback-editor-photo,
+.feedback-editor-upload {
   display: grid;
   gap: 9px;
   padding: 12px 14px;
@@ -343,7 +344,8 @@ li { margin: 0 0 6px; }
   border-radius: 6px;
   background: #f7fbfb;
 }
-.feedback-editor-photo h3 { margin: 0; color: var(--accent-dark); font-size: 18px; }
+.feedback-editor-photo h3,
+.feedback-editor-upload h3 { margin: 0; color: var(--accent-dark); font-size: 18px; }
 .feedback-editor-photo-preview {
   display: block;
   width: min(420px, 100%);

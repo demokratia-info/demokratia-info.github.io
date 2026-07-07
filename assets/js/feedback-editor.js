@@ -273,6 +273,35 @@
     return wrapper;
   };
 
+  const renderFullText = (row) => {
+    if (!row.fullTextPath) return null;
+
+    const wrapper = document.createElement("section");
+    wrapper.className = "feedback-editor-upload";
+
+    const heading = document.createElement("h3");
+    heading.textContent = "טקסט מלא שהועלה";
+
+    const meta = document.createElement("p");
+    meta.className = "feedback-editor-field latin";
+    meta.textContent = [
+      row.fullTextName || "",
+      formatBytes(row.fullTextSize),
+      row.fullTextType || ""
+    ].filter(Boolean).join(" | ");
+
+    const path = document.createElement("p");
+    path.className = "feedback-editor-field latin";
+    path.textContent = row.fullTextPath;
+
+    const note = document.createElement("p");
+    note.className = "form-note";
+    note.textContent = "הקובץ נשמר בתור הפרטי בלבד. תהליך ההארטביט הבא יוכל להשתמש בו ליצירת תקציר מעודכן על בסיס הטקסט המלא.";
+
+    wrapper.append(heading, meta, path, note);
+    return wrapper;
+  };
+
   const renderRow = (row) => {
     const card = document.createElement("article");
     card.className = `feedback-editor-card status-${row.status || "unknown"} source-${row.source || "queue"}`;
@@ -379,6 +408,7 @@
     appendIfPresent(card, field("טלפון", row.submitterPhone, "latin"));
     card.append(comment);
     appendIfPresent(card, renderPhoto(row));
+    appendIfPresent(card, renderFullText(row));
     if (controls) {
       card.append(controls);
     }

@@ -30,12 +30,14 @@ noindex: true
       data-daily-limit="{{ site.data.site.pageFeedbackDailyLimit | default: 5 }}"
       data-redirect-delay-ms="{{ site.data.site.pageFeedbackRedirectDelayMs | default: 5000 }}"
       data-photo-max-bytes="{{ site.data.site.pageFeedbackPhotoMaxBytes | default: 8388608 }}"
+      data-fulltext-max-bytes="{{ site.data.site.pageFeedbackFullTextMaxBytes | default: 52428800 }}"
       enctype="multipart/form-data">
   <input type="hidden" name="pageUrl">
   <input type="hidden" name="pageTitle">
   <input type="hidden" name="pageSlug">
   <input type="hidden" name="paperTitle">
   <input type="hidden" name="doi">
+  <input type="hidden" name="summarySourceStatus">
   <input class="feedback-honeypot" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
 
   <div class="form-field">
@@ -76,6 +78,13 @@ noindex: true
       <button class="button-secondary" type="button" data-summary-editor-auth>אימות עורך</button>
     </div>
     <p class="form-status editor-auth-status" data-summary-editor-auth-status hidden role="status" aria-live="polite"></p>
+  </div>
+
+  <div class="form-field fulltext-upload-field" data-fulltext-upload hidden>
+    <label class="form-label" for="fullTextFile">העלאת טקסט מלא של המאמר (PDF, לעורכים בלבד)</label>
+    <input class="form-control" id="fullTextFile" name="fullTextFile" type="file" accept="application/pdf,.pdf">
+    <p class="form-note">הקובץ יישמר בתור העיבוד הפרטי בלבד ולא יפורסם באתר. ההארטביט הבא יוכל להשתמש בו ליצירת תקציר מעודכן על בסיס הטקסט המלא.</p>
+    <p class="form-status fulltext-upload-status" data-fulltext-status hidden role="status" aria-live="polite"></p>
   </div>
 
   <p class="form-note">פרטי הקשר אינם חובה, אינם מוצגים באתר, וישמשו רק אם יהיה צורך בהבהרה.</p>

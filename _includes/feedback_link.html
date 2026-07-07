@@ -17,4 +17,8 @@
   {% assign encoded_feedback_doi = page.doiUrl | cgi_escape %}
   {% assign feedback_href = feedback_href | append: '&amp;doi=' | append: encoded_feedback_doi %}
 {% endif %}
+{% if page.summarySourceStatus %}
+  {% assign encoded_feedback_source_status = page.summarySourceStatus | cgi_escape %}
+  {% assign feedback_href = feedback_href | append: '&amp;sourceStatus=' | append: encoded_feedback_source_status %}
+{% endif %}
 <a class="feedback-footer-link" href="{{ feedback_href }}">הצעות לתיקונים והערות</a>

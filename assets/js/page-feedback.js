@@ -14,11 +14,15 @@
   const dailyLimit = Number.parseInt(form.dataset.dailyLimit || "5", 10);
   const redirectDelayMs = Number.parseInt(form.dataset.redirectDelayMs || "5000", 10);
   const photoMaxBytes = Number.parseInt(form.dataset.photoMaxBytes || "8388608", 10);
+  const fullTextMaxBytes = Number.parseInt(form.dataset.fulltextMaxBytes || "52428800", 10);
   const submitButton = form.querySelector("[type='submit']");
   const editorPasswordField = form.elements.namedItem("editorPassword");
   const photoInput = form.elements.namedItem("suggestedPhoto");
+  const fullTextInput = form.elements.namedItem("fullTextFile");
   const status = document.querySelector("[data-page-feedback-status]");
   const photoStatus = document.querySelector("[data-page-feedback-photo-status]");
+  const fullTextPanel = document.querySelector("[data-fulltext-upload]");
+  const fullTextStatus = document.querySelector("[data-fulltext-status]");
   const thankYou = document.querySelector("[data-page-feedback-thank-you]");
   const thankYouText = document.querySelector("[data-page-feedback-thank-you-text]");
   const source = document.querySelector("[data-page-feedback-source]");
@@ -83,6 +87,18 @@
     photoStatus.dataset.type = type;
   };
 
+  const setFullTextStatus = (message, type = "info") => {
+    if (!fullTextStatus) return;
+    if (!message) {
+      fullTextStatus.hidden = true;
+      fullTextStatus.textContent = "";
+      return;
+    }
+    fullTextStatus.hidden = false;
+    fullTextStatus.textContent = message;
+    fullTextStatus.dataset.type = type;
+  };
+
   const setPanelStatus = (element, message, type = "info") => {
     if (!element) return;
     if (!message) {
@@ -129,12 +145,17 @@
   const sourcePageSlug = (params.get("slug") || slugFromUrl(sourcePageUrl)).trim();
   const sourcePaperTitle = (params.get("paper") || params.get("paperTitle") || "").trim();
   const sourceDoi = (params.get("doi") || "").trim();
+  const sourceSummaryStatus = (params.get("sourceStatus") || params.get("summarySourceStatus") || "").trim();
+  const isPaperFeedback = Boolean(sourcePaperTitle || sourceDoi);
+  const hasFullTextAlready = /^based on full text$/i.test(sourceSummaryStatus);
+  const shouldOfferFullTextUpload = isPaperFeedback && !hasFullTextAlready;
 
   setField("pageUrl", sourcePageUrl);
   setField("pageTitle", sourcePageTitle);
   setField("pageSlug", sourcePageSlug);
   setField("paperTitle", sourcePaperTitle);
   setField("doi", sourceDoi);
+  setField("summarySourceStatus", sourceSummaryStatus);
 
   if (sourcePageUrl && sourceLink) {
     sourceLink.href = sourcePageUrl;
@@ -161,9 +182,68 @@
 
   const hasEditorPassword = () => Boolean(readField("editorPassword"));
 
+  const formatBytes = (value) => {
+    const bytes = Number.parseInt(String(value || "0"), 10);
+    if (!Number.isFinite(bytes) || bytes <= 0) return "";
+    if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)}MB`;
+    return `${Math.ceil(bytes / 1024)}KB`;
+  };
+
   const selectedPhoto = () => {
     if (!photoInput || !("files" in photoInput) || !photoInput.files.length) return null;
     return photoInput.files[0];
+  };
+
+  const selectedFullText = () => {
+    if (!fullTextInput || !("files" in fullTextInput) || !fullTextInput.files.length) return null;
+    return fullTextInput.files[0];
+  };
+
+  const hideFullTextUpload = () => {
+    if (fullTextPanel) fullTextPanel.hidden = true;
+    if (fullTextInput) fullTextInput.value = "";
+    setFullTextStatus("");
+  };
+
+  const revealFullTextUpload = () => {
+    if (!fullTextPanel) return;
+    if (shouldOfferFullTextUpload) {
+      fullTextPanel.hidden = false;
+    } else {
+      hideFullTextUpload();
+    }
+  };
+
+  const readFullTextMeta = () => {
+    const file = selectedFullText();
+    if (!file) {
+      setFullTextStatus("");
+      return null;
+    }
+
+    if (!editorPasswordVerified) {
+      throw new Error("יש לאמת סיסמת עורך לפני העלאת טקסט מלא.");
+    }
+
+    const type = String(file.type || "").toLowerCase();
+    if (type && type !== "application/pdf" && type !== "application/x-pdf" && type !== "application/octet-stream") {
+      throw new Error("אפשר להעלות קובץ PDF בלבד.");
+    }
+
+    if (file.name && !/\.pdf$/i.test(file.name)) {
+      throw new Error("שם הקובץ צריך להסתיים ב־.pdf.");
+    }
+
+    if (file.size > fullTextMaxBytes) {
+      throw new Error(`קובץ הטקסט המלא גדול מדי. הגודל המרבי הוא ${formatBytes(fullTextMaxBytes)}.`);
+    }
+
+    setFullTextStatus(`קובץ PDF נבחר: ${file.name || "full-text.pdf"} (${formatBytes(file.size)}).`, "info");
+    return {
+      name: file.name || "full-text.pdf",
+      type: type && type !== "application/octet-stream" ? type : "application/pdf",
+      size: file.size
+    };
   };
 
   const readPhotoMeta = () => new Promise((resolve, reject) => {
@@ -411,12 +491,20 @@
       }
       editorPasswordVerified = true;
       if (summaryEditor) summaryEditor.hidden = false;
-      setPanelStatus(editorAuthStatus, "סיסמת העורך אומתה. אפשר לערוך את התקציר של העמוד הזה.", "info");
+      revealFullTextUpload();
+      setPanelStatus(
+        editorAuthStatus,
+        shouldOfferFullTextUpload
+          ? "סיסמת העורך אומתה. אפשר לערוך את התקציר של העמוד הזה או להעלות PDF של הטקסט המלא."
+          : "סיסמת העורך אומתה. אפשר לערוך את התקציר של העמוד הזה.",
+        "info"
+      );
       await loadSummaryEditor();
       if (summaryEditor) summaryEditor.scrollIntoView({ behavior: "smooth", block: "start" });
     } catch (error) {
       editorPasswordVerified = false;
       if (summaryEditor) summaryEditor.hidden = true;
+      hideFullTextUpload();
       setPanelStatus(editorAuthStatus, error.message || "לא ניתן היה לאמת את סיסמת העורך.", "error");
     } finally {
       if (editorAuthButton) editorAuthButton.disabled = false;
@@ -504,15 +592,22 @@
     }
 
     let photoMeta = null;
+    let fullTextMeta = null;
     try {
       photoMeta = await readPhotoMeta();
     } catch (error) {
       setPhotoStatus(error.message || "לא ניתן להעלות את התמונה.", "error");
       return;
     }
+    try {
+      fullTextMeta = readFullTextMeta();
+    } catch (error) {
+      setFullTextStatus(error.message || "לא ניתן להעלות את הטקסט המלא.", "error");
+      return;
+    }
 
-    if (!readField("comment") && !photoMeta) {
-      setStatus("יש לכתוב הערה או לבחור תמונה מוצעת.", "error");
+    if (!readField("comment") && !photoMeta && !fullTextMeta) {
+      setStatus("יש לכתוב הערה, לבחור תמונה מוצעת או להעלות טקסט מלא.", "error");
       return;
     }
 
@@ -525,6 +620,11 @@
       payload.set("suggestedPhotoHeight", String(photoMeta.height));
       payload.set("suggestedPhotoType", photoMeta.type);
       payload.set("suggestedPhotoSize", String(photoMeta.size));
+    }
+    if (fullTextMeta) {
+      payload.set("fullTextName", fullTextMeta.name);
+      payload.set("fullTextType", fullTextMeta.type);
+      payload.set("fullTextSize", String(fullTextMeta.size));
     }
 
     try {
@@ -564,6 +664,7 @@
       if (!editorPasswordVerified) return;
       editorPasswordVerified = false;
       if (summaryEditor) summaryEditor.hidden = true;
+      hideFullTextUpload();
       setPanelStatus(editorAuthStatus, "סיסמת העורך השתנתה. יש לאמת אותה מחדש כדי לערוך.", "info");
     });
   }
@@ -586,6 +687,16 @@
         await readPhotoMeta();
       } catch (error) {
         setPhotoStatus(error.message || "לא ניתן להעלות את התמונה.", "error");
+      }
+    });
+  }
+
+  if (fullTextInput) {
+    fullTextInput.addEventListener("change", () => {
+      try {
+        readFullTextMeta();
+      } catch (error) {
+        setFullTextStatus(error.message || "לא ניתן להעלות את הטקסט המלא.", "error");
       }
     });
   }
