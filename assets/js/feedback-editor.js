@@ -12,6 +12,8 @@
   const refreshButton = document.querySelector("[data-feedback-editor-refresh]");
   const nextRound = document.querySelector("[data-feedback-editor-next]");
   const historyHours = Number.parseInt(root.dataset.historyHours || "48", 10) || 48;
+  const AUTH_TIMEOUT_MS = 15000;
+  const QUEUE_TIMEOUT_MS = 45000;
 
   let editorPassword = "";
   let queueRows = [];
@@ -49,7 +51,13 @@
     return field && "value" in field ? String(field.value) : "";
   };
 
-  const apiRequest = async (method, payload, requestUrl = endpoint) => {
+  const timeoutMessage = (requestUrl) => (
+    requestUrl.includes("/auth")
+      ? "אימות הסיסמה נמשך יותר מדי זמן. נסו שוב."
+      : "טעינת התור נמשכת יותר מדי זמן. ייתכן שיש בעיה זמנית בגישה לתור הפרטי או ל-GitHub. נסו לרענן בעוד דקה."
+  );
+
+  const apiRequest = async (method, payload, requestUrl = endpoint, timeoutMs = QUEUE_TIMEOUT_MS) => {
     const headers = {
       "Accept": "application/json",
       "Authorization": `Bearer ${editorPassword}`
@@ -60,12 +68,32 @@
       options.body = JSON.stringify(payload);
     }
 
-    const response = await fetch(requestUrl, options);
-    const result = await response.json().catch(() => ({}));
-    if (!response.ok || result.ok === false) {
-      throw new Error(result.error || "לא ניתן היה לבצע את הפעולה.");
+    const controller = "AbortController" in window ? new AbortController() : null;
+    const timer = controller
+      ? window.setTimeout(() => controller.abort(), timeoutMs)
+      : null;
+    if (controller) options.signal = controller.signal;
+
+    try {
+      const response = await fetch(requestUrl, options);
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || result.ok === false) {
+        throw new Error(result.error || "לא ניתן היה לבצע את הפעולה.");
+      }
+      return result;
+    } catch (error) {
+      if (error && error.name === "AbortError") {
+        throw new Error(timeoutMessage(requestUrl));
+      }
+      throw error;
+    } finally {
+      if (timer) window.clearTimeout(timer);
     }
-    return result;
+  };
+
+  const authEndpoint = () => {
+    const base = endpoint.replace(/\/+$/, "");
+    return `${base}/auth`;
   };
 
   const formatDate = (value) => {
@@ -414,6 +442,8 @@
       event.preventDefault();
       editorPassword = readPassword();
       try {
+        setStatus("בודק את סיסמת העורך...", "info");
+        await apiRequest("GET", null, authEndpoint(), AUTH_TIMEOUT_MS);
         await loadRows();
       } catch (error) {
         setStatus(error.message || "לא ניתן היה לטעון את התור.", "error");
