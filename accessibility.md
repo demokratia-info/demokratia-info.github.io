@@ -49,4 +49,4 @@ permalink: /accessibility.html
 
 אם נתקלתם בבעיית נגישות באתר, מומלץ לציין את כתובת העמוד, תיאור הבעיה, הדפדפן או המכשיר שבו השתמשתם, והטכנולוגיה המסייעת אם רלוונטי.
 
-אשת הקשר לפניות בנושא נגישות היא אורית אליאס אנציו. ניתן לפנות בדוא"ל: [demokratia@tau.ac.il](mailto:demokratia@tau.ac.il).
+ניתן לפנות בדוא"ל: [demokratia@tau.ac.il](mailto:demokratia@tau.ac.il).
