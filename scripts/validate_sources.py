@@ -532,6 +532,8 @@ def validate_homepage_high_fit_sample(papers: list[dict[str, Any]], site_data: d
             continue
         if paper.get("image", {}).get("fitness") != "high":
             errors.append(f"_data/homepage_high_fit_sample.json: {slug} does not have image.fitness high")
+        if paper.get("summarySourceStatus") != "Based on full text":
+            errors.append(f"_data/homepage_high_fit_sample.json: {slug} is not based on full text")
         image_src = str(paper.get("image", {}).get("src", "")).strip().lstrip("/")
         if image_src:
             if image_src in image_srcs:
