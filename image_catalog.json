@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-09",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24863,6 +24863,54 @@
       "createdDate": "2026-07-06",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חסמי שימוש בשירותי בריאות הנפש בקרב ערבים פלסטינים בישראל",
+      "authorsHe": "Fareeda Abo-Rass; Sarah Abu-Kaf; Dvir Matzri; Orna Braun-Lewensohn",
+      "visualDescriptionHe": "פגישת ייעוץ רגועה במרפאה קהילתית המדגישה אמון, נגישות וכשירות תרבותית בשירותי בריאות הנפש",
+      "semanticDescriptionHe": "המאמר בוחן חסמי סטיגמה, עמדות ונגישות מוסדית לשימוש בשירותי בריאות הנפש בקרב ערבים פלסטינים אזרחי ישראל, ומחבר אותם לשוויון מעשי בשירות ציבורי חיוני.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "mental_health_underutilization_palestinian_arabs_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.html",
+      "usedBy": [
+        "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מורות ערביות־נוצריות בישראל מול פגיעה מינית בתלמידים",
+      "authorsHe": "Laura I. Sigad; Kathrin Shehadeh; Efrat Lusky-Weisrose; Dafna Tener",
+      "visualDescriptionHe": "מורות ויועצת בית ספר יושבות בחדר צוות רגוע ומשוחחות על הגנת ילדים, דיווח ותמיכה מוסדית",
+      "semanticDescriptionHe": "המאמר בוחן כיצד מורות ערביות־נוצריות בישראל מתמודדות עם פגיעה מינית בתלמידים, ואת המתח בין אמונה, קהילה, חובת דיווח, הגנת ילדים ותמיכה מקצועית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "christian_arab_teachers_child_sexual_abuse_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, adults only, no children, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-09 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

@@ -1,8 +1,70 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 994,
+  "paperCount": 996,
   "papers": [
+    {
+      "slug": "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he",
+      "file": "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.html",
+      "permalink": "/democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.html",
+      "sortKey": 202607090002,
+      "titleHe": "מורות ערביות־נוצריות בישראל מול פגיעה מינית בתלמידים",
+      "paperTitle": "“We Try to Fix Things Quietly, and We Do Not Take Revenge”: Christian Arab Teachers’ Experiences Coping with Child Sexual Abuse Among Their Pupils in Israel",
+      "authorsCardHe": "Laura I. Sigad; Kathrin Shehadeh; Efrat Lusky-Weisrose; Dafna Tener",
+      "sourceAuthors": [
+        "Laura I. Sigad",
+        "Kathrin Shehadeh",
+        "Efrat Lusky-Weisrose",
+        "Dafna Tener"
+      ],
+      "journal": "Journal of Interpersonal Violence",
+      "dateText": "פורסם אונליין: 20 בנובמבר 2023",
+      "doiUrl": "https://doi.org/10.1177/08862605231212419",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.jpg",
+        "altHe": "מורות ויועצת בית ספר בשיחת צוות רגועה על הגנת ילדים ותמיכה מוסדית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-09",
+      "dateModified": "2026-07-09",
+      "summaryHe": "המאמר של Laura I. Sigad, Kathrin Shehadeh, Efrat Lusky-Weisrose ו-Dafna Tener בוחן חוויות של 12 מורות ערביות־נוצריות בישראל שהתמודדו עם פגיעה מינית בתלמידיהן. באמצעות ראיונות עומק וניתוח פנומנולוגי־תמטי, המחקר מציג שתי תמות מרכזיות: תגובות רגשיות עזות לצד תחושת העצמה מקצועית, והשפעה חזקה של אמונה וזהות נוצרית על הבנת הפגיעה ועל דרכי ההתערבות. התרומה הדמוקרטית של המאמר היא בהדגשת החובה להגן על זכויות ילדים בתוך קהילות מיעוט באופן שמכיר בהקשר תרבותי ודתי, אך אינו מוותר על חובת דיווח, אחריות מוסדית ותמיכה מקצועית במורות הנמצאות בחזית הזיהוי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he",
+      "file": "democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.html",
+      "permalink": "/democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.html",
+      "sortKey": 202607090001,
+      "titleHe": "חסמי שימוש בשירותי בריאות הנפש בקרב ערבים פלסטינים בישראל",
+      "paperTitle": "Mental Health Underutilization by Palestinian-Arabs in Israel: Stigma-Related, Attitudinal, and Instrumental Barriers",
+      "authorsCardHe": "Fareeda Abo-Rass; Sarah Abu-Kaf; Dvir Matzri; Orna Braun-Lewensohn",
+      "sourceAuthors": [
+        "Fareeda Abo-Rass",
+        "Sarah Abu-Kaf",
+        "Dvir Matzri",
+        "Orna Braun-Lewensohn"
+      ],
+      "journal": "International Journal of Social Psychiatry",
+      "dateText": "פורסם אונליין: 3 בפברואר 2023",
+      "doiUrl": "https://doi.org/10.1177/00207640231152213",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mental_health_underutilization_palestinian_arabs_israel_summary_he.jpg",
+        "altHe": "פגישת ייעוץ רגועה במרפאה קהילתית המדגישה אמון ונגישות בשירותי בריאות הנפש",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-09",
+      "dateModified": "2026-07-09",
+      "summaryHe": "המאמר של Fareeda Abo-Rass, Sarah Abu-Kaf, Dvir Matzri ו-Orna Braun-Lewensohn בוחן חסמים לשימוש בשירותי בריאות הנפש בקרב המיעוט הערבי־פלסטיני בישראל. המחקר נשען על מדגם נוחות של 231 משתתפים ועל כלי BACE v3, המבחין בין חסמי סטיגמה, חסמים עמדתיים וחסמים אינסטרומנטליים. הממצא המרכזי הוא שמשתתפים שלא השתמשו בשירותי בריאות הנפש דיווחו על חסמים גבוהים יותר בכל הממדים, אך החסמים העמדתיים היו המנבא הבולט ביותר של שימוש בפועל. מבחינה דמוקרטית, המאמר מראה ששוויון בזכות לבריאות אינו מתמצה בקיומו של שירות רשמי, אלא תלוי באמון, נגישות, כשירות תרבותית ויכולת של מוסדות ציבור להגיע לקבוצת מיעוט בתנאים הוגנים.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he",
       "file": "democracy_social_work_ethnic_minorities_covid_arab_minority_israel_summary_he.html",
