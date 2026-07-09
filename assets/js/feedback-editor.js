@@ -12,7 +12,6 @@
   const refreshButton = document.querySelector("[data-feedback-editor-refresh]");
   const nextRound = document.querySelector("[data-feedback-editor-next]");
   const historyHours = Number.parseInt(root.dataset.historyHours || "48", 10) || 48;
-  const AUTH_TIMEOUT_MS = 120000;
   const QUEUE_TIMEOUT_MS = 120000;
 
   let editorPassword = "";
@@ -44,6 +43,22 @@
 
   const clearStatus = () => {
     if (statusBox) statusBox.hidden = true;
+  };
+
+  const preconnectWorker = () => {
+    if (!endpoint) return;
+    try {
+      const origin = new URL(endpoint).origin;
+      ["dns-prefetch", "preconnect"].forEach((rel) => {
+        const link = document.createElement("link");
+        link.rel = rel;
+        link.href = origin;
+        if (rel === "preconnect") link.crossOrigin = "";
+        document.head.append(link);
+      });
+    } catch (error) {
+      // Malformed endpoints are reported by the visible editor status.
+    }
   };
 
   const readPassword = () => {
@@ -89,11 +104,6 @@
     } finally {
       if (timer) window.clearTimeout(timer);
     }
-  };
-
-  const authEndpoint = () => {
-    const base = endpoint.replace(/\/+$/, "");
-    return `${base}/auth`;
   };
 
   const formatDate = (value) => {
@@ -472,8 +482,7 @@
       event.preventDefault();
       editorPassword = readPassword();
       try {
-        setStatus("בודק את סיסמת העורך...", "info");
-        await apiRequest("GET", null, authEndpoint(), AUTH_TIMEOUT_MS);
+        setStatus("בודק את סיסמת העורך וטוען את תור ההערות...", "info");
         await loadRows();
       } catch (error) {
         setStatus(error.message || "לא ניתן היה לטעון את התור.", "error");
@@ -503,5 +512,6 @@
       }
     });
   }
+  preconnectWorker();
   setNextRound();
 })();
