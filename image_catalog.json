@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24911,6 +24911,53 @@
       "createdDate": "2026-07-09",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_health_insurance_law_negev_bedouin_population_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_health_insurance_law_negev_bedouin_population_summary_he.html",
+      "usedBy": [
+        "democracy_health_insurance_law_negev_bedouin_population_summary_he.html"
+      ],
+      "cardTitleHe": "ביטוח בריאות ממלכתי ונגישות לשירותי בריאות בקרב בדואי הנגב",
+      "authorsHe": "Mohammed Morad; Shifra Shvarts; Joav Merrick; Jeffrey Borkan",
+      "visualDescriptionHe": "מרפאה קהילתית בנגב שבה צוות רפואי משוחח עם משפחה בדואית בסביבת שירות ציבורי נגישה",
+      "semanticDescriptionHe": "המאמר בוחן כיצד חוק ביטוח בריאות ממלכתי הרחיב כיסוי, מרפאות ובחירה עבור בדואי הנגב, אך הותיר שאלות של התאמה תרבותית, מרחק ושוויון מעשי בשירותי בריאות.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "health_insurance_law_negev_bedouin_population"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_religious_courts_judgments_israeli_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_courts_judgments_israeli_law_summary_he.html",
+      "usedBy": [
+        "democracy_religious_courts_judgments_israeli_law_summary_he.html"
+      ],
+      "cardTitleHe": "אכיפת פסקי דין של בתי דין דתיים במשפט הישראלי",
+      "authorsHe": "Asher Maoz",
+      "visualDescriptionHe": "משפטנים יושבים סביב שולחן עץ עם תיקי דין בחדר מוסדי הסמוך לאולם דיונים",
+      "semanticDescriptionHe": "המאמר עוסק באכיפת פסקי דין של בתי דין דתיים במשפט הישראלי ובמתח בין דיני מעמד אישי, פלורליזם משפטי, סמכות המדינה ושלטון החוק.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "religious_courts_judgments_israeli_law"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-10 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

@@ -1,8 +1,66 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 996,
+  "paperCount": 998,
   "papers": [
+    {
+      "slug": "democracy_religious_courts_judgments_israeli_law_summary_he",
+      "file": "democracy_religious_courts_judgments_israeli_law_summary_he.html",
+      "permalink": "/democracy_religious_courts_judgments_israeli_law_summary_he.html",
+      "sortKey": 202607100002,
+      "titleHe": "אכיפת פסקי דין של בתי דין דתיים במשפט הישראלי",
+      "paperTitle": "Enforcement of Religious Courts' Judgments Under Israeli Law",
+      "authorsCardHe": "Asher Maoz",
+      "sourceAuthors": [
+        "Asher Maoz"
+      ],
+      "journal": "Journal of Church and State",
+      "dateText": "פורסם: 1 ביולי 1991",
+      "doiUrl": "https://doi.org/10.1093/jcs/33.3.473",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_courts_judgments_israeli_law_summary_he.jpg",
+        "altHe": "משפטנים בוחנים תיקי דין בחדר מוסדי בין ספרי חוק ואולם דיונים ברקע",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-10",
+      "dateModified": "2026-07-10",
+      "summaryHe": "המאמר של Asher Maoz פורסם ב-Journal of Church and State ועוסק באכיפת פסקי דין של בתי דין דתיים תחת המשפט הישראלי. לפי רשומות Oxford Academic ו-Tel Aviv University, זהו מאמר עמיתים בן 22 עמודים, שנכתב על ידי חוקר משפט חוקתי מאוניברסיטת תל אביב ופורסם בשנת 1991. נקודת המוצא העולה מכותרת המאמר ומעמוד הפתיחה היא ייחודו של המשפט הישראלי בכך שהוא משמר דין אישי בתחום דיני המשפחה, ולכן נדרש להסדיר את היחס בין בתי דין דתיים לבין מנגנוני אכיפה מדינתיים. מבחינה דמוקרטית, הנושא חשוב משום שהוא מציב יחד חופש דת, הכרה בקהילות, שוויון אזרחי, זכויות במשפחה והצורך שכל פסק דין הנאכף בכוח המדינה יהיה כפוף לעקרונות של חוקיות, הליך הוגן ושלטון החוק.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_health_insurance_law_negev_bedouin_population_summary_he",
+      "file": "democracy_health_insurance_law_negev_bedouin_population_summary_he.html",
+      "permalink": "/democracy_health_insurance_law_negev_bedouin_population_summary_he.html",
+      "sortKey": 202607100001,
+      "titleHe": "ביטוח בריאות ממלכתי ונגישות לשירותי בריאות בקרב בדואי הנגב",
+      "paperTitle": "The Influence of Israel Health Insurance Law on the Negev Bedouin Population — A Survey Study",
+      "authorsCardHe": "Mohammed Morad; Shifra Shvarts; Joav Merrick; Jeffrey Borkan",
+      "sourceAuthors": [
+        "Mohammed Morad",
+        "Shifra Shvarts",
+        "Joav Merrick",
+        "Jeffrey Borkan"
+      ],
+      "journal": "The Scientific World Journal",
+      "dateText": "פורסם: 24 בינואר 2006",
+      "doiUrl": "https://doi.org/10.1100/tsw.2006.06",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_health_insurance_law_negev_bedouin_population_summary_he.jpg",
+        "altHe": "מרפאה קהילתית בנגב שבה צוות רפואי מטפל במשפחה בדואית כחלק מנגישות לשירותי בריאות ציבוריים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-10",
+      "dateModified": "2026-07-10",
+      "summaryHe": "המאמר של Mohammed Morad, Shifra Shvarts, Joav Merrick ו-Jeffrey Borkan בוחן את השנים הראשונות לאחר כניסת חוק ביטוח בריאות ממלכתי לתוקף בקרב בדואי הנגב. המחקר משלב סקירת מסמכים היסטוריים ומדיניות, שלושה סקרי שטח של שירותי בריאות בשנים 1994, 1995 ו-1999, סקר אזורי בקרב 515 משקי בית בשנת 1997 וראיונות עם בעלי תפקידים. הממצא המרכזי הוא שהחוק הפך אוכלוסייה גדולה שהיתה בחלקה לא מבוטחת לזכאית לשירותים, יצר תחרות על מבוטחים והוביל לגידול ניכר במספר המרפאות, כוח האדם והבחירה בין קופות. מבחינה דמוקרטית, המאמר מדגיש שהבטחה פורמלית לשוויון חברתי יכולה לשנות תמריצים מוסדיים, אך היא זקוקה גם לתכנון רגיש למקום, לשפה, לתרבות ולמרחק כדי להפוך לזכות נגישה בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he",
       "file": "democracy_christian_arab_teachers_child_sexual_abuse_israel_summary_he.html",
