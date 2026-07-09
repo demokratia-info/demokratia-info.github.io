@@ -12,8 +12,8 @@
   const refreshButton = document.querySelector("[data-feedback-editor-refresh]");
   const nextRound = document.querySelector("[data-feedback-editor-next]");
   const historyHours = Number.parseInt(root.dataset.historyHours || "48", 10) || 48;
-  const AUTH_TIMEOUT_MS = 45000;
-  const QUEUE_TIMEOUT_MS = 45000;
+  const AUTH_TIMEOUT_MS = 120000;
+  const QUEUE_TIMEOUT_MS = 120000;
 
   let editorPassword = "";
   let queueRows = [];
