@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-11",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24958,6 +24958,55 @@
       "createdDate": "2026-07-10",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_non_police_intervention_arab_citizens_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_non_police_intervention_arab_citizens_israel_summary_he.html",
+      "usedBy": [
+        "democracy_non_police_intervention_arab_citizens_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אמון במשטרה והבחירה בחלופות לא־משטרתיות בחברה הערבית בישראל",
+      "authorsHe": "Nohad Ali; Dennis Rosenberg",
+      "visualDescriptionHe": "מפגש קהילתי בחדר אזרחי שבו תושבים ערבים ונציגת שירות ציבורי דנים בביטחון אישי, אמון וחלופות לפנייה למשטרה",
+      "semanticDescriptionHe": "המאמר בוחן כיצד אמון במשטרה, שביעות רצון, אלימות מקומית וקורבנות קודמת קשורים לשקילת התערבות לא־משטרתית בקרב אזרחים ערבים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "non_police_intervention_arab_citizens_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.html",
+      "usedBy": [
+        "democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.html"
+      ],
+      "cardTitleHe": "המפלגות כמנגנון מרכזי בדמוקרטיה הישראלית הצעירה",
+      "authorsHe": "Benjamin Akzin",
+      "visualDescriptionHe": "ישיבת מפלגות ופרלמנט בסגנון שנות החמישים סביב שולחן עץ בחדר מוסדי בירושלים",
+      "semanticDescriptionHe": "המאמר עוסק בתפקידן של מפלגות בדמוקרטיה הישראלית בראשית המדינה, ובקשר בין ייצוג, ארגון פוליטי, הכנסת והממשלה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "role_of_parties_israeli_democracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated historical-style article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-11 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

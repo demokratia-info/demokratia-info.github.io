@@ -1,8 +1,66 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 998,
+  "paperCount": 1000,
   "papers": [
+    {
+      "slug": "democracy_non_police_intervention_arab_citizens_israel_summary_he",
+      "file": "democracy_non_police_intervention_arab_citizens_israel_summary_he.html",
+      "permalink": "/democracy_non_police_intervention_arab_citizens_israel_summary_he.html",
+      "sortKey": 202607110002,
+      "titleHe": "אמון במשטרה והבחירה בחלופות לא־משטרתיות בחברה הערבית בישראל",
+      "paperTitle": "Non-police Intervention Consideration by Ethnic Minorities: The Case of Arab Citizens of Israel",
+      "authorsCardHe": "Nohad Ali; Dennis Rosenberg",
+      "sourceAuthors": [
+        "Nohad Ali",
+        "Dennis Rosenberg"
+      ],
+      "journal": "Victims & Offenders",
+      "dateText": "פורסם אונליין: 3 באוגוסט 2022; כרך 18(6), 2023",
+      "doiUrl": "https://doi.org/10.1080/15564886.2022.2100541",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_non_police_intervention_arab_citizens_israel_summary_he.jpg",
+        "altHe": "מפגש קהילתי בחדר אזרחי שבו תושבים ערבים ונציגת שירות ציבורי דנים באמון, ביטחון אישי וחלופות לפנייה למשטרה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-11",
+      "dateModified": "2026-07-11",
+      "summaryHe": "המאמר של Nohad Ali ו-Dennis Rosenberg בוחן אילו גורמים משפיעים על נכונותם של אזרחים ערבים בישראל לשקול התערבות שאינה משטרתית לאחר קורבנות אפשרית. לפי תקציר הרשומה המחקרית, המסגרת התאורטית משלבת ביצועי משטרה, צדק פרוצדורלי וחוסר ארגון חברתי, והנתונים מגיעים ממדד הביטחון האישי והקהילתי לשנת 2019. המדגם האנליטי כלל 692 אזרחים ערבים בישראל, והניתוח נעשה באמצעות מודל רגרסיה לוגיסטית. הממצא המרכזי הוא שאמון גבוה יותר במשטרה ושביעות רצון גבוהה יותר ממנה קשורים לפחות שקילה של חלופות לא־משטרתיות, בעוד תפיסה של עלייה באלימות ביישוב וקורבנות קודמת קשורות ליותר שקילה של חלופות כאלה. מבחינה דמוקרטית, המאמר מבהיר שזכות לביטחון אישי אינה נמדדת רק בקיומה הפורמלי של משטרה, אלא גם באמון, בהוגנות ובהתאמה של מוסדות אכיפה לחוויות של מיעוט אזרחי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_role_of_parties_in_israeli_democracy_akzin_summary_he",
+      "file": "democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.html",
+      "permalink": "/democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.html",
+      "sortKey": 202607110001,
+      "titleHe": "המפלגות כמנגנון מרכזי בדמוקרטיה הישראלית הצעירה",
+      "paperTitle": "The Role of Parties in Israeli Democracy",
+      "authorsCardHe": "Benjamin Akzin",
+      "sourceAuthors": [
+        "Benjamin Akzin"
+      ],
+      "journal": "The Journal of Politics",
+      "dateText": "פורסם: נובמבר 1955",
+      "doiUrl": "https://doi.org/10.2307/2126613",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_role_of_parties_in_israeli_democracy_akzin_summary_he.jpg",
+        "altHe": "ישיבת מפלגות ופרלמנט בסגנון שנות החמישים סביב שולחן עץ בחדר מוסדי בירושלים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-11",
+      "dateModified": "2026-07-11",
+      "summaryHe": "המאמר של Benjamin Akzin פורסם ב-The Journal of Politics בשנת 1955, בכרך 17(4), בעמודים 507-545. כותרתו מציבה במוקד את תפקיד המפלגות בדמוקרטיה הישראלית, בתקופה שבה מוסדות המדינה והמערכת הפרלמנטרית עדיין היו צעירים מאוד. מן המטא־דאטה, מן ההקשר הביבליוגרפי ומן המעמד האקדמי של אקצין כחוקר משפט חוקתי ומדע המדינה באוניברסיטה העברית עולה שזהו מאמר מוקדם על הקשר בין מפלגות, ייצוג פוליטי ותפקוד משטרי. מבחינה דמוקרטית, חשיבותו היא בהפניית המבט אל מפלגות לא רק כמתחרות בבחירות, אלא גם כמנגנונים שמארגנים השתתפות, מגבשים הנהגה, מתווכים בין אזרחים למוסדות ומעצבים את עבודת הכנסת והממשלה. קריאה עכשווית במאמר כזה מסייעת להבין מדוע חוסן דמוקרטי תלוי לא רק בחוקים ובבתי משפט, אלא גם באיכותם של גופים פוליטיים שמחברים בין חברה מפוצלת לבין מוסדות שלטון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_religious_courts_judgments_israeli_law_summary_he",
       "file": "democracy_religious_courts_judgments_israeli_law_summary_he.html",
