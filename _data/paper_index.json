@@ -1,8 +1,73 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1000,
+  "paperCount": 1002,
   "papers": [
+    {
+      "slug": "democracy_mixed_and_worried_arab_citizens_israel_summary_he",
+      "file": "democracy_mixed_and_worried_arab_citizens_israel_summary_he.html",
+      "permalink": "/democracy_mixed_and_worried_arab_citizens_israel_summary_he.html",
+      "sortKey": 202607120002,
+      "titleHe": "דאגה ביישובים מעורבים: ביטחון אזרחי והון חברתי בחברה הערבית בישראל",
+      "paperTitle": "Mixed and worried? Examining the association between locality type and worrying about social phenomena in Arab citizens of Israel",
+      "authorsCardHe": "Nohad Ali; Dennis Rosenberg",
+      "sourceAuthors": [
+        "Nohad Ali",
+        "Dennis Rosenberg"
+      ],
+      "journal": "Journal of Risk Research, 26(9), 1006-1019",
+      "dateText": "פורסם אונליין: 8 ביוני 2023; כרך 26(9), עמ׳ 1006-1019",
+      "doiUrl": "https://doi.org/10.1080/13669877.2023.2218861",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mixed_and_worried_arab_citizens_israel_summary_he.jpg",
+        "altHe": "מפגש קהילתי של אזרחים ערבים בדיון על ביטחון אישי, אלימות ושירותים ציבוריים ביישוב מעורב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-12",
+      "dateModified": "2026-07-12",
+      "summaryHe": "המאמר של Nohad Ali ו-Dennis Rosenberg בוחן אם מגורים ביישוב אתני מעורב קשורים לרמות גבוהות יותר של דאגה מתופעות חברתיות בקרב אזרחים ערבים בישראל. לפי תקציר הרשומה האקדמית, המחקר נשען על תאוריית ההון החברתי ועל נתוני מדד הביטחון האישי והקהילתי שנערך בשנת 2020 בקרב 947 אזרחים ערבים בישראל. הניתוח השתמש במודלים של רגרסיה מולטינומית וליניארית, ומצא שמגורים ביישובים מעורבים קשורים לפרופיל דאגה גבוה ולדאגה רבה יותר מתופעות חברתיות כלליות ומתופעות הקשורות לאלימות. מבחינה דמוקרטית, המאמר מדגיש שדיון בשוויון אזרחי אינו יכול להסתפק בזכויות פורמליות: הוא צריך לכלול גם ביטחון אישי, אמון קהילתי, נגישות לשירותים ויכולת של רשויות להבין את תנאי החיים של מיעוט אזרחי במרחבים מעורבים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he",
+      "file": "democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.html",
+      "permalink": "/democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.html",
+      "sortKey": 202607120001,
+      "titleHe": "חסמי פנייה לטיפול נפשי בקרב מתבגרים ערבים בישראל: נגישות לפני סטיגמה",
+      "paperTitle": "Barriers to help-seeking in Israeli Arab minority adolescents with mental health problems: results from the Galilee study",
+      "authorsCardHe": "Raida Daeem; Ivonne Mansbach-Kleinfeld; Ilana Farbstein; Alan Apter; Rasha Elias; Anneke Ifrah; Gabriel Chodick; Silvana Fennig",
+      "sourceAuthors": [
+        "Raida Daeem",
+        "Ivonne Mansbach-Kleinfeld",
+        "Ilana Farbstein",
+        "Alan Apter",
+        "Rasha Elias",
+        "Anneke Ifrah",
+        "Gabriel Chodick",
+        "Silvana Fennig"
+      ],
+      "journal": "Israel Journal of Health Policy Research, 8, Article 45",
+      "dateText": "פורסם אונליין: 23 במאי 2019; כרך 8, מאמר 45",
+      "doiUrl": "https://doi.org/10.1186/s13584-019-0315-7",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.jpg",
+        "altHe": "שיחה מכבדת במרפאה ציבורית בין יועצת, אם ומתבגרת על פנייה לעזרה נפשית ונגישות לשירותים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-12",
+      "dateModified": "2026-07-12",
+      "summaryHe": "המאמר בוחן חסמים מבניים ותרבותיים לפנייה לעזרה בקרב אימהות למתבגרים מוסלמים ודרוזים בצפון ישראל, כחלק ממחקר גליל על צרכים בשירותי בריאות הנפש. המחקר כלל תחילה 1,639 תלמידי כיתה ט׳ שקיבלו הסכמת הורים והשתתפו, ולאחר מכן 704 צמדי מתבגר-אם שרואיינו בבית בעזרת כלי אבחון ושאלוני חסמים. הממצא הבולט הוא שאימהות למתבגרים עם הפרעה נפשית פנו למקור מקצועי או בית-ספרי יותר מאימהות למתבגרים ללא הפרעה, אך עדיין פחות ממחציתן פנו בפועל. החסמים החשובים ביותר היו נגישות לשירותים, ולאחריהם חשש שטיפול יזיק וחשש מפגיעה מצד רשויות; סטיגמה וחוסר אמון באנשי מקצוע דורגו נמוך יותר. מבחינה דמוקרטית, המאמר ממקם את בריאות הנפש של מיעוט אזרחי בתוך שאלת שירות ציבורי שוויוני: אם המרפאות, השפה, התחבורה, המידע וזמני ההמתנה אינם מותאמים, הזכות לטיפול נשארת פורמלית בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_non_police_intervention_arab_citizens_israel_summary_he",
       "file": "democracy_non_police_intervention_arab_citizens_israel_summary_he.html",

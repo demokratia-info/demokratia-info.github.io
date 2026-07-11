@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-12",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -25007,6 +25007,55 @@
       "createdDate": "2026-07-11",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_mixed_and_worried_arab_citizens_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_mixed_and_worried_arab_citizens_israel_summary_he.html",
+      "usedBy": [
+        "democracy_mixed_and_worried_arab_citizens_israel_summary_he.html"
+      ],
+      "cardTitleHe": "דאגה ביישובים מעורבים וביטחון אזרחי בחברה הערבית",
+      "authorsHe": "Nohad Ali; Dennis Rosenberg",
+      "visualDescriptionHe": "מפגש קהילתי בחדר אזרחי שבו תושבים ערבים דנים בדאגה חברתית, אלימות ושירותים ציבוריים ביישוב מעורב",
+      "semanticDescriptionHe": "המאמר בוחן את הקשר בין סוג היישוב לבין דאגה מתופעות חברתיות בקרב אזרחים ערבים בישראל, דרך הון חברתי, אלימות וביטחון אישי.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "mixed_and_worried_arab_citizens_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-12",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-12 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.html",
+      "usedBy": [
+        "democracy_barriers_help_seeking_israeli_arab_adolescents_galilee_study_summary_he.html"
+      ],
+      "cardTitleHe": "חסמי פנייה לטיפול נפשי בקרב מתבגרים ערבים בישראל",
+      "authorsHe": "Raida Daeem; Ivonne Mansbach-Kleinfeld; Ilana Farbstein; Alan Apter; Rasha Elias; Anneke Ifrah; Gabriel Chodick; Silvana Fennig",
+      "visualDescriptionHe": "שיחה שקטה במרפאה ציבורית בין יועצת, אם ומתבגרת על פנייה לעזרה נפשית ונגישות לשירותים",
+      "semanticDescriptionHe": "המאמר בוחן חסמים מבניים ותרבותיים לפנייה לעזרה נפשית בקרב מתבגרים ערבים בישראל, ומדגיש נגישות לשירותים כחסם מרכזי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "barriers_help_seeking_arab_adolescents"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-12",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-12 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],
