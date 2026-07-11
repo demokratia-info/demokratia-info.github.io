@@ -5,9 +5,9 @@
   "slug": "democracy_democratic_qualities_regulatory_bodies_measurement_database_summary_he",
   "titleHe": "מדד חדש בוחן עד כמה רגולטורים שקופים, אחראים, משתפים ומכלילים",
   "subtitleHe": "מאגר על 49 גופים רגולטוריים בשלושה תחומים ובתשע מדינות מאפשר למדוד תכונות דמוקרטיות של רגולציה גם בחוק וגם בפועל.",
-  "descriptionHe": "המאמר מציע מודל מדידה ומאגר נתונים חדש להערכת תכונות דמוקרטיות של גופים רגולטוריים.",
-  "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren מפתחים מדדים לשקיפות, אחריותיות, השתתפות והכללה בגופים רגולטוריים. המאגר כולל 49 גופים רגולטוריים לאומיים, תת־לאומיים ועל־לאומיים בשלושה תחומים ובתשע מדינות, ומשתמש בשיטות Item Response Theory לאימות המדדים ומשקלם.",
-  "summarySourceStatus": "Based on abstract only",
+  "descriptionHe": "המאמר מציג מודל מדידה ומאגר נתונים להשוואת שקיפות, אחריותיות, השתתפות והכללה בגופים רגולטוריים.",
+  "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren בונים מדדים דה־יורה ודה־פקטו לארבע תכונות דמוקרטיות של רגולטורים. המאגר כולל 49 גופים בשלושה תחומים ובתשע מדינות, והמדדים מאומתים באמצעות Item Response Theory כדי להשוות בין רגולטורים ובין ממדי דמוקרטיות שונים.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker, Esther Van-Zimmeren",
   "paperTitle": "A new measurement model and database of the democratic qualities of regulatory bodies",
   "authorsHtml": "<a href=\"https://orcid.org/0000-0003-2911-3191\" target=\"_blank\" rel=\"noopener noreferrer\">Libby Maman</a>, <a href=\"https://orcid.org/0000-0003-2700-6747\" target=\"_blank\" rel=\"noopener noreferrer\">Jacint Jordana</a>, <a href=\"https://orcid.org/0000-0001-6998-5483\" target=\"_blank\" rel=\"noopener noreferrer\">David Levi-Faur</a>, <a href=\"https://orcid.org/0000-0001-5775-9657\" target=\"_blank\" rel=\"noopener noreferrer\">Edoardo Guaschino</a>, <a href=\"https://orcid.org/0000-0003-0054-094X\" target=\"_blank\" rel=\"noopener noreferrer\">Rahel Schomaker</a>, Esther Van-Zimmeren",
@@ -112,14 +112,22 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
-  "oneLinerHtml": "גופים רגולטוריים אינם רק מומחים טכניים; גם הם צריכים מנגנונים שמאפשרים שקיפות, אחריותיות, השתתפות והכללה.",
+  "dateModified": "2026-07-11",
+  "lastUpdatedHe": "11 ביולי 2026",
+  "oneLinerHtml": "המאמר מציע דרך אמפירית לבדוק אם רגולטורים רק מחויבים לדמוקרטיות על הנייר, או גם מפעילים אותה בפועל.",
   "sections": [
     {
       "headingHe": "מה נמדד במודל החדש?",
       "paragraphsHtml": [
         "המודל מודד ארבע תכונות דמוקרטיות של רגולטורים: שקיפות, אחריותיות, השתתפות והכללה. התכונות האלה חשובות משום שרגולטורים מפעילים כוח ציבורי לעיתים במבנים טכנוקרטיים המרוחקים מן הזירה האלקטורלית."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען בפועל?",
+      "paragraphsHtml": [
+        "המחקר מודד שקיפות, אחריותיות, השתתפות והכללה, ומבחין בכל אחת מהן בין דרישות פורמליות לבין התנהלות בפועל. ההבחנה חשובה משום שרגולטורים עצמאיים וטכנוקרטיים מחזיקים כוח ציבורי אך לעיתים פועלים רחוק ממנגנוני הייצוג הרגילים.",
+        "מאגר הנתונים כולל 49 גופים רגולטוריים בתחומי פיננסים, פרטיות ובטיחות מזון. הוא מכסה גופים לאומיים, תת־לאומיים ועל־לאומיים בשש מדינות באיחוד האירופי ובשלוש מדינות מחוץ לאיחוד: ישראל, נורווגיה ושווייץ, וכן כמה רגולטורים של האיחוד האירופי.",
+        "הממצאים מראים שהתכונות הדמוקרטיות אינן בהכרח נעות יחד. למשל, סוכנות בטיחות המזון האירופית מדורגת גבוה בשקיפות פורמלית ובשקיפות בפועל, בעוד גוף המזון הישראלי מדורג נמוך בשקיפות בפועל; בתחום ההשתתפות, גופים שמדורגים גבוה בחובות פורמליות אינם בהכרח מדורגים גבוה ביישום המעשי."
       ]
     },
     {

@@ -5,9 +5,9 @@
   "slug": "democracy_cross_cultural_competencies_ultraorthodox_clients_secular_therapists_israel_summary_he",
   "titleHe": "כשמטפלים חילונים פוגשים לקוחות חרדים, כשירות תרבותית אינה רק מיומנות מקצועית",
   "subtitleHe": "סקר בקרב 70 מטפלים חילונים בישראל מצביע על פער בין כשירות בין־תרבותית כללית לבין עמדות מורכבות כלפי לקוחות חרדים.",
-  "descriptionHe": "המאמר בוחן כשירות בין־תרבותית ועמדות של מטפלים חילונים בישראל ביחס ללקוחות חרדים, על רקע חוסר אמון ומתחים סוציו־פוליטיים בין הקבוצות.",
-  "summaryHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis ו-Jan Domaradzki מנתחים סקר אנונימי שנערך בישראל בין אפריל לנובמבר 2024 בקרב 70 מטפלים חילונים. הממצאים מצביעים על כשירות כללית גבוהה, אך על כשירות נמוכה ומורכבת יותר בעבודה עם לקוחות חרדים, ועל קשר בין ניסיון טיפולי לבין עמדות חיוביות יותר.",
-  "summarySourceStatus": "Based on abstract only",
+  "descriptionHe": "המאמר בוחן כשירות בין־תרבותית ועמדות של מטפלים חילונים בישראל כלפי לקוחות חרדים, על רקע חוסר אמון ומתחים סוציו־פוליטיים בין הקהילות.",
+  "summaryHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis ו-Jan Domaradzki מנתחים סקר מקוון אנונימי שנערך בישראל בין אפריל לנובמבר 2024 בקרב 70 מטפלים חילונים. המחקר מצא פער בין כשירות בין־תרבותית כללית גבוהה לבין כשירות ועמדות מורכבות יותר ביחס ללקוחות חרדים, וכן קשר בין ניסיון טיפולי עם לקוחות חרדים לבין עמדות חיוביות יותר.",
+  "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Einat Doron, Dariusz Walkowiak, Rivka Tuval-Mashiach, Sławomir Tobis, Jan Domaradzki",
   "paperTitle": "The Cross-Cultural Competencies and Attitudes Toward Ultraorthodox Clients Among Secular Therapists in Israel: An Explanatory Study",
   "authorsHtml": "<a href=\"https://orcid.org/0009-0002-4807-3471\" target=\"_blank\" rel=\"noopener noreferrer\">Einat Doron</a>, <a href=\"https://orcid.org/0000-0001-8874-2401\" target=\"_blank\" rel=\"noopener noreferrer\">Dariusz Walkowiak</a>, <a href=\"https://orcid.org/0000-0002-7741-1807\" target=\"_blank\" rel=\"noopener noreferrer\">Rivka Tuval-Mashiach</a>, <a href=\"https://orcid.org/0000-0002-0764-3258\" target=\"_blank\" rel=\"noopener noreferrer\">Sławomir Tobis</a>, <a href=\"https://orcid.org/0000-0002-9710-832X\" target=\"_blank\" rel=\"noopener noreferrer\">Jan Domaradzki</a>",
@@ -105,14 +105,22 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-06-18",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
-  "oneLinerHtml": "פערים בעמדות של אנשי מקצוע כלפי קבוצה חברתית אינם נשארים מחוץ לחדר הטיפולים; הם משפיעים על נגישות, אמון ושוויון בשירות.",
+  "dateModified": "2026-07-11",
+  "lastUpdatedHe": "11 ביולי 2026",
+  "oneLinerHtml": "כשירות תרבותית כללית אינה מבטיחה טיפול שוויוני כאשר יחסי אמון בין קהילות טעונים במתח חברתי ופוליטי.",
   "sections": [
     {
       "headingHe": "מה בוחן המחקר על מטפלים חילונים ולקוחות חרדים?",
       "paragraphsHtml": [
         "המחקר בוחן כיצד מטפלים חילונים בישראל מעריכים את כשירותם לעבוד עם לקוחות חרדים ומהן עמדותיהם כלפיהם. השאלה חשובה משום שטיפול נפשי מחייב אמון, והאמון הזה מושפע גם מיחסים חברתיים ופוליטיים בין קהילות."
+      ]
+    },
+    {
+      "headingHe": "מה המאמר מצא או טוען בפועל?",
+      "paragraphsHtml": [
+        "המחקר התבסס על סקר מקוון אנונימי בקרב 70 מטפלים חילונים בישראל, שנאסף בין אפריל לנובמבר 2024. החוקרים השתמשו במדד CCCHP-27 לכשירות בין־תרבותית ובשאלון ייעודי על עמדות כלפי לקוחות חרדים, וניתחו את הנתונים באמצעות JASP 0.18.3.",
+        "הניתוח מצא שמטפלים חילונים דיווחו על כשירות בין־תרבותית כללית גבוהה, אך הכשירות בעבודה עם לקוחות חרדים הייתה נמוכה ומורכבת יותר. מטפלים בעלי ניסיון רב יותר בטיפול בלקוחות חרדים נטו לעמדות חיוביות יותר, בעוד מטפלים במסגרות ציבוריות הראו מודעות תרבותית נמוכה יותר.",
+        "המאמר מצביע על פער בין פתיחות כללית לבין נכונות ונוחות בעבודה עם הקהילה החרדית: 57.2% מהמטפלים הרגישו שהעבודה עם לקוחות חרדים שיפרה את מיומנויותיהם, אך רק 37.2% המליצו עליה לאחרים; 52.8% נהנו מעבודה עם לקוחות מגוונים, אך רק 27.2% דיווחו שנהנו מעבודה עם לקוחות חרדים. נמצא גם מתאם שלילי בין רגשות כלפי מיעוטים לבין שני מדדים הקשורים לחרדים, עמדות ומודעות, מה שמחזק את הטענה שמתחים מקומיים נכנסים לתוך הקשר הטיפולי."
       ]
     },
     {
