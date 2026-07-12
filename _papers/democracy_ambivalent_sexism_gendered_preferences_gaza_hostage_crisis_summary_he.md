@@ -3,7 +3,7 @@
   "version": 1,
   "file": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
   "slug": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he",
-  "titleHe": "סקסיזם אמביוולנטי מעצב העדפות מגדריות סביב שחרור חטופים",
+  "titleHe": "סקסיזם אמביוולנטי מנבא העדפות מגדריות סביב שחרור חטופים",
   "subtitleHe": "מחקר על מדגם יהודי־ישראלי מראה כיצד סקסיזם עוין וסקסיזם מיטיב מנבאים עמדות שונות כלפי קדימות לנשים בעסקאות חטופים.",
   "descriptionHe": "המאמר בוחן כיצד סקסיזם עוין וסקסיזם מיטיב קשורים להעדפות מגדריות לגבי קדימות בשחרור חטופים במשבר עזה.",
   "summaryHe": "המחקר מנתח מדגם יהודי־ישראלי מייצג של 1,171 משיבים בגל סקר שנערך בפברואר-מרץ 2024, לאחר 7 באוקטובר. הניתוח מראה שרוב המשיבים תמכו בקדימות לנשים בשחרור חטופים, שסקסיזם עוין ניבא התנגדות לקדימות כזו, ושסקסיזם מיטיב ניבא תמיכה בה. שני סוגי הסקסיזם פעלו במידה רבה כמסלולים פסיכולוגיים נפרדים, ללא עדות משכנעת לאינטראקציה ביניהם.",
@@ -85,8 +85,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "גם בשאלות של קדימות בשחרור חטופים, <strong>סקסיזם עוין וסקסיזם מיטיב</strong> מושכים את השיפוט הציבורי לכיוונים שונים.",
   "sections": [
     {
@@ -159,7 +159,7 @@
     }
   ],
   "layout": "paper",
-  "title": "סקסיזם אמביוולנטי מעצב העדפות מגדריות סביב שחרור חטופים",
+  "title": "סקסיזם אמביוולנטי מנבא העדפות מגדריות סביב שחרור חטופים",
   "permalink": "/democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
   "paper_url": "democracy_ambivalent_sexism_gendered_preferences_gaza_hostage_crisis_summary_he.html",
   "sortKey": 202606170010,

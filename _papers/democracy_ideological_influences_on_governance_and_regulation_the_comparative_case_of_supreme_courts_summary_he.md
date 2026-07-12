@@ -89,8 +89,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציע כלים אמפיריים למדידת השפעה אידיאולוגית של שופטים בבתי משפט עליונים בהשוואה בין חמש מדינות.",
   "sections": [
     {
@@ -140,7 +140,7 @@
       "headingHe": "מה התרומה לוויכוח על בתי משפט ודמוקרטיה?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה התרומה לוויכוח על בתי משפט ודמוקרטיה בתוך המהלך המרכזי של המאמר. הוא מציע דרך אמפירית יותר לשאול מתי אידיאולוגיה ניכרת בפסיקה, באילו תחומים, ומה הדבר אומר על ממשל חוקתי.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה התרומה לוויכוח על בתי משפט ודמוקרטיה: Full-text routes support a replacement on measuring ideological/attitudinal influences in supreme courts using DCAM and IIPP, with original political and religious rights data from the U.S., Canada, India, the Philippines, and Israel."
+        "המאמר מציע את DCAM למדידת קבלת החלטות עמדתית של בית המשפט כמוסד ואת IIPP להערכת ההעדפה האידאולוגית של שופטים יחידים. נתונים מקוריים על פסיקות בזכויות פוליטיות ודתיות בארצות הברית, קנדה, הודו, הפיליפינים וישראל תומכים בתקפות המדדים."
       ]
     }
   ],

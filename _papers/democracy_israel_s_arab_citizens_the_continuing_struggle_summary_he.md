@@ -71,8 +71,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את אזרחי ישראל הערבים כקהילה הנאבקת לאורך זמן על פיתוח, שוויון ויכולת פוליטית להשפיע.",
   "sections": [
     {
@@ -114,7 +114,7 @@
       "headingHe": "מה המאמר מוסיף להבנת שוויון אזרחי בישראל?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מוסיף להבנת שוויון אזרחי בישראל בתוך המהלך המרכזי של המאמר. עבור האתר, תרומתו היא בהצגת אזרחות כמערכת של מאבק מתמשך על תנאים, קול והשפעה.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מוסיף להבנת שוויון אזרחי בישראל: Full-text route and metadata identify Tessler and Grant's analysis of Arab citizens' continuing struggle for development, equality, and political mobilization in Israel."
+        "המאמר מתאר כיצד אזרחי ישראל הפלסטינים נאבקים מאז ראשית המדינה למען פיתוח ושוויון ולגיבוש אסטרטגיה של מוביליזציה פוליטית, שתאפשר להם להגן על האינטרסים שלהם ולהפעיל השפעה פוליטית משמעותית."
       ]
     }
   ],

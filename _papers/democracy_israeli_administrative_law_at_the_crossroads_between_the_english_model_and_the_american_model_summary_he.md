@@ -66,8 +66,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד המשפט המינהלי הישראלי נע מן המורשת האנגלית אל עידן של חוקתיות, הפרטה, רגולציה וביקורת רחבה על הרשות המבצעת.",
   "sections": [
     {
@@ -117,7 +117,7 @@
       "headingHe": "מה המאמר מוסיף להבנת שלטון החוק?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מוסיף להבנת שלטון החוק בתוך המהלך המרכזי של המאמר. תרומת המאמר היא בהצגת שלטון החוק כמערכת פיקוח שמתאימה עצמה לצורות כוח משתנות, ולא רק כמסורת של ביקורת על פקידות ממשלתית.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מוסיף להבנת שלטון החוק: Cambridge text identifies Barak-Erez's argument: Israeli administrative law grew from English roots but must adjust to constitutional rights, privatization, regulation, distributive justice, procedural justice, and mixed public-private bodies."
+        "המאמר טוען כי לנוכח התחזקות ההגנה החוקתית על זכויות והתרחבות ההפרטה, המשפט המינהלי נדרש למקד את הביקורת גם באינטרסים שאינם זכויות אדם, בצדק חלוקתי והליכי, ברגולציה ובחובותיהם של גופים ציבוריים־פרטיים מעורבים."
       ]
     }
   ],

@@ -65,8 +65,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מפרק את אי־יציבות הדמוקרטיה הישראלית למנגנונים מוסדיים, ביטחוניים וזהותיים הניתנים להשוואה.",
   "sections": [
     {
@@ -108,7 +108,7 @@
       "headingHe": "מה המאמר מוסיף להבנת המשטר הישראלי?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מוסיף להבנת המשטר הישראלי בתוך המהלך המרכזי של המאמר. כך אפשר להבין את ישראל לא רק כמדינה במשבר, אלא כדמוקרטיה בעלת יציבות הישרדותית ואי־יציבות תפקודית בעת ובעונה אחת.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מוסיף להבנת המשטר הישראלי: Full article route supports a comparative assessment of Israel's unstable democracy in light of fragmented politics, institutional weaknesses, security conflict, Jewish-democratic tensions, and coalition/governability problems."
+        "המאמר תורם להבנת המשטר הישראלי באמצעות ניתוח תאורטי והשוואתי של משתנים ובהם לגיטימיות המשטר ויעילותו, מידת ההסכמה בחברה ובקרב האליטות, המערכת המפלגתית והקיטוב, המבנה החברתי־כלכלי, מרכזיותם של נושאי הביטחון, המבנה החוקתי ושיטת הבחירות והסביבה הבין־לאומית. על יסוד ניתוח זה הוא מסיק כי הדמוקרטיה בישראל אינה יציבה."
       ]
     }
   ],

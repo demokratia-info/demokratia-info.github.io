@@ -63,8 +63,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "הפרק בוחן כיצד המשפט החוקתי הישראלי חי בין חזון חוקתי, מגבלות מוסדיות ודימוי ציבורי שמוצג אחרת לקהלים שונים.",
   "sections": [
     {
@@ -106,7 +106,7 @@
       "headingHe": "מה הפרק משנה בקריאת בית המשפט העליון?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה הפרק משנה בקריאת בית המשפט העליון בתוך המהלך המרכזי של המאמר. התרומה היא בהזמנה לקרוא את המשפט החוקתי לא רק לפי עקרונותיו המוצהרים, אלא גם לפי תנאי הפעולה, ההצגה והבחירה המוסדית שלו.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה הפרק משנה בקריאת בית המשפט העליון: SSRN full paper/abstract supports a replacement on idealism and realism in Israeli constitutional law across constitution-making, rights protection, and institutional image, including translated versus non-translated Supreme Court decisions."
+        "בחינת פסקי הדין שתורגמו לאנגלית לצד אלה שלא תורגמו חושפת תמונה מורכבת יותר מזו שבית המשפט העליון מבקש להעביר לקהליו בחו״ל על עצמו כבית משפט פרוגרסיבי המגן על זכויות."
       ]
     }
   ],

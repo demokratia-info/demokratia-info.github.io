@@ -4,7 +4,7 @@
   "file": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he.html",
   "slug": "democracy_beyond_utility_language_intervention_identity_dynamics_and_political_attitude_change_among_palestinian_summary_he",
   "titleHe": "מעבר לתועלת: עברית, זהות ועמדות פוליטיות אחרי 7 באוקטובר",
-  "subtitleHe": "מחקר התערבות בקרב תלמידים ומורי־עתיד פלסטינים אזרחי ישראל מראה כיצד שפה יכולה להיות גם זירת מגע פוליטי.",
+  "subtitleHe": "מחקר התערבות בקרב תלמידים ופרחי הוראה פלסטינים אזרחי ישראל מראה כיצד שפה יכולה להיות גם זירת מגע פוליטי.",
   "descriptionHe": "המאמר בוחן כיצד התערבות ממוקדת בלימוד עברית השפיעה על מסוגלות לשונית, עמדות בין־קבוצתיות, תקווה לשלום וזהויות משותפות בקרב תלמידי תיכון ופרחי הוראה ערבים בישראל אחרי 7 באוקטובר.",
   "summaryHe": "זהו מחקר כמו־ניסויי במדידות לפני ואחרי התערבות, שניתח 119 משתתפים באמצעות Generalized Estimating Equations. הממצאים מצביעים על שיפור בארבעה מתוך חמשת מדדי התוצאה, אך גם על הבדלים חשובים בין תלמידי תיכון לפרחי הוראה. בקרב מזדהים כפלסטינים נרשמה העלייה החדה ביותר בתקווה לשלום ובסיווג אברהמי, ואילו הרגישות לאי־שוויון ירדה אצל פרחי הוראה אך עלתה אצל תלמידי תיכון.",
   "summarySourceStatus": "Based on full text",
@@ -64,8 +64,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   },
   "datePublished": "2026-06-14",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "לימוד עברית מוצג במאמר כערוץ מעשי למגע בין־קבוצתי, אך השפעתו משתנה לפי גיל, זהות והקשר חינוכי.",
   "sections": [
     {

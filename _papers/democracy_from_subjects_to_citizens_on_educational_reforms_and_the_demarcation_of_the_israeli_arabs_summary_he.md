@@ -69,8 +69,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את רפורמות החינוך כזירה שבה המדינה שילבה את המיעוט הערבי ובה בעת הגבילה את שייכותו כ'ישראלים-ערבים'.",
   "sections": [
     {
@@ -103,7 +103,7 @@
       "headingHe": "איפה מערכת החינוך מייצרת גבולות נאמנות ושייכות?",
       "paragraphsHtml": [
         "מערכת החינוך מופיעה כזירה שבה המדינה מבטיחה שילוב ושיפור, אך גם מפקחת על זהות לאומית ופוליטית ומפרידה בין אזרחות פורמלית לבין הכרה מלאה. לוי בוחן כיצד רפורמות חינוך בישראל סימנו את הערבים בישראל לא רק כמיעוט תלמידים, אלא כקטגוריה פוליטית של ״ישראלים־ערבים״.",
-        "Full/author text and metadata support analysis of educational reforms, citizenship, and demarcation of Israeli Arabs through policy discourse."
+        "רפורמות החינוך של שנות השישים והשבעים מסמנות מעבר במדיניות החינוך הערבי מהדרה לשילוב, אך גם את גבולות השילוב."
       ]
     },
     {

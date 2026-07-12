@@ -61,8 +61,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר בוחן את תנאי הלגיטימיות של הטיה שלטונית לטובת דת הרוב ואת חולשת ההצדקות לה.",
   "sections": [
     {
@@ -95,7 +95,7 @@
       "headingHe": "איך הטיה דתית עלולה לפגוע גם בדת עצמה?",
       "paragraphsHtml": [
         "לאחר מכן הוא מצביע על קשיים: לא תמיד יש רוב דתי הומוגני, מסורות משתנות, והטיה דתית עלולה לפגוע גם במיעוטים וגם בדת עצמה. פרץ מנתח את הגישה הרובנית־דתית, שלפיה רוב דתי רשאי לעצב מוסדות מדינה וסמלים ציבוריים לפי מסורתו כל עוד זכויות מיעוטים נשמרות.",
-        "Full text supports definition of religious-majoritarian approach, its preconditions, and internal/external critique of governmental religious bias."
+        "המאמר מגדיר את הגישה הרובנית־דתית, מפרט את שלושת תנאי הסף שלה ומציג ביקורת פנימית וחיצונית על הטיה דתית שלטונית."
       ]
     },
     {

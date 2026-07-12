@@ -4,7 +4,7 @@
   "file": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
   "slug": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he",
   "order": 886,
-  "titleHe": "אמת, אוטונומיה והמתת חסד בעמדות הציבור בישראל",
+  "titleHe": "אמת, אוטונומיה ומוות בסיוע רופא בעמדות הציבור בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן את עמדות הציבור בישראל כלפי אמירת אמת לחולים סופניים וכלפי סיוע רפואי לסיום חיים.",
   "summaryHe": "המחקר מבוסס על סקר חתך מקוון שנערך בפברואר 2020 בקרב 515 משתתפים המייצגים את האוכלוסייה הבוגרת בישראל. הוא מצא תמיכה רחבה באמירת אמת לחולים גם בתנאים קשים, לצד מחלוקת עמוקה יותר סביב מוות בסיוע רופא, כאשר דתיות וקבוצת אוכלוסייה קשורות במובהק לעמדות שמרניות יותר.",
@@ -101,8 +101,8 @@
     "fitness": "standard"
   },
   "datePublished": "2026-06-25",
-  "dateModified": "2026-07-07",
-  "lastUpdatedHe": "7 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "בסוגיות סוף החיים, הציבור בישראל תומך ברובו ב<strong>אמירת אמת</strong>, אך חלוק הרבה יותר בשאלת סיוע רפואי למוות.",
   "sections": [
     {
@@ -186,7 +186,7 @@
     {
       "headingHe": "מה יחפש כאן מי שמתעניין בנושא?",
       "paragraphsHtml": [
-        "מי שמחפש על דעת קהל בישראל, המתת חסד ואמירת אמת לחולים ימצא כאן נתונים קונקרטיים על תמיכה והתנגדות. המאמר מועיל במיוחד לשאלות על אוטונומיה רפואית בחברה רב־דתית."
+        "מי שמחפש על דעת קהל בישראל, מוות בסיוע רופא ואמירת אמת לחולים ימצא כאן נתונים קונקרטיים על תמיכה והתנגדות. המאמר מועיל במיוחד לשאלות על אוטונומיה רפואית בחברה רב־דתית."
       ]
     },
     {
@@ -203,7 +203,7 @@
     }
   ],
   "layout": "paper",
-  "title": "אמת, אוטונומיה והמתת חסד בעמדות הציבור בישראל",
+  "title": "אמת, אוטונומיה ומוות בסיוע רופא בעמדות הציבור בישראל",
   "permalink": "/democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
   "paper_url": "democracy_assisted_life_termination_truth_telling_public_opinion_israel_summary_he.html",
   "sortKey": 202606250007,

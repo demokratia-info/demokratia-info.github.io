@@ -65,8 +65,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר משווה בין ישראל וגרמניה כדי להבין מתי הציבור מוכן להכיר בזכויות של זרים.",
   "sections": [
     {
@@ -94,7 +94,7 @@
       "headingHe": "כיצד ערכים אוניברסליסטיים מרחיבים את קהילת הזכויות?",
       "paragraphsHtml": [
         "התרומה של המאמר היא בכך שהוא מראה שזכויות אינן רק נוסחה משפטית; הן תלויות גם בדימוי הציבורי של מי ראוי להיכלל בקהילת הזכויות. המאמר משווה בין גרמניה וישראל ושואל אילו גורמים מעצבים תמיכה ציבורית בזכויות לזרים.",
-        "Sources support a comparative survey analysis of public views toward rights for foreigners in Germany and Israel, with attention to perceived threat, universalism, and national contexts."
+        "בשתי המדינות, התמיכה בזכויות לזרים נוטה לעלות עם רמת ההשכלה ולרדת עם הגיל."
       ]
     },
     {

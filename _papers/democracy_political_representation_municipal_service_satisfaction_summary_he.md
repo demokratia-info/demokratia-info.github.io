@@ -3,7 +3,7 @@
   "version": 1,
   "file": "democracy_political_representation_municipal_service_satisfaction_summary_he.html",
   "slug": "democracy_political_representation_municipal_service_satisfaction_summary_he",
-  "titleHe": "ייצוג פוליטי סמלי משפיע על שביעות רצון משירותים עירוניים",
+  "titleHe": "ייצוג פוליטי סמלי קשור לשביעות רצון משירותים עירוניים",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד ייצוג תיאורי וייצוג סמלי קשורים לשביעות רצון של תושבים משירותים ציבוריים עירוניים בחיפה.",
   "summaryHe": "המחקר משתמש בסקר תושבי חיפה ובנתונים על הרכב מועצת העיר כדי לבדוק את הקשר בין ייצוג פוליטי לשביעות רצון משירותים מקומיים. הוא מודד שביעות רצון מ-13 שירותים עירוניים ומבחין בין ייצוג תיאורי, המבוסס על הרכב מגדרי וקבוצתי, לבין ייצוג סמלי, המבוסס על תחושת הכרה וייצוג. הממצאים מצביעים על כך שלייצוג סמלי עשויה להיות חשיבות רבה במיוחד, גם ישירות וגם דרך רגשות רחבים יותר כלפי השלטון.",
@@ -74,8 +74,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   "datePublished": "2026-05-31",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה ששביעות רצון משירותים עירוניים קשורה לא רק לביצוע השירות, אלא גם לתחושה שהשלטון המקומי מכיר בתושבים ומייצג אותם.",
   "sections": [
     {
@@ -160,7 +160,7 @@
     }
   ],
   "layout": "paper",
-  "title": "ייצוג פוליטי סמלי משפיע על שביעות רצון משירותים עירוניים",
+  "title": "ייצוג פוליטי סמלי קשור לשביעות רצון משירותים עירוניים",
   "permalink": "/democracy_political_representation_municipal_service_satisfaction_summary_he.html",
   "paper_url": "democracy_political_representation_municipal_service_satisfaction_summary_he.html",
   "sortKey": 202605310007,

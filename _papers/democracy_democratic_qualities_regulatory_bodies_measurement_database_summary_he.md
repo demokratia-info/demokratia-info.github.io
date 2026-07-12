@@ -6,7 +6,7 @@
   "titleHe": "מדד חדש בוחן עד כמה רגולטורים שקופים, אחראים, משתפים ומכלילים",
   "subtitleHe": "מאגר על 49 גופים רגולטוריים בשלושה תחומים ובתשע מדינות מאפשר למדוד תכונות דמוקרטיות של רגולציה גם בחוק וגם בפועל.",
   "descriptionHe": "המאמר מציג מודל מדידה ומאגר נתונים להשוואת שקיפות, אחריותיות, השתתפות והכללה בגופים רגולטוריים.",
-  "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren בונים מדדים דה־יורה ודה־פקטו לארבע תכונות דמוקרטיות של רגולטורים. המאגר כולל 49 גופים בשלושה תחומים ובתשע מדינות, והמדדים מאומתים באמצעות Item Response Theory כדי להשוות בין רגולטורים ובין ממדי דמוקרטיות שונים.",
+  "summaryHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker ו-Esther Van-Zimmeren בונים מדדים דה־יורה ודה־פקטו לארבע תכונות דמוקרטיות של רגולטורים. המאגר כולל 49 גופים בשלושה תחומים ובתשע מדינות, והמדדים מאומתים באמצעות Item Response Theory כדי להשוות בין רגולטורים ובין ממדי דמוקרטיה שונים.",
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Libby Maman, Jacint Jordana, David Levi-Faur, Edoardo Guaschino, Rahel Schomaker, Esther Van-Zimmeren",
   "paperTitle": "A new measurement model and database of the democratic qualities of regulatory bodies",
@@ -112,9 +112,9 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   "datePublished": "2026-06-17",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
-  "oneLinerHtml": "המאמר מציע דרך אמפירית לבדוק אם רגולטורים רק מחויבים לדמוקרטיות על הנייר, או גם מפעילים אותה בפועל.",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
+  "oneLinerHtml": "המאמר מציע דרך אמפירית לבדוק אם רגולטורים רק מחויבים לדמוקרטיה על הנייר, או גם מיישמים אותה בפועל.",
   "sections": [
     {
       "headingHe": "מה נמדד במודל החדש?",

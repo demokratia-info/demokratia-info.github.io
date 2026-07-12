@@ -77,8 +77,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר חושף את הפרדוקס של משפט זכויות האדם הבין־לאומי בישראל: הוא יכול להגן על זכויות, אך גם להצדיק את כוח המדינה.",
   "sections": [
     {
@@ -128,7 +128,7 @@
       "headingHe": "מה המאמר משנה בהבנת בתי המשפט בישראל?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר משנה בהבנת בתי המשפט בישראל בתוך המהלך המרכזי של המאמר. התרומה לאתר היא בהחלפת השאלה הפשוטה “האם בתי המשפט בעד זכויות?” בשאלה מדויקת יותר: באילו תחומים, באילו נסיבות ולשם מה הם משתמשים במשפט הבין־לאומי.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר משנה בהבנת בתי המשפט בישראל: Full text maps 819 Israeli court decisions referring to international human rights law from 1990 to 2019 and finds concentrated uses around children's rights and due process, with limited use for ethnic/gender equality and frequent use to justify state action."
+        "השילוב בין ניתוח כמותי לאיכותני חושף את תפקידו של כל אזכור ולא רק את עצם קיומו. כך המאמר מראה שהמשפט הבין־לאומי עשוי להיות אמנציפטורי, אך גם להגן על יחסי הכוח הקיימים ולחזק את כוח הכפייה של המדינה."
       ]
     }
   ],

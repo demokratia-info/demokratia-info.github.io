@@ -69,8 +69,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שארגוני שירותי קו־חזית אינם רק מבצעים מדיניות, אלא יכולים להאיץ או לבלום נסיגה דמוקרטית.",
   "sections": [
     {
@@ -120,7 +120,7 @@
       "headingHe": "מה לומדים מהשטח על מצב המשטר?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה לומדים מהשטח על מצב המשטר בתוך המהלך המרכזי של המאמר. כך המאמר מציע לראות בשטח עצמו מדד עדין למצב הדמוקרטי.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה לומדים מהשטח על מצב המשטר: Full article supports focus on street-level organizations operating under democratic backsliding and the strategies they use when political conditions threaten rights-oriented work."
+        "המאמר מראה כי אספקת שירותים ציבוריים עשויה להקל על נסיגה דמוקרטית או לעכב אותה. בחינת האופן שבו ארגוני קו־החזית מתכנסים למדיניות לא־ליברלית או סוטים ממנה, בתגובה או ביוזמה, מאפשרת לזהות את תפקידם בהאצת הנסיגה או בבלימתה."
       ]
     }
   ],

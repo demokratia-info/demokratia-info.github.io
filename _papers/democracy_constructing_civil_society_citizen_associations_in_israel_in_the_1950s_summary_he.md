@@ -66,8 +66,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "החברה האזרחית בישראל של שנות החמישים מוצגת כתוצר של יחסים הדוקים בין אזרחים, מפלגות ומדינה.",
   "sections": [
     {
@@ -95,7 +95,7 @@
       "headingHe": "כיצד מפלגות ורשויות עיצבו את ההתארגנות האזרחית?",
       "paragraphsHtml": [
         "לכן המאמר מסבך את ההבחנה הפשוטה בין מדינה לחברה אזרחית ומציג את החברה האזרחית בישראל כתוצר היסטורי של שיתוף פעולה, תלות ומאבק. המאמר בוחן אגודות אזרחים בישראל של שנות החמישים ומראה שחברה אזרחית לא צמחה רק מחוץ למדינה, אלא נבנתה בתוך יחסי תלות, תמיכה ופיקוח בין אזרחים, מפלגות ומוסדות המדינה הצעירה.",
-        "Full-text route supports the focus on voluntary associations, early statehood, and the constructed rather than spontaneous character of Israeli civil society in the 1950s."
+        "המאמר מתאר את הדיון הפתוח בזכות ההתאגדות ובמסגרת המשפטית שלה כחלק מתהליך הדמוקרטיזציה במדינה חדשה."
       ]
     },
     {

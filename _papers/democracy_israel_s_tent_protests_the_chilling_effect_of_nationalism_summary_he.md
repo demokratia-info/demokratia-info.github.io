@@ -66,8 +66,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "מחאת 2011 מוצגת כמאבק חברתי רחב שהלאומיות הרחיבה את כוחו הציבורי אך גם צמצמה את הנושאים שיכול היה לשאת.",
   "sections": [
     {
@@ -109,7 +109,7 @@
       "headingHe": "מה המאמר משנה בקריאת מחאה דמוקרטית?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר משנה בקריאת מחאה דמוקרטית בתוך המהלך המרכזי של המאמר. הוא שואל מי נכלל ב“אנחנו” של המחאה, ואילו תביעות נדחקות כאשר מאבק חברתי מבקש להישאר קונצנזואלי.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר משנה בקריאת מחאה דמוקרטית: Full text analyzes the 2011 Israeli tent protest and argues nationalism narrowed the movement's agenda, cooling engagement with occupation, Palestinian citizens, and structural exclusions."
+        "המאמר טוען כי שיח פטריוטי ונאמן למדינה יצר אפקט מצנן, שהביא את משתתפי המחאה להימנע מלהיתפס כשמאלנים וכלא־נאמנים ויצר צנזורה עצמית שהשתיקה את העיסוק בסכסוך הישראלי–פלסטיני במהלך המחאה."
       ]
     }
   ],

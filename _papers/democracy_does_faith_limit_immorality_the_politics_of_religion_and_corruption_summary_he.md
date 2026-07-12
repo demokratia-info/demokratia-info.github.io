@@ -86,8 +86,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שהקשר בין דתיות לשחיתות תלוי בקיומם של מוסדות דמוקרטיים מרסנים.",
   "sections": [
     {
@@ -123,7 +123,7 @@
       "headingHe": "מה קורה כשהדת הופכת למשאב פטרונות?",
       "paragraphsHtml": [
         "דת עשויה לחזק ריסון מוסרי, אך כאשר היא נעשית מקור לכוח פוליטי, פטרונות או חסינות קבוצתית, היא אינה מבטיחה ניקיון כפיים. לכן המאמר מציע לראות בשחיתות תופעה מוסדית ופוליטית, לא רק מבחן לאדיקות אישית.",
-        "Sources support the article's comparative inquiry into religion, religiosity, religious parties/institutions, and corruption in democratic politics."
+        "המאמר בוחן בהשוואה את הקשר בין דת ושחיתות ואת האופן שבו מידת הדמוקרטיות של המוסדות הפוליטיים מתנה קשר זה."
       ]
     },
     {

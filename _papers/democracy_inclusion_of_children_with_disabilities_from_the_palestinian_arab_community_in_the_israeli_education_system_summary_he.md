@@ -69,8 +69,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את שילובם של תלמידים פלסטינים־ערבים עם מוגבלויות כמקרה שבו חינוך מיוחד, מעמד מיעוט ועמדות בית־ספריות נפגשים.",
   "sections": [
     {
@@ -120,7 +120,7 @@
       "headingHe": "מה המאמר מוסיף לדיון על זכויות ילדים?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מוסיף לדיון על זכויות ילדים בתוך המהלך המרכזי של המאמר. התרומה היא בהצגת הכללה לא כסיסמה, אלא כמבחן מוסדי של חלוקת משאבים והכרה.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מוסיף לדיון על זכויות ילדים: Article-specific full text supports focus on inclusion, Palestinian-Arab children with disabilities, Israeli education structures, and barriers tied to minority status and disability."
+        "המאמר מדגיש כי תלמידים עם מוגבלויות המשתייכים לקבוצות מיעוט מתמודדים עם חסמים נוספים, ובוחן בהקשר זה את שילובם של תלמידים מן הקהילה הפלסטינית־ערבית בחינוך הכללי בבתי ספר ערביים בישראל."
       ]
     }
   ],

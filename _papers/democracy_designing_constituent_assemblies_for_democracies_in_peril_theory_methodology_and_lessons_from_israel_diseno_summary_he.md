@@ -84,8 +84,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מתרגם את המשבר החוקתי הישראלי להצעה מעשית לעיצוב אסיפה מכוננת מגינת־זכויות.",
   "sections": [
     {
@@ -121,7 +121,7 @@
       "headingHe": "מה ישראל מלמדת על חוקתיות בלי מסלול מוסכם?",
       "paragraphsHtml": [
         "המאמר חשוב משום שהוא מתייחס לחוקה כאל תהליך מוסדי שצריך לייצר לגיטימציה, לא רק כאל מסמך משפטי. המאמר מציע מסגרת תיאורטית ומתודולוגית לעיצוב אסיפות מכוננות כאשר הדמוקרטיה עצמה נתונה בסכנה.",
-        "Full text supports the article's focus on designing constituent assemblies for endangered democracies, with Israel as the lesson-generating case."
+        "המאמר מתמקד בעיצוב אסיפות מכוננות לדמוקרטיות בסיכון, ומשתמש במשבר החוקתי הישראלי של 2023 כנקודת מוצא לפיתוח אסטרטגיית עיצוב."
       ]
     },
     {

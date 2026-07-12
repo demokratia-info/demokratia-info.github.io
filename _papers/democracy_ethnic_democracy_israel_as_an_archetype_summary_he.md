@@ -63,8 +63,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "סמוחה מציע להבין את ישראל כדמוקרטיה אתנית: משטר בחירות עם עדיפות ממוסדת ללאום היהודי.",
   "sections": [
     {
@@ -89,7 +89,7 @@
       "headingHe": "איפה המיעוט הערבי-פלסטיני ממוקם במודל?",
       "paragraphsHtml": [
         "סמוחה מציע את המושג דמוקרטיה אתנית כדי לתאר משטר שמקיים בחירות וזכויות אזרחיות מסוימות, אך מעניק עדיפות ממוסדת לקבוצת לאום אתנית אחת. ישראל משמשת במאמר מקרה מרכזי להבנת המתח בין אזרחות דמוקרטית לבין עליונות לאומית יהודית.",
-        "Sources support Smooha's model: democratic procedures with institutionalized dominance of an ethnic nation, Israel as archetype, and tension between citizenship and ethnonational preference."
+        "המאמר שואל אילו סוגי דמוקרטיה מתקיימים בחברות מפולגות מבחינה אתנית או לאומית וכיצד הן מתמודדות עם שסעים וסכסוכים אתניים."
       ]
     },
     {

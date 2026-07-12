@@ -3,7 +3,7 @@
   "version": 1,
   "file": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
   "slug": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he",
-  "titleHe": "דיאלוג חינוכי על ערכים דמוקרטיים מצליח כשהשיחה מחייבת הכרעה מוסרית",
+  "titleHe": "דיאלוג חינוכי על דילמה עשוי לקדם תיאום בין חשיבה אתית להתנהגות דיאלוגית",
   "subtitleHe": "מחקר מקרה על למידה אתית מצביע על הפער בין דיבור על ערכים לבין התנהגות דיאלוגית של הקשבה, הכלה וסובלנות.",
   "descriptionHe": "המאמר מציג מסגרת לניתוח למידה אתית בדיאלוגים חינוכיים, ומתמקד באמפתיה, הכלה וסובלנות. הוא בוחן כיצד חשיבה אתית והתנהגות דיאלוגית יכולות להיות מתואמות בהקשרים של חינוך דיאלוגי.",
   "summaryHe": "Baruch B. Schwarz, Michael J. Baker ו-Noa Brandel מתארים מחקר מקרה מתוך מחקר רחב יותר שבו ילדים מכמה מדינות באירופה דנו בערכים. באמצעות מסגרת DoE/EoD, המאמר מנתח במקביל את האופן שבו תלמידים בונים הבנה אתית של סובלנות, הכלה ואמפתיה ואת האופן שבו הם מתנהגים זה כלפי זה בזמן הדיון. הניתוח מראה שלמידה אתית בממד החשיבתי וההתנהגותי יכולה להתקדם או להיחסם בחינוך דיאלוגי, בהתאם לעקרונות העיצוב של השיחה.",
@@ -78,8 +78,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-06-16",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "ערכים דמוקרטיים בכיתה אינם נלמדים רק כהצהרות; הם נבחנים גם בדרך שבה תלמידים מקשיבים, כוללים ומגיבים זה לזה בזמן דיאלוג.",
   "sections": [
     {
@@ -176,7 +176,7 @@
     }
   ],
   "layout": "paper",
-  "title": "דיאלוג חינוכי על ערכים דמוקרטיים מצליח כשהשיחה מחייבת הכרעה מוסרית",
+  "title": "דיאלוג חינוכי על דילמה עשוי לקדם תיאום בין חשיבה אתית להתנהגות דיאלוגית",
   "permalink": "/democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
   "paper_url": "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he.html",
   "sortKey": 202606160008,

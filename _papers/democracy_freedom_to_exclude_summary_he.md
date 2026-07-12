@@ -7,7 +7,7 @@
   "titleHe": "כשזכות הקניין הופכת לכלי להדרה",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד שימוש בזכות הקניין ובחופש פעולה פרטי יכול להפוך לאמצעי להדרת מיעוטים מן המרחב הציבורי בישראל.",
-  "summaryHe": "איך הדרה במרחב הפרטי יכולה להפוך לפגיעה בשוויון במרחב הציבורי.",
+  "summaryHe": "איך הדרה במרחב הפרטי יכולה להפוך לפגיעה בשוויון במרחב הציבורי?",
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "מיכל טמיר",
   "paperTitle": "The Freedom to Exclude: The Case of Israeli Society",
@@ -63,8 +63,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר טוען ששוויון דמוקרטי אינו תלוי רק בחקיקה ובפסיקה, אלא גם ביכולת למנוע שימוש בקניין פרטי כדי להרחיק מיעוטים מחיים ציבוריים משותפים.",
   "sections": [
     {

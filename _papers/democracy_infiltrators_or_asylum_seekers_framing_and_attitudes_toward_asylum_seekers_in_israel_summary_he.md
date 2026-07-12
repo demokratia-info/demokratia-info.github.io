@@ -4,7 +4,7 @@
   "file": "democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.html",
   "slug": "democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he",
   "order": 464,
-  "titleHe": "מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
+  "titleHe": "מסגור ועמדות כלפי מבקשי מקלט בישראל",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד מסגור מבקשי מקלט בישראל כ\"מסתננים\" משפיע על עמדות הדרה כלפיהם.",
   "summaryHe": "המאמר מראה כי הצגת מבקשי מקלט כ\"מסתננים\" מגבירה עמדות הדרה, וכי אפקט המסגור מתווך את הקשר בין תפיסת איום חברתי־כלכלי לבין הדרה.",
@@ -69,8 +69,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "מסגור מבקשי מקלט כ<strong>\"מסתננים\"</strong> מגביר עמדות הדרה כלפיהם בישראל.",
   "sections": [
     {
@@ -123,7 +123,7 @@
     }
   ],
   "layout": "paper",
-  "title": "מסגור מבקשי מקלט ועמדות כלפי פליטים בישראל",
+  "title": "מסגור ועמדות כלפי מבקשי מקלט בישראל",
   "permalink": "/democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.html",
   "paper_url": "democracy_infiltrators_or_asylum_seekers_framing_and_attitudes_toward_asylum_seekers_in_israel_summary_he.html",
   "sortKey": 202605220019,

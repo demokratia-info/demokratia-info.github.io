@@ -63,8 +63,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "האקטיביזם השיפוטי בישראל מוסבר כתוצר של מבנה מוסדי, תרבות משפטית ופילוסופיה שיפוטית, לא רק של שופטים חזקים.",
   "sections": [
     {
@@ -106,7 +106,7 @@
       "headingHe": "למה המאמר קורא לעיגון חוקתי פורמלי?",
       "paragraphsHtml": [
         "הכותרת מפנה אל למה המאמר קורא לעיגון חוקתי פורמלי בתוך המהלך המרכזי של המאמר. תרומתו היא בהפיכת הוויכוח על בית המשפט מדיון רגשי על “עודף כוח” לניתוח של תנאים מוסדיים.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב למה המאמר קורא לעיגון חוקתי פורמלי: The accessible version identifies Salzberger’s aim: to describe forms of judicial activism in Israeli public and private law and analyze sources including the political system, mixed legal system, court/enforcement structure, judicial selection, and Aharon Barak’s legal philosophy. It concludes that Israel shows the democratic value of separation of powers but needs formal constitutional entrenchment to protect that structure."
+        "בחלקו האחרון המאמר מביא הערות מסכמות ודן בסיכויים לעתיד, לאחר שבחן מקורות אפשריים לאקטיביזם ואת ביטוייו במשפט הציבורי והפרטי."
       ]
     }
   ],

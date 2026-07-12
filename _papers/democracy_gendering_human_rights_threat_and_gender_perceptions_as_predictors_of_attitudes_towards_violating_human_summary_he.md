@@ -99,8 +99,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד תפיסות מגדריות של קבוצת חוץ עשויות להפחית תחושת איום ולצמצם תמיכה בפגיעה בזכויות אדם.",
   "sections": [
     {
@@ -133,7 +133,7 @@
       "headingHe": "איך ייחוס נשיות לפלסטינים משנה את תפיסת הסיכון?",
       "paragraphsHtml": [
         "התרומה היא בהבנת הגורמים הפסיכולוגיים שמחלישים או מחזקים נכונות לפגוע בזכויות של הצד החלש בסכסוך. דוד, רוזלר, אליס ומעוז מציעים מודל של ״מגדריזציה״ של זכויות אדם בסכסוך אסימטרי.",
-        "Open sources support survey of Jewish-Israeli opinion (N=517), gendered perceptions of Palestinians, threat mediation, and support for violating human rights."
+        "ייחוס תכונות סטריאוטיפיות נשיות לפלסטינים ניבא רמות נמוכות יותר של תפיסת איום, ובעקבות זאת פחות תמיכה בהפרת זכויות האדם שלהם."
       ]
     },
     {

@@ -3,7 +3,7 @@
   "version": 1,
   "file": "democracy_social_polarization_distress_october_2023_summary_he.html",
   "slug": "democracy_social_polarization_distress_october_2023_summary_he",
-  "titleHe": "קיטוב חברתי מעצב תגובות מצוקה לאחר טראומת 7 באוקטובר",
+  "titleHe": "קיטוב חברתי ותגובות מצוקה לאחר טראומת 7 באוקטובר",
   "subtitleHe": "",
   "descriptionHe": "המאמר בוחן כיצד קווי קיטוב בתוך החברה היהודית בישראל קשורים לתגובות מצוקה לאחר מתקפת חמאס ב־7 באוקטובר 2023. הוא משתמש במדגם של 2,002 משיבים כדי להראות שקיטוב חברתי הוא גם אתגר נפשי וגם איום על סולידריות דמוקרטית.",
   "summaryHe": "Eshel, Kimhi, Marciano ו־Adini מנתחים שלושה ממדי קיטוב: מוצא אתני, תמיכה בממשלה ורמת דתיות. הממצא המרכזי הוא שעמדה בתוך קווי החלוקה האלה קשורה בעקביות לרמות מצוקה שונות לאחר הטראומה המלחמתית.",
@@ -96,8 +96,8 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "datePublished": "2026-06-03",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה שקיטוב אינו רק מחלוקת פוליטית. לאחר טראומה לאומית, הוא משפיע על מצוקה, על אמון הדדי ועל היכולת לבנות סולידריות אזרחית.",
   "sections": [
     {
@@ -175,7 +175,7 @@
     }
   ],
   "layout": "paper",
-  "title": "קיטוב חברתי מעצב תגובות מצוקה לאחר טראומת 7 באוקטובר",
+  "title": "קיטוב חברתי ותגובות מצוקה לאחר טראומת 7 באוקטובר",
   "permalink": "/democracy_social_polarization_distress_october_2023_summary_he.html",
   "paper_url": "democracy_social_polarization_distress_october_2023_summary_he.html",
   "sortKey": 202606030009

@@ -62,8 +62,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   "datePublished": "2026-05-23",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "ישראל נקראת כאן כחלק ממשפחת רווחה ים־תיכונית אפשרית, שבה מוסדות חברתיים ותוצאות רווחה מעצבים את משמעות האזרחות.",
   "sections": [
     {
@@ -105,7 +105,7 @@
       "headingHe": "מה המאמר מוסיף להבנת דמוקרטיה חברתית?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מוסיף להבנת דמוקרטיה חברתית בתוך המהלך המרכזי של המאמר. תרומתו לאתר היא בהרחבת הדיון בדמוקרטיה אל אזרחות חברתית: כיצד משטרי רווחה מעצבים שוויון, ביטחון וקשר בין אזרח למדינה.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מוסיף להבנת דמוקרטיה חברתית: Readable copies identify John Gal's argument that an extended Mediterranean welfare-state family includes eight countries, including Israel and Turkey, and compares institutional features and welfare outcomes."
+        "המאמר טוען כי קיימת משפחה מורחבת של מדינות רווחה ים־תיכוניות הכוללת שמונה מדינות, ובהן ישראל וטורקיה, ומדגיש מאפיינים משותפים לחברותיה."
       ]
     }
   ],

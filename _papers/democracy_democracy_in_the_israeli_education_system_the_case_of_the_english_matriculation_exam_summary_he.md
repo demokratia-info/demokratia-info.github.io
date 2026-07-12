@@ -64,8 +64,8 @@
     "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "בחינת הבגרות באנגלית מוצגת כמבחן לשוויון ההזדמנויות שמערכת החינוך הישראלית מציעה בפועל.",
   "sections": [
     {
@@ -93,7 +93,7 @@
       "headingHe": "כיצד כלי הערכה יכול לשעתק פערים?",
       "paragraphsHtml": [
         "המאמר מצביע על המתח בין מערכת בחינות אחידה, שמבטיחה לכאורה סטנדרט שווה, לבין הבדלים עמוקים במשאבים, הכנה, רקע לשוני ונגישות להוראה איכותית. כך הוא מציע להבין דמוקרטיה בחינוך דרך השאלה האם כלל התלמידים מקבלים תנאים ממשיים להשתתפות ולהצלחה.",
-        "Sources support a case study of the English matriculation exam as a site where equality, access, cultural capital, and democratic education policy are tested."
+        "לפי תפיסותיהם של תלמידי תיכון ערבים פלסטינים ומוריהם לאנגלית, עקרונות דמוקרטיים יושמו כראוי בעניינים טכניים בסביבת הבחינה הארצית באנגלית כשפה זרה, אך בסוגיות מהותיות וביקורתיות אחרות הסביבה נראתה לא־דמוקרטית."
       ]
     },
     {

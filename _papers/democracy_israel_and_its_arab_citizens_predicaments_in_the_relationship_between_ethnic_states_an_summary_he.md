@@ -63,8 +63,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "רוחאנא מראה מדוע שוויון חומרי אינו מספיק כאשר מבנה המדינה עצמו מגדיר את אזרחיה הערבים כמיעוט לאומי בעל כוח מוגבל.",
   "sections": [
     {
@@ -106,7 +106,7 @@
       "headingHe": "מה המאמר משנה בדיון על אזרחים ערבים בישראל?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר משנה בדיון על אזרחים ערבים בישראל בתוך המהלך המרכזי של המאמר. תרומתו היא בהסבר מדוע שאלת האזרחות הערבית אינה בעיה של פערים בלבד, אלא של התאמה בין מדינה אתנית לבין חברה שיש בה שני קולקטיבים לאומיים.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר משנה בדיון על אזרחים ערבים בישראל: Full text supports Rouhana’s framing of Israel as a constitutional ethnic state with a binational social reality and a limited democracy, and his argument that improved material conditions alone cannot resolve the clash between ethnic state structure and Palestinian citizens’ needs for equality, inclusion, identity, and power-sharing."
+        "המאמר מציג את ישראל כמדינה אתנית חוקתית בעלת מציאות דו־לאומית ודמוקרטיה מוגבלת, וטוען ששיפור תנאיו של המיעוט לבדו אינו פותר את הסתירה בין מבנה המדינה האתני לבין חתירתו לשוויון, הכלה וזהות."
       ]
     }
   ],

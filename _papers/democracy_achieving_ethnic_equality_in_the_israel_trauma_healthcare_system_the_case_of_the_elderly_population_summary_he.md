@@ -3,7 +3,7 @@
   "version": 1,
   "file": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
   "slug": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he",
-  "titleHe": "פערים אתניים בטיפול בטראומה של קשישים בישראל מופיעים דווקא אחרי האשפוז",
+  "titleHe": "פערים אתניים בטיפול בטראומה של קשישים בישראל נמצאו באשפוז ובשחרור לשיקום",
   "subtitleHe": "המאמר משתמש ברישום הטראומה הלאומי כדי להשוות פגיעות ותוצאות אשפוז של קשישים יהודים וערבים, ומדגיש את משמעות השוויון בשלבי אשפוז, טיפול נמרץ ושיקום.",
   "descriptionHe": "המאמר בוחן פערים אתניים במערכת הטראומה בישראל בקרב נפגעים בני 65 ומעלה, על בסיס רישום הטראומה הלאומי לשנים 2008-2017. הוא משווה בין נפגעים יהודים וערבים באשפוז, טיפול נמרץ, ניתוח, תמותה ושחרור לשיקום.",
   "summaryHe": "המחקר מתבסס על 96,795 נפגעי טראומה קשישים שאושפזו בישראל, ומראה שפערים אתניים ניכרים מופיעים לא רק בשלב הפגיעה אלא גם במסלול הטיפול שלאחריה. יהודים היו בסבירות גבוהה יותר לאשפוז של יותר משבעה ימים, לאשפוז בטיפול נמרץ ולשחרור למרכז שיקום, בעוד שלא נמצא פער בניתוחים או בתמותה בתוך בית החולים.",
@@ -109,8 +109,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   "datePublished": "2026-06-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "שוויון במערכת טראומה נמדד גם בהמשך מסלול הטיפול: משך אשפוז, טיפול נמרץ ושחרור לשיקום.",
   "sections": [
     {
@@ -207,7 +207,7 @@
     }
   ],
   "layout": "paper",
-  "title": "פערים אתניים בטיפול בטראומה של קשישים בישראל מופיעים דווקא אחרי האשפוז",
+  "title": "פערים אתניים בטיפול בטראומה של קשישים בישראל נמצאו באשפוז ובשחרור לשיקום",
   "permalink": "/democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
   "paper_url": "democracy_achieving_ethnic_equality_in_the_israel_trauma_healthcare_system_the_case_of_the_elderly_population_summary_he.html",
   "sortKey": 202606220010,

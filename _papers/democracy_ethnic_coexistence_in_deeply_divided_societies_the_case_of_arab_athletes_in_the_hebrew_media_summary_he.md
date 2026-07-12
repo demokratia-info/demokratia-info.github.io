@@ -79,8 +79,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את הספורט כמרחב שבו דו־קיום תקשורתי תלוי לעיתים בקבלת גבולות הרוב היהודי.",
   "sections": [
     {
@@ -98,14 +98,14 @@
     {
       "headingHe": "איפה עברית, הצלחה ספורטיבית וזהות פלסטינית נפגשות?",
       "paragraphsHtml": [
-        "הסיכום מבוסס על טריאנגולציה משנית. אין להוסיף פירוט על קורפוס או שיטות שלא נבדקו בטקסט מלא. הניסוח נשאר זהיר משום שהמקור נשען כאן על הצלבת מקורות מאמריים ולא על טקסט מלא פתוח."
+        "במקרה של שחקני הכדורגל הערבים, התקציר מציין כי הם מצופים להצניע את זהותם הפלסטינית, לשלוט בעברית ולהזדהות עם הנרטיב והעמדות היהודיים."
       ]
     },
     {
       "headingHe": "מה גבולות הסיפור היהודי-ישראלי מאפשרים להראות?",
       "paragraphsHtml": [
         "לכן הספורט מופיע גם כמרחב של נראות והערכה, וגם כמנגנון שמסמן איזה סוג של ערביות נחשב מקובל. יונאי ושור בוחנים כיצד התקשורת העברית מציגה ספורטאים ערבים בחברה מחולקת.",
-        "Second pass supports keeping medium readiness: publisher/search snippets, JSTOR, and ResearchGate agree on the analysis of du-kium/coexistence in Hebrew media, Arab soccer players, underplaying Palestinian identity, Hebrew mastery, and acceptance of Jewish-Israeli narrative boundaries."
+        "לפי התקציר, עיתונאים ואישי ציבור יהודים מפרשים דו־קיום כקבלה מלאה מצד אזרחים ערבים של נקודת המבט והנרטיב היהודיים."
       ]
     },
     {

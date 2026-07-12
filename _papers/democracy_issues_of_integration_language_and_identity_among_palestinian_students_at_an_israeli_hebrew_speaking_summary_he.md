@@ -79,8 +79,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   },
   "datePublished": "2026-05-22",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מראה כיצד שפה, כוח וזהות מעצבים את השתלבותם של סטודנטים פלסטינים באוניברסיטה עברית־יהודית.",
   "sections": [
     {
@@ -130,7 +130,7 @@
       "headingHe": "מה המאמר מלמד על שוויון בהשכלה הגבוהה?",
       "paragraphsHtml": [
         "הכותרת מפנה אל מה המאמר מלמד על שוויון בהשכלה הגבוהה בתוך המהלך המרכזי של המאמר. קבלה לאוניברסיטה אינה מספיקה אם שפת המוסד, התרבות החברתית ויחסי הרוב והמיעוט גורמים לסטודנטים להרגיש אורחים בתוך מוסד ציבורי.",
-        "בהישען על רישומי הטריאנגולציה, הסעיף מסכם את תרומת המאמר סביב מה המאמר מלמד על שוויון בהשכלה הגבוהה: Sources identify qualitative study of 15 in-depth interviews with Palestinian students, citizens of Israel or East Jerusalem permanent residents, at a Jewish-dominated Hebrew-speaking university, focusing on academic/social challenges, language, integration, and identity."
+        "המאמר מלמד כי שליטה בעברית עשויה לסייע לתקשורת ולמגע בין־קבוצתי, אך פערי הכוח והמתח הפוליטי ממשיכים להגביל את הקשרים ואת תחושת ההשתייכות. לנוכח חשיבותן של השפה ושל תחושת השייכות, החוקרים מציעים להתאים את התמיכה הלשונית, האקדמית והרגשית ואת המדיניות החברתית כדי ליצור סביבה מכילה יותר לסטודנטים בני מיעוטים."
       ]
     }
   ],

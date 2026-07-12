@@ -7,7 +7,7 @@
   "titleHe": "האם נסיגה דמוקרטית היא רק ויכוח על בית המשפט?",
   "subtitleHe": "",
   "descriptionHe": "המאמר משתמש בוויכוח על הרפורמה המשפטית של 2023 כדי לבחון מחלוקת עמוקה יותר על סיווג המשטר הישראלי.",
-  "summaryHe": "למה הוויכוח על הרפורמה המשפטית תלוי גם בשאלה איזה סוג של דמוקרטיה ישראל היא.",
+  "summaryHe": "למה הוויכוח על הרפורמה המשפטית תלוי גם בשאלה איזה סוג של דמוקרטיה ישראל היא?",
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "גל אריאלי",
   "paperTitle": "The Democratic Backsliding Debate and the Controversy over Regime Classification in Israel",
@@ -64,8 +64,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   },
   "datePublished": "2026-05-07",
-  "dateModified": "2026-07-11",
-  "lastUpdatedHe": "11 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר טוען שהמחלוקת על הרפורמה המשפטית משקפת תפיסות מתחרות של דמוקרטיה ושל גבולות המשטר הישראלי.",
   "sections": [
     {

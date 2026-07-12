@@ -69,8 +69,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   "datePublished": "2026-05-21",
-  "dateModified": "2026-07-05",
-  "lastUpdatedHe": "5 ביולי 2026",
+  "dateModified": "2026-07-13",
+  "lastUpdatedHe": "13 ביולי 2026",
   "oneLinerHtml": "המאמר מציג את חוק הלאום לא כהצהרת זהות בלבד, אלא כעיגון חוקתי של היררכיה אתנו־לאומית.",
   "sections": [
     {
@@ -95,7 +95,7 @@
       "headingHe": "מה מבט פלסטיני מוסיף לקריאת החוק?",
       "paragraphsHtml": [
         "כך החוק מוצג כמסמך שמעמיק את הפער בין אזרחות פורמלית לבין שייכות פוליטית מלאה. בן־יוסף ותמרי קוראות את חוק הלאום כעיגון חוקתי של עליונות יהודית ושל הדרת הפלסטינים מן הריבונות.",
-        "Full text supports critique of the Nation-State Law as constitutionalizing Jewish supremacy, downgrading Arabic, privileging Jewish settlement, and excluding equality."
+        "לפי התקציר, המאמר מדגיש שלוש הנחות מרכזיות בחוק: עיגון עליונותם של מתיישבים יהודים, מחיקת הפלסטינים הילידים וסיפוח בפועל של חלקי פלסטין ההיסטורית שנכבשו ב־1967."
       ]
     },
     {
