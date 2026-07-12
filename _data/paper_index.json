@@ -1,8 +1,308 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1002,
+  "paperCount": 1012,
   "papers": [
+    {
+      "slug": "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he",
+      "file": "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.html",
+      "permalink": "/democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.html",
+      "sortKey": 202607130010,
+      "titleHe": "אמת, צדק ותקווה: לקחים מתהליך הפיוס בדרום אפריקה לישראל",
+      "paperTitle": "Between Human Rights and Hope — What Israelis Might Learn from the Truth and Reconciliation Process in South Africa",
+      "authorsCardHe": "Daphna Golan-Agnon",
+      "sourceAuthors": [
+        "Daphna Golan-Agnon"
+      ],
+      "journal": "International Review of Victimology, 17(1), 31–48",
+      "dateText": "פורסם: 2010",
+      "doiUrl": "https://doi.org/10.1177/026975801001700103",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.jpg",
+        "altHe": "מעגל עדויות ציבורי המחבר מסמכי אמת, הקשבה ותקווה לפיוס בין קהילות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "המאמר הוא ניתוח עיוני־השוואתי של ועדת האמת והפיוס בדרום אפריקה ושל האפשרות לתהליך עתידי בין ישראלים לפלסטינים. הוא מכיר בהבדלים עמוקים בין המקרים, אך משתמש בהשוואה כדי לזהות תנאים מוסדיים ופוליטיים שאפשרו בדרום אפריקה לשמוע עדויות כחלק מתהליך ציבורי של אחריות, פיצוי ופיוס. גולן־עגנון טוענת שארגוני זכויות האדם בישראל צברו תיעוד חשוב של פגיעות, אך האופי הא־פוליטי שלהם, ההתמקדות בזכויות יחידים וקבלת מסגרת ההפרדה מגבילים את יכולתם להציג קורבנוּת קולקטיבית ולהכין חזון משותף. לפי המאמר, פיוס מחייב הכרה הדדית בהיסטוריה ובקורבנות, לרבות הנכבה והטרור, ומסגרת פוליטית שבה שמיעת עדות היא לא רק פרסום סבל אלא מעשה של תקווה לקיום משותף.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_double_exclusion_bedouin_war_widows_summary_he",
+      "file": "democracy_double_exclusion_bedouin_war_widows_summary_he.html",
+      "permalink": "/democracy_double_exclusion_bedouin_war_widows_summary_he.html",
+      "sortKey": 202607130009,
+      "titleHe": "הדרה כפולה של אלמנות מלחמה בדואיות: מגדר, מיעוט ושירותי רווחה",
+      "paperTitle": "The Double Exclusion of Bedouin War Widows",
+      "authorsCardHe": "Ya’arit Bokek-Cohen, Smadar Ben-Asher",
+      "sourceAuthors": [
+        "Ya’arit Bokek-Cohen",
+        "Smadar Ben-Asher"
+      ],
+      "journal": "International Journal on Minority and Group Rights, 25(1), 112–131",
+      "dateText": "פורסם: 2018",
+      "doiUrl": "https://doi.org/10.1163/15718115-02501007",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_double_exclusion_bedouin_war_widows_summary_he.jpg",
+        "altHe": "אישה בדואית בלכיה עובדת בנול אריגה כחלק מיוזמה קהילתית של נשים בנגב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "המאמר בוחן שבעה ראיונות עומק עם אלמנות בדואיות של חללי צה״ל דרך תאוריית ההדרה הדמוקרטית: משטר יכול להבטיח חברות שווה ובכל זאת להציב גבולות סמויים סביב הגישה לטובין ולשירותים. ארבעת הדפוסים שעלו הם כשל בהודעת המוות, היעדר בחירה ממשית בטקס הקבורה, יחס אמביוולנטי לסיוע הרשויות והדרה, ביוש ופיקוח בתוך המשפחה והקהילה. האלמנות נמצאות אפוא בין מערכות: הטבות המדינה אינן מותאמות תמיד לתנאי חייהן, ואילו הקהילה עלולה להרחיקן בשל נסיבות השירות הצבאי של הבעל ובשל נורמות מגדריות. חשוב: מאמר זה והמאמר ״זכויות על הנייר, הדרה בשירות״ משתמשים באותם שבעה ראיונות ואינם אישושים אמפיריים בלתי־תלויים; תרומתו הייחודית של המאמר הנוכחי היא מסגור המקרה כהדרה דמוקרטית וכפער בין שוויון מוצהר להכללה ממשית, ולא בעיקר כבעיית פרקטיקה בעבודה סוציאלית מבוססת זכויות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_left_right_identity_political_tolerance_israel_summary_he",
+      "file": "democracy_left_right_identity_political_tolerance_israel_summary_he.html",
+      "permalink": "/democracy_left_right_identity_political_tolerance_israel_summary_he.html",
+      "sortKey": 202607130008,
+      "titleHe": "זהות ימין־שמאל וסובלנות פוליטית: קיטוב סביב חירויות אזרחיות בישראל",
+      "paperTitle": "Left-Right Social Identity and the Polarization of Political Tolerance",
+      "authorsCardHe": "Mark Peffley, Omer Yair, Marc L. Hutchison",
+      "sourceAuthors": [
+        "Mark Peffley",
+        "Omer Yair",
+        "Marc L. Hutchison"
+      ],
+      "journal": "Political Research Quarterly, 77(1), 30–44",
+      "dateText": "פורסם ברשת: 20.07.2023",
+      "doiUrl": "https://doi.org/10.1177/10659129231189759",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_left_right_identity_political_tolerance_israel_summary_he.jpg",
+        "altHe": "שני מחנות פוליטיים ניצבים משני צדי מרחב ציבורי שבו נבחנת ההגנה על חירויות אזרחיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "המאמר מנתח סקר פאנל מקוון דו־גלי של אזרחים יהודים בישראל שנערך ביוני וביולי 2018. בגל הראשון, לאחר הוצאת המרכז הפוליטי מן הניתוח, הזדהות ימנית חזקה יותר נקשרה לפחות סובלנות כלפי הקבוצה הפחות־אהודה וכלפי אזרחים ערבים, ואילו הזדהות שמאלית חזקה יותר נקשרה ליותר סובלנות בשניים משלושת המדדים. בגל השני, ניסוי איום מצא שבתנאי פיגועים קטלניים מזוהים־פלסטיניים או מיוחסים לאזרחים ערבים, ימנים בעלי זהות חזקה נטו יותר לתמוך בצעדי דיכוי, בעוד שמאלנים בעלי זהות חזקה שמרו על התנגדות גבוהה יותר; שמאלנים בעלי זהות חלשה נעו לעבר תמיכה בדיכוי. המסקנה אינה שזהות פוליטית תמיד פוגעת בדמוקרטיה, אלא שתוכנה הנורמטיבי של הזהות קובע אם חיבור חזק למחנה יעודד שלילת זכויות או יגן על חירויות אזרחיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_culturally_sensitive_support_bedouin_war_widows_summary_he",
+      "file": "democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.html",
+      "permalink": "/democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.html",
+      "sortKey": 202607130007,
+      "titleHe": "זכויות על הנייר, הדרה בשירות: התמיכה באלמנות מלחמה בדואיות",
+      "paperTitle": "The Israeli Selective Myopia and the Missing Culturally Sensitive Support for Bedouin IDF War Widows",
+      "authorsCardHe": "Ya’arit Bokek-Cohen, Smadar Ben-Asher",
+      "sourceAuthors": [
+        "Ya’arit Bokek-Cohen",
+        "Smadar Ben-Asher"
+      ],
+      "journal": "Journal of Human Rights and Social Work, 3(1), 17–28",
+      "dateText": "פורסם ברשת: 25.11.2017",
+      "doiUrl": "https://doi.org/10.1007/s41134-017-0045-0",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.jpg",
+        "altHe": "אישה בדואית בלכיה מציגה מלאכת אריגה לקבוצה במרחב קהילתי בנגב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "המחקר מנתח ראיונות עומק עם שבע אלמנות בדואיות של חללי צה״ל, בנות 34–60, ומזהה ארבעה מוקדי פגיעה: כשלים במסירת הודעת המוות, שלילת בחירה ממשית בטקס הקבורה, יחס אמביוולנטי לתמיכת הרשויות, והדרה ופיקוח מצד המשפחה והקהילה. אף שהאלמנות זכאיות רשמית לקצבאות, לדיור, לרכב, להכשרה ולטיפול, חלק מן ההטבות אינן נגישות בתוך תנאי החיים, הנורמות והמיקום הגאוגרפי שלהן. המאמר ממסגר את הפער כהפרת זכויות וכאתגר לעבודה סוציאלית מבוססת זכויות, ומציע שותפות עם הנהגה מקומית, יחידה ייעודית במשרד הביטחון והמרת הטבות שאינן ניתנות למימוש. חשוב: מאמר זה והמאמר ״הדרה כפולה של אלמנות מלחמה בדואיות״ משתמשים באותם שבעה ראיונות, ולכן אינם שני אישושים אמפיריים בלתי־תלויים; ייחודו של מאמר זה הוא מסגרת העבודה הסוציאלית מבוססת הזכויות והדגש על שירות מותאם תרבותית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he",
+      "file": "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.html",
+      "permalink": "/democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.html",
+      "sortKey": 202607130006,
+      "titleHe": "פערים באיתור אלימות זוגית במערכת הבריאות: מדיניות שוויונית שאינה מיושמת במלואה",
+      "paperTitle": "Screening and receiving information for intimate partner violence in healthcare settings: a cross-sectional study of Arab and Jewish women of childbearing age in Israel",
+      "authorsCardHe": "Nihaya Daoud; Alexandra Berger-Polsky; Ruslan Sergienko; Patricia O’Campo; Rebecca Leff; Ilana Shoham-Vardi",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Alexandra Berger-Polsky",
+        "Ruslan Sergienko",
+        "Patricia O’Campo",
+        "Rebecca Leff",
+        "Ilana Shoham-Vardi"
+      ],
+      "journal": "BMJ Open, 9(2), e022996",
+      "dateText": "פורסם: 2019",
+      "doiUrl": "https://doi.org/10.1136/bmjopen-2018-022996",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.jpg",
+        "altHe": "אשת צוות רפואי משוחחת בפרטיות עם מטופלת במרפאת אם וילד ומציגה מידע על תמיכה באלימות זוגית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "דאוד ועמיתיה בוחנים אם נשים בגיל הפריון בישראל נשאלו במערכת הבריאות על אלימות מצד בן זוג, קיבלו מידע על שירותי סיוע, או קיבלו את שניהם. במדגם מרובד של 1,401 נשים ב־63 מרפאות אם וילד, 48.4% דיווחו שנשאלו אי פעם, 50.5% קיבלו מידע ורק 30.4% קיבלו גם סינון וגם מידע. עצם החוויה של אלימות לא נקשרה לסיכוי גבוה יותר לקבל את שני השירותים; נשים שהמחקר מזהה כבעלות סיכון גבוה יותר — ובהן נשים ערביות, בעלות השכלה נמוכה ונשים שאינן נשואות — נטו דווקא לקבל פחות מהם. נמצאו גם הבדלים בין מחוזות משרד הבריאות, המצביעים על יישום לא־אחיד. מאחר שהמדיניות בישראל מחייבת סינון ומסירת מידע, הממצאים מתארים פער בין כלל אוניברסלי לבין היישום בפועל וקוראים להבהרת ההנחיות ולתמיכה מערכתית באנשי המקצוע.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_human_rights_ngos_collective_memory_denial_israel_summary_he",
+      "file": "democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.html",
+      "permalink": "/democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.html",
+      "sortKey": 202607130005,
+      "titleHe": "ארגוני זכויות אדם, זיכרון הנכבה והגבולות של ניטרליות אזרחית",
+      "paperTitle": "Human Rights NGOs in Israel: Collective Memory and Denial",
+      "authorsCardHe": "Zvika Orr, Daphna Golan",
+      "sourceAuthors": [
+        "Zvika Orr",
+        "Daphna Golan"
+      ],
+      "journal": "The International Journal of Human Rights, 18(1), 68–93",
+      "dateText": "פורסם ברשת: 13.02.2014",
+      "doiUrl": "https://doi.org/10.1080/13642987.2013.871529",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.jpg",
+        "altHe": "ארכיון מסמכים של ארגון זכויות אדם לצד מפה ותצלומים העוסקים בזיכרון הנכבה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "המאמר מבוסס על מחקר אתנוגרפי רב־אתרי שנערך בשנים 2002–2013 בארבעה ארגוני זכויות אדם, וכלל ראיונות, שיחות, תצפיות וניתוח מסמכים. המחברים מוצאים כי הארגונים עוסקים בעוולות דחופות ובהגנת יחידים וקהילות, אך בדרך כלל נמנעים מדיון פומבי ב־1948, בפליטים ובזכות השיבה. הם מזהים שישה מנגנונים מרכזיים להימנעות, ובהם דחיפות ההווה, אוריינטציה משפטית, העדפת זכויות הפרט, חלוקת עבודה עם ארגונים אחרים ושאיפה לניטרליות מקצועית. הטענה המסכמת היא שהימנעות מדיון — בלי קשר לעמדה שהארגון היה מגבש בסופו — מצמצמת את יכולתו להבין את שורשי הפגיעה, לבנות אמון ולהשתתף בעתיד בתהליכי צדק ופיוס.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he",
+      "file": "democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.html",
+      "permalink": "/democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.html",
+      "sortKey": 202607130004,
+      "titleHe": "הפרדה מרחבית, אלימות וחרדה: אי־שוויון בין נשים ערביות ליהודיות סביב לידה",
+      "paperTitle": "Residential segregation, neighborhood violence and disorder, and inequalities in anxiety among Jewish and Palestinian-Arab perinatal women in Israel",
+      "authorsCardHe": "Nihaya Daoud; Samira Alfayumi-Zeadna; Aviad Tur-Sinai; Nabil Geraisy; Ilan Talmud",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Samira Alfayumi-Zeadna",
+        "Aviad Tur-Sinai",
+        "Nabil Geraisy",
+        "Ilan Talmud"
+      ],
+      "journal": "International Journal for Equity in Health, 19, 218",
+      "dateText": "פורסם: 2020",
+      "doiUrl": "https://doi.org/10.1186/s12939-020-01339-5",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.jpg",
+        "altHe": "שתי נשים סביב לידה בשכונות מופרדות מביטות במפה המחברת בין אלימות, לכידות חברתית, אפליה וחרדה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "דאוד ועמיתיה משלבים סקר של 1,401 נשים הרות או עד חצי שנה לאחר לידה עם נתוני המעמד החברתי־כלכלי של שכונות מגוריהן. נשים ערביות־פלסטיניות דיווחו על חרדה בשיעור גבוה יותר מנשים יהודיות, 60.5% לעומת 42.1%, ועל חומרה גבוהה של אלימות ואי־סדר בשכונה בשיעור 49.5% לעומת 16.2%. לאחר התאמה למאפייני הפרט והשכונה נותר פער בחרדה בין הקבוצות, אך הקשר הישיר בין אלימות ואי־סדר לחרדה היה מורכב: הוא נמצא ברמה נמוכה לעומת היעדר בעיות בכלל המדגם ובקרב יהודיות, ולא נותר מובהק אצל ערביות־פלסטיניות במודל הסופי. לכידות חברתית בשכונה ותמיכה חברתית הגנו בשתי הקבוצות, ואילו אפליה מצרפית בשכונה הייתה גורם סיכון רק בקרב ערביות־פלסטיניות. החוקרים מפרשים את מכלול הדפוסים כמנגנונים שכונתיים של הפרדה מרחבית, אך עיצוב המחקר החתכי אינו מוכיח סיבתיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he",
+      "file": "democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.html",
+      "permalink": "/democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.html",
+      "sortKey": 202607130003,
+      "titleHe": "תקשורת בריאות אמינה בזמן משבר: התאמת המסר לחברה החרדית והערבית",
+      "paperTitle": "Effective Ways to Encourage Health-Care Practices among Cultural Minorities in Israel during the COVID-19 Pandemic",
+      "authorsCardHe": "Tehila Kalagy; Sarah Abu-Kaf; Orna Braun-Lewensohn",
+      "sourceAuthors": [
+        "Tehila Kalagy",
+        "Sarah Abu-Kaf",
+        "Orna Braun-Lewensohn"
+      ],
+      "journal": "International Journal of Environmental Research and Public Health, 18(18), 9563",
+      "dateText": "פורסם: 2021",
+      "doiUrl": "https://doi.org/10.3390/ijerph18189563",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.jpg",
+        "altHe": "רופאה בקהילה מעניקה טיפול לאישה בנוכחות נשים נוספות, כמפגש בריאות הנשען על אמון ונגישות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "קלגי, אבו־כף ובראון־לוינסון בחנו כיצד להעביר מסרי בריאות בזמן משבר לשתי אוכלוסיות מיעוט בישראל: החברה החרדית והחברה הערבית. 678 משתתפים מילאו שאלון מקוון בתחילת אפריל 2020 ודירגו ממי יעדיפו לשמוע, איזה תוכן יניע אותם, באיזה ערוץ ובאיזה מועד. בשתי הקבוצות מומחים רפואיים קיבלו אמון גבוה, אך אצל המשתתפים החרדים בלטה במיוחד סמכות דתית ואילו אצל הערבים בלטו רופאים מומחים ורופאי משפחה; מסר על הסיכון להורים ולקשישים במשפחה היה משכנע יותר ממסר על סיכון אישי. גם הערוצים נבדלו: כלים קהילתיים מסורתיים התאימו יותר לחרדים, בעוד רדיו וטלוויזיה התאימו יותר לערבים. המאמר מסיק שהתאמה תרבותית אינה נוסחה אחידה לקבוצות מסורתיות, אלא שותפות עם גורמי אמון ובחירת תוכן וערוץ על בסיס הקהילה המסוימת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he",
+      "file": "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.html",
+      "permalink": "/democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.html",
+      "sortKey": 202607130002,
+      "titleHe": "הכשרת מורים בדואים ודיאלוג רב־תרבותי: זהות לפני שילוב",
+      "paperTitle": "Promoting a True Pluralistic Dialogue: A Particularistic Multicultural Teacher Accreditation Program for Israeli Bedouins",
+      "authorsCardHe": "Roni Reingold",
+      "sourceAuthors": [
+        "Roni Reingold"
+      ],
+      "journal": "International Journal of Multicultural Education, 9(1), 1–14",
+      "dateText": "פורסם: 2007",
+      "doiUrl": "https://doi.org/10.18251/ijme.v9i1.6",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.jpg",
+        "altHe": "סטודנטיות וסטודנטים בדואים להכשרת הוראה לומדים על מורשתם לפני מפגש דיון משותף עם עמיתים יהודים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "ריינגולד בוחן תוכנית הסמכה להוראה במכללת אחוה, שבה סטודנטים בדואים למדו בשלוש השנים הראשונות במסגרת נפרדת ובשנה הרביעית לצד סטודנטים יהודים. ניתוח מסמכים ו־15 ראיונות הצביעו על פער בין הצהרת התוכנית, שהבטיחה דגש נרחב על מורשת בדואית, אסלאם ורב־תרבותיות, לבין יישום מצומצם יותר בפועל. למרות הפערים, מרבית הסטודנטים תיארו חוויה חיובית, צבירת ביטחון ושאיפות לימוד גבוהות יותר; שני בוגרים שלמדו בשנה המשולבת דיווחו שהידע והביטחון סייעו להם להשתתף בדיון עם סטודנטים יהודים. זהו דוח ראשוני המבוסס על מדגם קטן ועל היכרות מוקדמת של החוקר עם המשתתפים, ולכן הוא מציע תמיכה זהירה — לא הוכחה סיבתית — ברעיון של העצמה זהותית לפני מפגש בין קבוצות בעלות כוח לא־שוויוני.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he",
+      "file": "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.html",
+      "permalink": "/democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.html",
+      "sortKey": 202607130001,
+      "titleHe": "עניין במדע במרחב מקוון במזרח התיכון: מגדר, תרבות ופער דיגיטלי",
+      "paperTitle": "Gender Dependency and Cultural Independency of Science Interest in an Open and Distant Science Learning Environment",
+      "authorsCardHe": "Ayelet Baram-Tsabari; Alaa Kaadni",
+      "sourceAuthors": [
+        "Ayelet Baram-Tsabari",
+        "Alaa Kaadni"
+      ],
+      "journal": "International Review of Research in Open and Distance Learning, 10(2), 1–22",
+      "dateText": "פורסם: 2009",
+      "doiUrl": "https://doi.org/10.19173/irrodl.v10i2.591",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.jpg",
+        "altHe": "תלמידות ותלמידים מן המזרח התיכון שולחים שאלות מדע במחשבים וממיינים יחד נושאי ביולוגיה, פיזיקה וטכנולוגיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-07-13",
+      "summaryHe": "ברעם־צברי וכעדני מנתחות 1,102 שאלות מדע שהגישו תלמידים, סטודנטים, בוגרים ומורים מישראל וממדינות אחרות במזרח התיכון לאתר MadSci Network. תחומי העניין השתנו לפי מגדר וגיל: בנים וגברים נטו יותר לפיזיקה ולטכנולוגיה, בנות ונשים לביולוגיה, ועם הגיל נרשמה תנועה מביולוגיה לטכנולוגיה ומסביבה קרובה לנושאים רחוקים יותר. לעומת זאת, לא נמצאו הבדלים מובהקים בין שאלות מישראל לשאלות ממדינות ערביות ומזרח־תיכוניות במדדים שנבדקו, ורק אחוז אחד מן השאלות כלל הקשר מקומי או דתי. המחברות מדגישות שאין להסיק מכך שהתרבות אינה חשובה: מדגם של בעלי גישה לאינטרנט ויכולת סבירה באנגלית עלול לייצג שכבה מצומצמת, ולכן הדמיון עשוי לנבוע גם מן הפער הדיגיטלי.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_mixed_and_worried_arab_citizens_israel_summary_he",
       "file": "democracy_mixed_and_worried_arab_citizens_israel_summary_he.html",

@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "sampleSize": 6,
-  "seed": "2026-07-12-homepage-high-fit",
+  "seed": "2026-07-13-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 623,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_political_communication_mandate_elections_summary_he",
-    "democracy_political_grief_and_ambiguous_loss_in_a_threatened_democracy_psychological_distress_and_civic_responses_duri_summary_he",
-    "democracy_political_representation_municipal_service_satisfaction_summary_he",
-    "democracy_geopolitics_environmental_issues_geography_education_france_israel_summary_he",
-    "democracy_prolonged_social_crisis_resilience_coping_indicators_summary_he",
-    "democracy_people_making_indias_constitution_summary_he"
+    "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he",
+    "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he",
+    "democracy_left_right_identity_political_tolerance_israel_summary_he",
+    "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he",
+    "democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he",
+    "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -24623,6 +24623,261 @@
       "createdDate": "2026-07-05",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.html",
+      "usedBy": [
+        "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he.html"
+      ],
+      "cardTitleHe": "עניין במדע במרחב מקוון במזרח התיכון: מגדר, תרבות ופער דיגיטלי",
+      "authorsHe": "Ayelet Baram-Tsabari; Alaa Kaadni",
+      "visualDescriptionHe": "תלמידה ותלמיד חוקרים אסטרונומיה וביולוגיה במחשבים לצד מורה בחדר מדעים אזורי",
+      "semanticDescriptionHe": "המאמר בוחן הבדלי מגדר ותרבות בשאלות מדע מקוונות במזרח התיכון ואת הגבולות שמציב הפער הדיגיטלי לפרשנות השוואתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "science_interest_gender_culture_online_learning"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.html",
+      "usedBy": [
+        "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he.html"
+      ],
+      "cardTitleHe": "הכשרת מורים בדואים ודיאלוג רב־תרבותי: זהות לפני שילוב",
+      "authorsHe": "Roni Reingold",
+      "visualDescriptionHe": "סטודנטיות וסטודנטים בדואים יושבים במעגל סמינרי עם מרצה יהודייה ומשוחחים כשווים",
+      "semanticDescriptionHe": "המאמר מעריך תוכנית הכשרה נפרדת ולאחריה שילוב, שנועדה לחזק זהות וביטחון לפני דיאלוג רב־תרבותי בתנאי אי־שוויון.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "pluralistic_dialogue_bedouin_teacher_accreditation"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.html",
+      "usedBy": [
+        "democracy_trusted_health_communication_cultural_minorities_covid_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תקשורת בריאות אמינה בזמן משבר: התאמת המסר לחברה החרדית והערבית",
+      "authorsHe": "Tehila Kalagy; Sarah Abu-Kaf; Orna Braun-Lewensohn",
+      "visualDescriptionHe": "רופאה בקהילה מעניקה טיפול לאישה בנוכחות נשים נוספות במסגרת שירות בריאות נגיש",
+      "semanticDescriptionHe": "המאמר משווה בין שליחים, תכנים וערוצי תקשורת בריאות מועדפים בחברה החרדית ובחברה הערבית בראשית מגפת הקורונה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "trusted_health_communication_cultural_minorities"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Wikimedia Commons photograph center-cropped and resized to 800x600; no visible logo or readable text in the published crop.",
+      "createdDate": "2026-07-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_DFID_-_A_female_doctor_with_the_International_Medical_Corps_examines_a_woman_patient_at_a_mobile_health_clinic_in_Pakistan.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flickr_-_DFID_-_A_female_doctor_with_the_International_Medical_Corps_examines_a_woman_patient_at_a_mobile_health_clinic_in_Pakistan.jpg",
+      "license": "CC BY 2.0",
+      "creator": "DFID - UK Department for International Development",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.html",
+      "usedBy": [
+        "democracy_residential_segregation_anxiety_perinatal_women_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הפרדה מרחבית, אלימות וחרדה סביב לידה",
+      "authorsHe": "Nihaya Daoud; Samira Alfayumi-Zeadna; Aviad Tur-Sinai; Nabil Geraisy; Ilan Talmud",
+      "visualDescriptionHe": "שתי נשים סביב לידה משוחחות עם אשת צוות במרפאה הצופה אל שכונה עירונית צפופה",
+      "semanticDescriptionHe": "המאמר קושר בין הפרדה מרחבית, אלימות ואי־סדר בשכונה לבין פערי חרדה בין נשים ערביות ליהודיות סביב היריון ולידה.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "residential_segregation_anxiety_perinatal_women"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_ngos_collective_memory_denial_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ארגוני זכויות אדם, זיכרון הנכבה והגבולות של ניטרליות אזרחית",
+      "authorsHe": "Zvika Orr; Daphna Golan",
+      "visualDescriptionHe": "חוקרי זכויות אדם יהודים ופלסטינים בוחנים מפות, תצלומים ותיקי עדויות בארכיון אזרחי",
+      "semanticDescriptionHe": "המאמר מנתח כיצד ארגוני זכויות אדם מאתגרים הפרות בהווה אך עשויים לשחזר שתיקה בנוגע ל־1948, לפליטים ולזיכרון קולקטיבי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "human_rights_ngos_collective_memory_denial"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.html",
+      "usedBy": [
+        "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פערים באיתור אלימות זוגית במערכת הבריאות",
+      "authorsHe": "Nihaya Daoud; Alexandra Berger-Polsky; Ruslan Sergienko; Patricia O’Campo; Rebecca Leff; Ilana Shoham-Vardi",
+      "visualDescriptionHe": "אשת צוות רפואי משוחחת בפרטיות עם מטופלת ומגישה לה כרטיס מידע במרפאת אם וילד",
+      "semanticDescriptionHe": "המאמר בוחן מי נשאלה על אלימות זוגית ומי קיבלה מידע על סיוע, ומזהה פערי יישום בין נשים וקבוצות סיכון.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "intimate_partner_violence_screening_healthcare"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.html",
+      "usedBy": [
+        "democracy_culturally_sensitive_support_bedouin_war_widows_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות על הנייר, הדרה בשירות: התמיכה באלמנות מלחמה בדואיות",
+      "authorsHe": "Ya’arit Bokek-Cohen; Smadar Ben-Asher",
+      "visualDescriptionHe": "אישה בדואית בלכיה מציגה מלאכת אריגה לקבוצה במרחב קהילתי בנגב",
+      "semanticDescriptionHe": "המאמר מראה כיצד הטבות אוניברסליות עלולות להישאר בלתי נגישות לאלמנות בדואיות כאשר השירות אינו מותאם לתנאי חיים, תרבות ומרחב.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "culturally_sensitive_support_bedouin_war_widows"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Wikimedia Commons photograph center-cropped and resized to 800x600; documentary image of the Negev Weaving project in Lakiya.",
+      "createdDate": "2026-07-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_33665_Negev_Weaving_in_Lakiya.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/PikiWiki_Israel_33665_Negev_Weaving_in_Lakiya.JPG",
+      "license": "CC BY 2.5",
+      "creator": "Dr. Avishai Teicher",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_left_right_identity_political_tolerance_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_left_right_identity_political_tolerance_israel_summary_he.html",
+      "usedBy": [
+        "democracy_left_right_identity_political_tolerance_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות ימין־שמאל וסובלנות פוליטית סביב חירויות אזרחיות",
+      "authorsHe": "Mark Peffley; Omer Yair; Marc L. Hutchison",
+      "visualDescriptionHe": "אישה ערבייה נושאת דברים במפגש אזרחי מול קהל יהודי מגוון ודרוך",
+      "semanticDescriptionHe": "המאמר בוחן כיצד עוצמת זהות ימין ושמאל קשורה להגנה על חירויות של קבוצות לא אהודות ושל אזרחים ערבים, גם תחת איום ביטחוני.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "left_right_identity_political_tolerance"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_double_exclusion_bedouin_war_widows_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_double_exclusion_bedouin_war_widows_summary_he.html",
+      "usedBy": [
+        "democracy_double_exclusion_bedouin_war_widows_summary_he.html"
+      ],
+      "cardTitleHe": "הדרה כפולה של אלמנות מלחמה בדואיות: מגדר, מיעוט ושירותי רווחה",
+      "authorsHe": "Ya’arit Bokek-Cohen; Smadar Ben-Asher",
+      "visualDescriptionHe": "אישה בדואית בלכיה עובדת בנול אריגה כחלק מיוזמה קהילתית של נשים בנגב",
+      "semanticDescriptionHe": "המאמר ממסגר את חוויותיהן של שבע אלמנות בדואיות כהדרה דמוקרטית הנוצרת בין שירותי מדינה אחידים לבין פיקוח והדרה קהילתיים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "double_exclusion_bedouin_war_widows"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Wikimedia Commons photograph center-cropped and resized to 800x600; documentary image of the Negev Weaving project in Lakiya.",
+      "createdDate": "2026-07-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lakiya_Negev_Weaving.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lakiya_Negev_Weaving.JPG",
+      "license": "CC BY-SA 3.0",
+      "creator": "Dr. Avishai Teicher",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.html",
+      "usedBy": [
+        "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אמת, צדק ותקווה: לקחים מתהליך הפיוס בדרום אפריקה לישראל",
+      "authorsHe": "Daphna Golan-Agnon",
+      "visualDescriptionHe": "עד מבוגר מוסר עדות במעגל הקשבה מגוון, ולצדו כיסא ריק בחדר אזרחי",
+      "semanticDescriptionHe": "המאמר שואל אילו לקחים אפשר להפיק מוועדת האמת והפיוס בדרום אפריקה, תוך הדגשת התנאים הפוליטיים וההבדלים שמגבילים את ההשוואה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "truth_reconciliation_south_africa_lessons_israel"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated editorial image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-13 nightly heartbeat",
       "license": "Generated site asset"
     },
     {
