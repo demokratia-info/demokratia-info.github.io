@@ -46,10 +46,10 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-link:f
   outline-offset: 3px;
 }
 
-.logo-wrap { display: block; width: min(529px, 100%); margin: 0 auto 24px; }
+.logo-wrap { display: block; width: min(833px, 100%); margin: 0 auto 24px; }
 .logo-link { display: block; color: inherit; text-decoration: none; }
 .logo-placeholder {
-  aspect-ratio: 529 / 89;
+  aspect-ratio: 1666 / 264;
   min-height: 64px;
   border: 1px solid var(--line);
   border-radius: 6px;
