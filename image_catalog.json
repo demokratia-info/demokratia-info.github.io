@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-14",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -25311,6 +25311,257 @@
       "createdDate": "2026-07-12",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-12 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_druze_women_identity_transitions_bridges_gaps_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_druze_women_identity_transitions_bridges_gaps_summary_he.html",
+      "usedBy": [
+        "democracy_druze_women_identity_transitions_bridges_gaps_summary_he.html"
+      ],
+      "cardTitleHe": "בין שני עולמות: מעברי הזהות של נשים דרוזיות פורצות דרך",
+      "authorsHe": "Naomi Weiner-Levy",
+      "visualDescriptionHe": "שלוש נשים דרוזיות בלבוש מסורתי הולכות יחד ברחוב ביישוב כסרא",
+      "semanticDescriptionHe": "המאמר עוסק במעברי זהות בקרב נשים דרוזיות שהיו מן הראשונות בקהילותיהן ללמוד באוניברסיטה ובמתח בין ציפיות הקולקטיב לשאיפות אישיות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "druze_women_identity_transitions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a Wikimedia Commons photograph; attribution, source, and license retained.",
+      "createdDate": "2026-07-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:127443_kisra_-_druze_women_in_traditional_dress_PikiWiki_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/127443_kisra_-_druze_women_in_traditional_dress_PikiWiki_Israel.jpg",
+      "license": "CC BY 2.5",
+      "creator": "שלמה רודד",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_bilingual_education_language_practices_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bilingual_education_language_practices_israel_summary_he.html",
+      "usedBy": [
+        "democracy_bilingual_education_language_practices_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שתי שפות, כוח לא שווה: מה באמת קורה בבתי ספר עבריים־ערביים?",
+      "authorsHe": "Muhammed Amara; Faisal Azaiza; Rachel Hertz-Lazarowitz; Aura Mor-Sommerfeld",
+      "visualDescriptionHe": "שתי מורות יהודייה וערבייה מנחות יחד פעילות בכיתה משותפת",
+      "semanticDescriptionHe": "המאמר בוחן את הפער בין מדיניות דו־לשונית שוויונית לבין פרקטיקות השפה בשלושה בתי ספר עבריים־ערביים בישראל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "bilingual_education_language_practices"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_covid_minority_stress_lgb_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_minority_stress_lgb_israel_summary_he.html",
+      "usedBy": [
+        "democracy_covid_minority_stress_lgb_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כשסגר פוגש לחץ מיעוט: בריאות הנפש של לה״בים בישראל בקורונה",
+      "authorsHe": "Lior Oren",
+      "visualDescriptionHe": "זוג גברים בבית בתקופת הסגר, כשאחד מקבל תמיכה במהלך שיחת וידאו עם יועצת",
+      "semanticDescriptionHe": "המאמר בוחן כיצד לחץ מיעוט ולחץ הקשור לקורונה נקשרו לחרדה ולדיכאון בקרב לסביות, הומואים וביסקסואלים בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "covid_minority_stress_lgb_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_internal_displacement_health_palestinian_minority_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_internal_displacement_health_palestinian_minority_israel_summary_he.html",
+      "usedBy": [
+        "democracy_internal_displacement_health_palestinian_minority_israel_summary_he.html"
+      ],
+      "cardTitleHe": "עקירה שנשארת בגוף: בריאותם של עקורים פנימיים פלסטינים בישראל",
+      "authorsHe": "Nihaya Daoud; Ketan Shankardass; Patricia O’Campo; Kim Anderson; Ayman K. Agbaria",
+      "visualDescriptionHe": "הכנסייה הקתולית ביישוב ההרוס איקרית, סביבה ירוקה ושרידי אבן",
+      "semanticDescriptionHe": "המאמר בוחן את הקשר בין עקירה פנימית בעקבות הנכבה לבין בריאות עצמית בקרב המיעוט הפלסטיני בישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "internal_displacement_health_palestinian_minority"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a Wikimedia Commons photograph; attribution, source, and license retained.",
+      "createdDate": "2026-07-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Iqrit-church-648.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Iqrit-church-648.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Bukvoed",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_power_relations_jewish_arab_encounters_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_power_relations_jewish_arab_encounters_israel_summary_he.html",
+      "usedBy": [
+        "democracy_power_relations_jewish_arab_encounters_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מי מגדיר על מה מדברים? יחסי כוח במפגשי מורים יהודים־ערבים",
+      "authorsHe": "Ifat Maoz",
+      "visualDescriptionHe": "קבוצת מורים יהודים וערבים סביב שולחן סדנה, בעוד מורה ערבייה מובילה את השיחה",
+      "semanticDescriptionHe": "המאמר מנתח יחסי כוח במפגשי מורים יהודים־ערבים ומראה כיצד השליטה בסדר היום משתנה בין נושאים מקצועיים לנושאי הסכסוך.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "power_relations_jewish_arab_encounters"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_arab_youth_social_bonds_delinquency_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_youth_social_bonds_delinquency_israel_summary_he.html",
+      "usedBy": [
+        "democracy_arab_youth_social_bonds_delinquency_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מעורבות בני נוער ערבים בהתנהגויות עברייניות: בחינה איכותנית של תאוריית הקשר החברתי",
+      "authorsHe": "Mona Khoury-Kassabri; Edith Blit-Cohen; Mimi Ajzenstadt; Lana J. Jeries-Loulou",
+      "visualDescriptionHe": "מדריך משוחח עם נער בחדר קהילתי חם, כשאשת צוות וצעירים נוספים ברקע",
+      "semanticDescriptionHe": "המאמר בוחן בראיונות כיצד קשרים למשפחה, לבית הספר, לקהילה ולמוסדות החוק משתלבים במעורבות של נערים ערבים בהתנהגות עבריינית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "arab_youth_social_bonds_delinquency"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_israel_local_government_map_boundaries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_local_government_map_boundaries_summary_he.html",
+      "usedBy": [
+        "democracy_israel_local_government_map_boundaries_summary_he.html"
+      ],
+      "cardTitleHe": "מי מצייר את מפת השלטון המקומי — השר, בג״ץ או התושבים?",
+      "authorsHe": "Eran Razin; Anna Hazan",
+      "visualDescriptionHe": "מבט אווירי על תל אביב ומטרופולין גוש דן, ובו שכונות, צירי תחבורה ורצף עירוני",
+      "semanticDescriptionHe": "המאמר עוסק בשינוי גבולות מוניציפליים בישראל ובמשקלם המשתנה של השר, ועדות גבולות, בית המשפט והציבור המקומי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "israel_local_government_map_boundaries"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a Wikimedia Commons photograph; attribution, source, and license retained.",
+      "createdDate": "2026-07-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2016.07.11_Tel_Aviv_from_the_Air_07040.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2016.07.11_Tel_Aviv_from_the_Air_07040.jpg",
+      "license": "CC BY-SA 2.0",
+      "creator": "tedeytan",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_remote_learning_palestinian_arab_women_periphery_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_remote_learning_palestinian_arab_women_periphery_summary_he.html",
+      "usedBy": [
+        "democracy_remote_learning_palestinian_arab_women_periphery_summary_he.html"
+      ],
+      "cardTitleHe": "בלי חדר משלהן: למידה מרחוק והעמקת אי־השוויון בקרב סטודנטיות פלסטיניות־ערביות",
+      "authorsHe": "Tal Meler",
+      "visualDescriptionHe": "סטודנטית צעירה לומדת במחשב נייד בפינת אוכל משותפת בבית עמוס בפעילות משפחתית",
+      "semanticDescriptionHe": "המאמר בוחן את הקשיים של סטודנטיות פלסטיניות־ערביות בלמידה מרחוק בתקופת הקורונה, על רקע פערי מגדר, מעמד ופריפריה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "remote_learning_palestinian_arab_women"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.html",
+      "usedBy": [
+        "democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.html"
+      ],
+      "cardTitleHe": "ללמד את שפת ״האויב״ כשפה של מפגש: מורים ערבים בבתי ספר יהודיים",
+      "authorsHe": "Najwan Saada; Zehavit Gross",
+      "visualDescriptionHe": "מורה ערבייה מנחה דיון בכיתה של תלמידים יהודים בחדר לימוד מודרני",
+      "semanticDescriptionHe": "המאמר מנתח את חוויותיהם של מורים ערבים המלמדים ערבית ותרבות בבתי ספר יהודיים, בין זהות מקצועית לזהות פלסטינית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "arab_teachers_jewish_schools"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.html",
+      "usedBy": [
+        "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.html"
+      ],
+      "cardTitleHe": "(דה)לגיטימציה של זכויות הרווחה של אימהות יחידניות בארצות הברית, בריטניה וישראל",
+      "authorsHe": "Anat Herbst-Debby",
+      "visualDescriptionHe": "אם בוחנת טפסים ותקציב לצד שלוש תיקיות צבעוניות, בעוד בתה מציירת לצדה",
+      "semanticDescriptionHe": "המאמר משווה כיצד שיח, מדיניות ואידאולוגיה ניאו־ליברלית עיצבו את הלגיטימציה של זכויות רווחה לאימהות יחידניות בארצות הברית, בבריטניה ובישראל.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "single_mothers_welfare_rights"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape generated article image, no readable text, no logos, no watermark.",
+      "createdDate": "2026-07-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-14 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1012,
+  "paperCount": 1022,
   "papers": [
+    {
+      "slug": "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he",
+      "file": "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.html",
+      "permalink": "/democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.html",
+      "sortKey": 202607140010,
+      "titleHe": "(דה)לגיטימציה של זכויות הרווחה של אימהות יחידניות בארצות הברית, בריטניה וישראל",
+      "paperTitle": "(De)legitimization of single mothers’ welfare rights: United States, Britain and Israel",
+      "authorsCardHe": "Anat Herbst-Debby",
+      "sourceAuthors": [
+        "Anat Herbst-Debby"
+      ],
+      "journal": "Journal of European Social Policy",
+      "dateText": "פורסם אונליין: 11.02.2022; כרך 32(3), עמ׳ 302–316, יולי 2022",
+      "doiUrl": "https://doi.org/10.1177/09589287221076743",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.jpg",
+        "altHe": "שלוש תיקיות מדיניות רווחה לצד דמות אם וילד, כמטפורה להשוואת זכויות בין ארצות הברית, בריטניה וישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "ענת הרבסט־דבי בוחנת את הקשר ההיסטורי בין אימהות יחידנית לבין מדיניות רווחה בארצות הברית, בבריטניה ובישראל משנות ה־70 ועד שנות ה־2000. לפי התקציר, בשלוש המדינות השתרשה והתרחבה אידאולוגיה ניאו־ליברלית במדיניות הרווחה ובשיח הציבורי, לצד חקיקה הנוגעת לאימהות יחידניות, אך הן נבדלות בהיסטוריה של התפתחות המדיניות ובאופן יישומה. המחקר מציב את ההתפתחות ואת הנסיגה של זכויות חברתיות לצד תפיסות תרבותיות והצטלבויות מוסדיות, כדי להבין כיצד נבנית דמותה הציבורית של האם היחידנית במשטר רווחה ניאו־ליברלי. הסיכום מבוסס על התקציר בלבד, ולכן אינו מייחס למאמר ממצאים מפורטים שאינם מופיעים בו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_teachers_jewish_schools_israel_experiences_summary_he",
+      "file": "democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.html",
+      "permalink": "/democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.html",
+      "sortKey": 202607140009,
+      "titleHe": "ללמד את שפת ״האויב״ כשפה של מפגש: מורים ערבים בבתי ספר יהודיים",
+      "paperTitle": "The experiences of Arab teachers in Jewish schools in Israel",
+      "authorsCardHe": "Najwan Saada; Zehavit Gross",
+      "sourceAuthors": [
+        "Najwan Saada",
+        "Zehavit Gross"
+      ],
+      "journal": "Teaching and Teacher Education",
+      "dateText": "פורסם: מרץ 2019; כרך 79, עמ׳ 198–207",
+      "doiUrl": "https://doi.org/10.1016/j.tate.2018.11.012",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_teachers_jewish_schools_israel_experiences_summary_he.jpg",
+        "altHe": "מורה חובשת כיסוי ראש משוחחת עם תלמידים בכיתה, כמטפורה להוראת שפה שהיא גם זירת סכסוך וגם אפשרות למפגש",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "נג׳ואן סעדה וזהבית גרוס מנתחים את חוויותיהם של עשרה מורים ערבים המלמדים ערבית ותרבות בבתי ספר יהודיים בישראל. המחקר מציג שני מוקדים הקשורים זה בזה: המתח בין ערבית כ״שפת האויב״ לבין הוראתה ככלי לבניית שלום, והמשא ומתן הנרטיבי של המורים בין זהותם המקצועית לבין זהותם הלאומית הפלסטינית. כל המשתתפים תפסו את עצמם כנציגים של המיעוט הערבי־פלסטיני וכמי שמבקשים לערער על סטריאוטיפים אתנוצנטריים שניזונים מן הסכסוך. הקשר האישי עשוי לשנות את היחס למורה כאדם, אך המאמר מזהיר שהאנשה של היחיד אינה מבטיחה שינוי בתפיסת הקבוצה הפלסטינית בכללותה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_remote_learning_palestinian_arab_women_periphery_summary_he",
+      "file": "democracy_remote_learning_palestinian_arab_women_periphery_summary_he.html",
+      "permalink": "/democracy_remote_learning_palestinian_arab_women_periphery_summary_he.html",
+      "sortKey": 202607140008,
+      "titleHe": "בלי חדר משלהן: למידה מרחוק והעמקת אי־השוויון בקרב סטודנטיות פלסטיניות־ערביות",
+      "paperTitle": "‘A room of one's own’: remote learning among Palestinian-Arab female students in the Israeli periphery following the COVID-19 crisis",
+      "authorsCardHe": "Tal Meler",
+      "sourceAuthors": [
+        "Tal Meler"
+      ],
+      "journal": "Gender and Education",
+      "dateText": "פורסם אונליין: 10 במאי 2021; בגיליון: 2022, כרך 34(3), עמ׳ 280–296",
+      "doiUrl": "https://doi.org/10.1080/09540253.2021.1924361",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_remote_learning_palestinian_arab_women_periphery_summary_he.jpg",
+        "altHe": "סטודנטית פלסטינית־ערבייה לומדת במחשב נייד בפינת בית משותפת לצד מחברות וחפצי משפחה ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "טל מלר מנתחת באופן איכותני את חוויותיהן של סטודנטיות פלסטיניות־ערביות במכללה בפריפריה לאחר שהלימודים עברו לבתי המשפחה במשבר הקורונה. לפי התקציר, המעבר חשף פערים שאינם מסתכמים בחיבור לרשת: לחלק מן הסטודנטיות לא היה חדר פרטי, הציוד היה משותף, והלימודים התחרו במטלות בית ובאחריות טיפולית. הבית חיזק לעיתים תפקידי מגדר מסורתיים והפך את ההשתתפות בשיעור ואת השלמת המטלות למאמץ מתמשך. המאמר קושר בין מגדר, זהות אתנו־לאומית, מעמד אזרחי ומיקום בפריפריה, ומזהיר מפגיעה ביכולת להתמיד ולהשלים תואר. התקציר הפתוח אינו מוסר את גודל המדגם ואת מלוא הליך האיסוף, ולכן הסיכום אינו מייחס למאמר נתוני מדגם שמופיעים בפרסום מאוחר ונפרד של החוקרת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israel_local_government_map_boundaries_summary_he",
+      "file": "democracy_israel_local_government_map_boundaries_summary_he.html",
+      "permalink": "/democracy_israel_local_government_map_boundaries_summary_he.html",
+      "sortKey": 202607140007,
+      "titleHe": "מי מצייר את מפת השלטון המקומי — השר, בג״ץ או התושבים?",
+      "paperTitle": "Redrawing Israel's local government map: political decisions, court rulings or popular determination",
+      "authorsCardHe": "Eran Razin; Anna Hazan",
+      "sourceAuthors": [
+        "Eran Razin",
+        "Anna Hazan"
+      ],
+      "journal": "Political Geography",
+      "dateText": "פורסם: מאי 2001; כרך 20(4), עמ׳ 513–533",
+      "doiUrl": "https://doi.org/10.1016/S0962-6298(01)00005-1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_local_government_map_boundaries_summary_he.jpg",
+        "altHe": "מבט אווירי על מרחב עירוני צפוף בישראל שבו כבישים, שכונות ושטחים ממחישים גבולות מוניציפליים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "ערן רזין ואנה חזן מנתחים את התפתחות ההליך לשינוי גבולות מוניציפליים בישראל מן שנות החמישים ועד סוף שנות התשעים. לפי התקציר ותצוגת המו״ל, הם סקרו ועדות גבולות, בחנו את פסיקות בג״ץ בנושא ועתירות נבחרות שלא הסתיימו בפסק דין, והתייחסו להצעות רפורמה. מספר ועדות הגבולות גדל מ־19 בשנים 1982–1989 ל־131 בשנים 1990–1999, על רקע מעבר ממערכת ריכוזית יותר למרחב מקומי פלורליסטי ותובעני. התערבות בתי המשפט הגבילה החלטות מרכזיות שלא עמדו בדרישות הליך, וחיזקה שקיפות, מקצועיות והגינות. עם זאת, המאמר מזהיר שאוטונומיה מקומית עשויה להתנגש בשוויון בין רשויות, ושפסיקות נקודתיות ובלתי יציבות אינן תחליף לכללים חקיקתיים ברורים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_arab_youth_social_bonds_delinquency_israel_summary_he",
+      "file": "democracy_arab_youth_social_bonds_delinquency_israel_summary_he.html",
+      "permalink": "/democracy_arab_youth_social_bonds_delinquency_israel_summary_he.html",
+      "sortKey": 202607140006,
+      "titleHe": "מעורבות בני נוער ערבים בהתנהגויות עברייניות: בחינה איכותנית של תאוריית הקשר החברתי",
+      "paperTitle": "Arab Youth Involvement in Delinquent Behaviors: Exploring Hirschi’s Social Bond Theory from a Qualitative Perspective",
+      "authorsCardHe": "Mona Khoury-Kassabri; Edith Blit-Cohen; Mimi Ajzenstadt; Lana J. Jeries-Loulou",
+      "sourceAuthors": [
+        "Mona Khoury-Kassabri",
+        "Edith Blit-Cohen",
+        "Mimi Ajzenstadt",
+        "Lana J. Jeries-Loulou"
+      ],
+      "journal": "Societies",
+      "dateText": "פורסם: 17.05.2023; כרך 13(5), מאמר 128",
+      "doiUrl": "https://doi.org/10.3390/soc13050128",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_youth_social_bonds_delinquency_israel_summary_he.jpg",
+        "altHe": "נער משוחח עם מדריך בחדר קהילתי כשאשת צוות ברקע, כמטפורה לקשרים חברתיים מגינים ולנגישות לפעילות מובנית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "מונה חורי־כסאברי, עדית בליט־כהן, מימי אייזנשטדט ולאנה ג׳רייס־לולו בוחנות את תאוריית הקשר החברתי של טרוויס הירשי באמצעות ראיונות עומק עם 15 נערים ערבים מוסלמים בני 16–19 מצפון ישראל שהיו מעורבים בעבירות קלות. ארבעת רכיבי התאוריה — היקשרות, מחויבות, מעורבות ואמונה — הופיעו בסיפורי המשתתפים, אך משמעותם הושפעה מן ההקשר המשפחתי, התרבותי, החברתי־כלכלי והפוליטי. הנערים תיארו קשרים מורכבים עם הורים ועמיתים, קשיים בבתי הספר, מחסור בפעילויות פנאי וחוסר אמון במוסדות משפט ואכיפה; לצד זאת, מורים מסוימים וקצינות מבחן תוארו כדמויות תומכות. המחברות מסיקות שהסבר של עבריינות נוער באמצעות קשרים אישיים בלבד אינו מספיק, ושיש להביא בחשבון גם את הנגישות למשאבים ולשירותים ואת מעמדה של קבוצת המיעוט.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_power_relations_jewish_arab_encounters_israel_summary_he",
+      "file": "democracy_power_relations_jewish_arab_encounters_israel_summary_he.html",
+      "permalink": "/democracy_power_relations_jewish_arab_encounters_israel_summary_he.html",
+      "sortKey": 202607140005,
+      "titleHe": "מי מגדיר על מה מדברים? יחסי כוח במפגשי מורים יהודים־ערבים",
+      "paperTitle": "Power relations in intergroup encounters: a case study of Jewish–Arab encounters in Israel",
+      "authorsCardHe": "Ifat Maoz",
+      "sourceAuthors": [
+        "Ifat Maoz"
+      ],
+      "journal": "International Journal of Intercultural Relations",
+      "dateText": "פורסם: מרץ 2000; כרך 24(2), עמ׳ 259–277",
+      "doiUrl": "https://doi.org/10.1016/S0147-1767(99)00035-8",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_power_relations_jewish_arab_encounters_israel_summary_he.jpg",
+        "altHe": "קבוצת מורים מגוונת יושבת במעגל ואישה במרכז הדיון, כמטפורה ליחסי כוח ולמאבק על סדר היום",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "יפעת מעוז חקרה תוכנית מפגשים בין מורים מכ־25 זוגות של בתי ספר תיכוניים יהודיים וערביים, שבה השתתפו כ־300 מורים לאורך שנות הפעילות. אתנוגרפיה שכללה 100 תצפיות, 40 ראיונות וכ־200 מסמכים גילתה שני דפוסי כוח שונים: בנושאים מקצועיים ״קרים״ המשתתפים היהודים דיברו והובילו יותר ושלטו בסדר היום, ואילו בנושאים ״חמים״ של הסכסוך המשתתפים הערבים הפעילו השפעה אינפורמטיבית מכוח הידע והניסיון שלהם. הנהלת התוכנית צמצמה בהדרגה את המקום לדיון פוליטי, בעוד משתתפים ומנחים ערבים המשיכו לדרוש אותו ושתי הקבוצות תיארו אותו כחלק החשוב ביותר במפגש. המחקר מראה ששוויון מספרי בחדר אינו מבטל יחסי רוב ומיעוט, ושעצם ההחלטה אם לדבר על הסכסוך היא זירה של כוח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_internal_displacement_health_palestinian_minority_israel_summary_he",
+      "file": "democracy_internal_displacement_health_palestinian_minority_israel_summary_he.html",
+      "permalink": "/democracy_internal_displacement_health_palestinian_minority_israel_summary_he.html",
+      "sortKey": 202607140004,
+      "titleHe": "עקירה שנשארת בגוף: בריאותם של עקורים פנימיים פלסטינים בישראל",
+      "paperTitle": "Internal displacement and health among the Palestinian minority in Israel",
+      "authorsCardHe": "Nihaya Daoud; Ketan Shankardass; Patricia O’Campo; Kim Anderson; Ayman K. Agbaria",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Ketan Shankardass",
+        "Patricia O’Campo",
+        "Kim Anderson",
+        "Ayman K. Agbaria"
+      ],
+      "journal": "Social Science & Medicine",
+      "dateText": "פורסם אונליין: 11.02.2012; פורסם בכרך 74(8), עמ׳ 1163–1171, אפריל 2012",
+      "doiUrl": "https://doi.org/10.1016/j.socscimed.2011.12.041",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_internal_displacement_health_palestinian_minority_israel_summary_he.jpg",
+        "altHe": "נוף ירוק ובו שרידי אבן וצלב, כמטפורה למקום, אובדן ועקירה פנימית מתמשכת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "דאוד, שנקרדס, אוקמפו, אנדרסון ואגבאריה ניתחו סקר ארצי משנת 2005 בקרב 902 אזרחים פלסטינים בני 30–70 בישראל. 23.6% הוגדרו עקורים פנימיים משום שהם או בן משפחה גרעינית נעקרו בעקבות הנכבה. שיעור המדווחים על בריאות עצמית ירודה היה 43.7% בקרב העקורים לעומת 34.1% בקרב האחרים, וגם לאחר התאמות חברתיות ופסיכו־חברתיות נותר יחס סיכויים של 1.45. לעומת זאת, ההבדל במחלה ממושכת מגבילה לא נותר מובהק לאחר התאמה; המאמר מציע אובדן מקום, דחיקה חומרית ולחץ כרוני כמנגנונים אפשריים, אך הסקר הרוחבי אינו מוכיח שהם הסיבה לפער.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_covid_minority_stress_lgb_israel_summary_he",
+      "file": "democracy_covid_minority_stress_lgb_israel_summary_he.html",
+      "permalink": "/democracy_covid_minority_stress_lgb_israel_summary_he.html",
+      "sortKey": 202607140003,
+      "titleHe": "כשסגר פוגש לחץ מיעוט: בריאות הנפש של לה״בים בישראל בקורונה",
+      "paperTitle": "COVID-19 stress, minority stress, and mental health among LGB Israeli individuals.",
+      "authorsCardHe": "Lior Oren",
+      "sourceAuthors": [
+        "Lior Oren"
+      ],
+      "journal": "Psychological Trauma: Theory, Research, Practice, and Policy",
+      "dateText": "פורסם אונליין: 07.03.2022; כרך 15(4), עמ׳ 610–617, מאי 2023",
+      "doiUrl": "https://doi.org/10.1037/tra0001232",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_minority_stress_lgb_israel_summary_he.jpg",
+        "altHe": "צעיר מקבל תמיכה מאדם קרוב ומשוחח בווידאו בבית בזמן סגר, כשמסכה וחומר חיטוי מונחים על השולחן",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "ליאור אורן סקר 157 לסביות, הומואים וביסקסואלים בישראל במרץ–אפריל 2020, בתקופה של סגר חלקי, כדי לבחון את החיבור בין לחץ מיעוט לבין לחץ הקשור לקורונה ובריאות הנפש. במתאמים, הומופוביה מופנמת, הסתרת נטייה מינית וצורך בקבלה נקשרו ליותר חרדה ודיכאון. בניתוח הנתיבים, הסתרה וצורך בקבלה נקשרו בעקיפין לחרדה ולדיכאון דרך לחץ קורונה, ואילו הומופוביה מופנמת נקשרה ישירות לדיכאון אך לא לחרדה או ללחץ קורונה. המחקר מציע שהמעבר הכפוי מן הקהילה הנבחרת וממרחבים בטוחים אל בית המשפחה עשוי להחריף פגיעוּת, אך העיצוב הרוחבי אינו מאפשר להוכיח שהסגר או לחץ המיעוט גרמו לתוצאות הנפשיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_bilingual_education_language_practices_israel_summary_he",
+      "file": "democracy_bilingual_education_language_practices_israel_summary_he.html",
+      "permalink": "/democracy_bilingual_education_language_practices_israel_summary_he.html",
+      "sortKey": 202607140002,
+      "titleHe": "שתי שפות, כוח לא שווה: מה באמת קורה בבתי ספר עבריים־ערביים?",
+      "paperTitle": "A new bilingual education in the conflict-ridden Israeli reality: language practices",
+      "authorsCardHe": "Muhammed Amara; Faisal Azaiza; Rachel Hertz-Lazarowitz; Aura Mor-Sommerfeld",
+      "sourceAuthors": [
+        "Muhammed Amara",
+        "Faisal Azaiza",
+        "Rachel Hertz-Lazarowitz",
+        "Aura Mor-Sommerfeld"
+      ],
+      "journal": "Language and Education",
+      "dateText": "פורסם: 11.02.2009; כרך 23(1), עמ׳ 15–35",
+      "doiUrl": "https://doi.org/10.1080/09500780802152820",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bilingual_education_language_practices_israel_summary_he.jpg",
+        "altHe": "כיתה דו־לשונית משותפת שבה מורות ותלמידים יהודים וערבים עובדים עם חומרי לימוד בעברית ובערבית ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "מוחמד אמארה, פייסל עזאיזה, רחל הרץ־לזרוביץ ואאורה מור־זומרפלד מנתחים פרקטיקות שפה בשלושה בתי ספר של יד ביד בירושלים, בגליל ובוואדי עארה. המחקר נשען על תוכניות ומסמכים, כ־200 שעות תצפית בשנים 2004–2005, 57 ראיונות איכותניים ושאלון הורים, ומתמקד בפער בין המדיניות הדו־לשונית לבין השפה שנבחרה בפועל. בכיתות נמצאה נראות כמעט מאוזנת לעברית ולערבית, אך בשיחות חופשיות, בחדר המורים ובתגובות של תלמידים יהודים למורים ערבים הייתה לעברית עדיפות ברורה. המאמר מייחס את הפער למעמדן הלא־שוויוני של השפות בחברה, להבדלים בשליטה הדו־לשונית, לציפיות הורים ולפרקטיקות של צוות ותוכנית לימודים. בתי הספר יצרו בכל זאת מרחב נדיר של מפגש ושל דו־לשוניות תפקודית, אך לא יכלו לבטל לבדם את יחסי הכוח שמחוץ לשעריהם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_druze_women_identity_transitions_bridges_gaps_summary_he",
+      "file": "democracy_druze_women_identity_transitions_bridges_gaps_summary_he.html",
+      "permalink": "/democracy_druze_women_identity_transitions_bridges_gaps_summary_he.html",
+      "sortKey": 202607140001,
+      "titleHe": "בין שני עולמות: מעברי הזהות של נשים דרוזיות פורצות דרך",
+      "paperTitle": "On cross-cultural bridges and gaps: identity transitions among trailblazing Druze women",
+      "authorsCardHe": "Naomi Weiner-Levy",
+      "sourceAuthors": [
+        "Naomi Weiner-Levy"
+      ],
+      "journal": "Gender and Education",
+      "dateText": "פורסם: מרץ 2008; כרך 20(2), עמ׳ 137–152",
+      "doiUrl": "https://doi.org/10.1080/09540250701805862",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_women_identity_transitions_bridges_gaps_summary_he.jpg",
+        "altHe": "שלוש נשים דרוזיות בלבוש מסורתי הולכות יחד ברחוב ביישוב בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-14",
+      "dateModified": "2026-07-14",
+      "summaryHe": "נעמי ויינר־לוי מנתחת ראיונות עם 34 נשים דרוזיות שהיו מן הראשונות בקהילותיהן, ובכמה כפרים הראשונות ממש, ללמוד באוניברסיטה. הראיונות נערכו בבתי המשתתפות בשנים 1998–2002 וכללו סיפור חיים פתוח וריאיון המשך מובנה למחצה. הניתוח מציג שלושה רבדים של זהות: זהות גלויה המותאמת לציפיות הקולקטיב, זהות סמויה הכוללת שאיפות אינדיבידואליות, ומתח פנימי יציב בין השתיים. החזרה לכפר לוותה לעיתים בתחושת זרות ובהזדמנויות תעסוקה מוגבלות, אך החלוצות נעשו גם מודלים לחיקוי שהרחיבו את האפשרויות עבור נשים שבאו אחריהן. המחקר אינו מציג את המתח כמשבר זהות הכרחי, אלא כזהות היברידית היכולה להישאר יציבה גם כאשר חלקיה אינם מתיישבים זה עם זה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he",
       "file": "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he.html",
