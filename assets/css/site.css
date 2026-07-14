@@ -48,15 +48,13 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-link:f
 
 .logo-wrap {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 4.113fr);
+  grid-template-columns: minmax(0, 3.086fr) minmax(0, 4.113fr);
   align-items: center;
   gap: clamp(10px, 2.3vw, 22px);
-  width: min(780px, 100%);
+  width: min(1000px, 100%);
   margin: 0 auto 24px;
 }
 .logo-link { display: block; min-width: 0; color: inherit; text-decoration: none; }
-.logo-link--tau { aspect-ratio: 1; overflow: hidden; background: #000; }
-.tau-logo-crop { position: relative; display: block; width: 100%; height: 100%; overflow: hidden; }
 .logo-placeholder {
   aspect-ratio: 1666 / 264;
   min-height: 64px;
@@ -65,8 +63,6 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-link:f
   background: #f6f8f8;
 }
 .site-logo { display: block; width: 100%; height: auto; margin: 0 auto; }
-.site-logo--tau { position: absolute; top: 0; left: 0; width: auto; max-width: none; height: 100%; }
-.site-logo--safra { width: 100%; height: auto; }
 .home-link { display: inline-flex; align-items: center; gap: 8px; margin: 0 0 18px; color: var(--link); font-weight: 700; text-decoration: none; }
 .home-link:hover { text-decoration: underline; }
 .home-icon { width: 19px; height: 19px; flex: 0 0 auto; }
