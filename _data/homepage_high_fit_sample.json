@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "sampleSize": 6,
-  "seed": "2026-07-14-homepage-high-fit",
+  "seed": "2026-07-15-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 635,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 10,
   "paperSlugs": [
-    "democracy_pluralistic_dialogue_bedouin_teacher_accreditation_summary_he",
-    "democracy_science_interest_gender_culture_online_learning_middle_east_summary_he",
-    "democracy_when_the_cannons_roar_tort_laws_are_silent_a_re_examination_of_section_5b_of_the_civil_wrongs_liability_of_summary_he",
-    "democracy_intimate_partner_violence_screening_healthcare_israel_summary_he",
-    "democracy_human_rights_in_israel_summary_he",
-    "democracy_truth_reconciliation_south_africa_lessons_israel_summary_he"
+    "democracy_future_proofing_israeli_surveillance_law_summary_he",
+    "democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he",
+    "democracy_artistic_censorship_german_israeli_identity_summary_he",
+    "democracy_weak_ties_political_expression_online_summary_he",
+    "democracy_arab_jewish_relations_israel_peace_era_summary_he",
+    "democracy_delicate_framework_israeli_democracy_1980s_summary_he"
   ]
 }

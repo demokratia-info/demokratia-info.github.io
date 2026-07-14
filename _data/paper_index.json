@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1022,
+  "paperCount": 1032,
   "papers": [
+    {
+      "slug": "democracy_protest_coverage_online_media_paradigm_shift_summary_he",
+      "file": "democracy_protest_coverage_online_media_paradigm_shift_summary_he.html",
+      "permalink": "/democracy_protest_coverage_online_media_paradigm_shift_summary_he.html",
+      "sortKey": 202607150010,
+      "titleHe": "מתקרבים למפגינים: כיצד הרשתות משנות את סיקור המחאה בישראל",
+      "paperTitle": "Aiming Close to Make a Change: Protest Coverage and Production in Online Media as a Process Toward Paradigm Shift",
+      "authorsCardHe": "Matan Aharoni",
+      "sourceAuthors": [
+        "Matan Aharoni"
+      ],
+      "journal": "Journalism and Media",
+      "dateText": "פורסם: 30 במאי 2025",
+      "doiUrl": "https://doi.org/10.3390/journalmedia6020078",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_protest_coverage_online_media_paradigm_shift_summary_he.jpg",
+        "altHe": "מפגינים מול מעון ראש הממשלה בירושלים בשעת ערב ביולי 2020, ולצדם רכב משטרתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "המחקר משווה 219 כתבות מחמישה אתרי חדשות, 324 פוסטים מצולמים ברשתות החברתיות ותשעה ראיונות עם מובילי מחאת בלפור בשנים 2020–2021. יותר ממחצית הכתבות מסגרו את המחאה כאלימה, בעוד שכמעט מחצית מתצלומי הרשתות היו דיוקנאות ורק 11 הציגו אלימות. המאמר מזהה לצד פרדיגמת המחאה הוותיקה פרדיגמה מתקרבת של עדות, דיוקן ואחריות אזרחית, אך מדגיש שהמעבר אינו שלם ושמערכות החדשות והמדיה החברתית ממשיכות לפעול לפי כללים שונים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_weak_ties_political_expression_online_summary_he",
+      "file": "democracy_weak_ties_political_expression_online_summary_he.html",
+      "permalink": "/democracy_weak_ties_political_expression_online_summary_he.html",
+      "sortKey": 202607150009,
+      "titleHe": "כשהקשרים החלשים משתיקים: מדוע צעירים נמנעים מביטוי פוליטי בפייסבוק",
+      "paperTitle": "On the Strength of Weak Ties: Barriers to Political Expression Online",
+      "authorsCardHe": "Limor Ziv, Gal Yavetz",
+      "sourceAuthors": [
+        "Limor Ziv",
+        "Gal Yavetz"
+      ],
+      "journal": "Social Sciences",
+      "dateText": "פורסם: 5 ביוני 2025",
+      "doiUrl": "https://doi.org/10.3390/socsci14060360",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_weak_ties_political_expression_online_summary_he.jpg",
+        "altHe": "צעירים יושבים יחד בבית קפה, בעוד אחד מהם מהסס לפני פרסום הודעה פוליטית בטלפון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "המאמר מנתח ראיונות עומק עם 50 סטודנטים מאוניברסיטת תל אביב ובוחן כיצד קשרים חזקים וקשרים חלשים מעצבים ביטוי פוליטי. 48 מרואיינים דיברו על פוליטיקה מחוץ לרשת ו־44 העדיפו לעשות זאת שם, ואילו בפייסבוק החשש מאי־הסכמה, מפגיעה ביחסים ומקהל מעורב הוביל לצנזורה עצמית. המחברים מכנים זאת אפקט קיפאון: קשרים חלשים, שלעתים נחשבים מנוע להפצת מידע, עשויים לעכב דווקא את הנכונות להביע עמדה פוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_artistic_censorship_german_israeli_identity_summary_he",
+      "file": "democracy_artistic_censorship_german_israeli_identity_summary_he.html",
+      "permalink": "/democracy_artistic_censorship_german_israeli_identity_summary_he.html",
+      "sortKey": 202607150008,
+      "titleHe": "כשהמדינה אסרה לשמוע גרמנית: צנזורה, זיכרון ובניית זהות בישראל",
+      "paperTitle": "Banning German and Germany: Artistic Censorship and the Construction of Israeli Identity, 1948–1967",
+      "authorsCardHe": "Adam Shinar",
+      "sourceAuthors": [
+        "Adam Shinar"
+      ],
+      "journal": "Law and History Review",
+      "dateText": "פורסם אונליין: 14.05.2026; עמ׳ 1–31",
+      "doiUrl": "https://doi.org/10.1017/S0738248026101758",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_artistic_censorship_german_israeli_identity_summary_he.jpg",
+        "altHe": "אמנית, פקיד תרבות, ניצול שואה וצעירים מתווכחים בלובי של אולם קולנוע ישראלי בשנות החמישים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "אדם שנער חושף איסור רשמי שכמעט נשכח: במשך כתשע־עשרה שנים סירבה ישראל לאשר סרטים, הצגות ומוזיקה קולית בגרמנית, ובהמשך מיקדה את הצנזורה ביצירות מגרמניה וביוצרים בעלי עבר נאצי. המחקר נשען על ארכיון המועצה לביקורת סרטים ומחזות, פרוטוקולים ממשלתיים, דיוני כנסת, פניות ציבור ועיתונות, ועוקב אחר החלטות פרטניות שהפכו למדיניות תרבות. ההצדקה המוצהרת הייתה הגנה על רגשות ניצולי השואה והציבור מפני נוכחות פומבית של השפה והתרבות הגרמנית, אך המאמר מזהה גם מטרות של כבוד לאומי, הנצחת הזיכרון והבדלת הישראלי הריבוני מן היהודי הגלותי. המועצה, שהורכבה כמעט כולה מגברים יהודים אשכנזים וכמעט לא כללה נשים או ערבים, ראתה בעצמה נציגת הציבור ובעלת עצמאות מן הממשלה, גם כאשר יהודים יוצאי גרמניה, אנשי רוח ופוליטיקאים טענו שהאיסור אנטי־דמוקרטי ופוגע בחופש התרבות. גבולות האיסור השתנו יחד עם היחסים עם מערב גרמניה: חדשות צולמו בגרמניה, סרטים אוסטריים ושווייצריים הותרו, אחר כך הוכשרו הפקות משותפות, ולאחר כינון יחסים דיפלומטיים מלאים ב־1965 ביטלה הממשלה את האיסור ב־1967, למעט תוכן נאצי או משתתפים בעלי עבר נאצי. המעבר מאיסור על שפה ולאום לסינון של נאציזם מלמד, לפי שנער, שהצנזורה לא רק שיקפה טראומה קיימת אלא השתתפה באופן פעיל בהגדרת האויב, גבולות הזיכרון והזהות הישראלית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he",
+      "file": "democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he.html",
+      "permalink": "/democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he.html",
+      "sortKey": 202607150007,
+      "titleHe": "מדוע הגדה המערבית היא שטח כבוש גם בלי ריבונות ירדנית",
+      "paperTitle": "The West Bank as Occupied Territory: The Irrelevance of the Mandate and the Lack of Jordanian Sovereignty",
+      "authorsCardHe": "David Kretzmer",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם אונליין: 07.08.2025; כרך 59(1), עמ׳ 4–43, 2026",
+      "doiUrl": "https://doi.org/10.1017/S0021223725100010",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he.jpg",
+        "altHe": "מסגד ובתי יישוב פלסטיני בעמק, ומעליהם בתי התנחלות על גבעה בגדה המערבית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "דוד קרצמר בוחן באופן שיטתי את שתי הטענות שעליהן נשענת עמדת ממשלת ישראל שלפיה הגדה המערבית אינה שטח כבוש מבחינה משפטית מלאה. הטענה הראשונה קובעת שדיני כיבוש חלים רק על שטח שהיה בריבונות מדינה אחרת, ולכן היעדר ריבונות ירדנית מוכרת בשנת 1967 מונע את תחולתם; קרצמר משיב שמבחן השליטה של צבא עוין, ההגנה על אוכלוסייה וזכות ההגדרה העצמית אינם תלויים בקיומו של ריבון מדינתי קודם. הטענה השנייה מייחסת למנדט על פלשתינה זכויות התיישבות יהודיות נצחיות; המאמר מנתח את תולדות שיטת המנדטים, נוסח המנדט ומעמדו כהסכם בין חבר הלאומים לבריטניה, ומסיק שההתחייבות לעודד התיישבות הוטלה על בריטניה, הוגבלה בהגנת שאר האוכלוסייה והסתיימה עם סיום המנדט. סעיף 80 למגילת האו״ם שמר על הסדרי המנדט כל עוד היו בתוקף, אך לא החיה אותם לאחר שבריטניה נסוגה והאספה הכללית אישרה את סיום המנדט. קרצמר מדגיש שהמשפט הבינלאומי אינו קפוא בשנת 1922: איסור רכישת שטח בכוח, דיני הכיבוש וההגדרה העצמית של עמים מעצבים את פירושם העכשווי של כלים היסטוריים. המסקנה היא שגם בהנחה שירדן לא הייתה ריבון חוקי, הגדה לא הייתה שטח הפקר, ותושביה הפלסטינים לא איבדו את הזכות להגדרה עצמית; לכן שליטה צבאית ישראלית משנת 1967 היא משטר של כיבוש לוחמתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_conscription_inequality_tax_narrative_summary_he",
+      "file": "democracy_conscription_inequality_tax_narrative_summary_he.html",
+      "permalink": "/democracy_conscription_inequality_tax_narrative_summary_he.html",
+      "sortKey": 202607150006,
+      "titleHe": "כשהגיוס נעשה מס: זיכוי מס לצמצום אי־השוויון בשירות החובה",
+      "paperTitle": "Converting Narratives and Alleviating Constitutional Inequality through Taxation: Lessons from Conscription Disparities",
+      "authorsCardHe": "David Gliksberg",
+      "sourceAuthors": [
+        "David Gliksberg"
+      ],
+      "journal": "Israel Law Review",
+      "dateText": "פורסם אונליין: 06.04.2026; כרך 59(1), עמ׳ 71–95",
+      "doiUrl": "https://doi.org/10.1017/S0021223725100083",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_conscription_inequality_tax_narrative_summary_he.jpg",
+        "altHe": "חיילת וחייל משוחררים בוחנים מסמך זיכוי מס לצד לשכת גיוס ומשרד אזרחי, כמטפורה למדידת נטל השירות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "דוד גליקסברג טוען שהדיון החוקתי רב־השנים באי־השוויון בגיוס מתקשה לייצר פתרון פוליטי ישים, בין היתר משום שאתוס ״צבא העם״ מתנגד הן לצבא מקצועי והן לתשלום שכר שוק לחיילי חובה. הוא מציע לראות בשירות חובה מס בעין: המדינה נוטלת בכפייה את עבודתו של המשרת, והמס הוא שכר השוק הנקי שהיה משולם בעד המקצוע הצבאי בניכוי התמורה וההטבות שקיבל החייל. את הנטל הזה מציע המאמר להשיב לאחר השחרור באמצעות זיכוי מס צבאי רב־שנתי, MATC, שנועד לצמצם את הפער בלי להציג את השירות כעסקת שכר רגילה. האומדן משתמש בשכר אנשי קבע בתחילת דרכם, בנתוני שכר ומס ובארבע קבוצות שירות, ומעמיד את המס המצטבר לגברים על כ־159,540 עד 177,912 ש״ח ולנשים על כ־110,268 עד 170,340 ש״ח, בהתאם לסוג השירות. סימולציה לפי שבעה ענפי תעסוקה מראה שמנהלים ובעלי מקצוע ינצלו את הזיכוי מוקדם יחסית, בעוד עובדים בשכר נמוך עלולים להגיע לפרישה בלי לנצל את כולו; הפער בולט במיוחד אצל נשים. לכן המאמר אינו מסתפק בהצעת פיצוי אלא חושף מתח נוסף: זיכוי התלוי בחבות מס עתידית עלול לשחזר אי־שוויון בתוך ציבור המשרתים, ודורש מנגנוני החזר, הצמדה ומימון שמגינים גם על בעלי הכנסות נמוכות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_llm_content_moderation_rules_standards_summary_he",
+      "file": "democracy_llm_content_moderation_rules_standards_summary_he.html",
+      "permalink": "/democracy_llm_content_moderation_rules_standards_summary_he.html",
+      "sortKey": 202607150005,
+      "titleHe": "הכללים כתובים, המודל מחליט: מי שולט בבקרת התוכן?",
+      "paperTitle": "Bending the Rules: On Large Language Models and Content Moderation",
+      "authorsCardHe": "Renana Keydar; Noa Mor; Yuval Shany; Omri Abend",
+      "sourceAuthors": [
+        "Renana Keydar",
+        "Noa Mor",
+        "Yuval Shany",
+        "Omri Abend"
+      ],
+      "journal": "Israel Law Review 59(1), 96–133",
+      "dateText": "פורסם מקוון: 06.04.2026; כרך 59(1), עמ׳ 96–133",
+      "doiUrl": "https://doi.org/10.1017/S0021223726100156",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_llm_content_moderation_rules_standards_summary_he.jpg",
+        "altHe": "זרם פוסטים עובר דרך רשת של כללים זעירים אל מאזניים של חופש ביטוי ובטיחות, כמטפורה לבקרת תוכן בידי מודל שפה, ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "רננה קידר, נועה מור, יובל שני ועמרי אבנד בוחנים כיצד המעבר למודלי שפה גדולים משנה את ממשל הדיבור ברשת. מקרה הבוחן הוא מדיניות דברי השנאה של פייסבוק, שהתפתחה מהצהרה קצרה ורחבה למערכת מפורטת של הגדרות, דרגות חומרה, דוגמאות וחריגים — כלומר ממדיניות דמוית סטנדרט למדיניות דמוית כללים. מנגד, אכיפה באמצעות מודלי שפה אינה מיישמת את הטקסט באופן מכני: היא משקללת הקשר, כוונה, שפה ודפוסים שנלמדו מנתוני עתק, ולכן דומה להפעלת סטנדרט גמיש. המחברים מציעים קטגוריה שלישית, כללים במיליונים, כדי לתאר מיליוני מיקרו־כללים הסתברותיים שפועלים יחד, משתנים עם ההקשר ואינם נגישים לביקורת אנושית רגילה. התוצאה היא פער בין המדיניות המוצהרת למדיניות המופעלת בפועל, עם סיכונים לחופש הביטוי, לשוויון, לצפיות המשתמשים ולהליכי ערעור. המאמר ממליץ על שקיפות ביחס לאכיפה ולא רק לטקסט הכללים, שיתוף מומחי טכנולוגיה בעיצוב המדיניות, גופי פיקוח עצמאיים, ביקורות חובה פומביות ומנגנוני ערעור שמסוגלים לבדוק החלטות אלגוריתמיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_future_proofing_israeli_surveillance_law_summary_he",
+      "file": "democracy_future_proofing_israeli_surveillance_law_summary_he.html",
+      "permalink": "/democracy_future_proofing_israeli_surveillance_law_summary_he.html",
+      "sortKey": 202607150004,
+      "titleHe": "איך מכינים את חוקי המעקב לעתיד בלי לתת לשב״כ סמכות פתוחה?",
+      "paperTitle": "Future-Proofing Israeli Surveillance Law: Past, Present and Future",
+      "authorsCardHe": "Amir Cahane",
+      "sourceAuthors": [
+        "Amir Cahane"
+      ],
+      "journal": "Israel Law Review, 1–33",
+      "dateText": "פורסם מקוון: 19.06.2026; עמ׳ 1–33",
+      "doiUrl": "https://doi.org/10.1017/S0021223726100168",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_future_proofing_israeli_surveillance_law_summary_he.jpg",
+        "altHe": "מצלמת מעקב מותקנת מעל סמטה ציבורית בעיר העתיקה בירושלים בשעת לילה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "אמיר כהנא בוחן כיצד אפשר לנסח חקיקת מעקב שתישאר ישימה מול טכנולוגיות ואיומים שלא ניתן לצפות מראש, בלי להפוך אותה להרשאה עמומה וחסרת גבולות. הוא ממפה כלים כגון ניסוח ניטרלי מבחינה טכנולוגית, שימוש בסטנדרטים רחבים, פרשנות מנהלית, כללים משניים חסויים, הוראות שעה, קווים אדומים וארגזי חול רגולטוריים. דרך חוק השב״כ משנת 2002 הוא מראה כיצד הגדרות רחבות וסמכויות שהועברו לממשלה אפשרו לתוכנית איסוף המטא־דאטה, לחיפוש מרחוק ולשימושי מעקב חדשים לפעול בלי תיקוני חקיקה תכופים. השימוש בסעיף 7(ב)(6) לאיכון חולי קורונה והפסיקה שצמצמה אותו מדגימים כיצד גמישות תכליתית יכולה להפוך לזליגת מטרה וכיצד ביקורת שיפוטית יכולה להציב לה גבול. תזכיר התיקון מ־2023 מוסיף מסגרות למאגרי מידע, לחיפוש במחשבים, לפעולות סייבר ולנתוני תקשורת, אך משאיר הכרעות מהותיות רבות לכללים חסויים ואף מציע מסלול להוספת אמצעי מעקב חדשים באישור הרשות המבצעת וועדת משנה. מסקנת המאמר אינה לוותר על התאמה לעתיד, אלא לצרף אליה פיקוח חיצוני עצמאי, שקיפות מספקת לביקורת אזרחית ושיפוטית והכרעות פרלמנטריות מלאות בעניינים שאין להאצילם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_five_approaches_constituent_power_reasonableness_summary_he",
+      "file": "democracy_five_approaches_constituent_power_reasonableness_summary_he.html",
+      "permalink": "/democracy_five_approaches_constituent_power_reasonableness_summary_he.html",
+      "sortKey": 202607150003,
+      "titleHe": "חמישה מסלולים לסמכות מכוננת: מה באמת קבע בג״ץ הסבירות?",
+      "paperTitle": "Five Approaches to Constituent Power: Reflections on the Israeli Reasonableness Ruling",
+      "authorsCardHe": "Yochai Rosner",
+      "sourceAuthors": [
+        "Yochai Rosner"
+      ],
+      "journal": "German Law Journal 27(2), 216–239",
+      "dateText": "פורסם מקוון: 01.06.2026; כרך 27(2), עמ׳ 216–239",
+      "doiUrl": "https://doi.org/10.1017/glj.2026.10215",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_five_approaches_constituent_power_reasonableness_summary_he.jpg",
+        "altHe": "הרכב שופטים מול שכבות של מסמכי יסוד ומאזני סמכות, כמטפורה לחמש הגישות בפסק דין הסבירות, ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "יוחאי רוזנר קורא את חוות הדעת של כל 15 שופטי בית המשפט העליון בפסק הדין בעניין תיקון עילת הסבירות וממפה חמש דרכים שונות להבין את גבולות הסמכות המכוננת של הכנסת. שמונה שופטים ביטלו את התיקון לחוק יסוד: השפיטה, אך לא נוצר רוב לתאוריה חוקתית אחת: השופטים נשענו על הנתונים החוקתיים של ישראל, על חוקי היסוד עצמם, על מגילת העצמאות, על עקרונות־על בלתי כתובים, או על עמדה השוללת מגבלה שיפוטית על הסמכות המכוננת. המאמר מדגיש שאיש מן השופטים לא ביסס את ההכרעה על ההבחנה המקובלת בין סמכות מכוננת ראשונית לבין סמכות מתקנת משנית. מכאן מסיק רוזנר כי פסק הדין לא אימץ, במובנה המסורתי, את דוקטרינת התיקון החוקתי שאינו חוקתי. במקום ביקורת על תיקון מכוח נורמה חוקתית גבוהה ממנו, ההכרעה פתחה אפשרות לראות כל חוק יסוד החורג מגבולות הסמכות כנורמה שמעולם לא רכשה תוקף חוקתי — חידוש רחב, אך כזה שמקורו, היקפו ואופן הפעלתו נותרו לא מוסכמים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_arab_jewish_relations_israel_peace_era_summary_he",
+      "file": "democracy_arab_jewish_relations_israel_peace_era_summary_he.html",
+      "permalink": "/democracy_arab_jewish_relations_israel_peace_era_summary_he.html",
+      "sortKey": 202607150002,
+      "titleHe": "שלום בחוץ, שוויון בפנים? יחסי ערבים־יהודים בעידן השלום",
+      "paperTitle": "Arab-Jewish relations in Israel in the peace era",
+      "authorsCardHe": "Sammy Smooha",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: דצמבר 1994; כרך 1(2), עמ׳ 227–244",
+      "doiUrl": "https://doi.org/10.1080/13537129408719325",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_jewish_relations_israel_peace_era_summary_he.jpg",
+        "altHe": "תלמידות ותלמידים ערבים ויהודים מבית הספר הדו־לשוני יד ביד עומדים יחד בחצר אבן",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "סמי סמוחה כתב בראשית תהליך אוסלו תחזית שיטתית ליחסי המיעוט הערבי והרוב היהודי בישראל ב״עידן השלום״. הוא מציב שני תסריטים: ניכור הדדי, שבו הקצנה ערבית והקשחה יהודית מזינות עימות, לעומת הסתגלות הדדית, שבה פוליטיזציה של האזרחים הערבים ופתיחות יהודית מרחיבות שילוב. סמוחה מעדיף את התסריט השני וטוען ששלום עשוי להחליש את זיהוי האזרחים הערבים עם אויב חיצוני, לתת לגיטימציה לזהותם הפלסטינית ולהגדיל את השתתפותם בקואליציות ובמוקדי הכרעה. עם זאת, הוא אינו צופה שישראל תחדל להיות מדינה יהודית או ״דמוקרטיה אתנית״, ולכן השלום לבדו לא יעניק שוויון והזדהות מלאים. גם צמיחה כלכלית, קשרים עם העולם הערבי ועלייה יהודית נושאים תוצאות מעורבות: הזדמנויות חדשות לצד תחרות על עבודה, קרקע ודיור והעמקת פערים. ההמלצה הנורמטיבית של המאמר היא לנצל את המעבר לשלום לשינוי מהיר: אי־אפליה, שותפות קואליציונית, הכרה באזרחים הערבים כמיעוט לאומי פלסטיני ואוטונומיה מוסדית. מאחר שמדובר בתחזית מ־1994, חשיבותה כיום היא גם כמסמך היסטורי שאפשר לבחון מול ההתפתחויות שהתרחשו מאז.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_delicate_framework_israeli_democracy_1980s_summary_he",
+      "file": "democracy_delicate_framework_israeli_democracy_1980s_summary_he.html",
+      "permalink": "/democracy_delicate_framework_israeli_democracy_1980s_summary_he.html",
+      "sortKey": 202607150001,
+      "titleHe": "דמוקרטיה צעירה תחת לחץ: לקחי ישראל מן שנות השמונים",
+      "paperTitle": "The delicate framework of Israeli democracy during the 1980s: Retrospect and appraisal",
+      "authorsCardHe": "Raphael Cohen-Almagor",
+      "sourceAuthors": [
+        "Raphael Cohen-Almagor"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "פורסם: ספטמבר 2001; כרך 8(1–2), עמ׳ 118–138",
+      "doiUrl": "https://doi.org/10.1080/13537120208719633",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_delicate_framework_israeli_democracy_1980s_summary_he.jpg",
+        "altHe": "בניין הכנסת וסדק סמלי באור המקיף אותו, כמטפורה למסגרת דמוקרטית עמידה אך שברירית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-07-15",
+      "summaryHe": "רפאל כהן־אלמגור מנתח את הדמוקרטיה הישראלית כמסגרת צעירה ועמידה, אך גם פגיעה ללחצים פנימיים וחיצוניים. נקודת המוצא שלו היא שדמוקרטיה אינה רק הכרעת רוב: היא מחייבת הגנה על זכויות המיעוט, השתתפות אזרחית, פלורליזם ופשרה. המאמר משתמש בשנות השמונים כמוקד לבחינת שלושה אתגרים: עליית הכהניזם והוויכוח על ״דמוקרטיה מתגוננת״, השפעת מלחמת לבנון והאינתיפאדה על הקיטוב ועל יחסי יהודים־ערבים, וריכוזיות פוליטית שהרחיקה אזרחים ממוקדי ההכרעה והחלישה פיקוח ואופוזיציה. כהן־אלמגור מצדיק את פסילת רשימת כך ב־1988, אך מבחין בין חופש רחב להביע דעה לבין הזכות להיבחר ולחוקק נגד יסודות המשטר. במקביל הוא מזהיר שניסוח רחב של עבירות הסתה עלול לפגוע בחופש הביטוי, ודורש הבחנה מדויקת בין הבעת עמדה לבין קריאה הקשורה למעשה אלים. מסקנתו היא שהגנה על הדמוקרטיה דורשת אכיפת חוק, חינוך אזרחי והרחבת השתתפות — לצד ריסון הכוח שמופעל בשמה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he",
       "file": "democracy_single_mothers_welfare_rights_us_uk_israel_summary_he.html",
