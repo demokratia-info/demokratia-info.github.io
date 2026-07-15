@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "sampleSize": 6,
-  "seed": "2026-07-15-homepage-high-fit",
+  "seed": "2026-07-16-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
   "fullTextHighFitPaperCount": 10,
   "paperSlugs": [
-    "democracy_future_proofing_israeli_surveillance_law_summary_he",
-    "democracy_west_bank_occupied_territory_mandate_sovereignty_summary_he",
-    "democracy_artistic_censorship_german_israeli_identity_summary_he",
-    "democracy_weak_ties_political_expression_online_summary_he",
-    "democracy_arab_jewish_relations_israel_peace_era_summary_he",
-    "democracy_delicate_framework_israeli_democracy_1980s_summary_he"
+    "democracy_emotional_politics_israel_judicial_reform_summary_he",
+    "democracy_datafication_law_carceral_power_judges_summary_he",
+    "democracy_children_political_rights_un_crc_summary_he",
+    "democracy_imprisonment_human_rights_israel_uncertainty_summary_he",
+    "democracy_social_movement_unionism_global_constitutionalism_summary_he",
+    "democracy_police_collective_labour_rights_constitutionalism_summary_he"
   ]
 }

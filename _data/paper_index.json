@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1032,
+  "paperCount": 1042,
   "papers": [
+    {
+      "slug": "democracy_robust_constitutionalism_rights_judicial_review_summary_he",
+      "file": "democracy_robust_constitutionalism_rights_judicial_review_summary_he.html",
+      "permalink": "/democracy_robust_constitutionalism_rights_judicial_review_summary_he.html",
+      "sortKey": 202607160010,
+      "titleHe": "זכויות כחובה של המדינה וביקורת שיפוטית כזכות להישמע",
+      "paperTitle": "Why Constitutionalism Matters: The Case for Robust Constitutionalism",
+      "authorsCardHe": "Alon Harel",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "Critical Analysis of Law, 1(1), 30–50",
+      "dateText": "פורסם: 19.02.2014; כרך 1, גיליון 1, עמ׳ 30–50",
+      "doiUrl": "https://doi.org/10.33137/cal.v1i1.20922",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_robust_constitutionalism_rights_judicial_review_summary_he.jpg",
+        "altHe": "אזרחים ומשפטנים דנים במסמכי יסוד ובספרי חוק בחדר מוסדי מואר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "אלון הראל מציע במאמר הצדקה לא־תוצאתנית ל׳חוקתנות איתנה׳. במקום לשאול רק אם חוקה או ביקורת שיפוטית משפררות החלטות, מגינות טוב יותר על מיעוטים או מפיקות יותר צדק, הוא בוחן מה מוסדות אלה מבטאים מעצם מבנם. הטיעון הראשון הוא שעיגון חוקתי של זכויות הופך את ההגנה עליהן ממחווה התלויה ברצון המחוקק לחובה ציבורית המגבילה אותו; גם מחוקק מיטיב מותיר אזרחים תחת שליטה שרירותית אם חירותם תלויה בשיקול דעתו בלבד. הטיעון השני הוא שכאשר אדם טוען שזכותו נפגעה, עומדת לו זכות להליך הכולל הזדמנות להשמיע טענה, תשובה מנומקת ונכונות אמיתית לבחון מחדש את ההחלטה. בית משפט אינו מוצדק כאן מפני ששופטיו בהכרח חכמים מן המחוקקים, אלא מפני שהליך שיפוטי בנוי בדיוק סביב שלושת המרכיבים האלה. המאמר אינו מוכיח שכל סעיף חוקתי צודק או שכל פסק דין נכון; הוא מציע בסיס עקרוני לכך שהגבלת כוח הרוב והקשבה לטענת הזכות הן חלק מן הלגיטימיות הדמוקרטית עצמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_constitutional_borrowing_religious_exclusion_summary_he",
+      "file": "democracy_constitutional_borrowing_religious_exclusion_summary_he.html",
+      "permalink": "/democracy_constitutional_borrowing_religious_exclusion_summary_he.html",
+      "sortKey": 202607160009,
+      "titleHe": "מטקסט זר למשמעות מקומית: הפוליטיקה של הדרה דתית בשאילה חוקתית",
+      "paperTitle": "From Foreign Text to Local Meaning: The Politics of Religious Exclusion in Transnational Constitutional Borrowing",
+      "authorsCardHe": "Matthew J. Nelson, Aslı Bâli, David Mednicoff, Hanna Lerner",
+      "sourceAuthors": [
+        "Matthew J. Nelson",
+        "Aslı Bâli",
+        "David Mednicoff",
+        "Hanna Lerner"
+      ],
+      "journal": "Law & Social Inquiry, 45(4), 935–964",
+      "dateText": "פורסם אונליין: 14.04.2020; כרך 45, גיליון 4, עמ׳ 935–964",
+      "doiUrl": "https://doi.org/10.1017/lsi.2019.75",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_borrowing_religious_exclusion_summary_he.jpg",
+        "altHe": "חברי האספה המכוננת של הודו דנים במסמכים חוקתיים בשנת 1950",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "המאמר מערער על ההנחה שדמיון טקסטואלי בין חוקות מעיד על התכנסות במשמעות או בזכויות. באמצעות מקורות ארכיוניים, דיוני אספות מכוננות ופרלמנטים, מסמכי ממשל, זיכרונות ועיתונות בשש שפות, המחברים משחזרים ארבעה מסלולים שבהם יסוד חוקתי מכליל הועבר ואז קיבל משמעות מדירה. בפקיסטן, סעיפי חופש דת שנעו מאירלנד דרך הודו שימשו לבסוף להגבלת האחמדים בשם הרוב והסדר הציבורי. במרוקו, מוסדות נשיאותיים מן הרפובליקה החמישית החילונית בצרפת הותאמו לחיזוק מונרכיה מוסלמית כמעט־מקודשת. במצרים, המודל הטורקי הוזכר בלי העתקת טקסט, תחילה כסמל להכללת מפלגה אסלאמיסטית ובהמשך כהצדקה לאפוטרופסות צבאית ולהדרת האחים המוסלמים. בישראל, שיטת המילט העות׳מאנית, שהעניקה אוטונומיה בין קהילות דתיות, עוצבה מחדש כמונופול אורתודוקסי על נישואין וגירושין בתוך הרוב היהודי. המושג המחבר הוא מסמן ריק: מונח שמשמעותו אינה יציבה ואינה חסרת פשר, אלא עומדת למאבק פוליטי. המחברים אינם מכנים את השינויים שאילה כושלת; בעיניהם אלה בחירות חוקתיות מקומיות שמראות כי כדי להבין חוק מיובא צריך לחקור מי מילא אותו בתוכן, באיזה רגע ולמען איזו קואליציה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_datafication_law_carceral_power_judges_summary_he",
+      "file": "democracy_datafication_law_carceral_power_judges_summary_he.html",
+      "permalink": "/democracy_datafication_law_carceral_power_judges_summary_he.html",
+      "sortKey": 202607160008,
+      "titleHe": "כשהמשפט נעשה נתונים: כיצד טכנולוגיה מקודדת כוח כליאתי ומשנה שפיטה",
+      "paperTitle": "The Datafication of Law: How Technology Encodes Carceral Power and Affects Judicial Practice in the United States",
+      "authorsCardHe": "Gil Rothschild-Elyassi",
+      "sourceAuthors": [
+        "Gil Rothschild-Elyassi"
+      ],
+      "journal": "Law & Social Inquiry, 47(1), 55–94",
+      "dateText": "פורסם אונליין: 28.07.2021; כרך 47, גיליון 1, עמ׳ 55–94",
+      "doiUrl": "https://doi.org/10.1017/lsi.2021.10",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_datafication_law_carceral_power_judges_summary_he.jpg",
+        "altHe": "ידיים משוות תיקי משפט וכרטיסי נתונים מחוררים מול אולם שיפוט ארכיוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "גיל רוטשילד־אליאסי מנתח את הפיכת גזירת הדין הפדרלית בארצות הברית לנתונים מאז אמצע שנות השמונים. נקודת המוצא היא שדאטפיקציה אינה תיעוד ניטרלי: כדי לתרגם החלטה משפטית מורכבת לטבלה יש לבחור אילו משתנים ייראו, אילו נסיבות ייעלמו ואילו קטגוריות יגדירו חריגה או ציות. באמצעות מעקב שיח לאורך כשני עשורים, המאמר משחזר כיצד ועדת גזירת הדין הפדרלית ביססה את הנחיות 1987 על דפוסי עבר, יצרה שפה כמותית של רמת עבירה והיסטוריה פלילית, והטמיעה אותה במדריכים, טפסים, מאגרי מידע והמחשות חזותיות. ארבעה מנגנונים מחברים בין האידאולוגיה לפרקטיקה: הרכבת השדה, הקרנה סמלית, רישום חומרי וחציית גבולות. יחד הם מסבירים מדוע ההנחיות המשיכו לעצב שופטים גם אחרי שפסק דין Booker הפך אותן ב־2005 ממחייבות למייעצות. הטיעון הביקורתי הוא שפשרת דפוסי העבר העניקה מראה אובייקטיבי למורשת ענישתית גזענית ומעמדית, ולכן אי־שוויון יכול להימשך גם בלי שחקן בעל כוונה מפלה בהווה. עם זאת, פתיחת הנתונים לחוקרים ולציבור מאפשרת גם פירוק, הקשר ונרטיבים נגדיים. מכאן הדרישה לכוון דאטפיקציה לא רק לניטרליות, אלא לאחריותיות ולצדק.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_police_collective_labour_rights_constitutionalism_summary_he",
+      "file": "democracy_police_collective_labour_rights_constitutionalism_summary_he.html",
+      "permalink": "/democracy_police_collective_labour_rights_constitutionalism_summary_he.html",
+      "sortKey": 202607160007,
+      "titleHe": "זכויות העבודה הקיבוציות של שוטרים בין חוקתנות גלובלית לחוקתנות מיליטריסטית",
+      "paperTitle": "Collective labour rights of police officers: Global labour constitutionalism and militaristic labour constitutionalism",
+      "authorsCardHe": "Lilach Litor",
+      "sourceAuthors": [
+        "Lilach Litor"
+      ],
+      "journal": "Global Constitutionalism, 12(1), 174–213",
+      "dateText": "פורסם אונליין: 23.12.2022; כרך 12, גיליון 1, עמ׳ 174–213",
+      "doiUrl": "https://doi.org/10.1017/S2045381722000235",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_police_collective_labour_rights_constitutionalism_summary_he.jpg",
+        "altHe": "שוטרים מפגינים למען העלאת שכרם ומתווכחים עם עוברי אורח בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "לילך ליטור בוחנת מדוע שוטרים, שהם עובדים בעלי צרכים כלכליים וקול מקצועי, מוחרגים לעיתים מזכויות ההתאגדות, המשא ומתן הקיבוצי והשביתה. היא מציבה זה מול זה שני דגמים חוקתיים: חוקתנות עבודה גלובלית, המשתמשת באמנות 87 ו־98 ובפרשנות גופי הפיקוח של ארגון העבודה הבין־לאומי כדי להעניק לזכויות הקיבוציות מעמד יסודי; וחוקתנות עבודה מיליטריסטית, המרחיבה את היגיון הביטחון לכל מערך המשטרה ומעדיפה שליטה היררכית. ישראל משמשת מקרה מרכזי: סעיף 93ב לפקודת המשטרה שולל התארגנות, הדין אינו מספק מנגנון חלופי עצמאי ליישוב סכסוכי עבודה, ותנאי השירות תלויים במידה רבה בהחלטות המדינה. מול האיסור הגורף מוצגים תקני הארגון ופסיקה אירופית הדורשים צורך ומידתיות, לצד הסדרים מקרואטיה, שוודיה, ברזיל ובלגיה. המאמר אינו מציע שביתה בלתי מוגבלת. הוא ממליץ על מודל עבה של התארגנות ומשא ומתן לכלל השוטרים, זכות שביתה מותנית בתפקידים שאינם חיוניים, שירות מינימלי, הודעה מראש וצווי מניעה בעת הצורך, והחרגה של תפקידי חירום ויחידות דמויות־צבא. כך ההגנה על זכויות עובדים וההגנה על הציבור נעשות שאלת עיצוב מוסדי ולא ברירה בינארית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_digital_rights_outer_limits_human_rights_summary_he",
+      "file": "democracy_digital_rights_outer_limits_human_rights_summary_he.html",
+      "permalink": "/democracy_digital_rights_outer_limits_human_rights_summary_he.html",
+      "sortKey": 202607160006,
+      "titleHe": "כשהזכויות עוברות לרשת, האם המשפט הבינלאומי חייב להשתנות?",
+      "paperTitle": "Digital Rights and the Outer Limits of International Human Rights Law",
+      "authorsCardHe": "Yuval Shany",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "German Law Journal, 24(3), 461–472",
+      "dateText": "פורסם מקוון: 22.05.2023; כרך 24, גיליון 3, עמ׳ 461–472",
+      "doiUrl": "https://doi.org/10.1017/glj.2023.35",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_digital_rights_outer_limits_human_rights_summary_he.jpg",
+        "altHe": "שני משפטנים בוחנים תיק מסמכים בספרייה משפטית הצמודה לחדר שרתים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "יובל שני בוחן כיצד המהפכה הדיגיטלית משנה לא רק את תוכנן של זכויות מסוימות אלא גם את המבנה של המשפט הבינלאומי לזכויות אדם. נקודת המוצא היא שזכויות משפטיות מתגבשות בתוך הקשר היסטורי, טכנולוגי ופוליטי באמצעות אמנות, פרשנות, פרקטיקה ומסמכי מדיניות רכים. התגובה הראשונה לעידן המקוון הייתה להחיל ברשת זכויות מוכרות כגון ביטוי ופרטיות, אך מהירות ההפצה, עודף המידע, ניתוח נתונים ויכולת המניפולציה משנים גם את ההצדקות ואת אופן האיזון שלהן. הטיפולוגיה במאמר מבחינה בשלושה דורות: פרשנות מחודשת של זכויות קיימות; זכויות חדשות כגון נגישות עצמאית לאינטרנט, הגדרה עצמית במידע והגנה מפני החלטות אוטומטיות; והצעות מרחיקות לכת להכיר באישיות דיגיטלית ובחובות ישירות של פלטפורמות וספקים. הדור השלישי חושף את גבולות המודל הקלאסי, שבו אדם טבעי מחזיק בזכות מול מדינה הפועלת בשטחה. חברות טכנולוגיה פרטיות מעצבות בפועל גישה, מידע, פרטיות ושיח ברחבי העולם, ולכן ההגנה תלויה בתחולה חוץ־טריטוריאלית, בחובות חיוביות של מדינות להסדיר עסקים ובקישור בין דיני זכויות אדם, סייבר, סחר, נשק, הגנת מידע ובינה מלאכותית. המאמר טוען שהשינויים האלה כבר מתרחשים ומאפשרים הגנה רלוונטית יותר, אך מדגיש שהם שנויים במחלוקת ועלולים לעורר התנגדות של מדינות. לא כל זכות מוצעת היא כלל מחייב, ולא ברור אם המערכת המתפתחת תדביק את כוחן של הטכנולוגיות ואת מבני השליטה החדשים. המסקנה היא שהבחירה אינה עוד בין יציבות מוחלטת לשינוי נקודתי: זכויות דיגיטליות והמסגרת הבינלאומית מעצבות זו את זו, והצלחתן תלויה גם בלגיטימיות הפוליטית של ההרחבה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_children_political_rights_un_crc_summary_he",
+      "file": "democracy_children_political_rights_un_crc_summary_he.html",
+      "permalink": "/democracy_children_political_rights_un_crc_summary_he.html",
+      "sortKey": 202607160005,
+      "titleHe": "האם אמנת זכויות הילד יכולה להכיר בזכותם של בני נוער להצביע?",
+      "paperTitle": "Children’s Political Rights and the UN Convention on the Rights of the Child",
+      "authorsCardHe": "Daniella Zlotnik Raz, Shulamit Almog",
+      "sourceAuthors": [
+        "Daniella Zlotnik Raz",
+        "Shulamit Almog"
+      ],
+      "journal": "The International Journal of Children’s Rights, 31(2), 500–523",
+      "dateText": "פורסם: 21.06.2023; כרך 31, גיליון 2, עמ׳ 500–523",
+      "doiUrl": "https://doi.org/10.1163/15718182-31020008",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_children_political_rights_un_crc_summary_he.jpg",
+        "altHe": "בני נוער יושבים לצד שר המשפטים של בנגלדש בדיון של פרלמנט הילדים בדאקה בשנת 2017",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "המאמר טוען שאמנת האו״ם בדבר זכויות הילד יכולה לשמש תשתית משפטית ורעיונית רחבה יותר לזכויות פוליטיות של ילדים ובני נוער, אף שהזכות לבחור אינה כתובה בה. האמנה מכירה בילד כנושא זכויות בהווה ומגינה על אי־הפליה, טובתו, התפתחותו, חופש ביטוי, מחשבה, התאגדות ואספה, ובעיקר על זכותו להביע עמדה ולקבל לה משקל לפי גילו ובגרותו. עם זאת, ההיסטוריה של הניסוח מלמדת שמנסחי האמנה נזהרו מסוכנות פוליטית מלאה, וועדת זכויות הילד עצמה נעה בהדרגה בלבד מהשלמה עם הדרה אל עידוד השתתפות ציבורית והורדת גיל ההצבעה. המחברות מנתחות את תלונתו של בן 16 נגד גרמניה, שנדחתה מטעמים דיוניים בלי הכרעה בשאלה המהותית, ואת פסק הדין הניו־זילנדי מ־2022 שהכיר באפליה בגיל הצבעה 18 בהקשר המשפטי המקומי. הן מציעות פרשנות תכליתית ואבולוציונית לפי דיני האמנות: לא להעמיד פנים שהטקסט כבר קובע זכות הצבעה, אלא להשתמש בעקרונותיו, בפרקטיקה המאוחרת ובהבנה המשתנה של ילדות כדי לבחון אם הדרה מוחלטת מוצדקת. מכשול מרכזי הוא היעדר הסכמה בינלאומית רחבה, שכן בעת כתיבת המאמר פחות מחמש־עשרה מדינות אפשרו הצבעה ארצית מתחת לגיל הבגרות. לכן ההצעה היא נורמטיבית והדרגתית: הוועדה יכולה לגבש הנחיות, לעודד גיל מינימום של 16, לדרוש היוועצות עם ילדים וחינוך אזרחי ולהרחיב הגנה על פעילות מפלגתית, מחאה והשתתפות דיגיטלית. המלצותיה אינן יוצרות לבדן זכות אמנתית מחייבת, אך הן עשויות לשנות את נקודת המוצא מהדרה אוטומטית לבחינה מנומקת של כשירות, שוויון וסוכנות פוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_international_constitutional_advising_dataset_summary_he",
+      "file": "democracy_international_constitutional_advising_dataset_summary_he.html",
+      "permalink": "/democracy_international_constitutional_advising_dataset_summary_he.html",
+      "sortKey": 202607160004,
+      "titleHe": "מי מייעץ למדינות לכתוב חוקה, ועד כמה מקרוב?",
+      "paperTitle": "International constitutional advising: Introducing a new dataset",
+      "authorsCardHe": "Hanna Lerner, David Futscher Pereira, Nina Schlager",
+      "sourceAuthors": [
+        "Hanna Lerner",
+        "David Futscher Pereira",
+        "Nina Schlager"
+      ],
+      "journal": "The Review of International Organizations, 20(3), 669–699",
+      "dateText": "פורסם מקוון: 05.03.2024; כרך 20, גיליון 3, עמ׳ 669–699",
+      "doiUrl": "https://doi.org/10.1007/s11558-024-09530-x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_international_constitutional_advising_dataset_summary_he.jpg",
+        "altHe": "נציגים ממדינות שונות בוחנים יחד מסמכי חוקה ומפות סביב שולחן עבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "המאמר הופך תופעה מוכרת אך מקוטעת — מעורבות חיצונית בכתיבת חוקות — למושא מחקר השוואתי. מאגר iCAO מתעד 730 צמדים של ארגון ופרויקט, שבהם 46 ארגונים בינלאומיים פעלו ב־145 מדינות בין 1989 ל־2017. המחברים מבחינים בין ארגונים בין־ממשלתיים, גופים ממשלתיים, ארגונים לא־ממשלתיים ומרכזי מחקר, ומסווגים את הפעילות בסולם בן תשע דרגות: ממימון עקיף ועד כתיבת טיוטת חוקה שלמה. המיפוי מלמד שארגונים בין־ממשלתיים דומיננטיים במספר הפרויקטים, אך גם שהמידע הציבורי מוטה לטובת גופים שקופים במיוחד, ובראשם ועדת ונציה, ושדווקא התערבויות ישירות ורגישות עשויות להיות מדווחות פחות. רוב הפעילות המתועדת אינה כתיבה חיצונית של חוקה אלא אספקת מידע, סדנאות, כלים וסיוע טכני; במאגר לא נמצא מקרה מאומת שבו ארגון כתב טיוטת חוקה שלמה. בנתונים אין קשר מובהק בין מספר היועצים או הפרויקטים לבין שיפור באיכות הדמוקרטיה. נמצאו קשרים מתונים בין ייעוץ ישיר יותר לבין שינוי חיובי במדדי דמוקרטיה, אך העיצוב התצפיתי, ברירת המדינות והאפשרות שמדינות במשבר מזמינות יותר סיוע אינם מאפשרים מסקנה סיבתית. תרומתו המרכזית של המאמר היא אפוא תשתית מושגית ואמפירית: היא מאפשרת לשאול לא רק אם התקבל ייעוץ, אלא מי נתן אותו, באיזה מרחק מתהליך הניסוח, תחת אילו נורמות של בעלות מקומית, ומה עדיין נסתר מעין הציבור.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_imprisonment_human_rights_israel_uncertainty_summary_he",
+      "file": "democracy_imprisonment_human_rights_israel_uncertainty_summary_he.html",
+      "permalink": "/democracy_imprisonment_human_rights_israel_uncertainty_summary_he.html",
+      "sortKey": 202607160003,
+      "titleHe": "מאסר וזכויות אדם בישראל: אי־ודאות ותנודתיות",
+      "paperTitle": "Imprisonment and Human Rights in Israel: Uncertainty and Volatility",
+      "authorsCardHe": "לסלי סבה, רחלה אראל",
+      "sourceAuthors": [
+        "Leslie Sebba",
+        "Rachela Er‘el"
+      ],
+      "journal": "Law & Social Inquiry, 50(4), 1053–1071",
+      "dateText": "פורסם מקוון: 6 בנובמבר 2024; כרך 50, גיליון 4 (2025), עמ׳ 1053–1071",
+      "doiUrl": "https://doi.org/10.1017/lsi.2024.43",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_imprisonment_human_rights_israel_uncertainty_summary_he.jpg",
+        "altHe": "מסדרון בית סוהר לצד דלתות תאים ואור יום במסגרת הדיון בזכויות אסירים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "לסלי סבה ורחלה אראל מציעים סקירה משפטית־סוציולוגית של היחסים בין מאסר לזכויות אדם בישראל וטוענים שאין בהם כיוון יציב של התקדמות או נסיגה. אשרור אמנות האו״ם ב־1991 וחוקי היסוד של 1992 יצרו שפה חזקה של כבוד, חירות וביקורת שיפוטית, ובית המשפט פסל בית סוהר פרטי, הוראות לכליאת מבקשי מקלט ותנאי צפיפות בלתי אנושיים. מנגד, אמנות אינן נקלטות אוטומטית בדין הישראלי, ישראל לא הצטרפה למנגנוני תלונה ופיקוח מרכזיים, ופקודת בתי הסוהר ממשיכה להעניק לנציב שיקול דעת רחב הנשען על מבנה מנדטורי. הפער ניכר בהצגת זכויות כטובות הניתנות לפי התנהגות, בבידוד מנהלי ממושך, בהזנה בכפייה, ובהסדר שיקום שאינו מקים זכות ברורה. במקביל להתפתחות החוקתית התרחבו כליאה מנהלית, החמרות בשחרור מוקדם ושליטה פוליטית בשחרור אסירים ביטחוניים; אך ועדת דורנר, פסק הדין בעניין הצפיפות והבניית שיקול הדעת בענישה פעלו בכיוון מצמצם יותר. התנודתיות נובעת מן המאבק בין משפט בין־לאומי, חקיקה, בתי משפט, רשויות הכלא, לחץ פוליטי ויוזמות מקצועיות, ולכן המחברים מזהירים שקשה לנבא אם זכויות האסירים יתחזקו או ייסוגו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_emotional_politics_israel_judicial_reform_summary_he",
+      "file": "democracy_emotional_politics_israel_judicial_reform_summary_he.html",
+      "permalink": "/democracy_emotional_politics_israel_judicial_reform_summary_he.html",
+      "sortKey": 202607160002,
+      "titleHe": "הפוליטיקה הרגשית של הרפורמה המשפטית בישראל",
+      "paperTitle": "The emotional politics of problem definition: Israel’s judicial reform in a polarized public sphere",
+      "authorsCardHe": "מיכל נויבאואר־שני, יעל רם, משה מאור",
+      "sourceAuthors": [
+        "Michal Neubauer-Shani",
+        "Yael Ram",
+        "Moshe Maor"
+      ],
+      "journal": "Policy Sciences, 59(2), 245–273",
+      "dateText": "פורסם מקוון: 21 במאי 2026; כרך 59, גיליון 2, עמ׳ 245–273",
+      "doiUrl": "https://doi.org/10.1007/s11077-026-09613-z",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_emotional_politics_israel_judicial_reform_summary_he.jpg",
+        "altHe": "מפגינים בתל אביב נושאים שלטים בעד שוויון ונגד השינויים במערכת המשפט במרץ 2023",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "מיכל נויבאואר־שני, יעל רם ומשה מאור מכניסים רגשות אל תוך שלב הגדרת הבעיה במסגרת הזרמים המרובים במדיניות ציבורית. הם מנתחים את המסרים שבאמצעותם יריב לוין ושמחה רוטמן הציגו את בית המשפט, היועצים המשפטיים והסדר החוקתי כמערכת אליטיסטית, בלתי מאוזנת ומסוכנת לריבונות הציבור. ניתוח ידני של 31 אירועים זיהה שבעה מסגורים, וסיווג בסיוע שני מודלים שימש לבדיקת יציבות הפרשנות; לאחר מכן סקר בקרב 470 יהודים בישראל מדד 20 רגשות בתגובה לשישה קטעים מייצגים ולשני הפוליטיקאים. בניגוד להשערה על רפרטוארים רגשיים שונים למחנות שונים, כמעט כל התגובות הבולטות היו שליליות בכל שלושת המחנות. ההבדל העיקרי היה בעוצמה: משיבים מן הימין דיווחו בדרך כלל על פחות שליליות ממשיבים מן המרכז והשמאל, והמחקר לא הצליח להפריד היטב בין התגובה לתוכן לבין התגובה לזהות הדובר. המחברים מפרשים את הדפוס כתואם עיגון רגשי מוקדם שמקשה למסגר מחדש את הסכסוך, אך מדגישים שהעיצוב החתכי אינו מוכיח סיבתיות ואינו מייצג את הציבור הערבי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_social_movement_unionism_global_constitutionalism_summary_he",
+      "file": "democracy_social_movement_unionism_global_constitutionalism_summary_he.html",
+      "permalink": "/democracy_social_movement_unionism_global_constitutionalism_summary_he.html",
+      "sortKey": 202607160001,
+      "titleHe": "חוקתנות גלובלית ואיגודי עובדים כתנועה חברתית",
+      "paperTitle": "Global constitutionalism and social movement unionism",
+      "authorsCardHe": "לילך ליטור",
+      "sourceAuthors": [
+        "Lilach Litor"
+      ],
+      "journal": "Global Constitutionalism, 1–37",
+      "dateText": "פורסם מקוון: 9 במרץ 2026; עמ׳ 1–37",
+      "doiUrl": "https://doi.org/10.1017/s2045381726100264",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_movement_unionism_global_constitutionalism_summary_he.jpg",
+        "altHe": "נציגי איגוד עובדים ופעילי חברה אזרחית מתכנסים לפני שביתת מחאה ציבורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-16",
+      "dateModified": "2026-07-16",
+      "summaryHe": "לילך ליטור מפתחת הצדקה נורמטיבית להרחבת ההגנה על שביתות נגד מדיניות ממשלתית. נקודת המוצא היא ההבחנה של גופי הפיקוח של ארגון העבודה הבין־לאומי בין שביתה פוליטית טהורה, שאינה קשורה לאינטרסים של עובדים, לבין שביתת מחאה העוסקת במדיניות כלכלית, חברתית או דמוקרטית המשפיעה עליהם גם כאזרחים. המאמר משלב הבחנה זו עם איגוד מקצועי כתנועה חברתית: איגודים חוברים לארגוני חברה אזרחית, לקבוצות מחאה ולציבור כדי לקדם שוויון, זכויות וצדק חברתי. רעיון החוקתנות הגלובלית מספק לטענתה גשר מן הנורמות הבין־לאומיות אל הדין המקומי, משום שחופש ההתאגדות והזכות לשבות נושאים מעמד יסודי החורג מסכסוך עבודה צר. הניתוח של שביתות בישראל ושל מקרה עובדי הנפט בברזיל מראה כיצד בתי משפט עלולים לסווג מחאה חברתית כפעולה פוליטית אסורה אף שיש לה זיקה ממשית לעובדים. המודל המוצע אינו מעניק היתר לכל שביתה פוליטית: הוא דורש קשר לאינטרסים רחבים של עובדים, מבחין בין סוגי מדיניות ומכפיף את הפגיעה בצדדים שלישיים לבחינת מידתיות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_protest_coverage_online_media_paradigm_shift_summary_he",
       "file": "democracy_protest_coverage_online_media_paradigm_shift_summary_he.html",
