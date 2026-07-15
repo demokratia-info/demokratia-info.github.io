@@ -48,7 +48,7 @@ a:focus-visible, button:focus-visible, .form-control:focus-visible, .logo-link:f
 
 .logo-wrap {
   display: grid;
-  grid-template-columns: minmax(0, 3.018fr) minmax(0, 4.113fr);
+  grid-template-columns: minmax(0, 3.112fr) minmax(0, 4.113fr);
   align-items: center;
   gap: clamp(10px, 2.3vw, 22px);
   width: min(1000px, 100%);
