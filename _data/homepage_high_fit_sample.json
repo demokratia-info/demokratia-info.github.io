@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "sampleSize": 6,
-  "seed": "2026-07-16-homepage-high-fit",
+  "seed": "2026-07-17-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 10,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_emotional_politics_israel_judicial_reform_summary_he",
-    "democracy_datafication_law_carceral_power_judges_summary_he",
-    "democracy_children_political_rights_un_crc_summary_he",
-    "democracy_imprisonment_human_rights_israel_uncertainty_summary_he",
-    "democracy_social_movement_unionism_global_constitutionalism_summary_he",
-    "democracy_police_collective_labour_rights_constitutionalism_summary_he"
+    "democracy_supreme_court_freedom_speech_rhetoric_summary_he",
+    "democracy_immigration_admission_rights_state_duties_summary_he",
+    "democracy_constitutional_preambles_interpretation_summary_he",
+    "democracy_taiwan_populist_discourses_han_kuo_yu_summary_he",
+    "democracy_populism_public_bureaucracy_crisis_summary_he",
+    "democracy_populist_champion_diplomacy_agreements_summary_he"
   ]
 }
