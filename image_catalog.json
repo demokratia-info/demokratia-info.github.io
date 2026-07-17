@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-18",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -26150,6 +26150,294 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Han_Kuo-yu_greeting_the_staff_at_the_Legislative_Yuan_2024-02-05.jpg",
       "license": "Government Website Open Information Announcement (attribution required)",
       "creator": "Unknown author; source and required attribution: Legislative Yuan, Republic of China (Taiwan)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_transnational_networked_constitutionalism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_transnational_networked_constitutionalism_summary_he.html",
+      "usedBy": [
+        "democracy_transnational_networked_constitutionalism_summary_he.html"
+      ],
+      "cardTitleHe": "חוקתיות רשתית חוצת גבולות: כיצד כללים פרטיים רוכשים סמכות",
+      "authorsHe": "אורן פרז ואופיר שטגמן",
+      "visualDescriptionHe": "מומחים ורגולטורים יושבים סביב שולחן ועליו מסמכי תקינה המחוברים בחוטים",
+      "semanticDescriptionHe": "רשת הקשרים בין המסמכים והמשתתפים ממחישה כיצד הכרה הדדית בין תקנים פרטיים יכולה ליצור סמכות חוצת גבולות ללא מרכז יחיד.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "transnational_regulation",
+        "network_governance",
+        "corporate_codes"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial scene of linked regulatory documents and a transnational working group, with no readable text, logos, or watermarks.",
+      "createdDate": "2026-07-18",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_elite_discourse_national_identity_far_right_voting_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_elite_discourse_national_identity_far_right_voting_summary_he.html",
+      "usedBy": [
+        "democracy_elite_discourse_national_identity_far_right_voting_summary_he.html"
+      ],
+      "cardTitleHe": "כשהאליטות מפעילות זהות לאומית: הדרך מהדרה להצבעה לימין הקיצוני",
+      "authorsHe": "אנטוניה סי מיי וכריסטיאן אס צימארה",
+      "visualDescriptionHe": "נואם הימין הקיצוני הגרמני ביורן הוקה פונה לקהל באירוע בחירות בנורדהאוזן",
+      "semanticDescriptionHe": "נאום קמפיין של דמות ימין קיצוני מציג את זירת השיח האליטיסטי שהמאמר קושר להפעלת זהות לאומית ולהעדפות הצבעה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "far_right",
+        "elite_discourse",
+        "national_identity",
+        "campaign_speech"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a paper-specific Wikimedia Commons documentary campaign photograph; source attribution and CC BY-SA 4.0 terms retained.",
+      "createdDate": "2026-07-18",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rn_H%C3%B6cke_Nordhausen.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bj%C3%B6rn_H%C3%B6cke_Nordhausen.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Vincent Eisfeld",
+      "provider": "Wikimedia Commons"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_radical_right_us_russia_attitudes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_radical_right_us_russia_attitudes_summary_he.html",
+      "usedBy": [
+        "democracy_radical_right_us_russia_attitudes_summary_he.html"
+      ],
+      "cardTitleHe": "בעלות ברית טבעיות? ארצות הברית ורוסיה בעיני הימין הרדיקלי בצרפת ובגרמניה",
+      "authorsHe": "טובי גרין",
+      "visualDescriptionHe": "נציגים אירופים מתווכחים סביב מפת אירופה כששני מוקדי כוח בינלאומיים נראים ברקע",
+      "semanticDescriptionHe": "חדר הדיונים והמפה ממחישים את הפיצול בתוך הימין הרדיקלי בצרפת ובגרמניה ביחס לארצות הברית ולרוסיה.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "radical_right",
+        "united_states",
+        "russia",
+        "foreign_policy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial strategy-room scene, with no readable text, logos, flags, or watermarks.",
+      "createdDate": "2026-07-18",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.html",
+      "usedBy": [
+        "democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.html"
+      ],
+      "cardTitleHe": "סף רוב מיוחס עולה נגד התבצרות אוטוקרטית של מנהיגים",
+      "authorsHe": "ראובן שפירא",
+      "visualDescriptionHe": "מנהיג ניצב מול מליאת פרלמנט צפופה שבה רבים מן החברים מרימים פתקי הצבעה",
+      "semanticDescriptionHe": "ריבוי הקולות הנדרש מול המנהיג ממחיש את רעיון ספי הרוב המיוחס העולים, שנועד להקשות על התבצרות שלטונית לאורך זמן.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "supermajority",
+        "term_limits",
+        "autocratic_entrenchment",
+        "parliament"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial parliamentary scene, with no readable text, logos, or watermarks.",
+      "createdDate": "2026-07-18",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_feminist_critique_liberalism_right_wing_populism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_feminist_critique_liberalism_right_wing_populism_summary_he.html",
+      "usedBy": [
+        "democracy_feminist_critique_liberalism_right_wing_populism_summary_he.html"
+      ],
+      "cardTitleHe": "כשהפרטי נעשה פוליטי: פמיניזם מול פופוליזם ימני",
+      "authorsHe": "גילה שטופלר",
+      "visualDescriptionHe": "קהל מגוון משתתף בצעדת הנשים במדיסון בשנת 2017",
+      "semanticDescriptionHe": "ההתארגנות הפמיניסטית במרחב הציבורי ממחישה את הטענה שהאישי הוא פוליטי ואת המאבק על שוויון מול פוליטיקה פופוליסטית ימנית.",
+      "tags": [
+        "rights-equality-minorities",
+        "feminism",
+        "right_wing_populism",
+        "womens_march",
+        "liberalism"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a paper-specific Wikimedia Commons documentary photograph of a Women’s March; source attribution and CC BY-SA 4.0 terms retained.",
+      "createdDate": "2026-07-18",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Womens-March-MadisonWI-Jan212017-31.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Womens-March-MadisonWI-Jan212017-31.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Amandalynn Jones",
+      "provider": "Wikimedia Commons"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_populist_communication_engagement_sixteen_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populist_communication_engagement_sixteen_countries_summary_he.html",
+      "usedBy": [
+        "democracy_populist_communication_engagement_sixteen_countries_summary_he.html"
+      ],
+      "cardTitleHe": "מתי מסר פופוליסטי מגייס — ומתי הוא דווקא מרחיק?",
+      "authorsHe": "מייקל המלירס ו־28 חוקרות וחוקרים",
+      "visualDescriptionHe": "משתתפים בקבוצות שונות קוראים גרסאות מודפסות של ידיעה פוליטית באולם מחקר",
+      "semanticDescriptionHe": "הסצנה ממחישה ניסוי השוואתי שבו מסרים פופוליסטיים שונים מוצגים לקוראים כדי למדוד מעורבות פוליטית בשש־עשרה מדינות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "populist_communication",
+        "political_engagement",
+        "comparative_experiment",
+        "news"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial research-hall scene, with blank printed materials and no readable text, logos, or watermarks.",
+      "createdDate": "2026-07-18",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_corruption_crime_nexus_governance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_corruption_crime_nexus_governance_summary_he.html",
+      "usedBy": [
+        "democracy_corruption_crime_nexus_governance_summary_he.html"
+      ],
+      "cardTitleHe": "כשהשחיתות והפשיעה נשזרות בתוך הממשל",
+      "authorsHe": "Ina Kubbe; Deborah Alimi; Eran Itskovich",
+      "visualDescriptionHe": "משאית מכולה עוברת מערכת סריקה לא פולשנית בנמל פילדלפיה",
+      "semanticDescriptionHe": "בדיקת מטען במרחב נמל מורכב ממחישה את הממשק בין מסחר, ביטחון, פיקוח ורשתות עברייניות שבו מתמקד ניתוח קשרי השחיתות והפשיעה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "corruption",
+        "organized_crime",
+        "port_governance",
+        "container_inspection"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a paper-specific Wikimedia Commons seaport-inspection photograph; U.S. federal public-domain source metadata retained.",
+      "createdDate": "2026-07-18",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CBP_conducts_NII_or_non-intrusive_inspections_at_Port_of_Philadelphia_(48242643151).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/CBP_conducts_NII_or_non-intrusive_inspections_at_Port_of_Philadelphia_%2848242643151%29.jpg",
+      "license": "Public domain",
+      "creator": "James Tourtellotte / CBP Photography",
+      "provider": "Wikimedia Commons"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_emotions_bureaucratic_reputation_learning_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_emotions_bureaucratic_reputation_learning_summary_he.html",
+      "usedBy": [
+        "democracy_emotions_bureaucratic_reputation_learning_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד רגשות מעצבים את המוניטין של רשויות ציבוריות",
+      "authorsHe": "Moshe Maor; Dovilė Rimkutė; Tereza Capelos",
+      "visualDescriptionHe": "אזרחים ועובדי ציבור משוחחים באולם שירות צפוף ומגיבים בדרכים שונות למידע ולמפגש",
+      "semanticDescriptionHe": "מגוון התגובות והאינטראקציות סביב הרשות הציבורית ממחיש כיצד רגשות עוברים ברשתות קהל ומשפיעים על למידת מוניטין ביורוקרטי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "bureaucratic_reputation",
+        "emotions",
+        "audience_networks",
+        "public_agency"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial public-service hall scene, with no readable text, logos, or watermarks.",
+      "createdDate": "2026-07-18",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_identity_leadership_civic_citizenship_trust_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_identity_leadership_civic_citizenship_trust_summary_he.html",
+      "usedBy": [
+        "democracy_identity_leadership_civic_citizenship_trust_summary_he.html"
+      ],
+      "cardTitleHe": "מנהיגות זהות, אמון ואזרחות פעילה: ממצאים מ־26 מדינות",
+      "authorsHe": "Lucas Monzani, Kira Bibic, S. Alexander Haslam, Rudolf Kerschreiter, Jérémy E. Wilson Lemoine, Niklas K. Steffens, Serap Arslan Akfirat, Christine Joy A. Ballada, Tahir Bazarov, John Jamir Benzon R. Aruta ואחרים",
+      "visualDescriptionHe": "מתנדבים מקומיים ואנשי צוות בינלאומיים נוטעים יחד עץ בפרויקט קהילתי באינדונזיה",
+      "semanticDescriptionHe": "הפעולה המשותפת למען הקהילה ממחישה את ההתנהגות האזרחית, האמון ושיתוף הפעולה שהמאמר קושר למנהיגות זהות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "identity_leadership",
+        "civic_citizenship",
+        "trust",
+        "community_service"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a paper-specific Wikimedia Commons community-service photograph; U.S. federal public-domain source metadata retained.",
+      "createdDate": "2026-07-18",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_Navy_100527-N-0995C-336_Sailors_work_with_Indonesian_volunteers_to_plant_a_jackfruit_tree_as_part_of_a_community_service_project_conducted_for_Naval_Engagement_Activity_Indonesia_2010.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/US_Navy_100527-N-0995C-336_Sailors_work_with_Indonesian_volunteers_to_plant_a_jackfruit_tree_as_part_of_a_community_service_project_conducted_for_Naval_Engagement_Activity_Indonesia_2010.jpg",
+      "license": "Public domain",
+      "creator": "U.S. Navy photo by Mass Communication Specialist 2nd Class Eric J. Cutright",
+      "provider": "Wikimedia Commons"
+    }
+    ,
+    {
+      "file": "html_qa/democracy_religion_street_level_bureaucracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religion_street_level_bureaucracy_summary_he.html",
+      "usedBy": [
+        "democracy_religion_street_level_bureaucracy_summary_he.html"
+      ],
+      "cardTitleHe": "דת ומינהל ציבורי בקו הראשון: שיקול דעת, שירות ואי־שביעות רצון",
+      "authorsHe": "ניבה גולן־נדיר",
+      "visualDescriptionHe": "עובדי מחלקת בנייה עירונית מעניקים שירות לתושבים לאורך דלפק ציבורי בסיאטל בשנת 1952",
+      "semanticDescriptionHe": "המפגש הישיר בין פקידים לתושבים ממחיש ביורוקרטיה בקו הראשון ושיקול דעת בשירות; התצלום אינו מציג במישרין את הממד הדתי שנבחן במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "street_level_bureaucracy",
+        "public_administration",
+        "municipal_service",
+        "religion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 landscape crop from a contextually relevant Wikimedia Commons municipal-counter photograph; CC BY 2.0 attribution retained. Standard fitness because religion is not visually established.",
+      "createdDate": "2026-07-18",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Employees_and_customers_in_Building_Department_in_King_County_Courthouse_building,_1952_(51299343784).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Employees_and_customers_in_Building_Department_in_King_County_Courthouse_building%2C_1952_%2851299343784%29.jpg",
+      "license": "CC BY 2.0",
+      "creator": "Seattle Municipal Archives",
       "provider": "Wikimedia Commons"
     }
   ],

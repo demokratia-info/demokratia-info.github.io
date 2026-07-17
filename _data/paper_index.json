@@ -1,8 +1,367 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1052,
+  "paperCount": 1062,
   "papers": [
+    {
+      "slug": "democracy_religion_street_level_bureaucracy_summary_he",
+      "file": "democracy_religion_street_level_bureaucracy_summary_he.html",
+      "permalink": "/democracy_religion_street_level_bureaucracy_summary_he.html",
+      "sortKey": 202607180010,
+      "titleHe": "דת ומינהל ציבורי בקו הראשון: שיקול דעת, שירות ואי־שביעות רצון",
+      "paperTitle": "Religion and public administration at the micro level: The lens of street‐level bureaucracy theory in democracies",
+      "authorsCardHe": "ניבה גולן־נדיר",
+      "sourceAuthors": [
+        "Niva Golan‐Nadir"
+      ],
+      "journal": "Australian Journal of Public Administration, 83(4), 736–748",
+      "dateText": "פורסם אונליין: 14 במרץ 2024; כרך 83, גיליון 4 (דצמבר 2024), עמ׳ 736–748",
+      "doiUrl": "https://doi.org/10.1111/1467-8500.12626",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religion_street_level_bureaucracy_summary_he.jpg",
+        "altHe": "עובדי מחלקת בנייה עירונית מעניקים שירות לתושבים לאורך דלפק ציבורי, כממחיש מפגש יומיומי עם ביורוקרטיה בקו הראשון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "הערת המחקר מבקשת להכניס את הדת אל לב חקר המינהל הציבורי ברמת המפגש היומיומי בין המדינה לאזרח. ניבה גולן־נדיר מבחינה בין שני מסלולים שונים. בראשון, מידת הדתיות והאמונות של עובד קו ראשון — מורה, עובד סוציאלי, רופא, רשם נישואין או פקיד אחר — משפיעות על האופן שבו הוא מפרש את הכללים ומפעיל שיקול דעת. המסלול הזה כבר נוכח בחלק מן הספרות, לרבות מחקרים על טיפול רפואי, רווחה, חינוך ונישואין. בשני, החסר בשירות אינו מתחיל באמונת הפקיד אלא במדיניות שהסדרי דת ומדינה טבועים בה: המדינה אינה מספקת שירות מסוים, או מספקת אותו רק בצורה דתית, והאזרח פוגש את החסר בקו הראשון. המסלול השני כמעט שאינו נחקר. כדי לנתח את המתח מציעה גולן־נדיר מסגרת של ״נאמנות משולשת״: טווח הפעולה שמאפשרת המדיניות, השקפתו הדתית האישית של העובד ומחויבותו לאזרח־הלקוח. עובד ציבור עשוי להיצמד לכללים, לפרשם בהתאם לאמונתו, או להשתמש ביזמות מדיניות ובייצור משותף עם שחקנים אחרים כדי לספק שירות שחסר. שלושה מחקרים קודמים מישראל משמשים המחשה: רישום נישואין דתי שהפעלתו השמרנית מעוררת אי־שביעות רצון ומעודדת פתרונות חלופיים; רבני בתי חולים שמרחיבים שירותים דתיים במסגרת תחרות בין בתי חולים; ומנהלים מקומיים שמייצרים תחבורה ציבורית בשבת יחד עם ארגונים לא־ממשלתיים. המאמר אינו מציג מחקר אמפירי חדש או מאגר נתונים, ואינו טוען שאותו מנגנון יפעל בכל דמוקרטיה. הוא מציע תוכנית מחקר השוואתית בין משטרי דת ומדינה שונים ושילוב של סקרי דעת קהל, ניתוח משפטי־ארגוני, ראיונות ותיעוד מנהלי. מבחינה נורמטיבית, דת אינה מוצגת כרעה מעצם טבעה: היא יכולה לאפשר שירות, סולידריות ומוטיבציה וגם להגביל שירותים ולהפלות. השאלה הדמוקרטית היא כיצד מדיניות, שיקול דעת ואחריותיות קובעים מי מקבל שירות שוויוני ומי נדרש לחפש חלופה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_identity_leadership_civic_citizenship_trust_summary_he",
+      "file": "democracy_identity_leadership_civic_citizenship_trust_summary_he.html",
+      "permalink": "/democracy_identity_leadership_civic_citizenship_trust_summary_he.html",
+      "sortKey": 202607180009,
+      "titleHe": "מנהיגות זהות, אמון ואזרחות פעילה: ממצאים מ־26 מדינות",
+      "paperTitle": "Political leaders' identity leadership and civic citizenship behavior: The mediating role of trust in fellow citizens and the moderating role of economic inequality",
+      "authorsCardHe": "Lucas Monzani, Kira Bibic, S. Alexander Haslam, Rudolf Kerschreiter, Jérémy E. Wilson Lemoine, Niklas K. Steffens, Serap Arslan Akfirat, Christine Joy A. Ballada, Tahir Bazarov, John Jamir Benzon R. Aruta ואחרים",
+      "sourceAuthors": [
+        "Lucas Monzani",
+        "Kira Bibic",
+        "S. Alexander Haslam",
+        "Rudolf Kerschreiter",
+        "Jérémy E. Wilson Lemoine",
+        "Niklas K. Steffens",
+        "Serap Arslan Akfirat",
+        "Christine Joy A. Ballada",
+        "Tahir Bazarov",
+        "John Jamir Benzon R. Aruta",
+        "Lorenzo Avanzi",
+        "Aldijana Bunjak",
+        "Matej Černe",
+        "Charlotte M. Edelmann",
+        "Olga Epitropaki",
+        "Katrien Fransen",
+        "Cristina García‐Ael",
+        "Steffen Giessner",
+        "Ilka Gleibs",
+        "Dorota Godlewska‐Werner",
+        "Ronit Kark",
+        "Ana Laguia Gonzalez",
+        "Hodar Lam",
+        "Anna Lupina‐Wegener",
+        "Yannis Markovits",
+        "Mazlan Maskor",
+        "Fernando Jorge Molero Alonso",
+        "Juan Antonio Moriano Leon",
+        "Pedro Neves",
+        "Daniela Pauknerová",
+        "Sylwiusz Retowski",
+        "Christine Roland‐Lévy",
+        "Adil Samekin",
+        "Tomoki Sekiguchi",
+        "Joana Story",
+        "Jeroen Stouten",
+        "Lilia Sultanova",
+        "Srinivasan Tatachari",
+        "Lisanne van Bunderen",
+        "Dina Van Dijk",
+        "Sut I. Wong",
+        "Rolf van Dick"
+      ],
+      "journal": "Political Psychology, 45(6), 979–1011",
+      "dateText": "פורסם אונליין: 4 בינואר 2024; כרך 45, גיליון 6 (דצמבר 2024), עמ׳ 979–1011",
+      "doiUrl": "https://doi.org/10.1111/pops.12952",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_identity_leadership_civic_citizenship_trust_summary_he.jpg",
+        "altHe": "מתנדבים מקומיים ובינלאומיים נוטעים עץ יחד בפרויקט קהילתי, כממחישים אמון ושיתוף פעולה אזרחי למען הכלל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "המחקר שואל כיצד מנהיגים פוליטיים יכולים לעודד אזרחים לעשות מעבר לציות לחוק ולנורמות ולפעול מרצונם למען אנשים אחרים ולמען המדינה. התשובה המוצעת היא מנהיגות זהות: מנהיגות שבונה, מייצגת, מקדמת ומעגנת תחושת שייכות משותפת — ״אנחנו״ לאומי. לפי המנגנון התיאורטי, תחושה כזאת מגדילה את נכונותם של אזרחים לתת אמון גם בבני ארצם שאינם מכירים, והאמון מניע התנדבות, עזרה הדדית ופעולה לטובת הכלל. המחברים בחנו את הטענה בנתוני פרויקט Global Identity Leadership Development מ־26 מדינות. מן המדגם המקורי הוצאו 1,068 רשומות חסרות, והניתוח כלל 6,787 משיבים. תפיסת מנהיגות הזהות של ראש המדינה נמדדה בארבעה פריטים; אמון באזרחים אחרים נמדד בפריט יחיד; והתנהגות אזרחית נמדדה בנפרד כלפי אנשים וכלפי המדינה. ברוב המדינות התקבל הדפוס הצפוי: מנהיגות זהות נקשרה להתנהגות כלפי אנשים ב־20 מתוך 26 מדינות ולהתנהגות כלפי המדינה ב־23; היא ניבאה אמון ב־25 מדינות, ואמון ניבא התנהגות כלפי אנשים ב־25 וכלפי המדינה בכל 26 המדינות. בניתוחי המדינות שעליהם מסתמך הדיון, התיווך באמצעות אמון היה מובהק ב־23 מדינות להתנהגות המכוונת לאנשים וב־25 להתנהגות המכוונת למדינה. אי־שוויון, שנמדד באמצעות מדד ג׳יני לשנת 2021, לא ניבא כשלעצמו ירידה מובהקת באמון ולא שינה את הקשר בין אמון לעזרה לאנשים. לעומת זאת, במדינות לא־שוויוניות יותר היה הקשר בין אמון לבין פעולה למען המדינה חזק יותר, וכך גם האפקט העקיף של מנהיגות הזהות דרך אמון. בישראל, בצ׳כיה ובפורטוגל התיווך כלפי אנשים לא היה מובהק, ובצ׳כיה גם האמון לא ניבא פעולה למען המדינה. זהו מחקר חתך המבוסס על מדגם נוחות ועל דיווח עצמי; הוא מצביע על קשר עקבי ורחב, אך אינו מוכיח שמנהיגות היא שגרמה לאמון או להתנהגות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_emotions_bureaucratic_reputation_learning_summary_he",
+      "file": "democracy_emotions_bureaucratic_reputation_learning_summary_he.html",
+      "permalink": "/democracy_emotions_bureaucratic_reputation_learning_summary_he.html",
+      "sortKey": 202607180008,
+      "titleHe": "כיצד רגשות מעצבים את המוניטין של רשויות ציבוריות",
+      "paperTitle": "Emotions and Reputation Learning by Audience Networks: A Research Agenda in Bureaucratic Politics",
+      "authorsCardHe": "Moshe Maor; Dovilė Rimkutė; Tereza Capelos",
+      "sourceAuthors": [
+        "Moshe Maor",
+        "Dovilė Rimkutė",
+        "Tereza Capelos"
+      ],
+      "journal": "Public Administration Review, 86(1), 156–170",
+      "dateText": "פורסם לראשונה אונליין: 2 ביולי 2025; כרך 86, גיליון 1, עמ׳ 156–170",
+      "doiUrl": "https://doi.org/10.1111/puar.70004",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_emotions_bureaucratic_reputation_learning_summary_he.jpg",
+        "altHe": "אזרחים ועובדי ציבור משוחחים באולם שירות עמוס ומגיבים בדרכים רגשיות שונות למידע ולמפגש עם הרשות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "משה מאור, דובילה רימקוטה וטרזה קפלוס מציעים מסגרת וסדר יום למחקר על האופן שבו רשתות של קהלים לומדות את המוניטין של סוכנויות ציבוריות. נקודת המוצא היא שקהל אינו גוש אחיד: אזרחים, אנשי מקצוע ומדע, שחקנים פוליטיים ומשפטיים, חברות, ארגונים ללא כוונת רווח ותקשורת מחזיקים מידע, אינטרסים וקשרים שונים. ״למידת מוניטין״ היא התהליך שבו הם יוצרים ומעדכנים אמונות סמליות על יכולתה, התנהלותה וחוקיותה של סוכנות באמצעות ניסיון ישיר, מידע עקיף ותקשורת בתוך רשתות וביניהן. המאמר מוסיף לרשת הזאת את הרגש בשני תפקידים — כתוכן של הערכה וכחלק מן התהליך שבאמצעותו מידע נקלט ומעובד. לפי גישת הרגש־כמידע, תחושה חיובית או שלילית יכולה לשמש קיצור דרך בשיפוט ואף לצבוע מידע בהתאם למצב הרוח. לפי תיאוריית האינטליגנציה הרגשית, חרדה מפעילה קשב ומעקב ומעודדת פתיחות לעדכון, בעוד כעס והתלהבות נוטים להפעיל הרגלים והיוריסטיקות ועלולים לחזק עמדה קיימת. רגשות אינטגרליים נובעים מן הסוכנות או מפעולתה; רגשות אגביתיים מקורם באירוע אחר, אך עדיין עשויים להשפיע על שיפוט הסוכנות, במיוחד כאשר מסר פוליטי מחבר ביניהם. אירוע קצר כמו משבר או שערורייה יכול להפוך לשינוי מוניטין ממושך דרך זיכרון, שיתוף וחזרה ברשת. המחברים מציעים לבחון כיצד רגשות משפיעים על ארבעה ממדי מוניטין — טכני, ביצועי, משפטי־פרוצדורלי ומוסרי — וכן על אינטראקציות ישירות ועקיפות, כוחן של רשתות, זמן ואסטרטגיות תקשורת של סוכנויות. המשמעות הדמוקרטית היא שמוניטין משפיע על אמון, לגיטימיות, סמכות ואוטונומיה מנהלית, ולכן תקשורת ציבורית צריכה להיות מדויקת ורגישה להטרוגניות רגשית בלי לגלוש למניפולציה. זהו מאמר תיאורטי המנסח השערות ושאלות למחקר עתידי; הוא אינו מציג מדגם מקורי או אומדני השפעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_corruption_crime_nexus_governance_summary_he",
+      "file": "democracy_corruption_crime_nexus_governance_summary_he.html",
+      "permalink": "/democracy_corruption_crime_nexus_governance_summary_he.html",
+      "sortKey": 202607180007,
+      "titleHe": "כשהשחיתות והפשיעה נשזרות בתוך הממשל",
+      "paperTitle": "Navigating interlaced spaces: the corruption–crime nexus and the erosion of democratic governance",
+      "authorsCardHe": "Ina Kubbe; Deborah Alimi; Eran Itskovich",
+      "sourceAuthors": [
+        "Ina Kubbe",
+        "Deborah Alimi",
+        "Eran Itskovich"
+      ],
+      "journal": "Frontiers in Political Science, 8:1780702",
+      "dateText": "פורסם: 26 ביוני 2026; כרך 8, מאמר 1780702",
+      "doiUrl": "https://doi.org/10.3389/fpos.2026.1780702",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_corruption_crime_nexus_governance_summary_he.jpg",
+        "altHe": "מתחם נמל וגבול שבו מכולות, מחסומים, פקחים ונציגים ציבוריים ופרטיים נפגשים תחת שכבות סמכות חופפות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "אינה קובה, דבורה אלימי וערן איצקוביץ' מציעים להסיט את המבט מאירועי שוחד או חדירה פלילית בודדים אל ״מרחבים שזורים״ שבהם סמכות ציבורית, אינטרסים מסחריים, צורכי ביטחון ורשתות לא־פורמליות חופפים. באמצעות ניתוח איכותני השוואתי של מסמכי מדיניות, דוחות מוסדיים, תחקירים ומחקרי מקרה, הם בוחנים שלושה אתרים אסטרטגיים: נמל מרסיי בצרפת, משטר גבול אזרחי־צבאי היברידי בישראל ונמל טנג'יר מד במרוקו. בכל אתר נוצר סידור ממשלי אחר. במרסיי, הפרטה וסמכות מפוצלת מעודדות התאמות ביורוקרטיות בשם יעילות ותנועת מטענים; במשטר הגבול הישראלי, היגיון של ביטחון ושליטה מאפשר אכיפה בררנית ואזרחות א־סימטרית; ובטנג'יר מד, ממשל פיתוחי ריכוזי מקדם צמיחה ויציבות באמצעות חוקיות הנתונה למשא ומתן. הניתוח מזהה מנגנונים של לכידה תפעולית, ממשל א־סימטרי וסחף נורמטיבי, ומחבר אותם לשלוש תוצאות רחבות: שחיקה נורמטיבית של שוויון משפטי, פיצול מרחבי של הפיקוח והסתגלות מוסדית המנרמלת פרקטיקות חריגות. הטענה הדמוקרטית היא שהשחיקה אינה חייבת להתחיל בהשתלטות גלויה על המדינה; היא יכולה להצטבר בתוך סדרי ממשל יומיומיים הנחשבים יעילים, ביטחוניים או מפתחים. מסגרת NAVIGAT שמציע המאמר נועדה לסייע בזיהוי יחסי הסמכות והרשתות בתוך אתרים כאלה ולהתאים להם אחריותיות חוצת־תחומים. ההמלצה אינה אכיפה פלילית בלבד, אלא חיבור בין גופי פיקוח, שקיפות ברכש ובשרשראות עבודה, שיתוף מידע ואחריות ברורה גם כשסמכויות ציבוריות ופרטיות חופפות. זהו מחקר איכותני ראשוני המבוסס בעיקר על תיעוד ומקורות משניים; שלושת המקרים הם אבחוניים וממחישים מנגנונים, ואינם אומדן לשכיחותם או הוכחה סיבתית אחידה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populist_communication_engagement_sixteen_countries_summary_he",
+      "file": "democracy_populist_communication_engagement_sixteen_countries_summary_he.html",
+      "permalink": "/democracy_populist_communication_engagement_sixteen_countries_summary_he.html",
+      "sortKey": 202607180006,
+      "titleHe": "מתי מסר פופוליסטי מגייס — ומתי הוא דווקא מרחיק?",
+      "paperTitle": "Start Spreading the News: A Comparative Experiment on the Effects of Populist Communication on Political Engagement in Sixteen European Countries",
+      "authorsCardHe": "מייקל המלירס ו־28 חוקרות וחוקרים",
+      "sourceAuthors": [
+        "Michael Hameleers",
+        "Linda Bos",
+        "Nayla Fawzi",
+        "Carsten Reinemann",
+        "Ioannis Andreadis",
+        "Nicoleta Corbu",
+        "Christian Schemer",
+        "Anne Schulz",
+        "Tamir Shaefer",
+        "Toril Aalberg",
+        "Sofia Axelsson",
+        "Rosa Berganza",
+        "Cristina Cremonesi",
+        "Stefan Dahlberg",
+        "Claes H. de Vreese",
+        "Agnieszka Hess",
+        "Evangelia Kartsounidou",
+        "Dominika Kasprowicz",
+        "Jörg Matthes",
+        "Elena Negrea-Busuioc",
+        "Signe Ringdal",
+        "Susana Salgado",
+        "Karen Sanders",
+        "Desirée Schmuck",
+        "Jesper Strömbäck",
+        "Jane Suiter",
+        "Hajo Boomgaarden",
+        "Keren Tenenboim‐Weinblatt",
+        "Naama Weiss-Yaniv"
+      ],
+      "journal": "The International Journal of Press/Politics, 23(4), 517–538",
+      "dateText": "פורסם אונליין: 2 באוגוסט 2018; כרך 23, גיליון 4, עמ׳ 517–538",
+      "doiUrl": "https://doi.org/10.1177/1940161218786786",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populist_communication_engagement_sixteen_countries_summary_he.jpg",
+        "altHe": "משתתפים מקבוצות שונות קוראים גרסאות מודפסות של ידיעה פוליטית במסגרת ניסוי השוואתי רב־מדינתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "מייקל המלירס ו־28 עמיתים בוחנים אם תקשורת פופוליסטית מגייסת אזרחים למעורבות פוליטית באותו אופן במדינות שונות. הם ערכו בתחילת 2017 ניסוי מקוון בעל עיצוב זהה ב־16 מדינות, ובו 15,412 משתתפים במדגם האנליטי נחשפו לידיעה בדויה על ירידה צפויה בכוח הקנייה. בניסוי הופעל או הושמט מסר המעמיד את ״העם״ במרכז, ובמקביל הוטלה האחריות על אליטות פוליטיות, מהגרים או עשירים; שתי קבוצות ביקורת אפשרו להפריד בין רכיבי המסר. פנייה לעם לבדה או האשמת האליטה לבדה לא העלו באופן מובהק את המעורבות, אך שילובן יצר מסר אנטי־אליטיסטי מלא שהגביר אותה. לעומת זאת, מסר משולב שהאשים מהגרים הפחית מעורבות, והמחקר לא מצא שמסרים מלאים של פופוליזם מן השמאל ומן הימין מגייסים באותה מידה. ההשפעות השתנו לפי ההקשר: אבטלה גבוהה יותר חיזקה הן את האפקט המגייס של האשמת האליטה והן את האפקט המדכא של האשמת מהגרים, בעוד שיעור ההגירה לא הסביר הבדלים מקבילים. גם ההצלחה האלקטורלית של מפלגות פופוליסטיות מן הימין או השמאל נקשרה לדפוסי תגובה שונים לרמזים. התרומה היא הבחנה בין רכיבי תקשורת שאינם פועלים לבדם לבין מסרים שלמים והקשרים לאומיים שנותנים להם משמעות. זהו ניסוי המאפשר לייחס הבדלים מיידיים לנוסח הידיעה, אך הוא בוחן נושא אחד, חשיפה אחת ומדדי נכונות למעורבות או להפצת הידיעה; אין להסיק ממנו לבדו על השתתפות פוליטית ממושכת או על כל סוגי המסרים הפופוליסטיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_feminist_critique_liberalism_right_wing_populism_summary_he",
+      "file": "democracy_feminist_critique_liberalism_right_wing_populism_summary_he.html",
+      "permalink": "/democracy_feminist_critique_liberalism_right_wing_populism_summary_he.html",
+      "sortKey": 202607180005,
+      "titleHe": "כשהפרטי נעשה פוליטי: פמיניזם מול פופוליזם ימני",
+      "paperTitle": "The personal is political: The feminist critique of liberalism and the challenge of right-wing populism",
+      "authorsCardHe": "גילה שטופלר",
+      "sourceAuthors": [
+        "Gila Stopler"
+      ],
+      "journal": "International Journal of Constitutional Law, 19(2), 393–402",
+      "dateText": "פורסם אונליין: 8 במאי 2021; כרך 19, גיליון 2, עמ׳ 393–402",
+      "doiUrl": "https://doi.org/10.1093/icon/moab032",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_feminist_critique_liberalism_right_wing_populism_summary_he.jpg",
+        "altHe": "קהל מגוון משתתף בצעדת נשים ציבורית, כממחיש מאבק פמיניסטי המבקש להפוך חוויות אישיות לסוגיה פוליטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "גילה שטופלר בוחנת כיצד אחת מנקודות התורפה של הליברליזם הפוליטי מסייעת להבין את כוחו של הפופוליזם הימני. הליברליזם הפוליטי תובע שוויון וכיבוד זכויות במרחב הציבורי, אך מותיר לפרטים ולקהילות מרחב רחב להחזיק בתפיסות עולם לא־ליברליות בתחום הפרטי. הביקורת הפמיניסטית התריעה מזמן שהחלוקה הזאת אינה ניטרלית: המשפחה, הדת והקהילה מעצבות כוח, זהות והזדמנויות, ולכן אי־שוויון הנשמר בהן אינו נשאר באמת מחוץ לפוליטיקה. המאמר טוען שפופוליזם ימני מנצל את המאגר הזה בכיוון ההפוך מן הפמיניזם. במקום להרחיב שוויון וזכויות אל המרחב הפרטי, הוא מגייס דעות קדומות דתיות ולאומניות שצמחו שם ומבקש להפוך אותן למדיניות ציבורית. כדי לעשות זאת הוא מציג בתי משפט, נורמות חוקתיות ומוסדות מתווכים כאליטה החוסמת את רצון העם, ומערער את המחסום המוסדי שעליו סמך הליברליזם כדי להחזיק תפיסות לא־ליברליות מחוץ לכפייה המדינתית. הדיון בהונגריה של ויקטור אורבן, בפולין תחת מפלגת חוק וצדק ובברית בין דונלד טראמפ לימין הדתי בארצות הברית ממחיש כיצד משפחה, דת ולאום הופכים למשאבים של פרויקט אנטי־פלורליסטי. תרומת המאמר היא אבחנה נורמטיבית ומוסדית, לא בדיקה אמפירית השוואתית: הוא מסביר מדוע הגנה על המרחב הציבורי בלבד אינה מספיקה, וקורא לחשיבה מחודשת על הגבולות בין אוטונומיה פרטית, שוויון והגנה חוקתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_autocratic_entrenchment_escalating_supermajorities_summary_he",
+      "file": "democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.html",
+      "permalink": "/democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.html",
+      "sortKey": 202607180004,
+      "titleHe": "סף רוב מיוחס עולה נגד התבצרות אוטוקרטית של מנהיגים",
+      "paperTitle": "Preventing leaders' autocratic entrenchment by exponential super-majority threshold escalators",
+      "authorsCardHe": "ראובן שפירא",
+      "sourceAuthors": [
+        "Reuven Shapira"
+      ],
+      "journal": "Frontiers in Political Science, 5, Article 1173646",
+      "dateText": "פורסם: 2.11.2023; כרך 5, מאמר 1173646",
+      "doiUrl": "https://doi.org/10.3389/fpos.2023.1173646",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_autocratic_entrenchment_escalating_supermajorities_summary_he.jpg",
+        "altHe": "מנהיג ניצב מול מליאת פרלמנט גדושה בפתקי הצבעה מורמים, כממחישה דרישת רוב מיוחס ההולכת ומכבידה על הארכת כהונתו",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "ראובן שפירא טוען שמגבלות כהונה רגילות מטפלות במשך השהייה בתפקיד אך אינן מנטרלות את המקור המרכזי להתבצרות: היתרונות שמנהיג מכהן צובר עם הזמן, ובהם חשיפה ציבורית, שליטה במינויים, קשרים, משאבים ויכולת להרתיע יריבים. מנהיג יכול לשנות את החוקה, להציב נאמן בתפקיד ביניים או לשוב לאחר הפסקה, ולכן איסור פורמלי על כהונה שלישית אינו תמיד מגן על הדמוקרטיה. החלופה המוצעת היא ״סולם מעריכי״ של רוב מיוחס. לפי הדוגמה המרכזית, בחירה מחדש לכהונה שנייה נשארת כפופה לרוב רגיל; לכהונה שלישית המכהן צריך 60 אחוזים, לרביעית 75 אחוזים ולחמישית 95 אחוזים. יריבים שאינם מכהנים זקוקים לרוב רגיל. אם המכהן מקבל יותר מכל יריב אך אינו עובר את הסף, הוא נפסל מסיבוב שני, והמתמודדים האחרים מתחרים ביניהם כדי להעניק לזוכה מנדט ברור. הסף הגבוה אמור לקזז את הצטברות הכוח ולאפשר רק למנהיגים שנהנים מאמון ציבורי חריג לכהן שלוש או ארבע כהונות. סף של 95 אחוזים הופך בפועל את הכהונה הרביעית לאחרונה כמעט תמיד, ובכך יוצר אופק ירושה בלי איסור מוחלט מוקדם. שפירא משווה את ההצעה לסולם ליניארי של 60, 65 ו־70 אחוזים וטוען שעלייה מתונה אינה מדביקה את צמיחת יתרון המכהן. הוא נעזר בדוגמאות היסטוריות ובהן פוטין, רוזוולט, בן־גוריון וכלל של 60 אחוזים שהפעילה מפלגת העבודה הישראלית ב־1977, אך אינו בוחן את המנגנון בניסוי, במודל השוואתי או ביישום חוקתי מדינתי. לכן יש לראות במספרים עיצוב מוסדי מוצע, לא ממצא מוכח. ההצעה מחדדת דילמה אמיתית בין רציפות של הנהגה מוצלחת לבין חילופי שלטון, אך מותירה שאלות קשות על שוויון בין מועמדים, התאמה למשטרים פרלמנטריים, מניפולציה של בחירות ואכיפה כאשר מנהיג כבר החליש את מוסדות הפיקוח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_radical_right_us_russia_attitudes_summary_he",
+      "file": "democracy_radical_right_us_russia_attitudes_summary_he.html",
+      "permalink": "/democracy_radical_right_us_russia_attitudes_summary_he.html",
+      "sortKey": 202607180003,
+      "titleHe": "בעלות ברית טבעיות? ארצות הברית ורוסיה בעיני הימין הרדיקלי בצרפת ובגרמניה",
+      "paperTitle": "Natural allies? Varieties of attitudes towards the United States and Russia within the French and German radical right",
+      "authorsCardHe": "טובי גרין",
+      "sourceAuthors": [
+        "Toby Greene"
+      ],
+      "journal": "Nations and Nationalism, 29(4), 1321–1337",
+      "dateText": "פורסם ברשת: 18.5.2023; כרך 29, גיליון 4, עמ׳ 1321–1337",
+      "doiUrl": "https://doi.org/10.1111/nana.12957",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_radical_right_us_russia_attitudes_summary_he.jpg",
+        "altHe": "נציגים אירופים מתווכחים סביב מפת אירופה כשברקע שני מוקדי כוח בינלאומיים, כממחישה עמדות שונות כלפי ארצות הברית ורוסיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "טובי גרין מערער על ההנחה שלימין הרדיקלי האירופי יש מדיניות חוץ אחידה או שקרבה אידאולוגית לרוסיה הופכת אותה אוטומטית ל״בעלת ברית טבעית״. הוא משווה בין Alternative für Deutschland הגרמנית לבין Rassemblement National הצרפתית, שתי מפלגות שונות מאוד במבנה ובהיסטוריה, ומנתח ראיונות עומק עם נבחרים בהווה ובעבר לצד מצעים והתבטאויות מנהיגים. בשתי המפלגות הוא מזהה שונות פנימית דומה. מרואיינים שתפסו אירועים בינלאומיים בעיקר דרך עימות מוסרי בין ״העם״ לבין ״אליטה״ עוינת, ולעיתים אימצו הסברים קונספירטיביים, נטו לעמדה רוויזיוניסטית יותר: אנטי־אמריקאיות חריפה יותר, נכונות להתרחק מנאט״ו וממסגרות ביטחון מערביות, ופתיחות רבה יותר לשותפות עם רוסיה. לעומתם, מי שלא ייחסו כוח מסביר מרכזי לקנוניה של אליטות הבחינו אמנם בין אינטרסים לאומיים לבין דרישות וושינגטון, אך המשיכו לראות בדמוקרטיות המערב קהילה של ערכים ותרבות ונקטו זהירות גדולה יותר כלפי מוסקבה. כך מתברר שהמחלוקת אינה רק על מדיניות מסוימת, אלא על גבולות הקרבה החוצת־לאומים: האם בני הברית הטבעיים הם דמוקרטיות ליברליות החולקות מוסדות וערכים, או כוחות ריבוניים ושמרניים המתנגדים כביכול לאליטה גלובלית. הדמיון בדפוס הפנימי בולט דווקא משום שה־RN היא מפלגה ריכוזית יותר וה־AfD מפוצלת ופדרלית יותר. המאמר אינו טוען שכל מי שמבקר את ארצות הברית או תומך בדיאלוג עם רוסיה הוא קונספירטיבי, ואינו מודד קשר סטטיסטי באוכלוסיית המפלגות. זוהי חקירה איכותנית של מספר מוגבל של מרואיינים, וחלק מן הראיונות קדמו לפלישה הרוסית המלאה לאוקראינה ב־2022. תרומתה היא בזיהוי מנגנון פרשני אפשרי ובהצגת הימין הרדיקלי כזירה של מאבק על זהות בין־לאומית, ולא כגוש פרו־רוסי או אנטי־אמריקאי אחיד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_elite_discourse_national_identity_far_right_voting_summary_he",
+      "file": "democracy_elite_discourse_national_identity_far_right_voting_summary_he.html",
+      "permalink": "/democracy_elite_discourse_national_identity_far_right_voting_summary_he.html",
+      "sortKey": 202607180002,
+      "titleHe": "כשהאליטות מפעילות זהות לאומית: הדרך מהדרה להצבעה לימין הקיצוני",
+      "paperTitle": "Careless whisper: Political elite discourses activate national identities for far-right voting preferences",
+      "authorsCardHe": "אנטוניה סי מיי וכריסטיאן אס צימארה",
+      "sourceAuthors": [
+        "Antonia C May",
+        "Christian S Czymara"
+      ],
+      "journal": "Nations and Nationalism, 30(1), 90–109",
+      "dateText": "פורסם ברשת: 7.9.2023; נדפס בכרך 30, גיליון 1, עמ׳ 90–109 (2024)",
+      "doiUrl": "https://doi.org/10.1111/nana.12985",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_elite_discourse_national_identity_far_right_voting_summary_he.jpg",
+        "altHe": "נואם מן הימין הקיצוני פונה לקהל באירוע בחירות, כממחיש כיצד מסרים של אליטות פוליטיות מגיעים אל מצביעים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "אנטוניה מיי וכריסטיאן צימארה יוצאים מחידה אמפירית: יותר ממחצית מן המשיבים בסקרים האירופיים מחזיקים תפיסה מצמצמת של השתייכות לאומה, אך רק מיעוט מעדיף מפלגות ימין קיצוני. הם מציעים שהזהות אינה מתורגמת אוטומטית לבחירה פוליטית; כדי שתיעשה רלוונטית להצבעה, השיח של האליטות צריך ״להפעיל״ אותה. המחקר מחבר נתונים מתואמים מסקרי ISSP ו־EVS עם נתוני Manifesto Project על מצעי מפלגות בשנים 1995–2020. לאחר השמטת תצפיות חסרות, המדגם האנליטי כולל 127,409 בני 18 ומעלה שנולדו במדינה, ב־26 מדינות וב־104 צירופי מדינה־שנה. ניתוח מחלקות לטנטיות מזהה בכל חמשת גלי הסקר טיפוס עקבי שמציב חסמי כניסה גבוהים ללאום, כגון לידה במדינה, שפה, מגורים ממושכים, מוצא וכיבוד מוסדותיה. העדפת הימין הקיצוני שכיחה יותר בקרב בעלי זהות כזאת, אך ההבדל תלוי באקלים הפוליטי. כאשר המפלגות במדינה מקדישות מקום רב יותר לשבח אורח החיים הלאומי, להגבלת הגירה ולהסתייגות מרב־תרבותיות, הקשר בין זהות מדירה לבין העדפת ימין קיצוני מתחזק במובהק. באומדן המוצג, הפער החזוי בין בעלי זהות מדירה לאחרים נע מכ־1.4 נקודות אחוז ברמה הנמוכה של שיח מדיר לכ־15.9 נקודות ברמה הגבוהה, אם כי אי־הוודאות גדלה בקצה זה. בדיקות חלופיות של סיווג מפלגות, מדידת שיח ומפרט סטטיסטי משמרות את הכיוון הכללי. הממצא חשוב במיוחד למפלגות ממסדיות: אימוץ רטוריקה מדירה כדי להשיב מצביעים עשוי דווקא להפוך זהויות חבויות לשיקול אלקטורלי ולחזק את הימין הקיצוני. עם זאת, זהו מחקר תצפיתי של חתכי רוחב חוזרים, ותוצאת ההצבעה מאחדת כוונה, בחירה קודמת והעדפת מפלגה. לכן הוא תומך במנגנון ההפעלה ובהשתנות בתוך מדינות, אך אינו מוכיח לבדו שהרטוריקה גרמה לכל אדם לשנות את הצבעתו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_transnational_networked_constitutionalism_summary_he",
+      "file": "democracy_transnational_networked_constitutionalism_summary_he.html",
+      "permalink": "/democracy_transnational_networked_constitutionalism_summary_he.html",
+      "sortKey": 202607180001,
+      "titleHe": "חוקתיות רשתית חוצת גבולות: כיצד כללים פרטיים רוכשים סמכות",
+      "paperTitle": "Transnational Networked Constitutionalism",
+      "authorsCardHe": "אורן פרז ואופיר שטגמן",
+      "sourceAuthors": [
+        "Oren Perez",
+        "Ofir Stegmann"
+      ],
+      "journal": "Journal of Law and Society, 45(S1), S135–S162",
+      "dateText": "פורסם ברשת: 18.7.2018; כרך 45, גיליון מיוחד S1, עמ׳ S135–S162",
+      "doiUrl": "https://doi.org/10.1111/jols.12107",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_transnational_networked_constitutionalism_summary_he.jpg",
+        "altHe": "רשת של מסמכי תקינה וחותמות אחריות תאגידית המחוברים בקווי הפניה הדדיים, כממחישה חוקתיות חוצת גבולות ללא מרכז יחיד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-18",
+      "dateModified": "2026-07-18",
+      "summaryHe": "אורן פרז ואופיר שטגמן שואלים כיצד נוצרת סמכות חוקתית בזירות גלובליות שבהן אין מדינה עולמית, מחוקק עליון או מדרג משפטי מוסכם. תשובתם היא ״חוקתיות רשתית״: קודים פרטיים, תקנים מקצועיים וארגוני פיקוח אינם מקבלים את מעמדם רק מכוח מקור יחיד, אלא מכוח יחסים מצטברים של הפניה, אימוץ והכרה הדדית. המאמר מבחין בין הפניה עצמית, שבה משטר מסדיר ומצדיק את עצמו; הפניה צולבת, שבה קוד אחד מכיר בכללים או במנגנונים של אחר; והפניה חיצונית אל משפט ציבורי, ארגונים בין־ממשלתיים או כללים תאגידיים. כאשר קשרים כאלה נעשים צפופים וחוזרים במחזורים, הם עשויים ליצור מערכת שבה כל רכיב מחזק את סמכותם של אחרים. כדי לבדוק אם התיאור הזה מתאים לעולם הממשי, המחברים מנתחים רשת של 57 קודים בולטים לאחריות חברתית תאגידית. הם מזהים חמש אשכולות, הבדלים בין גופים שמקבלים הפניות רבות לבין כאלה שמפנים החוצה, ומחזורי הכרה שמחברים חלק ניכר מן השדה. הממצא אינו מוכיח שקמה חוקה גלובלית מלאה, אך הוא מספק תמיכה ראשונית בטענה שסמכות יכולה להתגבש כתכונה של רשת ולא כנכס של מוסד בודד. למודל יש יתרון דמוקרטי אפשרי: שקיפות, ניטור עמיתים ותלות הדדית יכולים ליצור אחריות אופקית גם בהיעדר שלטון מרכזי. עם זאת, הכרה הדדית בין גופים פרטיים אינה שקולה להסכמת אזרחים, ובעלי כוח יכולים לקבוע את תנאי הכניסה לרשת ואת משמעות התקנים. לכן המאמר מציג חוקתיות רשתית גם כהסבר לכוח שכבר קיים וגם כהזמנה לבחון אם מנגנוני ההכרה, ההשתתפות והביקורת שלו ראויים ללגיטימציה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_taiwan_populist_discourses_han_kuo_yu_summary_he",
       "file": "democracy_taiwan_populist_discourses_han_kuo_yu_summary_he.html",
