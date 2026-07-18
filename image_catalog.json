@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-18",
+  "lastUpdated": "2026-07-19",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -26439,6 +26439,286 @@
       "license": "CC BY 2.0",
       "creator": "Seattle Municipal Archives",
       "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_positive_emotions_populist_radical_right_appeal_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_positive_emotions_populist_radical_right_appeal_summary_he.html",
+      "usedBy": [
+        "democracy_positive_emotions_populist_radical_right_appeal_summary_he.html"
+      ],
+      "cardTitleHe": "לא רק כעס ופחד: הקוקטייל הרגשי של הימין הפופוליסטי הרדיקלי",
+      "authorsHe": "Tristan Klingelhöfer",
+      "visualDescriptionHe": "נואם בעצרת בחירות פונה לקהל נלהב ומחויך במרחב ציבורי אירופי",
+      "semanticDescriptionHe": "העצרת ממחישה כיצד תקווה, גאווה והתלהבות יכולות להופיע לצד מסרים פופוליסטיים רדיקליים ולרכך את דימוים.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "positive_emotions",
+        "populist_radical_right",
+        "campaigns"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial rally scene with no identifiable party, readable text, logos, flags, or watermarks. Standard fitness because it is a conceptual scene.",
+      "createdDate": "2026-07-19",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_street_level_bureaucrats_public_value_job_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_street_level_bureaucrats_public_value_job_summary_he.html",
+      "usedBy": [
+        "democracy_street_level_bureaucrats_public_value_job_summary_he.html"
+      ],
+      "cardTitleHe": "כשהשוטר נעשה גם כתובת לרווחה: יצירת ערך ציבורי בקו הראשון",
+      "authorsHe": "עינת לביא וגליה כהן",
+      "visualDescriptionHe": "שוטרים, מתנדבים ותושבים בטקס הוקרה לתוכנית שיטור קהילתי בסינגפור",
+      "semanticDescriptionHe": "המפגש בין שוטרים לתושבים ממחיש כיצד עובדי קו ראשון מפרשים את תפקידם מעבר לאכיפה המקצועית הצרה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "street_level_bureaucracy",
+        "public_value",
+        "community_policing",
+        "professional_role"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons community-policing photograph; CC BY-SA 4.0 attribution and share-alike terms retained. Standard fitness because it illustrates the service context rather than the study participants.",
+      "createdDate": "2026-07-19",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Citizens_on_Patrol_community_policing.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Citizens_on_Patrol_community_policing.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Ronggy",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_intergovernmental_accountability_institutional_change_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_intergovernmental_accountability_institutional_change_summary_he.html",
+      "usedBy": [
+        "democracy_intergovernmental_accountability_institutional_change_summary_he.html"
+      ],
+      "cardTitleHe": "פערי אחריותיות ושינוי מוסדי בין שלטון מרכזי למקומי",
+      "authorsHe": "Joseph Benveniste; Shlomo Mizrahi",
+      "visualDescriptionHe": "נציגים מדרגי ממשל שונים דנים במפות ובמסמכי מדיניות סביב שולחן משותף",
+      "semanticDescriptionHe": "הדיון המשותף ממחיש את חלוקת הסמכות, פערי האחריותיות והמשא ומתן בין דרגי ממשל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "accountability",
+        "intergovernmental_relations",
+        "institutional_change",
+        "multilevel_governance"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial intergovernmental meeting scene, with no readable text, logos, flags, or watermarks. Standard fitness because it is conceptual.",
+      "createdDate": "2026-07-19",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_career_lay_officials_citizen_claims_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_career_lay_officials_citizen_claims_summary_he.html",
+      "usedBy": [
+        "democracy_career_lay_officials_citizen_claims_summary_he.html"
+      ],
+      "cardTitleHe": "האם צוותים מעורבים מטים הכרעות מנהליות לטובת האזרח?",
+      "authorsHe": "Sagi Gershgoren; Nissim Cohen",
+      "visualDescriptionHe": "אולם דיונים שיפוטי ריק מנקודת המבט של חברי ההרכב",
+      "semanticDescriptionHe": "חלל הדיון ממחיש את הזירה שבה נציגים מקצועיים ונציגי ציבור בוחנים יחד תביעות מנהליות של אזרחים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "lay_officials",
+        "administrative_appeals",
+        "citizen_claims"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons courtroom photograph; CC BY-SA 4.0 attribution and share-alike terms retained. Standard fitness because the room is illustrative and empty.",
+      "createdDate": "2026-07-19",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtroom,_Judges_view.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Courtroom%2C_Judges_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "GWC2025",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_police_protest_violence_street_level_bureaucracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_police_protest_violence_street_level_bureaucracy_summary_he.html",
+      "usedBy": [
+        "democracy_police_protest_violence_street_level_bureaucracy_summary_he.html"
+      ],
+      "cardTitleHe": "מתי שוטרים מפעילים אלימות כלפי מפגינים?",
+      "authorsHe": "Rafael Alcadipani; Gabriela Lotta; Nissim Cohen",
+      "visualDescriptionHe": "קו שוטרים ניצב מול קהל מפגינים ברחוב בלונדון במהלך מחאת G20",
+      "semanticDescriptionHe": "העימות החזותי בין קו המשטרה לקהל ממחיש את סביבת הלחץ והאינטראקציה שבה שוטרים מקבלים החלטות על שימוש בכוח.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "police_violence",
+        "protest",
+        "street_level_bureaucracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons G20 protest photograph; CC BY 2.0 attribution retained. Standard fitness because the photographed event is illustrative rather than a study case.",
+      "createdDate": "2026-07-19",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:G20_crowd_and_police_lines.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/G20_crowd_and_police_lines.jpg",
+      "license": "CC BY 2.0",
+      "creator": "felixthehat",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_low_status_street_bureaucrats_burdens_coping_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_low_status_street_bureaucrats_burdens_coping_summary_he.html",
+      "usedBy": [
+        "democracy_low_status_street_bureaucrats_burdens_coping_summary_he.html"
+      ],
+      "cardTitleHe": "לא נפרדים, אך בהחלט לא שווים בשירות הציבורי",
+      "authorsHe": "Gabriela Lotta; Morgana G. Martins Krieger; Nissim Cohen; Charles Kirschbaum",
+      "visualDescriptionHe": "עובדות קו ראשון מטפלות בתושבים ובתיקים רבים במרפאה שכונתית עמוסה",
+      "semanticDescriptionHe": "העומס, הצפיפות ומיעוט המשאבים ממחישים את הנטל ואת אסטרטגיות ההתמודדות של עובדי קו ראשון בעלי מעמד נמוך.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "low_status_bureaucrats",
+        "administrative_burdens",
+        "coping_strategies"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial neighborhood-clinic scene with no readable text, logos, or watermarks. Standard fitness because it is conceptual.",
+      "createdDate": "2026-07-19",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_market_social_government_credibility_tradeoffs_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_market_social_government_credibility_tradeoffs_summary_he.html",
+      "usedBy": [
+        "democracy_market_social_government_credibility_tradeoffs_summary_he.html"
+      ],
+      "cardTitleHe": "אמינות כלפי השווקים או כלפי האזרחים? המחיר הפוליטי של קשירת ידי הממשלה",
+      "authorsHe": "Michal Koreh; Ronen Mandelkern",
+      "visualDescriptionHe": "ישיבת מדיניות שבה נציגי כלכלה וחברה מציגים למקבלת החלטות שיקולים מתחרים",
+      "semanticDescriptionHe": "שני צדי השולחן ממחישים את המתח בין אמינות כלפי שווקים לבין אמינות חברתית כלפי ציבור האזרחים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "government_credibility",
+        "market_credibility",
+        "social_credibility",
+        "political_economy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial policy-meeting scene, with no readable text, logos, flags, or watermarks. Standard fitness because it is conceptual.",
+      "createdDate": "2026-07-19",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_polity_policy_implementation_arrangements_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_polity_policy_implementation_arrangements_summary_he.html",
+      "usedBy": [
+        "democracy_polity_policy_implementation_arrangements_summary_he.html"
+      ],
+      "cardTitleHe": "המשטר של היישום: מי מקבל כוח כשהמדיניות פוגשת את המציאות",
+      "authorsHe": "Fritz Sager; Anat Gofen",
+      "visualDescriptionHe": "חברי ועדה מייעצת של גוף ציבורי מנהלים דיון משותף סביב שולחן",
+      "semanticDescriptionHe": "הוועדה ממחישה כיצד הסדרים ארגוניים ומוסדיים מעצבים את חלוקת התפקידים והכוח בשלב יישום המדיניות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "policy_implementation",
+        "organizational_arrangements",
+        "institutional_arrangements",
+        "public_committee"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop from a paper-specific Wikimedia Commons public-committee photograph; U.S. federal public-domain source metadata retained. Standard fitness because it is illustrative.",
+      "createdDate": "2026-07-19",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:FOIA_Advisory_Committee_Meeting_(28671576876).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/FOIA_Advisory_Committee_Meeting_%2828671576876%29.jpg",
+      "license": "Public domain",
+      "creator": "U.S. National Archives",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_parliament_activity_technology_covid_indexes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_parliament_activity_technology_covid_indexes_summary_he.html",
+      "usedBy": [
+        "democracy_parliament_activity_technology_covid_indexes_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד מודדים אם פרלמנט באמת פעל בזמן הקורונה?",
+      "authorsHe": "Ittai Bar-Siman-Tov; Olivier Rozenberg; Cyril Benoît; Israel Waismel-Manor; Asaf Levanon",
+      "visualDescriptionHe": "חברי בית הנבחרים האמריקאי יושבים במרחק זה מזה באולם המליאה בזמן הקורונה",
+      "semanticDescriptionHe": "המליאה המרווחת ממחישה את הצורך למדוד בנפרד פעילות פרלמנטרית והתאמה טכנולוגית בעת משבר הקורונה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "parliament",
+        "covid_19",
+        "legislative_activity",
+        "parliamentary_technology"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons U.S. House photograph from March 2020; U.S. congressional public-domain source metadata retained. Standard fitness because it illustrates the crisis context rather than the indexed parliaments collectively.",
+      "createdDate": "2026-07-19",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Social_distancing_in_the_House_Chamber_today.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Social_distancing_in_the_House_Chamber_today.jpg",
+      "license": "Public domain",
+      "creator": "Office of Mike Rogers, United States Congress",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_bureaucratic_reputation_missing_areas_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bureaucratic_reputation_missing_areas_summary_he.html",
+      "usedBy": [
+        "democracy_bureaucratic_reputation_missing_areas_summary_he.html"
+      ],
+      "cardTitleHe": "מה חסר במסגרת המוניטין הביורוקרטי?",
+      "authorsHe": "Moshe Maor",
+      "visualDescriptionHe": "אזרחים, עיתונאים, עובדי שירות ומפקח נפגשים בחלל של רשות ציבורית",
+      "semanticDescriptionHe": "ריבוי הקהלים והפעילות מאחורי הקלעים ממחישים ממדים חסרים של יכולת ארגונית ושליחת אותות מוניטין.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "bureaucratic_reputation",
+        "organizational_capacity",
+        "audiences",
+        "reputation_signals"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial public-agency scene, with no readable text, logos, or watermarks. Standard fitness because it is conceptual.",
+      "createdDate": "2026-07-19",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [

@@ -1,8 +1,296 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1062,
+  "paperCount": 1072,
   "papers": [
+    {
+      "slug": "democracy_positive_emotions_populist_radical_right_appeal_summary_he",
+      "file": "democracy_positive_emotions_populist_radical_right_appeal_summary_he.html",
+      "permalink": "/democracy_positive_emotions_populist_radical_right_appeal_summary_he.html",
+      "sortKey": 202607190010,
+      "titleHe": "לא רק כעס ופחד: הקוקטייל הרגשי של הימין הפופוליסטי הרדיקלי",
+      "paperTitle": "A complex cocktail: reappraising the role of positive emotions in the appeal of populist radical right parties",
+      "authorsCardHe": "Tristan Klingelhöfer",
+      "sourceAuthors": [
+        "Tristan Klingelhöfer"
+      ],
+      "journal": "Political Research Exchange, 8(1), Article 2641721",
+      "dateText": "פורסם אונליין: 30 במרץ 2026; כרך 8, גיליון 1, מאמר 2641721",
+      "doiUrl": "https://doi.org/10.1080/2474736X.2026.2641721",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_positive_emotions_populist_radical_right_appeal_summary_he.jpg",
+        "altHe": "נואם המחזיק מיקרופון פונה לקהל מחויך בעצרת חוץ",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "טריסטן קלינגלהפר מערער על ההנחה שהמשיכה הרגשית של מפלגות ימין פופוליסטי רדיקלי נשענת כמעט רק על כעס ופחד. המחקר משלב שתי עדשות: ניתוח של שכיחות הרגשות בחומרי קמפיין מן הבחירות באוסטריה ובגרמניה ב־2017 ובאיטליה ב־2018, ושחזור הכוונה האסטרטגית באמצעות ארבעה ראיונות עומק חצי־מובנים — שניים עם אנשי מפתח בקמפיין מפלגת החירות האוסטרית ושניים עם אנשי מפתח באלטרנטיבה לגרמניה. בחלק הכמותי נאספו מניפסטים, פוסטים בפייסבוק, הודעות לעיתונות וכרזות של המפלגות המרכזיות, אוחדו לפי מפלגה וערוץ תקשורת ונותחו במילוני LIWC בגרמנית ובאיטלקית. מודלים ליניאריים השוו את שיעור המילים הקשורות לכעס, חרדה ורגש חיובי אצל FPÖ, AfD, Lega ו־Fratelli d’Italia לעומת מפלגות אחרות, תוך בקרה למדינה ולערוץ ואשכול שגיאות התקן לפי מפלגה. עוד נותחו 31 סרטוני תעמולה — 16 מאוסטריה, שבעה מגרמניה ושמונה מאיטליה — בידי שני מקודדים שלא ידעו את שאלת המחקר ואת הציפיות התאורטיות. כעס, ובמידה פחותה פחד, בלטו כרכיבים המבדילים את מפלגות הימין הפופוליסטי הרדיקלי מן המיינסטרים; עם זאת, גם מפלגות אלה השתמשו בתדירות ניכרת בתקווה, גאווה, שמחה והתלהבות. הראיונות מראים שהשילוב היה מכוון: אנשי הקמפיינים תפסו תקווה וחיוביות כאמצעי להתרחק מדימוי קיצוני, לפנות למעמד הביניים ולקבוצות יעד מסורתיות של מפלגות המיינסטרים, ולהכשיר כניסה לפרלמנט או לממשלה. התרומה המרכזית אינה הטענה שרגש חיובי מחליף שליליות, אלא שהוא כרוך בה ויכול להפוך מסר רדיקלי לנגיש יותר. קלינגלהפר מבחין בין דה־רדיקליזציה של הדימוי לבין מתינות במדיניות: אם העמדות עצמן אינן מתמתנות, מעטפת חיובית עשויה לסייע להרחבת הקהל של פוליטיקה רדיקלית. המחקר מנתח מסרים וכוונות של אנשי קמפיין, לא תגובות של מצביעים, ולכן אינו מוכיח שהתערובת שינתה רגשות, עמדות או הצבעה בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_street_level_bureaucrats_public_value_job_summary_he",
+      "file": "democracy_street_level_bureaucrats_public_value_job_summary_he.html",
+      "permalink": "/democracy_street_level_bureaucrats_public_value_job_summary_he.html",
+      "sortKey": 202607190009,
+      "titleHe": "כשהשוטר נעשה גם כתובת לרווחה: יצירת ערך ציבורי בקו הראשון",
+      "paperTitle": "Street‐level bureaucrats' perceptions of “the job”: Deviation from professional particularities and micro creation of public value",
+      "authorsCardHe": "עינת לביא וגליה כהן",
+      "sourceAuthors": [
+        "Einat Lavee",
+        "Galia Cohen"
+      ],
+      "journal": "Public Administration, 103(1), 335–353",
+      "dateText": "פורסם לראשונה אונליין: 8 באוגוסט 2024; כרך 103, גיליון 1 (2025), עמ׳ 335–353",
+      "doiUrl": "https://doi.org/10.1111/padm.13025",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_street_level_bureaucrats_public_value_job_summary_he.jpg",
+        "altHe": "שוטרים ותושבים בטקס הוקרה לתוכנית שיטור קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "עינת לביא וגליה כהן בוחנות כיצד בירוקרטים ברמת הרחוב מגדירים את ״העבודה שצריך לבצע״ כאשר הוראות פורמליות, מדדי יעילות, מחסור במשאבים וציפייה ליצור ערך ציבורי פועלים בעת ובעונה אחת. המחקר מבוסס על 87 ראיונות עומק חצי־מובנים שנערכו פנים אל פנים בשנים 2021–2022 עם שוטרים מ־32 סוכנויות בטקסס. המדגם כלל שוטרים מן השורה, מפקדים בדרג נמוך ובינוני ובכירים, בגילים 25–67 ובעלי ותק של 3.5–41 שנים. הראיונות נמשכו 45–60 דקות, הוקלטו ותומללו, ונותחו ב־NVivo לפי הליכי תאוריה מעוגנת בנתונים. במקום לראות את תפקידם רק כאכיפת חוק ותחזוקת ביטחון, המרואיינים תיארו אחריות כללית לרווחת האנשים שהם פוגשים, כנציגי ציבור הנמצאים במקום שבו צורך נעשה גלוי. מן הקידוד עלו שלוש משפחות של מענה החורג מן התפקיד המסורתי. <strong>צרכים בסיסיים</strong> כללו מזון, לינה, תרופות, בריאות נפשית ובטיחות; שוטרים סיפרו על תשלום עבור חדר מלון או אינסולין, חיפוש מקום במוסד טיפולי וסיוע לנפגעות אלימות להגיע למקום בטוח. <strong>צרכים אינסטרומנטליים</strong> כללו הסעה לראיון עבודה, חיפוש משרות, עזרה במעבר דירה, ניווט בבירוקרטיה, ציוד לימודי וסיוע טכנולוגי. <strong>צרכים רגשיים</strong> כללו הקשבה, עידוד, מגע מנחם, קשר מתמשך ומתנות לילדים שנועדו לצמצם בושה והדרה. המחברות מכנות את המפגש הזה ״יצירה זעירה של ערך ציבורי״: ערך נוצר ביחסים בין עובד לאזרח ובמענה לצורך מסוים, אך הוא מצבי ולא מוסדי ולעיתים נשען על זמנו וכספו של העובד. התרבות הארגונית ומסרים של מנהלים נמצאו גורם מרכזי המעצב את תפיסת התפקיד; מנהלים עודדו עובדים להשפיע בפועל ותגמלו פעולה אנושית החורגת משיטור מסורתי. המחברות אינן מפרשות את ההתרחבות בהכרח כשחיקת מקצועיות, אלא כאחריות מקצועית רחבה יותר של נציג ציבור. עם זאת, ראיונות עם שוטרים אינם מוכיחים שהסיוע שיפר תוצאות לאזרחים או שהיה שוויוני, והמדגם הטקסני אינו מייצג את כלל השוטרים. הממצאים גם חושפים דילמה מוסדית: יוזמה אנושית יכולה לסגור פער מיידי, אך שירות ציבורי הנשען על נדיבות אישית, שיקול דעת וכיסו של העובד עלול להיות בלתי־אחיד ולהסתיר מחסור מערכתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_intergovernmental_accountability_institutional_change_summary_he",
+      "file": "democracy_intergovernmental_accountability_institutional_change_summary_he.html",
+      "permalink": "/democracy_intergovernmental_accountability_institutional_change_summary_he.html",
+      "sortKey": 202607190008,
+      "titleHe": "פערי אחריותיות ושינוי מוסדי בין שלטון מרכזי למקומי",
+      "paperTitle": "Accountability, governance, and institutional change in intergovernmental relations: A theoretical framework",
+      "authorsCardHe": "Joseph Benveniste; Shlomo Mizrahi",
+      "sourceAuthors": [
+        "Joseph Benveniste",
+        "Shlomo Mizrahi"
+      ],
+      "journal": "Politics & Policy",
+      "dateText": "פורסם: 13 במרץ 2023",
+      "doiUrl": "https://doi.org/10.1111/polp.12520",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_intergovernmental_accountability_institutional_change_summary_he.jpg",
+        "altHe": "נציגים מדרגי ממשל שונים דנים יחד במפות ובמסמכי מדיניות סביב שולחן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "יוסף בנבנישתי ושלמה מזרחי מציעים לראות בתפיסות של אחריותיות גורם שמסביר מדוע יחסים בין שלטון מרכזי למקומי משתנים, ובאיזה קצב. המושג המרכזי הוא פער אחריותיות: ההבדל בין האופן שבו שחקן בדרג אחד תופס את אחריותו למתן שירותים לבין האופן שבו הוא תופס את אחריות הדרג האחר. שילוב בין אחריותיות מרובת־מוקדים לבין אחריותיות מורגשת מאפשר למחברים למפות ארבעה מצבים, החל באחריותיות כפולה וכלה בהיעדר אחריותיות בשני הדרגים. כל מצב נקשר למסלול שונה של שינוי מוסדי — החלפה, המרה, הוספת שכבות או סחף העלול להוביל להפרטה. ניהול מגפת הקורונה בספרד משמש המחשה לאופן שבו שינוי בתפיסות האחריות יכול ללוות תנועה בין ריכוזיות, ביזור ותיאום אנכי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_career_lay_officials_citizen_claims_summary_he",
+      "file": "democracy_career_lay_officials_citizen_claims_summary_he.html",
+      "permalink": "/democracy_career_lay_officials_citizen_claims_summary_he.html",
+      "sortKey": 202607190007,
+      "titleHe": "האם צוותים מעורבים מטים הכרעות מנהליות לטובת האזרח?",
+      "paperTitle": "Does the teaming of career street-level bureaucrats and lay officials promote street-level resolutions that favour the citizens’ claims?",
+      "authorsCardHe": "Sagi Gershgoren; Nissim Cohen",
+      "sourceAuthors": [
+        "Sagi Gershgoren",
+        "Nissim Cohen"
+      ],
+      "journal": "Public Management Review",
+      "dateText": "פורסם: 11 באוקטובר 2023",
+      "doiUrl": "https://doi.org/10.1080/14719037.2023.2268088",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_career_lay_officials_citizen_claims_summary_he.jpg",
+        "altHe": "אולם דיונים שיפוטי ריק מנקודת המבט של חברי ההרכב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "שגיא גרשגורן וניסים כהן בוחנים כיצד השתתפות בצוותי הכרעה מעורבים קשורה לשיקול הדעת של שופטים מקצועיים הפועלים בחזית המינהל הציבורי. הם משווים תחילה בין הכרעות של אותם שופטים כשהם יושבים לבדם לבין הכרעותיהם בוועדות ערר מס לצד נציגי ציבור, ולאחר מכן בין שופטים החברים גם בצוותים מעורבים לבין שופטים היושבים תמיד לבדם. מאגר המחקר התמקד ב־545 הכרעות חד־משמעיות מתוך תיקים אזרחיים בישראל, והמודלים העיקריים נותחו ברגרסיה לוגיסטית לצד סדרת בדיקות עמידות. שיעור ההכרעות לטובת האזרח היה גבוה יותר בוועדות המעורבות, והקשר נשמר גם כאשר שופטים החברים בוועדות הכריעו לבדם. המחברים מפרשים את הממצאים כעדות לכך שעבודה עם נציגי ציבור יכולה להשפיע הן ברגע ההכרעה המשותפת והן דרך הפנמה מתמשכת של נקודת מבט ביקורתית יותר כלפי טענות המדינה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_police_protest_violence_street_level_bureaucracy_summary_he",
+      "file": "democracy_police_protest_violence_street_level_bureaucracy_summary_he.html",
+      "permalink": "/democracy_police_protest_violence_street_level_bureaucracy_summary_he.html",
+      "sortKey": 202607190006,
+      "titleHe": "מתי שוטרים מפעילים אלימות כלפי מפגינים?",
+      "paperTitle": "Natural born violence? Understanding street-level bureaucrats' use of violence: Police officers and protests",
+      "authorsCardHe": "Rafael Alcadipani; Gabriela Lotta; Nissim Cohen",
+      "sourceAuthors": [
+        "Rafael Alcadipani",
+        "Gabriela Lotta",
+        "Nissim Cohen"
+      ],
+      "journal": "Public Administration Review",
+      "dateText": "פורסם: 15 ביוני 2023",
+      "doiUrl": "https://doi.org/10.1111/puar.13670",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_police_protest_violence_street_level_bureaucracy_summary_he.jpg",
+        "altHe": "קו שוטרים ניצב מול קהל מפגינים ברחוב עירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "רפאל אלקדיפאני, גבריאלה לוטה וניסים כהן שואלים מדוע בעלי סמכות בחזית השירות הציבורי מפעילים אלימות במצבים מסוימים אך נמנעים ממנה באחרים. המחקר נשען על תשעה חודשי עבודת שדה אתנוגרפית סביב 16 הפגנות שבהן פעלה יחידת סיור ופיזור הפגנות ברזילאית, ששמה הוסווה. החוקרים ניתחו יומן שדה, שיחות, הקלטות קצרות, תצלומים וסרטונים באמצעות קידוד אינדוקטיבי וצירי. הם מזהים ארבעה גורמים הפועלים יחד: היגיון מוסדי של לוחמים וכוח, מאפייני ההפגנה והמפגינים, רצון לנקום וליהנות מן השימוש בכוח, ותחושה שאין פיקוח אפקטיבי או מחיר אישי. הטענה המרכזית אינה שכל שוטר או כל מחאה מולידים אלימות, אלא שהתלכדות הגורמים הופכת אלימות לאפשרית ולגיטימית בעיני השוטרים ומפחיתה את המעצורים נגדה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_low_status_street_bureaucrats_burdens_coping_summary_he",
+      "file": "democracy_low_status_street_bureaucrats_burdens_coping_summary_he.html",
+      "permalink": "/democracy_low_status_street_bureaucrats_burdens_coping_summary_he.html",
+      "sortKey": 202607190005,
+      "titleHe": "לא נפרדים, אך בהחלט לא שווים בשירות הציבורי",
+      "paperTitle": "Not separate, but certainly unequal: The burdens and coping strategies of low-status street-level bureaucrats",
+      "authorsCardHe": "Gabriela Lotta; Morgana G. Martins Krieger; Nissim Cohen; Charles Kirschbaum",
+      "sourceAuthors": [
+        "Gabriela Lotta",
+        "Morgana G. Martins Krieger",
+        "Nissim Cohen",
+        "Charles Kirschbaum"
+      ],
+      "journal": "Governance",
+      "dateText": "פורסם: 27 ביולי 2023",
+      "doiUrl": "https://doi.org/10.1111/gove.12815",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_low_status_street_bureaucrats_burdens_coping_summary_he.jpg",
+        "altHe": "עובדות קו ראשון מטפלות בתושבים ובערמות תיקים במרפאה ציבורית עמוסה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "גבריאלה לוטה, מורגנה ג׳ מרטינס קריגר, ניסים כהן וצ׳רלס קירשבאום מפנים את המבט מאי־שוויון בין המדינה לאזרחים אל אי־שוויון בתוך צוותי היישום עצמם. ב־94 ראיונות עם עובדי בריאות קהילתיים ב־12 מרפאות בשכונות מוחלשות בסאו פאולו הם מזהים שלושה נטלים: טשטוש הגבול בין חיים פרטיים לעבודה, סכנה לאלימות פיזית או רגשית ותחושת חוסר אונים מול צורכי המטופלים. העובדים מגיבים באמצעות הצבת גבולות מוסדיים, השלמה או הימנעות, והפעלת קשרים אישיים וקהילתיים. אותן אסטרטגיות מאפשרות לעיתים לספק שירות בתנאי מחסור, אך גם מטילות על העובדים עבודה בלתי מוכרת, מעמיקות את חוסר האונים ולעיתים משמרות את חלוקת המעמד בצוות. המאמר מראה שקרבה לקהילה היא בעת ובעונה אחת משאב שירותי ומקור לפגיעוּת, ושאי אפשר להבין יישום מדיניות בלי לבחון מי בתוך הארגון נושא בעבודה המסוכנת והבלתי נראית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_market_social_government_credibility_tradeoffs_summary_he",
+      "file": "democracy_market_social_government_credibility_tradeoffs_summary_he.html",
+      "permalink": "/democracy_market_social_government_credibility_tradeoffs_summary_he.html",
+      "sortKey": 202607190004,
+      "titleHe": "אמינות כלפי השווקים או כלפי האזרחים? המחיר הפוליטי של קשירת ידי הממשלה",
+      "paperTitle": "Trade-offs of government credibility institutions: market credibility vs. social credibility",
+      "authorsCardHe": "Michal Koreh; Ronen Mandelkern",
+      "sourceAuthors": [
+        "Michal Koreh",
+        "Ronen Mandelkern"
+      ],
+      "journal": "Journal of European Public Policy, 31(11), 3539–3560",
+      "dateText": "פורסם לראשונה אונליין: 7 באוגוסט 2023; כרך 31, גיליון 11, עמ׳ 3539–3560",
+      "doiUrl": "https://doi.org/10.1080/13501763.2023.2243295",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_market_social_government_credibility_tradeoffs_summary_he.jpg",
+        "altHe": "ישיבת מדיניות שבה נציגי כלכלה ונציגי חברה מציגים למקבלת החלטות שיקולים מתחרים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "מיכל קורא ורונן מנדלקרן מערערים על ההנחה המקובלת שלפיה אמינות ממשלתית היא יעד אחיד, ניטרלי ומועיל לכול. ממשלות מבטיחות דברים שונים לקהלים שונים: לשחקני שוק הן עשויות להבטיח יציבות מחירים, חוב נשלט או רגולציה צפויה, ולאזרחים הן מבטיחות זכויות חברתיות והגנה מפני זקנה, אבטלה, מחלה וסיכונים אחרים. כדי להפוך הבטחות עתידיות לאמינות הן קובעות כללים שקשה לשנות או חולקות כוח עם גופים שאינם כפופים ישירות לרוב הפוליטי. המחברים מכנים את אמון האזרחים בנכונותה וביכולתה של הממשלה לקיים התחייבויות ארוכות טווח לזכויותיהם החברתיות <strong>אמינות חברתית</strong>, ומעמידים אותה לצד <strong>אמינות שוק</strong>. אמינות חברתית נבנית באמצעות זכאויות המעוגנות בחוק, הצמדת קצבאות, עדכון אוטומטי של מקורות מימון, אוטונומיה יחסית של מוסדות ביטחון סוציאלי, ניהול משותף עם ארגוני עובדים ומעסיקים ומימון ייעודי מדמי ביטוח. המקרים ההיסטוריים ממחישים מדוע מנגנונים אלה נדרשו. בגרמניה, מלחמות, אינפלציה ושימוש ממשלתי בנכסי הפנסיה ערערו את האמון; רפורמת הפנסיה של 1957 עברה למימון שוטף, הצמידה קצבאות לשכר, קבעה התאמות אוטומטיות וחיזקה הפרדה וניהול אוטונומי. בשוודיה, חשדנות של איגודים כלפי ביטוח סוציאלי ממלכתי חיזקה את הדרישה לייצוג ולניהול משותף. בארצות הברית, מימון מדמי שכר נועד ליצור זיקה בין תשלום לזכות ולייקר פוליטית את ביטול הפנסיות ודמי האבטלה. אלא שהמנגנונים החברתיים מתחייבים להוצאה כאשר מתקיימים תנאי הזכאות, ואילו כללים פיסקליים מגבילים הוצאה, גירעון וחוב. הם גם מעצימים שחקנים שונים: מוסדות חברתיים ושותפים חברתיים מצד אחד, ומשרדי אוצר ובנקים מרכזיים מצד אחר. לכן השאלה איננה רק כיצד לייצר יותר אמינות, אלא כלפי מי, באיזה תחום, מי מקבל כוח ואיזו התחייבות אחרת נחלשת. זהו מאמר מושגי־היסטורי שמציע מסגרת פרשנית וממחיש אותה במקרים נבחרים; הוא אינו מציג מבחן סיבתי השוואתי של השפעת המוסדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_polity_policy_implementation_arrangements_summary_he",
+      "file": "democracy_polity_policy_implementation_arrangements_summary_he.html",
+      "permalink": "/democracy_polity_policy_implementation_arrangements_summary_he.html",
+      "sortKey": 202607190003,
+      "titleHe": "המשטר של היישום: מי מקבל כוח כשהמדיניות פוגשת את המציאות",
+      "paperTitle": "The polity of implementation: Organizational and institutional arrangements in policy implementation",
+      "authorsCardHe": "Fritz Sager; Anat Gofen",
+      "sourceAuthors": [
+        "Fritz Sager",
+        "Anat Gofen"
+      ],
+      "journal": "Governance, 35(2), 347–364",
+      "dateText": "פורסם לראשונה אונליין: 9 במרץ 2022; כרך 35, גיליון 2, עמ׳ 347–364",
+      "doiUrl": "https://doi.org/10.1111/gove.12677",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polity_policy_implementation_arrangements_summary_he.jpg",
+        "altHe": "חברי הוועדה המייעצת לחופש המידע יושבים בדיון משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "פריץ סאגר וענת גופן טוענים שחקר יישום מדיניות מתמקד רבות בפוליטיקה, במנהלים ובעובדי קו ראשון, אך מקדיש פחות תשומת לב למבנים שבתוכם הם פועלים. הם מכנים את הממד הזה <strong>המשטר של היישום</strong>: חלוקת כוח ההחלטה באמצעות מוסדות וארגונים. <strong>הסדר יישום</strong> כולל שני רכיבים. הסביבה המוסדית היא ההקשר החיצוני להחלטת המדיניות — כללים פורמליים ולא פורמליים שמגבילים ומאפשרים פעולה. העיצוב הארגוני הוא חלק מתכנון המדיניות עצמו — הגדרת סמכויות, משאבים, יחידות ותפקידים למיישמים. שני הרכיבים קובעים כמה שיקול דעת יהיה לכל שחקן, אילו תפוקות ייווצרו וכיצד קהלי היעד יחוו את הממשלה ויגיבו לה. המאמר הוא מבוא וסינתזה של שבעה מחקרים בגיליון מיוחד, ולא מחקר אמפירי יחיד. המחקרים עוסקים בתשתיות בהולנד, רפורמת בריאות הנפש בבלגיה, שיתוף פעולה אזורי בשווייץ, פיילוטים של בריאות ורווחה באנגליה, ניהול ביצועים במשטרת ישראל, משטר אחריותיות בשירותים ציבוריים בפקיסטן ותקצוב משתף במקסיקו. יחד הם מראים שכללים פורמליים יכולים לשנות זכויות ואחריותיות, אך גם שמורשות מוסדיות, נורמות מקצועיות ולוגיקות מתנגשות עלולות לבלום רפורמה. הסינתזה נשענת על מוסדיות ישנה וחדשה, ממשל רב־רמתי, הערכה וניהול ביצועים וכלי ממשל. היא מפתחת שלושה כיווני מחקר: שיתוף פעולה אנכי ואופקי בין רמות ויחידות, עיצוב מוסדי של רשתות יישום ציבוריות־פרטיות, והיחסים ההדדיים בין הסדרי יישום לבין אמונות, ערכים וזהויות ארגוניות. הטענה המעשית היא שהסדרים אינם מנגנון שמפעילים ושוכחים. מיישמים מעצבים אותם באמצעות שיקול דעת, קהלי יעד מגיבים לתוצאות, והכללים משתנים עם למידה ונסיבות מקומיות; לכן נדרשים תחזוקה, בחינה וכיול מתמשכים. הצלחה או כישלון אינם נובעים רק מטיב היעד או מהתנהגות הפרט, אלא גם מן האופן שבו המדינה חילקה סמכות, חיברה יחידות ויצרה אחריותיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_parliament_activity_technology_covid_indexes_summary_he",
+      "file": "democracy_parliament_activity_technology_covid_indexes_summary_he.html",
+      "permalink": "/democracy_parliament_activity_technology_covid_indexes_summary_he.html",
+      "sortKey": 202607190002,
+      "titleHe": "כיצד מודדים אם פרלמנט באמת פעל בזמן הקורונה?",
+      "paperTitle": "Measuring Legislative Activity during the Covid-19 Pandemic: Introducing the ParlAct and ParlTech Indexes",
+      "authorsCardHe": "Ittai Bar-Siman-Tov; Olivier Rozenberg; Cyril Benoît; Israel Waismel-Manor; Asaf Levanon",
+      "sourceAuthors": [
+        "Ittai Bar-Siman-Tov",
+        "Olivier Rozenberg",
+        "Cyril Benoît",
+        "Israel Waismel-Manor",
+        "Asaf Levanon"
+      ],
+      "journal": "International Journal of Parliamentary Studies, 1(1), 109–126",
+      "dateText": "פורסם: 26 באפריל 2021; כרך 1, גיליון 1, עמ׳ 109–126",
+      "doiUrl": "https://doi.org/10.1163/26668912-bja10006",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_parliament_activity_technology_covid_indexes_summary_he.jpg",
+        "altHe": "חברי בית הנבחרים האמריקאי יושבים במרחק זה מזה באולם המליאה בזמן מגפת הקורונה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "איתי בר־סימן־טוב, אוליבייה רוזנברג, סיריל בנואה, ישראל וייסמל־מנור ואסף לבנון מציעים דרך כמותית להשוות כיצד בתי מחוקקים הגיבו לזעזוע הראשוני של מגפת הקורונה. האתגר היה דמוקרטי ומוסדי כאחד: מגבלות התקהלות פגעו ביכולת להתכנס, אווירת חירום הקשתה על השמעת אופוזיציה, והעברת סמכויות לממשלה איימה על פיקוח פרלמנטרי. דיווח בינארי שלפיו פרלמנט היה ״פתוח״ או ״סגור״ אינו מבחין בין מליאה בלבד, ועדות בלבד, הנהגה מצומצמת, ירידה בתדירות הישיבות או פעילות רגילה. <strong>ParlAct</strong> הוא מדד סדור מ־1 עד 10: ציונים 1–4 מתארים סוגים שונים של סגירה או פגרה, 5–7 מבחינים בין פעילות של הנהגה, ועדות ומליאה, 8–9 מציינים פעילות רשמית מלאה בתדירות מופחתת, ו־10 מציין פעילות רגילה. <strong>ParlTech</strong> הוא מדד סדור מ־1 עד 4: מאי־אימוץ של אמצעים מיוחדים, דרך שימוש דיגיטלי לתקשורת ולהיוועצות, ועד עבודה מרחוק של ועדות או של ועדות ומליאה לרבות הצבעה. צוות בין־תחומי אסף מידע על התקופה 23 במרץ עד 6 באפריל 2020 בכל המדינות שמנו יותר ממיליון תושבים. 172 מומחי מדינה סיפקו דוחות וסקרי הערכה, והמידע הושלם מדוחות של מרכזי מחקר פרלמנטריים, אתרי בתי מחוקקים ומאות כתבות. שני מקודדים בלתי תלויים דירגו את המקרים ללא חשיפה לציוני המומחים, ומהימנות הקידוד המשותפת לשני המדדים הייתה אלפא של קריפנדורף 0.81. המאגר מפרסם ציונים ל־152 בתי מחוקקים. התוצאות התיאוריות מראות שכחמישית פעלו כרגיל וכחמישית נסגרו בגלל הקורונה; לאחר הוצאת מקרים שהיו בפגרה רגילה, כמחצית פעלו באופן חלקי. ממוצע ParlAct היה 6.6, עם פערים בין יבשות, אך המאמר מזהיר מפני הסברים מהירים: גם דמוקרטיות מבוססות הופיעו בתחתית וגם משטרים סמכותניים שמרו על פעילות, ואופי הפעילות אינו מעיד כשלעצמו על כוח הפיקוח. הקשר בין ParlAct ל־ParlTech היה מתון, 0.34 בכלל המדגם ורק 0.15 בקרב בתי מחוקקים בעלי פעילות חלקית. טכנולוגיה סייעה בעיקר לוועדות אך לא הייתה פתרון מלא, משום שגישה דיגיטלית אינה שווה, כללים משפטיים לא תמיד אפשרו ישיבות והצבעות מרחוק, והמעבר המקוון משנה אינטראקציה פוליטית. המדדים מספקים תשתית למעקב ולהשוואה, אך אינם מודדים את איכות החקיקה, עוצמת הפיקוח או חופש האופוזיציה; לשם כך נדרש מחקר מהותי נוסף.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_bureaucratic_reputation_missing_areas_summary_he",
+      "file": "democracy_bureaucratic_reputation_missing_areas_summary_he.html",
+      "permalink": "/democracy_bureaucratic_reputation_missing_areas_summary_he.html",
+      "sortKey": 202607190001,
+      "titleHe": "מה חסר במסגרת המוניטין הביורוקרטי?",
+      "paperTitle": "Missing Areas in the Bureaucratic Reputation Framework",
+      "authorsCardHe": "Moshe Maor",
+      "sourceAuthors": [
+        "Moshe Maor"
+      ],
+      "journal": "Politics and Governance, 4(2), 80–90",
+      "dateText": "פורסם: 23 ביוני 2016; כרך 4, גיליון 2, עמ׳ 80–90",
+      "doiUrl": "https://doi.org/10.17645/pag.v4i2.570",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bureaucratic_reputation_missing_areas_summary_he.jpg",
+        "altHe": "ראש רשות ציבורית עומד בין עובדי הארגון, קהלים וכלי תקשורת המעבירים הערכות שונות על המוניטין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-19",
+      "dateModified": "2026-07-19",
+      "summaryHe": "משה מאור בוחן מה נותר מחוץ למסגרת שהתפתחה סביב מוניטין ביורוקרטי ואוטונומיה של רשויות ציבוריות. מוניטין ביורוקרטי אינו עובדה אובייקטיבית או ציון יחיד, אלא מערך אמונות סמליות על יכולות הארגון, כוונותיו, עברו ומשימתו, המוטמעות ברשת של קהלים מרובים. אזרחים, נבחרי ציבור, קבוצות עניין, מומחים, עובדים ותקשורת יכולים לייחס חשיבות שונה לממדים ביצועיים, טכניים, משפטיים־פרוצדורליים ומוסריים. המאמר טוען ששתי מערכות יחסים עדיין אינן מפותחות דיין. הראשונה היא <strong>יחסי הרשות והקהלים</strong>: כיצד תפיסות קולקטיביות נוצרות, כיצד מידע על תגובת הרשות עובר ומשתנה בין רשתות, מה הקהל זוכר וכיצד התגובה הציבורית חוזרת ומשנה את תפיסת האיומים וההזדמנויות של הרשות. השנייה היא <strong>היחסים בין מוניטין ראש הרשות למוניטין הארגון</strong>: שני המוניטינים עשויים להשפיע זה על זה אך אינם זהים, משום שלמנהל אופק קצר יותר, מוניטין אישי נייד ורגישות גבוהה יותר למידע חדש, בעוד מוניטין ארגוני יכול להצטבר במשך עשורים. מאור משלב תובנות מרשתות חברתיות, קוגניציה חברתית וחקר רגשות ומציע שש זירות למחקר: שימוש של רשות ברגש כדי לכוון תשומת לב; הבדלים בעיבוד מידע לפי החשיבות שקהל מייחס לרשות; הבדלים הנובעים מתרבות; אסטרטגיות תקשורת שונות של מנהלים בעלי מוניטין טוב, רע או לא מובחן; מידת היישור שלהם עם קהלי הרשות לעומת הנהלתה; והנכונות שלהם לנקוט צעדים בעלי תוצאות שליליות אפשריות. בין ההצעות שהמאמר מנסח: מנהל שמוניטינו חלש עשוי להגיב לביקורת בקול רם יותר ולהתקרב לקהלים, ואילו מנהל שמוניטינו טוב עשוי להיות שקט יותר, להתיישר עם ההנהלה, ליטול סיכונים מסוימים ולהגביר שקיפות סביב מהלכים נועזים. אלה תחזיות למחקר, לא ממצאים שהוכחו במאגר נתונים. המאמר גם מזהיר שרוב המחקר מודד איומים כפי שהם משתקפים בתקשורת ולא את המוניטין עצמו. הוא מציע להבחין בין קהלים ותכונות, ולפתח מדדים למוניטין ראש רשות על בסיס ניסיון, רקע, ביצועים קודמים, הכרה מקצועית ובולטות תקשורתית. המטרה היא סדר יום אקספוזיטורי וחקרני שיחבר בין תפיסה, רגש, תקשורת, מנהיגות ואוטונומיה ביורוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_religion_street_level_bureaucracy_summary_he",
       "file": "democracy_religion_street_level_bureaucracy_summary_he.html",
