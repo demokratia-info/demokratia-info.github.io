@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-20",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -26719,6 +26719,289 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-19 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_politicians_public_opinion_distribution_perception_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_politicians_public_opinion_distribution_perception_summary_he.html",
+      "usedBy": [
+        "democracy_politicians_public_opinion_distribution_perception_summary_he.html"
+      ],
+      "cardTitleHe": "מעבר לממוצע: כשפוליטיקאים חושבים על התפלגות הדעות, הם טועים פחות",
+      "authorsHe": "Nicholas Dias; Jack Lucas; Lior Sheffer",
+      "visualDescriptionHe": "שלושה אנשים ממיינים כרטיסיות צבעוניות על שולחן, מול התפלגות גדולה של כרטיסיות על הקיר",
+      "semanticDescriptionHe": "מיון הכרטיסיות ממחיש את המעבר מאומדן יחיד של הבוחר הממוצע לבניית התפלגות מפורשת של עמדות הציבור.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "politicians",
+        "public_opinion_distribution",
+        "perceptual_error",
+        "representation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial scene centered on constructing a distribution of public opinion; no readable text, logos, or watermarks. High fitness because the visual directly represents the study's distinctive measurement task.",
+      "createdDate": "2026-07-20",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-20 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_polarized_society_response_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_polarized_society_response_war_summary_he.html",
+      "usedBy": [
+        "democracy_polarized_society_response_war_summary_he.html"
+      ],
+      "cardTitleHe": "מאוחדים במלחמה, מפולגים ביחס לשלטון",
+      "authorsHe": "Yuval Feinstein; Geffen Ben-David",
+      "visualDescriptionHe": "מתנדבים ממיינים ציוד ואורזים ארגזי סיוע באולם ספורט בהוד השרון בזמן מלחמת עזה",
+      "semanticDescriptionHe": "פעילות ההתנדבות בזמן המלחמה ממחישה התגייסות אזרחית רחבה לצד השאלה אם אחדות ביטחונית מתורגמת גם לאמון בהנהגה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "war",
+        "rally_round_the_flag",
+        "civilian_volunteering",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 custom crop from a paper-specific PikiWiki/Wikimedia Commons photograph of volunteers in Hod Hasharon during the Gaza war; source and CC BY 2.5 metadata retained. Standard fitness because it illustrates wartime mobilization rather than the survey measures themselves.",
+      "createdDate": "2026-07-20",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:98500_hod_hasharon_volunteers_in_the_gaza_war_PikiWiki_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/98500_hod_hasharon_volunteers_in_the_gaza_war_PikiWiki_Israel.jpg",
+      "license": "CC BY 2.5",
+      "creator": "זלר זלמנסון",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_policy_disputes_affective_polarization_experiment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_policy_disputes_affective_polarization_experiment_summary_he.html",
+      "usedBy": [
+        "democracy_policy_disputes_affective_polarization_experiment_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמחלוקת נעשית אישית: ניסוי בעשר מדינות על שורשי הקיטוב הרגשי",
+      "authorsHe": "Noam Gidron; James Adams; Will Horne; Thomas Tichelbaecker",
+      "visualDescriptionHe": "משתתפים מקיימים כמה שיחות קבוצתיות קטנות סביב שולחנות בבית קפה לידע",
+      "semanticDescriptionHe": "ריבוי השיחות ממחיש כיצד דיון במחלוקות מדיניות שונות עשוי לשנות את היחס הרגשי כלפי יריבים פוליטיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "affective_polarization",
+        "policy_disputes",
+        "discussion",
+        "experiment"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons small-group Knowledge Café photograph; CC BY-SA 3.0 source metadata retained. Standard fitness because it illustrates deliberation rather than the ten-country survey experiment literally.",
+      "createdDate": "2026-07-20",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Small_group_conversation_at_a_Gurteen_Knowledge_Cafe.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Small_group_conversation_at_a_Gurteen_Knowledge_Cafe.jpg",
+      "license": "CC BY-SA 3.0",
+      "creator": "Dgurteen",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_diaspora_local_american_conservatism_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_diaspora_local_american_conservatism_israel_summary_he.html",
+      "usedBy": [
+        "democracy_diaspora_local_american_conservatism_israel_summary_he.html"
+      ],
+      "cardTitleHe": "איך השמרנות האמריקאית הותאמה לימין הישראלי",
+      "authorsHe": "Or Asher; Ronen Mandelkern",
+      "visualDescriptionHe": "ארבעה משתתפים משוחחים סביב שולחן ולצדם שלושה משתתפים נוספים על מסך בשיחת וידאו",
+      "semanticDescriptionHe": "המפגש ההיברידי ממחיש שיתוף פעולה חוצה־גבולות בין שחקני תפוצה לבין שחקנים מקומיים בתהליך העברת רעיונות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "diaspora",
+        "ideological_change"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial hybrid-meeting scene, with no readable text, logos, or watermarks. Standard fitness because it conceptually represents diaspora–local cooperation.",
+      "createdDate": "2026-07-20",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-20 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_factual_knowledge_attitude_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_factual_knowledge_attitude_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_factual_knowledge_attitude_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "יותר ידע עובדתי, פחות קיטוב בעמדות — אך לא פחות ריחוק",
+      "authorsHe": "Michael Nicholas Stagnaro; Eran Amsalem",
+      "visualDescriptionHe": "שתי קבוצות קטנות ממיינות כרטיסי עובדות ותצלומים לצד אסימונים סביב שולחנות",
+      "semanticDescriptionHe": "המיון המאוזן של ראיות בעד ונגד ממחיש את אימון הידע שבדק אם עובדות מקרבות עמדות אל המרכז.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "factual_knowledge",
+        "attitude_polarization",
+        "balanced_information",
+        "experiment"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial evidence-sorting scene, with no readable text, logos, or watermarks. High fitness because it directly represents balanced factual learning and attitude updating.",
+      "createdDate": "2026-07-20",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-20 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_public_opinion_negotiations_digital_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_opinion_negotiations_digital_media_summary_he.html",
+      "usedBy": [
+        "democracy_public_opinion_negotiations_digital_media_summary_he.html"
+      ],
+      "cardTitleHe": "דעת קהל ברשת אינה רק ספירת דעות",
+      "authorsHe": "Christian Baden; Neta Kligler-Vilenchik; Nina Springer; Marc Jungblut; Asta Zelenkauskaite; Auksė Balčytienė; Susana Salgado; Artur Lipiński; Aleksandra Krstic; Anna Bączkowska",
+      "visualDescriptionHe": "קבוצות אזרחים, עיתונאים ויוצרי תוכן פועלים במקביל בחלל תקשורתי המחובר במצלמות, מחשבים וטלפונים",
+      "semanticDescriptionHe": "ריבוי הזירות והמתווכים ממחיש מערכת אקולוגית שבה נראות, תגובות, תיקון גבולות ותיווך מעצבים משא ומתן על דעת הקהל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "digital_media",
+        "public_opinion_negotiation",
+        "media_ecosystem"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial media-ecosystem scene, with no readable text, logos, or watermarks. Standard fitness because it visualizes a conceptual framework.",
+      "createdDate": "2026-07-20",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-20 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_religiosity_tolerance_reconciliation_colombia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religiosity_tolerance_reconciliation_colombia_summary_he.html",
+      "usedBy": [
+        "democracy_religiosity_tolerance_reconciliation_colombia_summary_he.html"
+      ],
+      "cardTitleHe": "דתיות, סובלנות פוליטית ונכונות לפיוס בקולומביה",
+      "authorsHe": "Juan Federico Pino Uribe; Johanna Amaya-Panche; Nathalie Méndez Méndez; Andrés Casas Casas",
+      "visualDescriptionHe": "משתתפים יושבים סביב שולחן במפגש קהילתי בקולומביה לשיחה, הקשבה ובניית אמון",
+      "semanticDescriptionHe": "המפגש הקהילתי ממחיש את האתגר של סובלנות פוליטית ופיוס בחברה שלאחר סכסוך.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "Colombia",
+        "reconciliation",
+        "political_tolerance",
+        "religiosity"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 resize of a paper-specific Wikimedia Commons photograph from a 2025 Colombian Historical Memory Collaboratory community meeting; CC BY 4.0 metadata retained. Standard fitness because it illustrates reconciliation context rather than the LAPOP regressions.",
+      "createdDate": "2026-07-20",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Encuentro_comunidad.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Encuentro_comunidad.jpg",
+      "license": "CC BY 4.0",
+      "creator": "NMontoya (WMCO)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_political_polarization_multilevel_bias_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_polarization_multilevel_bias_summary_he.html",
+      "usedBy": [
+        "democracy_political_polarization_multilevel_bias_summary_he.html"
+      ],
+      "cardTitleHe": "האם ההטיה הפוליטית סימטרית בין ימין לשמאל?",
+      "authorsHe": "Annika Kluge; Eli Adler; Lilach Nir; Eran Halperin; Mikko Sams; Jonathan Levy",
+      "visualDescriptionHe": "נבדק יושב מתחת לסורק מגנטואנצפלוגרפיה לצד צג מחשב במעבדה",
+      "semanticDescriptionHe": "מערכת ה־MEG ממחישה את המדידה העצבית ששולבה עם שאלון ומבחן אסוציאציות כדי לבחון הטיה פוליטית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "MEG",
+        "implicit_bias",
+        "ideological_asymmetry",
+        "political_neuroscience"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 custom crop of a method-specific Wikimedia Commons NIMH MEG photograph; U.S. federal public-domain metadata retained. Standard fitness because the apparatus matches the method but the subject is illustrative.",
+      "createdDate": "2026-07-20",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NIMH_MEG.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/NIMH_MEG.jpg",
+      "license": "Public domain",
+      "creator": "Unknown NIMH author",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_fake_news_facts_opinions_judgment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_fake_news_facts_opinions_judgment_summary_he.html",
+      "usedBy": [
+        "democracy_fake_news_facts_opinions_judgment_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד חדשות כזב מחליפות עובדות בדעות?",
+      "authorsHe": "Ilan Zvi Baron; Piki Ish-Shalom",
+      "visualDescriptionHe": "קבוצה מגוונת בוחנת מקרוב תצלומים וכרטיסים מודפסים בעזרת זכוכיות מגדלת סביב שולחן",
+      "semanticDescriptionHe": "הבדיקה המשותפת ממחישה את הצורך להבחין בין עובדות, דעות ושיפוט כאשר מעריכים טענות על חדשות כזב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "fake_news",
+        "facts",
+        "opinions",
+        "judgment"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial verification scene, with no readable text, logos, or watermarks. Standard fitness because it conceptually represents the article's fact–opinion–judgment distinctions.",
+      "createdDate": "2026-07-20",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-20 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_disinformation_invasion_success_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_disinformation_invasion_success_summary_he.html",
+      "usedBy": [
+        "democracy_disinformation_invasion_success_summary_he.html"
+      ],
+      "cardTitleHe": "מתי דיסאינפורמציה מצליחה להצדיק פלישה?",
+      "authorsHe": "Jan Zilinsky; Yannis Theocharis; Franziska Pradel; Marina Tulin; Claes de Vreese; Toril Aalberg; Ana Sofía Cardenal; Nicoleta Corbu; Frank Esser; Luisa Gehle; Denis Halagiera; Michael Hameleers; David Nicolas Hopmann; Karolina Koc-Michalska; Jörg Matthes; Christian Schemer; Václav Štětka; Jesper Strömbäck; Ludovic Terren; Sergio Splendore; James Stanyer; Agnieszka Stępińska; Peter Van Aelst; Alon Zoizner",
+      "visualDescriptionHe": "נשיא אוקראינה וולודימיר זלנסקי משוחח עם נציגי תקשורת סביב שולחן כשמצלמות טלוויזיה פועלות משני הצדדים",
+      "semanticDescriptionHe": "המפגש בין הנהגה לתקשורת בזמן מלחמה ממחיש את זירת המידע שבה נבחנת הצלחתן של טענות כזב המצדיקות פלישה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "disinformation",
+        "Russia",
+        "Ukraine",
+        "conspiracy_beliefs"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of an official Ukrainian presidential-office photograph of a meeting with media representatives; Wikimedia Commons CC BY 4.0 metadata retained. Standard fitness because it illustrates the wartime information context rather than the 19-country survey.",
+      "createdDate": "2026-07-20",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Meeting_of_President_Volodymyr_Zelenskyy_with_representatives_of_the_Ukrainian_media_25.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Meeting_of_President_Volodymyr_Zelenskyy_with_representatives_of_the_Ukrainian_media_25.jpg",
+      "license": "CC BY 4.0",
+      "creator": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website",
+      "provider": "Wikimedia Commons"
     }
   ],
   "topicGraphics": [

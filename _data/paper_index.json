@@ -1,8 +1,334 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1072,
+  "paperCount": 1082,
   "papers": [
+    {
+      "slug": "democracy_politicians_public_opinion_distribution_perception_summary_he",
+      "file": "democracy_politicians_public_opinion_distribution_perception_summary_he.html",
+      "permalink": "/democracy_politicians_public_opinion_distribution_perception_summary_he.html",
+      "sortKey": 202607200010,
+      "titleHe": "מעבר לממוצע: כשפוליטיקאים חושבים על התפלגות הדעות, הם טועים פחות",
+      "paperTitle": "Beyond the mean: how thinking about the distribution of public opinions reduces politicians’ perceptual errors",
+      "authorsCardHe": "Nicholas Dias; Jack Lucas; Lior Sheffer",
+      "sourceAuthors": [
+        "Nicholas Dias",
+        "Jack Lucas",
+        "Lior Sheffer"
+      ],
+      "journal": "Political Science Research and Methods, advance article, 1–16",
+      "dateText": "פורסם אונליין: 2 בפברואר 2026; מאמר מקוון מוקדם, עמ׳ 1–16",
+      "doiUrl": "https://doi.org/10.1017/psrm.2025.10069",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politicians_public_opinion_distribution_perception_summary_he.jpg",
+        "altHe": "שלושה אנשים מסדרים כרטיסיות צבעוניות על שולחן מול התפלגות גדולה של כרטיסיות על הקיר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "ניקולס דיאס, ג׳ק לוקאס וליאור שפר בוחנים מחדש את הממצא שלפיו פוליטיקאים תופסים את ציבור בוחריהם כשמרני יותר מכפי שהוא בפועל. לטענתם, בקשה להציב את ״התושב הממוצע״ בנקודה אחת על סולם שמאל–ימין עלולה למדוד לא רק ידע אלא גם קיצור דרך מחשבתי ופורמט שאינו מתאים לאופן שבו נבחרים חושבים על קבוצות שונות. בשכפול תיאורי של סקרי Canadian Municipal Barometer מן השנים 2020–2023, שכלל 1,865 פוליטיקאים עירוניים, כשני שלישים מן הטעויות נטו ימינה. הערכת־היתר הממוצעת הייתה 0.53–0.71 נקודות בסולם 0–10, וכ־30% מן הנבחרים מיקמו את תושבי עירם בצד הלא נכון של נקודת האמצע. ״האמת״ העירונית הוערכה במודל רב־רמתי עם פוסט־סטרטיפיקציה, MRP, על בסיס 94,073 תשובות אזרחים, 79 משתני מפקד ותוצאת ההצבעה השמרנית בבחירות הפדרליות של 2021. בניסוי רשום מראש שנערך בינואר–פברואר 2024 השתתפו 788 פוליטיקאים. כל אחד נתן הערכת נקודה ובנה התפלגות באמצעות 20 אסימונים על סולם אידאולוגי, כשכל אסימון מייצג 5% מן התושבים; סדר המשימות הוגרל. טעות הערכת הנקודה הייתה 0.67 נקודות ימינה, ואילו טעות ממוצע ההתפלגות ירדה ל־0.19 — הפחתה של יותר ממחצית. כאשר שאלת הנקודה הופיעה אחרי בניית ההתפלגות היא השתפרה, וכשני שלישים מכלל השיפור עברו גם אליה; זהו סימן לכך שהמשימה הפעילה מאמץ קוגניטיבי. עם זאת, ממוצע ההתפלגות נותר מדויק יותר גם מן הנקודה המאוחרת, ולכן לפורמט המובחן עצמו יש יתרון נוסף. סדר הנחת האסימונים חשף מנגנון דו־שלבי: בתחילה נבחרים נטו להציב תושבים הקרובים לעמדתם שלהם, כלומר הקרנה, ובהמשך הוסיפו עודף דוגמאות שמרניות. אצל נבחרי שמאל שני הכוחות קיזזו זה את זה; אצל נבחרי ימין הם פעלו יחד והחריפו את הטעות. התוצאה מרככת את הטענה שפוליטיקאים פשוט אינם מכירים את הציבור, אך אינה מבטלת את ההטיה הנותרת ואינה מוכיחה שינוי בהחלטות או במדיניות. המחקר מוגבל לנבחרים עירוניים בקנדה, לסולם אידאולוגי ולדיוק הממוצע של ההתפלגות; הוא אינו מראה שהנבחרים מעריכים נכון את רוחב ההתפלגות או את שיעור הקיצוניים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_polarized_society_response_war_summary_he",
+      "file": "democracy_polarized_society_response_war_summary_he.html",
+      "permalink": "/democracy_polarized_society_response_war_summary_he.html",
+      "sortKey": 202607200009,
+      "titleHe": "מאוחדים במלחמה, מפולגים ביחס לשלטון",
+      "paperTitle": "United or Divided? A Polarized Society’s Response to War",
+      "authorsCardHe": "Yuval Feinstein; Geffen Ben-David",
+      "sourceAuthors": [
+        "Yuval Feinstein",
+        "Geffen Ben-David"
+      ],
+      "journal": "Public Opinion Quarterly, 90(3), 657–696",
+      "dateText": "פורסם אונליין: 3 באפריל 2026; כרך 90, גיליון 3, עמ׳ 657–696",
+      "doiUrl": "https://doi.org/10.1093/poq/nfag014",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarized_society_response_war_summary_he.jpg",
+        "altHe": "מתנדבים ממיינים ציוד ואורזים ארגזי סיוע באולם ספורט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "יובל פיינשטיין וגפן בן־דוד שואלים אם אירוע ביטחוני קיצוני מאחד חברה מקוטבת לא רק סביב פעולה צבאית אלא גם סביב הממשלה המנהלת אותה. הם מנתחים פאנל מקוון לא־הסתברותי של יהודים ישראלים בני 18 ומעלה: 1,552 השתתפו במרץ–אפריל 2023, וכאלף מהם רואיינו שוב ב־18–22 באוקטובר ובתחילת דצמבר, לאחר תחילת התמרון הקרקעי. מתקפת 7 באוקטובר קיימה כמעט את כל התנאים הקלאסיים ל״התלכדות סביב הדגל״ — אירוע חוץ דרמטי, אויב שנוא, השפלה לאומית, תגובה צבאית נרחבת ורטוריקה מאחדת — אך הגיעה אחרי מאבק חריף על השינוי המשפטי שפיצל את החברה ואף חלקים מן הימין. התוצאה הייתה ״עמדות מפוצלות״. התמיכה בתקיפות אוויריות הייתה כמעט מוחלטת, והתמיכה בתמרון קרקעי עלתה מכ־77% באוקטובר לכ־90% בדצמבר. אמון גבוה או גבוה מאוד בצה״ל ירד מעט מכ־74% לפני המתקפה לכ־70% באוקטובר וחזר לכ־73% בדצמבר. לעומת זאת, שיעור המרוצים במידה כלשהי מנתניהו ירד מכ־43% לפני המשבר לכ־36% באוקטובר ונשאר כ־38% בדצמבר; האמון הגבוה בו ובממשלה נותר נמוך ולא הופיעה עלייה מעל קו הבסיס. המודלים מצביעים על שני מסלולים נפרדים. תפיסת חמאס כאיום ניבאה כעס ופחד; כעס נקשר לתמיכה בתקיפה אווירית ולאמון בצה״ל בשני הגלים ולתמיכה בתמרון בדצמבר, ואילו פחד נקשר לתמיכה צבאית נמוכה יותר באוקטובר בלבד. הערכת נתניהו והממשלה נקשרה בעיקר לייחוס אחריות: האשמת הממשלה ניבאה בעקביות פחות אמון ושביעות רצון, והאשמת המחאה ניבאה הערכות חיוביות יותר בעיקר בדצמבר. עמדה שתמכה בשינוי המשפטי ונמדדה חודשים לפני המלחמה ניבאה פחות האשמת הממשלה, יותר האשמת המחאה ויותר אמון בהנהגה בזמן המלחמה, אך כמעט לא ניבאה את ענף העמדות הצבאיות. ניתוחי תיווך עם 5,000 דגימות bootstrap מתיישבים עם שני המסלולים, אך אינם הופכים את כל הקשרים לסיבתיים: ייחוסי אשמה והערכת ההנהגה נמדדו יחד, ואין קבוצת ביקורת של חברה דומה אך פחות מקוטבת. המדגם כולל יהודים בלבד ואינו מייצג אזרחים ערבים או פלסטינים בישראל; הוא גם אינו בוחן את חוקיות המלחמה, את מוסריותה או תמיכה בכל דרך פעולה. התרומה המדויקת היא להראות שתמיכה רחבה במאמץ צבאי יכולה להתקיים לצד אחריותיות ואי־אמון פוליטיים, וכי קיטוב קודם עשוי למנוע ממנהיגות ליהנות מן הראלי שהאיום הלאומי היה צפוי לייצר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_policy_disputes_affective_polarization_experiment_summary_he",
+      "file": "democracy_policy_disputes_affective_polarization_experiment_summary_he.html",
+      "permalink": "/democracy_policy_disputes_affective_polarization_experiment_summary_he.html",
+      "sortKey": 202607200008,
+      "titleHe": "כשהמחלוקת נעשית אישית: ניסוי בעשר מדינות על שורשי הקיטוב הרגשי",
+      "paperTitle": "Beyond Observational Relationships: Evidence from a Ten-Country Experiment that Policy Disputes Cause Affective Polarization",
+      "authorsCardHe": "Noam Gidron; James Adams; Will Horne; Thomas Tichelbaecker",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "James Adams",
+        "Will Horne",
+        "Thomas Tichelbaecker"
+      ],
+      "journal": "British Journal of Political Science, 55 (2025), e84, 1–10",
+      "dateText": "פורסם אונליין: 30 במאי 2025; כרך 55, מאמר e84, עמ׳ 1–10",
+      "doiUrl": "https://doi.org/10.1017/S0007123425000158",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_policy_disputes_affective_polarization_experiment_summary_he.jpg",
+        "altHe": "משתתפים יושבים בקבוצות שיחה קטנות סביב שולחנות בבית קפה לידע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "נועם גדרון, ג׳יימס אדמס, ויל הורן ותומאס טיכלבקר בוחנים אם מחלוקות מדיניות אינן רק קשורות לקיטוב רגשי אלא מסוגלות לגרום לירידה מיידית באמון בין מחנות. ביוני–יולי 2021 השתתפו בסקר מקוון 11,001 משיבים מארצות הברית, שוודיה, פולין, הולנד, איטליה, יוון, בריטניה, צרפת, ספרד וגרמניה. המשיבים הוקצו באקראי לכתיבה פתוחה על מחלוקות כלכליות, על מחלוקות תרבותיות או, בקבוצת הביקורת, על יעד לחופשה. לאחר המטלה הם נשאלו באיזו תדירות אפשר לסמוך על תומכי מפלגות יריבות שיעשו את הדבר הנכון למדינה. שתי המטלות הפוליטיות הפחיתו את האמון ביחס לביקורת בשיעור קטן אך מובהק של כ־0.04–0.06 סטיות תקן במודלים המתוקננים. כך מספק המחקר ראיה סיבתית לכך שגם מחלוקות כלכליות וגם מחלוקות תרבותיות יכולות להחריף אי־אמון מפלגתי בטווח המיידי. ניתוח התשובות הפתוחות מוסיף ממצא ממוקד: 37% מן המשיבים בתנאי התרבותי הזכירו הגירה, לעומת 12% בתנאי הכלכלי. לאחר איזון סטטיסטי על מאפיינים שנמדדו לפני הטיפול, אזכור הגירה בתנאי התרבותי נקשר לאי־אמון עמוק יותר, והדפוס הונע כולו בידי משיבים מן הימין. משיבי ימין נטו למסגר הגירה דרך אי־חוקיות, פשיעה ועומס על שירותים ציבוריים, ואילו משיבי שמאל הדגישו יותר גזענות, אי־שוויון, צדק חברתי ופליטים. עם זאת, עצם אזכור ההגירה לא הוקצה באקראי, ולכן הניתוח הזה אינו נהנה מאותה עוצמת זיהוי סיבתי כמו ההשוואה בין שלוש המטלות. גם גודל ההשפעה בעולם האמיתי אינו נלמד ישירות: תזכורת קצרה בסקר עלולה לדעוך, אך גם אינה משחזרת חשיפה מצטברת של שנים לוויכוחים פוליטיים. התרומה המדויקת היא הוכחה השוואתית לכך שהפניית קשב למחלוקת מדיניות יכולה להפוך מחלוקת רעיונית לאי־אמון בין־אישי, לצד זיהוי זהיר של הגירה כמנוע תרבותי חשוב במיוחד בקרב הימין.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_diaspora_local_american_conservatism_israel_summary_he",
+      "file": "democracy_diaspora_local_american_conservatism_israel_summary_he.html",
+      "permalink": "/democracy_diaspora_local_american_conservatism_israel_summary_he.html",
+      "sortKey": 202607200007,
+      "titleHe": "איך השמרנות האמריקאית הותאמה לימין הישראלי",
+      "paperTitle": "Diaspora–Local Cooperation as a Driver of Ideological Change: The Ascendance of American Conservatism in Israel",
+      "authorsCardHe": "Or Asher; Ronen Mandelkern",
+      "sourceAuthors": [
+        "Or Asher",
+        "Ronen Mandelkern"
+      ],
+      "journal": "Perspectives on Politics, 24(2), 738–761",
+      "dateText": "פורסם לראשונה אונליין: 20 באוקטובר 2025; כרך 24, גיליון 2, עמ׳ 738–761",
+      "doiUrl": "https://doi.org/10.1017/S1537592725102806",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_diaspora_local_american_conservatism_israel_summary_he.jpg",
+        "altHe": "ארבעה משתתפים משוחחים סביב שולחן ולצדם שלושה משתתפים נוספים על מסך בשיחת וידאו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "אור אשר ורונן מנדלקרן מבקשים להסביר תופעה שלדבריהם אינה מתיישבת היטב עם הסברים מקובלים לנדידת רעיונות: עלייתה של שמרנות אמריקאית כאידאולוגיה סדורה בתוך הימין הישראלי, אף שהממשלה האמריקאית, האיחוד האירופי ורוב המומחים המקומיים לא הובילו אותה ולעיתים התנגדו לביטוייה. הם מציעים מנגנון חלופי — שיתוף פעולה בין תפוצה לשחקנים מקומיים, Diaspora–Local Cooperation או DLC. הקשר נשען הן על הסכמה רעיונית והן על תחושת שייכות לאומית משותפת; השייכות מעניקה לתורמים מן התפוצה לגיטימציה שאינה זמינה תמיד לשחקן זר ומעודדת השקעה בתשתית רב־תחומית ולא בנושא יחיד. באמצעות מעקב תהליכי, שישה ראיונות חצי־מובנים שנערכו ב־2021, פרסומי ארגונים, מסמכי מדיניות, תרגומים, דיוני כנסת, חקיקה וסיקור תקשורתי, המחברים משחזרים שרשרת: תורמים יהודים־אמריקאים ושותפים ישראלים מקימים ומממנים ארגונים; הארגונים מתרגמים וממקמים רעיונות אמריקאיים בתוך שפה ישראלית ויהודית; והרעיונות נכנסים לשיח, להצעות מדיניות ולקשרים עם פוליטיקאים. קרן תקווה ופורום קהלת הם הצמתים המרכזיים, ולצדם מוסדות כמו השילוח, שיבולת, הפורום הישראלי למשפט וחירות ומידה. ההשפעה אינה אחידה. בתחום המשטר והמשפט, רעיונות על ריסון שיפוטי, פוליטיזציה של מינוי שופטים, החלשת כוחם של יועצים משפטיים והגדלת מינויים פוליטיים התאימו לצורכי שחקני ימין ולמתח בין יעדיהם לבין הסדר המשפטי; המחברים קושרים בין מסמכי קהלת לבין רכיבים מרכזיים של מהלך השינוי המשפטי מ־2023 ומתעדים פגישות וייעוץ ישיר. בתחום הכלכלה תורגמו והותאמו רעיונות של שוק חופשי, הפרטה, דה־רגולציה, החלשת איגודים ובחירת הורים בחינוך, אך חדירתם נותרה מוגבלת יותר משום שהם מתנגשים באינטרסים קואליציוניים ובמסורות של סולידריות ורווחה. בתחום המוסר החברתי הופיע שיח אמריקאי מחולן יחסית של ״ערכי משפחה״ והתנגדות לפרוגרסיביות, והוא ניכר במאבקים סביב אלימות כלכלית במשפחה ואמנת איסטנבול; גם כאן ההשפעה חלקית בגלל מחלוקות פנימיות בימין. המחקר אינו טוען שהאידאולוגיה הישראלית הוחלפה בשלמותה. לפי הניתוח המורפולוגי שלו, ליבת הימין — מקסימליזם טריטוריאלי ואתנו־לאומיות יהודית — נשארה יציבה, ואילו מושגים סמוכים והיקפיים הוחלפו או נוסחו מחדש. גם אין זה אומדן כמותי של השפעת כל תרומה או הוכחה ששחקן יחיד גרם לכל שינוי; זוהי טענה מנגנונית המבוססת על הצטברות ראיות תהליכיות ועל השוואה בין שלושה תחומים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_factual_knowledge_attitude_polarization_summary_he",
+      "file": "democracy_factual_knowledge_attitude_polarization_summary_he.html",
+      "permalink": "/democracy_factual_knowledge_attitude_polarization_summary_he.html",
+      "sortKey": 202607200006,
+      "titleHe": "יותר ידע עובדתי, פחות קיטוב בעמדות — אך לא פחות ריחוק",
+      "paperTitle": "Factual knowledge can reduce attitude polarization",
+      "authorsCardHe": "Michael Nicholas Stagnaro; Eran Amsalem",
+      "sourceAuthors": [
+        "Michael Nicholas Stagnaro",
+        "Eran Amsalem"
+      ],
+      "journal": "Nature Communications, 16, Article 3809",
+      "dateText": "פורסם: 23 באפריל 2025; כרך 16, מאמר 3809",
+      "doiUrl": "https://doi.org/10.1038/s41467-025-58697-3",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_factual_knowledge_attitude_polarization_summary_he.jpg",
+        "altHe": "שתי קבוצות קטנות ממיינות כרטיסי עובדות ותצלומים לצד אסימונים סביב שולחנות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "מייקל ניקולס סטגנרו וערן אמסלם בוחנים באופן סיבתי טענה מרכזית בחקר הקיטוב: האם רכישת ידע עובדתי בנושא פוליטי גורמת לאנשים לעבד מידע לטובת המחנה שלהם ולהקצין, או שהיא מאפשרת להם לעדכן עמדה ולהתמתן. בניסוי מקוון שנרשם מראש הוקצו 1,011 משיבים אמריקאים לאימון ידע על פיקוח על נשק או לאימון ביקורת לא־פוליטי על אילוף כלבים; שתי הקבוצות קיבלו תמריץ קטן על תשובות נכונות. חומרי הפיקוח על נשק כללו עובדות ממקורות שצוטטו, ובהן מידע ניטרלי, מידע התומך בהרחבת הפיקוח ומידע המתנגד לה, כך שהמשתתפים נחשפו גם לעובדות שאינן נוחות לעמדתם הראשונית. מיד לאחר האימון נרשמה עלייה גדולה בידע על נשק בקבוצת הטיפול, והיתרון נותר קטן יותר אך מובהק גם בקרב 881 המשיבים שחזרו לאחר חודש. הלמידה לא הוגבלה לעובדות מחזקות־עמדה: המשתתפים רכשו ידע מכל שלושת הסוגים, ובכמה מן ההשוואות למדו דווקא יותר מן החומר המנוגד לעמדתם. בשלושה מדדי עמדה התקבלה תמונה של התמתנות ולא של הקצנה, אך עיתוי המובהקות היה מעורב: עמדת המדיניות הכללית זזה באופן מובהק אל המרכז רק בגל המאוחר, ואילו שתי הערכות הקושרות בין הראיות למדיניות השתנו באופן מובהק בעיקר מיד לאחר האימון. לעומת זאת, מדד המרחק החברתי מן המחנה היריב לא השתנה בשום גל. המאמר מסיק שבתנאים מובנים של חשיפה מאוזנת, מקורות גלויים ותמריץ לדיוק, ידע יכול לצמצם קיטוב בעמדות מדיניות; הוא אינו מוכיח שחשיפה דומה מתרחשת מרצון בסביבה התקשורתית היומיומית, שהאפקט מכליל לנושאים אחרים, או ששיפור ידע מרכך קיטוב רגשי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_public_opinion_negotiations_digital_media_summary_he",
+      "file": "democracy_public_opinion_negotiations_digital_media_summary_he.html",
+      "permalink": "/democracy_public_opinion_negotiations_digital_media_summary_he.html",
+      "sortKey": 202607200005,
+      "titleHe": "דעת קהל ברשת אינה רק ספירת דעות",
+      "paperTitle": "Public Opinion Negotiations in a Digital Media Ecosystem: A Conceptual Framework",
+      "authorsCardHe": "Christian Baden; Neta Kligler-Vilenchik; Nina Springer; Marc Jungblut; Asta Zelenkauskaite; Auksė Balčytienė; Susana Salgado; Artur Lipiński; Aleksandra Krstic; Anna Bączkowska",
+      "sourceAuthors": [
+        "Christian Baden",
+        "Neta Kligler-Vilenchik",
+        "Nina Springer",
+        "Marc Jungblut",
+        "Asta Zelenkauskaite",
+        "Auksė Balčytienė",
+        "Susana Salgado",
+        "Artur Lipiński",
+        "Aleksandra Krstic",
+        "Anna Bączkowska"
+      ],
+      "journal": "International Journal of Public Opinion Research, 37(3), edaf049",
+      "dateText": "פורסם אונליין: 2 בספטמבר 2025; כרך 37, גיליון 3, edaf049",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edaf049",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_opinion_negotiations_digital_media_summary_he.jpg",
+        "altHe": "אזרחים ואנשי תקשורת עובדים בקבוצות סביב שולחנות עם מצלמה, מיקרופון, מחשבים וטלפונים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "כריסטיאן באדן, נטע קליגלר־וילנצ׳יק ועמיתיהם מציעים מסגרת תאורטית לחקר דעת קהל במערכת מדיה דיגיטלית. נקודת המוצא שלהם היא שהמונח דעת קהל מתייחס כאן לא להתפלגות של דעות פרטיות שאפשר לאמוד בסקר, אלא לתהליך פומבי שבו משתתפים מנסים לקבוע אילו עמדות יכולות להיאמר כלגיטימיות, אילו נותרות שנויות במחלוקת ואילו נדחות אל מחוץ למסדרון המקובל. המחברים מחלצים מן התאוריה הטרום־דיגיטלית חמש תכונות של משא ומתן כזה: ביטוי משתתף ופומבי, תרומות הממוקמות חברתית, אינטראקציה בין תרומות, אוריינטציה נורמטיבית, והשתלבות בזירות המובנות בידי מוסדות וכללים סוציו־טכניים. הדיגיטציה מרחיבה את מספר הדוברים ואת מגוון התגובות, אך אינה הופכת את השיח למדגם מייצג או לשוק שווה של רעיונות. משקלם של מסרים תלוי בזהות הדובר, בסמכות ובמוניטין שיוחסו לו, בפעולות כמו תגובה ושיתוף, ובכללי האתר, האלגוריתם והמודרציה. גם לייק, ציטוט ביקורתי או התעלמות הם חלק מן התהליך, משום שהם עשויים להעניק נראות, לסמן הסכמה או לבטא דחייה; לעיתים ביקורת אף מגדילה את תפוצת המסר שהיא מבקשת לגנות. מכאן נובעת אזהרה מתודולוגית: ספירת פוסטים בפלטפורמה אחת אינה מלמדת כמה אזרחים מחזיקים בעמדה, מפני שההשתתפות בררנית, הקולות אינם שווי־משקל, רוב הציבור עשוי לשתוק והזירות מקושרות זו לזו. המאמר אינו מדווח ניסוי או מאגר נתונים שמאמתים את המסגרת, אלא בונה סדר יום מחקרי: להגדיר את הציבור והזירות הרלוונטיות, לשחזר שרשראות תגובה והדהוד, לזהות את מעמדם של המשתתפים ולנתח את הנימוקים שבאמצעותם גבולות המקובל נפתחים או נסגרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_religiosity_tolerance_reconciliation_colombia_summary_he",
+      "file": "democracy_religiosity_tolerance_reconciliation_colombia_summary_he.html",
+      "permalink": "/democracy_religiosity_tolerance_reconciliation_colombia_summary_he.html",
+      "sortKey": 202607200004,
+      "titleHe": "דתיות, סובלנות פוליטית ונכונות לפיוס בקולומביה",
+      "paperTitle": "Religiosity, Political Tolerance, and Willingness to Reconcile in Post-Conflict Contexts: Evidence from Colombia",
+      "authorsCardHe": "Juan Federico Pino Uribe; Johanna Amaya-Panche; Nathalie Méndez Méndez; Andrés Casas Casas",
+      "sourceAuthors": [
+        "Juan Federico Pino Uribe",
+        "Johanna Amaya-Panche",
+        "Nathalie Méndez Méndez",
+        "Andrés Casas Casas"
+      ],
+      "journal": "Journal of Conflict Resolution, 70(2–3), 231–260",
+      "dateText": "פורסם לראשונה אונליין: 5 ביוני 2025; כרך 70, גיליונות 2–3, עמ׳ 231–260",
+      "doiUrl": "https://doi.org/10.1177/00220027251331887",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religiosity_tolerance_reconciliation_colombia_summary_he.jpg",
+        "altHe": "משתתפים יושבים סביב שולחן במפגש קבוצתי לשיחה, הקשבה ובניית אמון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "חואן פדריקו פינו אוריבה, יוהאנה אמאיה־פאנצ׳ה, נטלי מנדס מנדס ואנדרס קאסאס קאסאס בוחנים את הקשר בין דתיות, סובלנות פוליטית ונכונות לפיוס בקולומביה — סכסוך שלא נבע בעיקר ממחלוקת דתית, אך שחקנים דתיים השתתפו בעימות הציבורי סביב הסכם השלום עם FARC. המחקר מאגד נתוני AmericasBarometer של LAPOP מן השנים 2014, 2016 ו־2018 ומשתמש ברגרסיה לוגיסטית ובמודלים ליניאריים מרובים. הנכונות לפיוס נמדדת בשלושה פריטים נפרדים: אמונה בינארית באפשרות של סליחה ופיוס בין נפגעים ל־FARC, הסכמה לכך שילד או ילדה יתיידדו עם לוחם FARC משוחרר, ותמיכה בזכויות שוות למפלגות של חברי FARC לשעבר. הדתיות נמדדת באמצעות החשיבות המיוחסת לדת, תדירות ההשתתפות באירועים דתיים והשתייכות דתית; הסובלנות הפוליטית נבנית מארבע שאלות על זכויות ההצבעה, המחאה, ההתמודדות לתפקיד והביטוי של מי שמבקרים את צורת השלטון. לאחר בקרה למגדר, השכלה, גיל, הכנסה, אידאולוגיה, אמון בממשלה ושנת הסקר, חשיבות בינונית או גבוהה של הדת נקשרה בעקביות לנכונות נמוכה יותר לפיוס בכל שלושת הממדים. עם זאת, תדירות השתתפות דתית הציגה תמונה מורכבת יותר: השתתפות פעם או פעמיים בשנה נקשרה לנכונות כללית וחברתית גבוהה יותר, ולא נמצא לה קשר מובהק בממד הפוליטי. סובלנות פוליטית נקשרה באופן חיובי לכל שלושת מדדי הפיוס, וניתוחי האינטראקציה הובילו את המחברים לתמוך בטענה שהיא מחלישה חלק מן הקשר השלילי בין דתיות לנכונות לפיוס, בעיקר בממדים החברתי והפוליטי; הדפוסים משתנים בין מדדי דתיות וקבוצות השתייכות, וחלק מרווחי הסמך רחבים. משום שהנתונים הם סקרי חתך והמשתנים המרכזיים נמדדו בפריט יחיד, התוצאות מתארות קשרים מותנים ואינן מוכיחות שסובלנות שנרכשה תגרום לפיוס או שדתיות כשלעצמה גורמת לדחיית לוחמים לשעבר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_polarization_multilevel_bias_summary_he",
+      "file": "democracy_political_polarization_multilevel_bias_summary_he.html",
+      "permalink": "/democracy_political_polarization_multilevel_bias_summary_he.html",
+      "sortKey": 202607200003,
+      "titleHe": "האם ההטיה הפוליטית סימטרית בין ימין לשמאל?",
+      "paperTitle": "Asymmetry in political polarization at multiple levels of bias",
+      "authorsCardHe": "Annika Kluge; Eli Adler; Lilach Nir; Eran Halperin; Mikko Sams; Jonathan Levy",
+      "sourceAuthors": [
+        "Annika Kluge",
+        "Eli Adler",
+        "Lilach Nir",
+        "Eran Halperin",
+        "Mikko Sams",
+        "Jonathan Levy"
+      ],
+      "journal": "Political Psychology, 45(6), 1105–1121",
+      "dateText": "פורסם: 8 במרץ 2024",
+      "doiUrl": "https://doi.org/10.1111/pops.12967",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_polarization_multilevel_bias_summary_he.jpg",
+        "altHe": "נבדק יושב מתחת לסורק MEG לצד צג מחשב במעבדה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "אניקה קלוגה ועמיתיה בוחנים את מחלוקת הסימטריה האידאולוגית בלי להשוות יחס לקבוצת מיעוט חיצונית: אנשי ימין ואנשי שמאל התבקשו למיין מילים הקשורות ישירות לשני המחנות, בזמן שפעילות מוחם נמדדה ב־MEG. מתוך 81 מגויסים נותחו נתוניהם של 77 ישראלים בני 18–35; ההשוואה הישירה כללה 35 אנשי ימין ו־31 אנשי שמאל, ואילו 11 אנשי מרכז נכללו רק בניתוחים של כלל המדגם. הגירויים בעברית אוזנו מושגית ונבדקו גם במודל סמנטי, והמחקר שילב שאלון אי־סובלנות, ציון D של מבחן IAT וניתוח תנודות עצביות. אנשי ימין דיווחו על אי־סובלנות גבוהה יותר והציגו הטיה התנהגותית חזקה ועקבית יותר, אף שגם אנשי שמאל הראו בממוצע הטיה כלפי קבוצת החוץ. ברמה העצבית נמצאו שני רכיבים נבדלים: פעילות אלפא מוקדמת ב־dACC וב־mPFC שנקשרה לעמדה הפוליטית אך לא לציון ה־IAT, ודיכוי בטא מאוחר באזורים קדם־מרכזיים ובתר־מרכזיים שנקשר ישירות לציון ההתנהגותי. המחברים מסיקים שהאסימטריה במדגם הישראלי הופיעה בשלוש הרמות, אך מדגישים שהדפוס תלוי בהקשר החברתי־פוליטי ושיש לשחזרו במדינות ובמערכות מפלגתיות אחרות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_fake_news_facts_opinions_judgment_summary_he",
+      "file": "democracy_fake_news_facts_opinions_judgment_summary_he.html",
+      "permalink": "/democracy_fake_news_facts_opinions_judgment_summary_he.html",
+      "sortKey": 202607200002,
+      "titleHe": "כיצד חדשות כזב מחליפות עובדות בדעות?",
+      "paperTitle": "Exploring the Threat of Fake News: Facts, Opinions, and Judgement",
+      "authorsCardHe": "Ilan Zvi Baron; Piki Ish-Shalom",
+      "sourceAuthors": [
+        "Ilan Zvi Baron",
+        "Piki Ish-Shalom"
+      ],
+      "journal": "Political Research Quarterly, 77(2), 620–632",
+      "dateText": "פורסם: 19 בפברואר 2024",
+      "doiUrl": "https://doi.org/10.1177/10659129241234839",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fake_news_facts_opinions_judgment_summary_he.jpg",
+        "altHe": "קבוצה מגוונת סביב שולחן בוחנת מקרוב תצלומים וכרטיסים מודפסים בעזרת זכוכיות מגדלת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "אילן צבי ברון ופיקי איש־שלום מציעים אבחון מושגי לאיום הדמוקרטי של חדשות כזב. במקום לזהות את הסכנה רק בכמות השקרים, בכוונת המפיץ או בפגיעה באמון, הם שואלים כיצד מידע כוזב בונה עולם משמעות שמערער את התנאים לשיפוט פוליטי תקף. המאמר הוא מחקר תאורטי־פרשני: הוא סוקר ספרות על דיסאינפורמציה, מנתח את פסק הדין הקנדי R v Zundel משנת 1992, וקורא את ההבחנות של חנה ארנדט בין אמת עובדתית לדעה ובין שיפוט לחוסר מחשבה לצד רעיונות של קאבל, ויטגנשטיין ויונס. הטענה נבנית בשני שלבים: חדשות כזב מנצלות את הפתיחות של ידע לביקורת כדי להפוך כל אי־ודאות לעילה לדחייה, ובה בעת משתמשות בגמישות השפה כדי להציג דעה שאינה ניתנת להפרכה כאילו הייתה עובדה. כאשר דעה פרטית דוחקת ידע עובדתי שנוצר בעדות, תקשורת ובדיקה עם אחרים, נעלם גם השיפוט הפוליטי התלוי בריבוי נקודות מבט. התוצאה היא פסאודו־מציאות סוליפסיסטית שבה רק בני הקבוצה והנרטיב שלה נחשבים, ולכן מחלוקת, אחריותיות ודיאלוג דמוקרטי נעשים בלתי אפשריים. זהו הסבר נורמטיבי ולא מבחן אמפירי של השפעות תקשורת, ולכן כוחו בהבהרת מנגנון מושגי ומגבלתו באי־הוכחת שכיחותו או השפעתו הסיבתית באוכלוסייה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_disinformation_invasion_success_summary_he",
+      "file": "democracy_disinformation_invasion_success_summary_he.html",
+      "permalink": "/democracy_disinformation_invasion_success_summary_he.html",
+      "sortKey": 202607200001,
+      "titleHe": "מתי דיסאינפורמציה מצליחה להצדיק פלישה?",
+      "paperTitle": "Justifying an Invasion: When Is Disinformation Successful?",
+      "authorsCardHe": "Jan Zilinsky; Yannis Theocharis; Franziska Pradel; Marina Tulin; Claes de Vreese; Toril Aalberg; Ana Sofía Cardenal; Nicoleta Corbu; Frank Esser; Luisa Gehle; Denis Halagiera; Michael Hameleers; David Nicolas Hopmann; Karolina Koc-Michalska; Jörg Matthes; Christian Schemer; Václav Štětka; Jesper Strömbäck; Ludovic Terren; Sergio Splendore; James Stanyer; Agnieszka Stępińska; Peter Van Aelst; Alon Zoizner",
+      "sourceAuthors": [
+        "Jan Zilinsky",
+        "Yannis Theocharis",
+        "Franziska Pradel",
+        "Marina Tulin",
+        "Claes de Vreese",
+        "Toril Aalberg",
+        "Ana Sofía Cardenal",
+        "Nicoleta Corbu",
+        "Frank Esser",
+        "Luisa Gehle",
+        "Denis Halagiera",
+        "Michael Hameleers",
+        "David Nicolas Hopmann",
+        "Karolina Koc-Michalska",
+        "Jörg Matthes",
+        "Christian Schemer",
+        "Václav Štětka",
+        "Jesper Strömbäck",
+        "Ludovic Terren",
+        "Sergio Splendore",
+        "James Stanyer",
+        "Agnieszka Stępińska",
+        "Peter Van Aelst",
+        "Alon Zoizner"
+      ],
+      "journal": "Political Communication, 41(6), 965–986",
+      "dateText": "פורסם: 22 במאי 2024",
+      "doiUrl": "https://doi.org/10.1080/10584609.2024.2352483",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_disinformation_invasion_success_summary_he.jpg",
+        "altHe": "וולודימיר זלנסקי נפגש עם נציגי תקשורת אוקראינים סביב שולחן ישיבות, לצד מצלמות טלוויזיה ודגלי אוקראינה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-20",
+      "dateModified": "2026-07-20",
+      "summaryHe": "יאן זילינסקי ו־23 עמיתים בוחנים עד כמה ציבורים דמוקרטיים קיבלו שתי טענות שהקרמלין הפיץ להצדקת הפלישה לאוקראינה, ומה מנבא את קבלתן. חברת קנטר ערכה באפריל–מאי 2022 סקר מכסות ב־19 מדינות, ובניתוח נכללו 19,037 משיבים; הם דירגו בסולם של חמש דרגות את הטענות שממשלת אוקראינה אנטישמית ונשלטת בידי נאו־נאצים ושארצות הברית מממנת מחקר בנשק ביולוגי באוקראינה. החוקרים השוו את תרומתם הסטטיסטית של חשיבה קונספירטיבית, ציניות פוליטית, שימוש בפלטפורמות, חדשות בטלוויזיה ובעיתונים ומאפיינים דמוגרפיים ופוליטיים באמצעות מודלי OLS מאוגמים, אפקטים קבועים למדינה וניתוחים נפרדים לכל מדינה. רוב הציבור ברוב המדינות דחה את הנרטיבים, אך בכל מדינה לפחות 14% קיבלו לפחות אחד מהם; במדגם המאוגם 23% קיבלו את טענת המעבדות ו־13.6% את טענת השליטה הנאו־נאצית. נטייה קונספירטיבית קדמה סטטיסטית לכל מנבא אחר: במודל העשיר מעבר מן הציון הנמוך לגבוה ביותר נקשר לעלייה של 0.885 נקודה בדירוג האמת הממוצע, בעוד שהקשרים עם פייסבוק, יוטיוב וטיקטוק היו קטנים יותר ולא עקביים בכל המדינות. צריכה תכופה של חדשות בטלוויזיה ובעיתונים נקשרה בדרך כלל לדחיית הטענות, אך גם כאן נמצאו חריגים לאומיים. מאחר שזהו סקר חתך הנשען על דיווח עצמי, המאמר מזהה קשרים ולא מוכיח שהלך רוח קונספירטיבי גורם לאמונה או שפלטפורמה מסוימת משכנעת את משתמשיה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_positive_emotions_populist_radical_right_appeal_summary_he",
       "file": "democracy_positive_emotions_populist_radical_right_appeal_summary_he.html",
