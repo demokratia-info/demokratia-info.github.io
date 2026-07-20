@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -27001,6 +27001,288 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Meeting_of_President_Volodymyr_Zelenskyy_with_representatives_of_the_Ukrainian_media_25.jpg",
       "license": "CC BY 4.0",
       "creator": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_public_participation_consultants_epistemic_justice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_participation_consultants_epistemic_justice_summary_he.html",
+      "usedBy": [
+        "democracy_public_participation_consultants_epistemic_justice_summary_he.html"
+      ],
+      "cardTitleHe": "כשהעירייה מוציאה את שיתוף הציבור למיקור חוץ: מי באמת נשמע?",
+      "authorsHe": "Lia Levin",
+      "visualDescriptionHe": "מנחת שיתוף ציבור מקשיבה לתושבות ולתושבים המתדיינים סביב שולחן, כשברקע כרטיסי עבודה ריקים.",
+      "semanticDescriptionHe": "המרחק בין המנחה החיצונית לבין המשתתפים ממחיש את שאלת התיווך, ההקשבה והצדק האפיסטמי בתהליכי שיתוף ציבור במיקור חוץ.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "public_participation",
+        "consultants",
+        "epistemic_justice"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial consultation scene with no readable text, logos, or watermarks. High fitness because the actors and setting directly visualize outsourced public participation and whose knowledge is heard.",
+      "createdDate": "2026-07-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-21 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_elite_affective_polarization_canadian_politicians_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_elite_affective_polarization_canadian_politicians_summary_he.html",
+      "usedBy": [
+        "democracy_elite_affective_polarization_canadian_politicians_summary_he.html"
+      ],
+      "cardTitleHe": "קיטוב רגשי בקרב נבחרי ציבור: המוסדות הלא־מפלגתיים אינם כל הסיפור",
+      "authorsHe": "Jack Lucas; Lior Sheffer",
+      "visualDescriptionHe": "חברות וחברי מועצת העיר טורונטו בתצלום קבוצתי רשמי משנת 2007.",
+      "semanticDescriptionHe": "הדיוקן הקבוצתי מציג אליטה פוליטית מוניציפלית קנדית, האוכלוסייה המוסדית שבקרבה בוחן המאמר קיטוב רגשי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "Canada",
+        "municipal_politicians",
+        "affective_polarization"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a City of Toronto council group portrait from Wikimedia Commons; attribution metadata retained. Standard fitness because it matches the political population and country but does not depict polarization itself.",
+      "createdDate": "2026-07-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Toronto_City_Council_group_portrait_2007_(S2311_fl2317_it0003).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Toronto_City_Council_group_portrait_2007_%28S2311_fl2317_it0003%29.jpg",
+      "license": "Attribution",
+      "creator": "Jose San Juan/City of Toronto",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_politicians_projection_public_opinion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_politicians_projection_public_opinion_summary_he.html",
+      "usedBy": [
+        "democracy_politicians_projection_public_opinion_summary_he.html"
+      ],
+      "cardTitleHe": "הקרנה פוליטית: נבחרי ציבור מייחסים לבוחרים את העמדות של עצמם",
+    "authorsHe": "Julie Sevenans; Stefaan Walgrave; Arno Jansen; Karolin Soontjens; Stefanie Bailer; Nathalie Brack; Christian Breunig; Luzia Helfer; Peter John Loewen; Jean‐Benoît Pilet; Lior Sheffer; Frédéric Varone; Rens Vliegenthart",
+      "visualDescriptionHe": "אישה בחדר עבודה משווה דפוסי נקודות מופשטים בזמן שקבוצת תושבים משוחחת מאחורי מחיצת זכוכית.",
+      "semanticDescriptionHe": "ההשתקפות והמרחק מן התושבים ממחישים כיצד תפיסת דעת הקהל עלולה להתערבב בעמדותיו של הפוליטיקאי עצמו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "political_projection",
+        "public_opinion",
+        "representation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated editorial perception scene with no readable text, logos, or watermarks. High fitness because the reflection, evidence patterns, and citizen group directly visualize projection in perceived public opinion.",
+      "createdDate": "2026-07-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-21 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_bureaucracies_coping_populism_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bureaucracies_coping_populism_israel_summary_he.html",
+      "usedBy": [
+        "democracy_bureaucracies_coping_populism_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד בכירים בשירות הציבורי מתמודדים עם לחץ פופוליסטי?",
+      "authorsHe": "Nissim Cohen; Yekoutiel Sabah",
+      "visualDescriptionHe": "ארבעה מנהלים בשירות הציבורי דנים בתרשים תהליכים ובמעטפה סגורה במשרד ישראלי מואר.",
+      "semanticDescriptionHe": "הדיון המקצועי סביב נהלים והנחיות ממחיש את האסטרטגיות שבאמצעותן בירוקרטיות מנסות לשמור על תפקודן תחת לחץ פופוליסטי.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "Israel",
+        "bureaucracy",
+        "coping_strategies"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated Israeli public-administration scene with no readable text, logos, flags, or watermarks. High fitness because it directly depicts professional bureaucrats weighing procedures under political pressure.",
+      "createdDate": "2026-07-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-21 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_education_social_cohesion_economic_growth_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_education_social_cohesion_economic_growth_summary_he.html",
+      "usedBy": [
+        "democracy_education_social_cohesion_economic_growth_summary_he.html"
+      ],
+    "cardTitleHe": "מתי תיאום בחינוך מצמצם קיטוב — ומתי ריכוזיות דווקא מעמיקה אותו?",
+      "authorsHe": "Mark Gradstein; Moshe Justman",
+      "visualDescriptionHe": "שני תלמידים עובדים יחד על תרגיל מתמטי בכיתה.",
+      "semanticDescriptionHe": "הלמידה המשותפת ממחישה את מנגנון המגע הבית־ספרי שבאמצעותו חינוך עשוי לבנות לכידות חברתית, לצד הדיון במבנה המימון והצמיחה.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "education",
+        "social_cohesion",
+        "economic_growth"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a U.S. Department of Education classroom photograph from Wikimedia Commons; public-domain metadata retained. Standard fitness because it depicts shared learning but not the paper's formal political-economy model.",
+      "createdDate": "2026-07-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Math_Workshop_Portland_10_(1)_(9610683644).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Math_Workshop_Portland_10_%281%29_%289610683644%29.jpg",
+      "license": "Public domain",
+      "creator": "US Department of Education",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_street_level_policy_entrepreneurship_intention_behavior_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_street_level_policy_entrepreneurship_intention_behavior_summary_he.html",
+      "usedBy": [
+        "democracy_street_level_policy_entrepreneurship_intention_behavior_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע כוונה ליזום שינוי מדיניות אינה הופכת תמיד לפעולה?",
+    "authorsHe": "Neomi Frisch-Aviram; Itai Beeri; Nissim Cohen",
+      "visualDescriptionHe": "עובדת שירות ציבורי נעצרת על הסף שבין שולחן תכנון שקט לבין אזור קבלת קהל עמוס.",
+      "semanticDescriptionHe": "רגע ההחלטה בין תכנון לבין פעולה ממחיש את הפער שהמאמר בוחן בין כוונה ליזמות מדיניות לבין התנהגות בפועל.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "street_level_bureaucracy",
+        "policy_entrepreneurship",
+        "intention_behavior_gap"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated street-level public-service scene with no readable text, logos, or watermarks. High fitness because the threshold composition directly represents the intention–behavior gap.",
+      "createdDate": "2026-07-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-21 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_globalization_citizen_collective_action_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_globalization_citizen_collective_action_summary_he.html",
+      "usedBy": [
+        "democracy_globalization_citizen_collective_action_summary_he.html"
+      ],
+      "cardTitleHe": "האם זהות גלובלית נקשרת לפחות פעולה קולקטיבית מקומית?",
+    "authorsHe": "Eitan Adres; Dana R Vashdi; Yair Zalmanovitch",
+      "visualDescriptionHe": "תושבים יושבים בקהל מול דוברים בפורום ציבורי על תחבורה ואוויר נקי בניו יורק.",
+      "semanticDescriptionHe": "הפורום האזרחי ממחיש השתתפות קולקטיבית מקומית, סוג המעורבות שהמאמר מציב מול התחזקותן של זהויות ונטיות גלובליות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "globalization",
+        "collective_action",
+        "citizen_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a U.S. National Archives citizens' transportation forum photograph from Wikimedia Commons; public-domain metadata retained. Standard fitness because it depicts local collective participation rather than the survey's globalization comparison.",
+      "createdDate": "2026-07-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CITIZENS_MEETING_ON_TRANSPORTATION,_A_FORUM_ON_%22STRATEGIES_FOR_CLEAN_AIR%22_PROPOSED_BY_THE_NEW_YORK_CITY_EPA_-_NARA_-_554333.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/CITIZENS_MEETING_ON_TRANSPORTATION%2C_A_FORUM_ON_%22STRATEGIES_FOR_CLEAN_AIR%22_PROPOSED_BY_THE_NEW_YORK_CITY_EPA_-_NARA_-_554333.jpg",
+      "license": "Public domain",
+      "creator": "Dan McCoy",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_policy_entrepreneurship_training_field_experiment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_policy_entrepreneurship_training_field_experiment_summary_he.html",
+      "usedBy": [
+        "democracy_policy_entrepreneurship_training_field_experiment_summary_he.html"
+      ],
+      "cardTitleHe": "האם אפשר ללמד יזמות מדיניות? ניסוי שדה בקרב אחיות בריאות הציבור",
+      "authorsHe": "Neomi Frisch-Aviram; Itai Beeri; Nissim Cohen",
+      "visualDescriptionHe": "עובדות ועובדי ציבור בונים יחד מסלולי פעולה בעזרת כרטיסים ואסימונים בסדנה מעשית.",
+      "semanticDescriptionHe": "התרגול הפעיל ממחיש את הכשרת יזמות המדיניות שהמאמר בוחן בניסוי שדה אקראי ואת המעבר מלמידה להתנהגות.",
+    "tags": [
+      "democratic-institutions-economic-prosperity",
+      "institutions-civil-society-public-service",
+      "policy_entrepreneurship",
+        "training",
+        "randomized_field_experiment",
+        "street_level_bureaucracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated hands-on policy workshop with no readable text, logos, or watermarks. High fitness because the branching exercise directly visualizes the experimental training intervention.",
+      "createdDate": "2026-07-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-21 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+    "file": "html_qa/democracy_regulatory_welfare_state_israel_utilities_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_regulatory_welfare_state_israel_utilities_summary_he.html",
+      "usedBy": [
+        "democracy_regulatory_welfare_state_israel_utilities_summary_he.html"
+      ],
+      "cardTitleHe": "רווחה דרך רגולציה: מה מלמדים החשמל והמים בישראל?",
+      "authorsHe": "Hanan Haber",
+      "visualDescriptionHe": "עמודי מתח וקווי חשמל חוצים אזור מיושב לצד כביש בישראל.",
+      "semanticDescriptionHe": "רשת החשמל ממחישה תשתית חיונית המופעלת תחת רגולציה, זירה שבה המאמר בוחן כיצד מטרות רווחה חברתית נטמעות בשירותי תשתית.",
+    "tags": [
+      "democratic-institutions-economic-prosperity",
+      "Israel",
+        "utilities",
+        "social_regulation",
+        "regulatory_welfare_state"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a contemporary Israeli electricity-transmission photograph from Wikimedia Commons; CC0 metadata retained. Standard fitness because it precisely locates a regulated utility but does not show the welfare rules themselves.",
+      "createdDate": "2026-07-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20230522_081656_May_2023_in_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/20230522_081656_May_2023_in_Israel.jpg",
+      "license": "CC0",
+      "creator": "Rakoon",
+      "provider": "Wikimedia Commons"
+    },
+    {
+    "file": "html_qa/democracy_street_level_bureaucrats_collaboration_israel_germany_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_street_level_bureaucrats_collaboration_israel_germany_summary_he.html",
+      "usedBy": [
+        "democracy_street_level_bureaucrats_collaboration_israel_germany_summary_he.html"
+      ],
+      "cardTitleHe": "מתי תיאום הופך ליזמות מדיניות? עובדי קו ראשון בישראל ובגרמניה",
+      "authorsHe": "Lihi Lahat; Tanja Klenk; Noga Pitowsky-Nave",
+      "visualDescriptionHe": "שישה משתתפים יושבים סביב שולחן ומנהלים דיון קבוצתי בסדנה.",
+      "semanticDescriptionHe": "העבודה המשותפת סביב השולחן ממחישה תיאום, שיתוף ידע ושיתוף פעולה בין עמיתים, התנהגויות שהמאמר משווה ליזמות מדיניות.",
+    "tags": [
+      "democratic-institutions-economic-prosperity",
+      "institutions-civil-society-public-service",
+      "Israel",
+        "Germany",
+        "street_level_bureaucracy",
+        "collaboration",
+        "policy_entrepreneurship"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a small-group workshop photograph from Wikimedia Commons; CC BY-SA 4.0 metadata retained. Standard fitness because it conceptually depicts collaboration but not the study's Israeli and German welfare-service settings.",
+      "createdDate": "2026-07-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Group_discussion_during_Future_of_Commons_workshop_organised_by_CIS-A2K1.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Group_discussion_during_Future_of_Commons_workshop_organised_by_CIS-A2K1.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "सुबोध कुलकर्णी",
       "provider": "Wikimedia Commons"
     }
   ],
