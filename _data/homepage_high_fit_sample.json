@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "sampleSize": 6,
-  "seed": "2026-07-21-homepage-high-fit",
+  "seed": "2026-07-22-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 679,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_emotional_politics_israel_judicial_reform_summary_he",
-    "democracy_pitkinian_public_representation_citizens_summary_he",
-    "democracy_autocratic_entrenchment_escalating_supermajorities_summary_he",
-    "democracy_legislative_backsliding_populism_summary_he",
-    "democracy_corruption_crime_nexus_governance_summary_he",
-    "democracy_arab_and_jewish_students_participatory_action_research_at_the_university_of_haifa_summary_he"
+    "democracy_bilateral_agreements_migrant_workers_israel_summary_he",
+    "democracy_rights_consciousness_low_ses_pupils_summary_he",
+    "democracy_corporate_governance_owner_ceo_pay_israel_summary_he",
+    "democracy_minority_youth_participation_councils_israel_summary_he",
+    "democracy_arab_women_israeli_police_integration_summary_he",
+    "democracy_digital_human_rights_typology_summary_he"
   ]
 }

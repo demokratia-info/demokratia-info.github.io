@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -27284,6 +27284,297 @@
       "license": "CC BY-SA 4.0",
       "creator": "सुबोध कुलकर्णी",
       "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_accountability_hybridity_welfare_governance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_accountability_hybridity_welfare_governance_summary_he.html",
+      "usedBy": [
+        "democracy_accountability_hybridity_welfare_governance_summary_he.html"
+      ],
+      "cardTitleHe": "מי אחראי לשירותי הרווחה כשהמדינה, השוק והחברה האזרחית פועלים יחד?",
+      "authorsHe": "Avishai Benish; Paola Mattei",
+      "visualDescriptionHe": "שר הבריאות ההודי ונציגי ארגונים לא־ממשלתיים יושבים לדיון סביב שולחן ממשלתי.",
+      "semanticDescriptionHe": "המפגש בין נציגי ממשלה לחברה אזרחית ממחיש את ריבוי הגופים, הערכים וערוצי מתן הדין וחשבון במשילות רווחה היברידית.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "welfare_governance",
+        "hybridity",
+        "accountability",
+        "government_NGO_coordination"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of an Indian Health Ministry meeting with NGOs from Wikimedia Commons; GODL-India metadata retained. Standard fitness because it documents cross-sector public governance but not the paper's specific welfare cases.",
+      "createdDate": "2026-07-22",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:J.P._Nadda_addressing_a_meeting_with_the_NGOs_to_seek_their_participation_in_%E2%80%9CKayakalp%E2%80%9D_programme_of_the_Health_Ministry,_in_New_Delhi._The_Secretary_(Health_and_Family_Welfare).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/J.P._Nadda_addressing_a_meeting_with_the_NGOs_to_seek_their_participation_in_%E2%80%9CKayakalp%E2%80%9D_programme_of_the_Health_Ministry%2C_in_New_Delhi._The_Secretary_%28Health_and_Family_Welfare%29.jpg",
+      "license": "GODL-India",
+      "creator": "Ministry of Health and Family Welfare, Government of India",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_corporate_governance_owner_ceo_pay_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_corporate_governance_owner_ceo_pay_israel_summary_he.html",
+      "usedBy": [
+        "democracy_corporate_governance_owner_ceo_pay_israel_summary_he.html"
+      ],
+      "cardTitleHe": "האם רפורמות בממשל התאגידי צמצמו את פרמיית השכר של מנכ״לים־בעלים בישראל?",
+      "authorsHe": "Beni Lauterbach; Revital Yosef",
+      "visualDescriptionHe": "חברי דירקטוריון מצביעים בישיבה מול מנכ״ל היושב בראש השולחן.",
+      "semanticDescriptionHe": "הצבעת הדירקטוריון ממחישה פיקוח תאגידי על תגמול מנכ״ל בעל שליטה ואת תפקידם של מנגנוני אישור בהגנת בעלי מניות מיעוט.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "corporate_governance",
+        "owner_CEO",
+        "executive_pay",
+        "minority_shareholders",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated boardroom vote with no readable text, logos, or watermarks. High fitness because the governance vote directly represents oversight of owner-CEO compensation.",
+      "createdDate": "2026-07-22",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_technocratic_economists_government_bureaucracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_technocratic_economists_government_bureaucracy_summary_he.html",
+      "usedBy": [
+        "democracy_technocratic_economists_government_bureaucracy_summary_he.html"
+      ],
+      "cardTitleHe": "מתי כלכלנים בשירות המדינה נוטים לתפיסת תפקיד טכנוקרטית?",
+      "authorsHe": "Johan Christensen; Ronen Mandelkern",
+      "visualDescriptionHe": "שר האוצר ההודי נפגש עם כלכלנים ועובדי ממשלה סביב שולחן דיונים.",
+      "semanticDescriptionHe": "המפגש בין נבחר ציבור לכלכלנים בשירות המדינה ממחיש את היחסים בין מומחיות כלכלית, ביורוקרטיה והכרעה פוליטית.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "economists",
+        "technocracy",
+        "government_bureaucracy",
+        "civil_service"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of an Indian finance minister's meeting with economists from Wikimedia Commons; GODL-India metadata retained. Standard fitness because it specifically depicts economists advising government, but outside the Norwegian survey setting.",
+      "createdDate": "2026-07-22",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Union_Finance_Minister,_Shri_Pranab_Mukherjee_at_the_meeting_with_Economists,_in_New_Delhi_on_June_04,_2009_(1).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/The_Union_Finance_Minister%2C_Shri_Pranab_Mukherjee_at_the_meeting_with_Economists%2C_in_New_Delhi_on_June_04%2C_2009_%281%29.jpg",
+      "license": "GODL-India",
+      "creator": "Ministry of Finance, Government of India",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_bilateral_agreements_migrant_workers_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bilateral_agreements_migrant_workers_israel_summary_he.html",
+      "usedBy": [
+        "democracy_bilateral_agreements_migrant_workers_israel_summary_he.html"
+      ],
+      "cardTitleHe": "האם הסכמים בילטרליים הפחיתו את פגיעותם של מהגרי עבודה בישראל?",
+      "authorsHe": "Nonna Kushnirovich; Rebeca Raijman",
+      "visualDescriptionHe": "עובדי בניין סינים מתאספים בתחילת יום עבודה באתר בנייה בהרצליה.",
+      "semanticDescriptionHe": "הצילום מציג ישירות אחת משתי קבוצות העובדים שהמחקר משווה, וממקם את שאלת הגיוס, החוב ותנאי העבודה בשוק הבנייה הישראלי.",
+      "tags": [
+        "rights-equality-minorities",
+        "migrant_workers",
+        "bilateral_agreements",
+        "Chinese_construction_workers",
+        "precarious_work",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Chinese construction workers at a Herzliya worksite from Wikimedia Commons; CC BY-SA 4.0 metadata retained. High fitness because the photograph directly shows one of the study's migrant-worker groups in Israel.",
+      "createdDate": "2026-07-22",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chinese_construction_workers_in_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chinese_construction_workers_in_Israel.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "דוד שי",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_digital_human_rights_typology_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_digital_human_rights_typology_summary_he.html",
+      "usedBy": [
+        "democracy_digital_human_rights_typology_summary_he.html"
+      ],
+      "cardTitleHe": "האם זכויות האדם הישנות מספיקות לעולם הדיגיטלי?",
+      "authorsHe": "Dafna Dror-Shpoliansky; Yuval Shany",
+      "visualDescriptionHe": "יועצת מסייעת לאישה להשתמש במחשב ובטלפון בספרייה ציבורית נגישה, וברקע שירות דיגיטלי לאדם בכיסא גלגלים.",
+      "semanticDescriptionHe": "המרחב הציבורי המחובר ממחיש כיצד גישה, נגישות, פרטיות ושירותים מתווכי טכנולוגיה נעשים חלק ממימוש זכויות האדם בעולם הדיגיטלי.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "digital_human_rights",
+        "internet_access",
+        "automation",
+        "accessibility"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated civic digital-access scene with no readable text, logos, or watermarks. High fitness because the scene joins public access, accessibility and digitally mediated rights.",
+      "createdDate": "2026-07-22",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_human_rights_cities_model_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_rights_cities_model_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_cities_model_summary_he.html"
+      ],
+      "cardTitleHe": "מתי עיר הופכת לעיר זכויות אדם?",
+      "authorsHe": "Gil Shaham-Maymon",
+      "visualDescriptionHe": "משתתפי פורום ערי זכויות האדם העולמי בגוואנגג׳ו מצטלמים יחד על בימת הכנס.",
+      "semanticDescriptionHe": "הצילום מתעד את הפורום העירוני־בין־לאומי בגוואנגג׳ו שהמאמר מנתח כחלק מן המודל העבה יותר של עיר זכויות אדם.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "human_rights_cities",
+        "Gwangju",
+        "local_government",
+        "WHRCF"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of the 2019 World Human Rights Cities Forum in Gwangju from Wikimedia Commons; CC BY-SA 4.0 metadata retained. High fitness because it documents the named forum in the paper's central city case.",
+      "createdDate": "2026-07-22",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WHRCF_of_Gwangju.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/WHRCF_of_Gwangju.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Jaurocks",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_minority_youth_participation_councils_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_minority_youth_participation_councils_israel_summary_he.html",
+      "usedBy": [
+        "democracy_minority_youth_participation_councils_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד מועצות נוער משותפות עלולות לשחזר את אי־השוויון שהן מבקשות לצמצם?",
+      "authorsHe": "Tal Nir; Lotem Perry-Hazan",
+      "visualDescriptionHe": "בני ובנות נוער מקבוצות שונות יושבים במעגל דיון סביב שולחן פעילות קהילתי.",
+      "semanticDescriptionHe": "מעגל הדיון המשותף ממחיש השתתפות אזרחית של בני נוער ואת המתח בין מפגש בין־קבוצתי לבין פערי שפה, הון והשפעה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "minority_youth",
+        "participation_rights",
+        "Jewish_Arab_councils",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated multi-group youth deliberation with no readable text, logos, or watermarks. High fitness because the scene directly represents an integrated youth council and unequal participation around one table.",
+      "createdDate": "2026-07-22",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_rights_consciousness_low_ses_pupils_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_rights_consciousness_low_ses_pupils_summary_he.html",
+      "usedBy": [
+        "democracy_rights_consciousness_low_ses_pupils_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע הכרת זכויות אינה מספיקה כדי שבני נוער ידרשו אותן?",
+      "authorsHe": "Lotem Perry-Hazan; Rotem Kirma; Avihu Shoshana",
+      "visualDescriptionHe": "תלמידי תיכון יושבים בכיתה צנועה ומשוחחים עם מורה סביב כרטיסי פעילות ומחברות.",
+      "semanticDescriptionHe": "הדיון הכיתתי ממחיש למידת זכויות לצד החסמים החברתיים והמוסדיים שעלולים למנוע מתלמידים להפוך ידע לתביעה מעשית.",
+      "tags": [
+        "rights-equality-minorities",
+        "rights_consciousness",
+        "human_rights_education",
+        "low_SES_pupils",
+        "sense_of_constraint",
+        "inequality"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated classroom rights discussion with no readable text, logos, or watermarks. High fitness because it directly depicts pupils learning and deliberating about rights in a materially constrained school setting.",
+      "createdDate": "2026-07-22",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_territoriality_status_human_rights_litigation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_territoriality_status_human_rights_litigation_summary_he.html",
+      "usedBy": [
+        "democracy_territoriality_status_human_rights_litigation_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד עורכי דין משנים את הגבול בין טריטוריה למעמד?",
+      "authorsHe": "Irit Ballas",
+      "visualDescriptionHe": "ספריית המשפט בבית המשפט העליון בירושלים ובה מדפים, ספרי משפט וחלל עיון.",
+      "semanticDescriptionHe": "הספרייה המשפטית בבית המשפט העליון ממקמת את הדיון באסטרטגיות ליטיגציה ישראליות, אך אינה מייצגת כשלעצמה את ארבעת הארגונים או את מסגרות הטריטוריה והמעמד.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "human_rights_litigation",
+        "territoriality",
+        "legal_status",
+        "Israel_Palestine"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of the Israeli Supreme Court law library from Wikimedia Commons; CC BY-SA 4.0 metadata retained. Standard fitness because it specifically locates Israeli rights litigation but does not show the NGO strategies studied.",
+      "createdDate": "2026-07-22",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Library_of_the_of_Israel_supreme_court_building.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Library_of_the_of_Israel_supreme_court_building.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Avi1111 / Dr. Avishai Teicher",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_arab_women_israeli_police_integration_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_women_israeli_police_integration_summary_he.html",
+      "usedBy": [
+        "democracy_arab_women_israeli_police_integration_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד שוטרות ערביות מתמודדות עם התנגדות בשם מגדר, לאומיות ופשיעה?",
+      "authorsHe": "Tal Meler; Orly Benjamin",
+      "visualDescriptionHe": "שוטרת ערבייה משוחחת עם נשים במרחב שירות קהילתי, כששוטרים ותושבים נוספים נראים ברקע.",
+      "semanticDescriptionHe": "השיחה הקהילתית ממחישה את המסגור של עבודת המשטרה כשירות חברתי ואת המשא ומתן שנשים ערביות מנהלות סביב מקצוע, קהילה ולגיטימיות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "Arab_women",
+        "police",
+        "intersectionality",
+        "community_service",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated community-policing scene with no readable text, logos, or watermarks. High fitness because it directly depicts an Arab policewoman explaining her role to women in the community.",
+      "createdDate": "2026-07-22",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
