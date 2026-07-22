@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22",
+  "lastUpdated": "2026-07-23",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -27575,6 +27575,296 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-22 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_energy_poverty_ethnic_disparities_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_energy_poverty_ethnic_disparities_israel_summary_he.html",
+      "usedBy": [
+        "democracy_energy_poverty_ethnic_disparities_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מהו הפער בעוני באנרגיה בין משקי בית יהודיים וערביים־מוסלמיים בישראל?",
+      "authorsHe": "Na'ama Teschner; Hammudi Said; Stav Shapira",
+      "visualDescriptionHe": "משפחה ונציגת סיוע משוחחים סביב מסמכים בבית ישן, לצד מונה חשמל ואמצעי חימום וקירור.",
+      "semanticDescriptionHe": "השיחה הביתית מחברת בין חשבון החשמל, תנאי הדיור ושירותי הרווחה וממחישה את הפגיעוּת המשולבת שהמחקר בוחן.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "energy_poverty",
+        "ethnic_disparities",
+        "welfare",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated household energy-poverty scene with no readable text, logos, or watermarks. High fitness because it directly joins electricity, poor housing, heating and cooling, household documents, and welfare support.",
+      "createdDate": "2026-07-23",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-23 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_extreme_right_voting_israel_2009_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_extreme_right_voting_israel_2009_summary_he.html",
+      "usedBy": [
+        "democracy_extreme_right_voting_israel_2009_summary_he.html"
+      ],
+      "cardTitleHe": "מה הסביר הצבעה למפלגות ימין קיצוני בישראל בבחירות 2009?",
+      "authorsHe": "Michael Freedman; Or Kaner; Irena Kaplan",
+      "visualDescriptionHe": "אזרחים וחברי ועדת קלפי בתחנת הצבעה בירושלים בבחירות 2009, לצד תיבת קלפי כחולה.",
+      "semanticDescriptionHe": "הצילום ממקם את המאמר במערכת הבחירות הישראלית של 2009, אך אינו מזהה את בחירתם או את עמדותיהם של המצולמים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "elections",
+        "extreme_right",
+        "voting",
+        "Israel",
+        "2009"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a Jerusalem polling station during Israel's 2009 election from Wikimedia Commons; CC BY 2.5 metadata retained. Standard fitness because it documents the exact election but not the attitudes or party choices analyzed.",
+      "createdDate": "2026-07-23",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_478_elections2009_%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_2009.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/PikiWiki_Israel_478_elections2009_%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA_2009.JPG",
+      "license": "CC BY 2.5",
+      "creator": "זאב זמיר",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_civil_liberties_wartime_expression_second_intifada_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_civil_liberties_wartime_expression_second_intifada_summary_he.html",
+      "usedBy": [
+        "democracy_civil_liberties_wartime_expression_second_intifada_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד הגן בית המשפט העליון על חופש הביטוי בזמן האינתיפאדה השנייה?",
+      "authorsHe": "Yuval Karniel",
+      "visualDescriptionHe": "אולם דיונים בבית המשפט העליון בישראל ובו עורכי דין ואנשי ביטחון מול כס השופטים.",
+      "semanticDescriptionHe": "אולם הדיונים ממקם את שאלת חופש הביטוי בזמן מלחמה במוסד השיפוטי הישראלי שהמאמר מנתח.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "civil_liberties",
+        "freedom_of_expression",
+        "Supreme_Court",
+        "Second_Intifada"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a hearing hall in the Israeli Supreme Court from Wikimedia Commons; CC BY-SA 4.0 metadata retained. Standard fitness because it directly represents the court but not a specific expression case from the Second Intifada.",
+      "createdDate": "2026-07-23",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hearing_hall_in_Israel_supreme_court.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hearing_hall_in_Israel_supreme_court.jpg/1280px-Hearing_hall_in_Israel_supreme_court.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Avi1111 / Dr. Avishai Teicher",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_populism_empowerment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populism_empowerment_summary_he.html",
+      "usedBy": [
+        "democracy_populism_empowerment_summary_he.html"
+      ],
+      "cardTitleHe": "מתי העצמה פופוליסטית מערערת יחסי שליטה, ומתי היא מסתגלת אליהם?",
+      "authorsHe": "Or Dar",
+      "visualDescriptionHe": "אספה ציבורית סוערת שבה תושבים דנים סביב שולחנות, אישה מדברת במיקרופון ונואם עומד על במה.",
+      "semanticDescriptionHe": "האספה מציגה כמה מוקדי קול וכוח באותו מרחב וממחישה את השאלה אם התגייסות פופוליסטית משנה יחסי שליטה או מסתגלת אליהם.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "populism",
+        "empowerment",
+        "domination",
+        "power_resources",
+        "inequality"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated contentious public-assembly scene with no readable text, logos, or watermarks. High fitness because it visualizes mobilization alongside unequal positions of voice and authority.",
+      "createdDate": "2026-07-23",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-23 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.html",
+      "usedBy": [
+        "democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד נורמות המצדיקות שחיתות משנות את הקשר בין שחיתות לאמון במוסדות?",
+      "authorsHe": "Shlomo Mizrahi; Dana Natan Krup",
+      "visualDescriptionHe": "תושבים ממתינים במשרד שירות ציבורי בעוד פקיד מטפל באדם מן הצד, לצד אולם מועצה פתוח.",
+      "semanticDescriptionHe": "הפער בין התור הרשמי לטיפול הצדדי ממחיש כיצד תפיסות של שחיתות ותקינות מוסדית יכולות לעצב אמון בממשלה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity",
+        "institutional_trust",
+        "corruption",
+        "social_norms"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated public-service favoritism scene with no readable text, logos, or watermarks. High fitness because it directly depicts an institutional interaction capable of evoking corruption perceptions and trust judgments.",
+      "createdDate": "2026-07-23",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-23 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.html",
+      "usedBy": [
+        "democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.html"
+      ],
+      "cardTitleHe": "האם אינטראקציות בין ביורוקרטים לפוליטיקאים קשורות לנטייה ליזמות מדיניות?",
+      "authorsHe": "Mariana Costa Silveira; Nissim Cohen; Gabriela Lotta",
+      "visualDescriptionHe": "ישיבת ממשלה בברזיל שבה שרים, נבחרי ציבור ועובדי ממשל יושבים סביב שולחנות מול דוכן נואמים.",
+      "semanticDescriptionHe": "הישיבה הממשלתית ממחישה את מרחב האינטראקציה בין הדרג הפוליטי לבין המינהל הציבורי בהקשר הברזילאי של המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "bureaucrats",
+        "politicians",
+        "policy_entrepreneurship",
+        "public_administration",
+        "Brazil"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a Brazilian ministerial meeting from Wikimedia Commons; CC BY 2.0 metadata retained. Standard fitness because it directly shows politicians and senior officials interacting but not the survey respondents or their entrepreneurship tendencies.",
+      "createdDate": "2026-07-23",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:10.04.2023_-_Reuni%C3%A3o_ministerial_dos_100_dias_de_governo_(52807416321).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/10.04.2023_-_Reuni%C3%A3o_ministerial_dos_100_dias_de_governo_%2852807416321%29.jpg/1280px-10.04.2023_-_Reuni%C3%A3o_ministerial_dos_100_dias_de_governo_%2852807416321%29.jpg",
+      "license": "CC BY 2.0",
+      "creator": "Palácio do Planalto (photograph: Ricardo Stuckert/PR)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_digitization_transparency_corruption_indian_healthcare_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_digitization_transparency_corruption_indian_healthcare_summary_he.html",
+      "usedBy": [
+        "democracy_digitization_transparency_corruption_indian_healthcare_summary_he.html"
+      ],
+      "cardTitleHe": "האם דיגיטציה של שירותי הבריאות בהודו מגבירה שקיפות ומצמצמת שחיתות?",
+      "authorsHe": "Anwesha Chakraborty; Ina Kubbe",
+      "visualDescriptionHe": "מטופלים ואנשי צוות בבית החולים ג׳י בי פנט בהודו משתמשים בעמדת רפואה מרחוק.",
+      "semanticDescriptionHe": "עמדת הרפואה מרחוק ממחישה יישום ממשי של דיגיטציה בשירות בריאות ציבורי בהודו, לצד שאלות הנגישות, התכנון והפיקוח שבמרכז המאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "digitization",
+        "public_healthcare",
+        "transparency",
+        "corruption",
+        "India"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a telemedicine facility at G. B. Pant Hospital from Wikimedia Commons; GODL-India metadata retained. Standard fitness because it documents Indian public-health digitization but not the stakeholder interviews or corruption risks studied.",
+      "createdDate": "2026-07-23",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Patients_availing_telemedicine_facility_at_G._B.Pant_Hospital.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Patients_availing_telemedicine_facility_at_G._B.Pant_Hospital.jpg",
+      "license": "Government Open Data License - India (GODL-India)",
+      "creator": "Government of India",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_representative_bureaucracy_organizational_client_reactions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_representative_bureaucracy_organizational_client_reactions_summary_he.html",
+      "usedBy": [
+        "democracy_representative_bureaucracy_organizational_client_reactions_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד תגובות הארגון והלקוחות מעצבות ביורוקרטיה ייצוגית?",
+      "authorsHe": "Maayan Davidovitz; Tamar Shwartz-Ziv",
+      "visualDescriptionHe": "עובדי שירות ציבורי מרקעים שונים משוחחים עם משפחות ועם מנהלים במרכז קהילתי.",
+      "semanticDescriptionHe": "השיחות המקבילות ממחישות כיצד ייצוג פעיל של לקוחות מקבוצות מיעוט מושפע גם מתגובות הלקוחות וגם מתגובות הארגון.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "representative_bureaucracy",
+        "street_level_workers",
+        "organizational_reactions",
+        "client_reactions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated community-service scene with no readable text, logos, or watermarks. High fitness because it depicts minority public workers interacting with clients while organizational observers respond in the same setting.",
+      "createdDate": "2026-07-23",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-23 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_polarization_voluntary_compliance_self_regulation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_polarization_voluntary_compliance_self_regulation_summary_he.html",
+      "usedBy": [
+        "democracy_polarization_voluntary_compliance_self_regulation_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד קיטוב אידאולוגי מחליש ציות מרצון לרגולציה?",
+      "authorsHe": "Libby Maman; Yuval Feldman; Tom Tyler",
+      "visualDescriptionHe": "שתי קבוצות תושבים יושבות זו מול זו סביב שולחן ארוך, בעוד מנחים מציגים חומרי דיון במרכז.",
+      "semanticDescriptionHe": "המרחק בין שתי הקבוצות והניסיון לתאם פעולה סביב שולחן משותף ממחישים את המתח בין קיטוב, אמון ושיתוף פעולה מרצון.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "polarization",
+        "ideological_extremity",
+        "voluntary_compliance",
+        "self_regulation",
+        "trust"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated polarized civic-coordination scene with no readable text, logos, or watermarks. High fitness because it directly depicts divided groups facing a shared voluntary-cooperation task.",
+      "createdDate": "2026-07-23",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-23 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_corruption_institutions_fdi_oecd_africa_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_corruption_institutions_fdi_oecd_africa_summary_he.html",
+      "usedBy": [
+        "democracy_corruption_institutions_fdi_oecd_africa_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד שחיתות, דמוקרטיה וסיוע בילטרלי מעצבים השקעות ממדינות OECD באפריקה?",
+      "authorsHe": "Salman Bahoo; Ilan Alon; Josanco Floreani; Marco Cucculelli",
+      "visualDescriptionHe": "מכולות, משאיות ומנופי מטען בנמל מומבסה שבקניה, צומת מרכזי של סחר והשקעות בינלאומיים.",
+      "semanticDescriptionHe": "נמל מומבסה ממחיש תשתית ממשית של זרמי מסחר והשקעה באפריקה, אך אינו מייצג כשלעצמו את מדדי השחיתות, הדמוקרטיה או הסיוע שבמחקר.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "foreign_direct_investment",
+        "corruption",
+        "democracy",
+        "Africa"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Mombasa Port from Wikimedia Commons; public-domain metadata and Stuart Price/MEAACT credit retained. Standard fitness because it directly depicts an African trade-and-investment gateway but not the institutional variables analyzed.",
+      "createdDate": "2026-07-23",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2015_07_31_Mombasa_Port_JPEG_RESIZED_0035.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2015_07_31_Mombasa_Port_JPEG_RESIZED_0035.jpg/1280px-2015_07_31_Mombasa_Port_JPEG_RESIZED_0035.jpg",
+      "license": "Public domain",
+      "creator": "Ministry of East African Affairs, Commerce & Tourism; photograph by Stuart Price/MEAACT",
+      "provider": "Wikimedia Commons"
     }
   ],
   "topicGraphics": [

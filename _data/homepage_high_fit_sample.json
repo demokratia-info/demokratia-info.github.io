@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-22",
+  "lastUpdated": "2026-07-23",
   "sampleSize": 6,
-  "seed": "2026-07-22-homepage-high-fit",
+  "seed": "2026-07-23-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
-  "fullTextHighFitPaperCount": 7,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 686,
   "paperSlugs": [
     "democracy_bilateral_agreements_migrant_workers_israel_summary_he",
     "democracy_rights_consciousness_low_ses_pupils_summary_he",
     "democracy_corporate_governance_owner_ceo_pay_israel_summary_he",
-    "democracy_minority_youth_participation_councils_israel_summary_he",
+    "democracy_refusal_to_serve_in_the_israel_defense_forces_reserves_in_an_era_of_anti_democratic_judicial_reform_summary_he",
     "democracy_arab_women_israeli_police_integration_summary_he",
-    "democracy_digital_human_rights_typology_summary_he"
+    "democracy_judicial_reform_protest_civic_empowerment_summary_he"
   ]
 }

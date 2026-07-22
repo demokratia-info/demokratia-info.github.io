@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1102,
+  "paperCount": 1112,
   "papers": [
+    {
+      "slug": "democracy_corruption_institutions_fdi_oecd_africa_summary_he",
+      "file": "democracy_corruption_institutions_fdi_oecd_africa_summary_he.html",
+      "permalink": "/democracy_corruption_institutions_fdi_oecd_africa_summary_he.html",
+      "sortKey": 202607230010,
+      "titleHe": "כיצד שחיתות, דמוקרטיה וסיוע בילטרלי מעצבים השקעות ממדינות OECD באפריקה?",
+      "paperTitle": "Corruption, formal institutions, and foreign direct investment: The case of OECD countries in Africa",
+      "authorsCardHe": "Salman Bahoo; Ilan Alon; Josanco Floreani; Marco Cucculelli",
+      "sourceAuthors": [
+        "Salman Bahoo",
+        "Ilan Alon",
+        "Josanco Floreani",
+        "Marco Cucculelli"
+      ],
+      "journal": "Thunderbird International Business Review, 65(5), 461–483",
+      "dateText": "פורסם אונליין: 4 ביולי 2023; כרך 65, גיליון 5, עמ׳ 461–483 (ספטמבר 2023)",
+      "doiUrl": "https://doi.org/10.1002/tie.22361",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_corruption_institutions_fdi_oecd_africa_summary_he.jpg",
+        "altHe": "מכולות, משאיות ומנופי מטען בנמל מומבסה שבקניה, צומת מרכזי של סחר והשקעות בינלאומיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "סלמאן באהו, אילן אלון, יוסנקו פלוריאני ומרקו קוקוללי בוחנים כיצד שחיתות ומוסדות פורמליים קשורים להשקעות זרות ישירות באפריקה. המחקר משתמש בנתוני פאנל מן השנים 2001–2018 על זרמי השקעה זרה ישירה מ-18 מדינות אירופיות החברות ב-OECD אל 34 מדינות אפריקאיות. הממצא המרכזי הוא ששחיתות במדינה המארחת מפחיתה את זרמי ההשקעה. אולם הקשר השלילי אינו פועל באותה עוצמה בכל מערכת יחסים בין מדינת מקור למדינת יעד: סיוע בילטרלי ודמוקרטיה במדינה המארחת ממתנים אותו. השפעת הסיוע על הקשר בולטת במיוחד כאשר המדינה האפריקאית המארחת דמוקרטית. מכאן שהחלטות השקעה אינן תלויות רק ברמת השחיתות של היעד, אלא גם במסגרת המוסדית המקומית ובקשרים הפורמליים בין המדינות. הממצאים אינם אומרים שסיוע או דמוקרטיה מבטלים שחיתות, אלא שהם משנים את האופן שבו שחיתות קשורה לזרמי השקעה. המחקר מחבר כך בין איכות ממשל, יחסים בינלאומיים ופיתוח כלכלי, ומדגיש שהשפעת מוסדות נבחנת גם דרך האינטראקציה ביניהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_polarization_voluntary_compliance_self_regulation_summary_he",
+      "file": "democracy_polarization_voluntary_compliance_self_regulation_summary_he.html",
+      "permalink": "/democracy_polarization_voluntary_compliance_self_regulation_summary_he.html",
+      "sortKey": 202607230009,
+      "titleHe": "כיצד קיטוב אידאולוגי מחליש ציות מרצון לרגולציה?",
+      "paperTitle": "Polarization and Voluntary Compliance: The Impact of Ideological Extremity on the Effectiveness of Self‐Regulation",
+      "authorsCardHe": "Libby Maman; Yuval Feldman; Tom Tyler",
+      "sourceAuthors": [
+        "Libby Maman",
+        "Yuval Feldman",
+        "Tom Tyler"
+      ],
+      "journal": "Regulation & Governance, 20(3), 894–908",
+      "dateText": "פורסם אונליין: 2 באפריל 2025; כרך 20, גיליון 3, עמ׳ 894–908 (גיליון יולי 2026)",
+      "doiUrl": "https://doi.org/10.1111/rego.70020",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polarization_voluntary_compliance_self_regulation_summary_he.jpg",
+        "altHe": "שתי קבוצות תושבים יושבות זו מול זו סביב שולחן ארוך, בעוד מנחים מציגים חומרי דיון במרכז",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "ליבי ממן, יובל פלדמן וטום טיילר בוחנים כיצד קיצוניות אידאולוגית, ממד מרכזי של קיטוב, משפיעה על שיתוף פעולה בהקשרים של אסדרה עצמית. מודלים חדשים של ממשל משתמשים בכלים כמו התחייבויות ודחיפות התנהגותיות כדי להשיג ציות בלי להישען רק על כפייה. כלים אלה מניחים שאנשים משתפים פעולה מתוך מניע פנימי, ולכן הצלחתם תלויה באמון במוסדות הממשלה ובאמון בין אזרחים. המחברים מציעים שקיצוניות אידאולוגית שוחקת את שני סוגי האמון, מפחיתה התנהגות שיתופית ומאיימת על יכולתה של אסדרה עצמית להשיג ציות. הם מציעים גם שקיצוניות משנה את יחסי הסמכות, כך שהנטייה האידאולוגית וההתאמה המפלגתית נעשות חשובות יותר לקביעת רמת שיתוף הפעולה. באמצעות נתונים מן הסקר החברתי האירופי ומסקר הערכים העולמי, המחקר מוצא ראיות מוצקות לכך שקיצוניות אידאולוגית מחלישה שיתוף פעולה באמצעות מנגנונים שונים לאורך הקשת האידאולוגית. התקציר אינו מפרט את גודל ההשפעות או את כל ההבדלים בין חלקי הקשת, והמחברים מציינים שלנתונים יש מגבלות. מבחינה מדינית ודמוקרטית, המסקנה אינה שכלי ציות מרצון חסרי ערך, אלא שיש להתאים את השימוש בהם לרמת האמון ולדינמיקה האידאולוגית של הציבור ולא להניח ששיתוף פעולה יופיע באופן אחיד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_representative_bureaucracy_organizational_client_reactions_summary_he",
+      "file": "democracy_representative_bureaucracy_organizational_client_reactions_summary_he.html",
+      "permalink": "/democracy_representative_bureaucracy_organizational_client_reactions_summary_he.html",
+      "sortKey": 202607230008,
+      "titleHe": "כיצד תגובות הארגון והלקוחות מעצבות ביורוקרטיה ייצוגית?",
+      "paperTitle": "The Role of Organizational and Client Reactions in Understanding Representative Bureaucracy",
+      "authorsCardHe": "Maayan Davidovitz; Tamar Shwartz-Ziv",
+      "sourceAuthors": [
+        "Maayan Davidovitz",
+        "Tamar Shwartz-Ziv"
+      ],
+      "journal": "The American Review of Public Administration, 54(2), 151–162",
+      "dateText": "פורסם אונליין: 8 בנובמבר 2023; כרך 54, גיליון 2, עמ׳ 151–162",
+      "doiUrl": "https://doi.org/10.1177/02750740231200448",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_representative_bureaucracy_organizational_client_reactions_summary_he.jpg",
+        "altHe": "עובדי שירות ציבורי מרקעים שונים משוחחים עם משפחות ועם מנהלים במרכז קהילתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "מעיין דוידוביץ ותמר שוורץ־זיו מרחיבות את הדיון בביורוקרטיה ייצוגית מן השאלה מי מועסק בשירות הציבורי אל השאלה כיצד הסביבה מגיבה כאשר עובד מקבוצת מיעוט מייצג באופן פעיל לקוחות בעלי זהות חברתית או דמוגרפית משותפת. הספרות כבר זיהתה שעובדי קו ראשון עשויים להשתמש בשיקול דעתם כדי לקדם את צורכי הקבוצה, אך בחנה פחות את התגובות שהם מקבלים ואת השפעתן על יישום המדיניות. המחקר מבוסס על ראיונות עומק עם 23 עובדים סוציאליים וקהילתיים ערבים בישראל ועם 32 מורים להט״בים בישראל. הוא חושף מגוון תגובות שעובדי קו ראשון פוגשים כאשר הם מייצגים מיעוטים. תגובות מצד לקוחות ומצד הארגון יכולות לעודד את מאמצי הייצוג, לצמצם אותם או לעכב אותם, ולכן שיקול הדעת אינו מופעל בחלל ריק. תגובות חיצוניות גם מאשרות את עצם הייצוג ומעניקות לו לגיטימציה, או שוללות ממנו את האישור הזה. המאמר מציע לראות ביורוקרטיה ייצוגית כתהליך יחסי: זהות העובד חשובה, אך יכולתו לתרגם אותה לפעולה תלויה גם בתגובות הארגון והלקוחות. מבחינה דמוקרטית, הממצא מחדד שגיוון כוח האדם הוא תנאי חשוב אך לא מספיק; ארגון ציבורי חייב ליצור מרחב שבו עובדים יכולים להשתמש בידע ובאמון הנובעים מזהות משותפת בלי להיתקל בחסימה מוסדית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_digitization_transparency_corruption_indian_healthcare_summary_he",
+      "file": "democracy_digitization_transparency_corruption_indian_healthcare_summary_he.html",
+      "permalink": "/democracy_digitization_transparency_corruption_indian_healthcare_summary_he.html",
+      "sortKey": 202607230007,
+      "titleHe": "האם דיגיטציה של שירותי הבריאות בהודו מגבירה שקיפות ומצמצמת שחיתות?",
+      "paperTitle": "Improving Transparency in Service Delivery to Fight Corruption? Mapping Multi-Stakeholder Voices on Digitization in the Indian Public Healthcare Sector",
+      "authorsCardHe": "Anwesha Chakraborty; Ina Kubbe",
+      "sourceAuthors": [
+        "Anwesha Chakraborty",
+        "Ina Kubbe"
+      ],
+      "journal": "American Behavioral Scientist, 70(8), 1117–1136",
+      "dateText": "פורסם אונליין: 8 באוגוסט 2024; כרך 70, גיליון 8, עמ׳ 1117–1136 (גיליון יולי 2026)",
+      "doiUrl": "https://doi.org/10.1177/00027642241268555",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_digitization_transparency_corruption_indian_healthcare_summary_he.jpg",
+        "altHe": "מטופלים ואנשי צוות בבית החולים ג׳י בי פנט בהודו משתמשים בעמדת רפואה מרחוק",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "אנוושה צ׳קרבורטי ואינה קובה מנתחות את המחלוקת סביב דיגיטציה של שירותי הבריאות הציבוריים בהודו לאחר השקת תוכנית בריאות דיגיטלית לאומית בשנת 2020. המחקר משתמש בראיונות, בתצפית משתתפת ובתמלילי וידאו רשמיים כדי למפות קולות של בעלי עניין שונים ולבחון באופן ביקורתי את ההבטחות והחששות שלהם. גורמי ממשל מציגים חדשנות דיגיטלית כפתרון רחב לבעיות של הכלה, שקיפות ואספקת שירות. בעלי עניין אחרים מזהירים מפני קשיי תשתית ותכנון, מדיניות לא־ברורה להגנת פרטיות המידע ותפקיד עמום של חברות פרטיות המספקות פתרונות דיגיטליים. שחקנים מן השטח מדגישים כי הרחבת הדיגיטציה עלולה לפתוח הזדמנויות חדשות לשחיתות. המאמר אינו דוחה את הטכנולוגיה, אלא חושף את הפער בין כוונת המדיניות לבין המציאות המעשית ואת הקשר המורכב בין טרנספורמציה דיגיטלית לפיקוח על שחיתות. מבחינה דמוקרטית, המסקנה היא ששקיפות אינה נוצרת מעצם העברת השירות למסך: היא דורשת תשתית נגישה, כללי פרטיות מובנים ואחריות ברורה של ספקים. החששות שתועדו מראים כי בלי פיקוח מוסדי, דיגיטציה עלולה גם ליצור סיכונים חדשים במקום לפתור את בעיות השירות והשחיתות בכוחות עצמה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he",
+      "file": "democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.html",
+      "permalink": "/democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.html",
+      "sortKey": 202607230006,
+      "titleHe": "האם אינטראקציות בין ביורוקרטים לפוליטיקאים קשורות לנטייה ליזמות מדיניות?",
+      "paperTitle": "Are bureaucrats' interactions with politicians linked to the bureaucrats' policy entrepreneurship tendencies?",
+      "authorsCardHe": "Mariana Costa Silveira; Nissim Cohen; Gabriela Lotta",
+      "sourceAuthors": [
+        "Mariana Costa Silveira",
+        "Nissim Cohen",
+        "Gabriela Lotta"
+      ],
+      "journal": "Policy Studies Journal, 52(3), 533–559",
+      "dateText": "פורסם אונליין: 26 באפריל 2024; כרך 52, גיליון 3, עמ׳ 533–559",
+      "doiUrl": "https://doi.org/10.1111/psj.12536",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bureaucrat_politician_interactions_policy_entrepreneurship_summary_he.jpg",
+        "altHe": "ישיבת ממשלה בברזיל שבה שרים, נבחרי ציבור ועובדי ממשל יושבים סביב שולחנות מול דוכן נואמים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "מריאנה קוסטה סילביירה, ניסים כהן וגבריאלה לוטה שואלים אם אינטראקציות של ביורוקרטים עם פוליטיקאים, עם גורמי ממשל אחרים ועם שחקנים לא־ממשלתיים בזירת המדיניות קשורות לנטייתם לעסוק ביזמות מדיניות. המחקר מבקש לזהות גורמים המשפיעים על נכונותם של עובדי ציבור לפעול כיזמי מדיניות, ובוחן גם את מניעיהם כדי לברר אם מדובר בתופעה רצויה. על בסיס נתוני סקר ארצי מברזיל, המחברים מוצאים קשר חיובי בין אינטראקציה של פוליטיקאים וביורוקרטים לבין תפיסות הביורוקרטים בנוגע ליזמות מדיניות. הם מוצאים גם קשר חיובי בין המניעים של ביורוקרטים לעסוק ביזמות מדיניות לבין הערכים החברתיים שלהם. התוצאה מדגישה שיזמות מתוך המינהל הציבורי אינה רק תכונה אישית: היא קשורה למערכות יחסים בזירת המדיניות ולתפיסת התפקיד הציבורי. עם זאת, הניסוח המתאמי של הממצאים אינו מאפשר להסיק מן התקציר שהקשרים עם פוליטיקאים הם שגרמו ליזמות, שהיזמות היא שהגבירה את הקשרים, או שגורם אחר מסביר את שתיהן. מבחינה דמוקרטית, המאמר מציב מתח חשוב בין יכולתם של עובדי ציבור לקדם רעיונות ולרתום ידע מקצועי לבין הצורך בשקיפות, באחריותיות ובגבולות ברורים מול הדרג הנבחר. הוא מציע לבחון לא רק אם ביורוקרטים יוזמים, אלא גם אילו מניעים ויחסים מוסדיים מכוונים את היוזמה ולשם אילו ערכים ציבוריים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_institutional_trust_corruption_perceptions_worldwide_summary_he",
+      "file": "democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.html",
+      "permalink": "/democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.html",
+      "sortKey": 202607230005,
+      "titleHe": "כיצד נורמות המצדיקות שחיתות משנות את הקשר בין שחיתות לאמון במוסדות?",
+      "paperTitle": "Institutional Trust, Corruption, and Democracy: Relationships Based on People’s Perceptions Worldwide",
+      "authorsCardHe": "Shlomo Mizrahi; Dana Natan Krup",
+      "sourceAuthors": [
+        "Shlomo Mizrahi",
+        "Dana Natan Krup"
+      ],
+      "journal": "Political Studies, 74(1), 165–186",
+      "dateText": "פורסם אונליין: 26 בפברואר 2025; כרך 74, גיליון 1, עמ׳ 165–186 (פברואר 2026)",
+      "doiUrl": "https://doi.org/10.1177/00323217251318788",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_institutional_trust_corruption_perceptions_worldwide_summary_he.jpg",
+        "altHe": "תושבים ממתינים במשרד שירות ציבורי בעוד פקיד מטפל באדם מן הצד, לצד אולם מועצה פתוח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "שלמה מזרחי ודנה נתן קרופ בוחנים את היחסים בין שחיתות, דמוקרטיה ואמון בממשלה, תוך התמקדות בנורמות חברתיות התומכות בשחיתות. הניתוח האמפירי משתמש בהערכות ובתפיסות של אזרחים שנאספו בסבב השביעי של סקר הערכים העולמי. הממצאים מראים ששחיתות מוסדית קשורה לפגיעה באמון במוסדות, אך עוצמת הקשר תלויה באמונות הציבור: כאשר נורמות חברתיות מציגות שחיתות כלגיטימית, ההשפעה השלילית של שחיתות מוסדית בפועל על האמון נחלשת. במקביל, המחברים מציגים מסלול מתווך שבו היחלשות הדמוקרטיה מעודדת שחיתות מוסדית, וזו מפחיתה את האמון. יחסי המיתון והתיווך נשמרים גם כאשר הניתוח כולל גורמים ברמת הפרט וברמת המדינה. מכאן שהטענה ששחיתות הורסת אמון ופוגעת באיכות הממשל נכונה, אך אינה פועלת באותה עוצמה בכל חברה: נורמות ואמונות יכולות לטשטש את המחיר הציבורי הנתפס של שחיתות. המסגרת מסייעת להסביר כיצד פוליטיקאים המעורבים בהתנהגות מושחתת עשויים בכל זאת לזכות בתמיכה ובלגיטימיות, ומציגה רצף מהיחלשות דמוקרטית, דרך שחיתות מוסדית, אל שחיקת האמון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_populism_empowerment_summary_he",
+      "file": "democracy_populism_empowerment_summary_he.html",
+      "permalink": "/democracy_populism_empowerment_summary_he.html",
+      "sortKey": 202607230004,
+      "titleHe": "מתי העצמה פופוליסטית מערערת יחסי שליטה, ומתי היא מסתגלת אליהם?",
+      "paperTitle": "Populism and Empowerment",
+      "authorsCardHe": "Or Dar",
+      "sourceAuthors": [
+        "Or Dar"
+      ],
+      "journal": "Philosophy & Social Criticism, OnlineFirst",
+      "dateText": "פורסם אונליין: 8 בדצמבר 2025; פרסום מקוון מוקדם (OnlineFirst)",
+      "doiUrl": "https://doi.org/10.1177/01914537251407946",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_empowerment_summary_he.jpg",
+        "altHe": "אספה ציבורית סוערת שבה תושבים דנים סביב שולחנות, אישה מדברת במיקרופון ונואם עומד על במה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "אור דר בוחן את היחסים המורכבים בין פופוליזם, כוח והעצמה. נקודת המוצא היא שכוח נשען על משאבים, וכי מעמדות דומיננטיים השולטים במשאבים כלכליים מסוגלים לבנות מערכות כוח שמעצבות מדיניות, יוצרות הטיה מוסדית ומשפיעות על אמונות. המאמר מבחין בין העצמה משחררת, המערערת יחסי שליטה, לבין העצמה לא־משחררת, המסתגלת ליחסי השליטה הקיימים ואף עשויה לחזקם. באמצעות ההבחנה הזאת הוא מעריך כיצד תנועות פופוליסטיות שונות עשויות להתמודד עם אי־שוויון או לחזק אותו. הטענה המרכזית היא שהשפעת הפופוליזם על כוח אינה אחידה: פופוליזם עשוי לייצר העצמה משחררת, אך לעיתים הוא מייצר העצמה רדודה שאינה מתורגמת לשחרור משליטה. לכן אין די לבחון את הפופוליזם לפי תוצאה יחידה. יש לבדוק גם כיצד הוא מחלק משאבי כוח, משנה מדיניות ומוסדות, מעצב אמונות וסובייקטיביות, ומארגן מחדש את היחסים בין קבוצות דומיננטיות לכפופות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_civil_liberties_wartime_expression_second_intifada_summary_he",
+      "file": "democracy_civil_liberties_wartime_expression_second_intifada_summary_he.html",
+      "permalink": "/democracy_civil_liberties_wartime_expression_second_intifada_summary_he.html",
+      "sortKey": 202607230003,
+      "titleHe": "כיצד הגן בית המשפט העליון על חופש הביטוי בזמן האינתיפאדה השנייה?",
+      "paperTitle": "Balancing the protection of civil liberties during wartime: How the Israeli Supreme Court shaped Palestinian freedom of expression during the Second Intifada",
+      "authorsCardHe": "Yuval Karniel",
+      "sourceAuthors": [
+        "Yuval Karniel"
+      ],
+      "journal": "Government Information Quarterly, 22(4), 626–643",
+      "dateText": "פורסם: 2005; כרך 22, גיליון 4, עמ׳ 626–643",
+      "doiUrl": "https://doi.org/10.1016/j.giq.2006.01.003",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_liberties_wartime_expression_second_intifada_summary_he.jpg",
+        "altHe": "אולם דיונים בבית המשפט העליון בישראל ובו עורכי דין ואנשי ביטחון מול כס השופטים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "יובל קרניאל בוחן כיצד בית המשפט העליון הישראלי התמודד עם המתח בין ביטחון המדינה לחופש הביטוי במהלך האינתיפאדה השנייה. נקודת המוצא של המאמר היא שחופש הביטוי הוא אחד מעקרונות היסוד של ישראל, אך מאז תחילת אינתיפאדת אל־אקצא באוקטובר 2000 ניסו גופים רבים להגביל ביטוי של ערבים־פלסטינים אזרחי ישראל. הנימוק להגבלות היה שביטויים אלה פוגעים בציבור ומהווים הסתה לטרור. לפי התקציר, למרות התנגדות ציבורית כבדה הצליח בית המשפט העליון ברוב המקרים לקיים את החירות ולהגן עליה. המחבר מתאר את פעולת בית המשפט כאיזון עדין בין צורכה של ישראל להגן על עצמה מפני אויביה לבין חופש הביטוי הבסיסי שכל אזרחיה זכאים לו. בכך המאמר אינו מציג ביטחון וחירות כבחירה בינארית, אלא כשני אינטרסים שהכרעה שיפוטית נדרשת לשקול בזמן עימות. ההגנה על ביטוי של קבוצת מיעוט דווקא כאשר הוא נתפס כפוגעני או מסוכן ממחישה את המבחן המוסדי של זכויות: האם הן נשמרות גם לנוכח לחץ ציבורי ולמי שעמדתם שנויה במחלוקת. המחבר מציע שמנגנון האיזון הישראלי עשוי לשמש מדריך למדינות אחרות המתמודדות עם טרור ועם פגיעה באורח חייהן הדמוקרטי. התקציר אינו מפרט אילו תיקים נבחנו, מה היו מבחני ההכרעה, באילו מקרים לא הוגן הביטוי או כיצד נמדדה ההתנגדות הציבורית. לכן הסיכום יכול להציג את טענת המחבר ואת מסקנתו הכללית על תפקיד בית המשפט, אך לא לייחס לפסיקה הלכה מסוימת או תוצאה בתיק שאינן מפורטות במקור הזמין.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_extreme_right_voting_israel_2009_summary_he",
+      "file": "democracy_extreme_right_voting_israel_2009_summary_he.html",
+      "permalink": "/democracy_extreme_right_voting_israel_2009_summary_he.html",
+      "sortKey": 202607230002,
+      "titleHe": "מה הסביר הצבעה למפלגות ימין קיצוני בישראל בבחירות 2009?",
+      "paperTitle": "Voting for extreme right parties in Israel: Evidence from the 2009 elections",
+      "authorsCardHe": "Michael Freedman; Or Kaner; Irena Kaplan",
+      "sourceAuthors": [
+        "Michael Freedman",
+        "Or Kaner",
+        "Irena Kaplan"
+      ],
+      "journal": "Electoral Studies, 34, 68–77",
+      "dateText": "פורסם: יוני 2014; כרך 34, עמ׳ 68–77",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2013.09.011",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_extreme_right_voting_israel_2009_summary_he.jpg",
+        "altHe": "אזרחים וחברי ועדת קלפי בתחנת הצבעה בירושלים בבחירות 2009, לצד תיבת קלפי כחולה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "מייקל פרידמן, אור קנר ואירנה קפלן בוחנים אילו גורמים מסבירים תמיכה במפלגות ימין קיצוני בישראל. נקודת המוצא היא התמיכה האלקטורלית הניכרת שמפלגות כאלה קיבלו במדינות אירופה והמחקר הרב שניסה להסביר מי נמשך אליהן בדמוקרטיות מערביות. המחברים משתמשים בנתוני פרט של מחקר הבחירות הלאומי בישראל לבחירות 2009 ומחפשים את הגורמים הקשורים להצבעה זו בהקשר הישראלי. לפי התקציר, חוסר שביעות רצון פוליטית וסוגיות ביטחוניות תרמו באופן מובהק לתמיכה במפלגות ימין קיצוני. לעומת זאת, עמדות כלכליות לא הסבירו באופן מובהק את התמיכה, בשונה ממדינות אחרות שבהן סוגיות כלכליות בולטות יותר. הממצא מצביע על כך שלא נכון להעתיק לישראל הסבר אחיד שפותח על בסיס מערכות מפלגתיות אחרות: גם כאשר תופעת ההצבעה נושאת תווית דומה, ההקשר המניע אותה עשוי להיות שונה. הוא גם מבחין בין שתי זירות של שיפוט בוחרים — הערכה של הפוליטיקה ושל הביטחון מצד אחד ועמדות כלכליות מצד אחר — ומראה שרק הראשונה נמצאה מסבירה במדגם ובמודל שנבדקו. התקציר אינו מפרט אילו מפלגות סווגו כימין קיצוני, כיצד נמדדו חוסר שביעות הרצון והעמדות הביטחוניות, מה היה גודל המדגם או מהם גודלי ההשפעה. לכן המסקנה המבוססת היא על קשרים מובהקים בנתוני בחירות 2009, ולא על סיבתיות מוכחת או על כלל מערכות הבחירות בישראל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_energy_poverty_ethnic_disparities_israel_summary_he",
+      "file": "democracy_energy_poverty_ethnic_disparities_israel_summary_he.html",
+      "permalink": "/democracy_energy_poverty_ethnic_disparities_israel_summary_he.html",
+      "sortKey": 202607230001,
+      "titleHe": "מהו הפער בעוני באנרגיה בין משקי בית יהודיים וערביים־מוסלמיים בישראל?",
+      "paperTitle": "Energy poverty and ethnic disparities among Jewish and Muslim households in Israel: The implications for welfare systems",
+      "authorsCardHe": "Na'ama Teschner; Hammudi Said; Stav Shapira",
+      "sourceAuthors": [
+        "Na'ama Teschner",
+        "Hammudi Said",
+        "Stav Shapira"
+      ],
+      "journal": "Energy Research & Social Science, 116, Article 103689",
+      "dateText": "פורסם: אוקטובר 2024; כרך 116, מאמר 103689",
+      "doiUrl": "https://doi.org/10.1016/j.erss.2024.103689",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_energy_poverty_ethnic_disparities_israel_summary_he.jpg",
+        "altHe": "משפחה ונציגת סיוע משוחחים סביב מסמכים בבית ישן, לצד מונה חשמל ואמצעי חימום וקירור",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-23",
+      "dateModified": "2026-07-23",
+      "summaryHe": "נעמה טשנר, חמודי סעיד וסתיו שפירא בוחנים פערים בעוני באנרגיה בין משקי בית יהודיים למשקי בית ערביים־מוסלמיים בישראל באמצעות סקר של 1,274 מקבלי סיוע חברתי. המחקר משווה מאפיינים אישיים ומשקיים וחוויות של מחסור באנרגיה, ובודק אם השתייכות למיעוט קשורה לחומרת המחסור גם כאשר מביאים בחשבון גורמים מוכרים כגון הכנסה, השכלה, תעסוקה ותנאי דיור. לפי התקציר, גם לאחר התחשבות בהכנסה ובהשכלה, הסיכוי של משקי הבית הערביים־מוסלמיים לחוות עוני חמור באנרגיה היה כפול מזה של משקי הבית היהודיים. הפער התבטא בשיעור גבוה יותר של ניתוקי חשמל שדווחו בידי הנשאלים ובצורך לוותר על קירור, חימום וצרכים חיוניים אחרים בשל חוסר יכולת לשלם חשבונות. לצד ההשתייכות האתנית, גם דיור ירוד, התחייבויות כספיות שלא שולמו ותלות בסיוע נמצאו קשורים באופן מובהק לעוני באנרגיה. המחברים מציבים את הממצאים בהקשרים היסטוריים, חברתיים ומבניים: אי־שוויון בתכנון ובדיור, חיבורי חשמל לא בטוחים וחוסר אמון במוסדות; מערכות בנקאות ומימון שאינן מותאמות לגמישות בתשלום ולהסדרת חובות; ומחסומי שפה ותרבות המגבילים מימוש זכויות חברתיות ומגבירים תלות בסיוע. המסקנה היא שטיפול בחשבון החשמל לבדו אינו מספיק, ושנדרשת מדיניות המחברת בין שירותי האנרגיה לשירותי הרווחה. מאחר שהתקציר אינו מפרט את שיטת הדגימה, כלי המדידה או כלל המודלים הסטטיסטיים, הממצאים מלמדים על קשרים ופערים בקרב אוכלוסיית מקבלי הסיוע שנבדקה ואינם כשלעצמם הוכחה סיבתית או אומדן לכלל משקי הבית בישראל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_arab_women_israeli_police_integration_summary_he",
       "file": "democracy_arab_women_israeli_police_integration_summary_he.html",
