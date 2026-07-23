@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-23",
+  "lastUpdated": "2026-07-24",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -27865,6 +27865,290 @@
       "license": "Public domain",
       "creator": "Ministry of East African Affairs, Commerce & Tourism; photograph by Stuart Price/MEAACT",
       "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_alternative_public_healthcare_citizen_satisfaction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_alternative_public_healthcare_citizen_satisfaction_summary_he.html",
+      "usedBy": [
+        "democracy_alternative_public_healthcare_citizen_satisfaction_summary_he.html"
+      ],
+      "cardTitleHe": "כשהשירות הציבורי מאכזב: מדוע אזרחים מוכנים לשלם מחוץ למסלול הרגיל?",
+      "authorsHe": "Nissim Cohen; Shlomo Mizrahi; Eran Vigoda-Gadot",
+      "visualDescriptionHe": "מטופלים מרקעים שונים משוחחים עם צוות רפואי סביב שולחן במרפאה ציבורית הומה, בעוד מטופלים נוספים ממתינים ברקע.",
+      "semanticDescriptionHe": "המפגש במרפאה ממחיש כיצד איכות השירות וחוויית האזרח מעצבות את היחס למסלולי טיפול ציבוריים וחלופיים, בלי להציג תשלום בלתי־רשמי מסוים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "public_healthcare",
+        "citizen_satisfaction",
+        "government_responsibility",
+        "alternative_provision"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated public-clinic service encounter with no readable text, logos, or watermarks. High fitness because it directly depicts citizens navigating a busy public-health service with staff assistance.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_judgment_polarization_contrast_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_judgment_polarization_contrast_summary_he.html",
+      "usedBy": [
+        "democracy_political_judgment_polarization_contrast_summary_he.html"
+      ],
+      "cardTitleHe": "בקיטוב פוליטי, היריב נתפס רחוק יותר משהמועמד המועדף נתפס קרוב",
+      "authorsHe": "Yoav Ganzach",
+      "visualDescriptionHe": "שני מועמדים בדיון בחירות עומדים על במות מרוחקות, ושני מחנות קהל יושבים משני עברי מעבר מרכזי רחב.",
+      "semanticDescriptionHe": "המרחק הפיזי בין המועמדים והמחנות ממחיש את אפקט הניגוד ואת הרחקת היריב בתפיסה בתקופה של קיטוב, בלי לטעון שהצילום מודד את ההטיה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "political_judgment",
+        "contrast_effect",
+        "assimilation_effect",
+        "polarization",
+        "presidential_elections"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated election-debate scene with fictional candidates, no readable text, logos, or watermarks. High fitness because the unusually wide separation between rival candidates and audiences directly visualizes perceived ideological distance.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_populism_conflict_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populism_conflict_war_summary_he.html",
+      "usedBy": [
+        "democracy_populism_conflict_war_summary_he.html"
+      ],
+      "cardTitleHe": "כשהפופוליזם חוצה גבולות: ריכוז כוח, קיטוב והסלמה בזירה הבינלאומית",
+      "authorsHe": "Luis Roniger",
+      "visualDescriptionHe": "מנהיג עומד בראש ישיבת קבינט משבר ומצביע בתקיפות, כשקצינים, דיפלומטים ויועצים יושבים מול מפת עימות אזורית.",
+      "semanticDescriptionHe": "ריכוז תשומת הלב והסמכות בידי המנהיג לצד מפת הגבול והיועצים המודאגים ממחישים קבלת החלטות אישית והסלמה אפשרית ממדיניות פנים למדיניות חוץ.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "populism",
+        "personalistic_leadership",
+        "foreign_policy",
+        "international_conflict",
+        "checks_and_balances"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated crisis-cabinet scene with a fictional leader and unlabeled map, without readable text, logos, or watermarks. High fitness because it directly combines personalized executive control, institutional unease, and international escalation.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_academic_gender_quotas_europe_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_academic_gender_quotas_europe_summary_he.html",
+      "usedBy": [
+        "democracy_academic_gender_quotas_europe_summary_he.html"
+      ],
+      "cardTitleHe": "מה משנות מכסות מגדריות באקדמיה האירופית?",
+      "authorsHe": "Aliza Forman‐Rabinovici; Hadas Mandel; Anne Bauer",
+      "visualDescriptionHe": "ועדה אקדמית שבה נשים וגברים מעיינים בתיקי מועמדות סביב שולחן ישיבות באוניברסיטה.",
+      "semanticDescriptionHe": "ההרכב המגדרי של הוועדה והדיון בתיקים ממחישים את מוקד המכסות בגופי קבלת החלטות ואת השפעתם האפשרית על גיוס וקידום.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "gender_quotas",
+        "academic_boards",
+        "women_representation",
+        "higher_education"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated academic-committee scene with no readable text, logos, or watermarks. High fitness because it directly depicts a gender-diverse university decision body reviewing appointment files.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_affirmative_action_wellbeing_justice_qualifications_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_affirmative_action_wellbeing_justice_qualifications_summary_he.html",
+      "usedBy": [
+        "democracy_affirmative_action_wellbeing_justice_qualifications_summary_he.html"
+      ],
+      "cardTitleHe": "האם ״כישורים״ הם טיעון עצמאי נגד העדפה מתקנת?",
+      "authorsHe": "Re’em Segev",
+      "visualDescriptionHe": "ועדת קבלה מגוונת מראיינת שני מועמדים היושבים מולה, ותיקי מועמדות פתוחים על השולחן.",
+      "semanticDescriptionHe": "סצנת הבחירה ממחישה את הצורך לשקול כישורים לצד רווחה, חלוקה וצדק, בלי לקבוע מי מהמועמדים ראוי להיבחר.",
+      "tags": [
+        "rights-equality-minorities",
+        "affirmative_action",
+        "qualifications",
+        "distributive_justice",
+        "wellbeing",
+        "selection_committee"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated selection-committee scene with no readable text, logos, or watermarks. High fitness because it directly depicts the evaluative setting in which qualifications, representation, and justice are weighed.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_palestinian_minority_security_threat_early_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_minority_security_threat_early_israel_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_minority_security_threat_early_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד נבנתה האוכלוסייה הפלסטינית בישראל כאיום ביטחוני?",
+      "authorsHe": "Alina Korn",
+      "visualDescriptionHe": "בכור־שלום שטרית נושא דברים בחוג בית אצל ערביי חיפה לקראת הבחירות בשנת 1949.",
+      "semanticDescriptionHe": "התצלום מציג את שר המיעוטים במפגש ישיר עם אזרחים ערבים בתקופה שבה נאבקו משרדו ומנגנוני הביטחון על אופן התיווך בין המיעוט הפלסטיני למדינה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "Palestinian_minority",
+        "Minority_Affairs_Ministry",
+        "Bechor_Shalom_Sheetrit",
+        "military_government",
+        "Israel_1949"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a 1949 Benno Rothenberg photograph from the National Library of Israel, with CC BY 4.0 attribution retained. High fitness because it documents Bechor-Shalom Sheetrit—the minister central to the article—speaking at an Arab community election gathering in Haifa.",
+      "createdDate": "2026-07-24",
+      "sourceType": "wikimedia_commons",
+      "source": "National Library of Israel via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bechor-Shalom_Sheetrit_(997008137161505171).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bechor-Shalom_Sheetrit_%28997008137161505171%29.jpg",
+      "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+      "creator": "Benno Rothenberg; National Library of Israel digital ID 997008137161505171",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_tax_policy_tax_protest_rich_democracies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_tax_policy_tax_protest_rich_democracies_summary_he.html",
+      "usedBy": [
+        "democracy_tax_policy_tax_protest_rich_democracies_summary_he.html"
+      ],
+      "cardTitleHe": "לא כל המסים מציתים מחאה: מה עיצוב המס מלמד על הסכמה דמוקרטית?",
+      "authorsHe": "Isaac William Martin; Nadav Gabay",
+      "visualDescriptionHe": "קהל גדול מפגין נגד מדיניות מס מול בניין הפרלמנט האסטוני בטאלין במרץ 2012.",
+      "semanticDescriptionHe": "המחאה הממשית על הפחתת מס עלויות חימום ממחישה כיצד עיצוב מס מסוים יכול לגייס קבוצה מזוהה, אך אינה מתעדת את מאגר המחאות ההשוואתי שבמאמר.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "tax_policy",
+        "tax_protest",
+        "collective_action",
+        "rich_democracies",
+        "Estonia"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Dmitry G’s public-domain photograph of a 2012 tax protest at the Estonian parliament. Standard fitness because it directly documents collective action over a specific tax policy, while representing only one country and episode from the article’s comparative domain.",
+      "createdDate": "2026-07-24",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2012_protest_against_high_taxes_near_parliament_028.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2012_protest_against_high_taxes_near_parliament_028.JPG",
+      "license": "Public domain",
+      "creator": "Dmitry G",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_trust_government_health_policy_compliance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_trust_government_health_policy_compliance_summary_he.html",
+      "usedBy": [
+        "democracy_trust_government_health_policy_compliance_summary_he.html"
+      ],
+      "cardTitleHe": "כשאזרחים סומכים על הממשלה: כיצד אמון מתורגם לציות להנחיות בריאות?",
+      "authorsHe": "Talia Goren; Dana R. Vashdi; Itai Beeri",
+      "visualDescriptionHe": "עובדת בריאות מסבירה חומר חיטוי ודף הנחיות למבוגרים יהודים וערבים היושבים במעגל מחוץ למרפאה.",
+      "semanticDescriptionHe": "השיחה ממחישה כיצד אמון במוסדות והבנת העלויות, התועלות והיכולת לבצע הנחיות עשויים לתווך ציות להתנהגות בריאותית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "trust_in_government",
+        "policy_compliance",
+        "health_behavior",
+        "COVID_19",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated Israeli community-health guidance scene with no readable text, logos, or watermarks. High fitness because it directly depicts culturally diverse residents evaluating concrete health instructions delivered by public-facing staff.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_hope_fear_information_processing_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_hope_fear_information_processing_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_hope_fear_information_processing_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד תקווה ופחד מכוונים את המידע שאנשים מחפשים בסכסוך ממושך?",
+      "authorsHe": "Smadar Cohen-Chen; Eran Halperin; Roni Porat; Daniel Bar-Tal",
+      "visualDescriptionHe": "קבוצת משתתפים יושבת במעגל ובוחנת יחד תצלומים של עימות המונחים על הרצפה ובידי המנחה.",
+      "semanticDescriptionHe": "העיון הסלקטיבי בחומרי עימות ממחיש כיצד תקווה ופחד עשויים לכוון איזה מידע על הזדמנות לשלום אנשים מבקשים לעבד.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "intractable_conflict",
+        "hope",
+        "fear",
+        "information_processing",
+        "peace_opportunity",
+        "Israeli_Jews"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated conflict-information workshop with no readable text, logos, or watermarks. High fitness because it directly depicts people selecting and interpreting visual evidence about an entrenched conflict.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_austerity_mass_politics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_austerity_mass_politics_summary_he.html",
+      "usedBy": [
+        "democracy_austerity_mass_politics_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע הציבור תומך בצנע, ואילו חבילות הוא מוכן לקבל?",
+      "authorsHe": "Kirk Bansak; Michael M. Bechtel; Yotam Margalit",
+      "visualDescriptionHe": "תושבים ונציגי ציבור דנים סביב שולחן עמוס תיקיות בחדר ישיבות ציבורי צפוף, כשקהל נוסף מקשיב מאחור.",
+      "semanticDescriptionHe": "הדיון הציבורי בחבילת תקציב ממחיש כיצד הרכב קיצוצים והעלאות מס וזהות התומכים הפוליטיים מעצבים קבלה או דחייה של צנע.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "austerity",
+        "mass_politics",
+        "budget_cuts",
+        "tax_increases",
+        "public_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated public-budget meeting with no readable text, logos, or watermarks. High fitness because it directly depicts citizens and officials negotiating a concrete package of contested fiscal choices.",
+      "createdDate": "2026-07-24",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
