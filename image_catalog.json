@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-25",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -28149,6 +28149,305 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-24 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_probabilistic_justice_welfare_state_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_probabilistic_justice_welfare_state_summary_he.html",
+      "usedBy": [
+        "democracy_probabilistic_justice_welfare_state_summary_he.html"
+      ],
+      "cardTitleHe": "בין ביטוח חברתי להגנת מעמד: אי־שוויון, אי־ודאות ועתיד מדינת הרווחה",
+      "authorsHe": "Rachel Z. Friedman; Torben Iversen",
+      "visualDescriptionHe": "תושבים מרקעים ומגילים שונים דנים במסלולי חיים ובביטחון חברתי סביב שולחן ציבורי שבו כרטיסים וחוטים מסמנים דרכים לא ודאיות.",
+      "semanticDescriptionHe": "המפגש הציבורי ממחיש כיצד מוסדות רווחה יכולים למסגר סיכונים משותפים כביטוח חברתי רחב או להגן על יתרונות מעמדיים קיימים.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "welfare_state",
+        "probabilistic_justice",
+        "inequality",
+        "uncertainty",
+        "social_insurance"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated civic workshop with no readable text, logos, flags, or watermarks. High fitness because the varied participants and branching blank cards directly visualize shared uncertainty, status protection, and welfare-state design.",
+      "createdDate": "2026-07-25",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_conflict_frames_political_attitudes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_conflict_frames_political_attitudes_summary_he.html",
+      "usedBy": [
+        "democracy_conflict_frames_political_attitudes_summary_he.html"
+      ],
+      "cardTitleHe": "כשסכסוך נתפס כחומרי, לאומי או דתי: המסגור שנקשר לנכונות לפשרה",
+      "authorsHe": "Daphna Canetti; Ibrahim Khatib; Aviad Rubin; Carly Wayne",
+      "visualDescriptionHe": "קבוצת משתתפים בוחנת יחד תצלומי עימות שמסודרים בדרכים שונות על שולחן דיון.",
+      "semanticDescriptionHe": "הצגת אותה מציאות דרך מסגרות שונות ממחישה כיצד פירוש חומרי, לאומי או דתי של סכסוך עשוי לשנות עמדות ונכונות לפשרה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "conflict_framing",
+        "political_attitudes",
+        "compromise",
+        "religious_frame",
+        "national_frame"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated deliberation scene with no readable text, logos, flags, or watermarks. High fitness because participants are visibly interpreting the same conflict evidence through different contextual arrangements.",
+      "createdDate": "2026-07-25",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_politicians_voter_conservatism_perceptions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_politicians_voter_conservatism_perceptions_summary_he.html",
+      "usedBy": [
+        "democracy_politicians_voter_conservatism_perceptions_summary_he.html"
+      ],
+      "cardTitleHe": "נבחרי ציבור חושבים שהבוחרים שמרנים יותר מכפי שהם באמת",
+      "authorsHe": "Jean-Benoît Pilet; Lior Sheffer; Luzia Helfer; Frédéric Varone; Rens Vliegenthart; Stefaan Walgrave",
+      "visualDescriptionHe": "נבחרי ציבור יושבים בחדר ועדה כהה ומביטים דרך דלת פתוחה בקהל אזרחים מגוון הממתין להשמיע את עמדתו.",
+      "semanticDescriptionHe": "המרחק המרחבי בין הוועדה לבין הציבור ממחיש את הפער השיטתי בין עמדות הבוחרים בפועל לבין האופן השמרני יותר שבו פוליטיקאים מעריכים אותן.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "politicians",
+        "voter_preferences",
+        "conservative_bias",
+        "representation",
+        "public_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated committee scene with no readable text, party symbols, logos, flags, or watermarks. High fitness because it directly stages the representative-public perception gap examined by the study.",
+      "createdDate": "2026-07-25",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_environmental_tax_psychological_resistance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_environmental_tax_psychological_resistance_summary_he.html",
+      "usedBy": [
+        "democracy_environmental_tax_psychological_resistance_summary_he.html"
+      ],
+      "cardTitleHe": "מס סביבתי שנתפס כפגיעה קבוצתית הותיר התנגדות גם לאחר שבוטל",
+      "authorsHe": "Nechumi Malovicki-Yaffe; Boaz Hameiri; Leah Bloy; Ram Fishman",
+      "visualDescriptionHe": "חברי קהילה חרדית משווים ערימות של כלים חד־פעמיים עם כלי אוכל רב־פעמיים סביב שולחן באולם שכונתי.",
+      "semanticDescriptionHe": "הדיון הקהילתי ממחיש כיצד מס על כלים חד־פעמיים יכול להיתפס כעלות המוטלת על קבוצה מסוימת ולהשאיר התנגדות סביבתית גם לאחר ביטולו.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "environmental_tax",
+        "single_use_plastic",
+        "climate_policy",
+        "group_victimhood",
+        "policy_resistance"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated community discussion with no readable text, logos, flags, or watermarks. High fitness because it directly depicts the taxed product, the affected community, and the reusable alternative central to the study.",
+      "createdDate": "2026-07-25",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_high_choice_media_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_high_choice_media_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_high_choice_media_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "שפע תקשורתי אינו מבטיח ציבור מיודע יותר",
+      "authorsHe": "Peter Van Aelst; Jesper Strömbäck; Toril Aalberg; Frank Esser; Claes de Vreese; Jörg Matthes; David Hopmann; Susana Salgado; Nicolas Hubé; Agnieszka Stępińska; Stylianos Papathanassopoulos; Rosa Berganza; Guido Legnante; Carsten Reinemann; Tamir Sheafer; James Stanyer",
+      "visualDescriptionHe": "באולם קהילתי אחדים משוחחים במעגל בעוד אחרים שקועים בטלפונים, במחשב, ברדיו ובטלוויזיה.",
+      "semanticDescriptionHe": "הפיצול בין שיחה ציבורית משותפת לבין בחירה אישית בערוצי מידע ובידור ממחיש את ההזדמנויות והפערים של סביבת תקשורת עתירת אפשרויות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "high_choice_media",
+        "political_communication",
+        "news_exposure",
+        "information_inequality",
+        "democracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated community-media scene with blank screens and no readable text, logos, flags, or watermarks. High fitness because it directly contrasts common civic discussion with fragmented individual media choice.",
+      "createdDate": "2026-07-25",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_school_choice_east_jerusalem_bureaucracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_school_choice_east_jerusalem_bureaucracy_summary_he.html",
+      "usedBy": [
+        "democracy_school_choice_east_jerusalem_bureaucracy_summary_he.html"
+      ],
+      "cardTitleHe": "בחירת בית ספר ונרטיב סכסוך: שיקול הדעת של מנהלים פלסטינים במזרח ירושלים",
+      "authorsHe": "Karl O’Connor; Craig Larkin; Mansour Nasasra; Kelsey Shanks",
+      "visualDescriptionHe": "חלל המדרגות והמסדרונות בבית הספר אל־ע׳זאלי באום ליסון שבמזרח ירושלים.",
+      "semanticDescriptionHe": "התצלום מעגן את המחקר במוסד חינוכי ממשי במזרח ירושלים, אך אינו מציג ישירות את בחירת תוכנית הלימודים או את שיקול הדעת הביורוקרטי שנחקרו.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "East_Jerusalem",
+        "school_choice",
+        "representative_bureaucracy",
+        "education",
+        "Al_Ghazali_School"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Avisalon’s CC BY-SA 4.0 photograph of Al-Ghazali School in Umm Leisun, categorized by Wikimedia Commons as East Jerusalem. Standard fitness because the location is exact but curricular choice and managerial discretion are not visible.",
+      "createdDate": "2026-07-25",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Al-Ghazali_school_interior.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Al-Ghazali_school_interior.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)",
+      "creator": "Avisalon",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_adhd_political_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_adhd_political_participation_summary_he.html",
+      "usedBy": [
+        "democracy_adhd_political_participation_summary_he.html"
+      ],
+      "cardTitleHe": "ADHD והשתתפות פוליטית: יותר פעילות, צריכת חדשות פסיבית יותר",
+      "authorsHe": "Israel Waismel-Manor; Yael R. Kaplan; Shaul R. Shenhav; Yair Zlotnik; Shira Dvir-Gvirsman; Gal Ifergane",
+      "visualDescriptionHe": "מצביעים עוברים בין תאי הצבעה בקלפי בבחירות לפרלמנט האירופי בבלגיה.",
+      "semanticDescriptionHe": "סצנת ההצבעה מציגה השתתפות פוליטית בפועל באופן מכבד ולא מתייג, אך אינה מנסה לייחס למצביעים מאפיין רפואי שאינו נראה בתצלום.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "ADHD",
+        "political_participation",
+        "voting",
+        "elections",
+        "Belgium"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a CC BY 2.0 European Parliament photograph of voters at a Belgian polling station. Standard fitness because it authentically depicts political participation while deliberately avoiding a stigmatizing attempt to visualize ADHD.",
+      "createdDate": "2026-07-25",
+      "sourceType": "wikimedia_commons",
+      "source": "European Parliament via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EU_Elections_2024_-_Voting_in_Belgium_-_2.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/EU_Elections_2024_-_Voting_in_Belgium_-_2.jpg",
+      "license": "Creative Commons Attribution 2.0 (CC BY 2.0)",
+      "creator": "European Parliament; photograph by Alain Rolland; credit © European Union 2024 – Source: EP",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_pandemics_protests_publics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pandemics_protests_publics_summary_he.html",
+      "usedBy": [
+        "democracy_pandemics_protests_publics_summary_he.html"
+      ],
+      "cardTitleHe": "טוויטר אינו ציבור אחד: מגפה, מחאה ומי זוכה לקול ב־2020",
+      "authorsHe": "Sarah Shugars; Adina Gitomer; Stefan McCabe; Ryan J. Gallagher; Kenneth Joseph; Nir Grinberg; Larissa Doroshenko; Brooke Foucault Welles; David Lazer",
+      "visualDescriptionHe": "קהל עטוי מסכות צועד במחאה ציבורית בסאמיט שבניו ג׳רזי ביוני 2020.",
+      "semanticDescriptionHe": "המחאה שהתקיימה תחת מגבלות המגפה מחברת באופן ישיר בין שני האירועים שהמחקר בוחן כדי להראות כיצד נוצרים ברשת ציבורים שונים ולא שווים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "pandemic",
+        "protest",
+        "publics",
+        "Twitter",
+        "COVID_19"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Tomwsulcer’s CC0 photograph of a peaceful June 2020 protest whose participants wore masks during COVID-19. High fitness because one documentary scene directly joins pandemic conditions, protest, and public participation.",
+      "createdDate": "2026-07-25",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Protest_march_Summit_New_Jersey_Black_Lives_Matter_June_2_2020_1_of_12.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Protest_march_Summit_New_Jersey_Black_Lives_Matter_June_2_2020_1_of_12.jpg",
+      "license": "Creative Commons CC0 1.0 Universal public-domain dedication",
+      "creator": "Tomwsulcer",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_political_attitudes_neural_responses_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_attitudes_neural_responses_summary_he.html",
+      "usedBy": [
+        "democracy_political_attitudes_neural_responses_summary_he.html"
+      ],
+      "cardTitleHe": "כשהשיוך הפוליטי משתנה, גם תגובת המוח לתוכן פוליטי משתנה",
+      "authorsHe": "Gal Boiman; Tal Ohad; Yohay Zvi; Noa Katabi; Yaara Yeshurun",
+      "visualDescriptionHe": "חוקר עומד לצד משתתף השוכב בסורק דימות תהודה מגנטית תפקודי במעבדה.",
+      "semanticDescriptionHe": "המעבדה מציגה ישירות את שיטת ה־fMRI ששימשה למדידת שינוי בתגובה מוחית, אף שהתצלום אינו מציג את הגירוי הפוליטי עצמו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "political_attitudes",
+        "neural_responses",
+        "fMRI",
+        "political_content",
+        "longitudinal_study"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 derivative of Thomas Angus and Imperial College London’s CC BY-SA 4.0 fMRI-laboratory photograph, with Commons VRT permission. High fitness because it directly documents the study’s central measurement method; the 600x400 original required modest upscaling.",
+      "createdDate": "2026-07-25",
+      "sourceType": "wikimedia_commons",
+      "source": "Imperial College London via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:190603_Functional_magnetic_resonance_imaging_at_the_Imperial_Centre_for_Psychedelic_Research.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/190603_Functional_magnetic_resonance_imaging_at_the_Imperial_Centre_for_Psychedelic_Research.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)",
+      "creator": "Thomas Angus, Imperial College London",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_news_trust_affordances_five_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_news_trust_affordances_five_countries_summary_he.html",
+      "usedBy": [
+        "democracy_news_trust_affordances_five_countries_summary_he.html"
+      ],
+      "cardTitleHe": "אמון בחדשות נבנה גם מן הפלטפורמה, לא רק מן התוכן",
+      "authorsHe": "Tali Aharoni; Keren Tenenboim-Weinblatt; Neta Kligler-Vilenchik; Pablo J. Boczkowski; Kaori Hayashi; Eugenia Mitchelstein; Mikko Villi",
+      "visualDescriptionHe": "משתתפים עובדים במחשבים בסדנת עריכה ובדיקת עובדות בסאו פאולו.",
+      "semanticDescriptionHe": "סדנת בדיקת העובדות ממחישה כיצד משתמשים מעריכים מידע חדשותי באמצעות אנשים, כלים ופעולות בדיקה, אך אינה מציגה את ההשוואה בין חמש המדינות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "news_trust",
+        "trustworthiness",
+        "affordances",
+        "fact_checking",
+        "media_literacy",
+        "Brazil"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Rodrigo Padula’s CC BY-SA 4.0 photograph of a hands-on editing and fact-checking workshop in São Paulo. Standard fitness because it directly depicts news evaluation while not visualizing the article’s cross-country comparison or all six affordances.",
+      "createdDate": "2026-07-25",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oficina_fact-checking_-_Lupa_e_Wiki_Educa%C3%A7%C3%A3o_Brasil_-_M%C3%A3o_na_massa.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Oficina_fact-checking_-_Lupa_e_Wiki_Educa%C3%A7%C3%A3o_Brasil_-_M%C3%A3o_na_massa.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)",
+      "creator": "Rodrigo Padula",
+      "provider": "Wikimedia Commons"
     }
   ],
   "topicGraphics": [
