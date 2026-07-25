@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -28244,8 +28244,8 @@
       ],
       "cardTitleHe": "מס סביבתי שנתפס כפגיעה קבוצתית הותיר התנגדות גם לאחר שבוטל",
       "authorsHe": "Nechumi Malovicki-Yaffe; Boaz Hameiri; Leah Bloy; Ram Fishman",
-      "visualDescriptionHe": "חברי קהילה חרדית משווים ערימות של כלים חד־פעמיים עם כלי אוכל רב־פעמיים סביב שולחן באולם שכונתי.",
-      "semanticDescriptionHe": "הדיון הקהילתי ממחיש כיצד מס על כלים חד־פעמיים יכול להיתפס כעלות המוטלת על קבוצה מסוימת ולהשאיר התנגדות סביבתית גם לאחר ביטולו.",
+      "visualDescriptionHe": "זוג חרדי ובעל חנות משווים כלי פלסטיק חד־פעמיים לכלי אוכל רב־פעמיים בין מדפי חנות שכונתית.",
+      "semanticDescriptionHe": "הבחירה הצרכנית בין המוצרים ממחישה את העלות המעשית של מס על כלים חד־פעמיים ואת האופן שבו הוא עשוי להיתפס כפגיעה קבוצתית.",
       "tags": [
         "democratic-institutions-economic-prosperity",
         "public-opinion-polarization-violence",
@@ -28256,10 +28256,10 @@
         "policy_resistance"
       ],
       "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
-      "qualityNotes": "Paper-specific 800x600 generated community discussion with no readable text, logos, flags, or watermarks. High fitness because it directly depicts the taxed product, the affected community, and the reusable alternative central to the study.",
-      "createdDate": "2026-07-25",
+      "qualityNotes": "Paper-specific 800x600 generated neighborhood-shop scene with no readable text, logos, flags, or watermarks. High fitness because it directly depicts the taxed product, the affected community, the reusable alternative, and an everyday choice outside the repeated meeting-table composition.",
+      "createdDate": "2026-07-26",
       "sourceType": "generated",
-      "source": "OpenAI image generation during 2026-07-25 nightly heartbeat",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
       "license": "Generated site asset"
     },
     {
@@ -28447,6 +28447,294 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Oficina_fact-checking_-_Lupa_e_Wiki_Educa%C3%A7%C3%A3o_Brasil_-_M%C3%A3o_na_massa.jpg",
       "license": "Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)",
       "creator": "Rodrigo Padula",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_inaccurate_politicians_public_opinion_four_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_inaccurate_politicians_public_opinion_four_countries_summary_he.html",
+      "usedBy": [
+        "democracy_inaccurate_politicians_public_opinion_four_countries_summary_he.html"
+      ],
+      "cardTitleHe": "כשהנבחרים מנחשים את דעת הקהל: פערי תפיסה בארבע דמוקרטיות",
+      "authorsHe": "Stefaan Walgrave; Arno Jansen; Julie Sevenans; Karolin Soontjens; Jean‐Benoît Pilet; Nathalie Brack; Frédéric Varone; Luzia Helfer; Rens Vliegenthart; Toni van der Meer; Christian Breunig; Stefanie Bailer; Lior Sheffer; Peter John Loewen",
+      "visualDescriptionHe": "נבחרי ציבור יושבים סביב שולחן ועדה עם תרשימי הערכה, ומעבר למחיצת זכוכית אזרחים רבים מציגים בחירות מגוונות.",
+      "semanticDescriptionHe": "הפער החזותי בין הערכות הנבחרים לבין קולות הציבור ממחיש ישירות את שאלת דיוקם של פוליטיקאים בהערכת דעת הקהל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "politicians",
+        "public_opinion",
+        "representation",
+        "perception_gap"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated parliamentary-committee scene with fictional participants, unlabeled charts, and no logos, flags, or watermarks. High fitness because the image directly contrasts representatives’ estimates with a visibly diverse public response.",
+      "createdDate": "2026-07-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_misinformation_detection_ukraine_19_democracies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_misinformation_detection_ukraine_19_democracies_summary_he.html",
+      "usedBy": [
+        "democracy_misinformation_detection_ukraine_19_democracies_summary_he.html"
+      ],
+      "cardTitleHe": "זיהוי מידע כוזב על המלחמה באוקראינה ב־19 דמוקרטיות",
+      "authorsHe": "Luisa Gehle; Michael Hameleers; Marina Tulin; Claes de Vreese; Toril Aalberg; Peter Van Aelst; Ana Sofía Cardenal; Nicoleta Corbu; Patrick van Erkel; Frank Esser; Denis Halagiera; David Nicolas Hopmann; Karolina Koc-Michalska; Jörg Matthes; Christine Meltzer; Sergio Splendore; James Stanyer; Agnieszka Stępińska; Václav Štětka; Jesper Strömbäck; Ludovic Terren; Yannis Theocharis; Alon Zoizner",
+      "visualDescriptionHe": "משתתפות בסדנת אוריינות מידע בקייב עובדות סביב שולחן עם מחשבים וחומרי הדרכה.",
+      "semanticDescriptionHe": "הסדנה באוקראינה מעגנת את התצלום בהקשר המלחמה וממחישה יכולות אוריינות מידע הקשורות להבחנה בין מידע נכון לכוזב, אך אינה מתעדת את סקר 19 המדינות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "misinformation",
+        "media_literacy",
+        "Ukraine",
+        "cross_national_survey"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a CC0 photograph from a Kyiv media-and-information-literacy breakout group. Standard fitness because it directly depicts relevant literacy practice in Ukraine while not visualizing the article’s cross-national survey or wartime claims.",
+      "createdDate": "2026-07-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Exchanges Photos via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alumni_TIES_Ukraine,_Kyiv,_Ukraine_Alumni_TIES_Ukraine,_Kyiv,_Ukraine_media-and-information-literacy-programs-for-libraries-interactive-breakout-group_43867531800_o_(53874098181).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alumni_TIES_Ukraine%2C_Kyiv%2C_Ukraine_Alumni_TIES_Ukraine%2C_Kyiv%2C_Ukraine_media-and-information-literacy-programs-for-libraries-interactive-breakout-group_43867531800_o_%2853874098181%29.jpg",
+      "license": "Creative Commons CC0 1.0 Universal public-domain dedication",
+      "creator": "Exchanges Photos",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_municipal_territoriality_spatial_inequality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_municipal_territoriality_spatial_inequality_summary_he.html",
+      "usedBy": [
+        "democracy_municipal_territoriality_spatial_inequality_summary_he.html"
+      ],
+      "cardTitleHe": "גבולות, קרקע וארנונה: מי מרוויח מחלוקת המרחב מחדש?",
+      "authorsHe": "Itai Beeri; Meirav Aharon Gutman; Jonathan Luzer",
+      "visualDescriptionHe": "נציגי רשויות ומתכננת בוחנים מפת גבולות גדולה, כשיישוב מוחלש, אזור תעשייה ויישוב מבוסס נראים מעבר לחלון.",
+      "semanticDescriptionHe": "המפה, סימוני הגבול והפער בין היישובים ממחישים כיצד העברת שטח וחלוקת הכנסות מארנונה עשויות לשמר או לצמצם אי־שוויון מרחבי.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "municipal_boundaries",
+        "spatial_inequality",
+        "tax_revenue"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated municipal-planning scene with fictional participants, an unlabeled map, and no logos, flags, or watermarks. High fitness because boundaries, shared industrial land, resource tokens, and unequal adjacent municipalities all map closely to the paper’s mechanisms.",
+      "createdDate": "2026-07-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_conflict_economic_costs_political_attitudes_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_conflict_economic_costs_political_attitudes_summary_he.html",
+      "usedBy": [
+        "democracy_conflict_economic_costs_political_attitudes_summary_he.html"
+      ],
+      "cardTitleHe": "מחיר הדמים ומחיר הכלכלה: מה נקשר לעמדות ישראלים בסכסוך?",
+      "authorsHe": "Avi Ben-Bassat; Momi Dahan; Benny Geys; Esteban F. Klor",
+      "visualDescriptionHe": "בעלי עסק תיירותי ועובדת מחקר בוחנים פנקס הזמנות ותרשים ליד בית קפה ומלון כמעט ריקים.",
+      "semanticDescriptionHe": "העסקים הריקים, נתוני התיירות ונוכחותו המרוחקת של מחסום ממחישים את ההבחנה בין עלויות כלכליות של הסכסוך לבין חשיפה לאלימות.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "conflict_costs",
+        "tourism",
+        "political_attitudes",
+        "territorial_concessions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated tourism-economy scene with a non-graphic distant checkpoint, unlabeled charts, and no logos, flags, or watermarks. High fitness because the image directly joins tourism exposure, conflict risk, and the measurement of political attitudes.",
+      "createdDate": "2026-07-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_corruption_democratic_theory_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_corruption_democratic_theory_summary_he.html",
+      "usedBy": [
+        "democracy_political_corruption_democratic_theory_summary_he.html"
+      ],
+      "cardTitleHe": "כשהדמוקרטיה עצמה עלולה להשחית את הפוליטיקה",
+      "authorsHe": "Doron Navot",
+      "visualDescriptionHe": "ועדת אתיקה ובחירות בבית המחוקקים של פלורידה מקבלת עדות בדיון פומבי.",
+      "semanticDescriptionHe": "דיון מוסדי באתיקה ובבחירות ממחיש מנגנוני פיקוח ואחריותיות דמוקרטיים, בלי לייחס שחיתות לאדם כלשהו המצולם.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "political_corruption",
+        "democratic_theory",
+        "ethics_committee",
+        "accountability"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Caroline Ferguson’s public-domain photograph of a Florida Senate Ethics and Elections Committee hearing. Standard fitness because it authentically depicts democratic oversight without implying wrongdoing by the pictured officials; the 600x399 source required moderate upscaling.",
+      "createdDate": "2026-07-26",
+      "sourceType": "wikimedia_commons",
+      "source": "State Library and Archives of Florida via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Senate_Ethics_and_Elections_Committee_members_receiving_testimony_during_meeting_-_Tallahassee,_Florida.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Senate_Ethics_and_Elections_Committee_members_receiving_testimony_during_meeting_-_Tallahassee%2C_Florida.jpg",
+      "license": "Public domain",
+      "creator": "Caroline Ferguson",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_depression_conspiracy_political_violence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_depression_conspiracy_political_violence_summary_he.html",
+      "usedBy": [
+        "democracy_depression_conspiracy_political_violence_summary_he.html"
+      ],
+      "cardTitleHe": "תסמיני דיכאון אינם לבדם הסיפור: אמונות קונספירטיביות ותמיכה באלימות פוליטית",
+      "authorsHe": "Matthew A. Baum; James N. Druckman; Matthew D. Simonson; Jennifer Lin; Roy H. Perlis",
+      "visualDescriptionHe": "קהל גדול ומגוון ממתין לדיון פתוח באספת תושבים בקונטיקט.",
+      "semanticDescriptionHe": "אספת התושבים מציגה השתתפות פוליטית לא־אלימה ודיון ציבורי באופן ניטרלי, ונמנעת מיצירת קשר חזותי מתייג בין דיכאון לבין אלימות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "depression",
+        "conspiracy_beliefs",
+        "political_participation",
+        "political_violence",
+        "town_hall"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Sage Ross’s CC BY-SA 3.0 photograph of a civic town-hall audience. Standard fitness because it provides a respectful, non-stigmatizing representation of political participation while not depicting the survey measures or support for violence.",
+      "createdDate": "2026-07-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:West_Hartford,_Connecticut_health_care_reform_town_hall_meeting,_2009-09-02.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/West_Hartford%2C_Connecticut_health_care_reform_town_hall_meeting%2C_2009-09-02.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "creator": "Sage Ross",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_normalization_hatred_facebook_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_normalization_hatred_facebook_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_normalization_hatred_facebook_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד שנאה נעשית נורמלית? זהות, קיטוב רגשי ודה־הומניזציה בזירת פייסבוק",
+      "authorsHe": "Tal Orian Harel; Jessica Katz Jameson; Ifat Maoz",
+      "visualDescriptionHe": "משתמשים יושבים בחדרים נפרדים ושקועים בטלפונים, בעוד מנהלת קהילה מתבוננת במחשב בחלל המרכזי.",
+      "semanticDescriptionHe": "החללים המבודדים, הבעות הפנים והחזרתיות החזותית ממחישים כיצד שיח עוין עשוי להפוך לשגרתי בתוך קהילה מקוטבת, בלי להציג ממשק או תוכן פוגעני.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "hatred",
+        "affective_polarization",
+        "dehumanization",
+        "Facebook",
+        "online_discourse"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated social-media discussion scene with fictional participants and no interface overlays, readable text, platform branding, flags, or watermarks. High fitness because the architectural separation, repeated screen use, unease, and moderator position directly evoke normalization within one online community.",
+      "createdDate": "2026-07-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_religion_political_protest_cross_country_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religion_political_protest_cross_country_summary_he.html",
+      "usedBy": [
+        "democracy_religion_political_protest_cross_country_summary_he.html"
+      ],
+      "cardTitleHe": "דת ומחאה פוליטית: אמונה, רשתות חברתיות וחופש דת ב־62 מדינות",
+      "authorsHe": "Gizem Arikan; Pazit Ben‐Nun Bloom",
+      "visualDescriptionHe": "מנהיגי דת מקהילות שונות מוחאים כפיים יחד בעצרת בסיאטל למען מהגרים.",
+      "semanticDescriptionHe": "הנוכחות המשותפת של מנהיגי דת במחאה אזרחית ממחישה כיצד רשתות דתיות יכולות לתמוך בהשתתפות פוליטית, אך אינה מייצגת את כלל 62 המדינות במחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "religion",
+        "political_protest",
+        "religious_networks",
+        "DACA"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Joe Mabel’s CC BY 4.0 photograph of faith leaders at a peaceful Defend DACA rally in Seattle. Standard fitness because it directly depicts religious networks participating in protest while representing only one national and policy context.",
+      "createdDate": "2026-07-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Defend_DACA_rally_-_Seattle_-_September_5,_2017_-_30_-_faith_leaders.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Defend_DACA_rally_-_Seattle_-_September_5%2C_2017_-_30_-_faith_leaders.jpg",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "creator": "Joe Mabel",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_public_sector_human_ai_decision_bias_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_sector_human_ai_decision_bias_summary_he.html",
+      "usedBy": [
+        "democracy_public_sector_human_ai_decision_bias_summary_he.html"
+      ],
+      "cardTitleHe": "כשהפקיד פוגש אלגוריתם: הטיית אוטומציה והיצמדות סלקטיבית לעצה",
+      "authorsHe": "Saar Alon-Barkat; Madalina Busuioc",
+      "visualDescriptionHe": "שתי עובדות ציבור משוות תיקי בקשה להמלצה אלגוריתמית במשרד שירות עירוני, כשמשפחה ממתינה ברקע.",
+      "semanticDescriptionHe": "ההשוואה בין תיק אנושי להמלצת המחשב ממחישה אחריות מקצועית ואת הסיכון שבהיצמדות סלקטיבית לעצה המתאימה לציפייה מוקדמת.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "human_AI_interaction",
+        "automation_bias",
+        "selective_adherence",
+        "public_sector"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated municipal-service scene with fictional participants, abstract unlabeled screen shapes, and no logos, flags, or watermarks. High fitness because it directly depicts a public servant comparing algorithmic advice with otherwise similar case files.",
+      "createdDate": "2026-07-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-26 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_selective_exposure_political_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_selective_exposure_political_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_selective_exposure_political_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "בחירה במדיה אינה מובילה בהכרח לקיטוב: ניסוי הולנדי על חדשות והגירה",
+      "authorsHe": "Damian Trilling; Marijn van Klingeren; Yariv Tsfati",
+      "visualDescriptionHe": "קוראים יושבים בכורסאות באולם העיתונים של ספריית צ׳ונגצ׳ינג ובוחרים חומרי קריאה.",
+      "semanticDescriptionHe": "אולם העיתונים מציג בחירה פעילה בין מקורות חדשותיים במרחב משותף, אך אינו מתעד את הניסוי ההולנדי או את כתבות ההגירה שבו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "selective_exposure",
+        "political_polarization",
+        "news_choice",
+        "newspaper_reading"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 copy of NewSpeaks’s CC BY-SA 4.0 photograph of a public newspaper reading hall, re-encoded as a progressive JPEG. Standard fitness because it directly depicts readers choosing news sources while not visualizing the experiment’s immigration treatments or attitude change.",
+      "createdDate": "2026-07-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CQLIB-Newspaper_reading_hall.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/CQLIB-Newspaper_reading_hall.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "NewSpeaks",
       "provider": "Wikimedia Commons"
     }
   ],

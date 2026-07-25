@@ -82,14 +82,14 @@
   ],
   "image": {
     "src": "html_qa/democracy_environmental_tax_psychological_resistance_summary_he.jpg",
-    "version": "2026-07-25-nightly",
-    "altHe": "חברי קהילה חרדית משווים כלים חד־פעמיים ורב־פעמיים בדיון משותף",
+    "version": "2026-07-26-nightly",
+    "altHe": "זוג חרדי ובעל חנות משווים כלי פלסטיק חד־פעמיים לכלי אוכל רב־פעמיים בין מדפי חנות",
     "fitness": "high",
     "fitnessSource": "nightly_generated_specific"
   },
   "datePublished": "2026-07-25",
-  "dateModified": "2026-07-25",
-  "lastUpdatedHe": "25 ביולי 2026",
+  "dateModified": "2026-07-26",
+  "lastUpdatedHe": "26 ביולי 2026",
   "oneLinerHtml": "לאחר ביטול המס נחלשה <strong>תחושת הפגיעה הקבוצתית</strong>, אך התמיכה בעמדות סביבתיות לא חזרה לרמתה שלפניו.",
   "sections": [
     {
