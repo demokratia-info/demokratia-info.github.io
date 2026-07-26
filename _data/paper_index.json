@@ -1,8 +1,324 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1142,
+  "paperCount": 1152,
   "papers": [
+    {
+      "slug": "democracy_jewish_israeli_youth_facebook_political_expression_summary_he",
+      "file": "democracy_jewish_israeli_youth_facebook_political_expression_summary_he.html",
+      "permalink": "/democracy_jewish_israeli_youth_facebook_political_expression_summary_he.html",
+      "sortKey": 202607270010,
+      "titleHe": "לדבר פוליטיקה מול קהלים מתנגשים: צעירים יהודים־ישראלים בפייסבוק",
+      "paperTitle": "Political Expression on Facebook in a Context of Conflict: Dilemmas and Coping Strategies of Jewish-Israeli Youth",
+      "authorsCardHe": "Yifat Mor; Neta Kligler-Vilenchik; Ifat Maoz",
+      "sourceAuthors": [
+        "Yifat Mor",
+        "Neta Kligler-Vilenchik",
+        "Ifat Maoz"
+      ],
+      "journal": "Social Media + Society, 1(2), 1–10",
+      "dateText": "פורסם אונליין: 8 באוקטובר 2015; כרך 1, גיליון 2, עמ׳ 1–10",
+      "doiUrl": "https://doi.org/10.1177/2056305115606750",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_jewish_israeli_youth_facebook_political_expression_summary_he.jpg",
+        "altHe": "סטודנטים צעירים דנים סביב מחשבים וטלפונים בחדר משותף בקמפוס",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "יפעת מור, נטע קליגלר־וילנצ׳יק ויפעת מעוז בוחנות כיצד צעירים יהודים־ישראלים מבטאים פוליטיקה בפייסבוק בתוך חברה השרויה בסכסוך ממושך. המחקר מנתח 15 ראיונות עומק עם סטודנטיות וסטודנטים חילונים בני 23–29, משתמשים יומיומיים בפייסבוק שהיו בעלי עניין ומעורבות פוליטית. בניגוד לתמונה של צעירים הנמנעים תמיד מפוליטיקה ברשת כדי לשמור על יחסים חברתיים, המרואיינים ראו בביטוי פוליטי חלק רצוי מן הזהות שלהם כאנשים מעודכנים, בעלי עמדה ומשתתפים. הם ביקשו לבטא רגש, לנהל דיון, לשכנע, להפיץ מידע ולעיתים גם להיחשף לעמדות שונות. בה בעת, פייסבוק איחד חברים, קרובי משפחה, עמיתים, מפקדים ומעסיקים אפשריים לקהל בלתי נראה שקשה לחזות את תגובותיו. פוסט פוליטי היה עלול להצית ויכוח, לאכזב בני משפחה, לפגוע בקשר חלש, להשפיע על דימוי מקצועי או לצאת מהקשרו באמצעות צילום מסך ושיתוף. הגדרות פרטיות לא סיפקו פתרון מלא, ולכן המרואיינים פיתחו ארבע אסטרטגיות מרכזיות: צמצום הקהל, ניסוח מרומז או מרוכך, שיתוף או סימון אהבתי לתוכן של אחרים במקום הצהרה מקורית, ושימוש בהומור. ברגעים רגשיים במיוחד, הרצון להגיב מיד גבר לעיתים על ניהול הרושם והוביל לחרטה. המחברות מדגישות שביטוי פוליטי עצמו עשוי לשמש ניהול רושם חיובי בהקשר הישראלי, משום שדיבור ישיר ומעורבות ציבורית יכולים לסמן ידע ואכפתיות. עם זאת, המדגם קטן, הומוגני ונוטה שמאלה, ולכן אין להסיק ממנו על כלל הצעירים, על קבוצות מיעוט או על התנהגות בפלטפורמות אחרות. תרומת המחקר היא בהצגת השתיקה והדיבור לא כשתי אפשרויות מנוגדות, אלא כרצף של התאמות שבאמצעותן אזרחים מנסים להשתתף בלי לאבד שליטה על זהותם החברתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_parasocial_relationships_israel_elections_summary_he",
+      "file": "democracy_political_parasocial_relationships_israel_elections_summary_he.html",
+      "permalink": "/democracy_political_parasocial_relationships_israel_elections_summary_he.html",
+      "sortKey": 202607270009,
+      "titleHe": "הקשר החד־צדדי עם המועמד: יחסים פארא־חברתיים והצבעה בבחירות 2019 בישראל",
+      "paperTitle": "Political Para-Social Relationship as a Predictor of Voting Preferences in the Israeli 2019 Elections",
+      "authorsCardHe": "Yariv Tsfati; Jonathan Cohen; Shira Dvir-Gvirsman; Keren Tsuriel; Israel Waismel-Manor; R. Lance Holbert",
+      "sourceAuthors": [
+        "Yariv Tsfati",
+        "Jonathan Cohen",
+        "Shira Dvir-Gvirsman",
+        "Keren Tsuriel",
+        "Israel Waismel-Manor",
+        "R. Lance Holbert"
+      ],
+      "journal": "Communication Research, 49(8), 1118–1147",
+      "dateText": "פורסם לראשונה אונליין: 30 ביולי 2021; כרך 49, גיליון 8, עמ׳ 1118–1147 (2022)",
+      "doiUrl": "https://doi.org/10.1177/00936502211032822",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_parasocial_relationships_israel_elections_summary_he.jpg",
+        "altHe": "בוחרת עומדת מול חברי ועדת קלפי בישראל בבחירות אפריל 2019",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "יריב צפתי, ג׳ונתן כהן, שירה דביר־גבירסמן, קרן צוריאל, ישראל וייסמל־מנור ור׳ לאנס הולברט בוחנים אם תחושת קשר אישי חד־צדדי עם מנהיג פוליטי מנבאת בחירה בקלפי. הם מרחיבים את מושג היחסים הפארא־חברתיים מן המחקר על דמויות מדיה אל הפוליטיקה, שבה קמפיינים אישיים מציגים מועמד כאדם מוכר, אותנטי ומבין. המחקר משתמש בנתוני פאנל מקוון שנאספו בשבעה גלים סביב שתי מערכות הבחירות בישראל ב־2019; הניתוחים נשענים על 1,061 נשאלים ועל תתי־מדגמים משתנים לפי מספר הגלים והמדדים שנדרשו לכל מודל. הקשר לבנימין נתניהו ולבני גנץ נמדד באמצעות ארבעה היגדים על תחושת שייכות לקבוצת המנהיג, נוחות המזכירה חברות, תפיסתו כאדם טבעי ואמיתי ותחושה שהוא מבין את צורכי הבוחר. בשתי מערכות הבחירות, קשר חזק יותר עם נתניהו ניבא הצבעה לליכוד והפחית את הסיכוי להצביע לכחול לבן; קשר חזק יותר עם גנץ ניבא הצבעה לכחול לבן, ובחלק מן המודלים גם הפחית הצבעה לליכוד. שינוי לאורך זמן בקשר עם נתניהו ניבא מעבר אל הליכוד או ממנו, ואילו דפוס השינוי המקביל אצל גנץ היה פחות עקבי. הקשרים עם שני המנהיגים ניבאו גם הישארות עם מפלגתם בין אפריל לספטמבר, והיו לעיתים בין שלושת המנבאים החזקים ביותר לצד אידאולוגיה והערכת מועמד. המחברים מדגישים שהמדד אינו שקול לחיבה בלבד: הוא מתאר תחושת אינטימיות, היכרות והדדיות מדומיינת, אף שהפוליטיקאי אינו מכיר את הבוחר. עם זאת, זהו מחקר תצפיתי המבוסס על דיווח עצמי, ולכן ייתכן שהעדפה מפלגתית מחזקת את הקשר למנהיג בדיוק כפי שהקשר עשוי לחזק את ההעדפה. המסקנה הדמוקרטית היא שבמערכת מפלגתית, יחסים נתפסים עם דמויות פוליטיות יכולים להפוך רכיב עצמאי יחסית של התנהגות בוחרים ולהעמיק את האישיותיות של התחרות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_government_communications_symbols_undue_trust_summary_he",
+      "file": "democracy_government_communications_symbols_undue_trust_summary_he.html",
+      "permalink": "/democracy_government_communications_symbols_undue_trust_summary_he.html",
+      "sortKey": 202607270008,
+      "titleHe": "כשהסמל גובר על התוכן: כיצד תקשורת ממשלתית עלולה לעורר אמון לא מוצדק",
+      "paperTitle": "Can Government Public Communications Elicit Undue Trust? Exploring the Interaction between Symbols and Substantive Information in Communications",
+      "authorsCardHe": "Saar Alon-Barkat",
+      "sourceAuthors": [
+        "Saar Alon-Barkat"
+      ],
+      "journal": "Journal of Public Administration Research and Theory, 30(1), 77–95",
+      "dateText": "פורסם לראשונה אונליין: 4 ביולי 2019; כרך 30, גיליון 1, עמ׳ 77–95 (2020)",
+      "doiUrl": "https://doi.org/10.1093/jopart/muz013",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_government_communications_symbols_undue_trust_summary_he.jpg",
+        "altHe": "אזרחים משווים לוח מדיניות מעוצב וצבעוני ללוח נתונים ענייני בניסוי תקשורת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "סער אלון־ברקת בוחן אם לוגו, צבעי מותג ודמויות מוכרות בתקשורת ממשלתית יכולים לא רק לחזק אמון, אלא גם לטשטש חולשה של הסבר מדיניות. המחקר נשען על מודל סבירות העיבוד, המבחין בין בחינה שיטתית של טיעונים לבין הסתמכות על רמזים היקפיים המעוררים רגש ואסוציאציות. בניסוי־סקר אקראי השתתפו 859 אזרחיות ואזרחים בישראל, וכל אחד מהם קרא שתי הודעות של המשרד להגנת הסביבה: אחת על הפחתת זיהום האוויר במפרץ חיפה ואחת על פסולת ביתית ומיחזור. לכל משתתף הוצגה תוכנית אחת בעלת היגיון משכנע ותוכנית אחת חלשה אך סבירה למראה, ובין קבוצות הוחלפה מעטפת ההודעה בין סמלים אמיתיים ומוכרים של המשרד, סמלים בדויים או היעדר סמלים. החשיפה לסמלים המוכרים העלתה את האמון בתוכניות לעומת שתי קבוצות הביקורת, והפער היה גדול יותר כאשר תוכן התוכנית היה חלש. מדדי זמן הקריאה ומבחן הזיכרון הצביעו על כך שהסמלים המוכרים צמצמו את העיבוד של התוכן; בניתוחי התיווך, הירידה בעיבוד הסבירה חלק מן העלייה באמון בתוכנית החלשה. התיווך באמצעות זמן התגובה היה עקבי יותר מן התיווך באמצעות זיכרון, ולכן המחקר אינו טוען שכל ההשפעה נובעת ממנגנון יחיד. המשמעות הדמוקרטית כפולה: תקשורת מושכת יכולה להפחית חשדנות בלתי מוצדקת כלפי שירות ציבורי, אך היא עלולה גם לעמעם ביקורת מוצדקת על מדיניות לקויה. המחבר קורא לבחון כללי אתיקה והסדרה לשימוש במיתוג ובסמלים ממשלתיים, משום שאמון אינו יעד רצוי כשלעצמו אם הוא נרכש על חשבון תשומת לב למידע מהותי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_local_context_lgbt_morality_policy_opinion_summary_he",
+      "file": "democracy_local_context_lgbt_morality_policy_opinion_summary_he.html",
+      "permalink": "/democracy_local_context_lgbt_morality_policy_opinion_summary_he.html",
+      "sortKey": 202607270007,
+      "titleHe": "לא רק דתיות ואידאולוגיה: ההקשר המקומי ותמיכה במדיניות להט״ב",
+      "paperTitle": "Public opinion on morality policy: The moderating role of local context",
+      "authorsCardHe": "Aliza Forman-Rabinovici; Itai Beeri",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Itai Beeri"
+      ],
+      "journal": "Public Policy and Administration, advance online publication",
+      "dateText": "פורסם לראשונה אונליין: 25 בנובמבר 2025; טרם הוקצו כרך, גיליון ועמודים בעת העדכון",
+      "doiUrl": "https://doi.org/10.1177/09520767251399402",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_local_context_lgbt_morality_policy_opinion_summary_he.jpg",
+        "altHe": "תושבים מרקעים שונים דנים יחד בכרטיסי מדיניות במפגש קהילתי עירוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "עליזה פורמן־רבינוביץ׳ ואיתי בארי בוחנים כיצד הקשר מקומי משנה את האופן שבו דתיות ואידאולוגיה אישיות קשורות לדעת קהל בתחום המכונה בספרות ״מדיניות מוסר״. הם ערכו סקר מקוון בקרב 1,305 תושבים ותיקים יחסית של תל אביב, ירושלים וחיפה, שלוש ערים השונות בהרכבן הדתי והפוליטי, ובמודלים הסופיים נותחו 1,262 תשובות. כל משתתף הוקצה באקראי לאחד משני תיאורים של הכרה עירונית בזוגות חד־מיניים: גרסה סמלית שכללה הכרה וטקס, או גרסה חומרית שהוסיפה הטבות עירוניות כגון הנחה בארנונה, רישום למוסדות חינוך והטבות בשירותים. כצפוי, דתיות גבוהה יותר ואידאולוגיה שמרנית יותר נקשרו לתמיכה נמוכה יותר במדיניות. ואולם עוצמת הקשר השתנתה בין הערים: הקשר השלילי של דתיות היה חד במיוחד בירושלים, ואילו הקשר בין מעבר מעמדות ימין לעמדות שמאל לבין תמיכה היה חזק יותר בירושלים מאשר בתל אביב ובחיפה. חיפה הציגה את הפער האידאולוגי המתון ביותר, ותל אביב לא נבדלה ממנה באופן מובהק בעוצמת הקשר בין דתיות לתמיכה. בניגוד לציפייה אפשרית, הרחבת ההכרה הסמלית לחבילת הטבות חומריות לא הורידה את התמיכה באופן מובהק. התוצאות מראות שלא די לדעת מהי דתיותו או אידאולוגייתו של אדם; האופן שבו מאפיינים אלה מתורגמים לעמדה מדינית תלוי גם בסביבה המקומית. עם זאת, תושבים בוחרים היכן לגור, ורק שלוש ערים ומדיניות אחת נבדקו, ולכן אין לייחס לעיר השפעה סיבתית או לקבוע איזה רכיב בהקשר המקומי אחראי להבדלים. התרומה היא בזיהוי אינטראקציה בין אדם למקום ובקריאה למדוד דעת קהל גם ברמה תת־לאומית, לא בטענה שאפשר לשנות עמדה פשוט באמצעות מעבר לעיר אחרת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_incidental_news_exposure_political_participation_summary_he",
+      "file": "democracy_incidental_news_exposure_political_participation_summary_he.html",
+      "permalink": "/democracy_incidental_news_exposure_political_participation_summary_he.html",
+      "sortKey": 202607270006,
+      "titleHe": "להיתקל בחדשות או להתעכב עליהן? חשיפה מקרית והשתתפות פוליטית ב־17 מדינות",
+      "paperTitle": "The Relationship Between Incidental News Exposure and Political Participation: A Cross-Country, Multilevel Analysis",
+      "authorsCardHe": "Jörg Matthes; Alon Zoizner; Andreas Nanz; David Nicolas Hopmann; Yannis Theocharis; Selina Noetzel",
+      "sourceAuthors": [
+        "Jörg Matthes",
+        "Alon Zoizner",
+        "Andreas Nanz",
+        "David Nicolas Hopmann",
+        "Yannis Theocharis",
+        "Selina Noetzel"
+      ],
+      "journal": "Digital Journalism, 14(4), 573–592",
+      "dateText": "פורסם לראשונה אונליין: 16 בפברואר 2025; כרך 14, גיליון 4, עמ׳ 573–592 (2026)",
+      "doiUrl": "https://doi.org/10.1080/21670811.2024.2436548",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_incidental_news_exposure_political_participation_summary_he.jpg",
+        "altHe": "נוסעים ממתינים ברציף רכבת ומעיינים בטלפונים חכמים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "יורג מתס, אלון צויזנר, אנדראס נאנץ, דוד ניקולס הופמן, יאניס תאוכריס וסלינה נצל מבקשים לדייק מושג נפוץ במחקר על חדשות ברשת: ״חשיפה מקרית״ אינה אירוע יחיד. הם מבחינים בין רמה ראשונה, שבה אדם נתקל בתוכן פוליטי בלי שהתכוון לחפש אותו ואף עשוי לדלג עליו, לבין רמה שנייה, שבה התוכן תופס את תשומת הלב ומוביל למבט קרוב או לעיבוד יסודי. הניתוח נשען על סקר מקוון שנערך בדצמבר 2019 בקרב 28,317 נשאלים ב־17 מדינות, ובהן ישראל, ובוחן בנפרד השתתפות ברשתות חברתיות והשתתפות לא־מקוונת. עצם ההיתקלות בתוכן נקשרה בקשר שלילי קטן להשתתפות ברשתות חברתיות ולא נקשרה באופן כללי להשתתפות מחוץ לרשת. לעומת זאת, תשומת לב לתוכן מקרי נקשרה בקשר חיובי וברור יותר לשני סוגי ההשתתפות, גם לאחר בקרה במאפיינים אישיים ובהבדלים בין מדינות. איכות הדמוקרטיה שינתה את הקשר של הרמה הראשונה: במדינות דמוקרטיות פחות הקשר השלילי להשתתפות ברשת היה חזק יותר, ואילו בדמוקרטיות חזקות הוא הצטמצם; לגבי השתתפות לא־מקוונת הופיע קשר חיובי לרמה הראשונה רק בקצה הדמוקרטי החזק. קיטוב אליטות, שנמדד בעיקר לפי המרחקים בין עמדות מפלגות, לא שינה באופן מובהק את הקשרים. הממצאים תומכים בטענה שהשאלה החשובה אינה רק אם חדשות עברו מול העיניים אלא אם הן הצליחו למשוך קשב ולעבור עיבוד. עם זאת, הנתונים חתכיים, מבוססי דיווח עצמי ואינם מסדרים בזמן את החשיפה וההשתתפות, ולכן אפשר שגם אנשים מעורבים יותר נוטים להבחין ולעסוק בחדשות מקריות. המחקר גם אינו מודד את איכות התוכן או את אופייה הדמוקרטי של ההשתתפות, ומכאן שאין להסיק שכל תשומת לב לחדשות מקריות מועילה בהכרח לשיח הציבורי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he",
+      "file": "democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.html",
+      "permalink": "/democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.html",
+      "sortKey": 202607270005,
+      "titleHe": "האם הפלטפורמה משנה? שימוש ברשתות חברתיות ואמונה בקונספירציות קורונה ב־17 מדינות",
+      "paperTitle": "Does the platform matter? Social media and COVID-19 conspiracy theory beliefs in 17 countries",
+      "authorsCardHe": "Yannis Theocharis; Ana Cardenal; Soyeon Jin; Toril Aalberg; David Nicolas Hopmann; Jesper Strömbäck; Laia Castro; Frank Esser; Peter Van Aelst; Claes de Vreese; Nicoleta Corbu; Karolina Koc-Michalska; Jörg Matthes; Christian Schemer; Tamir Sheafer; Sergio Splendore; James Stanyer; Agnieszka Stępińska; Václav Štětka",
+      "sourceAuthors": [
+        "Yannis Theocharis",
+        "Ana Cardenal",
+        "Soyeon Jin",
+        "Toril Aalberg",
+        "David Nicolas Hopmann",
+        "Jesper Strömbäck",
+        "Laia Castro",
+        "Frank Esser",
+        "Peter Van Aelst",
+        "Claes de Vreese",
+        "Nicoleta Corbu",
+        "Karolina Koc-Michalska",
+        "Jörg Matthes",
+        "Christian Schemer",
+        "Tamir Sheafer",
+        "Sergio Splendore",
+        "James Stanyer",
+        "Agnieszka Stępińska",
+        "Václav Štětka"
+      ],
+      "journal": "New Media & Society, 25(12), 3412–3437",
+      "dateText": "פורסם לראשונה אונליין: 9 באוקטובר 2021; כרך 25, גיליון 12, עמ׳ 3412–3437 (2023)",
+      "doiUrl": "https://doi.org/10.1177/14614448211045666",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.jpg",
+        "altHe": "צוות מחקר משווה סקרים בין מדינות לצד ארבעה טלפונים המציגים דפוסי רשת שונים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "יאניס תאוכריס ו־18 עמיתים בוחנים אם נכון לדבר על ״מדיה חברתית״ כעל סביבה אחידה כאשר מסבירים אמונה בתאוריות קונספירציה על הקורונה. הם משתמשים בשני גלים של סקר פאנל מקוון ב־17 מדינות, ובהן ישראל: בדצמבר 2019 נמדד השימוש בחמש פלטפורמות לצורכי חדשות, ובמאי–יוני 2020 נמדדה הסכמה עם שלוש טענות קונספירטיביות על מקור הנגיף ועל טיפולים אפשריים. בגל הראשון השתתפו 28,317 נשאלים ובגל השני 14,218 מהם, והמודלים כללו שורה רחבה של משתני רקע, ובהם ידע פוליטי, אמון, צריכת חדשות, עניין פוליטי, אידאולוגיה, גיל, השכלה והכנסה. בניתוח הרב־רמתי, שימוש בטוויטר לחדשות נקשר לרמה נמוכה יותר של אמונות קונספירטיביות, ואילו שימוש ביוטיוב ובווטסאפ נקשר לרמה גבוהה יותר; הקשרים של פייסבוק ומסנג׳ר היו תלויי מפרט ולא נשמרו באותה בהירות לאחר שקלול ההבדלים בין המדינות. בדיקות התאמה ושקלול באמצעות ציוני נטייה חיזקו את התמונה הכללית של קשר שלילי לטוויטר וקשרים חיוביים לפלטפורמות האחרות, אך אינן מבטלות הטיית בחירה הנובעת ממשתנים שלא נמדדו. יתרה מזאת, דפוסי הקשר השתנו בין מדינות, ולכן אין להסיק שפלטפורמה נתונה פועלת באותו אופן בכל מערכת תקשורתית ופוליטית. המחברים מפרשים את ההבדלים בעזרת מאפייני פלטפורמה כגון מבנה הרשת, פומביות השיח, סוג התוכן, המלצות אלגוריתמיות ואפשרויות תיקון, אך המחקר אינו מבודד בניסוי איזה מאפיין אחראי לאיזה קשר. היתרון של סדר המדידות הוא שהשימוש בפלטפורמות נמדד לפני התפרצות המגפה, אך אמונות הקונספירציה נמדדו רק בגל השני והמשתמשים לא הוקצו באקראי לפלטפורמות. לכן המסקנה המדויקת היא שפלטפורמות שונות קשורות באופן שונה לאמונות קונספירטיביות, לא שהמחקר הוכיח כי אחת מהן גורמת להן ואחרת מגינה מפניהן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_paradoxical_thinking_peace_intervention_summary_he",
+      "file": "democracy_paradoxical_thinking_peace_intervention_summary_he.html",
+      "permalink": "/democracy_paradoxical_thinking_peace_intervention_summary_he.html",
+      "sortKey": 202607270004,
+      "titleHe": "ללכת עם הנרטיב עד האבסורד: ניסוי שדה בחשיבה פרדוקסלית למען פשרה",
+      "paperTitle": "Paradoxical thinking as a new avenue of intervention to promote peace",
+      "authorsCardHe": "Boaz Hameiri; Roni Porat; Daniel Bar-Tal; Atara Bieler; Eran Halperin",
+      "sourceAuthors": [
+        "Boaz Hameiri",
+        "Roni Porat",
+        "Daniel Bar-Tal",
+        "Atara Bieler",
+        "Eran Halperin"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences, 111(30), 10996–11001",
+      "dateText": "פורסם לראשונה אונליין: 14 ביולי 2014; כרך 111, גיליון 30, עמ׳ 10996–11001",
+      "doiUrl": "https://doi.org/10.1073/pnas.1407055111",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_paradoxical_thinking_peace_intervention_summary_he.jpg",
+        "altHe": "מנהיגים פלסטינים ונציגים ישראלים יושבים יחד בפגישה פוליטית בתל אביב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "בועז חמירי, רוני פורת, דניאל בר־טל, עטרה בילר וערן הלפרין מציעים דרך נגד־אינטואיטיבית להתמודד עם אמונות מקובעות בסכסוך עיקש. במקום למסור מידע הסותר את נרטיב הסכסוך ועלול לעורר הגנה, ההתערבות מציגה מסר התואם את הנרטיב אך דוחף אותו לקצה, בתקווה שההקצנה תיתפס כאבסורד ותעודד בחינה מחדש. לאחר ניסוי מקדים בקרב 81 יהודים בישראל, החוקרים ערכו ניסוי שדה מקוון בן תשעה גלים סביב בחירות 2013. במדגם הבסיס של שני התנאים היו 249 משתתפים שהוקצו באקראי להתערבות, 125, או לביקורת, 124; 161 מהם השלימו את שמונת הגלים הראשונים, 81 ו־80 בהתאמה. בגלים 2–7 צפתה קבוצת ההתערבות בשישה מקבצים בני כחמש דקות, שכללו פרסומות רגילות וסרטוני ״הסכסוך״; בסך הכול הוצגו לה 15 סרטונים שונים שטענו, למשל, שהמשך הסכסוך נחוץ לשימור מוסריות, אחדות או זהות ישראלית. קבוצת הביקורת צפתה בפרסומות רגילות באותו משך. לאחר ההתערבות דיווחו המשתתפים בתנאי הפרדוקסלי על בחינה מחדש רבה יותר של אמונות יסוד, ייחסו לפלסטינים פחות אחריות בלעדית להמשך הסכסוך והביעו יותר תמיכה בפינוי חלק מההתנחלויות במסגרת הסכם שלום. הירידה בייחוס האחריות הופיעה בעיקר בקרב משתתפי המרכז ובמידה חלשה יותר בקרב הימין, ולא בקרב השמאל; לעומת זאת, ההשפעה על נכונות לפשרה לא השתנתה לפי עמדה פוליטית. ניתוח תיווך סדרתי תמך במסלול שבו ההתערבות נקשרה ל״הפשרת״ מחסומים, זו נקשרה לפחות הטלת אחריות על הפלסטינים, וזו נקשרה ליותר נכונות לפשרה. יומיים לאחר הבחירות, 115 משתתפים שדיווחו למי הצביעו נטו בתנאי ההתערבות לדווח יותר על הצבעה לעבודה או למרצ, גם לאחר בקרה על נטייה פוליטית ומאפיינים דמוגרפיים. כשנה לאחר מכן, 102 מתוך 249 משתתפי הבסיס חזרו לסקר, והמשתתפים בתנאי ההתערבות הביעו בממוצע יותר נכונות לפשרות בסוגיות משא ומתן. זהו ממצא נדיר של השפעה מתמשכת, אך יש לפרשו בזהירות: שיעור ההישארות לאחר שנה היה 41%, ההצבעה נמדדה בדיווח עצמי, והמחקר לא מדד ישירות אם המסרים נתפסו כאבסורד. נוסף על כך, בניסוי המקדים חלק מן המשתתפים קיבלו את המסר הקיצוני כפשוטו ואף חשו יותר גאווה, וגרסה מפורשת יותר של המסר במחקר הראשי לא השפיעה והושמטה מן הניתוח המרכזי. לפיכך המאמר מספק הוכחת היתכנות מבטיחה לחשיבה פרדוקסלית, לא נוסחה בטוחה לקמפיין ציבורי ולא הוכחה שכל הקצנת מסר תמתן עמדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_state_covid_responses_governance_factors_summary_he",
+      "file": "democracy_state_covid_responses_governance_factors_summary_he.html",
+      "permalink": "/democracy_state_covid_responses_governance_factors_summary_he.html",
+      "sortKey": 202607270003,
+      "titleHe": "למה מדינות הגיבו אחרת לקורונה? מוסדות, פסיכולוגיה ואסטרטגיה במרכז ההסבר",
+      "paperTitle": "Explaining variations in state COVID-19 responses: psychological, institutional, and strategic factors in governance and public policy-making",
+      "authorsCardHe": "Moshe Maor; Michael Howlett",
+      "sourceAuthors": [
+        "Moshe Maor",
+        "Michael Howlett"
+      ],
+      "journal": "Policy Design and Practice, 3(3), 228–241",
+      "dateText": "פורסם אונליין: 25 בספטמבר 2020; כרך 3, גיליון 3, עמ׳ 228–241",
+      "doiUrl": "https://doi.org/10.1080/25741292.2020.1824379",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_state_covid_responses_governance_factors_summary_he.jpg",
+        "altHe": "מקבלי החלטות משווים מסמכי מדיניות ונתוני מגפה סביב שולחן ממשלתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "משה מאור ומייקל האולט מבקשים להסביר מדוע ממשלות הגיבו באופנים שונים כל כך לאותו איום בריאותי בתחילת מגפת הקורונה. טענתם היא שחקר ממשל נוטה לתאר מוסדות, רשתות וסידורי סמכות, אך זקוק לכלים ממדעי המדיניות כדי להסביר כיצד מקבלי החלטות פועלים בתוך המבנים האלה. המאמר אינו מציג מאגר נתונים חדש או מבחן סיבתי משווה; הוא מסנתז מקורות משניים וראיונות תקשורתיים עם ראשי ממשלה ושרים ומארגן דוגמאות בשלושה ממדים. הממד המוסדי כולל יעילות ממשלתית, מרחב תמרון, אמון חברתי, מבנה משרד הבריאות והרקע המקצועי של השר, חוזק מפלגת השלטון, כוחם של מושלים והמורשת של מדיניות רווחה אוניברסלית. הממד הפסיכולוגי כולל בהלת אליטות ומגבלות הקשב הממשלתי: בנורווגיה המחברים מסתמכים על הודאת ראש הממשלה שפחד ותרחישי קיצון השפיעו על סגירת בתי הספר, ובבריטניה הם מצביעים על סדר יום עמוס ועל תפנית חדה לאחר פרסום מודל אפידמיולוגי. הממד האסטרטגי עוסק בשילוב שיקולים פוליטיים בהחלטות מדיניות תחת אי־ודאות עמוקה. במקרה הישראלי המחברים קושרים בין משבר חוקתי ומבוי סתום אלקטורלי לבין ריכוז סמכויות, אי־הפעלת תוכנית החירום הלאומית למגפה משנת 2007, בחירה סלקטיבית של יועצים וסוכנויות, ומה שהם מכנים סביבת ממשל ״רועשת״. הם מציגים גם דוגמאות לתגובת חסר ולתגובת יתר שלדבריהם הושפעו מיחסים עם ארצות הברית, מלחצים קואליציוניים ומחשש לתיוג החברה החרדית. באירופה הם נשענים על מחקר קודם שמצא כי מדינות ריכוזיות יותר, בעלות יעילות ואמון נמוכים יותר אך משרד בריאות נפרד ושר בעל רקע רפואי, פעלו מהר יותר; באמריקה הלטינית הם מציגים הסבר ראשוני להבדלים בין ארגנטינה, ברזיל ומקסיקו דרך מפלגות, פדרליזם ורווחה. המסגרת מזהירה שלא להסיק אוטומטית שמדינה בעלת קיבולת גבוהה תגיב מהר או שמדיניות מחמירה היא בהכרח מדיניות טובה. היא מציעה לבחון מי החזיק בסמכות, איזה מידע זכה לקשב, אילו רגשות עיצבו את תפיסת הסיכון ואילו תמריצים פוליטיים פעלו — ורק אז להסביר את הבחירה. מאחר שהדוגמאות נבחרו להמחשת מנגנונים בשלבים המוקדמים של המגפה, המאמר אינו מדרג את הצלחת המדינות ואינו מוכיח את המשקל היחסי של כל גורם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_collective_victimhood_shared_territorial_ownership_summary_he",
+      "file": "democracy_collective_victimhood_shared_territorial_ownership_summary_he.html",
+      "permalink": "/democracy_collective_victimhood_shared_territorial_ownership_summary_he.html",
+      "sortKey": 202607270002,
+      "titleHe": "מקורבנות קולקטיבית לבעלות משותפת: מי מוכן להכריע יחד על שטח מסוכסך?",
+      "paperTitle": "Collective victimhood and support for joint political decision‐making in conflict regions: The role of shared territorial ownership perceptions",
+      "authorsCardHe": "Nora Storz; Rezarta Bilali; Borja Martinović; Edona Maloku; Nimrod Rosler; Iris Žeželj",
+      "sourceAuthors": [
+        "Nora Storz",
+        "Rezarta Bilali",
+        "Borja Martinović",
+        "Edona Maloku",
+        "Nimrod Rosler",
+        "Iris Žeželj"
+      ],
+      "journal": "European Journal of Social Psychology, 52(3), 472–486",
+      "dateText": "כתב היד שהתקבל פורסם אונליין: 21 בדצמבר 2021; גרסת הרשומה: 9 במאי 2022; כרך 52, גיליון 3, עמ׳ 472–486",
+      "doiUrl": "https://doi.org/10.1002/ejsp.2831",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_collective_victimhood_shared_territorial_ownership_summary_he.jpg",
+        "altHe": "נציגי שתי קהילות מסמנים יחד גבולות והסכמות על מפה משותפת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "נורה שטורץ, רזארטה בילאלי, בורחה מרטינוביץ׳, אדונה מאלוקו, נמרוד רוזלר ואיריס ז׳ז׳לי בוחנים כיצד זיכרון של קורבנות קולקטיבית קשור לנכונות לחלוק סמכות פוליטית בסכסוכים טריטוריאליים. הם מבחינים בין קורבנות תחרותית, שבה הקבוצה רואה את סבלה כחמור מזה של היריב, לבין קורבנות מכלילה, המכירה בכך ששתי הקבוצות נפגעו. המחקר הראשון נערך בסקר מקוון בקרב 609 יהודים בישראל ועסק בארץ שבין הירדן לים; המחקר השני כלל 995 משתתפים שנדגמו בהליך הסתברותי רב־שלבי — 390 אלבנים מקוסובו, 200 סרבים מקוסובו ו־405 סרבים מסרביה — ועסק בקוסובו. בשני ההקשרים נמדדו קורבנות מכלילה ותחרותית, תפיסת בעלות טריטוריאלית משותפת ותמיכה בכך ששתי הקבוצות יקבלו יחד החלטות הנוגעות לשטח. בקרב היהודים בישראל, קורבנות תחרותית נקשרה לתפיסה חלשה יותר של בעלות משותפת, וקורבנות מכלילה נקשרה לתפיסה חזקה יותר; בעלות משותפת, בתורה, נקשרה לתמיכה רבה יותר בהחלטות משותפות. הקשר העקיף דרך בעלות משותפת היה שלילי לקורבנות תחרותית וחיובי לקורבנות מכלילה, והדפוס נשמר לאחר בקרות דמוגרפיות ופוליטיות. המחקר בקוסובו שיחזר את הליבה בשלוש הקבוצות: תחרות על מעמד הקורבן נקשרה לפחות בעלות משותפת, הכרה בקורבנות שני הצדדים נקשרה ליותר בעלות משותפת, ובעלות משותפת נקשרה ליותר תמיכה בהכרעה יחד. עם זאת, עוצמת הקשרים וחלק מן הנתיבים הישירים השתנו לפי מעמד הרוב או המיעוט, ובייחוד בקרב הסרבים בקוסובו. הממצאים מחדדים שהכרה בזיקת היריב לשטח אינה מחייבת ויתור על תחושת הבעלות של קבוצת הפנים; אפשר להחזיק בשתי התפיסות בעת ובעונה אחת. מאחר שכל הנתונים נאספו בנקודת זמן אחת, אי אפשר לדעת אם זיכרון קורבני מעצב בעלות משותפת, אם תפיסות בעלות משנות את סיפור הקורבנות, או אם גורם שלישי משפיע על שתיהן. לכן המחקר מציע מסלול אפשרי לפיוס מוסדי, אך אינו מוכיח שהתערבות בזיכרון הקולקטיבי תגרום לתמיכה בחלוקת כוח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_israel_police_covid_trust_cooperation_summary_he",
+      "file": "democracy_israel_police_covid_trust_cooperation_summary_he.html",
+      "permalink": "/democracy_israel_police_covid_trust_cooperation_summary_he.html",
+      "sortKey": 202607270001,
+      "titleHe": "כשהמשטרה אוכפת מגפה: אמון, יעילות ונכונות לשתף פעולה בישראל",
+      "paperTitle": "Expectations, Effectiveness, Trust, and Cooperation: Public Attitudes towards the Israel Police during the COVID-19 Pandemic",
+      "authorsCardHe": "Gali Perry; Tal Jonathan-Zamir",
+      "sourceAuthors": [
+        "Gali Perry",
+        "Tal Jonathan-Zamir"
+      ],
+      "journal": "Policing: A Journal of Policy and Practice, 14(4), 1073–1091",
+      "dateText": "פורסם לראשונה אונליין: 17 באוגוסט 2020; כרך 14, גיליון 4, עמ׳ 1073–1091",
+      "doiUrl": "https://doi.org/10.1093/police/paaa060",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_police_covid_trust_cooperation_summary_he.jpg",
+        "altHe": "שני אנשי אכיפה עטויי מסכות משוחחים בכבוד עם נהג לצד מכונית בתקופת הקורונה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-27",
+      "dateModified": "2026-07-27",
+      "summaryHe": "גלי פרי וטל יונתן־זמיר בוחנות כיצד קהילת הרוב בישראל תפסה את המשטרה בשבועות הראשונים של אכיפת תקנות הקורונה. הסקר המקוון נערך ב־6–8 באפריל 2020, בזמן סגר מחמיר ובסמוך לחג הפסח, בקרב 1,575 יהודים בוגרים שהגדירו את עצמם לא־חרדים. רוב המשיבים תמכו בכך שהמשטרה תתמקד בתקנות החירום: 69.8% הסכימו שזה צריך להיות מוקד פעילותה, ורק 15.2% תמכו בגישה סלחנית כלפי מפרי התקנות. 62.2% חשבו שהמשטרה מצליחה במשימות הקשורות לקורונה, לעומת 47.4% שהעריכו בחיוב את תפקודה המקומי השוטף ו־35.4% שסברו שהצליחה לאחרונה במאבק בפשיעה. גם בתחום האמון הופיע פער הקשרי: 40.2% הסכימו באופן כללי ששוטרים נוהגים לעיתים קרובות בחוסר יושר, אך 59.9% סמכו עליהם שיאכפו את תקנות החירום ביושרה. רוב המשיבים לא חשבו שאכיפת המגפה פוגעת ביחסי משטרה–ציבור, ו־40.8% אמרו שתפקוד המשטרה במשבר חיזק את אמונם בה. עם זאת, הנכונות לדווח למשטרה על הפרת בידוד או על הפרת תקנות מצד שכן עמדה על פחות מ־70%, לעומת יותר מ־80% במצבים מוכרים של פשע חמור, חפץ חשוד או פעילות מסוכנת בשכונה. המחברות מפרשות את התמונה כתמיכה הקשרית בשעת חירום: הציבור ראה במשטרה גוף המטפל באיום המרכזי והתגייס סביב מטרה משותפת, אך טרם הפנים בהכרח את התקנות החדשות כעבירות המצדיקות דיווח. זהו סקר חתך של מגזר אחד בנקודת זמן מוקדמת, ולכן הוא אינו מוכיח שהמגפה העלתה אמון ואינו מלמד כיצד השתנו העמדות בהמשך. מסקנת המדיניות היא שתמיכה בעת משבר אינה תחליף להוגנות הליכית, שקיפות, אחריותיות ותקשורת עקבית כאשר החירום מתארך.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_selective_exposure_political_polarization_summary_he",
       "file": "democracy_selective_exposure_political_polarization_summary_he.html",

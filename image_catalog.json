@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -28736,6 +28736,287 @@
       "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
       "creator": "NewSpeaks",
       "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_israel_police_covid_trust_cooperation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_police_covid_trust_cooperation_summary_he.html",
+      "usedBy": [
+        "democracy_israel_police_covid_trust_cooperation_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמשטרה אוכפת מגפה: אמון, יעילות ונכונות לשתף פעולה בישראל",
+      "authorsHe": "Gali Perry; Tal Jonathan-Zamir",
+      "visualDescriptionHe": "שני אנשי אכיפה עטויי מסכות משוחחים בכבוד עם נהג לצד מכונית במחסום דרך בתקופת הקורונה.",
+      "semanticDescriptionHe": "המפגש הרגוע בין אנשי האכיפה לאזרח ממחיש אכיפה, הוגנות הליכית ושיתוף פעולה בשעת חירום בריאותית, בלי להציג סמלים ארגוניים או נתוני סקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "Israel_Police",
+        "COVID_19",
+        "public_trust",
+        "cooperation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated civic-documentary scene of a calm roadside interaction during COVID-19, with masks, plain unbranded uniforms, and no insignia, flags, text, or watermarks. High fitness because it directly visualizes emergency enforcement, procedural fairness, trust, and cooperation.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_collective_victimhood_shared_territorial_ownership_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_collective_victimhood_shared_territorial_ownership_summary_he.html",
+      "usedBy": [
+        "democracy_collective_victimhood_shared_territorial_ownership_summary_he.html"
+      ],
+      "cardTitleHe": "מקורבנות קולקטיבית לבעלות משותפת: מי מוכן להכריע יחד על שטח מסוכסך?",
+      "authorsHe": "Nora Storz; Rezarta Bilali; Borja Martinović; Edona Maloku; Nimrod Rosler; Iris Žeželj",
+      "visualDescriptionHe": "משתתפים יהודים־ישראלים ופלסטינים יושבים סביב מפה משותפת ומניחים עליה סמנים זהים בדיון מונחה.",
+      "semanticDescriptionHe": "המפה המשותפת, הסמנים הזהים והדיון הקבוצתי ממחישים ישירות תפיסת בעלות משותפת וקבלת החלטות משותפת על טריטוריה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "collective_victimhood",
+        "shared_territorial_ownership",
+        "joint_decision_making",
+        "conflict_resolution"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated civic-mediation scene with fictional participants, an unlabeled map, and no logos, flags, or watermarks. High fitness because the shared map and equal markers closely match the paper’s central ownership and decision-making mechanisms.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_state_covid_responses_governance_factors_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_state_covid_responses_governance_factors_summary_he.html",
+      "usedBy": [
+        "democracy_state_covid_responses_governance_factors_summary_he.html"
+      ],
+      "cardTitleHe": "למה מדינות הגיבו אחרת לקורונה? מוסדות, פסיכולוגיה ואסטרטגיה במרכז ההסבר",
+      "authorsHe": "Moshe Maor; Michael Howlett",
+      "visualDescriptionHe": "צוות ממשלתי לחוץ מתאם שיחות ומשווה מסמכים, מפות ותרשימים בחדר מצב בזמן משבר.",
+      "semanticDescriptionHe": "הלחץ על המנהיג, עבודת המוסדות והמסמכים המתחרים מחברים באותה סצנה את שלושת ממדי ההסבר של המאמר: פסיכולוגיה, מוסדות ואסטרטגיה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "COVID_19",
+        "governance",
+        "elite_panic",
+        "institutional_capacity",
+        "strategic_choice"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated emergency-governance scene with fictional officials, unlabeled charts, and no logos, flags, or watermarks. High fitness because the ensemble directly combines political pressure, institutional coordination, and strategic choice under crisis.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_paradoxical_thinking_peace_intervention_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_paradoxical_thinking_peace_intervention_summary_he.html",
+      "usedBy": [
+        "democracy_paradoxical_thinking_peace_intervention_summary_he.html"
+      ],
+      "cardTitleHe": "ללכת עם הנרטיב עד האבסורד: ניסוי שדה בחשיבה פרדוקסלית למען פשרה",
+      "authorsHe": "Boaz Hameiri; Roni Porat; Daniel Bar-Tal; Atara Bieler; Eran Halperin",
+      "visualDescriptionHe": "מנהיגים פלסטינים ונציגים ישראלים יושבים יחד בפגישה פוליטית בתל אביב בשנת 1972.",
+      "semanticDescriptionHe": "המפגש ההיסטורי ממחיש את יעד הפשרה והדיאלוג שאליו ביקשה ההתערבות הפסיכולוגית לקדם עמדות, אך אינו מתעד את קמפיין 2013 עצמו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "paradoxical_thinking",
+        "peace_intervention",
+        "Israeli_Palestinian_conflict",
+        "political_attitudes"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of an IPPA/National Library of Israel CC BY 4.0 documentary photograph. Standard fitness because it depicts Israeli–Palestinian political dialogue while predating and not showing the study’s paradoxical media intervention.",
+      "createdDate": "2026-07-27",
+      "sourceType": "wikimedia_commons",
+      "source": "Dan Hadani collection, National Library of Israel via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KM_Shalom_Cohen_organized_a_meeting_on_the_31_August_1972,_between_Arab_Palestinian_leaders_and_Israeli_leftists_who_are_for_the_establishing_of_a_Palestinian_State._I_(FL45989753).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/KM_Shalom_Cohen_organized_a_meeting_on_the_31_August_1972%2C_between_Arab_Palestinian_leaders_and_Israeli_leftists_who_are_for_the_establishing_of_a_Palestinian_State._I_%28FL45989753%29.jpg",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "creator": "IPPA photographer",
+      "provider": "National Library of Israel via Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.html",
+      "usedBy": [
+        "democracy_social_media_platforms_covid_conspiracy_beliefs_summary_he.html"
+      ],
+      "cardTitleHe": "האם הפלטפורמה משנה? שימוש ברשתות חברתיות ואמונה בקונספירציות קורונה ב־17 מדינות",
+      "authorsHe": "Yannis Theocharis; Ana Cardenal; Soyeon Jin; Toril Aalberg; David Nicolas Hopmann; Jesper Strömbäck; Laia Castro; Frank Esser; Peter Van Aelst; Claes de Vreese; Nicoleta Corbu; Karolina Koc-Michalska; Jörg Matthes; Christian Schemer; Tamir Sheafer; Sergio Splendore; James Stanyer; Agnieszka Stępińska; Václav Štětka",
+      "visualDescriptionHe": "צוות מחקר משווה כרטיסי סקר, ארבעה טלפונים בדפוסי מידע שונים ומפת מדינות מסומנת.",
+      "semanticDescriptionHe": "ארבעת המסכים הלא־ממותגים, הסקרים והמפה ממחישים את ההשוואה בין פלטפורמות ובין מדינות בלי להציג ממשק אמיתי או טענה קונספירטיבית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "social_media",
+        "COVID_19",
+        "conspiracy_beliefs",
+        "platform_affordances",
+        "cross_national_panel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated media-research scene with fictional researchers, abstract unlabeled device screens, and no brands, readable text, flags, or watermarks. High fitness because it directly visualizes the study’s platform and cross-country comparison.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_incidental_news_exposure_political_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_incidental_news_exposure_political_participation_summary_he.html",
+      "usedBy": [
+        "democracy_incidental_news_exposure_political_participation_summary_he.html"
+      ],
+      "cardTitleHe": "להיתקל בחדשות או להתעכב עליהן? חשיפה מקרית והשתתפות פוליטית ב־17 מדינות",
+      "authorsHe": "Jörg Matthes; Alon Zoizner; Andreas Nanz; David Nicolas Hopmann; Yannis Theocharis; Selina Noetzel",
+      "visualDescriptionHe": "נוסעים ממתינים ברציף רכבת בבריסביין ומעיינים בטלפונים חכמים במהלך שגרת היום.",
+      "semanticDescriptionHe": "השימוש בטלפונים בתוך מעבר יומיומי ממחיש מצב שבו תוכן חדשותי עשוי להופיע ללא חיפוש מכוון, אך התצלום אינו מזהה מה מוצג במסכים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "incidental_news_exposure",
+        "smartphones",
+        "political_participation",
+        "public_transport"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 derivative of John Robert McPherson’s CC BY-SA 4.0 photograph of commuters using smartphones at Roma Street station. Standard fitness because it precisely depicts incidental mobile use but not the study’s political-news content or participation outcomes.",
+      "createdDate": "2026-07-27",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Commuters_read_smartphones_Platform_9_Roma_Street_Railway_Station_Brisbane_P1360446.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Commuters_read_smartphones_Platform_9_Roma_Street_Railway_Station_Brisbane_P1360446.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "John Robert McPherson",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_local_context_lgbt_morality_policy_opinion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_local_context_lgbt_morality_policy_opinion_summary_he.html",
+      "usedBy": [
+        "democracy_local_context_lgbt_morality_policy_opinion_summary_he.html"
+      ],
+      "cardTitleHe": "לא רק דתיות ואידאולוגיה: ההקשר המקומי ותמיכה במדיניות להט״ב",
+      "authorsHe": "Aliza Forman-Rabinovici; Itai Beeri",
+      "visualDescriptionHe": "תושבים דתיים ולא־דתיים, ובהם זוג מאותו מין, משווים כרטיסי מדיניות במפגש קהילתי עירוני.",
+      "semanticDescriptionHe": "הרכב הקבוצה והחדר המקומי ממחישים כיצד סביבת המגורים עשויה לשנות את הקשר בין דתיות, אידאולוגיה ותמיכה בזכויות להט״ב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "LGBT_rights",
+        "morality_policy",
+        "local_context",
+        "religiosity",
+        "political_ideology"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated municipal-deliberation scene with fictional participants, plain policy cards, and no slogans, logos, flags, or watermarks. High fitness because it directly joins local context, social diversity, and LGBT-rights policy discussion.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_government_communications_symbols_undue_trust_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_government_communications_symbols_undue_trust_summary_he.html",
+      "usedBy": [
+        "democracy_government_communications_symbols_undue_trust_summary_he.html"
+      ],
+      "cardTitleHe": "כשהסמל גובר על התוכן: כיצד תקשורת ממשלתית עלולה לעורר אמון לא מוצדק",
+      "authorsHe": "Saar Alon-Barkat",
+      "visualDescriptionHe": "אזרחים משווים לוח סביבתי מלוטש וצבעוני ללוח נתונים ענייני, בזמן שחוקרת מודדת את זמן העיון.",
+      "semanticDescriptionHe": "הניגוד בין עיצוב מושך לבין מידע מפורט והמדידה הניסויית ממחישים את השאלה אם סמלים מפחיתים עיבוד ביקורתי ומגבירים אמון.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "government_communications",
+        "symbols",
+        "public_trust",
+        "survey_experiment",
+        "elaboration"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated communication-experiment scene with fictional participants and materials, abstract unlabeled charts, and no real government logos, flags, or watermarks. High fitness because it directly contrasts symbolic polish with substantive information and shows measurement of scrutiny.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_parasocial_relationships_israel_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_parasocial_relationships_israel_elections_summary_he.html",
+      "usedBy": [
+        "democracy_political_parasocial_relationships_israel_elections_summary_he.html"
+      ],
+      "cardTitleHe": "הקשר החד־צדדי עם המועמד: יחסים פארא־חברתיים והצבעה בבחירות 2019 בישראל",
+      "authorsHe": "Yariv Tsfati; Jonathan Cohen; Shira Dvir-Gvirsman; Keren Tsuriel; Israel Waismel-Manor; R. Lance Holbert",
+      "visualDescriptionHe": "בוחרת עומדת מול חברי ועדת קלפי בישראל בבחירות לכנסת באפריל 2019.",
+      "semanticDescriptionHe": "הקלפי מתעד את התוצאה ההתנהגותית שבחן המחקר — בחירה מפלגתית — אך אינו מציג את תחושת הקשר הפארא־חברתי עם נתניהו או גנץ.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "political_parasocial_relationship",
+        "Israel_elections_2019",
+        "voting",
+        "party_loyalty"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Rakoon’s CC0 photograph of an Israeli polling station on 9 April 2019. Standard fitness because it documents the exact electoral context while not visualizing the study’s relational mechanism.",
+      "createdDate": "2026-07-27",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20190409_091600_Polling_station_in_Israel_(cropped).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/20190409_091600_Polling_station_in_Israel_%28cropped%29.jpg",
+      "license": "Creative Commons CC0 1.0 Universal public-domain dedication",
+      "creator": "Rakoon",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_jewish_israeli_youth_facebook_political_expression_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_jewish_israeli_youth_facebook_political_expression_summary_he.html",
+      "usedBy": [
+        "democracy_jewish_israeli_youth_facebook_political_expression_summary_he.html"
+      ],
+      "cardTitleHe": "לדבר פוליטיקה מול קהלים מתנגשים: צעירים יהודים־ישראלים בפייסבוק",
+      "authorsHe": "Yifat Mor; Neta Kligler-Vilenchik; Ifat Maoz",
+      "visualDescriptionHe": "סטודנטיות וסטודנטים צעירים יושבים סביב מחשבים וטלפונים ומנהלים דיון שקול בחדר משותף בקמפוס.",
+      "semanticDescriptionHe": "הדיון בין צעירים סביב מסכים ממחיש ביטוי פוליטי, מודעות לקהלים וניהול רושם במרחב דיגיטלי, בלי להציג ממשק פייסבוק או תוכן מפלגתי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "Jewish_Israeli_youth",
+        "Facebook",
+        "political_expression",
+        "context_collapse",
+        "conflict"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated civic-documentary scene of university-age young adults discussing around laptops and phones, with blank-looking screens and no logos, flags, text, UI, or watermarks. High fitness because it closely matches the study population and its dilemmas of digital political expression and overlapping audiences.",
+      "createdDate": "2026-07-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
