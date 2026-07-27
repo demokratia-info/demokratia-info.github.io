@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27",
+  "lastUpdated": "2026-07-28",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -29017,6 +29017,302 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-27 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_trust_distrust_public_governance_regulatory_relations_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_trust_distrust_public_governance_regulatory_relations_summary_he.html",
+      "usedBy": [
+        "democracy_trust_distrust_public_governance_regulatory_relations_summary_he.html"
+      ],
+      "cardTitleHe": "אפשר לסמוך וגם לחשוד: אמון ואי־אמון ברשויות רגולציה",
+      "authorsHe": "Koen Verhoest; Dominika Latusek; Frédérique Six; Libby Maman; Yannis Papadopoulos; Rahel M. Schomaker; Jarle Trondal",
+      "visualDescriptionHe": "רגולטורים ונציגי גופים מפוקחים יושבים סביב שולחן עגול, משווים אותם תרשימים ומנהלים שיחה זהירה ופתוחה.",
+      "semanticDescriptionHe": "המפגש המאוזן, חומרי הבדיקה המשותפים ושפת הגוף הזהירה ממחישים את האפשרות שאמון ואי־אמון יפעלו במקביל ביחסי רגולציה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "regulation",
+        "public_governance",
+        "trust",
+        "distrust",
+        "regulatory_relations"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated regulatory-meeting scene with fictional participants, shared abstract charts, and no logos, flags, readable text, or watermarks. High fitness because it directly depicts reciprocal scrutiny and cautious cooperation in a regulatory relationship.",
+      "createdDate": "2026-07-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-28 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_administrative_burden_waiting_communication_errors_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_administrative_burden_waiting_communication_errors_summary_he.html",
+      "usedBy": [
+        "democracy_administrative_burden_waiting_communication_errors_summary_he.html"
+      ],
+      "cardTitleHe": "כשהזכות נתקעת בתור: המתנה, כשלים בתקשורת וטעויות מינהליות",
+      "authorsHe": "Roni Holler; Noam Tarshish",
+      "visualDescriptionHe": "תושבים בגילים שונים ממתינים בתור מתפתל במשרד שירות ציבורי, מול שעון, מנפק תורים ודלפקי טיפול.",
+      "semanticDescriptionHe": "ההמתנה, התיק שבידי אחד התושבים והמעבר האיטי בין התור לדלפק ממחישים כיצד זמן, תקשורת ושיבושים קטנים מצטברים לנטל מינהלי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "administrative_burden",
+        "waiting",
+        "communication_breakdowns",
+        "administrative_errors",
+        "citizen_state_encounters"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated public-service waiting-room scene with fictional residents, blank notices, and no logos, flags, readable text, or watermarks. High fitness because it closely combines waiting, paperwork, service handoffs, and unequal demands on residents.",
+      "createdDate": "2026-07-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-28 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_disability_tort_litigation_judicial_discourse_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_disability_tort_litigation_judicial_discourse_summary_he.html",
+      "usedBy": [
+        "democracy_disability_tort_litigation_judicial_discourse_summary_he.html"
+      ],
+      "cardTitleHe": "שיח זכויות המוגבלות התרחב, אך בתי המשפט נשארו רפואיים בעיקרם",
+      "authorsHe": "Sagit Mor; Rina B. Pikkel; Havi Inbar Lankry",
+      "visualDescriptionHe": "משתמשת בכיסא גלגלים מובילה שיחה עם עורך דין על תיק משפטי במסדרון בית משפט נגיש.",
+      "semanticDescriptionHe": "הסוכנות של בעלת הדין, ההקשבה המשפטית והרמפה הגלויה מחברים בין התדיינות נזיקית לבין מעבר ממסגור רפואי לשיח זכויות ונגישות.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "disability",
+        "tort_litigation",
+        "judicial_discourse",
+        "accessibility"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated courthouse scene with fictional participants, an accessible route, blank papers, and no text, logos, flags, or watermarks. High fitness because it directly joins disability agency, legal representation, accessibility, and tort adjudication.",
+      "createdDate": "2026-07-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-28 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_just_distribution_land_use_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_just_distribution_land_use_rights_summary_he.html",
+      "usedBy": [
+        "democracy_just_distribution_land_use_rights_summary_he.html"
+      ],
+      "cardTitleHe": "מי יקבל זכויות בנייה? מכרזים, שקיפות ושוויון בתכנון המקומי",
+      "authorsHe": "Ronit Levine-Schnur; Avigail Ferdman",
+      "visualDescriptionHe": "ועדת תכנון משווה בפומבי שני דגמי שכונה, שכבות מפה וכרטיסי הערכה זהים בנוכחות מציעים שונים.",
+      "semanticDescriptionHe": "החלופות המקבילות, כללי ההשוואה הגלויים והרכב המשתתפים ממחישים את הצעת המאמר לתחרות שקופה תוך תשומת לב לפערי משאבים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "land_use_rights",
+        "urban_planning",
+        "public_tender",
+        "equality_of_resources"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated planning-committee scene with fictional participants, two distinct models, abstract map overlays, and no text, logos, flags, or watermarks. High fitness because it directly visualizes transparent comparison of competing land-use proposals and unequal starting positions.",
+      "createdDate": "2026-07-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-28 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_live_in_elder_care_dependency_power_value_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_live_in_elder_care_dependency_power_value_summary_he.html",
+      "usedBy": [
+        "democracy_live_in_elder_care_dependency_power_value_summary_he.html"
+      ],
+      "cardTitleHe": "מי תלוי במי? כוח, ערך ושכר בטיפול הסיעודי הביתי בישראל",
+      "authorsHe": "Shiri Regev-Messalem",
+      "visualDescriptionHe": "מטפלת ואישה מבוגרת יושבות בגובה שווה ליד שולחן ביתי ומסדרות יחד תרופות ותצלומים.",
+      "semanticDescriptionHe": "המשימה המשותפת והעמדה השווה של שתי הנשים ממחישות עבודה יומיומית, קרבה ותלות הדדית בלי למחוק את יחסי ההעסקה והכוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "live_in_elder_care",
+        "care_work",
+        "migrant_workers",
+        "interdependence",
+        "wages"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated domestic-care scene with fictional participants, indistinct photographs and labels, and no logos, flags, readable text, or watermarks. High fitness because it directly depicts live-in elder care as skilled labor embedded in mutual dependence.",
+      "createdDate": "2026-07-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-28 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_governance_policy_making_israel_capability_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_governance_policy_making_israel_capability_summary_he.html",
+      "usedBy": [
+        "democracy_governance_policy_making_israel_capability_summary_he.html"
+      ],
+      "cardTitleHe": "פער המשילות בישראל: אתגרים מורכבים מול יכולת מוגבלת לעצב וליישם מדיניות",
+      "authorsHe": "Shlomo Mizrahi",
+      "visualDescriptionHe": "ישיבת ממשלת ישראל סביב שולחן ארוך במנהרות הכותל בירושלים ב־21 במאי 2023.",
+      "semanticDescriptionHe": "דיון של הרשות המבצעת בישראל ממחיש את הזירה שבה נקבעים סדרי עדיפויות ומתקבלות החלטות מדיניות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "Israel_government",
+        "governance",
+        "policy_making",
+        "state_capacity"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 full-frame derivative of אורי פרקש’s CC BY-SA 4.0 cabinet-meeting photograph. Standard fitness because it documents the Israeli executive decision-making arena but not the article’s institutional-capacity mismatch or 2006 work-plan reform; the small flag cluster is secondary and nameplates are not legible at delivery size.",
+      "createdDate": "2026-07-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jerusalem_day_cabinet_meeting.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jerusalem_day_cabinet_meeting.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "אורי פרקש",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_border_justice_migration_human_rights_accountability_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_border_justice_migration_human_rights_accountability_summary_he.html",
+      "usedBy": [
+        "democracy_border_justice_migration_human_rights_accountability_summary_he.html"
+      ],
+      "cardTitleHe": "כשהגבול מתרחק מן הדין: הגירה ואחריות להפרות זכויות אדם",
+      "authorsHe": "Cathryn Costello; Itamar Mann",
+      "visualDescriptionHe": "גדרות גבול ומגדל שמירה כחול בגבול ספרד–מרוקו ליד מלייה, עם שטח עפר בחזית ומבנים מעבר לגדר.",
+      "semanticDescriptionHe": "תשתית גבול חומרית ממחישה כיצד שליטה בהגירה ואחריות משפטית מופעלות במרחב מעבר בין מדינות.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "migration",
+        "border_control",
+        "human_rights",
+        "accountability",
+        "externalization"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 full-frame derivative of Acad Ronin’s CC BY-SA 3.0 photograph of the Melilla border fence and guardpost. Standard fitness because it directly depicts a migration-control boundary while not visualizing the article’s four accountability gaps or legal response strategies.",
+      "createdDate": "2026-07-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Melilla_border_fence_with_guardpost.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Melilla_border_fence_with_guardpost.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "creator": "Acad Ronin",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_jerusalem_takings_property_rights_infrastructure_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_jerusalem_takings_property_rights_infrastructure_summary_he.html",
+      "usedBy": [
+        "democracy_jerusalem_takings_property_rights_infrastructure_summary_he.html"
+      ],
+      "cardTitleHe": "מי נושא בנטל ההפקעות בירושלים, ומי נהנה מן התשתיות?",
+      "authorsHe": "Ronit Levine-Schnur",
+      "visualDescriptionHe": "הרכבת הקלה נוסעת בשועפאט בירושלים בין כביש, עמודי תשתית ובתי מגורים.",
+      "semanticDescriptionHe": "תשתית תחבורה בשכונה ירושלמית ממחישה את המפגש בין פיתוח ציבורי, שימוש בקרקע וזכויות קניין.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "Jerusalem",
+        "Shuafat",
+        "light_rail",
+        "infrastructure",
+        "property_rights",
+        "takings"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of MitigationMeasure’s CC BY-SA 3.0 photograph of Jerusalem’s light rail in Shuafat. Standard fitness because it precisely documents infrastructure and land use in the study city while not displaying the paper’s measured distribution of takings and local benefits.",
+      "createdDate": "2026-07-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LghtRailShuafat2.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LghtRailShuafat2.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "creator": "MitigationMeasure",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_state_of_care_familial_care_welfare_markets_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_state_of_care_familial_care_welfare_markets_summary_he.html",
+      "usedBy": [
+        "democracy_state_of_care_familial_care_welfare_markets_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמדינה קונה טיפול דרך השוק: מי משתחרר מעבודת המשפחה ומי נושא במחיר?",
+      "authorsHe": "Hila Shamir",
+      "visualDescriptionHe": "אישה מבוגרת שהיא המטפלת העיקרית בנכדה מחזיקה ילד צעיר מחייך בחיקה בתוך חדר.",
+      "semanticDescriptionHe": "דיוקן בין־דורי של מטפלת משפחתית וילד ממחיש טיפול יומיומי המתקיים בתוך המשפחה, לפני חלוקתו מחדש בין המדינה לשוק.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "familial_care",
+        "childcare",
+        "caregiver",
+        "welfare_state",
+        "care_markets"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of AnikaMeyer’s CC BY-SA 4.0 own-work photograph of a grandmother identified on Commons as her grandson’s primary caregiver. Standard fitness because it directly depicts family care but not the article’s comparative childcare and elder-care policy mechanisms; incidental garment lettering is not a focal logo or sign.",
+      "createdDate": "2026-07-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_woman_and_her_grandson_with_a_developmental_disability.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/A_woman_and_her_grandson_with_a_developmental_disability.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "AnikaMeyer",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_maritime_legal_black_holes_migration_rightlessness_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_maritime_legal_black_holes_migration_rightlessness_summary_he.html",
+      "usedBy": [
+        "democracy_maritime_legal_black_holes_migration_rightlessness_summary_he.html"
+      ],
+      "cardTitleHe": "כשאין כתובת להצלה: הגירה, מוות בים והחורים השחורים של המשפט",
+      "authorsHe": "Itamar Mann",
+      "visualDescriptionHe": "סירה מלטזית מסורתית קטנה נראית לבדה על פני הים מול ולטה, מלטה.",
+      "semanticDescriptionHe": "סירה בודדת במרחב ימי רחב ממחישה את המרחק בין גבולות ריבוניים גלויים לבין אחריות משפטית על אנשים בים.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "maritime_migration",
+        "Mediterranean",
+        "rescue_at_sea",
+        "legal_black_holes",
+        "rightlessness"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Nirvana Azzopardi 12’s CC BY-SA 4.0 photograph of a small traditional Maltese boat at sea. Standard fitness because the isolated vessel evokes maritime distance and dispersed responsibility without documenting migration, rescue, or a legal jurisdiction.",
+      "createdDate": "2026-07-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_small_boat_out_at_sea.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/A_small_boat_out_at_sea.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "Nirvana Azzopardi 12",
+      "provider": "Wikimedia Commons"
     }
   ],
   "topicGraphics": [
