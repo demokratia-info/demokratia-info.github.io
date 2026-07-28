@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -29312,6 +29312,296 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/A_small_boat_out_at_sea.jpg",
       "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
       "creator": "Nirvana Azzopardi 12",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_social_rights_human_rights_housing_dependency_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_rights_human_rights_housing_dependency_summary_he.html",
+      "usedBy": [
+        "democracy_social_rights_human_rights_housing_dependency_summary_he.html"
+      ],
+      "cardTitleHe": "כשזכות לדיור נשמטת: מאזרחות חברתית לפגיעה בזכויות אדם",
+      "authorsHe": "Einat Lavee; Orly Benjamin",
+      "visualDescriptionHe": "אישה מחזיקה תיק מסמכים ומפתח ליד דלת דירה פתוחה, ומסמכי שכירות ריקים מונחים על השולחן.",
+      "semanticDescriptionHe": "הדלת, המפתח והמסמכים ממקמים את האישה ברגע של חוסר ביטחון בדיור ושל אפשרויות מצטמצמות, בלי לתאר את הפגיעה שנידונה במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "social_rights",
+        "housing_insecurity",
+        "excluded_citizenship",
+        "human_rights",
+        "poverty"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated apartment-entry scene with a fictional adult, blank documents, and no logos, flags, readable text, or watermarks. High fitness because it directly depicts the housing dependency at the center of the article while avoiding sensational treatment of sexual coercion.",
+      "createdDate": "2026-07-29",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-29 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_women_penalized_product_markets_uncertainty_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_women_penalized_product_markets_uncertainty_summary_he.html",
+      "usedBy": [
+        "democracy_women_penalized_product_markets_uncertainty_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמוכרת אינה ״מתאימה״ למוצר: מגדר, מחיר ואי־ודאות בשוק המקוון",
+      "authorsHe": "Tamar Kricheli-Katz; Tali Regev; Shelley J. Correll",
+      "visualDescriptionHe": "אישה וגבר אורזים מוצרים זהים בעמדות מכירה מקוונות מקבילות, מול מצלמות ומסכים מטושטשים.",
+      "semanticDescriptionHe": "המשימות והמוצרים הזהים לצד התאורה השונה ממחישים כיצד זהות המוכר ואי־ודאות עשויות להשפיע על הערכת אותה עסקה.",
+      "tags": [
+        "rights-equality-minorities",
+        "product_markets",
+        "gender_penalty",
+        "online_selling",
+        "uncertainty",
+        "stereotypes"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated online-selling scene with fictional sellers, identical neutral products, blank interface blocks, and no logos, flags, readable text, prices, or watermarks. High fitness because it directly visualizes the controlled comparison between seller gender, product, and market uncertainty.",
+      "createdDate": "2026-07-29",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-29 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_weddings_outside_rabbinate_social_legal_legitimacy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_weddings_outside_rabbinate_social_legal_legitimacy_summary_he.html",
+      "usedBy": [
+        "democracy_weddings_outside_rabbinate_social_legal_legitimacy_summary_he.html"
+      ],
+      "cardTitleHe": "נישואים מחוץ לרבנות: כיצד מסורת וזכויות של ידועים בציבור יוצרות לגיטימציה",
+      "authorsHe": "Ruth Halperin-Kaddari; Elisheva Rosman; Ofira Fuchs",
+      "visualDescriptionHe": "זוג וחברים יושבים סביב שולחן טקס בגן, ובחזית מונחים שתי טבעות ותיק מסמכים ריק.",
+      "semanticDescriptionHe": "הטקס האינטימי, נוכחות החברים והמסמך הריק מחברים בין הכרה חברתית, בחירה אישית והיעדר רישום פורמלי.",
+      "tags": [
+        "rights-equality-minorities",
+        "weddings",
+        "rabbinate",
+        "social_legitimacy",
+        "legal_recognition",
+        "civil_partnership"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated outdoor-wedding scene with fictional adults, blank documents, and no religious emblems, state symbols, logos, readable text, or watermarks. High fitness because it directly depicts a socially recognized ceremony organized outside an official religious institution.",
+      "createdDate": "2026-07-29",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-29 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_second_chance_higher_education_maintained_inequality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_second_chance_higher_education_maintained_inequality_summary_he.html",
+      "usedBy": [
+        "democracy_second_chance_higher_education_maintained_inequality_summary_he.html"
+      ],
+      "cardTitleHe": "מסלולי הזדמנות שנייה להשכלה גבוהה: כיצד חלופה שוויונית עלולה להעמיק אי־שוויון אתני",
+      "authorsHe": "Eyal Bar-Haim; Carmel Blank",
+      "visualDescriptionHe": "צעירים הנושאים ציוד ומשאבים שונים עוברים דרך שער פתוח אל קמפוס אבן מודרני.",
+      "semanticDescriptionHe": "השער המשותף לצד נקודות הפתיחה השונות ממחישים כיצד גישה פורמלית זהה יכולה להניב יכולת לא שווה לנצל מסלול הזדמנות שנייה.",
+      "tags": [
+        "rights-equality-minorities",
+        "higher_education",
+        "second_chance",
+        "ethnic_inequality",
+        "access",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 generated campus-gateway scene with fictional students, blank map details, and no logos, flags, readable text, or watermarks. High fitness because it directly illustrates a common formal entrance approached with unequal resources.",
+      "createdDate": "2026-07-29",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-29 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_neighborhood_social_capital_ethnic_inequality_ipv_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_neighborhood_social_capital_ethnic_inequality_ipv_summary_he.html",
+      "usedBy": [
+        "democracy_neighborhood_social_capital_ethnic_inequality_ipv_summary_he.html"
+      ],
+      "cardTitleHe": "שכונה, תמיכה ואי־שוויון באלימות בין בני זוג",
+      "authorsHe": "Nihaya Daoud; Ruslan Sergienko; Patricia O’Campo; Ilana Shoham-Vardi",
+      "visualDescriptionHe": "אישה ועובדת בריאות קהילתית משוחחות בפרטיות ליד חלון הפונה לשכונת מגורים, ואישה נוספת ממתינה ברקע.",
+      "semanticDescriptionHe": "המפגש המכבד, ההקשבה והקשר לשכונה מדגישים תמיכה חברתית וקשרים פעילים בלי להמחיש אלימות באופן פוגעני.",
+      "tags": [
+        "rights-equality-minorities",
+        "intimate_partner_violence",
+        "neighborhood",
+        "social_capital",
+        "social_support",
+        "Arab_Jewish_inequality"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 800x600 trauma-informed generated community-health scene with fictional adults, blank papers, and no depiction of violence, logos, flags, readable text, or watermarks. High fitness because it directly joins private support, active social ties, and neighborhood context.",
+      "createdDate": "2026-07-29",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-29 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_gender_inequalities_markets_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gender_inequalities_markets_law_summary_he.html",
+      "usedBy": [
+        "democracy_gender_inequalities_markets_law_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון מגדרי בשווקים: בין סטריאוטיפים, אינטראקציות ומשפט",
+      "authorsHe": "Tamar Kricheli-Katz",
+      "visualDescriptionHe": "מוכרת בדוכן מזון בשוק בדנפסאר שבבאלי אוחזת בסכין קצבים ומטפלת בעופות המוצגים על משטח העבודה.",
+      "semanticDescriptionHe": "תצלום תיעודי של אישה העובדת כמוכרת בשוק ממחיש השתתפות נשים במסחר ובשוקי עבודה ומוצרים; הוא אינו מתעד את המדדים, המנגנונים או ההשוואות שסוקר המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "gender_inequality",
+        "markets",
+        "woman_vendor",
+        "market_work",
+        "Bali"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Graham Crumb’s CC BY-SA 3.0 market-vendor photograph. Standard fitness because it directly documents a woman’s market work but depicts one Indonesian occupation and not the review’s measured gender inequalities, legal mechanisms, or geographic focus.",
+      "createdDate": "2026-07-29",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Market_Vendor_(Imagicity_1241).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Market_Vendor_%28Imagicity_1241%29.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "creator": "Graham Crumb / imagicity.com",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_gender_price_gap_online_product_markets_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gender_price_gap_online_product_markets_summary_he.html",
+      "usedBy": [
+        "democracy_gender_price_gap_online_product_markets_summary_he.html"
+      ],
+      "cardTitleHe": "אותו מוצר, מחיר נמוך יותר: הפער המגדרי במכרזי eBay",
+      "authorsHe": "Tamar Kricheli-Katz; Tali Regev",
+      "visualDescriptionHe": "שני עובדים בחלוקי עבודה ממיינים חבילות על מסוע במחלקת ההפצה של חנות כלבו בסטוקהולם, בתצלום משנת 1954.",
+      "semanticDescriptionHe": "סצנת מיון החבילות מספקת הקשר חזותי ניטרלי לשווקי מוצרים ולמסחר מרחוק; היא אינה מציגה את eBay, את זהות המוכרות והמוכרים, את התמחור או את הפער המגדרי שנמדד במחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "product_markets",
+        "parcels",
+        "distribution",
+        "remote_commerce",
+        "Stockholm"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Erik Holmén’s CC BY-SA 4.0 photograph from Nordiska museet. Standard fitness because parcel distribution is a contextual bridge to product markets, while the historical scene predates online commerce and does not show the study platform, sellers, prices, or gender gap; small historic parcel marks are incidental.",
+      "createdDate": "2026-07-29",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paketbana_i_varudistributionen_p%C3%A5_varuhuset_Nordiska_Kompaniet_NMA.0099957.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Paketbana_i_varudistributionen_p%C3%A5_varuhuset_Nordiska_Kompaniet_NMA.0099957.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "Erik Holmén",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_home_care_workers_rights_abuse_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_home_care_workers_rights_abuse_summary_he.html",
+      "usedBy": [
+        "democracy_home_care_workers_rights_abuse_summary_he.html"
+      ],
+      "cardTitleHe": "טיפול בבית בלי הגנה מספקת: זכויות עובדות ועובדי הסיעוד",
+      "authorsHe": "Ohad Green; Liat Ayalon",
+      "visualDescriptionHe": "עובדת סיוע ביתי עירונית מכינה ארוחת בוקר ליד תנור עצים במטבח ביתי באלימקי שבפינלנד, בתצלום משנת 1963.",
+      "semanticDescriptionHe": "התיעוד של עבודת סיוע בתוך בית פרטי ממקם את הדיון בזכויות עובדות ועובדי טיפול ביתי; התצלום אינו מציג מטפלת מהגרת, מטופל או מטופלת מבוגרים, הפרת זכויות או התעללות.",
+      "tags": [
+        "rights-equality-minorities",
+        "home_care",
+        "home_aid",
+        "care_work",
+        "workers_rights",
+        "Finland"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop and JPEG derivative of Erkki Voutilainen’s CC BY 4.0 Finnish Heritage Agency photograph. Standard fitness because it authentically centers home-aid work, but it is historical and Finnish and does not depict the Israeli migrant/local comparison, a care recipient, rights violations, or abuse.",
+      "createdDate": "2026-07-29",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Home_aid_at_work_in_Elim%C3%A4ki_(JOKAMT2Kot04-1).tif",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Home_aid_at_work_in_Elim%C3%A4ki_%28JOKAMT2Kot04-1%29.tif",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "creator": "Erkki Voutilainen",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_ideology_asylum_policy_threat_israel_australia_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ideology_asylum_policy_threat_israel_australia_summary_he.html",
+      "usedBy": [
+        "democracy_ideology_asylum_policy_threat_israel_australia_summary_he.html"
+      ],
+      "cardTitleHe": "מאוימים או מאיימים? אידאולוגיה, איום ומדיניות מקלט",
+      "authorsHe": "Daphna Canetti; Keren L. G. Snider; Anne Pedersen; Brian J. Hall",
+      "visualDescriptionHe": "צעיר בעל שיער מתולתל ואוזניות מוחא כפיים לצד משתתפים נוספים בעצרת למען פליטים ומבקשי מקלט במלבורן.",
+      "semanticDescriptionHe": "עצרת ציבורית באוסטרליה למען פליטים ומבקשי מקלט מספקת הקשר אזרחי לדיון בעמדות כלפי מדיניות מקלט; היא אינה מציגה את משתתפי הסקרים, את ההשוואה לישראל או מדד של אידאולוגיה ואיום נתפס.",
+      "tags": [
+        "rights-equality-minorities",
+        "asylum_policy",
+        "refugees",
+        "public_opinion",
+        "civic_rally",
+        "Melbourne"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Matt Hrkac’s CC BY 2.0 photograph of a 2022 Refugee Action Collective Melbourne rally. Standard fitness because it precisely documents an Australian refugee-policy civic setting but not the opinion studies, their respondents, or the Israel–Australia comparison; the crop contains no readable placard text.",
+      "createdDate": "2026-07-29",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rally_Free_the_refugees_-_permanent_visas_now_(51919019771).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rally_Free_the_refugees_-_permanent_visas_now_%2851919019771%29.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "creator": "Matt Hrkac",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_arab_jewish_life_expectancy_gap_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_jewish_life_expectancy_gap_summary_he.html",
+      "usedBy": [
+        "democracy_arab_jewish_life_expectancy_gap_summary_he.html"
+      ],
+      "cardTitleHe": "פער תוחלת החיים הערבי־יהודי עבר מילדות לגילים מבוגרים — אך לא נעלם",
+      "authorsHe": "Ameed M. Saabneh",
+      "visualDescriptionHe": "איש צוות רפואי בודק ילד בעזרת סטטוסקופ ליד מרפאה ניידת בישראל, ואשת צוות רפואי עומדת מאחור, בתצלום שחור־לבן מן השנים 1950–1955.",
+      "semanticDescriptionHe": "תצלום היסטורי של שירות בריאות נייד ליישובי עולים בישראל ממחיש נגישות לשירותי בריאות בקהילה; הוא אינו מציג ערבים ויהודים כקבוצות השוואה, פער בתוחלת חיים או את תקופת המחקר 1975–2012.",
+      "tags": [
+        "rights-equality-minorities",
+        "public_health",
+        "mobile_clinic",
+        "healthcare_access",
+        "Israel",
+        "historical"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a public-domain PikiWiki Israel photograph credited to an unknown photographer. Standard fitness only: it documents historic Israeli community-health outreach but does not depict the compared Arab and Jewish groups, a life-expectancy outcome, the decomposed causes, or the paper’s 1975–2012 period; the faint vehicle word and Star of David are incidental historic markings.",
+      "createdDate": "2026-07-29",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_51218_mobile_clinic_in_immigrant_communities.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/PikiWiki_Israel_51218_mobile_clinic_in_immigrant_communities.jpg",
+      "license": "Public domain",
+      "creator": "Unknown photographer; Israel Internet Association / PikiWiki Israel",
       "provider": "Wikimedia Commons"
     }
   ],
