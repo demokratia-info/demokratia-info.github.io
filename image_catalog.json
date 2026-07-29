@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-29",
+  "lastUpdated": "2026-07-30",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -29602,6 +29602,296 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/PikiWiki_Israel_51218_mobile_clinic_in_immigrant_communities.jpg",
       "license": "Public domain",
       "creator": "Unknown photographer; Israel Internet Association / PikiWiki Israel",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_womens_schooling_fertility_mobility_restrictions_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_womens_schooling_fertility_mobility_restrictions_israel_summary_he.html",
+      "usedBy": [
+        "democracy_womens_schooling_fertility_mobility_restrictions_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הסרת מגבלות התנועה הרחיבה את לימודי הנשים הערביות וצמצמה את הפריון",
+      "authorsHe": "Victor Lavy; Alexander Zablotsky",
+      "visualDescriptionHe": "ארבע תלמידות ערביות כותבות במחברות בכיתה פתוחה אל דרך העוברת בין בתי אבן.",
+      "semanticDescriptionHe": "האיור מחבר בין לימודי נשים לבין אפשרות ההגעה לבית הספר; הוא אינו תיעוד של משתתפות המחקר, תקופת הממשל הצבאי או האומדנים הסיבתיים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_education",
+        "mobility",
+        "Arab_citizens",
+        "school_access"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific warm editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the open classroom, students, and adjoining road directly express the paper’s education-and-mobility mechanism without text, logos, or a literal claim about the historical sample.",
+      "createdDate": "2026-07-30",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-30 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_arab_school_counselors_image_based_sexual_abuse_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_school_counselors_image_based_sexual_abuse_summary_he.html",
+      "usedBy": [
+        "democracy_arab_school_counselors_image_based_sexual_abuse_summary_he.html"
+      ],
+      "cardTitleHe": "יועצות ערביות בין הגנת נערות, חובת דיווח ופחד מאלימות משפחתית",
+      "authorsHe": "Michal Dolev-Cohen",
+      "visualDescriptionHe": "יועצת חינוכית משוחחת בפרטיות עם נערה ליד שולחן שעליו מונח טלפון חכם הפוך.",
+      "semanticDescriptionHe": "האיור ממקם את הדילמה במפגש תמיכה שקט בבית הספר ומרמז על ההקשר הדיגיטלי בלי להציג תוכן פוגעני; הוא אינו מתעד משתתפות במחקר או אירוע של פגיעה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "school_counselors",
+        "image_based_abuse",
+        "Arab_girls",
+        "digital_safety"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific warm editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the counselor–student conversation and face-down phone closely fit the study while preserving privacy and avoiding sensational or explicit content.",
+      "createdDate": "2026-07-30",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-30 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_disability_digital_divide_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_disability_digital_divide_israel_summary_he.html",
+      "usedBy": [
+        "democracy_disability_digital_divide_israel_summary_he.html"
+      ],
+      "cardTitleHe": "מוגבלות והפער הדיגיטלי בישראל: מי נשאר מחוץ לרשת?",
+      "authorsHe": "Sabina Lissitsa · Galit Madar",
+      "visualDescriptionHe": "גבר בכיסא גלגלים משתמש במחשב שולחני ובעזרי קלט בעזרת מדריכה במרכז קהילתי נגיש.",
+      "semanticDescriptionHe": "האיור מדגיש שגם ציוד נגיש וגם תמיכה אנושית משפיעים על שימוש דיגיטלי; הוא אינו מתעד משיב בסקר, מזהה קבוצה בישראל או מציג את שיעורי הפער שנמדדו.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "disability",
+        "digital_divide",
+        "accessibility",
+        "internet_use"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific warm editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because it centers an adult wheelchair user actively using accessible computing with support, without text, logos, or a claim that the scene is documentary.",
+      "createdDate": "2026-07-30",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-30 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_lgbtq_parent_families_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_lgbtq_parent_families_israel_summary_he.html",
+      "usedBy": [
+        "democracy_lgbtq_parent_families_israel_summary_he.html"
+      ],
+      "cardTitleHe": "בישראל הורות להט״בית מעניקה שייכות דרך מוסד שמציב בפניה חסמים",
+      "authorsHe": "גבע שנקמן, דורית סגל־אנגלצ׳ין ואורית טאובמן־בן־ארי",
+      "visualDescriptionHe": "שני אבות וילד מכינים יחד אוכל ומציירים סביב שולחן במטבח ביתי מואר.",
+      "semanticDescriptionHe": "האיור מציג חיי משפחה יומיומיים ושייכות הורית; הוא אינו מתעד משפחה שהשתתפה במחקרים ואינו מציג את החסמים המשפטיים והמוסדיים שנדונו בהם.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "LGBTQ_families",
+        "gay_fathers",
+        "parenthood",
+        "family_life"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific warm editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because it depicts an ordinary same-sex-parent household with warmth and specificity while avoiding symbols, slogans, flags, and claims of documentary identity.",
+      "createdDate": "2026-07-30",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-30 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_covid_trust_distancing_arab_jewish_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_trust_distancing_arab_jewish_israel_summary_he.html",
+      "usedBy": [
+        "democracy_covid_trust_distancing_arab_jewish_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אמון בהנחיות נקשר לריחוק פיזי בקרב יהודים, אך לא בקרב ערבים בישראל",
+      "authorsHe": "חנין שיבלי, דיאנה פלקין, לימור אהרונסון־דניאל, נדב דוידוביץ׳ וניהאיה דאוד",
+      "visualDescriptionHe": "אשת צוות בריאות במסכה מסבירה הנחיות לתושבים עטויי מסכות העומדים במרווחים מחוץ למבנה אבן.",
+      "semanticDescriptionHe": "האיור מחבר בין מסר ציבורי, אמון והתנהגות ריחוק בזמן מגפה; הוא אינו מתעד את המשיבים, מבחין חזותית בין ערבים ליהודים או מציג את הקשר הסטטיסטי שנמדד.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "COVID_19",
+        "public_trust",
+        "physical_distancing",
+        "health_guidance"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific warm editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the masked community briefing and visible spacing closely match the trust-and-distancing question while avoiding group stereotyping, text, and logos.",
+      "createdDate": "2026-07-30",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-30 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_ultra_orthodox_women_engineering_higher_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ultra_orthodox_women_engineering_higher_education_summary_he.html",
+      "usedBy": [
+        "democracy_ultra_orthodox_women_engineering_higher_education_summary_he.html"
+      ],
+      "cardTitleHe": "מסלול הנדסה לנשים חרדיות: תמיכות מעשיות לצד פערי הכנה",
+      "authorsHe": "Michael Naor; Gavriel David Pinto; Pini Davidov; Julie Benaroch; Adit Kivel",
+      "visualDescriptionHe": "סטודנטיות להנדסה מאוניברסיטת טנסי צופות באישה המדגימה רכיבים מיוצרים במעבדת הנדסה.",
+      "semanticDescriptionHe": "התצלום ממקם נשים בתוך סביבת לימודי הנדסה מעשית; הוא אינו מציג סטודנטיות חרדיות, את תוכנית תמורה, מוסד ישראלי או את התמיכות והפערים שנמדדו.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "women_engineers",
+        "higher_education",
+        "engineering_lab",
+        "STEM"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Oak Ridge National Laboratory’s CC BY 2.0 photograph. Standard fitness because it directly documents women learning about engineering components, but the U.S. participants are not Haredi or Israeli and the scene does not show the program’s preparatory, financial, or family supports; small incidental name badges and shirt marks remain.",
+      "createdDate": "2026-07-30",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Society_of_Women_Engineers_(17102737710).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Society_of_Women_Engineers_%2817102737710%29.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "creator": "Oak Ridge National Laboratory",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_critical_language_testing_multilingual_social_justice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_critical_language_testing_multilingual_social_justice_summary_he.html",
+      "usedBy": [
+        "democracy_critical_language_testing_multilingual_social_justice_summary_he.html"
+      ],
+      "cardTitleHe": "מבחני שפה ביקורתיים, רב־לשוניות וצדק חברתי",
+      "authorsHe": "Elana Shohamy",
+      "visualDescriptionHe": "ילדים בבית הספר הדו־לשוני יד ביד בירושלים משוחחים בכיתה עם מבקרת מבוגרת.",
+      "semanticDescriptionHe": "ההקשר הבית־ספרי הדו־לשוני ממחיש רב־לשוניות במערכת חינוך; התצלום אינו מציג מבחן שפה, מטלת הערכה, את נבחני המאמר או תוצאה של צדק חברתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "multilingual_education",
+        "bilingual_school",
+        "language_testing",
+        "Jerusalem"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Matty Stern’s CC BY 2.0 U.S. Embassy Tel Aviv photograph from a visit to Jerusalem’s Hand in Hand bilingual school. Standard fitness because the source context is specifically bilingual education, while the visible scene is a diplomatic classroom visit rather than test design or administration.",
+      "createdDate": "2026-07-30",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ambassador_Samantha_Power_Tours_Jerusalem_Hand_in_Hand_Bilingual_(24793921910).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ambassador_Samantha_Power_Tours_Jerusalem_Hand_in_Hand_Bilingual_%2824793921910%29.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "creator": "Matty Stern / U.S. Embassy Tel Aviv",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_intellectual_disability_supported_decision_making_crpd_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_intellectual_disability_supported_decision_making_crpd_summary_he.html",
+      "usedBy": [
+        "democracy_intellectual_disability_supported_decision_making_crpd_summary_he.html"
+      ],
+      "cardTitleHe": "מוגבלות שכלית וקבלת החלטות נתמכת: בין זכות משפטית למימוש יומיומי",
+      "authorsHe": "Shirli Werner",
+      "visualDescriptionHe": "נציגות ונציגים מארגוני אנשים עם מוגבלות באוקיינוס השקט מצטלמים יחד בהכשרת מנהיגות בפיג׳י, ובהם כמה משתמשי כיסאות גלגלים.",
+      "semanticDescriptionHe": "התצלום מציג אנשים עם מוגבלות כבעלי תפקיד ציבורי וכמשתתפים בהנהגה; הוא אינו מזהה מוגבלות שכלית, מתעד קבלת החלטות נתמכת או מציג יישום של אמנת ה־CRPD.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "disability_rights",
+        "self_advocacy",
+        "leadership_training",
+        "CRPD"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of an AusAID/DFAT CC BY 2.0 photograph of Pacific disability-organisation representatives at leadership training. Standard fitness because it respectfully centers adult disability leadership and participation, but the mixed group is not documented as having intellectual disabilities and the photograph is not a supported-decision session.",
+      "createdDate": "2026-07-30",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Representatives_from_Pacific_disability_organisations_gather_in_Nadi,_Fiji,_in_February_2012_for_leadership_training_frunded_through_Australia%27s_Pacific_Leadership_Program._Photo-_AusAID_(10716984683).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Representatives_from_Pacific_disability_organisations_gather_in_Nadi%2C_Fiji%2C_in_February_2012_for_leadership_training_frunded_through_Australia%27s_Pacific_Leadership_Program._Photo-_AusAID_%2810716984683%29.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "creator": "Australian Department of Foreign Affairs and Trade; photograph credited to AusAID",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_gendered_tech_aspirations_jewish_arab_students_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gendered_tech_aspirations_jewish_arab_students_summary_he.html",
+      "usedBy": [
+        "democracy_gendered_tech_aspirations_jewish_arab_students_summary_he.html"
+      ],
+      "cardTitleHe": "הפער המגדרי בשאיפות להייטק גדול יותר בבתי ספר עבריים — והזהות הטכנולוגית אינה מסבירה אותו",
+      "authorsHe": "ג׳ייסון באדג׳, מריה צ׳ארלס, יריב פניגר והללי פינסון",
+      "visualDescriptionHe": "תלמידות בבית הספר פֶני לבנות בבנגלדש יושבות בשורה מול מחשבים שולחניים במעבדת לימוד.",
+      "semanticDescriptionHe": "התצלום ממחיש נוכחות של נערות בחינוך למחשוב; הוא אינו מציג תלמידות ותלמידים בישראל, את ההשוואה היהודית־ערבית או שאיפות תעסוקתיות להייטק.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "girls_computing",
+        "technology_education",
+        "career_aspirations"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of A junaid alam khan’s public-domain photograph from the Feni Girls Cadet College computer laboratory in Bangladesh. Standard fitness because it directly depicts adolescent girls in computing education, but the older, soft source is not Israeli and does not depict the paper’s Jewish–Arab comparison or measured aspirations.",
+      "createdDate": "2026-07-30",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cadet_computer_lab.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cadet_computer_lab.JPG",
+      "license": "Public domain; released worldwide by the author",
+      "creator": "A junaid alam khan",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_national_health_authority_health_inequity_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_national_health_authority_health_inequity_israel_summary_he.html",
+      "usedBy": [
+        "democracy_national_health_authority_health_inequity_israel_summary_he.html"
+      ],
+      "cardTitleHe": "משרד בריאות יכול לצמצם אי־שוויון גם בלי לפתור לבדו את הפערים החברתיים",
+      "authorsHe": "טוביה חורב ושלומית אבני",
+      "visualDescriptionHe": "חברות וחברי ועדת הנשיא האמריקאי לבריאות הנפש יושבים סביב שולחן עבודה עם מסמכים ומיקרופונים בדיון בשיקגו ב־1977.",
+      "semanticDescriptionHe": "התצלום ממחיש תהליך מוסדי של גיבוש מדיניות בריאות לאומית; הוא אינו מציג את משרד הבריאות הישראלי, את תוכנית 2011–2014 או מדד של אי־שוויון בבריאות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "health_policy",
+        "national_commission",
+        "public_administration"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of a 1977 U.S. National Archives public-domain photograph of a presidential mental-health commission meeting. Standard fitness because it documents national health-policy deliberation and institutional capacity, but it is historical and American rather than the Israeli inequity program or its implementation.",
+      "createdDate": "2026-07-30",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rosalynn_Carter_chairs_a_meeting_in_Chicago,_IL._for_the_President%27s_Commission_on_Mental_Health._-_NARA_-_174466_(cropped).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosalynn_Carter_chairs_a_meeting_in_Chicago%2C_IL._for_the_President%27s_Commission_on_Mental_Health._-_NARA_-_174466_%28cropped%29.jpg",
+      "license": "Public domain; United States government work",
+      "creator": "Unknown photographer; U.S. National Archives and Records Administration",
       "provider": "Wikimedia Commons"
     }
   ],
