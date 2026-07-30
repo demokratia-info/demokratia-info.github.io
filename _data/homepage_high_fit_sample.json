@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "sampleSize": 6,
-  "seed": "2026-07-30-homepage-high-fit",
+  "seed": "2026-07-31-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 729,
+  "fullTextHighFitPaperCount": 734,
   "paperSlugs": [
     "democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he",
-    "democracy_perceived_fairness_residential_arnona_tax_israel_summary_he",
+    "democracy_the_politics_of_allyship_multiethnic_coalitions_and_mass_attitudes_toward_protest_summary_he",
     "democracy_israel_constitutional_moment_admin_law_summary_he",
     "democracy_backsliding_in_israel_mautner_summary_he",
-    "democracy_religion_ideology_governance_israel_political_landscape_summary_he",
+    "democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he",
     "democracy_motivated_reasoning_judicial_reform_polarization_summary_he"
   ]
 }

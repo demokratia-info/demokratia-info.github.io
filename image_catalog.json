@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -29892,6 +29892,296 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rosalynn_Carter_chairs_a_meeting_in_Chicago%2C_IL._for_the_President%27s_Commission_on_Mental_Health._-_NARA_-_174466_%28cropped%29.jpg",
       "license": "Public domain; United States government work",
       "creator": "Unknown photographer; U.S. National Archives and Records Administration",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_health_disparities_economic_burden_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_health_disparities_economic_burden_israel_summary_he.html",
+      "usedBy": [
+        "democracy_health_disparities_economic_burden_israel_summary_he.html"
+      ],
+      "cardTitleHe": "המחיר הכלכלי של פערי בריאות הקשורים למעמד חברתי־כלכלי בישראל",
+      "authorsHe": "Eran Politzer; Amir Shmueli; Shlomit Avni",
+      "visualDescriptionHe": "צוות מגוון של מתכננות ומתכנני בריאות ציבורית יושב סביב שולחן ועובד יחד על מפות עירוניות.",
+      "semanticDescriptionHe": "הסצנה מחברת בין פערי בריאות, תכנון ציבורי והקצאת משאבים; היא אינה מתעדת את מחברי המאמר, את האוכלוסייה שנחקרה או את אומדני העלות שחושבו.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "health_disparities",
+        "economic_burden",
+        "public_policy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because collaborative health planning gives the economic-burden question a concrete institutional setting without inventing a chart, currency amount, or documentary identity.",
+      "createdDate": "2026-07-31",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-31 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_multiple_discrimination_postpartum_depression_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_multiple_discrimination_postpartum_depression_israel_summary_he.html",
+      "usedBy": [
+        "democracy_multiple_discrimination_postpartum_depression_israel_summary_he.html"
+      ],
+      "cardTitleHe": "צורות מרובות של אפליה ודיכאון לאחר לידה בקרב אימהות בישראל",
+      "authorsHe": "Nihaya Daoud; Neveen Ali-Saleh Darawshy; Meiyin Gao; Ruslan Sergienko; Stephanie Ruth Sestito; Nabil Geraisy",
+      "visualDescriptionHe": "אם חובשת חיג׳אב מחזיקה תינוק ומשוחחת עם יועצת, ושתי אימהות נוספות יושבות ברקע בחדר תמיכה אימהי.",
+      "semanticDescriptionHe": "הסצנה ממחישה תמיכה לאחר לידה ושונות בין אימהות; היא אינה מתעדת משתתפות במחקר, מאבחנת דיכאון או מציגה חזותית את קבוצות ההשוואה והקשרים הסטטיסטיים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "postpartum_depression",
+        "multiple_discrimination",
+        "maternal_health",
+        "support_services"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the maternal-support encounter closely matches the postpartum setting and centers care without depicting symptoms, scores, labels, or documentary participants.",
+      "createdDate": "2026-07-31",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-31 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_educational_health_inequality_arab_minority_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_educational_health_inequality_arab_minority_israel_summary_he.html",
+      "usedBy": [
+        "democracy_educational_health_inequality_arab_minority_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון חינוכי בבריאות המדווחת עצמית בקרב ערבים בישראל",
+      "authorsHe": "Nihaya Daoud; Varda Soskolne; Orly Manor",
+      "visualDescriptionHe": "נשים וגברים מבוגרים משוחחים עם מדריכות קהילה ובריאות בחדר לימוד הפונה אל יישוב ותחנת אוטובוס.",
+      "semanticDescriptionHe": "הסצנה קושרת למידה, תנאים קהילתיים וגישה להזדמנויות; היא אינה מתעדת את 902 המשיבים או מוכיחה את המסלולים בין השכלה, הכנסה ובריאות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "education",
+        "self_rated_health",
+        "material_conditions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the adult-learning and community-health setting makes the paper’s educational and material pathways visible without assigning measured health status to any person.",
+      "createdDate": "2026-07-31",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-31 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_health_service_use_jews_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_health_service_use_jews_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_health_service_use_jews_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אי־שוויון בשימוש בשירותי בריאות בקרב יהודים וערבים בישראל",
+      "authorsHe": "Orna Baron Epel; Noga Garty; Manfred S. Green",
+      "visualDescriptionHe": "מבנה עירוני של קופת חולים כללית בבית שאן, ובחזיתו רחוב, כלי רכב ועצים.",
+      "semanticDescriptionHe": "התצלום מציג תשתית ממשית של שירותי בריאות בישראל; הוא אינו מציג מטופלים יהודים או ערבים, שימוש ברופאי משפחה ומומחים או את ההבדלים שנמדדו בסקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "health_services",
+        "health_inequality",
+        "community_clinic",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Sivan Harush’s CC BY 2.5 PikiWiki photograph of a Clalit Health Services building in Beit She’an. Standard fitness because it documents an Israeli health-service facility, but it does not show service use, access, patients, or the paper’s Jewish–Arab comparison; incidental building signage remains.",
+      "createdDate": "2026-07-31",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_11339_Clalit_Health_Services.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PikiWiki_Israel_11339_Clalit_Health_Services.jpg",
+      "license": "Creative Commons Attribution 2.5 Generic (CC BY 2.5)",
+      "creator": "Sivan Harush / PikiWiki Israel",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_feminism_nationalism_gender_equality_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_feminism_nationalism_gender_equality_israel_summary_he.html",
+      "usedBy": [
+        "democracy_feminism_nationalism_gender_equality_israel_summary_he.html"
+      ],
+      "cardTitleHe": "בין פמיניזם אוניברסלי ללאומיות פרטיקולרית",
+      "authorsHe": "Ruth Halperin-Kaddari; Yaacov Yadgar",
+      "visualDescriptionHe": "ליימה גבואי ואישה חובשת חיג׳אב מברכות קהל בסיום צעדת נשים עושות שלום בישראל בשנת 2016.",
+      "semanticDescriptionHe": "התצלום מציג פעולה ציבורית משותפת של נשים סביב שלום; הוא אינו מתעד את הארגונים המשפטיים שנדונו במאמר, את דיני המעמד האישי או את מכלול הפעילות היהודית והפלסטינית.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "feminism",
+        "women_activism",
+        "peace_march"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Reem Shmulevich’s CC BY-SA 4.0 photograph from the conclusion of a Women Wage Peace march. Standard fitness because it directly documents women’s cross-community public activism in Israel, while the event does not itself depict personal-status law, religious feminism, or the legal reforms analyzed.",
+      "createdDate": "2026-07-31",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Leymah_Gbowee_at_Women_For_Peace_parade_in_Israel_2.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Leymah_Gbowee_at_Women_For_Peace_parade_in_Israel_2.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "Reem Shmulevich",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_gender_equality_from_law_to_politics_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gender_equality_from_law_to_politics_israel_summary_he.html",
+      "usedBy": [
+        "democracy_gender_equality_from_law_to_politics_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שוויון מגדרי דורש גם כוח פוליטי, לא רק זכויות עלי ספר",
+      "authorsHe": "נויה רימלט",
+      "visualDescriptionHe": "אתיה שמחה, יועצת ראש הממשלה למעמד האישה, נושאת דברים בדיון בכנסת על מעמד נשים ברשויות המקומיות בשנת 1988.",
+      "semanticDescriptionHe": "התצלום מתעד מעבר מסוגיית זכויות נשים אל דיון בזירה הפוליטית; הוא אינו מתעד את מקרי המבחן של המאמר או מוכיח את טענתו על גבולותיה של רפורמה משפטית.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "gender_equality",
+        "Knesset",
+        "political_power"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Itzhak Harari’s CC BY-SA 4.0 Knesset Archives photograph from a 1988 discussion on women’s status in local government. Standard fitness because it documents gender equality entering parliamentary politics, but it predates the article and does not depict the employment and military case studies it analyzes.",
+      "createdDate": "2026-07-31",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Atya_Simcha,_June_1988_(IH000302907013_01).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Atya_Simcha%2C_June_1988_%28IH000302907013_01%29.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "Itzhak Harari / Knesset Archives",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.html",
+      "usedBy": [
+        "democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.html"
+      ],
+      "cardTitleHe": "הכרה בילידיות הבדואית היא שאלה של כוח, קרקע וזכויות",
+      "authorsHe": "אורן יפתחאל, בתיה רודד ואלכסנדר (סנדי) קדר",
+      "visualDescriptionHe": "מבט רחב על יישוב בדואי בלתי מוכר בנגב, ובו בתי מגורים ודרכי עפר בתוך מרחב מדברי פתוח.",
+      "semanticDescriptionHe": "התצלום מציב במרכז את הקשר בין התיישבות, קרקע והכרה מוסדית; הוא אינו מכריע בטענת הילידיות, מתעד את אתרי המקרה במאמר או מציג הליך משפטי.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "Bedouin",
+        "indigeneity",
+        "land_rights"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Neukoln’s CC BY-SA 3.0 photograph of an unrecognized Bedouin village in the Negev. Standard fitness because the documentary landscape directly shows the settlement-and-land context, but it cannot depict legal recognition, indigenous status, governance, or the paper’s normative argument.",
+      "createdDate": "2026-07-31",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Unrecognized_Bedouin_village.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Unrecognized_Bedouin_village.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "creator": "Neukoln",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_palestinian_women_violence_law_politics_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_women_violence_law_politics_israel_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_women_violence_law_politics_israel_summary_he.html"
+      ],
+      "cardTitleHe": "חוק נגד אלימות עלול להפקיר נשים כשהוא מתעלם מכוח, קהילה ואפליה",
+      "authorsHe": "נאדרה שלהוב־קיבורקיאן",
+      "visualDescriptionHe": "אישה פלסטינית, אשת מקצוע מתחום התמיכה ונציגה משפטית משוחחות סביב שולחן בחדר מוסדי מוגן.",
+      "semanticDescriptionHe": "הסצנה מחברת בין ביטחון אישי, סיוע מקצועי וגישה למשפט; היא אינה מתעדת נפגעת או מרואיינת, מציגה אירוע אלימות או קובעת כיצד מוסד מסוים טיפל בתלונה.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "violence_against_women",
+        "legal_support",
+        "Palestinian_women"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because a protected three-way support and legal conversation closely matches the article’s law–community–institution frame while avoiding a violent scene or a claim of documentary identity.",
+      "createdDate": "2026-07-31",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-31 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_counter_revolution_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_constitutional_counter_revolution_israel_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_counter_revolution_israel_summary_he.html"
+      ],
+      "cardTitleHe": "המתקפה על בית המשפט צמחה משינוי עמוק ביחסי ביטחון, הון ושלטון",
+      "authorsHe": "דורון נבות ויואב פלד",
+      "visualDescriptionHe": "שופטות, שופטים, יועצים משפטיים ונציגי ציבור מתדיינים סביב שולחן בחדר מוסדי הפתוח למסדרון שלטוני.",
+      "semanticDescriptionHe": "הסצנה ממחישה מתח בין מוקדי סמכות וביקורת שיפוטית; היא אינה מתעדת אישים או דיון היסטורי מן המאמר ואינה מציגה חזותית את השינוי הכלכלי־פוליטי שהוא מנתח.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "judicial_review",
+        "counter_revolution",
+        "institutional_power"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial scene generated at 4:3 and finished as an 800x600 progressive JPEG. High fitness because the linked deliberation room and government corridor make competing institutional authority legible without flags, slogans, landmarks, or claims of documentary history.",
+      "createdDate": "2026-07-31",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-07-31 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_court_political_culture_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_constitutional_court_political_culture_israel_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_court_political_culture_israel_summary_he.html"
+      ],
+      "cardTitleHe": "בית משפט חוקתי חדש לא יפתור מערכת פוליטית שמתקשה להכריע",
+      "authorsHe": "גדעון דורון ואסף מידני",
+      "visualDescriptionHe": "מבקרות ומבקרים עוברים באכסדרת בית המשפט העליון בירושלים, בין קיר אבן מקומר לעמודים לבנים.",
+      "semanticDescriptionHe": "התצלום מציג את המרחב הציבורי של מוסד שיפוטי חוקתי; הוא אינו מתעד בית משפט חוקתי נפרד, מודד תרבות פוליטית או מכריע בהצעה המוסדית שהמאמר מבקר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "Supreme_Court",
+        "political_culture",
+        "constitutional_design",
+        "Jerusalem"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Djampa’s CC BY-SA 4.0 photograph of the Israeli Supreme Court foyer in Jerusalem. Standard fitness because it directly documents the public space of the court at issue, but architecture cannot depict the authors’ political-culture diagnosis or the design of a separate constitutional court.",
+      "createdDate": "2026-07-31",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:West_Jerusalem_Supreme_Court_Foyer.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/West_Jerusalem_Supreme_Court_Foyer.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "creator": "Djampa",
       "provider": "Wikimedia Commons"
     }
   ],

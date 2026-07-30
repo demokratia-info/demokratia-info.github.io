@@ -1,8 +1,311 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1182,
+  "paperCount": 1192,
   "papers": [
+    {
+      "slug": "democracy_constitutional_court_political_culture_israel_summary_he",
+      "file": "democracy_constitutional_court_political_culture_israel_summary_he.html",
+      "permalink": "/democracy_constitutional_court_political_culture_israel_summary_he.html",
+      "sortKey": 202607310010,
+      "titleHe": "בית משפט חוקתי חדש לא יפתור מערכת פוליטית שמתקשה להכריע",
+      "paperTitle": "Establishing a Constitutional Court? An alternative political culture approach – the Israeli case",
+      "authorsCardHe": "גדעון דורון ואסף מידני",
+      "sourceAuthors": [
+        "Gideon Doron",
+        "Assaf Meydani"
+      ],
+      "journal": "Policy and Society, 26(4), 105–124",
+      "dateText": "פורסם: 2007; כרך 26, גיליון 4, עמ׳ 105–124",
+      "doiUrl": "https://doi.org/10.1016/S1449-4035(07)70122-4",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_court_political_culture_israel_summary_he.jpg",
+        "altHe": "מבואת בית המשפט העליון בישראל ובה עמודי אבן, חלונות ומרחב המתנה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "גדעון דורון ואסף מידני מנתחים את ההליך הפוליטי סביב הצעה להקים בישראל בית משפט חוקתי נפרד, שיוסמך לבדו להכריע בסוגיות חוקתיות. במקום לשאול רק איזה דגם שיפוטי עדיף, הם מציבים את ההצעה בתוך תהליך עיצוב מדיניות שבו פוליטיקאים, ביורוקרטים, משפטנים, ארגוני אינטרס, תקשורת וציבור מגדירים בעיה ומתחרים על סדר היום. טענתם המרכזית היא ששסעים חברתיים עמוקים ומבנה מוסדי מפוצל מקשים על הכנסת והממשלה להכריע בסוגיות טעונות; במצב זה קבוצות ופוליטיקאים פונים לבג״ץ כדי לקבל הכרעה, ללחוץ על נבחרי הציבור או לפחות להשמיע קול ולהעלות נושא לסדר היום. המחברים מכנים זאת חלק מ״תרבות פוליטית חלופית״ או התנהגות ״כמעט־יציאה״: במקום להסתפק בערוצי ההשפעה הרגילים, שחקנים יוצרים או מפעילים מסלול חלופי לאספקת התוצר הציבורי שהמערכת אינה מספקת. חקר המקרה מתאר כיצד מחאה רחבה נגד פסיקות בגיוס תלמידי ישיבות ובשיטות חקירה, אינטרסים אלקטורליים, לובי לחוקה, תנועות למען איכות השלטון, לשכת עורכי הדין והקהילה המשפטית עיצבו את המאבק. ההצעה של חברי הכנסת אליעזר כהן ויגאל ביבי קיבלה תחילה תמיכה ניכרת, אך ועדת החוקה בראשות אופיר פינס קיימה סדרת דיונים, שמעה מתנגדים ובהם נשיא בית המשפט העליון, ולבסוף המליצה להסיר אותה מסדר היום. לדעת המחברים, עצם הקמתו של מוסד שיפוטי חדש לא הייתה פותרת את שורש הבעיה: אותן מחלוקות על בחירת שופטים, ייצוג, לגיטימציה וקבלת הכרעות היו מועתקות אל בית המשפט החוקתי. הם מציעים לחזק את יכולתה של המערכת הפוליטית לעצב מדיניות עקבית ולפתור מחלוקות בכנסת, ולא להוסיף מוסד חלופי לבג״ץ. המאמר הוא חקר מקרה פרשני של תקופה מסוימת; הוא מסביר את התהליך והתמריצים כפי שהמחברים מבינים אותם, אך אינו מוכיח שמדד יחיד של אי־משילות גרם לתוצאת ההצבעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_constitutional_counter_revolution_israel_summary_he",
+      "file": "democracy_constitutional_counter_revolution_israel_summary_he.html",
+      "permalink": "/democracy_constitutional_counter_revolution_israel_summary_he.html",
+      "sortKey": 202607310009,
+      "titleHe": "המתקפה על בית המשפט צמחה משינוי עמוק ביחסי ביטחון, הון ושלטון",
+      "paperTitle": "Towards a Constitutional Counter‐Revolution in Israel?",
+      "authorsCardHe": "דורון נבות ויואב פלד",
+      "sourceAuthors": [
+        "Doron Navot",
+        "Yoav Peled"
+      ],
+      "journal": "Constellations, 16(3), 429–444",
+      "dateText": "פורסם: 1 בספטמבר 2009; כרך 16, גיליון 3, עמ׳ 429–444",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00551.x",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_counter_revolution_israel_summary_he.jpg",
+        "altHe": "שופטים, מתמחים משפטיים ונציגי ציבור דנים סביב שולחן במסדרון מוסדי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "דורון נבות ויואב פלד מנתחים את מסע שר המשפטים דניאל פרידמן לצמצום כוחו של בית המשפט העליון בשנים 2007–2008 ואת המשכו האפשרי בידי יעקב נאמן. לטענתם, אין מדובר בגחמה אישית אלא בתגובה מצטברת למהפכת הזכויות של שנות השמונים ולמהפכה החוקתית של שנות התשעים. הם מציבים את התהליך בתוך מעבר רחב מן הסדר הקורפורטיסטי של ״מערכת 1948״ לכלכלה ניאו־ליברלית: בשלב הראשון העצמת בית המשפט ומוסדות מקצועיים לא נבחרים סייעה לעגן זכויות אינדיבידואליות ושוק חופשי מול כוחות פוליטיים וחברתיים; לאחר שהליברליזציה התבססה, חלקים מן האליטה העסקית והפוליטית ראו באותם שומרי סף מגבלה. במקביל, האינתיפאדה השנייה ופיגועי 11 בספטמבר חיזקו תפיסה ניאו־שמרנית שהעדיפה ביטחון, שלטון רוב וגמישות של הרשות המבצעת על פני אקטיביזם ערכי וזכויות פלסטינים. המאמר עוקב אחר התפתחות הביקורת השיפוטית בהיעדר חוקה כתובה, מהליברליזם של מנחם בגין ואהרן ברק, דרך חוקי היסוד של 1992 ופסק דין בנק המזרחי, ועד פסיקות בנושאי חקירות ביטחוניות, קרקע ואיחוד משפחות. הוא מתאר את הצעות פרידמן לשנות את בחירת השופטים, להקשות על ביטול חוק ולאפשר לכנסת להתגבר ברוב של שבעים, וכן להוציא שאלות אזרחות מתחולת חוק יסוד: כבוד האדם וחירותו. פסק הדין משנת 2006 שאישר ברוב 6 מול 5 את הוראת השעה בעניין אזרחות וכניסה לישראל משמש למחברים סימן לנסיגת מורשת ברק ולהפיכת חריג ביטחוני זמני למאפיין קבוע של משטר האזרחות. מסקנתם היא שהחלשת בית המשפט עלולה לפגוע לא רק בזכויות פלסטינים אלא גם בשלטון החוק ובפיקוח על שחיתות ועל הקשר בין הון לשלטון. זו מסה פרשנית שנכתבה ב־2009, לפני תוצאותיהם של מהלכים מאוחרים יותר, ולכן היא מציעה הסבר היסטורי ואזהרה נורמטיבית ולא הוכחה סיבתית או תחזית מלאה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_palestinian_women_violence_law_politics_israel_summary_he",
+      "file": "democracy_palestinian_women_violence_law_politics_israel_summary_he.html",
+      "permalink": "/democracy_palestinian_women_violence_law_politics_israel_summary_he.html",
+      "sortKey": 202607310008,
+      "titleHe": "חוק נגד אלימות עלול להפקיר נשים כשהוא מתעלם מכוח, קהילה ואפליה",
+      "paperTitle": "Law, Politics, and Violence Against Women: A Case Study of Palestinians in Israel",
+      "authorsCardHe": "נאדרה שלהוב־קיבורקיאן",
+      "sourceAuthors": [
+        "Nadera Shalhoub‐Kevorkian"
+      ],
+      "journal": "Law & Policy, 21(2), 189–211",
+      "dateText": "פורסם: אפריל 1999; כרך 21, גיליון 2, עמ׳ 189–211",
+      "doiUrl": "https://doi.org/10.1111/1467-9930.00071",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_women_violence_law_politics_israel_summary_he.jpg",
+        "altHe": "אישה פלסטינית, אשת מקצוע מתחום הסיוע ונציגה משפטית משוחחות סביב שולחן בחדר מוסדי מוגן",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "נאדרה שלהוב־קיבורקיאן בוחנת את יישום החוק הישראלי למניעת אלימות במשפחה משנת 1991 בקרב החברה הפלסטינית בישראל, דרך ראיונות עם 52 אנשי ונשות מקצוע ובעלי סמכות בגליל. נקודת המוצא שלה היא שהפללת אלימות מצד בן זוג היא הישג ציבורי חשוב, אך העתקת מודל משפטי בלי הכנה תרבותית, פוליטית ומוסדית עלולה להציב את הנפגעת בין מערכות כוח יריבות. המרואיינים תיארו שלושה אשכולות של מכשולים: נורמות חברתיות המציבות אחדות משפחתית וסודיות מעל טובת האישה; מורשת פוליטית של אפליה וחוסר אמון במוסדות ישראליים; וחסמים מעשיים כגון מחסור בשירותים, הכשרה, מידע בערבית, סיוע כלכלי וייצוג משפטי נגיש. החוק גם איים על סמכותם של קרובי משפחה, אנשי דת ונכבדים שנהגו לתווך בסכסוכים, ולעיתים תגובתם הייתה נסיגה מתמיכה או הוקעת אישה שפנתה למשטרה. מנגד, הסתמכות בלעדית על הרשת הבלתי פורמלית עלולה לשמר פטריארכיה, להעדיף פיוס ואחדות משפחתית ולהשאיר את הפוגע ללא אחריות. המאמר מראה עוד כיצד שיח פוליטי שמציג אלימות כראיה ל״פתולוגיה״ של המיעוט, לצד אכיפה שנתפסת כעוינת או אדישה, מקשה על נשים לבטוח בחוק וחוסם גם איסוף מידע הדרוש לטיפול בתופעה. מסקנת המחברת אינה לוותר על הדין הפלילי או לקבל אלימות בשם התרבות, אלא לחבר הגנה משפטית עם משאבים קהילתיים התומכים בנפגעת, שירותים נגישים ושותפות של נשים פלסטיניות בקביעת המדיניות. משום שהמחקר מתעד בעיקר תפיסות של סוכני שליטה ולא חוויות ישירות של נפגעות, הוא מלמד כיצד מערכות מתווכות את החוק יותר משהוא מודד את יעילות החוק או את שיעור האלימות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_bedouin_indigeneity_rights_negev_naqab_summary_he",
+      "file": "democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.html",
+      "permalink": "/democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.html",
+      "sortKey": 202607310007,
+      "titleHe": "הכרה בילידיות הבדואית היא שאלה של כוח, קרקע וזכויות",
+      "paperTitle": "Between rights and denials: Bedouin indigeneity in the Negev/Naqab",
+      "authorsCardHe": "אורן יפתחאל, בתיה רודד ואלכסנדר (סנדי) קדר",
+      "sourceAuthors": [
+        "Oren Yiftachel",
+        "Batya Roded",
+        "Alexandre (Sandy) Kedar"
+      ],
+      "journal": "Environment and Planning A: Economy and Space, 48(11), 2129–2161",
+      "dateText": "פורסם מקוון: 28 ביולי 2016; כרך 48, גיליון 11, עמ׳ 2129–2161",
+      "doiUrl": "https://doi.org/10.1177/0308518X16653404",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bedouin_indigeneity_rights_negev_naqab_summary_he.jpg",
+        "altHe": "מבט רחב על כפר בדואי בלתי מוכר בנגב ובו בתי מגורים ודרכי עפר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "אורן יפתחאל, בתיה רודד ואלכסנדר קדר בוחנים אם ערביי הבדואים בנגב/נקב מתאימים לנורמות הבין־לאומיות המקובלות של ילידיות, על רקע מאבק ממשי על קרקע, יישובים ושירותים. הם מגדירים ילידיות לא כזהות מהותנית וקפואה אלא כיחס היסטורי ופוליטי בין קבוצה בעלת זיקה טריטוריאלית ותרבותית לבין מדינה מודרנית שדחקה, נישלה או הכפיפה אותה. המאמר מציג ברצינות טענות של חוקרים המזוהים בעיניו עם עמדת המדינה: שהבדואים הגיעו מאוחר, לא קיימו ריבונות, שינו את אורחות חייהם, תובעים בעלות פרטית ושבמדינות שכנות אינם דורשים מעמד ילידי. לאחר מכן הוא בוחן כל טענה מול ספרות היסטורית, מסמכים משפטיים, ידע גאוגרפי ועדויות על ממשל שבטי, עיבוד קרקע, גבולות מנהגיים ושטרי מכר. בלב הניתוח עומדת ״דוקטרינת הנגב המת״, שלפי המחברים מפרשת בדיעבד משפט עות׳מאני ומנדטורי כדי לסווג קרקע בלתי רשומה כקרקע מדינה ולהתעלם מן המשפט הבדואי המנהגי. הם מתארים כיצד ריכוז האוכלוסייה באזור הסייג, עיירות מתוכננות וכפרים לא מוכרים הפכו את הוויכוח האקדמי לשאלה חומרית של מגורים, תכנון ותשתיות. מסקנתם היא שטיעוני השלילה מעלים דילמות חשובות אך אינם מבטלים את החפיפה הרחבה בין מאפייני הבדואים לבין הגדרות ילידיות: המשכיות טריטוריאלית, זהות נבדלת, מידה של ממשל עצמי בעבר, פגיעה בידי המדינה ורצון בשימור הקבוצה. לכן הם מציעים מעבר מהכחשה להכרה, צדק מעברי, השבת זכויות ותיקון ככל האפשר, תוך הימנעות מיצירת עוולות חדשות כלפי אחרים. המאמר מציג את הילידיות גם ככלי אסטרטגי בן הזמן, ולכן אינו טוען שזהות זו הייתה תמיד מנוסחת באותה שפה או שתישאר בהכרח הקטגוריה הפוליטית היחידה בעתיד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_gender_equality_from_law_to_politics_israel_summary_he",
+      "file": "democracy_gender_equality_from_law_to_politics_israel_summary_he.html",
+      "permalink": "/democracy_gender_equality_from_law_to_politics_israel_summary_he.html",
+      "sortKey": 202607310006,
+      "titleHe": "שוויון מגדרי דורש גם כוח פוליטי, לא רק זכויות עלי ספר",
+      "paperTitle": "From Law to Politics: The Path to Gender Equality",
+      "authorsCardHe": "נויה רימלט",
+      "sourceAuthors": [
+        "Noya Rimalt"
+      ],
+      "journal": "Israel Studies, 18(3), 5–18",
+      "dateText": "פורסם: 2013; כרך 18, גיליון 3, עמ׳ 5–18",
+      "doiUrl": "https://doi.org/10.2979/israelstudies.18.3.5",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gender_equality_from_law_to_politics_israel_summary_he.jpg",
+        "altHe": "עטיה שמחה, יועצת למעמד האישה, נואמת בדיון בכנסת בשנת 1988 על נשים ברשויות המקומיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "נויה רימלט מערערת על ההנחה שרפורמות משפטיות נקודתיות הן לבדן המנוע היעיל ביותר לשוויון מגדרי. היא מזכירה הישגים חשובים שהושגו בישראל באמצעות חקיקה ועתירות — מן הזכות להשתתף במועצות דתיות ועד פתיחת תפקידים צבאיים והעדפה מתקנת — אך טוענת שהפער בין החוק הכתוב לבין חלוקת הכוח בפועל נותר עמוק. המאמר מתמקד בכלל המעדיף אישה כאשר מועמדת ומועמד הם בעלי כישורים דומים, ומראה באמצעות פרשת יעל ארן כיצד המבחן של ״כישורים דומים״ עצמו נשען על מסלולי קריירה שעוצבו בידי יתרונות גבריים. שירות צבאי בכיר, למשל, יכול להפוך להון מקצועי וניהולי, בעוד ניסיון אזרחי וקהילתי המזוהה עם מסלול נשי זוכה להערכה נמוכה יותר. כך השיח השיפוטי החזק בזכות שוויון יכול להתקיים לצד תוצאות מעטות לנשים ואף להציג את אי־השוויון כתוצאה טבעית של הבדלי התאמה אישיים. רימלט מציעה להסיט חלק מן המאמץ מן הזירה המשפטית אל הזירה הפוליטית: ליצור פער מגדרי מזוהה בדפוסי הצבעה, להפוך נשים לקבוצה שמפלגות חייבות להתחשב בה, ולהביא מסה קריטית של נשים לעמדות הכרעה. היא אינה קוראת לזנוח את המשפט, אלא לשנות באמצעות כוח פוליטי את אמות המידה החברתיות שבתוכן הוא פועל. המאמר גם מכיר בקושי לבנות סדר יום משותף לנשים שונות זו מזו, ולכן מציג את ההתארגנות הפוליטית כתוכנית עבודה מאתגרת ולא כפתרון אוטומטי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_feminism_nationalism_gender_equality_israel_summary_he",
+      "file": "democracy_feminism_nationalism_gender_equality_israel_summary_he.html",
+      "permalink": "/democracy_feminism_nationalism_gender_equality_israel_summary_he.html",
+      "sortKey": 202607310005,
+      "titleHe": "בין פמיניזם אוניברסלי ללאומיות פרטיקולרית",
+      "paperTitle": "Between Universal Feminism and Particular Nationalism: politics, religion and gender (in)equality in Israel",
+      "authorsCardHe": "Ruth Halperin-Kaddari; Yaacov Yadgar",
+      "sourceAuthors": [
+        "Ruth Halperin-Kaddari",
+        "Yaacov Yadgar"
+      ],
+      "journal": "Third World Quarterly, 31(6), 905–920",
+      "dateText": "פורסם אונליין: 15 בספטמבר 2010; כרך 31, גיליון 6, עמ׳ 905–920",
+      "doiUrl": "https://doi.org/10.1080/01436597.2010.502721",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_feminism_nationalism_gender_equality_israel_summary_he.jpg",
+        "altHe": "משתתפות בהתכנסות של תנועת נשים עושות שלום",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "רות הלפרין־קדרי ויעקב ידגר מנתחים כיצד לאומיות, דת ופוליטיקה מגבילות ומעצבות את המאבק לשוויון מגדרי בישראל. לטענתם, הסכסוך הישראלי־ערבי אינו רק רקע ביטחוני, אלא כוח המסדר את סדר העדיפויות הציבורי ודוחק זכויות נשים לעמדה משנית ביחס להישרדות המדינה ולשימור הקולקטיב. זהו מאמר עיוני־פרשני המשלב ניתוח משפטי, היסטוריה פוליטית, מחקר קודם ותיאור פעילות של ארגוני נשים, ולא מחקר אמפירי חדש של כלל הנשים בישראל. במרכזו עומד משטר המעמד האישי, הכופף נישואים וגירושים להשתייכות הדתית ולבתי דין דתיים ובכך משמר הן גבולות אתנו־לאומיים והן יחסי כוח מגדריים. המחברים מתארים פער בין חקיקה ופסיקה מתקדמות בתחומים מסוימים לבין אכיפה חלשה, ובין המשפט האזרחי לבין ההסדר הדתי בדיני המשפחה. הם טוענים שנשים מעוצבות כ„נושאות הקולקטיב” באמצעות אימהות, הולדה וכללי השתייכות, שחלק מן האנרגיה הפמיניסטית הופנה למאבק לשלום, שהמיליטריזציה מעדיפה ביטחון בהקצאת משאבים ושחלוקת הלאום מקשה על שיתוף פעולה יהודי־ערבי. לצד הקיפאון הם מתארים את צמיחת הפמיניזם הדתי היהודי ואת מאבקן של נשים פלסטיניות אזרחיות ישראל בתוך הצטלבות של כוח דתי, לאומי ומגדרי. תיקון חוק בתי המשפט למשפחה בשנת 2001 ותיקון חוק יחסי ממון בשנת 2008 מוצגים כהישגים משפטיים שנולדו מפעילות זו וצמצמו סמכויות או מנופי לחץ מסוימים. הראיות הכמותיות הישירות במאמר מוגבלות בעיקר לסקר משנת 2004 בקרב 916 נשים יהודיות על לחץ סביב הליכי גירושים, והמחברים עצמם מציינים שרבות מן העדויות בתחום אנקדוטליות. הם גם מקדישים דיון מפורט יותר לפמיניזם האורתודוקסי היהודי בשל היכרותם, זמינות מידע והערכת היקף השפעתו, ולכן הכיסוי של פעילות נשים פלסטיניות מצומצם יותר. מסקנת המאמר היא ששוויון מגדרי אינו יכול להיבחן רק בחקיקה כללית: הוא תלוי גם בגישה למסלול אזרחי, באכיפה, ביכולת לערער על סמכות דתית ובהתמודדות עם הגבולות הלאומיים שבתוכם נשים נדרשות לפעול.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_health_service_use_jews_arabs_israel_summary_he",
+      "file": "democracy_health_service_use_jews_arabs_israel_summary_he.html",
+      "permalink": "/democracy_health_service_use_jews_arabs_israel_summary_he.html",
+      "sortKey": 202607310004,
+      "titleHe": "אי־שוויון בשימוש בשירותי בריאות בקרב יהודים וערבים בישראל",
+      "paperTitle": "Inequalities in Use of Health Services among Jews and Arabs in Israel",
+      "authorsCardHe": "Orna Baron Epel; Noga Garty; Manfred S. Green",
+      "sourceAuthors": [
+        "Orna Baron Epel",
+        "Noga Garty",
+        "Manfred S. Green"
+      ],
+      "journal": "Health Services Research, 42(3 Part I), 1008–1019",
+      "dateText": "פורסם אונליין: 25 בספטמבר 2006; גיליון מודפס: יוני 2007; כרך 42, גיליון 3 חלק א׳, עמ׳ 1008–1019",
+      "doiUrl": "https://doi.org/10.1111/j.1475-6773.2006.00645.x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_health_service_use_jews_arabs_israel_summary_he.jpg",
+        "altHe": "חזית של בניין מרפאה ציבורית בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "אורנה ברון־אפל, נגה גרטי ומנפרד גרין משווים שימוש ברפואת משפחה, ברפואה מומחית ובאשפוז בין יהודים לערבים בישראל לאחר הנהגת ביטוח בריאות ממלכתי. הנתונים לקוחים מן הסקר הלאומי לבריאות בשנים 2003–2004, שנערך כחלק מפרויקט EUROHIS של ארגון הבריאות העולמי. בסקר הושלמו 9,512 ראיונות טלפוניים, ושיעור ההיענות היה 58.2%; לאחר הוצאת רשומות ללא סיווג אוכלוסייה נכללו בניתוח 9,352 בני 21 ומעלה. השאלון תורגם לעברית, ערבית ורוסית בתהליך תרגום חוזר, וכלל שימוש בשירותים, מחלות כרוניות, הכנסה, השכלה ומשתנים דמוגרפיים. החוקרים התאימו את ההשוואות למין, גיל, הכנסה, השכלה, מצב משפחתי ומחלות כרוניות מדווחות. לאחר ההתאמות, ערבים דיווחו יותר על ביקור אצל רופא משפחה, עם יחס סיכויים 1.56 ורווח סמך של 1.35–1.81, ופחות על ביקור אצל מומחה, עם יחס סיכויים 0.73 ורווח סמך של 0.60–0.89. יחס הסיכויים לאשפוז היה 1.16, אך רווח הסמך 0.97–1.38 כלל את הערך 1 ולכן ההבדל הכולל לא היה מובהק. הכנסה והשכלה נקשרו לשימוש בשירותים באוכלוסייה היהודית אך לא באוכלוסייה הערבית, וההבדלים בין הקבוצות לא הוסברו במלואם במעמד חברתי־כלכלי. המחברים מעלים הסברים אפשריים כגון ריכוז מומחים במטרופולינים, מגורים ביישובים קטנים והבדלים בהתנהגות מטופלים או נותני שירות, אך המחקר אינו מודד את המנגנונים האלה ישירות. הוא גם אינו קובע שפחות ביקורי מומחים פירושם בהכרח טיפול גרוע, משום ששיעור שימוש לבדו אינו מודד צורך, איכות או תוצאות. מגבלותיו כוללות דיווח עצמי, עיצוב חתך, שיעור היענות מוגבל, היעדר נתונים על פיזור נותני השירות ואי־בדיקת שירותי מניעה וגילוי מוקדם. הממצא הציבורי המרכזי הוא שכיסוי אוניברסלי הוא בסיס לשוויון, אך אינו מבטיח לבדו דפוס שימוש שווה או נגישות מהותית לשירותים שונים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_educational_health_inequality_arab_minority_israel_summary_he",
+      "file": "democracy_educational_health_inequality_arab_minority_israel_summary_he.html",
+      "permalink": "/democracy_educational_health_inequality_arab_minority_israel_summary_he.html",
+      "sortKey": 202607310003,
+      "titleHe": "אי־שוויון חינוכי בבריאות המדווחת עצמית בקרב ערבים בישראל",
+      "paperTitle": "Educational inequalities in self-rated health within the Arab minority in Israel: explanatory factors",
+      "authorsCardHe": "Nihaya Daoud; Varda Soskolne; Orly Manor",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Varda Soskolne",
+        "Orly Manor"
+      ],
+      "journal": "European Journal of Public Health, 19(5), 477–483",
+      "dateText": "פורסם אונליין: 23 ביוני 2009; גיליון מודפס: אוקטובר 2009; כרך 19, גיליון 5, עמ׳ 477–483",
+      "doiUrl": "https://doi.org/10.1093/eurpub/ckp080",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_educational_health_inequality_arab_minority_israel_summary_he.jpg",
+        "altHe": "מבוגרים ומדריכי בריאות קהילתיים משוחחים בחדר למידה ביישוב ערבי, ועיירה ואוטובוס נראים בחוץ",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "ניהאיה דאוד, ורדה סוסקולנה ואורלי מנור בוחנות אילו מסלולים מסבירים פערים לפי השכלה בבריאות המדווחת עצמית בתוך האוכלוסייה הערבית בישראל. בשנת 2005 רואיינו בערבית 902 בני 30–70 במדגם ארצי אקראי רב־שלבי, ושיעור ההיענות היה 78%. השכלה חולקה לארבע קבוצות, מ־0–8 שנות לימוד ועד 13 שנים ומעלה, והבריאות חולקה לדיווח טוב לעומת בינוני, ירוד או ירוד מאוד. כ־36.3% מן המשתתפים דיווחו על בריאות ירודה וכ־39.6% היו בעלי 0–8 שנות לימוד. לאחר התאמה לגיל ולמגדר, יחס הסיכויים לבריאות ירודה בקרב בעלי ההשכלה הנמוכה לעומת הגבוהה היה 3.86, ברווח סמך של 2.30–6.47. הוספת הכנסה יחסית ומקור ההכנסה הפחיתה את יחס הסיכויים ב־43%, ההפחתה הגדולה ביותר של קבוצת משתנים יחידה. גורמים פסיכו־חברתיים הפחיתו אותו ב־17%, השתתפות חברתית ב־26% ופעילות גופנית ב־11% כאשר כל קבוצה נבחנה בנפרד. במודל המלא, שהתבסס על 802 תצפיות בעלות נתונים מלאים, יחס הסיכויים בין קבוצות ההשכלה הקיצוניות פחת ב־54% ל־1.77 וכבר לא היה מובהק סטטיסטית. המשתנים התרבותיים שנבדקו לא נקשרו לבריאות באופן שהצדיק הכללתם במודל הרב־משתני, אך המחברות מזהירות שמדדים אלה היו מוגבלים. המחקר הוא מחקר חתך ואינו מוכיח שחינוך או תנאים חומריים גרמו לתוצאת הבריאות, וחלק מן המדדים אינם כוללים הכנסה מוחלטת, דיור, ביטחון תזונתי או תנאי עבודה. מסקנתו היא שהרחבת השכלה לבדה אינה מבטיחה צמצום פערי בריאות אם הישגים לימודיים אינם נפתחים להזדמנויות תעסוקה, הכנסה ורמת חיים ממשיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_multiple_discrimination_postpartum_depression_israel_summary_he",
+      "file": "democracy_multiple_discrimination_postpartum_depression_israel_summary_he.html",
+      "permalink": "/democracy_multiple_discrimination_postpartum_depression_israel_summary_he.html",
+      "sortKey": 202607310002,
+      "titleHe": "צורות מרובות של אפליה ודיכאון לאחר לידה בקרב אימהות בישראל",
+      "paperTitle": "Multiple forms of discrimination and postpartum depression among indigenous Palestinian-Arab, Jewish immigrants and non-immigrant Jewish mothers",
+      "authorsCardHe": "Nihaya Daoud; Neveen Ali-Saleh Darawshy; Meiyin Gao; Ruslan Sergienko; Stephanie Ruth Sestito; Nabil Geraisy",
+      "sourceAuthors": [
+        "Nihaya Daoud",
+        "Neveen Ali-Saleh Darawshy",
+        "Meiyin Gao",
+        "Ruslan Sergienko",
+        "Stephanie Ruth Sestito",
+        "Nabil Geraisy"
+      ],
+      "journal": "BMC Public Health, 19(1), Article 1741",
+      "dateText": "פורסם: 27 בדצמבר 2019; כרך 19, גיליון 1, מאמר 1741",
+      "doiUrl": "https://doi.org/10.1186/s12889-019-8053-x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_multiple_discrimination_postpartum_depression_israel_summary_he.jpg",
+        "altHe": "אם בחיג׳אב מחזיקה תינוק ומשוחחת עם יועצת, ושתי אימהות נוספות נראות ברקע",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "ניהאיה דאוד ועמיתיה בוחנים כיצד אפליה מצטלבת עם זהות קבוצתית ונקשרת לתסמיני דיכאון לאחר לידה בשלוש קבוצות של אימהות בישראל. הניתוח כולל 1,128 אימהות שהיו שישה שבועות עד שישה חודשים לאחר לידה ורואיינו פנים אל פנים ב־63 תחנות לבריאות האם והילד בחמישה אזורים בשנים 2014–2015. תסמיני דיכאון נמדדו בסולם אדינבורו, עם סף של 10 נקודות ומעלה, והאפליה נמדדה בשישה בסיסים: זהות אתנית או לאומית, מגדר, צבע עור, גיל, מעמד חברתי־כלכלי ורמת דתיות. החוקרים הבחינו בין אפליה על בסיס יחיד, מספר בסיסי אפליה, אפליה אתנו־לאומית בצירוף בסיסים נוספים ומדד משולב שהצליב מספר בסיסים עם זהות הקבוצה. שיעור התסמינים היה 20.8% בקרב פלסטיניות־ערביות, 9.1% בקרב יהודיות מהגרות ו־6.2% בקרב יהודיות שאינן מהגרות. פלסטיניות־ערביות דיווחו גם בתדירות הגבוהה ביותר על אפליה אתנו־לאומית, מעמדית ולפי דתיות ועל שלושה בסיסי אפליה ומעלה. במדגם כולו הופיע מדרג: 18.4% תסמינים בקרב מי שדיווחו על שלושה בסיסים ומעלה, 15.2% בקרב מי שדיווחו על שניים ו־7.4% בקרב מי שדיווחו על בסיס אחד. ואולם המדד המצטבר התנהג אחרת בכל קבוצה: הוא הציג קשר מדורג בקרב יהודיות שאינן מהגרות, קשר מובהק רק ברמת שלושה בסיסים ומעלה בקרב פלסטיניות־ערביות, וללא קשר מובהק בקרב יהודיות מהגרות. המדד ההצטלבותי המשלב זהות ומספר בסיסי אפליה חשף פערים גדולים יותר, אך ההשוואה המשותפת מערבת זהות וחשיפה ואינה אומדת השפעה סיבתית טהורה. המחקר הוא מחקר חתך המבוסס על דיווח סובייקטיבי, אינו מתעד את מועד האפליה או הקשרה ואינו כולל בסיסים כגון מוגבלות או נטייה מינית. מסקנתו היא שמחקר וטיפול בבריאות אימהית עלולים להחמיץ אי־שוויון אם הם סופרים חשיפות בלי לבדוק כיצד הן פועלות בתוך מיקומים חברתיים שונים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_health_disparities_economic_burden_israel_summary_he",
+      "file": "democracy_health_disparities_economic_burden_israel_summary_he.html",
+      "permalink": "/democracy_health_disparities_economic_burden_israel_summary_he.html",
+      "sortKey": 202607310001,
+      "titleHe": "המחיר הכלכלי של פערי בריאות הקשורים למעמד חברתי־כלכלי בישראל",
+      "paperTitle": "The economic burden of health disparities related to socioeconomic status in Israel",
+      "authorsCardHe": "Eran Politzer; Amir Shmueli; Shlomit Avni",
+      "sourceAuthors": [
+        "Eran Politzer",
+        "Amir Shmueli",
+        "Shlomit Avni"
+      ],
+      "journal": "Israel Journal of Health Policy Research, 8(1), Article 46",
+      "dateText": "פורסם: 27 במאי 2019; כרך 8, גיליון 1, מאמר 46",
+      "doiUrl": "https://doi.org/10.1186/s13584-019-0306-8",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_health_disparities_economic_burden_israel_summary_he.jpg",
+        "altHe": "צוות מגוון לתכנון בריאות הציבור יושב סביב שולחן עם מפות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-07-31",
+      "dateModified": "2026-07-31",
+      "summaryHe": "ערן פוליצר, אמיר שמואלי ושלומית אבני אומדים את הנטל הכלכלי השנתי המתואם עם פערי בריאות לפי מעמד חברתי־כלכלי בישראל. הם בונים תרחיש נגדי שבו הקבוצה שמתחת לחציון משיגה את תוצאת הבריאות הממוצעת של הקבוצה שמעליו, ומשלבים דירוג יישובים, הכנסה אישית והשכלה עם נתוני הלשכה המרכזית לסטטיסטיקה, משרד הבריאות, המוסד לביטוח לאומי ורשות המסים. כל הסכומים הותאמו למונחי 2014. ביישובים שמתחת לחציון נמצאו תמותה גבוהה יותר וכ־41 אלף שנות חיים שאבדו בשנה; אובדן הרווחה מתמותה הוערך ב־1.09–2.94 מיליארד דולר. היעדרות ואי־עבודה בשל מחלה נקשרו לאובדן תוצר של כ־1.4 מיליארד דולר. עודף אשפוזים עלה לפי האומדן 176 מיליון דולר, בעוד ששימוש נמוך יותר במומחים, במקצועות פרא־רפואיים ובבדיקות MRI חסך חשבונאית כ־81 מיליון דולר, כך שהעלות הרפואית נטו נותרה חיובית. תשלומי נכות עודפים, חיסכון בקצבאות זקנה עקב תמותה מוקדמת והוצאות משרד הבריאות לצמצום פערים הצטברו לעלות ממשלתית נוספת נטו של כ־0.45 מיליארד דולר. בסך הכול, גישת ההון האנושי מניבה אומדן של 2.07 מיליארד דולר, כ־0.7% מהתמ״ג, וגישת הרווחה מניבה 3.02–4.86 מיליארד דולר, כ־1%–1.6% מהתמ״ג. המחברים מדגישים שמדובר באומדן סדר גודל המבוסס על מתאמים והנחות, לא בזיהוי סיבתי ולא בניתוח עלות־תועלת של תוכנית מסוימת. תרומתו הציבורית של המאמר היא בהמחשת המחיר האנושי, המשקי והתקציבי של אי־שוויון בבריאות, תוך הבחנה בין הפסדי רווחה ותוצר לבין העברות תקציביות בתוך המשק.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_national_health_authority_health_inequity_israel_summary_he",
       "file": "democracy_national_health_authority_health_inequity_israel_summary_he.html",
