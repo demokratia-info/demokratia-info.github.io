@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-31",
+  "lastUpdated": "2026-08-02",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -30458,6 +30458,286 @@
       "createdDate": "2026-08-01",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-01 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_international_human_rights_constitutional_dialogue_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_international_human_rights_constitutional_dialogue_israel_summary_he.html",
+      "usedBy": [
+        "democracy_international_human_rights_constitutional_dialogue_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד נכנס משפט זכויות האדם הבין־לאומי אל המשפט החוקתי בישראל?",
+      "authorsHe": "דפנה ברק־ארז",
+      "visualDescriptionHe": "חוקר מעיין בספרי משפט גדולים בספרייה, כשאולם שיפוט נראה מבעד לפתח ברקע.",
+      "semanticDescriptionHe": "המעבר החזותי מספריית המשפט אל האולם ממחיש דיאלוג בין מקורות נורמטיביים לבין יישומם החוקתי; הדמות אינה המחברת והסצנה אינה מתעדת הליך אמיתי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "international_human_rights",
+        "constitutional_dialogue",
+        "Israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific legal-research scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because the library-to-court composition supports doctrinal dialogue without depicting a real scholar, treaty, or case.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_commonwealth_constitutionalism_judicial_review_constitution_making_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_commonwealth_constitutionalism_judicial_review_constitution_making_summary_he.html",
+      "usedBy": [
+        "democracy_commonwealth_constitutionalism_judicial_review_constitution_making_summary_he.html"
+      ],
+      "cardTitleHe": "לא הטקסט לבדו: כיצד הליך כינון החוקה קובע את עוצמת הביקורת השיפוטית?",
+      "authorsHe": "רבקה ווייל",
+      "visualDescriptionHe": "אולם בית משפט פדרלי בבניין בית המשפט העליון של קנדה, ובו ספסל שיפוט ועבודת עץ גבוהה.",
+      "semanticDescriptionHe": "האולם הקנדי מייצג אחת מן הזירות המוסדיות של חוקתיות חבר העמים; הוא אינו מציג את המודל ההשוואתי כולו או הליך חוקתי מסוים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "new_commonwealth_model",
+        "judicial_review",
+        "constitution_making",
+        "Canada"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Mr Serjeant Buzfuz's CC0 photograph of a federal courtroom in the Supreme Court of Canada building. Standard fitness because the Canadian judicial setting is directly relevant, while the paper compares several constitutional systems and theories.",
+      "createdDate": "2026-08-02",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Mr Serjeant Buzfuz",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_czech_unconstitutional_constitutional_amendment_legisprudence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_czech_unconstitutional_constitutional_amendment_legisprudence_summary_he.html",
+      "usedBy": [
+        "democracy_czech_unconstitutional_constitutional_amendment_legisprudence_summary_he.html"
+      ],
+      "cardTitleHe": "מתי תיקון חוקתי נעשה בלתי־חוקתי? הלקח מפסק הדין הצ׳כי על בחירות מוקדמות",
+      "authorsHe": "יניב רוזנאי",
+      "visualDescriptionHe": "בניין בית המשפט החוקתי של צ׳כיה בברנו ניצב לצד רחוב מרוצף ומסילות חשמלית.",
+      "semanticDescriptionHe": "הבניין מאכלס את בית המשפט שפסיקתו עומדת במרכז המאמר; התצלום אינו מתעד את הדיון, את השופטים או את ההכרעה בדבר הבחירות המוקדמות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "unconstitutional_constitutional_amendment",
+        "Czech_Constitutional_Court",
+        "legisprudence",
+        "early_elections"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Petr Šmerkl's CC BY-SA 3.0 photograph of the Constitutional Court of the Czech Republic in Brno. High fitness because it documents the exact institution whose amendment judgment the paper analyzes.",
+      "createdDate": "2026-08-02",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_The_Czech_Republic_2010.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Constitutional_Court_of_The_Czech_Republic_2010.JPG",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "creator": "Petr Šmerkl (Wikimedia Commons user Sveter)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_political_parties_republican_non_domination_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_parties_republican_non_domination_summary_he.html",
+      "usedBy": [
+        "democracy_political_parties_republican_non_domination_summary_he.html"
+      ],
+      "cardTitleHe": "מפלגות כמוסדות של חירות: התפקיד הרפובליקני של תחרות, ערעור ועיצוב אינטרסים",
+      "authorsHe": "אלכסנדר בריאן",
+      "visualDescriptionHe": "קבוצה מגוונת של פעילים מתכנסת סביב שולחן בחדר ציבורי ומנהלת דיון משותף.",
+      "semanticDescriptionHe": "האספה ממחישה ארגון מפלגתי שמחבר קולות אזרחיים ומעצב אינטרסים; היא אינה מציגה מפלגה, מדינה או משתתפים אמיתיים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "political_parties",
+        "republicanism",
+        "non_domination"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-organizing scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because the deliberative group supports the paper's account of party organization without representing a real party or proving internal democracy.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_swiss_referenda_homogeneity_direct_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_swiss_referenda_homogeneity_direct_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_swiss_referenda_homogeneity_direct_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "משאלי העם בשווייץ: המכנה המשותף גובר על השסעים הלשוניים והדתיים",
+      "authorsHe": "אברהם דיסקין, אנדרה אשה־שוורץ ודן ס׳ פלזנטל",
+      "visualDescriptionHe": "אלפי אזרחים מתכנסים באספת הלנדסגמיינדה הפתוחה בכיכר גלרוס למרגלות ההרים.",
+      "semanticDescriptionHe": "האספה מתעדת מסורת ממשית של דמוקרטיה ישירה בשווייץ; היא אינה אחד ממשאלי העם הפדרליים שנותחו ואינה מציגה את מדדי ההומוגניות במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "direct_democracy",
+        "Swiss_referenda",
+        "Landsgemeinde"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Ludovic Péron's CC BY-SA 3.0 photograph of the 2014 Glarus Landsgemeinde. Standard fitness because it directly documents Swiss direct democracy, while the paper analyzes federal referendum results rather than this assembly.",
+      "createdDate": "2026-08-02",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Landsgemeinde_-_Glarus_2014_-_1.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Landsgemeinde_-_Glarus_2014_-_1.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "creator": "Ludovic Péron",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_democratic_peace_information_concessions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_democratic_peace_information_concessions_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_peace_information_concessions_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע נדרשות שתי דמוקרטיות לשלום: מידע, אמינות וויתורים הדדיים",
+      "authorsHe": "גילת לוי ורוני רזין",
+      "visualDescriptionHe": "שתי משלחות יושבות זו מול זו סביב שולחן משא ומתן ארוך בחדר רשמי.",
+      "semanticDescriptionHe": "המפגש ממחיש משא ומתן, מידע הדדי והאפשרות לוויתורים משלימים; הוא אינו מתעד מדינות, סכסוך או הסכם אמיתיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic_peace",
+        "information_asymmetry",
+        "negotiation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific diplomatic negotiation scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because the opposed delegations support the model's two-sided interaction without depicting an actual conflict or empirical result.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_diverse_political_views_media_environments_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_diverse_political_views_media_environments_israel_summary_he.html",
+      "usedBy": [
+        "democracy_diverse_political_views_media_environments_israel_summary_he.html"
+      ],
+      "cardTitleHe": "לא כל רשת היא תיבת תהודה: היכן ישראלים פוגשים דעות פוליטיות שונות?",
+      "authorsHe": "נילי שטיינפלד ואזי לב־און",
+      "visualDescriptionHe": "בני גילים שונים משוחחים בקבוצות קטנות סביב שולחנות לצד עיתון, טלפון ורדיו.",
+      "semanticDescriptionHe": "השילוב בין שיחה פנים אל פנים לבין אמצעי מדיה ממחיש את מגוון סביבות החשיפה; הדמויות אינן משתתפי הסקר ולא מוצגות בו עמדות פוליטיות ממשיות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "diverse_political_views",
+        "media_environment",
+        "selective_exposure"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific mixed-media discussion scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because the newspaper, phone, radio, and interpersonal groups make the channel contrast legible without claiming to reproduce the survey setting.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_human_rights_cosmopolitan_memory_holocaust_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_rights_cosmopolitan_memory_holocaust_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_cosmopolitan_memory_holocaust_summary_he.html"
+      ],
+      "cardTitleHe": "מזיכרון השואה לשפת זכויות האדם: כיצד חוויה פרטיקולרית נעשית אוניברסלית",
+      "authorsHe": "דניאל לוי ונתן שניידר",
+      "visualDescriptionHe": "שדה מצבות הבטון של האנדרטה ליהודי אירופה שנרצחו בברלין משתרע בשורות אל האופק.",
+      "semanticDescriptionHe": "האנדרטה מציגה מיסוד ציבורי של זיכרון השואה, העומד במרכז הדיון על זיכרון קוסמופוליטי; התצלום אינו כשלעצמו מוכיח את התפשטות שפת זכויות האדם.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "human_rights",
+        "Holocaust_memory",
+        "cosmopolitan_memory"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Dietmar Rabich's CC BY-SA 4.0 photograph of the Memorial to the Murdered Jews of Europe in Berlin. Standard fitness because the memorial directly supports the paper's central case, while its broader sociological mechanism is not visually observable.",
+      "createdDate": "2026-08-02",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Berlin,_Denkmal_f%C3%BCr_die_ermordeten_Juden_Europas_--_2011_--_2415.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Berlin%2C_Denkmal_f%C3%BCr_die_ermordeten_Juden_Europas_--_2011_--_2415.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Dietmar Rabich",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_culture_rule_law_governance_norms_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_culture_rule_law_governance_norms_summary_he.html",
+      "usedBy": [
+        "democracy_culture_rule_law_governance_norms_summary_he.html"
+      ],
+      "cardTitleHe": "תרבות, שלטון החוק ואחריותיות: מדוע ערכי יסוד מנבאים מוסדות ממשל",
+      "authorsHe": "אמיר נ׳ ליכט, חנן גולדשמידט ושלום ה׳ שוורץ",
+      "visualDescriptionHe": "חברי ועדה דנים סביב שולחן, ומעבר לדלת פתוחה נראה הרכב שיפוטי באולם סמוך.",
+      "semanticDescriptionHe": "שתי הזירות המוסדיות ממחישות את הקשר בין נורמות ממשל לבין חוק ואחריותיות; הן אינן מייצגות מדינות מן המדגם או את המתאמים התרבותיים שנמדדו.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity",
+        "culture",
+        "rule_of_law",
+        "governance_norms"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific committee-and-court scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it connects governance deliberation with legal institutions without depicting the cross-national cultural measures or causal estimates.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_democratic_ideals_political_trust_europe_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_democratic_ideals_political_trust_europe_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_ideals_political_trust_europe_summary_he.html"
+      ],
+      "cardTitleHe": "אידיאלים גבוהים, אמון נמוך: כיצד ציפיות מדמוקרטיה מעצבות אמון פוליטי",
+      "authorsHe": "מארק הוכה, סופי מריאן וג׳ניפר אוסר",
+      "visualDescriptionHe": "אזרחים מחזיקים מחברות ומשוחחים בקבוצות מחוץ לבניין ציבורי מואר בשעת ערב.",
+      "semanticDescriptionHe": "המפגש בפתח המוסד ממחיש אזרחים הבוחנים מוסדות ציבוריים מול ציפיותיהם; הדמויות אינן משתתפי הסקר והסצנה אינה מדד של אמון בפועל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic_ideals",
+        "political_trust",
+        "European_Social_Survey"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-institution scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because the citizens gathered outside a public building support the ideals-versus-institutions theme without depicting survey respondents or measured trust.",
+      "createdDate": "2026-08-02",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

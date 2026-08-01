@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-01",
+  "lastUpdated": "2026-08-02",
   "sampleSize": 6,
-  "seed": "2026-08-01-homepage-high-fit",
+  "seed": "2026-08-02-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 736,
+  "fullTextHighFitPaperCount": 737,
   "paperSlugs": [
-    "democracy_the_panopticon_of_international_law_b_tselem_s_camera_project_and_the_enforcement_of_international_law_in_a_summary_he",
+    "democracy_political_violence_summary_he",
     "democracy_the_rights_of_the_arab_minority_in_israel_summary_he",
     "democracy_israel_constitutional_moment_admin_law_summary_he",
-    "democracy_affective_polarization_security_threats_october_7_summary_he",
+    "democracy_political_attitudes_neural_responses_summary_he",
     "democracy_inclusion_of_children_with_disabilities_from_the_palestinian_arab_community_in_the_israeli_education_system_summary_he",
     "democracy_motivated_reasoning_judicial_reform_polarization_summary_he"
   ]
