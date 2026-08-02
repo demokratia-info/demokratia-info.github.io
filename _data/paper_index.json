@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1212,
+  "paperCount": 1222,
   "papers": [
+    {
+      "slug": "democracy_online_selective_exposure_israeli_elections_summary_he",
+      "file": "democracy_online_selective_exposure_israeli_elections_summary_he.html",
+      "permalink": "/democracy_online_selective_exposure_israeli_elections_summary_he.html",
+      "sortKey": 202608030010,
+      "titleHe": "לא כל רשת היא תיבת תהודה: חשיפה אידאולוגית בבחירות 2013",
+      "paperTitle": "The Extent and Nature of Ideological Selective Exposure Online: Combining Survey Responses with Actual Web Log Data from the 2013 Israeli Elections",
+      "authorsCardHe": "שירה דביר־גבירצמן, יריב צפתי ואריקה מנכן־טרווינו",
+      "sourceAuthors": [
+        "Shira Dvir-Gvirsman",
+        "Yariv Tsfati",
+        "Ericka Menchen-Trevino"
+      ],
+      "journal": "New Media & Society, vol. 18, no. 5, 857–877",
+      "dateText": "פורסם אונליין ב־2 בספטמבר 2014; כרך 18, גיליון 5, עמ׳ 857–877 (2016)",
+      "doiUrl": "https://doi.org/10.1177/1461444814549041",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_online_selective_exposure_israeli_elections_summary_he.jpg",
+        "altHe": "חוקרת מול מחשב נייד ומסך נוסף המציגים מקורות חדשות מגוונים ללא טקסט קריא",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "המאמר בודק אם אזרחים באינטרנט בוחרים מידע פוליטי שמתאים לעמדתם ונמנעים ממידע מנוגד, תוך החלפת ההסתמכות הרגילה על זיכרון המשיבים במדידה של התנהגות גלישה. 402 משתתפים התקינו כלי מעקב במחשביהם במשך שבעת השבועות שקדמו לבחירות לכנסת בינואר 2013 ומילאו סקר על אידאולוגיה והרגלי מדיה. היומנים כללו 661,483 כתובות מ־15,976 אתרים; החוקרים סיווגו 3,359 אתרים שכיסו 83% מן הכתובות, תחילה כפוליטיים או לא־פוליטיים ואז כשמאל, ימין או ללא זיהוי אידאולוגי ברור. רק 5% מן האתרים היו פוליטיים, אף שהם קיבלו 15% מן הגלישה, והאתרים האידאולוגיים — 16 משמאל ו־40 מימין — היו 18% מן הגלישה הפוליטית, כלומר כ־3% מכלל הגלישה שנמדדה. 45% מן המשתתפים ביקרו לפחות בכתובת ימנית אחת ו־24% לפחות בכתובת שמאלית אחת. עמדה עצמית בשמאל או בימין הייתה קשורה לשימוש באתרי המחנה המתאים, וקיצוניות אידאולוגית ניבאה יותר חשיפה תואמת עמדה; היא לא ניבאה באופן עקבי הימנעות מן הצד האחר. כמחצית המשתתפים לא נחשפו כלל לאתר שסווג אידאולוגית, כשליש נחשפו רק לצד אחד וכחמישית לשני הצדדים, בעוד 20% לא ביקרו בשום אתר פוליטי. רשת הגלישה הייתה מבוזרת, וברוב האתרים שהגיעו ל־3% מן המדגם הייתה חפיפת קהל עם לפחות 80% מן האתרים האחרים. ההתאמה בין דיווח עצמי ליומן הייתה חלשה: המתאמים לאתר נעו בין 0 ל־0.38, בממוצע 0.18, ו־83% מן הטוענים שביקרו באתר אידאולוגי מסוים לא תועדו כמבקרים בו ביומן. הממצאים מזהים ברירה תואמת עמדה אך אינם מצדיקים תיאור של כלל הרשת כתיבות תהודה; הם מוגבלים למדגם מצטרף, לגלישה ממחשבים שולחניים וניידים בתקופת בחירות אחת, לקידוד אידאולוגיה ברמת האתר ולהוצאה של אזרחים ערבים מניתוח זה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_parliamentary_interjections_rabin_discourse_summary_he",
+      "file": "democracy_parliamentary_interjections_rabin_discourse_summary_he.html",
+      "permalink": "/democracy_parliamentary_interjections_rabin_discourse_summary_he.html",
+      "sortKey": 202608030009,
+      "titleHe": "כשהקריאות גוברות על הנאום: כיצד הפרעות בכנסת קטעו את הנרטיב של רבין?",
+      "paperTitle": "Showing and telling in parliamentary discourse: the case of repeated interjections to Rabin’s speeches in the Israeli parliament",
+      "authorsCardHe": "שאול ר׳ שנהב",
+      "sourceAuthors": [
+        "Shaul R. Shenhav"
+      ],
+      "journal": "Discourse & Society, vol. 19, no. 2, pp. 223–255",
+      "dateText": "מרץ 2008; כרך 19, גיליון 2, עמ׳ 223–255",
+      "doiUrl": "https://doi.org/10.1177/0957926507085953",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_parliamentary_interjections_rabin_discourse_summary_he.jpg",
+        "altHe": "מבט רחב על מליאת הכנסת בזמן ישיבה מיוחדת בשנת 2010",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "שאול שנהב בוחן קריאות ביניים חוזרות לנאומי ראש הממשלה יצחק רבין בכנסת בין יולי 1992 לנובמבר 1995 באמצעות שילוב של ספירה כמותית וניתוח נרטיבי של פרוטוקולים רשמיים. המסגרת המושגית מבחינה בין הצגה לבין סיפור: קריאת ביניים יוצרת פעולה ועימות בזמן אמת, ואילו נאום רציף מאפשר לדובר לקשור עבר, הווה ועתיד לטיעון פוליטי. השוואה של שמונה נאומים מרכזיים של ראשי ממשלה על יוזמות ביחסי ישראל–ערב ממקמת את תקופת רבין בתוך רצף רחב יותר ומזהה עלייה ניכרת במספר ההפרעות למאה מילים בכנסת השלוש־עשרה. העלייה החלה כבר בתקופה שלפני הסכמי אוסלו, כאשר הממשלה החלה לקדם יוזמות ביטחוניות ומדיניות, ולא רק לאחר חתימת ההסכמים. יותר מארבעים חברי אופוזיציה קראו לפחות קריאת ביניים אחת, אף שקבוצה של כעשרה חברים בלטה במיוחד, וכ־23% מן ההפרעות נוסחו כשאלות. קריאות יושב ראש הכנסת לסדר נעו כמעט יחד עם שיעור ההפרעות, במתאם של 0.92, ומחזקות את הטענה שהפרוטוקולים לוכדים הפרעה ממשית לדיון. קריאה צמודה בנאומים מראה שהקריאות הצטברו במיוחד ברגעים שבהם רבין ניסה לפרש מחדש גבולות, ביטחון וזהות לאומית ולבנות רצף בין ניסיון היסטורי למדיניות עתידית. לפי שנהב, הפרעה מתונה יכולה לבטא פלורליזם וליצור דיאלוג, אך הצפה חוזרת של הנאום מעבירה את תשומת הלב מן הסיפור אל המופע ומקשה על הצגת חלופה למדיניות ולנרטיב הקיימים. זהו מחקר מקרה של תקופה, מנהיג וסוג נאומים מסוימים; הוא אינו מודד את השפעת הקריאות על דעת הקהל ואינו מוכיח שהן תואמו או נועדו במכוון לחסום שינוי. תרומתו היא בהבהרת תנאי תקשורתי בסיסי של פרלמנט דמוקרטי: עליו לאפשר גם התנגדות נראית לעין וגם מרחב מינימלי לטיעון רציף שאפשר לבקרו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he",
+      "file": "democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.html",
+      "permalink": "/democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.html",
+      "sortKey": 202608030008,
+      "titleHe": "אזרחות שאינה מנותקת מן המציאות: כיצד מורים פלסטינים־מוסלמים משלבים אסלאם בשיעורי אזרחות?",
+      "paperTitle": "“You can’t teach your students something that is divorced from reality”: Palestinian citizenship teachers making sense of the relevance of Islam for citizenship education in Israel",
+      "authorsCardHe": "אלין מוף ואיימן אגבאריה",
+      "sourceAuthors": [
+        "Aline Muff",
+        "Ayman Agbaria"
+      ],
+      "journal": "Education, Citizenship and Social Justice, vol. 19, no. 3, pp. 429–445",
+      "dateText": "פורסם מקוון ב־19 באפריל 2023; כרך 19, גיליון 3, עמ׳ 429–445 (נובמבר 2024)",
+      "doiUrl": "https://doi.org/10.1177/17461979231169470",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.jpg",
+        "altHe": "מנהל בית הספר גשר על הוואדי וסגניתו יושבים בדיון בכפר קרע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "אלין מוף ואיימן אגבאריה בוחנים כיצד שבעה מורי אזרחות פלסטינים־מוסלמים בבתי ספר תיכוניים ציבוריים בחברה הערבית בישראל מבינים את מקומו של האסלאם בחינוך לאזרחות. הראיונות החצי־מובנים נערכו בזום בין ינואר למרץ 2021, והמשתתפים היו מורים ותיקים בעלי 16–27 שנות ניסיון. הניתוח מזהה שני תפקידים מרכזיים. ראשית, האסלאם משמש משאב להתנגדות למה שהמחברים מכנים אזרחות דקה: מסגרת המדגישה זכויות של יחידים אך מצמצמת, בעיני המורים, הכרה בשייכות הלאומית והדתית הקולקטיבית של תלמידיהם. שנית, המורים משתמשים במושגים דתיים של כבוד האדם, סובלנות, אחריות והתייעצות כדי להעניק משמעות מעשית לעקרונות מופשטים של אזרחות ודמוקרטיה. הכיתה נעשית כך מרחב שלישי שבו תוכנית הלימודים הרשמית, הידע מן הבית והקהילה והחוויה האזרחית היומיומית נפגשים ומתפרשים מחדש. המאמר אינו מציג את הדת כפתרון דמוקרטי אוטומטי: חלק מן הפרשנויות השמרניות שתיארו המשתתפים מצמצמות קבלה של זהות מינית, אתאיזם או ביטוי שנתפס כפוגע בדת, ואילו מורים אחרים הופכים מחלוקות כאלה לדיון בסובלנות ובגבולותיה. לכן המחברים מציעים להגן על המרחב הפדגוגי באמצעות זכויות אדם ואזרח, בלי להעניק עדיפות לדת אחת. זהו מחקר עומק קטן המבוסס על דיווח עצמי של שבעה מורים שנבחרו דרך רשת מקצועית; הוא אינו מתעד שיעורים בפועל, קולות תלמידים או שכיחות של הפרקטיקות בכלל מערכת החינוך. כוחו הוא בחשיפת עבודת התיווך שמורים עושים בין תוכנית לימודים ממלכתית לבין זהות, אי־שוויון וחיים דתיים כפי שהם נחווים בקהילה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he",
+      "file": "democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.html",
+      "permalink": "/democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.html",
+      "sortKey": 202608030007,
+      "titleHe": "כשהתקשורת נתפסת כמטה את המשחק: דימוי ציבורי ולגיטימציה דמוקרטית בקרב תושבי ההתנחלויות ברצועת עזה",
+      "paperTitle": "The Influence of Presumed Media Influence on Democratic Legitimacy: The Case of Gaza Settlers",
+      "authorsCardHe": "יריב צפתי וג׳ונתן כהן",
+      "sourceAuthors": [
+        "Yariv Tsfati",
+        "Jonathan Cohen"
+      ],
+      "journal": "Communication Research, vol. 32, no. 6, pp. 794–821",
+      "dateText": "דצמבר 2005; כרך 32, גיליון 6, עמ׳ 794–821",
+      "doiUrl": "https://doi.org/10.1177/0093650205281057",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.jpg",
+        "altHe": "אזרחים יושבים סביב שולחן ומשוחחים על סיקור חדשות המוקרן בחדר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "יריב צפתי וג׳ונתן כהן בוחנים כיצד אמונה בכוחה של התקשורת על אחרים עשויה לערער לגיטימציה דמוקרטית גם בלי להוכיח שהסיקור אכן שינה את דעת הקהל. בסקר טלפוני שנערך בשבועות האחרונים של אפריל 2004, לפני משאל חברי הליכוד על תוכנית ההתנתקות, השתתפו 413 מבוגרים מן ההתנחלויות היהודיות ברצועת עזה. המשיבים העריכו שהסיקור שלילי ושהוא משפיע הרבה יותר על הציבור הישראלי מאשר עליהם עצמם: ממוצע ההשפעה הנתפסת היה 4.01 על הציבור לעומת 1.58 על העצמי. במודל נתיבים, תפיסת סיקור שלילי נקשרה להשפעה חזקה יותר המיוחסת לאחרים, וזו נקשרה לתפיסה שלפיה הציבור מחזיק בדימוי שלילי יותר של המתיישבים. הדימוי השלילי הנתפס נקשר בתורו לחוסר יעילות פוליטית, למחשבות על עזיבת האזור ולהצדקת שימוש בכוח; הצדקת הכוח נקשרה גם לכוונה מוצהרת להתנגד בכוח. המאמר מכנה את המנגנון הזה השפעת התקשורת המשוערת: אנשים עשויים לפעול על סמך מה שהם מאמינים שהתקשורת עשתה לאחרים, גם כאשר האמונה אינה מדויקת. ואכן, ניתוח תוכן חיצוני שהמחברים מצטטים תיאר את סיקור המשאל כמאוזן יחסית, ולכן הנתונים מלמדים על כוחן הפוליטי של תפיסות ולא על הטיה מוכחת. זהו סקר חתך של קבוצה מעורבת מאוד באירוע קיצוני, ורבים מן המשתנים נמדדו בפריט יחיד; משום כך המודל אינו מוכיח סיבתיות, אינו שולל כיוון הפוך ואינו מאפשר להכליל בקלות לציבורים אחרים. תרומתו היא בהצגת מסלול אפשרי שבו תחושת הדרה תקשורתית נעשית תחושת הדרה מן ההליך הדמוקרטי עצמו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_partisanship_economic_behavior_polarized_era_summary_he",
+      "file": "democracy_partisanship_economic_behavior_polarized_era_summary_he.html",
+      "permalink": "/democracy_partisanship_economic_behavior_polarized_era_summary_he.html",
+      "sortKey": 202608030006,
+      "titleHe": "כשהמפלגה נכנסת לשכר ולקניות: המחיר הכלכלי של קיטוב",
+      "paperTitle": "The Economic Consequences of Partisanship in a Polarized Era",
+      "authorsCardHe": "כריסטופר מקונל, יותם מרגלית, ניל מלהוטרה ומתיו לוונדוסקי",
+      "sourceAuthors": [
+        "Christopher McConnell",
+        "Yotam Margalit",
+        "Neil Malhotra",
+        "Matthew Levendusky"
+      ],
+      "journal": "American Journal of Political Science, 62(1), 5–18",
+      "dateText": "פורסם לראשונה אונליין: 31 באוגוסט 2017; גיליון ינואר 2018, כרך 62, גיליון 1, עמ׳ 5–18",
+      "doiUrl": "https://doi.org/10.1111/ajps.12330",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_partisanship_economic_behavior_polarized_era_summary_he.jpg",
+        "altHe": "מוכר בשוק איכרים מקבל תשלום במזומן מלקוח ליד דוכן ירקות ופרחים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "כריסטופר מקונל, יותם מרגלית, ניל מלהוטרה ומתיו לוונדוסקי בוחנים אם זהות מפלגתית בארצות הברית משפיעה לא רק על דעה פוליטית אלא גם על התנהגות כלכלית הכרוכה בכסף או בעבודה. הם משלבים ניסוי שדה בשוק עבודה מקוון, שני ניסויי צרכנים וניסוי סקר מתוגמל במדגם הסתברותי ארצי. בניסוי העבודה, שבו אותתה משימת עריכה כי מייסדי החברה קשורים לדמוקרטים, לרפובליקנים או לארגון ניטרלי, עובדים ביקשו ממעסיק בן מפלגתם שכר סף נמוך בכ־0.23 דולר מן התנאי הניטרלי; הם לא דרשו תוספת ממעסיק המזוהה עם היריב. בניסוי צרכנים, הצעה לרכוש כרטיס מתנה של 50 דולר ב־25 דולר זכתה ליותר היענות כשהשולח אותת על קשר למפלגת הנמען, במיוחד בקרב מזדהים חזקים; שוב לא נמצא עונש ברור למוכר מן המפלגה היריבה לעומת מוכר ניטרלי. בניסוי הסקר, 75.4% העדיפו לקבל 3 דולר במקום 6 דולר שהיו מלווים בתרומה של 4 דולר לוועדה הלאומית של המפלגה היריבה; השיעור היה 89.1% בקרב מזדהים חזקים ו־68.5% בקרב מזדהים חלשים או נוטים. העלאת התשלום החלופי ל־9 דולר הפחיתה את הוויתור רק ב־4.8 נקודות אחוז, והאפקט היה דומה בגודלו לזה של שסע דתי וחזק בהרבה מחלוקה גאוגרפית שרירותית. דפוס ניסויי השדה מתאים בעיקר להעדפת קבוצת הפנים, ואילו הבחירה המפלגתית המפורשת בניסוי הסקר מתאימה גם לסלידה מקבוצת החוץ. תיקון שפורסם ב־2020 תיקן שגיאות קידוד, מדגמים ואומדנים בשני המחקרים הראשונים; הוא לא שינה את ניסוי הסקר או את המסקנות המהותיות, והנתונים המספריים כאן נשענים על הטבלאות המתוקנות. המחקר אינו משנה באקראי את זהותם המפלגתית של המשתתפים ואינו מוכיח נזק מקרו־כלכלי, אך הוא מראה שאיתות מפלגתי יכול לשנות בחירות יומיומיות בעלות מחיר ממשי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populism_social_integration_subjective_status_summary_he",
+      "file": "democracy_populism_social_integration_subjective_status_summary_he.html",
+      "permalink": "/democracy_populism_social_integration_subjective_status_summary_he.html",
+      "sortKey": 202608030005,
+      "titleHe": "האם פופוליזם הוא גם בעיה של השתלבות חברתית ומעמד נתפס?",
+      "paperTitle": "Populism as a Problem of Social Integration",
+      "authorsCardHe": "נועם גדרון, פיטר א׳ הול",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "Peter A. Hall"
+      ],
+      "journal": "Comparative Political Studies, vol. 53, no. 7, 1027–1059",
+      "dateText": "פורסם אונליין ב־16 באוקטובר 2019; כרך 53, גיליון 7, עמ׳ 1027–1059 (יוני 2020)",
+      "doiUrl": "https://doi.org/10.1177/0010414019879947",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_social_integration_subjective_status_summary_he.jpg",
+        "altHe": "תושבים מגילים ורקעים שונים משוחחים במעגל בכיכר עירונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "נועם גדרון ופיטר א׳ הול מציעים לראות חלק מן התמיכה במפלגות רדיקליות כביטוי לכשל בהשתלבות חברתית. הם מנתחים את הסקר החברתי האירופי מ-2012–2013 ב-25 מדינות ומשתמשים בסולם שבו משיבים מדרגים את מקומם בחברה כדי למדוד מעמד חברתי סובייקטיבי. מי שחשו במעמד נמוך יותר נטו להביע פחות אמון ושביעות רצון מן המערכת, להימנע מהצבעה ולהצביע למפלגות ימין ושמאל רדיקליות. הממצאים הם קשרים תצפיתיים ולא הוכחה סיבתית, אך הם מצביעים על כך שקושי חומרי, שינוי כלכלי, פער תרבותי והיעדר הכרה יכולים להשתלב ביצירת תחושת שוליות פוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_warm_elite_relations_affective_polarization_summary_he",
+      "file": "democracy_warm_elite_relations_affective_polarization_summary_he.html",
+      "permalink": "/democracy_warm_elite_relations_affective_polarization_summary_he.html",
+      "sortKey": 202608030004,
+      "titleHe": "מה מפחית קיטוב רגשי: יחסים חמים בין מנהיגים או פשרה במדיניות?",
+      "paperTitle": "Reducing Affective Polarization: Warm Group Relations or Policy Compromise?",
+      "authorsCardHe": "ליאוני האדי, עומר יאיר",
+      "sourceAuthors": [
+        "Leonie Huddy",
+        "Omer Yair"
+      ],
+      "journal": "Political Psychology, vol. 42, no. 2, 291–309",
+      "dateText": "פורסם אונליין ב־2 בנובמבר 2020; כרך 42, גיליון 2, עמ׳ 291–309 (אפריל 2021)",
+      "doiUrl": "https://doi.org/10.1111/pops.12699",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_warm_elite_relations_affective_polarization_summary_he.jpg",
+        "altHe": "שני מנהיגים ציבוריים לוחצים ידיים ומשוחחים בחיוך במסדרון מוסדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "ליאוני האדי ועומר יאיר משווים בין שני הסברים לקיטוב רגשי: עוינות בין קבוצות חברתיות לעומת מרחק בעמדות מדיניות. ב-2017 וב-2018 השתתפו 937 דמוקרטים ורפובליקנים בשני ניסויי סקר מקוונים, שבהם קראו ידיעה מדומה על מפגש בין צ׳אק שומר למיץ׳ מקונל. החוקרים שינו בנפרד את חום היחסים בין המנהיגים ואת נכונותם להתפשר בסוגיות הגירה. בשני המחקרים יחסים חמים שיפרו במידה קטנה אך עקבית את הערכת המפלגה היריבה, ואילו פשרה במדיניות לא שיפרה אותה גם כאשר המשיבים זיהו שהעמדות התמתנו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_majority_nationalism_law_minority_discrimination_summary_he",
+      "file": "democracy_majority_nationalism_law_minority_discrimination_summary_he.html",
+      "permalink": "/democracy_majority_nationalism_law_minority_discrimination_summary_he.html",
+      "sortKey": 202608030003,
+      "titleHe": "כיצד חוק לאומיות של הרוב משפיע על אפליה כלפי מיעוטים?",
+      "paperTitle": "The Provocative Effect of Law: Majority Nationalism and Minority Discrimination",
+      "authorsCardHe": "נטע ברק־קורן, יובל פלדמן, נועם גדרון",
+      "sourceAuthors": [
+        "Netta Barak-Corren",
+        "Yuval Feldman",
+        "Noam Gidron"
+      ],
+      "journal": "Journal of Empirical Legal Studies, vol. 15, no. 4, 951–986",
+      "dateText": "פורסם אונליין ב־3 באוקטובר 2018; כרך 15, גיליון 4, עמ׳ 951–986 (דצמבר 2018)",
+      "doiUrl": "https://doi.org/10.1111/jels.12199",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_majority_nationalism_law_minority_discrimination_summary_he.jpg",
+        "altHe": "אישה בחיג׳אב משוחחת עם שני נציגים ליד דלפק באולם בית משפט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "נטע ברק־קורן, יובל פלדמן ונועם גדרון בוחנים את כוחו האקספרסיבי של חוק באמצעות טיוטת חוק הלאום בישראל. בשני ניסויי סקר, שכללו יחד 602 משתתפים מן הרוב היהודי, הם השוו חשיפה לטיוטה לחשיפה לחוק ניטרלי או לחוק נגד אפליה ולאחר מכן מדדו העדפות בהקצאת משאבים לארבע קבוצות מיעוט. התמיכה בטענה שהחוק מגביר אפליה באופן כללי הייתה חלשה, אך נמצאו סימנים לזליגה בין קבוצות ובין הזירה הציבורית לפרטית. הממצא הבולט היה שמתנגדי החוק נעשו נדיבים יותר כלפי מיעוטים, ובעיקר כלפי ערבים, תגובה שהמחברים מכנים האפקט הפרובוקטיבי של החוק.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_national_courts_domestic_democracy_international_law_summary_he",
+      "file": "democracy_national_courts_domestic_democracy_international_law_summary_he.html",
+      "permalink": "/democracy_national_courts_domestic_democracy_international_law_summary_he.html",
+      "sortKey": 202608030002,
+      "titleHe": "כשמדיניות החוץ נכנסת הביתה: מדוע בתי משפט לאומיים משתפים פעולה",
+      "paperTitle": "National Courts, Domestic Democracy, and the Evolution of International Law",
+      "authorsCardHe": "אייל בנבנישתי וג׳ורג׳ ו׳ דאונס",
+      "sourceAuthors": [
+        "Eyal Benvenisti",
+        "George W. Downs"
+      ],
+      "journal": "European Journal of International Law, 20(1), 59–72",
+      "dateText": "1 בפברואר 2009; כרך 20, גיליון 1, עמ׳ 59–72",
+      "doiUrl": "https://doi.org/10.1093/ejil/chp004",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_national_courts_domestic_democracy_international_law_summary_he.jpg",
+        "altHe": "שופטי בית הדין הבין־לאומי לצדק יושבים מאחורי שולחן הדיונים בהאג בשנת 1979",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "אייל בנבנישתי וג׳ורג׳ ו׳ דאונס מסבירים מדוע כמה בתי משפט בולטים במדינות דמוקרטיות החלו לנטוש את הריסון המסורתי כלפי הרשות המבצעת בענייני חוץ ולהפעיל ביתר נחרצות משפט בין־לאומי ומשפט השוואתי. בעבר, ההפרדה בין פנים לחוץ אפשרה לשופטים לראות בדיפלומטיה תחום שהממשלה מייצגת בו את האינטרס הלאומי ושבו התערבות משפטית עלולה להזיק. הגלובליזציה שינתה את התנאים: רגולציה של ביטחון, שווקים, סביבה והגירה עוברת להסדרים בין־ממשלתיים ולעיתים בלתי־פורמליים הנשלטים בידי רשויות מבצעות, קבוצות אינטרס ומדינות חזקות, אף שתוצאותיה חודרות למדיניות הפנים. התוצאה היא צמצום של השתתפות ציבורית, פיקוח חקיקתי וביקורת שיפוטית, לצד התחזקות טריבונלים בין־לאומיים שיכולים לקבוע פרשנות מוקדמת או לבחון בעקיפין פסקי דין מקומיים. המחברים מציעים שבתי משפט מגיבים באמצעות תיאום בין־שיפוטי רופף: הם קוראים ומצטטים פסקי דין זרים, נשענים על מקורות חוקתיים ובין־לאומיים משותפים ומאותתים זה לזה על נכונות לשתף פעולה. פעולה מקבילה של כמה ערכאות מפחיתה את הסיכון שבית משפט יחיד ייענש כחריג, ומחזקת את יכולתן להציב גבולות לכוח המבצעי בלי לבודד את מדינתן. שיתוף כזה עשוי גם לסייע לבתי משפט לאומיים ובין־לאומיים לבנות סדר משפטי עקבי ואחראי יותר. אולם המחברים מדגישים סכנות: עימות בין ערכאות יכול לחזק ממשלות; שופטים סובלים מהטיות ומחסור במומחיות; שיתוף הפעולה נשען בעיקר על מועדון קטן של בתי משפט חזקים ודומים; והצטרפות של מערכות משפט מן הדרום הגלובלי עשויה לחשוף מחלוקות עמוקות. זהו מאמר תיאורטי משנת 2009, המבוסס על ניתוח מוסדי ודוגמאות משפטיות ולא על מאגר שיטתי של פסקי דין.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_cedaw_gender_democratic_citizenship_summary_he",
+      "file": "democracy_cedaw_gender_democratic_citizenship_summary_he.html",
+      "permalink": "/democracy_cedaw_gender_democratic_citizenship_summary_he.html",
+      "sortKey": 202608030001,
+      "titleHe": "שוויון מגדרי אינו פרס מהדמוקרטיה — הוא תנאי לקיומה",
+      "paperTitle": "Gender and democratic citizenship: the impact of CEDAW",
+      "authorsCardHe": "פרנסס רדאי",
+      "sourceAuthors": [
+        "Frances Raday"
+      ],
+      "journal": "International Journal of Constitutional Law, 10(2), 512–530",
+      "dateText": "30 במרץ 2012; כרך 10, גיליון 2, עמ׳ 512–530",
+      "doiUrl": "https://doi.org/10.1093/icon/mor068",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_cedaw_gender_democratic_citizenship_summary_he.jpg",
+        "altHe": "נשים מרקעים מגוונים יושבות סביב שולחן דיון באולם ציבורי ואחת מהן נושאת דברים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-03",
+      "dateModified": "2026-08-03",
+      "summaryHe": "פרנסס רדאי טוענת כי הזכות של נשים לשוויון אינה נגזרת מרצון הרוב ואינה תוצאה שהדמוקרטיה רשאית להעניק או לשלול; היא זכות אדם קודמת והכרחית לאזרחות דמוקרטית בת־קיימא. אמנת CEDAW אינה מסתפקת בכלל ניטרלי או בשוויון לפני החוק, אלא דורשת שוויון מהותי וטרנספורמטיבי: תיקון של תת־ייצוג, סטריאוטיפים, חלוקת משאבים ומבנים משפחתיים וכלכליים המונעים מנשים אוטונומיה והשתתפות שווה. המאמר משיב לביקורות שלפיהן האמנה אסימילטיבית, הומוגנית או מהותנית, ומדגיש כי פרשנות ועדת CEDAW מכירה בהצטלבויות של עוני, גזע, דת, גיל, מוגבלות, הגירה וזהויות נוספות בלי לאבד את המוקד באפליה נגד נשים. שתי מערכות רעיוניות מאתגרות את ההבטחה הזאת בדרכים שונות: מסורות דתיות ותרבותיות עשויות להצדיק היררכיה במשפחה ובמרחב הציבורי, ואילו ניאו־ליברליזם מכיר לכאורה בשוויון הזדמנויות אך מתנגד להתערבות, לחלוקה מחדש ולשירותים המאפשרים טיפול, הורות ועבודה. סעיפים 2, 4 ו־5 באמנה מעניקים למדינה כלים וחובות לשנות מנהגים מפלים, לפקח גם על גופים פרטיים, לנקוט אמצעים מיוחדים זמניים, להגן על אימהוּת ולקדם אחריות הורית משותפת. רדאי מצביעה על הישגים נורמטיביים ומוסדיים, אך גם על כישלון מתמשך לבטל דינים מפלים, לצמצם עוני ועבודה פגיעה ולהפוך זכויות כתובות למציאות. זהו מאמר פרשני־נורמטיבי משנת 2012, המבוסס על דיני זכויות אדם, פרשנות מוסדית ודוגמאות משפטיות; הוא אינו מחקר אמפירי ואינו מודד את השפעת האמנה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_democratic_ideals_political_trust_europe_summary_he",
       "file": "democracy_democratic_ideals_political_trust_europe_summary_he.html",

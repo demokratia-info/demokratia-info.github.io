@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-03",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -30739,6 +30739,286 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-02 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_cedaw_gender_democratic_citizenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_cedaw_gender_democratic_citizenship_summary_he.html",
+      "usedBy": [
+        "democracy_cedaw_gender_democratic_citizenship_summary_he.html"
+      ],
+      "cardTitleHe": "שוויון מגדרי אינו פרס מהדמוקרטיה — הוא תנאי לקיומה",
+      "authorsHe": "פרנסס רדאי",
+      "visualDescriptionHe": "נשים מרקעים מגוונים יושבות סביב שולחן דיון באולם ציבורי ואחת מהן נושאת דברים.",
+      "semanticDescriptionHe": "הדיון הציבורי ממחיש השתתפות אזרחית וקול שווה לנשים, שהם ליבת הדיון ב־CEDAW ובאזרחות דמוקרטית; המצולמות אינן משתתפות במחקר או בדיון ממשי המתואר במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "CEDAW",
+        "gender_equality",
+        "democratic_citizenship"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-hearing scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it conveys equal public participation without presenting a real CEDAW proceeding or empirical finding.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_majority_nationalism_law_minority_discrimination_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_majority_nationalism_law_minority_discrimination_summary_he.html",
+      "usedBy": [
+        "democracy_majority_nationalism_law_minority_discrimination_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד חוק לאומיות של הרוב משפיע על אפליה כלפי מיעוטים?",
+      "authorsHe": "נטע ברק־קורן, יובל פלדמן ונועם גדרון",
+      "visualDescriptionHe": "אישה בחיג׳אב משוחחת עם שני נציגים ליד דלפק באולם בית משפט.",
+      "semanticDescriptionHe": "המפגש האזרחי בתוך מוסד משפטי ממחיש את הקשר בין מסר החוק לבין יחס למיעוטים; הדמויות אינן משתתפי הניסויים והסצנה אינה מציגה את טיוטת החוק שנבדקה.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "majority_nationalism",
+        "minority_discrimination",
+        "expressive_law"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific citizen-and-legal-officials scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it makes institutional power and minority treatment legible without depicting the survey experiments or assigning motives to real officials.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_warm_elite_relations_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_warm_elite_relations_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_warm_elite_relations_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "מה מפחית קיטוב רגשי: יחסים חמים בין מנהיגים או פשרה במדיניות?",
+      "authorsHe": "ליאוני האדי ועומר יאיר",
+      "visualDescriptionHe": "שני מנהיגים ציבוריים לוחצים ידיים ומשוחחים בחיוך במסדרון מוסדי.",
+      "semanticDescriptionHe": "המחווה החמה בין בעלי תפקידים ממחישה את מנגנון יחסי האליטות שנבחן בניסוי; המצולמים אינם פוליטיקאים אמיתיים ואינם מייצגים את שומר או מקונל.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "affective_polarization",
+        "elite_relations",
+        "interparty_warmth",
+        "policy_compromise"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific cross-party greeting scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it directly illustrates interpersonal warmth while avoiding recognizable politicians and any claim that the pictured exchange occurred.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_populism_social_integration_subjective_status_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populism_social_integration_subjective_status_summary_he.html",
+      "usedBy": [
+        "democracy_populism_social_integration_subjective_status_summary_he.html"
+      ],
+      "cardTitleHe": "האם פופוליזם הוא גם בעיה של השתלבות חברתית ומעמד נתפס?",
+      "authorsHe": "נועם גדרון ופיטר א׳ הול",
+      "visualDescriptionHe": "תושבים מגילים ורקעים שונים משוחחים במעגל בכיכר עירונית בשעת אחר הצהריים.",
+      "semanticDescriptionHe": "המפגש הקהילתי ממחיש שייכות, הכרה והשתלבות חברתית, המשתנים התאורטיים שבמרכז המאמר; הדמויות אינן משיבי הסקר ואי אפשר להסיק מן התצלום את מעמדן או העדפתן הפוליטית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "social_integration",
+        "subjective_social_status",
+        "radical_parties"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community-belonging scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it conveys social inclusion without visually assigning populist attitudes, deprivation, or survey responses to the people shown.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.html",
+      "usedBy": [
+        "democracy_presumed_media_influence_democratic_legitimacy_gaza_summary_he.html"
+      ],
+      "cardTitleHe": "כשהתקשורת נתפסת כמטה את המשחק: דימוי ציבורי ולגיטימציה דמוקרטית בקרב תושבי ההתנחלויות ברצועת עזה",
+      "authorsHe": "יריב צפתי וג׳ונתן כהן",
+      "visualDescriptionHe": "אזרחים יושבים סביב שולחן ומשוחחים על סיקור חדשות המוקרן בחדר.",
+      "semanticDescriptionHe": "השיחה מול מסכי חדשות ממחישה כיצד תפיסות על השפעת התקשורת על אחרים יכולות לעצב תגובה פוליטית; הדמויות אינן משיבי הסקר והסצנה אינה מתארת את רצועת עזה או את ההתנתקות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "presumed_media_influence",
+        "democratic_legitimacy",
+        "Gaza_settlers"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community media-discussion scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it makes perceived media influence visible without reproducing the respondents, place, news coverage, or behavioral outcomes.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_online_selective_exposure_israeli_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_online_selective_exposure_israeli_elections_summary_he.html",
+      "usedBy": [
+        "democracy_online_selective_exposure_israeli_elections_summary_he.html"
+      ],
+      "cardTitleHe": "לא כל רשת היא תיבת תהודה: חשיפה אידאולוגית בבחירות 2013",
+      "authorsHe": "שירה דביר־גבירצמן, יריב צפתי ואריקה מנכן־טרווינו",
+      "visualDescriptionHe": "חוקרת מול מחשב נייד ומסך נוסף המציגים מקורות חדשות מגוונים ללא טקסט קריא.",
+      "semanticDescriptionHe": "הבחירה בין מקורות חדשות שונים לצד מסך מעקב ממחישה את שילוב הסקר עם יומני גלישה; הדמות אינה משתתפת במחקר והמסכים אינם מציגים אתרים או נתונים אמיתיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "selective_exposure",
+        "web_logs",
+        "2013_Israeli_election"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific diverse-news browsing scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates online choice and behavioral measurement without showing real outlets, participants, or logged pages.",
+      "createdDate": "2026-08-03",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-03 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_national_courts_domestic_democracy_international_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_national_courts_domestic_democracy_international_law_summary_he.html",
+      "usedBy": [
+        "democracy_national_courts_domestic_democracy_international_law_summary_he.html"
+      ],
+      "cardTitleHe": "כשמדיניות החוץ נכנסת הביתה: מדוע בתי משפט לאומיים משתפים פעולה",
+      "authorsHe": "אייל בנבנישתי וג׳ורג׳ ו׳ דאונס",
+      "visualDescriptionHe": "שופטי בית הדין הבין־לאומי לצדק יושבים מאחורי שולחן הדיונים בהאג בשנת 1979.",
+      "semanticDescriptionHe": "ההרכב הבין־לאומי ממחיש את הזירה השיפוטית החוצה גבולות שבמרכז המאמר; התצלום אינו מציג את בתי המשפט הלאומיים, המקרים או רשת שיתוף הפעולה שהמחברים מנתחים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "national_courts",
+        "international_law",
+        "judicial_cooperation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of Rob C. Croes's 1979 ANEFO photograph of the International Court of Justice. Standard fitness because it directly shows an international judicial institution while the article's national-court network and institutional mechanisms are not visible.",
+      "createdDate": "2026-08-03",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:International_Court_of_Justice_1979.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/International_Court_of_Justice_1979.jpg",
+      "license": "Creative Commons CC0 1.0 Universal Public Domain Dedication (CC0 1.0)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Rob C. Croes (ANEFO)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_partisanship_economic_behavior_polarized_era_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_partisanship_economic_behavior_polarized_era_summary_he.html",
+      "usedBy": [
+        "democracy_partisanship_economic_behavior_polarized_era_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמפלגה נכנסת לשכר ולקניות: המחיר הכלכלי של קיטוב",
+      "authorsHe": "כריסטופר מקונל, יותם מרגלית, ניל מלהוטרה ומתיו לוונדוסקי",
+      "visualDescriptionHe": "מוכר בשוק איכרים מקבל תשלום במזומן מלקוח ליד דוכן ירקות ופרחים.",
+      "semanticDescriptionHe": "העסקה היומיומית ממחישה החלטה כלכלית בעלת מחיר ממשי, כפי שנבדק בניסויי העבודה והצרכנות; האנשים אינם משתתפי המחקר ואין בתצלום מידע על זהותם המפלגתית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity",
+        "partisanship",
+        "consumer_behavior",
+        "economic_decisions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of TriviaKing's documentary photograph of a cash transaction at a farmers' market. Standard fitness because it makes a real everyday economic exchange visible without depicting the study's employers, gift-card sellers, party cues, or experimental effects.",
+      "createdDate": "2026-08-03",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Transaction_at_a_Farmers%27_Market.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Transaction_at_a_Farmers%27_Market.JPG",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "TriviaKing at English Wikipedia (author field also credits DWS-Montag Zen)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.html",
+      "usedBy": [
+        "democracy_palestinian_citizenship_teachers_islam_education_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות שאינה מנותקת מן המציאות: כיצד מורים פלסטינים־מוסלמים משלבים אסלאם בשיעורי אזרחות?",
+      "authorsHe": "אלין מוף ואיימן אגבאריה",
+      "visualDescriptionHe": "מנהל בית הספר גשר על הוואדי וסגניתו יושבים בדיון בכפר קרע.",
+      "semanticDescriptionHe": "דיון של אנשי חינוך בבית ספר ערבי־יהודי ממחיש תיווך חינוכי בין קהילה, זהות ואזרחות; המצולמים אינם משתתפי המחקר, ובית הספר אינו מוצג כאחד מבתי הספר שנדגמו.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "citizenship_education",
+        "Palestinian_teachers",
+        "Islam"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of deror_avi's photograph of education staff at Hand in Hand–Bridge over the Wadi School in Kafr Qara. Standard fitness because it gives a grounded Israeli educational setting while remaining distinct from the seven anonymous teachers and classrooms studied.",
+      "createdDate": "2026-08-03",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hand_in_Hand_%E2%80%93_Bridge_over_the_Wadi_P1070780.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hand_in_Hand_%E2%80%93_Bridge_over_the_Wadi_P1070780.JPG",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "deror_avi",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_parliamentary_interjections_rabin_discourse_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_parliamentary_interjections_rabin_discourse_summary_he.html",
+      "usedBy": [
+        "democracy_parliamentary_interjections_rabin_discourse_summary_he.html"
+      ],
+      "cardTitleHe": "כשהקריאות גוברות על הנאום: כיצד הפרעות בכנסת קטעו את הנרטיב של רבין?",
+      "authorsHe": "שאול ר׳ שנהב",
+      "visualDescriptionHe": "מבט רחב על מליאת הכנסת בזמן ישיבה מיוחדת בשנת 2010.",
+      "semanticDescriptionHe": "המליאה הפעילה ממחישה את המרחב שבו נאום, תגובה וקריאת ביניים מתחרים על תשומת הלב; זה אינו תצלום מתקופת רבין ואינו מתעד נאום או הפרעה שנכללו במחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "Knesset",
+        "parliamentary_interjections",
+        "Rabin_speeches"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Itzik Edri's wide photograph of a special Knesset sitting in 2010. Standard fitness because it clearly establishes the parliamentary arena without claiming to show Rabin, the 1992–1995 sessions, or an interjection analyzed in the paper.",
+      "createdDate": "2026-08-03",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "license": "Creative Commons Attribution 2.5 Generic (CC BY 2.5)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "creator": "איציק אדרי – Itzik Edri",
+      "provider": "Wikimedia Commons"
     }
   ],
   "topicGraphics": [
