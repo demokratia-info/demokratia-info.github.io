@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-03",
+  "lastUpdated": "2026-08-04",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -31019,6 +31019,285 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
       "creator": "איציק אדרי – Itzik Edri",
       "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_children_rights_assisted_reproduction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_children_rights_assisted_reproduction_summary_he.html",
+      "usedBy": [
+        "democracy_children_rights_assisted_reproduction_summary_he.html"
+      ],
+      "cardTitleHe": "הזכות להורות אינה יכולה לבטל את זכויות הילדים שנולדו בסיוע טכנולוגי",
+      "authorsHe": "פמלה לאופר־יוקלס",
+      "visualDescriptionHe": "שני מבוגרים בוחנים מסמכים ריקים בחדר ייעוץ, מול כיסא ילדים ריק וצעצוע עץ קטן.",
+      "semanticDescriptionHe": "הכיסא הריק ממקם את הילד העתידי בתוך החלטה שמתקבלת בידי מבוגרים וממחיש את דרישת המאמר להביא בחשבון את זכויות הילדים בהסדרת פריון מסייע; הדמויות אינן משתתפות במחקר והסצנה אינה מתארת הליך רפואי ממשי.",
+      "tags": [
+        "rights-equality-minorities",
+        "assisted_reproduction",
+        "children_rights",
+        "legal_parenthood"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific consultation scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it evokes the future child's place in adult decision-making without depicting a real child, family, procedure, or legal outcome.",
+      "createdDate": "2026-08-04",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_reproductive_choices_informed_consent_relational_autonomy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_reproductive_choices_informed_consent_relational_autonomy_summary_he.html",
+      "usedBy": [
+        "democracy_reproductive_choices_informed_consent_relational_autonomy_summary_he.html"
+      ],
+      "cardTitleHe": "הסכמה מדעת בבחירות רבייה דורשת יותר ממידע רפואי",
+      "authorsHe": "פמלה לאופר־יוקלס",
+      "visualDescriptionHe": "רופאה ומטופלת משוחחות פנים אל פנים בחדר ייעוץ רפואי.",
+      "semanticDescriptionHe": "השיחה הקלינית ממחישה את יחסי הרופא־מטופלת שבאמצעותם נמסר מידע ונבנית הסכמה מדעת; המצולמות אינן קשורות למאמר והתצלום אינו מתאר בחירת רבייה, היריון או את ההטיות שהמאמר מנתח.",
+      "tags": [
+        "rights-equality-minorities",
+        "informed_consent",
+        "relational_autonomy",
+        "doctor_patient_dialogue"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of a National Cancer Institute consultation photograph. Standard fitness because it directly shows a doctor-patient conversation while not depicting reproductive care, the article's legal framework, or any study participant.",
+      "createdDate": "2026-08-04",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Doctor_talking_with_a_patient.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Doctor_talking_with_a_patient.jpg",
+      "license": "Public domain; United States National Cancer Institute work",
+      "creator": "National Cancer Institute",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_bereavement_rights_minority_civic_equality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bereavement_rights_minority_civic_equality_summary_he.html",
+      "usedBy": [
+        "democracy_bereavement_rights_minority_civic_equality_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות שכול אחידות עלולות לפגוע בשוויון האזרחי של מיעוטים",
+      "authorsHe": "סמדר בן־אשר, ישראל שורק ואלדד שידלובסקי",
+      "visualDescriptionHe": "אנשים מדליקים עשרות נרות זיכרון בכיכר עירונית בשעת ערב.",
+      "semanticDescriptionHe": "ההנצחה הציבורית ממחישה את הממד האזרחי והקולקטיבי של שכול, אך אינה מציגה את האלמנות הבדואיות, את ישראל, את סל זכויות השכול או את תנאי החיים שנבחנו במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "bereavement_rights",
+        "minority_equality",
+        "public_memorial"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of L. Bryant's Voice of America photograph of memorial candles in Brussels. Standard fitness because it grounds the subject in public mourning without claiming to show the article's community, beneficiaries, benefits, or distributive effects.",
+      "createdDate": "2026-08-04",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Memorial_candles_at_Place_de_la_Bourse_after_attack.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Memorial_candles_at_Place_de_la_Bourse_after_attack.jpg",
+      "license": "Public domain; Voice of America work",
+      "creator": "L. Bryant / Voice of America",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_narrative_proximity_electoral_choice_multiparty_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_narrative_proximity_electoral_choice_multiparty_summary_he.html",
+      "usedBy": [
+        "democracy_narrative_proximity_electoral_choice_multiparty_summary_he.html"
+      ],
+      "cardTitleHe": "כשסיפור פוגש פתק: קרבה נרטיבית והצבעה במערכת רב־מפלגתית",
+      "authorsHe": "תמיר שפר, שאול שנהב וקנת גולדשטיין",
+      "visualDescriptionHe": "מצביע משלשל פתק לקלפי שקופה בתחנת הצבעה במינסק.",
+      "semanticDescriptionHe": "פעולת ההצבעה ממחישה את התוצאה האלקטורלית שהמודל מבקש להסביר; התצלום הוא מבלארוס ואינו מציג את ישראל, את בחירות 2009, מפלגה, משיב או קרבה נרטיבית שנמדדה במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "narrative_proximity",
+        "electoral_choice",
+        "multiparty_system"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of the OSCE Parliamentary Assembly's documentary photograph of a ballot being cast in Minsk in 2019. Standard fitness because it clearly shows electoral choice while remaining distinct from the Israeli electorate, parties, speeches, and survey analyzed in the paper.",
+      "createdDate": "2026-08-04",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Casting_a_ballot_at_a_polling_station_in_Minsk,_17_November_2019.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Casting_a_ballot_at_a_polling_station_in_Minsk%2C_17_November_2019.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "creator": "OSCE Parliamentary Assembly (oscepa)",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_parliaments_constituent_power_populism_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_parliaments_constituent_power_populism_israel_summary_he.html",
+      "usedBy": [
+        "democracy_parliaments_constituent_power_populism_israel_summary_he.html"
+      ],
+      "cardTitleHe": "הכנסת בשני כובעים: סמכות מכוננת בעידן הפופוליזם",
+      "authorsHe": "מנאל תותרי־ג׳ובראן ודוד קרצמר",
+      "visualDescriptionHe": "בניין הכנסת בירושלים נראה מן הרחוב באור יום.",
+      "semanticDescriptionHe": "בניין הפרלמנט ממקם את הדיון במוסד שמפעיל בישראל סמכות מחוקקת ומכוננת; התצלום אינו מציג כינון חוקה, חקיקת חוק יסוד, פופוליזם או אירוע שנדון במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "constituent_power",
+        "Knesset",
+        "basic_laws"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 center crop of James Emery's photograph of the Knesset building. Standard fitness because it directly identifies the institution at the center of the case while no constitutional act, legal doctrine, minority participation, or populist strategy is visible.",
+      "createdDate": "2026-08-04",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Knesset.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Knesset.jpg",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "creator": "James Emery",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_populist_false_mirroring_courts_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populist_false_mirroring_courts_summary_he.html",
+      "usedBy": [
+        "democracy_populist_false_mirroring_courts_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמראה משקרת: רטוריקה פופוליסטית ובתי המשפט",
+      "authorsHe": "אלון הראל ונועם קולט",
+      "visualDescriptionHe": "שני דוכנים ניצבים באולם בית משפט ריק, ואחד מהם נראה דרך לוח זכוכית שמעקם מעט את ההשתקפות.",
+      "semanticDescriptionHe": "הדמיון הלא־מושלם בין הדוכן לבין השתקפותו ממחיש את מטפורת השיקוף הכוזב שבאמצעותה המאמר מנתח רטוריקה פופוליסטית על ייצוג ובתי משפט; זו סצנה סמלית ואינה בית משפט או טענה מצולמת מן המאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "false_mirroring",
+        "populist_rhetoric",
+        "courts"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific empty courtroom and distorted-glass scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it offers an editorial metaphor for false mirroring without presenting rhetoric, actors, institutions, or legal outcomes as documentary evidence.",
+      "createdDate": "2026-08-04",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_sanctions_public_opinion_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_sanctions_public_opinion_israel_summary_he.html",
+      "usedBy": [
+        "democracy_sanctions_public_opinion_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כשהסנקציה מקשיחה עמדות: ניסויים בדעת הקהל בישראל",
+      "authorsHe": "גיא גרוסמן, דבורה מנקין ויותם מרגלית",
+      "visualDescriptionHe": "שני מבוגרים בוחנים מסמכים ריקים ליד שקית מצרכים ורדיו, כשמכולות ורכבות מטען נראות מבעד לחלון.",
+      "semanticDescriptionHe": "המפגש בין משק בית לבין תנועת סחורות ממחיש כיצד לחץ כלכלי חיצוני עשוי להיכנס לשיקול דעת ציבורי; הדמויות אינן משיבי הסקר והסצנה אינה מציגה את ישראל, סנקציה ממשית, מוצר התנחלות או תוצאה ניסויית.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "economic_sanctions",
+        "public_opinion",
+        "survey_experiment",
+        "backlash"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific household-pressure and freight scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it links trade pressure to private deliberation without visualizing the survey sample, sanction treatments, states, products, or measured effects.",
+      "createdDate": "2026-08-04",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_cultural_nationalism_liberal_values_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_cultural_nationalism_liberal_values_summary_he.html",
+      "usedBy": [
+        "democracy_cultural_nationalism_liberal_values_summary_he.html"
+      ],
+      "cardTitleHe": "לאומיות תרבותית וערכים ליברליים: מדוע הסינתזה נותרת חמקמקה",
+      "authorsHe": "גל גרסון ואביעד רובין",
+      "visualDescriptionHe": "קבוצה מגוונת מסדרת יחד כלי חרס, אריגים ומסגרות ריקות באולם קהילתי שמאחוריו מעגל כיסאות פתוח.",
+      "semanticDescriptionHe": "עבודה משותפת עם חפצי תרבות בתוך מרחב פתוח לדיון ממחישה את הניסיון לחבר זהות קולקטיבית לערכים ליברליים; הדמויות והחפצים אינם קבוצה לאומית, מקרה או מודל שנבחן במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "cultural_nationalism",
+        "liberal_values",
+        "collective_identity"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community cultural-work scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it stages coexistence between cultural continuity and inclusive civic participation without asserting that the elusive synthesis has been achieved.",
+      "createdDate": "2026-08-04",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_social_protest_legalistic_discourse_dissent_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_protest_legalistic_discourse_dissent_summary_he.html",
+      "usedBy": [
+        "democracy_social_protest_legalistic_discourse_dissent_summary_he.html"
+      ],
+      "cardTitleHe": "מחאה חברתית בלי שפה משפטית: החיפוש אחר לשון חדשה של התנגדות",
+      "authorsHe": "שולמית אלמוג וגד ברזילי",
+      "visualDescriptionHe": "מבט אווירי רחב על קהל גדול המתכנס לעצרת ציבורית במדשאה בוושינגטון בשנת 1968.",
+      "semanticDescriptionHe": "הקהל הנראה מלמעלה ממחיש גיוס ציבורי והופעה קולקטיבית במרחב פתוח; התצלום אינו מישראל ואינו מציג את מחאת קיץ 2011, את מאהליה, את משתתפיה או את נוכחותה או היעדרה של שפה משפטית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "social_protest",
+        "legalistic_discourse",
+        "collective_dissent"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Cecil W. Stoughton's National Park Service aerial photograph of a 1968 Solidarity Day gathering on the National Mall. Standard fitness because it shows the scale of collective protest while remaining distinct from the Israeli movement, its language, lawyers, tents, and discursive patterns.",
+      "createdDate": "2026-08-04",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Demonstrations._Aerial_view_of_the_crowds_on_the_National_Mall_during_Solidarity_Day_on_Juneteenth._%285148c38ab6c7451faf99f23c3939c5a9%29.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Demonstrations._Aerial_view_of_the_crowds_on_the_National_Mall_during_Solidarity_Day_on_Juneteenth._%285148c38ab6c7451faf99f23c3939c5a9%29.jpg",
+      "license": "Public domain; United States National Park Service work",
+      "creator": "Cecil W. Stoughton",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_religious_belief_context_attitudes_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_belief_context_attitudes_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_religious_belief_context_attitudes_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "החרב הדו־להבית של הדת: אמונה, קהילה ועמדות כלפי דמוקרטיה",
+      "authorsHe": "פזית בן־נון בלום וגיזם אריקאן",
+      "visualDescriptionHe": "מבוגרים בגילים שונים משוחחים סביב שולחן עם קלפי עץ ופתקים ריקים באולם קהילתי מואר, לצד מסדרון צדדי מוצל.",
+      "semanticDescriptionHe": "המפגש הקהילתי והקלפי ממחישים את החיבור האפשרי בין הקשר חברתי לבין השתתפות ועמדות דמוקרטיות, בעוד המעבר המואר והמסדרון הסגור מרמזים על השפעה שאינה אחידה; אין בסצנה שיוך לדת, מדינה, קהילה או משיב מן המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "religious_belief",
+        "social_context",
+        "attitudes_toward_democracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community-deliberation scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it evokes contextual variation in democratic engagement without coding a faith, minority status, country, respondent, or empirical effect.",
+      "createdDate": "2026-08-04",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
