@@ -1,8 +1,303 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1232,
+  "paperCount": 1242,
   "papers": [
+    {
+      "slug": "democracy_income_loss_populist_radical_parties_netherlands_summary_he",
+      "file": "democracy_income_loss_populist_radical_parties_netherlands_summary_he.html",
+      "permalink": "/democracy_income_loss_populist_radical_parties_netherlands_summary_he.html",
+      "sortKey": 202608050010,
+      "titleHe": "אובדן הכנסה, שמאל רדיקלי וימין רדיקלי: מבחן פאנל הולנדי",
+      "paperTitle": "Do Changes in Material Circumstances Drive Support for Populist Radical Parties? Panel Data Evidence from the Netherlands during the Great Recession, 2007–2015",
+      "authorsCardHe": "נעם גדרון וג׳ונתן ג׳ ב׳ מייס",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "Jonathan J. B. Mijs"
+      ],
+      "journal": "European Sociological Review, vol. 35, no. 5, 637–650",
+      "dateText": "פורסם ב־18 במאי 2019; כרך 35, גיליון 5, עמ׳ 637–650 (אוקטובר 2019)",
+      "doiUrl": "https://doi.org/10.1093/esr/jcz023",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_income_loss_populist_radical_parties_netherlands_summary_he.jpg",
+        "altHe": "בני זוג יושבים ליד שולחן מטבח בהולנד ובוחנים יחד מכתבים ומסמכים כספיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "נעם גדרון וג׳ונתן ג׳ ב׳ מייס בוחנים הנחה נפוצה על משברים כלכליים: האם האנשים שאיבדו הכנסה הם עצמם אלה שפנו למפלגות רדיקליות פופוליסטיות. המחקר משתמש בשמונה גלים של פאנל LISS בהולנד בשנים 2007–2015, לפני המשבר הגדול, במהלכו ואחריו, ועוקב אחר 8,696 אנשים בגיל העבודה לאורך 30,653 תצפיות. מודלים עם אפקטים קבועים לאדם ולשנה משווים כל אדם לעצמו לאורך זמן ומפרידים בין שינוי אישי בהכנסה לבין הבדלים קבועים בין אנשים ומגמות שנתיות משותפות. אובדן של 1,000 אירו בהכנסה חודשית נטו נקשר לעלייה של מעט פחות מעשירית סטיית תקן באהדה למפלגה הסוציאליסטית מן השמאל, והקשר חזק במיוחד בקבוצת ההכנסה הבינונית. אותו אובדן נקשר גם ליותר תמיכה בצמצום פערי הכנסה; שינוי של 1,000 אירו מקביל לקצת יותר מעשירית סטיית תקן במדד החלוקה מחדש, בכיוון סימטרי של יותר תמיכה לאחר הפסד ופחות לאחר רווח. לעומת זאת, שינוי בהכנסה אינו מנבא שינוי באהדה למפלגת החירות מן הימין הרדיקלי. הקשר לעמדות נייטיביסטיות קטן ובעל מובהקות שולית בלבד, ואובדן הכנסה כשלעצמו אינו יוצר עלייה מובהקת במדד. בדיקות עם מעבר לאבטלה ועם כוונת הצבעה אינן משחזרות את כל ממצאי האהדה, ולכן התמונה חזקה יותר ביחס לחלוקה מחדש מאשר ביחס להצבעה בפועל. המסקנה הדמוקרטית היא שאין בסיס למנגנון כלכלי אישי אחד שמסביר יחד פנייה לשמאל הרדיקלי ולימין הרדיקלי: פגיעה חומרית ישירה מסבירה כאן חלק מן התנועה שמאלה, בעוד עליית הימין עשויה לעבור דרך מנגנונים תרבותיים, מעמדיים או כלכליים עקיפים אחרים. העיצוב האורכי מחזק את הזיהוי לעומת סקר חתך, אך אינו ניסוי; התוצאות מוגבלות להולנד ולאוכלוסייה בגיל העבודה ואינן מוכיחות סיבתיות מלאה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_democratic_culture_corruption_europe_summary_he",
+      "file": "democracy_democratic_culture_corruption_europe_summary_he.html",
+      "permalink": "/democracy_democratic_culture_corruption_europe_summary_he.html",
+      "sortKey": 202608050009,
+      "titleHe": "תרבות דמוקרטית נגד שחיתות: מוסדות, אמון ו־19 שנות נתונים מאירופה",
+      "paperTitle": "Europe’s “democratic culture” in the fight against corruption",
+      "authorsCardHe": "אינה קובה",
+      "sourceAuthors": [
+        "Ina Kubbe"
+      ],
+      "journal": "Crime, Law and Social Change, vol. 70, no. 2, 217–240",
+      "dateText": "פורסם אונליין ב־6 בנובמבר 2017; כרך 70, גיליון 2, עמ׳ 217–240 (ספטמבר 2018)",
+      "doiUrl": "https://doi.org/10.1007/s10611-017-9728-9",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_culture_corruption_europe_summary_he.jpg",
+        "altHe": "אזרחים מעיינים במסמכים ציבוריים לצד דיון פתוח באולם מועצה אירופי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "אינה קובה מבקשת להסביר מדוע רמות השחיתות באירופה שונות מאוד בין מדינות ולאורך זמן, אף שגם דמוקרטיות ותיקות אינן נקיות משחיתות. המאמר מתייחס לשחיתות כתופעה תרבותית ורב־רמתית שנוצרת מתוך שילוב בין מוסדות פורמליים, כגון דמוקרטיה ואחריותיות, לבין מוסדות לא־פורמליים, כגון אמון ונורמות לגבי שוחד. ברמת המדינה הוא מנתח 536 תצפיות מ־37 מדינות בשנים 1995–2013 באמצעות מדד תפיסת השחיתות שעבר היפוך כך ש־0 מציין מעט שחיתות ו־10 הרבה שחיתות. המודל מקשר פיתוח כלכלי, חברות באיחוד האירופי, דרגת הדמוקרטיה, ייצוג נשים בפרלמנט ומשך הדמוקרטיה לפחות שחיתות נתפסת, ואילו עבר קומוניסטי נקשר ליותר; הפיתוח הכלכלי הוא המנבא הגדול ביותר במודל, ומשך הדמוקרטיה חזק יותר מדרגתה. ברמת הפרט, מודלים רב־רמתיים המבוססים על ארבעה גלים של סקר הערכים העולמי כוללים עד 21,210 תצפיות בעד 21 מדינות. אמון בין־אישי ושביעות רצון מן המצב הכספי קשורים לפחות תפיסת שחיתות, ואילו הצדקת שוחד קשורה ליותר; גיל, מגדר ורמת הכנסה אינם מובהקים במודל האישי. המתאם בין מדד המומחים לבין מדד האזרחים הוא 0.84, אך שניהם מודדים תפיסות ולא עסקאות שחיתות נסתרות עצמן. קובה מסיקה שמאבק אפקטיבי בשחיתות דורש לא רק חוק ועונש אלא תרבות דמוקרטית של שקיפות, שוויון, אמון, פיקוח אזרחי וסנקציה כלפי שימוש פסול בכוח. מאחר שהנתונים תצפיתיים, שהרכב המדינות משתנה בין המודלים וששיטת מדד השחיתות השתנתה בתקופה, יש לקרוא את הקשרים כעדות השוואתית חזקה ולא כהוכחה שכל אחד מן הגורמים גורם לבדו לירידת שחיתות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_discussion_network_heterogeneity_citizenship_summary_he",
+      "file": "democracy_discussion_network_heterogeneity_citizenship_summary_he.html",
+      "permalink": "/democracy_discussion_network_heterogeneity_citizenship_summary_he.html",
+      "sortKey": 202608050008,
+      "titleHe": "דמוקרטיה מתוך הבדל: מן הגיוון במחוז אל רשת השיחה הפוליטית",
+      "paperTitle": "Democracy Based on Difference: Examining the Links Between Structural Heterogeneity, Heterogeneity of Discussion Networks, and Democratic Citizenship",
+      "authorsCardHe": "דיטרם א׳ שויפלה, ברוס ו׳ הארדי, דומיניק ברוסארד, ישראל וייסמל־מנור ואריק ניסבט",
+      "sourceAuthors": [
+        "Dietram A. Scheufele",
+        "Bruce W. Hardy",
+        "Dominique Brossard",
+        "Israel Waismel-Manor",
+        "Erik Nisbet"
+      ],
+      "journal": "Journal of Communication, vol. 56, no. 4, 728–753",
+      "dateText": "פורסם ב־9 בנובמבר 2006; כרך 56, גיליון 4, עמ׳ 728–753 (דצמבר 2006)",
+      "doiUrl": "https://doi.org/10.1111/j.1460-2466.2006.00317.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_discussion_network_heterogeneity_citizenship_summary_he.jpg",
+        "altHe": "קהל יושב מול דוברים באספת תושבים היסטורית שעסקה בתחבורה ובאוויר נקי בניו יורק",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "המאמר מציע להבין אזרחות דמוקרטית דרך כמה שכבות של הבדל ולא דרך רשת השיחה האישית בלבד. דיטרם א׳ שויפלה, ברוס ו׳ הארדי, דומיניק ברוסארד, ישראל וייסמל־מנור ואריק ניסבט משלבים סקר טלפוני ארצי חתכי במדגם הסתברותי של כמעט 800 מבוגרים עם נתונים ברמת המחוז על גיוון דתי, פוליטי וגזעי. הם בונים מודל נתיבים שמחבר בין המבנה החברתי, ההקשר המקומי, רשתות הדיון ותהליכי תקשורת כדי לבחון קשרים ישירים ועקיפים להשתתפות פוליטית. התקציר מדווח על קשרים חיוביים בין הטרוגניות מבנית להטרוגניות של רשתות הדיון, הן במישרין והן בעקיפין באמצעות תהליכי תקשורת. החידוש הוא רב־רמתי: סביבת המגורים והאנשים שאיתם אדם מדבר אינם שתי זירות נפרדות, מפני שההקשר עשוי לעצב את מגוון המפגשים והשיחות הזמינים לו. מבחינה דמוקרטית, המודל מדגיש שהיחשפות להבדל אינה רק תכונה של יחיד אלא תוצר של מבנה ושל תקשורת. מאחר שהנתונים חתכיים והתקציר אינו מציג גדלי אפקט, המאמר אינו מצדיק כלל סיבתי גורף שלפיו כל גיוון חברתי יוצר אוטומטית יותר השתתפות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_tiktok_media_criticism_protest_paradigm_summary_he",
+      "file": "democracy_tiktok_media_criticism_protest_paradigm_summary_he.html",
+      "permalink": "/democracy_tiktok_media_criticism_protest_paradigm_summary_he.html",
+      "sortKey": 202608050007,
+      "titleHe": "כשהקהל מבקר את סיקור המחאה: טיקטוק כזירה דמוקרטית — וגם לא־דמוקרטית",
+      "paperTitle": "Protesting the Protest Paradigm: TikTok as a Space for Media Criticism",
+      "authorsCardHe": "יואנה ליטרט, ליליאן בוקסמן־שבתאי ונטע קליגלר־וילנצ׳יק",
+      "sourceAuthors": [
+        "Ioana Literat",
+        "Lillian Boxman-Shabtai",
+        "Neta Kligler-Vilenchik"
+      ],
+      "journal": "The International Journal of Press/Politics, vol. 28, no. 2, 362–383",
+      "dateText": "פורסם אונליין ב־1 באוגוסט 2022; כרך 28, גיליון 2, עמ׳ 362–383 (אפריל 2023)",
+      "doiUrl": "https://doi.org/10.1177/19401612221117481",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_tiktok_media_criticism_protest_paradigm_summary_he.jpg",
+        "altHe": "צעירים בוחנים תצלומי מחאה ומכינים סרטון בטלפון בחדר הפקה קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "המאמר מעביר את מוקד המחקר מסיקור המחאה עצמו אל הקהל שמבקר את הסיקור. יואנה ליטרט, ליליאן בוקסמן־שבתאי ונטע קליגלר־וילנצ׳יק מנתחות באופן איכותני סרטוני טיקטוק ואת התגובות הקשורות אליהם, מתוך תוכן שנאסף באביב 2021. הדיון התרכז בשני מוקדים פוליטיים שונים: מחאת Black Lives Matter ומהומות הקפיטול. לפי התקציר, משתמשים ניצלו את אפשרויות היצירה של טיקטוק כדי לפרק ייצוגים חדשותיים מסוימים, לבקר את מנגנון התקשורת ולהרחיב את הנרטיב החדשותי. כך הקהל אינו רק מקבל מסגור עיתונאי, אלא יוצר שכבת פרשנות ציבורית גלויה סביבו. המסקנה אינה מציגה את הפלטפורמה כמרחב דמוקרטי בהכרח: ביקורת תקשורתית בטיקטוק יכולה לערער ייצוג מצמצם ולפתוח נקודות מבט, אך היא יכולה לשמש גם מטרות לא־דמוקרטיות. המאמר מציב אפוא את ביקורת המדיה הדיגיטלית כיכולת פוליטית שתוצאתה תלויה בתוכן, בהקשר ובאופן השימוש בה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_corruption_conceptions_participation_israel_summary_he",
+      "file": "democracy_political_corruption_conceptions_participation_israel_summary_he.html",
+      "permalink": "/democracy_political_corruption_conceptions_participation_israel_summary_he.html",
+      "sortKey": 202608050006,
+      "titleHe": "אותה שחיתות, תגובה אזרחית שונה: תפיסות הציבור והשתתפות פוליטית בישראל",
+      "paperTitle": "Conceptualization of Political Corruption, Perceptions of Corruption, and Political Participation in Democracies",
+      "authorsCardHe": "דורון נבות ואיתי בארי",
+      "sourceAuthors": [
+        "Doron Navot",
+        "Itai Beeri"
+      ],
+      "journal": "Lex Localis – Journal of Local Self-Government, vol. 15, no. 2, 199–219",
+      "dateText": "30 באפריל 2017; כרך 15, גיליון 2, עמ׳ 199–219",
+      "doiUrl": "https://doi.org/10.4335/15.2.199-219(2017)",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_corruption_conceptions_participation_israel_summary_he.jpg",
+        "altHe": "אזרחים משוחחים סביב שולחן באספה ציבורית ומעיינים במסמכי ממשל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "המאמר בוחן מדוע אזרחים הרואים שחיתות פוליטית סביבם אינם מגיבים תמיד באותה דרך. במחקר שדה בקרב 298 ישראלים, דורון נבות ואיתי בארי מקשרים בין שלושה רכיבים: האופן שבו אדם מגדיר שחיתות, היקף השחיתות שהוא חושב שקיים והשתתפותו הפוליטית. הניתוח מראה שרמת השחיתות הנתפסת היא גורם חשוב בהסבר ההשתתפות, אך השפעתה תלויה באופן מובהק בתפיסת השחיתות של האזרח. פירוש הדבר הוא ששני אנשים המעריכים את היקף השחיתות באופן דומה עשויים להבין את אותה הערכה אחרת ולהגיב אליה אחרת במרחב הפוליטי. מבחינה דמוקרטית, הממצא מחבר בין אחריותיות לבין פרשנות ציבורית: חשיפה למידע על שחיתות אינה פועלת בחלל ריק, אלא עוברת דרך אמות המידה שלפיהן הציבור מזהה ניצול פסול של כוח. לכן מדידת תפיסת היקף השחיתות לבדה עלולה להחמיץ חלק מרכזי מן הדרך שבה שחיתות נקשרת למעורבות אזרחית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_people_election_discourse_populism_time_horizons_summary_he",
+      "file": "democracy_people_election_discourse_populism_time_horizons_summary_he.html",
+      "permalink": "/democracy_people_election_discourse_populism_time_horizons_summary_he.html",
+      "sortKey": 202608050005,
+      "titleHe": "לפני הבחירות הבוחרים מחוברים ל״עם״; אחרי ההצבעה הקשר מתפרק",
+      "paperTitle": "Between populism and democracy: ‘the People’ in election discourse",
+      "authorsCardHe": "Liron Lavi",
+      "sourceAuthors": [
+        "Liron Lavi"
+      ],
+      "journal": "European Political Science, 21(3), 359–377",
+      "dateText": "פורסם מקוון: 26 ביולי 2021; גיליון ספטמבר 2022",
+      "doiUrl": "https://doi.org/10.1057/s41304-021-00347-5",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_people_election_discourse_populism_time_horizons_summary_he.jpg",
+        "altHe": "אזרחים משווים תצלומים ומסמכים היסטוריים בחדר עבודה בעוד קהל מתכנס בכיכר שמחוץ לו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "לירון לביא מפתחת מסגרת של ארבעה פנים למושג ״העם״: פוליטי, לאומי, מרחבי ומופשט. הפן הפוליטי, המתגלם בבוחרים, יוצר ממד קונקרטי שקשור לבחירות; שלושת הפנים האחרים יוצרים ממד מפוזר של זהות וסוכנות פוליטית רחבה. כדי לבדוק כיצד הממדים מופיעים בפועל, המחקר מנתח תמלילים של 478 תוכניות CNN ו־Fox News ששודרו בשבוע שלפני ובשבוע שאחרי בחירות 2016 בארצות הברית, בסך 286 שעות. אלגוריתם מבוסס מילון זיהה ביטויים הקשורים לעם ולזמן. ״Country״ הופיע בממוצע 10.75 פעמים בשעה, ״voters״ 7.53, ״Americans״ 3.70, ״the people״ 2.38 ו־״nation״ 1.58. ניתוח הגורמים הראה שני ממדים שהסבירו יחד 61% מן השונות: הבוחרים עמדו בנפרד מן הפנים המופשטים, הלאומיים והמרחביים. לפני הבחירות הופיעו ״voters״ 11.33 פעמים בשעה בממוצע ואחרי הבחירות רק 3.45; לעומת זאת ״the people״ עלה מ־1.72 ל־3.08. ניתוח אופקי הזמן מצא ששני הממדים חלקו קשר לעבר הקרוב, אך הממד הקונקרטי נקשר להווה ולעתיד הקרוב והממד המפוזר לעתיד שלאחר הבחירות. המסקנה היא שהחיבור בין הבוחרים לבין העם הרחב התקיים לפני ההצבעה ולא אחריה, והותיר את ״העם״ העתידי מנותק מן המנגנון הקונקרטי של ריבונותו ופגיע יותר לרטוריקה פופוליסטית עמומה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he",
+      "file": "democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.html",
+      "permalink": "/democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.html",
+      "sortKey": 202608050004,
+      "titleHe": "הפללה להגנת מיעוטים אינה מספיקה בלי תפיסה אחרת של אזרחות",
+      "paperTitle": "\"Pro-Minority\" Criminalization and the Transformation of Visions of Citizenship in Contemporary Liberal Democracies: A Critique",
+      "authorsCardHe": "Ely Aharonson",
+      "sourceAuthors": [
+        "Ely Aharonson"
+      ],
+      "journal": "New Criminal Law Review, 13(2), 286–308",
+      "dateText": "פורסם: 1 באפריל 2010",
+      "doiUrl": "https://doi.org/10.1525/nclr.2010.13.2.286",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.jpg",
+        "altHe": "קבוצת אזרחים מגוונת משוחחת עם אנשי משפט סביב שולחן קהילתי בבית ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "עילי אהרנסון בוחן מגמה של ״הפללה פרו־מיעוטית״ — יצירת עבירות פליליות שמיועדות במיוחד להגן על נשים ועל מיעוטים — ומציע לה ביקורת מבנית. לפי המאמר, בסוף שנות השבעים צמחה פרדיגמה חדשה שראתה בהפללה כלי לצמצום דפוסים של אי־שוויון חברתי. המחבר עוקב אחר התהליכים ההיסטוריים שהובילו לשינוי ושואל מדוע המודל מתקשה להגשים את מטרותיו המוצהרות. תשובתו אינה מתמקדת רק בניסוח עבירה מסוימת, אלא במסגרת המדיניות הרחבה: ההפללה הפרו־מיעוטית משובצת בקבלת החלטות נאו־ליברלית ונשענת על חזון אזרחות שיש בו פגמים פנימיים. לכן שימוש במשפט הפלילי כדי להגן על קבוצות מוחלשות עלול להישאר מוגבל כאשר המבנה החברתי והפוליטי שמייצר אי־שוויון אינו משתנה. אהרנסון אינו שולל כל תרומה של הפללה; הוא טוען שהפוטנציאל שלה לצמצם אי־שוויון יכול להתממש רק בתוך תפיסת אזרחות שונה באופן יסודי מזו שאימצו ממשלות נאו־ליברליות בשלושת העשורים שקדמו למאמר. מבחינה ליברל־דמוקרטית, הטיעון מעביר את הדיון מהצהרה סמלית של הגנה אל התנאים המוסדיים שמאפשרים שוויון ממשי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he",
+      "file": "democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.html",
+      "permalink": "/democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.html",
+      "sortKey": 202608050003,
+      "titleHe": "אקטיביזם אקדמי נגד פופוליזם: חוקרי משפט מול השינוי החוקתי בישראל",
+      "paperTitle": "Scholactivism in the service of counter-populism: The case of constitutional overhaul in Israel",
+      "authorsCardHe": "Ittai Bar-Siman-Tov; Tamar Hostovsky Brandes; Eliav Lieblich; Yaniv Roznai; Adam Shinar",
+      "sourceAuthors": [
+        "Ittai Bar-Siman-Tov",
+        "Tamar Hostovsky Brandes",
+        "Eliav Lieblich",
+        "Yaniv Roznai",
+        "Adam Shinar"
+      ],
+      "journal": "International Journal of Constitutional Law, 22(4), 1059–1093",
+      "dateText": "פורסם: 3 בפברואר 2025; כרך 22, גיליון 4 (2024)",
+      "doiUrl": "https://doi.org/10.1093/icon/moae090",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.jpg",
+        "altHe": "מרצים למשפטים מסבירים מסמכים חוקתיים לקהל באולם אזרחי מלא",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "איתי בר־סימן־טוב, תמר הוסטובסקי ברנדס, אליאב ליבליך, יניב רוזנאי ואדם שנער בוחנים את תפקידם של חוקרי משפט בהתנגדות למהלך החוקתי שקידמה הממשלה ה־37 בישראל בין נובמבר 2022 לספטמבר 2023. אנשי אקדמיה משפטית, ובהם מחברי המאמר, השתמשו בידע ובמעמד המקצועי שלהם לפרסום ניירות עמדה, הרצאות לקהילות, שיתוף פעולה עם חלקים אחרים בתנועת המחאה, פרשנות בתקשורת, מאמרי דעה, השתתפות במשא ומתן פוליטי ופנייה לקהילה המשפטית ולמוסדות בינלאומיים. המאמר מציב את הפעילות בתוך הדיון על ״scholactivism״ — שילוב בין מחקר לאקטיביזם — ושואל אם מעורבות כזו פוגעת בחובת החוקר להפיץ ידע ולחפש אמת. טענתו המרכזית היא שבמאבק נגד פופוליזם שתי המטרות עשויות להתיישב: כאשר מנהיגים פופוליסטים פועלים באמצעות המשפט החוקתי, למשפטנים יש יכולת ייחודית לזהות מניפולציות ואיומים ולהסבירם לציבור. עם זאת, המחברים אינם מתעלמים מן המחיר האפשרי, ובהם פגיעה ביושרת המחקר ובמעמדם של חוקרים. התרומה הדמוקרטית של המאמר היא ניסוח אחריות מקצועית שאינה דורשת ניטרליות שקטה בכל מצב, אך גם אינה מעניקה לאקטיביזם חסינות מביקורת אקדמית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_supreme_court_checks_balances_freedom_summary_he",
+      "file": "democracy_supreme_court_checks_balances_freedom_summary_he.html",
+      "permalink": "/democracy_supreme_court_checks_balances_freedom_summary_he.html",
+      "sortKey": 202608050002,
+      "titleHe": "בית המשפט העליון כשותף שווה: בלמים ואיזונים נועדו להגן על החירות",
+      "paperTitle": "The Role of the Supreme Court in a Democracy",
+      "authorsCardHe": "Aharon Barak",
+      "sourceAuthors": [
+        "Aharon Barak"
+      ],
+      "journal": "Israel Law Review, 33(1), 1–12",
+      "dateText": "חורף 1999; פורסם מקוון: 4 ביולי 2014",
+      "doiUrl": "https://doi.org/10.1017/s0021223700015879",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_supreme_court_checks_balances_freedom_summary_he.jpg",
+        "altHe": "חלל המבואה המודרני של בית המשפט העליון בירושלים ובו מבקרים עוברים בין מפלסים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "המאמר ממקם את בית המשפט העליון בתוך מבנה חוקתי של שלוש רשויות: הרשות המחוקקת, הרשות המבצעת והרשות השופטת. לפי אהרן ברק, שלוש הרשויות הן יצירות של החוקה ושל חוקי היסוד, מעמדן שווה והיחסים ביניהן מבוססים על בלמים ואיזונים. מטרת המבנה אינה למקסם את יעילות השלטון אלא להבטיח חירות באמצעות הגבלת כל רשות לגבולות סמכותה. בתוך המבנה הזה תפקידה של הרשות השופטת הוא להכריע בסכסוכים על פי הדין. ברק מפרק את מלאכת השיפוט לשלושה שלבים עיקריים: זיהוי העובדות הרלוונטיות מתוך מכלול העובדות, קביעת הדין החל, והחלת הדין על העובדות כדי להגיע למסקנה השיפוטית. המסגרת מדגישה שבית המשפט אינו מוצג כרשות עליונה על שתי האחרות, אלא כרשות שווה שמבצעת תפקיד מובחן בתוך מערכת שמונעת ריכוז כוח. ההשלכה הליברל־דמוקרטית היא מוסדית: חירות נשמרת לא מכוח רצונו הטוב של בעל סמכות יחיד, אלא באמצעות חלוקת תפקידים ובקרה הדדית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israel_human_rights_treaty_bodies_input_output_summary_he",
+      "file": "democracy_israel_human_rights_treaty_bodies_input_output_summary_he.html",
+      "permalink": "/democracy_israel_human_rights_treaty_bodies_input_output_summary_he.html",
+      "sortKey": 202608050001,
+      "titleHe": "האם ועדות האמנה מוטות נגד ישראל? המידע שמגיע אליהן משנה את התמונה",
+      "paperTitle": "International Human Rights and Israel as Seen in the Work of the Treaty Bodies: Do They Walk the Talk?",
+      "authorsCardHe": "Ruth Halperin-Kaddari; Amichai Danino",
+      "sourceAuthors": [
+        "Ruth Halperin-Kaddari",
+        "Amichai Danino"
+      ],
+      "journal": "Israel Law Review, 49(2), 267–276",
+      "dateText": "פורסם מקוון: 26 במאי 2016; גיליון יולי 2016",
+      "doiUrl": "https://doi.org/10.1017/s0021223716000121",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_human_rights_treaty_bodies_input_output_summary_he.jpg",
+        "altHe": "חדר דיונים בינלאומי ובו נציגי ציבור מעיינים בדוחות זכויות אדם מסודרים על שולחן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-05",
+      "dateModified": "2026-08-05",
+      "summaryHe": "המאמר בוחן אם ניתן לזהות יחס מיוחד או הטיה נגד ישראל בעבודת ועדות האמנה המקצועיות של האו״ם. המחברים מנתחים שישה סבבי ביקורת מהשנים 2010–2014 ומחלקים את נושאי ההערות המסכמות לארבע קבוצות: האוכלוסייה הישראלית הכללית, האוכלוסייה הלא־יהודית בישראל, פליטים ומבקשי מקלט, ופלסטינים בשטחים הכבושים. בצד התוצאה, 43% מתוך 158 ההערות המסכמות עסקו בפלסטינים בשטחים, לעומת 30% באוכלוסייה הכללית, 23% באוכלוסייה הלא־יהודית בישראל ו־4% בפליטים ובמבקשי מקלט. בצד המידע, מספר העמודים בדוחות החלופיים על פלסטינים בשטחים היה כמעט פי עשרים ממספר העמודים על האוכלוסייה הכללית; גם על האוכלוסייה הלא־יהודית בישראל הוגש מידע רב בהרבה. הקשר בין הקלט לפלט אינו מוכיח שאין הטיה, ואינו מודד את חומרת ההפרות עצמן, אך הוא מספק הסבר מוסדי משמעותי למוקד הוועדות: תשומת הלב שלהן מושפעת מן החומר שחברה אזרחית מניחה לפניהן. מבחינה דמוקרטית, הממצא מדגיש שהשתתפות אזרחית בהליכי פיקוח בינלאומיים אינה שולית; היא יכולה להשפיע על אילו זכויות ואילו קבוצות ייכנסו לסדר היום הרשמי.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_bereavement_rights_minority_civic_equality_summary_he",
       "file": "democracy_bereavement_rights_minority_civic_equality_summary_he.html",

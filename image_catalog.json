@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-04",
+  "lastUpdated": "2026-08-05",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -31297,6 +31297,281 @@
       "createdDate": "2026-08-04",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-04 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_israel_human_rights_treaty_bodies_input_output_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_human_rights_treaty_bodies_input_output_summary_he.html",
+      "usedBy": [
+        "democracy_israel_human_rights_treaty_bodies_input_output_summary_he.html"
+      ],
+      "cardTitleHe": "האם ועדות האמנה מוטות נגד ישראל? המידע שמגיע אליהן משנה את התמונה",
+      "authorsHe": "רות הלפרין־קדרי ועמיחי דנינו",
+      "visualDescriptionHe": "ועדת מומחים מגוונת יושבת סביב שולחן עמוס תיקיות ודוחות בחדר דיונים מוסדי.",
+      "semanticDescriptionHe": "ריבוי המסמכים והמשתתפים ממחיש כיצד קלט מארגונים ומדינות מגיע אל גוף מפקח ונעשה בסיס לדיון; הסצנה אינה מציגה ועדת אמנה, סבב דיווח, מדינה, מסמך או משתתף מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "human_rights_treaty_bodies",
+        "civil_society_reporting",
+        "institutional_oversight"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific international-review scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it visualizes the flow of documentary input into institutional deliberation without depicting the sampled committees or asserting the paper's empirical relationship.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_supreme_court_checks_balances_freedom_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_supreme_court_checks_balances_freedom_summary_he.html",
+      "usedBy": [
+        "democracy_supreme_court_checks_balances_freedom_summary_he.html"
+      ],
+      "cardTitleHe": "בית המשפט העליון כשותף שווה: בלמים ואיזונים נועדו להגן על החירות",
+      "authorsHe": "אהרן ברק",
+      "visualDescriptionHe": "מבט אל חלל המבואה המדורג והאור הטבעי בתוך בניין בית המשפט העליון בירושלים, ובו כמה מבקרים.",
+      "semanticDescriptionHe": "התצלום מציג את המוסד השיפוטי שעליו נסב המאמר ומספק עוגן ממשי לדיון במעמדו החוקתי; הוא אינו מציג שופטים, הכרעה, יחסים בין הרשויות או ראיה לטיעון הנורמטיבי של המחבר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "supreme_court",
+        "checks_and_balances",
+        "institutional_architecture"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Avi1111 / Dr. Avishai Teicher's photograph of the Israeli Supreme Court interior. Standard fitness because it identifies the institution but does not visualize the article's claims about equal branches, judicial review, or liberty.",
+      "createdDate": "2026-08-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Israel_supreme_court_building.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Interior_of_Israel_supreme_court_building.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Avi1111 / Dr. Avishai Teicher",
+      "provider": "Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.html",
+      "usedBy": [
+        "democracy_scholactivism_counter_populism_constitutional_overhaul_summary_he.html"
+      ],
+      "cardTitleHe": "אקטיביזם אקדמי נגד פופוליזם: חוקרי משפט מול השינוי החוקתי בישראל",
+      "authorsHe": "איתי בר־סימן־טוב, תמר הוסטובסקי ברנדס, אליאב ליבליך, יניב רוזנאי ואדם שנער",
+      "visualDescriptionHe": "חוקרים ואזרחים עובדים בקבוצות סביב מסמכים וספרים בסדנה פתוחה, ומרצה עומד ליד לוח ריק.",
+      "semanticDescriptionHe": "הסדנה מחברת בין מומחיות אקדמית, כתיבה והסברה לציבור וממחישה את מושג האקטיביזם האקדמי; הדמויות, המקום והמסמכים אינם מחברי המאמר, אירוע או חומר מן המאבק החוקתי בישראל.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "scholactivism",
+        "constitutional_overhaul"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific academic-public workshop generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates the scholars' hybrid professional and civic role without reconstructing the authors, campaign, country, or observed activities.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.html",
+      "usedBy": [
+        "democracy_pro_minority_criminalization_neoliberal_citizenship_summary_he.html"
+      ],
+      "cardTitleHe": "הפללה להגנת מיעוטים אינה מספיקה בלי תפיסה אחרת של אזרחות",
+      "authorsHe": "אלי אהרונסון",
+      "visualDescriptionHe": "קבוצה מגוונת משוחחת סביב שולחן במרכז קהילתי בעוד אנשים נוספים ממתינים ונפגשים ברקע.",
+      "semanticDescriptionHe": "המפגש הקהילתי ממחיש דיון על הגנה, שייכות ואחריות ציבורית מעבר למענה פלילי בלבד; הוא אינו מציג נפגעים, קבוצה מוגנת, אנשי משפט או מקרה שנדונו במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "minority_protection",
+        "criminalization",
+        "citizenship"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community-deliberation scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it evokes civic inclusion and collective responsibility without depicting criminal conduct, a minority identity, or an empirical case.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_people_election_discourse_populism_time_horizons_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_people_election_discourse_populism_time_horizons_summary_he.html",
+      "usedBy": [
+        "democracy_people_election_discourse_populism_time_horizons_summary_he.html"
+      ],
+      "cardTitleHe": "לפני הבחירות הבוחרים מחוברים ל״עם״; אחרי ההצבעה הקשר מתפרק",
+      "authorsHe": "לירון לביא",
+      "visualDescriptionHe": "קבוצות משוחחות בכיכר בשעת ערב, ובחדר הפונה אליה אנשים בוחנים תצלומים ומסמכים מתקופות שונות.",
+      "semanticDescriptionHe": "השילוב בין קהל עכשווי לארכיון חזותי ממחיש את הקשר המשתנה בין בחירות, זיכרון ציבורי ואופקי זמן; הסצנה אינה מציגה מערכת בחירות, עם מוגדר, מפלגה, בוחר או חומר אמפירי מן המאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "election_discourse",
+        "the_people",
+        "time_horizons"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-memory scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because its present crowd and layered historical photographs suggest changing temporal constructions of the people without reproducing the article's cases or discourse.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_corruption_conceptions_participation_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_corruption_conceptions_participation_israel_summary_he.html",
+      "usedBy": [
+        "democracy_political_corruption_conceptions_participation_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אותה שחיתות, תגובה אזרחית שונה: תפיסות הציבור והשתתפות פוליטית בישראל",
+      "authorsHe": "דורון נבות ואיתי בארי",
+      "visualDescriptionHe": "אזרחים מעיינים במסמכים ציבוריים ליד דלפק שקוף, ובמרחק מתקיים שימוע מול קהל.",
+      "semanticDescriptionHe": "המסמכים, השיחה והשימוע ממחישים כיצד פרשנות של התנהלות ציבורית עשויה לפגוש דרכי השתתפות שונות; הסצנה אינה מציגה משיבים, מעשה שחיתות, מוסד או תוצאה שנמדדו במחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "political_corruption",
+        "public_conceptions",
+        "political_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-records and hearing scene generated at 4:3, conservatively cropped to remove a stray artifact, and finished as an 800x600 progressive JPEG. Standard fitness because it evokes scrutiny and participation without assigning a corruption judgment or representing the study's Israeli respondents.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_tiktok_media_criticism_protest_paradigm_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_tiktok_media_criticism_protest_paradigm_summary_he.html",
+      "usedBy": [
+        "democracy_tiktok_media_criticism_protest_paradigm_summary_he.html"
+      ],
+      "cardTitleHe": "כשהקהל מבקר את סיקור המחאה: טיקטוק כזירה דמוקרטית — וגם לא־דמוקרטית",
+      "authorsHe": "יואנה ליטרט, ליליאן בוקסמן־שבתאי ונטע קליגלר־וילנצ׳יק",
+      "visualDescriptionHe": "צעירים בוחנים תצלומי מחאה סביב שולחן ומכינים צילום בטלפון בחדר הפקה קטן.",
+      "semanticDescriptionHe": "הצפייה, הדיון והיצירה ממחישים כיצד משתמשי פלטפורמה יכולים לפרק ולמסגר מחדש ייצוגי מחאה; הסצנה אינה ממשק טיקטוק ואינה מציגה סרטון, תגובה, מחאה או משתמש מן המדגם.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "tiktok",
+        "media_criticism",
+        "protest_paradigm",
+        "participatory_media"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific youth media-production scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it shows collaborative reinterpretation of protest imagery without copying a platform interface, branding, study item, or real participant.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_discussion_network_heterogeneity_citizenship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_discussion_network_heterogeneity_citizenship_summary_he.html",
+      "usedBy": [
+        "democracy_discussion_network_heterogeneity_citizenship_summary_he.html"
+      ],
+      "cardTitleHe": "דמוקרטיה מתוך הבדל: מן הגיוון במחוז אל רשת השיחה הפוליטית",
+      "authorsHe": "דיטרם א׳ שויפלה, ברוס ו׳ הארדי, דומיניק ברוסארד, ישראל וייסמל־מנור ואריק ניסבט",
+      "visualDescriptionHe": "קהל ודוברים משתתפים באספת תושבים היסטורית בניו יורק שעסקה בתחבורה ובאסטרטגיות לאוויר נקי.",
+      "semanticDescriptionHe": "האספה מתעדת מרחב ממשי של שיחה אזרחית בין משתתפים רבים וממחישה רשת דיון ציבורית; היא אינה חלק מסקר המחקר, אינה מציגה את מחוזותיו או משיביו ואינה מוכיחה קשר בין הטרוגניות לאזרחות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "discussion_networks",
+        "heterogeneity",
+        "citizenship",
+        "public_meeting"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Dan McCoy's U.S. Environmental Protection Agency photograph of a New York City citizens' transportation meeting. Standard fitness because it shows civic discussion and differing speakers but is historical illustrative material, not the national survey or county-level analysis.",
+      "createdDate": "2026-08-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CITIZENS_MEETING_ON_TRANSPORTATION,_A_FORUM_ON_%22STRATEGIES_FOR_CLEAN_AIR%22_PROPOSED_BY_THE_NEW_YORK_CITY_EPA_-_NARA_-_554333.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/CITIZENS_MEETING_ON_TRANSPORTATION%2C_A_FORUM_ON_%22STRATEGIES_FOR_CLEAN_AIR%22_PROPOSED_BY_THE_NEW_YORK_CITY_EPA_-_NARA_-_554333.jpg",
+      "license": "Public domain; United States Environmental Protection Agency work",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain",
+      "creator": "Dan McCoy",
+      "provider": "U.S. National Archives and Records Administration / Wikimedia Commons"
+    },
+    {
+      "file": "html_qa/democracy_democratic_culture_corruption_europe_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_democratic_culture_corruption_europe_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_culture_corruption_europe_summary_he.html"
+      ],
+      "cardTitleHe": "תרבות דמוקרטית נגד שחיתות: מוסדות, אמון ו־19 שנות נתונים מאירופה",
+      "authorsHe": "אינה קובה",
+      "visualDescriptionHe": "אזרחים מעיינים במסמכים מאוחסנים באזור פתוח לציבור בעוד מועצה מקיימת דיון באולם סמוך.",
+      "semanticDescriptionHe": "החיבור בין גישה לרשומות לבין דיון מוסדי ממחיש שקיפות, פיקוח והשתתפות כרכיבים של תרבות דמוקרטית; הסצנה אינה מציגה מדינה, שנה, משיב, מדד שחיתות או מוסד מתוך נתוני המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "democratic_culture",
+        "corruption_control",
+        "institutional_trust",
+        "europe"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-records and council scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it makes transparency and institutional scrutiny visible without depicting a measured country, causal pathway, respondent, or corruption event.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_income_loss_populist_radical_parties_netherlands_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_income_loss_populist_radical_parties_netherlands_summary_he.html",
+      "usedBy": [
+        "democracy_income_loss_populist_radical_parties_netherlands_summary_he.html"
+      ],
+      "cardTitleHe": "אובדן הכנסה, שמאל רדיקלי וימין רדיקלי: מבחן פאנל הולנדי",
+      "authorsHe": "נעם גדרון וג׳ונתן ג׳ ב׳ מייס",
+      "visualDescriptionHe": "בני זוג יושבים ליד שולחן מטבח ביום גשום ובוחנים יחד מכתבים ומסמכים כספיים.",
+      "semanticDescriptionHe": "העיון הביתי במסמכים ממחיש שינוי בנסיבות חומריות ברמת הפרט, שהיא רמת הניתוח המרכזית במחקר; הדמויות אינן משתתפי פאנל, המסמכים ריקים והסצנה אינה מציגה הכנסה, העדפה מפלגתית או תוצאה אמפירית.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "income_loss",
+        "radical_parties",
+        "panel_data",
+        "netherlands"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific Dutch household scene generated at 4:3 and finished as an 800x600 progressive JPEG. Standard fitness because it anchors personal material circumstances while avoiding party symbols, ballot choices, numerical claims, or representation of the LISS respondents.",
+      "createdDate": "2026-08-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],
