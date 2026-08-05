@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1242,
+  "paperCount": 1252,
   "papers": [
+    {
+      "slug": "democracy_nonrepresentative_representatives_decision_biases_summary_he",
+      "file": "democracy_nonrepresentative_representatives_decision_biases_summary_he.html",
+      "permalink": "/democracy_nonrepresentative_representatives_decision_biases_summary_he.html",
+      "sortKey": 202608060010,
+      "titleHe": "נבחרי ציבור אינם חסינים מהטיות החלטה — ולעיתים הם מוטים יותר מאזרחים",
+      "paperTitle": "Nonrepresentative Representatives: An Experimental Study of the Decision Making of Elected Politicians",
+      "authorsCardHe": "Lior Sheffer; Peter John Loewen; Stuart Soroka; Stefaan Walgrave; Tamir Sheafer",
+      "sourceAuthors": [
+        "Lior Sheffer",
+        "Peter John Loewen",
+        "Stuart Soroka",
+        "Stefaan Walgrave",
+        "Tamir Sheafer"
+      ],
+      "journal": "American Political Science Review, 112(2), 302–321",
+      "dateText": "פורסם מקוון: 28 בדצמבר 2017; גיליון מאי 2018",
+      "doiUrl": "https://doi.org/10.1017/S0003055417000569",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_nonrepresentative_representatives_decision_biases_summary_he.jpg",
+        "altHe": "קבוצת אנשים יושבת סביב שולחן דיונים ובוחנת יחד מסמך פתוח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "ליאור שפר, פיטר ג׳ון לואן, סטיוארט סורוקה, סטפן וולגרייב ותמיר שפר בודקים ישירות הנחה נפוצה במדע המדינה: שנבחרי ציבור הם מקבלי החלטות אסטרטגיים ושקולים יותר מן האזרחים שבחרו בהם. בשני סבבי ראיונות פנים אל פנים בשנים 2014 ו־2015 הם העבירו לפוליטיקאים מכהנים בפרלמנטים ארציים ואזוריים בבלגיה, בקנדה ובישראל ארבע מטלות ניסוייות, והשוו את תשובותיהם למדגמי אזרחים שקיבלו את אותן מטלות. בניסוי הסיכון בחרו פוליטיקאים בחלופה מסוכנת ב־62.5% מן המקרים לעומת 53.8% בקרב אזרחים, פער שהתקרב אך לא הגיע לרף המובהקות המקובל; מעבר ממסגור של רווח למסגור של הפסד הגדיל בחירה מסוכנת ב־38 נקודות אחוז אצל פוליטיקאים וב־35 אצל אזרחים. בניסוי העלות השקועה תמכו 83.7% מן הפוליטיקאים בהארכת תוכנית הלוואות שנכשלה בהשבת מלוא ההשקעה, לעומת 71.1% מן האזרחים, פער מובהק. בניסוי הזמן היו ממוצעי נקודת המעבר דומים, אך ההתפלגות הייתה שונה: 75.18% מן הפוליטיקאים הסכימו בשלב כלשהו להמתין שנתיים להשקעה גדולה יותר, לעומת 53.95% מן האזרחים. בניסוי הסטטוס קוו בחרו 67.3% מן הפוליטיקאים בתוכנית שהוצגה כברירת המחדל, לעומת 64.1% מן האזרחים, ללא פער מובהק בכלל המדגם; בקנדה נמצא פער מובהק. ניסיונות לעורר תחושת אחריותיות באמצעות קרבת בחירות וסיקור תקשורתי הניבו השפעות קטנות, לא מובהקות או שונות בין מדינות, ולכן אינם מספקים תנאי ברור שמנטרל הטיות. המאמר מסיק שאין הצדקה להניח שפוליטיקאים חסינים מהטיות המוכרות אצל אזרחים, אך מדגיש שהמטלות היפותטיות, מספר המדינות המצומצם והבדלים בין תחומי המדיניות מגבילים הכללה וסיבתיות. הוא מציע לחקור בנפרד כיצד מיון של טיפוסים מסוימים לפוליטיקה, למידה וניסיון בתפקיד, וסביבת האחריותיות הציבורית מייצרים את הדפוסים שנצפו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_national_courts_international_law_misgivings_summary_he",
+      "file": "democracy_national_courts_international_law_misgivings_summary_he.html",
+      "permalink": "/democracy_national_courts_international_law_misgivings_summary_he.html",
+      "sortKey": 202608060009,
+      "titleHe": "בתי משפט לאומיים נרתעים מאכיפת המשפט הבין־לאומי נגד הרשות המבצעת",
+      "paperTitle": "Judicial Misgivings Regarding the Application of International Law: An Analysis of Attitudes of National Courts",
+      "authorsCardHe": "Eyal Benvenisti",
+      "sourceAuthors": [
+        "Eyal Benvenisti"
+      ],
+      "journal": "European Journal of International Law, 4(2), 159–183",
+      "dateText": "1993",
+      "doiUrl": "https://doi.org/10.1093/oxfordjournals.ejil.a035824",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_national_courts_international_law_misgivings_summary_he.jpg",
+        "altHe": "חמישה שופטים דנים יחד בספר ובתיקים משפטיים בחדר שבקירו מפת עולם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "איל בנבנישתי בוחן את הפער בין התקווה שבתי משפט לאומיים יאכפו את המשפט הבין־לאומי לבין פסיקה השוואתית שמגינה בעקביות על חופש הפעולה של הרשות המבצעת. המאמר, שפורסם ב־1993, מזהה שלושה שלבים שבהם מתרחש הצמצום. ראשית, בתי משפט מפרשים בצמצום הוראות חוקתיות שקולטות מנהג או אמנות אל הדין המקומי ולעתים נותנים עדיפות לדין הפנימי. שנית, הם מקשיחים את התנאים להכרה במנהג, מגדירים אמנות כבלתי ניתנות להפעלה ישירה, מפרשים אותן באופן צר או נותנים משקל רב לעמדת הממשלה. שלישית, הם מפעילים דוקטרינות הימנעות כגון שאלה פוליטית, מעשה מדינה, חסינות, מעמד ואי־שפיטות כדי שלא להגיע להכרעה לפי המשפט הבין־לאומי. בנבנישתי אינו מסביר את הדפוס בחוסר ידע או אומץ של שופטים, אלא בחשש שפסק דין חד־צדדי יכבול את מדינתם בעוד מדינות אחרות נשארות חופשיות, יפגע במדיניות החוץ או יגרור עלויות כלכליות. הוא מתאר זאת כבעיית שיתוף פעולה: נכונות שיפוטית לאכוף נורמות גדלה כאשר קיימת מחויבות הדדית ואמינה, כפי שהמחיש אז המשפט האירופי. בחלק הישראלי נטען שהפסיקה הכירה במשפט בין־לאומי מנהגי כחלק מן הדין, אך לא אפשרה בדרך כלל להסתמך ישירות על אמנות שלא נקלטו בחקיקה. בעקבות העתירות הנוגעות לשטחים שנכבשו ב־1967, בית המשפט גם הציב רף גבוה להוכחת מנהג ופירש בהרחבה את סמכויות הממשל הצבאי. עם זאת, הוא דחה דוקטרינות הימנעות והסכים לבקר את פעולות הממשל, בעיקר באמצעות המשפט המינהלי הישראלי. לשיטת המאמר, הצירוף העניק לביקורת השיפוטית ולממשל לגיטימציה בלי לאפשר למשפט הבין־לאומי להגביל במידה רבה את המדיניות הכללית, ובו בזמן צמצם את האפשרות להסתמך על אמנות גם בתחומי זכויות אדם ומסחר שאינם קשורים ישירות לביטחון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_public_sector_honesty_corruption_40_countries_summary_he",
+      "file": "democracy_public_sector_honesty_corruption_40_countries_summary_he.html",
+      "permalink": "/democracy_public_sector_honesty_corruption_40_countries_summary_he.html",
+      "sortKey": 202608060008,
+      "titleHe": "עובדי ציבור אינם ישרים פחות מטבעם; ההבדל נוצר בין מדינות ובין תרבויות ארגוניות",
+      "paperTitle": "Public-Sector Honesty and Corruption: Field Evidence from 40 Countries",
+      "authorsCardHe": "Raanan Sulitzeanu-Kenan, Markus Tepe, Omer Yair",
+      "sourceAuthors": [
+        "Raanan Sulitzeanu-Kenan",
+        "Markus Tepe",
+        "Omer Yair"
+      ],
+      "journal": "Journal of Public Administration Research and Theory, 32(2), 310–325",
+      "dateText": "פורסם מקוון: 20 באוגוסט 2021; גיליון אפריל 2022",
+      "doiUrl": "https://doi.org/10.1093/jopart/muab033",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_sector_honesty_corruption_40_countries_summary_he.jpg",
+        "altHe": "אזרח מחזיר ארנק לעובד מאחורי דלפק שירות ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "רענן סוליציאנו־קינן, מרקוס טפה ועומר יאיר מנתחים נתוני ניסוי ארנקים אבודים שנערך בשנים 2013–2016 וכלל 17,303 מסירות ב־40 מדינות. עוזר מחקר מסר לעובד דלפק ארנק שנמצא כביכול ברחוב, והמדד היה אם המוסד ניסה ליצור קשר עם הבעלים בדוא״ל. החוקרים משווים מוסדות ציבוריים לבנקים, מלונות ומוסדות תרבות כדי להפריד בין תרבות יושר כלל־חברתית לבין רכיב ייחודי למגזר הציבורי. שיעור ההחזרה הגולמי היה 47.9% במגזר הציבורי ו־49.8% במגזר הפרטי, אך לאחר בקרה ובדיקות עמידות לא נמצא פער עולמי מובהק ויציב. לעומת זאת, ההבדלים בין מדינות היו גדולים: היושר הציבורי והפרטי נעו יחד במתאם 0.90, והפער היחסי של המגזר הציבורי השתרע מיתרון של 18.5 נקודות אחוז בשוודיה לחיסרון של 34.1 נקודות בסרביה. רמת היושר במוסדות ציבוריים הייתה מנבא חזק של מדדי שחיתות, ובניתוח דומיננטיות תרומתה החזויה עלתה על זו של התוצר לנפש. גם הרכיב של תרבות מגזר ציבורי — ההפרש המקומי בין הציבורי לפרטי — ניבא שחיתות מעבר ליושר הציבורי עצמו, ממצא העולה בקנה אחד עם תפקידם של פיקוח ותמריצים ולא רק של נורמות פנימיות. המחקר אינו מזהה סיבתיות ואינו מודד את כל סוגי השחיתות, אך הוא מערער על הטענה שלמגזר הציבורי יש אופי מוסרי אוניברסלי. מדיניות נגד שחיתות צריכה לכן לטפל בסוציאליזציה, בהכשרה, בנורמות ובבקרה, ולא להסתמך רק על בחירת אנשים שנתפסים כישרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_agenda_setting_priming_israeli_elections_summary_he",
+      "file": "democracy_agenda_setting_priming_israeli_elections_summary_he.html",
+      "permalink": "/democracy_agenda_setting_priming_israeli_elections_summary_he.html",
+      "sortKey": 202608060007,
+      "titleHe": "מהמציאות למהדורה, ומהמהדורה לקלפי: ארבע בחירות חושפות שרשרת של השפעה",
+      "paperTitle": "Agenda Building, Agenda Setting, Priming, Individual Voting Intentions, and the Aggregate Results: An Analysis of Four Israeli Elections",
+      "authorsCardHe": "Tamir Sheafer, Gabriel Weimann",
+      "sourceAuthors": [
+        "Tamir Sheafer",
+        "Gabriel Weimann"
+      ],
+      "journal": "Journal of Communication, 55(2), 347–365",
+      "dateText": "יוני 2005",
+      "doiUrl": "https://doi.org/10.1111/j.1460-2466.2005.tb02676.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_agenda_setting_priming_israeli_elections_summary_he.jpg",
+        "altHe": "משה דיין משיב לעיתונאים במסיבת עיתונאים בכנסת בשנת 1979",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "תמיר שפר וגבריאל ויימן מנתחים ארבע מערכות בחירות בישראל — 1996, 1999, 2001 ו־2003 — כדי לבחון שרשרת בת חמישה שלבים: תנאי המציאות, סדר היום התקשורתי, סדר היום הציבורי, כוונת ההצבעה של היחיד והתוצאה המפלגתית המצטברת. הם מחלקים את התחרות לשני תחומים: ביטחון־שלום מול כלכלה־פנים. תנאי הביטחון נמדדו במספר ההרוגים האזרחים והחיילים בששת החודשים שלפני הבחירות, והכלכלה בשינוי השנתי בתוצר לנפש. סדר היום התקשורתי נמדד בחדשות ערוצים 1 ו־2, וסדר היום הציבורי בסקרי בחירות ששאלו מהי הבעיה החשובה ביותר. בשלוש מערכות הבחירות הראשונות הסיקור נע בכיוון התנאים הבולטים במציאות; ב־2003, אף שגם הביטחון וגם הכלכלה הורעו, התקשורת העניקה מקום נרחב יותר לכלכלה. במודל משולב סדר היום הטלוויזיוני היה מנבא חזק של הבעיה שהציבור ציין, בעוד מספר ההרוגים לא היה מובהק. ברמת הפרט, מי שראה בתחום מסוים את הבעיה המרכזית נטה יותר להצביע למפלגה המזוהה עם טיפול בו, גם לאחר שליטה בהצבעה קודמת, עמדות מדיניות וכלכליות ומאפיינים חברתיים. גם הקולות המצטברים של גושי המפלגות נעו יחד עם בולטות התחומים בציבור, אך ארבע נקודות זמן אינן מאפשרות להסיק סיבתיות. המאמר מציג אפוא ראיות תומכות להשפעת סדר יום ולהטרמה במערכת רב־מפלגתית, לצד מגבלות מהותיות של מדגם יהודי בלבד, היעדר מדידת חשיפה אישית וארבע בחירות בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_permissive_constitutions_religious_freedom_summary_he",
+      "file": "democracy_permissive_constitutions_religious_freedom_summary_he.html",
+      "permalink": "/democracy_permissive_constitutions_religious_freedom_summary_he.html",
+      "sortKey": 202608060006,
+      "titleHe": "כשחוקה נמנעת מהכרעה: עמימות עשויה לאפשר דמוקרטיה — אך לא להגן על כל חירות",
+      "paperTitle": "Permissive Constitutions, Democracy, and Religious Freedom in India, Indonesia, Israel, and Turkey",
+      "authorsCardHe": "Hanna Lerner",
+      "sourceAuthors": [
+        "Hanna Lerner"
+      ],
+      "journal": "World Politics, 65(4), 609–655",
+      "dateText": "אוקטובר 2013",
+      "doiUrl": "https://doi.org/10.1017/S0043887113000208",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_permissive_constitutions_religious_freedom_summary_he.jpg",
+        "altHe": "חזית בית המשפט החוקתי של אינדונזיה בג׳קרטה בין בנייני משרדים גבוהים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "חנה לרנר שואלת כיצד אפשר לכתוב חוקה כאשר אין הסכמה בסיסית על זהותה הדתית של המדינה. באמצעות מעקב תהליכי אחר הודו, אינדונזיה, ישראל וטורקיה היא מפתחת הבחנה בין הסדר חוקתי מתירני לבין הסדר מגביל. חוקה מתירנית משתמשת באי־הכרעה, עמימות או ניסוח מעורפל כדי להעביר שאלות נפיצות מן המשפט החוקתי העליון אל החקיקה והפוליטיקה הרגילות; חוקה מגבילה מצמצמת מראש את טווח ההכרעות העתידיות. הודו אימצה מתירנות פורמלית סביב דיני המעמד האישי והקוד האזרחי האחיד, ישראל מתירנות בלתי־פורמלית באמצעות הימנעות מחוקה מלאה והסדר הסטטוס־קוו, ואינדונזיה עברה ממתירנות ב־1945 להגבלה סמכותנית ב־1959 וחזרה לעמימות עם הדמוקרטיזציה אחרי 1998. טורקיה ייצגה את המסלול המגביל של חילוניות כמאליסטית שנכפתה מלמעלה. ההשוואה מצביעה בזהירות על כך שמתירנות הקלה על הקמת מוסדות דמוקרטיים ועל חופש הפעולה של קהילות דתיות, אך סיפקה הגנה חלשה יותר ליחידים המבקשים לצאת מכפייה דתית. לרנר מדגישה שאין כאן נוסחת קסם: עמימות עלולה להעביר את הסכסוך לבתי משפט ולפרלמנט, לשחוק אמון ולהנציח מוסדות שמרניים. לכן תרומתו של המאמר היא הצגת פשרה חוקתית כבחירה בזמן ובזירת ההכרעה, ולא כהיעדר מוחלט של בחירה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_hybrid_voluntary_organizations_civil_society_summary_he",
+      "file": "democracy_hybrid_voluntary_organizations_civil_society_summary_he.html",
+      "permalink": "/democracy_hybrid_voluntary_organizations_civil_society_summary_he.html",
+      "sortKey": 202608060005,
+      "titleHe": "כשארגון אזרחי הוא גם תנועה, גם ספק שירות וגם קהילה",
+      "paperTitle": "Understanding Multi-purpose Hybrid Voluntary Organizations: The Contributions of Theories on Civil Society, Social Movements and Non-profit Organizations",
+      "authorsCardHe": "Yeheskel Hasenfeld; Benjamin Gidron",
+      "sourceAuthors": [
+        "Yeheskel Hasenfeld",
+        "Benjamin Gidron"
+      ],
+      "journal": "Journal of Civil Society, 1(2), 97–112",
+      "dateText": "ספטמבר 2005",
+      "doiUrl": "https://doi.org/10.1080/17448680500337350",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hybrid_voluntary_organizations_civil_society_summary_he.jpg",
+        "altHe": "קבוצת אנשים בני גילים שונים אורזת מוצרי מזון ומשוחחת סביב שולחנות בחלל קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "יחזקאל הסנפלד ובנימין גדרון טוענים כי חלוקה מקובלת בין אגודות שמופעלות בידי מתנדבים, תנועות חברתיות וארגוני שירות ללא כוונת רווח מחמיצה ארגונים שמשלבים את שלוש הצורות. ארגון התנדבותי היברידי רב־תכליתי מקדם ערכים שאינם תואמים בהכרח את הערכים הממוסדים, משתמש בשירותים כאמצעי לשינוי חברתי, מטפח זהות קולקטיבית ומחבר בין שינוי ערכי, מתן שירות ועזרה הדדית. המחברים מרחיבים את מושג החברה האזרחית לשלושה ממדים: ארגונים ניטרליים ביחס למדינה, ארגונים המתנגדים למשטר או למדיניות, וארגונים המשתפים פעולה עם המדינה או תלויים בה. לצד היחסים עם המדינה הם מציבים ציר נוסף — מידת השתתפותם של חברי הארגון, משליטה מלאה ועד השתתפות סמלית. המסגרת המשולבת מנסחת תנאים לשלושה אתגרים. היווצרות מחייבת מרחב ציבורי וחיים אסוציאטיביים עשירים, ונעשית סבירה יותר כשהמערכת הפוליטית תחרותית, האליטות מפוצלות, הכוח המדכא מרוסן ויש לבעלי היוזמה בעלי ברית בקרב האליטות. גיוס משאבים נשען על רשתות חברתיות, הון חברתי, מיומנויות אזרחיות, קשרים בין־ארגוניים, מבנה פורמלי ועיגון הערכים בסמלים תרבותיים מוכרים. מחויבות נשענת על סיפוק אישי, זהות קולקטיבית, מסגור משותף ואידאולוגיה ארגונית. המאמר נעזר במחקר השוואתי קודם של ארגוני שלום ויישוב סכסוכים בצפון אירלנד, בישראל ובפלסטין ובדרום אפריקה כדי להמחיש שהארגונים נעים לאורך חייהם בין הצורות השונות. מסקנתו היא שאין תיאוריה יחידה שמסבירה היטב את מלוא מחזור החיים של ארגוני המגזר השלישי; נדרש חיבור בין נקודות המבט כדי להבין גם שינוי חברתי, גם שירות וגם השתתפות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_tel_aviv_urban_membership_labor_migrants_summary_he",
+      "file": "democracy_tel_aviv_urban_membership_labor_migrants_summary_he.html",
+      "permalink": "/democracy_tel_aviv_urban_membership_labor_migrants_summary_he.html",
+      "sortKey": 202608060004,
+      "titleHe": "כשהעיר מכירה בתושבים והמדינה רואה רק עובדים: מהגרי עבודה בתל אביב",
+      "paperTitle": "“Tel Aviv is Not Foreign to You”: Urban Incorporation Policy on Labor Migrants in Israel",
+      "authorsCardHe": "Adriana Kemp and Rebeca Raijman",
+      "sourceAuthors": [
+        "Adriana Kemp",
+        "Rebeca Raijman"
+      ],
+      "journal": "International Migration Review, 38(1), 26–51",
+      "dateText": "אביב 2004",
+      "doiUrl": "https://doi.org/10.1111/j.1747-7379.2004.tb00187.x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_tel_aviv_urban_membership_labor_migrants_summary_he.jpg",
+        "altHe": "פארק לבינסקי ליד התחנה המרכזית בתל אביב, ובו מדשאה, דקלים, תחנת אוטובוס והולכי רגל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "המאמר בוחן כיצד עיר נעשית שחקן פוליטי במדיניות הגירה כאשר המדינה שולטת בכניסה ובמעמד, אך האחריות לחיי היום־יום של המהגרים נופלת על הרשות המקומית. קמפ ורייכמן מתמקדות במהגרי העבודה הלא־יהודים, ובייחוד חסרי המעמד שחיו בדרום תל אביב, על בסיס עבודת שדה, ראיונות עומק עם בעלי תפקידים בעירייה וניתוח פרוטוקולים מן הארכיון העירוני. המדינה הגדירה את ישראל כמדינת עלייה ולא כמדינת הגירה, טיפלה במהגרים בעיקר ככוח עבודה זמני והעמידה במרכז את השליטה והגירוש. תל אביב־יפו, לעומת זאת, נאלצה להתמודד עם תושבים בפועל הזקוקים לחינוך, בריאות, רווחה והגנה. המדיניות המקומית עברה משלושה שלבים: הימנעות ובהלה עד תחילת 1996, העלאת מודעות בשנים 1996–1998, והכרה פוליטית מסוף 1998. הקמת פורום עירוני ומרכז מסיל״ה ביולי 1999 הפכה את ההכרה למערך של שירותים, מידע וקשר עם קהילות. בתי ספר וגני ילדים פתחו מסלולי שילוב; העיר סייעה בהנגשת זכויות; ומהגרים עודדו לבחור נציגים, לפרסם חוברת זכויות ולפתח הנהגה ופעילות תרבותית. כך הועבר בסיס הזכאות מן האזרחות הלאומית אל עצם המגורים בעיר, ונוצרה ״חברות עירונית״ של נושאי זכויות שאינם אזרחים. התוצאה הייתה גם פוליטית: ארגון הקהילות יצר יכולת להציב תביעות שחורגות מן השירותים שהעירייה ביקשה לספק. עם זאת, העיר נמנעה מעימות מלא על הסדרה וגירוש, נותרה תלויה בשלטון המרכזי ולא החליפה את המדינה. חשיבות המקרה היא בהדגמת כוחם של מוסדות מקומיים לשנות בפועל את גבולות ההשתייכות וההשתתפות, גם כאשר גבולות האזרחות הפורמליים נשארים סגורים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_arab_minority_joint_list_elections_2019_2020_summary_he",
+      "file": "democracy_arab_minority_joint_list_elections_2019_2020_summary_he.html",
+      "permalink": "/democracy_arab_minority_joint_list_elections_2019_2020_summary_he.html",
+      "sortKey": 202608060003,
+      "titleHe": "כשהרשימה המשותפת מתאחדת, הייצוג עולה: שלוש בחירות בשנה אחת",
+      "paperTitle": "Together we stand, divided we fall: the Arab minority in Israel’s general elections, 2019-20",
+      "authorsCardHe": "גדי חיטמן",
+      "sourceAuthors": [
+        "Gadi Hitman"
+      ],
+      "journal": "Israel Affairs, 27(2), 284–299",
+      "dateText": "פורסם מקוון: 24 בפברואר 2021; גיליון מרץ 2021",
+      "doiUrl": "https://doi.org/10.1080/13537121.2021.1891502",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_arab_minority_joint_list_elections_2019_2020_summary_he.jpg",
+        "altHe": "אזרחים ערבים מקרבים שני שולחנות זה לזה באולם קהילתי לקראת התארגנות לבחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "גדי חיטמן בוחן את התנהגות הציבור הערבי בישראל בשלוש מערכות הבחירות הכלליות שנערכו בין אפריל 2019 למרץ 2020. בסיבוב הראשון, ב־9 באפריל 2019, הרשימה המשותפת פורקה אף שהיו בציבור הערבי ציפיות גבוהות להתמודדות מאוחדת בבחירות לכנסת ה־21. לפי התקציר הרשמי, אכזבת הבוחרים התבטאה בהתרחקות מן הקלפי, והייצוג המפלגתי הערבי ירד מ־13 לעשרה מושבים. בסיבוב השני, ב־17 בספטמבר 2019, הרשימה הוקמה מחדש וזכתה שוב ב־13 מושבים. בסיבוב השלישי, במרץ 2020, היא התמודדה שוב כרשימה משותפת והגיעה ל־15 מושבים. המחבר מסיק מן הרצף שהחרמת בחירות פוגעת במיעוט הערבי, בעוד איחוד המפלגות מגדיל את כוחו הפוליטי. ההשוואה מציגה שינוי ברור בתוצאה הפרלמנטרית לצד שינוי במבנה ההתמודדות ובהשתתפות המתוארת. עם זאת, הרשומה הציבורית אינה מפרטת שיעורי הצבעה, נתוני סקר, שיטת ניתוח או מבחן של הסברים חלופיים, ולכן שלוש התצפיות אינן מוכיחות שהפיצול או האיחוד היו הסיבה היחידה לשינוי. המסקנה הנתמכת היא שבתקופה שנבדקה פיצול לווה בירידה במספר המושבים, ואיחוד לווה בהתאוששות ובהתחזקות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_minority_welfare_claimants_implicit_prejudice_summary_he",
+      "file": "democracy_minority_welfare_claimants_implicit_prejudice_summary_he.html",
+      "permalink": "/democracy_minority_welfare_claimants_implicit_prejudice_summary_he.html",
+      "sortKey": 202608060002,
+      "titleHe": "כשדעה קדומה סמויה נכנסת להחלטה מינהלית: אפליית תובעי גמלת אי־כושר מוסלמים",
+      "paperTitle": "Discrimination of Minority Welfare Claimants in the Real World: The Effect of Implicit Prejudice",
+      "authorsCardHe": "מיכאלה אסולין, שרון גלעד ופזית בן־נון בלום",
+      "sourceAuthors": [
+        "Michaela Assouline",
+        "Sharon Gilad",
+        "Pazit Ben-Nun Bloom"
+      ],
+      "journal": "Journal of Public Administration Research and Theory, 32(1), 75–96",
+      "dateText": "פורסם מקוון: 23 במאי 2021; גיליון ינואר 2022",
+      "doiUrl": "https://doi.org/10.1093/jopart/muab016",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minority_welfare_claimants_implicit_prejudice_summary_he.jpg",
+        "altHe": "רופא בחלוק לבן משווה שני תיקים במשרד בעוד שני אנשים יושבים מאחוריו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "המחקר בוחן כיצד אפליה ביורוקרטית מתרחשת בתוך החלטות מקצועיות בעולם האמיתי, גם כאשר הארגון מצהיר על מחויבות לשוויון. החוקרות קיבלו גישה נדירה לשיפוטים של רופאים בבקשות לגמלת אי־כושר בתוכנית ממשלתית בישראל בשנים 2015–2017, והשוו את היחס לתובעים מוסלמים ולתובעים יהודים. כדי לצמצם את האפשרות שהפער נבע ממחלוקת רפואית מוצדקת, הניתוח הוגבל למבקשים שכבר עברו סף נכות רפואית מחמיר, כך שעצם מצבם הרפואי לא היה שנוי במחלוקת. למרות נקודת המוצא המשותפת, רופאים יהודים נטו יותר לדחות בקשות של מוסלמים ולהמליץ על פיצוי חלקי ליהודים. לעומת זאת, לא נמצא הבדל בהחלטות על פיצוי מלא. המאמר אינו מסתפק בזיהוי הפער, אלא מציע מסגרת תאורטית שמקשרת בין מנגנונים אפשריים של אפליית מיעוטים, תנאי ההחלטה שמפעילים אותם והדפוסים שאפשר לצפות לראות בנתונים. היישום במקרה הנחקר מצביע על דעה קדומה סמויה שהופעלה כאשר מורכבות ועמימות החלישו עיבוד שיטתי של המידע. מבחינה מוסדית, הממצא מראה שמחויבות פורמלית לשוויון אינה מספיקה כאשר נקודות הכרעה עמומות משאירות מקום להטיות לא־מודעות להשפיע על גישה לזכויות חברתיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he",
+      "file": "democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.html",
+      "permalink": "/democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.html",
+      "sortKey": 202608060001,
+      "titleHe": "אזרחות לא־שווה בתוך דמוקרטיה אתנית: מעמדם של האזרחים הערבים בישראל",
+      "paperTitle": "Ethnic Democracy and the Legal Construction of Citizenship: Arab Citizens of the Jewish State",
+      "authorsCardHe": "יואב פלד",
+      "sourceAuthors": [
+        "Yoav Peled"
+      ],
+      "journal": "American Political Science Review, 86(2), 432–443",
+      "dateText": "יוני 1992",
+      "doiUrl": "https://doi.org/10.2307/1964231",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.jpg",
+        "altHe": "אנשים משוחחים סביב שולחן באולם שירות ציבורי פנימי בעוד אחרים ממתינים ברקע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-06",
+      "dateModified": "2026-08-06",
+      "summaryHe": "המאמר מנתח את מעמדם של האזרחים הערבים כמפתח להבנת יכולתה של ישראל לתפקד כדמוקרטיה אתנית — מערכת המשלבת מוסדות דמוקרטיים עם דומיננטיות של קבוצה אתנית אחת. לפי יואב פלד, החיבור בין ליברליזם, רפובליקניזם ולאומיות אתנית אינו יוצר אזרחות אחידה, אלא שני מסלולים נבדלים של השתייכות פוליטית. ליהודים מיוחסת אזרחות רפובליקנית, המחברת חברות בקולקטיב להשתתפות בעיצוב הטוב המשותף; לערבים מיוחסת אזרחות ליברלית, המקנה זכויות אזרחיות ופוליטיות אך אינה מעניקה מעמד שווה בעיצוב אותו טוב משותף. כך נשמרת מסגרת חוקית ודמוקרטית בלי לבטל את ההיררכיה האתנו־לאומית שבתוכה. פלד מדגיש שהמעמד המוגבל של האזרחים הערבים אינו רק מנגנון של הדרה: עצם האזרחות גם דוחפת אותם ומאפשרת להם לנהל מאבקים פוליטיים בתוך גבולות החוק. ההשוואה לפלסטינים שאינם אזרחים בשטחים הכבושים מחדדת את כוחו של המעמד המשפטי, גם כאשר הוא חלקי ולא־שוויוני. המסקנה היא שאזרחות יכולה להיות בעת ובעונה אחת מקור לזכויות, מסגרת למאבק ומנגנון המשמר יתרון קבוצתי. מבחינה ליברל־דמוקרטית, הטיעון מזהיר מפני זיהוי אוטומטי של מוסדות דמוקרטיים וזכויות פורמליות עם שוויון מלא בחברות הפוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_income_loss_populist_radical_parties_netherlands_summary_he",
       "file": "democracy_income_loss_populist_radical_parties_netherlands_summary_he.html",

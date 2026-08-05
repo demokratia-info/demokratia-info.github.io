@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -31572,6 +31572,292 @@
       "createdDate": "2026-08-05",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-05 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.html",
+      "usedBy": [
+        "democracy_ethnic_democracy_citizenship_arab_citizens_israel_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות לא־שווה בתוך דמוקרטיה אתנית: מעמדם של האזרחים הערבים בישראל",
+      "authorsHe": "יואב פלד",
+      "visualDescriptionHe": "אנשים מקבוצות שונות פונים לדלפק ומשוחחים באולם שירות ציבורי פנימי, בעוד אחרים ממתינים במעברים שמאחוריהם.",
+      "semanticDescriptionHe": "אולם השירות ממחיש מפגש יומיומי בין אזרחים למוסדות ואת השאלה אם חברות פורמלית מתורגמת לגישה שווה; הדמויות אינן משתתפי מחקר והסצנה אינה מציגה סטטוס משפטי או תוצאה מן המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "ethnic_democracy",
+        "citizenship",
+        "arab_citizens"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-service hall generated in a warm documentary editorial style and finished as an 800x600 progressive JPEG. Standard fitness because it evokes institutional access and unequal pathways without depicting a real agency, legal category, or empirical observation.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_minority_welfare_claimants_implicit_prejudice_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_minority_welfare_claimants_implicit_prejudice_summary_he.html",
+      "usedBy": [
+        "democracy_minority_welfare_claimants_implicit_prejudice_summary_he.html"
+      ],
+      "cardTitleHe": "כשדעה קדומה סמויה נכנסת להחלטה מינהלית: אפליית תובעי גמלת אי־כושר מוסלמים",
+      "authorsHe": "מיכאלה אסולין, שרון גלעד ופזית בן־נון בלום",
+      "visualDescriptionHe": "רופא בחלוק לבן משווה שני תיקי מסמכים במשרד, ושני אנשים ממתינים מאחוריו.",
+      "semanticDescriptionHe": "השוואת התיקים ממחישה שיקול דעת מקצועי בעל השלכות על תובעים שונים; הסצנה אינה מציגה רופאים או תובעים מן המחקר, אינה מסמנת זהות דתית ואינה מוכיחה אפליה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "implicit_prejudice",
+        "welfare_claimants",
+        "administrative_discretion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific medical-assessment office generated in a restrained documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it makes comparative case review visible without assigning a religion, diagnosis, benefit decision, or measured bias to any depicted person.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_arab_minority_joint_list_elections_2019_2020_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_minority_joint_list_elections_2019_2020_summary_he.html",
+      "usedBy": [
+        "democracy_arab_minority_joint_list_elections_2019_2020_summary_he.html"
+      ],
+      "cardTitleHe": "כשהרשימה המשותפת מתאחדת, הייצוג עולה: שלוש בחירות בשנה אחת",
+      "authorsHe": "גדי חיטמן",
+      "visualDescriptionHe": "אזרחים ערבים בני גילים שונים מקרבים שני שולחנות זה לזה באולם קהילתי, כששכנים נוספים נכנסים מן הדלת.",
+      "semanticDescriptionHe": "חיבור השולחנות ממחיש מעבר מפיצול להתארגנות משותפת לקראת בחירות; הדמויות אינן בוחרים או פעילי מפלגות מן המחקר, והדפים הריקים אינם פתקי הצבעה או נתוני בחירות.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "joint_list",
+        "arab_voters",
+        "elections_2019_2020"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community organizing scene generated in a warm documentary style and finished as an 800x600 progressive JPEG. Standard fitness because the joined tables make coalition-building visible without party symbols, flags, readable campaign material, or a claim about any real participant.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_tel_aviv_urban_membership_labor_migrants_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_tel_aviv_urban_membership_labor_migrants_summary_he.html",
+      "usedBy": [
+        "democracy_tel_aviv_urban_membership_labor_migrants_summary_he.html"
+      ],
+      "cardTitleHe": "כשהעיר מכירה בתושבים והמדינה רואה רק עובדים: מהגרי עבודה בתל אביב",
+      "authorsHe": "אדריאנה קמפ ורבקה רייכמן",
+      "visualDescriptionHe": "פארק לבינסקי סמוך לתחנה המרכזית בתל אביב, ובו מדשאה, עצי דקל, תחנת אוטובוס והולכי רגל.",
+      "semanticDescriptionHe": "המרחב הציבורי בדרום תל אביב ממקם את הדיון בעיר שבה חיו קהילות מהגרי העבודה; התצלום אינו מציג מהגר מזוהה, שירות עירוני, מרכז מסיל״ה או תוצאה מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "urban_membership",
+        "labor_migrants",
+        "tel_aviv",
+        "levinsky_park"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Anatoli Axelrod's documentary photograph near Tel Aviv's Central Bus Station. Standard fitness because it precisely locates the urban setting but does not depict the migrant communities, municipal incorporation practices, or rights claims analyzed in the article.",
+      "createdDate": "2026-08-06",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Park_near_Central_Buss_Station_in_Tel_Aviv_-_panoramio.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Park_near_Central_Buss_Station_in_Tel_Aviv_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "creator": "Anatoli Axelrod",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Park near Central Buss Station in Tel Aviv - panoramio.jpg",
+      "sourceDimensions": "1600x1200"
+    },
+    {
+      "file": "html_qa/democracy_hybrid_voluntary_organizations_civil_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_hybrid_voluntary_organizations_civil_society_summary_he.html",
+      "usedBy": [
+        "democracy_hybrid_voluntary_organizations_civil_society_summary_he.html"
+      ],
+      "cardTitleHe": "כשארגון אזרחי הוא גם תנועה, גם ספק שירות וגם קהילה",
+      "authorsHe": "Yeheskel Hasenfeld; Benjamin Gidron",
+      "visualDescriptionHe": "אנשים בני גילים שונים אורזים מזון, מוסרים שקיות ומשוחחים בקבוצות בתוך חלל קהילתי פעיל.",
+      "semanticDescriptionHe": "החיבור בין סיוע מעשי, התנדבות ושיחה קבוצתית ממחיש ארגון רב־תכליתי שמשלב שירות, קהילה ופעולה חברתית; הסצנה אינה ארגון מן המדגם ואינה מסווגת את הדמויות לפי טיפולוגיית המאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "civil_society",
+        "voluntary_organizations",
+        "social_movements",
+        "nonprofit_services"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community organization scene generated in a textured documentary editorial style and finished as an 800x600 progressive JPEG. Standard fitness because it combines several visible civic functions while avoiding a claim that one depicted organization represents the paper's cases.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_permissive_constitutions_religious_freedom_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_permissive_constitutions_religious_freedom_summary_he.html",
+      "usedBy": [
+        "democracy_permissive_constitutions_religious_freedom_summary_he.html"
+      ],
+      "cardTitleHe": "כשחוקה נמנעת מהכרעה: עמימות עשויה לאפשר דמוקרטיה — אך לא להגן על כל חירות",
+      "authorsHe": "חנה לרנר",
+      "visualDescriptionHe": "חזית בית המשפט החוקתי של אינדונזיה בג׳קרטה, עם כיפתו ועמודיו, בין בנייני משרדים גבוהים.",
+      "semanticDescriptionHe": "בית המשפט ממקם אחד מארבעת מקרי ההשוואה וממחיש את הזירה המוסדית שאליה עשויות לעבור מחלוקות חוקתיות; הוא אינו מציג את חוקת 1945, את פנצ׳סילה או תוצאה של עמימות חוקתית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "permissive_constitutions",
+        "religious_freedom",
+        "indonesia"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of Christophe95's photograph of Indonesia's Constitutional Court. Standard fitness because it is directly tied to one comparative case and to constitutional adjudication, but it does not represent the full four-country design or the paper's causal argument.",
+      "createdDate": "2026-08-06",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Indonesia.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Constitutional_Court_of_Indonesia.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Christophe95",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Constitutional Court of Indonesia.jpg",
+      "sourceDimensions": "4032x3024"
+    },
+    {
+      "file": "html_qa/democracy_agenda_setting_priming_israeli_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_agenda_setting_priming_israeli_elections_summary_he.html",
+      "usedBy": [
+        "democracy_agenda_setting_priming_israeli_elections_summary_he.html"
+      ],
+      "cardTitleHe": "מהמציאות למהדורה, ומהמהדורה לקלפי: ארבע בחירות חושפות שרשרת של השפעה",
+      "authorsHe": "תמיר שפר וגבי וימן",
+      "visualDescriptionHe": "משה דיין מדבר אל מיקרופונים במסיבת עיתונאים בכנסת בשנת 1979, ולצדו יושב אדם נוסף.",
+      "semanticDescriptionHe": "מסיבת העיתונאים ההיסטורית ממחישה את נקודת המפגש בין פוליטיקה לסיקור חדשותי; היא אינה אחת מארבע מערכות הבחירות, אינה פריט ממהדורות הטלוויזיה שנותחו ואינה מוכיחה קביעת סדר יום או הטרמה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "agenda_setting",
+        "priming",
+        "israeli_elections",
+        "news_media"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "800x600 crop of an IPPA press photograph from the Dan Hadani Collection. Standard fitness because it documents political communication inside the Knesset while remaining historical illustrative material unrelated to the four election datasets.",
+      "createdDate": "2026-08-06",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Moshe_Dayan_held_a_press_conference_in_the_Knesset_today_(FL62789573).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Moshe_Dayan_held_a_press_conference_in_the_Knesset_today_%28FL62789573%29.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "IPPA photographer",
+      "provider": "Dan Hadani Collection / National Library of Israel / Wikimedia Commons",
+      "fileTitle": "Moshe Dayan held a press conference in the Knesset today (FL62789573).jpg",
+      "sourceDimensions": "3319x1992"
+    },
+    {
+      "file": "html_qa/democracy_public_sector_honesty_corruption_40_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_sector_honesty_corruption_40_countries_summary_he.html",
+      "usedBy": [
+        "democracy_public_sector_honesty_corruption_40_countries_summary_he.html"
+      ],
+      "cardTitleHe": "עובדי ציבור אינם ישרים פחות מטבעם; ההבדל נוצר בין מדינות ובין תרבויות ארגוניות",
+      "authorsHe": "Raanan Sulitzeanu-Kenan, Markus Tepe, Omer Yair",
+      "visualDescriptionHe": "אזרח מוסר ארנק לעובד מאחורי דלפק שירות ציבורי, כשעובדים ומבקרים נוספים נראים ברקע.",
+      "semanticDescriptionHe": "החזרת הארנק ממחישה את הבחירה ההתנהגותית שבמרכז ניסוי השדה; האנשים והמשרד אינם מאחת מארבעים המדינות שנדגמו והתצלום אינו מציג שיעור החזרה, מוסד מסוים או רמת שחיתות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "public_sector_honesty",
+        "lost_wallet",
+        "corruption",
+        "cross_national"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-counter wallet-return scene generated in a realistic documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it closely matches the field task while avoiding identification of any country, sampled institution, employee, or measured outcome.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_national_courts_international_law_misgivings_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_national_courts_international_law_misgivings_summary_he.html",
+      "usedBy": [
+        "democracy_national_courts_international_law_misgivings_summary_he.html"
+      ],
+      "cardTitleHe": "בתי משפט לאומיים נרתעים מאכיפת המשפט הבין־לאומי נגד הרשות המבצעת",
+      "authorsHe": "איל בנבנישתי",
+      "visualDescriptionHe": "חמישה שופטים יושבים סביב ספר ותיקים משפטיים בחדר עץ, כשמפת העולם חרוטה בקיר שמאחוריהם.",
+      "semanticDescriptionHe": "הדיון הקבוצתי ומפת העולם ממחישים את המתח בין שיפוט לאומי לנורמות בין־לאומיות; הסצנה אינה בית משפט או תיק מן המאמר ואינה מציגה אמנה, מדינה או החלטה שיפוטית מסוימת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "international_law",
+        "national_courts",
+        "executive_deference",
+        "judicial_review"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific judicial deliberation scene generated in a warm institutional documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it makes the national/international tension legible without depicting a real court, treaty, country, or holding.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_nonrepresentative_representatives_decision_biases_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_nonrepresentative_representatives_decision_biases_summary_he.html",
+      "usedBy": [
+        "democracy_nonrepresentative_representatives_decision_biases_summary_he.html"
+      ],
+      "cardTitleHe": "נבחרי ציבור אינם חסינים מהטיות החלטה — ולעיתים הם מוטים יותר מאזרחים",
+      "authorsHe": "Lior Sheffer; Peter John Loewen; Stuart Soroka; Stefaan Walgrave; Tamir Sheafer",
+      "visualDescriptionHe": "קבוצה של נבחרי ציבור ויועצים יושבת סביב שולחן דיונים ובוחנת יחד מסמך פתוח בין תיקיות.",
+      "semanticDescriptionHe": "ההתלבטות סביב מסמך ממחישה החלטה מוסדית תחת שיקול דעת; הדמויות אינן משתתפי הניסוי והתצלום אינו מציג אחת מארבע המטלות, הקצאה מקרית, מדינה או הטיה שנמדדה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "elected_politicians",
+        "decision_biases",
+        "sunk_cost",
+        "status_quo"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific policy-deliberation scene generated in a realistic documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it conveys consequential group decision-making without recreating the experiments or assigning a measured bias to depicted people.",
+      "createdDate": "2026-08-06",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],

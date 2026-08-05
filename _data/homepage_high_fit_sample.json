@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "sampleSize": 6,
-  "seed": "2026-08-05-homepage-high-fit",
+  "seed": "2026-08-06-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
   "fullTextHighFitPaperCount": 737,
   "paperSlugs": [
-    "democracy_history_court_administration_israel_summary_he",
+    "democracy_religion_and_the_israeli_welfare_state_the_case_of_burial_services_summary_he",
     "democracy_local_context_lgbt_morality_policy_opinion_summary_he",
     "democracy_constitutional_amendments_comparative_contemporary_constitutionalism_summary_he",
-    "democracy_analysis_of_israelis_jews_and_arab_palestinians_exploring_law_in_society_and_society_i_summary_he",
+    "democracy_czech_unconstitutional_constitutional_amendment_legisprudence_summary_he",
     "democracy_trust_government_health_policy_compliance_summary_he",
     "democracy_motivated_reasoning_judicial_reform_polarization_summary_he"
   ]
