@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-08-07",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -31858,6 +31858,274 @@
       "createdDate": "2026-08-06",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-06 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_religious_freedom_regulation_womens_rights_global_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_freedom_regulation_womens_rights_global_summary_he.html",
+      "usedBy": [
+        "democracy_religious_freedom_regulation_womens_rights_global_summary_he.html"
+      ],
+      "cardTitleHe": "רגולציה דתית וזכויות נשים: מדוע ההשפעה מתהפכת בין משטרים",
+      "authorsHe": "פזית בן־נון בלום",
+      "visualDescriptionHe": "נשים יושבות בדיון סביב שולחן ועליו ספרים פתוחים, תיקיות ומסמכים ריקים.",
+      "semanticDescriptionHe": "הדיון המשותף ממחיש את המתח בין הסדרת דת, חופש דת וזכויות נשים; הדמויות אינן נבדקות המחקר והסצנה אינה מייצגת מדינה, דת או תוצאה מסוימת.",
+      "tags": [
+        "rights-equality-minorities",
+        "religious_freedom",
+        "womens_rights",
+        "religious_regulation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific plural civic-policy meeting generated in a warm documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it communicates the rights tension without assigning a measured policy or outcome to the depicted people.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_knesset_representative_productivity_work_profiles_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_knesset_representative_productivity_work_profiles_summary_he.html",
+      "usedBy": [
+        "democracy_knesset_representative_productivity_work_profiles_summary_he.html"
+      ],
+      "cardTitleHe": "מי עובד יותר בכנסת? מדד משולב חושף פערים בין חברי הכנסת",
+      "authorsHe": "אסנת עקירב",
+      "visualDescriptionHe": "חברי כנסת ונציגי ציבור יושבים בפאנל רב־משתתפים באולם הכנסת, עם מסמכים ומיקרופונים לפניהם.",
+      "semanticDescriptionHe": "התצלום ממחיש עבודה פרלמנטרית גלויה וריבוי זירות ייצוג; הוא מאוחר מתקופת המחקר ואינו מציג את חברי הכנסת שנמדדו, את מדד הפרודוקטיביות או תוצאת מחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "parliamentary_productivity",
+        "representation",
+        "knesset"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary Knesset photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts representative work in the relevant institution but not the sampled terms or measured activity profile.",
+      "createdDate": "2026-08-07",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AF2P3665.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/AF2P3665.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Just2b4u",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "AF2P3665.jpg",
+      "sourceDimensions": "5184x3456"
+    },
+    {
+      "file": "html_qa/democracy_candidate_selection_primaries_crowded_knesset_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_candidate_selection_primaries_crowded_knesset_summary_he.html",
+      "usedBy": [
+        "democracy_candidate_selection_primaries_crowded_knesset_summary_he.html"
+      ],
+      "cardTitleHe": "הפריימריז מילאו את הכנסת בפעילות — והשינוי נשאר גם אחרי שהמפלגות נסוגו",
+      "authorsHe": "אסנת עקירב",
+      "visualDescriptionHe": "אנשים משלשלים פתקים ריקים לקלפיות נייר מול ועדת קלפי, כשקיר של כרטיסי מועמדים כלליים נראה מאחור.",
+      "semanticDescriptionHe": "הצבעה פנימית וריבוי כרטיסי המועמדים ממחישים בחירת מועמדים ותחרות על מיקום ברשימה; הדמויות אינן חברי מפלגה או חברי כנסת שנחקרו והסצנה אינה משחזרת מערכת בחירות מסוימת.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "candidate_selection",
+        "party_primaries",
+        "knesset"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific internal-primary voting scene generated in a warm documentary style without party branding and finished as an 800x600 progressive JPEG. Standard fitness because it clearly depicts the selection mechanism without recreating a named party, candidate slate, or studied term.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_presumed_media_influence_strategic_voting_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_presumed_media_influence_strategic_voting_summary_he.html",
+      "usedBy": [
+        "democracy_presumed_media_influence_strategic_voting_summary_he.html"
+      ],
+      "cardTitleHe": "כשהבוחר מעריך שהתקשורת תשפיע על אחרים, גם קולו עשוי להשתנות",
+      "authorsHe": "Jonathan Cohen; Yariv Tsfati",
+      "visualDescriptionHe": "מצביע מתלבט ליד שולחן ועליו פתקי הצבעה ריקים, כשמסך חדשות מטושטש מאיר ברקע.",
+      "semanticDescriptionHe": "ההתלבטות מול סיקור חדשותי ממחישה הצבעה אסטרטגית הנשענת על תפיסת השפעה על אחרים; הדמות אינה משתתף בסקרים והסצנה אינה מציגה מפלגה או בחירה שנמדדה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "strategic_voting",
+        "presumed_media_influence",
+        "elections"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific kitchen-table voting scene generated with a distinct news-light composition and finished as an 800x600 progressive JPEG. Standard fitness because it communicates the proposed mechanism without depicting a surveyed voter, party, or causal finding.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_settler_colonial_citizenship_palestinian_citizens_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_settler_colonial_citizenship_palestinian_citizens_summary_he.html",
+      "usedBy": [
+        "democracy_settler_colonial_citizenship_palestinian_citizens_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות פורמלית יכולה להתקיים לצד מבנה קולוניאלי־התיישבותי",
+      "authorsHe": "Nadim N. Rouhana; Areej Sabbagh-Khoury",
+      "visualDescriptionHe": "ארבעה אנשים בוחנים יחד תיקי ארכיון ומסמכים ריקים בחדר מאבן.",
+      "semanticDescriptionHe": "הארכיון הקהילתי ממחיש את הקשר שהמאמר יוצר בין אזרחות, היסטוריה, קרקע ומרחב; הדמויות והמקום אינם אנשים, יישוב או מסמך מן המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "palestinian_citizenship",
+        "settler_colonialism"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific municipal archive scene generated in a respectful documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it evokes the historical-spatial framework without depicting a real community, record, or contested event.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_national_courts_foreign_international_law_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_national_courts_foreign_international_law_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_national_courts_foreign_international_law_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "בתי משפט לאומיים מגייסים משפט זר ובין־לאומי כדי להשיב מרחב לדמוקרטיה המקומית",
+      "authorsHe": "איל בנבנישתי",
+      "visualDescriptionHe": "שופטת מקבלת ספרי משפט מחוקרת בפתח המפריד בין אולם בית משפט חם לארכיון מואר בגוון קר.",
+      "semanticDescriptionHe": "מסירת הספרים ממחישה קליטה אסטרטגית של מקורות משפט זרים ובין־לאומיים אל ההכרעה הלאומית; הסצנה אינה בית משפט, הליך או פסיקה מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "national_courts",
+        "international_law",
+        "judicial_review"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific archive-to-court exchange generated as a visually distinct alternative to existing group-deliberation images and finished as an 800x600 progressive JPEG. Standard fitness because it makes the use of outside law legible without depicting a real court or holding.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_candidate_image_agenda_setting_affective_priming_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_candidate_image_agenda_setting_affective_priming_summary_he.html",
+      "usedBy": [
+        "democracy_candidate_image_agenda_setting_affective_priming_summary_he.html"
+      ],
+      "cardTitleHe": "כשהחדשות מעצבות את דמות המועמד: תכונות, רגש וכוונת הצבעה",
+      "authorsHe": "Meital Balmas; Tamir Sheafer",
+      "visualDescriptionHe": "חיים בר־לב מניף את ידיו במהלך מסיבת עיתונאים לקראת הבחירות לכנסת בשנת 1977.",
+      "semanticDescriptionHe": "מסיבת העיתונאים ממחישה כיצד הופעה מתווכת יכולה לעצב דימוי מועמד; התצלום אינו מתקופת בחירות 2006 ואינו מציג את המועמדים, העיתונים או המשיבים שנחקרו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "candidate_image",
+        "attribute_agenda_setting",
+        "affective_priming"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained historical election press-conference photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it clearly depicts mediated candidate presentation but predates and does not reproduce the 2006 study setting.",
+      "createdDate": "2026-08-07",
+      "sourceType": "wikimedia_commons",
+      "source": "Dan Hadani Collection / National Library of Israel / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haim_Bar_Lev_holding_a_press_conference_concerning_the_forthcoming_general_elections_(FL45798306).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Haim_Bar_Lev_holding_a_press_conference_concerning_the_forthcoming_general_elections_%28FL45798306%29.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Danny Gotfried",
+      "provider": "Dan Hadani Collection / National Library of Israel / Wikimedia Commons",
+      "fileTitle": "Haim Bar Lev holding a press conference concerning the forthcoming general elections (FL45798306).jpg",
+      "sourceDimensions": "3352x2229"
+    },
+    {
+      "file": "html_qa/democracy_citizenship_stratification_ethnic_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_citizenship_stratification_ethnic_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_citizenship_stratification_ethnic_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות כמנגנון של ריבוד: שלושה שיחים ומעגלי השתייכות בישראל",
+      "authorsHe": "גרשון שפיר; יואב פלד",
+      "visualDescriptionHe": "אנשים ממתינים בתורים ומקבלים שירות בדלפקים באולם ציבורי גדול.",
+      "semanticDescriptionHe": "אולם השירות משמש מטפורה למוסדות שמחלקים חברות, זכויות ומשאבים; האנשים אינם מייצגים קבוצות שנדונו במאמר והתצלום אינו מתעד אפליה במוסד אמיתי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "ethnic_democracy",
+        "citizenship_stratification"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-service hall generated with layered spatial access and finished as an 800x600 progressive JPEG. Standard fitness because the scene is a cautious institutional metaphor rather than a depiction of a named group or measured inequality.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_post_populism_neoliberal_habitus_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_post_populism_neoliberal_habitus_summary_he.html",
+      "usedBy": [
+        "democracy_post_populism_neoliberal_habitus_summary_he.html"
+      ],
+      "cardTitleHe": "העבר הפופוליסטי שמכשיר כלכלה ניאו־ליברלית: ההביטוס של הליכוד והפרוניזם",
+      "authorsHe": "דני פילק",
+      "visualDescriptionHe": "קבוצת אנשים יושבת סביב שולחן שעליו דפים ותרשימים, מול קיר המכוסה בתצלומים ישנים.",
+      "semanticDescriptionHe": "השילוב בין זיכרון תנועתי לשיח כלכלי ממחיש את טענת ההביטוס הפוסט־פופוליסטי; הדמויות אינן בוחרים, פעילים או מנהיגים מן המקרים שנחקרו והתרשימים אינם נתוני המאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "post_populism",
+        "habitus",
+        "neoliberalism"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific neighborhood policy meeting generated in a worn documentary civic style and finished as an 800x600 progressive JPEG. Standard fitness because it evokes inherited political identity and economic change without depicting a real party, country, leader, or empirical outcome.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_liberalism_conservatism_societal_change_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_liberalism_conservatism_societal_change_summary_he.html",
+      "usedBy": [
+        "democracy_liberalism_conservatism_societal_change_summary_he.html"
+      ],
+      "cardTitleHe": "שמרנים וליברלים מול שינוי: הסטטוס קוו חשוב יותר מן התווית",
+      "authorsHe": "יוטה פרוך; יוליה אלעד־שטרנגר; תומאס קסלר",
+      "visualDescriptionHe": "תושבים מתכנסים סביב דגם ותוכניות ריקות לשיפוץ כיכר ציבורית ובה עץ ומבנה אבן ותיק.",
+      "semanticDescriptionHe": "הדיון בין שימור לחידוש ממחיש שהיחס לשינוי תלוי בהערכת הסטטוס קוו; הדמויות אינן משתתפי ארבעת המחקרים והסצנה אינה מציגה סוגיה או עמדה שנמדדה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "liberalism",
+        "conservatism",
+        "societal_change",
+        "status_quo"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-renovation discussion generated with a concrete preservation-versus-change setting and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates the contextual mechanism without assigning ideology or a measured attitude to any depicted person.",
+      "createdDate": "2026-08-07",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],
