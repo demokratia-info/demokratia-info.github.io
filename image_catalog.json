@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -32126,6 +32126,282 @@
       "createdDate": "2026-08-07",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-07 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_corruption_media_exposure_behavior_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_corruption_media_exposure_behavior_summary_he.html",
+      "usedBy": [
+        "democracy_corruption_media_exposure_behavior_summary_he.html"
+      ],
+      "cardTitleHe": "האם חשיפה לחדשות על שחיתות מעודדת חוסר יושר?",
+      "authorsHe": "Israel Waismel-Manor, Patricia Moy, Rico Neumann, Moran Shechnick",
+      "visualDescriptionHe": "קבוצת אזרחים צופה במשדר חדשות המציג מפגש עמום במשרד ציבורי.",
+      "semanticDescriptionHe": "הצפייה המשותפת ממחישה את שאלת ההשפעה ההתנהגותית של חשיפה תקשורתית לשחיתות; האנשים והמשדר אינם משתתפי המחקר או חומר הניסוי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "corruption",
+        "media_effects"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community viewing scene generated in a warm documentary editorial style, cleaned of incidental pseudo-text, and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates mediated exposure without reproducing the experiment or its outcome.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_media_audience_homophily_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_media_audience_homophily_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_media_audience_homophily_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "כשאתר חדשות מושך גם בגלל הקהל שלו: הומופיליה וקיטוב",
+      "authorsHe": "Shira Dvir-Gvirsman",
+      "visualDescriptionHe": "שתי קבוצות קוראים נפרדות מעיינות במסכים ובדפים משני צדי ספרייה.",
+      "semanticDescriptionHe": "החלוקה המרחבית בין קהלי קריאה ממחישה הומופיליה של קהלי חדשות; הדמויות והחומרים אינם משתמשים, אתרים או נתונים מן המאמר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "audience_homophily",
+        "partisan_media",
+        "polarization"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific divided-library audience scene generated in a restrained documentary style and finished as an 800x600 progressive JPEG. Standard fitness because it evokes audience sorting without depicting real partisan sites or measured users.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_alternative_citizenship_models_new_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_alternative_citizenship_models_new_media_summary_he.html",
+      "usedBy": [
+        "democracy_alternative_citizenship_models_new_media_summary_he.html"
+      ],
+      "cardTitleHe": "מיהו ״האזרח הטוב״ בעידן המדיה החדשה?",
+      "authorsHe": "Neta Kligler-Vilenchik",
+      "visualDescriptionHe": "צעירים משתמשים בטלפונים לצד מתנדבים הממיינים ציוד במפגש קהילתי.",
+      "semanticDescriptionHe": "השילוב בין מדיה דיגיטלית לפעולה קהילתית ממחיש מודלים חלופיים של אזרחות; הסצנה אינה קהילה או פעילות אמפירית שנבדקה במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "citizenship",
+        "new_media",
+        "civic_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community-volunteering scene generated with phones and concrete civic action, cleaned of incidental pseudo-text, and finished as an 800x600 progressive JPEG. Standard fitness because it is a cautious visual metaphor for citizenship models.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_representative_bureaucracy_impartial_policing_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_representative_bureaucracy_impartial_policing_summary_he.html",
+      "usedBy": [
+        "democracy_representative_bureaucracy_impartial_policing_summary_he.html"
+      ],
+      "cardTitleHe": "ייצוג במשטרה לא התבטא בהעדפה — אלא ביותר דוחות ובפחות חיפושים",
+      "authorsHe": "Sharon Gilad, Momi Dahan",
+      "visualDescriptionHe": "תצלום ארכיוני משנת 1928 של שוטר הבודק רישיון נהיגה לצד מכונית.",
+      "semanticDescriptionHe": "בדיקת הרישיון מציגה מפגש קונקרטי של אכיפה ושיקול דעת; התצלום ההיסטורי מפינלנד אינו מציג מחלקה, שוטר, נהג או עצירה מן המחקר האמריקאי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "representative_bureaucracy",
+        "policing"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained archival traffic-stop photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it specifically depicts discretionary roadside policing but is historical and outside the study setting.",
+      "createdDate": "2026-08-08",
+      "sourceType": "wikimedia_commons",
+      "source": "Helsinki City Museum / Finna / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Konstaapeli_V._Laitinen_tarkistaa_Arttur_Lindemanin_ajokortin.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Konstaapeli_V._Laitinen_tarkistaa_Arttur_Lindemanin_ajokortin.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "Unknown photographer (Tuntematon valokuvaaja)",
+      "provider": "Helsinki City Museum / Finna / Wikimedia Commons",
+      "fileTitle": "Konstaapeli V. Laitinen tarkistaa Arttur Lindemanin ajokortin.jpg",
+      "sourceDimensions": "3543x2708"
+    },
+    {
+      "file": "html_qa/democracy_what_belongs_in_constitution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_what_belongs_in_constitution_summary_he.html",
+      "usedBy": [
+        "democracy_what_belongs_in_constitution_summary_he.html"
+      ],
+      "cardTitleHe": "חוקה יציבה מגינה על כללי המשחק בלי להפוך כל מחלוקת לעיקרון משוריין",
+      "authorsHe": "Ruth Gavison",
+      "visualDescriptionHe": "קבוצה מגוונת דנה סביב שולחן שעליו מסמכים ריקים בחדר מוסדי ותיק.",
+      "semanticDescriptionHe": "הדיון המשותף ממחיש הכרעה ציבורית על תוכן חוקתי וכללי משחק; האנשים והמסמכים אינם אספה, טיוטה או הליך ממשי שנדונו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitution",
+        "constitutional_design",
+        "democratic_rules"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific constitutional deliberation scene generated in a warm institutional room and finished as an 800x600 progressive JPEG. Standard fitness because it evokes constitutional choice without depicting a real convention or document.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_public_service_wages_corruption_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_service_wages_corruption_summary_he.html",
+      "usedBy": [
+        "democracy_public_service_wages_corruption_summary_he.html"
+      ],
+      "cardTitleHe": "שכר גבוה בשירות הציבורי אינו חיסון משחיתות: תמריצים, מוטיבציה וסובלנות לשוחד",
+      "authorsHe": "Doron Navot, Yaniv Reingewertz, Nissim Cohen",
+      "visualDescriptionHe": "עובדי שירות ציבורי דנים בתיקים ובמסמכים ריקים סביב שולחן במשרד ותיק.",
+      "semanticDescriptionHe": "ישיבת העובדים ממחישה את החיבור בין תנאי העסקה, אחריות מקצועית וכללי יושרה; הדמויות אינן עובדי המדגם והמסמכים אינם נתוני המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "public_service",
+        "wages",
+        "corruption"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-office meeting generated with plain unmarked records, cleaned of incidental pseudo-text, and finished as an 800x600 progressive JPEG. Standard fitness because it conveys administrative incentives without depicting respondents or findings.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_elite_perceptions_public_opinion_responsiveness_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_elite_perceptions_public_opinion_responsiveness_summary_he.html",
+      "usedBy": [
+        "democracy_elite_perceptions_public_opinion_responsiveness_summary_he.html"
+      ],
+      "cardTitleHe": "נבחרי ציבור פועלים לפי מה שהם חושבים שהציבור רוצה — גם כשהתפיסה אינה מדויקת",
+      "authorsHe": "Stefaan Walgrave; Stuart Soroka; Peter Loewen; Tamir Sheafer; Karolin Soontjens",
+      "visualDescriptionHe": "נבחר ציבור משוחח עם קהל במפגש תושבים בדנוויל שבקליפורניה.",
+      "semanticDescriptionHe": "מפגש התושבים ממחיש את המידע שממנו נבחרי ציבור עשויים לגבש תפיסה של דעת הקהל; המצולם והקהל אינם פוליטיקאים או משיבים מן המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "elite_perceptions",
+        "responsiveness",
+        "public_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained town-hall photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it shows direct elected-official audience exchange without representing the study's cross-national survey or participants.",
+      "createdDate": "2026-08-08",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Flickr / Congressman George Miller",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Danville_Town_Hall_Meeting_(8417520573).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Danville_Town_Hall_Meeting_%288417520573%29.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "creator": "George Miller",
+      "provider": "Wikimedia Commons / Flickr / Congressman George Miller",
+      "fileTitle": "Danville Town Hall Meeting (8417520573).jpg",
+      "sourceDimensions": "2256x1496"
+    },
+    {
+      "file": "html_qa/democracy_persistent_terrorism_political_tolerance_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_persistent_terrorism_political_tolerance_israel_summary_he.html",
+      "usedBy": [
+        "democracy_persistent_terrorism_political_tolerance_israel_summary_he.html"
+      ],
+      "cardTitleHe": "טרור מתמשך שוחק סובלנות פוליטית בטווח הקצר — אך ותק דמוקרטי בונה חוסן",
+      "authorsHe": "Mark Peffley; Marc L. Hutchison; Michal Shamir",
+      "visualDescriptionHe": "מקלט ציבורי ניצב בין בנייני מגורים במעלות־תרשיחא תחת שמיים מעוננים.",
+      "semanticDescriptionHe": "המקלט ממחיש כיצד איום ביטחוני יכול להיטמע במרחב האזרחי היומיומי; האתר אינו אחת מזירות הטרור, התקופות או קבוצות המשיבים שנחקרו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "terrorism",
+        "political_tolerance",
+        "democratic_resilience"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of a residential public shelter, retained at its native 4:3 composition and finished as an 800x600 progressive JPEG. Standard fitness because it gives non-graphic civilian context without depicting an attack, study site, or respondent.",
+      "createdDate": "2026-08-08",
+      "sourceType": "wikimedia_commons",
+      "source": "PikiWiki Israel / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:144570_public_shelter_in_maalot-ir_on_the_confrontat_PikiWiki_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/144570_public_shelter_in_maalot-ir_on_the_confrontat_PikiWiki_Israel.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "creator": "שלמה רודד / Roded Shlomo",
+      "provider": "PikiWiki Israel / Wikimedia Commons",
+      "fileTitle": "144570 public shelter in maalot-ir on the confrontat PikiWiki Israel.jpg",
+      "sourceDimensions": "1600x1200"
+    },
+    {
+      "file": "html_qa/democracy_threat_hope_public_opinion_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_threat_hope_public_opinion_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_threat_hope_public_opinion_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "אותו איום יכול להגביר כמיהה לשלום ולהחליש אמונה שהוא אפשרי",
+      "authorsHe": "Oded Adomi Leshem; Eran Halperin",
+      "visualDescriptionHe": "קבוצת תושבים דנה במפה מול גשר הנבנה בין עננים לקרני שמש.",
+      "semanticDescriptionHe": "הניגוד בין מזג אוויר מאיים, אור וגשר לא גמור ממחיש את המתח בין רצון לשלום לבין ציפייה שהוא יתממש; הסצנה אינה מקום, אירוע או קהל מן המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "threat",
+        "hope",
+        "conflict",
+        "peace_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific bridge-and-community scene generated with mixed storm and sunrise cues and finished as an 800x600 progressive JPEG. Standard fitness because it visualizes the dual psychological mechanism without depicting a real conflict setting or respondent.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_international_rankings_public_opinion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_international_rankings_public_opinion_summary_he.html",
+      "usedBy": [
+        "democracy_international_rankings_public_opinion_summary_he.html"
+      ],
+      "cardTitleHe": "דירוג בינלאומי גבוה משכנע — דירוג נמוך נתקל בדחייה ולעיתים בתגובת נגד",
+      "authorsHe": "Amnon Cavari; Asif Efrat; Omer Yair",
+      "visualDescriptionHe": "משתתפים בוחנים כרטיסים ריקים מול לוח גדול בחדר דיונים.",
+      "semanticDescriptionHe": "ההשוואה בין כרטיסים ולוח ממחישה כיצד אנשים מפרשים הערכה חיצונית; הדמויות והחומרים אינם משיבי הניסויים, מדינות או טבלאות דירוג אמיתיות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "international_rankings",
+        "public_opinion",
+        "motivated_reasoning"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific group-evaluation scene generated with deliberately blank cards and board and finished as an 800x600 progressive JPEG. Standard fitness because it conveys evaluative comparison without inventing a ranking, country, score, or respondent reaction.",
+      "createdDate": "2026-08-08",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],
