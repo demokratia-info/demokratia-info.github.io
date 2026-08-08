@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1272,
+  "paperCount": 1282,
   "papers": [
+    {
+      "slug": "democracy_constitutional_courts_international_organization_summary_he",
+      "file": "democracy_constitutional_courts_international_organization_summary_he.html",
+      "permalink": "/democracy_constitutional_courts_international_organization_summary_he.html",
+      "sortKey": 202608090010,
+      "titleHe": "תרגום פסקי דין מחבר בתי משפט חוקתיים לקהילה חוצת גבולות",
+      "paperTitle": "Translating Justice: The International Organization of Constitutional Courts",
+      "authorsCardHe": "Udi Sommer; Olga Frishman",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Olga Frishman"
+      ],
+      "journal": "Law & Policy, 38(2), 124–142",
+      "dateText": "פורסם אונליין: 17 במרץ 2016; כרך 38, גיליון 2, עמ׳ 124–142",
+      "doiUrl": "https://doi.org/10.1111/lapo.12054",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_courts_international_organization_summary_he.jpg",
+        "altHe": "שופטי בית המשפט החוקתי של אוסטריה ניצבים יחד מאחורי דוכן השיפוט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "אודי זומר ואולגה פרישמן מפתחים מסגרת תאורטית לארגון הבין־לאומי של בתי משפט חוקתיים ובוחנים אותה באמצעות נתונים מקוריים על חוות דעת מתורגמות. לפי המאמר, שופטים ממדינות שונות יוצרים קהילה אפיסטמית מתהווה: קבוצה מקצועית שמפתחת דרכי עבודה משותפות ומסגרת ידע משותפת, לצד תחרות ובררנות לאורך הקריירה השיפוטית. תרגום חוות דעת לאנגלית, המשמשת שפה משותפת, הוא תנאי מרכזי לתקשורת בתוך הקהילה הזאת. השיח השיפוטי חוצה הגבולות מתנהל במיוחד באמצעות ציטוטים, ובעזרתם נעשה המשפט הבין־לאומי מדריך חשוב בחיפוש אחר פתרונות של שיווי משקל ברמה הלאומית וברמה הבין־לאומית. המחברים מוצאים שחמישה מקורות של משפט בין־לאומי שולטים בשימוש באופן מובהק, וכן מציגים עדות מן המשחק הקולגיאלי בתוך בתי משפט לקיומה של קהילה חוצת גבולות של שופטי ערכאות עליונות. הממצא הדמוקרטי־מוסדי המרכזי הוא שפסיקה חוקתית לאומית נוצרת בתוך מוסד ריבוני, אך אינה מבודדת מזרימת ידע, תקדימים וכללים מעבר לגבול. התרגום אינו רק שירות לשוני: הוא משפיע אילו חוות דעת נעשות נגישות לקהילה המקצועית ואילו קולות משפטיים יכולים להשתתף בשיחה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_affective_polarization_cross_country_measurement_summary_he",
+      "file": "democracy_affective_polarization_cross_country_measurement_summary_he.html",
+      "permalink": "/democracy_affective_polarization_cross_country_measurement_summary_he.html",
+      "sortKey": 202608090009,
+      "titleHe": "מדידת קיטוב רגשי אינה זהה בכל שיטת מפלגות",
+      "paperTitle": "What Do We Measure When We Measure Affective Polarization across Countries?",
+      "authorsCardHe": "Thomas Tichelbaecker; Noam Gidron; Will Horne; James Adams",
+      "sourceAuthors": [
+        "Thomas Tichelbaecker",
+        "Noam Gidron",
+        "Will Horne",
+        "James Adams"
+      ],
+      "journal": "Public Opinion Quarterly, 87(3), 803–815",
+      "dateText": "פורסם אונליין: 19 בספטמבר 2023; כרך 87, גיליון 3, עמ׳ 803–815",
+      "doiUrl": "https://doi.org/10.1093/poq/nfad033",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_affective_polarization_cross_country_measurement_summary_he.jpg",
+        "altHe": "קבוצות משתתפים משוות כרטיסים צבעוניים סביב שולחן מחקר משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "תומס טיכלבקר, נועם גדרון, ויל הורן וג׳יימס אדמס בוחנים בעיה יסודית במחקר ההשוואתי של קיטוב רגשי: מדדים שפותחו ואומתו בארצות הברית, שבה שתי מפלגות מרכזיות מארגנות את התחרות, מועברים יותר ויותר למדינות בעלות שיטות מפלגות שונות. המאמר מציג מערך נתונים חדש המכסה עשר מדינות ומבחין בין שני יעדים של רגש מפלגתי — המפלגות היריבות עצמן ותומכי המפלגות היריבות. בשני המקרים מדובר בניסיון למדוד סלידה ועוינות מעבר לקווי המפלגות, אך אלה אינם בהכרח אובייקטים חברתיים ופוליטיים זהים. המחברים מוצאים קשר בין הרגש כלפי מפלגות יריבות לבין הרגש כלפי תומכיהן, אולם עוצמת הקשר משתנה ממדינה למדינה. הם דנים בהסברים מדידתיים לשונות הזאת ומדגישים את השלכותיה על ספרות הקיטוב הרגשי ההשוואתית. הממצא אינו מצדיק לוותר על השוואה בין מדינות; הוא מחייב להבהיר אם המדד מתאר יחס לארגונים מפלגתיים, לאזרחים המזוהים עמם או לשניהם. מבחינה דמוקרטית, ההבחנה חשובה משום שעוינות כלפי מפלגה מתחרה ועוינות כלפי אנשים המשתייכים למחנה אחר עלולות להשפיע בדרכים שונות על תחרות פוליטית, שיתוף פעולה ואזרחות משותפת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_supreme_court_parliament_theory_moves_israel_summary_he",
+      "file": "democracy_supreme_court_parliament_theory_moves_israel_summary_he.html",
+      "permalink": "/democracy_supreme_court_parliament_theory_moves_israel_summary_he.html",
+      "sortKey": 202608090008,
+      "titleHe": "שלושה מפנים ביחסי העליון והכנסת הובילו להרחבת הגישה לערעור שיפוטי",
+      "paperTitle": "The Relationship Between the Supreme Court and Parliament in Light of the Theory of Moves: the Case of Israel",
+      "authorsCardHe": "Assaf Meydani; Shlomo Mizrahi",
+      "sourceAuthors": [
+        "Assaf Meydani",
+        "Shlomo Mizrahi"
+      ],
+      "journal": "Rationality and Society, 22(1), 55–82",
+      "dateText": "פורסם אונליין: 27 בינואר 2010; בגיליון 22(1), פברואר 2010, עמ׳ 55–82",
+      "doiUrl": "https://doi.org/10.1177/1043463109346469",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_supreme_court_parliament_theory_moves_israel_summary_he.jpg",
+        "altHe": "מליאת הכנסת הריקה נראית מן היציע מול דוכן היושב ראש",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "אסף מידני ושלמה מזרחי בוחנים את היחסים בין בית המשפט העליון לבין הרשות המחוקקת בישראל באמצעות מודל דינמי המבוסס על תורת המהלכים. הם מיישמים את המודל לניתוח תלוי־מסלול של יחסי בית המשפט והכנסת בשנים 1970–2007. בתחילת התקופה בית המשפט העליון הגביל את יכולתם של אזרחים לערער בעניינים הנוגעים להחלטות הכנסת והממשלה, ואילו בסופה הוא הרחיב יכולת זו במידה ניכרת. המחברים מתארים את השינוי כמימוש של מדיניות לא־רשמית של אקטיביזם שיפוטי דיוני. הניתוח האמפירי עוקב אחר שלוש נקודות מפנה במסלול, שאפשר להסבירן ולהבינן גם כשיוויי משקל זמניים בתוך אינטראקציה דינמית שהובילה לבסוף לשיווי משקל יציב. מבחינה דמוקרטית, התהליך משנה את יכולתם של אזרחים להביא פעולות של רשויות נבחרות לבחינה שיפוטית, ומראה כיצד גישה לבית המשפט יכולה להתפתח מתוך סדרה של אינטראקציות מוסדיות ולא מהחלטה יחידה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_police_racism_citizenship_equality_israel_summary_he",
+      "file": "democracy_police_racism_citizenship_equality_israel_summary_he.html",
+      "permalink": "/democracy_police_racism_citizenship_equality_israel_summary_he.html",
+      "sortKey": 202608090007,
+      "titleHe": "כשהגזענות נתפסת כחסם לאזרחות: האמון במשטרה בקרב ישראלים יוצאי אתיופיה נשחק",
+      "paperTitle": "“We just want equality”: perceptions of police, racism, and citizenship in Israel",
+      "authorsCardHe": "Ofir Abu; Yariv Feniger; Guy Ben-Porat",
+      "sourceAuthors": [
+        "Ofir Abu",
+        "Yariv Feniger",
+        "Guy Ben-Porat"
+      ],
+      "journal": "Ethnic and Racial Studies, 49(9), 2051–2072",
+      "dateText": "פורסם אונליין: 15 באוקטובר 2024; שובץ בגיליון 49(9), 2026, עמ׳ 2051–2072",
+      "doiUrl": "https://doi.org/10.1080/01419870.2024.2409721",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_police_racism_citizenship_equality_israel_summary_he.jpg",
+        "altHe": "קבוצת תושבים מגוונת יושבת במעגל לשיחה על אמון ושוויון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "אופיר אבו, יריב פניגר וגיא בן־פורת מציעים שתפיסת האזרחות של מיעוט עשויה להשתנות כאשר דור חדש רואה בגזענות ובאפליה מצד רשויות המדינה לא תופעה חולפת, אלא מכשול לאזרחות מלאה ובעלת משמעות. הם מדגימים את הטענה באמצעות עמדות כלפי המשטרה בקרב ישראלים יהודים ממוצא אתיופי, שאותם הם מתארים כמיעוט מהגרים שעבר הבניה גזעית. הניתוח הכמותי שלהם מראה שרמת האמון במשטרה בקהילה ירדה במידה ניכרת בין 2013 ל־2022, וכי בקרב בני 18–30 היא נמוכה מזו שבקבוצות המבוגרות יותר. במקביל, ניתוח תוכן של דיווחי תקשורת על מפגינים ישראלים יוצאי אתיופיה מצביע על שינוי באופן שבו בני הדור השני תופסים את אזרחותם. השינוי כולל שני קולות הניצבים יחד: דרישה לשוויון הנשענת על שייכות לקולקטיב ועל תרומה לטוב המשותף היהודי־ציוני, ודחייה של ניסיונות לטשטש גזענות מוסדית. התרומה לדיון הדמוקרטי היא הצבת אמון, הכרה בגזענות ושוויון אזרחי כחלקים מחוברים של השאלה אם אזרחות של קבוצת מיעוט נחווית כמלאה ובעלת משמעות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_misrecognition_right_wing_populism_summary_he",
+      "file": "democracy_misrecognition_right_wing_populism_summary_he.html",
+      "permalink": "/democracy_misrecognition_right_wing_populism_summary_he.html",
+      "sortKey": 202608090006,
+      "titleHe": "אי־הכרה מצד האליטות מגבירה בוז כלפיהן ודחיית מיעוטים",
+      "paperTitle": "The Role of Misrecognition in Driving Support for Right-Wing Populism",
+      "authorsCardHe": "Julia Elad-Strenger; Thomas Kessler",
+      "sourceAuthors": [
+        "Julia Elad-Strenger",
+        "Thomas Kessler"
+      ],
+      "journal": "American Behavioral Scientist, 69(4), 454–477",
+      "dateText": "פורסם לראשונה אונליין: 28 במרץ 2024; בגיליון: אפריל 2025",
+      "doiUrl": "https://doi.org/10.1177/00027642241240338",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_misrecognition_right_wing_populism_summary_he.jpg",
+        "altHe": "אזרחים יושבים מחוץ לחדר ישיבות שקוף שבו מתקיים דיון של מקבלי החלטות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "המאמר בוחן את הטענה שאזרחים הנחווים בעיני עצמם כמי שהאליטות אינן מכירות בהם כחברים שווי־ערך באומה מגיבים לא רק נגד האליטות אלא גם נגד מיעוטים לאומיים. המחברים מציעים מנגנון מתורת הזהות החברתית: אי־הכרה קבוצתית מאיימת על תחושת השייכות והערך הלאומית, ובוז כלפי האליטות ודחיית מיעוטים מפורשים כתגובות של ניהול זהות שעשויות להשיב תחושת עליונות סובייקטיבית. מחקר 1, סקר חתך מייצג של 382 גרמנים, מצא כי הכרה מצד האליטות אך לא הכרה בין אנשים נקשרה לפחות איום על הזהות, פחות בוז ופחות דחיית מיעוטים; מסלולי התיווך היו מובהקים גם עם בקרות. במחקר 2 חולקו באקראי 155 משיבים גרמנים לקריאת פרוטוקול מומצא שבו פוליטיקאים הביעו הכרה או אי־הכרה באזרחים. בתנאי אי־ההכרה היו רמות מותאמות גבוהות יותר של בוז כלפי האליטות, 4.12 לעומת 3.14, ושל דחיית מיעוטים, 5.10 לעומת 4.05, בסולם בן שבע דרגות. מחקר 3 השווה משיבים שקיבלו משוב של שוליות גבוהה או נמוכה ומצא אותו כיוון, אך 67 מתוך 176 משיבים סוננו בהתאם לתשובותיהם ולכן ההקצאה לקבוצות הסופיות לא הייתה אקראית והמסקנה הסיבתית ממנו חלקית. כל המחקרים נערכו בקרב אזרחים גרמנים שנולדו בגרמניה ודוברים גרמנית כשפת אם, והמדדים העיקריים עסקו בעמדות ולא בהצבעה בפועל. לפיכך הממצאים תומכים במנגנון פסיכולוגי מסוים של עמדות המזוהות עם הימין הפופוליסטי, אך אינם מוכיחים שכל תחושת שוליות מובילה לימין או שהדפוס זהה במדינות ובקבוצות אחרות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_eu_democratic_identity_community_values_summary_he",
+      "file": "democracy_eu_democratic_identity_community_values_summary_he.html",
+      "permalink": "/democracy_eu_democratic_identity_community_values_summary_he.html",
+      "sortKey": 202608090005,
+      "titleHe": "ותק באיחוד האירופי נקשר לתמיכה גבוהה יותר בערכים דמוקרטיים",
+      "paperTitle": "A community of values: Democratic identity formation in the European Union",
+      "authorsCardHe": "Odelia Oshri; Tamir Sheafer; Shaul R. Shenhav",
+      "sourceAuthors": [
+        "Odelia Oshri",
+        "Tamir Sheafer",
+        "Shaul R. Shenhav"
+      ],
+      "journal": "European Union Politics, 17(1), 114–137",
+      "dateText": "פורסם לראשונה אונליין: 19 באוקטובר 2015; בגיליון: 1 במרץ 2016",
+      "doiUrl": "https://doi.org/10.1177/1465116515608957",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_eu_democratic_identity_community_values_summary_he.jpg",
+        "altHe": "מליאת הפרלמנט האירופי מלאה בנציגים ומוקפת בדגלי מדינות האיחוד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "המאמר שואל אם האיחוד האירופי מצליח לחברת אזרחים לערכים הדמוקרטיים שהוא מצהיר עליהם, ומגדיר את ליבת הזהות האירופית המשותפת במונחים של ערכים ולא של תרבות לאומית אחידה. החוקרים מנתחים ארבעה גלים של סקרי הערכים האירופי והעולמי מן השנים 1994–2010, ובהם 295,484 משיבים ב־99 מדינות, ומחלצים ארבעה ממדים: הערכות ממוקדות של תפקוד הדמוקרטיה, התנגדות לשלטון סמכותני, תמיכה כללית בדמוקרטיה וזכויות מיעוטים. הניתוח העיקרי של הממד האנטי־סמכותני כולל עד 286,799 משיבים ב־219 צירופי מדינה־שנה ומפריד בין ותק החברות הממוצע של מדינה לבין השינוי בו לאורך זמן. בשני הממדים של הוותק מתקבל קשר חיובי ומובהק גם לאחר בקרה על תוצר לנפש, רמת הדמוקרטיה ומאפייני המשיבים. לפי המודל המלא, התמיכה החזויה באנטי־סמכותנות במדינה בעלת 57 שנות חברות גבוהה בכ־12 נקודות מזו שבמדינה בעלת ארבע שנות חברות ובכ־14 נקודות מזו שבמדינה שאינה חברה. בדיקות חלופיות, ובהן ניתוח למדינות דמוקרטיות מבוססות בלבד, אפקטים קבועים למדינה ומודל עם תלות בזמן, משמרות את הכיוון החיובי. עם זאת, שנות חברות הן מדד עקיף לחיברות, הנתונים תצפיתיים, והמאמר אינו מזהה איזה מוסד או מנגנון של האיחוד יצר את השינוי. לכן הממצאים תומכים בהשערת החיברות אך אינם מהווים ניסוי המבודד סיבה יחידה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_partisan_audiences_perceived_opinion_participation_summary_he",
+      "file": "democracy_partisan_audiences_perceived_opinion_participation_summary_he.html",
+      "permalink": "/democracy_partisan_audiences_perceived_opinion_participation_summary_he.html",
+      "sortKey": 202608090004,
+      "titleHe": "צריכת מדיה מפלגתית נקשרת לתחושת רוב — ואז להשתתפות",
+      "paperTitle": "Why Do Partisan Audiences Participate? Perceived Public Opinion as the Mediating Mechanism",
+      "authorsCardHe": "שירה דביר־גבירסמן, ר׳ קלי גארט ויריב צפתי",
+      "sourceAuthors": [
+        "Shira Dvir-Gvirsman",
+        "R. Kelly Garrett",
+        "Yariv Tsfati"
+      ],
+      "journal": "Communication Research, vol. 45, no. 1, pp. 112–136",
+      "dateText": "17 באוגוסט 2015 (מקוון); כרך 45(1), עמ׳ 112–136, פברואר 2018",
+      "doiUrl": "https://doi.org/10.1177/0093650215593145",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_partisan_audiences_perceived_opinion_participation_summary_he.jpg",
+        "altHe": "אזרחים עובדים יחד עם מחשבים וטלפונים במרחב תקשורת קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "שירה דביר־גבירסמן, ר׳ קלי גארט ויריב צפתי בוחנים תועלת דמוקרטית אפשרית של מדיה מפלגתית: לא רק קיטוב, אלא גם השתתפות. המנגנון המוצע הופך את לוגיקת ״ספירלת השתיקה״: חשיפה לכלי תקשורת התואם את עמדת האדם מספקת דוגמאות רבות לתמיכה במחנהו, גורמת לאקלים הדעה להיראות אוהד יותר ומפחיתה את החשש להביע עמדה בפומבי. ההשערות נבדקו בשני מחקרי פאנל סביב בחירות. בישראל נאספו שני גלים בקרב בוחרים יהודים: 453 השיבו בגל הראשון ו־397 בגל השני; המודל בדיווח עצמי כלל 340 משיבים ומודל נפרד של רישומי גלישה כלל 332. בארצות הברית נאספו שלושה גלים במדגם הסתברותי ארצי: 1,004 בגל הבסיס ו־652 בגל השלישי, והניתוח המפלגתי כלל 377. בישראל נמדדה תפיסת התמיכה הציבורית בארבע סוגיות מרכזיות ו־13 פעולות פוליטיות; בארצות הברית נמדדו סיכויי הניצחון הנתפסים של המועמד המועדף ותשע פעולות. בשני המקרים חשיפה למדיה תואמת ניבאה תפיסה שהציבור או סיכויי הבחירות נוטים לצד המשיב, ותפיסה זו ניבאה עלייה קטנה בהשתתפות לאחר בקרה על השתתפות התחלתית. בישראל התיווך היה מלא הן בדיווח העצמי והן בנתוני הגלישה; בארצות הברית נשאר גם אפקט ישיר, ולכן קיימים כנראה מנגנונים נוספים. ההשערה שחשיפה למדיה שאינה תואמת תפחית תמיכה נתפסת והשתתפות לא קיבלה תמיכה. העיצוב הרב־גלי מחזק את סדר הזמנים, אך אינו ניסוי: בחירה עצמית במדיה, הטיה בפאנל הישראלי, נשירה, חסר בנתוני HTTPS ואי־מדידת רשתות חברתיות ומדיה לא־מקוונת מגבילים מסקנה סיבתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_unconstitutional_constitutional_amendments_migration_summary_he",
+      "file": "democracy_unconstitutional_constitutional_amendments_migration_summary_he.html",
+      "permalink": "/democracy_unconstitutional_constitutional_amendments_migration_summary_he.html",
+      "sortKey": 202608090003,
+      "titleHe": "האם תיקון חוקתי יכול להיות בלתי־חוקתי?",
+      "paperTitle": "Unconstitutional Constitutional Amendments—The Migration and Success of a Constitutional Idea",
+      "authorsCardHe": "יניב רוזנאי",
+      "sourceAuthors": [
+        "Yaniv Roznai"
+      ],
+      "journal": "The American Journal of Comparative Law, vol. 61, no. 3, pp. 657–720",
+      "dateText": "1 ביולי 2013; כרך 61(3), עמ׳ 657–720",
+      "doiUrl": "https://doi.org/10.5131/AJCL.2012.0027",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_unconstitutional_constitutional_amendments_migration_summary_he.jpg",
+        "altHe": "מבט מדוכן השופטים אל אולם בית המשפט החוקתי של דרום אפריקה ביוהנסבורג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "יניב רוזנאי פותח בפרדוקס: אם תיקון התקבל לפי מנגנון התיקון שבחוקה, כיצד הוא עצמו יכול להיות בלתי־חוקתי? המאמר משיב באמצעות חקירה השוואתית־דוקטרינרית של שני רעיונות שנדדו בין שיטות משפט — הגבלת כוח התיקון וביקורת שיפוטית על תיקונים. הוא מתחקה אחר הוראות מוקדמות בניו ג׳רזי ובדלאוור ב־1776, אחר האיסורים הצרפתיים על פגיעה בסדר החדש ובהמשך על שינוי צורת המשטר הרפובליקנית, ואחר הגנות על דת, עצמאות, צורת משטר והפרדת רשויות במקסיקו ובמדינות אחרות באמריקה הלטינית. בסקר שערך המחבר נכון ל־2011, 82 מתוך 192 חוקות כתובות — 42% — כללו הוראות שאינן ניתנות לתיקון; במאגר רחב של 537 חוקות לאומיות בעבר ובהווה, 172 — 32% — כללו הוראות כאלה. לאחר מלחמת העולם השנייה, זכויות וחירויות יסוד נעשו יעד נפוץ לשריון, לצד דת, שפה, חילוניות, שלטון החוק, דמוקרטיה רב־מפלגתית, שלמות טריטוריאלית, עצמאות השפיטה, הפרדת רשויות וריבונות העם. הממצא המרכזי אינו שכל המערכות אימצו נוסחה אחת, אלא שהרעיון עבר בין יבשות ובין תרבויות משפטיות שונות תוך התאמה להיסטוריה המקומית. לעיתים המגבלה כתובה בחוקה ולעיתים בתי משפט מסיקים גבולות משתמעים או מבחינים בין תיקון לבין החלפת החוקה. רוזנאי רואה בהיקף הנדידה עדות לכך ששאילת רעיון חוקתי עשויה להצליח גם בין מערכות שונות מאוד. עם זאת, מיפוי תפוצה וקבלה אינו כשלעצמו הוכחה שהשריון מוצדק דמוקרטית, שבתי המשפט תמיד מפעילים אותו כראוי או שכל ״קליטה״ מניבה אותה תוצאה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_emotional_barriers_peace_israeli_public_opinion_summary_he",
+      "file": "democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.html",
+      "permalink": "/democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.html",
+      "sortKey": 202608090002,
+      "titleHe": "פחד, שנאה וכעס אינם אותו מחסום לשלום",
+      "paperTitle": "Emotional Barriers to Peace: Emotions and Public Opinion of Jewish Israelis About the Peace Process in the Middle East",
+      "authorsCardHe": "ערן הלפרין",
+      "sourceAuthors": [
+        "Eran Halperin"
+      ],
+      "journal": "Peace and Conflict: Journal of Peace Psychology, vol. 17, no. 1, pp. 22–45",
+      "dateText": "28 בינואר 2011; כרך 17(1), עמ׳ 22–45",
+      "doiUrl": "https://doi.org/10.1080/10781919.2010.487862",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.jpg",
+        "altHe": "קבוצת ישראלים יושבת במעגל לשיחה מתוחה על פחד, כעס ושלום",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "ערן הלפרין בוחן מדוע רגשות שליליים אינם פועלים כמקשה אחת בעיצוב דעת קהל על שלום. שבוע לפני ועידת אנאפוליס ב־2007 נערך סקר־ניסוי ארצי בקרב 501 יהודים בישראל, בדגימה אקראית בתוך שכבות; שיעור ההיענות היה 44%. המשתתפים דיווחו תחילה על אידאולוגיה ועל רגשות מתמשכים של פחד, שנאה וכעס כלפי פלסטינים, ולאחר מכן שמעו ידיעת עיתון מדומה על השיחות. שתי מסגרות שליליות — אופי פלסטיני מאיים או התנהגות לא הוגנת — הושוו לקבוצת ביקורת; כל מודל נתיבים השווה 120 נחשפים למסגרת עם 141 משתתפי ביקורת, ולכן N=261. התוצאות מפרידות בין שלושה מסלולים: פחד היה המנבא הרגשי היחיד של פחות תמיכה בנטילת סיכונים ושל פחות תמיכה בפשרה טריטוריאלית; שנאה ניבאה פחות פשרה סמלית, פיוס ופתיחות למידע חיובי, והייתה המנבא היחיד לדרישה להפסיק משא ומתן והבולט ביותר לתמיכה בפעולה צבאית בלתי־מבחינה; כעס ניבא הטלת אשמה על הפלסטינים, אך כאשר הופרד משנאה נקשר גם ליותר נכונות ליטול סיכון וליותר פתיחות למידע חיובי. בניגוד להשערה, פחד נקשר גם לתמיכה בפעולה צבאית. מסגרות האירוע פעלו בעוצמה שונה לפי אידאולוגיה, והרגשות המיידיים תיווכו במודלים את הקשר בין מסגור, הערכה קוגניטיבית, נטייה רגשית מתמשכת ועמדות. עם זאת, כל הרגשות והעמדות נמדדו בדיווח עצמי, המסגור עורר שליליות כללית ולא רגש יחיד, ומדובר ברגע פוליטי מסוים ובציבור היהודי בלבד; לכן אין להסיק שהקשרים זהים בתקופות, קבוצות או סכסוכים אחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_center_right_parties_advanced_democracies_summary_he",
+      "file": "democracy_center_right_parties_advanced_democracies_summary_he.html",
+      "permalink": "/democracy_center_right_parties_advanced_democracies_summary_he.html",
+      "sortKey": 202608090001,
+      "titleHe": "כשהמרכז־ימין נחלש, הימין הרדיקלי מקבל מרחב",
+      "paperTitle": "Center-Right Political Parties in Advanced Democracies",
+      "authorsCardHe": "נועם גדרון ודניאל זיבלאט",
+      "sourceAuthors": [
+        "Noam Gidron",
+        "Daniel Ziblatt"
+      ],
+      "journal": "Annual Review of Political Science, vol. 22, pp. 17–35",
+      "dateText": "11 במאי 2019; כרך 22, עמ׳ 17–35",
+      "doiUrl": "https://doi.org/10.1146/annurev-polisci-090717-092750",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_center_right_parties_advanced_democracies_summary_he.jpg",
+        "altHe": "צוות אסטרטגי רב־דורי דן במסמכי מפלגה סביב שולחן עץ",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-09",
+      "dateModified": "2026-08-09",
+      "summaryHe": "נועם גדרון ודניאל זיבלאט מפנים את הזרקור אל עמוד תווך שנזנח יחסית בחקר השינוי המפלגתי: מפלגות המרכז־ימין. זהו מאמר סקירה השוואתי, לא מבחן סיבתי חדש; הוא מחבר ספרות מן הפוליטיקה האמריקאית וההשוואתית, מציג מגמות תיאוריות ומנסח סדר יום למחקר. תרשים המבוסס על 21 דמוקרטיות מערביות בשנים 1960–2015 מצביע על ירידה ממוצעת בחלק הקולות של מפלגות שמרניות ונוצריות־דמוקרטיות. ניתוח תיאורי נוסף של גל 4 של Comparative Study of Electoral Systems, הכולל 15 מדינות בשנים 2011–2016, מראה כי בוחרים ממקמים מימין למרכז לא רק שמרנים אלא גם נוצרים־דמוקרטים, ליברלים, אגררים והימין הרדיקלי. משום שהימין האלקטורלי הוא קואליציה הטרוגנית, המחברים מציעים שני מקורות עיקריים ללכידותה: תשתית מפלגתית חזקה המסוגלת לתווך בין הנהגה, פעילים וקבוצות אינטרס; וחפיפה בין עמדות שמרניות בכלכלה, בתרבות ובזהות. מפלגה חלשה מבחינה ארגונית עלולה להישלט בידי גורמי חוץ או בידי יזמים רדיקליים, ואילו ״פירוק החבילה״ של עמדות שמרניות מקשה להחזיק יחד ליברלים כלכליים, שמרנים חברתיים ולאומנים. הדוגמאות ההיסטוריות מבריטניה, גרמניה וארצות הברית ממחישות כיצד מרכז־ימין מלוכד סייע לפשרות דמוקרטיות, וכיצד פיצול יכול להרחיב הזדמנויות לימין הרדיקלי. המאמר אינו קובע שכל מפלגת מרכז־ימין חזקה היא מתונה, ואינו אומד אפקט אחיד של ארגון או עמדות; תרומתו היא מסגרת השוואתית והשערות למחקר עתידי.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_international_rankings_public_opinion_summary_he",
       "file": "democracy_international_rankings_public_opinion_summary_he.html",

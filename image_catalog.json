@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -32403,6 +32403,296 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-08 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_center_right_parties_advanced_democracies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_center_right_parties_advanced_democracies_summary_he.html",
+      "usedBy": [
+        "democracy_center_right_parties_advanced_democracies_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמרכז־ימין נחלש, הימין הרדיקלי מקבל מרחב",
+      "authorsHe": "נועם גדרון ודניאל זיבלאט",
+      "visualDescriptionHe": "צוות אסטרטגי רב־דורי דן במסמכים ריקים סביב שולחן עץ.",
+      "semanticDescriptionHe": "הדיון ממחיש את הארגון, הלכידות והבחירות האסטרטגיות של מפלגות מרכז־ימין; הדמויות והמסמכים אינם מפלגה או מקרה שנחקרו.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "center_right",
+        "party_organization",
+        "radical_right"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific party-strategy meeting generated in a warm institutional room and finished as an 800x600 progressive JPEG. Standard fitness because it conveys organizational cohesion without depicting a real party or campaign.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.html",
+      "usedBy": [
+        "democracy_emotional_barriers_peace_israeli_public_opinion_summary_he.html"
+      ],
+      "cardTitleHe": "פחד, שנאה וכעס אינם אותו מחסום לשלום",
+      "authorsHe": "ערן הלפרין",
+      "visualDescriptionHe": "קבוצת ישראלים יושבת במעגל לשיחה מתוחה בחדר אבן חם.",
+      "semanticDescriptionHe": "המעגל ממחיש עיבוד רגשי ושיח על סכסוך ושלום; המשתתפים אינם משיבי הסקר והסצנה אינה האירוע הפוליטי שנבחן.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "fear",
+        "hatred",
+        "anger",
+        "peace_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific dialogue-circle scene generated with restrained emotional tension and finished as an 800x600 progressive JPEG. Standard fitness because it evokes intergroup emotions without representing respondents or findings.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_unconstitutional_constitutional_amendments_migration_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_unconstitutional_constitutional_amendments_migration_summary_he.html",
+      "usedBy": [
+        "democracy_unconstitutional_constitutional_amendments_migration_summary_he.html"
+      ],
+      "cardTitleHe": "האם תיקון חוקתי יכול להיות בלתי־חוקתי?",
+      "authorsHe": "יניב רוזנאי",
+      "visualDescriptionHe": "מבט מדוכן השופטים אל אולם בית המשפט החוקתי של דרום אפריקה ביוהנסבורג.",
+      "semanticDescriptionHe": "האולם ממחיש מוסד חוקתי לאומי בתוך המרחב ההשוואתי שבו דוקטרינות נודדות בין מדינות; הצילום אינו מתעד תיקון או מקרה שנדונו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "constitutional_amendments",
+        "eternity_clauses",
+        "doctrinal_migration"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph from the judges' bench of the Constitutional Court of South Africa, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it supplies a concrete cross-national constitutional setting without depicting a specific doctrine or case.",
+      "createdDate": "2026-08-09",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Ijon",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_South_Africa_judges_view.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Constitutional_Court_of_South_Africa_judges_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Ijon",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Constitutional Court of South Africa judges view.jpg",
+      "sourceDimensions": "3264x2448"
+    },
+    {
+      "file": "html_qa/democracy_partisan_audiences_perceived_opinion_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_partisan_audiences_perceived_opinion_participation_summary_he.html",
+      "usedBy": [
+        "democracy_partisan_audiences_perceived_opinion_participation_summary_he.html"
+      ],
+      "cardTitleHe": "צריכת מדיה מפלגתית נקשרת לתחושת רוב — ואז להשתתפות",
+      "authorsHe": "שירה דביר־גבירסמן, ר׳ קלי גארט ויריב צפתי",
+      "visualDescriptionHe": "אזרחים עובדים יחד עם מחשבים וטלפונים במרחב תקשורת קהילתי.",
+      "semanticDescriptionHe": "סביבת המדיה והעבודה המשותפת ממחישה את הקשר בין חשיפה, אקלים דעה נתפס והשתתפות; הדמויות והמכשירים אינם משתתפי המחקר או נתוני גלישה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "partisan_media",
+        "perceived_opinion",
+        "political_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-media workspace generated with people using ordinary devices and finished as an 800x600 progressive JPEG. Standard fitness because it evokes mediated participation without inventing content, metrics, or respondents.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_eu_democratic_identity_community_values_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_eu_democratic_identity_community_values_summary_he.html",
+      "usedBy": [
+        "democracy_eu_democratic_identity_community_values_summary_he.html"
+      ],
+      "cardTitleHe": "ותק באיחוד האירופי נקשר לתמיכה גבוהה יותר בערכים דמוקרטיים",
+      "authorsHe": "Odelia Oshri; Tamir Sheafer; Shaul R. Shenhav",
+      "visualDescriptionHe": "מליאת הפרלמנט האירופי בשטרסבורג מלאה בנציגים במהלך ישיבה.",
+      "semanticDescriptionHe": "המליאה ממחישה את המסגרת המוסדית המשותפת שבה ערכים וזהות אירופית עשויים להתפתח; הנציגים אינם המשיבים בסקרי הערכים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "european_union",
+        "democratic_values",
+        "political_socialization"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained wide documentary photograph of the European Parliament hemicycle, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts the EU institution without representing surveyed citizens or a causal result.",
+      "createdDate": "2026-08-09",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / David Iliff",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "David Iliff (Diliff)",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+      "sourceDimensions": "6000x3389"
+    },
+    {
+      "file": "html_qa/democracy_misrecognition_right_wing_populism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_misrecognition_right_wing_populism_summary_he.html",
+      "usedBy": [
+        "democracy_misrecognition_right_wing_populism_summary_he.html"
+      ],
+      "cardTitleHe": "אי־הכרה מצד האליטות מגבירה בוז כלפיהן ודחיית מיעוטים",
+      "authorsHe": "Julia Elad-Strenger; Thomas Kessler",
+      "visualDescriptionHe": "אזרחים ממתינים מחוץ לחדר ישיבות שקוף שבו מתקיים דיון סגור.",
+      "semanticDescriptionHe": "ההפרדה החזותית ממחישה תחושת אי־הכרה והדרה מצד אליטות; הדמויות אינן משתתפי המחקרים והחדר אינו מוסד שנבדק.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "misrecognition",
+        "elite_contempt",
+        "right_wing_populism"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific exclusion-through-glass scene generated in a contemporary public building and finished as an 800x600 progressive JPEG. Standard fitness because it visualizes perceived misrecognition without depicting experimental participants or a real elite.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_police_racism_citizenship_equality_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_police_racism_citizenship_equality_israel_summary_he.html",
+      "usedBy": [
+        "democracy_police_racism_citizenship_equality_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כשהגזענות נתפסת כחסם לאזרחות: האמון במשטרה בקרב ישראלים יוצאי אתיופיה נשחק",
+      "authorsHe": "Ofir Abu; Yariv Feniger; Guy Ben-Porat",
+      "visualDescriptionHe": "קבוצת תושבים מגוונת יושבת במעגל לשיחה על אמון ושוויון.",
+      "semanticDescriptionHe": "מעגל ההקשבה ממחיש שיחה קהילתית על יחס למוסדות ושייכות אזרחית; הדמויות אינן משתתפי המחקר ואינן מייצגות קבוצה מסוימת.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "police_trust",
+        "institutional_racism",
+        "citizenship",
+        "equality"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community listening circle generated in a warm civic interior and finished as an 800x600 progressive JPEG. Standard fitness because it evokes trust and equality without depicting police, protesters, or respondents.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_supreme_court_parliament_theory_moves_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_supreme_court_parliament_theory_moves_israel_summary_he.html",
+      "usedBy": [
+        "democracy_supreme_court_parliament_theory_moves_israel_summary_he.html"
+      ],
+      "cardTitleHe": "שלושה מפנים ביחסי העליון והכנסת הובילו להרחבת הגישה לערעור שיפוטי",
+      "authorsHe": "Assaf Meydani; Shlomo Mizrahi",
+      "visualDescriptionHe": "מליאת הכנסת הריקה נראית מן היציע מול דוכן היושב ראש.",
+      "semanticDescriptionHe": "המליאה ממחישה את הצד הפרלמנטרי ביחסים הדינמיים בין הכנסת לבית המשפט העליון; הצילום אינו מתעד נקודת מפנה מן המחקר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "supreme_court",
+        "knesset",
+        "institutional_relations",
+        "judicial_access"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of the Knesset chamber, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts one institution in the relationship without representing the modeled moves or turning points.",
+      "createdDate": "2026-08-09",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / בית השלום",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Knesset_Hall.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Knesset_Hall.JPG",
+      "license": "Attribution",
+      "creator": "Wikimedia Commons user בית השלום",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Knesset Hall.JPG",
+      "sourceDimensions": "2816x2112"
+    },
+    {
+      "file": "html_qa/democracy_affective_polarization_cross_country_measurement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_affective_polarization_cross_country_measurement_summary_he.html",
+      "usedBy": [
+        "democracy_affective_polarization_cross_country_measurement_summary_he.html"
+      ],
+      "cardTitleHe": "מדידת קיטוב רגשי אינה זהה בכל שיטת מפלגות",
+      "authorsHe": "Thomas Tichelbaecker; Noam Gidron; Will Horne; James Adams",
+      "visualDescriptionHe": "צוות מחקר בין־לאומי משווה כרטיסים צבעוניים סביב שולחן משותף.",
+      "semanticDescriptionHe": "ההשוואה בין כרטיסים ממחישה בדיקת מדדים מקבילים במדינות שונות; הדמויות והכרטיסים אינם חוקרי המאמר, משיבים או כלי סקר ממשיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "affective_polarization",
+        "cross_national_measurement",
+        "party_systems",
+        "survey_methods"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific comparative-measurement scene generated with blank color cards and finished as an 800x600 progressive JPEG. Standard fitness because it conveys measurement comparison without inventing countries, scores, or respondents.",
+      "createdDate": "2026-08-09",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-09 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_courts_international_organization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_constitutional_courts_international_organization_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_courts_international_organization_summary_he.html"
+      ],
+      "cardTitleHe": "תרגום פסקי דין מחבר בתי משפט חוקתיים לקהילה חוצת גבולות",
+      "authorsHe": "Udi Sommer; Olga Frishman",
+      "visualDescriptionHe": "שופטי בית המשפט החוקתי של אוסטריה ניצבים יחד מאחורי דוכן השיפוט.",
+      "semanticDescriptionHe": "הרכב השופטים ממחיש קהילה מקצועית של שופטי ערכאות חוקתיות; המצולמים מייצגים בית משפט לאומי אחד ואינם מדגם או רשת שנבדקו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "constitutional_courts",
+        "epistemic_community",
+        "legal_translation",
+        "transnational_dialogue"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of the Austrian Constitutional Court, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts a constitutional bench without implying that one court represents the cross-national dataset.",
+      "createdDate": "2026-08-09",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Constitutional Court of Austria / Achim Bieniek",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtroom_of_the_Austrian_Constitutional_Court_01.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Courtroom_of_the_Austrian_Constitutional_Court_01.jpg",
+      "license": "CC BY-SA 3.0 AT",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "creator": "VfGH / Achim Bieniek",
+      "provider": "Wikimedia Commons / Constitutional Court of Austria",
+      "fileTitle": "Courtroom of the Austrian Constitutional Court 01.jpg",
+      "sourceDimensions": "1499x1000"
     }
   ],
   "topicGraphics": [
