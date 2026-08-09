@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-10",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -32693,6 +32693,294 @@
       "provider": "Wikimedia Commons / Constitutional Court of Austria",
       "fileTitle": "Courtroom of the Austrian Constitutional Court 01.jpg",
       "sourceDimensions": "1499x1000"
+    },
+    {
+      "file": "html_qa/democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.html",
+      "usedBy": [
+        "democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.html"
+      ],
+      "cardTitleHe": "כשהאזרחות אינה קובעת לבדה: אתנוקרטיה, מיעוטים ומחאה בישראל",
+      "authorsHe": "Oren Yiftachel",
+      "visualDescriptionHe": "תושבים מקבוצות שונות דנים יחד בדגם של תכנון קרקע בשולי שכונה.",
+      "semanticDescriptionHe": "המפגש סביב דגם הקרקע ממחיש את הקשר בין מרחב, שייכות ומחלוקת אזרחית; הדמויות והמקום בדיוניים ואינם קבוצה או אירוע שנבדקו במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ethnocracy",
+        "citizenship",
+        "territorial_politics"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-planning scene generated without text or logos and finished as an 800x600 progressive JPEG. Standard fitness because it conveys contested space without depicting an actual minority protest or policy case.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.html",
+      "usedBy": [
+        "democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.html"
+      ],
+      "cardTitleHe": "הקואליציה השתנתה, גבולות הדיון כמעט לא: בחירות 2013 והבועה האתנוקרטית",
+      "authorsHe": "Oren Yiftachel",
+      "visualDescriptionHe": "סתיו שפיר ודניאל בן סימון יושבים בפאנל מועמדים של מפלגת העבודה לקראת בחירות 2013.",
+      "semanticDescriptionHe": "הצילום מספק הקשר תיעודי למערכת הבחירות שבה עוסק המאמר; הוא אינו מציג את מלוא הזירה המפלגתית ואינו מעיד שהמצולמים אימצו את ניתוחו של המחבר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "israel_2013_election",
+        "electoral_campaign",
+        "ethnocratic_bubble"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph from the 2013 election campaign, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it provides campaign context without visualizing the article's broader claim about agenda boundaries.",
+      "createdDate": "2026-08-10",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Orrling and Moshe B",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ben-Simon_and_Shafir.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ben-Simon_and_Shafir.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "creator": "Orrling and Moshe B",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Ben-Simon and Shafir.jpg",
+      "sourceDimensions": "1261x911"
+    },
+    {
+      "file": "html_qa/democracy_survey_nonresponse_measured_mass_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_survey_nonresponse_measured_mass_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_survey_nonresponse_measured_mass_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "כשהמשיבים המעורבים נשארים בסקר: הקיטוב הציבורי עלול להיראות גדול מדי",
+      "authorsHe": "Amnon Cavari and Guy Freedman",
+      "visualDescriptionHe": "חוקרי סקר משוחחים עם משתתפים לצד כיסאות ריקים ומעטפות שלא נענו.",
+      "semanticDescriptionHe": "הפער בין המשתתפים לבין המקומות הריקים ממחיש כיצד אי־היענות עשויה לשנות את הרכב המדגם; הדמויות וכלי הסקר בדיוניים ואינם תיעוד של המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "survey_nonresponse",
+        "mass_polarization",
+        "sampling_bias",
+        "public_opinion"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific survey-participation scene generated with blank materials and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates nonresponse without portraying real respondents or reproducing study instruments.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.html",
+      "usedBy": [
+        "democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.html"
+      ],
+      "cardTitleHe": "בין מלחמה לשוק: הגוש ההגמוני שחיבר ניאו־ליברליזם ואתנו־רפובליקניזם בישראל",
+      "authorsHe": "Amit Avigur-Eshel; Dani Filc",
+      "visualDescriptionHe": "צוות מדיניות דן בתיקים ובמסמכים ריקים מול עיר שבה נראים כלי רכב ביטחוניים.",
+      "semanticDescriptionHe": "החיבור החזותי בין דיון מדיניות לבין מרחב ביטחוני ממחיש את שילובם של סדר כלכלי וסכסוך; הדמויות והאירוע בדיוניים ואינם ישיבת ממשלה ממשית.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "neoliberalism",
+        "ethno_republicanism",
+        "military_conflict",
+        "hegemonic_project"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific policy-meeting scene generated with every document surface blank and finished as an 800x600 progressive JPEG. Standard fitness because it conveys the joint political-economic setting without depicting real officials or a specific conflict event.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_electoral_system_candidate_selection_party_unity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_electoral_system_candidate_selection_party_unity_summary_he.html",
+      "usedBy": [
+        "democracy_electoral_system_candidate_selection_party_unity_summary_he.html"
+      ],
+      "cardTitleHe": "אחדות מפלגתית אינה נקבעת בכלל אחד: שיטת הבחירות משנה את השפעת בחירת המועמדים",
+      "authorsHe": "Yael Shomer",
+      "visualDescriptionHe": "פעילי מפלגה ממיינים כרטיסי מועמדים סביב שולחן ולצדו קלפי בחדר סניף.",
+      "semanticDescriptionHe": "מיון המועמדים והקלפי ממחישים את המפגש בין כללי בחירה פנימיים להתנהגות מפלגתית; האנשים, הכרטיסים והמפלגה בדיוניים ואינם יחידות מן המדגם.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "electoral_systems",
+        "candidate_selection",
+        "party_unity",
+        "intraparty_democracy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific candidate-selection scene generated without party marks or text and finished as an 800x600 progressive JPEG. Standard fitness because it depicts the institutional mechanism without implying a real party or country from the comparative sample.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_migrant_associations_political_participation_membership_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_migrant_associations_political_participation_membership_israel_summary_he.html",
+      "usedBy": [
+        "democracy_migrant_associations_political_participation_membership_israel_summary_he.html"
+      ],
+      "cardTitleHe": "התארגנות מהגרים מרחיבה את המרחב הציבורי גם בלי הכרה באזרחות",
+      "authorsHe": "Adriana Kemp; Rebeca Raijman; Julia Resnik; Silvina Schammah Gesser",
+      "visualDescriptionHe": "מבקשי מקלט מאריתריאה מתכנסים בקבוצות בפארק לוינסקי בתל אביב.",
+      "semanticDescriptionHe": "הצילום ממחיש התכנסות ציבורית קולקטיבית של קהילה מודרת בישראל; הוא צולם ב־2014 ואינו מתעד את קהילות מהגרי העבודה או את תקופת השדה שנבחנו במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "migrant_associations",
+        "political_participation",
+        "levinsky_park"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of an Eritrean asylum-seeker gathering in Tel Aviv, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because the gathering is relevant civic context but does not depict the paper's exact migrant-worker populations.",
+      "createdDate": "2026-08-10",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Rudychaimg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:African_refugees_in_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/African_refugees_in_Israel.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Rudychaimg",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "African refugees in Israel.jpg",
+      "sourceDimensions": "2048x1536"
+    },
+    {
+      "file": "html_qa/democracy_bureaucracy_social_identity_policy_change_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_bureaucracy_social_identity_policy_change_summary_he.html",
+      "usedBy": [
+        "democracy_bureaucracy_social_identity_policy_change_summary_he.html"
+      ],
+      "cardTitleHe": "זהותם האזרחית של פקידים בכירים יכולה לחזק מוטיבציה לשינוי מדיניות",
+      "authorsHe": "Sharon Gilad; Saar Alon‐Barkat",
+      "visualDescriptionHe": "מנהלים בשירות הציבורי דנים בתיקי מדיניות בחדר ישיבות כשמחאה אזרחית נראית מחוץ לחלון.",
+      "semanticDescriptionHe": "הקשר בין חדר הישיבות למחאה ממחיש כיצד זהות אזרחית עשויה לעורר מוטיבציה לשינוי; הדמויות, המוסד והמחאה בדיוניים ואינם משתתפי המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public_bureaucracy",
+        "social_identity",
+        "policy_change_motivation",
+        "civic_protest"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-management scene generated with blank folders and finished as an 800x600 progressive JPEG. Standard fitness because it conveys the proposed motivation mechanism without portraying actual managers or an enacted policy change.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_populism_government_political_economy_growth_model_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populism_government_political_economy_growth_model_israel_summary_he.html",
+      "usedBy": [
+        "democracy_populism_government_political_economy_growth_model_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פופוליזם בשלטון הוא גם מאבק על מי נהנה מן הצמיחה",
+      "authorsHe": "Amit Avigur‐Eshel; Dani Filc",
+      "visualDescriptionHe": "נציגי עובדים, עסקים וממשלה דנים במדיניות כלכלית סביב שולחן עגול באולם קהילתי.",
+      "semanticDescriptionHe": "הדיון בין קבוצות בעלות אינטרסים שונים ממחיש את חלוקת פירות הצמיחה ואת אילוצי הממשלה; הדמויות והמעמד בדיוניים ואינם שחקנים שנצפו במחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "political_economy",
+        "growth_model",
+        "income_distribution"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific political-economy roundtable generated without text, logos, or identifiable institutions and finished as an 800x600 progressive JPEG. Standard fitness because it visualizes distributional bargaining without inventing quantitative results.",
+      "createdDate": "2026-08-10",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-10 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_joint_arab_list_knesset_civil_national_representation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_joint_arab_list_knesset_civil_national_representation_summary_he.html",
+      "usedBy": [
+        "democracy_joint_arab_list_knesset_civil_national_representation_summary_he.html"
+      ],
+      "cardTitleHe": "רשימה אחת, ארבע מסורות: האחדות של הרשימה המשותפת הייתה אסטרטגית יותר מאידאולוגית",
+      "authorsHe": "Gadi Hitman",
+      "visualDescriptionHe": "נציגי הרשימה המשותפת מרימים ידיים יחד בליל הבחירות בנצרת במרץ 2015.",
+      "semanticDescriptionHe": "הצילום מתעד רגע ממשי של אחדות אלקטורלית בעת הקמת הרשימה; הוא אינו מוכיח כשלעצמו אחדות אידאולוגית, התמדה קואליציונית או הישג פרלמנטרי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "joint_list",
+        "minority_representation",
+        "israel_2015_election"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph from Joint List election night in Nazareth, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it literally depicts coalition unity while leaving the paper's internal tensions to the text.",
+      "createdDate": "2026-08-10",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Makbula Nassar",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joint_list.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Joint_list.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creator": "Makbula Nassar",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Joint list.jpg",
+      "sourceDimensions": "2048x1152"
+    },
+    {
+      "file": "html_qa/democracy_supreme_court_corruption_integrity_salience_voting_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_supreme_court_corruption_integrity_salience_voting_summary_he.html",
+      "usedBy": [
+        "democracy_supreme_court_corruption_integrity_salience_voting_summary_he.html"
+      ],
+      "cardTitleHe": "כשבית המשפט מדגיש יושרה, בוחרים מענישים שחיתות בחומרה רבה יותר",
+      "authorsHe": "Omer Yair; Raanan Sulitzeanu-Kenan; Yoav Dotan",
+      "visualDescriptionHe": "שופטי העליון יעקב מלץ, שושנה נתניהו ואליעזר גולדברג יושבים בדין במשכנו הישן של בית המשפט העליון בירושלים בשנת 1992.",
+      "semanticDescriptionHe": "הצילום ממחיש את פעולת בית המשפט כמוסד ציבורי; הוא אינו מתעד את החלטות ראשי הערים משנת 2013, את טענות השחיתות או את תגובת הבוחרים שנבדקו במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "supreme_court",
+        "political_integrity",
+        "electoral_accountability"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of an Israeli Supreme Court panel, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts institutional adjudication without implying that this 1992 panel issued the decisions analyzed in the paper.",
+      "createdDate": "2026-08-10",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Israel Government Press Office / Koren Ziv",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_SUPREME_COURT_JUSTICES_YAACOV_MALTZ,_SHOSHANA_NETANYAHU_ELIEZER_GOLDBERG.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flickr_-_Government_Press_Office_%28GPO%29_-_SUPREME_COURT_JUSTICES_YAACOV_MALTZ%2C_SHOSHANA_NETANYAHU_ELIEZER_GOLDBERG.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "creator": "Koren Ziv / Israel Government Press Office",
+      "provider": "Wikimedia Commons / Israel Government Press Office National Photo Collection",
+      "fileTitle": "Flickr - Government Press Office (GPO) - SUPREME COURT JUSTICES YAACOV MALTZ, SHOSHANA NETANYAHU ELIEZER GOLDBERG.jpg",
+      "sourceDimensions": "3072x2048"
     }
   ],
   "topicGraphics": [

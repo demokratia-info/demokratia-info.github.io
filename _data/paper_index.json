@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1282,
+  "paperCount": 1292,
   "papers": [
+    {
+      "slug": "democracy_supreme_court_corruption_integrity_salience_voting_summary_he",
+      "file": "democracy_supreme_court_corruption_integrity_salience_voting_summary_he.html",
+      "permalink": "/democracy_supreme_court_corruption_integrity_salience_voting_summary_he.html",
+      "sortKey": 202608100010,
+      "titleHe": "כשבית המשפט מדגיש יושרה, בוחרים מענישים שחיתות בחומרה רבה יותר",
+      "paperTitle": "Can Institutions Make Voters Care about Corruption?",
+      "authorsCardHe": "Omer Yair; Raanan Sulitzeanu-Kenan; Yoav Dotan",
+      "sourceAuthors": [
+        "Omer Yair",
+        "Raanan Sulitzeanu-Kenan",
+        "Yoav Dotan"
+      ],
+      "journal": "The Journal of Politics, 82(4), 1430–1442",
+      "dateText": "פורסם: 1 באוקטובר 2020; כרך 82, גיליון 4, עמ׳ 1430–1442",
+      "doiUrl": "https://doi.org/10.1086/708504",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_supreme_court_corruption_integrity_salience_voting_summary_he.jpg",
+        "altHe": "שופטי העליון יעקב מלץ, שושנה נתניהו ואליעזר גולדברג יושבים בדין במשכנו הישן של בית המשפט העליון בירושלים בשנת 1992",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "המאמר יוצא מן הפער המוכר בין הסתייגות ציבורית משחיתות לבין הענישה האלקטורלית הצנועה שפוליטיקאים חשודים מקבלים לעיתים. עומר יאיר, רענן סוליציאנו־קינן ויואב דותן מציעים שמידע אינו המשתנה היחיד: גם המשקל שבוחרים מעניקים ליושרה ביחס לשיקולים אחרים יכול להשתנות. זמן קצר לפני הבחירות המקומיות של 2013 הורה בית המשפט העליון, בשתי החלטות תקדימיות, להדיח שלושה ראשי ערים מכהנים שהוגשו נגדם כתבי אישום בעבירות שחיתות. ההחלטות עסקו בשלוש ערים בלבד, אך העניקו לבוחרים בערים אחרות אות ציבורי חזק בדבר חשיבותה של יושרה בלי למסור מידע חדש על ראש העיר שלהם. במחקר הראשון המחברים משלבים תוצאות בחירות ומידע על טענות שחיתות ב־71 ערים בשנים 2003, 2008 ו־2013, ומוצאים שלאחר החלטות בית המשפט גדל הפער בתמיכה בין ראשי ערים בעלי יושרה גבוהה ונמוכה. במחקר השני, ניסוי סקר אקראי בקרב תושבי שבע ערים, חשיפה לתיאור החלטת בית המשפט הגדילה את הפער בשביעות הרצון בין ראשי ערים משתי הקבוצות. שני המחקרים יחד תומכים בטענה שמוסדות יכולים לחזק אחריותיות דמוקרטית באמצעות הבלטת נורמה, אף שהמחקר אינו מוכיח שכל התערבות שיפוטית תשפיע כך או שהמנגנון מחליף מידע אמין והליך פלילי הוגן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_joint_arab_list_knesset_civil_national_representation_summary_he",
+      "file": "democracy_joint_arab_list_knesset_civil_national_representation_summary_he.html",
+      "permalink": "/democracy_joint_arab_list_knesset_civil_national_representation_summary_he.html",
+      "sortKey": 202608100009,
+      "titleHe": "רשימה אחת, ארבע מסורות: האחדות של הרשימה המשותפת הייתה אסטרטגית יותר מאידאולוגית",
+      "paperTitle": "The Joint Arab List for the Knesset: United, Shared or Split?",
+      "authorsCardHe": "Gadi Hitman",
+      "sourceAuthors": [
+        "Gadi Hitman"
+      ],
+      "journal": "Middle East Policy, 25(4), 146–158",
+      "dateText": "פורסם אונליין: 9 בינואר 2019; כרך 25, גיליון 4, עמ׳ 146–158",
+      "doiUrl": "https://doi.org/10.1111/mepo.12384",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_joint_arab_list_knesset_civil_national_representation_summary_he.jpg",
+        "altHe": "נציגי הרשימה המשותפת מרימים ידיים יחד בליל הבחירות בנצרת במרץ 2015",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "גדי היטמן בוחן אם הרשימה המשותפת, שהוקמה לקראת בחירות 2015, ביטאה איחוד פוליטי עמוק או ברית מעשית בין חד״ש, בל״ד, רע״ם ותע״ל. באמצעות ניתוח היסטורי של המשא ומתן להקמתה ובחינת חקיקה, פעילות פרלמנטרית, הצהרות, אירועים ומחאות, הוא מסווג את עבודת חברי הכנסת לתחומים אזרחיים, לאומיים ודתיים. המאמר מזהה ארבעה כוחות מרכזיים שהובילו לאיחוד: העלאת אחוז החסימה ל־3.25%, לחץ ציבורי בחברה הערבית, התרחבות הפער היהודי־ערבי ותחושת איום משותף, ואכזבה מתפקוד ההנהגה ורצון להדגיש בעיות אזרחיות. לפי הניתוח, כל חברי הכנסת הערבים שכיהנו מטעם הרשימה הגישו הצעות בנושאים אזרחיים, ובהם חינוך, בריאות, תעסוקה, תחבורה ורווחה, ואף נרשמו הישגים והשתתפות בקידום תוכנית החומש הממשלתית 922. לעומת זאת, סוגיות לאומיות ואזוריות חשפו פערים בין קומוניסטים, לאומיים ואיסלאמיסטים, אף שאירועים שנתפסו כאיום משותף חידשו לעיתים את התיאום. המסקנה היא שהרשימה הייתה מסגרת ייצוג משותפת ובעלת יכולת פעולה, אך לא מפלגה בעלת תפיסת עולם אחת; אחדותה הייתה תלויה ביכולת לאזן בין צרכים אזרחיים, זהות פלסטינית, דת ותחרות פנימית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populism_government_political_economy_growth_model_israel_summary_he",
+      "file": "democracy_populism_government_political_economy_growth_model_israel_summary_he.html",
+      "permalink": "/democracy_populism_government_political_economy_growth_model_israel_summary_he.html",
+      "sortKey": 202608100008,
+      "titleHe": "פופוליזם בשלטון הוא גם מאבק על מי נהנה מן הצמיחה",
+      "paperTitle": "Not Merely Ideological: The Political Economy of Populism in Government",
+      "authorsCardHe": "Amit Avigur‐Eshel; Dani Filc",
+      "sourceAuthors": [
+        "Amit Avigur‐Eshel",
+        "Dani Filc"
+      ],
+      "journal": "Swiss Political Science Review, 27(2), 506–526",
+      "dateText": "פורסם אונליין: 17 במרץ 2021; כרך 27, גיליון 2, עמ׳ 506–526",
+      "doiUrl": "https://doi.org/10.1111/spsr.12445",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_government_political_economy_growth_model_israel_summary_he.jpg",
+        "altHe": "נציגי עובדים, עסקים וממשלה דנים במדיניות כלכלית סביב שולחן עגול באולם קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "המאמר טוען שחקר פופוליזם דרך אידיאולוגיה, רטוריקה וזהות בלבד מחמיץ את המבחן החומרי של מפלגה שכבר מחזיקה בשלטון. עמית אביגור־אשל ודני פילק משלבים את חקר הפופוליזם עם גישת מודלי הצמיחה, הקושרת בין מנועי הביקוש במשק לבין חלוקת ההכנסה בין עבודה להון. בניתוח של שלוש ממשלות בראשות הליכוד בשנים 2009–2018 הם מוצאים כי עד 2015 המדיניות שילבה, ככלל, ריסון שכר ומשמעת תקציבית עם ליברליזציה של סחר ואשראי ועלייה בחוב משקי הבית. השילוב אפשר לשכבות נמוכות ובינוניות להרחיב צריכה בתוך מודל שהמחברים מאפיינים כמובל־רווחים, אף שהמדיניות לא שיפרה בהכרח את כוח העבודה באותה דרך. משנת 2015 הם מזהים סימנים ראשוניים בלבד למעבר לצמיחה המובלת יותר בידי שכר, מצב שבו המשך ריסון השכר עלול להתנגש במנוע הצמיחה עצמו. התרומה אינה נוסחה כלכלית אחידה לפופוליזם, אלא דרך לבדוק כיצד הגדרת ״העם״, מדיניות חלוקתית ומבנה כלכלי פועלים יחד ומגבילים את מרחב הבחירה של ממשלה פופוליסטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_bureaucracy_social_identity_policy_change_summary_he",
+      "file": "democracy_bureaucracy_social_identity_policy_change_summary_he.html",
+      "permalink": "/democracy_bureaucracy_social_identity_policy_change_summary_he.html",
+      "sortKey": 202608100007,
+      "titleHe": "זהותם האזרחית של פקידים בכירים יכולה לחזק מוטיבציה לשינוי מדיניות",
+      "paperTitle": "Enhancing democracy via bureaucracy: Senior managers' social identities and motivation for policy change",
+      "authorsCardHe": "Sharon Gilad; Saar Alon‐Barkat",
+      "sourceAuthors": [
+        "Sharon Gilad",
+        "Saar Alon‐Barkat"
+      ],
+      "journal": "Governance, 31(2), 359–380",
+      "dateText": "פורסם אונליין: 28 ביוני 2017; כרך 31, גיליון 2, עמ׳ 359–380",
+      "doiUrl": "https://doi.org/10.1111/gove.12300",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bureaucracy_social_identity_policy_change_summary_he.jpg",
+        "altHe": "מנהלים בשירות הציבורי דנים במסמכי מדיניות בחדר ישיבות ממשלתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "שרון גלעד וסער אלון־ברקת מערערים על התיאור החד־ממדי של ביורוקרטיה כמכשול להיענות דמוקרטית. הם מציעים כי פקידים בכירים פועלים בעת ובעונה אחת כאנשי מקצוע וכאזרחים, ולכן סדר יום ציבורי בולט עשוי לעורר אצלם הזדהות חברתית ולהגביר את המוטיבציה לשינוי בתחום אחריותם. המחקר בוחן 64 מנהלים בכירים בשבעה משרדי ממשלה באמצעות מערך משולב של ראיונות ושאלונים, כשלושה חודשים לאחר פרוץ המחאה החברתית בקיץ 2011. הממצא המרכזי הוא שהזדהות עם המפגינים חיזקה את המוטיבציה לקדם שינוי מדיניות. עם זאת, תפיסת מתח בין היענות לדרישות המחאה לבין הזהות הארגונית או המקצועית השפיעה בעיקר על סוג פתרון המדיניות שהמנהלים העדיפו, יותר מאשר על עצם רצונם בשינוי. מכאן עולה שהשירות הציבורי אינו רק מנגנון ביצוע סגור: הזהויות של אנשיו יכולות לפתוח אותו ללחץ ציבורי, אך גם לתרגם את הלחץ דרך כללים, מומחיות ונאמנויות מוסדיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_migrant_associations_political_participation_membership_israel_summary_he",
+      "file": "democracy_migrant_associations_political_participation_membership_israel_summary_he.html",
+      "permalink": "/democracy_migrant_associations_political_participation_membership_israel_summary_he.html",
+      "sortKey": 202608100006,
+      "titleHe": "התארגנות מהגרים מרחיבה את המרחב הציבורי גם בלי הכרה באזרחות",
+      "paperTitle": "Contesting the limits of political participation: Latinos and black African migrant workers in Israel",
+      "authorsCardHe": "Adriana Kemp; Rebeca Raijman; Julia Resnik; Silvina Schammah Gesser",
+      "sourceAuthors": [
+        "Adriana Kemp",
+        "Rebeca Raijman",
+        "Julia Resnik",
+        "Silvina Schammah Gesser"
+      ],
+      "journal": "Ethnic and Racial Studies, 23(1), 94–119",
+      "dateText": "פורסם: ינואר 2000; כרך 23(1), עמ׳ 94–119",
+      "doiUrl": "https://doi.org/10.1080/014198700329141",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_migrant_associations_political_participation_membership_israel_summary_he.jpg",
+        "altHe": "מבקשי מקלט מאריתריאה מתכנסים בקבוצות בפארק לוינסקי בתל אביב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "אדריאנה קמפ, רבקה רייכמן, ג׳וליה רזניק וסילבינה שאמא־גסר מעבירות את שאלת השתתפותם של מהגרי עבודה מן המעמד המשפטי בלבד אל יכולתם לפעול יחד. הן משוות בין קהילות לא מתועדות של מהגרים מאמריקה הלטינית ומאפריקה השחורה בישראל ובוחנות את חשיבותן של אגודות מהגרים ושל פרקטיקות השתתפות. הטענה המרכזית היא שעצם היכולת להקים אגודות אוטונומיות להגנת אינטרסים, לגייס תמיכה סביב נושאים משותפים ולהעלות תביעות בפני רשויות שאינן מוכנות להעניק הכרה הופכת מהגרים לשחקנים פוליטיים. הפעולה אינה מחכה לקבלת אזרחות פורמלית: היא יוצרת במעשה זירות חדשות של התדיינות ומרחיבה את גבולות המרחב הציבורי הישראלי. במקביל, הקהילות מנסחות את תביעותיהן בשפה אוניברסלית של סבל אנושי וזכויות אדם. כך הן מבקשות להשתתף בחברה המארחת כאדם באשר הוא אדם, מעבר לתפיסות אזרחות המעוגנות במדינת הלאום. התרומה הדמוקרטית של המאמר היא ההבחנה בין חברות שמעניקה המדינה לבין חברות שנבנית באמצעות התארגנות, קול ותביעה להישמע. היא מראה שמי שמודרים מהכרה רשמית אינם בהכרח מחוץ לפוליטיקה, ושחברה אזרחית יכולה לפתוח ערוצי השתתפות גם מול מוסדות שמסרבים להכיר בחברים החדשים. המסקנה נוגעת ליצירת סוכנות פוליטית ופלטפורמות דיון, ולא להוכחה שהפעולה הובילה להסדרה או לשינוי במעמד המשפטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_electoral_system_candidate_selection_party_unity_summary_he",
+      "file": "democracy_electoral_system_candidate_selection_party_unity_summary_he.html",
+      "permalink": "/democracy_electoral_system_candidate_selection_party_unity_summary_he.html",
+      "sortKey": 202608100005,
+      "titleHe": "אחדות מפלגתית אינה נקבעת בכלל אחד: שיטת הבחירות משנה את השפעת בחירת המועמדים",
+      "paperTitle": "The Conditional Effect of Electoral Systems and Intraparty Candidate Selection Processes on Parties’ Behavior",
+      "authorsCardHe": "Yael Shomer",
+      "sourceAuthors": [
+        "Yael Shomer"
+      ],
+      "journal": "Legislative Studies Quarterly, 42(1), 63–96",
+      "dateText": "פורסם אונליין: 11 במאי 2016; בגיליון 42(1), פברואר 2017, עמ׳ 63–96",
+      "doiUrl": "https://doi.org/10.1111/lsq.12141",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_electoral_system_candidate_selection_party_unity_summary_he.jpg",
+        "altHe": "פעילי מפלגה ממיינים כרטיסי מועמדים סביב שולחן ולצדו קלפי בחדר סניף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "יעל שומר שואלת כיצד שיטת הבחירות והליך בחירת המועמדים בתוך המפלגה מעצבים יחד את אחדותה ההתנהגותית. במקום לייחס את לכידות המפלגה לכללי הבחירות בלבד או למנגנון פנים־מפלגתי בלבד, היא מפרידה בין שני המוסדות מבחינה תיאורטית ואמפירית ובוחנת את האינטראקציה ביניהם. הניתוח מבוסס על מאגר חדש של 249 מפלגות ב־24 מדינות, מודד אחדות באמצעות ציוני Rice ו־Rice משוקלל, ומיישם מודלים היררכיים המתאימים לנתונים שבהם מפלגות מקובצות בתוך הקשרים מדינתיים. הממצא המרכזי הוא מותנה: השפעתם של הליכי בחירת מועמדים על התנהגות מפלגתית גדולה יותר בשיטות בחירות המעודדות תמריצים לחיפוש קול אישי, וחלשה יותר בשיטות המעודדות מרכזיות של המפלגה. לכן אין משמעות קבועה למנגנון בחירה פנים־מפלגתי במנותק מן הזירה האלקטורלית שבה נבחריו פועלים. התרומה הדמוקרטית רחבה מן הדיון במשמעת הצבעה. כללים המעצבים מי חייב למי את בחירתו — למנהיגות, לחברי מפלגה, לקהל בוחרים אישי או למותג המפלגתי — משנים את האיזון בין ייצוג אישי, אחריותיות כלפי המפלגה ויכולת לפעול כקבוצה מחוקקת. המחקר אינו קובע בתקציר ששיטה אחת תמיד דמוקרטית יותר, ואינו מפרט את כל סוגי הליכי הבחירה או את המקדמים לכל צירוף. הוא כן מראה שהערכת רפורמה מוסדית מחייבת לבחון את הצירוף בין כללי הבחירות לבין כללי בחירת המועמדים, מפני ששינוי באחד מהם עשוי לשנות את השפעת האחר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he",
+      "file": "democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.html",
+      "permalink": "/democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.html",
+      "sortKey": 202608100004,
+      "titleHe": "בין מלחמה לשוק: הגוש ההגמוני שחיבר ניאו־ליברליזם ואתנו־רפובליקניזם בישראל",
+      "paperTitle": "Military Conflict and Neo-Liberalization in Israel (2001–2006): A Neo-Gramscian Approach",
+      "authorsCardHe": "Amit Avigur-Eshel; Dani Filc",
+      "sourceAuthors": [
+        "Amit Avigur-Eshel",
+        "Dani Filc"
+      ],
+      "journal": "Political Studies, 66(2), 503–520",
+      "dateText": "פורסם אונליין: 11 באוקטובר 2017; בגיליון 66(2), מאי 2018, עמ׳ 503–520",
+      "doiUrl": "https://doi.org/10.1177/0032321717722356",
+      "topics": [
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_military_conflict_neoliberal_ethno_republican_hegemonic_project_israel_summary_he.jpg",
+        "altHe": "צוות מדיניות דן בתיקים ובמסמכים ריקים מול עיר שבה נראים כלי רכב ביטחוניים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "עמית אביגור־אשל ודני פילק מבקשים להסביר פרק שבו שתי התפתחויות שנראות סותרות הופיעו זו לצד זו: התעצמות הפנייה האתנו־רפובליקנית לאחר פרוץ האינתיפאדה השנייה בשנת 2000, ותוכניות כלכליות ניאו־ליברליות בשנים 2002 ו־2003. מסגרות מקובלות בסוציולוגיה הפוליטית ובכלכלה הפוליטית של ישראל נטו להציב מול זו אליטה חילונית, שוחרת שלום וניאו־ליברלית וקבוצות חברתיות דתיות ואתנו־רפובליקניות. המחברים טוענים שהרצף של 2001–2006 חושף את מגבלת החלוקה הזאת: ניאו־ליברליזם ולאומיות רפובליקנית־אתנית לא פעלו בהכרח כפרויקטים יריבים. בגישה ניאו־גרמשיאנית הם מזהים פרויקט הגמוני ששילב את שני היסודות בתוך מערך חברתי־פוליטי יציב יחסית, שמקורו העיקרי במעמד הבינוני היהודי. במקום להסביר מדיניות כלכלית ושינוי לאומי בשני צירים נפרדים, המאמר בוחן כיצד רעיונות, אינטרסים וקבוצות חברתיות יכלו להתלכד סביב אותו סדר פוליטי. הטענה משנה גם את הקריאה הדמוקרטית של התקופה: תמיכה בביטחון, בזהות קולקטיבית ובהפרטת אחריות כלכלית עשויה להיבנות כחבילה פוליטית אחת, ולכן מפות פשוטות של ימין מול שמאל או דתיים מול חילונים אינן מספיקות להבנת בסיסי ההסכמה. המחברים מבססים את טענתם באמצעות אפיון הפרויקט וניתוח מיקומן של הקבוצות החברתיות המרכזיות ביחס אליו. הניתוח תומך בזיהוי החיבור ההגמוני ובבסיס החברתי העיקרי שהמחברים מייחסים לו, אך אינו מספק אומדן כמותי של התמיכה בו או של משקלה היחסי של כל קבוצה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_survey_nonresponse_measured_mass_polarization_summary_he",
+      "file": "democracy_survey_nonresponse_measured_mass_polarization_summary_he.html",
+      "permalink": "/democracy_survey_nonresponse_measured_mass_polarization_summary_he.html",
+      "sortKey": 202608100003,
+      "titleHe": "כשהמשיבים המעורבים נשארים בסקר: הקיטוב הציבורי עלול להיראות גדול מדי",
+      "paperTitle": "Polarized Mass or Polarized Few? Assessing the Parallel Rise of Survey Nonresponse and Measures of Polarization",
+      "authorsCardHe": "Amnon Cavari and Guy Freedman",
+      "sourceAuthors": [
+        "Amnon Cavari",
+        "Guy Freedman"
+      ],
+      "journal": "The Journal of Politics, 80(2), 719–725",
+      "dateText": "פורסם מקוון: 01.03.2018; גיליון: אפריל 2018",
+      "doiUrl": "https://doi.org/10.1086/695853",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_survey_nonresponse_measured_mass_polarization_summary_he.jpg",
+        "altHe": "חוקרי סקר משוחחים עם משתתפים לצד כיסאות ריקים ומעטפות שלא נענו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "המאמר מערער על ההנחה שמדגם סקר נעשה רק קטן יותר כאשר שיעור ההיענות יורד; הוא עלול גם להשתנות באופן שיטתי. אנשים שמסכימים להשתתף בסקרי דעת קהל נוטים להיות מיודעים, מעורבים ובעלי עניין רב יותר בפוליטיקה, ולכן גם להחזיק בעמדות מפלגתיות חזקות ומגובשות יותר. אם אזרחים כאלה נשארים במדגם בשיעור גבוה מאזרחים אדישים או בעלי עמדות חלשות, מדדי הקיטוב עלולים לייחס לכלל הציבור את המאפיינים של המיעוט הנענה. כוורי ופרידמן בוחנים את הקשר באמצעות נתוני פרט מסקרי Pew בשנים 2004–2014 וממחקרי הבחירות הלאומיים האמריקאיים בשנים 1984–2012. הם מוצאים ירידה משמעותית בהיענות ברמת יחידת המדגם, הקשורה לעלייה בשיעור המשיבים הפעילים פוליטית, המזוהים מפלגתית והמקוטבים. המשמעות אינה שכל הקיטוב הוא אשליה, אלא שבחלק מן הנושאים העדות למחלוקת בין המפלגות עשויה להיות חזקה יותר בסקר מכפי שהיא באוכלוסייה. התרומה המתודולוגית היא הפיכת אי־היענות מבעיה של גודל מדגם לבעיה של ייצוג: השאלה מי לא עונה יכולה לשנות את הסיפור שהנתונים מספרים על הדמוקרטיה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he",
+      "file": "democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.html",
+      "permalink": "/democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.html",
+      "sortKey": 202608100002,
+      "titleHe": "הקואליציה השתנתה, גבולות הדיון כמעט לא: בחירות 2013 והבועה האתנוקרטית",
+      "paperTitle": "Liberal Colonialism? Israel’s 2013 Elections and the “Ethnocratic Bubble”",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "Journal of Palestine Studies, 42(3), 48–67",
+      "dateText": "פורסם: 01.05.2013 (גיליון אביב)",
+      "doiUrl": "https://doi.org/10.1525/jps.2013.42.3.48",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_liberal_colonialism_2013_elections_ethnocratic_bubble_summary_he.jpg",
+        "altHe": "סתיו שפיר ודניאל בן סימון בפאנל מועמדים של מפלגת העבודה לקראת בחירות 2013",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "המאמר מנתח את בחירות הכנסת של 2013 ומבחין בין דרמה קואליציונית לבין המשכיות פוליטית עמוקה. החלוקה הבסיסית לגושים גאופוליטיים וחברתיים־כלכליים כמעט לא השתנתה, אף שראש הממשלה בנימין נתניהו השיג ניצחון דחוק ביחס ליתרון שיוחס לו בסקרי דעת הקהל. עליית יש עתיד, מפלגה חדשה וממוקדת־מנהיג, והברית הבלתי צפויה שלה עם הבית היהודי יצרו מוקד כוח שמספר מושביו השתווה לזה של רשימת הליכוד־ישראל ביתנו. השינוי הזה הוציא את המפלגות החרדיות מן הקואליציה לראשונה זה עשרות שנים, אך לא החזיר למרכז את הסוגיה הפלסטינית או את האזרחים הפלסטינים בישראל; שניהם היו כמעט בלתי נראים במערכת הבחירות. יפתחאל מכנה את מרחב התחרות הזה ״בועה אתנוקרטית״, משום שהוויכוח הפוליטי הפנימי יכול להיראות פתוח וליברלי בזמן שהשליטה, ההפרדה והאי־שוויון ביחסים עם הפלסטינים נדחקים אל מחוץ לשדה הראייה. מסקנתו היא שהקונצנזוס של ״קולוניאליזם ליברלי״ אינו בר־קיימא, אך הסדקים שנחשפו בו אינם מתורגמים בקלות לחלופה פוליטית בטווח הקצר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ethnocracy_minorities_protests_israeli_polity_summary_he",
+      "file": "democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.html",
+      "permalink": "/democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.html",
+      "sortKey": 202608100001,
+      "titleHe": "כשהאזרחות אינה קובעת לבדה: אתנוקרטיה, מיעוטים ומחאה בישראל",
+      "paperTitle": "\"Ethnocracy\" and Its Discontents: Minorities, Protests, and the Israeli Polity",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "Critical Inquiry, 26(4), 725–756",
+      "dateText": "קיץ 2000",
+      "doiUrl": "https://doi.org/10.1086/448989",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnocracy_minorities_protests_israeli_polity_summary_he.jpg",
+        "altHe": "תושבים מקבוצות שונות דנים יחד בדגם של תכנון קרקע בשולי שכונה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "summaryHe": "המאמר מציע לקרוא את המשטר הישראלי לא רק דרך מוסדות בחירה וזכויות פרט, אלא דרך היחסים בין אתניות, אזרחות וטריטוריה. במסגרת האתנוקרטית, מוסדות דמוקרטיים יכולים לפעול ובו בזמן להתקיים לצד פרויקט מתמשך של הרחבת שליטה בידי קבוצה דומיננטית במרחב שנוי במחלוקת. לכן עצם קיומן של בחירות או זכויות אזרחיות אינו מכריע את שאלת הדמוקרטיות; נדרש לבדוק מי נהנה מגישה לקרקע, למשאבים, לייצוג וליכולת לעצב את גבולות הקולקטיב. הצבת מיעוטים ומחאות במרכז מאפשרת לראות כיצד הסדר המשטרי נחווה מלמטה, היכן הוא מייצר התנגדות, ומדוע אזרחות פורמלית אינה בהכרח בסיס מספיק לסולידריות בין קבוצות מוחלשות. התרומה העיקרית היא חיבור בין ניתוח משטרי לבין גאוגרפיה פוליטית: אי־שוויון אינו רק תוצאה חברתית של המשטר, אלא חלק מן האופן שבו המרחב, הזהות והחברות הפוליטית מאורגנים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_constitutional_courts_international_organization_summary_he",
       "file": "democracy_constitutional_courts_international_organization_summary_he.html",
