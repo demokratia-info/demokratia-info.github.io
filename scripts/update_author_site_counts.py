@@ -26,6 +26,7 @@ def normalize_name(value: str) -> str:
     text = unicodedata.normalize("NFKC", str(value or ""))
     text = "".join(ch for ch in text if unicodedata.category(ch) not in {"Cf", "Mn"})
     text = text.replace("’", "'").replace("‘", "'").replace("`", "'")
+    text = "".join("-" if unicodedata.category(ch) == "Pd" else ch for ch in text)
     text = re.sub(r"\s+", " ", text).strip()
     text = TITLE_PREFIXES.sub("", text)
     text = text.casefold()

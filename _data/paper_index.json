@@ -1,8 +1,310 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1292,
+  "paperCount": 1302,
   "papers": [
+    {
+      "slug": "democracy_green_policy_backlash_voting_summary_he",
+      "file": "democracy_green_policy_backlash_voting_summary_he.html",
+      "permalink": "/democracy_green_policy_backlash_voting_summary_he.html",
+      "sortKey": 202608110010,
+      "titleHe": "כשמדיניות ירוקה מטילה עלות לא־שווה, המחיר עשוי להופיע בקלפי",
+      "paperTitle": "The Political Consequences of Green Policies: Evidence from Italy",
+      "authorsCardHe": "Italo Colantone; Livio Di Lonardo; Yotam Margalit; Marco Percoco",
+      "sourceAuthors": [
+        "Italo Colantone",
+        "Livio Di Lonardo",
+        "Yotam Margalit",
+        "Marco Percoco"
+      ],
+      "journal": "American Political Science Review, 118(1), 108–126",
+      "dateText": "פורסם מקוון: 27 באפריל 2023; כרך 118, גיליון 1, עמ׳ 108–126 (2024)",
+      "doiUrl": "https://doi.org/10.1017/S0003055423000308",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_green_policy_backlash_voting_summary_he.jpg",
+        "altHe": "איור של בעל רכב ישן לצד רחוב ירוק, תחבורה ציבורית ושולחן שיתוף ציבור על חלוקת עלויות המעבר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "המאמר בוחן את התוצאות הפוליטיות של Area B, אזור מוגבל לתנועת כלי רכב המשתרע על 72% משטחה של מילאנו ומקיף 97% מתושביה. המדיניות, שהוכרזה ביולי 2018 והחלה לפעול בפברואר 2019, אסרה בהדרגה נסיעה בדגמי רכב מזהמים; בעלי מכוניות דיזל Euro 4 נדרשו להחליף רכב או לשאת באובדן שימוש וערך, ודיווחו על הפסד חציוני של 3,750 אירו — כ־17% מן ההכנסה השנתית הגולמית החציונית בעיר. איטלו קולנטונה, ליביו די לונרדו, יותם מרגלית ומרקו פרקוקו ערכו בינואר 2021 סקר מקוון ממוקד בקרב 1,073 בעלי רכב המתגוררים באזור, והשוו 293 בעלי דיזל Euro 4 שנפגעו לבעלי דגמי בנזין Euro 4 ודגמי Euro 5 דומים שלא נאסרו. באמצעות הפרש־הפרשים, בקרות לבחירות קודמות ומבחני פלצבו, הם מעריכים שהפגיעה העלתה ב־13.5 נקודות אחוז בממוצע את הסיכוי להצביע ללגה בבחירות לפרלמנט האירופי ב־2019; בקרב מי שלא הצביעו בעבר ללגה, העלייה בהסתברות לעבור אליה הייתה כ־15–18.6 נקודות. התגובה לא הייתה שינוי אנטי־סביבתי כללי: לא נמצאו הבדלים שליליים בהתנהגות, בעמדות או בהתעניינות ביוזמות ירוקות, ולעיתים הנפגעים אף נטו יותר למעורבות סביבתית. לעומת זאת הם נטו הרבה יותר לדרוש שממשלות וחברות גדולות יישאו באחריות, והפיצוי העירוני נקשר לכך שנפגעים לא עברו ללגה יותר מקבוצת הביקורת. המחברים מפרשים את הדפוס כתגובת כיס והוגנות לחלוקה צרה של עלויות, אך מסייגים שהפיצוי לא הוקצה באקראי ושזיכרון ההצבעה והבעלות ברכב נמדדו בדיעבד. המסקנה אינה שיש לוותר על מדיניות ירוקה, אלא שעיצוב חלוקתי, נגישות לפיצוי וכבוד כלפי הנושאים בעלות הם תנאים לקיימותה הדמוקרטית והאלקטורלית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_personalization_party_politics_summary_he",
+      "file": "democracy_political_personalization_party_politics_summary_he.html",
+      "permalink": "/democracy_political_personalization_party_politics_summary_he.html",
+      "sortKey": 202608110009,
+      "titleHe": "מתי הפוליטיקה באמת נעשית אישית? מסגרת למדידת פרסונליזציה",
+      "paperTitle": "Political Personalization and Personalized Politics within and beyond the Behavioral Arena",
+      "authorsCardHe": "Helene Helboe Pedersen; Gideon Rahat",
+      "sourceAuthors": [
+        "Helene Helboe Pedersen",
+        "Gideon Rahat"
+      ],
+      "journal": "Party Politics, 27(2), 211–219",
+      "dateText": "פורסם אונליין: 20 ביוני 2019; בדפוס: 2021; כרך 27, גיליון 2, עמ׳ 211–219",
+      "doiUrl": "https://doi.org/10.1177/1354068819855712",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_personalization_party_politics_summary_he.jpg",
+        "altHe": "איור של מצלמות הממוקדות בפוליטיקאית אחת בחדר קמפיין, בעוד צוות המפלגה עובד יחד מאחוריה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "השיח על פרסונליזציה פוליטית מאגד תופעות שונות מאוד — מעוצמת ראש ממשלה, דרך סיקור אישי של מועמדים ועד הצבעה לפי אהדה למנהיג. הלנה הלבו פדרסן וגדעון רהט מציעים מסגרת שתאפשר להבחין ביניהן ולהשוות מחקרים בלי לערבב מושגים. נקודת המוצא שלהם היא יחסית: פרסונליזציה היא תהליך שבו משקלם של שחקנים יחידים גדל לאורך זמן ביחס למשקלם של שחקנים קולקטיביים, ובראשם מפלגות; פוליטיקה מותאמת־אישית היא מצב בנקודת זמן שבו היחידים חשובים יותר ביחס לקבוצות. לכן נראות רבה של פוליטיקאי אינה מספיקה אם גם נראות מפלגתו גדלה באותה מידה, וטענה על תהליך מחייבת נתוני אורך. המחברים מציעים לסווג כל מחקר בשלושה ממדים. הזירה היא מוסדית, תקשורתית או התנהגותית; הרמה היא ריכוזית, כאשר כוח זורם אל מנהיג אחד, או מבוזרת, כאשר נבחרים יחידים נעשים עצמאיים מן הקבוצה; והאופי מתאר כיצד האישיות מופיעה — אינדיבידואליזציה של כישורים ומדיניות לעומת הפרטה של החיים האישיים, וכן טון חיובי לעומת שלילי. הם מקדישים תשומת לב לזירה ההתנהגותית: השתתפות מותאמת־אישית של בוחרים וייצוג מותאם־אישית של פוליטיקאים. זהו מאמר מושגי ומבוא לגיליון מיוחד, לא בדיקה אמפירית אחת שמוכיחה מגמה כללית. תרומתו היא שני כללי עבודה: להשוות תמיד את רכיב האדם לרכיב המפלגה, ולציין במפורש איזו זירה, רמה ואופי נמדדים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_affective_fractionalization_party_systems_summary_he",
+      "file": "democracy_affective_fractionalization_party_systems_summary_he.html",
+      "permalink": "/democracy_affective_fractionalization_party_systems_summary_he.html",
+      "sortKey": 202608110008,
+      "titleHe": "כמה חמים המפגשים הפוליטיים? קיטוב תלוי גם בסיכוי לפגוש יריב",
+      "paperTitle": "How Warm Are Political Interactions? A New Measure of Affective Fractionalization",
+      "authorsCardHe": "Ansgar Hudde; Will Horne; James Adams; Noam Gidron",
+      "sourceAuthors": [
+        "Ansgar Hudde",
+        "Will Horne",
+        "James Adams",
+        "Noam Gidron"
+      ],
+      "journal": "PLOS ONE, 19(5), e0294401",
+      "dateText": "פורסם: 14 במאי 2024; כרך 19, גיליון 5, e0294401",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0294401",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_affective_fractionalization_party_systems_summary_he.jpg",
+        "altHe": "איור של אזרחים בקבוצות שיחה רבות בכיכר ובבית קפה, כשמסלולי המפגש ביניהם מצטלבים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "מדדי קיטוב רגשי מקובלים שואלים עד כמה תומכי מפלגה אוהבים את מפלגתם יותר מאשר את יריבותיה, אך אינם כוללים את הסיכוי שתומך יפגוש בן מחנה או יריב. אנסגר הודה, ויל הורן, ג׳יימס אדמס ונעם גדרון מציעים מדד משלים — פרקציונליזציה רגשית, AFrac — שמכפיל את פער החיבה כלפי כל מפלגת חוץ בחלקה האלקטורלי ומחשב את הרגש הצפוי במפגש אקראי בין תומכי מפלגות. מתמטית, המדד שווה לקיטוב הרגשי המקובל APol כפול ההסתברות שמפגש אקראי יהיה בין־מפלגתי. החוקרים מיישמים אותו על 92 מחקרי בחירות של Comparative Study of Electoral Systems ב־20 דמוקרטיות מערביות בשנים 1996–2019, ובהן ישראל. התוצאות מראות שארצות הברית יכולה להיות עוינת מאוד אך בעלת AFrac נמוך יחסית משום שבמערכת דו־מפלגתית הסיכוי לפגוש בן מחנה גבוה יותר; הולנד מגיעה לתוצאה נמוכה מסיבה הפוכה — ריבוי יריבים אך דירוגים חמים יחסית. בין 1996 ל־2019 עלתה ההסתברות החזויה למפגש בין־מפלגתי מ־70.8% ל־75.1%, בעוד העלייה בסלידה מיריבים הייתה קטנה ולא מובהקת; AFrac עלה באופן מובהק מ־2.7 ל־3.0, בעיקר בשל התפצלות מפלגתית, וב־14 מ־20 המדינות נרשמה עלייה. המדד אינו מתיימר להחליף קיטוב רגשי, והסתברויות אקראיות אינן תדירות המפגשים בפועל בגלל הומופיליה והפרדה חברתית. תרומתו היא להוסיף לשאלת עוצמת העוינות את שאלת תדירות החשיפה אליה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populism_affective_partisan_space_summary_he",
+      "file": "democracy_populism_affective_partisan_space_summary_he.html",
+      "permalink": "/democracy_populism_affective_partisan_space_summary_he.html",
+      "sortKey": 202608110007,
+      "titleHe": "לא רק ימין ושמאל: פופוליזם מסדר את מפת הרגשות בין מפלגות",
+      "paperTitle": "Populism and the Affective Partisan Space in Nine European Publics: Evidence from a Cross-National Survey",
+      "authorsCardHe": "Sam Fuller; Will Horne; James Adams; Noam Gidron",
+      "sourceAuthors": [
+        "Sam Fuller",
+        "Will Horne",
+        "James Adams",
+        "Noam Gidron"
+      ],
+      "journal": "Frontiers in Political Science, 4, Article 984238",
+      "dateText": "פורסם: 30 בנובמבר 2022; כרך 4, מאמר 984238",
+      "doiUrl": "https://doi.org/10.3389/fpos.2022.984238",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_affective_partisan_space_summary_he.jpg",
+        "altHe": "איור של שני מחנות פוליטיים בכיכר ציבורית, כשאזרחים משני הצדדים משוחחים במרחב המשותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "האם עוינות בין מחנות מפלגתיים באירופה מאורגנת רק על ציר ימין־שמאל? סם פולר, ויל הורן, ג׳יימס אדמס ונעם גדרון מנתחים סקרים מקוונים שנערכו בקיץ 2021 בתשע מדינות: צרפת, גרמניה, יוון, איטליה, הולנד, פולין, ספרד, שוודיה ובריטניה. המשיבים דירגו מפלגות בסולם חיבה של 0–10, והחוקרים השתמשו בסילום רב־ממדי לא־מטרי כדי לבנות לכל מדינה מפה דו־ממדית של המרחקים הרגשיים בין ציבורי המפלגות. בכל המדינות אחד הצירים תאם לימין־שמאל; ברובן הופיע ציר שני הקשור להבדלים במידת הפופוליזם, לרבות פופוליזם מן השמאל ולא רק מן הימין הרדיקלי. ניתוח מאוחד של 200 צמדי מפלגות, בעזרת ציוני אידאולוגיה ממאגר המניפסטים וציוני פופוליזם מסקר המומחים POPPA, מצא שגם מרחק אידאולוגי וגם מרחק בפופוליזם מנבאים פערי חיבה בין מפלגת הבית למפלגת חוץ, עם מקדמים מתוקננים בני סדר גודל דומה. מפות מקבילות המבוססות על נכונות לקרבה חברתית הניבו מסקנות דומות. עם זאת, זהו מחקר תצפיתי: הוא ממפה קשרים ואינו מוכיח שפופוליזם גורם לעוינות. גם הציר השני אינו חד בכל מקום — בבריטניה לא הייתה ב־2021 מפלגה גדולה בעלת ציון פופוליזם גבוה, ובספרד שסעים טריטוריאליים סביב קטלוניה וחבל הבסקים הקשו על פירושו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_efficacy_inequality_46_countries_summary_he",
+      "file": "democracy_political_efficacy_inequality_46_countries_summary_he.html",
+      "permalink": "/democracy_political_efficacy_inequality_46_countries_summary_he.html",
+      "sortKey": 202608110006,
+      "titleHe": "השכלה והכנסה נקשרו לתחושת השפעה פוליטית; ייצוג נשים נקשר לצמצום הפער המגדרי",
+      "paperTitle": "Who Feels They Can Understand and Have an Impact on Political Processes? Socio-demographic Correlates of Political Efficacy in 46 Countries, 1996–2016",
+      "authorsCardHe": "Jennifer Oser; Fernando Feitosa; Ruth Dassonneville",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Fernando Feitosa",
+        "Ruth Dassonneville"
+      ],
+      "journal": "International Journal of Public Opinion Research, 35(2), 1–11",
+      "dateText": "פורסם מקוון: 9 במאי 2023; כרך 35, גיליון 2, עמ׳ 1–11",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edad013",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_efficacy_inequality_46_countries_summary_he.jpg",
+        "altHe": "איור מערכתי של קהל מגוון באספה אזרחית, אישה מובילה את הדיון ואזרחים מרימים ידיים כדי להשתתף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "שוויון דמוקרטי תלוי לא רק בשאלה אם מוסדות מגיבים לקבוצות שונות, אלא גם בשאלה מי מרגיש שהוא מבין פוליטיקה ושקולו יכול להשפיע. ג׳ניפר אוסר, פרננדו פייטוסה ורות דסונוויל מנתחים את כל מודולי ISSP שבהם נוסחו שאלות זהות על מסוגלות פוליטית: 1996, 2004, 2006, 2014 ו־2016, ובהם יותר מ־200 אלף משיבים מ־46 מדינות. הם מפרידים בין מסוגלות חיצונית — אמונה שהשלטון קשוב לאנשים כמו המשיב — למסוגלות פנימית — ביטחון ביכולת להבין סוגיות פוליטיות ולהשתתף ביעילות. במודלים עם השפעות קבועות למדינה ולמודול, שנת לימוד נוספת נקשרת לעלייה של 0.048 נקודה במסוגלות חיצונית ושל 0.051 בפנימית בסולם של 1–5. עלייה של סטיית תקן בהכנסה נקשרת לעליות של 0.090 ו־0.071 בהתאמה. נשים אינן שונות מגברים במסוגלות חיצונית לאחר בקרות, אך מדווחות על מסוגלות פנימית נמוכה ב־0.277 נקודה. הפערים לפי השכלה, הכנסה ומגדר נותרים יציבים למדי לאורך תקופת המחקר ומופיעים באופן עקבי בניתוחים נפרדים לפי מדינה. ניתוח רב־רמתי נוסף מחבר את הסקרים לשיעור הנשים בבית התחתון או היחיד של הפרלמנט. במדינות שבהן נשים מיוצגות יותר, הפער המגדרי במסוגלות החיצונית קטן: נשים חשות שיש להן יותר אמירה בהחלטות השלטון. קשר דומה לא נמצא במסוגלות הפנימית. המחקר תצפיתי, משתמש בשאלה יחידה לכל ממד ואינו מודד ייצוג ענייני של העדפות או קבוצות כגון מיעוטים אתניים, אנשים עם מוגבלות ומיעוטים מיניים. לכן הוא אינו מוכיח שייצוג נשים גורם לתחושת השפעה, אך הוא מראה שפערים חברתיים בייצוג האובייקטיבי משתקפים גם באופן שבו אזרחים מעריכים את מקומם שלהם בדמוקרטיה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_fertility_women_democracy_summary_he",
+      "file": "democracy_fertility_women_democracy_summary_he.html",
+      "permalink": "/democracy_fertility_women_democracy_summary_he.html",
+      "sortKey": 202608110005,
+      "titleHe": "ירידה בפריון נקשרה להתחזקות דמוקרטית ביותר מ־140 מדינות",
+      "paperTitle": "Women, Demography, and Politics: How Lower Fertility Rates Lead to Democracy",
+      "authorsCardHe": "Udi Sommer",
+      "sourceAuthors": [
+        "Udi Sommer"
+      ],
+      "journal": "Demography, 55(2), 559–586",
+      "dateText": "פורסם מקוון: 14 במרץ 2018; כרך 55, גיליון 2, עמ׳ 559–586",
+      "doiUrl": "https://doi.org/10.1007/s13524-018-0655-x",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_fertility_women_democracy_summary_he.jpg",
+        "altHe": "איור מערכתי של נשים מדורות שונים, אחת מהן מחזיקה פעוט, יושבות סביב שולחן תכנון קהילתי ובחצר נראות משפחות עם ילדים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "אודי זומר טוען ששינוי דמוגרפי המזוהה במישרין עם חיי נשים — הירידה במספר הילדים הממוצע שאישה צפויה ללדת — אינו רק תוצאה של התפתחות פוליטית וכלכלית, אלא עשוי לתרום לדמוקרטיזציה. המאמר בונה מסגרת של ארבעה מסלולים: משפחות קטנות יכולות להשקיע יותר בחינוך ולתכנן לטווח ארוך; נשים יכולות לרכוש השכלה ולהשתלב בעבודה בשכר; הפחתת עומס הטיפול עשויה להרחיב השתתפות ומנהיגות פוליטית של נשים; ושינויים בחלוקת קרקע עשויים לחזק זכויות קניין וארגון כלכלי ופוליטי. המסלול הרביעי מוצג במפורש כהסבר ראשוני. לבחינת הטענה משמשים נתוני חתך־זמן של יותר מ־140 מדינות, בעיקר בשנים 1972–2006, ומודלי GEE עם שגיאות תקן חסינות ומבנה אוטורגרסיבי. במדגם המרכזי, כל ילד נוסף בממוצע לאישה נקשר לירידה של כ־1.5 נקודות במדד Polity, הנע בין מינוס 10 ל־10. הקשר נותר שלילי במודלים עם גיל חציוני, שיעור צעירים, הכנסה, גלובליזציה, מורשות קולוניאליות, הרכב דתי, השכלה, שימוש באמצעי מניעה ומדדים נוספים; הוא מופיע גם במדדי דמוקרטיה אחרים, במקור נתונים חלופי ובמדגם של מדינות עניות. השהיית הפריון בשנה אחת ועד 36 שנים מותירה קשר מובהק, אך אינה הופכת את הניתוח התצפיתי לניסוי. המנגנונים עצמם אינם נמדדים, ומקרים כמו סין, רוסיה, קובה ואיחוד האמירויות מראים שפריון נמוך אינו תנאי מספיק לדמוקרטיה, במיוחד כשהירידה נובעת מכפייה מדינתית או מתרחשת לצד מוסדות סמכותניים. לכן תרומת המאמר היא בזיהוי דפוס רחב ובהצבת נשים במרכז הדמוגרפיה הפוליטית; היא אינה רישיון להסיק שמדיניות לצמצום לידות תייצר דמוקרטיה בלי זכויות, בחירה חופשית ומוסדות מאפשרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_party_types_personalized_politics_summary_he",
+      "file": "democracy_party_types_personalized_politics_summary_he.html",
+      "permalink": "/democracy_party_types_personalized_politics_summary_he.html",
+      "sortKey": 202608110004,
+      "titleHe": "חמש מפלגות בתוך רצף אחד: מי באמת מחזיק בכוח בעידן הפוליטיקה האישית?",
+      "paperTitle": "Party Types in the Age of Personalized Politics",
+      "authorsCardHe": "Gideon Rahat",
+      "sourceAuthors": [
+        "Gideon Rahat"
+      ],
+      "journal": "Perspectives on Politics, 22(1), 213–228",
+      "dateText": "פורסם מקוון: 22 במרץ 2022; מהדורת דפוס: מרץ 2024; כרך 22, גיליון 1, עמ׳ 213–228",
+      "doiUrl": "https://doi.org/10.1017/S1537592722000366",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_party_types_personalized_politics_summary_he.jpg",
+        "altHe": "איור מערכתי של מנהיג היושב במרכז שולחן מפלגתי מוקף נבחרים ופעילים, כשבניין פרלמנט נראה מבעד לחלון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "המפלגה המודרנית אינה תמיד גוף קולקטיבי שמנהיגו הוא רק ראשון בין שווים. גדעון רהט טוען שהפרסונליזציה של הפוליטיקה שינתה את מאזן הכוח בתוך מפלגות, ולכן טיפולוגיות שנבנו סביב מפלגות המונים, מפלגות חובקות־כול ומפלגות קרטל אינן מבחינות היטב בין דרכים שונות שבהן יחידים נעשים מרכז הכובד. המאמר מציע סיווג בעל קריטריון אחד: היחס בין הכוח האישי לבין הכוח הקולגיאלי. על הרצף ניצבים חמישה טיפוסים אידיאליים. בקצה הריכוזי נמצאות מפלגה אישית, השייכת למעשה למייסד־מנהיג, ומפלגת מנהיג, שבה בעל התפקיד דומיננטי מכוח כללים מפלגתיים. במרכז נמצאת המפלגה הקולגיאלית, שמוסדותיה מקבלים החלטות במשותף. בקצה המבוזר נמצאות מפלגת רשת של פוליטיקאים אוטונומיים ומפלגת תנועה של פעילים אוטונומיים. רהט מציע לזהות את הטיפוסים באמצעות חמישה תחומים: בחירת מועמדים, בחירת הנהגה, עיצוב מדיניות, סמכויות המנהיג ומעמד החברים. דוגמאות מאיטליה, צרפת, ישראל, ארצות הברית ומפלגות ירוקות מדגימות את הכלי, אך אינן מבחן כמותי שיטתי; מפלגות ממשיות משלבות לרוב כמה טיפוסים, והמבנה הרשמי עלול להסתיר את חלוקת הכוח בפועל. תרומתו הדמוקרטית של המאמר היא בהפרדת שתי תופעות שקל לבלבל ביניהן: ריכוז הכוח אצל מנהיג יחיד לעומת פיזורו בין פוליטיקאים או פעילים. הסיווג אינו קובע שכל מפלגה אישית היא פופוליסטית או שכל פרסונליזציה מובילה לנסיגה דמוקרטית, אך הוא מספק שפה וכלי מדידה לבדיקת שאלות כאלה במקום להניח את התשובה מראש.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_covid_constitutional_crisis_disproportionate_policy_summary_he",
+      "file": "democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.html",
+      "permalink": "/democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.html",
+      "sortKey": 202608110003,
+      "titleHe": "כשהקורונה פגשה משבר חוקתי: תגובות־יתר ותגובות־חסר בישראל",
+      "paperTitle": "When COVID-19, constitutional crisis, and political deadlock meet: the Israeli case from a disproportionate policy perspective",
+      "authorsCardHe": "Moshe Maor; Raanan Sulitzeanu-Kenan; David Chinitz",
+      "sourceAuthors": [
+        "Moshe Maor",
+        "Raanan Sulitzeanu-Kenan",
+        "David Chinitz"
+      ],
+      "journal": "Policy and Society, 39(3), 442–457",
+      "dateText": "פורסם מקוון: 7 ביולי 2020; כרך 39, גיליון 3, עמ׳ 442–457",
+      "doiUrl": "https://doi.org/10.1080/14494035.2020.1783792",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.jpg",
+        "altHe": "מבט רחב על מליאת הכנסת המלאה בעת ישיבה בשנת 2010",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "המאמר מתאר את התמודדות ישראל עם הגל הראשון של הקורונה בזמן ממשלת מעבר, שלוש מערכות בחירות בתוך כשנה, עימות בין הכנסת לבית המשפט העליון ומשפט פלילי שעמד להתחיל נגד ראש הממשלה בנימין נתניהו. משה מאור, רענן סוליציאנו־קינן ודוד חיניץ משתמשים במסגרת ׳תגובה לא־מידתית׳, המבחינה בין תגובת־יתר, תגובת־חסר והחלטות מידתיות, ושואלים כיצד אי־ודאות מאפשרת למנהיגים לשלב אינטרסים פוליטיים בהגדרת הבעיה ובבחירת הכלים. לטענתם, נתניהו השתמש ברטוריקת תגובת־יתר שהציגה סכנה קיומית והעניקה לגיטימציה לצעדים חריפים ולקריאה לממשלת חירום. הם מנתחים שלוש החלטות קונקרטיות: דחיית חובת הבידוד לשבים מארצות הברית לעומת מדינות אירופה; הטלת עוצר ארצי בפסח אף שנתוני תחלואה תמכו בהתמקדות במוקדים מסוימים; ומענק אחיד של 500 שקלים לילד, עד ארבעה ילדים, ללא מבחן הכנסה. המחברים מפרשים את הראשונה כתגובת־חסר מכוונת ואת השתיים האחרות כתגובות־יתר מכוונות, ומקשרים אותן לשימור היחסים עם ארצות הברית, להימנעות מסטיגמה ולשמירת שותפים חרדים, ולחלוקת משאבים שאינה ממוקדת בנזקקים ביותר. המאמר אינו טוען שכל צעד חריף היה לא־מידתי: הוא מכיר בכך שהסגר הראשוני נועד למנוע קריסה של מערכת בריאות שלא נערכה למגפה, ושמדיניות מידתית ולא־מידתית יכולה להופיע יחד. הראיות הן כרונולוגיה, נתונים שפורסמו בזמן אמת, מסמכים והצהרות פומביות, ולא ניסוי או גישה לדיונים חסויים; לכן ייחוס הכוונה והמניעים הוא טיעון פרשני שיש לשקול מול הסברים חלופיים. נקודת החיתוך היא 31 במאי 2020, כך שהמאמר מסביר את השלב הראשון בלבד ואינו מעריך את מהלך המגפה כולו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_women_mps_affective_polarization_summary_he",
+      "file": "democracy_women_mps_affective_polarization_summary_he.html",
+      "permalink": "/democracy_women_mps_affective_polarization_summary_he.html",
+      "sortKey": 202608110002,
+      "titleHe": "האם יותר חברות פרלמנט במפלגה מפחיתות את העוינות כלפיה?",
+      "paperTitle": "Can’t We All Just Get Along? How Women MPs Can Ameliorate Affective Polarization in Western Publics",
+      "authorsCardHe": "James Adams; David Bracken; Noam Gidron; Will Horne; Diana Z. O’Brien; Kaitlin Senk",
+      "sourceAuthors": [
+        "James Adams",
+        "David Bracken",
+        "Noam Gidron",
+        "Will Horne",
+        "Diana Z. O’Brien",
+        "Kaitlin Senk"
+      ],
+      "journal": "American Political Science Review, 117(1), 318–324",
+      "dateText": "פורסם מקוון: 14 ביוני 2022; כרך 117, גיליון 1, עמ׳ 318–324",
+      "doiUrl": "https://doi.org/10.1017/S0003055422000491",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_women_mps_affective_polarization_summary_he.jpg",
+        "altHe": "חברות פרלמנט בכנס חבר העמים בניירובי יושבות יחד בישיבת עבודה בשנת 2010",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "המאמר בוחן אם ההרכב המגדרי של מפלגות בפרלמנט קשור לקיטוב רגשי בציבור. ג׳יימס אדמס, דייוויד ברקן, נועם גדרון, ויל הורן, דיאנה ז׳ אובריאן וקייטלין סנק בנו מאגר של שיעור הנשים במשלחות הפרלמנטריות של 125 מפלגות ב־20 דמוקרטיות מערביות בשנים 1996–2017, וחיברו אותו לסקרי CSES שבהם תומכי מפלגות דירגו מפלגות אחרות בסולם חום של 0 עד 10. יחידת הניתוח היא צמד מכוון של מפלגת־פנים ומפלגת־חוץ בתוך מערכת בחירות, והמשתנה המרכזי הוא שיעור חברות הפרלמנט במפלגת־החוץ שנה קודם לכן. ב־1,842 צמדי מפלגות, שיעור נשים גבוה יותר נקשר לדירוג חם יותר של המפלגה היריבה גם לאחר בקרה על המרחק האידאולוגי, שותפות בקואליציה או באופוזיציה והשפעות קבועות של מדינה־שנה. מעבר משיעור 0.13 לשיעור 0.45 נשים — סטיית תקן אחת מתחת לממוצע ואחת מעליו — נקשר לעלייה חזויה של 0.55 נקודה בסולם, והקשר הופיע הן בקרב גברים והן בקרב נשים. בדיקות חלופיות לפי משפחת מפלגות, יחסיות שיטת הבחירות, תקופה, מגדר הנהגת המפלגה והרכב מפלגת־הפנים לא שינו את המסקנה העיקרית. עם זאת, זהו ניתוח תצפיתי: אין בו הוכחה שהגדלת מספר הנשים לבדה תפחית עוינות, והוא אינו מפריד בין התנהגות שיתופית של נבחרות, סטריאוטיפים מגדריים, העדפה לייצוג תיאורי וסיקור תקשורתי. המחברים גם מזהירים ש׳בונוס׳ כזה עשוי לסייע למפלגות קיצוניות לרכך את תדמיתן, בזמן שנשים נבחרות עצמן נושאות עלויות גבוהות של אלימות והטרדה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_representation_inequality_citizen_engagement_summary_he",
+      "file": "democracy_representation_inequality_citizen_engagement_summary_he.html",
+      "permalink": "/democracy_representation_inequality_citizen_engagement_summary_he.html",
+      "sortKey": 202608110001,
+      "titleHe": "מתי מעורבות אזרחית מלווה בייצוג מדויק יותר של העדפות הציבור?",
+      "paperTitle": "Representation in an Era of Political and Economic Inequality: How and When Citizen Engagement Matters",
+      "authorsCardHe": "Jan E. Leighley; Jennifer Oser",
+      "sourceAuthors": [
+        "Jan E. Leighley",
+        "Jennifer Oser"
+      ],
+      "journal": "Perspectives on Politics, 16(2), 328–344",
+      "dateText": "פורסם מקוון: 6 בדצמבר 2017; כרך 16, גיליון 2, עמ׳ 328–344",
+      "doiUrl": "https://doi.org/10.1017/S1537592717003073",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_representation_inequality_citizen_engagement_summary_he.jpg",
+        "altHe": "איור של אזרחים מרמות הכנסה שונות הפונים לנציגת ציבור, כשפתקי מדיניות מחברים בין עמדותיהם להצבעתה בפרלמנט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "summaryHe": "המאמר שואל אם אזרחים יכולים לשפר את התאמתן של הצבעות נבחריהם לעמדותיהם באמצעות השתתפות פוליטית, או שהכנסה גבוהה היא שמקנה את יתרון הייצוג העיקרי. ג׳אן א׳ ליילי וג׳ניפר אוסר מחברות בין נתוני סקר הבחירות הקואופרטיבי לקונגרס משנת 2012 לבין הצבעות שמיות של חברי בית הנבחרים בארבע סוגיות: ביטול חוק ביטוח הבריאות, צינור Keystone XL, ביטול מדיניות ׳אל תשאל, אל תספר׳ והסכם הסחר עם קוריאה. הן מודדות התאמת העדפות ברמת צמד אזרח–נציג ומתמקדות גם במחוזות שבהם משתתפים ולא־משתתפים העדיפו עמדות מנוגדות. ההצבעה נקשרה להתאמה גבוהה יותר בחוק הבריאות וב־Keystone XL, אך השתתפות מעבר להצבעה סיפקה דפוס עקבי של התאמה משופרת רק בחוק הבריאות. בסוגיה זו פעילות נוספת נקשרה לעלייה בהתאמה בכל רמות ההכנסה, והפער הגדול ביותר בין פעילים ללא־פעילים הופיע בקרב בעלי ההכנסה הנמוכה; עם זאת, יתרונות רבים הותנו בשותפות מפלגתית בין האזרח לנציג. המחברות מדגישות שהממצאים הם תלויי־סוגיה ואינם מזהים כיוון סיבתי: התאמה יכולה לנבוע מתגובת הנציג, מבחירת נציג דומה, מהשפעת האליטות על עמדות הציבור או משילוב ביניהם. לכן המאמר מציע תקווה מסויגת: פעילות אזרחית עשויה לצמצם אי־שוויון בייצוג, אך אין ראיה שהיא עושה זאת באופן כללי מחוץ לסוגיות בולטות, מפלגתיות ומגייסות במיוחד.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_supreme_court_corruption_integrity_salience_voting_summary_he",
       "file": "democracy_supreme_court_corruption_integrity_salience_voting_summary_he.html",

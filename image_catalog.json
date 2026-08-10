@@ -32981,6 +32981,289 @@
       "provider": "Wikimedia Commons / Israel Government Press Office National Photo Collection",
       "fileTitle": "Flickr - Government Press Office (GPO) - SUPREME COURT JUSTICES YAACOV MALTZ, SHOSHANA NETANYAHU ELIEZER GOLDBERG.jpg",
       "sourceDimensions": "3072x2048"
+    },
+    {
+      "file": "html_qa/democracy_representation_inequality_citizen_engagement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_representation_inequality_citizen_engagement_summary_he.html",
+      "usedBy": [
+        "democracy_representation_inequality_citizen_engagement_summary_he.html"
+      ],
+      "cardTitleHe": "מתי מעורבות אזרחית מלווה בייצוג מדויק יותר של העדפות הציבור?",
+      "authorsHe": "Jan E. Leighley; Jennifer Oser",
+      "visualDescriptionHe": "אזרחים מרקעים שונים ונציגת ציבור דנים סביב שולחן במפת קהילה ובמסמכי מדיניות.",
+      "semanticDescriptionHe": "השיחה הישירה ממחישה את הקשר האפשרי בין השתתפות אזרחית להתאמת ייצוג; הדמויות, המוסד והמסמכים בדיוניים ואינם משתתפי סקר CCES או הצבעת קונגרס שנחקרה.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "political_representation",
+        "citizen_engagement",
+        "economic_inequality"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-engagement scene generated without text, logos, or identifiable institutions and finished as an 800x600 progressive JPEG. Standard fitness because it depicts citizen-representative interaction but not the paper's exact U.S. roll-call cases or measured income gaps.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_women_mps_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_women_mps_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_women_mps_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "האם יותר חברות פרלמנט במפלגה מפחיתות את העוינות כלפיה?",
+      "authorsHe": "James Adams; David Bracken; Noam Gidron; Will Horne; Diana Z. O’Brien; Kaitlin Senk",
+      "visualDescriptionHe": "חברות פרלמנט מהודו יושבות יחד בישיבת העבודה של Commonwealth Women Parliamentarians בניירובי בשנת 2010.",
+      "semanticDescriptionHe": "הצילום ממחיש נוכחות ושיתוף פעולה של נשים נבחרות במוסד בין־פרלמנטרי; הוא אינו מתעד מפלגה או מערכת בחירות מתוך 20 הדמוקרטיות המערביות שנחקרו ואינו ראיה להפחתת קיטוב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_mps",
+        "affective_polarization",
+        "descriptive_representation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of women parliamentarians in a working meeting, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because the event is outside the study's Western-democracy sample and provides contextual rather than case-specific evidence.",
+      "createdDate": "2026-08-11",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Ministry of Parliamentary Affairs, Government of India",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Speaker,_Lok_Sabha,_Smt._Meira_Kumar_attending_the_Commonwealth_Women_Parliamentarians_(CWP)_Business_Meeting_with_other_Indian_delegates,_in_Nairobi,_Kenya_on_September_17,_2010.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Speaker%2C_Lok_Sabha%2C_Smt._Meira_Kumar_attending_the_Commonwealth_Women_Parliamentarians_%28CWP%29_Business_Meeting_with_other_Indian_delegates%2C_in_Nairobi%2C_Kenya_on_September_17%2C_2010.jpg",
+      "license": "GODL-India",
+      "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "creator": "Ministry of Parliamentary Affairs, Government of India",
+      "provider": "Wikimedia Commons / Press Information Bureau, Government of India",
+      "fileTitle": "The Speaker, Lok Sabha, Smt. Meira Kumar attending the Commonwealth Women Parliamentarians (CWP) Business Meeting with other Indian delegates, in Nairobi, Kenya on September 17, 2010.jpg",
+      "sourceDimensions": "2200x1473"
+    },
+    {
+      "file": "html_qa/democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.html",
+      "usedBy": [
+        "democracy_covid_constitutional_crisis_disproportionate_policy_summary_he.html"
+      ],
+      "cardTitleHe": "כשהקורונה פגשה משבר חוקתי: תגובות־יתר ותגובות־חסר בישראל",
+      "authorsHe": "Moshe Maor; Raanan Sulitzeanu-Kenan; David Chinitz",
+      "visualDescriptionHe": "מבט רחב על מליאת הכנסת המלאה בעת ישיבה בשנת 2010.",
+      "semanticDescriptionHe": "הצילום מעגן את הדיון במוסד הפרלמנטרי הישראלי ובפיקוח על הממשלה; הוא קדם למגפת הקורונה ואינו מתעד את החלטות 2020, את נתוני התחלואה או את העימות החוקתי שניתח המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "covid_19",
+        "knesset",
+        "emergency_governance",
+        "disproportionate_policy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of the Knesset plenum, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it depicts the relevant democratic institution but not the COVID-19 emergency or the specific 2020 decisions.",
+      "createdDate": "2026-08-11",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Itzik Edri / PikiWiki Israel",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "creator": "Itzik Edri",
+      "provider": "Wikimedia Commons / PikiWiki Israel",
+      "fileTitle": "PikiWiki Israel 7260 Knesset-Room.jpg",
+      "sourceDimensions": "1500x1000"
+    },
+    {
+      "file": "html_qa/democracy_party_types_personalized_politics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_party_types_personalized_politics_summary_he.html",
+      "usedBy": [
+        "democracy_party_types_personalized_politics_summary_he.html"
+      ],
+      "cardTitleHe": "חמש מפלגות בתוך רצף אחד: מי באמת מחזיק בכוח בעידן הפוליטיקה האישית?",
+      "authorsHe": "Gideon Rahat",
+      "visualDescriptionHe": "מנהיג יושב במרכז ישיבת מפלגה בעוד חברי הנהגה ופעילים דנים במסמכים סביבו.",
+      "semanticDescriptionHe": "האיזון בין המנהיג לצוות ממחיש את רצף הכוח האישי והקולגיאלי בטיפולוגיית המפלגות; הדמויות והמפלגה בדיוניות ואינן אחת מן הדוגמאות הלאומיות במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "party_types",
+        "personalized_politics",
+        "intraparty_power"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific party-meeting scene generated without text, logos, flags, or a recognizable real politician and finished as an 800x600 progressive JPEG. High fitness because the composition directly centers the paper's leader-versus-collective balance.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_fertility_women_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_fertility_women_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_fertility_women_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "ירידה בפריון נקשרה להתחזקות דמוקרטית ביותר מ־140 מדינות",
+      "authorsHe": "Udi Sommer",
+      "visualDescriptionHe": "נשים מדורות שונים, ובהן אם לפעוט, משתתפות סביב שולחן בתכנון קהילתי.",
+      "semanticDescriptionHe": "שילוב הטיפול במשפחה עם פעולה ציבורית ממחיש את מנגנוני ההשכלה, התעסוקה וההשתתפות שמציע המאמר; הדמויות אינן נבדקות מן המאגר ההשוואתי והאיור אינו מציג קשר סיבתי מוכח.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "fertility",
+        "women",
+        "democratization",
+        "political_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific multigenerational civic scene generated without text, logos, or demographic charting and finished as an 800x600 progressive JPEG. High fitness because it connects women's family lives to the proposed public-participation mechanisms without reducing the subject to a fertility symbol.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_efficacy_inequality_46_countries_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_efficacy_inequality_46_countries_summary_he.html",
+      "usedBy": [
+        "democracy_political_efficacy_inequality_46_countries_summary_he.html"
+      ],
+      "cardTitleHe": "השכלה והכנסה נקשרו לתחושת השפעה פוליטית; ייצוג נשים נקשר לצמצום הפער המגדרי",
+      "authorsHe": "Jennifer Oser; Fernando Feitosa; Ruth Dassonneville",
+      "visualDescriptionHe": "אישה מובילה דיון באספה אזרחית מגוונת, ואזרחים רבים מרימים ידיים כדי להשתתף.",
+      "semanticDescriptionHe": "האפשרות לדבר, להבין ולהישמע ממחישה מסוגלות פוליטית פנימית וחיצונית ואת פערי הגישה ביניהן; הדמויות והאספה בדיוניות ואינן משיבים מסקרי ISSP.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "political_efficacy",
+        "socioeconomic_inequality",
+        "women_representation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-forum scene generated without text, logos, or identifiable institutions and finished as an 800x600 progressive JPEG. High fitness because it directly depicts perceived competence, voice, participation, and women's visible representation.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_populism_affective_partisan_space_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populism_affective_partisan_space_summary_he.html",
+      "usedBy": [
+        "democracy_populism_affective_partisan_space_summary_he.html"
+      ],
+      "cardTitleHe": "לא רק ימין ושמאל: פופוליזם מסדר את מפת הרגשות בין מפלגות",
+      "authorsHe": "Sam Fuller; Will Horne; James Adams; Noam Gidron",
+      "visualDescriptionHe": "שני מחנות פוליטיים בצבעים חמים וקרים ניצבים בכיכר ציבורית, ואזרחים משני הצדדים משוחחים במרכז.",
+      "semanticDescriptionHe": "המחנות והמרחב המשותף ממחישים מרחק רגשי וציר מפלגתי נוסף מעבר לימין־שמאל; כל הדמויות, הצבעים והקבוצות בדיוניים ואינם מפלגות או משיבים מתשע המדינות.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "populism",
+        "affective_polarization",
+        "party_systems",
+        "europe"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific cross-camp public-square scene generated without text, party emblems, flags, or violence and finished as an 800x600 progressive JPEG. High fitness because it directly visualizes emotionally separated partisan publics and a contested shared middle.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_affective_fractionalization_party_systems_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_affective_fractionalization_party_systems_summary_he.html",
+      "usedBy": [
+        "democracy_affective_fractionalization_party_systems_summary_he.html"
+      ],
+      "cardTitleHe": "כמה חמים המפגשים הפוליטיים? קיטוב תלוי גם בסיכוי לפגוש יריב",
+      "authorsHe": "Ansgar Hudde; Will Horne; James Adams; Noam Gidron",
+      "visualDescriptionHe": "קבוצות קטנות רבות של אזרחים משוחחות ונפגשות בכיכר ובבית קפה שכונתי.",
+      "semanticDescriptionHe": "ריבוי הקבוצות ומסלולי המפגש ממחישים שהחיכוך תלוי גם בפיצול המפלגתי ובהסתברות לפגוש יריב, ולא רק בעוצמת העוינות; הקבוצות בדיוניות ואינן מדגם CSES.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "affective_fractionalization",
+        "affective_polarization",
+        "party_fragmentation",
+        "political_interactions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific multiparty encounter scene generated without charts, labels, party marks, or text and finished as an 800x600 progressive JPEG. High fitness because its many intersecting groups closely convey encounter probability across a fragmented party system.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_personalization_party_politics_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_personalization_party_politics_summary_he.html",
+      "usedBy": [
+        "democracy_political_personalization_party_politics_summary_he.html"
+      ],
+      "cardTitleHe": "מתי הפוליטיקה באמת נעשית אישית? מסגרת למדידת פרסונליזציה",
+      "authorsHe": "Helene Helboe Pedersen; Gideon Rahat",
+      "visualDescriptionHe": "מצלמות וטלפונים מתמקדים בפוליטיקאית אחת בחדר קמפיין, בעוד צוות מפלגתי גדול עובד מאחוריה.",
+      "semanticDescriptionHe": "הפער בין מוקד המדיה על היחידה לבין העבודה הקולקטיבית ממחיש מדוע יש למדוד אדם ביחס למפלגה ובכמה זירות; הדמות, הצוות והקמפיין בדיוניים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "political_personalization",
+        "media",
+        "party_organization",
+        "leadership"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific campaign-and-media scene generated without readable slogans, logos, flags, or a real politician and finished as an 800x600 progressive JPEG. High fitness because it directly contrasts individual media visibility with collective party work.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_green_policy_backlash_voting_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_green_policy_backlash_voting_summary_he.html",
+      "usedBy": [
+        "democracy_green_policy_backlash_voting_summary_he.html"
+      ],
+      "cardTitleHe": "כשמדיניות ירוקה מטילה עלות לא־שווה, המחיר עשוי להופיע בקלפי",
+      "authorsHe": "Italo Colantone; Livio Di Lonardo; Yotam Margalit; Marco Percoco",
+      "visualDescriptionHe": "בעל מכונית ישנה מתלבט לצד רחוב ירוק עם חשמלית ואופניים, ובקרבתו מתקיים שולחן שיתוף ציבור.",
+      "semanticDescriptionHe": "המכונית, חלופות התחבורה והדיון העירוני ממחישים את המתח בין תועלת סביבתית לעלות מעבר מרוכזת ולפיצוי; העיר, התושבים והפקידים בדיוניים ואינם משתתפי סקר מילאנו.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence",
+        "green_policy",
+        "electoral_backlash",
+        "distributional_costs",
+        "compensation",
+        "milan"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific green-transport transition scene generated without brands, license text, road-sign text, party marks, or identifiable landmarks and finished as an 800x600 progressive JPEG. High fitness because it directly combines the vehicle owner's concentrated cost, public benefits, and municipal consultation.",
+      "createdDate": "2026-08-11",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
