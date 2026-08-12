@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-10",
+  "lastUpdated": "2026-08-13",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -33263,6 +33263,295 @@
       "createdDate": "2026-08-11",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-11 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_private_funding_parties_press_buying_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_private_funding_parties_press_buying_summary_he.html",
+      "usedBy": [
+        "democracy_private_funding_parties_press_buying_summary_he.html"
+      ],
+      "cardTitleHe": "כשהון פרטי קונה השפעה — ממימון מפלגות למימון העיתונות",
+      "authorsHe": "Iddo Porat",
+      "visualDescriptionHe": "מבט פנימי אל אולם השופטים בבית המשפט החוקתי של דרום אפריקה.",
+      "semanticDescriptionHe": "הצילום מעגן את הדיון במוסד שפסיקת My Vote Counts שלו עומדת במרכז המאמר; הוא אינו מציג תורם, מפלגה, מערכת עיתון או עסקת מימון מסוימת.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "campaign_finance",
+        "disclosure",
+        "press",
+        "south_africa"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of South Africa's Constitutional Court, resized and finished as an 800x600 progressive JPEG. Standard fitness because it supplies the exact institutional setting but does not visualize private funding itself.",
+      "createdDate": "2026-08-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Wikimedia Commons / Ijon",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_South_Africa_judges_view.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Constitutional_Court_of_South_Africa_judges_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Ijon",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Constitutional Court of South Africa judges view.jpg",
+      "sourceDimensions": "3264x2448"
+    },
+    {
+      "file": "html_qa/democracy_human_shielding_civilian_space_liberal_war_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_shielding_civilian_space_liberal_war_summary_he.html",
+      "usedBy": [
+        "democracy_human_shielding_civilian_space_liberal_war_summary_he.html"
+      ],
+      "cardTitleHe": "מתי אזרח נעשה ״מגן אנושי״ — משפט, מרחב והצדקת אלימות במלחמה",
+      "authorsHe": "Neve Gordon; Nicola Perugini",
+      "visualDescriptionHe": "חוקרים ומשפטנים בוחנים שכבות של מפה אווירית מעל עיר בדיונית צפופה בשעת דמדומים.",
+      "semanticDescriptionHe": "המפה והשכבות ממחישות כיצד הגדרת המרחב משנה את סיווג האזרחים ואת טיעוני האחריות; העיר והדמויות בדיוניות ואינן תיעוד של עזה או של אירוע לחימה.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "human_shields",
+        "civilian_space",
+        "international_humanitarian_law",
+        "urban_warfare"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific research-and-mapping scene generated without graphic violence, military insignia, readable labels, flags, logos, or a recognizable city and finished as an 800x600 progressive JPEG. High fitness because it directly conveys the paper's spatial and legal analysis.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_economic_insecurity_populism_reconsidered_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_economic_insecurity_populism_reconsidered_summary_he.html",
+      "usedBy": [
+        "democracy_economic_insecurity_populism_reconsidered_summary_he.html"
+      ],
+      "cardTitleHe": "האם אי־ביטחון כלכלי באמת מסביר את עליית הפופוליזם?",
+      "authorsHe": "Yotam Margalit",
+      "visualDescriptionHe": "תושבים מתכנסים לדיון באולם קהילתי באזור תעשייה מתיישן, בין בית מלאכה ישן לשוק חדש.",
+      "semanticDescriptionHe": "המרחב המשתנה והדיון הקהילתי מחברים בין חשיפה כלכלית, שינוי חברתי והכרעות פוליטיות בלי להציג גורם יחיד כהסבר מלא; המקום והתושבים בדיוניים.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity",
+        "economic_insecurity",
+        "populism",
+        "cultural_threat",
+        "globalization"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific postindustrial community scene generated without party marks, campaign text, brands, flags, or identifiable locations and finished as an 800x600 progressive JPEG. High fitness because it keeps economic change, identity, and political discussion visible together.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_expressive_citizenship_youth_social_media_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_expressive_citizenship_youth_social_media_summary_he.html",
+      "usedBy": [
+        "democracy_expressive_citizenship_youth_social_media_summary_he.html"
+      ],
+      "cardTitleHe": "אזרחות אקספרסיבית: צעירים, רשתות חברתיות ודמוקרטיה",
+      "authorsHe": "Neta Kligler-Vilenchik; Ioana Literat",
+      "visualDescriptionHe": "צעירים יוצרים יחד תוכן אזרחי בטלפונים, במחשב ובחומרי אמנות במהלך מעגל דיון.",
+      "semanticDescriptionHe": "השילוב בין יצירה אישית, הפצה דיגיטלית והקשבה פנים אל פנים ממחיש אזרחות אקספרסיבית ואת המתח בין קול לבין דיאלוג; המשתתפים בדיוניים.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "expressive_citizenship",
+        "youth",
+        "social_media",
+        "political_expression"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific youth media-making scene generated without platform logos, readable posts, brands, slogans, or real public figures and finished as an 800x600 progressive JPEG. High fitness because it directly combines expression, circulation, creativity, and listening.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_national_stories_political_representation_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_national_stories_political_representation_israel_summary_he.html",
+      "usedBy": [
+        "democracy_national_stories_political_representation_israel_summary_he.html"
+      ],
+      "cardTitleHe": "תחושת ייצוג פוליטי וסיפורים לאומיים: המקרה הישראלי",
+      "authorsHe": "Yael R. Kaplan; Tamir Sheafer; Israel Waismel-Manor; Shaul R. Shenhav",
+      "visualDescriptionHe": "דוד בן־גוריון חותם על מגילת העצמאות במוזיאון תל אביב ב־14 במאי 1948.",
+      "semanticDescriptionHe": "הצילום מתעד את חתימת הטקסט המכונן שהמחקר משווה לסיפורים שסיפרו משיבים; הוא אינו מתעד את סקר הבחירות הישראלי ואינו מוכיח כיצד אזרחים חווים ייצוג.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "political_representation",
+        "national_narratives",
+        "declaration_of_independence",
+        "israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained historical documentary photograph of the signing of Israel's Declaration of Independence, center-cropped and finished as an 800x600 progressive JPEG. High fitness because the declaration is the study's specific benchmark national story.",
+      "createdDate": "2026-08-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Israel National Photo Collection / Government Press Office / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Ben_Gurion_(Left)_Signing_the_Declaration_of_Independence.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flickr_-_Government_Press_Office_%28GPO%29_-_Ben_Gurion_%28Left%29_Signing_the_Declaration_of_Independence.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "Government Press Office (Israel)",
+      "provider": "Israel National Photo Collection / Government Press Office / Wikimedia Commons",
+      "fileTitle": "Flickr - Government Press Office (GPO) - Ben Gurion (Left) Signing the Declaration of Independence.jpg",
+      "sourceDimensions": "3038x2033"
+    },
+    {
+      "file": "html_qa/democracy_religious_rights_military_evenhandedness_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_rights_military_evenhandedness_summary_he.html",
+      "usedBy": [
+        "democracy_religious_rights_military_evenhandedness_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות דת בצבא: בין יחס שווה לאקומניזם",
+      "authorsHe": "Nahshon Perez",
+      "visualDescriptionHe": "איש דת צבאי מנהל תפילה לחיילים במחנה רריטן שבניו ג׳רזי, בסביבות 1920.",
+      "semanticDescriptionHe": "הצילום מדגים כיצד מוסד צבאי מארגן בפועל שירות דתי לאנשיו; הוא מתעד הקשר אמריקאי־יהודי היסטורי ולא את צה״ל, את סוגיית הקבורה או השוואת המודלים במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "religious_freedom",
+        "military",
+        "chaplaincy",
+        "evenhandedness"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained historical documentary photograph of a military religious service, lightly cropped and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates institutional provision but represents one faith, country, and period rather than the paper's comparative normative models.",
+      "createdDate": "2026-08-13",
+      "sourceType": "wikimedia_commons",
+      "source": "Center for Jewish History / Flickr Commons / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chaplain_presiding_over_religious_service_with_soldiers_at_Camp_Raritan,_circa_1920_(4863356311).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chaplain_presiding_over_religious_service_with_soldiers_at_Camp_Raritan%2C_circa_1920_%284863356311%29.jpg",
+      "license": "No known copyright restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "creator": "Unknown photographer",
+      "provider": "Center for Jewish History / Flickr Commons / Wikimedia Commons",
+      "fileTitle": "Chaplain presiding over religious service with soldiers at Camp Raritan, circa 1920 (4863356311).jpg",
+      "sourceDimensions": "700x557"
+    },
+    {
+      "file": "html_qa/democracy_religious_discrimination_christian_democracies_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religious_discrimination_christian_democracies_summary_he.html",
+      "usedBy": [
+        "democracy_religious_discrimination_christian_democracies_summary_he.html"
+      ],
+      "cardTitleHe": "חופש דת על הנייר, אפליה בפועל: הפרדוקס של דמוקרטיות נוצריות עשירות",
+      "authorsHe": "Jonathan Fox",
+      "visualDescriptionHe": "תושבים מרקעים מגוונים ממתינים באולם שירות ציבורי המחולק למסלולים שאינם שוויוניים לגמרי.",
+      "semanticDescriptionHe": "המסלולים הדומים אך הלא־שווים ממחישים כיצד אפליה מוסדית עשויה להימשך בתוך מסגרת דמוקרטית; האולם והתושבים בדיוניים ואינם תצפית ממדינה במדגם RASM3.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "religious_discrimination",
+        "religious_minorities",
+        "christian_majority_democracies",
+        "rasm3"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-service scene generated without religious stereotypes, flags, official seals, readable labels, or identifiable jurisdictions and finished as an 800x600 progressive JPEG. High fitness because unequal administrative treatment is the paper's core comparative outcome.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_backsliding_womens_economic_rights_deflection_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_backsliding_womens_economic_rights_deflection_summary_he.html",
+      "usedBy": [
+        "democracy_backsliding_womens_economic_rights_deflection_summary_he.html"
+      ],
+      "cardTitleHe": "להסיט את הביקורת: נסיגה דמוקרטית ורפורמות בזכויות הכלכליות של נשים",
+      "authorsHe": "Sara Kahn-Nisser",
+      "visualDescriptionHe": "נשים מקבלות סיוע עסקי בחזית, בעוד פקידים מסירים מאחור תיקי פיקוח ומחלישים מנגנוני ביקורת.",
+      "semanticDescriptionHe": "שתי שכבות הפעולה ממחישות רפורמה כלכלית נראית לעין לצד שחיקת פיקוח פוליטי, כמנגנון אפשרי להסטת ביקורת; הדמויות והמוסדות בדיוניים.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "democratic_backsliding",
+        "womens_economic_rights",
+        "international_criticism",
+        "deflection"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific two-layer reform-and-oversight scene generated without flags, logos, identifiable officials, readable file labels, or real institutions and finished as an 800x600 progressive JPEG. High fitness because the visual contrast directly captures the deflection mechanism.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_populist_foreign_policy_latin_america_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populist_foreign_policy_latin_america_summary_he.html",
+      "usedBy": [
+        "democracy_populist_foreign_policy_latin_america_summary_he.html"
+      ],
+      "cardTitleHe": "לא בידוד ולא פתיחות: כיצד מנהיגים פופוליסטים בוחרים מתי לאמץ את העולם",
+      "authorsHe": "Daniel F. Wajner; Leslie Wehner",
+      "visualDescriptionHe": "מנהיגים נעים בין שולחן מדיני לשולחן דיפלומטי, לצד דלת פתוחה ודלת סגורה למחצה.",
+      "semanticDescriptionHe": "הדלתות והזירות המקבילות ממחישות אימוץ או דחייה בררניים של ״הבין־לאומי״ לפי צורכי לגיטימציה פנימיים; המדינה והמנהיגים בדיוניים ואינם דיוקנאות של בולסונארו או לופס אוברדור.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "populism",
+        "foreign_policy",
+        "latin_america",
+        "international_legitimation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific domestic-and-diplomatic scene generated without flags, country outlines, logos, slogans, recognizable politicians, or readable documents and finished as an 800x600 progressive JPEG. High fitness because it makes selective international engagement visible without reducing it to isolationism.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_public_conceptions_corruption_measurement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_conceptions_corruption_measurement_summary_he.html",
+      "usedBy": [
+        "democracy_public_conceptions_corruption_measurement_summary_he.html"
+      ],
+      "cardTitleHe": "מה הציבור מכנה שחיתות פוליטית — ואיך מודדים את גבולות המושג",
+      "authorsHe": "Doron Navot; Itai Beeri",
+      "visualDescriptionHe": "אזרחים בסדנה קהילתית ממיינים כרטיסי תרחישים מופשטים סביב שולחן ארוך.",
+      "semanticDescriptionHe": "המיון והדיון ממחישים את בניית כלי המדידה מתוך שיפוטים של הציבור על מגוון התנהגויות; המשתתפים והכרטיסים בדיוניים ואינם משיבי הסקר או נוסח התרחישים המקורי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "political_corruption",
+        "public_conceptions",
+        "measurement",
+        "survey_vignettes"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic classification workshop generated without readable labels, logos, flags, real officials, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly represents respondents distinguishing gradations of political corruption.",
+      "createdDate": "2026-08-13",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
       "license": "Generated site asset"
     }
   ],
