@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -26175,6 +26175,295 @@
       "createdDate": "2026-07-18",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-07-18 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_dobbs_gender_voter_registration_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_dobbs_gender_voter_registration_summary_he.html",
+      "usedBy": [
+        "democracy_dobbs_gender_voter_registration_summary_he.html"
+      ],
+      "cardTitleHe": "אחרי דובס: כיצד השתנה פער הרישום להצבעה בין נשים לגברים?",
+      "authorsHe": "Udi Sommer; Or Rappel-Kroyzer; Amy Adamczyk; Lindsay Lerner; Anna Weiner",
+      "visualDescriptionHe": "נשים מרקעים שונים משלימות טופסי רישום לבחירות במשרד אזרחי מקומי.",
+      "semanticDescriptionHe": "סצנת הרישום ממחישה את מדד ההתנהגות המנהלי שבאמצעותו המאמר בוחן את הקשר בין פסיקת דובס לבין פערים מגדריים ברישום לבחירות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "voter_registration",
+        "gender_gap",
+        "Dobbs",
+        "2022_midterms"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific county voter-registration scene generated without readable text, logos, flags, real officials, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly depicts the administrative behavior measured in the study.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_religiosity_minority_social_discrimination_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_religiosity_minority_social_discrimination_summary_he.html",
+      "usedBy": [
+        "democracy_religiosity_minority_social_discrimination_summary_he.html"
+      ],
+      "cardTitleHe": "דתיות, ברית ותחרות: מדוע דפוסי האפליה כלפי מיעוטים דתיים מתהפכים?",
+      "authorsHe": "Jonathan Fox; Roger Finke; Dane R. Mataic",
+      "visualDescriptionHe": "אזרחים המשתייכים לקהילות דתיות שונות ממתינים לקבלת שירות באולם ציבורי משותף.",
+      "semanticDescriptionHe": "המפגש בין בני קהילות שונות במוסד אזרחי ממחיש את שאלת היחס החברתי למיעוטים דתיים ואת ההבחנה בין ברית בין־דתית לתחרות פנים־דתית.",
+      "tags": [
+        "rights-equality-minorities",
+        "religious_minorities",
+        "societal_discrimination",
+        "religiosity",
+        "religious_freedom"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific interfaith civic-service scene generated without readable text, logos, flags, real officials, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly represents distinct religious communities encountering a shared social institution.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_urban_citizenship_fragmented_right_to_city_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_urban_citizenship_fragmented_right_to_city_summary_he.html",
+      "usedBy": [
+        "democracy_urban_citizenship_fragmented_right_to_city_summary_he.html"
+      ],
+      "cardTitleHe": "למי שייכת העיר? כשהתביעות לאזרחות עירונית מתפצלות",
+      "authorsHe": "Talja Blokland; Christine Hentschel; Andrej Holm; Henrik Lebuhn; Talia Margalit",
+      "visualDescriptionHe": "תושבים מציגים שאלה לנבחרי ציבור במפגש קהילתי פתוח בסיאטל.",
+      "semanticDescriptionHe": "המפגש העירוני ממחיש השתתפות תושבים, משא ומתן על מרחב משותף ותביעות אזרחיות מקומיות, בלי לייחס למצולמים את עמדות המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "urban_citizenship",
+        "right_to_the_city",
+        "community_meeting",
+        "local_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary community-meeting photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it closely represents urban participation but documents a different city and event from the cases discussed in the paper.",
+      "createdDate": "2026-08-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Seattle City Council via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Seattle_City_Council_Community_Meeting,_2010_(9017202109).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Seattle_City_Council_Community_Meeting%2C_2010_%289017202109%29.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "creator": "Seattle City Council",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Seattle City Council Community Meeting, 2010 (9017202109).jpg",
+      "sourceDimensions": "1024x784"
+    },
+    {
+      "file": "html_qa/democracy_subliminal_national_flag_political_behavior_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_subliminal_national_flag_political_behavior_summary_he.html",
+      "usedBy": [
+        "democracy_subliminal_national_flag_political_behavior_summary_he.html"
+      ],
+      "cardTitleHe": "דגל מתחת לסף המודעות: רמז לאומי צמצם פערים פוליטיים ונקשר גם להצבעה",
+      "authorsHe": "Ran R. Hassin; Melissa J. Ferguson; Daniella Shidlovski; Tamar Gross",
+      "visualDescriptionHe": "משתתפת בניסוי צופה בגירוי חזותי מופשט וקצר בזמן שחוקרות מתבוננות מחדר בקרה.",
+      "semanticDescriptionHe": "מערך המעבדה ממחיש הטרמה חזותית מוסווית ומדידה מבוקרת של השפעת סמל לאומי על שיפוט פוליטי.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "subliminal_priming",
+        "national_flag",
+        "political_behavior",
+        "voting"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific masked-priming laboratory scene generated with an abstract red-blue-white stimulus rather than a literal flag, and without readable text, logos, real participants, charts, or numerical scales. Finished as an 800x600 progressive JPEG; high fitness because it directly depicts the experimental setup.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_arab_spring_social_media_politics_first_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_spring_social_media_politics_first_summary_he.html",
+      "usedBy": [
+        "democracy_arab_spring_social_media_politics_first_summary_he.html"
+      ],
+      "cardTitleHe": "המחאה קדמה לזינוק ברשתות: האביב הערבי מלמד שהפוליטיקה באה ראשונה",
+      "authorsHe": "Gadi Wolfsfeld; Elad Segev; Tamir Sheafer",
+      "visualDescriptionHe": "מפגינים בכיכר תחריר מטעינים יחד טלפונים ניידים באמצעות מערך מאולתר של כבלים.",
+      "semanticDescriptionHe": "תשתית הטעינה הקולקטיבית ממחישה את השימוש המעשי בטלפונים בזמן מחאה, בלי לטעון שהטכנולוגיה לבדה חוללה את ההתקוממות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "Arab_Spring",
+        "social_media",
+        "Tahrir_Square",
+        "protest"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of protesters charging phones in Tahrir Square, center-cropped to exclude the source watermark and finished as an 800x600 progressive JPEG. Standard fitness because it directly shows protest communication infrastructure but cannot itself establish the paper's causal ordering.",
+      "createdDate": "2026-08-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Alisdare Hickson via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tahrir_Square_-_Protesters_Charging_Mobile_Phones_(6620193705).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tahrir_Square_-_Protesters_Charging_Mobile_Phones_%286620193705%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "creator": "Alisdare Hickson",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Tahrir Square - Protesters Charging Mobile Phones (6620193705).jpg",
+      "sourceDimensions": "1633x1689"
+    },
+    {
+      "file": "html_qa/democracy_popular_culture_youth_cross_cutting_talk_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_popular_culture_youth_cross_cutting_talk_summary_he.html",
+      "usedBy": [
+        "democracy_popular_culture_youth_cross_cutting_talk_summary_he.html"
+      ],
+      "cardTitleHe": "פורטנייט כזירת ויכוח פוליטי: תרבות פופולרית פתחה שיחה אך כמעט לא גישרה בין מחנות",
+      "authorsHe": "Ioana Literat; Neta Kligler-Vilenchik",
+      "visualDescriptionHe": "צעירים מרקעים שונים משוחחים סביב שולחן יצירה ומשחק כשעולם דיגיטלי בדיוני מוקרן ברקע.",
+      "semanticDescriptionHe": "השילוב בין מרחב משחקי לשיחה קבוצתית ממחיש כיצד תרבות פופולרית עשויה לספק נקודת כניסה לביטוי פוליטי קולקטיבי ולמפגש עם דעות שונות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "popular_culture",
+        "youth",
+        "cross_cutting_talk",
+        "social_media"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific youth discussion and fictional game-community scene generated without readable text, logos, real participants, real platforms, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly joins popular culture, collective expression, and cross-cutting talk.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_ceo_partisanship_political_spending_transparency_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ceo_partisanship_political_spending_transparency_summary_he.html",
+      "usedBy": [
+        "democracy_ceo_partisanship_political_spending_transparency_summary_he.html"
+      ],
+      "cardTitleHe": "שלושה מנכ״לים רפובליקנים על כל דמוקרט: תרומות פוליטיות ושקיפות תאגידית",
+      "authorsHe": "Alma Cohen; Moshe Hazan; Roberto Tallarita; David Weiss",
+      "visualDescriptionHe": "חברי דירקטוריון מגוונים בוחנים יחד מסמכי ממשל תאגידי ורישומי תרומות מופשטים.",
+      "semanticDescriptionHe": "ישיבת הבקרה ממחישה את החיבור בין הנהגת תאגידים, תרומות פוליטיות אישיות ושאלת השקיפות כלפי בעלי מניות והציבור.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "CEOs",
+        "political_contributions",
+        "partisanship",
+        "corporate_governance"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific board oversight scene generated without readable labels, logos, real executives, party symbols, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly depicts governance scrutiny of executive political activity.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_global_diffusion_human_rights_constitutions_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_global_diffusion_human_rights_constitutions_summary_he.html",
+      "usedBy": [
+        "democracy_global_diffusion_human_rights_constitutions_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד השיח העולמי על זכויות אדם נכנס לחוקות לאומיות",
+      "authorsHe": "Colin J. Beck; Gili S. Drori; John W. Meyer",
+      "visualDescriptionHe": "מנסחי חוקות ממדינות שונות משווים מסמכים היסטוריים סביב שולחן ולצדם גלובוס.",
+      "semanticDescriptionHe": "סדנת הניסוח הבדיונית ממחישה העברה של שפת זכויות אדם בין־לאומית אל מסמכי יסוד לאומיים בתקופות הקמה ושינוי משטרי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "human_rights",
+        "constitutions",
+        "global_diffusion",
+        "world_society"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific transnational constitutional-drafting scene generated without readable text, logos, flags, real delegates, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly represents international diffusion into national constitutional language.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_parties_participation_competition_representation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_parties_participation_competition_representation_summary_he.html",
+      "usedBy": [
+        "democracy_parties_participation_competition_representation_summary_he.html"
+      ],
+      "cardTitleHe": "יותר משתתפים, פחות ייצוג? המתח הדמוקרטי בתוך מפלגות",
+      "authorsHe": "Gideon Rahat; Reuven Y. Hazan; Richard S. Katz",
+      "visualDescriptionHe": "חברי הכנסת מצביעים בהרמת ידיים במהלך ישיבה במליאה בשנת 1982.",
+      "semanticDescriptionHe": "ההצבעה הפרלמנטרית ממחישה את תפקידן המתווך של מפלגות בדמוקרטיה הייצוגית, בלי לתאר את הליכי בחירת המועמדים שנמדדו במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "political_parties",
+        "candidate_selection",
+        "participation",
+        "competition",
+        "representation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary Knesset photograph, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it accurately depicts party representatives acting in parliament but not the historical candidate-selection contests analyzed in the study.",
+      "createdDate": "2026-08-14",
+      "sourceType": "wikimedia_commons",
+      "source": "Dan Hadani Collection, National Library of Israel, via Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Voting_prcedure_during_the_Knesset_session_(FL45847177).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Voting_prcedure_during_the_Knesset_session_%28FL45847177%29.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "creator": "Boris Belenkin",
+      "provider": "Dan Hadani Collection, National Library of Israel / Wikimedia Commons",
+      "fileTitle": "Voting prcedure during the Knesset session (FL45847177).jpg",
+      "sourceDimensions": "3080x1974"
+    },
+    {
+      "file": "html_qa/democracy_countering_authoritarian_populist_legal_theory_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_countering_authoritarian_populist_legal_theory_summary_he.html",
+      "usedBy": [
+        "democracy_countering_authoritarian_populist_legal_theory_summary_he.html"
+      ],
+      "cardTitleHe": "בין רצון העם לעצמאות המשפט: כיצד מתמודדים עם תורת משפט פופוליסטית?",
+      "authorsHe": "Ofra Bloch; Natalie R. Davidson",
+      "visualDescriptionHe": "קבוצת משפטנים מגוונת מנתחת הצעות חוק ומפת טיעונים בסדנה משותפת.",
+      "semanticDescriptionHe": "הדיון הקבוצתי ממחיש מאבק רעיוני על היחס בין רצון העם, פוליטיקה, פוזיטיביזם משפטי ועצמאותו היחסית של המשפט.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "authoritarian_populism",
+        "legal_theory",
+        "legal_academics",
+        "Israel_2023"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific legal-academic workshop scene generated without readable text, logos, flags, real scholars, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly depicts collective legal analysis and public-facing argument.",
+      "createdDate": "2026-08-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
       "license": "Generated site asset"
     }
     ,
