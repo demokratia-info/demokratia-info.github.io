@@ -5,13 +5,13 @@
   "seed": "2026-08-14-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 6,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_global_diffusion_human_rights_constitutions_summary_he",
-    "democracy_popular_culture_youth_cross_cutting_talk_summary_he",
+    "democracy_follow_leader_political_participation_summary_he",
     "democracy_subliminal_national_flag_political_behavior_summary_he",
+    "democracy_popular_culture_youth_cross_cutting_talk_summary_he",
+    "democracy_global_diffusion_human_rights_constitutions_summary_he",
     "democracy_religiosity_minority_social_discrimination_summary_he",
-    "democracy_ceo_partisanship_political_spending_transparency_summary_he",
-    "democracy_dobbs_gender_voter_registration_summary_he"
+    "democracy_ceo_partisanship_political_spending_transparency_summary_he"
   ]
 }

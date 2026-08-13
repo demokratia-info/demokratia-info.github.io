@@ -26440,27 +26440,27 @@
       "sourceDimensions": "3080x1974"
     },
     {
-      "file": "html_qa/democracy_countering_authoritarian_populist_legal_theory_summary_he.jpg",
+      "file": "html_qa/democracy_follow_leader_political_participation_summary_he.jpg",
       "width": 800,
       "height": 600,
-      "primaryArticle": "democracy_countering_authoritarian_populist_legal_theory_summary_he.html",
+      "primaryArticle": "democracy_follow_leader_political_participation_summary_he.html",
       "usedBy": [
-        "democracy_countering_authoritarian_populist_legal_theory_summary_he.html"
+        "democracy_follow_leader_political_participation_summary_he.html"
       ],
-      "cardTitleHe": "בין רצון העם לעצמאות המשפט: כיצד מתמודדים עם תורת משפט פופוליסטית?",
-      "authorsHe": "Ofra Bloch; Natalie R. Davidson",
-      "visualDescriptionHe": "קבוצת משפטנים מגוונת מנתחת הצעות חוק ומפת טיעונים בסדנה משותפת.",
-      "semanticDescriptionHe": "הדיון הקבוצתי ממחיש מאבק רעיוני על היחס בין רצון העם, פוליטיקה, פוזיטיביזם משפטי ועצמאותו היחסית של המשפט.",
+      "cardTitleHe": "ללכת בעקבות המנהיג: כיצד מרוץ צמוד מגייס מצביעים?",
+      "authorsHe": "Ron Shachar; Barry Nalebuff",
+      "visualDescriptionHe": "מארגני קמפיין ומתנדבים מתכננים פעילות שטח וטלפונים סביב מפה של אזורי הצבעה.",
+      "semanticDescriptionHe": "העברת התכנון ממנהיגי הקמפיין אל פעולת המתנדבים ממחישה את המנגנון שבמאמר: מרוץ צפוי להיות צמוד מגדיל את מאמץ הגיוס, והוא בתורו מעלה השתתפות בבחירות.",
       "tags": [
-        "democratic-backsliding-populism",
-        "constitutionalism-courts-rule-of-law",
-        "authoritarian_populism",
-        "legal_theory",
-        "legal_academics",
-        "Israel_2023"
+        "institutions-civil-society-public-service",
+        "political_participation",
+        "voter_turnout",
+        "campaign_mobilization",
+        "electoral_competition",
+        "pivotal_leader_model"
       ],
       "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
-      "qualityNotes": "Paper-specific legal-academic workshop scene generated without readable text, logos, flags, real scholars, charts, or numerical scales and finished as an 800x600 progressive JPEG. High fitness because it directly depicts collective legal analysis and public-facing argument.",
+      "qualityNotes": "Paper-specific campaign field-office scene generated without party branding, candidate likenesses, readable labels, flags, charts, or watermarks and finished as an 800x600 progressive JPEG. High fitness because it directly depicts leaders allocating mobilization effort across close electoral contests.",
       "createdDate": "2026-08-14",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-14 nightly heartbeat",
