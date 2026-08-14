@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1322,
+  "paperCount": 1332,
   "papers": [
+    {
+      "slug": "democracy_women_representatives_policy_impact_nondemocracy_summary_he",
+      "file": "democracy_women_representatives_policy_impact_nondemocracy_summary_he.html",
+      "permalink": "/democracy_women_representatives_policy_impact_nondemocracy_summary_he.html",
+      "sortKey": 202608150010,
+      "titleHe": "גם מעבר לדמוקרטיה: ייצוג נשים נקשר למדיניות מהותית",
+      "paperTitle": "Can the descriptive-substantive link survive beyond democracy? The policy impact of women representatives",
+      "authorsCardHe": "Aliza Forman-Rabinovici; Udi Sommer",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Udi Sommer"
+      ],
+      "journal": "Democratization, 26(8), 1513–1533",
+      "dateText": "פורסם אונליין: 6 בספטמבר 2019; כרך 26, גיליון 8, עמ׳ 1513–1533",
+      "doiUrl": "https://doi.org/10.1080/13510347.2019.1661993",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_women_representatives_policy_impact_nondemocracy_summary_he.jpg",
+        "altHe": "חברות פרלמנט ממדינות שונות משתתפות במפגש מקצועי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "אליזה פורמן־רבינוביצ׳י ואודי זומר מרחיבים את הדיון בייצוג נשים מעבר לדמוקרטיות. נקודת המוצא היא שבמערכות דמוקרטיות כבר מבוסס הקשר בין נוכחות נשים בתפקידי ייצוג לבין קידום מדיניות מהותית, אך פחות ממחצית הנשים בעולם חיות בדמוקרטיות. המחברים משערים שגם בדמוקרטיות חלקיות ובמשטרים לא־דמוקרטיים נשים נבחרות או ממונות יכולות לממש ייצוג מהותי. כדי לזהות את הקשר הם מציעים מסגרת הבוחנת כמה תרחישים ומנסה לנטרל שני הסברים חלופיים: אילוצים בינלאומיים וגישה חיובית כללית לשוויון מגדרי. הניתוח מתמקד במתאמים לאורך זמן בין שיעור הנשים בקרב הנציגים לבין תחומי מדיניות שבדרך כלל מושפעים מייצוג נשים — זכויות רבייה, הוצאות בריאות והוצאות חינוך. לפי התקציר, העדויות מראות שייצוג מהותי מופיע גם במשטרים לא־דמוקרטיים וחלקיים ולא רק בדמוקרטיות. עם זאת, מאחר שהתקציר מדווח על מתאמים, נכון להבחין בין דפוס עקבי לבין הוכחה שכל תוספת של נשים היא לבדה הסיבה לשינוי מדיניות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_judicial_review_political_accountability_israel_summary_he",
+      "file": "democracy_judicial_review_political_accountability_israel_summary_he.html",
+      "permalink": "/democracy_judicial_review_political_accountability_israel_summary_he.html",
+      "sortKey": 202608150009,
+      "titleHe": "ביקורת שיפוטית מול אחריותיות פוליטית: בג״ץ בין הגנת מיעוטים ללחצי הרוב",
+      "paperTitle": "Judicial Review and Political Accountability: The Case of the High Court of Justice in Israel",
+      "authorsCardHe": "Yoav Dotan",
+      "sourceAuthors": [
+        "Yoav Dotan"
+      ],
+      "journal": "Israel Law Review, 32(3), 448–474",
+      "dateText": "כרך 32, גיליון 3, עמ׳ 448–474 (1998); פורסם אונליין: 4 ביולי 2014",
+      "doiUrl": "https://doi.org/10.1017/S0021223700015740",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_review_political_accountability_israel_summary_he.jpg",
+        "altHe": "מבט אווירי על מתחם בית המשפט העליון בירושלים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "יואב דותן ממקם את הביקורת השיפוטית במתח שבין אחריותיות דמוקרטית לבין עצמאות מוסדית. לפי התאוריה החוקתית המתוארת בתקציר, בתי משפט נדרשים להגן על זכויות הפרט ובמיוחד על זכויות מיעוט, אך גם להימנע מהתערבות מופרזת בהחלטות של הרשות המחוקקת והמבצעת. שני העקרונות נשענים על כך שבית המשפט אינו מוסד ייצוגי ואינו אמור לשקף בכל פסיקה את העדפת הרוב; הצלחתו נבחנת ביכולתו לעמוד בלחצים ולמלא תפקיד נגד־רובני. מדעני מדינה שואלים אם עצמאות זו מתקיימת בפועל. עמדה ביקורתית גורסת שהתפקיד הנגד־רובני הוא שאיפה דוקטרינרית או אפילו מיתוס, וכי בתי משפט נוטים להעניק לגיטימציה לרפורמות ולנטיות תרבותיות שכבר התקבלו בממסד הפוליטי ובדעת הקהל. עמדה אחרת גורסת שגם אם בתי המשפט אינם מבודדים לחלוטין מן הציבור, הם עדיין מצליחים במקרים רבים לשמור על אוטונומיה מול לחץ פוליטי. המאמר בוחן את המחלוקת באמצעות המקרה של בית המשפט הגבוה לצדק בישראל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_immigrant_political_trust_memory_summary_he",
+      "file": "democracy_immigrant_political_trust_memory_summary_he.html",
+      "permalink": "/democracy_immigrant_political_trust_memory_summary_he.html",
+      "sortKey": 202608150008,
+      "titleHe": "מבוגרים מכדי לשכוח: כיצד זיכרון מוסדי מארץ המוצא מעצב אמון פוליטי של מהגרים",
+      "paperTitle": "Too Old to Forget: The Dynamics of Political Trust among Immigrants",
+      "authorsCardHe": "Chiara Superti; Noam Gidron",
+      "sourceAuthors": [
+        "Chiara Superti",
+        "Noam Gidron"
+      ],
+      "journal": "Political Studies, 70(3), 624–654",
+      "dateText": "פורסם אונליין: 14 בינואר 2021; כרך 70, גיליון 3, עמ׳ 624–654 (2022)",
+      "doiUrl": "https://doi.org/10.1177/0032321720980899",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_immigrant_political_trust_memory_summary_he.jpg",
+        "altHe": "גבר מבוגר ואישה צעירה משוחחים עם נציגת מוסד מול מסמכים, וברקע שני נופים עירוניים שונים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "קיארה סופרטי ונעם גדרון מבקשים להסביר מדוע אמון של מהגרים במוסדות המדינה הקולטת תלוי גם בהווה וגם בזיכרון פוליטי שנוצר בארץ המוצא. הם מפתחים את הרעיון של ״נקודת ייחוס מארץ המוצא״: חוויות ממוסדות קודמים יוצרות אמת מידה להשוואה בכל מפגש עם מוסדות המדינה החדשה. שני גורמים קובעים אם אמת המידה הזאת תישאר פעילה — גיל האדם בעת ההגירה והתנאים ההיסטוריים והדמוקרטיים בארץ המוצא באותה עת. לפי הטענה, רק מהגרים שהיו מבוגרים דיים כדי לזכור את ההקשר המוסדי שעליו גדלו נשענים על ההשוואה הזאת. לאורך זמן מצטבר אמון חיובי במוסדות המדינה הקולטת אצל מי שנקודת הייחוס שלהם פחות דמוקרטית, ואמון שלילי אצל מי שנקודת הייחוס שלהם דמוקרטית יותר. המחברים בוחנים את הדינמיקה באמצעות עדויות סקר על אמון פוליטי של מהגרים בישראל, ומציגים את ההגירה כתהליך שבו זיכרון מוסדי ממשיך לעצב הערכה דמוקרטית גם לאחר חציית הגבול.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_hostile_media_minority_alienation_arabs_israel_summary_he",
+      "file": "democracy_hostile_media_minority_alienation_arabs_israel_summary_he.html",
+      "permalink": "/democracy_hostile_media_minority_alienation_arabs_israel_summary_he.html",
+      "sortKey": 202608150007,
+      "titleHe": "כשהתקשורת נתפסת כעוינת: הדרך מתחושת השפעה לניכור בקרב ערבים בישראל",
+      "paperTitle": "Hostile Media Perceptions, Presumed Media Influence, and Minority Alienation: The Case of Arabs in Israel",
+      "authorsCardHe": "Yariv Tsfati",
+      "sourceAuthors": [
+        "Yariv Tsfati"
+      ],
+      "journal": "Journal of Communication, 57(4), 632–651",
+      "dateText": "כרך 57, גיליון 4, עמ׳ 632–651 (דצמבר 2007)",
+      "doiUrl": "https://doi.org/10.1111/j.1460-2466.2007.00361.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hostile_media_minority_alienation_arabs_israel_summary_he.jpg",
+        "altHe": "קבוצת צופים בוחנת שידור חדשות מול חדר מערכת גלוי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "יריב צפתי בוחן מנגנון עקיף שבאמצעותו סיקור שנתפס כמוטה עלול להעמיק ניכור של קבוצת מיעוט. המקרה הנחקר הוא תחושת הסטיגמטיזציה התקשורתית בקרב ערבים אזרחי ישראל, והבדיקה מבוססת על מדגם של 251 ועל מודל משוואות מבניות. לפי התקציר, תפיסת התקשורת כעוינת והאמונה שלסיקור יש השפעה על אחרים נקשרו לדימוי הנתפס של האזרחים הערבים, וזה נקשר בתורו לניכור חברתי. הקשרים נותרו גם מעבר להשפעות של משתנים אידאולוגיים, חברתיים ודמוגרפיים. לצד זאת, כמות החשיפה לתקשורת הישראלית המרכזית לא מילאה תפקיד מובהק בתהליך המתואר, בעוד חשיפה לתקשורת הערבית השפיעה באופן מובהק על תפיסת הסיקור העוין. המאמר מציע אפוא שהשאלה הדמוקרטית אינה רק כמה מיעוטים נחשפים לתקשורת, אלא כיצד הם מפרשים את ייצוגם וכמה כוח הם מייחסים לסיקור בעיצוב מבטו של הציבור עליהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_un_human_rights_committee_decision_implementation_summary_he",
+      "file": "democracy_un_human_rights_committee_decision_implementation_summary_he.html",
+      "permalink": "/democracy_un_human_rights_committee_decision_implementation_summary_he.html",
+      "sortKey": 202608150006,
+      "titleHe": "מתי מדינות מיישמות החלטות של ועדת זכויות האדם של האו״ם?",
+      "paperTitle": "Implementing Decisions of International Human Rights Institutions – Evidence from the United Nations Human Rights Committee",
+      "authorsCardHe": "Vera Shikhelman",
+      "sourceAuthors": [
+        "Vera Shikhelman"
+      ],
+      "journal": "European Journal of International Law, 30(3), 753–777",
+      "dateText": "כרך 30, גיליון 3, עמ׳ 753–777 (אוגוסט 2019); פורסם: 11 בדצמבר 2019",
+      "doiUrl": "https://doi.org/10.1093/ejil/chz047",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_un_human_rights_committee_decision_implementation_summary_he.jpg",
+        "altHe": "ארמון וילסון בז׳נבה, משכנו של משרד הנציב העליון של האו״ם לזכויות אדם; צילום המבנה אינו מתעד ישיבה בפועל של ועדת זכויות האדם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "ורה שיכלמן בוחנת מתי מדינות מיישמות סעדים שנקבעו ב׳עמדות׳ של ועדת זכויות האדם של האו״ם במסגרת הפרוטוקול האופציונלי הראשון לאמנה בדבר זכויות אזרחיות ומדיניות. היא קידדה את דוחות המעקב של הדווח המיוחד ממושבים 110–118 בשנים 2014–2016: 76 תלונות נגד 28 מדינות ובהן 300 סעדים נפרדים. דרגת היישום של כל סעד הומרה לסולם סדר בן שמונה דרגות, והקשרים נאמדו ברגרסיות לוגיסטיות סדריות עם שגיאות תקן מקובצות לפי תלונה. הניתוח הושווה בשתי גרסאות משום של־45 תצפיות לא היה מידע: הוצאתן מן המדגם לעומת הצבתן בנקודת האמצע. הממצא העקבי ביותר הוא קשר חיובי בין ציון זכויות האדם הכללי של המדינה לבין יישום הסעדים; גם תמ״ג לנפש נקשר בחיוב, והסתייגות מהערה כללית 33 של הוועדה נקשרה ביישום נמוך יותר. לעומת זאת, מובהקותם של אפקטיביות ממשלתית, סוג המשטר, מספר ארגונים לא־ממשלתיים ועצמאות שיפוטית השתנתה בין גרסאות הניתוח. נמצא גם קשר חיובי מסוים בין ייצוג המדינה בוועדה לבין יישום, אך הוא אינו חזק בכל המודלים. סוג הסעד ורוב נושאי התלונות לא סיפקו הסבר יציב, והממצאים החיוביים בנושאי נשים ולהט״ב נשענים על ארבע תלונות בלבד. המדגם קצר בזמן, מבוסס במידה רבה על דיווחי מדינות ואינו מכסה השפעות רחבות של ההליך מעבר לביצוע סעד מסוים. לכן המחקר מציע דפוסים חשובים של שיתוף פעולה עם מוסד זכויות אדם שהחלטותיו נתפסות לעיתים כדין רך, אך אינו מספק אומדן סיבתי או תמונה מלאה של ציות למשפט זכויות האדם הבין־לאומי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_information_exposure_affective_polarization_summary_he",
+      "file": "democracy_information_exposure_affective_polarization_summary_he.html",
+      "permalink": "/democracy_information_exposure_affective_polarization_summary_he.html",
+      "sortKey": 202608150005,
+      "titleHe": "כיצד חשיפה לחדשות מפלגתיות נקשרת לקיטוב רגשי?",
+      "paperTitle": "Implications of Pro- and Counterattitudinal Information Exposure for Affective Polarization",
+      "authorsCardHe": "R. Kelly Garrett; Shira Dvir Gvirsman; Benjamin K. Johnson; Yariv Tsfati; Rachel Neo; Aysenur Dal",
+      "sourceAuthors": [
+        "R. Kelly Garrett",
+        "Shira Dvir Gvirsman",
+        "Benjamin K. Johnson",
+        "Yariv Tsfati",
+        "Rachel Neo",
+        "Aysenur Dal"
+      ],
+      "journal": "Human Communication Research, 40(3), 309–332",
+      "dateText": "פורסם אונליין: 6 במאי 2014; כרך 40, גיליון 3, עמ׳ 309–332 (יולי 2014)",
+      "doiUrl": "https://doi.org/10.1111/hcre.12028",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_information_exposure_affective_polarization_summary_he.jpg",
+        "altHe": "קבוצת אזרחים קוראת מקורות חדשות מודפסים ודיגיטליים סביב שולחן משותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "המאמר בוחן כיצד חשיפה למידע התואם עמדה מפלגתית ולמידע המנוגד לה קשורה לקיטוב רגשי — הפער בין חיבה למחנה הפוליטי של האדם לבין חיבה למחנה האחר. החוקרים ניתחו שני סקרי פאנל סביב בחירות: מדגם הסתברותי אמריקאי שהחל עם 1,004 משיבים בשלושה גלים במהלך בחירות הנשיאות של 2012 והסתיים עם 652, ומדגם אינטרנט ישראלי של מצביעים יהודים שהחל עם 453 משיבים לפני בחירות 2013 והמשיך עם 397 לאחריהן. בארצות הברית נמדדה תדירות שימוש באתרים ובלוגים ליברליים ושמרניים, ובישראל נמדדה חשיפה ל־15 מקורות ימניים ול־13 מקורות שמאליים; בכל מקרה הסיווג ל״תואם״ או ״מנוגד״ נקבע לפי נטיית המשיב. הממצאים החתכיים הראו בשתי המדינות שחשיפה למקורות תואמים נקשרה לפער חיבה גדול יותר, ואילו חשיפה למקורות מנוגדים נקשרה לפער קטן יותר; גדלי המקדמים בשני הכיוונים לא נבדלו באופן מובהק. במודלים ששלטו ברמת הקיטוב בגל קודם, הכיוון נשמר: בארצות הברית מקדם החשיפה התואמת היה 0.43 והמנוגדת ‎−0.53, ובישראל 1.21 ו־‎−0.98 בהתאמה. בארצות הברית, חשיפה תואמת נקשרה גם להתנגדות רבה יותר לנישואים בין־מפלגתיים ולייחוס פחות תכונות חיוביות נטו למחנה האחר, אך לחשיפה מנוגדת לא היה קשר מובהק למדדי המרחק החברתי. האינטראקציה בין שני סוגי החשיפה לא הייתה יציבה: היא הייתה מובהקת בחתך האמריקאי אך לא לאורך זמן, ובישראל הופיעה רק במודל האורך. לכן הטענה ששמיעת שני הצדדים עלולה דווקא להחריף קיטוב נותרת אפשרות ולא ממצא איתן. מאחר שהחשיפה דווחה בידי המשיבים ולא הוקצתה בניסוי, אי אפשר לשלול בחירה עצמית או גורמים משותפים; נוסף על כך, המדגם הישראלי לא כלל אזרחים ערבים והגדיר מחנות לפי ימין ושמאל. המחקר מספק ראיות השוואתיות ועיתיות עקביות לכך שסביבת חדשות אוהדת קשורה לקיטוב רגשי, אך אינו מוכיח שכל חשיפה מפלגתית גורמת לו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_imprisonment_purposes_echr_us_supreme_court_summary_he",
+      "file": "democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.html",
+      "permalink": "/democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.html",
+      "sortKey": 202608150004,
+      "titleHe": "שני פניה של הכליאה: גמול ושיקום בפסיקה אמריקאית ואירופית",
+      "paperTitle": "The Janus face of imprisonment: Contrasting judicial conceptions of imprisonment purposes in the European Court of Human Rights and the Supreme Court of the United States",
+      "authorsCardHe": "Netanel Dagan",
+      "sourceAuthors": [
+        "Netanel Dagan"
+      ],
+      "journal": "Criminology & Criminal Justice, 21(5), 633–649",
+      "dateText": "פורסם אונליין: 14 במרץ 2020; כרך 21, גיליון 5, עמ׳ 633–649 (נובמבר 2021)",
+      "doiUrl": "https://doi.org/10.1177/1748895820911967",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.jpg",
+        "altHe": "אולם הדיונים הריק של בית הדין האירופי לזכויות אדם בשטרסבורג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "המאמר שואל כיצד בית המשפט העליון של ארצות הברית ובית הדין האירופי לזכויות אדם מפרשים את מטרות המאסר כאשר הם דנים בחוקתיותם של תנאי כליאה. נתנאל דגן עורך ניתוח דוקטרינרי משווה של פסקי דין ושל ספרות ענישה וכליאה, ומזהה ״פני יאנוס״: אותם מושגים של גמול ושיקום יכולים להצדיק מדיניות כמעט מנוגדת. בציר הראשון, הפסיקה האמריקאית מתוארת כממשיכה באופן סטטי יחסית את מטרות גזר הדין אל תקופת המאסר, כך שגמול, הרתעה ושיקום מוסיפים לפעול יחד. הפסיקה האירופית, לעומת זאת, מתוארת כתהליך דינמי שבו המשקל עשוי לעבור עם הזמן מענישה וגמול להכנה לשחרור ולהשתלבות מחדש. בציר השני, בית המשפט האמריקאי התיר לראות בתנאים מגבילים ואף קשים חלק מן המחיר שהעבריין משלם לחברה, בכפוף לרף החוקתי נגד ענישה אכזרית וחריגה. בית הדין האירופי מדגיש שהשלילה העונשית היא שלילת החירות עצמה, ושאין להוסיף סבל מעבר לבלתי־נמנע; הוא קושר גמול לכפרה, לאחריות ולסיכוי ממשי לתיקון. בציר השלישי, דגן מציג את השיקום האמריקאי ככלי תועלתני של ניהול סיכון והפחתת עבריינות חוזרת, לעומת תפיסה אירופית רחבה יותר של שינוי מוסרי, סוכנות אישית, פיוס ואזרחות. ההבחנות אינן מוחלטות: גם בארצות הברית יש חריגים שמכירים בתקווה ובכפרה, וגם באירופה קיימות מגמות מניעתיות ועונשיות. המאמר אינו בודק את מלוא הפסיקה, את יישום ההחלטות או את תנאי הכלא בפועל, והוא אינו מוכיח שבתי המשפט גורמים למדיניות מסוימת. תרומתו היא להראות שמטרות ענישה אינן נוסחאות ניטרליות: האופן שבו שופטים ממלאים אותן בתוכן מגדיר אילו כאבים, זכויות ואפשרויות שינוי נחשבים לגיטימיים בזמן המאסר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_digital_media_political_participation_reinforcement_summary_he",
+      "file": "democracy_digital_media_political_participation_reinforcement_summary_he.html",
+      "permalink": "/democracy_digital_media_political_participation_reinforcement_summary_he.html",
+      "sortKey": 202608150003,
+      "titleHe": "מי מניע את מי? מדיה דיגיטלית והשתתפות פוליטית",
+      "paperTitle": "Reinforcement Effects between Digital Media Use and Political Participation: A Meta-Analysis of Repeated-Wave Panel Data",
+      "authorsCardHe": "Jennifer Oser; Shelley Boulianne",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Shelley Boulianne"
+      ],
+      "journal": "Public Opinion Quarterly, 84(S1), 355–365",
+      "dateText": "פורסם אונליין: 10 ביוני 2020; כרך 84, גיליון משלים 1, עמ׳ 355–365",
+      "doiUrl": "https://doi.org/10.1093/poq/nfaa017",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_digital_media_political_participation_reinforcement_summary_he.jpg",
+        "altHe": "פעילים אזרחיים בגילים שונים עובדים יחד סביב שולחן בעזרת טלפונים ומחשב נייד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "המאמר בוחן את כיוון הקשר בין שימוש במדיה דיגיטלית להשתתפות פוליטית באמצעות מטא־אנליזה ראשונה שהוגבלה למחקרי פאנל חוזרים. ג׳ניפר אוסר ושלי בוליאן איתרו בין מאי 2015 לפברואר 2019 38 מחקרי סקר, שנערכו על נתונים מן השנים 1982–2017 וכללו יחד יותר מ־70 אלף משיבים ו־279 מקדמים. המחקרים מדדו פעילויות דיגיטליות, כגון חדשות מקוונות, חדשות ברשתות חברתיות, ביטוי פוליטי מקוון ודוא״ל, והצליבו אותן עם התנהגות פוליטית ממשית כגון הצבעה ומחאה. בגלל השונות הרבה בסוגי המקדמים והתוצאות, המחברות השתמשו בשיטת ספירת קולות לפי כיוון ומובהקות ברמת p<0.05, ולא איחדו גדלי אפקט. בסך הכול 68% מן המקדמים היו חיוביים, אך רק 31% מכלל המקדמים היו מובהקים: 29% חיוביים ו־2% שליליים; ב־12.5% מן הבדיקות הלא־מובהקות לא דווח הכיוון. כאשר השימוש במדיה נבחן כמנבא של השתתפות, 29.8% מן הבדיקות היו חיוביות ומובהקות, לעומת 44.6% כאשר השתתפות קודמת נבחנה כמנבא של שימוש מאוחר במדיה; ההבדל בין התפלגויות התוצאות היה מובהק. גם מרווח הזמן היה קשור לדפוס: 38.9% מן הבדיקות בפאנלים של יותר משישה חודשים היו חיוביות ומובהקות, לעומת 24.2% בפאנלים קצרים יותר. התמונה תומכת אפוא יותר בחיזוק של פעילים קיימים מאשר בגיוס של לא־מעורבים, ועשויה לרמוז על העמקת אי־שוויון בהשתתפות. עם זאת, ספירת מובהקות רגישה לגודל המדגם, אינה מלמדת מהו גודל ההשפעה, וריבוי מקדמים מאותו מחקר אינו שקול ל־279 מחקרים עצמאיים; לכן אין לקרוא את הממצאים כאומדן אחיד של השפעה סיבתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_public_administration_citizen_satisfaction_summary_he",
+      "file": "democracy_public_administration_citizen_satisfaction_summary_he.html",
+      "permalink": "/democracy_public_administration_citizen_satisfaction_summary_he.html",
+      "sortKey": 202608150002,
+      "titleHe": "כשהערכת השירות הציבורי נקשרת לשביעות הרצון מן הדמוקרטיה",
+      "paperTitle": "Public administration and citizen satisfaction with democracy: cross-national evidence",
+      "authorsCardHe": "Gal Ariely",
+      "sourceAuthors": [
+        "Gal Ariely"
+      ],
+      "journal": "International Review of Administrative Sciences, 79(4), 747–766",
+      "dateText": "פורסם אונליין: 4 בדצמבר 2013; כרך 79, גיליון 4, עמ׳ 747–766",
+      "doiUrl": "https://doi.org/10.1177/0020852313501432",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_administration_citizen_satisfaction_summary_he.jpg",
+        "altHe": "אזרחים מקבלים שירות מעובדי ציבור בדלפק פתוח, כמפגש יומיומי בין מינהל לבין דמוקרטיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "גל אריאלי בוחן אם המינהל הציבורי הוא חלק מן האופן שבו אזרחים מעריכים את תפקוד הדמוקרטיה. המחקר משתמש במודול האזרחות של ISSP לשנת 2004, שנאסף בשנים 2003–2006, ומנתח 37,785 משיבים המקובצים ב־35 מדינות באמצעות מודלים ליניאריים היררכיים. ברמת הפרט נמדדה הערכת המינהל באמצעות שאלות על מחויבות השירות לציבור, תיקון טעויות ושחיתות, ושביעות הרצון מן הדמוקרטיה נבנתה מהערכת תפקודה בהווה ובעוד עשר שנים. הערכה חיובית יותר של המינהל נקשרה לשביעות רצון גבוהה יותר מן הדמוקרטיה והפחיתה יותר מן השונות הבלתי־מוסברת לעומת מסוגלות פוליטית, אמון בפוליטיקאים והוגנות הבחירות. ברמת המדינה, מדד האפקטיביות הממשלתית של הבנק העולמי נקשר גם הוא בחיוב לשביעות הרצון, בעוצמה שהמחבר מתאר כדומה ואף חזקה מזו של רמת הדמוקרטיה, הפיתוח האנושי והאמון בפרלמנט במודלים שנאמדו. עם זאת, משתני המדינה מתואמים מאוד זה עם זה, והיכולת לבודד את תרומתו הייחודית של כל אחד מהם מוגבלת. הנתונים חתכיים, מדדי התפיסה קצרים וההשוואה בין מדינות אינה מושלמת, ולכן הממצאים אינם מוכיחים שמינהל איכותי גורם לשביעות רצון דמוקרטית או שוללים סיבתיות הפוכה. תרומת המאמר היא בהצבת המפגש היומיומי עם השירות הציבורי כחלק מן החוויה הדמוקרטית, לצד מוסדות בחירה, אמון ותחושת השפעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_migrant_language_minority_sociopolitical_participation_summary_he",
+      "file": "democracy_migrant_language_minority_sociopolitical_participation_summary_he.html",
+      "permalink": "/democracy_migrant_language_minority_sociopolitical_participation_summary_he.html",
+      "sortKey": 202608150001,
+      "titleHe": "מעבר לאוריינות ולהקניית שפה: מי נשמע ומי משתתף?",
+      "paperTitle": "Beyond literacy and language provision: Socio-political participation of migrants and large language minorities in five countries from PIAAC R1/R2",
+      "authorsCardHe": "Anke Grotlüschen; Svetlana Chachashvili-Bolotin; Lisanne Heilmann; Gregor Dutz",
+      "sourceAuthors": [
+        "Anke Grotlüschen",
+        "Svetlana Chachashvili-Bolotin",
+        "Lisanne Heilmann",
+        "Gregor Dutz"
+      ],
+      "journal": "Journal of Adult and Continuing Education, 27(1), 42–62",
+      "dateText": "כרך 27, גיליון 1, עמ׳ 42–62 (מאי 2021); פורסם מקוון: 21 בינואר 2020",
+      "doiUrl": "https://doi.org/10.1177/1477971419898491",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_migrant_language_minority_sociopolitical_participation_summary_he.jpg",
+        "altHe": "קבוצת מבוגרים מגוונת משוחחת במפגש קהילתי סביב שולחן שעליו חומרי קריאה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-15",
+      "dateModified": "2026-08-15",
+      "summaryHe": "המאמר בוחן אם מהגרים ומיעוטי שפה גדולים חווים פחות השתתפות חברתית־פוליטית, ואם פערים כאלה קשורים למיומנות אוריינית בשפה שבה נערך מבחן PIAAC. אנקה גרוטלישן, סבטלנה צ׳צ׳שווילי־בולוטין, ליזאן היילמן וגרגור דוץ מנתחים בנפרד את אוסטריה, קנדה, גרמניה, ישראל וארצות הברית. הם מגדירים השתתפות באמצעות שני מדדים בני חמש דרגות: תחושה שלפרט יש השפעה על פעולת הממשלה, ותדירות של התנדבות פורמלית בארגון. בכל מדינה נאמדו שלושה מודלים ליניאריים לכל תוצאה: תחילה לפי דור הגירה ומיעוט שפה, אחר כך בתוספת גיל, מגדר, השכלה ותעסוקה, ולבסוף בתוספת ציון אוריינות. לפני בקרת האוריינות, מהגרי הדור הראשון דיווחו על מסוגלות פוליטית נמוכה יותר בארבע מדינות; בישראל לא נמצא פער כזה. לאחר הוספת האוריינות, פערי הדור הראשון במסוגלות הפוליטית כבר לא היו מובהקים באף אחת מחמש המדינות, אך דוברי צרפתית בקנדה ודוברי ערבית בישראל עדיין דיווחו על מסוגלות נמוכה יותר מדוברי שפת הרוב. בהתנדבות התמונה עמידה יותר: מהגרי הדור הראשון השתתפו פחות בכל חמש המדינות גם לאחר כל הבקרות, וכך גם מיעוטי השפה בקנדה ובישראל. המאמר מסיק שהקניית אוריינות ושפה עשויה לסייע למהגרים להרגיש שקולם נשמע, אך אינה מספיקה כדי לפתוח ארגונים, רשתות ומוסדות להשתתפות. עם זאת, הנתונים חתכיים, שני המדדים צרים ורשמיים, שפת המבחן היא רק קירוב לזהות לשונית, והמודלים מסבירים פחות מעשרה אחוזים מן השונות. לכן הממצאים מצביעים על דפוסי הכללה והדרה ואינם מוכיחים שאוריינות לבדה גורמת להשתתפות או שהבדלים בין מדינות נובעים ממדיניות מסוימת.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_follow_leader_political_participation_summary_he",
       "file": "democracy_follow_leader_political_participation_summary_he.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -33842,6 +33842,294 @@
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-13 nightly heartbeat",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_migrant_language_minority_sociopolitical_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_migrant_language_minority_sociopolitical_participation_summary_he.html",
+      "usedBy": [
+        "democracy_migrant_language_minority_sociopolitical_participation_summary_he.html"
+      ],
+      "cardTitleHe": "מעבר לאוריינות ולהקניית שפה: מי נשמע ומי משתתף?",
+      "authorsHe": "Anke Grotlüschen; Svetlana Chachashvili-Bolotin; Lisanne Heilmann; Gregor Dutz",
+      "visualDescriptionHe": "קבוצת מבוגרים מגוונת משוחחת סביב שולחן במרכז קהילתי, בעוד משתתפים נוספים מתכנסים ליד לוח מודעות.",
+      "semanticDescriptionHe": "המפגש הקהילתי ממחיש השתתפות חברתית ופוליטית מעבר ליכולת קריאה או שליטה בשפת הרוב; הדמויות והמסמכים בדיוניים ואינם משיבי PIAAC או חומרי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "migration",
+        "language_minorities",
+        "literacy",
+        "political_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific multilingual-community participation scene generated without readable labels, logos, flags, real participants, or reproduced research materials and finished as an 800x600 progressive JPEG. High fitness because the shared civic setting directly represents the paper's distinction between skills and participation.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_public_administration_citizen_satisfaction_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_public_administration_citizen_satisfaction_summary_he.html",
+      "usedBy": [
+        "democracy_public_administration_citizen_satisfaction_summary_he.html"
+      ],
+      "cardTitleHe": "כשהערכת השירות הציבורי נקשרת לשביעות הרצון מן הדמוקרטיה",
+      "authorsHe": "Gal Ariely",
+      "visualDescriptionHe": "אזרחים מקבלים סיוע מעובדי שירות בדלפקים פתוחים באולם ציבורי מואר.",
+      "semanticDescriptionHe": "אולם השירות ממחיש כיצד מפגש יומיומי עם מינהל ציבורי נקשר להערכה רחבה של תפקוד הדמוקרטיה; האנשים והטפסים בדיוניים ואינם משיבי ISSP או פריטי הסקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public_administration",
+        "public_service",
+        "democratic_satisfaction",
+        "citizen_experience"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-service hall generated without readable forms, logos, flags, real officials, charts, or survey respondents and finished as an 800x600 progressive JPEG. High fitness because it directly visualizes the everyday administrative encounter central to the analysis.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_digital_media_political_participation_reinforcement_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_digital_media_political_participation_reinforcement_summary_he.html",
+      "usedBy": [
+        "democracy_digital_media_political_participation_reinforcement_summary_he.html"
+      ],
+      "cardTitleHe": "מי מניע את מי? מדיה דיגיטלית והשתתפות פוליטית",
+      "authorsHe": "Jennifer Oser; Shelley Boulianne",
+      "visualDescriptionHe": "פעילים אזרחיים בגילים שונים עובדים יחד סביב שולחנות בעזרת טלפונים ומחשב נייד.",
+      "semanticDescriptionHe": "העבודה הקבוצתית בעזרת כלים דיגיטליים ממחישה את הקשר הדו־כיווני בין שימוש במדיה לבין השתתפות פוליטית; הדמויות אינן משתתפי מחקר ואינן מייצגות ארגון או קמפיין ממשי.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "digital_media",
+        "political_participation",
+        "reinforcement",
+        "panel_studies"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-organizing scene generated without readable screens, slogans, logos, flags, ballots, real campaign material, or research participants and finished as an 800x600 progressive JPEG. High fitness because it joins digital-device use with collective civic action without implying a measured effect size.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.html",
+      "usedBy": [
+        "democracy_imprisonment_purposes_echr_us_supreme_court_summary_he.html"
+      ],
+      "cardTitleHe": "שני פניה של הכליאה: גמול ושיקום בפסיקה אמריקאית ואירופית",
+      "authorsHe": "Netanel Dagan",
+      "visualDescriptionHe": "אולם הדיונים הריק של בית הדין האירופי לזכויות אדם בשטרסבורג.",
+      "semanticDescriptionHe": "אולם בית הדין מעגן את הצד האירופי בהשוואה המשפטית של מטרות המאסר; התצלום אינו מציג הליך מן המאמר, תנאי כליאה או את בית המשפט העליון של ארצות הברית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "imprisonment",
+        "rehabilitation",
+        "punishment",
+        "echr"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of the European Court of Human Rights courtroom, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it accurately depicts one institution in the comparison but does not show imprisonment or the United States court.",
+      "createdDate": "2026-08-15",
+      "sourceType": "wikimedia_commons",
+      "source": "Adrian Grycuk / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtroom_European_Court_of_Human_Rights_01.JPG",
+      "license": "CC BY-SA 3.0 PL",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "creator": "Adrian Grycuk",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Courtroom European Court of Human Rights 01.JPG"
+    },
+    {
+      "file": "html_qa/democracy_information_exposure_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_information_exposure_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_information_exposure_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "כיצד חשיפה לחדשות מפלגתיות נקשרת לקיטוב רגשי?",
+      "authorsHe": "R. Kelly Garrett; Shira Dvir Gvirsman; Benjamin K. Johnson; Yariv Tsfati; Rachel Neo; Aysenur Dal",
+      "visualDescriptionHe": "קבוצת אזרחים יושבת משני צדי שולחן וקוראת מקורות חדשות מודפסים ודיגיטליים.",
+      "semanticDescriptionHe": "הקריאה המשותפת ממחישה חשיפה למידע תואם ומנוגד לעמדה ואת הקשר האפשרי לקיטוב רגשי; הדמויות, המקורות והמפגש בדיוניים ואינם משיבי הפאנלים או כלי המדידה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "affective_polarization",
+        "selective_exposure",
+        "partisan_news",
+        "panel_survey"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific opposing-news exposure scene generated without readable headlines, outlet marks, party symbols, flags, real respondents, or reproduced stimuli and finished as an 800x600 progressive JPEG. High fitness because it places different news formats in a shared setting without labeling the people as political camps.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_un_human_rights_committee_decision_implementation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_un_human_rights_committee_decision_implementation_summary_he.html",
+      "usedBy": [
+        "democracy_un_human_rights_committee_decision_implementation_summary_he.html"
+      ],
+      "cardTitleHe": "מתי מדינות מיישמות החלטות של ועדת זכויות האדם של האו״ם?",
+      "authorsHe": "Vera Shikhelman",
+      "visualDescriptionHe": "חזית ארמון וילסון בז׳נבה, משכנו של משרד הנציב העליון של האו״ם לזכויות אדם.",
+      "semanticDescriptionHe": "המבנה מעגן את ההקשר המוסדי של מנגנוני זכויות האדם של האו״ם; התצלום אינו מתעד ישיבה של ועדת זכויות האדם, מדינה שנבדקה או יישום של סעד מסוים.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "un_human_rights_committee",
+        "implementation",
+        "international_human_rights",
+        "palais_wilson"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of Palais Wilson, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it accurately locates the UN human-rights setting but does not depict a Committee session or implementation outcome.",
+      "createdDate": "2026-08-15",
+      "sourceType": "wikimedia_commons",
+      "source": "Fratami / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palais_Wilson_II.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Fratami",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Palais Wilson II.jpg"
+    },
+    {
+      "file": "html_qa/democracy_hostile_media_minority_alienation_arabs_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_hostile_media_minority_alienation_arabs_israel_summary_he.html",
+      "usedBy": [
+        "democracy_hostile_media_minority_alienation_arabs_israel_summary_he.html"
+      ],
+      "cardTitleHe": "כשהתקשורת נתפסת כעוינת: הדרך מתחושת השפעה לניכור בקרב ערבים בישראל",
+      "authorsHe": "Yariv Tsfati",
+      "visualDescriptionHe": "קבוצת צופים בוחנת שידור חדשות בחדר מגורים הצופה גם אל חדר מערכת פעיל.",
+      "semanticDescriptionHe": "הצפייה בין השידור לחדר המערכת ממחישה את הפער בין תוכן חדשותי לבין האופן שבו קהילה מפרשת את ייצוגה; הדמויות, השידור וחדר החדשות בדיוניים ואינם מציגים את משיבי המחקר או קהילה מזוהה.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "hostile_media",
+        "minority_alienation",
+        "media_representation",
+        "arabs_in_israel"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific community-newsroom scene generated without readable headlines, channel logos, flags, real journalists, research participants, or identity labels and finished as an 800x600 progressive JPEG. High fitness because it makes perceived mediation and group viewing visible without inferring identity from appearance.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_immigrant_political_trust_memory_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_immigrant_political_trust_memory_summary_he.html",
+      "usedBy": [
+        "democracy_immigrant_political_trust_memory_summary_he.html"
+      ],
+      "cardTitleHe": "מבוגרים מכדי לשכוח: כיצד זיכרון מוסדי מארץ המוצא מעצב אמון פוליטי של מהגרים",
+      "authorsHe": "Chiara Superti; Noam Gidron",
+      "visualDescriptionHe": "גבר מבוגר ואישה צעירה משוחחים עם נציגת מוסד מול מסמכים, כששני נופים עירוניים שונים נראים ברקע.",
+      "semanticDescriptionHe": "המפגש הבין־דורי והנופים השונים ממחישים כיצד זיכרון של מוסדות קודמים עשוי לשמש נקודת ייחוס להערכת מדינה קולטת; הדמויות, המסמכים והמקומות בדיוניים ואינם משיבי הסקר או מדינות המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "immigration",
+        "political_trust",
+        "institutional_memory",
+        "age_at_migration"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific institutional-memory scene generated without readable documents, flags, country labels, real officials, survey respondents, or identifiable state symbols and finished as an 800x600 progressive JPEG. High fitness because the layered civic settings support the paper's origin-versus-destination comparison without naming a country.",
+      "createdDate": "2026-08-15",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-15 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_judicial_review_political_accountability_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_judicial_review_political_accountability_israel_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_review_political_accountability_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית מול אחריותיות פוליטית: בג״ץ בין הגנת מיעוטים ללחצי הרוב",
+      "authorsHe": "Yoav Dotan",
+      "visualDescriptionHe": "מבט אווירי על מתחם בית המשפט העליון בירושלים.",
+      "semanticDescriptionHe": "התצלום מזהה את המוסד העומד במרכז הדיון על ביקורת שיפוטית ואחריותיות פוליטית בישראל; הוא אינו מתעד תיק, דיון או הכרעה מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "judicial_review",
+        "political_accountability",
+        "israel_supreme_court",
+        "high_court_of_justice"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained aerial documentary photograph of Israel's Supreme Court complex, center-cropped and finished as an 800x600 progressive JPEG. High fitness because it directly depicts the institution analyzed without implying a specific case or judgment.",
+      "createdDate": "2026-08-15",
+      "sourceType": "wikimedia_commons",
+      "source": "Moshe Milner / Israel Government Press Office / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Aerial_view_of_the_supreme_court_building_in_Jerusalem_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "Moshe Milner",
+      "provider": "Israel Government Press Office / Wikimedia Commons",
+      "fileTitle": "Flickr - Government Press Office (GPO) - Aerial view of the supreme court building in Jerusalem (cropped).jpg"
+    },
+    {
+      "file": "html_qa/democracy_women_representatives_policy_impact_nondemocracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_women_representatives_policy_impact_nondemocracy_summary_he.html",
+      "usedBy": [
+        "democracy_women_representatives_policy_impact_nondemocracy_summary_he.html"
+      ],
+      "cardTitleHe": "גם מעבר לדמוקרטיה: ייצוג נשים נקשר למדיניות מהותית",
+      "authorsHe": "Aliza Forman-Rabinovici; Udi Sommer",
+      "visualDescriptionHe": "חברות פרלמנט ממדינות שונות משתתפות במפגש מקצועי ומשוחחות עם דוברת.",
+      "semanticDescriptionHe": "המפגש הבין־לאומי ממחיש נוכחות וייצוג של נשים בזירה הפוליטית; המצולמות אינן מדגם המחקר והתצלום אינו מציג פרלמנט, משטר או תוצאת מדיניות שנמדדו במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_representatives",
+        "descriptive_representation",
+        "substantive_representation",
+        "gender_policy"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of an international women-parliamentarians forum, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it directly depicts women legislators but not a parliamentary chamber, sampled legislature, regime type, or policy outcome.",
+      "createdDate": "2026-08-15",
+      "sourceType": "wikimedia_commons",
+      "source": "U.S. Embassy New Zealand / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Women_Parliamentarians_(30072277243).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "creator": "U.S. Embassy New Zealand",
+      "provider": "Wikimedia Commons / Flickr / U.S. Embassy New Zealand",
+      "fileTitle": "Women Parliamentarians (30072277243).jpg"
     }
   ],
   "topicGraphics": [
