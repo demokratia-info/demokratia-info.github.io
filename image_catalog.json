@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-15",
+  "lastUpdated": "2026-08-16",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -34130,6 +34130,304 @@
       "creator": "U.S. Embassy New Zealand",
       "provider": "Wikimedia Commons / Flickr / U.S. Embassy New Zealand",
       "fileTitle": "Women Parliamentarians (30072277243).jpg"
+    },
+    {
+      "file": "html_qa/democracy_councils_revolution_participatory_democracy_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_councils_revolution_participatory_democracy_summary_he.html",
+      "usedBy": [
+        "democracy_councils_revolution_participatory_democracy_summary_he.html"
+      ],
+      "cardTitleHe": "מועצות ומהפכה: המוסד החסר של הדמוקרטיה ההשתתפותית",
+      "authorsHe": "Shmuel Lederman",
+      "visualDescriptionHe": "אספת תושבים מגוונת יושבת במעגל סביב שולחן משותף באולם קהילתי.",
+      "semanticDescriptionHe": "האספה האופקית ממחישה מועצת אזרחים כמרחב של דיון וממשל עצמי; הדמויות והמקום בדיוניים ואינם מתעדים מועצה או משתתפים מן המאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "participatory_democracy",
+        "citizens_councils",
+        "workers_councils",
+        "hannah_arendt",
+        "porto_alegre"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic council scene generated without readable documents, flags, logos, leaders, or institutional emblems and finished as an 800x600 progressive JPEG. Standard fitness because it directly represents the council model while remaining an editorial illustration rather than documentary evidence.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_political_information_repertoires_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_information_repertoires_participation_summary_he.html",
+      "usedBy": [
+        "democracy_political_information_repertoires_participation_summary_he.html"
+      ],
+      "cardTitleHe": "מי נעשה פעיל פוליטית? תפריטי מידע בבחירות 2013",
+      "authorsHe": "Gadi Wolfsfeld; Moran Yarchi; Tal Samuel-Azran",
+      "visualDescriptionHe": "אזרחים בגילים שונים יושבים סביב שולחן קהילתי ומשלבים עיתון, רדיו, מחשב וטלפונים בשיחה.",
+      "semanticDescriptionHe": "שילוב אמצעי התקשורת ממחיש תפריט מידע פוליטי שמחבר מדיה מסורתית וחברתית; הדמויות, המפגש והחומרים בדיוניים ואינם משיבי הסקר או גירויים מן המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "political_information_repertoires",
+        "political_participation",
+        "traditional_media",
+        "social_media",
+        "israel_election_2013"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic information scene generated without readable headlines, outlet marks, party symbols, flags, real respondents, or reproduced survey material and finished as an 800x600 progressive JPEG. Standard fitness because it clearly depicts mixed media use and civic discussion but not the survey or its measured relationships.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_militant_islamic_movements_institutionalization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_militant_islamic_movements_institutionalization_summary_he.html",
+      "usedBy": [
+        "democracy_militant_islamic_movements_institutionalization_summary_he.html"
+      ],
+      "cardTitleHe": "ממהפכה להשתתפות פוליטית: ההתמסדות הבלתי־שלמה של חמאס וחזבאללה",
+      "authorsHe": "Avraham Sela",
+      "visualDescriptionHe": "נציגי ציבור מן המזרח התיכון מקיימים דיון ועדה אזרחי, כשאולם מוסדי נראה מעבר לדלת פתוחה.",
+      "semanticDescriptionHe": "השולחן, המסמכים הריקים והאולם הסמוך ממחישים מעבר אל בירוקרטיה, ייצוג והשתתפות פוליטית בלי לזהות ארגון, מדינה או אדם ממשי; הדמויות והמקום בדיוניים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "political_institutionalization",
+        "islamic_movements",
+        "hamas",
+        "hezbollah",
+        "political_participation"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civilian institutionalization scene generated without weapons, uniforms, flags, party insignia, readable papers, or identifiable officials and finished as an 800x600 progressive JPEG. Standard fitness because it conveys the article's organizational transition without presenting a real event.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_four_anchors_women_political_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_four_anchors_women_political_participation_summary_he.html",
+      "usedBy": [
+        "democracy_four_anchors_women_political_participation_summary_he.html"
+      ],
+      "cardTitleHe": "ארבעה עוגנים להשתתפות נשים בפוליטיקה המקומית",
+      "authorsHe": "Osnat Akirav; Yael Ben-Horin",
+      "visualDescriptionHe": "נשים בגילים שונים משתתפות בסדנת מנהיגות אזרחית סביב שולחן ובימת דוברת.",
+      "semanticDescriptionHe": "סדנת המנהיגות והקשרים בין המשתתפות ממחישים הכשרה ורשת נשים כשניים מארבעת העוגנים; הדמויות, המקום והתרגיל בדיוניים ואינם משתתפות התוכניות שנחקרו.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_political_participation",
+        "local_government",
+        "authentic_leadership",
+        "women_training",
+        "women_networks"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific women’s civic-leadership workshop generated without readable materials, organization marks, campaign signs, flags, real participants, or claims about an election outcome and finished as an 800x600 progressive JPEG. Standard fitness because it directly conveys training, leadership, and peer networks but cannot show the model’s measured associations.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_migration_securitization_citizenship_human_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_migration_securitization_citizenship_human_rights_summary_he.html",
+      "usedBy": [
+        "democracy_migration_securitization_citizenship_human_rights_summary_he.html"
+      ],
+      "cardTitleHe": "כשהגירה הופכת לאיום: אזרחות וזכויות אדם בגרמניה",
+      "authorsHe": "Ayelet Banai; Regina Kreide",
+      "visualDescriptionHe": "פליטים שהגיעו ברכבת עולים מן הרציף בתחנת נמל התעופה קלן־בון בספטמבר 2015.",
+      "semanticDescriptionHe": "התצלום מעגן את הקשר ההגירה והקליטה בגרמניה בשנת 2015; הוא אינו מציג איום ביטחוני, הליך אזרחות, מקרה משפטי או אדם מסוים שנדון במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "migration",
+        "securitization",
+        "citizenship",
+        "human_rights",
+        "germany",
+        "refugees_2015"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of refugees arriving at Cologne/Bonn Airport station on 27 September 2015, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it accurately anchors the German 2015 migration context but does not depict the paper’s conceptual mechanisms, citizenship cases, or security measures.",
+      "createdDate": "2026-08-16",
+      "sourceType": "wikimedia_commons",
+      "source": "Raimond Spekking / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Drehscheibe_K%C3%B6ln-Bonn_Airport_-_Ankunft_Fl%C3%BCchtlinge_27._September_2015-0038.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Raimond Spekking",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Drehscheibe Köln-Bonn Airport - Ankunft Flüchtlinge 27. September 2015-0038.jpg"
+    },
+    {
+      "file": "html_qa/democracy_smartphones_text_messages_political_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_smartphones_text_messages_political_participation_summary_he.html",
+      "usedBy": [
+        "democracy_smartphones_text_messages_political_participation_summary_he.html"
+      ],
+      "cardTitleHe": "לא רק לפתוח את ההודעה: מה גורם לאזרחים להשיב למסרון פוליטי?",
+      "authorsHe": "Sara Shaul-Cohen; Azi Lev-On",
+      "visualDescriptionHe": "תושב מקומי משיב בטלפון נייד מול מתנדבת בקמפיין עירוני, כשברקע מתקיימת שיחה אזרחית נוספת.",
+      "semanticDescriptionHe": "הסצנה ממחישה תקשורת דו־כיוונית ונגישה בקמפיין מקומי; הדמויות, המשרד והטלפון בדיוניים ואינם מתעדים מועמד, קמפיין, הודעה או משתתף מן המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "campaign_sms",
+        "local_elections",
+        "political_participation",
+        "mobile_communication"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic interaction scene generated without readable text, phone UI, logos, flags, party symbols, real politicians, or identifiable research participants and finished as an 800x600 progressive JPEG. Standard fitness because it illustrates two-way campaign messaging without representing the study's measured recipients or outcomes.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_pandemic_gun_buyers_antisystem_violence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_pandemic_gun_buyers_antisystem_violence_summary_he.html",
+      "usedBy": [
+        "democracy_pandemic_gun_buyers_antisystem_violence_summary_he.html"
+      ],
+      "cardTitleHe": "רוכשי נשק בתקופת הקורונה בלטו גם בעמדות אנטי־מערכתיות — אך הקשר אינו סיבתי",
+      "authorsHe": "Matthew D. Simonson; Matthew J. Lacombe; Jon Green; James N. Druckman",
+      "visualDescriptionHe": "תצוגת כלי ירייה עתיקים בחנות בניו אורלינס, ללא אנשים.",
+      "semanticDescriptionHe": "הצילום מספק הקשר חזותי למושא הרכישה שנדון במאמר; הוא אינו מציג רוכשים, משיבי סקר, התנהגות אלימה או קשר סיבתי בין רכישה לעמדות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "gun_buying",
+        "antisystem_attitudes",
+        "political_violence",
+        "covid_19"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of an antique firearm display, tightly cropped to remove the source image's central shop sign and finished as an 800x600 progressive JPEG. Standard fitness because it depicts firearms without people while avoiding any implication that photographed individuals were study respondents or that gun buying caused the measured attitudes.",
+      "createdDate": "2026-08-16",
+      "sourceType": "wikimedia_commons",
+      "source": "Infrogmation of New Orleans / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Royal_Gun_Shop_2_NOLA.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Royal_Gun_Shop_2_NOLA.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "Infrogmation of New Orleans",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Royal Gun Shop 2 NOLA.JPG",
+      "sourceDimensions": "2592x1944"
+    },
+    {
+      "file": "html_qa/democracy_gender_security_women_israeli_parliament_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gender_security_women_israeli_parliament_summary_he.html",
+      "usedBy": [
+        "democracy_gender_security_women_israeli_parliament_summary_he.html"
+      ],
+      "cardTitleHe": "בין ייצוג נשים לחלוקת עבודה מגדרית: מי עוסק בביטחון בכנסת?",
+      "authorsHe": "Reut Itzkovitch-Malka; Chen Friedberg",
+      "visualDescriptionHe": "חברת הכנסת מאי גולן נואמת במליאת הכנסת בשנת 2022.",
+      "semanticDescriptionHe": "הצילום מציג חברת כנסת בתוך הזירה הפרלמנטרית שבה עוסק המאמר; הוא מאוחר מתקופת המחקר ואינו מתעד את חברות הכנסת, הדיונים או חלוקת העבודה שנותחו בו.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_legislators",
+        "security_policy",
+        "gendered_division_of_labor",
+        "israel_knesset"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained documentary photograph of a woman legislator in the Knesset plenum, cropped and finished as an 800x600 progressive JPEG. Standard fitness because it provides the exact institutional setting and a genuine woman parliamentarian while postdating the study and not depicting its observations.",
+      "createdDate": "2026-08-16",
+      "sourceType": "wikimedia_commons",
+      "source": "Knesset Spokesperson / Danny Shem-Tov / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:May_Golan_8.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/May_Golan_8.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Danny Shem-Tov",
+      "provider": "Knesset Spokesperson / Wikimedia Commons",
+      "fileTitle": "May Golan 8.jpg",
+      "sourceDimensions": "4934x3116"
+    },
+    {
+      "file": "html_qa/democracy_gendered_visual_activism_human_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_gendered_visual_activism_human_rights_summary_he.html",
+      "usedBy": [
+        "democracy_gendered_visual_activism_human_rights_summary_he.html"
+      ],
+      "cardTitleHe": "מן החלון אל המרחב הציבורי: תיעוד וידאו נשי כפעילות זכויות אדם",
+      "authorsHe": "Ruthie Ginsburg",
+      "visualDescriptionHe": "אישה מצלמת במצלמת וידאו מתוך בית אל עבר שכונת אבן.",
+      "semanticDescriptionHe": "המבט מסף הבית אל הרחוב ממחיש את המתח בין המרחב הפרטי לציבורי בתיעוד חזותי; הדמות והמקום בדיוניים ואינם משתתפת בפרויקט או אתר מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "gendered_visual_activism",
+        "human_rights_documentation",
+        "btselem_camera_project",
+        "private_public_space",
+        "palestinian_women"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific human-rights documentation scene generated without readable text, logos, flags, uniforms, real participants, or a real documented incident and finished as an 800x600 progressive JPEG. High fitness because the domestic threshold, camera, and outward gaze closely support the paper’s account of gendered visual activism.",
+      "createdDate": "2026-08-16",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-16 nightly heartbeat",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/democracy_right_to_have_rights_resistance_spaces_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_right_to_have_rights_resistance_spaces_summary_he.html",
+      "usedBy": [
+        "democracy_right_to_have_rights_resistance_spaces_summary_he.html"
+      ],
+      "cardTitleHe": "מעבר ל׳זכות לזכויות׳: כיצד אוכפים זכויות אדם מלמטה?",
+      "authorsHe": "Jeff Halper; Tom Reifer",
+      "visualDescriptionHe": "בית פלסטיני הרוס בתצלום תיעודי.",
+      "semanticDescriptionHe": "הבית ההרוס ממחיש את תחום הריסת הבתים העומד במוקד פעילות ICAHD; התצלום אינו מתעד מקרה מסוים, פעולה של ICAHD או אירוע שנבחן במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "human_rights",
+        "civil_society",
+        "political_resistance",
+        "icahd",
+        "house_demolitions"
+      ],
+      "reuseGuidance": "Newly generated or obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons documentary photograph of a demolished Palestinian home, re-encoded and finished as an 800x600 progressive JPEG. Standard fitness because it directly matches ICAHD's subject area but does not document a specific case, action, or outcome discussed in the article.",
+      "createdDate": "2026-08-16",
+      "sourceType": "wikimedia_commons",
+      "source": "joeskillet / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DemolishedPalestinianHome.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "creator": "joeskillet",
+      "provider": "Wikimedia Commons / Flickr",
+      "fileTitle": "DemolishedPalestinianHome.jpg"
     }
   ],
   "topicGraphics": [

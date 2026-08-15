@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1332,
+  "paperCount": 1342,
   "papers": [
+    {
+      "slug": "democracy_right_to_have_rights_resistance_spaces_summary_he",
+      "file": "democracy_right_to_have_rights_resistance_spaces_summary_he.html",
+      "permalink": "/democracy_right_to_have_rights_resistance_spaces_summary_he.html",
+      "sortKey": 202608160010,
+      "titleHe": "מעבר ל׳זכות לזכויות׳: כיצד אוכפים זכויות אדם מלמטה?",
+      "paperTitle": "Beyond ‘the right to have rights’: creating spaces of political resistance protected by human rights",
+      "authorsCardHe": "Jeff Halper; Tom Reifer",
+      "sourceAuthors": [
+        "Jeff Halper",
+        "Tom Reifer"
+      ],
+      "journal": "The International Journal of Human Rights, 23(5), 740–757",
+      "dateText": "פורסם אונליין: 9 במאי 2017; כרך 23, גיליון 5, עמ׳ 740–757 (2019)",
+      "doiUrl": "https://doi.org/10.1080/13642987.2017.1316567",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_right_to_have_rights_resistance_spaces_summary_he.jpg",
+        "altHe": "בית פלסטיני הרוס בתצלום תיעודי; התמונה ממחישה את תחום הפעולה של ICAHD ואינה מתעדת מקרה מסוים שנבחן במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "ג׳ף הלפר וטום רייפר פותחים בדילמה המזוהה עם חנה ארנדט: ניסוח זכויות אוניברסליות אינו מבטיח לאדם חברות במסגרת פוליטית המסוגלת לממש ולהגן עליהן. לטענתם, משטר זכויות האדם תלוי במדינות ובמוסדות בין־מדינתיים, ולכן אכיפתו נחלשת כאשר המפרים חזקים או כאשר אין רצון פוליטי להפעיל מנגנוני אחריות. ישראל והשטחים הפלסטיניים משמשים במאמר מקרה מרכזי לדיון בפער שבין המשפט ההומניטרי הבין־לאומי לבין אכיפתו. המחברים בוחנים את הוועד הישראלי נגד הריסת בתים, ICAHD, שבראשו עמד הלפר, לא כארגון הומניטרי בלבד אלא כשחקן פוליטי המבקש לחבר התנגדות בשטח, ניתוח, מסגור ציבורי ותוכנית לשינוי. זכויות אדם מספקות לתנועה שפה מוסכמת, סמכות מוסרית, קווים אדומים ומידה של הגנה ציבורית, אך אינן מכתיבות לבדן פתרון פוליטי או אסטרטגיה. מן הניסיון הזה המחברים מציעים מהלך בן שישה רכיבים: נוכחות לצד הנפגעים, ניתוח המעוגן בשטח, מסגור מחדש באמצעות זכויות, גיבוש תוכנית פוליטית צודקת, סנגור מקומי־גלובלי ובניית תשתית של חברה אזרחית שתוכל לפעול מול מדינות. The People Yes! Network מוצגת כניסיון לקשור קבוצות מקומיות לרשת חוצת־גבולות של ידע, הכשרה ותיאום. המסקנה היא שהגנה על זכויות ואכיפתן אינן יכולות לבוא רק ׳מלמעלה׳; תנועות פוליטיות צריכות ליצור כוח ומרחב לפעולה מלמטה, ובתהליך גם להגן על משטר הזכויות מפני ריקון מתוכן. זהו מאמר נורמטיבי ואקטיביסטי, שנכתב בידי מחברים המזוהים עם הארגונים הנדונים. הוא אינו הערכת השפעה עצמאית ואינו מוכיח שהאסטרטגיה המוצעת הצליחה, אך הוא מבהיר את ההבדל בין זכויות כמסגרת הכוונה והגנה לבין פוליטיקה כפעולה הנדרשת למימושן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_gendered_visual_activism_human_rights_summary_he",
+      "file": "democracy_gendered_visual_activism_human_rights_summary_he.html",
+      "permalink": "/democracy_gendered_visual_activism_human_rights_summary_he.html",
+      "sortKey": 202608160009,
+      "titleHe": "מן החלון אל המרחב הציבורי: תיעוד וידאו נשי כפעילות זכויות אדם",
+      "paperTitle": "Gendered visual activism: Documenting human rights abuse from the private sphere",
+      "authorsCardHe": "Ruthie Ginsburg",
+      "sourceAuthors": [
+        "Ruthie Ginsburg"
+      ],
+      "journal": "Current Sociology, 66(1), 38–55",
+      "dateText": "פורסם אונליין: 4 ביולי 2016; כרך 66, גיליון 1, עמ׳ 38–55 (ינואר 2018)",
+      "doiUrl": "https://doi.org/10.1177/0011392116651115",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gendered_visual_activism_human_rights_summary_he.jpg",
+        "altHe": "אישה מצלמת במצלמת וידאו מתוך בית אל עבר שכונת אבן, כמטפורה לתיעוד זכויות מן המרחב הפרטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "רותי גינזבורג חוקרת צורה של אקטיביזם חזותי שבה נשים פלסטיניות מתעדות מן הבית אירועים המתרחשים בחוץ במסגרת פרויקט המצלמות של בצלם. המאמר אינו מסתפק בשאלה מה רואים בסרטון או אם הוא הופץ בהצלחה, אלא בוחן את תנאי ההפקה: מי מחזיקה במצלמה, היכן היא עומדת וכיצד הגבול בין המרחב הפרטי לציבורי מעצב את העדות. הבסיס האמפירי כולל שיחות עם שבע משתתפות מאזור שכם ומחברון, צפייה ב־50 סרטים וב־50 שעות חומר מארכיון הפרויקט, וניתוח ההקשר החברתי והפוליטי שבו נוצר התיעוד. גינזבורג טוענת שהבית מופיע כמרחב אמביוולנטי: הוא עשוי להגביל ניידות ולהשאיר נשים מחוץ לזירה הציבורית, אך הוא גם נקודת תצפית, מקום הגנה על המשפחה ובסיס לפעולה פוליטית. המצלמה מאפשרת להפוך את המיקום הביתי לעדות הנכנסת לשיח ציבורי, ובו בזמן היא אינה מבטלת את הסיכון, את יחסי הכוח או את התלות בארגון שמכשיר, אוסף ומפיץ את החומר. המושג המרכזי שמציע המאמר הוא המִרחוּב של האקטיביזם החזותי: הבנת הפעולה הפוליטית דרך המקום שממנו היא מתבצעת ולא רק דרך התמונה הסופית. התרומה הדמוקרטית־ליברלית של המחקר היא בהצגת תיעוד אזרחי כדרך לתבוע נראות, אחריותיות וזכויות עבור מי שגישתן למרחב הציבורי מוגבלת. עם זאת, זהו מחקר איכותני של פרויקט, קהילות ותקופה מסוימים; הוא אינו מייצג את כלל הנשים הפלסטיניות ואינו מוכיח לבדו שהצילום משנה אכיפה, פסיקה או מדיניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_gender_security_women_israeli_parliament_summary_he",
+      "file": "democracy_gender_security_women_israeli_parliament_summary_he.html",
+      "permalink": "/democracy_gender_security_women_israeli_parliament_summary_he.html",
+      "sortKey": 202608160008,
+      "titleHe": "בין ייצוג נשים לחלוקת עבודה מגדרית: מי עוסק בביטחון בכנסת?",
+      "paperTitle": "Gendering security: The substantive representation of women in the Israeli parliament",
+      "authorsCardHe": "Reut Itzkovitch-Malka; Chen Friedberg",
+      "sourceAuthors": [
+        "Reut Itzkovitch-Malka",
+        "Chen Friedberg"
+      ],
+      "journal": "European Journal of Women’s Studies, 25(4), 419–439",
+      "dateText": "פורסם לראשונה אונליין: 29 בדצמבר 2016; כרך 25, גיליון 4, עמ׳ 419–439 (נובמבר 2018)",
+      "doiUrl": "https://doi.org/10.1177/1350506816684898",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gender_security_women_israeli_parliament_summary_he.jpg",
+        "altHe": "חברת הכנסת מאי גולן במליאת הכנסת בשנת 2022; צילום הקשרי מאוחר מתקופת המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "רעות איצקוביץ׳־מלכה וחן פרידברג בוחנות כיצד מגדר וביטחון לאומי מצטלבים בעבודה הפרלמנטרית בישראל. הן מנתחות את הכנסת ה־17 וה־18 בשנים 2006–2013 ומשוות את כל חברות הכנסת שלא החזיקו בתפקיד ביצועי — 14 בכנסת ה־17 ו־19 בכנסת ה־18 — למדגם אקראי של מספר זהה של חברי כנסת מאותן מסגרות מפלגתיות. שלושה סוגי פעילות נבדקו: הצעות חוק פרטיות, חוקים שהתקבלו ושאילתות פרלמנטריות. בשל המספר הגדול של הצעות החוק נדגמה בשיטתיות אחת מכל ארבע הצעות: 242 מתוך 977 הצעות של הנשים ו־143 מתוך 583 של הגברים בכנסת ה־17, ו־504 מתוך 2,006 של הנשים ו־529 מתוך 2,114 של הגברים בכנסת ה־18. כל החוקים שהתקבלו וכל 857 השאילתות של הנשים ו־802 השאילתות של קבוצת הגברים נאספו, והפעילות סווגה לשמונה תחומים. בתיאור הצעות החוק הפרטיות, נשים יזמו 84.8% מן ההצעות בענייני נשים ו־73% בענייני ילדים ומשפחה, אך 42% בלבד בתחום הביטחון הלאומי. במודלים של ספירות, שכללו ותק, חברות בוועדה, מפלגה, תקופת כהונה והיקף פעילות כולל, נשים היו צפויות ליזום 0.58 הצעות נוספות בענייני נשים ו־0.64 בענייני ילדים ומשפחה, אך 2.67 פחות בכלכלה ו־0.54 פחות בביטחון לעומת גברים. בדפוס החוקים שהתקבלו, נשים היו אחראיות ל־38 מתוך 44 חוקים בענייני נשים אך רק ל־3 מתוך 19 חוקים בביטחון; המודל חזה לנשים 1.19 חוקים נוספים בענייני נשים, 0.45 נוספים במשפחה ו־0.30 פחות בביטחון. בשאילתות, נשים היו פעילות יותר ברוב התחומים, והפער המובהק היה חיובי בענייני נשים, בריאות וכלכלה; בביטחון חלקן היה 43.5% והבדל המגדר לא היה מובהק במודל. התמונה תומכת בעיקר בהשערה שנשים מתמקדות בתחומים המזוהים כ״רכים״ ונוכחות פחות בתחום הביטחוני, אך הנתונים אינם מסבירים מדוע. ייתכן שנשים נדחקות ממוקדי כוח ומוועדות מרכזיות, וייתכן שהן בוחרות אסטרטגית בתחומים שבהם יוכלו לקדם הישגים; המחקר אינו מודד ישירות את שני המנגנונים. הוא גם אינו מוכיח שהדומיננטיות של הביטחון בפוליטיקה הישראלית היא שגרמה לפער, ואינו מאפשר להסיק מסקנה על כישוריהן או העדפותיהן של נשים בכלל. הממצא המדויק יותר הוא שבשתי כנסות מסוימות התקיימה חלוקת פעילות מגדרית גם לאחר התאמה לכמה מאפיינים מוסדיים ופוליטיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_pandemic_gun_buyers_antisystem_violence_summary_he",
+      "file": "democracy_pandemic_gun_buyers_antisystem_violence_summary_he.html",
+      "permalink": "/democracy_pandemic_gun_buyers_antisystem_violence_summary_he.html",
+      "sortKey": 202608160007,
+      "titleHe": "רוכשי נשק בתקופת הקורונה בלטו גם בעמדות אנטי־מערכתיות — אך הקשר אינו סיבתי",
+      "paperTitle": "Guns and Democracy: Anti-System Attitudes, Protest, and Support for Violence Among Pandemic Gun-Buyers",
+      "authorsCardHe": "Matthew D. Simonson; Matthew J. Lacombe; Jon Green; James N. Druckman",
+      "sourceAuthors": [
+        "Matthew D. Simonson",
+        "Matthew J. Lacombe",
+        "Jon Green",
+        "James N. Druckman"
+      ],
+      "journal": "Political Research Quarterly, 77(3), 962–977",
+      "dateText": "פורסם לראשונה אונליין: 16 במאי 2024; כרך 77, גיליון 3, עמ׳ 962–977 (ספטמבר 2024)",
+      "doiUrl": "https://doi.org/10.1177/10659129241249662",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pandemic_gun_buyers_antisystem_violence_summary_he.jpg",
+        "altHe": "תצוגת כלי ירייה עתיקים בחנות בניו אורלינס, ללא אנשים; צילום הקשרי שאינו מתעד משתתפים במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "מתיו ד׳ סימונסון, מתיו ג׳ לקומב, ג׳ון גרין וג׳יימס נ׳ דרוקמן בוחנים האם גל רכישת הנשק בארצות הברית בתקופת הקורונה התחבר גם לעמדות ולהתנהגויות שמאתגרות יציבות דמוקרטית. המאמר המפורסם מנתח 32,540 משיבים בשלושה גלי סקר מקוון שנאספו בין 29 בדצמבר 2020 ל־6 ביולי 2021 באמצעות PureSpectrum. המדגם נבנה במכסות ושוקלל לפי מאפיינים דמוגרפיים וגאוגרפיים של אוכלוסיית ארצות הברית, לאחר סינון משיבים לא קשובים, חוזרים או אוטומטיים למחצה. החוקרים משווים שלוש קבוצות: משיבים שבמשק ביתם נרכש נשק בזמן המגפה, בעלי נשק קודמים שלא רכשו נשק נוסף בתקופה, ומי שאינם בעלי נשק. התוצאות כוללות אי־אמון בטיפול של הבית הלבן, הקונגרס, ממשלת המדינה והרשות העירונית בקורונה; חמש אמונות קונספירטיביות; השתתפות במחאות והנושא שלהן; ותמיכה בתרחיש של אלימות סביב בחירות ובהסתערות על הקפיטול ב־6 בינואר. לאחר בקרות למפלגתיות, אידאולוגיה, הכנסה, דמוגרפיה ומשתנים נוספים, רוכשי הנשק בתקופת המגפה היו בסבירות גבוהה ב־7–10 נקודות אחוז לדווח על אי־אמון במוסדות לעומת מי שאינם בעלי נשק. גם בכל מדדי הקונספירציה הם בלטו: למשל, 13.3% הסכימו מאוד עם רעיונות QAnon לעומת 1.8% מבעלי הנשק הוותיקים ו־2.7% ממי שאינם בעלי נשק; 41.3% הסכימו מאוד שטראמפ היה מנצח אילו הקולות נספרו בהגינות, לעומת 26% ו־15.4% בהתאמה. הקבוצה דיווחה גם על יותר השתתפות במחאות ועל יותר תמיכה באלימות פוליטית, והדפוסים האנטי־מערכתיים היו בולטים במיוחד בקרב מי שאמרו שקנו נשק מסיבות פוליטיות כגון הגנה מפני הממשלה, הגבלות הסגר או הבחירות. אולם זהו מחקר תצפיתי: ייתכן שעמדות קודמות הובילו לרכישה, שהרכישה והעמדות נבעו מגורם שלישי, או ששני הכיוונים פעלו יחד. שאלת הרכישה מתייחסת למשק הבית ולא תמיד לאדם שהשיב, המדגם אינו הסתברותי, והמדדים מבוססים על דיווח עצמי. לכן המאמר מזהה ריכוז מדאיג של גישה לנשק ועמדות אנטי־מערכתיות באותה קבוצה, אך אינו קובע שקניית נשק יוצרת קונספירציות, מחאה או אלימות ואינו מראה שהמשיבים התכוונו להשתמש בנשק נגד המדינה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_smartphones_text_messages_political_participation_summary_he",
+      "file": "democracy_smartphones_text_messages_political_participation_summary_he.html",
+      "permalink": "/democracy_smartphones_text_messages_political_participation_summary_he.html",
+      "sortKey": 202608160006,
+      "titleHe": "לא רק לפתוח את ההודעה: מה גורם לאזרחים להשיב למסרון פוליטי?",
+      "paperTitle": "Smartphones, text messages, and political participation",
+      "authorsCardHe": "Sara Shaul-Cohen; Azi Lev-On",
+      "sourceAuthors": [
+        "Sara Shaul-Cohen",
+        "Azi Lev-On"
+      ],
+      "journal": "Mobile Media & Communication, 8(1), 62–82",
+      "dateText": "פורסם לראשונה אונליין: 1 במרץ 2019; כרך 8, גיליון 1, עמ׳ 62–82 (ינואר 2020)",
+      "doiUrl": "https://doi.org/10.1177/2050157918822143",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_smartphones_text_messages_political_participation_summary_he.jpg",
+        "altHe": "תושב מביט בטלפון נייד מול מתנדבת בקמפיין מקומי, ובקרבתם מתקיימת שיחה אזרחית נוספת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "שרה שאול־כהן ואזי לב־און בוחנים צורה קטנה אך מדידה של השתתפות פוליטית: תגובה למסרון אינטראקטיבי מקמפיין בחירות. המחקר נערך בבחירות המיוחדות של 2015 לראשות עיריית ערד ולראשות המועצות האזוריות אשכול והגלבוע. מועמד אחד בכל רשות מסר רשימת שמות פרטיים ומספרי טלפון של מצביעים פוטנציאליים, והרשימות חולקו באקראי לקבוצות שקיבלו נוסחים דומים עם פנייה אישית או כללית. בערד נבדק גם ערוץ המענה: מסרון חוזר לעומת טופס בדף נחיתה; באשכול כל הקבוצות השיבו במסרון, ובגלבוע כולן הופנו לדף נחיתה. בסך הכול נשלחו 9,500 הודעות והתקבלו 977 תגובות. לפי נתוני טבלה 1 התקבלו בערד 470 תגובות מתוך 4,514 מסרונים — כ־10.4%; בגוף המאמר מופיע לצדם 13.5%, שאינו מתיישב עם ספירת הטבלה. השיעור היה 14% באשכול ו־5.5% בגלבוע, ושיעורי הקבוצות נעו בין 4% ל־18%. בכל שלוש הרשויות פנייה בשם הפרטי הניבה יותר תגובות מפנייה כללית: פי 1.5 בערד, פי 1.65 באשכול ופי 1.7 בגלבוע. בערד, שבה אפשר היה להשוות גם את אופן התגובה, בקשה להשיב במסרון הניבה שיעור תגובה כפול מבקשה למלא טופס בדף נחיתה. בקרב מי שהגיעו לדפי הנחיתה בערד ובגלבוע לא נמצא הבדל מובהק לפי מגדר, וגם הגיל הממוצע של המשיבים לא נבדל במובהק מן הגיל הממוצע של אוכלוסיית המצביעים. עם זאת, הממצאים אינם מלמדים שמסרונים שינו עמדה או העלו הצבעה: התוצאה היא עצם התגובה בלבד. רק שלושה מתוך שמונה מטות שנפנו שיתפו פעולה, רשימות הטלפונים לא כללו את כל התושבים, ורק אחד משלושת המועמדים המשתתפים נבחר. לכן המאמר מספק ראיה ממוקדת לכך שעיצוב פשוט ונוח של ערוץ תגובה יכול להרחיב דיאלוג מקומי, אך אינו אומדן של כוחו האלקטורלי של מסרון ואינו בסיס להכללה לכל קמפיין.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_migration_securitization_citizenship_human_rights_summary_he",
+      "file": "democracy_migration_securitization_citizenship_human_rights_summary_he.html",
+      "permalink": "/democracy_migration_securitization_citizenship_human_rights_summary_he.html",
+      "sortKey": 202608160005,
+      "titleHe": "כשהגירה הופכת לאיום: אזרחות וזכויות אדם בגרמניה",
+      "paperTitle": "Securitization of migration in Germany: the ambivalences of citizenship and human rights",
+      "authorsCardHe": "Ayelet Banai, Regina Kreide",
+      "sourceAuthors": [
+        "Ayelet Banai",
+        "Regina Kreide"
+      ],
+      "journal": "Citizenship Studies, vol. 21, no. 8, 903–917",
+      "dateText": "פורסם אונליין ב־2 באוקטובר 2017; כרך 21, גיליון 8, עמ׳ 903–917 (נובמבר 2017)",
+      "doiUrl": "https://doi.org/10.1080/13621025.2017.1380649",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_migration_securitization_citizenship_human_rights_summary_he.jpg",
+        "altHe": "פליטים מגיעים ברכבת ועולים מן הרציף בתחנת נמל התעופה קלן־בון בספטמבר 2015",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "עיילת בנאי ורגינה קריידה בוחנות כיצד הגירה בגרמניה מוצגת כאיום ביטחוני וכיצד עצם התגובה לאיום עלולה לייצר אי־ביטחון עבור המוגנים לכאורה. הן מרחיבות את מושג הביטחוניזציה מעבר לנאומים של מנהיגים וכוללות בו גם פרקטיקות של סיווג, רישום, הערכת סיכון, מעקב, מחנות והחלפת מידע. המאמר מבחין בין איום חיצוני וקצר טווח של פשיעה, אלימות וטרור, המשמש להצדקת מניעת כניסה או שהייה, לבין איום פנימי וארוך טווח על לכידות, רווחה וזהות, שמסמן גם תושבים ואזרחים כמסוכנים. מקרי המטפחת המוסלמית פֶרֶשְתָה לודין, ועידת האסלאם הגרמנית ומעמדם של בני רוֹמָה מדגימים כיצד שוויון פורמלי יכול להתקיים לצד ׳גבולות פנימיים רכים׳. זכויות אדם ואזרחות פותחות אפשרויות לתביעה ולהכרה, אך מימושן תלוי בגישה לקהילה פוליטית שמסוגלת ומוכנה להגן עליהן. המחברות אינן מציעות לוותר על שפת הזכויות; הן קוראות להכיר במתח שבתוכה כדי לשמור על הפוטנציאל המשחרר שלה מפני שימושים מדירים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_four_anchors_women_political_participation_summary_he",
+      "file": "democracy_four_anchors_women_political_participation_summary_he.html",
+      "permalink": "/democracy_four_anchors_women_political_participation_summary_he.html",
+      "sortKey": 202608160004,
+      "titleHe": "ארבעה עוגנים להשתתפות נשים בפוליטיקה המקומית",
+      "paperTitle": "The Four Anchors Model – Women Political Participation",
+      "authorsCardHe": "Osnat Akirav, Yael Ben-Horin",
+      "sourceAuthors": [
+        "Osnat Akirav",
+        "Yael Ben-Horin"
+      ],
+      "journal": "World Political Science, vol. 12, no. 2, 241–259",
+      "dateText": "פורסם אונליין ב־30 ביולי 2016; כרך 12, גיליון 2, עמ׳ 241–259 (נובמבר 2016)",
+      "doiUrl": "https://doi.org/10.1515/wps-2016-0007",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_four_anchors_women_political_participation_summary_he.jpg",
+        "altHe": "נשים בגילים שונים משתתפות בסדנת מנהיגות אזרחית סביב שולחן ובימת דוברת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "אסנת עקירב ויעל בן־חורין מציעות מודל בן ארבעה עוגנים להשתתפות פוליטית של נשים: עוגן פנימי של מנהיגות אותנטית ושלושה עוגנים חיצוניים — ארגונים המקדמים אג׳נדה מגדרית, הכשרה מובנית לנשים בלבד ורשתות קשר של נשים. הן מנתחות שבעה מקורות מידע, ובהם שאלונים מתוכניות הכשרה, 30 ראיונות טלפוניים עם בוגרות, 70 עלונים של איגוד חברות המועצה, תצפיות, שיחות ופרוטוקול של שולחן עגול. הנתונים מתארים רכישת ידע וכלים, יצירת קשרים מתמשכים ופעילות של נשים במגוון נושאים עירוניים, ולא רק בנושאים המזוהים סטריאוטיפית עם נשים. לאחר בחירות 2013 גדל מספר הנשים במועצות המקומיות, וביישובים שבהם התקיימו תוכניות הכשרה נרשמו עליות גדולות במיוחד. עם זאת, המחברות מבהירות שהניתוח האיכותני אינו נועד להוכיח שהתוכניות גרמו לעלייה, והנתונים משלבים מקורות וקבוצות משתתפות שאינם זהים. המודל מדגיש כי כניסה למערכת היא רק שלב אחד: תמיכה ארגונית ורשתות עמיתות חשובות גם להתמודדות על תפקיד, לעבודה בזמן הכהונה ולהמשך ההשפעה הציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_militant_islamic_movements_institutionalization_summary_he",
+      "file": "democracy_militant_islamic_movements_institutionalization_summary_he.html",
+      "permalink": "/democracy_militant_islamic_movements_institutionalization_summary_he.html",
+      "sortKey": 202608160003,
+      "titleHe": "ממהפכה להשתתפות פוליטית: ההתמסדות הבלתי־שלמה של חמאס וחזבאללה",
+      "paperTitle": "From Revolution to Political Participation: Institutionalization of Militant Islamic Movements",
+      "authorsCardHe": "Avraham Sela",
+      "sourceAuthors": [
+        "Avraham Sela"
+      ],
+      "journal": "Contemporary Review of the Middle East, 2(1–2), 31–54",
+      "dateText": "כרך 2, גיליונות 1–2, עמ׳ 31–54 (מרץ 2015); פורסם אונליין: 6 באוגוסט 2015",
+      "doiUrl": "https://doi.org/10.1177/2347798915584033",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_militant_islamic_movements_institutionalization_summary_he.jpg",
+        "altHe": "איור עריכתי פוטוריאליסטי של נציגי ציבור מן המזרח התיכון בדיון ועדה אזרחי, כשאולם מוסדי נראה מעבר לדלת פתוחה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "אברהם סלע בוחן הנחה מקובלת בחקר תנועות חברתיות: ככל שתנועה גדלה, מתמסדת ומפתחת הנהגה ייצוגית ובירוקרטיה, היא אמורה לעבור מאסטרטגיה מהפכנית למדיניות רפורמיסטית ופרגמטית. הוא מעמיד את ההנחה במבחן השוואתי באמצעות חמאס הפלסטינית וחזבאללה הלבנונית, שתי תנועות אסלאמיות ששילבו פעילות דתית, חברתית ופוליטית עם מחויבות לג׳יהאד ולמאבק חמוש נגד ישראל. מסגרת הניתוח מבחינה בין שלושה מעגלי לגיטימציה: הליבה הארגונית, הציבור שהתנועה מבקשת לייצג, והכרה פוליטית חיצונית בתוך המדינה ומחוצה לה. בשני המקרים, הרחבת התמיכה הציבורית יצרה צורך במוסדות, שירותים, הנהגה היררכית והשתתפות בזירות רשמיות. חמאס פיתחה מנגנונים פנימיים וחיצוניים, שקלה דרכי השתתפות כבר בשנות התשעים, נכנסה לבחירות המוניציפליות ולבחירות למועצה המחוקקת הפלסטינית ב־2006, ולאחר ניצחונה נשאה באחריות ממשלתית; אך הפיצול עם פתח וההשתלטות האלימה על רצועת עזה המחישו, לפי סלע, שינוי שלא הושלם. חזבאללה התאימה את עצמה לסדר הלבנוני שלאחר מלחמת האזרחים, השתתפה בבחירות לפרלמנט ב־1992, בנתה בריתות ונכנסה לממשלה ב־2005, ובה בעת שמרה על יכולתה הצבאית ועל סיפור ה׳התנגדות׳. הממצא המרכזי הוא שהתמסדות יכולה להוסיף השתתפות פוליטית, רטוריקה מתונה וטקטיקות גמישות בלי להחליף את זהות התנועה או את יעדיה האסטרטגיים. זהו מחקר היסטורי השוואתי הנשען על ספרות ומקורות משניים ומסתיים לפני פרסומו ב־2015; הוא אינו מודד סיבתיות ואינו מתאר את מצב הארגונים כיום. תרומתו היא בהחלפת ציר פשוט של קיצוניות מול מתינות בתמונה של אסטרטגיות מקבילות, שבה מוסדות, בחירות ואלימות עשויים להתקיים יחד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_information_repertoires_participation_summary_he",
+      "file": "democracy_political_information_repertoires_participation_summary_he.html",
+      "permalink": "/democracy_political_information_repertoires_participation_summary_he.html",
+      "sortKey": 202608160002,
+      "titleHe": "מי נעשה פעיל פוליטית? תפריטי מידע בבחירות 2013",
+      "paperTitle": "Political information repertoires and political participation",
+      "authorsCardHe": "Gadi Wolfsfeld, Moran Yarchi, Tal Samuel-Azran",
+      "sourceAuthors": [
+        "Gadi Wolfsfeld",
+        "Moran Yarchi",
+        "Tal Samuel-Azran"
+      ],
+      "journal": "New Media & Society, vol. 18, no. 9, 2096–2115",
+      "dateText": "פורסם לראשונה אונליין ב־9 באפריל 2015; כרך 18, גיליון 9, עמ׳ 2096–2115 (אוקטובר 2016)",
+      "doiUrl": "https://doi.org/10.1177/1461444815580413",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_information_repertoires_participation_summary_he.jpg",
+        "altHe": "אזרחים סביב שולחן קהילתי משלבים עיתון, רדיו, מחשב וטלפונים בשיחה פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "גדי וולפספלד, מורן ירחי וטל שמואל־עזרן מנתחים סקר חתך מקוון שנערך בקרב 1,125 משתמשי אינטרנט בישראל בשבוע שלפני הבחירות לכנסת בינואר 2013. הם מציעים את המושג תפריט מידע פוליטי: מכלול מקורות המידע שאדם משלב בחיי היום־יום, ולא השפעתו של מדיום יחיד. החלוקה בין שימוש גבוה ונמוך במדיה מסורתית ובמדיה חברתית יוצרת ארבעה טיפוסים — נמנעים, מסורתיים, חברתיים ואקלקטיים. האקלקטיים, שצרכו הרבה משני סוגי המדיה, גילו את העניין והמסוגלות הפוליטיים הגבוהים ביותר והשתתפו יותר הן בזירה המקוונת והן בפעילות מסורתית. עם זאת, המסורתיים השיגו את רמת הידע הפוליטי הגבוהה ביותר, והמדיה המסורתית הייתה קשורה לידע כללי יותר מן המדיה החברתית. הממצאים מתיישבים עם האפשרות שמדיה חברתית מוסיפה נתיבי השתתפות ואינה מחליפה בהכרח את הפעילות האזרחית הוותיקה, אך מבנה המחקר החתכי והדיווח העצמי אינם מאפשרים לקבוע שהרגלי המדיה הם שגרמו להשתתפות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_councils_revolution_participatory_democracy_summary_he",
+      "file": "democracy_councils_revolution_participatory_democracy_summary_he.html",
+      "permalink": "/democracy_councils_revolution_participatory_democracy_summary_he.html",
+      "sortKey": 202608160001,
+      "titleHe": "מועצות ומהפכה: המוסד החסר של הדמוקרטיה ההשתתפותית",
+      "paperTitle": "Councils and Revolution: Participatory Democracy in Anarchist Thought and the New Social Movements",
+      "authorsCardHe": "Shmuel Lederman",
+      "sourceAuthors": [
+        "Shmuel Lederman"
+      ],
+      "journal": "Science & Society, 79(2), 243–263",
+      "dateText": "פורסם אונליין ב־11 במרץ 2015; כרך 79, גיליון 2, עמ׳ 243–263 (אפריל 2015)",
+      "doiUrl": "https://doi.org/10.1521/siso.2015.79.2.243",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_councils_revolution_participatory_democracy_summary_he.jpg",
+        "altHe": "איור עריכתי פוטוריאליסטי של אספת תושבים מגוונת היושבת במעגל סביב שולחן משותף באולם קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-16",
+      "dateModified": "2026-08-16",
+      "summaryHe": "שמואל לדרמן טוען שתנועות חברתיות חדשות אימצו פרקטיקות של ארגון אופקי, פעולה מקדימה ודמוקרטיה ישירה, אך בדרך איבדו חלק מרכזי מן המסורת האנרכיסטית הוותיקה: ניסיון לתאר מוסדות שיאפשרו לאזרחים להשתתף בשלטון לאורך זמן. המאמר חוזר אל מועצות העובדים והאזרחים שהתעוררו במהפכות, אל הפדרליזם של פרודון ובקונין ואל הוויכוח על המועצות ברוסיה, ומציג אותן כחלופה מבוזרת הן למדינה ריכוזית והן לשלטון מפלגתי. תרומתה הייחודית של חנה ארנדט היא פירוש המועצות לא רק כמנגנון לניהול עצמי כלכלי, אלא כמרחב של חירות פוליטית חיובית: מקום שבו אזרחים מדברים, שופטים ופועלים יחד. לדרמן אינו מתעלם מן הקשיים. מועצות עלולות להחליף אליטה אחת באליטת פעילים, להותיר זכויות מיעוט ללא הגנה ולהעניק יתרון לבעלי זמן, השכלה וביטחון בדיבור. לכן הוא מסיים במקרה של התקצוב ההשתתפותי בפורטו אלגרה. על סמך מחקרה של רבקה אייברס הוא מתאר מוסדות מקומיים שבהם תושבים לא רק ייעצו אלא קבעו סדרי עדיפויות תקציביים, ושבהם שכונות מוחלשות השתתפו במידה רבה וההצלחות המעשיות הרחיבו את ההשתתפות. זהו מאמר פרשני־היסטורי הנשען על ספרות קיימת, לא ניסוי או תכנון חוקתי שלם. מסקנתו המצומצמת היא שניסיון מקומי יכול לחשוף תנאים שבהם מועצות נעשות מרחבי ממשל ממשיים, וכי שיקום המסורת המוסדית הזאת עשוי לעזור לתנועות השתתפותיות לעבור מן המחאה אל בניית חירות ציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_women_representatives_policy_impact_nondemocracy_summary_he",
       "file": "democracy_women_representatives_policy_impact_nondemocracy_summary_he.html",
