@@ -1,8 +1,309 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1342,
+  "paperCount": 1352,
   "papers": [
+    {
+      "slug": "democracy_social_media_mediated_representation_summary_he",
+      "file": "democracy_social_media_mediated_representation_summary_he.html",
+      "permalink": "/democracy_social_media_mediated_representation_summary_he.html",
+      "sortKey": 202608170010,
+      "titleHe": "כיצד קשר עם פוליטיקאים ברשתות חברתיות קשור לתחושת ייצוג?",
+      "paperTitle": "Mediated Representation in the Age of Social Media: How Connection with Politicians Contributes to Citizens’ Feelings of Representation. Evidence from a Longitudinal Study",
+      "authorsCardHe": "Shira Dvir-Gvirsman; Keren Tsuriel; Tamir Sheafer; Shaul R. Shenhav; Alon Zoizner; Liron Lavi; Michal Shamir; Israel Waismel-Manor",
+      "sourceAuthors": [
+        "Shira Dvir-Gvirsman",
+        "Keren Tsuriel",
+        "Tamir Sheafer",
+        "Shaul R. Shenhav",
+        "Alon Zoizner",
+        "Liron Lavi",
+        "Michal Shamir",
+        "Israel Waismel-Manor"
+      ],
+      "journal": "Political Communication, 39(6), 779–800",
+      "dateText": "פורסם אונליין: 19 בספטמבר 2022; כרך 39, גיליון 6, עמ׳ 779–800 (2022)",
+      "doiUrl": "https://doi.org/10.1080/10584609.2022.2124335",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_media_mediated_representation_summary_he.jpg",
+        "altHe": "שני אנשים משוחחים ליד שולחן בעוד אחד מהם מחזיק טלפון המציג דמות פוליטית, כמטפורה לקשר דיגיטלי עם נבחרי ציבור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "שירה דביר־גבירסמן, קרן צוריאל, תמיר שפר, שאול שנהב, אלון זויזנר, לירון לביא, מיכל שמיר וישראל וייסמל־מנור בוחנים אם ערוצי הקשר החדשים בין אזרחים לבין פוליטיקאים ומפלגות מצמצמים את הפער הנתפס בין הציבור למערכת הפוליטית. המחקר מבוסס על פאנל שנמשך שנתיים וכיסה ארבע מערכות בחירות בישראל. הוא מבחין בין ייצוג דיאדי — התחושה שפוליטיקאי או מפלגה מסוימים מייצגים את האזרח — לבין ייצוג קולקטיבי בידי הפרלמנט כולו, וכן בין קשר פסיבי של קבלת מידע פוליטי לבין קשר פעיל של יצירת מידע. לפי תקציר המאמר, קבלת מידע ברשתות החברתיות הגבירה את תחושת הייצוג הדיאדית, ואילו יצירת מידע לא הניבה השפעה דומה. לעומת זאת, לא נמצא ששני סוגי הקשר שינו את תחושת הייצוג הקולקטיבית. החוקרים בחנו גם כיוון הפוך — האם מי שכבר מרגישים מיוצגים מתחברים יותר לפוליטיקאים ולמפלגות — ולא מצאו תמיכה בסדר הסיבתי הזה. מכאן הם מסיקים שתקשורת חד־כיוונית, מן השחקן הפוליטי אל האזרח, עשויה לחזק תחושה של קרבה וייצוג ביחס לשחקן מסוים, אך השפעתה מוגבלת ואינה מתרחבת בהכרח לאמון בייצוג הפרלמנטרי הכולל. ההבחנה חשובה לדמוקרטיה ייצוגית: נוכחות דיגיטלית יכולה לחזק קשר אישי או מפלגתי בלי לרפא את הפער שבין אזרחים לבין המוסד המחוקק. עם זאת, התקציר אינו מוסר את מספר המשתתפים, את נוסח המדדים, את הפלטפורמות שנבדקו או את אומדני האפקט. לכן אי אפשר להעריך ממנו לבדו את גודל השינוי, את ייצוגיות המדגם או את מידת ההכללה מעבר לישראל ולתקופה שנחקרה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_evidence_based_judicial_review_dual_meaning_summary_he",
+      "file": "democracy_evidence_based_judicial_review_dual_meaning_summary_he.html",
+      "permalink": "/democracy_evidence_based_judicial_review_dual_meaning_summary_he.html",
+      "sortKey": 202608170009,
+      "titleHe": "מהם שני המובנים של ביקורת שיפוטית מבוססת ראיות?",
+      "paperTitle": "The dual meaning of evidence-based judicial review of legislation",
+      "authorsCardHe": "Ittai Bar-Siman-Tov",
+      "sourceAuthors": [
+        "Ittai Bar-Siman-Tov"
+      ],
+      "journal": "The Theory and Practice of Legislation, 4(2), 107–133",
+      "dateText": "כרך 4, גיליון 2, עמ׳ 107–133 (2016); פורסם אונליין: 11 בנובמבר 2016",
+      "doiUrl": "https://doi.org/10.1080/20508840.2016.1249679",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_evidence_based_judicial_review_dual_meaning_summary_he.jpg",
+        "altHe": "שופט ושני משפטנים בוחנים מסמכים ונתונים לצד ספרי משפט, כמטפורה לשני המובנים של ביקורת שיפוטית מבוססת ראיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "איתי בר־סימן־טוב מציע להבחין בין שני מובנים של ביקורת שיפוטית מבוססת ראיות על חקיקה. במובן הראשון, ההכרעה בדבר חוקתיות החוק היא עצמה תוצר של קבלת החלטות שיפוטית עצמאית המבוססת על ראיות. במובן השני, מוקד ההכרעה השיפוטית הוא בשאלה אם החוק הנבחן נוצר מלכתחילה באמצעות קבלת החלטות חקיקתית מבוססת ראיות. זו אינה הבחנה לשונית בלבד: היא מפרידה בין איכות הבסיס הראייתי של בית המשפט לבין איכות התהליך הראייתי של המחוקק. לפי התקציר, ההבחנה מסייעת להאיר את הוויכוח בין ביקורת שיפוטית מהותית לבין ביקורת פרוצדורלית, את היחס בין ביקורת חוקתית לבין חקיקה מבוססת ראיות, ואת תפקידם של ממצאי המחוקק. היא גם מונעת מצב שבו טענות שונות על ראיות מוצגות כאילו הן עוסקות באותה שאלה מוסדית. המאמר הוא תרומה מושגית לדיון על חלוקת העבודה בין רשויות: מי אוסף ומעריך את הראיות, מה בדיוק בוחן בית המשפט, ועל איזה שלב בתהליך קבלת ההחלטות מופנית הביקורת. עם זאת, התקציר אינו מציג מבחן משפטי קבוע, מקרי בוחן, מדרג ראיות או תוצאות אמפיריות. לכן הסיכום מסביר את שתי המשמעויות ואת השלכותיהן האנליטיות, אך אינו מייחס למחבר עמדה בדבר מידת ההתערבות הרצויה במקרה מסוים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_radical_left_populism_benefits_limitations_summary_he",
+      "file": "democracy_radical_left_populism_benefits_limitations_summary_he.html",
+      "permalink": "/democracy_radical_left_populism_benefits_limitations_summary_he.html",
+      "sortKey": 202608170008,
+      "titleHe": "מה הפופוליזם מאפשר למפלגות שמאל רדיקלי — והיכן הוא נעצר?",
+      "paperTitle": "The benefits and limitations of populism for radical-left parties",
+      "authorsCardHe": "Or Dar",
+      "sourceAuthors": [
+        "Or Dar"
+      ],
+      "journal": "Capital & Class, 48(3), 357–377",
+      "dateText": "פורסם אונליין: 11 בפברואר 2023; כרך 48, גיליון 3, עמ׳ 357–377 (ספטמבר 2024)",
+      "doiUrl": "https://doi.org/10.1177/03098168231153348",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_radical_left_populism_benefits_limitations_summary_he.jpg",
+        "altHe": "אספת תנועת 15-M בכיכר פוארטה דל סול במדריד ביולי 2011, ובה משתתפים מאזינים לדוברת במעגל פתוח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "אור דר בוחן מדוע חלק ממפלגות השמאל הרדיקלי הפופוליסטיות פרצו קדימה אחרי המשבר הכלכלי של 2008, בעוד אחרות לא הצליחו לעשות זאת. הטיעון הראשון הוא שפופוליזם התאים לדינמיקה משתנה של מאבק מעמדי ואפשר למפלגות לגייס תסכול חברתי מפוזר. לפי התקציר, המאבק המעמדי התפצל לזירה המבוססת על איגודי עובדים ולזירה שאינה מבוססת על איגודים, והזירה השנייה נעשתה מרכזית יותר. אלא שמחאה ספונטנית יכולה להתפרץ בלי לבנות כוח מאורגן ויציב, ולכן קשה יותר לרתום אותה לאורך זמן. סיריזה ופודמוס ניצלו את ההזדמנות כאשר היו מתואמות עם מחזור המחאה וכאשר החזיקו בעמדה חזקה בתוך מערכת המפלגות. הטיעון השני מצביע על מבוי סתום: רק תנאים מיוחדים אפשרו לאחד גוש שמאלי רחב. \"מבחוץ\" — ובהם צעירים עירוניים משכילים במצב תעסוקתי לא יציב — היו ליבת גלי המחאה והזינוקים האלקטורליים; \"מבפנים\", מצביעי שמאל מבוססים ובטוחים יותר, עברו אל הפופוליסטים רק כמוצא אחרון. מכאן נבע קושי לאחד את מלוא הגוש העממי, וחלקים ממעמד העובדים נותרו בלתי נגישים. לפי התקציר, המפלגות גם לא בנו ארגוני המונים של קבוצות כפופות ולכן הותירו אחריהן מעט מורשת מאורגנת. מסקנת המחבר אינה לוותר על פופוליזם, אלא להשתמש בו לצד שיטות פוליטיות של \"מעמד לעצמו\" הבונות יכולת קולקטיבית מאורגנת. התקציר אינו מפרט שיטת מחקר, מקורות נתונים או מדדי הצלחה, ולכן הסיכום אינו מייחס למאמר השוואה שיטתית או ממצאים כמותיים שאינם מצוינים בו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_backsliding_government_job_seekers_summary_he",
+      "file": "democracy_backsliding_government_job_seekers_summary_he.html",
+      "permalink": "/democracy_backsliding_government_job_seekers_summary_he.html",
+      "sortKey": 202608170007,
+      "titleHe": "כשהדמוקרטיה נשחקת, גם השירות הציבורי נעשה פחות מושך",
+      "paperTitle": "Democratic Backsliding, Elite Polarization, and Job Seekers' Pursuit of Government Employment",
+      "authorsCardHe": "Susan M. Miller; Sharon Gilad",
+      "sourceAuthors": [
+        "Susan M. Miller",
+        "Sharon Gilad"
+      ],
+      "journal": "Regulation & Governance, Early View",
+      "dateText": "גרסת הרשומה פורסמה אונליין: 11 במרץ 2026; טרם שובצו כרך, גיליון ועמודים במטא־נתונים של DOI",
+      "doiUrl": "https://doi.org/10.1111/rego.70138",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_backsliding_government_job_seekers_summary_he.jpg",
+        "altHe": "מחפשי עבודה מתבוננים בלוח משרות בכניסה למשרד ציבורי, וברקע עובדים במרחב משרדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "סוזן מ׳ מילר ושרון גלעד מעבירות את הדיון בנסיגה דמוקרטית מן הקלפי אל שוק העבודה של המדינה. הן שואלות אם פגיעה בכללי המשחק הדמוקרטיים וקיטוב בין אליטות פוליטיות משנים את האופן שבו מועמדים לעבודה מעריכים תעסוקה בממשל מדינתי בארצות הברית. לצורך כך נערך ניסוי קונג׳וינט בקרב אמריקאים שחיפשו עבודה באופן פעיל, כלומר המשתתפים העריכו חלופות עבודה שבהן מאפייני ההקשר השתנו באופן שיטתי. לפי התקציר, נסיגה דמוקרטית ברמת המדינה — ובכלל זה מתקפות על הביורוקרטיה המדינתית — הפחיתה באופן מובהק את המשיכה לעבודה בממשל. גם קיטוב בין האליטות הפוליטיות השפיע באופן שלילי ומובהק על אותה משיכה. התקציר אינו מוסר את גודל המדגם, את גודל האפקטים או את כל פרטי החלופות, ולכן אין בסיס לכמת כאן כמה מועמדים יירתעו או לדרג איזה משני הגורמים חזק יותר. תרומת המחקר היא בזיהוי מנגנון אפשרי של היזון חוזר מוסדי: מערכת פוליטית נשחקת עשויה להרחיק מן המדינה עובדים פוטנציאליים, ובכך להקשות עוד יותר על ממשל שכבר מתקשה להתחרות במגזר העסקי על כוח אדם מיומן. התוצאה שנמדדה היא משיכה מדווחת לעבודה בממשל, לא הגשת מועמדות, קבלה לעבודה, ביצוע מקצועי או הישארות לאורך זמן. לפיכך הממצא ממוקד אך חשוב: איכות הסביבה הדמוקרטית עשויה להיות גם תנאי לגיוס השירות הציבורי שעליו נשענת עמידותה של הדמוקרטיה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_populism_deliberative_democracy_summary_he",
+      "file": "democracy_populism_deliberative_democracy_summary_he.html",
+      "permalink": "/democracy_populism_deliberative_democracy_summary_he.html",
+      "sortKey": 202608170006,
+      "titleHe": "האם דיון ציבורי חופשי יכול לרסן את הפופוליזם?",
+      "paperTitle": "Populism and democracy: The challenge for deliberative democracy",
+      "authorsCardHe": "Assaf Sharon",
+      "sourceAuthors": [
+        "Assaf Sharon"
+      ],
+      "journal": "European Journal of Philosophy, 27(2), 359–376",
+      "dateText": "פורסם אונליין: 24 בספטמבר 2018; כרך 27, גיליון 2, עמ׳ 359–376 (יוני 2019)",
+      "doiUrl": "https://doi.org/10.1111/ejop.12400",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populism_deliberative_democracy_summary_he.jpg",
+        "altHe": "איור מערכתי של אספה אזרחית שוויונית שבה דובר אחד מושך תשומת לב חריגה, כמטפורה למתח בין דיון פתוח לבין מניפולציה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "אסף שרון מנתח קושי פנימי באידיאל הדמוקרטיה הדליברטיבית. האידיאל מבקש לקיים שלטון עצמי קולקטיבי באמצעות הליכים של דיון ציבורי חופשי ושווה, ובכך לשמר ממשל עממי ובה בעת לרסן הפרזות פופוליסטיות. ביקורת מוכרת טוענת שהמודל ראוי בתאוריה אך אוטופי ואינו ניתן למימוש. לפי תקציר המאמר, שרון משיב שביקורת זו אינה חזקה במיוחד כאשר מבינים כראוי את הגישה הדליברטיבית ואת אידיאל השלטון העצמי שביסודה. האתגר העמוק יותר נוגע לעצם ההיגיון של דיון ציבורי כאמצעי לשלטון עצמי: גם ציבור כשיר עשוי להשתכנע באמצעות מניפולציה והטעיה, ולכן דיון פתוח אינו מבטיח שהכרעה משותפת תהיה אוטונומית או מושכלת. נוצר כאן מתח פנימי, משום שהפתיחות, השוויוניות והיסוד העממי המעניקים להליך את אופיו הדמוקרטי הם גם התנאים המאפשרים להשפעה מטעה להיכנס אליו. מכאן שהשאלה אינה רק אם אפשר לכנס אזרחים ולהעניק להם קול שווה, אלא אם תהליך השכנוע עצמו תומך בשלטון עצמי או חותר תחתיו. זהו טיעון פילוסופי ולא מחקר אמפירי: התקציר אינו מודד מניפולציה, אינו בוחן מוסד דליברטיבי מסוים ואינו מציע מבחן יישומי מלא המפריד בין שכנוע לגיטימי להטעיה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_turnout_policy_congruence_social_spending_summary_he",
+      "file": "democracy_turnout_policy_congruence_social_spending_summary_he.html",
+      "permalink": "/democracy_turnout_policy_congruence_social_spending_summary_he.html",
+      "sortKey": 202608170005,
+      "titleHe": "מתי העדפות הציבור מתחברות למדיניות החברתית?",
+      "paperTitle": "Public Opinion, Turnout and Social Policy: A Comparative Analysis of Policy Congruence in European Liberal Democracies",
+      "authorsCardHe": "Marc Hooghe; Ruth Dassonneville; Jennifer Oser",
+      "sourceAuthors": [
+        "Marc Hooghe",
+        "Ruth Dassonneville",
+        "Jennifer Oser"
+      ],
+      "journal": "Political Studies, 67(4), 992–1009",
+      "dateText": "פורסם אונליין: 8 במרץ 2019; כרך 67, גיליון 4, עמ׳ 992–1009 (נובמבר 2019)",
+      "doiUrl": "https://doi.org/10.1177/0032321718819077",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_turnout_policy_congruence_social_spending_summary_he.jpg",
+        "altHe": "קלפי בשוודיה ובה מצביעים, תאי הצבעה וחברי ועדה; התצלום ממחיש השתתפות אלקטורלית ואינו מתעד אחת מן התצפיות במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "מארק הוגה, רות דאסונוויל וג׳ניפר אוסר בוחנים הנחת יסוד של ממשל ייצוגי: העדפות האזרחים אמורות להיות קשורות לתוצאות מדיניות. הם בנו מערך נתונים מקורי על 21 מדינות OECD בשנים 1980–2014, המחבר בין עמדות שמאל–ימין של אזרחים, פרלמנטים וקבינטים לבין מדיניות חלוקה מחדש, הנמדדת בתקציר באמצעות רמת ההוצאה החברתית. לפי הממצאים המדווחים, לקבינט תפקיד חשוב יותר מזה של הפרלמנט בהסבר ההוצאה החברתית. עמדת השמאל–ימין של האזרחים אינה משפיעה על רמת ההוצאה החברתית במישרין וגם לא בעקיפין דרך העמדות האידאולוגיות של הפרלמנט או הממשלה. עם זאת, בהקשרים של שיעור הצבעה גבוה קיים קשר בין העדפות ההמונים לבין העמדה האידאולוגית של הפרלמנט והממשלה. התמונה אינה שרשרת פשוטה שבה העדפה ציבורית עוברת בשלמותה אל תקציב הרווחה: השתתפות רחבה יותר קשורה לייצוג אידאולוגי טוב יותר, אך ייצוג זה אינו מתורגם בתקציר להשפעה מוכחת של עמדת הציבור על רמת ההוצאה. ההבחנה בין שלבי השרשרת חשובה מפני שהיא מונעת ערבוב בין התאמה של נבחרים לציבור לבין התאמה של מדיניות לתוצאה שהציבור מעדיף. התקציר אינו מוסר את המדינות, את הגדרת שיעור ההצבעה הגבוה, את המודלים, את המקדמים או את מבחני הרגישות, ולכן אינו מאפשר לאמוד את גודל הקשרים או לייחס להם סיבתיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israeli_system_democratic_antidemocratic_roots_summary_he",
+      "file": "democracy_israeli_system_democratic_antidemocratic_roots_summary_he.html",
+      "permalink": "/democracy_israeli_system_democratic_antidemocratic_roots_summary_he.html",
+      "sortKey": 202608170004,
+      "titleHe": "השורשים הכפולים של הדמוקרטיה הישראלית",
+      "paperTitle": "Democratic and Anti-democratic Roots of the Israeli Political System",
+      "authorsCardHe": "Benyamin Neuberger",
+      "sourceAuthors": [
+        "Benyamin Neuberger"
+      ],
+      "journal": "Israel Studies Review, 34(2), 55–74",
+      "dateText": "פורסם: 1 בספטמבר 2019; כרך 34, גיליון 2, עמ׳ 55–74",
+      "doiUrl": "https://doi.org/10.3167/isr.2019.340204",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_system_democratic_antidemocratic_roots_summary_he.jpg",
+        "altHe": "יוסף שפרינצק נושא דברים בישיבה הראשונה של האסיפה המכוננת בבניין הסוכנות היהודית בירושלים, 14 בפברואר 1949",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "בנימין נויברגר מציע לקרוא את ההיסטוריה הפוליטית הישראלית כהצטברות של שורשים דמוקרטיים ואנטי־דמוקרטיים גם יחד. הוא מאתר מקורות לממשל עצמי, בחירות, הכרעת רוב והתנגדות לעריצות במסורת הקהילתית היהודית, בקהילות התפוצות ובמוסדות הציוניים הנבחרים; במקביל הוא מזהה מסורות של כפיפות לסמכות דתית, היררכיה מפלגתית, קולקטיביזם, חשד בזכויות הפרט וסלידה ממפלגות ומפלורליזם. המאמר מארגן את הדיון סביב ארבעה מחנות מרכזיים בתקופת היישוב: האורתודוקסי, השמאל הסוציאליסטי, הימין הלאומי והמרכז הבורגני. אף מחנה אינו מתואר כמקשה אחת. בשמאל התקיימו פרקטיקה פרלמנטרית וממשל עממי לצד תפיסת אוונגרד, משמעת ארגונית ומנגנוני מינוי מלמעלה; בימין הלאומי התקיימה מחויבותו הליברלית של זאב ז׳בוטינסקי לצד זרמים רדיקליים, מיליטריסטיים ואנטי־דמוקרטיים; במחנה האורתודוקסי התקיימו מסורות של אוטונומיה קהילתית והגבלת שליט לצד עקרונות שאינם מתיישבים עם ריבונות עממית, חירות ושוויון ליברליים; והמרכז הבורגני היה פרגמטי וסובלני יותר אך לא תמיד שוויוני. המסקנה איננה שהדמוקרטיה בישראל הייתה מקרית, אלא שהצלחתה נשענה על מוסדות נבחרים, רב־מפלגתיות והסתגלות הדרגתית של המחנות לכללי המשחק — בלי להעלים את המטענים הלא־ליברליים שנותרו בתרבות הפוליטית. נויברגר מדגיש כי דמוקרטיה יציבה זקוקה להסכמה על הכללים הבסיסיים אך גם למחלוקת ולפלורליזם בתוכם. בסיום, שנכתב ב־2019, הוא מזהה את המשך השליטה בגדה המערבית ואת המחלוקת העמוקה על אופי המדינה כאיומים מרכזיים, ומזהיר מן הכמיהה למנהיג חזק שיעקוף מפלגות, כנסת והליך. זהו מאמר פרשני־היסטורי, לא בדיקה כמותית של עמדות הציבור; כוחו במיפוי הסתירות בתוך המסורות המכוננות, ומגבלתו בכך שהמיקוד בארבעת המחנות היהודיים אינו היסטוריה מקיפה של כל הקבוצות והזירות הפוליטיות בישראל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_muslim_women_ethnic_conflict_india_summary_he",
+      "file": "democracy_muslim_women_ethnic_conflict_india_summary_he.html",
+      "permalink": "/democracy_muslim_women_ethnic_conflict_india_summary_he.html",
+      "sortKey": 202608170003,
+      "titleHe": "זכויות מיעוט מול שוויון מגדרי: נשים מוסלמיות והסדר הסכסוך בהודו",
+      "paperTitle": "Gendering ethnic conflicts: minority women in divided societies – the case of Muslim women in India",
+      "authorsCardHe": "Ayelet Harel-Shalev",
+      "sourceAuthors": [
+        "Ayelet Harel-Shalev"
+      ],
+      "journal": "Ethnic and Racial Studies, 40(12), 2115–2134",
+      "dateText": "פורסם אונליין ב־1 בפברואר 2017; כרך 40, גיליון 12, עמ׳ 2115–2134 (2017)",
+      "doiUrl": "https://doi.org/10.1080/01419870.2017.1277028",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_women_ethnic_conflict_india_summary_he.jpg",
+        "altHe": "נשים מוסלמיות מציגות תעודות בוחר בקלפי במדינת אנדרה פרדש בבחירות הכלליות בהודו ב־2009; תצלום הקשרי שאינו מתעד את הנשים או ההליכים שנדונו במאמר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "איילת הראל־שלו בוחנת את מעמדן של נשים מוסלמיות בהודו כדי לערער על אמת מידה מקובלת להצלחת יישוב סכסוכים: הסכמה בין האליטות של הקבוצות היריבות. היא מחברת בין מחקר על חברות שסועות וחלוקת כוח, דיון משפטי בזכויות קבוצתיות ותיאוריה פמיניסטית של ביטחון, ומראה כי פתרון שמפחית עימות בין הינדואים למוסלמים יכול להעביר את מחיר היציבות אל מי שמוחלשות בתוך קהילת המיעוט. המקרה המרכזי הוא האוטונומיה שניתנה לדין האישי המוסלמי בתחומי נישואים, גירושים וירושה, לצד נסיגת המדינה מהחלה עקבית של שוויון בפני החוק. לפי המאמר, ההסדר חיזק את מעמדה של הנהגה מוסלמית שמרנית כקול המייצג של הקהילה, אף שנשים וזרמים מוסלמיים אחרים ביקשו פרשנות שוויונית יותר. פרשת שאה באנו מדגימה כיצד פסיקה שנועדה להבטיח מזונות לגרושה נהפכה לעימות על דת, לאומיות ואוטונומיה, וכיצד האינטרסים של נשים נדחקו כאשר המדינה ביקשה לשמר שקט בין־קהילתי. הראל־שלו אינה שוללת זכויות מיעוט או אוטונומיה תרבותית; היא דורשת לבחון מי מוסמך לדבר בשם הקבוצה, מי משתתף במשא ומתן ואילו זכויות אישיות נשחקות בתמורה להסכמה. התארגנויות של נשים מוסלמיות ובריתות עם תנועת הנשים הרחבה מוצגות כמקור לתיקון דמוקרטי, משום שהן מערערות על הבלעדיות של האליטות ומכניסות לקדמת הדיון ביטחון גופני, מעמד אישי ושוויון אזרחי. זהו ניתוח היסטורי־משפטי ותיאורטי של מקרה אחד, ולא מחקר סקר או הערכה כמותית של מדיניות. תרומתו היא אמת מידה תובענית יותר לשלום ולדמוקרטיה: הפסקת אלימות והכרה בקבוצה אינן מספיקות אם ההסדר משמר אלימות מבנית והדרה בתוך הקבוצה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_civil_rights_revolution_workplace_programs_summary_he",
+      "file": "democracy_civil_rights_revolution_workplace_programs_summary_he.html",
+      "permalink": "/democracy_civil_rights_revolution_workplace_programs_summary_he.html",
+      "sortKey": 202608170002,
+      "titleHe": "מהפכת זכויות האזרח במקום העבודה: מדוע תוכניות הגיוון לא פתחו שוויון",
+      "paperTitle": "The Civil Rights Revolution at Work: What Went Wrong",
+      "authorsCardHe": "Frank Dobbin; Alexandra Kalev",
+      "sourceAuthors": [
+        "Frank Dobbin",
+        "Alexandra Kalev"
+      ],
+      "journal": "Annual Review of Sociology, 47, 281–303",
+      "dateText": "פורסם כ־Review in Advance ב־26 באפריל 2021; כרך 47, עמ׳ 281–303 (2021)",
+      "doiUrl": "https://doi.org/10.1146/annurev-soc-090820-023615",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_rights_revolution_workplace_programs_summary_he.jpg",
+        "altHe": "ישיבת ועדה לשוויון הזדמנויות בתעסוקה במרכז המחקר לואיס של נאס״א בשנת 1975; תצלום הקשרי של יישום מוסדי שאינו מתעד ארגון שנבדק במאמר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "פרנק דובין ואלכסנדרה קלב סוקרים את המהפכה שחוללו התנועות לזכויות האזרח ולזכויות נשים במדיניות הציבורית ובניהול כוח האדם בארצות הברית, ושואלים מדוע השינוי בהיררכיה התאגידית נותר הדרגתי. לטענתם, החוק אסר הפליה אך סיפק למעסיקים הכוונה מוגבלת כיצד לפרק מערכות קריירה שמייצרות אי־שוויון, ובתי המשפט והסוכנויות נטו לראות נהלים שאינם מפלים במפורש כנהלים סבירים. מומחי כוח אדם בנו לכן ארסנל של הדרכות גיוון, מבחני מיון, הערכות ביצועים ומנגנוני תלונה, צעדים המתמקדים בהטיה של מנהל יחיד ומייצרים תיעוד משפטי אך מותירים מבני גיוס, רשתות קידום וחלוקת עבודה ללא שינוי. הסקירה משלבת מחקרי מעבדה ושדה, מחקרים משפטיים והיסטוריים וניתוחי אורך של הרכב כוח העבודה. התמונה המצטברת מטרידה: תוכניות פופולריות רבות אינן משפרות ייצוג ניהולי, וחלקן מלוות בירידה בייצוג או ברתיעה, התנגדות ונקמה נגד מתלוננים. לעומתן, גיוס ייעודי ממכללות, חונכות, הכשרת ניהול פתוחה, מנהלי גיוון, צוותי משימה ותמיכה בעבודה־משפחה משנים את המערכות שדרכן עובדים נכנסים, מתפתחים ומתקדמים. המנגנון המשותף הוא מעורבות מנהלים בפתרון, הרחבת הגישה להזדמנויות ואחריותיות חברתית כלפי תוצאות, במקום הנחה שסדנה קצרה תתקן עמדה אישית. המחברים מציגים אומדנים ממחקרי אורך שלפיהם כמה מן ההתערבויות המבניות מלוות בעליות משמעותיות בייצוג קבוצות שונות בניהול, אך מדגישים שהן נדירות יחסית. זהו מאמר סקירה ולא ניסוי חדש, והמדד המרכזי של ייצוג בהנהלה אינו מתאר לבדו שכר, איכות עבודה או חוויית הפליה. מסקנתו המוסדית רחבה: זכויות פורמליות זקוקות למנגנוני יישום המשנים את חלוקת ההזדמנויות, אחרת ארגון יכול להיראות מציית לחוק בלי לפתוח בפועל את שערי הכוח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_racism_discourse_right_wing_populism_summary_he",
+      "file": "democracy_racism_discourse_right_wing_populism_summary_he.html",
+      "permalink": "/democracy_racism_discourse_right_wing_populism_summary_he.html",
+      "sortKey": 202608170001,
+      "titleHe": "כיצד שיח על גזענות עשוי לגייס פופוליזם ימני",
+      "paperTitle": "How racism discourse can mobilize right-wing populism: The construction of identity and alliance in reactions to UKIP’s Brexit ‘Breaking Point’ campaign",
+      "authorsCardHe": "Kevin Durrheim; Mukadder Okuyan; Michelle Sinayobye Twali; Efraín García-Sánchez; Adrienne Pereira; Jennie Sofia Portice; Tamar Gur; Ori Wiener-Blotner; Tina F. Keil",
+      "sourceAuthors": [
+        "Kevin Durrheim",
+        "Mukadder Okuyan",
+        "Michelle Sinayobye Twali",
+        "Efraín García-Sánchez",
+        "Adrienne Pereira",
+        "Jennie Sofia Portice",
+        "Tamar Gur",
+        "Ori Wiener-Blotner",
+        "Tina F. Keil"
+      ],
+      "journal": "Journal of Community & Applied Social Psychology, 28(6), 385–405",
+      "dateText": "פורסם אונליין ב־8 בנובמבר 2018; כרך 28, גיליון 6, עמ׳ 385–405 (נובמבר 2018)",
+      "doiUrl": "https://doi.org/10.1002/casp.2347",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_racism_discourse_right_wing_populism_summary_he.jpg",
+        "altHe": "קבוצה מגוונת מנתחת יחד תצלום חדשות מטושטש בחדר עבודה; איור עריכתי על האופן שבו מסגור תקשורתי וביקורת ציבורית מעצבים זהות וברית פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-17",
+      "dateModified": "2026-08-17",
+      "summaryHe": "קווין דורהיים ועמיתיו בוחנים שאלה פרדוקסלית: כיצד ייצוג המגונה כגזעני אינו בהכרח פוגע במנהיג פופוליסטי, ואף עשוי לסייע לו לגייס תמיכה. המקרה הוא המחלוקת שנוצרה סביב קמפיין Breaking Point של UKIP בימים שלפני משאל העם על חברות בריטניה באיחוד האירופי. החוקרים אספו 29 כתבות מן הימים 16–19 ביוני 2016, בהיקף 19,840 מילים, ולצדן תגובות קוראים בהיקף 75,134 מילים. מתוך המאגר הם בחרו לניתוח 100 קטעים מן הכתבות ומתגובות טוויטר שנכללו בהן, ו־135 קטעים מתגובות קוראים, באמצעות ניתוח שיח תמטי קונסטרוקציוניסטי. הביקורת התארגנה בשני מסלולים: תיאור הייצוג ככשל מוסרי של שנאה ודעה קדומה, ותיאור הקמפיין כתעמולה המפחידה ומסיתה ציבור פגיע. המסלול השני יצר פתח רטורי לפופוליזם, משום שהוא יכול להישמע גם כהאשמה שהמצביעים בורים, נוחים למניפולציה או גזענים סמויים. תגובת נייג׳ל פאראג׳ הסיטה את הדיון מן הגזענות אל טענה לייצוג עובדתי של הגירה ואל זכותו של הציבור להביע דאגה, ובכך בנתה יחס תלת־קוטבי: מנהיג ועם מול מבקרי ממסד. בתגובות הקוראים נמצאו אימוץ של המסגור הזה, הגנה על המנהיג ולעיתים בעלות אירונית על תווית הגזענות כאילו הייתה עלבון שהאליטה מטיחה בפטריוטים. הטענה אינה שהייצוג חדל להיות גזעני או שכל ביקורת אנטי־גזענית מזיקה, אלא שלקטגוריות מוסריות יש גם תפקיד אינטראקציוני: האופן שבו הן מייחסות זהות ומניעים יכול ליצור את הברית שהביקורת מבקשת לפרק. זהו מחקר איכותני של אירוע תקשורתי קצר ושל טקסטים שנבחרו לצורך ניתוח, לא מדגם מייצג של המצביעים ולא מבחן סיבתי של תוצאות הברקזיט. תרומתו לדמוקרטיה היא אזהרה אסטרטגית: מאבק בהדרה זקוק לביקורת תקיפה של מסרים ומדיניות, אך גם לשפה שאינה מוסרת למנהיג הפופוליסטי את הציבור כקבוצה מושפלת שאפשר לגייס נגד הממסד.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_right_to_have_rights_resistance_spaces_summary_he",
       "file": "democracy_right_to_have_rights_resistance_spaces_summary_he.html",

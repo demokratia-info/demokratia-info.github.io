@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17",
   "sampleSize": 6,
-  "seed": "2026-08-16-homepage-high-fit",
+  "seed": "2026-08-17-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 764,
+  "fullTextHighFitPaperCount": 767,
   "paperSlugs": [
     "democracy_follow_leader_political_participation_summary_he",
     "democracy_nation_owe_non_citizens_rights_summary_he",
-    "democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he",
+    "democracy_public_support_social_protest_2011_israel_summary_he",
     "democracy_israel_s_judicial_overhaul_a_threat_to_the_health_in_all_policies_approach_summary_he",
     "democracy_israels_social_media_elections_summary_he",
-    "democracy_ceo_partisanship_political_spending_transparency_summary_he"
+    "democracy_poverty_in_arab_palestinian_society_in_israel_social_work_perspectives_before_and_during_covid_summary_he"
   ]
 }
