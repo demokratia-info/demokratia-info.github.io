@@ -1,8 +1,303 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1352,
+  "paperCount": 1362,
   "papers": [
+    {
+      "slug": "democracy_judicial_review_civic_culture_japan_korea_summary_he",
+      "file": "democracy_judicial_review_civic_culture_japan_korea_summary_he.html",
+      "permalink": "/democracy_judicial_review_civic_culture_japan_korea_summary_he.html",
+      "sortKey": 202608180010,
+      "titleHe": "עמדות הציבור כלפי ביקורת שיפוטית יכולות לחשוף כיצד תרבות דמוקרטית פועלת",
+      "paperTitle": "Attitudes towards judicial review in Japan and South Korea: indications for the existence of a liberal-democratic civic culture",
+      "authorsCardHe": "Sigal Ben-Rafael Galanti; Alon Levkowitz",
+      "sourceAuthors": [
+        "Sigal Ben-Rafael Galanti",
+        "Alon Levkowitz"
+      ],
+      "journal": "International Review of Sociology, 25(2), 318–332",
+      "dateText": "פורסם אונליין: 10 במרץ 2015; בדפוס: 4 במאי 2015; כרך 25, גיליון 2, עמ׳ 318–332",
+      "doiUrl": "https://doi.org/10.1080/03906701.2015.1017354",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_judicial_review_civic_culture_japan_korea_summary_he.jpg",
+        "altHe": "חזית בית המשפט החוקתי של קוריאה הדרומית בסיאול בשנת 2015; תצלום הקשרי שאינו מציג את המשיבים או העמדות שנחקרו במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "סיגל בן־רפאל גלנטי ואלון לבקוביץ בוחנים עמדות כלפי ביקורת שיפוטית ביפן וברפובליקה של קוריאה. התקציר מתאר את שתי המדינות כקרובות מבחינה גאוגרפית ותרבותית וכדמוקרטיות שאינן מקרים קלאסיים של הדגם המערבי, אך מדגיש שהן עברו תהליכי דמוקרטיזציה שונים ואימצו סוגים שונים של משטר דמוקרטי. ההבדל ניכר במיוחד במנגנוני הביקורת השיפוטית שלהן, אשר מסייעים לאזרחים בדרכים שונות להביא מדיניות ציבורית לבחינת בתי המשפט. המחברים משתמשים בניתוח עמדות האזרחים כלפי המנגנונים האלה כדי לחפש עמדות אזרחיות ליברליות־דמוקרטיות. באמצעות ההשוואה מבקשים המחברים לתרום לוויכוח על יכולתן של חברות לא־מערביות, שלא צמחו מתוך תרבות ליברלית מושרשת, לאמץ ולהפנים ערכים ליברליים־דמוקרטיים. עם זאת, התקציר הזמין אינו מדווח כיצד נדגמו המשיבים, אילו שאלות נשאלו, מה היו ההבדלים בין המדינות או אם נמצאה תמיכה בהשערה. לכן הסיכום מציג את המסגרת ההשוואתית בלבד ואינו מייחס למחקר ממצאים אמפיריים שאינם נמסרים בתקציר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_eu_leverage_democratization_human_rights_summary_he",
+      "file": "democracy_eu_leverage_democratization_human_rights_summary_he.html",
+      "permalink": "/democracy_eu_leverage_democratization_human_rights_summary_he.html",
+      "sortKey": 202608180009,
+      "titleHe": "קידום זכויות אדם וקידום דמוקרטיה אינם אותה משימת מדיניות",
+      "paperTitle": "Linkage leverage democratization and liberalization: is promoting democracy the same as promoting human rights?",
+      "authorsCardHe": "Sara Kahn-Nisser",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Policy Studies, 39(1), 90–107",
+      "dateText": "פורסם אונליין: 6 בפברואר 2018; בדפוס: 2 בינואר 2018; כרך 39, גיליון 1, עמ׳ 90–107",
+      "doiUrl": "https://doi.org/10.1080/01442872.2018.1434873",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_eu_leverage_democratization_human_rights_summary_he.jpg",
+        "altHe": "מליאת הפרלמנט האירופי, כתצלום הקשר לדיון בהשפעת האיחוד על דמוקרטיה וזכויות אדם מחוץ לגבולותיו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "שרה קאהן־ניסר בוחנת אם נכון להתייחס לקידום דמוקרטיה ולקידום זכויות אדם כאותה מדיניות חוץ. התקציר מתאר השוואה של השפעת האיחוד האירופי על רפורמות ב־29 מדינות במזרח אירופה, מערב אסיה, המזרח התיכון וצפון אפריקה. התוצאה המרכזית המדווחת היא שהשפעת האיחוד על הגנת זכויות אדם בולטת יותר מהשפעתו על רמות הדמוקרטיה. המאמר מציע שלושה הסברים: רפורמה בזכויות מאיימת פחות על הישרדות המשטר מדמוקרטיזציה; האיחוד והמדינות החברות משדרים מסר ברור יותר על חשיבות זכויות האדם; ולאיחוד מנוף כלכלי חזק. מכאן נגזרת המלצת מדיניות להתאים את הכלי ליעד: לפי התקציר, לחץ כלכלי הוא הכלי היעיל ביותר לקידום זכויות אדם, בעוד דמוקרטיזציה מושפעת יותר מתהליכי חיקוי מאשר מלחץ כלכלי. ההבחנה חשובה משום שאין להניח שמדיניות שמקדמת יעד אחד תקדם באותה מידה גם את האחר. התקציר אינו מפרט את רשימת המדינות, שנות המדידה, הגדרת המשתנים, המודלים, גודלי ההשפעה או בדיקות העמידות; לכן הסיכום אינו מוסיף מסקנות סיבתיות או פירוט מתודולוגי שאינם מופיעים בו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_bedouin_local_government_gender_modernity_summary_he",
+      "file": "democracy_bedouin_local_government_gender_modernity_summary_he.html",
+      "permalink": "/democracy_bedouin_local_government_gender_modernity_summary_he.html",
+      "sortKey": 202608180008,
+      "titleHe": "הרשות המקומית יכולה להרחיב את חירותן של נשים — וגם לעטוף אותה בפיקוח",
+      "paperTitle": "Gender relations in Bedouin communities in Israel: local government as a site of ambivalent modernity",
+      "authorsCardHe": "Ayelet Harel-Shalev; Rebecca Kook; Fany Yuval",
+      "sourceAuthors": [
+        "Ayelet Harel-Shalev",
+        "Rebecca Kook",
+        "Fany Yuval"
+      ],
+      "journal": "Gender, Place & Culture, 26(1), 30–51",
+      "dateText": "פורסם אונליין: 25 בדצמבר 2018; בדפוס: 2 בינואר 2019; כרך 26, גיליון 1, עמ׳ 30–51",
+      "doiUrl": "https://doi.org/10.1080/0966369X.2018.1518314",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_bedouin_local_government_gender_modernity_summary_he.jpg",
+        "altHe": "נשיא המדינה וראשי ציבור מבקרים במפעל ברהט המשלב נשים בדואיות בתעסוקה בשנת 2021; תצלום הקשרי שאינו מתעד רשות או משתתפת שנחקרו במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "איילת הראל־שלו, רבקה קוק ופאני יובל בוחנות את הרשות המקומית כזירה שבה מודרניות, מגדר, מרחב ותרבות נפגשים. הן ניתחו שמונה ראיונות חצי־מובנים עם בכירים גברים בשתי רשויות בדואיות מתוכננות בנגב, רהט ולקיה; בין המרואיינים היו ראש המועצה המקומית לקיה וראשי מחלקות חינוך, רווחה, תלונות ציבור, גזברות ותעשייה. עוזר מחקר בדואי הדובר עברית וערבית ערך את הראיונות, שהוקלטו ותומללו, וכל שלוש החוקרות קראו את התמלילים לצורך ניתוח נרטיבי וטריאנגולציה. כל המרואיינים תמכו בזכותן של נשים ללמוד, לעבוד ולהתנייד והכירו בתרומתן למשק הבית ולקהילה, אך התמיכה לוותה שוב ושוב בתנאים של כבוד, אימהות, נאמנות משפחתית ופיקוח גברי. תחבורה ציבורית המחישה את הדו־משמעות: היא מאפשרת לימודים, עבודה ועצמאות מן הנהג המשפחתי, אך המסלולים הקבועים והסביבה המפוקחת גם הופכים אותה לצורה מקובלת ומוגבלת של ניידות. בעלי התפקידים תיארו עצמם בעת ובעונה אחת כאנשי מקצוע וכסוכני שינוי, כחברים במבנה החמולתי וכאבות ובני זוג החוששים מאובדן שליטה. המחברות מפרשות את הסתירות לא כשלב פשוט שבו מסורת נעלמת, אלא כמודרניות אמביוולנטית שמרחיבה אפשרויות תוך משא ומתן מתמשך על החוזה הפטריארכלי. זהו מחקר עומק קטן המבוסס על קולות של שמונה גברים בכירים בלבד; הוא אינו מייצג את כל הרשויות הבדואיות, אינו מביא את קולות הנשים ואינו מוכיח כיצד העמדות השפיעו בפועל על תקציב או שירות מסוים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_centralized_decentralized_personalization_summary_he",
+      "file": "democracy_centralized_decentralized_personalization_summary_he.html",
+      "permalink": "/democracy_centralized_decentralized_personalization_summary_he.html",
+      "sortKey": 202608180007,
+      "titleHe": "כשהכוח עוזב את המפלגה הוא יכול לעלות למנהיג וגם להתפזר בין פוליטיקאים",
+      "paperTitle": "Two routes to personalized politics: Centralized and decentralized personalization",
+      "authorsCardHe": "Meital Balmas; Gideon Rahat; Tamir Sheafer; Shaul R. Shenhav",
+      "sourceAuthors": [
+        "Meital Balmas",
+        "Gideon Rahat",
+        "Tamir Sheafer",
+        "Shaul R. Shenhav"
+      ],
+      "journal": "Party Politics, 20(1), 37–51",
+      "dateText": "פורסם אונליין: 27 בפברואר 2012; בדפוס: ינואר 2014; כרך 20, גיליון 1, עמ׳ 37–51",
+      "doiUrl": "https://doi.org/10.1177/1354068811436037",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_centralized_decentralized_personalization_summary_he.jpg",
+        "altHe": "חברי כנסת יושבים ומשוחחים במהלך הליך הצבעה במליאה בשנת 1982; תצלום מוסדי הקשרי שאינו מתעד את דפוסי הפרסונליזציה שנמדדו במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "מיטל בלמס, גדעון רהט, תמיר שפר ושאול ר׳ שנהב טוענים שהמונח פרסונליזציה מסתיר שני כיוונים שונים של חלוקת כוח. במסלול הריכוזי כוח ותשומת לב זורמים מן המפלגה, הממשלה או הקבינט אל מנהיג יחיד; במסלול המבוזר הם זורמים מן הקבוצה אל מועמדים, חברי פרלמנט ושרים שאינם בהכרח המנהיגים. המחברים משלבים סקירת ספרות עם שורה של מדדים היסטוריים על ישראל, ובהם שינויי כללים, ניתוח תוכן של 16 מערכות בחירות לכנסת בשנים 1949–2003, אופן כינוי הממשלה בעיתונות, פרסומות מפלגתיות, חלוקת משרות קואליציוניות, חקיקה פרטית, הצבעות שמיות, נאומי ראשי ממשלה וסקרי בוחרים. הממצאים מצביעים על ריכוזיות: סיקור ופרסום התמקדו יותר במנהיגים, הממשלה זוהתה יותר בשם ראש הממשלה, השימוש בגוף ראשון יחיד בנאומי הצגת ממשלה גדל והערכת המנהיג נעשתה חשובה יותר בהחלטת ההצבעה ביחס להזדהות מפלגתית. במקביל נמצאו סימנים לביזור: פריימריז העניקו מנדט אישי למועמדים, עלות התמיכה הקואליציונית במשרות עלתה, שיעור החקיקה שמקורה בהצעות פרטיות גדל וחברי כנסת השתמשו יותר בכלים אישיים. במדיה, לעומת זאת, לא נמצאה מגמה כוללת ברורה בנראות של מועמדים זוטרים; מגמת ביזור הופיעה רק כאשר נותחו פריטים שבהם המנהיג לא הוזכר. המאמר מסיק ששני המסלולים אינם מאזנים זה את זה, מפני ששניהם מחלישים את הקבוצה המאורגנת. הוא אינו מוכיח שמנגנון יחיד גרם לשינויים ואינו מציג מאגר אחיד לכל התקופה, ולכן יש לקרוא את המספרים כפסיפס תיאורי שמדגים את הטיפולוגיה ולא כאומדן סיבתי אחד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_tax_bureaucrats_incentives_inequality_summary_he",
+      "file": "democracy_tax_bureaucrats_incentives_inequality_summary_he.html",
+      "permalink": "/democracy_tax_bureaucrats_incentives_inequality_summary_he.html",
+      "sortKey": 202608180006,
+      "titleHe": "כשהתמריץ לגבות מס מייצר אי־שוויון",
+      "paperTitle": "The Incentives of Street-Level Bureaucrats and Inequality in Tax Assessments",
+      "authorsCardHe": "Nissim Cohen; Sagi Gershgoren",
+      "sourceAuthors": [
+        "Nissim Cohen",
+        "Sagi Gershgoren"
+      ],
+      "journal": "Administration & Society, 48(3), 267–289",
+      "dateText": "פורסם אונליין: 6 בפברואר 2013; כרך 48, גיליון 3, עמ׳ 267–289",
+      "doiUrl": "https://doi.org/10.1177/0095399712473984",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_tax_bureaucrats_incentives_inequality_summary_he.jpg",
+        "altHe": "נישומים משני צדי דלפק מס מול פקיד ותיקי מס מורכבים, כשלאחד מהם יועץ מקצועי ולשני אין, ללא כיתוב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "ניסים כהן ושגיא גרשגורן בוחנים כיצד תמריצים חומריים וארגוניים של פקידי קו ראשון יכולים לשנות לא רק את יעילות הגבייה אלא גם את חלוקת הנטל בין אזרחים. חקר המקרה עוסק בדיוני שומת מס הכנסה לעצמאים בישראל ומשלב ניתוח של מקורות ראשוניים ומשניים עם ראיונות אנונימיים של עורכי דין המייצגים נישומים ושל פקידי מס זוטרים ובכירים, שנדגמו בדגימת נוחות וכדור שלג. בניגוד למקרה הקלאסי של ביורוקרט שהישגיו קשים למדידה, כאן מספר התיקים שנסגרו ותוספת המס שנגבתה מספקים מדדים ברורים, ובמערכת שנבחנה נקשרו למכסות, לקידום, לפיטורים ולשכר עידוד. חוקי מס מורכבים, מידע עודף בידי הרשות והיכולת להעלות טיעונים במהלך הדיון מעניקים לפקיד יתרון במשא ומתן מול נישום שונא סיכון. שתי אסטרטגיות מרכזיות הן הצעת ׳קח או עזוב׳ ואיום שהשומה תעלה אם לא תושג פשרה. במודל המחשה היפותטי, שני נישומים בעלי העדפות זהות אך משאבים שונים מגיבים אחרת לאותו סיכון: הנישום הפחות עשיר מוכן לשלם יותר כדי להימנע מאי־ודאות, והאיום מרחיב את הפער בין סכומי הפשרה שלהם מ־6.7 ל־9.2 אלף דולר. בעלי משאבים יכולים גם לשכור יועץ מס בתנאים נוחים יותר ולצמצם את פער המידע, ולכן מנגנון נייטרלי לכאורה עלול לפעול באופן רגרסיבי. המחברים ממליצים לפרסם פרשנויות, החלטות ופשרות ללא פרטים מזהים, להגביל הוספת טענות מאוחרות, לתגמל עקביות והוגנות ולשלב ביקורת פנימית וחיצונית. הממצאים נשענים על חקר מקרה, ראיונות לא־הסתברותיים וחישוב המחשה המבוסס על הנחות, ולכן אינם מוכיחים את היקף התופעה או את השפעתה הסיבתית. תרומת המאמר היא בהראותו כיצד עיצוב תמריצים מנהליים יכול לתרגם פער מידע לפער כלכלי ולפגיעה באמון הדמוקרטי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_corruption_fairness_inequality_summary_he",
+      "file": "democracy_corruption_fairness_inequality_summary_he.html",
+      "permalink": "/democracy_corruption_fairness_inequality_summary_he.html",
+      "sortKey": 202608180005,
+      "titleHe": "כשהאי־שוויון הופך שחיתות לצפויה",
+      "paperTitle": "Corruption, fairness, and inequality",
+      "authorsCardHe": "Gal Ariely; Eric M. Uslaner",
+      "sourceAuthors": [
+        "Gal Ariely",
+        "Eric M. Uslaner"
+      ],
+      "journal": "International Political Science Review, 38(3), 349–362",
+      "dateText": "פורסם אונליין: 31 במאי 2016; כרך 38, גיליון 3, עמ׳ 349–362",
+      "doiUrl": "https://doi.org/10.1177/0192512116641091",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_corruption_fairness_inequality_summary_he.jpg",
+        "altHe": "אזרחים ממתינים בדלפק שירות ציבורי בעוד אדם מקושר מקבל גישה מועדפת, ללא כיתוב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "גל אריאלי ואריק מ׳ אוסלנר מחברים בין שתי מסגרות להסבר תפיסות של שחיתות גדולה: ׳מלכודת האי־שוויון׳, שבה אי־שוויון שוחק אמון ומקבע שחיתות, ותזת ההוגנות, שלפיה הפעלת כוח ציבורי באופן חלקי נתפסת כליבת השחיתות. הם מנתחים 24,168 משיבים מן המודול Role of Government של ISSP לשנת 2006 ב־31 מדינות, ומשלבים תשובות אישיות עם מדד SWIID לאי־שוויון בהכנסה נטו. תפיסת השחיתות היא ממוצע של שתי שאלות על שיעור הפוליטיקאים ופקידי הציבור המעורבים בשחיתות, ולכן היא מתייחסת בעיקר לשחיתות גדולה ולא לתשלומים קטנים בשירות יומיומי. במודלים רב־רמתיים, תפיסה שהפקידים מטפלים באנשים דומים למשיב בהגינות קשורה לפחות תפיסת שחיתות גם לאחר בקרה על אמון, גיל, מגדר, השכלה, מעמד סובייקטיבי ואבטלה. ברמת המדינה, אי־שוויון גבוה יותר קשור ליותר תפיסת שחיתות, והקשר בין הוגנות לשחיתות נחלש ככל שאי־השוויון גדל. ברבעון המדינות השוויוני, מעבר מן הקצה הנמוך לגבוה בסולם ההוגנות הנתפסת קשור להפחתה של כ־0.9 יחידה בתפיסת השחיתות; ברבעון הלא־שוויוני ההפחתה היא כ־0.3 יחידה. הפרשנות היא שבחברה שוויונית יחס הוגן הוא נורמה ולכן חריגה ממנו מסמנת כשל מושחת, בעוד שבחברה לא־שוויונית ציפיות נמוכות יוצרות תפיסה גבוהה ועקבית יותר של שחיתות גם בקרב מי שחוו יחס הוגן. המחקר אינו מודד עבירות שחיתות בפועל, ניסיון שירות ישיר או סיבתיות, והנתונים חתכיים. הוא תומך אפוא בקשר מוסדי־תפיסתי שלפיו מאבק בשחיתות תלוי גם בשוויון ובהפעלת סמכות ללא משוא פנים, ולא באכיפה פלילית בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_new_democracy_clientelism_mass_support_summary_he",
+      "file": "democracy_new_democracy_clientelism_mass_support_summary_he.html",
+      "permalink": "/democracy_new_democracy_clientelism_mass_support_summary_he.html",
+      "sortKey": 202608180004,
+      "titleHe": "לא די לקנות את האליטות: כיצד מחזקים דמוקרטיה חדשה",
+      "paperTitle": "Consolidation of New Democracy, Mass Attitudes, and Clientelism",
+      "authorsCardHe": "Adi Brender; Allan Drazen",
+      "sourceAuthors": [
+        "Adi Brender",
+        "Allan Drazen"
+      ],
+      "journal": "American Economic Review, 99(2), 304–309",
+      "dateText": "פורסם: מאי 2009; כרך 99, גיליון 2, עמ׳ 304–309",
+      "doiUrl": "https://doi.org/10.1257/aer.99.2.304",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_new_democracy_clientelism_mass_support_summary_he.jpg",
+        "altHe": "מצביעים ממתינים בתור בתחנת קלפי בפנטאמי שבמדינת גומבה, ניגריה, בשנת 2023; תצלום הקשרי שאינו מתעד מקרה שנבחן במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "עדי ברנדר ואלן דרייזן מערערים על ההנחה שלפיה המונים בדמוקרטיה חדשה תומכים תמיד במשטר, ולכן די להעביר משאבים לאליטות המסוגלות לבצע הפיכה. הם מציעים מסגרת משלימה שבה תמיכה ציבורית בדמוקרטיה מייקרת לאליטות את החזרה לאוטוקרטיה, והממשלה יכולה לבחור בין העברות ממוקדות לאליטות לבין מדיניות המשפיעה על אמונת האזרחים ש׳דמוקרטיה עובדת׳. במודל דו־תקופתי מסוגנן, האזרח רואה הכנסה שוטפת אך אינו יודע להפריד בין ביצועי היסוד של המשטר, התערבות הממשלה וזעזוע מקרי. הוצאה ממשלתית יכולה לשפר את הערכתו רק כאשר הוא אינו מזהה אותה במלואה כמניפולציה; אם ההתערבות ידועה, היא אינה מלמדת דבר על ביצועי היסוד ואף עלולה לפגוע באמון. עלות הדרך העממית תלויה לכן בשני קשרים: עד כמה המדיניות משנה תמיכה, ועד כמה תמיכה משנה את העלות שאליטות מייחסות להפיכה. המאמר מציג גם ממצאים מעבודות קודמות של המחברים: בדמוקרטיות חדשות קריסת משטר הייתה כמעט פי שלושה שכיחה יותר בשנות בחירות, ובארבע הבחירות הראשונות לאחר מעבר לדמוקרטיה ההוצאה הממשלתית המרכזית עלתה בשנת בחירות בכ־0.8% מן התוצר לעומת שנים אחרות. עם זאת, לא נמצא שהוצאה או גירעון גבוהים הגדילו את סיכויי בחירתו מחדש של המכהן, ולכן תמריץ של ייצוב המשטר אפשרי אך אינו מזוהה ישירות. המסגרת היא תאורטית ומצומצמת, והראיות התצפיתיות אינן מוכיחות שמדיניות מסוימת מנעה הפיכה. תרומתה היא בהצבת יחסי הגומלין בין אליטות, עמדות ציבוריות וביצועים כלכליים במרכז הדיון על התבססות דמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populist_foreign_policy_five_schools_summary_he",
+      "file": "democracy_populist_foreign_policy_five_schools_summary_he.html",
+      "permalink": "/democracy_populist_foreign_policy_five_schools_summary_he.html",
+      "sortKey": 202608180003,
+      "titleHe": "חמש דרכים להבין מדיניות חוץ פופוליסטית",
+      "paperTitle": "Populist Foreign Policy: Mapping the Developing Research Program on Populism in International Relations",
+      "authorsCardHe": "Daniel F. Wajner; Philip Giurlando",
+      "sourceAuthors": [
+        "Daniel F. Wajner",
+        "Philip Giurlando"
+      ],
+      "journal": "International Studies Review, 26(1), viae012",
+      "dateText": "פורסם: 28 בפברואר 2024; כרך 26, גיליון 1, viae012",
+      "doiUrl": "https://doi.org/10.1093/isr/viae012",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populist_foreign_policy_five_schools_summary_he.jpg",
+        "altHe": "מנהיג נואם סביב שולחן דיפלומטי בפני נציגים ויועצים, בעוד קהל ציבורי נראה מבעד לחלונות ברקע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "דניאל פ׳ ויינר ופיליפ ג׳ורלנדו סוקרים את תוכנית המחקר הצומחת על מדיניות חוץ פופוליסטית ושואלים אם אפשר לזהות תופעה מובחנת ובאילו תנאים היא משנה את הפוליטיקה העולמית. במקום להציע הגדרה יחידה, הם מחברים חמש תפיסות של פופוליזם לחמש מסורות בניתוח מדיניות חוץ: פופוליזם כאידאולוגיה עם ניסוח מדיניות; כאסטרטגיה עם תהליך קבלת החלטות; כסגנון עם מנהיגות; כשיח עם פרקטיקה; וכמדיניות עם תפוקות. האסכולה הראשונה בוחנת כיצד העימות בין ״העם״ ל״אליטות״ מעצב תפיסת עולם בין־לאומית, אך גם כיצד אידאולוגיות ״עבות״ של ימין ושמאל ומבני כוח גאופוליטיים משנים את תוכנו. השנייה מדגישה פוליטיזציה וריכוזיות: מנהיגים מבקשים להעביר סוגיות חוץ מידי דיפלומטים, צבא ומומחים אל סדר היום הציבורי ואל שליטתם, אך קואליציות, שיטות משטר, מפלגות וביורוקרטיות יכולות לבלום אותם. השלישית מתמקדת בפרסונליזציה ובמופע הדיפלומטי של מנהיגים המציגים אותנטיות, אסרטיביות וקשר ישיר עם קהלים. הרביעית מנתחת כיצד מסגרות של עם, אליטה ואחר חוצות גבולות ומייצרות הזדהויות ואויבים טרנס־לאומיים. החמישית בודקת תוצאות בתחומי סחר, מימון, אינטגרציה, ביטחון, זכויות אדם, אקלים ובריאות, ומוצאת שונות רבה בין רטוריקה של ריבונות לבין שיתוף פעולה, רב־צדדיות חלופית או פרגמטיות. המיפוי נשען על סקירה מעמיקה של פרסומים שבהם מדיניות חוץ פופוליסטית ממלאת תפקיד מרכזי, אך המחברים מדגישים שהשיוך לאסכולות הוא כלי סגנוני וחופף ולא חברות ממשית במחנות. המאמר אינו מטא־אנליזה ואינו מציג אומדן סיבתי חדש; תרומתו היא בניית ״אוהל רחב״ להשוואת הסברים ובהצבת סדר יום למחקר השוואתי, אורכי ושיטתי יותר של ההשפעה הבין־לאומית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_family_policy_gender_wage_inequality_summary_he",
+      "file": "democracy_family_policy_gender_wage_inequality_summary_he.html",
+      "permalink": "/democracy_family_policy_gender_wage_inequality_summary_he.html",
+      "sortKey": 202608180002,
+      "titleHe": "הפרדוקס המגדרי של המדיניות הידידותית למשפחה",
+      "paperTitle": "Family Policies, Wage Structures, and Gender Gaps: Sources of Earnings Inequality in 20 Countries",
+      "authorsCardHe": "Hadas Mandel; Moshe Semyonov",
+      "sourceAuthors": [
+        "Hadas Mandel",
+        "Moshe Semyonov"
+      ],
+      "journal": "American Sociological Review, 70(6), 949–967",
+      "dateText": "פורסם לראשונה: 1 בדצמבר 2005; כרך 70, גיליון 6, עמ׳ 949–967",
+      "doiUrl": "https://doi.org/10.1177/000312240507000604",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_family_policy_gender_wage_inequality_summary_he.jpg",
+        "altHe": "אישה קוראת מסמכי עבודה במשרד הצמוד למרחב טיפול בילדים, בעוד אב משחק עם ילד ועמיתים עובדים ברקע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "הדס מנדל ומשה סמיונוב בוחנים מדוע פערי ההכנסה השנתית בין נשים לגברים משתנים בין 20 חברות מפותחות, והאם מדיניות ידידותית למשפחה היא שמצמצמת אותם. הם משלבים נתוני Luxembourg Income Study מן השנים 1991–2000 על 72,440 עובדים ועובדות בני 25–60 עם מדד התערבות של מדינת הרווחה. המדד כולל שבועות שווי־ערך של חופשת לידה בתשלום מלא, שיעור ילדי הגן במסגרות במימון ציבורי ושיעור כוח העבודה המועסק בבריאות, בחינוך וברווחה הציבוריים. מודלים היררכיים משווים את פער המגדר לאחר בקרה על גיל, השכלה, מצב משפחתי ושעות עבודה שבועיות. כאשר ההכנסה נמדדת בלוגריתם של המטבע המקומי ונשמר פיזור השכר האמיתי, מדיניות מפותחת יותר קשורה לפער קטן יותר. אולם כאשר כל עובד מדורג באחוזון בתוך מדינתו וכך מנוטרלים ההבדלים בפיזור ההכנסות, הקשר מתהפך לחיובי אך אינו מובהק סטטיסטית. מכאן שהממצא המבוסס אינו שהמדד המשולב מוכח כמגדיל את הפער, אלא שהיתרון השוויוני לכאורה של מדינות הרווחה נובע בעיקר מסולם שכר דחוס יותר. ניתוח המנגנונים מראה שמדיניות מפותחת קשורה להשתתפות גבוהה יותר של נשים בכוח העבודה, לריכוז גדול יותר במקצועות נשיים ולייצוג נמוך יותר בתפקידי ניהול; מקצוע נשי קשור לקנס של 3.5 אחוזוני הכנסה ותפקיד ניהולי לפרמיה של כמעט 15 אחוזונים. מבין שלושת רכיבי המדד, רק חופשת הלידה נמצאה קשורה באופן חיובי ומובהק לפער האחוזוני במודלים הסופיים, ואילו לטיפול ציבורי בילדים ולגודל השירותים החברתיים הציבוריים לא נמצא קשר מובהק להרחבת הפער. המחקר תצפיתי, כולל רק 20 מדינות ורק 14 במודלים המקצועיים המלאים, ואינו מודד ישירות שימוש בחופשה, ניסיון שנקטע או אפליה של מעסיקים. לכן תרומתו היא בהפרדת שני מנגנונים מוסדיים — תמיכה בתעסוקת אימהות ודחיסת מבנה השכר — ולא בהוכחת אפקט סיבתי יחיד של מדיניות משפחתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_extrajudicial_killings_judicial_independence_summary_he",
+      "file": "democracy_extrajudicial_killings_judicial_independence_summary_he.html",
+      "permalink": "/democracy_extrajudicial_killings_judicial_independence_summary_he.html",
+      "sortKey": 202608180001,
+      "titleHe": "כשהמדינה הורגת בלי משפט: כוחם של בתי משפט עצמאיים",
+      "paperTitle": "Examining extrajudicial killings: discriminant analyses of human rights’ violations",
+      "authorsCardHe": "Udi Sommer; Victor Asal",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Victor Asal"
+      ],
+      "journal": "Dynamics of Asymmetric Conflict, 12(3), 185–207",
+      "dateText": "פורסם אונליין: 20 ביוני 2019; כרך 12, גיליון 3, עמ׳ 185–207",
+      "doiUrl": "https://doi.org/10.1080/17467586.2019.1622026",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_extrajudicial_killings_judicial_independence_summary_he.jpg",
+        "altHe": "שופטת בוחנת תיקי חקירה, מפה ותצלומי ראיות בחדר בית משפט, כאיור עריכתי על פיקוח שיפוטי על פגיעות חמורות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "summaryHe": "אודי זומר וויקטור אסאל בוחנים אילו תנאים מוסדיים וביטחוניים קשורים לכך שממשלה משתמשת בהרג ללא משפט ובאיזו תדירות. הטיעון המרכזי הוא שעצמאות שיפוטית מגינה על הזכות לחיים בדרך שאינה מתמצה ברמת הדמוקרטיה הכללית: בית משפט בעל סמכות ומשאבים יכול לפקח על הרשות המבצעת דווקא בזמן חירום, כאשר התמריץ לעקוף הליך משפטי גדל. מנגד, סכסוך פנימי מאיים על הישרדות השלטון ומחריף את דילמת הביטחון והחירות, וסכסוך בין־מדינתי עשוי להרחיב סמכויות ביצועיות ולצמצם פיקוח. המחברים מנתחים 2,948 תצפיות מדינה־שנה מ־146 מדינות, באמצעות נתוני CIRI המבוססים על דוחות Amnesty International ומחלקת המדינה האמריקאית. הם אומדים רגרסיות לוגיסטיות סדורות למעבר בין היעדר הרג, שימוש מזדמן ושימוש תכוף, ומודלי GEE לשתי הבחנות בינריות: האם המדינה חצתה בכלל את הקו והאם השימוש נעשה תכוף. עצמאות שיפוטית קשורה לפחות הרג בכל ארבעת המפרטים העיקריים גם כאשר רמת הדמוקרטיה נכללת בנפרד. סכסוך פנימי קשור בעקביות גם לשימוש כלשהו וגם לשימוש תכוף, ואילו הקשר של סכסוך בין־מדינתי מופיע במודלים הסדורים אך אינו מובהק בשני מודלי GEE. דמוקרטיה קשורה לפחות הרג במודלים הסדורים, אך אינה מנבאת באופן מובהק אם מדינה תשתמש בו בכלל; הדבר מחדד את התרומה הנפרדת של מוסד שיפוטי עצמאי. בהשוואה להפרות אחרות, עצמאות שיפוטית קשורה לפחות היעלמויות אך לא למאסר פוליטי, וסכסוך בין־מדינתי קשור למאסר אך לא להיעלמות. התוצאות מצדיקות פירוק של מדדי זכויות מצרפיים, אך אינן מזהות השפעה סיבתית: המדידה מחלקת מדינות לשלוש קטגוריות רחבות, הפאנל אינו מאוזן, איכות הדיווח משתנה, ויש אי־עקביות בכתב היד לגבי חלון השנים המדויק. המחקר תומך אפוא בטענה מוסדית זהירה שלפיה בתי משפט עצמאיים וסכסוכים פנימיים קשורים באופן מובחן להגנה על החיים, ולא בתחזית אוטומטית לגבי מדינה או רפורמה מסוימת.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_social_media_mediated_representation_summary_he",
       "file": "democracy_social_media_mediated_representation_summary_he.html",
