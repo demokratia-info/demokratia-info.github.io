@@ -1,8 +1,295 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1362,
+  "paperCount": 1372,
   "papers": [
+    {
+      "slug": "democracy_palestinian_minority_electoral_reform_representation_summary_he",
+      "file": "democracy_palestinian_minority_electoral_reform_representation_summary_he.html",
+      "permalink": "/democracy_palestinian_minority_electoral_reform_representation_summary_he.html",
+      "sortKey": 202608190010,
+      "titleHe": "ייצוג המיעוט הפלסטיני אחרי שינוי אחוז החסימה",
+      "paperTitle": "Representation, minorities and electoral reform: the case of the Palestinian minority in Israel",
+      "authorsCardHe": "Rebecca Kook",
+      "sourceAuthors": [
+        "Rebecca Kook"
+      ],
+      "journal": "Ethnic and Racial Studies, 40(12), 2039–2057",
+      "dateText": "פורסם אונליין: 1 בפברואר 2017; כרך 40, גיליון 12, עמ׳ 2039–2057",
+      "doiUrl": "https://doi.org/10.1080/01419870.2017.1277027",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_minority_electoral_reform_representation_summary_he.jpg",
+        "altHe": "הצבעה בנצרת ביום הבחירות ב־25 בינואר 1949; תצלום היסטורי הקשרי שאינו מתעד את בחירות 2015 או את הרשימה המשותפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "רבקה קוק בוחנת כיצד העלאת אחוז החסימה בישראל מ־2% ל־3.25% עיצבה מחדש את הייצוג הפוליטי של האזרחים הפלסטינים בבחירות 2015. ארבע רשימות פלסטיניות שהתמודדו בנפרד התאחדו לרשימה המשותפת, ובכנסת העשרים עלה מספר המושבים שלהן יחד מ־11 ל־13. שיעור ההצבעה בקרב האזרחים הפלסטינים עלה מ־56.5% בבחירות 2013 ל־63.5% ב־2015; 83.2% מקולותיהם ניתנו לרשימה המשותפת ו־16.8% לרשימות יהודיות. המאמר אינו מסתפק בחשבון המושבים אלא משתמש במסגרת ״טענות הייצוג״ כדי לשאול מי מוצג כמיוצג, אילו אינטרסים מקבלים ביטוי ולאילו קהלים פונים הנציגים. הראיות כוללות תוצאות רשמיות, ממצאי סקרים, נאומים וראיונות פומביים, פעילות מפלגתית והצעות חוק מן השנה הראשונה שלאחר הבחירות. קוק מזהה שלושה כיוונים של הרחבה: הצגת הרשימה כמייצגת את החברה הפלסטינית כולה ובה בעת את זהויות המשנה שבתוכה; הדגשה רחבה יותר של אינטרסים אזרחיים וחברתיים של האזרחים הפלסטינים בתוך ישראל; ופנייה אל ״הכוחות הדמוקרטיים״ בחברה הישראלית מעבר לציבור הפלסטיני. המקרה מראה שכלל מוסדי יכול להשפיע על תוכן הייצוג ועל היחסים בין נציגים למי שהם טוענים לייצג, ולא רק על סיכויי הכניסה לפרלמנט. עם זאת, זהו חקר מקרה מן התקופה הסמוכה לבחירות. המאמר מדגיש כי הראיות לקשר בין האיחוד לבין עלייה בלגיטימיות, באפקטיביות ההנהגה או בהצבעה אינן מכריעות, וכי שנה אחת אינה מספיקה להערכת תוצאות ארוכות טווח. לכן התרומה היא בזיהוי שינוי בטענות ובאפשרויות הייצוג לאחר הרפורמה, ולא בהוכחה שאחוז החסימה לבדו גרם לכל השינויים או הבטיח ייצוג שוויוני ומתמשך.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_welfare_state_privatization_delivery_summary_he",
+      "file": "democracy_welfare_state_privatization_delivery_summary_he.html",
+      "permalink": "/democracy_welfare_state_privatization_delivery_summary_he.html",
+      "sortKey": 202608190009,
+      "titleHe": "מי מספק את מדינת הרווחה? ההפרטה נשארת מפלגתית",
+      "paperTitle": "Welfare State Politics in Privatization of Delivery: Linking Program Constituencies to Left and Right",
+      "authorsCardHe": "Amos Zehavi",
+      "sourceAuthors": [
+        "Amos Zehavi"
+      ],
+      "journal": "Comparative Political Studies, 45(2), 194–219",
+      "dateText": "פורסם אונליין: 18 באוקטובר 2011; כרך 45, גיליון 2, עמ׳ 194–219",
+      "doiUrl": "https://doi.org/10.1177/0010414011421307",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_welfare_state_privatization_delivery_summary_he.jpg",
+        "altHe": "תושב מקבל שירות בדלפק קהילתי־ציבורי, כשנציגי ספק ציבורי וספק חיצוני משתתפים במתן השירות וללא כיתוב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "עמוס זהבי בוחן מדוע גם ממשלות שמאל וגם ממשלות ימין מפריטות את אספקתם של שירותי רווחה, ובכל זאת נותר ביניהן הבדל מפלגתי עקבי. הפרטת אספקה מוגדרת במאמר כהעברת הניהול או הביצוע המרכזי מגוף ציבורי לגוף פרטי כאשר המימון נשאר ציבורי; היא אינה שקולה לקיצוץ תקציב או להעברת מלוא האחריות לשוק. בסיס הראיות העיקרי הוא חינוך יסודי ותיכוני באנגליה, אוסטרליה, ניו זילנד, נורווגיה ושוודיה משנות ה־70 ועד התקופה הסמוכה לכתיבת המאמר, טווח של כ־35 שנים. המחקר משלב מסמכים, דיווחי תקשורת וכ־80 ראיונות עם פוליטיקאים, פקידים, נציגי איגודים וספקים פרטיים, ומשווה בתוך כל מדינה בין ממשלות שמאל וימין. הממצא אינו שהשמאל נמנע תמיד מהפרטה: ממשלות משני המחנות העבירו אספקה לגופים פרטיים. ההבדל הוא שהימין נטה יותר להציב את ההפרטה על סדר היום, לבצע את הצעד הראשון ולהרחיב אותה למגוון גדול יותר של תפקודים. השוואות מצרפיות בין מדינות עלולות להחמיץ את הדפוס הזה, משום שמדינה יכולה להחזיק רמה גבוהה או נמוכה של אספקה פרטית מסיבות היסטוריות גם כאשר החלפת ממשלה משנה את הכיוון בשוליים. ההסבר של זהבי מתמקד ב״ציבורי תוכנית״: עובדי השירות הציבורי, האיגודים והמשתמשים במערכת הציבורית נוטים להיות קרובים יותר לשמאל, ואילו ספקים פרטיים וקהלים הנהנים מן החלופה הפרטית קרובים יותר לימין. כאשר ציבור פרטי גדל הוא יוצר משאבים ואינטרסים שמקשים על ביטול ההפרטה, ולכן מדיניות יכולה להתקבע גם לאחר חילופי שלטון. דיון קצר יותר בבריאות משמש בדיקת התאמה נוספת, אך אינו מפורט כמו ניתוח החינוך. המחקר איכותני, חלק מן ההתפתחויות המאוחרות אינן מגובות במדדים כמותיים מלאים, והמסגרת מתאימה פחות למערכות שבהן שסעים שאינם שמאל–ימין שולטים בפוליטיקה. לכן הוא מזהה מנגנון מפלגתי והשוואתי, אך אינו אומד אפקט סיבתי ממוצע ואינו קובע שהפרטה משפרת או פוגעת בהכרח בשוויון ובאיכות השירות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_melancholic_citizenship_south_tel_aviv_migration_summary_he",
+      "file": "democracy_melancholic_citizenship_south_tel_aviv_migration_summary_he.html",
+      "permalink": "/democracy_melancholic_citizenship_south_tel_aviv_migration_summary_he.html",
+      "sortKey": 202608190008,
+      "titleHe": "אזרחות מלנכולית במחאה נגד הגירה בדרום תל אביב",
+      "paperTitle": "Melancholic citizenship in the south Tel Aviv protest against global migration",
+      "authorsCardHe": "Tal Shamur",
+      "sourceAuthors": [
+        "Tal Shamur"
+      ],
+      "journal": "Citizenship Studies, 22(3), 259–277",
+      "dateText": "פורסם אונליין: 27 במרץ 2018; כרך 22, גיליון 3, עמ׳ 259–277",
+      "doiUrl": "https://doi.org/10.1080/13621025.2018.1449811",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_melancholic_citizenship_south_tel_aviv_migration_summary_he.jpg",
+        "altHe": "מעגל תושבים רב־דורי בחדר קהילתי שחוק, כשדרך הפתח נראה רחוב מגוון בדרום תל אביב וללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "טל שמור מנתח את המחאה נגד הגירה מאפריקה בשכונת התקווה בדרום תל אביב דרך אתנוגרפיה שנערכה בשנים 2010–2013. הוא התגורר בשכונה, התנדב בשני מרכזים קהילתיים לקשישים ובמיזם מזון, עבד בחנות בשוק, נכח במשחקי כדורגל, בישיבות ובהפגנות וקיים עשרות שיחות מזדמנות. החומר המתועד כולל שישה ראיונות — ארבע נשים בנות 74, 56, 37 ו־26 ושני גברים בני 77 ו־25 — וכן 28 מפגשים שבועיים מוקלטים ומתומללים של קבוצת מיקוד עם 12 נשים בשנות השבעים והשמונים לחייהן. הניתוח נעזר גם בסרט התיעודי ״שקופים״ ובתגובות תושבים אליו. המאמר אינו מכחיש את הכעס הגלוי כלפי מהגרים, אך מראה שהוא התקיים לצד עצב, אובדן, ייאוש ולעיתים אמפתיה כלפיהם. הנוכחות החדשה בשכונה הפכה בעיני תושבים את ההזנחה הממושכת, המיקום המעמדי־אתני המזרחי והדחיקה המרחבית שלהם לבולטים מחדש. שמור מכנה את התצורה הזאת ״אזרחות מלנכולית״: תחושה קולקטיבית של מי שנכללים רשמית בגוף האזרחי, אך מפגשם עם חלוקת משאבים, מרחב ותשומת לב שלטונית חושף בעיניהם את שוליותם המתמשכת. המושג מסביר מדוע המחאה יכולה להפנות כעס אל מהגרים ובה בעת לבטא תביעה מן המדינה להכרה, להגנה ולמעמד שווה יותר. הוא גם מונע תיאור חד־ממדי של התושבים, מפני שהעדויות כוללות רגשות סותרים והכרה בסבלם של מהגרים. זהו מחקר פרשני בשכונה אחת, עם מדגם ראיונות קטן וקבוצת מיקוד המורכבת מנשים מבוגרות; הוא אינו מודד שכיחות עמדות ואינו בוחן השפעה סיבתית. המאמר אינו מאמת טענות עובדתיות של תושבים על מהגרים ואינו מתיימר לייצג את כל דרום תל אביב. תרומתו היא בהצגת המחאה כזירה שבה הגירה, אתניות, מעמד, מרחב והבטחה אזרחית לא ממומשת נשזרים זה בזה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_countering_authoritarian_populist_legal_theory_summary_he",
+      "file": "democracy_countering_authoritarian_populist_legal_theory_summary_he.html",
+      "permalink": "/democracy_countering_authoritarian_populist_legal_theory_summary_he.html",
+      "sortKey": 202608190007,
+      "titleHe": "כיצד מתמודדים עם תורת המשפט של פופוליזם סמכותני?",
+      "paperTitle": "Countering authoritarian populists’ legal theory",
+      "authorsCardHe": "Ofra Bloch; Natalie R. Davidson",
+      "sourceAuthors": [
+        "Ofra Bloch",
+        "Natalie R. Davidson"
+      ],
+      "journal": "Theoretical Inquiries in Law, 26(2), 103–127",
+      "dateText": "פורסם: 1 בספטמבר 2025; כרך 26, גיליון 2, עמ׳ 103–127",
+      "doiUrl": "https://doi.org/10.1515/til-2025-0018",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_countering_authoritarian_populist_legal_theory_summary_he.jpg",
+        "altHe": "חוקרות משפט יושבות סביב מסמכים בחדר עבודה, ומבעד לחלונות נראית התכנסות אזרחית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "עפרה בלוך ונטלי ר׳ דייווידסון שואלות כיצד ראוי שאקדמאים משפטיים יגיבו בפומבי לפופוליסטים סמכותניים. הן ממסגרות את פעילותם לא רק כהתנגדות להצעה חוקתית או לחוק מסוים, אלא כמאבק בין תורות משפט מתחרות. לפי הניתוח, הטיעון הפופוליסטי מציג את המשפט כביטוי טהור של הרצון העממי; מכאן נגזרות קריסה של ההבחנה בין משפט לפוליטיקה ואימוץ צורה קיצונית של פוזיטיביזם משפטי. המחברות בוחנות דרך עדשה זו את התגייסותם של אקדמאים משפטיים בישראל בשנת 2023. לטענתן, אף שהאקדמאים לא הציגו את פעולתם במפורש כוויכוח בתורת המשפט, טיעוניהם נגד הצעות הממשלה ערערו במשתמע על הגישה המשפטית שעמדה מאחוריהן. ההתנגדות יצרה שתי מתיחויות: השבת מידה של אוטונומיה למשפט דרשה בעת ובעונה אחת פנייה לערכים נגד הפוזיטיביזם, והפיכתם של מומחים לפעילים שמגייסים דעת קהל הקשתה על הצגת מומחיותם כנפרדת מן הפוליטיקה. המסקנה המנוסחת בזהירות היא שלחוקרי משפט יש תרומה ייחודית למאבק בפופוליזם סמכותני, אך תרומה זו נטועה בהשקפה מוסרית־פוליטית שראוי להכיר בה ולהגן עליה גם בזירה הפוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_polarization_partisanship_institutions_summary_he",
+      "file": "democracy_political_polarization_partisanship_institutions_summary_he.html",
+      "permalink": "/democracy_political_polarization_partisanship_institutions_summary_he.html",
+      "sortKey": 202608190006,
+      "titleHe": "כשהקיטוב הופך מוסדות לזירת מאבק מפלגתי",
+      "paperTitle": "Political Polarization and the Partisanship of Institutions",
+      "authorsCardHe": "Moshe Cohen-Eliya; Iddo Porat",
+      "sourceAuthors": [
+        "Moshe Cohen-Eliya",
+        "Iddo Porat"
+      ],
+      "journal": "The Law & Ethics of Human Rights, 19(1), 1–29",
+      "dateText": "פורסם אונליין: 6 במאי 2025; כרך 19, גיליון 1, עמ׳ 1–29",
+      "doiUrl": "https://doi.org/10.1515/lehr-2025-2005",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_polarization_partisanship_institutions_summary_he.jpg",
+        "altHe": "אולם שימוע ציבורי מחולק לשני גושי קהל, כשבעלי תפקידים מוסדיים יושבים במרכז",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "משה כהן־אליה ועידו פורת בוחנים את הקיטוב הפוליטי כאחד האתגרים המרכזיים של דמוקרטיות מודרניות. הם מגדירים אותו כהעמקה של שסעים אידאולוגיים וחברתיים בין מחנות פוליטיים, שלעיתים מלווה בעוינות ובחוסר אמון. התקציר מונה אי־שוויון כלכלי, פיצול תקשורתי, פוליטיקת זהויות ועיצוב מוסדי בין הגורמים המרכזיים שמחזקים מחלוקות ומקבעים נאמנויות מפלגתיות. הטיעון המרכזי הוא שהקיטוב אינו נשאר בזירת הבחירות והשיח: הוא הופך מוסדות שנחשבו ניטרליים לשדות מאבק מפלגתיים, ובכך פוגע באמינותם וביעילותם. בתי המשפט מקבלים מקום מיוחד בניתוח מפני שמחנות פוליטיים מבקשים לעצב פסיקות בהתאם להעדפותיהם האידאולוגיות. לפי המחברים, המפלגתיות של המוסדות היא מן התוצאות המזיקות ביותר של קיטוב, משום שהיא מפחיתה אמון במבנים דמוקרטיים ומחלישה את יכולתם לפעול ביעילות. התקציר מציג מסגרת מושגית וטיעון מוסדי, אך אינו מפרט נתונים, מקרי מבחן או בדיקה סיבתית שמאפשרים לדרג את משקלם של הגורמים השונים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_constitutional_dialogue_courts_legislatures_summary_he",
+      "file": "democracy_constitutional_dialogue_courts_legislatures_summary_he.html",
+      "permalink": "/democracy_constitutional_dialogue_courts_legislatures_summary_he.html",
+      "sortKey": 202608190005,
+      "titleHe": "דיאלוג חוקתי נוצר בפרקטיקה, לא רק במבנה",
+      "paperTitle": "Practice Makes Dialogue: Reconceptualizing Constitutional Interaction between Courts and Legislatures",
+      "authorsCardHe": "Bell E Yosef",
+      "sourceAuthors": [
+        "Bell E Yosef"
+      ],
+      "journal": "ICL Journal, 15(2), 115–161",
+      "dateText": "פורסם אונליין: 3 ביוני 2021; כרך 15, גיליון 2, עמ׳ 115–161",
+      "doiUrl": "https://doi.org/10.1515/icl-2020-0033",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_constitutional_dialogue_courts_legislatures_summary_he.jpg",
+        "altHe": "עובדי שני מוסדות סמוכים מחליפים תיק מסמכים, כשברקע נראים מסלולים חוזרים של החלטות ותגובות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "בל א׳ יוסף שואלת כיצד יש להבין את יחסי הגומלין בין בתי משפט למחוקקים כאשר מתעוררים אתגרים חוקתיים. לטענתה, דיאלוג חוקתי גם מתאר את האינטראקציה בין הרשויות וגם עשוי לעצב אותה, ולכן דרושה דרך מדויקת יותר לזהותו. ההמשגה המוצעת אינה נשענת רק על עצם קיומן של תגובות חקיקה, על מספרן או על קיומם של מנגנונים חוקתיים מבניים. במקום זאת היא מתמקדת בשימוש בפועל בפרקטיקות חוקתיות של הרשות השופטת והענפים הפוליטיים במסגרת תהליך הביקורת החוקתית השגרתי. גישת רוחב־ועומק מתבוננת בהחלטות חוקתיות ובתגובות חקיקה רבות ובוחנת את הדינמיקה ביניהן. התובנות נגזרות לא רק מן העובדה שניתן פסק דין או נחקק חוק, אלא גם מן התוכן ומן העיצוב של התוצאה המוסדית. לפי המאמר, כך אפשר להבין באופן מקיף יותר את האינטראקציה החוקתית והדיאלוגית בכל שיטה ולזהות מגמות ושינויים לאורך התהוותם. היישום לפסיקה הישראלית מאיר, לטענת המחברת, את עומקה ואת מורכבותה של האינטראקציה ומאפשר לתאר את ישראל כמערכת חוקתית בעלת מאפיינים דיאלוגיים חזקים. התקציר אינו מדווח כמה החלטות נבדקו, כיצד נבחרו או אילו דוגמאות הניבו את המסקנה, ולכן יש לתחום את המסקנות לתרומה המושגית ולתיאור היישום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_one_side_supreme_court_polarization_summary_he",
+      "file": "democracy_one_side_supreme_court_polarization_summary_he.html",
+      "permalink": "/democracy_one_side_supreme_court_polarization_summary_he.html",
+      "sortKey": 202608190004,
+      "titleHe": "מתי קיטוב חד־צדדי מסכן את לגיטימיות בית המשפט?",
+      "paperTitle": "Solving One-Side Polarization: Supreme Court Polarization and Politicization in Israel and the U.S.",
+      "authorsCardHe": "Iddo Porat",
+      "sourceAuthors": [
+        "Iddo Porat"
+      ],
+      "journal": "The Law & Ethics of Human Rights, 15(2), 221–258",
+      "dateText": "פורסם בדפוס: 25 בנובמבר 2021; פורסם אונליין: 11 בינואר 2022; כרך 15, גיליון 2, עמ׳ 221–258",
+      "doiUrl": "https://doi.org/10.1515/lehr-2021-2026",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_one_side_supreme_court_polarization_summary_he.jpg",
+        "altHe": "שני דגמים של בתי משפט ולצדם כרטיסי שופטים המסודרים באופן מאוזן במקרה אחד ולא־מאוזן באחר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "עידו פורת סוקר ומשווה את התפתחות הקיטוב בבתי המשפט העליונים של ישראל ושל ארצות הברית. לדבריו, הקיטוב בין שופטים ליברלים לשמרנים היה בעת כתיבת המאמר תופעה חדשה יחסית בישראל, לעומת ההיסטוריה הארוכה והמוכרת יותר בארצות הברית. המאמר בוחן את ההיסטוריה, הסיבות והמאפיינים המיוחדים של הקיטוב בשני בתי המשפט ואת ההבדלים ביניהם. הוא מוסיף שתי הבחנות: בין קיטוב של בית משפט לבין פוליטיזציה שלו, ובין קיטוב רגיל לקיטוב חד־צדדי. קיטוב רגיל מתרחש כאשר ההרכב מחולק בקירוב שווה בין שני מתחרים פוליטיים מרכזיים; קיטוב חד־צדדי מתקיים כאשר לצד אחד במפה הפוליטית יש יתרון ברור בהרכב. כדוגמאות היסטוריות שנכונות למועד הכתיבה, פורת תיאר את בית המשפט האמריקאי כבעל שישה שופטים שמרנים ושלושה ליברלים, ואת הישראלי כבעל עשרה שופטים שסיווג כליברלים וחמישה שסיווג כשמרנים. הטענה המרכזית היא שקיטוב חד־צדדי מציב בעיה קשה במיוחד ללגיטימיות בית המשפט, אף יותר מקיטוב רגיל. המאמר מסיים בסקירת פתרונות אפשריים שיסייעו לישראל לצאת מן המצב, אך התקציר אינו מפרט מהם ולכן אין בסיס לתארם כאן. המספרים והסיווגים הם תיאורו של המחבר במועד הכתיבה, ולא תיאור של ההרכבים כיום או קביעה מוסכמת בדבר השקפתו של כל שופט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_women_vote_india_first_elections_summary_he",
+      "file": "democracy_women_vote_india_first_elections_summary_he.html",
+      "permalink": "/democracy_women_vote_india_first_elections_summary_he.html",
+      "sortKey": 202608190003,
+      "titleHe": "הזכות לבחור לא הבטיחה לנשים מקום שווה בבחירות הראשונות בהודו",
+      "paperTitle": "Women and the Vote: Registration, Representation and Participation in the Run-Up to India’s First Elections, 1951–52",
+      "authorsCardHe": "Ornit Shani",
+      "sourceAuthors": [
+        "Ornit Shani"
+      ],
+      "journal": "South Asia: Journal of South Asian Studies, 44(2), 228–246",
+      "dateText": "מטא־נתוני הדפוס: 4 במרץ 2021; פורסם לראשונה אונליין: 5 באפריל 2021; כרך 44, גיליון 2, עמ׳ 228–246",
+      "doiUrl": "https://doi.org/10.1080/00856401.2021.1882746",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_women_vote_india_first_elections_summary_he.jpg",
+        "altHe": "נשים ממתינות בתור ב־Modern High School בניו דלהי במהלך הבחירות הכלליות הראשונות בהודו בשנים 1951–1952",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "אורנית שני בוחנת כיצד נשים נכנסו אל התהליך הדמוקרטי לקראת הבחירות הראשונות בהודו בשנים 1951–1952. לפי התקציר, מנהיגים הודים וארגוני נשים ביקשו להבטיח שנשים ישתתפו בבחירות ואף ייבחרו לבתי המחוקקים, אך בפועל רק מספר קטן של נשים נבחר כמועמדות ומספר קטן עוד יותר נבחר לכהונה. המאמר עוקב אחר התהוות הפער בשלוש זירות הקשורות זו בזו: רישום נשים כבוחרות, ייצוגן ובחירתן כמועמדות, והשתתפותן במהלך ההיערכות לבחירות ובבחירות עצמן. באמצעות שלושת הצירים האלה מבקשת שני להאיר כיצד נשים התייחסו לרעיון שהממשלה שואבת את סמכותה מן הציבור וכיצד אימצו את רעיון ההסמכה העממית לעצמן. הטיעון המוצג בתקציר אינו מסתכם במדידת מספר הנשים שנבחרו; הוא ממקם את פעולתן של נשים כחלק מבניית המדינה הדמוקרטית בימיה הראשונים של הרפובליקה. עם זאת, התקציר הזמין אינו מפרט את ארכיון המקורות, מספר המסמכים או המקרים, זהות הארגונים שנבדקו, שיעורי הרישום או מספרי המועמדות והנבחרות. לכן הסיכום מציג את השאלה, שלושת צירי הניתוח והטענה הכללית בלבד, ואינו משלים מנגנונים היסטוריים או נתונים שאינם מופיעים במקור הזמין.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_strategy_news_affective_polarization_summary_he",
+      "file": "democracy_strategy_news_affective_polarization_summary_he.html",
+      "permalink": "/democracy_strategy_news_affective_polarization_summary_he.html",
+      "sortKey": 202608190002,
+      "titleHe": "חדשות על אסטרטגיה פוליטית עשויות דווקא לצמצם עוינות בין־מפלגתית",
+      "paperTitle": "Strategy News Is Good News: How Journalistic Coverage of Politics Reduces Affective Polarization",
+      "authorsCardHe": "Alon Zoizner; Shaul R. Shenhav; Yair Fogel-Dror; Tamir Sheafer",
+      "sourceAuthors": [
+        "Alon Zoizner",
+        "Shaul R. Shenhav",
+        "Yair Fogel-Dror",
+        "Tamir Sheafer"
+      ],
+      "journal": "Political Communication, 38(5), 604–623",
+      "dateText": "פורסם לראשונה אונליין: 5 בנובמבר 2020; גיליון הדפוס: 2021; כרך 38, גיליון 5, עמ׳ 604–623",
+      "doiUrl": "https://doi.org/10.1080/10584609.2020.1829762",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_strategy_news_affective_polarization_summary_he.jpg",
+        "altHe": "חדר החדשות והאולפן של BBC Broadcasting House בשנת 2013; תצלום הקשרי של מערכת חדשות שאינו מציג את כלי התקשורת או את הנתונים שנבדקו במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "אלון זויזנר, שאול ר׳ שנהב, יאיר פוגל־דרור ותמיר שפר שואלים איזה תפקיד ממלא תוכן חדשותי בהסבר עוינות בין מפלגות. הם מתמקדים בסיקור אסטרטגי — דרך נפוצה לסקר פוליטיקה באמצעות תשומת לב לאסטרטגיות ולטקטיקות של שחקנים פוליטיים — וטוענים כי חשיפה אליו עשויה להפחית קיטוב רגשי, אף שסגנון הסיקור הזה ספג ביקורת רבה במחקרים קודמים. המסקנה נשענת על שני מחקרים נפרדים. הראשון הוא ניסוי סקר, המספק בסיס לבחינת השפעת החשיפה במסגרת ניסויית; השני הוא סקר חתך שחובר לניתוח תוכן ממוחשב של הכתבות שאליהן נחשפו המשיבים דרך מקורות החדשות העיקריים שלהם במהלך מערכת הבחירות לנשיאות ארצות הברית ב־2016. ניתוח התוכן כלל 415,604 כתבות מ־157 כלי תקשורת אמריקאיים. לפי התקציר, התוצאות בשני המחקרים מצביעות על ירידה בעוינות כלפי המפלגה היריבה כאשר הסיקור האסטרטגי נוכח. עם זאת, יש להבחין בין סוגי הראיות: ניסוי הסקר יכול לתמוך בטענה סיבתית בהתאם להקצאה ולמניפולציה שבוצעו בו, ואילו הקשר במחקר החתך נשאר תצפיתי ואינו מוכיח לבדו שהסיקור גרם לעמדות. התקציר אינו מוסר את גודל המדגם בכל סקר, את נוסח הטיפול הניסויי, את מדד העוינות, את מודל ניתוח התוכן או את גודל האפקט. לכן הסיכום מציג את העיצוב הכללי ואת כיוון הממצאים בלי להמציא אומדנים או להרחיב את הטענה מעבר למסגרת האמריקאית שנבדקה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_checkpointwatch_women_human_rights_organization_summary_he",
+      "file": "democracy_checkpointwatch_women_human_rights_organization_summary_he.html",
+      "permalink": "/democracy_checkpointwatch_women_human_rights_organization_summary_he.html",
+      "sortKey": 202608190001,
+      "titleHe": "ארגון נשים לזכויות אדם נע בין התמסדות לתנועת שטח",
+      "paperTitle": "The Case of CheckpointWatch: A Study of Organizational Practices in a Women's Human Rights Organization",
+      "authorsCardHe": "Helena Syna Desivilya; Dalit Yassour-Borochowitz",
+      "sourceAuthors": [
+        "Helena Syna Desivilya",
+        "Dalit Yassour-Borochowitz"
+      ],
+      "journal": "Organization Studies, 29(6), 887–908",
+      "dateText": "פורסם ביוני 2008; תאריך החודש המנורמל: 1 ביוני 2008; כרך 29, גיליון 6, עמ׳ 887–908",
+      "doiUrl": "https://doi.org/10.1177/0170840608088708",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_checkpointwatch_women_human_rights_organization_summary_he.jpg",
+        "altHe": "סצנת מעבר במחסום קלנדיה באוגוסט 2004; תצלום הקשרי שאינו מציג מתנדבות CheckpointWatch או אירוע שנבדק במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-19",
+      "dateModified": "2026-08-19",
+      "summaryHe": "הלנה סינה דסיביליה ודלית יסעור־בורוכוביץ חוקרות כיצד תפיסות של תפקידי מגדר ונקודות מבט של נשים על סכסוך פוליטי ועל תהליכי שלום מעצבות התפתחות ארגונית. מקרה הבוחן הוא CheckpointWatch, ארגון נשים התנדבותי המוקדש למעקב ולדיווח על הפרות זכויות האדם של פלסטינים החוצים מחסומים צבאיים ישראליים. זהו מחקר איכותני שאסף מידע משני סוגי מקורות: ראיונות עם מודיעות ומודיעים מרכזיים בארגון ומסמכים שהועברו ברשת התקשורת הפנימית שלו. לפי התקציר, הממצאים חושפים תהליך התפתחות מורכב שבו הארגון נע בין מעבר לעמותה ממוסדת יותר לבין אחיזה בשלב של ארגון תנועה חברתית ופעילות שורשית. המחקר מדגיש גם את האידאולוגיה הפמיניסטית, על המורכבויות והפרדוקסים הפנימיים הטמונים בה, ככוח החודר אל המבנה הארגוני, תהליכי העבודה והפעילויות. מסקנה נוספת היא שלהקשר התרבותי והחברתי־פוליטי תפקיד יסודי בפרקטיקות הארגוניות של נשים. התרומה המוצהרת לחקר ארגונים היא חשיפת הדינמיקה המורכבת בארגוני נשים העוסקים בשלום וביישוב סכסוכים. התקציר אינו מוסר את מספר הראיונות או המסמכים, את מועדי האיסוף, את דרך בחירת המשתתפים, את הליך הניתוח או דוגמאות קונקרטיות מן הנתונים. לכן הסיכום אינו מייחס לארגון מבנה, החלטה, מחלוקת או תוצאה מסוימים מעבר למה שנמסר בתקציר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_judicial_review_civic_culture_japan_korea_summary_he",
       "file": "democracy_judicial_review_civic_culture_japan_korea_summary_he.html",
