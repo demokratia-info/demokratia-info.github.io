@@ -1,8 +1,289 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1372,
+  "paperCount": 1382,
   "papers": [
+    {
+      "slug": "democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he",
+      "file": "democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he.html",
+      "permalink": "/democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he.html",
+      "sortKey": 202608200010,
+      "titleHe": "סיקור אסטרטגי מגביר ציניות ומפחית ידע — אך לא נמצא שהוא מצמצם השתתפות",
+      "paperTitle": "The Consequences of Strategic News Coverage for Democracy: A Meta-Analysis",
+      "authorsCardHe": "Alon Zoizner",
+      "sourceAuthors": [
+        "Alon Zoizner"
+      ],
+      "journal": "Communication Research, 48(1), 3–25",
+      "dateText": "פורסם לראשונה אונליין: 26 באוקטובר 2018; גיליון הדפוס: פברואר 2021; כרך 48, גיליון 1, עמ׳ 3–25",
+      "doiUrl": "https://doi.org/10.1177/0093650218808691",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he.jpg",
+        "altHe": "צוות מערכת בחדר חדשות בוחן לוח סקרים ותכנון של סיקור אסטרטגי, המחשה חזותית לנושא המטה־אנליזה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אלון זויזנר בוחן באופן שיטתי את ההשלכות הדמוקרטיות של סיקור אסטרטגי — חדשות המדגישות את הטקטיקות של פוליטיקאים להשגת תמיכה, את המרוץ ואת נתוני הסקרים. המטה־אנליזה משלבת מחקרים שפורסמו עם מחקרים שלא פורסמו ומרכזת 54 ממצאים מ־32 מחקרים, הכוללים יחד 38,658 משיבים. הסינתזה מצביעה על שלוש תוצאות שליליות עקביות בממוצע: עלייה בציניות פוליטית בגודל אפקט מתוקנן d=0.32, ירידה בידע פוליטי מהותי בגודל d=-0.31, וירידה בהערכה החיובית של פריטי חדשות בגודל d=-0.22. לעומת זאת, לא נמצאה עדות לכך שסיקור אסטרטגי שוחק השתתפות פוליטית. ההבחנה בין התוצאות חשובה משום שהשפעה על האופן שבו אזרחים תופסים פוליטיקה, מבינים סוגיות ומעריכים חדשות אינה זהה בהכרח לשינוי בהתנהגותם הפוליטית. המחקר אינו מתאר כל חשיפה כגורמת לאותה תגובה, אלא מסכם ממוצעים מתוקננים על פני מחקרים והקשרים שונים. הכללת חומר שלא פורסם מרחיבה את בסיס הראיות ומצמצמת את התלות רק בתוצאות שהגיעו לכתבי עת, אף שאינה מבטלת הבדלים בשיטות, במדדים ובאוכלוסיות. מבחינה דמוקרטית, התוצאות מצביעות על מחיר אפשרי לסיקור שמציג פוליטיקה בעיקר כתחרות על יתרון: הוא עלול להחליש הבנה מהותית ולחזק חשד כלפי המערכת גם בלי להרחיק אזרחים מפעולה פוליטית. הממצא על השתתפות הוא היעדר עדות לשחיקה בקורפוס שנבדק, ולא הוכחה שכל צורה של סיקור אסטרטגי נטולת השפעה על כל סוג השתתפות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_media_public_opinion_foreign_policy_bosnia_crisis_summary_he",
+      "file": "democracy_media_public_opinion_foreign_policy_bosnia_crisis_summary_he.html",
+      "permalink": "/democracy_media_public_opinion_foreign_policy_bosnia_crisis_summary_he.html",
+      "sortKey": 202608200009,
+      "titleHe": "עיתונות, דעת קהל ומדיניות חוץ במשבר בוסניה: קשרים משתנים בין שלבי המשבר",
+      "paperTitle": "Studying the Media, Public Opinion, and Foreign Policy in International Crises: The United States and the Bosnian Crisis, 1992—1995",
+      "authorsCardHe": "Yaeli Bloch-Elkon",
+      "sourceAuthors": [
+        "Yaeli Bloch-Elkon"
+      ],
+      "journal": "The Harvard International Journal of Press/Politics, 12(4), 20–51",
+      "dateText": "פורסם לראשונה: 1 באוקטובר 2007; כרך 12, גיליון 4, עמ׳ 20–51",
+      "doiUrl": "https://doi.org/10.1177/1081180X07307184",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_media_public_opinion_foreign_policy_bosnia_crisis_summary_he.jpg",
+        "altHe": "כתב בשדה התעופה של סרייבו בדצמבר 1992; תצלום הקשרי מתקופת המשבר, ואין מדובר באדם או בכלי תקשורת שנכללו בקורפוס המחקר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "יעלי בלוך־אלקון בוחנת כיצד עיתונות, דעת קהל ומדיניות חוץ מתקשרות זו לזו במהלך משבר בינלאומי. היא מציעה מודל משולב המחבר בין תאוריות מתקשורת המונים לבין תאוריות של יחסים בינלאומיים, ומדגישה כי טיב היחסים עשוי להשתנות עם שלב המשבר, תפקידי התקשורת והעמדות שכל גורם נוקט ביחס למדיניות. המודל מיושם על תגובת ארצות הברית למשבר בבוסניה בשנים 1992–1995. בסיס הראיות התקשורתי כולל מאמרי פרשנות ומאמרי מערכת ב־Washington Post וב־Wall Street Journal, וכן כותרות חדשות ב־USA Today וב־Washington Times. המחקר משלב את החומר הזה עם נתוני דעת קהל ועם התפתחות המדיניות האמריקאית. לפי הממצאים, התקיימו מתאמים חזקים ומובהקים בין תוכן התקשורת, עמדות הציבור והמדיניות, ותפקידי העיתונות לא נותרו זהים לאורך שלבי המשבר. התוצאה מערערת על מודל חד־כיווני שבו התקשורת תמיד מובילה, הממשלה תמיד קובעת או הציבור תמיד מגיב. היא מציעה במקום זאת מערכת יחסים דינמית שתלויה בעיתוי ובמיקום היחסי של כל שחקן. מבחינה דמוקרטית, המקרה מראה כיצד הדיון הציבורי על פעולה מעבר לגבולות המדינה מתעצב בתוך משולש של מידע, העדפות ואחריות שלטונית. עם זאת, מתאם אינו מזהה מי השפיע ראשון או שולל גורמים משותפים, והבחירה בארבעה עיתונים ובמשבר אחד מגבילה הכללה למדינות, תקופות ומערכות תקשורת אחרות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israeli_arab_vote_political_efficacy_2019_2021_summary_he",
+      "file": "democracy_israeli_arab_vote_political_efficacy_2019_2021_summary_he.html",
+      "permalink": "/democracy_israeli_arab_vote_political_efficacy_2019_2021_summary_he.html",
+      "sortKey": 202608200008,
+      "titleHe": "הצבעת האזרחים הערבים בארבע מערכות בחירות: בין איחוד מפלגתי למסוגלות פוליטית",
+      "paperTitle": "Searching for political efficacy: the Israeli Arab vote in the 2019-21 Knesset elections",
+      "authorsCardHe": "Arik Rudnitzky",
+      "sourceAuthors": [
+        "Arik Rudnitzky"
+      ],
+      "journal": "Israel Affairs, 28(6), 856–877",
+      "dateText": "פורסם לראשונה אונליין: 19 באוקטובר 2022; כרך 28, גיליון 6, עמ׳ 856–877",
+      "doiUrl": "https://doi.org/10.1080/13537121.2022.2134345",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_arab_vote_political_efficacy_2019_2021_summary_he.jpg",
+        "altHe": "תושבים בנצרת מגיעים לקלפי במזג אוויר גשום בשנת 1975; תצלום הקשרי היסטורי שאינו מתעד את מערכות הבחירות של 2019–2021",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אריק רודניצקי בוחן את התנהגות הבוחרים הערבים בישראל בארבע מערכות הבחירות לכנסת שנערכו מאפריל 2019 עד מרץ 2021. התקופה מציגה תנודות חריפות: באפריל 2019 השתתפו 49.2% מבעלי זכות הבחירה הערבים, ובמרץ 2020 הגיע שיעור ההצבעה ל־64.8% — הגבוה ביותר זה כשני עשורים. שנה לאחר מכן, במרץ 2021, ירדה ההשתתפות ל־44.6%, שיעור שהמאמר מתאר כשפל היסטורי. גם מבנה הייצוג המפלגתי השתנה במהירות. המפלגות הערביות התמודדו בנפרד וקיבלו יחד עשרה מושבים באפריל 2019; הרשימה המשותפת המאוחדת הגיעה ל־15 מושבים במרץ 2020; ובמרץ 2021 התמודדו המפלגות שוב בשתי רשימות וקיבלו יחד עשרה מושבים. הטענה המרכזית היא שהישג הרשימה המשותפת לא העיד בהכרח שהמפלגות רכשו השפעה עמוקה יותר על הציבור הערבי. רודניצקי מציע לקרוא את הכיוון גם הפוך: עמדותיו וציפיותיו המשתנות של הציבור השפיעו יותר ויותר על האופן שבו המפלגות התארגנו והתחרו. הוא קושר את יחסי הגומלין האלה לתהליכים פוליטיים בחברה הערבית בישראל לאורך שני העשורים שקדמו לרצף הבחירות. המקרה מחדד הבחנה דמוקרטית חשובה בין השתתפות, מספר מושבים ותחושת השפעה: שלושת המדדים יכולים לנוע יחד לזמן קצר, אך אינם מבטיחים זה את זה. ההשוואה היא תיאורית והיסטורית ואינה ניסוי המבודד סיבה יחידה, ולכן השינויים אינם מיוחסים אוטומטית לאיחוד או לפיצול המפלגות בלבד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_druze_overrepresentation_cliental_accountability_summary_he",
+      "file": "democracy_druze_overrepresentation_cliental_accountability_summary_he.html",
+      "permalink": "/democracy_druze_overrepresentation_cliental_accountability_summary_he.html",
+      "sortKey": 202608200007,
+      "titleHe": "ייצוג־יתר בלי השפעה מהותית: פוליטיקה קליינטליסטית בקרב הדרוזים בישראל",
+      "paperTitle": "Descriptive over-representation, cliental accountability, and minority politics: the case of the Druze in Israel",
+      "authorsCardHe": "Amal Jamal",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Democratization, 29(8), 1476–1495",
+      "dateText": "פורסם אונליין: 10 במאי 2022; כרך 29, גיליון 8, עמ׳ 1476–1495",
+      "doiUrl": "https://doi.org/10.1080/13510347.2022.2070908",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_druze_overrepresentation_cliental_accountability_summary_he.jpg",
+        "altHe": "תושבים מתכנסים בכניסה לבניין קלפי בכפר דרוזי בישראל באפריל 1952",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אמל ג׳מאל מנתח פרדוקס בפוליטיקה של המיעוט הדרוזי בישראל: נוכחות גבוהה יחסית של מועמדים ונבחרים בני הקבוצה אינה מבטיחה ייצוג מהותי של צרכיה. המאמר קושר בין ייצוג תיאורי, הצבעה פטרימוניאלית ודפוסי השתתפות של קבוצה אתנית קטנה. לפי התקציר, שילוב של הצבעה פטרימוניאלית עם ייצוג תיאורי דוחק את הייצוג המהותי, מפחית השתתפות בבחירות ויוצר רשתות נאמנות קליינטליסטיות. מועמדים דרוזים במפלגות ציוניות, ובייחוד מי שממוקמים קרוב לקואליציות שלטוניות או בתוכן, יכולים לבנות רשתות תמיכה משפחתיות. הקשר הפוליטי מאפשר להם לסייע לתומכים או לקרוביהם לקבל משרות בעלות הכנסה גבוהה, ולכן העדפה קליינטליסטית יכולה להיות רציונלית מנקודת מבטו של הפרט. אלא שהתועלת הפרטנית אינה שקולה לייצוג של אינטרסים ציבוריים משותפים. כך נוצרת אחריותיות הפוכה מן המודל הדמוקרטי הרגיל: הבוחר נאמן לפטרון המספק גישה למשאבים, במקום שהנציג יישא באחריות כלפי ציבור רחב על מדיניות ותוצאות. ג׳מאל מתאר את התוצאה כפער בין ייצוג תיאורי לייצוג מהותי בתוך ״דמוקרטיית חסות״. הטענה אינה שנוכחות של מועמדים דרוזים חסרת ערך, אלא שמנגנון התיווך הקליינטליסטי עלול לרוקן אותה מתוכן קבוצתי. התקציר אינו מפרט את מאגר הנתונים, השנים, המדגם או שיטת הניתוח, ולכן אין בסיס לייחס למאמר אומדני השפעה או להחיל את המנגנון על כל קבוצת מיעוט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_radical_left_parties_populism_strategic_engagement_summary_he",
+      "file": "democracy_radical_left_parties_populism_strategic_engagement_summary_he.html",
+      "permalink": "/democracy_radical_left_parties_populism_strategic_engagement_summary_he.html",
+      "sortKey": 202608200006,
+      "titleHe": "פופוליזם כאסטרטגיה: מדוע מפלגות שמאל רדיקלי בוחרות בו אחרת",
+      "paperTitle": "One Size Does Not Fit All: Explaining Radical-Left Parties’ Engagement with Populism",
+      "authorsCardHe": "Or Dar",
+      "sourceAuthors": [
+        "Or Dar"
+      ],
+      "journal": "Political Studies, 73(4), 1698–1721",
+      "dateText": "פורסם אונליין: 30 בדצמבר 2024; כרך 73, גיליון 4, עמ׳ 1698–1721 (נובמבר 2025)",
+      "doiUrl": "https://doi.org/10.1177/00323217241309493",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_radical_left_parties_populism_strategic_engagement_summary_he.jpg",
+        "altHe": "צוות מפלגה משווה מסרים ואסטרטגיות פנייה לקהלים שונים בחדר ישיבות פוליטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אור דר בוחן מדוע מפלגות שמאל רדיקלי אינן משתמשות בפופוליזם באותה דרך גם כאשר הן פועלות באותה משפחה אידאולוגית. הוא משווה בין הברית האדומה־ירוקה בדנמרק לבין צרפת הבלתי־כנועה ומסתמך על ראיונות עם מנהיגים ואנשי צוות. הטענה היא שהסברים מקובלים המבוססים על מבנה פוליטי, אידאולוגיה, קרטליזציה או הזדמנויות אלקטורליות מחמיצים גורם אסטרטגי: אמונותיהם של מנהיגי המפלגה לגבי היתרונות והמחירים האלקטורליים של פופוליזם. המאמר מפרק את הפופוליזם לשלושה רכיבים — העמדת העם במרכז, התנגדות לאליטות וריבונות העם — מפני שכל רכיב עשוי ליצור יחס שונה עם קבוצות התמיכה של המפלגה. לפי התקציר, הברית האדומה־ירוקה נמנעה משיח פופוליסטי בין השאר משום שמנהיגיה צפו כי רטוריקה אנטי־ממסדית תרחיק מצביעים חשובים. צרפת הבלתי־כנועה השתמשה בפופוליזם, אך שילבה לצדו מסרים לא־פופוליסטיים כדי לגייס קבוצות שמנהיגיה חששו כי רטוריקה אנטי־ממסדית תרחיק. ההשוואה מראה שפופוליזם אינו מתג אחיד של ״כן״ או ״לא״ אלא אוסף בחירות מסר המותאמות לתפיסת הקהל. התרומה הדמוקרטית נוגעת לאופן שבו מפלגות בונות את גבולות ״העם״, מגדירות יריבים ומאזנות בין גיוס רחב לבין שימור קהלים שונים. הראיונות מתעדים את חישוביהם של מנהיגים ואנשי צוות; הם אינם מוכיחים שהמצביעים אכן הגיבו כפי שהמנהיגים צפו, ושני המקרים אינם מייצגים לבדם את כלל השמאל הרדיקלי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_news_repertoires_young_adults_civic_participation_israel_summary_he",
+      "file": "democracy_news_repertoires_young_adults_civic_participation_israel_summary_he.html",
+      "permalink": "/democracy_news_repertoires_young_adults_civic_participation_israel_summary_he.html",
+      "sortKey": 202608200005,
+      "titleHe": "חדשות בדיגיטל, מעורבות אזרחית והשתתפות פוליטית בקרב צעירים בישראל",
+      "paperTitle": "News repertoires, civic engagement and political participation among young adults in Israel",
+      "authorsCardHe": "Sagit Dinnar, Hillel Nossek",
+      "sourceAuthors": [
+        "Sagit Dinnar",
+        "Hillel Nossek"
+      ],
+      "journal": "Communications, 46(2), 159–184",
+      "dateText": "פורסם אונליין: 21 בנובמבר 2019; כרך 46, גיליון 2, עמ׳ 159–184 (יוני 2021)",
+      "doiUrl": "https://doi.org/10.1515/commun-2019-2073",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_news_repertoires_young_adults_civic_participation_israel_summary_he.jpg",
+        "altHe": "צעירים משוחחים סביב עיתון ללא כיתוב, רדיו, טלפונים ומחשב נייד כחלק מרפרטואר חדשות חוצה־מדיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "שגית דינר והלל נוסק בוחנים כיצד צעירים בישראל משלבים מקורות חדשות שונים וכיצד דפוסי הצריכה האלה מתקשרים למעורבות אזרחית ולהשתתפות פוליטית. במקום למדוד רק שימוש במדיום יחיד, הם מתייחסים לרפרטואר חוצה־מדיה: הצירוף המעשי של מקורות ופלטפורמות בחיי היומיום. המשתתפים מיינו כרטיסי גירוי על סולם יחסי בשיטת Q, ולאחר מכן שימש ניתוח גורמים להפקת תת־טיפוסים של רפרטואר ולזיהוי דרכי השיח סביבם. החוקרים הוסיפו שאלון על צריכת חדשות, השתתפות פוליטית ומעורבות אזרחית. לפי התקציר, רוב הצעירים השתמשו ברפרטוארים המבוססים על מדיה דיגיטליים וחדשים, והיו מודעים מאוד לבחירת מקורות החדשות שלהם. חלקם אמרו במפורש שהם מעדיפים מקורות המשקפים את עמדותיהם הפוליטיות. המחקר גם מצא שהצעירים משתתפים ומעורבים במידה רבה בפעילות אזרחית ובמחאות. הממצא הדמוקרטי המרכזי הוא שצריכת חדשות אינה פעולה טכנית בלבד: בחירת מקורות, שילוב פלטפורמות והשתתפות ציבורית מתקיימים באותו מרחב של אזרחות פעילה. עם זאת, התקציר אינו מוסר את גודל המדגם, דרך הגיוס או אומדני קשר, ולכן אין להסיק שמדיה דיגיטליים גורמים להשתתפות או שהדפוסים מייצגים את כלל הצעירים בישראל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_national_courts_international_minority_rights_summary_he",
+      "file": "democracy_national_courts_international_minority_rights_summary_he.html",
+      "permalink": "/democracy_national_courts_international_minority_rights_summary_he.html",
+      "sortKey": 202608200004,
+      "titleHe": "בתי משפט לאומיים והמשפט הבין־לאומי להגנת זכויות מיעוטים",
+      "paperTitle": "National Courts and the International Law on Minority Rights",
+      "authorsCardHe": "Eyal Benvenisti",
+      "sourceAuthors": [
+        "Eyal Benvenisti"
+      ],
+      "journal": "Austrian Review of International and European Law Online, 2(1), 1–24",
+      "dateText": "פורסם: 1997; כרך 2, גיליון 1, עמ׳ 1–24",
+      "doiUrl": "https://doi.org/10.1163/157365197X00015",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_national_courts_international_minority_rights_summary_he.jpg",
+        "altHe": "שופטים, צוותים משפטיים, מתורגמנית וקהל באולם דיונים העוסק בהגנה משפטית על זכויות מיעוטים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אייל בנבנישתי מציב במרכז את תפקידם של בתי משפט לאומיים במפגש עם המשפט הבין־לאומי של זכויות מיעוטים. זהו מפגש בין שתי רמות משפט: נורמות החורגות מגבולותיה של מדינה אחת, והמערכת המקומית שבה אדם או קבוצה מבקשים הכרה וסעד. מבחינה דמוקרטית, השאלה חשובה מפני שמיעוטים עלולים להימצא בעמדת נחיתות בזירה הפוליטית הנשלטת בידי רוב, בעוד בית המשפט הוא פורום אפשרי לבחינת חובות משפטיות. עם זאת, עצם קיומה של נורמה בין־לאומית אינו קובע כיצד היא נקלטת בדין הפנימי, מי רשאי להסתמך עליה או איזה סעד ניתן להעניק. לכן הצומת שמגדיר המאמר כולל שאלות של תחולה, פרשנות, גישה לערכאות ואכיפה. הזווית המוסדית מחברת בין הגנה עקרונית על מיעוטים לבין יכולתה של ערכאה מקומית להגביל כוח שלטוני ולהעניק תרופה אפקטיבית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_social_protest_authoritarianism_palestinian_citizens_summary_he",
+      "file": "democracy_social_protest_authoritarianism_palestinian_citizens_summary_he.html",
+      "permalink": "/democracy_social_protest_authoritarianism_palestinian_citizens_summary_he.html",
+      "sortKey": 202608200003,
+      "titleHe": "מחאה תחת סמכותנות: אזרחות לא־שוויונית וריבוי מניעים לפעולה",
+      "paperTitle": "Social Protest under Authoritarianism: A Critique of Regime Type and Instrumental Rationality-based Explanations",
+      "authorsCardHe": "Ahmad H. Sa’di",
+      "sourceAuthors": [
+        "Ahmad H. Sa’di"
+      ],
+      "journal": "Sociology, 49(3), 455–470",
+      "dateText": "פורסם אונליין: 8 באוגוסט 2014; כרך 49, גיליון 3, עמ׳ 455–470 (2015)",
+      "doiUrl": "https://doi.org/10.1177/0038038514540372",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_protest_authoritarianism_palestinian_citizens_summary_he.jpg",
+        "altHe": "סצנה סמלית שנוצרה בבינה מלאכותית ובה כינוס ציבורי בכפר אבן, נואם, תושבים ונוכחות שלטונית ליד מחסום; אין זה תיעוד של אירוע מסוים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "אחמד ח׳ סעדי בוחן באופן ביקורתי שתי הנחות נפוצות במחקר המחאה החברתית. ההנחה הראשונה נשענת על טיפולוגיות משטר ומניחה כי דמוקרטיות נענות במידה סבירה לדרישות ציבוריות ומאפשרות התמודדות גלויה עליהן. המאמר טוען שהנחה זו אינה מוצדקת כאשר זכויות אזרחות מחולקות באופן לא־שווה, ולכן תווית המשטר לבדה אינה מתארת את תנאי הפעולה של כל הקבוצות שבתוכו. ההנחה השנייה מציגה מפגינים כאילו הם מונעים רק מרציונליות אינסטרומנטלית ומחשבים פעולה לפי הסיכוי להשיג תוצאת מדיניות. בעקבות מקס ובר, סעדי טוען כי פעולת מחאה יכולה לנבוע מסוגים שונים של רציונליות וכי מפגינים עשויים לבקש יותר משינוי מדיניות מיידי. הוא מפתח את הביקורת באמצעות מחאות מסוגים שונים שיזמו אזרחים פלסטינים בישראל בעת הממשל הצבאי בשנים 1948–1966. המקרה מראה מדוע צריך לבחון את מצב האזרחות ואת תנאי השליטה שחווה הקבוצה, ולא להסיק מחופש הפעולה שלה מן הסיווג הכללי של המדינה בלבד. תרומת המאמר היא תאורטית והיסטורית: הוא מציע מסגרת עשירה יותר להבנת עצם הבחירה למחות, משמעות המחאה והיחס בין תביעה ציבורית לבין תוצאה פוליטית, אך אינו מציע אומדן כמותי של השפעת צורת מחאה מסוימת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_democratic_equality_higher_education_completion_summary_he",
+      "file": "democracy_democratic_equality_higher_education_completion_summary_he.html",
+      "permalink": "/democracy_democratic_equality_higher_education_completion_summary_he.html",
+      "sortKey": 202608200002,
+      "titleHe": "שוויון דמוקרטי בהשכלה גבוהה: מקבלה ללימודים ועד השלמת התואר",
+      "paperTitle": "Democratic equality and higher education: Moving from access to completion",
+      "authorsCardHe": "Tammy Harel Ben-Shahar, Sigal Ben-Porath, Dustin Webster",
+      "sourceAuthors": [
+        "Tammy Harel Ben-Shahar",
+        "Sigal Ben-Porath",
+        "Dustin Webster"
+      ],
+      "journal": "Journal of Social Philosophy, 54(3), 404–420",
+      "dateText": "פורסם אונליין: 17 באוקטובר 2022; כרך 54, גיליון 3, עמ׳ 404–420 (2023)",
+      "doiUrl": "https://doi.org/10.1111/josp.12495",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_democratic_equality_higher_education_completion_summary_he.jpg",
+        "altHe": "קבוצת סטודנטים מגוונת ומרצה בוחנים יחד חומרי לימוד בחצר אוניברסיטאית, כמטפורה לתמיכה אקדמית בדרך להשלמת התואר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "המאמר מציע להרחיב את אמת המידה לשוויון דמוקרטי בהשכלה גבוהה: לא להסתפק בשאלה מי התקבל, אלא לשאול גם למי יש אפשרות ממשית להשלים את הלימודים. קבלה פורמלית היא תנאי חשוב, אך היא אינה מסכמת את שאלת השוויון כאשר סטודנטים מקבוצות שוליים מגיעים אל מוסד שבו סיכויי ההתמדה וההשלמה אינם בהכרח שווים. מילות המפתח של המאמר מציבות את התמיכות האקדמיות כחוליה שמחברת בין פתיחת שערי המוסד לבין היכולת לעמוד בדרישותיו לאורך זמן. המעבר מגישה להשלמה משנה את יחידת הניתוח: מהחלטת קבלה אחת אל הדרך שהסטודנט עובר לאחר שנכנס למוסד. במונחים של שוויון דמוקרטי, הבטחת ההשכלה אינה נמדדת רק במספר החוצים את סף הכניסה, אלא גם בתנאים המאפשרים השתתפות והשלמה. מכאן נובעת דרישה לבחון פערים בהתמדה ובהשלמה ואת הנגישות לתמיכה אקדמית, במקום להתייחס אליהם כאל עניין פרטי בלבד. הטיעון אינו מחייב תוצאה זהה לכל סטודנט ואינו מוכיח שתוכנית תמיכה מסוימת תבטיח השלמה; הוא דורש שלא להוציא את התנאים שלאחר הקבלה מתחום האחריות לשוויון. זהו טיעון פילוסופי־נורמטיבי ולא הערכת התערבות אמפירית שממנה אפשר לאמוד את השפעתה של מדיניות מסוימת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_human_rights_state_crimes_culture_denial_summary_he",
+      "file": "democracy_human_rights_state_crimes_culture_denial_summary_he.html",
+      "permalink": "/democracy_human_rights_state_crimes_culture_denial_summary_he.html",
+      "sortKey": 202608200001,
+      "titleHe": "פשעי מדינה וזכויות אדם: כיצד תרבות ההכחשה חוסמת אחריות",
+      "paperTitle": "Human Rights and Crimes of The State: The Culture of Denial",
+      "authorsCardHe": "Stanley Cohen",
+      "sourceAuthors": [
+        "Stanley Cohen"
+      ],
+      "journal": "Australian & New Zealand Journal of Criminology, 26(2), 97–115",
+      "dateText": "פורסם: 1993; כרך 26, גיליון 2, עמ׳ 97–115",
+      "doiUrl": "https://doi.org/10.1177/000486589302600201",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_state_crimes_culture_denial_summary_he.jpg",
+        "altHe": "חוקרים בוחנים תצלומים ותיקי ארכיון בחדר מוסדי אפל, כמטפורה לחשיפת פשעי מדינה ותרבות של הכחשה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
+      "summaryHe": "סטנלי כהן טוען כי הקרימינולוגיה צריכה לכלול בסדר היום שלה פשעי מדינה, ובייחוד הפרות חמורות של זכויות אדם. הוא מציב את הדיון על רקע התרחבותה ההדרגתית של תנועת זכויות האדם הבין־לאומית באמצעות מוסדות וארגונים ובהם האו״ם, מועצת אירופה ואמנסטי אינטרנשיונל. למרות העניין הגובר בפשעי מדינה ובזכויות אדם, כהן מזהה פערים ממשיים בשיח הקרימינולוגי על מעשים שמבצעת המדינה או שמבוצעים בחסותה. שאלות של אחריות ושל פליליות נעשות מרכזיות במיוחד כאשר מנגנוני סודיות ותרבות של הכחשה מרחיקים את הפגיעה מן השפה הרגילה של פשע, קורבן ואחראי. המאמר דן בפסיכולוגיה של הכחשה ובתאוריות של נטרול והנעה כדי להסביר כיצד פגיעה יכולה להיות ידועה במידה מסוימת ובכל זאת לא לעורר הכרה ואחריות הולמות. הוא בוחן גם נושאים מן התאוריה המודרניסטית הקשורים לשיח הקרימינולוגי על זכויות אדם ומסתייע בדוגמאות היסטוריות של פשעי מדינה. התרומה הדמוקרטית היא בהפניית המבט אל כוחו של השלטון עצמו: הגנה על זכויות דורשת לא רק נורמות בין־לאומיות, אלא גם יכולת לזהות את הפרתן, לקרוא לה בשם ולהתמודד עם מנגנוני ההסתרה וההצדקה. זהו מאמר תאורטי הנשען על דיון מושגי ודוגמאות היסטוריות; הוא אינו מחקר כמותי המודד את שכיחות ההכחשה או משווה את יעילותם של מנגנוני אחריות בין מדינות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_palestinian_minority_electoral_reform_representation_summary_he",
       "file": "democracy_palestinian_minority_electoral_reform_representation_summary_he.html",

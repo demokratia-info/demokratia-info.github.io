@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "sampleSize": 6,
-  "seed": "2026-08-19-homepage-high-fit",
+  "seed": "2026-08-20-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
   "fullTextHighFitPaperCount": 768,
   "paperSlugs": [
-    "democracy_follow_leader_political_participation_summary_he",
+    "democracy_judicial_reform_protest_civic_empowerment_summary_he",
     "democracy_political_judgment_polarization_contrast_summary_he",
-    "democracy_public_support_social_protest_2011_israel_summary_he",
+    "democracy_information_exposure_affective_polarization_summary_he",
     "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he",
     "democracy_universities_druze_women_identity_transitions_higher_education_summary_he",
     "democracy_israel_political_developments_2024_summary_he"
