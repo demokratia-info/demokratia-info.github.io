@@ -1,8 +1,306 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1382,
+  "paperCount": 1392,
   "papers": [
+    {
+      "slug": "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he",
+      "file": "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.html",
+      "permalink": "/democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.html",
+      "sortKey": 202608210010,
+      "titleHe": "זהות מבולבלת, מנוכרת ופצועה: כיצד מעמד מיעוט מעמיק סיכון בקרב צעירים ערבים בישראל",
+      "paperTitle": "“Confused, alienated, and injured identity”: The role of minority ethnic identity in increasing the vulnerability of at-risk young-adult Arabs in Israel",
+      "authorsCardHe": "Maayan Ravid; Haneen Karram-Elias; Yafit Sulimani-Aidan",
+      "sourceAuthors": [
+        "Maayan Ravid",
+        "Haneen Karram-Elias",
+        "Yafit Sulimani-Aidan"
+      ],
+      "journal": "American Journal of Orthopsychiatry, 95(6), 682–690",
+      "dateText": "פורסם לראשונה אונליין: 30 בדצמבר 2024; גיליון 2025, כרך 95, גיליון 6, עמ׳ 682–690",
+      "doiUrl": "https://doi.org/10.1037/ort0000822",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.jpg",
+        "altHe": "סדנת צילום משותפת לצעירים יהודים וערבים ברמלה העוסקת בביטוי עצמי ובזהות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "מעיין רביד, חנין כראם־אליאס ויפית סולימני־אעידן בוחנות כיצד אנשי מקצוע המטפלים בצעירים ערבים במצבי סיכון מבינים את הקשר בין זהות מיעוט לבין פגיעוּת. המחקר מבוסס על ראיונות עומק עם 39 נותני שירותים ברחבי ישראל: 20 עובדים סוציאליים ו־19 מנהלי שירותים או ארגוני חברה אזרחית. כשני שלישים מן המרואיינים היו ערבים וכשליש יהודים; הם עבדו בכפרים, בערים ערביות ובערים מעורבות עם צעירים בני 18–25. כל המרואיינים העלו את זהות המיעוט האתנית כגורם מרכזי, והניתוח התמטי גיבש שלושה פרופילים חופפים. <strong>זהות מבולבלת</strong> נוצרת במתח בין נורמות משפחתיות וקהילתיות קולקטיביסטיות לבין ערכים אינדיבידואליסטיים והזדמנויות מוגבלות בחברה הרחבה. <strong>זהות מנוכרת</strong> מתארת תחושה של חיים במדינה ובמרחב משותף בלי שייכות, לצד היחלשות של מסגרות תמיכה קהילתיות. <strong>זהות פצועה</strong> קשורה לירידה בערך העצמי, לחוסר אמון ברשויות ולתחושה שחיי חברי הקבוצה שווים פחות. המחברות מדגישות כי הזהות הערבית אינה סיכון כשלעצמה; הסיכון נוצר בתוך יחסי אפליה, הדרה, מחסור בשירותים, עימות אתנו־לאומי וציפיות סותרות. מכאן נגזרת הצעה לפרקטיקה אנטי־דכאנית בהשראת פאולו פריירה: דיאלוג שמזהה מבנים חברתיים ופוליטיים, עבודה משותפת שמכבדת ידע של מקבלי השירות וחיזוק הסוכנות שלהם. המחקר חשוב לשוויון אזרחי מפני שהוא מעביר את מוקד המדיניות מן השאלה כיצד לתקן צעיר יחיד אל השאלה אילו מוסדות והקצאות משאבים מאפשרים שייכות, ביטחון ומעבר הוגן לבגרות. עם זאת, הראיונות משקפים את פרשנות נותני השירות ולא את קולות הצעירים עצמם, והמדגם אינו מאפשר להכליל לכלל החברה הערבית או להבחין באופן מספק בין מגדרים, דתות וקהילות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he",
+      "file": "democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.html",
+      "permalink": "/democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.html",
+      "sortKey": 202608210009,
+      "titleHe": "כשהפסד מסחרי הופך לכוח פוליטי: ״ישראל היום״ כשחקן תקשורת משבש",
+      "paperTitle": "The ripple effects of a partisan, free newspaper: Israel Hayom as disruptive media actor",
+      "authorsCardHe": "Michael H. Dahan; Mouli Bentman",
+      "sourceAuthors": [
+        "Michael H. Dahan",
+        "Mouli Bentman"
+      ],
+      "journal": "Studies in Communication Sciences, 17(1), 99–106",
+      "dateText": "פורסם: 3 באוקטובר 2017; כרך 17, גיליון 1, עמ׳ 99–106",
+      "doiUrl": "https://doi.org/10.24434/j.scoms.2017.01.008",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.jpg",
+        "altHe": "חלוקת ערימות של עיתונים חינמיים לנוסעים בשעת בוקר, המחשה לסבסוד תפוצה שמשנה את שוק העיתונות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "מייקל דהאן ומולי בנטמן מנתחים את ״ישראל היום״ לא כעוד חינמון אלא כמקרה של <strong>שחקן תקשורת משבש</strong>: גוף שמוכן להקריב רווחיות כדי לשנות במכוון את כללי המשחק בשוק התקשורת ובפוליטיקה. הם מתאימים את מושג החדשנות המשבשת של קלייטון כריסטנסן, אך מדגישים הבדל מכריע: כאן השיבוש איננו תוצר לוואי של מוצר יעיל יותר אלא היעד עצמו. בסיס הטיעון הוא ניתוח מקרה פוליטי־כלכלי של העשור הראשון לעיתון. המחברים מצרפים נתוני תפוצה והערכות כלכליות לדיון במבנה הבעלות, בתחרות מול עיתונים מסחריים, בניסיונות חקיקה, בהקלטות נתניהו–מוזס ובוויכוח על סיקור אוהד לראש הממשלה. בעת פרסום המאמר הם דיווחו על 275 אלף עותקים בימי חול ו־400 אלף בסופי שבוע, על קרוב ל־40% חשיפה, על מחיר פרסום של כמחצית ממחיר השוק ועל הערכות להפסד מצטבר של 200–300 מיליון דולר מאז 2007. בעיניהם, השילוב בין תפוצה גבוהה, היעדר היגיון רווחי עקבי ותמיכה אישית בבנימין נתניהו מאפשר לבעלות עתירת הון להשפיע בו־זמנית על כלכלת העיתונות ועל מאזן הכוח הפוליטי. המאמר אינו מציג ניסוי, ניתוח תוכן שיטתי או זיהוי סיבתי של השפעה על בוחרים; הוא בונה מושג תיאורטי מתוך מקרה יחיד ומקורות פומביים. לכן כוחו הוא בהצעת מנגנון ובחיבור בין שוק התקשורת לדמוקרטיה, ואילו חולשתו היא שהמודל דורש בדיקה השוואתית במקרים נוספים. המשמעות הליברל־דמוקרטית רחבה: שפע של עותקים חינמיים אינו מבטיח פלורליזם, אם בעל הון יכול לסבסד לאורך זמן קול פוליטי אחד, להחליש מתחרים ולשנות את התנאים שבהם הציבור מקבל מידע.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_existential_threat_retributive_justice_intergroup_violence_summary_he",
+      "file": "democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.html",
+      "permalink": "/democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.html",
+      "sortKey": 202608210008,
+      "titleHe": "תזכורת למוות חיזקה תמיכה בנקמה דרך שיקולי צדק — לא דרך הערכת התועלת",
+      "paperTitle": "Why does Existential Threat Promote Intergroup Violence? Examining the Role of Retributive Justice and Cost-Benefit Utility Motivations",
+      "authorsCardHe": "Gilad Hirschberger; Tom Pyszczynski; Tsachi Ein-Dor",
+      "sourceAuthors": [
+        "Gilad Hirschberger",
+        "Tom Pyszczynski",
+        "Tsachi Ein-Dor"
+      ],
+      "journal": "Frontiers in Psychology, 6, Article 1761",
+      "dateText": "פורסם: 20 בנובמבר 2015; כרך 6, מאמר 1761",
+      "doiUrl": "https://doi.org/10.3389/fpsyg.2015.01761",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.jpg",
+        "altHe": "חברי צוות אזרחי בוחנים יחד מאזניים, תרשים סיכונים ומסמכי מדיניות, המחשה למתח בין צדק גמולי לבין שיקולי תועלת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "גלעד הירשברגר, טום פישצ׳ינסקי וצחי עין־דור בוחנים מנגנון פסיכולוגי אפשרי המקשר בין איום קיומי לבין תמיכה באלימות בין־קבוצתית: העדפת צדק גמולי על פני בחינה מעשית של עלויות ותועלות. במחקר הראשון הוקצו באקראי 209 סטודנטים ישראלים לחשוב על מותם או על כאב גופני חמור, ולאחר מכן קראו על ירי טילים של חמאס לשדרות שהסתיים בנפגעים רבים או רק בנזק לרכוש. כאשר תוצאות ההתקפה הוצגו כחמורות, בולטות המוות הגבירה תמיכה בנימוקים של גמול וצדק לתקיפה נגדית בגודל אפקט d=0.67; כאשר התוצאה הייתה קלה לא נמצא אפקט כזה, ובשני המצבים לא התחזקו נימוקי התועלת. במחקר השני הוקצו 112 סטודנטים למניפולציה דומה, השלימו מדדים כלליים של נטייה לחפש צדק או תועלת, ואז דירגו תמיכה בתקיפה מקדימה של מתקני הגרעין באיראן. תזכורת למוות הגבירה את נטיית הצדק מ־4.49 ל־4.91 בסולם בן שבע דרגות, d=0.38, אך לא שינתה באופן מובהק את נטיית התועלת. לא נמצא אפקט ישיר מובהק של תזכורת המוות על התמיכה בתקיפה באיראן. עם זאת, נמצא נתיב עקיף מובהק דרך נטיית הצדק, שרווח הסמך שלו היה 0.02–0.31, ואילו הנתיב דרך שיקולי תועלת לא היה מובהק. שני המחקרים מציעים שאיום קיומי אינו מפעיל תמיכה אוטומטית בכל אלימות: במחקר הראשון נדרש נזק חמור שהפך נקמה למוצדקת בעיני המשתתפים, ובמחקר השני זהירות מפני יריב חזק כנראה ריסנה את האפקט הישיר. הממצאים עוסקים בעמדות בתרחישים, לא בהתנהגות אלימה בפועל, והמדגמים כללו בעיקר צעירים יהודים ישראלים בהקשרים מסוימים של הסכסוכים עם הפלסטינים ועם איראן. הגדרת התועלת הייתה חומרית וקונקרטית, ולכן אין להסיק שכל חשיבה מוסרית אינה מעשית או שכל תביעה לצדק מובילה לאלימות. מבחינה דמוקרטית, המחקר מראה כיצד בעת איום השיח הציבורי עלול לעבור מדיון בתוצאות של מדיניות למסגרת מוחלטת של טוב, רע וגמול; מעבר כזה עלול לצמצם פשרה ובחינה ביקורתית של חלופות גם כשהמחיר המעשי גבוה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he",
+      "file": "democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.html",
+      "permalink": "/democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.html",
+      "sortKey": 202608210007,
+      "titleHe": "כשקול פלסטיני ביקש שלום בפייסבוק, התגובות היו חיוביות יותר — סיפורי סבל עוררו בעיקר מגננה",
+      "paperTitle": "“Likes” for Peace: Can Facebook Promote Dialogue in the Israeli–Palestinian Conflict?",
+      "authorsCardHe": "Yifat Mor; Yiftach Ron; Ifat Maoz",
+      "sourceAuthors": [
+        "Yifat Mor",
+        "Yiftach Ron",
+        "Ifat Maoz"
+      ],
+      "journal": "Media and Communication, 4(1), 15–26",
+      "dateText": "פורסם: 18 בפברואר 2016; כרך 4, גיליון 1, עמ׳ 15–26",
+      "doiUrl": "https://doi.org/10.17645/mac.v4i1.298",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.jpg",
+        "altHe": "מפגש משותף של סטודנטיות וסטודנטים יהודים וערבים, המחשה לדיאלוג בין־קבוצתי בחברה משוסעת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "יפעת מור, יפתח רון ויפעת מעוז בוחנים אם וכיצד עמוד פייסבוק יכול לפתוח דיאלוג בין יהודים ישראלים לפלסטינים בתוך סכסוך ממושך ואסימטרי. הם מנתחים את העמוד ״ערבים מצייצים״, שהוקם ונוהל בידי אזרחים פלסטינים בישראל כדי להשמיע בעברית נקודות מבט פלסטיניות ולעודד שיחה. קורפוס המחקר כולל 85 פוסטים שפורסמו בין 8 בנובמבר ל־4 בדצמבר 2014, לאחר המלחמה בעזה ולפני בחירות 2015; הפוסטים צברו 9,657 סימוני אהבתי, 461 שיתופים ו־3,565 תגובות ותשובות. בניתוח איכותני בהשראת תיאוריה מעוגנת זוהו שני נושאים מרכזיים. פוסטים שהציגו סבל פלסטיני עוררו אמפתיה בחלק מן המקרים, אך רוב התגובות היהודיות־ישראליות שנדונו היו שליליות או מתגוננות והעבירו אחריות לפלסטינים או לחמאס. לעומת זאת, פוסטים שהשמיעו קול פלסטיני מתון ושוחר שלום, גינו טרור או הדגישו אנושיות משותפת נענו בעיקר בקבלה, אהדה, תקווה ותחושת שותפות. ההשוואה מצביעה על חשיבותו של נושא הדיון: אותה זירה מקוונת יכולה לתמוך בשיחה בונה או להחריף התנגשות בין נרטיבים. החוקרים מדגישים שדיאלוג בפייסבוק חסר לעיתים את הרציפות ואת בניית היחסים שמאפיינות מפגשים ממושכים פנים אל פנים, ולכן מסר של סבל אינו מביא בהכרח להכרה ולפיוס. עם זאת, העמוד נתן לקבוצת מיעוט נתיב לעקוף ייצוג תקשורתי מוגבל, להשמיע גינוי לאלימות ולהזמין את קבוצת הרוב לשיחה. זהו חקר מקרה איכותני של עמוד יחיד במשך פחות מחודש, בקרב משתמשים שבחרו להשתתף ובשפה שאינה נגישה לכולם; לכן הוא אינו מודד את השפעת החשיפה, אינו מייצג את כלל היהודים והפלסטינים ואינו מוכיח שפייסבוק כשלעצמו יוצר פיוס. מבחינה דמוקרטית, המחקר מדגים הן את הפוטנציאל של מרחב דיגיטלי להרחיב קול מיעוט ודיאלוג אזרחי והן את התלות של הפוטנציאל הזה במסגור, ברציפות וביחסי הכוח שבתוכם השיחה מתנהלת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_radical_democracy_school_education_summary_he",
+      "file": "democracy_radical_democracy_school_education_summary_he.html",
+      "permalink": "/democracy_radical_democracy_school_education_summary_he.html",
+      "sortKey": 202608210006,
+      "titleHe": "כיתה דמוקרטית אינה מקבלת זהויות כמובנות מאליהן — היא מאפשרת לשנותן יחד",
+      "paperTitle": "Education and articulation: Laclau and Mouffe’s radical democracy in school",
+      "authorsCardHe": "Itay Snir",
+      "sourceAuthors": [
+        "Itay Snir"
+      ],
+      "journal": "Ethics and Education, 12(3), 351–363",
+      "dateText": "פורסם לראשונה אונליין: 31 ביולי 2017; גיליון הדפוס: 2 בספטמבר 2017; כרך 12, גיליון 3, עמ׳ 351–363",
+      "doiUrl": "https://doi.org/10.1080/17449642.2017.1356680",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_radical_democracy_school_education_summary_he.jpg",
+        "altHe": "מורה ותלמידים מגוונים יושבים במעגל ומחברים יחד מפה של רעיונות ודרישות, המחשה לחינוך דמוקרטי באמצעות ארטיקולציה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "איתי שניר מציע תאוריה של חינוך דמוקרטי רדיקלי הנשענת על מושג הארטיקולציה בספרם של ארנסטו לקלאו ושנטל מוף, Hegemony and Socialist Strategy. אצל לקלאו ומוף, זהויות פוליטיות אינן מהויות קבועות אלא נוצרות ומשתנות במפגש בין מאבקים, דרישות ושיחים. שניר מפרק את הארטיקולציה לשלושה ממדים המתרחשים יחד: ביצוע פומבי של זהות ודרישה, חיבור לאחרים, והשתנות של כל הצדדים בעקבות החיבור. הוא חוזר לאנטוניו גראמשי, שראה בבניית הגמוניה תהליך חינוכי שבו אינטלקטואלים אורגניים מסייעים לקבוצות מדוכאות לנסח את ה״שכל הישר הטוב״ הטמון בניסיונן. לטענת שניר, גם אינטלקטואל אורגני עלול לשמר עמדה היררכית: הוא יודע מראש היכן עובר קו המאבק וכיצד יש לחבר את הדרישות. חינוך דמוקרטי רדיקלי צריך אפוא לוותר על המורה כמי שמחזיק באמת פוליטית מוקדמת. במקום זאת, תלמידים ומורה מבטאים בפומבי את זהויותיהם, קושרים חוויות לשיחים של שוויון וזכויות ומאפשרים לזהויות ולמושגים עצמם להשתנות. המורה נשאר דמות בעלת כוח מבני ואחריות מיוחדת, אך תפקידו דומה למצפן ולמפה ולא לנווט: להצביע על אי־שוויון ועל מסלולים לא־פלורליסטיים, בלי להכתיב מראש את תוכן המאבק או את זהות ה״אנחנו״. המאמר מדגיש ששוויון חייב להיות משולב בפלורליזם, מפני שדרישה לשוויון של קבוצה אחת יכולה להתחבר גם ללאומנות או להדרה של אחרת. פעילות כזאת אינה מחייבת לפצל את הכיתה למחנות יריבים; הארטיקולציה עצמה — ביטוי, שיתוף פעולה והשתנות — היא כבר פעילות פוליטית דמוקרטית. זהו מאמר פילוסופי ולא מחקר התערבות, ולכן הוא מציע מסגרת נורמטיבית ולא ראיה אמפירית לכך שכיתות שיפעלו כך ישיגו תוצאות מסוימות. תרומתו הדמוקרטית היא בהצבת שאלה חדה על סמכות: כיצד מחנכים לשוויון בלי להשתמש בכוחו של המחנך כדי לקבוע מראש מה חייב כל תלמיד לחשוב ולהיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he",
+      "file": "democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.html",
+      "permalink": "/democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.html",
+      "sortKey": 202608210005,
+      "titleHe": "אותו עוני, דפוסי תחלואה שונים: לקחי הגל הראשון לקהילות בישראל",
+      "paperTitle": "Effect of Socioeconomic and Ethnic Characteristics on COVID-19 Infection: the Case of the Ultra-Orthodox and the Arab Communities in Israel",
+      "authorsCardHe": "Mor Saban, Vicki Myers, Tal Shachar, Oren Miron, Rachel R. Wilf-Miron",
+      "sourceAuthors": [
+        "Mor Saban",
+        "Vicki Myers",
+        "Tal Shachar",
+        "Oren Miron",
+        "Rachel R. Wilf-Miron"
+      ],
+      "journal": "Journal of Racial and Ethnic Health Disparities, 9(2), 581–588",
+      "dateText": "פורסם לראשונה אונליין: 8 במרץ 2021; גיליון הדפוס: אפריל 2022; כרך 9, גיליון 2, עמ׳ 581–588",
+      "doiUrl": "https://doi.org/10.1007/s40615-021-00991-z",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.jpg",
+        "altHe": "צוות בריאות ציבור משוחח עם נציגי קהילות מגוונות סביב מפה של יישובים ונתוני תחלואה, המחשה להתאמת מדיניות בזמן מגפה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "מור סבאן, ויקי מאיירס, טל שחר, אורן מירון ורחל ר׳ וילף־מירון מנתחים את החודש הראשון של נתוני הקורונה הזמינים ברמת יישוב בישראל. זהו מחקר חתך אקולוגי המבוסס על 174 יישובים שבהם חיו 7.72 מיליון בני אדם — 84% מאוכלוסיית המדינה — בין 31 במרץ ל־1 במאי 2020. בתקופה זו נבדקו 331,594 בני אדם, 14,865 קיבלו תוצאה חיובית ו־203 מתו. בקטגוריה החברתית־כלכלית הנמוכה נבדקו 5.05% מן האוכלוסייה, לעומת 3.99% בקטגוריה הגבוהה, ושיעור החיוביים מבין הנבדקים היה 6.24% לעומת 2.89% — סיכון יחסי של 2.16. עם זאת, השוואה בין יישובים הומוגניים יחסית מן האשכולות הנמוכים מצאה 538 מקרים ל־100 אלף ביישובים יהודיים לעומת 78 ביישובים ערביים, ושיעור חיוביים מבין הנבדקים שהיה גבוה פי 4.96 ביישובים היהודיים. בני ברק ואלעד, שני יישובים חרדיים, הציגו עלייה מוקדמת ומהירה, ואילו נצרת ויישובים יהודיים לא־חרדיים שנבחרו להשוואה שמרו תחילה על שיעורים נמוכים; בחורה נצפתה בהמשך עלייה חדה ומאוחרת. המחברים מסיקים שמעמד חברתי־כלכלי ושיוך אתני אינם מסבירים לבדם את תגובת הקהילה למשבר, ומדגישים את תפקידם של נורמות מקומיות, נגישות למידע ושיתוף מנהיגות דתית ופוליטית. הם גם מזהירים מפני תיוג גורף של קהילה. מאחר שהנתונים מצרפיים ולא אישיים, המחקר אינו יכול לקבוע מי נדבק בגלל עוני, דת או התנהגות מסוימת; הוא גם לא כלל יישובים קטנים או ערים מעורבות ולא תיקן להבדלי גיל ותעסוקה. מבחינה דמוקרטית, הממצאים מדגישים ששוויון בשירות ציבורי דורש לא רק כלל אחיד אלא יכולת להגיע לקבוצות שונות בשפה, בערוצים ובהנהגה שהן נותנות בהם אמון. שותפות עם נציגי הקהילה יכולה לשפר בריאות ציבורית בלי להפוך שונות תרבותית לסטיגמה או הצדקה לאכיפה מפלה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he",
+      "file": "democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.html",
+      "permalink": "/democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.html",
+      "sortKey": 202608210004,
+      "titleHe": "כאשר מתקפת סייבר גובה חיים, התמיכה בתגובה משתווה לזו שלאחר טרור קונבנציונלי",
+      "paperTitle": "Cyber Terrorism and Public Support for Retaliation – A Multi-Country Survey Experiment",
+      "authorsCardHe": "Ryan Shandler, Michael L. Gross, Sophia Backhaus, Daphna Canetti",
+      "sourceAuthors": [
+        "Ryan Shandler",
+        "Michael L. Gross",
+        "Sophia Backhaus",
+        "Daphna Canetti"
+      ],
+      "journal": "British Journal of Political Science, 52(2), 850–868",
+      "dateText": "פורסם לראשונה אונליין: 10 בפברואר 2021; גיליון הדפוס: אפריל 2022; כרך 52, גיליון 2, עמ׳ 850–868",
+      "doiUrl": "https://doi.org/10.1017/S0007123420000812",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.jpg",
+        "altHe": "אזרחים צופים בדיווח חדשותי על חדר בקרה של רכבות לאחר מתקפת סייבר, המחשה לניסוי על תמיכה בתגמול",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "ריאן שנדלר, מייקל ל׳ גרוס, סופיה בקהאוס ודפנה קנטי בוחנים כיצד חשיפה לטרור קיברנטי משפיעה על העדפות מדיניות חוץ. סדרת הניסויים כללה 2,028 משיבים; הניסוי המרכזי הקצה באקראי 1,848 משיבים מארצות הברית, מבריטניה ומישראל לאחת מארבע כתבות חדשות מבוימות או לקבוצת ביקורת. הכתבות הציגו מתקפה על תשתית רכבות והבדילו בין אמצעי קיברנטי לקונבנציונלי ובין תוצאה קטלנית לתוצאה כלכלית לא־קטלנית. בממוצע המשולב, התמיכה בתגמול בסולם של 1–6 הייתה 3.26 לאחר מתקפת סייבר קטלנית לעומת 3.02 לאחר מתקפת סייבר לא־קטלנית; במתקפות הקונבנציונליות הממוצעים היו 3.42 ו־3.23 בהתאמה. בניתוח הרגרסיה, מתקפת הסייבר הלא־קטלנית הורידה את התמיכה בתגמול ב־0.393 נקודה לעומת מתקפה קונבנציונלית קטלנית, ואילו ההבדל בין שתי המתקפות הקטלניות לא היה מובהק. הממצאים מצביעים אפוא על סף קטלניות: הציבור מגיב למתקפת סייבר כמו למתקפה פיזית בעיקר כאשר יש הרוגים. ניתוח תיווך מצא כי כעס הסביר חלק מן המעבר מחשיפה לתמיכה בתגמול, עם אפקט תיווך ממוצע של 0.100 במתקפות סייבר ושל 0.109 במתקפות קונבנציונליות; חרדה ותפיסת איום לא מילאו אותו תפקיד. ההשפעה המשולבת הונעה בעיקר בידי המדגמים בישראל ובבריטניה, ולא נמצאה באותה צורה במדגם האמריקאי. מבחינה דמוקרטית, המחקר מראה כי העדפות הציבור לגבי שימוש בכוח עשויות להשתנות לא רק לפי הנזק אלא גם לפי הרגש שמעורר אופן הצגת המשבר. הדבר מדגיש את אחריותם של ממשלות וכלי תקשורת למסור מידע מדויק ולא להפוך כעס ציבורי למסלול אוטומטי להסלמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_troll_language_online_polarization_summary_he",
+      "file": "democracy_troll_language_online_polarization_summary_he.html",
+      "permalink": "/democracy_troll_language_online_polarization_summary_he.html",
+      "sortKey": 202608210003,
+      "titleHe": "טרולים מדינתיים משתמשים בשפה מקטבת יותר — והיא זוכה ליותר הפצה בשיח פוליטי",
+      "paperTitle": "Troll and divide: the language of online polarization",
+      "authorsCardHe": "Almog Simchon, William J. Brady, Jay J. Van Bavel",
+      "sourceAuthors": [
+        "Almog Simchon",
+        "William J. Brady",
+        "Jay J. Van Bavel"
+      ],
+      "journal": "PNAS Nexus, 1(1), pgac019",
+      "dateText": "פורסם: 10 במרץ 2022; כרך 1, גיליון 1, מאמר pgac019",
+      "doiUrl": "https://doi.org/10.1093/pnasnexus/pgac019",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_troll_language_online_polarization_summary_he.jpg",
+        "altHe": "חוקרים מנתחים זרמים מתפצלים של שיח פוליטי מקוון על מסכים, המחשה לשימוש ברטוריקה מקטבת בידי רשתות טרולים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "אלמוג שמחון, ויליאם ג׳ בריידי וג׳יי ג׳ ואן באוול בוחנים כיצד טרולים הקשורים למדינות משתמשים בשפה מקטבת בשיח מקוון. הם בנו מילון בן 205 מילים באמצעות שילוב של דפוסים מונחי נתונים, בדיקה ידנית והרחבה באמצעות ייצוגי מילים, ואימתו אותו בארבע דרכים: מדגם בדיקה שלא שימש לפיתוח, דיון Black Lives Matter, קהילות Reddit ושינויים בפער המפלגתי בדאגה מקורונה. לאחר מכן נותח קורפוס של 2,306,233 ציוצים מקוריים באנגלית: 383,510 מחשבונות רוסיים, 329,453 מאיראן, 85,970 מוונצואלה ו־1,507,300 ציוצי ביקורת אמריקאיים. בהשוואה מותאמת בזמן, ציוצים רוסיים קיבלו ציון שפה מקטבת ממוצע 2.37 לעומת 1.47 בביקורת האמריקאית, והבדל מובהק הופיע גם בהשוואות מול איראן וונצואלה. בניתוח לאורך זמן עלתה הרטוריקה המקטבת בחשבונות הרוסיים והוונצואליים, ירדה בחשבונות האיראניים ולא עלתה באופן מובהק במדגם האמריקאי האקראי. פירוק מילון הקיטוב לרכיבים של סוגיות ושל עוינות רגשית הראה שכל שלוש קבוצות הטרולים השתמשו ביותר משני הסוגים מן הביקורת, כאשר ההבדלים היו גדולים יותר ברכיב הסוגיות. במדגם של 118,215 ציוצי טרולים בעלי נתוני הפצה, כל מילה מקטבת נוספת נקשרה לעלייה של 72% במספר הציוצים מחדש; אצל משתמשים אמריקאים המעורבים פוליטית העלייה הייתה 39%, ואילו במדגם אמריקאי אקראי הקשר לא היה מובהק. המאמר מספק כלי פתוח למדידה השוואתית של רטוריקה, אך אינו מזהה כוונה מתוך כל מילה ואינו מוכיח ששפה מקטבת גרמה לשינוי עמדות. המשמעות הדמוקרטית היא שמבצע השפעה יכול לפעול משני צדי מחלוקת ולהעצים את עצם השסע, ולכן ניטור תוכן לפי מחנה אידאולוגי בלבד עלול להחמיץ את מנגנון ההפרעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_ethnic_identity_nonviolent_resistance_summary_he",
+      "file": "democracy_ethnic_identity_nonviolent_resistance_summary_he.html",
+      "permalink": "/democracy_ethnic_identity_nonviolent_resistance_summary_he.html",
+      "sortKey": 202608210002,
+      "titleHe": "מחאה לא־אלימה של מיעוטים נתפסת כאלימה יותר — והיתרון האסטרטגי נשחק",
+      "paperTitle": "Effective for Whom? Ethnic Identity and Nonviolent Resistance",
+      "authorsCardHe": "Devorah S. Manekin, Tamar Mitts",
+      "sourceAuthors": [
+        "Devorah S. Manekin",
+        "Tamar Mitts"
+      ],
+      "journal": "American Political Science Review, 116(1), 161–180",
+      "dateText": "פורסם לראשונה אונליין: 14 בספטמבר 2021; גיליון הדפוס: פברואר 2022; כרך 116, גיליון 1, עמ׳ 161–180",
+      "doiUrl": "https://doi.org/10.1017/S0003055421000940",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnic_identity_nonviolent_resistance_summary_he.jpg",
+        "altHe": "קהל עצום של משתתפים בצעדה לוושינגטון למען זכויות אזרח, תצלום היסטורי הממחיש התנגדות המונית לא־אלימה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "דבורה מנקין ותמר מיטס בוחנות למי מועיל היתרון המיוחס להתנגדות לא־אלימה. בניתוח משולב של נתוני NAVCO 2.0 ו־Ethnic Power Relations נכללו 220 קבוצות שהשתתפו בקמפיינים אלימים ולא־אלימים ב־110 מדינות בין 1946 ל־2006. רק אחד מכל חמישה קמפיינים לא־אלימים של מיעוטים הצליח, לעומת אחד מכל שני קמפיינים לא־אלימים של קבוצות רוב; מעבר לאי־אלימות העניק יתרון גדול לקבוצות דומיננטיות, אך כמעט לא שינה את סיכויי ההצלחה הנמוכים של קבוצות מיעוט. כדי לבדוק מנגנון אפשרי ערכו החוקרות שני ניסויי סקר מקוונים בכל אחת מארצות הברית וישראל, בארבעה מדגמים שכללו יחד 11,810 משיבים. בניסוי הראשון הוצגו כתבות מדומות שבהן זהות המוחים וטקטיקת המחאה הוקצו באקראי. כאשר המחאה הייתה צעדה שקטה, מוחים שחורים בארצות הברית נתפסו כאלימים יותר ממוחים לבנים; בישראל, מוחים יוצאי אתיופיה ומוחים ערבים נתפסו כאלימים יותר ממוחים יהודים לבנים שעשו אותה פעולה. לדוגמה, ביחס לצעדת רוב, צעדות של יוצאי אתיופיה ושל ערבים נתפסו כאלימות יותר ב־11% וב־16%, והתמיכה בפעולת משטרה נגד מוחים ערבים גדלה ב־21%. בניסוי השני שונו גם מטרת המחאה והצהרה מפורשת על מחויבות לאי־אלימות. מוחים שחורים נתפסו כאלימים יותר וכדורשים יותר שיטור גם כאשר שחורים ולבנים מחו למען אותן מטרות של צדק גזעי; הצהרת אי־אלימות סייעה בבירור לחלק מקבוצות הרוב, אך לא באופן מובהק לכל קבוצות המיעוט. המאמר אינו טוען שכל מיעוט נתפס באותו אופן, ואינו מוכיח שהטיה ציבורית לבדה גורמת לכישלון קמפיינים. הוא מראה שממוצעים כלליים על יעילות אי־אלימות מסתירים היררכיות אתניות: אותה טקטיקה דמוקרטית יכולה לזכות בפרשנות ובתגובה משטרתית שונות לפי זהות המשתתפים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he",
+      "file": "democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.html",
+      "permalink": "/democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.html",
+      "sortKey": 202608210001,
+      "titleHe": "תחושת מסוגלות פוליטית קשורה להשתתפות מקוונת ולא־מקוונת בעוצמה דומה",
+      "paperTitle": "How Political Efficacy Relates to Online and Offline Political Participation: A Multilevel Meta-analysis",
+      "authorsCardHe": "Jennifer Oser, Amit Grinson, Shelley Boulianne, Eran Halperin",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Amit Grinson",
+        "Shelley Boulianne",
+        "Eran Halperin"
+      ],
+      "journal": "Political Communication, 39(5), 607–633",
+      "dateText": "פורסם לראשונה אונליין: 3 ביולי 2022; כרך 39, גיליון 5, עמ׳ 607–633",
+      "doiUrl": "https://doi.org/10.1080/10584609.2022.2086329",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.jpg",
+        "altHe": "אזרחים משתתפים במפגש ציבורי ומשלבים דיון פנים אל פנים עם ערוצי השתתפות דיגיטליים, המחשה למחקר על מסוגלות פוליטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-21",
+      "dateModified": "2026-08-21",
+      "summaryHe": "ג׳ניפר אוסר, עמית גרינסון, שלי בוליאן ועירן הלפרין בוחנים אם אנשים החשים שהם מסוגלים להבין פוליטיקה ולהשפיע עליה קשורים פחות לפעולה מקוונת מאשר לפעולה פוליטית לא־מקוונת. המטה־אנליזה כוללת 48 מחקרים ובהם 184 אפקטים, 51,860 משיבים מ־28 מדינות וסקרים שנערכו בין 2000 ל־2016. במודל האפקטים האקראיים הרב־רמתי נמצא קשר חיובי בין מסוגלות להשתתפות מקוונת בגודל 0.123, עם רווח סמך של 95% בין 0.099 ל־0.147, וקשר חיובי להשתתפות לא־מקוונת בגודל 0.146, עם רווח סמך בין 0.117 ל־0.175. האומדן הכולל היה 0.135, ורווח הסמך שלו נע בין 0.116 ל־0.154. אף שהאומדן הלא־מקוון מעט גדול יותר, ההבדל בין שני סוגי ההשתתפות אינו מובהק סטטיסטית. גם לא נמצא שהפער ביניהם משתנה לאורך שנות הסקרים. מדדים לאומיים שנבדקו לא שינו את הקשר להשתתפות מקוונת; לעומת זאת, במאגר הגדול של אומדנים משותפים נמצא כי בחירות נקיות יותר, חופש ביטוי רחב יותר וחברה אזרחית חזקה יותר קשורים לקשר חלש יותר בין מסוגלות לבין השתתפות לא־מקוונת, אך דפוס זה לא חזר במאגר הקטן של מתאמים גולמיים. המחקר מערער על ההנחה שפעולה דיגיטלית היא בהכרח חסרת משמעות בעיני המשתתפים, אך אינו מודד את הצלחת הפעולות ואינו מוכיח שמסוגלות גורמת להשתתפות. מבחינה דמוקרטית, הממצא המרכזי הוא שהמרחב המקוון אינו נפרד מתחושת האזרחים שיש טעם לפעול: תחושת יכולת והשפעה קשורה לפעולה בשני המרחבים בעוצמה דומה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he",
       "file": "democracy_strategic_news_coverage_democratic_consequences_meta_analysis_summary_he.html",
@@ -4546,7 +4844,7 @@
       "authorsCardHe": "גיא גרוסמן, דבורה מנקין ויותם מרגלית",
       "sourceAuthors": [
         "Guy Grossman",
-        "Devorah Manekin",
+        "Devorah S. Manekin",
         "Yotam Margalit"
       ],
       "journal": "Comparative Political Studies, vol. 51, no. 14, 1823–1857",

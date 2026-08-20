@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "sampleSize": 6,
-  "seed": "2026-08-20-homepage-high-fit",
+  "seed": "2026-08-21-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 768,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 10,
   "paperSlugs": [
-    "democracy_judicial_reform_protest_civic_empowerment_summary_he",
-    "democracy_political_judgment_polarization_contrast_summary_he",
-    "democracy_information_exposure_affective_polarization_summary_he",
-    "democracy_ultra_orthodox_discrimination_group_identity_well_being_summary_he",
-    "democracy_universities_druze_women_identity_transitions_higher_education_summary_he",
-    "democracy_israel_political_developments_2024_summary_he"
+    "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he",
+    "democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he",
+    "democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he",
+    "democracy_radical_democracy_school_education_summary_he",
+    "democracy_ethnic_identity_nonviolent_resistance_summary_he",
+    "democracy_troll_language_online_polarization_summary_he"
   ]
 }

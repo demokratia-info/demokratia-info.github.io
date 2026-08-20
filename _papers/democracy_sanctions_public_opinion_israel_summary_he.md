@@ -13,7 +13,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "גיא גרוסמן, דבורה מנקין ויותם מרגלית",
   "paperTitle": "How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence From Israel",
-  "authorsHtml": "<a href=\"https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/guy-grossman\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Grossman</a>, <a href=\"https://en.ir.huji.ac.il/people/devorah-manekin\" target=\"_blank\" rel=\"noopener noreferrer\">Devorah Manekin</a>, and <a href=\"https://english.tau.ac.il/profile/ymargalit\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>",
+  "authorsHtml": "<a href=\"https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/guy-grossman\" target=\"_blank\" rel=\"noopener noreferrer\">Guy Grossman</a>, <a href=\"https://en.ir.huji.ac.il/people/devorah-manekin\" target=\"_blank\" rel=\"noopener noreferrer\">Devorah S. Manekin</a>, and <a href=\"https://english.tau.ac.il/profile/ymargalit\" target=\"_blank\" rel=\"noopener noreferrer\">Yotam Margalit</a>",
   "journal": "Comparative Political Studies, vol. 51, no. 14, 1823–1857",
   "dateText": "פורסם אונליין ב־11 ביוני 2018; כרך 51, גיליון 14, עמ׳ 1823–1857",
   "doiUrl": "https://doi.org/10.1177/0010414018774370",
@@ -26,7 +26,7 @@
     },
     {
       "@type": "Person",
-      "name": "Devorah Manekin",
+      "name": "Devorah S. Manekin",
       "url": "https://en.ir.huji.ac.il/people/devorah-manekin"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "@type": "Person",
-      "name": "Devorah Manekin",
+      "name": "Devorah S. Manekin",
       "url": "https://en.ir.huji.ac.il/people/devorah-manekin"
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -35754,6 +35754,324 @@
       "provider": "OpenAI",
       "fitness": "high",
       "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.html",
+      "usedBy": [
+        "democracy_political_efficacy_online_offline_participation_meta_analysis_summary_he.html"
+      ],
+      "cardTitleHe": "יעילות פוליטית והשתתפות מקוונת ולא־מקוונת",
+      "authorsHe": "Jennifer Oser; Amit Grinson; Shelley Boulianne; Eran Halperin",
+      "visualDescriptionHe": "אזרחים מתכננים פעולה קהילתית סביב שולחן באמצעות מפה, טפסים וטלפון, לצד מרחב ציבורי פעיל.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "political_efficacy",
+        "online_participation",
+        "offline_participation",
+        "meta_analysis"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic workshop scene, generated without readable text or interface elements and finished as an 800x600 progressive JPEG. High fitness because it visibly combines digital coordination with face-to-face collective action.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_ethnic_identity_nonviolent_resistance_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ethnic_identity_nonviolent_resistance_summary_he.html",
+      "usedBy": [
+        "democracy_ethnic_identity_nonviolent_resistance_summary_he.html"
+      ],
+      "cardTitleHe": "זהות אתנית ואפקטיביות של התנגדות לא־אלימה",
+      "authorsHe": "Devorah S. Manekin; Tamar Mitts",
+      "visualDescriptionHe": "קהל רב־גזעי במצעד לוושינגטון למען תעסוקה וחירות ב־28 באוגוסט 1963.",
+      "semanticDescriptionHe": "התצלום מתעד גיוס אזרחי לא־אלים שבו זהות וקואליציה ציבורית נראות במרחב; הוא אינו אחד מן המקרים או הנתונים שנותחו במאמר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "nonviolent_resistance",
+        "ethnic_identity",
+        "civil_resistance"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Library of Congress/Wikimedia Commons documentary photograph, center-cropped and finished as an 800x600 progressive JPEG. High fitness because it directly depicts a diverse nonviolent mass campaign.",
+      "createdDate": "2026-08-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Warren K. Leffler / U.S. News & World Report Collection / Library of Congress / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_the_huge_crowd_March_on_Washington.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/View_of_the_huge_crowd_March_on_Washington.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain",
+      "creator": "Warren K. Leffler",
+      "provider": "Library of Congress / Wikimedia Commons",
+      "fileTitle": "View of the huge crowd March on Washington.jpg",
+      "sourceDate": "1963-08-28",
+      "sourceDimensions": "1024x679",
+      "fitness": "high",
+      "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_troll_language_online_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_troll_language_online_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_troll_language_online_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "שפת טרולים זרים כמנגנון של קיטוב מקוון",
+      "authorsHe": "Almog Simchon; William J. Brady; Jay J. Van Bavel",
+      "visualDescriptionHe": "חוקרים בחדר ניטור בוחנים רשת שיח מפוצלת, ומעבר לזכוכית נראה מפגש ציבורי שנקרע לשני מחנות.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "online_polarization",
+        "trolls",
+        "foreign_influence",
+        "social_media"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific monitoring-room scene, generated without readable text, brands, or actual interface elements and finished as an 800x600 progressive JPEG. High fitness because it links linguistic analysis to civic division.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.html",
+      "usedBy": [
+        "democracy_cyberterrorism_public_support_retaliation_survey_experiment_summary_he.html"
+      ],
+      "cardTitleHe": "מתקפת סייבר והבחירה בין איפוק לתגמול",
+      "authorsHe": "Ryan Shandler; Michael L. Gross; Sophia Backhaus; Daphna Canetti",
+      "visualDescriptionHe": "צוות מדיניות אזרחי מתלבט בחדר משבר מול מפת תשתיות ועיר שנפגעה, כששתי תיקיות סגורות מסמלות חלופות תגובה.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "cyberterrorism",
+        "retaliation",
+        "survey_experiment",
+        "public_support"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civilian crisis-deliberation scene, generated without weapons, readable text, flags, or interface widgets and finished as an 800x600 progressive JPEG. High fitness because it portrays the study's retaliation-versus-restraint choice.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.html",
+      "usedBy": [
+        "democracy_covid_ethnic_socioeconomic_inequality_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פערים חברתיים ואתניים בעומס הקורונה בישראל",
+      "authorsHe": "Mor Saban; Vicki Myers; Tal Shachar; Oren Miron; Rachel R. Wilf-Miron",
+      "visualDescriptionHe": "מרפאת בריאות ניידת וצוות רב־קהילתי מתכננים שירות בשכונה שבה נראים פערים בתנאי המגורים.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "covid_19",
+        "health_inequality",
+        "arab_communities",
+        "ultra_orthodox"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific mobile-clinic outreach scene, generated without logos or readable text and finished as an 800x600 progressive JPEG. High fitness because it depicts culturally adapted access across unequal Arab and ultra-Orthodox localities.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_radical_democracy_school_education_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_radical_democracy_school_education_summary_he.html",
+      "usedBy": [
+        "democracy_radical_democracy_school_education_summary_he.html"
+      ],
+      "cardTitleHe": "דמוקרטיה רדיקלית בכיתה",
+      "authorsHe": "Itay Snir",
+      "visualDescriptionHe": "תלמידים ומורה מסדרים כיתה ממבנה שורות למעגל ומנהלים דיון סביב שולחן.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "radical_democracy",
+        "education",
+        "agonism"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific classroom scene, generated without readable text or symbols and finished as an 800x600 progressive JPEG. High fitness because the move from rows to a deliberative circle visualizes the article's educational argument.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.html",
+      "usedBy": [
+        "democracy_facebook_dialogue_israeli_palestinian_conflict_summary_he.html"
+      ],
+      "cardTitleHe": "דיאלוג ישראלי–פלסטיני בפייסבוק",
+      "authorsHe": "Yifat Mor; Yiftach Ron; Ifat Maoz",
+      "visualDescriptionHe": "מפגש משותף של תלמידים יהודים וערבים היושבים במעגל ועובדים יחד במסגרת תוכנית של ויקימדיה ישראל.",
+      "semanticDescriptionHe": "התצלום מספק הקשר ממשי לדיאלוג יהודי–ערבי ולשיתוף תוכן דיגיטלי; הוא אינו עמוד ״Tweeting Arabs״, פוסט, תגובה או משתתף שנכללו במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "facebook",
+        "israeli_palestinian_dialogue",
+        "peace",
+        "social_media"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Wikimedia Commons documentary photograph, center-cropped and finished as an 800x600 progressive JPEG. High fitness because the activity combines Jewish-Arab dialogue with collaborative digital publishing.",
+      "createdDate": "2026-08-21",
+      "sourceType": "wikimedia_commons",
+      "source": "Michal-WMIL / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_joint_encounter_for_Jewish_and_Arab_students.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/A_joint_encounter_for_Jewish_and_Arab_students.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Michal-WMIL",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "A joint encounter for Jewish and Arab students.jpg",
+      "sourceDate": "2025-05-20",
+      "sourceDimensions": "2040x1530",
+      "fitness": "high",
+      "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.html",
+      "usedBy": [
+        "democracy_existential_threat_retributive_justice_intergroup_violence_summary_he.html"
+      ],
+      "cardTitleHe": "איום קיומי, צדק גמולי ואלימות בין קבוצות",
+      "authorsHe": "Gilad Hirschberger; Tom Pyszczynski; Tsachi Ein-Dor",
+      "visualDescriptionHe": "קבוצת מבוגרים בחדר גישור מתלבטת בין תיק ענישה לתוכנית שיקום, על רקע פינת זיכרון שקטה.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "existential_threat",
+        "retributive_justice",
+        "intergroup_violence"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific mediation-room scene, generated without violent imagery, weapons, text, or symbolic scales and finished as an 800x600 progressive JPEG. High fitness because it stages retributive and utilitarian motives under existential threat.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.html",
+      "usedBy": [
+        "democracy_israel_hayom_disruptive_partisan_free_newspaper_summary_he.html"
+      ],
+      "cardTitleHe": "״ישראל היום״ כשחקן תקשורת משבש",
+      "authorsHe": "Michael H. Dahan; Mouli Bentman",
+      "visualDescriptionHe": "ערימות גדולות של עיתונים חינמיים נמסרות לנוסעים עם שחר בתחנת הפצה עירונית.",
+      "semanticDescriptionHe": "המחשה עריכתית ממוקדת לנושא המאמר; האנשים, המקום והפרטים החזותיים בדיוניים ואינם נבדקים, נתונים או אירועים מתוך המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "israel_hayom",
+        "partisan_media",
+        "free_newspaper"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific free-newspaper distribution scene, generated with blank pages and without mastheads, logos, or readable text, then finished as an 800x600 progressive JPEG. High fitness because it portrays the subsidized circulation mechanism.",
+      "createdDate": "2026-08-21",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-21 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.html",
+      "usedBy": [
+        "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.html"
+      ],
+      "cardTitleHe": "זהות מיעוט וסיכון בקרב צעירים ערבים בישראל",
+      "authorsHe": "Maayan Ravid; Haneen Karram-Elias; Yafit Sulimani-Aidan",
+      "visualDescriptionHe": "צעירים יהודים וערבים משתתפים בסדנת צילום ברמלה העוסקת בביטוי עצמי ובשיחה על זהות.",
+      "semanticDescriptionHe": "התצלום מספק הקשר ממשי למפגש צעירים, זהות וביטוי עצמי; הוא אינו מציג אחד מן הצעירים או נותני השירותים שנדונו במחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "minority_identity",
+        "arab_young_adults",
+        "social_work"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "U.S. Embassy Tel Aviv/Wikimedia Commons documentary photograph, center-cropped and finished as an 800x600 progressive JPEG. High fitness because the workshop explicitly used photography for self-expression and discussion of identity.",
+      "createdDate": "2026-08-21",
+      "sourceType": "wikimedia_commons",
+      "source": "U.S. Embassy Tel Aviv / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Stanmeyer_at_Ramle_John_Stanmeyer_at_Ramle_(24038142460).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/John_Stanmeyer_at_Ramle_John_Stanmeyer_at_Ramle_%2824038142460%29.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "creator": "U.S. Embassy Tel Aviv",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "John Stanmeyer at Ramle John Stanmeyer at Ramle (24038142460).jpg",
+      "sourceDate": "2016-01-07",
+      "sourceDimensions": "1200x800",
+      "fitness": "high",
+      "fitnessSource": "nightly_wikimedia_documentary"
     }
   ],
   "topicGraphics": [
