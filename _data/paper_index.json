@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1392,
+  "paperCount": 1402,
   "papers": [
+    {
+      "slug": "democracy_government_third_sector_accountability_ambiguity_summary_he",
+      "file": "democracy_government_third_sector_accountability_ambiguity_summary_he.html",
+      "permalink": "/democracy_government_third_sector_accountability_ambiguity_summary_he.html",
+      "sortKey": 202608220010,
+      "titleHe": "כשהעמימות נוחה לכולם: מדוע פיקוח על שותפויות ממשלה–מגזר שלישי נכשל",
+      "paperTitle": "Managing Government-Third Sector Collaboration: Accountability, Ambiguity, and Politics",
+      "authorsCardHe": "Robert Schwartz",
+      "sourceAuthors": [
+        "Robert Schwartz"
+      ],
+      "journal": "International Journal of Public Administration, 24(11), 1161–1188",
+      "dateText": "פורסם: 31 באוגוסט 2001; פורסם אונליין: 7 בפברואר 2007",
+      "doiUrl": "https://doi.org/10.1081/pad-100105234",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_government_third_sector_accountability_ambiguity_summary_he.jpg",
+        "altHe": "נציגי ממשלה ועמותה בוחנים יחד תיקי תקציב ריקים מסימון סביב שולחן עבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "רוברט שוורץ מנתח את הקושי לנהל אחריותיות בשיתופי פעולה בין ממשלה לבין ארגוני המגזר השלישי בישראל. נקודת המוצא היא הצטברות חשיפות של ניהול כושל וניצול לרעה בארגונים שעובדים עם הממשלה, לצד ירידה באמון הציבור וסימנים למשבר לגיטימיות. חיזוק האחריותיות נראה תגובה מתבקשת, אך המאמר מציין שניסיונות ישראליים לעשות זאת נכשלו במידה רבה. באמצעות תאוריית <strong>הפוליטיקה של האחריותיות</strong>, שוורץ מסביר שפוליטיקאים, בירוקרטים וארגוני מגזר שלישי חולקים אינטרס בשימור מעטה של עמימות סביב היחסים ביניהם. המאמר בוחן את השפעתם של ארבעה טיפוסים חלופיים של אחריותיות על אחריותיות, עמימות, גמישות ופוליטיקה כדי לזהות אסטרטגיות אפשריות ואפקטיביות. אין טיפוס יחיד שמתאים לכל מצב; שילוב נכון תלוי בנסיבות ובמלכודות של כל חלופה. עם זאת, הבחירה המעשית נעשית יותר לפי הפוליטיקה של האחריותיות מאשר לפי ניתוח מדעי של ההתאמה. מבחינה דמוקרטית, הממצא מראה מדוע עצם החשיפה של כשל אינה מבטיחה רפורמה כאשר הגורמים שבידיהם הכוח לבחור מנגנון פיקוח נהנים מעמימות. עיצוב אחריותיות צריך אפוא להביא בחשבון גם את השפעת החלופות וגם את האינטרסים הפוליטיים שמעצבים את הבחירה ביניהן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_ethnic_e_government_trust_locality_inequality_summary_he",
+      "file": "democracy_ethnic_e_government_trust_locality_inequality_summary_he.html",
+      "permalink": "/democracy_ethnic_e_government_trust_locality_inequality_summary_he.html",
+      "sortKey": 202608220009,
+      "titleHe": "פער דיגיטלי בתוך פער אזרחי: גודל היישוב משנה את הקשר בין ממשל מקוון לאמון",
+      "paperTitle": "Ethnic perspective in e-government use and trust in government: A test of social inequality approaches",
+      "authorsCardHe": "Dennis Rosenberg",
+      "sourceAuthors": [
+        "Dennis Rosenberg"
+      ],
+      "journal": "New Media & Society, 23(6), 1660–1680",
+      "dateText": "פורסם לראשונה אונליין: 7 ביוני 2020; גיליון יוני 2021",
+      "doiUrl": "https://doi.org/10.1177/1461444820920655",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnic_e_government_trust_locality_inequality_summary_he.jpg",
+        "altHe": "תושבים במרכז שירות מקומי נעזרים יחד בעמדות ממשל מקוון ללא טקסט קריא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "דניס רוזנברג בוחן באמצעות נתוני הסקר החברתי בישראל מ־2017 שני קשרים: כיצד אתניות ושימוש בממשל מקוון קשורים לאמון בממשלה, וכיצד אתניות ואמון קשורים לשימוש. המחקר נשען על גישות של אי־שוויון חברתי בסוציולוגיה של האינטרנט, שלפיהן טכנולוגיה אינה מוחקת פערים קיימים אלא עשויה לשקף ולשעתק אותם. הממצאים מבחינים בין אזרחים ערבים ביישובים קטנים לבין אזרחים ערבים ביישובים גדולים ומשווים כל קבוצה ליהודים בעלי רמות אמון דומות. ערבים ביישובים קטנים היו בעלי סבירות נמוכה יותר להשתמש בממשל מקוון מיהודים באותה רמת אמון, ובכל זאת היו בעלי סבירות גבוהה יותר לבטא מידה כלשהי של אמון בממשלה. בקרב ערבים ביישובים גדולים, פער השימוש לעומת יהודים הופיע רק כאשר הייתה מידה כלשהי של אמון, ואילו רמת האמון עצמה לא נבדלה מזו של יהודים. <strong>הקשר בין אמון לבין שימוש משתנה אפוא לפי גודל היישוב</strong>: אותה קטגוריית אמון מלווה בהסתברויות שימוש שונות בין הקבוצות שנבדקו. התוצאה תומכת בגישת הריבוד החברתי ומזהירה מפני התייחסות לכל המיעוט הערבי כקבוצה אחידה. מבחינה דמוקרטית, דפוסי שימוש לא שווים בשירותי ממשל מקוון מעלים שאלה על היכולת לממש זכויות, לקבל מידע ולפנות למדינה בפועל. הנתונים מתארים קשרים בסקר חתך ואינם מוכיחים ששינוי באמון לבדו יגרום לשינוי בשימוש או להפך.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_new_media_haredi_community_boundaries_summary_he",
+      "file": "democracy_new_media_haredi_community_boundaries_summary_he.html",
+      "permalink": "/democracy_new_media_haredi_community_boundaries_summary_he.html",
+      "sortKey": 202608220008,
+      "titleHe": "כשאתרי חדשות חרדיים שברו טאבו: מרחבים דיגיטליים הזיזו את גבולות הקהילה",
+      "paperTitle": "Reframing community boundaries: the erosive power of new media spaces in authoritarian societies",
+      "authorsCardHe": "Yossi David; Christian Baden",
+      "sourceAuthors": [
+        "Yossi David",
+        "Christian Baden"
+      ],
+      "journal": "Information, Communication & Society, 23(1), 110–127",
+      "dateText": "פורסם לראשונה אונליין: 19 ביוני 2018; גיליון ינואר 2020",
+      "doiUrl": "https://doi.org/10.1080/1369118x.2018.1486869",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_new_media_haredi_community_boundaries_summary_he.jpg",
+        "altHe": "חברי קהילה שמרנית קוראים ומתווכחים סביב אתר חדשות דיגיטלי במרחב פנימי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "יוסי דוד וכריסטיאן באדן בוחנים את תפקידם של מרחבים דיגיטליים בתוך הקהילה החרדית בישראל, המתוארת במחקר כקהילה שמרנית וסגורה בעלת הנהגה המבקשת לשמר טאבו וגבולות שיח. נקודת המוצא היא מתקפת מצעד הגאווה בירושלים ביולי 2015, שבה חבר בקהילה החרדית רצח משתתפת ופצע שישה משתתפים נוספים. לפי המחקר, כלי תקשורת קהילתיים מסורתיים ניסו להתעלם מן האירוע, ואילו שני אתרי חדשות חרדיים שפעלו מחוץ לשליטה הישירה של ההנהגה אפשרו דיונים חתרניים יותר. באמצעות ניתוח תאוריה מעוגנת, המחברים מתארים כיצד דיונים על משמעות המתקפה ועל הטאבו הממושך סביב סוגיות להט״ב וקוויריות הובילו למסגור מחודש של גבולות הקהילה. <strong>המסגור המחודש של גבולות הקהילה</strong> לא פירושו היעלמות של הזהות החרדית, אלא שינוי במה שניתן לומר בתוכה ובמי רשאי לערער על עמדות הגמוניות. הממצא המרכזי הוא שמרחב תקשורתי שקשה יותר לפקח עליו עשוי לאפשר לחברי קהילה לאתגר סמכות מבפנים, כאשר כלי התקשורת המסורתיים מנסים להתעלם מן האירוע. מבחינה דמוקרטית, החשיבות היא בהרחבת האפשרות למחלוקת פנימית, לביקורת ולמתן דין וחשבון בתוך קהילה בעלת מנגנוני משמעת חזקים. עם זאת, המחקר מתמקד באירוע ובזירות מקוונות מסוימות, ולכן אין להסיק ממנו שכלל הציבור החרדי שינה את עמדותיו או שכל מדיה דיגיטלית מחלישה בהכרח סמכות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_prison_privatization_core_government_powers_summary_he",
+      "file": "democracy_prison_privatization_core_government_powers_summary_he.html",
+      "permalink": "/democracy_prison_privatization_core_government_powers_summary_he.html",
+      "sortKey": 202608220007,
+      "titleHe": "מי רשאי לכלוא: זכויות אסירים או סמכות ליבה של המדינה?",
+      "paperTitle": "Constitutional limits to privatization: The Israeli Supreme Court decision to invalidate prison privatization",
+      "authorsCardHe": "Barak Medina",
+      "sourceAuthors": [
+        "Barak Medina"
+      ],
+      "journal": "International Journal of Constitutional Law, 8(4), 690–713",
+      "dateText": "1 באוקטובר 2010; כרך 8, גיליון 4, עמ׳ 690–713",
+      "doiUrl": "https://doi.org/10.1093/icon/mor015",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_prison_privatization_core_government_powers_summary_he.jpg",
+        "altHe": "מגדל שמירה וגדרות בבית סוהר איילון, המחשה להקשר הישראלי של הדיון בהעברת סמכות הכליאה למפעיל פרטי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "ברק מדינה מנתח את פסק הדין משנת 2009 שבו פסל בית המשפט העליון, ברוב של שמונה מול אחד, את התיקון לפקודת בתי הסוהר שאִפשר לתאגיד למטרת רווח להקים ולהפעיל מתקן ובו 800 אסירים. החוק אימץ מודל בריטי מפורט: הוא העניק לצוות הפרטי סמכויות כפייה רבות, אך הכפיף אותו לנורמות המשפט הציבורי, לזכויות האסירים, לדרישות כשירות ולפיקוח ממשלתי מקיף. בפסק הדין הופיעו שני נתיבי הנמקה. השופטים אילה פרוקצ׳יה ומרים נאור הדגישו את הסיכון שכוח המופעל בידי תאגיד המבקש רווח ינוצל לרעה, גם משום שקשה לפקח על שימוש יומיומי בכוח ועל יחס משפיל. כל שמונת שופטי הרוב תמכו בהנמקה רחבה יותר: עצם מימוש הכליאה וסמכויות הכפייה בידי עובדי תאגיד פרטי פוגע בחירות ובכבוד, גם בלי הוכחה שהאסירים יקבלו תנאים גרועים יותר. לפי הנשיאה דורית ביניש, הפעלת כוח בשם הציבור זוכה ללגיטימציה דמוקרטית כאשר היא נעשית בידי אורגן מדינתי למען האינטרס הכללי; כליאה למטרת רווח מטשטשת תכלית זו והופכת את האסיר, במישור הסמלי, לאמצעי להפקת רווח. מדינה תומך בתוצאה הסופית אך מבקר את שני המסלולים. בנוגע לסיכון, הוא טוען שחשיפה לסכנה היא פגיעה בזכות רק מעל סף משמעותי, ושיש להעריך אמפירית את הוראות החוק, מנגנוני הפיקוח והניסיון המשווה; לדעתו, הנתונים שהיו זמינים לא הצדיקו קביעה שכל הפרטה של כלא פוגעת בהכרח בזכויות. בנוגע לכבוד, הוא מקבל עקרונית שגם האופן שבו מופעלת כפייה עשוי לפגוע במעמד האדם, אך דוחה את ההנחה שכל הבדל פורמלי בין מעסיק ציבורי לפרטי יוצר בהכרח מסר של ביזוי. בחוק הישראלי העובדים הפרטיים היו אמורים להיחשב עובדי ציבור לצורכי הדין הפלילי ולהיות כפופים לחובות ציבוריות, ואילו גם לעובד מדינה יש אינטרסים מקצועיים ואישיים. לכן מציע מדינה בסיס אחר: איסור חוקתי על הפרטת ״ליבת״ הסמכויות השלטוניות, ובהן כליאה ושימוש מאורגן בכוח. בסיס כזה נשען על מבנה המשטר ועל הפרדת סמכויות, ולא על המצאת זכות כמעט מוחלטת של אסיר שלא להיכלא בידי גוף פרטי. בית המשפט עצמו הצביע על אפשרות לקרוא כך את סעיף 1 לחוק־יסוד: הממשלה, אך נמנע מלהכריע בגבולות הליבה. מדינה סבור שאם זו הנורמה שנאכפה בפועל, היה נכון לזהותה במפורש; כך הייתה ההחלטה זוכה ללגיטימציה נורמטיבית חזקה יותר בלי למתוח את מושגי החירות והכבוד מעבר לבסיסם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_politicians_democratic_realists_representational_beliefs_summary_he",
+      "file": "democracy_politicians_democratic_realists_representational_beliefs_summary_he.html",
+      "permalink": "/democracy_politicians_democratic_realists_representational_beliefs_summary_he.html",
+      "sortKey": 202608220006,
+      "titleHe": "איזו דמוקרטיה פוליטיקאים רואים כשהם מביטים בבוחרים?",
+      "paperTitle": "Are politicians democratic realists?",
+      "authorsCardHe": "Jack Lucas, Lior Sheffer, Peter John Loewen",
+      "sourceAuthors": [
+        "Jack Lucas",
+        "Lior Sheffer",
+        "Peter John Loewen"
+      ],
+      "journal": "European Journal of Political Research, 63(4), 1426–1444",
+      "dateText": "פורסם לראשונה אונליין: 16 בינואר 2024; כרך 63, גיליון 4, עמ׳ 1426–1444 (נובמבר 2024)",
+      "doiUrl": "https://doi.org/10.1111/1475-6765.12657",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politicians_democratic_realists_representational_beliefs_summary_he.jpg",
+        "altHe": "חברי מועצת העיר מיניאפוליס יושבים על בימת המליאה מול תושבים, המחשה לעבודת הייצוג של נבחרי ציבור מקומיים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "ג׳ק לוקאס, ליאור שפר ופיטר ג׳ון לוון חוקרים את התיאוריות האמפיריות שפוליטיקאים מחזיקים לגבי התנהגות בוחרים. הם מבחינים בין שלושה צירים: הצבעה לפי העדפות מדיניות או זהות מושרשת, מבט קדימה להבטחות או אחורה לביצועים, וייחוס בהיר של אחריות או תגמול ועונש על אירועים שאינם בשליטת הנבחר. הנתונים באים משלושה סקרים מקוונים: 1,517 תשובות של ראשי ערים וחברי מועצות ביותר מ־400 רשויות בקנדה בשנים 2021 ו־2022, ו־581 תשובות ממדגם אקראי של נבחרים ברשויות אמריקאיות שמונות יותר מאלף תושבים באביב 2022. בכל אחד מן הצירים התשובות התפרשו על מלוא הסולם מאפס עד עשר. עם זאת, הממוצעים בשתי המדינות נטו לעמדה הריאליסטית: הבוחרים מייחסים אחריות באופן לא הוגן, נשענים יותר על זהויות ומביטים יותר לאחור. הנטייה הייתה חזקה יותר בקרב האמריקאים, אך עמדתו של נבחר בציר אחד ניבאה רק במידה חלשה את עמדתו בצירים האחרים, והבדלים מפלגתיים היו בדרך כלל קטנים. לאחר קיבוץ כל ציר לשלוש קטגוריות, כל 27 הצירופים האפשריים הופיעו אצל אחוז אחד לפחות מן המשיבים. ריאליזם דמוקרטי מלא — זהות, עבר וייחוס לא הוגן — היה הצירוף הנפוץ ביותר: 16.6% במאגר המאוחד, 13.8% בקנדה ו־23.3% בארצות הברית; יחד עם שלושה צירופי ריאליזם חלש הגיע שיעורו ליותר משליש מן המדגם ול־46% בקרב האמריקאים. ניתוח נפרד של 444 פוליטיקאים קנדים קשר אמונות אלה לדיווח על שעות עבודה. מי שראו בוחרים כמונעי זהות או כמביטים לאחור דיווחו על יותר זמן לתקשורת עם תושבים ופחות זמן לפיתוח מדיניות, ומי שראו בוחרים כמייחסים אחריות בהגינות דיווחו גם הם על יותר תקשורת. אלה אסוציאציות שנאמדו ברגרסיות, לא הוכחה שהאמונה גרמה להתנהגות: ניסיון בתפקיד וחלוקת הזמן עשויים לעצב את התיאוריה באותה מידה שהתיאוריה עשויה לעצב את העבודה. נוסף על כך, המחקר עוסק בנבחרים מקומיים בשתי מדינות ובשלושה פריטי מדידה יחידים, ולכן המחברים קוראים להשוואה בין רמות שלטון, שיטות בחירה וסביבות קיטוב שונות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_populist_mobilisation_coalitional_framework_summary_he",
+      "file": "democracy_populist_mobilisation_coalitional_framework_summary_he.html",
+      "permalink": "/democracy_populist_mobilisation_coalitional_framework_summary_he.html",
+      "sortKey": 202608220005,
+      "titleHe": "הקואליציה שמאחורי ״העם״: כיצד פופוליסטים מארגנים כוח",
+      "paperTitle": "Populist strategy revisited: toward a coalitional framework of populist mobilisation",
+      "authorsCardHe": "Assaf S. Bondy, Asaf Yakir",
+      "sourceAuthors": [
+        "Assaf S. Bondy",
+        "Asaf Yakir"
+      ],
+      "journal": "New Political Economy",
+      "dateText": "פורסם אונליין: 21 במאי 2026; עמ׳ 1–18",
+      "doiUrl": "https://doi.org/10.1080/13563467.2026.2672497",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populist_mobilisation_coalitional_framework_summary_he.jpg",
+        "altHe": "עובדים ונציגי ארגונים מתכנסים סביב מסמכי מדיניות בבית מלאכה, המחשה לבניית קואליציה פופוליסטית עם שותפים מאורגנים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "אסף ס׳ בונדי ואסף יקיר מתמודדים עם מחלוקת יסודית בחקר הפופוליזם: האם פופוליזם מוגדר בדחיית ארגוני תיווך ובקשר ישיר בין מנהיג להמון, או שמא כוחו נבנה דווקא באמצעות גיוס קולקטיבי ובריתות עם שחקנים מאורגנים. הם מציעים מסגרת קואליציונית המתמקדת בארבעה ממדים: הנוף הארגוני שירשו הפופוליסטים, אסטרטגיית צירוף השותפים, מנגנוני ההכלה הא־סימטרית ומשטר המדיניות שנוצר. לטענתם, השינוי הנאו־ליברלי החליש איגודי עובדים וארגוני מעסיקים והרחיק אותם מערוצי הייצוג המרכזיים, אך הותיר לחלקם תשתית, הון סמלי ויכולת גיוס. מצב זה יצר פער ייצוגי וגם מאגר של שותפים אפשריים למפלגות פופוליסטיות. הייחוד אינו עצם קיומה של ברית בלתי שוויונית, אלא שילוב בין צירוף אינטרסים שהודרו מן ההסדר הקודם, החלשת ערוצי ההשפעה העצמאיים שלהם, הקמת חלופות הנשלטות בידי המדינה והצגת ההסדר המסוים כביטוי לרצון ״העם״. בפולין, מפלגת חוק וצדק צירפה את סולידריות לקואליציה הכוללת עבודה מאורגנת, אימצה דרישות בנוגע לגיל הפרישה, שכר מינימום, חוזים ארעיים והעברות חברתיות, ובה בעת דחקה את מוסדות הדיאלוג החברתי והעבירה את התועלות מלמעלה דרך המדינה. בהונגריה, פידס בנתה ברית עם הון מקומי מאורגן שנדחק בידי מודל התלוי בהשקעות זרות; היא סיפקה לעסקים מקומיים מסים נמוכים, רכש ציבורי והגנה רגולטורית, ושמרה במקביל על תנאים מיטיבים ליצרנים זרים ועל שוק עבודה גמיש. כך יצר אותו היגיון קואליציוני מדיניות פרו־עובדים יחסית בפולין ומדיניות של בניית מעמד עסקי תלוי־מדינה בהונגריה. המחברים מציגים את שני המקרים כהמחשה אנליטית, לא כמבחן השוואתי שמוכיח שכל פופוליזם פועל כך. הם קוראים לבדוק קואליציות עם ארגונים דתיים, חקלאיים וצבאיים, מקרים שבהם הארגונים התנגדו לשילוב, ואת הקשר ההדדי בין תחזוקת הקואליציה לבין פירוק איזונים ובלמים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_eurozone_bailouts_international_redistribution_preferences_summary_he",
+      "file": "democracy_eurozone_bailouts_international_redistribution_preferences_summary_he.html",
+      "permalink": "/democracy_eurozone_bailouts_international_redistribution_preferences_summary_he.html",
+      "sortKey": 202608220004,
+      "titleHe": "מדוע אזרחים מסכימים לממן חילוץ כלכלי של מדינות אחרות?",
+      "paperTitle": "Preferences for International Redistribution: The Divide over the Eurozone Bailouts",
+      "authorsCardHe": "Michael M. Bechtel; Jens Hainmueller; Yotam Margalit",
+      "sourceAuthors": [
+        "Michael M. Bechtel",
+        "Jens Hainmueller",
+        "Yotam Margalit"
+      ],
+      "journal": "American Journal of Political Science, 58(4), 835–856",
+      "dateText": "פורסם מקוון: 26 במרץ 2014; כרך 58, גיליון 4, עמ׳ 835–856",
+      "doiUrl": "https://doi.org/10.1111/ajps.12079",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_eurozone_bailouts_international_redistribution_preferences_summary_he.jpg",
+        "altHe": "שרי אוצר ונציגים אירופים מתכנסים למפגש בלתי רשמי של קבוצת האירו, המחשה לזירה הפוליטית של החלטות חילוץ בין־מדינתיות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "המאמר בוחן מדוע מצביעים במדינה תורמת מוכנים לשאת בעלות של חילוץ מדינות אחרות, והאם העמדות נובעות מן הרווח או ההפסד האישי הצפוי. המחברים מנתחים סקר מקוון של 5,000 מצביעים גרמנים מראשית ינואר 2012, משווים אותו לסקר טלפוני ארצי של 1,000 מצביעים ומשתמשים גם בהחלטה אם לשלוח מסר מזוהה לחבר פרלמנט. במודלים התצפיתיים, הכנסה, אבטלה, תלות הענף בסחר, קבלת העברות אזוריות ורוב מדדי האינטרס החומרי מסבירים מעט מן ההתנגדות, בעוד אלטרואיזם וקוסמופוליטיות קשורים בעקביות לתמיכה גבוהה יותר. גם המפלגתיות אינה מתארגנת על ציר שמאל–ימין פשוט: מצביעי הקצוות מתנגדים יותר ממצביעי המפלגות המרכזיות. בניסוי משובץ הוקצו באקראי סכומי השתתפות גרמניים של 123, 189, 211 או 418 מיליארד אירו; ככל שהסכום שנמסר היה גבוה יותר, עלתה ההסתברות להתנגד לחילוץ, אך העלייה הייתה דומה בקבוצות הכנסה שונות. הניסוי תומך בפרשנות של דאגה לנטל על הכלכלה הגרמנית בכללותה, ולא במנגנון שבו כל משק בית מחשב רק את העלות לעצמו. עם זאת, רק מניפולציית הסכום הוקצתה באקראי; הקשרים עם אלטרואיזם, קוסמופוליטיות ומפלגה הם תצפיתיים ואינם מוכיחים סיבתיות. הממצאים מציבים את החילוץ הבין־לאומי גם כשאלת זהות, סולידריות ומדיניות חוץ, ומראים שהלגיטימציה הציבורית להעברות בין מדינות אינה ניתנת להבנה באמצעות חלוקה חומרית מקומית בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_inequality_good_governance_endemic_corruption_summary_he",
+      "file": "democracy_inequality_good_governance_endemic_corruption_summary_he.html",
+      "permalink": "/democracy_inequality_good_governance_endemic_corruption_summary_he.html",
+      "sortKey": 202608220003,
+      "titleHe": "כיצד אי־שוויון ותחרות על אכיפת מס משמרים שחיתות מערכתית?",
+      "paperTitle": "Inequality, good governance, and endemic corruption",
+      "authorsCardHe": "Gil S. Epstein; Ira N. Gang",
+      "sourceAuthors": [
+        "Gil S. Epstein",
+        "Ira N. Gang"
+      ],
+      "journal": "International Tax and Public Finance, 26(5), 999–1017",
+      "dateText": "פורסם מקוון: 5 ביוני 2019; כרך 26, גיליון 5, עמ׳ 999–1017",
+      "doiUrl": "https://doi.org/10.1007/s10797-019-09542-z",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_inequality_good_governance_endemic_corruption_summary_he.jpg",
+        "altHe": "מנהל ציבורי יושב בין שתי קבוצות סביב שולחן משא ומתן ומסמכי מדיניות, המחשה לתחרות על רמת אכיפת המס",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "המאמר מנתח את אכיפת המס כמדיניות שנוצרת בתוך מאבק חלוקתי ולא כהחלטה טכנית ניטרלית. במודל תורת־משחקים מסוג מנהיג–עוקבים, מנהל המס מציע רמת אכיפה, ושתי קבוצות — בעלי הכנסה גבוהה ובעלי הכנסה נמוכה יחסית — משקיעות משאבים כדי להשפיע אם ההצעה תאושר. בעלי ההכנסה הגבוהה מעדיפים אכיפה נמוכה, ואילו הקבוצה הנמוכה יחסית מעדיפה אכיפה מחמירה יותר מפני שהיא מקבלת מן הממשלה יותר מכפי שהיא משלמת נטו. הסתברות הניצחון של כל קבוצה תלויה במאמץ ההשפעה שלה ובערך שהיא מייחסת לתוצאה, אך מנהל המס עצמו משלב רווחה ציבורית עם עניין צר בהוצאות השידול או ברנטות שהמאבק מייצר. מכאן נובעת תוצאה לא אינטואיטיבית: רמת האכיפה שממקסמת את התועלת הצפויה של הקבוצה החלשה נמוכה מן הרמה שהייתה בוחרת אילו ניצחונה היה ודאי, משום שדרישה מתונה מפחיתה את התנגדות העשירים ואת עלות המאבק. המחברים גם מראים שרגישות החברה והמנהל לשחיתות יכולה להזיז את שיווי המשקל, ומציעים באופן ספקולטיבי מנגנונים של התפשטות ציות ושל מלכודת עוני. זהו מודל תאורטי ללא אומדן אמפירי, ולכן ערכו הוא בזיהוי מנגנונים ותנאים ולא בקביעה מהי רמת האכיפה הרצויה במדינה ממשית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_participatory_equality_minority_rights_international_law_summary_he",
+      "file": "democracy_participatory_equality_minority_rights_international_law_summary_he.html",
+      "permalink": "/democracy_participatory_equality_minority_rights_international_law_summary_he.html",
+      "sortKey": 202608220002,
+      "titleHe": "שוויון על הנייר אינו מספיק: שוויון השתתפותי וזכויות מיעוטים",
+      "paperTitle": "Toward Participatory Equality: Protecting Minority Rights under International Law",
+      "authorsCardHe": "Yousef T. Jabareen",
+      "sourceAuthors": [
+        "Yousef T. Jabareen"
+      ],
+      "journal": "Israel Law Review, 41(3), 635–676",
+      "dateText": "פורסם: חורף 2008; כרך 41, גיליון 3, עמ׳ 635–676",
+      "doiUrl": "https://doi.org/10.1017/S002122370000039X",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_participatory_equality_minority_rights_international_law_summary_he.jpg",
+        "altHe": "קבוצה אזרחית מגוונת מתכנסת סביב מפת תכנון משותפת, המחשה להשתתפות של קבוצות מיעוט בעיצוב המרחב הציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "יוסף ת׳ ג׳בארין טוען ששוויון מלא ואפקטיבי במדינה רב־אתנית מחייב שוויון השתתפותי — יכולת ממשית של בני מיעוטים להשתתף בחיים הפוליטיים, החברתיים והתרבותיים ולהשפיע על עתידם המשותף. זהו מאמר משפטי ונורמטיבי, לא מחקר אמפירי, והוא בונה את טיעונו על עקרונות של צדק וכבוד ועל קריאה רחבה ותכליתית של מסמכי זכויות מיעוטים במשפט הבינלאומי. לפי המאמר, זכויות אישיות שוות חיוניות אך אינן מספיקות כאשר זהותה ומעמדה של קבוצה שלמה נתונים לשליטת הרוב; לשם כך נדרשות גם זכויות קולקטיביות ואמצעים חיוביים. המסגרת המוצעת עוסקת במיוחד במיעוטים משמעותיים ובקבוצות ילידיות ומחלקת את השוויון לשלושה מרחבים הקשורים זה בזה. במרחב הציבורי המדינה מחזיקה משאבים בנאמנות עבור כלל האזרחים, ולכן עליה לחלק בהגינות תקציבים וקרקע, סמלים, משאבי תרבות ושפה, כוח פוליטי וזכויות הגירה ואזרחות. במרחב הפנימי נדרשת מידה של ניהול עצמי בתחומי תרבות, דת, חינוך, תקשורת, שלטון מקומי, תכנון ושירותים, לצד שמירה על השתתפות במוסדות המשותפים ועל זכויות הפרט בתוך הקבוצה. במרחב ההיסטורי נדרשים הכרה בזהות ובהיסטוריה של המיעוט ומנגנונים של צדק מתקן ביחס לעוולות עבר שעדיין מעצבות את ההווה. ג׳בארין מכיר בכך שלא כל פרט במסגרת הזאת כתוב במפורש כדין מחייב, אך טוען שתכלית ההגנות הבינלאומיות — יציבות, כבוד, שוויון ושלום — מחייבת מעבר מהשתתפות סמלית לשותפות אפקטיבית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_weak_form_judicial_review_social_economic_rights_summary_he",
+      "file": "democracy_weak_form_judicial_review_social_economic_rights_summary_he.html",
+      "permalink": "/democracy_weak_form_judicial_review_social_economic_rights_summary_he.html",
+      "sortKey": 202608220001,
+      "titleHe": "כשהכרעת בית המשפט אינה המילה האחרונה: ביקורת שיפוטית חלשה וזכויות חברתיות",
+      "paperTitle": "With a little help from the courts: the promises and limits of weak form judicial review of social and economic rights",
+      "authorsCardHe": "Adam Shinar",
+      "sourceAuthors": [
+        "Adam Shinar"
+      ],
+      "journal": "International Journal of Law in Context, 5(4), 417–431",
+      "dateText": "פורסם לראשונה אונליין: 12 בינואר 2010; גיליון הדפוס: דצמבר 2009; כרך 5, גיליון 4, עמ׳ 417–431",
+      "doiUrl": "https://doi.org/10.1017/S1744552309990243",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_weak_form_judicial_review_social_economic_rights_summary_he.jpg",
+        "altHe": "תושבים ונציג מוסדי בוחנים יחד תוכנית במסדרון של מבנה ציבור, המחשה לסעד שיפוטי המוביל לדיאלוג וליישום אזרחי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-22",
+      "dateModified": "2026-08-22",
+      "summaryHe": "הטקסט של אדם שנער הוא מסה ביקורתית שעברה ביקורת עמיתים על ספרו של מארק טושנט Weak Courts, Strong Rights, ולא מחקר אמפירי. טושנט מציע ביקורת שיפוטית במתכונת חלשה: בית המשפט מזהה פגיעה חוקתית או מטיל חובה כללית, אך אינו שומר לעצמו בהכרח את המילה האחרונה ואינו מכתיב תמיד את פרטי המדיניות. המודל נועד לצמצם את הקושי הדמוקרטי שבהכרעה שיפוטית סופית ובה בעת לאפשר הכרה מעשית בזכויות חברתיות וכלכליות, כגון דיור, בריאות וחינוך. שנער מדגיש שסעד חלש אינו מבטיח תוצאה חזקה; נדרשת חברה אזרחית שממשיכה להפעיל לחץ, לעקוב ולתת לנפגעים תשתית ארגונית ומשפטית. נדרשת גם נכונות של בתי משפט, מחוקקים, ממשלות וסוכנויות להכיר בזכויות ולפעול בתום לב לאורך זמן. הפער בין פרשת Grootboom, שבה ההכרזה החוקתית לא תורגמה במהירות לדיור עבור העותרת, לבין פרשת Olivia Road, שבה הוראת הידברות הובילה להסכמות מעשיות, ממחיש את התלות הזאת. שנער מיישב בין הביקורת הקודמת של טושנט על ביקורת שיפוטית לבין הצעתו החדשה באמצעות ההבחנה בין תאוריה אידאלית לתאוריה לא־אידאלית: ייתכן שבעולם מתוכנן מראש לא היה מוקם מוסד כזה, אך בעולם שבו הוא כבר מושרש אפשר לעצבו באופן דיאלוגי יותר. המסקנה אינה שבתי משפט מיותרים או כול־יכולים, אלא שתפקידם יכול להיות מוגבל ומשמעותי רק כחלק מתהליך פוליטי ואזרחי רחב.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he",
       "file": "democracy_minority_ethnic_identity_at_risk_arab_young_adults_israel_summary_he.html",
