@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1402,
+  "paperCount": 1412,
   "papers": [
+    {
+      "slug": "democracy_authoritarianism_threat_exclusionism_gaza_summary_he",
+      "file": "democracy_authoritarianism_threat_exclusionism_gaza_summary_he.html",
+      "permalink": "/democracy_authoritarianism_threat_exclusionism_gaza_summary_he.html",
+      "sortKey": 202608230010,
+      "titleHe": "כשהאיום מתורגם להדרה: סמכותנות ועמדות כלפי זכויות ערב פינוי עזה",
+      "paperTitle": "Authoritarianism, perceived threat and exclusionism on the eve of the Disengagement: Evidence from Gaza",
+      "authorsCardHe": "Daphna Canetti; Eran Halperin; Stevan E. Hobfoll; Oren Shapira; Sivan Hirsch-Hoefler",
+      "sourceAuthors": [
+        "Daphna Canetti",
+        "Eran Halperin",
+        "Stevan E. Hobfoll",
+        "Oren Shapira",
+        "Sivan Hirsch-Hoefler"
+      ],
+      "journal": "International Journal of Intercultural Relations, 33(6), 463–474",
+      "dateText": "נובמבר 2009",
+      "doiUrl": "https://doi.org/10.1016/j.ijintrel.2008.12.007",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_authoritarianism_threat_exclusionism_gaza_summary_he.jpg",
+        "altHe": "מפגש קהילתי מתוח בין תושבים, המחשה לדיון באיום נתפס, סמכותנות והדרה ערב פינוי עזה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "דפנה קנטי, ערן הלפרין, סטיבן הובפול, אורן שפירא וסיון הירש־הופלר בוחנים כיצד סמכותנות ותפיסת איום נקשרות לתמיכה בהדרת ערבים מזכויות אזרחיות ופוליטיות. באוגוסט 2005, ערב פינוי היישובים היהודיים מרצועת עזה, נערך סקר טלפוני במדגם אקראי של קווים נייחים בקרב 190 מתיישבים יהודים בוגרים; שיעור ההיענות היה 41% ושיעור שיתוף הפעולה 50%. בניתוח נתיבים, תפיסת האיום הייתה המנבא החזק ביותר של הדרה, עם מקדם מתוקנן של β=.51. סמכותנות נקשרה הן ישירות להדרה, β=.22, והן בעקיפין באמצעות תפיסת איום: סמכותנות ניבאה איום ב־β=.29, וההשפעה העקיפה הייתה .15 ומובהקת במבחן סובל. דתיות נקשרה בעוצמה לסמכותנות, β=.43, אך לא נמצאו לה קשרים ישירים לאיום או להדרה במודל המשולב. משום שהנתונים חתכיים ומגיעים מאוכלוסייה ייחודית ברגע משברי, המודל מתאר מנגנון מתווך התואם את הנתונים ואינו מוכיח שרשרת סיבתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_public_funding_religious_associations_nondiscrimination_summary_he",
+      "file": "democracy_public_funding_religious_associations_nondiscrimination_summary_he.html",
+      "permalink": "/democracy_public_funding_religious_associations_nondiscrimination_summary_he.html",
+      "sortKey": 202608230009,
+      "titleHe": "כשהמדינה מממנת אמונה: אוטונומיה דתית מול איסור אפליה",
+      "paperTitle": "Governmental-Funded Religious Associations and Non-Discrimination Rules: On Immunity and Public Funding",
+      "authorsCardHe": "Nahshon Perez",
+      "sourceAuthors": [
+        "Nahshon Perez"
+      ],
+      "journal": "Canadian Journal of Law & Jurisprudence, 33(2), 341–367",
+      "dateText": "פורסם אונליין: 9 ביוני 2020; גיליון: אוגוסט 2020",
+      "doiUrl": "https://doi.org/10.1017/cjlj.2020.12",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_funding_religious_associations_nondiscrimination_summary_he.jpg",
+        "altHe": "נציגי קהילות דתיות שונות ממתינים על מדרגות מוסד ציבורי לקבלת תיקי מענק, המחשה למימון שוויוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "נחשון פרז בוחן אם עמותה דתית שמקבלת כסף ציבורי רשאית לטעון לחסינות מכלל איסור אפליה. המאמר הוא ניתוח משפטי ונורמטיבי, לא מחקר אמפירי, והוא דוחה שתי תשובות מוחלטות: מימון אינו הופך כל גוף דתי לזרוע רגילה של המדינה, אך גם אינו משאיר את מלוא האוטונומיה הפרטית ללא שינוי. פרז מבחין בין אפליה פנימית כלפי חברים או נושאי תפקיד דתי לבין אפליה חיצונית כלפי עובדים או מי שמבקשים שירות, ומציע לבחון חמישה משתנים: מרכזיות הכלל הדתי, אופייה הפנימי או החיצוני של האפליה, הפנמת העלות בידי הגוף, היקף המימון ונגישות המימון לקבוצות מתחרות. ככל שהמימון גדול יותר, שהנפגע חיצוני יותר ושהעמותה מטילה עליו או על הציבור את מלוא העלות, כך נחלשת תביעת החסינות. היישומים לפרשות JFS ו־Martínez ממחישים שהסיווגים עצמם שנויים במחלוקת ושגם כלל דתי מרכזי אינו מכריע לבדו. המסגרת אינה נוסחה מכנית, אך היא מראה כיצד תמיכה ציבורית מצמצמת בלי למחוק את גבולות האוטונומיה הדתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_migrant_care_workers_industrial_citizenship_union_summary_he",
+      "file": "democracy_migrant_care_workers_industrial_citizenship_union_summary_he.html",
+      "permalink": "/democracy_migrant_care_workers_industrial_citizenship_union_summary_he.html",
+      "sortKey": 202608230008,
+      "titleHe": "קול פוליטי בלי זכות בחירה: התאגדות עובדי הסיעוד המהגרים בישראל",
+      "paperTitle": "Organizing migrant care workers in Israel: Industrial citizenship and the trade union option",
+      "authorsCardHe": "Guy Mundlak; Hila Shamir",
+      "sourceAuthors": [
+        "Guy Mundlak",
+        "Hila Shamir"
+      ],
+      "journal": "International Labour Review, 153(1), 93–116",
+      "dateText": "מרץ 2014; פורסם אונליין: 16 באפריל 2014",
+      "doiUrl": "https://doi.org/10.1111/j.1564-913x.2014.00198.x",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_migrant_care_workers_industrial_citizenship_union_summary_he.jpg",
+        "altHe": "עובדות סיעוד מהגרות מקיימות אספה ובוחנות יחד מסמכי התארגנות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "גיא מונדלק והילה שמיר בוחנים את הניסיון של כוח לעובדים לאגד עובדי סיעוד מהגרים בישראל החל ב־2009 ואת תרומתו האפשרית ל<strong>אזרחות תעשייתית</strong>. מחקר המקרה מבוסס על ראיונות שנערכו ב־2011 עם שחקנים שהיו מעורבים בהתארגנות, לצד תצפית וחומר תיעודי. אירוע גיוס ראשון משך כ־350 עובדים, אך רק 50 הצטרפו, ובשלב מאוחר יותר עמד מספר החברים על כ־70 — פער שהמחיש את השפעת הבידוד בעבודה ביתית, הזמן הפנוי המצומצם, התלות במעסיקים ובאשרה והתחושה שהשהות זמנית. ההתארגנות לא הצליחה לממש שביתה או הסכם קיבוצי ענפי, אך השתתפה בשינוי נוהל היציאה והכניסה לישראל ובנתה מסגרות של בחירת נציגים, קביעת סדר יום והופעה בפני הכנסת. המחברים טוענים שהערך המוסף של איגוד אינו רק שירות או סנגור בשם העובדים, אלא מוסד חברות המחבר קול ישיר לכוח משפטי ומחייב את המארגנים למסור לעובדים את השליטה בסדר היום. המקרה היה עדיין בראשיתו, ולכן הוא מצביע על אפשרות דמוקרטית חשובה ולא מוכיח הצלחה ארוכת טווח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_islamic_education_democratic_citizenship_summary_he",
+      "file": "democracy_islamic_education_democratic_citizenship_summary_he.html",
+      "permalink": "/democracy_islamic_education_democratic_citizenship_summary_he.html",
+      "sortKey": 202608230007,
+      "titleHe": "אמונה שחושבת ומתווכחת: חינוך אסלאמי לאזרחות דמוקרטית",
+      "paperTitle": "Islamic education and the challenge of democratic citizenship: a critical perspective",
+      "authorsCardHe": "Najwan Saada; Zehavit Gross",
+      "sourceAuthors": [
+        "Najwan Saada",
+        "Zehavit Gross"
+      ],
+      "journal": "Discourse: Studies in the Cultural Politics of Education, 38(6), 807–822",
+      "dateText": "פורסם אונליין: 24 במאי 2016; גיליון: 2017",
+      "doiUrl": "https://doi.org/10.1080/01596306.2016.1191011",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_islamic_education_democratic_citizenship_summary_he.jpg",
+        "altHe": "תלמידים בכיתת חינוך אסלאמי מנהלים דיון משותף סביב מחברות וחומרי לימוד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "נג'ואן סעדה וזהבית גרוס שואלים כיצד בתי ספר אסלאמיים יכולים לחזק זהות דתית ובה בעת להכין תלמידים להשתתפות בחברה דמוקרטית, רב־דתית ורב־תרבותית. זהו מאמר מושגי ונורמטיבי המבוסס על ניתוח ביקורתי של ספרות פוליטית, תאולוגית וחינוכית, ולא מחקר ניסויי או סקר תלמידים. המחברים מבקרים הוראה הנשענת על שינון, סמכות ופרשנות יחידה, ומציעים חינוך אסלאמי ליברלי ופרוגרסיבי שמכיר בהיסטוריות של פרשנות דתית ובאפשרות למחלוקת. בכיתה כזאת תלמידים מתרגלים חשיבה ביקורתית, הנמקה מוסרית, דיון, איג'תיהאד ושורא, ולומדים להסביר עמדות גם למי שאינם מקבלים טקסט דתי כמקור מחייב. אמונה אינה מוצגת כמנוגדת לאזרחות, אלא כבסיס אפשרי לכבוד האדם, שוויון, אמפתיה והשתתפות ציבורית. המאמר גם מכיר בקשיים שלא פתר: התנגדות הורים וקהילות, הכשרת מורים, התאמת דיון מופשט לילדים והמתח בין אוטונומיית התלמיד לבין אופיו המחייב של בית ספר דתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_pro_democratic_civil_society_extreme_right_brandenburg_summary_he",
+      "file": "democracy_pro_democratic_civil_society_extreme_right_brandenburg_summary_he.html",
+      "permalink": "/democracy_pro_democratic_civil_society_extreme_right_brandenburg_summary_he.html",
+      "sortKey": 202608230006,
+      "titleHe": "כשהמדינה אינה יכולה להגן על הדמוקרטיה לבדה: החברה האזרחית מול הימין הקיצוני בברנדנבורג",
+      "paperTitle": "The potential role of ‘pro-democratic civil society’ in responding to extreme right-wing challenges: The case of Brandenburg",
+      "authorsCardHe": "Ami Pedahzur",
+      "sourceAuthors": [
+        "Ami Pedahzur"
+      ],
+      "journal": "Contemporary Politics, 9(1), 63–74",
+      "dateText": "מרץ 2003",
+      "doiUrl": "https://doi.org/10.1080/1356977032000072468",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_pro_democratic_civil_society_extreme_right_brandenburg_summary_he.jpg",
+        "altHe": "הפגנה פרו־דמוקרטית נגד הימין הקיצוני בפוטסדאם בשנת 2025; תצלום המחשה עכשווי ולא האירועים שנחקרו במאמר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "עמי פדהצור בוחן כיצד חברה אזרחית פרו־דמוקרטית יכולה לסייע לדמוקרטיה להתגונן מפני ימין קיצוני בלי לאמץ אמצעים שמחלישים את זכויות היסוד שהיא מבקשת להגן עליהן. מחקר המקרה מתמקד בברנדנבורג שלאחר איחוד גרמניה ומשלב ראיונות עם פעילים בשלושה ארגונים מקומיים, שיחות עם גורמי ביטחון ומשטרה וחומר ציבורי על תוכניות ויוזמות. הארגונים עסקו בחינוך לדמוקרטיה, העלאת מודעות, יצירת נוכחות ציבורית וסיוע למהגרים ולמבקשי מקלט. הפעילים דיווחו על שינוי מתודעה קהילתית אדישה למעורבות רחבה ומגוונת יותר, אך לא על ירידה משמעותית מוכחת בפעילות הקיצונית. המחקר מדגיש שהקבוצות היו קטנות, מבודדות ושבריריות, ולכן נזקקו לקשרים ביניהן, לתמיכה מוסדית ולמשאבים יציבים. הוא גם מצא חסר בולט בארגוני זכויות אזרח שיפקחו על תגובת המדינה עצמה כאשר המאבק בקיצוניות מסכן חירויות דמוקרטיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_government_discrimination_religious_minorities_securitization_summary_he",
+      "file": "democracy_government_discrimination_religious_minorities_securitization_summary_he.html",
+      "permalink": "/democracy_government_discrimination_religious_minorities_securitization_summary_he.html",
+      "sortKey": 202608230005,
+      "titleHe": "מתי אפליה חברתית הופכת לאפליה שלטונית נגד מיעוטים דתיים?",
+      "paperTitle": "Examining the causes of government-based discrimination against religious minorities in western democracies: societal-level discrimination and securitization",
+      "authorsCardHe": "Jonathan Fox; Roger Finke; Marie Ann Eisenstein",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Roger Finke",
+        "Marie Ann Eisenstein"
+      ],
+      "journal": "Comparative European Politics, 17(6), 885–909",
+      "dateText": "פורסם לראשונה אונליין: 14 בספטמבר 2018; גיליון דצמבר 2019",
+      "doiUrl": "https://doi.org/10.1057/s41295-018-0134-1",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_government_discrimination_religious_minorities_securitization_summary_he.jpg",
+        "altHe": "קבוצה מגוונת ממתינה לבדיקת מסמכים בכניסה מאובטחת למוסד ממשלתי, המחשה לסיקוריטיזציה ולאפליה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "המאמר בוחן מדוע ממשלות בדמוקרטיות מערביות מטילות מגבלות על פרקטיקות ומוסדות של מיעוטים דתיים שאינן מוטלות על דת הרוב. ג׳ונתן פוקס, רוג׳ר פינקה ומארי אן אייזנשטיין משווים שני הסברים: אפליה חברתית נגד המיעוט ולחץ שמחלחל למדיניות, ותהליך סֶקוּריטיזציה שבו מיעוט נתפס כאיום המצדיק צעדים חריגים. הם משתמשים בנתוני RASM3 על 116 יחידות מיעוט–מדינה ב־26 דמוקרטיות מערביות, בעיקר לשנת 2014. הנתונים מבחינים בין 35 סוגים של אפליה שלטונית לבין 27 סוגים של אפליה חברתית, ומקודדים כל מיעוט בנפרד. בניתוחים הרב־משתניים אפליה חברתית מ־2013 ואירועים אלימים או אלימים־למחצה מן השנים 2009–2013 משמשים לניבוי אפליה שלטונית ב־2014, לצד בקרות על תמיכת המדינה בדת, עמידות המשטר, אוכלוסייה, תוצר וגודל המיעוט. ממוצע האפליה השלטונית נגד מיעוטים מוסלמיים היה 5.38, יותר מכפול מן הממוצע בכל קטגוריית מיעוט אחרת, ואילו ממוצע האפליה החברתית היה הגבוה ביותר אצל מיעוטים יהודיים — 8.46 לעומת 6.81 אצל מוסלמיים. כאשר מאחדים את כל הקבוצות מתקבל קשר חיובי בין אפליה חברתית לשלטונית, אך הפירוט לפי מיעוט מראה שהקשר מנבא אפליה שלטונית אצל מיעוטים מוסלמיים ולא אצל יהודיים. הפער חשוב משום שיהודים חוו בממוצע יותר אפליה חברתית, אך לא אפליה שלטונית חריגה. כדי לבחון סֶקוּריטיזציה, המחברים משתמשים בפעולות אלימות ואלימות־למחצה נגד חברי דת הרוב כמדד עקיף; תועד אירוע כזה ב־12 מתוך 116 יחידות מיעוט–מדינה בשנים 2009–2014, ו־11 מהן היו מוסלמיות. המדד היה קשור באופן מובהק לאפליה שלטונית מאוחרת יותר, וגם תמיכה ממשלתית בדת הייתה מנבא עקבי וחזק. עם זאת, האירועים אינם מדידה ישירה של נאומי אליטות, תפיסת איום או מסגור ביטחוני, ואין לפרש את הממצא כקביעה שמוסלמים בכלל מהווים איום. המחקר תצפיתי, הכיוון בין חברה לממשלה עשוי לפעול לשני הצדדים, והמדגם מוגבל לדמוקרטיות מערביות ולמספר קטן יחסית של יחידות. המסקנה היא שהקשר בין עוינות חברתית למדיניות מפלה מותנה בזהות המיעוט ובהקשר הביטחוני והמדינתי, ולכן מדדים מצרפיים של מדינה שלמה מסתירים הבדלים חיוניים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_regime_types_ethnoreligious_discrimination_summary_he",
+      "file": "democracy_regime_types_ethnoreligious_discrimination_summary_he.html",
+      "permalink": "/democracy_regime_types_ethnoreligious_discrimination_summary_he.html",
+      "sortKey": 202608230004,
+      "titleHe": "לא קו ישר: משטרי ביניים הפלו פחות מיעוטים אתנו־דתיים",
+      "paperTitle": "Regime Types and Discrimination against Ethnoreligious Minorities: A Cross-Sectional Analysis of the Autocracy-Democracy Continuum",
+      "authorsCardHe": "Jonathan Fox; Shmuel Sandler",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Shmuel Sandler"
+      ],
+      "journal": "Political Studies, 51(3), 469–489",
+      "dateText": "פורסם: 1 באוקטובר 2003; כרך 51, גיליון 3, עמ׳ 469–489",
+      "doiUrl": "https://doi.org/10.1111/1467-9248.00436",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_regime_types_ethnoreligious_discrimination_summary_he.jpg",
+        "altHe": "משפחה מקבוצת מיעוט מגישה מסמך בדלפק ממשלתי בנוכחות אנשי ביטחון, המחשה לחסמים מוסדיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "ההנחה המקובלת היא שככל שמשטר דמוקרטי יותר הוא מפלה פחות מיעוטים, אך ג׳ונתן פוקס ושמואל סנדלר בודקים אם הקשר אכן ליניארי. הם משלבים נתונים ממאגר Minorities at Risk, ממאגר POLITY וממאגר ייעודי על סכסוכים אתנו־דתיים. יחידת הניתוח היא מיעוט אתני בתוך מדינה, והמדגם כולל 267 מיעוטים בעלי משמעות פוליטית: 105 מיעוטים אתנו־דתיים הנבדלים בדתם מקבוצת הרוב ו־162 מיעוטים אתניים שאינם נבדלים ממנה דתית. המשטרים מסווגים כאוטוקרטיות, חצי־דמוקרטיות ודמוקרטיות, וההשוואה מכסה אפליה פוליטית, כלכלית ותרבותית וכן דיכוי לאורך שנות התשעים. אצל המיעוטים שאינם נבדלים דתית לא נמצא קשר ברור בין סוג המשטר לרמת האפליה. אצל המיעוטים האתנו־דתיים התקבל דפוס <strong>בצורת J הפוכה</strong>: אוטוקרטיות הפלו ודיכאו יותר מדמוקרטיות, אך חצי־דמוקרטיות הפלו ודיכאו פחות משתיהן. סדר זה הופיע בכל 11 המדדים והיה מובהק סטטיסטית בשבעה מהם; הוא נשמר בניתוח הרב־משתני עבור אפליה פוליטית ותרבותית ודיכוי, אך לא עבור אפליה כלכלית. הדפוס התחזק מראשית שנות התשעים ועד סופן, בעיקר בשל ירידה חדה באפליה הפוליטית והתרבותית מצד חצי־דמוקרטיות. המחקר גם מצא שדמוקרטיות הפלו מיעוטים אתנו־דתיים יותר משהפלו מיעוטים אתניים אחרים. ניתוחי הבקרה לא הסבירו את התופעה באמצעות דת הרוב, אזור גאוגרפי או תביעות לאוטונומיה בלבד. המחברים מציעים בזהירות שחיכוך בין אידאולוגיה ליברלית לבין ציוויים דתיים מסוימים עשוי לתרום לדפוס, אך מכירים בכך שהמנגנון אינו נבדק ישירות. המדגם כולל רק קבוצות שמאגר MAR הגדיר בעלות משמעות פוליטית, וסיווג הדמוקרטיה מבוסס על מוסדות ולא על זכויות הפרט; לכן התוצאה היא קשר תצפיתי היסטורי ולא הוכחה סיבתית או מיפוי של כל המיעוטים בעולם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_urban_populism_tel_aviv_jaffa_municipal_elections_summary_he",
+      "file": "democracy_urban_populism_tel_aviv_jaffa_municipal_elections_summary_he.html",
+      "permalink": "/democracy_urban_populism_tel_aviv_jaffa_municipal_elections_summary_he.html",
+      "sortKey": 202608230003,
+      "titleHe": "האם פופוליזם עירוני יכול לדמוקרט את העיר? המקרה של תל אביב–יפו",
+      "paperTitle": "Can urban populism democratize the city? The Tel Aviv-Jaffa 2008 municipal elections and their aftermath",
+      "authorsCardHe": "Omri Cohen",
+      "sourceAuthors": [
+        "Omri Cohen"
+      ],
+      "journal": "Cities, 156, Article 105524",
+      "dateText": "ינואר 2025; כרך 156, מאמר 105524",
+      "doiUrl": "https://doi.org/10.1016/j.cities.2024.105524",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_urban_populism_tel_aviv_jaffa_municipal_elections_summary_he.jpg",
+        "altHe": "בניין עיריית תל אביב–יפו וכיכר רבין, עוגן חזותי לזירה המוניציפלית שבה עוסק המאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "כיצד נעשות ערים דמוקרטיות יותר? עמרי כהן יוצא מן המחלוקת בין מי שרואים בשלטון המקומי מרחב עשיר יותר להזדמנויות דמוקרטיות לבין מי שמדגישים מכשולים מקומיים בפני דמוקרטיזציה. המאמר מחבר בין רעיונות של פופוליזם דמוקרטי לבין המחקר על הזכות לעיר. במרכזו עומדת בנייתו של <strong>„עם עירוני”</strong>: ציבור פוליטי שמוגדר באמצעות פנייה לתושבים הרגילים של העיר ובאמצעות עימות עם מוקדי כוח מקומיים. הניתוח האמפירי מתמקד בבחירות המוניציפליות בתל אביב–יפו בשנת 2008 ובהתרחשויות שבאו אחריהן. הממצאים מראים שהגדרה פעילה של „האנשים הרגילים” בעיר והתקשרות עמם יכולות לקדם דמוקרטיה עירונית. כהן מזהה ארבע רמות של פופוליזם טרנספורמטיבי המחזקות זו את זו: שינוי השיח, שינוי ההשתתפות, שינוי כללי המשחק ושינוי המדיניות. החלוקה מבהירה שדמוקרטיזציה עירונית אינה מסתכמת במסר בחירות, אלא יכולה לגעת גם בשאלה מי משתתף, כיצד מתקבלות החלטות ומה העירייה עושה. עם זאת, רמות השינוי אינן נתקלות באותה התנגדות. לפי המחקר, שינוי דמוקרטי של השיח נתקל בפחות התנגדות מצד האליטות המקומיות מאשר שינוי ההשתתפות, כללי המשחק והמדיניות. מכאן שפנייה אל „העם העירוני” יכולה לפתוח אפשרויות דמוקרטיות, אך המעבר משפה חדשה לשינוי מוסדי ומדיניותי קשה יותר. המאמר אינו הופך כל פופוליזם לדמוקרטי; הוא בוחן צורה דמוקרטית ומקומית של פופוליזם במקרה היסטורי מסוים ומציע באמצעותה דרך לחשוב על דמוקרטיזציה בעיר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_no_likes_politician_responsiveness_public_opinion_summary_he",
+      "file": "democracy_no_likes_politician_responsiveness_public_opinion_summary_he.html",
+      "permalink": "/democracy_no_likes_politician_responsiveness_public_opinion_summary_he.html",
+      "sortKey": 202608230002,
+      "titleHe": "דווקא בלי לייקים: פוליטיקאים עשויים להגיב יותר לעמדה ציבורית ברשת",
+      "paperTitle": "The phantom effect of social media: the impact of no “likes” on politicians’ responsiveness to public opinion",
+      "authorsCardHe": "Talia Goren; Itai Beeri; Dana R. Vashdi",
+      "sourceAuthors": [
+        "Talia Goren",
+        "Itai Beeri",
+        "Dana R. Vashdi"
+      ],
+      "journal": "Journal of Information Technology & Politics, 20(3), 349–357",
+      "dateText": "פורסם לראשונה אונליין: 26 ביולי 2022; גיליון 2023",
+      "doiUrl": "https://doi.org/10.1080/19331681.2022.2106005",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_no_likes_politician_responsiveness_public_opinion_summary_he.jpg",
+        "altHe": "שלושה נבחרי ציבור בוחנים יחד טאבלט ריק לצד מפגש עם תושבים, המחשה לתגובה למידע מרשת חברתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "מדדי פופולריות כמו לייקים הם מאפיין מרכזי של רשתות חברתיות, ופוליטיקאים עשויים להשתמש בהם כאות לכך שעמדה או סדר יום זוכים לתמיכה רחבה. אלא שמספר הלייקים יכול להשתנות במהירות, ולכן תוכן שאינו פופולרי כעת עשוי להפוך בהמשך ללהיט. מכאן שהיעדר סימוני פופולריות אינו מלמד בהכרח שלתוכן אין פוטנציאל ציבורי. טליה גורן, איתי בארי ודנה ר׳ ושדי מכנים את הבעיה הזאת אפקט רפאים: גם כאשר אין לייקים גלויים, האפשרות לפופולריות עתידית ממשיכה להשפיע על הערכת הפוליטיקאי. בהישען על תורת הערך בתנאי אי־ודאות ועל היעדר עוגן מספרי, הם משערים שפוליטיקאים יהיו קשובים יותר לתוכן של דעת קהל ללא לייקים מאשר לתוכן שמוצג עם לייקים. ניסוי סקר בקרב 100 פוליטיקאים ישראלים תמך בהשערה הזאת. התוצאה מראה שמדד שנועד לפשט את קריאת דעת הקהל עלול גם לקבע הערכה ולהפחית קשב לתוכן, בעוד היעדרו משאיר את פוטנציאל הפופולריות פתוח. למחקר יש חשיבות לייצוג, משום שפוליטיקאים פוגשים ברשת רק חלק מן הציבור ומקבלים לצד המסר גם אותות כמותיים על תגובות אחרים. המחקר מודד היענות ניסויית ואינו קובע את גודל האפקט לאורך זמן או שינוי מדיניות בפועל. לכן הממצא תומך בטענה על היענות בניסוי, ולא בקביעה שכל תוכן נטול לייקים יקבל תשומת לב רבה יותר בכל פלטפורמה ובכל מערכת פוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_personalized_politics_weakened_parties_israel_summary_he",
+      "file": "democracy_personalized_politics_weakened_parties_israel_summary_he.html",
+      "permalink": "/democracy_personalized_politics_weakened_parties_israel_summary_he.html",
+      "sortKey": 202608230001,
+      "titleHe": "פוליטיקה אישית אינה חייבת להחליש מפלגות: הראיות מהכנסת",
+      "paperTitle": "Personalized politics and weakened parties—an axiom? Evidence from the Israeli case",
+      "authorsCardHe": "Avital Friedman; Chen Friedberg",
+      "sourceAuthors": [
+        "Avital Friedman",
+        "Chen Friedberg"
+      ],
+      "journal": "Party Politics, 27(2), 258–268",
+      "dateText": "פורסם לראשונה אונליין: 20 ביוני 2019; גיליון מרץ 2021",
+      "doiUrl": "https://doi.org/10.1177/1354068819855701",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_personalized_politics_weakened_parties_israel_summary_he.jpg",
+        "altHe": "פוליטיקאי משוחח למצלמה בחדר ישיבות שבו צוות בוחן מסמכים, המחשה לפוליטיקה אישית לצד עבודה ארגונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-23",
+      "dateModified": "2026-08-23",
+      "summaryHe": "פרסונליזציה פוליטית מתארת עלייה בכוחם של פוליטיקאים יחידים, שלרוב מוצגת כתהליך המתרחש על חשבון המפלגות. אביטל פרידמן וחן פרידברג מעמידות במבחן את ההנחה הזאת באמצעות בחינת השימוש של מחוקקים ישראלים בהצעות חוק פרטיות. הכלי מתאים במיוחד לבדיקה משום שהוא נחשב ביטוי מובהק לפעולה אישית של חבר פרלמנט. ניתוח מעמיק של השימוש בכלי בכנסת מצא כי גם בתוכו אפשר לזהות התנהגות המכוונת למפלגה. מכאן שהופעתה של פוליטיקה אישית בזירה הפרלמנטרית אינה מוכיחה כשלעצמה שהמפלגה נחלשת. המחקר בוחן גם באילו תנאים חברי כנסת נוטים יותר להפגין אוריינטציה מפלגתית בשימוש בהצעות חוק פרטיות. התנהגות בעלת אוריינטציה מפלגתית נמצאה סבירה יותר בקרב חברי מפלגות שבהן שיטת בחירת המועמדים בלעדית יותר, בקרב מפלגות אופוזיציה ובקרב מפלגות קטנות. התוצאה מחליפה הנחה גורפת בתמונה מותנית: אותו כלי יכול לשרת בולטות אישית ובה בעת להשתלב באינטרסים ובארגון מפלגתי. עם זאת, המחקר אינו טוען שכל צורה של פרסונליזציה מחזקת מפלגות או שהדפוס הישראלי חל בהכרח על כל מערכת פרלמנטרית. תרומתו היא להראות שצריך לבדוק את אופן השימוש בכלי ואת ההקשר המוסדי לפני שמסיקים שפעילות אישית פוגעת במפלגה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_government_third_sector_accountability_ambiguity_summary_he",
       "file": "democracy_government_third_sector_accountability_ambiguity_summary_he.html",

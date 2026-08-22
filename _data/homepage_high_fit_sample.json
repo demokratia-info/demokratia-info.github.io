@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-08-23",
   "sampleSize": 6,
-  "seed": "2026-08-22-homepage-high-fit",
+  "seed": "2026-08-23-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
-  "fullTextHighFitPaperCount": 7,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 790,
   "paperSlugs": [
-    "democracy_eurozone_bailouts_international_redistribution_preferences_summary_he",
+    "democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he",
     "democracy_inequality_good_governance_endemic_corruption_summary_he",
-    "democracy_weak_form_judicial_review_social_economic_rights_summary_he",
+    "democracy_state_deconstruction_summary_he",
     "democracy_populist_mobilisation_coalitional_framework_summary_he",
     "democracy_politicians_democratic_realists_representational_beliefs_summary_he",
     "democracy_prison_privatization_core_government_powers_summary_he"
