@@ -1,0 +1,32 @@
+[
+  {%- for person in include.people -%}
+    {%- assign person_type = person["@type"] | default: "Person" -%}
+    {%- assign identity = nil -%}
+    {%- if person_type == "Person" -%}
+      {%- assign identity = site.data.author_identities[person.name] -%}
+      {%- unless identity -%}
+        {%- assign fallback_index = forloop.index0 -%}
+        {%- assign fallback_person = include.fallback_people[fallback_index] -%}
+        {%- if fallback_person -%}
+          {%- assign identity = site.data.author_identities[fallback_person.name] -%}
+        {%- endif -%}
+      {%- endunless -%}
+    {%- endif -%}
+    {
+      "@type": {{ person_type | jsonify }},
+      "name": {{ person.name | jsonify }}
+      {%- if person.url %},
+      "url": {{ person.url | jsonify }}
+      {%- endif -%}
+      {%- if identity.affiliation %},
+      "affiliation": {
+        "@type": "Organization",
+        "name": {{ identity.affiliation | jsonify }}
+      }
+      {%- endif -%}
+      {%- if identity.sameAs %},
+      "sameAs": {{ identity.sameAs | jsonify }}
+      {%- endif %}
+    }{% unless forloop.last %},{% endunless %}
+  {%- endfor %}
+]

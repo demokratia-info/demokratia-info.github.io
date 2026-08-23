@@ -21,11 +21,11 @@
     "url": {{ "/" | absolute_url | jsonify }}
   },
   "about": {{ page.keywords | jsonify }},
-  "author": {{ page.authors | jsonify }},
+  "author": {% include person_nodes_json.html people=page.authors fallback_people=page.sourceAuthors %},
   "isBasedOn": {
     "@type": "ScholarlyArticle",
     "name": {{ page.paperTitle | jsonify }},
-    "author": {{ page.sourceAuthors | jsonify }}
+    "author": {% include person_nodes_json.html people=page.sourceAuthors fallback_people=page.authors %}
     {% if page.sourcePublishedDate %},
     "datePublished": {{ page.sourcePublishedDate | jsonify }}
     {% endif %}
