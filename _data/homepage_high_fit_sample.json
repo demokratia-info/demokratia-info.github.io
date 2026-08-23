@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-23",
+  "lastUpdated": "2026-08-24",
   "sampleSize": 6,
-  "seed": "2026-08-23-homepage-high-fit",
+  "seed": "2026-08-24-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 790,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_oversight_by_the_state_control_committee_in_the_israeli_parliament_form_of_accountability_under_stress_summary_he",
-    "democracy_inequality_good_governance_endemic_corruption_summary_he",
-    "democracy_state_deconstruction_summary_he",
-    "democracy_populist_mobilisation_coalitional_framework_summary_he",
-    "democracy_politicians_democratic_realists_representational_beliefs_summary_he",
-    "democracy_prison_privatization_core_government_powers_summary_he"
+    "democracy_religion_state_separation_comparative_summary_he",
+    "democracy_social_rights_constitution_practice_summary_he",
+    "democracy_ethno_national_populism_israel_1977_2022_summary_he",
+    "democracy_counterterrorism_legislation_human_rights_summary_he",
+    "democracy_interparty_contact_hostility_summary_he",
+    "democracy_unconstitutional_amendment_honduras_summary_he"
   ]
 }
