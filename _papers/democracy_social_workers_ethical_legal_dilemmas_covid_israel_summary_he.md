@@ -11,7 +11,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Michal Segal; Ayelet Gur",
   "paperTitle": "Ethical and legal dilemmas experienced by Israeli social workers during the COVID-19 pandemic",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8234-1439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Segal</a>; <a href=\"https://orcid.org/0000-0002-5764-0653\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-8234-1439\" target=\"_blank\" rel=\"noopener noreferrer\">Michal Segal</a>; <a href=\"https://orcid.org/0000-0002-9005-4736\" target=\"_blank\" rel=\"noopener noreferrer\">Ayelet Gur</a>",
   "journal": "Journal of Social Work",
   "dateText": "פורסם אונליין: 16 בפברואר 2023; כרך 23, גיליון 3, עמ׳ 411-427",
   "doiUrl": "https://doi.org/10.1177/14680173221144203",
@@ -25,7 +25,7 @@
     {
       "@type": "Person",
       "name": "Ayelet Gur",
-      "url": "https://orcid.org/0000-0002-5764-0653"
+      "url": "https://orcid.org/0000-0002-9005-4736"
     }
   ],
   "sourceAuthors": [
@@ -37,7 +37,7 @@
     {
       "@type": "Person",
       "name": "Ayelet Gur",
-      "url": "https://orcid.org/0000-0002-5764-0653"
+      "url": "https://orcid.org/0000-0002-9005-4736"
     }
   ],
   "topics": [

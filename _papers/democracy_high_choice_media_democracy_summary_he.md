@@ -13,7 +13,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Peter Van Aelst; Jesper Strömbäck; Toril Aalberg; Frank Esser; Claes de Vreese; Jörg Matthes; David Hopmann; Susana Salgado; Nicolas Hubé; Agnieszka Stępińska; Stylianos Papathanassopoulos; Rosa Berganza; Guido Legnante; Carsten Reinemann; Tamir Sheafer; James Stanyer",
   "paperTitle": "Political communication in a high-choice media environment: a challenge for democracy?",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2548-0309\" target=\"_blank\" rel=\"noopener noreferrer\">Peter Van Aelst</a>; <a href=\"https://orcid.org/0000-0001-7392-9791\" target=\"_blank\" rel=\"noopener noreferrer\">Jesper Strömbäck</a>; <a href=\"https://orcid.org/0000-0001-5461-1470\" target=\"_blank\" rel=\"noopener noreferrer\">Toril Aalberg</a>; <a href=\"https://orcid.org/0000-0002-1627-1521\" target=\"_blank\" rel=\"noopener noreferrer\">Frank Esser</a>; <a href=\"https://orcid.org/0000-0002-4962-1698\" target=\"_blank\" rel=\"noopener noreferrer\">Claes de Vreese</a>; <a href=\"https://orcid.org/0000-0001-9408-955X\" target=\"_blank\" rel=\"noopener noreferrer\">Jörg Matthes</a>; <a href=\"https://orcid.org/0000-0003-1089-0193\" target=\"_blank\" rel=\"noopener noreferrer\">David Hopmann</a>; <a href=\"https://orcid.org/0000-0002-7967-3763\" target=\"_blank\" rel=\"noopener noreferrer\">Susana Salgado</a>; <a href=\"https://orcid.org/0000-0001-7226-7546\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Hubé</a>; <a href=\"https://orcid.org/0000-0002-7361-2986\" target=\"_blank\" rel=\"noopener noreferrer\">Agnieszka Stępińska</a>; <a href=\"https://orcid.org/0000-0001-7946-6310\" target=\"_blank\" rel=\"noopener noreferrer\">Stylianos Papathanassopoulos</a>; <a href=\"https://orcid.org/0000-0002-6393-9707\" target=\"_blank\" rel=\"noopener noreferrer\">Rosa Berganza</a>; <a href=\"https://orcid.org/0000-0002-6411-052X\" target=\"_blank\" rel=\"noopener noreferrer\">Guido Legnante</a>; <a href=\"https://orcid.org/0000-0001-9715-8434\" target=\"_blank\" rel=\"noopener noreferrer\">Carsten Reinemann</a>; <a href=\"https://en.communication.huji.ac.il/people/prof-tamir-sheafer-0\" target=\"_blank\" rel=\"noopener noreferrer\">Tamir Sheafer</a>; <a href=\"https://orcid.org/0000-0002-4477-0678\" target=\"_blank\" rel=\"noopener noreferrer\">James Stanyer</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0002-2548-0309\" target=\"_blank\" rel=\"noopener noreferrer\">Peter Van Aelst</a>; <a href=\"https://orcid.org/0000-0001-7392-9791\" target=\"_blank\" rel=\"noopener noreferrer\">Jesper Strömbäck</a>; <a href=\"https://orcid.org/0000-0001-5461-1470\" target=\"_blank\" rel=\"noopener noreferrer\">Toril Aalberg</a>; <a href=\"https://orcid.org/0000-0002-1627-1521\" target=\"_blank\" rel=\"noopener noreferrer\">Frank Esser</a>; <a href=\"https://orcid.org/0000-0002-6676-7816\" target=\"_blank\" rel=\"noopener noreferrer\">Claes de Vreese</a>; <a href=\"https://orcid.org/0000-0001-9408-955X\" target=\"_blank\" rel=\"noopener noreferrer\">Jörg Matthes</a>; <a href=\"https://orcid.org/0000-0003-1089-0193\" target=\"_blank\" rel=\"noopener noreferrer\">David Hopmann</a>; <a href=\"https://orcid.org/0000-0002-7967-3763\" target=\"_blank\" rel=\"noopener noreferrer\">Susana Salgado</a>; <a href=\"https://orcid.org/0000-0001-7226-7546\" target=\"_blank\" rel=\"noopener noreferrer\">Nicolas Hubé</a>; <a href=\"https://orcid.org/0000-0002-7361-2986\" target=\"_blank\" rel=\"noopener noreferrer\">Agnieszka Stępińska</a>; <a href=\"https://orcid.org/0000-0001-7946-6310\" target=\"_blank\" rel=\"noopener noreferrer\">Stylianos Papathanassopoulos</a>; <a href=\"https://orcid.org/0000-0002-6393-9707\" target=\"_blank\" rel=\"noopener noreferrer\">Rosa Berganza</a>; <a href=\"https://orcid.org/0000-0002-6411-052X\" target=\"_blank\" rel=\"noopener noreferrer\">Guido Legnante</a>; <a href=\"https://orcid.org/0000-0001-9715-8434\" target=\"_blank\" rel=\"noopener noreferrer\">Carsten Reinemann</a>; <a href=\"https://en.communication.huji.ac.il/people/prof-tamir-sheafer-0\" target=\"_blank\" rel=\"noopener noreferrer\">Tamir Sheafer</a>; <a href=\"https://orcid.org/0000-0002-4477-0678\" target=\"_blank\" rel=\"noopener noreferrer\">James Stanyer</a>",
   "journal": "Annals of the International Communication Association, 41(1), 3–27",
   "dateText": "פורסם מקוון: 15 במרץ 2017; כרך 41, גיליון 1, עמ׳ 3–27",
   "doiUrl": "https://doi.org/10.1080/23808985.2017.1288551",
@@ -42,7 +42,7 @@
     {
       "@type": "Person",
       "name": "Claes de Vreese",
-      "url": "https://orcid.org/0000-0002-4962-1698"
+      "url": "https://orcid.org/0000-0002-6676-7816"
     },
     {
       "@type": "Person",
@@ -124,7 +124,7 @@
     {
       "@type": "Person",
       "name": "Claes de Vreese",
-      "url": "https://orcid.org/0000-0002-4962-1698"
+      "url": "https://orcid.org/0000-0002-6676-7816"
     },
     {
       "@type": "Person",

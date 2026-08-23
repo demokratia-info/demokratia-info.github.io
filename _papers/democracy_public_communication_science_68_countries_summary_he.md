@@ -10,7 +10,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward Maibach, Sabina Mihelj, Dana Harari, Atar Herziger ואחרים",
   "paperTitle": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5707-7568\" target=\"_blank\" rel=\"noopener noreferrer\">Niels G. Mede</a>, <a href=\"https://orcid.org/0000-0003-3706-8669\" target=\"_blank\" rel=\"noopener noreferrer\">Viktoria Cologna</a>, <a href=\"https://orcid.org/0000-0003-2392-1024\" target=\"_blank\" rel=\"noopener noreferrer\">Sebastian Berger</a>, <a href=\"https://orcid.org/0000-0002-8778-4973\" target=\"_blank\" rel=\"noopener noreferrer\">John C. Besley</a>, <a href=\"https://orcid.org/0000-0002-7174-8193\" target=\"_blank\" rel=\"noopener noreferrer\">Cameron Brick</a>, <a href=\"https://orcid.org/0000-0003-0178-1796\" target=\"_blank\" rel=\"noopener noreferrer\">Marina Joubert</a>, <a href=\"https://orcid.org/0000-0003-3409-9187\" target=\"_blank\" rel=\"noopener noreferrer\">Edward Maibach</a>, <a href=\"https://orcid.org/0000-0002-8557-2504\" target=\"_blank\" rel=\"noopener noreferrer\">Sabina Mihelj</a>, <a href=\"https://orcid.org/0000-0001-6105-7670\" target=\"_blank\" rel=\"noopener noreferrer\">Dana Harari</a>, <a href=\"https://orcid.org/0000-0002-3223-0132\" target=\"_blank\" rel=\"noopener noreferrer\">Atar Herziger</a> ואחרים",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5707-7568\" target=\"_blank\" rel=\"noopener noreferrer\">Niels G. Mede</a>, <a href=\"https://orcid.org/0000-0003-3706-8669\" target=\"_blank\" rel=\"noopener noreferrer\">Viktoria Cologna</a>, <a href=\"https://orcid.org/0000-0003-2392-1024\" target=\"_blank\" rel=\"noopener noreferrer\">Sebastian Berger</a>, <a href=\"https://orcid.org/0000-0002-8778-4973\" target=\"_blank\" rel=\"noopener noreferrer\">John C. Besley</a>, <a href=\"https://orcid.org/0000-0002-7174-8193\" target=\"_blank\" rel=\"noopener noreferrer\">Cameron Brick</a>, <a href=\"https://orcid.org/0000-0003-0178-1796\" target=\"_blank\" rel=\"noopener noreferrer\">Marina Joubert</a>, <a href=\"https://orcid.org/0000-0003-3409-9187\" target=\"_blank\" rel=\"noopener noreferrer\">Edward Maibach</a>, <a href=\"https://orcid.org/0000-0002-8557-2504\" target=\"_blank\" rel=\"noopener noreferrer\">Sabina Mihelj</a>, Dana Harari, <a href=\"https://orcid.org/0000-0002-3771-6446\" target=\"_blank\" rel=\"noopener noreferrer\">Atar Herziger</a> ואחרים",
   "journal": "Science Communication",
   "dateText": "פורסם אונליין: 21 באוקטובר 2025",
   "doiUrl": "https://doi.org/10.1177/10755470251376615",
@@ -58,13 +58,12 @@
     },
     {
       "@type": "Person",
-      "name": "Dana Harari",
-      "url": "https://orcid.org/0000-0001-6105-7670"
+      "name": "Dana Harari"
     },
     {
       "@type": "Person",
       "name": "Atar Herziger",
-      "url": "https://orcid.org/0000-0002-3223-0132"
+      "url": "https://orcid.org/0000-0002-3771-6446"
     }
   ],
   "sourceAuthors": [
@@ -110,13 +109,12 @@
     },
     {
       "@type": "Person",
-      "name": "Dana Harari",
-      "url": "https://orcid.org/0000-0001-6105-7670"
+      "name": "Dana Harari"
     },
     {
       "@type": "Person",
       "name": "Atar Herziger",
-      "url": "https://orcid.org/0000-0002-3223-0132"
+      "url": "https://orcid.org/0000-0002-3771-6446"
     }
   ],
   "topics": [

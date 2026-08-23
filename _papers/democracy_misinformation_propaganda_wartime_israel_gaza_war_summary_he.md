@@ -10,7 +10,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Nur Givon‐Benjio, Yaniv Reingewertz, Michael L. Gross",
   "paperTitle": "Susceptibility to misinformation and propaganda during wartime: Evidence from the Israel‐Gaza war",
-  "authorsHtml": "<a href=\"https://orcid.org/0009-0008-0093-0821\" target=\"_blank\" rel=\"noopener noreferrer\">Nur Givon‐Benjio</a>, <a href=\"https://orcid.org/0000-0002-6957-8623\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Reingewertz</a>, <a href=\"https://orcid.org/0000-0001-5835-7879\" target=\"_blank\" rel=\"noopener noreferrer\">Michael L. Gross</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0001-5885-9991\" target=\"_blank\" rel=\"noopener noreferrer\">Nur Givon‐Benjio</a>, <a href=\"https://orcid.org/0000-0002-6957-8623\" target=\"_blank\" rel=\"noopener noreferrer\">Yaniv Reingewertz</a>, <a href=\"https://orcid.org/0000-0001-5835-7879\" target=\"_blank\" rel=\"noopener noreferrer\">Michael L. Gross</a>",
   "journal": "Political Psychology",
   "dateText": "פורסם אונליין: 30 במרץ 2026; בגיליון: יוני 2026",
   "doiUrl": "https://doi.org/10.1111/pops.70127",
@@ -19,7 +19,7 @@
     {
       "@type": "Person",
       "name": "Nur Givon‐Benjio",
-      "url": "https://orcid.org/0009-0008-0093-0821"
+      "url": "https://orcid.org/0000-0001-5885-9991"
     },
     {
       "@type": "Person",
@@ -36,7 +36,7 @@
     {
       "@type": "Person",
       "name": "Nur Givon‐Benjio",
-      "url": "https://orcid.org/0009-0008-0093-0821"
+      "url": "https://orcid.org/0000-0001-5885-9991"
     },
     {
       "@type": "Person",

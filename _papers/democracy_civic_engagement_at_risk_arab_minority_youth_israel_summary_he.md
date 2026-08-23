@@ -10,7 +10,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Serene Dakak-Abed Al Wahad, Lana J. Jeries Loulou, Limor Goldner, Galit Yanay Ventura",
   "paperTitle": "Engaging for change: the influence of civic engagement on at-risk Arab minority youth in Israel",
-  "authorsHtml": "Serene Dakak-Abed Al Wahad, <a href=\"https://orcid.org/0000-0001-9085-9838\" target=\"_blank\" rel=\"noopener noreferrer\">Lana J. Jeries Loulou</a>, <a href=\"https://orcid.org/0000-0002-5237-8051\" target=\"_blank\" rel=\"noopener noreferrer\">Limor Goldner</a>, Galit Yanay Ventura",
+  "authorsHtml": "Serene Dakak-Abed Al Wahad, <a href=\"https://orcid.org/0000-0003-1286-2372\" target=\"_blank\" rel=\"noopener noreferrer\">Lana J. Jeries Loulou</a>, <a href=\"https://orcid.org/0000-0002-5237-8051\" target=\"_blank\" rel=\"noopener noreferrer\">Limor Goldner</a>, Galit Yanay Ventura",
   "journal": "Frontiers in Psychology",
   "dateText": "פורסם אונליין: 20 באפריל 2026",
   "doiUrl": "https://doi.org/10.3389/fpsyg.2026.1711399",
@@ -23,7 +23,7 @@
     {
       "@type": "Person",
       "name": "Lana J. Jeries Loulou",
-      "url": "https://orcid.org/0000-0001-9085-9838"
+      "url": "https://orcid.org/0000-0003-1286-2372"
     },
     {
       "@type": "Person",
@@ -43,7 +43,7 @@
     {
       "@type": "Person",
       "name": "Lana J. Jeries Loulou",
-      "url": "https://orcid.org/0000-0001-9085-9838"
+      "url": "https://orcid.org/0000-0003-1286-2372"
     },
     {
       "@type": "Person",

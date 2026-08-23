@@ -10,7 +10,7 @@
   "summarySourceStatus": "Based on full text",
   "authorsCardHe": "Neta Kligler-Vilenchik, Ori Tenenboim",
   "paperTitle": "Meso News-Spaces and Beyond: News-Related Communication Occurring Between the Public and Private Domains",
-  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>, <a href=\"https://orcid.org/0000-0001-7032-9721\" target=\"_blank\" rel=\"noopener noreferrer\">Ori Tenenboim</a>",
+  "authorsHtml": "<a href=\"https://orcid.org/0000-0003-3470-3305\" target=\"_blank\" rel=\"noopener noreferrer\">Neta Kligler-Vilenchik</a>, <a href=\"https://orcid.org/0000-0003-2350-9005\" target=\"_blank\" rel=\"noopener noreferrer\">Ori Tenenboim</a>",
   "journal": "Digital Journalism",
   "dateText": "פורסם אונליין: 9 במאי 2024; בגיליון: 27 במאי 2024",
   "doiUrl": "https://doi.org/10.1080/21670811.2024.2345201",
@@ -24,7 +24,7 @@
     {
       "@type": "Person",
       "name": "Ori Tenenboim",
-      "url": "https://orcid.org/0000-0001-7032-9721"
+      "url": "https://orcid.org/0000-0003-2350-9005"
     }
   ],
   "sourceAuthors": [
@@ -36,7 +36,7 @@
     {
       "@type": "Person",
       "name": "Ori Tenenboim",
-      "url": "https://orcid.org/0000-0001-7032-9721"
+      "url": "https://orcid.org/0000-0003-2350-9005"
     }
   ],
   "topics": [
