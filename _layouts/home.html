@@ -7,37 +7,73 @@
   {% capture home_intro %}{{ site.data.site.homeIntroHe }} {{ home_count_sentence }}{% endcapture %}
   {% assign title = site.data.site.homeTitleHe %}
   {% assign description = home_description | strip %}
+  {% capture search_url_template %}{{ "/" | absolute_url }}?q={search_term_string}{% endcapture %}
   {% include head.html title=title description=description type="website" image="HEB_bold.jpg" %}
   {% assign cache_version = site.data.site.cacheVersion | default: site.data.site.lastUpdated %}
   <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}?v={{ cache_version | uri_escape }}" rel="stylesheet">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": {{ site.data.site.homeTitleHe | jsonify }},
-  "description": {{ description | jsonify }},
-  "inLanguage": "he",
-  "url": {{ page.url | absolute_url | jsonify }},
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": {{ site.data.site.siteNameHe | jsonify }},
-    "url": {{ "/" | absolute_url | jsonify }}
-  },
-  "mainEntity": {
-    "@type": "ItemList",
-    "itemListElement": [
-      {% assign papers = site.papers | sort: "sortKey" | reverse %}
-      {% for paper in papers %}
-      {
-        "@type": "ListItem",
-        "position": {{ forloop.index }},
-        "url": {{ paper.url | absolute_url | jsonify }},
-        "name": {{ paper.titleHe | jsonify }},
-        "description": {{ paper.summaryHe | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ]
-  }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ "/#organization" | absolute_url | jsonify }},
+      "name": {{ site.data.site.organizationNameHe | jsonify }},
+      "url": {{ site.data.site.organizationUrl | jsonify }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ site.data.site.organizationLogo | absolute_url | jsonify }}
+      },
+      "sameAs": {{ site.data.site.organizationSameAs | jsonify }},
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "@id": {{ site.data.site.parentOrganizationUrl | append: "#organization" | jsonify }},
+        "name": {{ site.data.site.parentOrganizationNameHe | jsonify }},
+        "url": {{ site.data.site.parentOrganizationUrl | jsonify }}
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ "/#website" | absolute_url | jsonify }},
+      "name": {{ site.data.site.siteNameHe | jsonify }},
+      "url": {{ "/" | absolute_url | jsonify }},
+      "inLanguage": "he",
+      "publisher": { "@id": {{ "/#organization" | absolute_url | jsonify }} },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": {{ search_url_template | jsonify }}
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": {{ page.url | absolute_url | append: "#webpage" | jsonify }},
+      "name": {{ site.data.site.homeTitleHe | jsonify }},
+      "description": {{ description | jsonify }},
+      "inLanguage": "he",
+      "url": {{ page.url | absolute_url | jsonify }},
+      "isPartOf": { "@id": {{ "/#website" | absolute_url | jsonify }} },
+      "about": { "@id": {{ "/#organization" | absolute_url | jsonify }} },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {% assign papers = site.papers | sort: "sortKey" | reverse %}
+          {% for paper in papers %}
+          {
+            "@type": "ListItem",
+            "position": {{ forloop.index }},
+            "url": {{ paper.url | absolute_url | jsonify }},
+            "name": {{ paper.titleHe | jsonify }},
+            "description": {{ paper.summaryHe | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ]
+      }
+    }
+  ]
 }
   </script>
 </head>
@@ -159,6 +195,8 @@
           search_suggestion: "לא נמצאו תוצאות עבור [SEARCH_TERM]. כדאי לנסות את [DIFFERENT_TERM]"
         }
       });
+      const initialSearchTerm = new URLSearchParams(window.location.search).get("q");
+      if (initialSearchTerm) window.siteSearch.triggerSearch(initialSearchTerm);
     });
   </script>
 </body>

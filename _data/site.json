@@ -3,6 +3,14 @@
   "baseUrl": "https://democracy.tau.ac.il/",
   "feedbackSourceOrigins": "https://democracy.tau.ac.il,https://demokratia-info.github.io",
   "siteNameHe": "הנגשת מידע בנושאי דמוקרטיה",
+  "organizationNameHe": "מרכז אדמונד ולילי ספרא לאתיקה",
+  "organizationUrl": "https://en-ethics.tau.ac.il/",
+  "organizationLogo": "Safra Center Logo Green.jpg",
+  "organizationSameAs": [
+    "https://en-ethics.tau.ac.il/news/12-12-21_1921_1947_1971_1990_2001"
+  ],
+  "parentOrganizationNameHe": "אוניברסיטת תל אביב",
+  "parentOrganizationUrl": "https://www.tau.ac.il/",
   "homeTitleHe": "מאמרים נבחרים בנושא דמוקרטיה ושלטון החוק",
   "homeDescriptionHe": "מטרת המאגר היא להנגיש בעברית תקצירים של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
   "homeIntroHe": "מטרת המאגר היא להנגיש בעברית תקצירים של מאמרים אקדמיים שהתפרסמו באנגלית בנושא דמוקרטיה ושלטון החוק.",
