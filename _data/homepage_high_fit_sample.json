@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "sampleSize": 6,
-  "seed": "2026-08-25-homepage-high-fit",
+  "seed": "2026-08-26-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 3,
-  "fullTextHighFitPaperCount": 6,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 807,
   "paperSlugs": [
     "democracy_parliaments_government_termination_confidence_relationship_summary_he",
     "democracy_socioeconomic_status_psychological_mediation_participation_summary_he",
     "democracy_violence_palestinian_public_opinion_second_intifada_summary_he",
-    "democracy_human_rights_ngo_social_space_power_summary_he",
-    "democracy_political_violence_extremism_stress_process_summary_he",
+    "democracy_ministerial_emergency_powers_over_court_administration_in_the_israeli_judiciary_summary_he",
+    "democracy_students_perceptions_of_global_citizenship_at_a_local_and_an_international_school_in_israel_summary_he",
     "democracy_securitization_islam_religious_discrimination_summary_he"
   ]
 }

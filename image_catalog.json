@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -37334,6 +37334,306 @@
       "createdDate": "2026-08-25",
       "sourceType": "generated",
       "source": "OpenAI image generation during 2026-08-25 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_procedural_judicial_review_constitutional_lawmaking_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_procedural_judicial_review_constitutional_lawmaking_israel_summary_he.html",
+      "usedBy": [
+        "democracy_procedural_judicial_review_constitutional_lawmaking_israel_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית על הליך חקיקת חוקי יסוד בישראל",
+      "authorsHe": "Gonen Ilan; Gal Rosilio",
+      "visualDescriptionHe": "חברי ועדה ויועצים משפטיים בוחנים ערמות של מסמכי חקיקה תחת לחץ זמן בחדר מוסדי.",
+      "semanticDescriptionHe": "המחשה עריכתית לבחינת איכות ההשתתפות והדיון בהליך חוקתי; האנשים, החדר והמסמכים בדיוניים ואינם משחזרים דיון מסוים בכנסת.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "ביקורת שיפוטית הליכית",
+        "חוקי יסוד",
+        "הליך חקיקה"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific constitutional-committee scene generated without readable text, logos, flags, watermarks, or UI and finished as an 800x600 progressive JPEG. High fitness because the committee, draft legislation, participation, and visible time pressure closely match the full-text paper's procedural-review argument.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_india_sociocultural_democratic_backsliding_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_india_sociocultural_democratic_backsliding_summary_he.html",
+      "usedBy": [
+        "democracy_india_sociocultural_democratic_backsliding_summary_he.html"
+      ],
+      "cardTitleHe": "היסוד החברתי־תרבותי בנסיגה הדמוקרטית של הודו",
+      "authorsHe": "Meirav Mishali-Ram",
+      "visualDescriptionHe": "אזרחים הודים מרקעים ומדורות שונים מקיימים דיון ציבורי בחדר קהילתי הפתוח אל כיכר הומה.",
+      "semanticDescriptionHe": "המחשה עריכתית למתח בין פלורליזם אזרחי לבין לחצים רובניים בהודו; האנשים והמקום בדיוניים ואינם מקרה שנחקר במאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "הודו",
+        "רובנות",
+        "תרבות פוליטית"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific Indian civic-deliberation scene generated without readable text, party logos, leader likenesses, watermarks, or UI and finished as an 800x600 progressive JPEG. Standard fitness because it evokes pluralism and majoritarian pressure contextually without depicting the historical periods in the abstract.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_presidential_parliamentarism_direct_prime_minister_election_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_presidential_parliamentarism_direct_prime_minister_election_israel_summary_he.html",
+      "usedBy": [
+        "democracy_presidential_parliamentarism_direct_prime_minister_election_israel_summary_he.html"
+      ],
+      "cardTitleHe": "פרלמנטריזם נשיאותי: הבחירה הישירה לראשות הממשלה בישראל",
+      "authorsHe": "Reuven Y. Hazan",
+      "visualDescriptionHe": "מבט רחב אל אולם מליאת הכנסת בעת ישיבה, ובו חברי הכנסת ליד שולחנותיהם.",
+      "semanticDescriptionHe": "תצלום תיעודי של הזירה הפרלמנטרית הישראלית המתאים לדיון במבנה המשטר וביחסי הממשלה והכנסת; הוא אינו מתעד את רפורמת הבחירה הישירה או אירוע מן המאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "הכנסת",
+        "בחירה ישירה",
+        "משטר פרלמנטרי"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons documentary photograph of the Knesset plenum, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it directly depicts Israel's parliament but not the 1990s electoral reform analyzed in the abstract.",
+      "createdDate": "2026-08-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Itzik Edri / PikiWiki Israel / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "creator": "Itzik Edri",
+      "provider": "PikiWiki Israel / Wikimedia Commons",
+      "fileTitle": "PikiWiki Israel 7260 Knesset-Room.jpg",
+      "sourceDimensions": "1500x1000",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_undecided_voters_israeli_election_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_undecided_voters_israeli_election_summary_he.html",
+      "usedBy": [
+        "democracy_undecided_voters_israeli_election_summary_he.html"
+      ],
+      "cardTitleHe": "לא כל המתלבטים דומים: שני טיפוסים של בוחרים בבחירות בישראל",
+      "authorsHe": "Moran Yarchi; Gadi Wolfsfeld; Tal Samuel-Azran",
+      "visualDescriptionHe": "בוחרים משוחחים ליד בית קפה ולוח מידע קהילתי ובוחנים חומרי בחירות ומכשירי טלפון.",
+      "semanticDescriptionHe": "המחשה עריכתית להבדלים בדרך שבה בוחרים מתלבטים אוספים מידע ומגיעים להחלטה; הדמויות והחומרים בדיוניים ואינם משתתפי הסקרים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "בוחרים מתלבטים",
+        "בחירות 2019",
+        "שימוש בתקשורת"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific voter-deliberation scene generated without readable text, party logos, flags, watermarks, or UI overlays and finished as an 800x600 progressive JPEG. Standard fitness because it represents electoral indecision and information use without claiming to show survey respondents.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_proportionality_populism_constitutional_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_proportionality_populism_constitutional_rights_summary_he.html",
+      "usedBy": [
+        "democracy_proportionality_populism_constitutional_rights_summary_he.html"
+      ],
+      "cardTitleHe": "מידתיות בעידן הפופוליזם: מתי איזון זכויות אינו מספיק?",
+      "authorsHe": "Moshe Cohen-Eliya; Iddo Porat",
+      "visualDescriptionHe": "מבקרים ניצבים במבואה הגאומטרית של בית המשפט העליון בירושלים ומביטים אל חללי המוסד.",
+      "semanticDescriptionHe": "תצלום תיעודי של בית המשפט העליון המתאים להקשר של ביקורת חוקתית והגנת זכויות; הוא אינו מתעד הליך מידתיות, פסק דין או מקרה שנדונו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "מידתיות",
+        "פופוליזם",
+        "זכויות חוקתיות"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons documentary photograph of the Israeli Supreme Court foyer, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it supplies a concrete constitutional-court setting but does not visualize proportionality doctrine or the paper's red-line proposal.",
+      "createdDate": "2026-08-26",
+      "sourceType": "wikimedia_commons",
+      "source": "Djampa / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:West_Jerusalem_Supreme_Court_Foyer.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/West_Jerusalem_Supreme_Court_Foyer.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Djampa",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "West Jerusalem Supreme Court Foyer.jpg",
+      "sourceDimensions": "3264x2448",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_human_rights_organizations_values_dilemmas_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_human_rights_organizations_values_dilemmas_summary_he.html",
+      "usedBy": [
+        "democracy_human_rights_organizations_values_dilemmas_summary_he.html"
+      ],
+      "cardTitleHe": "ערכים בפעולה: הדילמות של ארגוני זכויות אדם בישראל",
+      "authorsHe": "Noam Hofstadter",
+      "visualDescriptionHe": "צוות קטן של פעילי זכויות אדם דן בתיקי מקרה ובמסמכי עבודה בחדר עמותה צנוע.",
+      "semanticDescriptionHe": "המחשה עריכתית להתלבטות ערכית וללמידה ארגונית בעבודת זכויות אדם; הדמויות, המשרד והתיקים בדיוניים ואינם אחד משלושת הארגונים שנחקרו.",
+      "tags": [
+        "rights-equality-minorities",
+        "ארגוני זכויות אדם",
+        "ערכים ארגוניים",
+        "דילמות מעשיות"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific NGO-deliberation scene generated without readable text, logos, flags, slogans, watermarks, or UI and finished as an 800x600 progressive JPEG. Standard fitness because it closely evokes organizational deliberation while avoiding identification of the three organizations in the abstract.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_arab_minority_parliamentary_politics_elections_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_arab_minority_parliamentary_politics_elections_summary_he.html",
+      "usedBy": [
+        "democracy_arab_minority_parliamentary_politics_elections_summary_he.html"
+      ],
+      "cardTitleHe": "גבולות הפוליטיקה הפרלמנטרית של המיעוט הערבי בבחירות 1992 ו־1996",
+      "authorsHe": "As'ad Ghanem",
+      "visualDescriptionHe": "אזרחים ערבים בני דורות שונים מתכנסים בחדר קהילתי ומכינים חומרי השתתפות פוליטית מול נוף הכנסת.",
+      "semanticDescriptionHe": "המחשה עריכתית למתח בין התארגנות אזרחית לבין ייצוג במוסדות המדינה; האנשים והמקום בדיוניים ואינם משתתפים בבחירות 1992 או 1996.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "המיעוט הערבי",
+        "ייצוג פרלמנטרי",
+        "בחירות בישראל"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific Arab civic-organizing scene generated without readable text, party logos, flags, watermarks, UI, or stereotypes and finished as an 800x600 progressive JPEG. Standard fitness because it represents participation and institutional distance without inventing the article's unavailable evidence.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_facebook_israeli_elections_equalization_normalization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_facebook_israeli_elections_equalization_normalization_summary_he.html",
+      "usedBy": [
+        "democracy_facebook_israeli_elections_equalization_normalization_summary_he.html"
+      ],
+      "cardTitleHe": "פייסבוק ובחירות 2013: שוויון דיגיטלי בין מתמודדים חדשים למכהנים",
+      "authorsHe": "Tal Samuel-Azran; Moran Yarchi; Gadi Wolfsfeld",
+      "visualDescriptionHe": "צוות קמפיין וחוקרי תקשורת בוחנים נתוני מעורבות ברשת במשרד בחירות מתקופת 2013.",
+      "semanticDescriptionHe": "המחשה עריכתית להשוואת תשומת לב מקוונת למועמדים מבוססים ומאתגרים; הדמויות, המסכים והקמפיין בדיוניים ואינם משחזרים פוסטים שנכללו במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "בחירות 2013",
+        "פייסבוק",
+        "שוויון תקשורתי"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific 2013-era campaign research scene uses blank physical post cards and engagement markers, generated without readable text, visible screens, social-media logos, flags, leader portraits, watermarks, or UI and finished as an 800x600 progressive JPEG. High fitness because the collaborative comparison of engagement patterns closely matches the verified full-text study.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_media_motivation_elite_rhetoric_comparative_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_media_motivation_elite_rhetoric_comparative_summary_he.html",
+      "usedBy": [
+        "democracy_media_motivation_elite_rhetoric_comparative_summary_he.html"
+      ],
+      "cardTitleHe": "כשהתקשורת מתגמלת פשטות: מניעי מדיה והרטוריקה של חברי פרלמנט",
+      "authorsHe": "Eran Amsalem; Tamir Sheafer; Stefaan Walgrave; Peter John Loewen; Stuart N. Soroka",
+      "visualDescriptionHe": "נבחר ציבור נואם באזור עיתונות פרלמנטרי מול מצלמות, כתבים ויועצים.",
+      "semanticDescriptionHe": "המחשה עריכתית לתמריץ התקשורתי שעשוי לפשט מסרים של פוליטיקאים; הדמויות והמוסד בדיוניים ואינם אחד מ־111 המחוקקים שנחקרו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "רטוריקה פוליטית",
+        "מוטיבציה תקשורתית",
+        "מחוקקים"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific parliamentary press scene generated without readable text, logos, flags, watermarks, or UI and finished as an 800x600 progressive JPEG. High fitness because it directly depicts the media-facing incentive and elite rhetoric tested in the verified full-text comparative study.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_semiprocedural_judicial_review_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_semiprocedural_judicial_review_summary_he.html",
+      "usedBy": [
+        "democracy_semiprocedural_judicial_review_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית סמי־פרוצדורלית: כשהליך החקיקה נעשה מבחן חוקתי",
+      "authorsHe": "Ittai Bar-Siman-Tov",
+      "visualDescriptionHe": "שופטים ועוזרי משפט בוחנים ערמות של חומרי חקיקה לא מסומנים בחדר מוסדי, כשוועדה פרלמנטרית נראית מבעד לדלת.",
+      "semanticDescriptionHe": "המחשה עריכתית לביקורת המשלבת בדיקת הליך החקיקה עם הגנה על זכויות; הדמויות, המוסדות והחומרים בדיוניים ואינם מתעדים מקרה מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "ביקורת שיפוטית",
+        "הליך חקיקה",
+        "ביקורת סמי־הליכית"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific court review scene generated with fully blank legislative materials and without readable text, logos, flags, portraits, visible screens, watermarks, or UI, then finished as an 800x600 progressive JPEG. High fitness because the visual link between judges reviewing a legislative record and a committee meeting closely matches the verified full-text article's combined procedural and substantive doctrine.",
+      "createdDate": "2026-08-26",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-26 nightly heartbeat",
       "license": "Generated site asset",
       "creator": "OpenAI image generation",
       "provider": "OpenAI",
