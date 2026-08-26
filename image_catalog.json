@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -37639,6 +37639,306 @@
       "provider": "OpenAI",
       "fitness": "high",
       "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_judicial_review_legality_fuller_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_judicial_review_legality_fuller_summary_he.html",
+      "usedBy": [
+        "democracy_judicial_review_legality_fuller_summary_he.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית על חוקיות החוק",
+      "authorsHe": "Natalie R. Davidson; Leora Bilsky",
+      "visualDescriptionHe": "שופט ושני חוקרי משפט בוחנים גיליונות נייר ריקים סביב שולחן עץ, ואזרחים נראים מאחורי מחיצת זכוכית.",
+      "semanticDescriptionHe": "המחשה עריכתית לבחינת צורת החוק וליחסי ההדדיות בין מוסדות משפט לאזרחים; הדמויות בדיוניות והגיליונות הריקים אינם חוקים או חומרי מקרה מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "ביקורת שיפוטית",
+        "חוקיות החוק",
+        "לון פולר"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific legality-review scene was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because the judge, legal researchers, blank legal sheets, and citizens behind glass closely visualize judicial scrutiny and reciprocity; limitation: it is a fictional editorial scene and does not reproduce legislation, litigants, or evidence from the article.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_constitutional_filibuster_israel_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_constitutional_filibuster_israel_summary_he.html",
+      "usedBy": [
+        "democracy_constitutional_filibuster_israel_summary_he.html"
+      ],
+      "cardTitleHe": "לחשוב מחדש על תפקיד הפיליבסטר בהליך החוקתי",
+      "authorsHe": "Gal Rosilio",
+      "visualDescriptionHe": "תצלום תיעודי של ישיבה פעילה במליאת הכנסת, ובה חברי הכנסת יושבים בדוכנים וברחבי האולם.",
+      "semanticDescriptionHe": "התצלום מציג את הזירה המוסדית שבה מתנהלים נאומים, הסתייגויות והצבעות בכנסת; הוא אינו מתעד פיליבסטר מסוים, את תיקון חוק־יסוד: השפיטה או אירוע שנחקר במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "פיליבסטר",
+        "הכנסת"
+      ],
+      "reuseGuidance": "Cataloged for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Documentary Wikimedia Commons photograph was center-cropped/resized from 1500x1000 and finished as an 800x600 progressive JPEG. High fitness because it directly depicts an active Knesset plenary, the institutional setting of the article; limitation: the photographed sitting is not identified as a filibuster or constitutional-law proceeding.",
+      "createdDate": "2026-08-27",
+      "sourceType": "wikimedia_commons",
+      "source": "PikiWiki Israel / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/PikiWiki_Israel_7260_Knesset-Room.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "creator": "איציק אדרי-Itzik Edri",
+      "provider": "PikiWiki Israel / Wikimedia Commons",
+      "fileTitle": "PikiWiki Israel 7260 Knesset-Room.jpg",
+      "sourceDimensions": "1500x1000",
+      "fitness": "high",
+      "fitnessSource": "nightly_wikimedia_specific"
+    },
+    {
+      "file": "html_qa/democracy_belligerent_occupation_judicial_discretion_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_belligerent_occupation_judicial_discretion_summary_he.html",
+      "usedBy": [
+        "democracy_belligerent_occupation_judicial_discretion_summary_he.html"
+      ],
+      "cardTitleHe": "בג״ץ וההרחבה ההדרגתית של שיקול הדעת בדיני תפיסה לוחמתית",
+      "authorsHe": "Guy Harpaz; Yuval Shany",
+      "visualDescriptionHe": "שופטים, עורכי דין וקצינים במדים בוחנים דגם תבליט של דרך, כשכביש ממשי נראה מעבר לחלון.",
+      "semanticDescriptionHe": "המחשה עריכתית לביקורת משפטית על שיקול דעת צבאי בניהול דרך בשטח הנתון לתפיסה לוחמתית; הדמויות, דגם השטח והכביש בדיוניים ואינם מתעדים את כביש 443 או את ההליך המשפטי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "תפיסה לוחמתית",
+        "כביש 443"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific legal-military road-review scene was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because the joint examination of a terrain model and road directly evokes judicial review of military discretion over Route 443; limitation: it is a fictional scene and does not identify the actual judges, officers, petitioners, terrain, or road.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_democratic_collapse_five_risk_factors_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_democratic_collapse_five_risk_factors_summary_he.html",
+      "usedBy": [
+        "democracy_democratic_collapse_five_risk_factors_summary_he.html"
+      ],
+      "cardTitleHe": "מדוע דמוקרטיות קורסות?",
+      "authorsHe": "Abraham Diskin; Hanna Diskin; Reuven Y. Hazan",
+      "visualDescriptionHe": "חוקרים משווים תיקי מקרה ומפות סביב שולחן, ולצדם דגמים של מוסדות ציבור שלמים ופגועים.",
+      "semanticDescriptionHe": "המחשה עריכתית להשוואת מקרי יציבות וקריסה דמוקרטית באמצעות משתנים מוסדיים וחברתיים; התיקים, המפות והדגמים בדיוניים ואינם מייצגים מדינות או קידודים מסוימים מן המחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "קריסה דמוקרטית",
+        "יציבות משטרית",
+        "מחקר השוואתי"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Comparative democratic-stability research scene was center-cropped/resized and finished as an 800x600 progressive JPEG. Standard fitness because intact and damaged institutional models convey democratic survival and collapse, while the generic folders and maps do not depict the article's 30 collapse cases, 32 stable democracies, or five measured risk factors.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_populist_political_budget_cycle_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_populist_political_budget_cycle_summary_he.html",
+      "usedBy": [
+        "democracy_populist_political_budget_cycle_summary_he.html"
+      ],
+      "cardTitleHe": "מנהיגים פופוליסטים ומחזור התקציב הפוליטי",
+      "authorsHe": "Assaf Shmuel",
+      "visualDescriptionHe": "אנליסטים פיסקליים בוחנים פנקסי תקציב סביב שולחן, כשקהל פוליטי מטושטש נראה מחוץ לחלון.",
+      "semanticDescriptionHe": "המחשה עריכתית לבחינת שינויי תקציב סביב בחירות וללחץ הפוליטי שמולו פועלים מקבלי החלטות; האנליסטים, הפנקסים והקהל בדיוניים ואינם נתונים, מנהיגים או בוחרים מן המחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "מחזור תקציב פוליטי",
+        "מנהיגים פופוליסטים"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific fiscal-analysis scene was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because budget ledgers and the blurred political crowd directly connect fiscal choices to electoral pressure; limitation: the scene is fictional and the blank ledgers do not reproduce the cross-national dataset or estimates.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_legislative_discontinuity_carryover_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_legislative_discontinuity_carryover_summary_he.html",
+      "usedBy": [
+        "democracy_legislative_discontinuity_carryover_summary_he.html"
+      ],
+      "cardTitleHe": "להחיות חקיקה — או להתחיל מחדש?",
+      "authorsHe": "Rivka Weill",
+      "visualDescriptionHe": "פקידים פרלמנטריים מעבירים תיקיות ישנות לארכיון ומניחים לצדן תיקיות חדשות ליד אולם מליאה.",
+      "semanticDescriptionHe": "המחשה עריכתית לבחירה בין פקיעת הצעות חוק בסוף כהונה לבין העברתן לפרלמנט הבא; הפקידים, המוסד והתיקיות בדיוניים ואינם מתעדים הליך חקיקה ממשי.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "אי־רציפות חקיקתית",
+        "החייאת הצעות חוק"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific legislative-transition scene was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because archiving old folders and opening new ones beside a chamber directly visualizes discontinuity versus carryover; limitation: the generic blank folders and fictional parliament do not show any bill or jurisdiction analyzed in the article.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_israel_multicultural_recognition_distribution_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_israel_multicultural_recognition_distribution_summary_he.html",
+      "usedBy": [
+        "democracy_israel_multicultural_recognition_distribution_summary_he.html"
+      ],
+      "cardTitleHe": "ישראל כדמוקרטיה רב־תרבותית",
+      "authorsHe": "Yossi Yonah",
+      "visualDescriptionHe": "אזרחים מרקעים מגוונים דנים יחד בדגם עירוני המונח על שולחן ציבורי.",
+      "semanticDescriptionHe": "המחשה עריכתית לדיון משותף בעיצוב מוסדות ומרחבים בחברה רב־תרבותית; הדמויות והדגם בדיוניים ואינם מייצגים קבוצה מסוימת, הסדר מוצע או משתתפים מן המאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "רב־תרבותיות",
+        "הכרה וחלוקה מחדש"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific multicultural civic-deliberation scene was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because diverse citizens jointly examining an urban model closely evokes recognition, distribution, and the design of shared public space; limitation: it is a fictional inclusive scene and does not portray the Israeli groups or institutional arrangements discussed in the article.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_proportionality_culture_justification_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_proportionality_culture_justification_summary_he.html",
+      "usedBy": [
+        "democracy_proportionality_culture_justification_summary_he.html"
+      ],
+      "cardTitleHe": "מידתיות ותרבות ההצדקה",
+      "authorsHe": "Moshe Cohen-Eliya; Iddo Porat",
+      "visualDescriptionHe": "נציג ציבור מציג מסמכים וחלופות בפני משתתפים בשימוע מוסדי.",
+      "semanticDescriptionHe": "המחשה עריכתית לחובת הרשות להסביר תכלית, ראיות וחלופות כאשר היא מצדיקה פגיעה בזכות; הדמויות, המסמכים והשימוע בדיוניים ואינם מקרה משפטי או מוסד מסוים מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "מידתיות",
+        "תרבות ההצדקה",
+        "חובת הנמקה"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-justification hearing was center-cropped/resized and finished as an 800x600 progressive JPEG. High fitness because an official presenting documents and alternatives directly visualizes reason-giving and least-restrictive-means review; limitation: the fictional hearing does not depict a named court, proportionality case, or actual evidence.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_cultural_origins_populism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_cultural_origins_populism_summary_he.html",
+      "usedBy": [
+        "democracy_cultural_origins_populism_summary_he.html"
+      ],
+      "cardTitleHe": "השורשים התרבותיים של הפופוליזם",
+      "authorsHe": "Yotam Margalit; Shir Raviv; Omer Solodoch",
+      "visualDescriptionHe": "חוקרים משווים תצלומי קהילות ונופים עם חומרי סקר הפרושים על שולחן.",
+      "semanticDescriptionHe": "המחשה עריכתית להשוואת סיפורי תרעומת תרבותיים באמצעות חומרי סקר חוצי מדינות; החוקרים, התצלומים והטפסים בדיוניים ואינם נתוני ESS או ANES, משיבים או קהילות שנבדקו.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "פופוליזם ימני",
+        "סקר השוואתי"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Comparative cultural-storyline research scene was center-cropped/resized and finished as an 800x600 progressive JPEG. Standard fitness because community and landscape photographs beside survey material convey cross-national comparison, while the generic fictional materials do not show the five operationalized profiles, countries, respondents, or measured results.",
+      "createdDate": "2026-08-27",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-27 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_local_authority_nonprofit_collaboration_pressure_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_local_authority_nonprofit_collaboration_pressure_summary_he.html",
+      "usedBy": [
+        "democracy_local_authority_nonprofit_collaboration_pressure_summary_he.html"
+      ],
+      "cardTitleHe": "אל תלחצו חזק מדי: ניהול שותפויות בין רשויות לעמותות",
+      "authorsHe": "Anna Uster; Itai Beeri; Dana Vashdi",
+      "visualDescriptionHe": "תצלום תיעודי של ועדה עירונית־מחוזית המאזינה לדובר מן הציבור בחדר ישיבות.",
+      "semanticDescriptionHe": "התצלום מציג דיון ציבורי בממשל מקומי ומתאים להקשר של שיתוף וקבלת החלטות ברשת; הוא אינו מתעד רשות ישראלית, מרכז צעירים, עמותה או משתתף מן המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "שלטון מקומי",
+        "עמותות",
+        "משילות מכלילה"
+      ],
+      "reuseGuidance": "Cataloged for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Documentary Wikimedia Commons photograph was center-cropped/resized from 4894x3263 and finished as an 800x600 progressive JPEG. Standard fitness because it shows a real city-county committee hearing a public speaker and thus a concrete local-governance setting; limitation: it does not depict the Israeli nonprofit networks, managerial behaviors, or service-performance data studied in the article.",
+      "createdDate": "2026-08-27",
+      "sourceType": "wikimedia_commons",
+      "source": "Seattle City Council / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joint_City-County_Council_Transportation_Committee_mtg_(25845163764).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Joint_City-County_Council_Transportation_Committee_mtg_%2825845163764%29.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Seattle City Council",
+      "provider": "Seattle City Council / Wikimedia Commons",
+      "fileTitle": "Joint City-County Council Transportation Committee mtg (25845163764).jpg",
+      "sourceDimensions": "4894x3263",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_documentary"
     }
   ],
   "topicGraphics": [
