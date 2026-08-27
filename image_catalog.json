@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -37939,6 +37939,327 @@
       "sourceDimensions": "4894x3263",
       "fitness": "standard",
       "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_ultra_orthodox_curriculum_human_rights_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ultra_orthodox_curriculum_human_rights_summary_he.html",
+      "usedBy": [
+        "democracy_ultra_orthodox_curriculum_human_rights_summary_he.html"
+      ],
+      "cardTitleHe": "בחירות בתוכניות הלימודים בקהילות יהודיות חרדיות",
+      "authorsHe": "Lotem Perry-Hazan",
+      "visualDescriptionHe": "אנשי חינוך מן הקהילה החרדית ואשת מדיניות בוחנים יחד תיקי תוכנית לימודים בספרייה בית־ספרית.",
+      "semanticDescriptionHe": "המחשה עריכתית למשא ומתן על התאמת תוכנית לימודים חרדית לדרישות חינוך וזכויות; הדמויות והמסמכים בדיוניים ואינם קהילה, בית ספר או חומר מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "ultra_orthodox_education",
+        "curriculum",
+        "right_to_education",
+        "conditional_funding"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific curriculum-policy meeting was center-cropped and finished as an 800x600 progressive JPEG. High fitness because the joint review of school materials directly evokes the paper's comparison of community choice, curricular standards, and public oversight; limitation: the scene is fictional and does not portray any of the four jurisdictions studied.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_transnational_nuclear_free_civil_society_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_transnational_nuclear_free_civil_society_summary_he.html",
+      "usedBy": [
+        "democracy_transnational_nuclear_free_civil_society_summary_he.html"
+      ],
+      "cardTitleHe": "תנועות חוצות־גבולות מול מדינה חשאית",
+      "authorsHe": "Uri Ben-Eliezer; Adriana Kemp",
+      "visualDescriptionHe": "פעילים בחדר עבודה משנות השמונים בוחנים תצלומים ומכתבים ליד מתחם תעשייתי סגור לעת ערב.",
+      "semanticDescriptionHe": "המחשה עריכתית לרשת מחאה חוצת־גבולות המנסה לפתוח סוד מדינתי לדיון ציבורי; הדמויות, התצלומים והמקום בדיוניים ואינם ואנונו, פעילים או מתקן שנבחנו במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "transnational_movements",
+        "civil_society",
+        "state_secrecy",
+        "nuclear_opacity"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific period activist-research scene was center-cropped and finished as an 800x600 progressive JPEG. High fitness because a transnational-looking group working from photographs beside an opaque industrial site closely evokes the article's movement-versus-secret-state dynamic; limitation: it is fictional and does not recreate the Vanunu disclosure, Dimona, or an actual campaign office.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_online_giants_digital_democratic_sphere_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_online_giants_digital_democratic_sphere_summary_he.html",
+      "usedBy": [
+        "democracy_online_giants_digital_democratic_sphere_summary_he.html"
+      ],
+      "cardTitleHe": "מי מנהל את כיכר העיר הדיגיטלית?",
+      "authorsHe": "Orit Fischman-Afori",
+      "visualDescriptionHe": "נציגת ציבור מדברת בשימוע מוסדי על פיקוח דיגיטלי בפני חברי ועדה וקהל.",
+      "semanticDescriptionHe": "המחשה עריכתית לחובות שקיפות, הנמקה וביקורת עצמאית על ממשל תוכן בידי פלטפורמות; הדמויות והמוסד בדיוניים ואינם חברה, רגולטור או הליך שנבדקו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "online_platforms",
+        "content_moderation",
+        "global_administrative_law",
+        "digital_speech"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-oversight hearing was center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because the visible, contestable institutional forum contrasts with the private moderation black box criticized in the article, but the scene does not visibly identify digital platforms, content moderation, a named regulator, or a legislative proposal.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
+    },
+    {
+      "file": "html_qa/democracy_ultra_orthodox_disability_rights_translation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_ultra_orthodox_disability_rights_translation_summary_he.html",
+      "usedBy": [
+        "democracy_ultra_orthodox_disability_rights_translation_summary_he.html"
+      ],
+      "cardTitleHe": "לתרגם זכויות אנשים עם מוגבלות בתוך החברה החרדית",
+      "authorsHe": "Zvika Orr; Shifra Unger; Adi Finkelstein",
+      "visualDescriptionHe": "צעיר חרדי המשתמש בכיסא גלגלים מציג צורך נגישות במפגש קהילתי עם אנשי מקצוע ונציגי הקהילה.",
+      "semanticDescriptionHe": "המחשה עריכתית לתיווך דו־כיווני בין זכויות אנשים עם מוגבלות, מוסדות המדינה ועולמה של קהילה חרדית; הדמויות והמקום בדיוניים ואינם מרואיינים או אתר מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "disability_rights",
+        "ultra_orthodox_communities",
+        "human_rights_translation",
+        "accessibility"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific disability-rights mediation scene was center-cropped and finished as an 800x600 progressive JPEG. High fitness because an accessible community meeting directly conveys the translators' position between community members and institutional systems; limitation: it is a respectful fictional scene and does not illustrate the less visible disabilities emphasized in many interviews.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_protest_participation_repertoires_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_protest_participation_repertoires_summary_he.html",
+      "usedBy": [
+        "democracy_protest_participation_repertoires_summary_he.html"
+      ],
+      "cardTitleHe": "מחאה היא רק מעשה פוליטי אחד",
+      "authorsHe": "Jennifer Oser",
+      "visualDescriptionHe": "אזרחים מתייעצים סביב קלפי קהילתית בעוד הפגנה שקטה נראית מחוץ לחלון.",
+      "semanticDescriptionHe": "המחשה עריכתית לכך שהצבעה, שכנוע, פעילות קהילתית ומחאה מצטרפים לרפרטוארים שונים של השתתפות; הדמויות, הקלפי והמחאה בדיוניים ואינם משיבים או אירועים מסקר ANES.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "political_participation",
+        "protest",
+        "latent_class_analysis",
+        "participation_repertoires"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-participation scene was center-cropped and finished as an 800x600 progressive JPEG. High fitness because voting and peaceful protest appear within one coherent civic setting, directly visualizing the article's repertoire argument; limitation: it is fictional and does not encode the five estimated classes or their prevalence.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_belligerent_occupation_supreme_court_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_belligerent_occupation_supreme_court_law_summary_he.html",
+      "usedBy": [
+        "democracy_belligerent_occupation_supreme_court_law_summary_he.html"
+      ],
+      "cardTitleHe": "דיני התפיסה הלוחמתית בבג״ץ",
+      "authorsHe": "David Kretzmer",
+      "visualDescriptionHe": "תצלום של חצר האבן הפנימית בבית המשפט העליון בירושלים.",
+      "semanticDescriptionHe": "התצלום מציג את המוסד שבפסיקתו עוסק המאמר ומתאים לניתוח תפקידו בדיני התפיסה הלוחמתית; הוא אינו מתעד הליך, שופט, עותר או שטח שנדונו במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "supreme_court_of_israel",
+        "belligerent_occupation",
+        "judicial_review",
+        "international_humanitarian_law"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons documentary photograph of the Supreme Court of Israel, center-cropped and finished as an 800x600 progressive JPEG. High fitness because it directly depicts the institution whose occupation-law jurisprudence the article analyzes; limitation: the architectural image does not convey any particular doctrine, case, or affected population.",
+      "createdDate": "2026-08-28",
+      "sourceType": "wikimedia_commons",
+      "source": "Anthony Baratier / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Israel.JPG",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supreme_Court_of_Israel.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "Anthony Baratier",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Supreme Court of Israel.JPG",
+      "sourceDimensions": "3888x2592",
+      "fitness": "high",
+      "fitnessSource": "nightly_wikimedia_specific"
+    },
+    {
+      "file": "html_qa/democracy_migrant_legalization_human_rights_activism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_migrant_legalization_human_rights_activism_summary_he.html",
+      "usedBy": [
+        "democracy_migrant_legalization_human_rights_activism_summary_he.html"
+      ],
+      "cardTitleHe": "בין שגרה לחירום במאבק על מעמד ילדי מהגרים",
+      "authorsHe": "Nelly Kfir; Adriana Kemp",
+      "visualDescriptionHe": "פעילה מסייעת למשפחה מהגרת לעבור על מסמכים במשרד קהילתי עמוס תיקים.",
+      "semanticDescriptionHe": "המחשה עריכתית למעבר בין עבודת זכויות בירוקרטית בשגרה לבין התגייסות אזרחית בעת איום בגירוש; הדמויות והמסמכים בדיוניים ואינם משפחה, פעילה או חומר מן האתנוגרפיה.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "migrant_rights",
+        "legalization",
+        "human_rights_activism",
+        "civil_society"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific migrant-rights casework scene was center-cropped and finished as an 800x600 progressive JPEG. High fitness because the close review of documents within a busy community office directly evokes the article's relationship between routine legal work and mobilization; limitation: it is fictional and does not portray the 2009 campaign or any research participant.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_private_members_bills_policy_success_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_private_members_bills_policy_success_summary_he.html",
+      "usedBy": [
+        "democracy_private_members_bills_policy_success_summary_he.html"
+      ],
+      "cardTitleHe": "יותר מהצהרה: ההצלחה של הצעות חוק פרטיות",
+      "authorsHe": "Amnon Cavari; Maoz Rosenthal; Ilana Shpaizman",
+      "visualDescriptionHe": "תצלום היסטורי בשחור־לבן של חברי הכנסת מאזינים לדיון במליאה בשנת 1983.",
+      "semanticDescriptionHe": "התצלום מציג את הזירה המוסדית שבה מקודמות הצעות חוק פרטיות ומתאים לניתוח מסלולן הפרלמנטרי; הוא אינו מתעד אחת משתי הכנסות, הצעה או מחוקקים שנותחו במחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "knesset",
+        "private_members_bills",
+        "legislative_process",
+        "policy_success"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons documentary photograph of a 1983 Knesset sitting, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it directly shows Israel's parliamentary chamber but predates the 19th and 20th Knessets and does not depict the bills or stages measured in the article.",
+      "createdDate": "2026-08-28",
+      "sourceType": "wikimedia_commons",
+      "source": "IPPA photographer / Dan Hadani Collection / National Library of Israel / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Knesset_holding_a_session_(FL45865098).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Knesset_holding_a_session_(FL45865098).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": "IPPA photographer (unidentified)",
+      "provider": "Dan Hadani Collection, National Library of Israel / Wikimedia Commons",
+      "fileTitle": "The Knesset holding a session (FL45865098).jpg",
+      "sourceDimensions": "2517x1672",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_documentary"
+    },
+    {
+      "file": "html_qa/democracy_women_legislators_marginality_representation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_women_legislators_marginality_representation_summary_he.html",
+      "usedBy": [
+        "democracy_women_legislators_marginality_representation_summary_he.html"
+      ],
+      "cardTitleHe": "המשקל על כתפיהן: שוליות וייצוג נשים בכנסת",
+      "authorsHe": "Reut Itzkovitch-Malka; Odelia Oshri",
+      "visualDescriptionHe": "חברות כנסת בדיוניות מובילות דיון ועדה לצד עמיתים ומסמכי עבודה.",
+      "semanticDescriptionHe": "המחשה עריכתית לעבודת החקיקה הנוספת המוטלת על נשים מחוקקות כאשר ייצוגן המספרי נמוך; הדמויות והמוסד בדיוניים ואינם חברות כנסת, הצעות חוק או תצפיות מן המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "women_legislators",
+        "substantive_representation",
+        "marginality",
+        "gender_bills"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific parliamentary-committee scene was center-cropped and finished as an 800x600 progressive JPEG. High fitness because women visibly carrying the discussion in a mixed legislative setting closely evokes the article's burden and marginality argument; limitation: the fictional scene does not encode tenure, coalition status, chamber composition, or bill counts.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_corruption_democracy_technology_entrepreneurship_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_corruption_democracy_technology_entrepreneurship_summary_he.html",
+      "usedBy": [
+        "democracy_corruption_democracy_technology_entrepreneurship_summary_he.html"
+      ],
+      "cardTitleHe": "שחיתות, דמוקרטיה ויזמות: תפקידה של הטכנולוגיה",
+      "authorsHe": "Gil Avnimelech; Yaron Zelekha",
+      "visualDescriptionHe": "בחלל ציבורי אחד פועלת סדנת רחפנים לצד דלפק שירות עמוס תיקים שבו ממתינה אם עם ילד.",
+      "semanticDescriptionHe": "המחשה עריכתית להבדל בין יזמות עתירת טכנולוגיה המקושרת לרשתות ידע לבין פעילות דלת־טכנולוגיה התלויה יותר במוסדות מקומיים; הדמויות, העסק וההליך בדיוניים ואינם מדינה או תצפית מן המחקר.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "corruption",
+        "democracy",
+        "entrepreneurship",
+        "high_tech",
+        "low_tech"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific split institutional environment was center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it clearly contrasts a technology-intensive venture with dependence on a local administrative counter, while the generic scene cannot represent the cross-country measures, estimates, or direction of association reported only in the abstract.",
+      "createdDate": "2026-08-28",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-08-28 nightly heartbeat",
+      "license": "Generated site asset",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_contextual"
     }
   ],
   "topicGraphics": [
