@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1462,
+  "paperCount": 1472,
   "papers": [
+    {
+      "slug": "democracy_religious_experience_democratic_ambivalence_summary_he",
+      "file": "democracy_religious_experience_democratic_ambivalence_summary_he.html",
+      "permalink": "/democracy_religious_experience_democratic_ambivalence_summary_he.html",
+      "sortKey": 202608290010,
+      "titleHe": "דתיות ואמביוולנטיות בהערכת תפקוד הדמוקרטיה בישראל",
+      "paperTitle": "The religious experience as affecting ambivalence: the case of democratic performance evaluation in Israel",
+      "authorsCardHe": "Pazit Ben-Nun-Bloom; Mina Zemach; Asher Arian",
+      "sourceAuthors": [
+        "Pazit Ben-Nun-Bloom",
+        "Mina Zemach",
+        "Asher Arian"
+      ],
+      "journal": "Democratization, 18(1), 25–51",
+      "dateText": "פורסם אונליין: 24 בינואר 2011; כרך 18, גיליון 1, עמ׳ 25–51",
+      "doiUrl": "https://doi.org/10.1080/13510347.2011.532610",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_experience_democratic_ambivalence_summary_he.jpg",
+        "altHe": "קלפי שקופה ותאי הצבעה ריקים עומדים באור וצל של סבכה אדריכלית, ללא סמלים או כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "פזית בן־נון־בלום, מינה צמח ואשר אריאן בוחנים כיצד החוויה הדתית מעצבת הערכות של תפקוד הדמוקרטיה בישראל. נקודת המוצא היא שאזרחים דתיים חיים בין סביבות ערכיות שונות: הסביבה הדתית האישית עשויה להתנהל לפי מאפיינים שאינם דמוקרטיים, ואילו החוויה האזרחית כוללת מאפיינים דמוקרטיים מגוונים. המפגש בין העולמות יוצר קונפליקט ערכי שמסייע להסביר מדוע דתיות קשורה הן לביקורת רבה יותר על ביצועי הדמוקרטיה והן לחוסר יציבות רב יותר בהערכות אלה. ההשלכה אינה רק על עצם ההערכה של המשטר. ככל שהדתיות גוברת, אזרחים נשענים פחות על הערכת תפקוד הדמוקרטיה כאשר הם מעצבים תחושת מסוגלות פוליטית, אמון במוסדות ופטריוטיות. ממצא זה אינו זהה לטענה שדתיות בהכרח מפחיתה כל אחד מן הרגשות האלה; הוא מצביע על היחלשות הקשר בינם לבין שיפוט ביצועי הדמוקרטיה. המחקר מבוסס על סקר מייצג משנת 2006 בקרב יהודים בישראל ועל מודלים של נראות מרבית עם שונות לא־אחידה, שמאפשרים לבחון לצד כיוון ההערכה גם את חוסר היציבות שלה. התרומה היא העברת הדיון מעוצמתן של עמדות מדיניות בלבד אל אמביוולנטיות בשיפוטים הערכתיים רחבים על הדמוקרטיה ועל תפקודה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_punitive_discrimination_arab_defendants_summary_he",
+      "file": "democracy_punitive_discrimination_arab_defendants_summary_he.html",
+      "permalink": "/democracy_punitive_discrimination_arab_defendants_summary_he.html",
+      "sortKey": 202608290009,
+      "titleHe": "אפליה עונשית בישראל: מוצא הנאשם והשופט בהחלטות על ביטול הרשעה",
+      "paperTitle": "Blind Justice or Blind Justices? On Punitive Discrimination of Arab Criminal Defendants in Israel",
+      "authorsCardHe": "Tomer Einat; Sharon Toys",
+      "sourceAuthors": [
+        "Tomer Einat",
+        "Sharon Toys"
+      ],
+      "journal": "Critical Criminology, 29(4), 763–781",
+      "dateText": "פורסם: 17 בדצמבר 2021; כרך 29, גיליון 4, עמ׳ 763–781",
+      "doiUrl": "https://doi.org/10.1007/s10612-021-09591-z",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_punitive_discrimination_arab_defendants_summary_he.jpg",
+        "altHe": "מבנה בית המשפט המחוזי הישן בחיפה מוקף עצים ורחבה ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "תומר עינת ושרון טויס בוחנים אפליה במערכת המשפט הפלילי בישראל באמצעות הצלבה בין המוצא האתני של נאשמים לבין המוצא האתני של השופטים. בסיס המחקר כולל את כלל הבקשות לביטול הרשעה בעבירות עוון שהגישו נאשמים יהודים וערבים בבתי משפט השלום ובבתי המשפט המחוזיים לאורך עשרים שנה. הניתוח משווה גם בין התקופה שלפני כניסתו לתוקף של תיקון 113 לחוק העונשין משנת 2012, שנועד להבנות את שיקול הדעת בענישה, לבין התקופה שלאחריו. הממצאים מצביעים על שיעור גבוה באופן מובהק של אי־ביטול הרשעה בקרב נאשמים ערבים לעומת נאשמים יהודים כאשר שופטים יהודים הכריעו בעניינם. כאשר שופטים ערבים דנו בנאשמים משתי הקבוצות לא נמצא פער כזה, והשופטים הערבים לא העדיפו נאשמים מאחת הקבוצות. בתי המשפט המחוזיים כמעט שלא שינו את החלטות בתי משפט השלום לגבי אף אחת מן הקבוצות, ולכן הבקרה הערעורית לא תיקנה את הדפוס שנוצר בערכאה הראשונה. גם הבניית שיקול הדעת בעקבות תיקון 113 לא צמצמה את הפערים האתניים בביטול הרשעות. המאמר מציב אפוא את השוויון בפני החוק כמבחן של תוצאות מוסדיות בפועל, ולא רק של כללים אחידים בנוסחם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_parliamentary_committee_inquiry_oversight_summary_he",
+      "file": "democracy_parliamentary_committee_inquiry_oversight_summary_he.html",
+      "permalink": "/democracy_parliamentary_committee_inquiry_oversight_summary_he.html",
+      "sortKey": 202608290008,
+      "titleHe": "ועדות חקירה פרלמנטריות בישראל: כלי פיקוח חלש שעדיין יכול להשפיע",
+      "paperTitle": "Employing the parliamentary committee of inquiry as an oversight tool: Israel as a case study",
+      "authorsCardHe": "Chen Friedberg; Assaf Shapira",
+      "sourceAuthors": [
+        "Chen Friedberg",
+        "Assaf Shapira"
+      ],
+      "journal": "The Journal of Legislative Studies, 31(4), 1212–1237",
+      "dateText": "פורסם אונליין: 16 בנובמבר 2023; כרך 31, גיליון 4 (2025), עמ׳ 1212–1237",
+      "doiUrl": "https://doi.org/10.1080/13572334.2023.2270271",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_parliamentary_committee_inquiry_oversight_summary_he.jpg",
+        "altHe": "חברי ועדת הכספים של הכנסת בדיון פרלמנטרי סביב שולחן ועדה בשנת 1982",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "ועדת חקירה פרלמנטרית נועדה לאפשר לפרלמנט לחקור לעומק סוגיה מוגדרת, לחשוף כשלים ושחיתות ולחזק את אחריותיות הממשלה ואת שקיפות פעולתה. חן פרידברג ואסף שפירא מציבים את הוועדות שהקימה הכנסת בתוך הדיון הרחב על פיקוח פרלמנטרי ועל עבודת ועדות חקירה במדינות שונות. הניתוח המוסדי שלהם מדגיש כי ועדות החקירה הפרלמנטריות בישראל סובלות מחולשות שמגבילות את עוצמתן. עם זאת, חולשה פורמלית אינה שקולה לחוסר השפעה: ועדה יכולה להותיר חותם כאשר חבריה משתמשים במיומנות בסמכויות המצומצמות העומדות לרשותם. המאמר מעביר אפוא את מוקד ההערכה מן השאלה אילו כוחות כתובים קיימים בלבד אל השאלה כיצד הם מופעלים בפועל. על בסיס המקרה הישראלי המחברים מציעים מסגרת מוסדית להערכת ועדת החקירה ככלי פיקוח, שאפשר לפתח במחקרים עתידיים ובמקרים לאומיים נוספים. המשמעות הדמוקרטית היא שפיקוח אפקטיבי תלוי הן בעיצוב מוסדי והן ביכולת להפוך סמכות מוגבלת לחקירה, חשיפה ודרישה להסבר מן הרשות המבצעת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_distributiveness_divided_societies_summary_he",
+      "file": "democracy_distributiveness_divided_societies_summary_he.html",
+      "permalink": "/democracy_distributiveness_divided_societies_summary_he.html",
+      "sortKey": 202608290007,
+      "titleHe": "דמוקרטיה אינה מבטיחה חלוקה שוויונית של כוח ומשאבים",
+      "paperTitle": "Democracy and distributiveness: patterns of transition from hegemony in divided societies",
+      "authorsCardHe": "As’ad Ghanem, Aviad Rubin",
+      "sourceAuthors": [
+        "As’ad Ghanem",
+        "Aviad Rubin"
+      ],
+      "journal": "Citizenship Studies, 19(6–7), 714–733",
+      "dateText": "פורסם אונליין: 25 באוגוסט 2015; כרך 19, גיליונות 6–7, עמ׳ 714–733",
+      "doiUrl": "https://doi.org/10.1080/13621025.2015.1023262",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_distributiveness_divided_societies_summary_he.jpg",
+        "altHe": "נציגי קהילות מחלקים יחד גישה לתקציב, מוסדות ומרחבים ציבוריים סביב שולחן עגול, ללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "אסעד גאנם ואביעד רובין יוצאים מן הפער בין דמוקרטיה מתפקדת לבין שוויון ממשי בחברות הטרוגניות. גם כאשר מתקיימים מוסדות דמוקרטיים, קבוצות אתניות, דתיות או תרבותיות עלולות שלא לקבל מעמד שווה או חלק הוגן במשאבים הציבוריים. לטענת המחברים, הספרות נוטה להכניס את הבעיה כולה לתוך המושגים דמוקרטיה ודמוקרטיזציה ובכך מותחת אותם מעבר ליכולת ההסבר שלהם. המאמר מציע ציר ניתוח נפרד בשם חלוקתיות: הקצאה שוויונית של משאבים פוליטיים, חומריים, תרבותיים־סמליים, מוסדיים וטריטוריאליים בין קבוצות שמזהות את עצמן כקולקטיבים. ההפרדה אינה הופכת חלוקה לשאלה שאינה דמוקרטית; היא מאפשרת להבחין בין כללי המשטר לבין מבנה הכוח והמשאבים שפועל בתוכם. חברה יכולה לקיים בחירות ותחרות ובכל זאת לשמר הגמוניה של קבוצה אחת במוסדות, בתקציבים, בסמלים או במרחב. המחברים מציגים שלוש מטרות למושג החדש: להשיב בהירות לדיון בדמוקרטיה, לשפר את היכולת להעריך חלוקת משאבים במדינה נתונה ולהסביר תהליכים שבהם דפוסי ההקצאה משתנים. מבחינה ליברל־דמוקרטית, המסגרת מחייבת לבדוק לא רק אם אזרחים רשאים להשתתף אלא גם אם קולקטיבים נהנים מגישה שווה למוקדי כוח ולהכרה. היא גם מאפשרת לתאר מעבר חלקי מהגמוניה בלי להכריז באופן פשטני שהמדינה נעשתה דמוקרטית או חדלה להיות כזו. המסגרת היא בראש ובראשונה כלי מושגי שמארגן את הערכת ההקצאה בין קבוצות ומחדד כיצד לתאר שינויים בדפוסי החלוקה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_rules_of_law_against_rule_of_law_summary_he",
+      "file": "democracy_rules_of_law_against_rule_of_law_summary_he.html",
+      "permalink": "/democracy_rules_of_law_against_rule_of_law_summary_he.html",
+      "sortKey": 202608290006,
+      "titleHe": "כללים שיפוטיים שעלולים לשחוק את שלטון החוק",
+      "paperTitle": "One rule to rule them all? Rules of law against the rule of law",
+      "authorsCardHe": "Adam Shinar",
+      "sourceAuthors": [
+        "Adam Shinar"
+      ],
+      "journal": "The Theory and Practice of Legislation, 5(2), 149–170",
+      "dateText": "פורסם אונליין: 5 ביוני 2017; כרך 5, גיליון 2, עמ׳ 149–170",
+      "doiUrl": "https://doi.org/10.1080/20508840.2017.1335014",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_rules_of_law_against_rule_of_law_summary_he.jpg",
+        "altHe": "שופטים ועורכי דין בוחנים שערים פרוצדורליים בין ספרי חוק לאולם דיונים, ללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "אדם שנער מציג פרדוקס פנימי של שלטון החוק: מערכות משפט מכריזות על עליונות הדין, אך מפתחות כללים שמאפשרים לחרוג מדרישותיו. הטיעון חל על הגדרות שונות של שלטון החוק ואינו תלוי בתפיסה תאורטית אחת שלו. המאמר מתמקד בדוקטרינות שיפוטיות ובהן זכות עמידה, שאלה פוליטית, חסינות והשעיית בטלות. השפעתם של כללים אלה, גם כאשר החלשת שלטון החוק אינה מטרתם, עשויה להעניק לבעלי סמכות גמישות מול חובות משפטיות ואף לאפשר התעלמות מהן. מכאן שהאיום על שלטון החוק אינו מגיע רק מבחוץ, למשל מרשות שמסרבת לציית לפסק דין; הוא יכול להיות אנדוגני ולהיווצר מן האופן שבו המערכת המשפטית עצמה מסדרת גישה לבית המשפט, ביקורת וסעדים. המאמר מזהיר במיוחד מפני זיהוי אוטומטי של בתי משפט עם הגנה על שלטון החוק. בתי משפט הם מוסדות מרכזיים לאכיפת הדין, אך כשהם יוצרים, מרחיבים ומקיימים דוקטרינות חריגות הם עלולים גם להחליש את העיקרון שהם אמורים לשמור עליו. המשמעות הליברל־דמוקרטית אינה ביטול של גמישות שיפוטית, אלא דרישה לבחון את הצדקתה, היקפה והשפעתה על אחריות שלטונית. דיון רציני בשלטון החוק צריך אפוא לעקוב לא רק אחר הפרות בוטות, אלא גם אחר כללים משפטיים שגרתיים שמקהים בהדרגה את החובה לציית לדין.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_political_discussion_deliberation_gaps_summary_he",
+      "file": "democracy_political_discussion_deliberation_gaps_summary_he.html",
+      "permalink": "/democracy_political_discussion_deliberation_gaps_summary_he.html",
+      "sortKey": 202608290005,
+      "titleHe": "תחרות אלקטורלית, ריבוי מפלגות ופערים בשיחה הפוליטית",
+      "paperTitle": "Cross-National Differences in Political Discussion: Can Political Systems Narrow Deliberation Gaps?",
+      "authorsCardHe": "Lilach Nir",
+      "sourceAuthors": [
+        "Lilach Nir"
+      ],
+      "journal": "Journal of Communication, 62(3), 553–570",
+      "dateText": "פורסם אונליין: 25 באפריל 2012; כרך 62, גיליון 3, עמ׳ 553–570",
+      "doiUrl": "https://doi.org/10.1111/j.1460-2466.2012.01648.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_political_discussion_deliberation_gaps_summary_he.jpg",
+        "altHe": "אזרחים מרקעים שונים מצטרפים למעגלי שיחה פוליטית בספרייה ציבורית בעזרת כרטיסי מידע ריקים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "לילך ניר מעבירה את חקר השיחה הפוליטית מן הפרט אל המפגש בין אזרחים למערכות פוליטיות. מחקרים רבים הסבירו מי מדבר על פוליטיקה באמצעות מאפיינים אישיים, אך התבססו על מדינה אחת ולעיתים התייחסו להקשר האמריקאי כאילו הוא אוניברסלי. המאמר משלב תאוריות מתקשורת ומפוליטיקה השוואתית כדי לבדוק אם תכונות מערכתיות, ובהן תחרות אלקטורלית וריבוי מפלגות, משפיעות על היצע המידע הפוליטי ברמת המערכת. ניתוח הנתונים הבין־לאומיים מראה שתכונות מערכת כאלה קשורות לתדירות גבוהה יותר של דיון פוליטי. הן גם ממתנות את התרומה של הבדלים אישיים לפערים בין מי שמרבים להשתתף בשיחה לבין מי שנשארים בשוליה. הממצאים אינם מבטלים את חשיבותם של מאפיינים אישיים, אלא מראים שתכונות המערכת ממתנות את תרומתם לתדירות השיחה. מבחינה דמוקרטית, שיחה פוליטית היא שער ללמידה, לגיבוש עמדה ולהשתתפות; כאשר היא מרוכזת בידי קבוצות מסוימות, גם הזדמנויות ההשפעה אינן מתחלקות באופן שווה. המאמר מציע אפוא לראות במבנה המערכת חלק מן התשתית של מרחב דיוני, ולא רק מנגנון לחלוקת מושבים. מאחר שהממצאים מתארים קשרים השוואתיים, הם תומכים בהשערה שמערכות יכולות לצמצם פערי דיון אך אינם מוכיחים שכל תוספת תחרות או מפלגה תגרום לכך לבדה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_electoral_reform_representation_1996_israel_summary_he",
+      "file": "democracy_electoral_reform_representation_1996_israel_summary_he.html",
+      "permalink": "/democracy_electoral_reform_representation_1996_israel_summary_he.html",
+      "sortKey": 202608290004,
+      "titleHe": "כשהרפורמה האלקטורלית פוגעת בייצוג",
+      "paperTitle": "Representation, Electoral Reform, and Democracy: Theoretical and Empirical Lessons from the 1996 Elections in Israel",
+      "authorsCardHe": "Reuven Y. Hazan, Gideon Rahat",
+      "sourceAuthors": [
+        "Reuven Y. Hazan",
+        "Gideon Rahat"
+      ],
+      "journal": "Comparative Political Studies, 33(10), 1310–1336",
+      "dateText": "דצמבר 2000; כרך 33, גיליון 10, עמ׳ 1310–1336",
+      "doiUrl": "https://doi.org/10.1177/0010414000033010003",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_electoral_reform_representation_1996_israel_summary_he.jpg",
+        "altHe": "שני מסלולי הצבעה פועלים במקביל באולם בחירות אזרחי, עם קלפיות ופתקים ללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "ראובן חזן וגדעון רהט טוענים שאי אפשר להעריך רפורמה אלקטורלית באמצעות מדד יחיד של ייצוג. המאמר מנתח את שתי הרפורמות שפעלו בבחירות בישראל ב־1996: הנהגת פריימריז בתוך מפלגות והבחירה הישירה לראשות הממשלה. הפריימריז נועדו להרחיב את מעגל המשתתפים בבחירת מועמדים, תוך שמירה על ייצוג במובן של נוכחות קבוצות ונציגים. הבחירה הישירה נועדה לחזק את המשילות, תוך שמירה על ייצוג במובן של רעיונות והעדפות פוליטיות. לפי המחברים, יוזמי הרפורמות לא הבחינו כראוי בין שני המובנים ונטו לזהות ייצוג עם יחסיות בלבד. תוצאות בחירות 1996 הראו, לטענתם, כי שתי הרפורמות פגעו דווקא בממד הייצוג שעליו ביקשו לשמור וגם לא השיגו את יעדיהן המוסדיים. המקרה הישראלי מדגים מדוע שינוי בכללי הבחירות אינו רק תיקון טכני: כלל שמרחיב השתתפות או מרכז סמכות משנה גם מי נוכח בזירה, אילו רעיונות מקבלים ביטוי וכיצד מתורגמות העדפות הציבור לכוח. המשמעות הדמוקרטית היא שרפורמה צריכה להתחיל בהגדרה מפורשת של סוג הייצוג שעליו רוצים להגן ולבחון מראש את המתח בינו לבין השתתפות ומשילות. המאמר אינו קובע שכל פריימריז או בחירה ישירה ייכשלו, אלא מראה שהערכת רפורמה לפי יחסיות בלבד עלולה להסתיר פגיעה בצורות אחרות של ייצוג.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_toxic_political_polarization_psychology_summary_he",
+      "file": "democracy_toxic_political_polarization_psychology_summary_he.html",
+      "permalink": "/democracy_toxic_political_polarization_psychology_summary_he.html",
+      "sortKey": 202608290003,
+      "titleHe": "הפסיכולוגיה של קיטוב פוליטי רעיל",
+      "paperTitle": "The prime psychological suspects of toxic political polarization",
+      "authorsCardHe": "Samantha L. Moore-Berg; Boaz Hameiri; Emile Bruneau",
+      "sourceAuthors": [
+        "Samantha L. Moore-Berg",
+        "Boaz Hameiri",
+        "Emile Bruneau"
+      ],
+      "journal": "Current Opinion in Behavioral Sciences, 34, 199–204",
+      "dateText": "אוגוסט 2020; כרך 34, עמ׳ 199–204",
+      "doiUrl": "https://doi.org/10.1016/j.cobeha.2020.05.001",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_toxic_political_polarization_psychology_summary_he.jpg",
+        "altHe": "שני אשכולות של חלקי עץ כהים וחלודים ניצבים משני צדי סדק, וחלק נייטרלי יחיד עומד ביניהם",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "סמנתה ל׳ מור־ברג, בועז חמאירי ואמיל ברונו פותחים בהבחנה דמוקרטית מרכזית: מחלוקת היא רכיב רצוי בדמוקרטיה, אך מחלוקת מפלגת יכולה לסכן לכידות חברתית ולהפוך רעילה לדמוקרטיה. המאמר סוקר תהליכים פסיכולוגיים הקשורים לקיטוב פוליטי רעיל. מחקרים קודמים התמקדו לעיתים קרובות בקיטוב כתוצאה של הבדלים אידאולוגיים או של הערכות רגשיות בין מחנות. הסקירה מרחיבה את המבט לשני תהליכים המוכרים מהקשרים בין־קבוצתיים אחרים אך נחקרו רק לאחרונה בזירה הפוליטית: דה־הומניזציה ומטא־תפיסות. מטא־תפיסות הן ההערכות השליליות שחברי קבוצת פנים תופסים כחוות הדעת של קבוצת החוץ על קבוצתם. המחקרים הנסקרים עוסקים בקבוצות שוות מעמד המחזיקות באידאולוגיות מנוגדות ובוחנים כיצד הנטייה האידאולוגית הפוליטית מעצבת הערכות בין־קבוצתיות. המסגרת הזאת מראה שקיטוב אינו רק מרחק בעמדות, אלא קשור גם לאופן שבו מחנות מעריכים זה את זה ולאופן שבו הם מדמיינים שהם מוערכים בידי הצד האחר. כך הפסיכולוגיה הבין־קבוצתית מסייעת להבין מדוע מחלוקת פוליטית עלולה לחרוג מתחרות דמוקרטית ולפגוע בלכידות החברתית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_labor_party_peacemaking_intraparty_summary_he",
+      "file": "democracy_labor_party_peacemaking_intraparty_summary_he.html",
+      "permalink": "/democracy_labor_party_peacemaking_intraparty_summary_he.html",
+      "sortKey": 202608290002,
+      "titleHe": "שלום מבחוץ, מחלוקת מבפנים: מפלגת העבודה ותהליך השלום",
+      "paperTitle": "Intraparty Politics and Peacemaking in Democratic Societies: Israel's Labor Party and the Middle East Peace Process, 1992-96",
+      "authorsCardHe": "Reuven Y. Hazan",
+      "sourceAuthors": [
+        "Reuven Y. Hazan"
+      ],
+      "journal": "Journal of Peace Research, 37(3), 363–378",
+      "dateText": "פורסם: 1 במאי 2000; כרך 37, גיליון 3, עמ׳ 363–378",
+      "doiUrl": "https://doi.org/10.1177/0022343300037003005",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_labor_party_peacemaking_intraparty_summary_he.jpg",
+        "altHe": "חברי מפלגת שלטון בדיון פנימי מתוח סביב שולחן ישיבות בראשית שנות התשעים, ללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "ראובן י׳ חזן מעביר את הדיון על הקשר בין פוליטיקה פנימית למדיניות חוץ מן התחרות בין מפלגות אל המחלוקות שבתוך מפלגת השלטון. המאמר שואל בשני כיוונים: האם גורמים פנים־מפלגתיים מעודדים או מרתיעים ממשלה מליזום מהלך שלום, והאם עצם העיסוק בעשיית שלום יוצר מחלוקות שמסכנות את התהליך או מכשילות אותו. המקרה הנבחן הוא מפלגת העבודה בישראל ותהליך השלום במזרח התיכון בשנים 1992–1996. הניתוח מצביע על קשר הדדי: תהליך השלום השפיע במידה רבה על הלכידות הפנימית במפלגה, והמחלוקות המפלגתיות השפיעו מצדן על התהליך המדיני. לכידות חשובה מפני שיכולתה של ממשלה לבצע מדיניות חוץ ולגייס לה לגיטימציה ציבורית מושפעת ממידת האחדות במפלגה המובילה אותה. המסקנה היא שלכידות מפלגתית היא משתנה נחוץ לקידום מוצלח של מדיניות חוץ חדשה ודרמטית. בכך המאמר מציג מפלגות לא כשחקנים אחידים, אלא כזירות פוליטיות שבהן תמיכה, התנגדות ופיצול יכולים לעצב גם החלטות שמופנות כלפי חוץ.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_populist_religious_radical_voting_motivations_summary_he",
+      "file": "democracy_populist_religious_radical_voting_motivations_summary_he.html",
+      "permalink": "/democracy_populist_religious_radical_voting_motivations_summary_he.html",
+      "sortKey": 202608290001,
+      "titleHe": "שני אגפים של הימין הרדיקלי: מניעי הצבעה לאומניים ודתיים",
+      "paperTitle": "Two of a kind? Voting motivations for populist radical right and religious fundamentalist parties",
+      "authorsCardHe": "Sivan Hirsch-Hoefler; Daphna Canetti; Ami Pedahzur",
+      "sourceAuthors": [
+        "Sivan Hirsch-Hoefler",
+        "Daphna Canetti",
+        "Ami Pedahzur"
+      ],
+      "journal": "Electoral Studies, 29(4), 678–690",
+      "dateText": "דצמבר 2010; כרך 29, גיליון 4, עמ׳ 678–690",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2010.07.003",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_populist_religious_radical_voting_motivations_summary_he.jpg",
+        "altHe": "מצביעים דתיים וחילונים בוחנים יחד פתקי הצבעה אנונימיים לצד קלפי, ללא שמות מפלגות או כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-29",
+      "dateModified": "2026-08-29",
+      "summaryHe": "סיון הירש־הפלר, דפנה קנטי ועמי פדהצור מציבים זה לצד זה שני סוגי מפלגות שמאתגרים דמוקרטיות אך נחקרים בדרך כלל בספרויות נפרדות: מפלגות ימין פופוליסטי רדיקלי, המתוארות כחילוניות ברובן, ומפלגות פונדמנטליסטיות דתיות. שאלתם היא עד כמה גורמים חברתיים־כלכליים, עמדות אידאולוגיות ותפיסות של איום ביטחוני מנבאים הצבעה לכל אחת משתי המשפחות. הניתוח נשען על נתונים שנאספו לאחר הבחירות לפרלמנט בישראל ב־2003 בקרב 808 משתתפים. ההשוואה אינה מניחה מראש שמניעי התמיכה בשתי הקבוצות זהים, אלא משתמשת באותן משפחות הסבר כדי לברר את נקודות הדמיון והשוני ביניהן. הממצאים מערערים על תפיסה חילונית אחידה של קיצוניות ימנית. המחברים מציעים לראות בימין הרדיקלי משפחה מרובת פנים הכוללת לפחות אגף לאומני ניצי ואגף רדיקלי מבוסס אמונה. החלוקה הזאת מפנה את תשומת הלב לכך שדת ולאומנות עשויות להגדיר מסלולים שונים של השתייכות לאותה משפחה פוליטית רחבה. מבחינה דמוקרטית, המאמר מחדד שסיווג מפלגות אינו רק עניין של תווית, מפני שהבנת בסיסי התמיכה מחייבת להבחין בין צורות שונות של רדיקליות ימנית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_corruption_democracy_technology_entrepreneurship_summary_he",
       "file": "democracy_corruption_democracy_technology_entrepreneurship_summary_he.html",
