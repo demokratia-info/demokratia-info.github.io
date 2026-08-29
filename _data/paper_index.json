@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1472,
+  "paperCount": 1482,
   "papers": [
+    {
+      "slug": "democracy_israeli_parties_abroad_activities_summary_he",
+      "file": "democracy_israeli_parties_abroad_activities_summary_he.html",
+      "permalink": "/democracy_israeli_parties_abroad_activities_summary_he.html",
+      "sortKey": 202608300010,
+      "titleHe": "מדוע מפלגות ישראליות פועלות בחו״ל גם בלי הצבעה מחוץ למדינה",
+      "paperTitle": "Parties beyond national borders: exploring the activities of Israeli political parties abroad",
+      "authorsCardHe": "Avital Friedman, Ofer Kenig",
+      "sourceAuthors": [
+        "Avital Friedman",
+        "Ofer Kenig"
+      ],
+      "journal": "Comparative Migration Studies, 9, Article 23",
+      "dateText": "פורסם אונליין: 31 במאי 2021; כרך 9, מאמר 23",
+      "doiUrl": "https://doi.org/10.1186/s40878-021-00230-8",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israeli_parties_abroad_activities_summary_he.jpg",
+        "altHe": "מארגני מפלגה בדיוניים במשרד קהילתי בעיר זרה מתאמים פעילות חוצת גבולות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "אביטל פרידמן ועופר קניג שואלים מדוע מפלגות ישראליות פועלות מחוץ למדינה אף שישראלים השוהים בחו״ל אינם מצביעים שם בדרך כלל. המחקר מתייחס לישראל כמקרה פחות סביר לפעילות חוצת גבולות, משום שהתמריץ המקובל של חיפוש קולות ישירים כמעט אינו קיים. על בסיס מקורות מפלגתיים פתוחים, מסמכים, תקשורת ושישה ראיונות עם בעלי תפקידים מחמש מפלגות וכן ראיון עם בעל תפקיד מדינתי, המחברים מציעים מיפוי חקרני. הסוג הראשון הוא פעילות מכוונת תפוצות, ובה קשרים היסטוריים וממוסדים עם יהודים שאינם אזרחי ישראל דרך ההסתדרות הציונית העולמית, תנועות נוער ושלוחות מפלגתיות. פעילות זו מאפשרת למפלגות להשתתף בחלוקת תפקידים ומשאבים במוסדות לאומיים, לשמר זהות אידאולוגית ולהציג מחויבות ציונית לציבור בישראל. הסוג השני הוא פעילות מכוונת ישראל, ובה רשתות עם מפלגות אחיות, קשרים עם ארגוני שדולה, קידום עמדות המפלגה וקשרים אישיים ופיננסיים. פעילות זו פחות פורמלית ושקופה ולעיתים תלויה ביוזמות של חברי כנסת ובעלי תפקידים יחידים. המרואיינים חזרו על תועלת עקיפה מול בוחרים בישראל: הכרה מצד גורם בין־לאומי או תפוצתי יכולה לסמן לגיטימיות ולחזק את דימוי המפלגה בזירה המקומית. המאמר מדגיש שמימון המפלגות בישראל ציבורי ברובו ושכללי תרומות מגבילים תרומות מחו״ל, ולכן אין לפרש כל קשר בין־לאומי כגיוס כספים אסור. זהו מחקר חקרני בתקופה ובמערכת מפלגתית מוגדרות, והוא אינו מכמת את השפעת הפעילות, אינו מכסה את כל המפלגות ואינו יכול לעקוב במלואו אחר קשרים אישיים לא שקופים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_muslim_voters_exclusion_political_participation_europe_summary_he",
+      "file": "democracy_muslim_voters_exclusion_political_participation_europe_summary_he.html",
+      "permalink": "/democracy_muslim_voters_exclusion_political_participation_europe_summary_he.html",
+      "sortKey": 202608300009,
+      "titleHe": "מסרים אנטי־מוסלמיים יכולים לגייס מצביעים מוסלמים במקום להרחיקם",
+      "paperTitle": "Outsiders at the Ballot Box: Integration, Discrimination, and Muslims’ Electoral Behavior in Europe",
+      "authorsCardHe": "Odelia Oshri, Reut Itzkovitch-Malka, Guy Mor-Lan, Shaul R. Shenhav",
+      "sourceAuthors": [
+        "Odelia Oshri",
+        "Reut Itzkovitch-Malka",
+        "Guy Mor-Lan",
+        "Shaul R. Shenhav"
+      ],
+      "journal": "Journal of Experimental Political Science, First View, 1–18",
+      "dateText": "פורסם אונליין: 8 ביוני 2026; עמ׳ 1–18",
+      "doiUrl": "https://doi.org/10.1017/xps.2026.10034",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_voters_exclusion_political_participation_europe_summary_he.jpg",
+        "altHe": "מצביעים מוסלמים בדיוניים יוצאים ונכנסים לקלפי שכונתית לאחר מערכת בחירות מתוחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "אודליה אושרי, רעות איצקוביץ׳־מלכה, גיא מור־לן ושאול שנהב בוחנים אם הדרה פוליטית וחברתית מרחיקה מיעוט מוסלמי מן הפוליטיקה או דווקא מגייסת אותו. המחקר נערך ביולי 2023 בקרב 983 אזרחים גרמנים מוסלמים ממוצא טורקי שהיו בעלי זכות הצבעה בבחירות הפדרליות. המשתתפים חולקו באקראי לסרטון על פשעי שנאה אנטי־מוסלמיים, לסרטון על הצלחת מפלגת הימין הקיצוני והעמדות האנטי־מוסלמיות שלה, או לסרטון ניטרלי. שני מסרי ההדרה העלו כוונת השתתפות פוליטית, סולידריות פנים־קבוצתית, רגשות שליליים וכוונה להצביע למפלגות שמאל לעומת הביקורת. התמיכה המיועדת במפלגה הסוציאל־דמוקרטית הייתה 19.9 אחוזים בביקורת, 33.4 אחוזים לאחר סרטון פשעי השנאה ו־24.5 אחוזים לאחר סרטון הימין הקיצוני. כעס, פחד ועוינות גברו בחדות בשתי קבוצות ההדרה, כאשר הכעס הממוצע עלה מ־0.28 בביקורת ל־0.71 ו־0.66 בשני התנאים. בני הדור השלישי או מי שלא זוהה אצלם רקע הגירה דיווחו על השתלבות גבוהה יותר בכל חמשת ממדי המדד, אך גם על יותר הפליה ועל זהות מוסלמית חזקה יותר. עם זאת, האינטראקציה בין דור לבין השפעת המסר על כוונת ההצבעה לשמאל לא הייתה מובהקת, ולכן אין ראיה שהאפקט הניסויי חזק יותר אצל דור מסוים. ניתוחים משלימים מצאו שזהות מוסלמית חזקה העצימה רגשות שליליים ושבתשובות פתוחות הופיעו יחד ביקורת על גזענות ושאיפות לחירות, סובלנות וצדק, אך ניתוחים אלה לא נרשמו מראש. הממצאים מראים שמסר הדרה קצר יכול לעורר גיוס מיידי וכוונת הצבעה, אך אינם מוכיחים שינוי ממושך או הצבעה ממשית בקלפי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_everyday_human_rights_lawmaking_domestic_violence_torture_summary_he",
+      "file": "democracy_everyday_human_rights_lawmaking_domestic_violence_torture_summary_he.html",
+      "permalink": "/democracy_everyday_human_rights_lawmaking_domestic_violence_torture_summary_he.html",
+      "sortKey": 202608300008,
+      "titleHe": "כיצד מחדלי מדינה מול אלימות במשפחה נקשרו לאיסור על עינויים ועל יחס אכזרי",
+      "paperTitle": "Everyday Lawmaking in International Human Rights Law: Insights from the Inclusion of Domestic Violence in the Prohibition of Torture",
+      "authorsCardHe": "Natalie R. Davidson",
+      "sourceAuthors": [
+        "Natalie R. Davidson"
+      ],
+      "journal": "Law & Social Inquiry, 47(1), 205–235",
+      "dateText": "פורסם אונליין: 14 ביוני 2021; כרך 47, גיליון 1, עמ׳ 205–235",
+      "doiUrl": "https://doi.org/10.1017/lsi.2021.20",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_everyday_human_rights_lawmaking_domestic_violence_torture_summary_he.jpg",
+        "altHe": "פעילות זכויות אדם ומשפטניות בדיוניות מרכיבות יחד תיק מעדויות, תקדימים והערות מדיניות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "נטלי ר׳ דוידסון בוחנת כיצד המשפט הבין־לאומי לזכויות אדם משתנה באמצעות פרשנות, דיווח והכרעה שגרתיים ולא רק באמצעות ניסוח אמנות חדשות. מקרה המבחן הוא הכללת אלימות במשפחה במסגרת האיסור על עינויים ועל יחס אכזרי, בלתי אנושי או משפיל. המחקר משחזר את התהליך בחמישה מוסדות: הוועדה נגד עינויים, ועדת זכויות האדם, בית הדין האירופי, הנציבות הבין־אמריקנית ובית הדין הבין־אמריקני. הוא מנתח כמה מאות מסמכים פרוצדורליים ומשפטיים ומשלב עשרה ראיונות עם עורכי דין, נציגי ארגונים ובעלי תפקידים מוסדיים. השינוי התקדם באמצעות אנלוגיות מצומצמות מאלימות בכלא, פגיעה בילדים ואלימות של גורמים פרטיים בחסות המדינה אל אחריות המדינה למחדל מול פגיעה פרטית. רשימות שאלות, הערות מסכמות והערות כלליות שאינן מחייבות כשלעצמן הצטברו ושימשו בהמשך בסיס להכרעות שיפוטיות. אנשים שעברו בין מוסדות וציטוטים הדדיים סייעו לאחד שינוי שנוצר בזירות משפטיות מפוצלות. המוסדות לא אימצו נוסחה אחת: בחלקם דובר במפורש בעינויים בכפוף לידיעה או להשלמה מצד רשויות, ובאחרים סווגה הפגיעה בעיקר כיחס אכזרי, בלתי אנושי או משפיל. התהליך פתח אפשרויות להשתתפות של פעילות ועורכות דין, אך גם חשף כוח לא שוויוני של ארגונים מבוססים, מזכירויות ובעלי תפקידים מאחורי הקלעים. המחקר מסביר כיצד נורמה משפטית השתנתה, אך אינו בודק אם השינוי שיפר בפועל את תגובת המדינות או את חייהן של נפגעות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_targeted_intergroup_interventions_equality_summary_he",
+      "file": "democracy_targeted_intergroup_interventions_equality_summary_he.html",
+      "permalink": "/democracy_targeted_intergroup_interventions_equality_summary_he.html",
+      "sortKey": 202608300007,
+      "titleHe": "התערבויות מותאמות אידאולוגית עשויות לקדם שוויון ומעורבות",
+      "paperTitle": "Politically-targeted intergroup interventions promote social equality and engagement",
+      "authorsCardHe": "Nimrod Nir, Eran Halperin",
+      "sourceAuthors": [
+        "Nimrod Nir",
+        "Eran Halperin"
+      ],
+      "journal": "Communications Psychology, 3, Article 69",
+      "dateText": "פורסם אונליין: 23 באפריל 2025; כרך 3, מאמר 69",
+      "doiUrl": "https://doi.org/10.1038/s44271-025-00228-3",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_targeted_intergroup_interventions_equality_summary_he.jpg",
+        "altHe": "קבוצות מגוונות בסדנה אזרחית בדיונית משוחחות בעזרת כרטיסים שונים ובונות מעגל משותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "נמרוד ניר וערן הלפרין בוחנים אם מסרים קצרים שמותאמים לנטיות המוטיבציוניות של מחנות פוליטיים יכולים לחזק תמיכה בשוויון בין יהודים לערבים בישראל. הם מבחינים בין תיקון של תפיסה מוטעית בדבר עמדות הערבים, הצגת נורמה של תמיכה גוברת בשוויון, והדגשת היכולת של אנשים וקבוצות להשתנות. במחקר הראשון השתתפו 2,288 יהודים אזרחי ישראל שנדגמו מתוך סקר בסיס קודם ושויכו באקראי להתערבות או לקבוצת ביקורת בתוך כל מחנה אידאולוגי. התמיכה בשוויון נמדדה באמצעות עשרה פריטים שכללו עמדות כלליות וגם נכונות לפעול. בקרב שמרנים, המסר המתקן על תמיכת רוב הערבים בדו־קיום הוביל לתוצאה החזקה ביותר; בקרב אנשי מרכז בלט המסר על נורמה חברתית; ובקרב ליברלים בלט המסר על יכולת להשתנות. הניתוח השתמש במשוואות אמידה מוכללות — שיטה סטטיסטית המתאימה למדידות חוזרות של אותם משתתפים ומספקת אמידה עמידה יותר כאשר הנחות ההתפלגות אינן מתקיימות — לאחר שהנתונים לא עמדו בהנחות הנדרשות לניתוח השונות שתוכנן מראש. במחקר השני הופצו שלושת המסרים כמודעות ברשת חברתית לקהלים פוליטיים שונים, והם הגיעו ליותר מ־69 אלף משתמשים והניבו 1,577 לחיצות ייחודיות על קישור לעצומה. דפוס ההתאמה הופיע גם בשדה, אולם ההבדלים בין המודעות המובילות לבין חלק מן החלופות לא היו מובהקים בקרב שמרנים ואנשי מרכז. אצל ליברלים, מודעת היכולת להשתנות השיגה שיעור לחיצה גבוה יותר ועלות נמוכה יותר ללחיצה משתי המודעות האחרות. הממצאים תומכים באפשרות שהתאמה פוליטית משפרת התערבויות בין־קבוצתיות, אך אינם מוכיחים שהשינוי מחזיק לאורך זמן או שלחיצה על קישור שקולה לשינוי יציב בעמדה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_mandatory_palestine_legislative_council_constitutional_law_summary_he",
+      "file": "democracy_mandatory_palestine_legislative_council_constitutional_law_summary_he.html",
+      "permalink": "/democracy_mandatory_palestine_legislative_council_constitutional_law_summary_he.html",
+      "sortKey": 202608300006,
+      "titleHe": "כיצד המשפט החוקתי הבריטי עיצב את המאבק הציוני נגד מועצה מחוקקת בפלשתינה המנדטורית",
+      "paperTitle": "British Imperial Constitutional Law and the Zionist Campaign against the Legislative Council in Mandatory Palestine",
+      "authorsCardHe": "Maya Kreiner",
+      "sourceAuthors": [
+        "Maya Kreiner"
+      ],
+      "journal": "Law and History Review, 43(3), 339–361",
+      "dateText": "פורסם אונליין: 25 באפריל 2025; כרך 43, גיליון 3, עמ׳ 339–361",
+      "doiUrl": "https://doi.org/10.1017/s0738248025000070",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mandatory_palestine_legislative_council_constitutional_law_summary_he.jpg",
+        "altHe": "בית הממשלה הבריטי בירושלים בשנת 1932 בתצלום שחור־לבן מאוסף מטסון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "המאמר משחזר את תפקידו של המשפט החוקתי האימפריאלי במאבק הציוני נגד הקמת מועצה מחוקקת בפלשתינה המנדטורית בראשית שנות השלושים. בריטניה ביקשה להנהיג ממשל עצמי מוגבל באמצעות מוסד שיכלול נציגים מקומיים ופקידים בריטים. ההנהגה הציונית חששה שמוסד המשקף את יחסי האוכלוסייה, שבהם היהודים היו פחות מ־17 אחוזים במפקד 1931, יפגע ביכולת לפתח את הבית הלאומי היהודי. המחקר מתמקד במסמכים שכתבו ליאו כהן וחיים ארלוזורוב במסגרת הפעילות הרשמית של ההנהגה הציונית, ומשווה אותם גם לכתיבה ציונית משפטית נוספת. בתחילה שימש הניסיון האימפריאלי קטלוג של מנגנונים חוקתיים, כגון ייצוג יתר למיעוט, וטו קהילתי, הגבלת סמכויות והגבלת זכות הבחירה. בהמשך הפך אותו ניסיון לבסיס לטענה שמועצות דומות יצרו שיבוש שלטוני ושגם אמצעי הגנה פורמליים לא יוכלו לבודד את ענייני ההגירה והקרקע. כהן הציג את פלשתינה בעת ובעונה אחת כמקרה ייחודי וכחלק מעולם אימפריאלי השופע חריגים וגמישות חוקתית. הגמישות הזאת אפשרה להצדיק גם הצעה לשוויון במספר המושבים בין יהודים לערבים למרות חוסר השוויון הדמוגרפי. תגובה פנימית במשרד המושבות הכירה בכך שחלק מן הקשיים שהעלתה הסוכנות היהודית היו ממשיים, אך אין בכך הוכחה שהטיעון לבדו סיכל את המועצה. המאמר הוא ניתוח היסטורי של שפה, אסטרטגיה ואפשרויות פוליטיות, והוא אינו מאמץ את ההנחות ההיררכיות והמדירות שהופיעו בחלק מן הטיעונים הקולוניאליים שהוא מתעד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_omnibus_legislation_judicial_review_summary_he",
+      "file": "democracy_omnibus_legislation_judicial_review_summary_he.html",
+      "permalink": "/democracy_omnibus_legislation_judicial_review_summary_he.html",
+      "sortKey": 202608300005,
+      "titleHe": "חקיקת אומניבוס וביקורת שיפוטית: האם התערבות בתי משפט משנה את התנהגות המחוקקים?",
+      "paperTitle": "Regulating (Ab)uses of Omnibus Legislation through Judicial Review – An Empirical Study",
+      "authorsCardHe": "Ittai Bar-Siman-Tov",
+      "sourceAuthors": [
+        "Ittai Bar-Siman-Tov"
+      ],
+      "journal": "European Journal of Risk Regulation, First View, 1–35",
+      "dateText": "פורסם אונליין: 27 ביולי 2026; עמ׳ 1–35",
+      "doiUrl": "https://doi.org/10.1017/err.2026.10129",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_omnibus_legislation_judicial_review_summary_he.jpg",
+        "altHe": "ועדה מחוקקת בדיונית בוחנת חבילת חוק עבה כשלצדה מסדרון בית משפט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "המאמר בוחן אם ביקורת שיפוטית על הליך החקיקה יכולה לשנות את התנהגות המחוקקים גם כאשר בית המשפט אינו מבטל חוק. המקרה הוא חוק ההסדרים הישראלי, צורה של חקיקת אומניבוס המאגדת רפורמות רבות ולעיתים לא קשורות בהליך מהיר הצמוד לתקציב. נקודת המפנה היא פסק הדין בעניין מגדלי העופות משנת 2004, שהכיר באפשרות לפסול חוק בשל פגם היורד לשורש ההליך אך נמנע מלעשות זאת במקרה שנדון. המחקר משווה את עשר השנים שלפני פסק הדין לעשר השנים שאחריו, ובוחן את כל 19 חוקי ההסדרים מן השנים 1995–2014. הוא משלב מדדי אורך והיקף עם ניתוח איכותני של כמעט 12 אלף עמודי דיוני ועדות ועם מעקב מפורט אחר תהליכים בשנים מכריעות. לאחר פסק הדין נרשמה ירידה ברורה בהיקף ובגודל החוקים בטווח הקצר, אך השינוי הכמותי נחלש בהמשך ולא היה יציב לאורך כל התקופה. לעומת זאת התבססו פרקטיקות הליכיות עמידות יותר, ובהן סינון מוקדם של נושאים, פיצול סעיפים למסלולי חקיקה רגילים, העברה לוועדות מקצועיות והרחבת הדיון. בדיונים נמצאו 137 התייחסויות לפסק הדין ו־127 התבטאויות שצפו ביקורת שיפוטית עתידית, ממצא המקשר בין המשפט לבין בחירותיהם של השחקנים הפרלמנטריים. המחבר מזהה גם שכנוע נורמטיבי וגם הרתעה מפני פסילה, ומייחס ליועצים המשפטיים תפקיד מרכזי בתרגום האזהרה השיפוטית לכללי עבודה. עם זאת, זהו מחקר מקרה של מדינה אחת והוא אינו מראה שבית המשפט היה הסיבה היחידה לשינוי או שהשפעתו נותרה קבועה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_party_rhetoric_immigration_attitudes_europe_summary_he",
+      "file": "democracy_party_rhetoric_immigration_attitudes_europe_summary_he.html",
+      "permalink": "/democracy_party_rhetoric_immigration_attitudes_europe_summary_he.html",
+      "sortKey": 202608300004,
+      "titleHe": "קרבה לבחירות ורטוריקה מפלגתית נקשרות להקשחת עמדות כלפי הגירה",
+      "paperTitle": "Elections, Party Rhetoric, and Public Attitudes Toward Immigration in Europe",
+      "authorsCardHe": "Elizabeth Dekeyser, Michael Freedman",
+      "sourceAuthors": [
+        "Elizabeth Dekeyser",
+        "Michael Freedman"
+      ],
+      "journal": "Political Behavior, 45(1), 197–209",
+      "dateText": "פורסם אונליין: 21 ביוני 2021; כרך 45, גיליון 1, עמ׳ 197–209",
+      "doiUrl": "https://doi.org/10.1007/s11109-021-09695-w",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_party_rhetoric_immigration_attitudes_europe_summary_he.jpg",
+        "altHe": "נואם מפלגתי בדיוני פונה לקהל מגוון באספת בחירות מקומית על רקע דיון מתוח",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "המאמר בוחן אם עצם הקרבה לבחירות משנה זמנית את עמדות הציבור כלפי קבלת מהגרים באירופה. הוא מחבר את שבעת הסבבים הראשונים של הסקר החברתי האירופי, שנערכו בשנים 2002–2015 ב־28 מדינות, למועדי יותר מ־500 בחירות. במדגם המועדף נכללו 284,684 משיבים, ומועד הריאיון בתוך גל הסקר משמש מקור לשונות מעין־אקראית במרחק מן הבחירות. מדד העמדה הוא ממוצע תשובות לשלוש שאלות על קבלת מהגרים מקבוצות מוצא שונות, כאשר ציון גבוה יותר מבטא פתיחות רבה יותר. כדי לאפיין את המסר הפוליטי, החוקרים מודדים את הנטייה נטו של מצעי מפלגות בעד הגירה או נגדה. הממצא המרכזי הוא שעמדות נוטות להיות פחות מסבירות פנים סמוך לבחירות ונעשות חיוביות יותר ככל שמתרחקים מהן. הקשר הזה מרוכז בעיקר במערכות בחירות שבהן המצע המפלגתי המצרפי היה מתון עד שלילי כלפי הגירה. במקרים המעטים שבהם הרטוריקה הייתה חיובית מאוד, אין עדות להקשחה ואף מתקבלת תבנית הפוכה, אך האומדן אינו מצדיק מסקנה גורפת. הדפוס מופיע בקרב משיבים מן השמאל, המרכז והימין, והניתוחים אינם מספקים תמיכה ברורה בטענה שרק מחנה אידאולוגי אחד מושפע. המחקר עוסק בשינוי קצר טווח סביב מערכת הבחירות ואינו מראה שהעמדות נשארות כך לאורך זמן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_gender_quotas_electoral_systems_summary_he",
+      "file": "democracy_gender_quotas_electoral_systems_summary_he.html",
+      "permalink": "/democracy_gender_quotas_electoral_systems_summary_he.html",
+      "sortKey": 202608300003,
+      "titleHe": "מכסות מגדריות עשויות לפעול אחרת בשיטות בחירה אישיות ומפלגתיות",
+      "paperTitle": "Personalism or party platform? Gender quotas and women’s representation under different electoral system orientations",
+      "authorsCardHe": "Aliza Forman-Rabinovici, Lilach Nir",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Lilach Nir"
+      ],
+      "journal": "PLOS ONE, 16(9), e0257665",
+      "dateText": "פורסם: 23 בספטמבר 2021; כרך 16, גיליון 9, e0257665",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0257665",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_gender_quotas_electoral_systems_summary_he.jpg",
+        "altHe": "חברות פרלמנט בהודו יושבות סביב שולחן ועדה בדיון על חקיקה וסוגיות הנוגעות לנשים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "נשים היו בעת עריכת המחקר כמחצית מן האוכלוסייה אך החזיקו בממוצע רק בכרבע ממושבי בתי המחוקקים בעולם. אליזה פורמן־רבינוביצ׳י ולילך ניר שואלות אם יעילותן של מכסות מגדריות תלויה בכך שמערכת הבחירות ממוקדת במועמדים אישיים או במצעי מפלגות. בשיטה ממוקדת־מצע הבוחר מתמקד יותר ברשימה ובתוכנית המפלגה, ואילו בשיטה ממוקדת־מועמד זהות המועמד, הוותק והקריירה האישית מקבלים משקל רב יותר. החוקרות ציפו שמכסות יפעלו טוב יותר בשיטות מפלגתיות, משום שרשימות מקלות על גיוון ומפחיתות את החשיפה האישית לתיוג ולערעור על הלגיטימיות של מועמדות מכסה. הניתוח כולל 76 מדינות שקיבלו ציון ארבע ומעלה במדד Polity ולא עברו שינוי משטרי גדול בין 2005 ל־2015. ייצוג נשים נמדד כשיעור הנשים בבית התחתון בשנת 2015, ואוריינטציית המערכת נמדדה במדד אישי בן 13 דרגות המבוסס על כללי ההצבעה והשליטה בפתק. מדינה הוגדרה כבעלת מכסה אם הייתה בה מכסה חקיקתית או אם מפלגות בעלות מכסות החזיקו לפחות בשלושים אחוז מן המושבים, ואילו מכסות של מושבים שמורים הוצאו מן הניתוח. המודלים שולטים בייצוג יחסי, בגודל מחוז הבחירה, במדד הפיתוח האנושי ובהשתתפות נשים בכוח העבודה ובוחנים גם אינטראקציה בין מכסה לאוריינטציית המערכת. בנתונים התיאוריים מדינות ללא מכסות הציגו בממוצע 15.7 אחוז נשים ומדינות עם מכסות 24.7 אחוז, והפער הקשור למכסה היה גדול יותר בשיטות ממוקדות־מועמד מאשר בשיטות ממוקדות־מצע. גם חלק מן המודלים מצביעים על כך שככל שהמערכת אישית יותר תרומת המכסה גדלה, אף שבאופן כללי מערכות אישיות קשורות לייצוג נשי נמוך יותר. עם זאת, המבחנים הישירים שהשוו את מקדמי המכסה בין שתי קבוצות השיטות לא מצאו הבדל מובהק, ולכן המחקר מציג דפוס מפתיע ומבטיח למחקר נוסף ולא הוכחה סיבתית או מסקנה חד־משמעית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_turkey_national_unity_day_memory_summary_he",
+      "file": "democracy_turkey_national_unity_day_memory_summary_he.html",
+      "permalink": "/democracy_turkey_national_unity_day_memory_summary_he.html",
+      "sortKey": 202608300002,
+      "titleHe": "חג לאומי כמכשיר שלטוני: עיצוב זיכרון ההפיכה הכושלת בטורקיה",
+      "paperTitle": "“Democracy and National Unity Day” in Turkey: the invention of a new national holiday",
+      "authorsCardHe": "Nadav Solomonovich",
+      "sourceAuthors": [
+        "Nadav Solomonovich"
+      ],
+      "journal": "New Perspectives on Turkey, 64, 55–80",
+      "dateText": "פורסם אונליין: 15 בינואר 2021; כרך 64, עמ׳ 55–80",
+      "doiUrl": "https://doi.org/10.1017/npt.2020.33",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_turkey_national_unity_day_memory_summary_he.jpg",
+        "altHe": "טקס זיכרון אזרחי בדיוני בשעת ערב ובו במה ריקה, נרות, תהלוכה וקהל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "בליל 15 ביולי 2016 ניסו יחידות בצבא טורקיה להפיל את השלטון, ויותר ממאתיים אזרחים שהתנגדו להפיכה נהרגו ו־2,193 נפצעו. לאחר כישלון הניסיון הכריזה הממשלה על מצב חירום, חיזקה את הנשיאות וב־2017 קבעה את יום השנה כחג רשמי בשם יום הדמוקרטיה והאחדות הלאומית. נדב סולומונוביץ׳ שואל כיצד אירוע טרי נהפך למסורת לאומית ומה מלמד עיצוב החג על סדר היום של מפלגת הצדק והפיתוח. הוא נשען על ספרות העוסקת במסורות מומצאות ובפוליטיקה של זיכרון, ורואה בלוח השנה ובמרחב הציבורי מנגנונים של חִברות, לגיטימציה ובניית אומה. הקורפוס כולל דרשות ופרסומים של רשות הדת, תוכניות של משרד החינוך, טקסים ונאומי נשיא, אתרי אינטרנט, בולים ומטבעות, שינויי שמות, בתי קברות ואנדרטאות. המאמר מראה כי שפת הקדושים והלוחמים, קריאת הקוראן, תפילות במסגדים ואזכורי התערבות אלוהית העניקו לחג אופי אסלאמי מפורש. מערכת החינוך שילבה את 15 ביולי בשבוע הראשון ללימודים, בפינות זיכרון, סרטונים, מכתבים, תחרויות, תפילות ופעילויות שנועדו להעביר לילדים נרטיב אחיד של הקרבה, מולדת והנהגת ארדואן. במרחב הציבורי שונו שמותיהם של גשר וכיכרות מרכזיות, והאנדרטאות באיסטנבול ובאנקרה קשרו בין דת, דגל, אחדות העם, הנשיאות והסיסמה הפוליטית של המפלגה. המחבר אינו טוען שהחג מוחק את אטאטורק, אלא שהוא מרחיב ומשנה את הנרטיב הרפובליקני כך שהציבור הדתי־שמרני והמפלגה השלטת תופסים בו מקום מרכזי יותר. מאחר שהמחקר מנתח בעיקר את הייצור הרשמי של הזיכרון בשנותיו הראשונות של החג, הוא אינו יכול לקבוע כיצד כלל הציבור קיבל אותו או אם ישרוד חילופי שלטון, שחיקה טקסית והתנגדות מפלגתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_muslim_interest_group_us_britain_summary_he",
+      "file": "democracy_muslim_interest_group_us_britain_summary_he.html",
+      "permalink": "/democracy_muslim_interest_group_us_britain_summary_he.html",
+      "sortKey": 202608300001,
+      "titleHe": "כוח פוליטי של מיעוט מוסלמי: מדוע קבוצות אינטרס משפיעות יותר בבריטניה מבארצות הברית",
+      "paperTitle": "The political influence of an interest group: A comparative study on the Muslim minority in the United States and Britain",
+      "authorsCardHe": "Einat Jan",
+      "sourceAuthors": [
+        "Einat Jan"
+      ],
+      "journal": "Humanities and Social Sciences Communications, 10, Article 113",
+      "dateText": "פורסם אונליין: 18 במרץ 2023; כרך 10, מאמר 113",
+      "doiUrl": "https://doi.org/10.1057/s41599-023-01586-1",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_muslim_interest_group_us_britain_summary_he.jpg",
+        "altHe": "מארגנים מוסלמים בדיוניים משווים אסטרטגיות השפעה מוסדיות סביב שולחן עבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-30",
+      "dateModified": "2026-08-30",
+      "summaryHe": "עינת ג׳אן משווה את השפעתו הפוליטית של המיעוט המוסלמי בבריטניה ובארצות הברית בשנים 2000–2020. נקודת המוצא שלה היא שמדיניות כלפי קבוצת מיעוט אינה מוסברת רק באידאולוגיה או במוסדות, אלא גם בכוח האלקטורלי שהשלטון מייחס לקבוצה. המחקר הוא חקר מקרה השוואתי המשתמש במעקב תהליכים, כלומר בחיבור בין גורמים, החלטות ותוצאות לאורך זמן. בסיס המקורות כולל הצהרות ממשלה, יישום מדיניות, נתונים רשמיים, תוכניות מדינתיות, סקרי דעת קהל וספרות מחקרית. ההשוואה מאורגנת סביב חמישה גורמים: עבר קולוניאלי, דמוגרפיה, זהות מוסלמית, מדיניות שילוב וכוחו של לובי מוסלמי. לפי המאמר, הריכוז של מוסלמים במחוזות בחירה בריטיים, הנראות של זהותם הקהילתית ופעילותם של ארגונים ומפלגות הופכים את קולותיהם למשאב שמועמדים ומפלגות מבקשים לגייס. הדוגמאות המרכזיות הן פעילות המועצה המוסלמית של בריטניה, תגובת מפלגת הלייבור לאובדן תמיכה סביב מלחמת עיראק ועליית מפלגת ריספקט באזורים בעלי אוכלוסייה מוסלמית גדולה. ארצות הברית מתוארת כמקרה שבו האוכלוסייה המוסלמית מפוזרת ומגוונת יותר, הזהות האזרחית האמריקאית מודגשת יותר והארגונים אינם פועלים כלובי פנימי מאוחד. המסקנה היא שהבדלים אלה מסייעים להסביר מדוע ממשלות בריטיות מייחסות לקהילה משקל פוליטי רב יותר, בעוד שהממשל האמריקאי מייחס לה כוח קבוצתי מצומצם. עם זאת, הראיות הן פרשניות והשוואתיות, ולכן ההכללות על שתי הקהילות והטענה שמדיניות מסוימת נגרמה מכוח אלקטורלי אינן שקולות להוכחה סיבתית או למדידה ישירה של עמדות כלל חבריהן.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_religious_experience_democratic_ambivalence_summary_he",
       "file": "democracy_religious_experience_democratic_ambivalence_summary_he.html",
