@@ -1,8 +1,324 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1482,
+  "paperCount": 1492,
   "papers": [
+    {
+      "slug": "democracy_revolution_threat_great_reform_act_summary_he",
+      "file": "democracy_revolution_threat_great_reform_act_summary_he.html",
+      "permalink": "/democracy_revolution_threat_great_reform_act_summary_he.html",
+      "sortKey": 202608310010,
+      "titleHe": "האם איום במהפכה סייע להעביר את חוק הרפורמה הגדול של 1832?",
+      "paperTitle": "Democratization Under the Threat of Revolution: Evidence From the Great Reform Act of 1832",
+      "authorsCardHe": "Toke S. Aidt; Raphaël Franck",
+      "sourceAuthors": [
+        "Toke S. Aidt",
+        "Raphaël Franck"
+      ],
+      "journal": "Econometrica, 83(2), 505–547",
+      "dateText": "כרך 83, גיליון 2, מרץ 2015, עמ׳ 505–547",
+      "doiUrl": "https://doi.org/10.3982/ecta11484",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_revolution_threat_great_reform_act_summary_he.jpg",
+        "altHe": "איור היסטורי מן המאה ה־19 של מחאה עממית בבריטניה בתקופת המאבק על רפורמת הבחירות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "טוקה ס׳ איידט ורפאל פרנק בוחנים את תאוריית איום המהפכה באמצעות הבחירות באנגליה ב־1831, צומת מכריע בדרך לחוק הרפורמה הגדול של 1832. הם מיקמו גאוגרפית 2,818 אירועים של מהומות סווינג שהתרחשו בין בחירות 1830 לבחירות 1831, וחישבו כמה מהם אירעו ברדיוס של 10 קילומטרים מכל אחד מ־244 אזורי הבחירה האנגליים. התוצאה שנבדקה היא שיעור המושבים שבהם נבחרו ויגים ורדיקלים תומכי רפורמה, תוך בקרה על תמיכה קודמת בוויגים, הצבעה פרלמנטרית על רפורמה ב־1830, סוג אזור הבחירה, פטרונות, אוכלוסייה והרכב כלכלי. באומדן הריבועים הפחותים המועדף, כל מהומה נוספת בקרבת אזור בחירה נקשרה לעלייה של 0.47 נקודת אחוז בשיעור המושבים של הוויגים; הפער החזוי בין הרבעון העליון, עם לפחות 12 מהומות, לרבעון התחתון, עם מהומה אחת לכל היותר, היה 5.2 נקודות אחוז. מאחר ששיעור הוויגים עלה בפועל מ־42.9% ב־1830 ל־56.6% ב־1831, האומדן הבסיסי מייחס למהומות כמחצית מן העלייה הממוצעת. אומדני התאמה ומשתני עזר היו גדולים פי שניים עד פי חמישה. משתנה העזר היה זמן הנסיעה ברגל לאורך רשת הדרכים של 1830 מן הכפר סוונאוקס, שבו החלו המהומות; הוא נשען על התפשטותן לאורך הדרכים, אך פירושו הסיבתי תלוי בהנחה שהמרחק השפיע על הבחירות רק דרך החשיפה למהומות. מבחני פלצבו לא מצאו שהמהומות המקומיות ניבאו את בחירות 1830 שקדמו לגל האלימות, וגם לא את תוצאות 1826, 1835 או ההצבעה על הרפורמה של 1867. החוקרים מפרשים את הדפוס כך שבוחרים ופטרונים בעלי זכות הצבעה ראו אלימות מקרוב, חששו שהמרד הכפרי יתחבר לתנועת רפורמה רחבה ותמכו בוויגים שהציעו הרחבה מוגבלת של הזיכיון. המהומות לא היו תנועה מאורגנת למען רפורמה, והמתפרעים עצמם לא היו אמורים לקבל זכות הצבעה מן החוק. זהו מחקר של מקרה היסטורי יחיד ושל ציבור מצביעים זעיר, ומשתנה העזר המרחבי מחייב הנחת אי־השפעה חלופית חזקה; הוא אינו מסביר מדוע הרפורמה החלה, אינו טוען שהמהומות היו הגורם היחיד ואינו מוכיח שללא איום לא הייתה מתרחשת רפורמה בזמן אחר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_redistribution_compassion_envy_self_interest_summary_he",
+      "file": "democracy_redistribution_compassion_envy_self_interest_summary_he.html",
+      "permalink": "/democracy_redistribution_compassion_envy_self_interest_summary_he.html",
+      "sortKey": 202608310009,
+      "titleHe": "מה מניע תמיכה בחלוקה מחדש: חמלה, קנאה ואינטרס עצמי — או הוגנות?",
+      "paperTitle": "Support for redistribution is shaped by compassion, envy, and self-interest, but not a taste for fairness",
+      "authorsCardHe": "Daniel Sznycer; Maria Florencia Lopez Seal; Aaron Sell; Julian Lim; Roni Porat; Shaul Shalvi; Eran Halperin; Leda Cosmides; John Tooby",
+      "sourceAuthors": [
+        "Daniel Sznycer",
+        "Maria Florencia Lopez Seal",
+        "Aaron Sell",
+        "Julian Lim",
+        "Roni Porat",
+        "Shaul Shalvi",
+        "Eran Halperin",
+        "Leda Cosmides",
+        "John Tooby"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences, 114(31), 8420–8425",
+      "dateText": "פורסם אונליין: 17 ביולי 2017; כרך 114, גיליון 31, עמ׳ 8420–8425 (1 באוגוסט 2017)",
+      "doiUrl": "https://doi.org/10.1073/pnas.1703801114",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_redistribution_compassion_envy_self_interest_summary_he.jpg",
+        "altHe": "שלוש דמויות מייצגות אדם נזקק, אדם אמיד ואזרח השוקל תמיכה בחלוקה מחדש",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר בוחן מדוע אנשים תומכים בחלוקה מחדש של משאבים באמצעות 13 מחקרים שבהם השתתפו 6,024 בני אדם מארצות הברית, הודו, בריטניה וישראל. המסגרת התאורטית מתארת מדיניות חלוקה מחדש כמצב בן שלושה שחקנים: אדם נזקק המעורר חמלה, אדם שמצבו טוב יותר המעורר קנאה, והאדם עצמו המעריך אם ירוויח או יפסיד מן המדיניות. בארבעת המחקרים המרכזיים, חמלה נטייתית, קנאה נטייתית וציפייה לרווח אישי ניבאו כל אחת בנפרד יותר תמיכה בחלוקה מחדש; המקדמים המתוקננים נעו בין 0.28 ל־0.39 לחמלה, בין 0.10 ל־0.14 לקנאה ובין 0.18 ל־0.30 לאינטרס עצמי. יחד הסבירו שלושת המניעים 13%–28% מן השונות, והקשרים נשמרו לאחר הוספת גיל, מגדר ומעמד חברתי־כלכלי. חתימות התנהגותיות הבחינו בין חמלה לקנאה: חמלה לבדה ניבאה אם אדם נתן מכספו או ממשאביו לעניים בשנה הקודמת, ואילו קנאה לבדה ניבאה בחירה להטיל מס גבוה יותר על עשירים גם בתרחיש שבו העניים קיבלו פחות כסף. מחקרי המשך בארצות הברית בחנו הוגנות פרוצדורלית, שהוגדרה כהחלה אחידה של כללים, והוגנות חלוקתית, שהוגדרה כשונות נמוכה או אפסית בתוצאות. ההעדפה להוגנות חלוקתית לא ניבאה תמיכה בשלושת המחקרים הראשיים בתחום זה, והקשר של הוגנות פרוצדורלית נחלש בדרך כלל לאחר בקרה על שלושת המניעים; בגרסאות המשך שונות השפעות ההוגנות היו בלתי עקביות וקטנות בהרבה. המסקנה מוגבלת להגדרות ההוגנות שנבדקו ואינה שוללת תפיסות אחרות של צדק. נוסף על כך, מדדי העמדה המרכזיים הם מתאמיים ורוב המדגמים הם מקוונים או סטודנטיאליים, ולכן המחקר אינו מוכיח שמניע מסוים גורם לעמדה או מספק אומדנים ייצוגיים לכל ארבע האוכלוסיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_engaged_citizenship_norms_adolescents_summary_he",
+      "file": "democracy_engaged_citizenship_norms_adolescents_summary_he.html",
+      "permalink": "/democracy_engaged_citizenship_norms_adolescents_summary_he.html",
+      "sortKey": 202608310008,
+      "titleHe": "כיצד השתנו תפיסות האזרחות של בני 14 ב־21 מדינות בתוך עשור?",
+      "paperTitle": "The rise of engaged citizenship: The evolution of citizenship norms among adolescents in 21 countries between 1999 and 2009",
+      "authorsCardHe": "Marc Hooghe; Jennifer Oser",
+      "sourceAuthors": [
+        "Marc Hooghe",
+        "Jennifer Oser"
+      ],
+      "journal": "International Journal of Comparative Sociology, 56(1), 29–52",
+      "dateText": "פורסם אונליין: 30 במרץ 2015; כרך 56, גיליון 1, עמ׳ 29–52",
+      "doiUrl": "https://doi.org/10.1177/0020715215578488",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_engaged_citizenship_norms_adolescents_summary_he.jpg",
+        "altHe": "תלמידים משתתפים בפעילות אזרחית משותפת לצד סמלי הצבעה, קהילה והגנת הסביבה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "מארק הוגה וג׳ניפר אוסר משווים שני סקרי בתי ספר בין־לאומיים של בני 14 שנערכו ב־1999 וב־2009 ב־21 מדינות. הניתוח מבוסס על 72,543 משיבים בסקר CivEd הראשון ועל 75,020 משיבים בסקר ICCS השני, מתוך מחקרים רחבים יותר שתוכננו לייצג את אוכלוסיית בתי הספר בגיל זה. התלמידים דירגו את חשיבותן של 12 פעולות ותכונות של אזרח טוב, ובהן ציות לחוק, הצבעה, חברות במפלגה, מחאה שקטה, מעורבות קהילתית, הגנת זכויות אדם והגנת הסביבה. במקום לנתח כל פריט בנפרד, החוקרים השתמשו בניתוח קבוצות סמויות וזיהו בחמש קבוצות חוזרות: אזרחות מקיפה, אזרחות מעורבת, אזרחות מבוססת חובה, אזרחות ממוצעת ונתינים המדגישים ציות ועבודה קשה. חלקה של קבוצת האזרחות המעורבת, המדגישה זכויות אדם, סביבה וקהילה ופחות מחויבות למפלגות ולסמכות, עלה מ־16% ב־1999 ל־30% ב־2009. חלקה של האזרחות מבוססת החובה ירד מ־22% ל־15%, וחלקם של הנתינים ירד מ־16% ל־6%, בעוד שהקבוצה המקיפה גדלה מ־25% ל־35%. למרות המעברים הללו, שיעורי התמיכה בפריטים בודדים השתנו מעט יחסית: חשיבות ההצבעה הייתה 80% ב־1999 ו־79% ב־2009, למשל. גם הגאוגרפיה השתנתה באופן שלא התאים לסיפור ליניארי של חלוציות מערב־אירופית: האזרחות המעורבת ירדה בסקנדינביה ובמערב אירופה ועלתה בחדות במרכז ומזרח אירופה ובמספר המדינות מאמריקה הלטינית ואסיה. המאמר מתעד שינוי בין שני חתכי גיל מקבילים ולא התפתחות של אותם ילדים, והוא מודד אמונות נורמטיביות ולא התנהגות בפועל; לכן אין להסיק ממנו כיצד יחידים יתנהגו כמבוגרים או מה גרם לשינוי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_personal_values_political_activism_summary_he",
+      "file": "democracy_personal_values_political_activism_summary_he.html",
+      "permalink": "/democracy_personal_values_political_activism_summary_he.html",
+      "sortKey": 202608310007,
+      "titleHe": "כיצד ערכים אישיים קשורים לאקטיביזם פוליטי ב־28 מדינות?",
+      "paperTitle": "Personal values and political activism: A cross-national study",
+      "authorsCardHe": "Michele Vecchione; Shalom H. Schwartz; Gian Vittorio Caprara; Harald Schoen; Jan Cieciuch; Jo Silvester; Paul Bain; Gabriel Bianchi; Hasan Kirmanoğlu; Cem Başlevent; Cătălin Mamali; Jorge Manzi; Vassilis Pavlopoulos; Tetyana Posnova; Cláudio Torres; Markku Verkasalo; Jan-Erik Lönnqvist; Eva Vondráková; Christian Welzel; Guido Alessandri",
+      "sourceAuthors": [
+        "Michele Vecchione",
+        "Shalom H. Schwartz",
+        "Gian Vittorio Caprara",
+        "Harald Schoen",
+        "Jan Cieciuch",
+        "Jo Silvester",
+        "Paul Bain",
+        "Gabriel Bianchi",
+        "Hasan Kirmanoğlu",
+        "Cem Başlevent",
+        "Cătălin Mamali",
+        "Jorge Manzi",
+        "Vassilis Pavlopoulos",
+        "Tetyana Posnova",
+        "Cláudio Torres",
+        "Markku Verkasalo",
+        "Jan-Erik Lönnqvist",
+        "Eva Vondráková",
+        "Christian Welzel",
+        "Guido Alessandri"
+      ],
+      "journal": "British Journal of Psychology, 106(1), 84–106",
+      "dateText": "פורסם אונליין: 7 במרץ 2014; כרך 106, גיליון 1, עמ׳ 84–106 (פברואר 2015)",
+      "doiUrl": "https://doi.org/10.1111/bjop.12067",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_personal_values_political_activism_summary_he.jpg",
+        "altHe": "אזרחים ממדינות שונות משתתפים בהפגנה, בעצומה ובפעילות קהילתית כביטוי לערכים אישיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המחקר בוחן כיצד ערכי יסוד אישיים קשורים לאקטיביזם פוליטי בשני מערכי נתונים המקיפים יחד 28 מדינות בארבע יבשות. מחקר 1 מנתח 35,116 משיבים במדגמים ייצוגיים של 20 מדינות בסקר החברתי האירופי, ומחקר 2 מנתח 7,773 מבוגרים ב־14 מדינות באמצעות שאלון ערכים מפורט יותר. האקטיביזם נמדד לפי פעולות שבוצעו בשנה שקדמה לסקר, ובהן פנייה לנבחר ציבור, עבודה במפלגה או בארגון, חתימה על עצומה, הפגנה, חרם וקנייה מטעמים פוליטיים או מוסריים. בשני המחקרים, פתיחות לשינוי והתעלות עצמית נקשרו ליותר אקטיביזם, ואילו ערכי שימור נקשרו לפחות אקטיביזם; לערכי קידום עצמי לא נמצא קשר עקבי. במחקר הראשון ארבעת אשכולות הערכים הסבירו 8.7% מן השונות באקטיביזם, והוסיפו 5.3% לאחר בקרה על גיל, מגדר, השכלה והכנסה. במחקר השני, שבו נבחנו 15 ערכים צרים, הכוונה עצמית במחשבה הייתה הקשר החיובי החזק ביותר, ואילו קונפורמיות וביטחון אישי היו הקשרים השליליים החזקים ביותר. רמת הדמוקרטיה של המדינה נקשרה הן ליותר אקטיביזם והן לקשרים חזקים יותר בין אקטיביזם לבין פתיחות לשינוי, התעלות עצמית ושימור. עם זאת, העיצוב הוא חתך מתאמי המבוסס על דיווח עצמי, רוב מדגמי המחקר השני אינם ייצוגיים, והערכים הסבירו בין 1% ל־25% מן השונות במדינות השונות. לכן המאמר מצביע על דפוס פסיכולוגי עקבי ועל תלותו בהקשר הדמוקרטי, אך אינו מוכיח שערכים גורמים לאקטיביזם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_affirmative_action_political_legal_antecedents_summary_he",
+      "file": "democracy_affirmative_action_political_legal_antecedents_summary_he.html",
+      "permalink": "/democracy_affirmative_action_political_legal_antecedents_summary_he.html",
+      "sortKey": 202608310006,
+      "titleHe": "אילו תנאים פוליטיים ומשפטיים מנבאים אימוץ של העדפה מתקנת ברחבי העולם",
+      "paperTitle": "Political and legal antecedents of affirmative action: a comparative framework",
+      "authorsCardHe": "Udi Sommer; Victor Asal",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Victor Asal"
+      ],
+      "journal": "Journal of Public Policy, 39(2), 359–391",
+      "dateText": "פורסם אונליין: 16 במרץ 2018; כרך 39, גיליון 2 (יוני 2019), עמ׳ 359–391",
+      "doiUrl": "https://doi.org/10.1017/S0143814X18000089",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_affirmative_action_political_legal_antecedents_summary_he.jpg",
+        "altHe": "קבוצה מגוונת של מקבלי החלטות מתכנסת סביב שולחן בחדר משפטי לדיון במדיניות שוויון והעדפה מתקנת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר משנה את כיוון השאלה המקובלת על העדפה מתקנת: במקום לבחון בעיקר את צדקתה או את תוצאותיה, הוא מחפש את התנאים שקודמים לאימוצה. המסגרת התאורטית משלבת משוב מדיניות עם צדק מפצה. לפי היגיון משוב המדיניות, מקבלי החלטות שוקלים כיצד מדיניות כלפי קבוצת יעד תשפיע על גיוס פוליטי, על דעת הקהל ועל תגובות התקשורת, היריבים והבוחרים. מכאן נגזרות השערות שלפיהן תנאים דמוקרטיים, מודרניזציה והשכלה ומשאבים כלכליים מגבירים את הסיכוי למדיניות מתקנת, ואילו קבוצה שהועברה ממדינה אחרת משולבת פחות במנגנוני הייצוג ולכן צפויה ליהנות ממנה פחות. גלובליזציה נבחנת כמנגנון של התפשטות נורמות שוויון, והיסטוריה של אלימות נגד הקבוצה משמשת מדד גס לטענה של צדק מפצה. הניתוח משתמש בנתוני Minorities at Risk על 232 קבוצות ב־150 מדינות בשנים 1985–2003, בממוצע יותר מחמש עשרה שנות תצפית לכל קבוצה. שלושה משתנים בינריים מבחינים בין מדיניות מפורשת לתיקון נחיתות פוליטית, מדיניות לתיקון נחיתות כלכלית וקיומו של אחד משני הסוגים. מודלים של השפעות קבועות ובדיקות חלופיות מראים קשרים חיוביים של הפצת ידע, תוצר לנפש וגלובליזציה עם הסיכוי למדיניות מתקנת, וקשר שלילי עקבי להעברה ממדינה אחרת. דמוקרטיה קשורה במיוחד להעדפה מתקנת פוליטית, ואילו משאבים כלכליים בולטים יותר בהעדפה מתקנת כלכלית. היסטוריה של אלימות קשורה באופן חיובי לתוצאה הכללית במודלים המרכזיים, אך עוצמתה אינה אחידה בכל המפרטים החלופיים. העלייה במספר המדינות והתוכניות ב־1993–1994 מתיישבת עם השערת מפל נורמות עולמי, אך אינה מוכיחה שגלובליזציה גרמה לאימוץ. זהו מחקר תצפיתי על קבוצות אתנו־פוליטיות בסיכון, הוא אינו מכסה במלואה העדפה מתקנת לנשים ואינו כולל ישירות דעת קהל או פעילות תנועות חברתיות. לפיכך הממצאים מצביעים על תנאים מוסדיים וחברתיים שיטתיים המלווים אימוץ מדיניות, ולא על חוק סיבתי או על הערכה נורמטיבית של המדיניות עצמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_facebook_ideology_revealed_preferences_summary_he",
+      "file": "democracy_facebook_ideology_revealed_preferences_summary_he.html",
+      "permalink": "/democracy_facebook_ideology_revealed_preferences_summary_he.html",
+      "sortKey": 202608310005,
+      "titleHe": "כיצד לייקים בפייסבוק שימשו למדידת אידאולוגיה של פוליטיקאים ומיליוני אזרחים",
+      "paperTitle": "Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook",
+      "authorsCardHe": "Robert M. Bond; Solomon Messing",
+      "sourceAuthors": [
+        "Robert M. Bond",
+        "Solomon Messing"
+      ],
+      "journal": "American Political Science Review, 109(1), 62–78",
+      "dateText": "פברואר 2015; כרך 109, גיליון 1, עמ׳ 62–78",
+      "doiUrl": "https://doi.org/10.1017/S0003055414000525",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_facebook_ideology_revealed_preferences_summary_he.jpg",
+        "altHe": "חוקרים בוחנים רשת צפופה ורב־צבעית של קשרים חברתיים ואידאולוגיים המוצגת על לוח שקוף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר מפתח מדד התנהגותי שממקם פוליטיקאים ואזרחים על אותו סולם אידאולוגי באמצעות לייקים לעמודים פוליטיים רשמיים בפייסבוק. בסיס הנתונים העיקרי כולל 6.2 מיליון משתמשים אמריקאים בגירים שאהבו לפחות שני עמודים מתוך 1,223 עמודים פוליטיים, לצד חתכי נתונים מ־2011 ומ־2012. החוקרים בונים מטריצת שיתוף קהלים בין עמודים, מנרמלים אותה לפי מספר התומכים בכל עמוד ומפעילים פירוק לערכים סינגולריים כדי להפיק את הממד האידאולוגי הראשון. ציון המשתמש הוא ממוצע ציוני העמודים שאהב, וכך האליטות והציבור מוצבים באותה מערכת מדידה. תיקוף מול 465 עמודים של חברי הקונגרס ה־111 הניב מתאם של 0.94 עם DW-NOMINATE, מדד המבוסס על הצבעות שמיות בקונגרס. ברמת האזרחים, הציונים הסתדרו לפי התוויות הפוליטיות שהמשתמשים כתבו בפרופיל ולפי סקר נפרד של 20,027 משתמשים שניתן היה להתאים להם ציון. שלושה יישומים מדגימים את המדד: הקשר בין גיל לאידאולוגיה, הדמיון האידאולוגי בין בני משפחה, בני זוג וחברים, והקשר בין אי־הסכמה ברשת לבין הצבעה. המתאם בין אידאולוגיות של חברים היה 0.67 ב־2011 ו־0.69 ב־2012, והדמיון עלה ככל שהקשר היה קרוב יותר; זוגות נשואים הציגו את המתאם הגבוה ביותר מבין סוגי הקשר שנבדקו. בהתאמה לרשומות הצבעה מ־13 מדינות בארצות הברית, עלייה של סטיית תקן אחת במרחק האידאולוגי הממוצע בין אדם לחבריו נקשרה לירידה של 1.3 נקודות אחוז בהסתברות להצביע. החוקרים מדגישים שהמדגם אינו מייצג את האוכלוסייה: משתמשים שאוהבים שני עמודים פוליטיים לפחות הם מעורבים פוליטית יותר, וסקר התיקוף היה מדגם נוחות בעל שיעור תגובה נמוך. לייק עשוי לבטא חיפוש מידע ולא תמיכה, והקשרים בין דמיון, קרבת קשר והצבעה אינם מבחינים בין בחירת חברים דומים, השפעה הדדית וחשיפה משותפת. לכן תרומת המאמר היא כלי מדידה רחב היקף ותשתית להשערות, לא הוכחה שכלל הציבור מקוטב או שרשת הומוגנית גורמת להימנעות מהצבעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_five_star_movement_left_populist_vote_summary_he",
+      "file": "democracy_five_star_movement_left_populist_vote_summary_he.html",
+      "permalink": "/democracy_five_star_movement_left_populist_vote_summary_he.html",
+      "sortKey": 202608310004,
+      "titleHe": "האם ההצלחה האלקטורלית של תנועת חמשת הכוכבים הייתה הצבעת שמאל פופוליסטית",
+      "paperTitle": "The electoral success of the Movimento 5 Stelle: An example of a left populist vote?",
+      "authorsCardHe": "Marc Hooghe; Jennifer Oser",
+      "sourceAuthors": [
+        "Marc Hooghe",
+        "Jennifer Oser"
+      ],
+      "journal": "Austrian Journal of Political Science, 44(4), 25–36",
+      "dateText": "כרך 44, גיליון 4 (2015), עמ׳ 25–36; פורסם ב־1 בפברואר 2016",
+      "doiUrl": "https://doi.org/10.15203/ozp.1049.vol44iss4",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_five_star_movement_left_populist_vote_summary_he.jpg",
+        "altHe": "מצביעים אוחזים פתקים ומשוחחים מחוץ לקלפי בשכונה איטלקית ביום בחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר שואל אם מצביעי Movimento 5 Stelle באיטליה מייצגים גרסה שמאלית מובחנת של ההצבעה הפופוליסטית באירופה. הוא משתמש בסבב השישי של סקר החברה האירופי מ־2012 ומשווה את מניעי מצביעי התנועה למניעי מצביעים בשש מדינות נוספות שבהן היה בסקר מספר מספיק של תומכי מפלגה פופוליסטית. המשתנה התלוי הוא דיווח עצמי על המפלגה שבעדה הצביע המשיב בבחירות הכלליות האחרונות. ההסברים כוללים הערכה של תפקוד הדמוקרטיה והזכויות החברתיות, אמון בחמישה מוסדות פוליטיים, יחס למהגרים, עמדה כלפי האיחוד האירופי ומאפיינים חברתיים ופוליטיים. מודלים לוגיסטיים נפרדים לכל מדינה מראים כי באיטליה ההסבר המובהק והייחודי הוא הערכה שלילית של התהליכים והמוסדות הפוליטיים והמשפטיים. לעומת זאת, יחס שלילי למהגרים, מיקום עצמי על ציר שמאל–ימין ועמדה אירוסקפטית אינם מסבירים באופן מובהק הצבעה לחמשת הכוכבים בנתוני 2012. בכך מצביעי התנועה שונים ממצביעים פופוליסטיים בהולנד, שווייץ ודנמרק, שבהן לעמדות נגד הגירה היה משקל מרכזי. אולם ההבדל אינו הופך אותם אוטומטית למצביעי שמאל: גם הזדהות שמאלית לא נמצאה כמניע. הממצא המדויק יותר הוא שפופוליזם איטלקי זה התמחה באי־שביעות רצון מן המערכת הלאומית, בשעה שמושאי המחאה במדינות אחרות היו שונים. המחקר מוגבל לנתוני חתך מ־2012, לדיווח עצמי ולשבע מדינות, והוא מנתח מניעי מצביעים ולא את מצע המפלגה, מנהיגותה או שינוי עמדותיה בשנים הבאות. לכן הוא אינו קובע מהי זהותה הקבועה של התנועה, אלא מראה אילו מניעים הבחינו את מצביעיה באותו זמן ובאותו סקר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_ecthr_expansive_interpretation_summary_he",
+      "file": "democracy_ecthr_expansive_interpretation_summary_he.html",
+      "permalink": "/democracy_ecthr_expansive_interpretation_summary_he.html",
+      "sortKey": 202608310003,
+      "titleHe": "מתי פרשנות מרחיבה של האמנה האירופית לזכויות אדם יכולה להיות דמוקרטית ולגיטימית",
+      "paperTitle": "In Defence of Expansive Interpretation in the European Court of Human Rights",
+      "authorsCardHe": "Shai Dothan",
+      "sourceAuthors": [
+        "Shai Dothan"
+      ],
+      "journal": "Cambridge Journal of International and Comparative Law, 3(2), 508–531",
+      "dateText": "כרך 3, גיליון 2 (2014), עמ׳ 508–531",
+      "doiUrl": "https://doi.org/10.7574/cjicl.03.02.149",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ecthr_expansive_interpretation_summary_he.jpg",
+        "altHe": "בית הדין האירופי לזכויות אדם בשטרסבורג, שבו נדונות התחייבויות המדינות לפי האמנה האירופית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר בוחן את הלגיטימיות הדמוקרטית של פרשנות מרחיבה בבית הדין האירופי לזכויות אדם, ולא רק את תקינותה הדוקטרינרית. נקודת המוצא היא שבית הדין משתמש בעקרון האפקטיביות, בפרשנות תכליתית ואבולוציונית ובדוקטרינות נוספות כדי להעמיק את ההגנה על זכויות מעבר למה שמדינות צפו בעת אשרור האמנה. מאחר ששופטי בית הדין אינם נבחרים, הרחבה כזאת עלולה לסתור החלטה דמוקרטית של מדינות המייצגות את אזרחיהן. דותן טוען שההתנגדות נחלשת בשני מצבים. במצב הראשון, רוב המדינות היה מקבל התחייבות נוספת אלמלא דרישת תמימות דעים, כוח וטו או בעיית מיקוח שהותירו את הטקסט מאחור ביחס להעדפותיהן. במצב השני, מנגנוני הדמוקרטיה הלאומיים אינם מייצגים כראוי אנשים שאין להם זכות הצבעה, מיעוטים מוחלשים או ציבור שרצונו נדחק בידי קבוצות אינטרס מאורגנות. במקרים אלה פרשנות מרחיבה, כל עוד היא נשארת בתוך מרחב שהטקסט מאפשר, עשויה לקרב את הדין לרצון המדינות או לאינטרסים האמיתיים של אזרחיהן. פרוטוקולים אופציונליים מציבים מבחן קשה יותר, משום שמדינה יכולה בדרך כלל להצטרף אליהם בלי להיכנע לווטו של אחרות. דיון בסעיף 14 ובפרוטוקול 12 מראה כיצד בית הדין הרחיב את ההגנה מפני אפליה גם במדינות שלא קיבלו זכות כללית לשוויון, ובפרשת D.H. הכיר באפליה עקיפה נגד ילדי רומה. המאמר אינו מציע היתר כללי לאקטיביזם שיפוטי: כשההליך הדמוקרטי תקין והמדינה יכולה לבחור בהתחייבות נוספת אך נמנעת ממנה, יש משקל חזק לריסון ולמרחב ההערכה הלאומי. גם הרחבה לגיטימית עלולה להרתיע מדינות מאשרור פרוטוקולים עתידיים, ולכן בית הדין נדרש להביא בחשבון את התמריצים שהוא יוצר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_online_political_discussion_group_influence_summary_he",
+      "file": "democracy_online_political_discussion_group_influence_summary_he.html",
+      "permalink": "/democracy_online_political_discussion_group_influence_summary_he.html",
+      "sortKey": 202608310002,
+      "titleHe": "כיצד האקלים הטיעוני בדיון פוליטי מקוון משנה את דעת המשתתפים",
+      "paperTitle": "Normative and Informational Influences in Online Political Discussions",
+      "authorsCardHe": "Vincent Price, Lilach Nir, Joseph N. Cappella",
+      "sourceAuthors": [
+        "Vincent Price",
+        "Lilach Nir",
+        "Joseph N. Cappella"
+      ],
+      "journal": "Communication Theory, 16(1), 47–74",
+      "dateText": "פורסם אונליין: 10 במרץ 2006; כרך 16, גיליון 1, עמ׳ 47–74",
+      "doiUrl": "https://doi.org/10.1111/j.1468-2885.2006.00005.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_online_political_discussion_group_influence_summary_he.jpg",
+        "altHe": "משתתפים בדיון מקוון מחוברים בחלונות טקסט שבהם טיעונים נעים בין חברי הקבוצה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר בוחן כיצד דברי משתתפים בדיון פוליטי מקוון משפיעים על מה שאחרים מוכנים לומר ועל דעתם לאחר השיחה. הנתונים נלקחו מפרויקט Electronic Dialogue, פאנל אינטרנטי שנמשך שנה סביב הבחירות לנשיאות ארצות הברית בשנת 2000. מדגם בסיס של 1,684 מבוגרים הגיע מפאנל הסתברותי ארצי שגויס בחיוג מספרים אקראי וקיבל ציוד WebTV, ולא ממדגם נוחות של גולשי אינטרנט. הניתוח במאמר מתמקד ב־306 אנשים שהשתתפו באירוע הדיון השישי וב־247 מהם שהשלימו סקר לפני הדיון ואחריו. המשתתפים שובצו ב־60 קבוצות ושוחחו במשך כ־12 דקות על תוכניות המס של ג׳ורג׳ ו׳ בוש ואל גור, בלי שנדרשו להגיע להסכמה או להצביע. החוקרים קידדו כל אמירה כעמדה חיובית או שלילית נטולת נימוק, או כטיעון שמציג גם כיוון וגם סיבה, ובנו לכל משתתף מדד של האקלים שנוצר מדברי האחרים בלבד. לאחר שליטה בעמדה המוקדמת, בגודל הקבוצה ובנטייה להשתתף, טיעוני האחרים ניבאו את כיוון הטיעונים שהיחיד השמיע ואת עמדתו לאחר הדיון. ההשפעה לא נראתה בעיקר כספירלת שתיקה שבה מיעוטים חדלים לדבר, אלא כתהליך שבו טיעונים מעוררים טיעונים נוספים. כאשר הוסיפו למודל את דבריו של המשתתף עצמו, תרומת דברי הקבוצה נחלשה ולא הייתה מובהקת, ואילו טיעוניו של היחיד היו מנבא חזק של עמדתו המאוחרת. הממצא תומך במסלול עקיף: האקלים הקבוצתי מכוון את מה שהאדם אומר, והביטוי העצמי מסייע לגבש או להזיז את דעתו. גם 55 המשתתפים שלא ידעו מראש איזו תוכנית הם מעדיפים נטו לאחר הדיון לכיוון הטיעונים ששמעו בקבוצתם. עם זאת, זהו ניתוח של שיחה קצרה בנושא יחיד, בקבוצות שנבנו למחקר וברשת של שנת 2000; הוא אינו ניסוי שמקצה אקראית אקלים טיעוני ואינו מוכיח שהדפוס זהה ברשתות החברתיות האלגוריתמיות של ימינו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_higher_education_internationalization_troublesome_minorities_summary_he",
+      "file": "democracy_higher_education_internationalization_troublesome_minorities_summary_he.html",
+      "permalink": "/democracy_higher_education_internationalization_troublesome_minorities_summary_he.html",
+      "sortKey": 202608310001,
+      "titleHe": "כיצד מדינות מגייסות בינאום אקדמי לשילוב מיעוטים הנתפסים כבעייתיים",
+      "paperTitle": "Adapting ‘internationalization’ to integrate ‘troublesome’ minorities: higher education policies towards Hong Kong and East Jerusalem",
+      "authorsCardHe": "Annette Bamberger, Fei Yan, Paul Morris",
+      "sourceAuthors": [
+        "Annette Bamberger",
+        "Fei Yan",
+        "Paul Morris"
+      ],
+      "journal": "Journal of Education Policy, 38(2), 254–276",
+      "dateText": "פורסם אונליין: 9 בדצמבר 2021; כרך 38, גיליון 2, עמ׳ 254–276",
+      "doiUrl": "https://doi.org/10.1080/02680939.2021.2002419",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/democracy_higher_education_internationalization_troublesome_minorities_summary_he.jpg",
+        "altHe": "שתי סטודנטיות ניצבות במסדרון אוניברסיטאי בין לוחות כתובים בסינית, בערבית ובעברית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-08-31",
+      "dateModified": "2026-08-31",
+      "summaryHe": "המאמר בוחן כיצד סין וישראל התאימו מנגנונים של בינאום בהשכלה הגבוהה לאוכלוסיות שהן תובעות עליהן ריבונות אך תופסות כבעלות זהות מתחרה: סטודנטים מהונג קונג ופלסטינים ממזרח ירושלים. זהו מחקר מקרים השוואתי המבוסס על מדיניות ממשלתית ומוסדית, החלטות תקציביות, דוחות, אתרי אוניברסיטאות, פרסומים בתקשורת וראיונות עם אנשי סגל. במקרה הסיני, סטודנטים מהונג קונג מתקבלים בקטגוריות ובמסלולים נפרדים הדומים לאלה של סטודנטים מחו״ל. באוניברסיטת ג׳ינאן ובמכללת סיהאי הם מקבלים תמריצים ותמיכה, אך גם נחשפים לחינוך על המצב הלאומי, לפעילויות פטריוטיות ולמערך ליווי הכולל מעקב אידאולוגי. במקרה הישראלי, פלסטינים ממזרח ירושלים אינם מוגדרים רשמית סטודנטים בינלאומיים, אך המכינה סדארה/קדמה באוניברסיטה העברית מופעלת בבית הספר הבינלאומי רוטברג ומשתמשת בתשתיות שנבנו בעבר לקליטת עולים וסטודנטים מחו״ל. המסלול מציע עברית, אנגלית, מתמטיקה, כתיבה אקדמית והיכרות עם החברה והממשל בישראל, לצד הקלות קבלה, מימון ותמיכה. המחברים מכנים את התופעה בינאום מבוית וטוענים שהיא יכולה לשמש כוח רך המופנה פנימה ואף צורה של קולוניזציה פנימית. עם זאת, ההשוואה אינה טוענת ששני המקרים זהים: סין מציגה את תושבי הונג קונג כבני האומה שאיבדו את זיקתם אליה, ואילו ישראל מבקשת לשלב את תושבי מזרח ירושלים כמיעוט נאמן או לפחות לא עוין, לא כחלק מן הלאום היהודי. גם יחסי המדינה והאוניברסיטה שונים: ג׳ינאן מיושרת במוצהר עם יעדי המפלגה, ואילו אנשי סגל באוניברסיטה העברית פירשו את התוכנית כהזדמנות לנגישות, ללכידות חברתית ולחשיבה ביקורתית. המחקר מנתח את מטרות המדיניות ואת עיצובן, אך אינו מודד את השפעתן על זהות הסטודנטים או מוכיח שהמדינות השיגו את יעדיהן.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_israeli_parties_abroad_activities_summary_he",
       "file": "democracy_israeli_parties_abroad_activities_summary_he.html",

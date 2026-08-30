@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-08-31",
   "sampleSize": 6,
-  "seed": "2026-08-30-homepage-high-fit",
+  "seed": "2026-08-31-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
   "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_everyday_human_rights_lawmaking_domestic_violence_torture_summary_he",
-    "democracy_turkey_national_unity_day_memory_summary_he",
-    "democracy_muslim_voters_exclusion_political_participation_europe_summary_he",
-    "democracy_omnibus_legislation_judicial_review_summary_he",
-    "democracy_israeli_parties_abroad_activities_summary_he",
-    "democracy_party_rhetoric_immigration_attitudes_europe_summary_he"
+    "democracy_affirmative_action_political_legal_antecedents_summary_he",
+    "democracy_online_political_discussion_group_influence_summary_he",
+    "democracy_higher_education_internationalization_troublesome_minorities_summary_he",
+    "democracy_ecthr_expansive_interpretation_summary_he",
+    "democracy_revolution_threat_great_reform_act_summary_he",
+    "democracy_engaged_citizenship_norms_adolescents_summary_he"
   ]
 }
