@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-02",
   "sampleSize": 6,
-  "seed": "2026-09-01-homepage-high-fit",
+  "seed": "2026-09-02-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 10,
+  "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_general_specialized_courts_complementarity_summary_he",
-    "democracy_frontier_populism_market_making_american_west_summary_he",
-    "democracy_hart_kelsen_populist_legal_theory_summary_he",
-    "democracy_druze_protest_nation_state_law_media_summary_he",
-    "democracy_political_engagement_trust_efficacy_israel_2022_summary_he",
-    "democracy_media_gender_representation_egypt_parliament_summary_he"
+    "democracy_palestinian_arab_women_local_politics_representation_summary_he",
+    "democracy_redistribution_support_question_wording_meaning_summary_he",
+    "democracy_labour_incorporation_growth_model_transformation_summary_he",
+    "democracy_disability_sexual_rights_judicial_rulings_summary_he",
+    "democracy_populism_security_policy_poland_pis_summary_he",
+    "democracy_religiosity_corruption_cultural_personal_channels_summary_he"
   ]
 }
