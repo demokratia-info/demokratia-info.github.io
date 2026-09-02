@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "sampleSize": 6,
-  "seed": "2026-09-02-homepage-high-fit",
+  "seed": "2026-09-03-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 8,
+  "fullTextHighFitPaperCount": 6,
   "paperSlugs": [
-    "democracy_palestinian_arab_women_local_politics_representation_summary_he",
-    "democracy_redistribution_support_question_wording_meaning_summary_he",
-    "democracy_labour_incorporation_growth_model_transformation_summary_he",
-    "democracy_disability_sexual_rights_judicial_rulings_summary_he",
-    "democracy_populism_security_policy_poland_pis_summary_he",
-    "democracy_religiosity_corruption_cultural_personal_channels_summary_he"
+    "democracy_expressive_power_voting_rules_summary_he",
+    "democracy_torture_legality_human_rights_litigation_summary_he",
+    "democracy_identity_politics_new_right_decolonization_summary_he",
+    "democracy_party_voter_affective_alignments_germany_summary_he",
+    "democracy_private_governance_business_state_germany_summary_he",
+    "democracy_pegasus_cyber_espionage_legitimation_summary_he"
   ]
 }
