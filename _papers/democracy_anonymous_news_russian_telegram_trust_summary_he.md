@@ -18,7 +18,7 @@
   "fullTextUrl": "https://www.mdpi.com/2076-0760/13/4/180/pdf",
   "authorsCardHe": "Anna Litvinenko; Anna Smoliarova",
   "paperTitle": "Trust in Anonymous News? How Users Navigate Political News Channels on Russian Telegram",
-  "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/en/kommwiss/arbeitsstellen/digitalisierung_partizipation/team/alitvinenko/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Litvinenko</a>; Anna Smoliarova",
+  "authorsHtml": "<a href=\"https://www.polsoz.fu-berlin.de/en/kommwiss/arbeitsstellen/digitalisierung_partizipation/team/alitvinenko/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Litvinenko</a>; <a href=\"https://cris.huji.ac.il/en/persons/anna-smoliarova/\" target=\"_blank\" rel=\"noopener noreferrer\">Anna Smoliarova</a>",
   "journal": "Social Sciences, 13(4), Article 180",
   "dateText": "פורסם: 22 במרץ 2024; כרך 13, גיליון 4, מאמר 180",
   "sourcePublishedDate": "2024-03-22",
@@ -32,7 +32,8 @@
     },
     {
       "@type": "Person",
-      "name": "Anna Smoliarova"
+      "name": "Anna Smoliarova",
+      "url": "https://cris.huji.ac.il/en/persons/anna-smoliarova/"
     }
   ],
   "sourceAuthors": [
@@ -43,7 +44,8 @@
     },
     {
       "@type": "Person",
-      "name": "Anna Smoliarova"
+      "name": "Anna Smoliarova",
+      "url": "https://cris.huji.ac.il/en/persons/anna-smoliarova/"
     }
   ],
   "topics": [

@@ -19,7 +19,7 @@
   "repositoryUrl": "https://real.mtak.hu/192892/",
   "authorsCardHe": "Amnon Cavari; Ákos Máté; Miklós Sebők",
   "paperTitle": "Staying on the democratic script? A deep learning analysis of the speechmaking of U.S. presidents",
-  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/cavari/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; Ákos Máté; Miklós Sebők",
+  "authorsHtml": "<a href=\"https://www.runi.ac.il/en/faculty/cavari/\" target=\"_blank\" rel=\"noopener noreferrer\">Amnon Cavari</a>; <a href=\"https://polecon.tk.hu/en/team\" target=\"_blank\" rel=\"noopener noreferrer\">Ákos Máté</a>; <a href=\"https://politikatudomany.tk.hu/en/researcher/sebok-miklos\" target=\"_blank\" rel=\"noopener noreferrer\">Miklós Sebők</a>",
   "journal": "Policy Studies Journal, 52(4), 709–729",
   "dateText": "פורסם לראשונה אונליין: 20 באפריל 2024; כרך 52, גיליון 4, עמ׳ 709–729",
   "sourcePublishedDate": "2024-04-20",
@@ -33,11 +33,13 @@
     },
     {
       "@type": "Person",
-      "name": "Ákos Máté"
+      "name": "Ákos Máté",
+      "url": "https://polecon.tk.hu/en/team"
     },
     {
       "@type": "Person",
-      "name": "Miklós Sebők"
+      "name": "Miklós Sebők",
+      "url": "https://politikatudomany.tk.hu/en/researcher/sebok-miklos"
     }
   ],
   "sourceAuthors": [
@@ -48,11 +50,13 @@
     },
     {
       "@type": "Person",
-      "name": "Ákos Máté"
+      "name": "Ákos Máté",
+      "url": "https://polecon.tk.hu/en/team"
     },
     {
       "@type": "Person",
-      "name": "Miklós Sebők"
+      "name": "Miklós Sebők",
+      "url": "https://politikatudomany.tk.hu/en/researcher/sebok-miklos"
     }
   ],
   "topics": [
