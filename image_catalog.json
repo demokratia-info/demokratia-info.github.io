@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -11,6 +11,320 @@
   "paperImageFitnessPolicy": "The image-paper tuple fitness is stored in each paper source under image.fitness. Values are high, standard, or low. Only high renders the image near the top of the paper summary page. Existing images are conservatively standard unless specifically reviewed; approved user-uploaded replacements are high.",
   "homepagePriorityPolicy": "On index.html, render the six-card homepage sample from _data/homepage_high_fit_sample.json, which must contain papers whose image.fitness is high. Refresh that sample during the 00:05 Asia/Jerusalem heartbeat run with scripts/sample_homepage_high_fit.py --write. Keep the first 3 preview images as width=800 height=600 decoding=async fetchpriority=high. Use width=800 height=600 loading=lazy decoding=async for the remaining preview images.",
   "images": [
+    {
+      "file": "html_qa/democracy_white_jihad_fused_extremism_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_white_jihad_fused_extremism_summary_he.html",
+      "usedBy": [
+        "democracy_white_jihad_fused_extremism_summary_he.html"
+      ],
+      "cardTitleHe": "״ג׳יהאד לבן״: שאילה סמלית אינה מיזוג אידאולוגי",
+      "authorsHe": "Gabriel Weimann; Alexander T. Pack; Gal Rapaport",
+      "visualDescriptionHe": "שלושה חוקרים משווים תצלומים מונוכרומטיים המחוברים ברשת קשרים על לוח ארכיון.",
+      "semanticDescriptionHe": "הסצנה ממחישה בחינה שיטתית של קשרים והבדלים בין גופי תעמולה קיצוניים; החוקרים, התצלומים והקשרים חזותיים הם בדיוניים ואינם חומר המחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "violent_extremism",
+        "white_supremacy",
+        "jihadism",
+        "propaganda_analysis"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific editorial research scene generated without readable text, logos, flags, recognizable extremist symbols, graphic violence, or identifiable people and finished as an 800x600 progressive JPEG. High fitness because it directly represents comparative analysis of separate propaganda corpora without reproducing harmful source material.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_anonymous_news_russian_telegram_trust_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_anonymous_news_russian_telegram_trust_summary_he.html",
+      "usedBy": [
+        "democracy_anonymous_news_russian_telegram_trust_summary_he.html"
+      ],
+      "cardTitleHe": "לא חייבים להאמין כדי להמשיך לקרוא",
+      "authorsHe": "Anna Litvinenko; Anna Smoliarova",
+      "visualDescriptionHe": "נוסע ברכבת מחזיק טלפון חכם בזמן הנסיעה.",
+      "semanticDescriptionHe": "התצלום ממחיש צריכה ניידת ויומיומית של מידע דיגיטלי, אך אינו מציג את Telegram, ערוץ רוסי, משתתף במחקר או תוכן שנבדק בו.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "telegram",
+        "anonymous_news",
+        "mobile_media",
+        "news_trust"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons contextual photograph of smartphone use on a train, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it directly depicts mobile information use but not the platform, political channels, or interview setting studied in the article.",
+      "createdDate": "2026-09-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Almanta / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smartphone_used_in_train.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Smartphone_used_in_train.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creator": "Almanta",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Smartphone used in train.jpg",
+      "sourceDimensions": "1280x960",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_specific"
+    },
+    {
+      "file": "html_qa/democracy_election_pledges_government_trust_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_election_pledges_government_trust_summary_he.html",
+      "usedBy": [
+        "democracy_election_pledges_government_trust_summary_he.html"
+      ],
+      "cardTitleHe": "הבטחות בחירות מזיזות אמון — אבל לא אצל כולם",
+      "authorsHe": "Evelyn Bytzek; Julia C. Dupont; Melanie C. Steffens; Nadine Knab; Frank M. Schneider",
+      "visualDescriptionHe": "קבוצת אזרחים בוחנת ערימות של כרטיסים לבנים בחדר הצופה אל בניין שלטון.",
+      "semanticDescriptionHe": "הכרטיסים הריקים והדיון האזרחי ממחישים הערכה של הבטחות שלטוניות ותוצאותיהן; הדמויות, המקום והחומרים בדיוניים ואינם משתתפים או גירויים מן הניסויים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "election_pledges",
+        "government_trust",
+        "political_knowledge",
+        "survey_experiment"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic deliberation scene generated without readable text, party branding, flags, real politicians, or identifiable research participants and finished as an 800x600 progressive JPEG. High fitness because it closely represents citizens evaluating a body of government pledges while avoiding an invented outcome.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_presidential_speech_democratic_script_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_presidential_speech_democratic_script_summary_he.html",
+      "usedBy": [
+        "democracy_presidential_speech_democratic_script_summary_he.html"
+      ],
+      "cardTitleHe": "הנשיא נשאר בתסריט — לפחות בסדר היום הרטורי",
+      "authorsHe": "Amnon Cavari; Ákos Máté; Miklós Sebők",
+      "visualDescriptionHe": "נבחרי ציבור ובעלי תפקידים מוחאים כפיים במעבר בית הנבחרים האמריקאי בעת כניסת הנשיא לנאום מצב האומה ב־2010.",
+      "semanticDescriptionHe": "התצלום מציג את הבמה המוסדית והטקסית של נאום נשיאותי מרכזי; הוא אינו המחשה של פלט המודל, של קטגוריית תוכן מסוימת או של תוצאת המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "presidential_rhetoric",
+        "state_of_the_union",
+        "agenda_setting",
+        "deep_learning"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained public-domain White House photograph of the House chamber during the 2010 State of the Union ceremony, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because it directly shows the institutional setting of presidential speechmaking but not the article's longitudinal corpus or model output.",
+      "createdDate": "2026-09-05",
+      "sourceType": "wikimedia_commons",
+      "source": "Pete Souza / The White House / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pathway_through_House_chamber_for_SOTU_speech.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pathway_through_House_chamber_for_SOTU_speech.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+      "creator": "Pete Souza / The White House",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Pathway through House chamber for SOTU speech.jpg",
+      "sourceDimensions": "4096x2731",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_specific"
+    },
+    {
+      "file": "html_qa/democracy_prison_identity_worklines_labor_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_prison_identity_worklines_labor_law_summary_he.html",
+      "usedBy": [
+        "democracy_prison_identity_worklines_labor_law_summary_he.html"
+      ],
+      "cardTitleHe": "כשהכלא מחלק עבודות, הוא גם מחלק זהויות",
+      "authorsHe": "Lihi Yona; Faina Milman-Sivan",
+      "visualDescriptionHe": "עובדי סדנת כלא עוסקים בנגרות ובמלאכות נוספות, ובקדמת התמונה מתקיימת שיחה מנהלית.",
+      "semanticDescriptionHe": "הסצנה ממחישה כיצד הקצאת עבודה בתוך כלא מחברת בין ניהול, מלאכה וזהות; הדמויות והמוסד בדיוניים ואינם כלא, עובד או מרואיין מן המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "prison_labor",
+        "identity",
+        "worklines",
+        "equality_law"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific prison-workshop scene generated without readable text, logos, identifiable institutions, violence, or real people and finished as an 800x600 progressive JPEG. High fitness because it directly represents differentiated prison work allocation and its administrative setting without asserting a documented facility.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_claude_lefort_myth_of_one_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_claude_lefort_myth_of_one_summary_he.html",
+      "usedBy": [
+        "democracy_claude_lefort_myth_of_one_summary_he.html"
+      ],
+      "cardTitleHe": "המיתוס של האחד והחברה שאינה גוף אחד",
+      "authorsHe": "Nicole Hochner",
+      "visualDescriptionHe": "אולם המליאה המעוטר והריק של האספה הלאומית הצרפתית.",
+      "semanticDescriptionHe": "האולם הריק מספק הקשר מוסדי למושג של קלוד לפור על מקום הכוח שאינו ניתן לניכוס קבוע בדמוקרטיה; התצלום אינו ראיה או דימוי שמנותח במאמר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "claude_lefort",
+        "myth_of_the_one",
+        "democratic_power",
+        "political_theory"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Newly obtained Wikimedia Commons photograph of the French National Assembly hemicycle, center-cropped and finished as an 800x600 progressive JPEG. Standard fitness because the empty parliamentary chamber closely evokes Lefort's account of democratic power while remaining a contextual architectural photograph.",
+      "createdDate": "2026-09-05",
+      "sourceType": "wikimedia_commons",
+      "source": "NonOmnisMoriar / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hemicycle_palais_bourbon.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hemicycle_palais_bourbon.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "creator": "NonOmnisMoriar",
+      "provider": "Wikimedia Commons",
+      "fileTitle": "Hemicycle palais bourbon.jpg",
+      "sourceDimensions": "4718x3136",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_specific"
+    },
+    {
+      "file": "html_qa/democracy_mizrahi_feminist_theory_israeli_law_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_mizrahi_feminist_theory_israeli_law_summary_he.html",
+      "usedBy": [
+        "democracy_mizrahi_feminist_theory_israeli_law_summary_he.html"
+      ],
+      "cardTitleHe": "מי רשאית להיות אם? משפט, מזרחיות והסעיף הסוציאלי",
+      "authorsHe": "Karin Carmit Yefet",
+      "visualDescriptionHe": "נשים מדורות ורקעים שונים יושבות סביב שולחן ארכיון ומקשיבות לאישה מבוגרת המספרת את סיפורה.",
+      "semanticDescriptionHe": "הסצנה ממחישה יצירת ידע משפטי־פמיניסטי מתוך זיכרון, מסמכים וקולות בין־דוריים; הדמויות והחומרים בדיוניים ואינם נשים, תיקים או עדויות הנדונים במאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "mizrahi_feminism",
+        "israeli_law",
+        "reproductive_justice",
+        "intersectionality"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific intergenerational archival discussion generated without readable text, institutional logos, recognizable case materials, or identifiable people and finished as an 800x600 progressive JPEG. High fitness because it visually centers Mizrahi women's knowledge production and legal memory without inventing a historical event.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_securitization_education_protection_identity_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_securitization_education_protection_identity_summary_he.html",
+      "usedBy": [
+        "democracy_securitization_education_protection_identity_summary_he.html"
+      ],
+      "cardTitleHe": "כשהחינוך נעשה זרוע של ביטחון וזהות",
+      "authorsHe": "Irit Harboun",
+      "visualDescriptionHe": "תלמידים עם תיקים עוברים בשער זכוכית מבוקר במסדרון בית ספר, מורה עומדת לידם ומצלמה מותקנת בתקרה.",
+      "semanticDescriptionHe": "הכניסה המבוקרת המשולבת בשגרת התנועה ממחישה כיצד אמצעי הגנה נעשים לחלק מן המרחב ומן הזהות המוסדית של בית הספר; הדמויות והמקום בדיוניים ואינם מוסד או משתתפים מן המחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "education",
+        "securitization",
+        "protection",
+        "identity"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific school-threshold scene generated without readable text, logos, flags, weapons, military uniforms, a threat event, or identifiable institutions and finished as an 800x600 progressive JPEG. High fitness because it directly shows subtle security infrastructure embedded in ordinary educational space while remaining non-alarmist and conceptual.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_utopia_domination_race_class_coloniality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_utopia_domination_race_class_coloniality_summary_he.html",
+      "usedBy": [
+        "democracy_utopia_domination_race_class_coloniality_summary_he.html"
+      ],
+      "cardTitleHe": "דמוקרטיה כאוטופיה — וכשפה של שליטה",
+      "authorsHe": "Ahmad H. Sa’di",
+      "visualDescriptionHe": "קבוצה מגוונת יושבת סביב שולחן דיון עגול באולם ציבורי מפואר, וקהל נוסף צופה מן היציעים ומהרחבה שבחוץ.",
+      "semanticDescriptionHe": "הסצנה מעמידה דיון שוויוני לכאורה בתוך אדריכלות רבת־עוצמה ובין משתתפים לצופים, כדי להמחיש את המתח בין הבטחה דמוקרטית למבני שליטה; המקום והדמויות בדיוניים.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "democracy",
+        "race",
+        "class",
+        "coloniality",
+        "domination"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific civic-assembly scene generated without readable text, flags, logos, recognizable institutions, or real people and finished as an 800x600 progressive JPEG. High fitness because its spatial hierarchy and open deliberation directly stage the article's tension between democratic aspiration and structural domination.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_complexity_legal_response_covid19_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_complexity_legal_response_covid19_summary_he.html",
+      "usedBy": [
+        "democracy_complexity_legal_response_covid19_summary_he.html"
+      ],
+      "cardTitleHe": "משפט למגפה שאינה מתנהגת בקו ישר",
+      "authorsHe": "Ofer Malcai; Michal Shur-Ofry",
+      "visualDescriptionHe": "צוות מגוון של בריאות הציבור והקהילה מתכנס סביב מפת עיר, ומבעד לחלון נראית פעילות יומיומית במרחב הציבורי.",
+      "semanticDescriptionHe": "המפה, ריבוי נקודות המבט והעיר הפעילה ממחישים תגובה משפטית מסתגלת למערכת מורכבת; הדמויות, המקום והחומרים בדיוניים ואינם נתונים או מקבלי החלטות מן המאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "covid_19",
+        "complexity",
+        "legal_response",
+        "public_health",
+        "adaptive_regulation"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Paper-specific public-health and civic-planning scene generated without readable text, logos, flags, identifiable institutions, or real decision-makers and finished as an 800x600 progressive JPEG. High fitness because it directly represents coordinated, adaptive legal planning across an interconnected urban system without claiming a specific policy result.",
+      "createdDate": "2026-09-05",
+      "sourceType": "generated",
+      "source": "OpenAI image generation during 2026-09-05 nightly heartbeat",
+      "license": "Generated site asset",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific"
+    },
     {
       "file": "html_qa/democracy_muslim_women_ethnic_conflict_india_summary_he.jpg",
       "width": 800,

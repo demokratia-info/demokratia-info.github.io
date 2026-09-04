@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "sampleSize": 6,
-  "seed": "2026-09-04-homepage-high-fit",
+  "seed": "2026-09-05-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 8,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_legal_officeholder_personalization_legitimacy_summary_he",
-    "democracy_religious_autonomy_muslim_minority_india_summary_he",
-    "democracy_democratization_state_nation_balance_peace_summary_he",
-    "democracy_rescue_at_sea_rights_civil_disobedience_summary_he",
-    "democracy_mena_corruption_informal_practices_bribery_summary_he",
-    "democracy_muslim_cemeteries_jaffa_urban_citizenship_summary_he"
+    "democracy_utopia_domination_race_class_coloniality_summary_he",
+    "democracy_election_pledges_government_trust_summary_he",
+    "democracy_white_jihad_fused_extremism_summary_he",
+    "democracy_securitization_education_protection_identity_summary_he",
+    "democracy_complexity_legal_response_covid19_summary_he",
+    "democracy_mizrahi_feminist_theory_israeli_law_summary_he"
   ]
 }
