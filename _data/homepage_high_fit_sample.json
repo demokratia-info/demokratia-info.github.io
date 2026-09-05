@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-05",
+  "lastUpdated": "2026-09-06",
   "sampleSize": 6,
-  "seed": "2026-09-05-homepage-high-fit",
+  "seed": "2026-09-06-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 6,
-  "fullTextHighFitPaperCount": 7,
+  "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_utopia_domination_race_class_coloniality_summary_he",
-    "democracy_election_pledges_government_trust_summary_he",
-    "democracy_white_jihad_fused_extremism_summary_he",
-    "democracy_securitization_education_protection_identity_summary_he",
-    "democracy_complexity_legal_response_covid19_summary_he",
-    "democracy_mizrahi_feminist_theory_israeli_law_summary_he"
+    "democracy_high_choice_news_profiles_political_knowledge_summary_he",
+    "democracy_metoo_power_morality_support_summary_he",
+    "democracy_africa_israel_security_human_rights_summary_he",
+    "democracy_netanyahu_divide_rule_social_protests_summary_he",
+    "democracy_zealots_underground_political_violence_summary_he",
+    "democracy_october_7_mass_terrorism_security_law_summary_he"
   ]
 }
