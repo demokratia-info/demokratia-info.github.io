@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-07",
   "sampleSize": 6,
-  "seed": "2026-09-06-homepage-high-fit",
+  "seed": "2026-09-07-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
+  "replacementCount": 2,
   "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_high_choice_news_profiles_political_knowledge_summary_he",
-    "democracy_metoo_power_morality_support_summary_he",
-    "democracy_africa_israel_security_human_rights_summary_he",
-    "democracy_netanyahu_divide_rule_social_protests_summary_he",
-    "democracy_zealots_underground_political_violence_summary_he",
-    "democracy_october_7_mass_terrorism_security_law_summary_he"
+    "democracy_terrorism_definition_consensus_summary_he",
+    "democracy_haifa_interreligious_dialogue_wartime_summary_he",
+    "democracy_islamic_education_citizenship_depoliticization_summary_he",
+    "democracy_gendered_sentencing_domestic_violence_property_summary_he",
+    "democracy_resource_windfalls_negative_campaigning_summary_he",
+    "democracy_collective_punishment_concomitant_rights_violations_summary_he"
   ]
 }
