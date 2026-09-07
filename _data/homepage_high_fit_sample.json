@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-07",
+  "lastUpdated": "2026-09-08",
   "sampleSize": 6,
-  "seed": "2026-09-07-homepage-high-fit",
+  "seed": "2026-09-08-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 8,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 6,
   "paperSlugs": [
-    "democracy_terrorism_definition_consensus_summary_he",
-    "democracy_haifa_interreligious_dialogue_wartime_summary_he",
-    "democracy_islamic_education_citizenship_depoliticization_summary_he",
-    "democracy_gendered_sentencing_domestic_violence_property_summary_he",
-    "democracy_resource_windfalls_negative_campaigning_summary_he",
-    "democracy_collective_punishment_concomitant_rights_violations_summary_he"
+    "democracy_latent_judicial_intervention_informers_summary_he",
+    "democracy_mill_colonial_representative_democracy_summary_he",
+    "democracy_sincere_voting_manipulation_signals_summary_he",
+    "democracy_ai_deskilling_public_reason_summary_he",
+    "democracy_balancing_majority_preference_intensity_summary_he",
+    "democracy_democratic_entitlement_recession_summary_he"
   ]
 }
