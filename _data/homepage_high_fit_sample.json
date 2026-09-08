@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "sampleSize": 6,
-  "seed": "2026-09-08-homepage-high-fit",
+  "seed": "2026-09-09-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
-  "fullTextHighFitPaperCount": 6,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 901,
   "paperSlugs": [
     "democracy_latent_judicial_intervention_informers_summary_he",
-    "democracy_mill_colonial_representative_democracy_summary_he",
-    "democracy_sincere_voting_manipulation_signals_summary_he",
+    "democracy_israels_judicial_reform_debate_an_essential_case_study_for_democracy_and_judicial_independence_summary_he",
+    "democracy_meso_news_spaces_public_private_domains_summary_he",
     "democracy_ai_deskilling_public_reason_summary_he",
     "democracy_balancing_majority_preference_intensity_summary_he",
     "democracy_democratic_entitlement_recession_summary_he"
