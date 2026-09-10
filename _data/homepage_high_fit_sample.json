@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-10",
+  "lastUpdated": "2026-09-11",
   "sampleSize": 6,
-  "seed": "2026-09-10-homepage-high-fit",
+  "seed": "2026-09-11-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 906,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 6,
   "paperSlugs": [
-    "democracy_latent_judicial_intervention_informers_summary_he",
-    "democracy_a_constitution_for_israel_lessons_from_the_american_experiment_summary_he",
-    "democracy_meso_news_spaces_public_private_domains_summary_he",
-    "democracy_parliaments_government_termination_confidence_relationship_summary_he",
-    "democracy_balancing_majority_preference_intensity_summary_he",
-    "democracy_democratic_entitlement_recession_summary_he"
+    "democracy_conflict_escalation_electoral_implications_israel_summary_he",
+    "democracy_radical_flank_social_movement_support_summary_he",
+    "democracy_free_speech_prejudice_immigrants_social_identity_summary_he",
+    "democracy_fsu_immigrants_active_citizenship_israel_summary_he",
+    "democracy_citizenship_status_origin_entitlement_rights_israel_summary_he",
+    "democracy_erasable_citizenship_arab_palestinian_citizens_summary_he"
   ]
 }
