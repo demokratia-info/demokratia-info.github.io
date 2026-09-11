@@ -1,8 +1,296 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1602,
+  "paperCount": 1612,
   "papers": [
+    {
+      "slug": "democracy_citizenship_emergency_criminal_regimes_summary_he",
+      "file": "democracy_citizenship_emergency_criminal_regimes_summary_he.html",
+      "permalink": "/democracy_citizenship_emergency_criminal_regimes_summary_he.html",
+      "sortKey": 202609120010,
+      "titleHe": "גבולות, חובות ושייכות: אזרחות תחת משטרי חירום פליליים",
+      "paperTitle": "Boundaries, obligations and belonging: The reconfiguration of citizenship in emergency criminal regimes",
+      "authorsCardHe": "Irit Ballas",
+      "sourceAuthors": [
+        "Irit Ballas"
+      ],
+      "journal": "Theoretical Criminology, 26(2), 183–201",
+      "dateText": "פורסם מקוון: 13 ביולי 2021; מהדורת דפוס: מאי 2022; כרך 26, גיליון 2, עמ׳ 183–201",
+      "doiUrl": "https://doi.org/10.1177/13624806211025918",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_citizenship_emergency_criminal_regimes_summary_he.jpg",
+        "altHe": "תושבים עוברים בשער שירות ציבורי בעוד תושב אחר ממתין לבדיקת מסמך לצד חלוקת ציוד בסיסי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "אירית בלאס בוחנת כיצד משטרים פליליים מיוחדים בעת חירום משנים את משמעות האזרחות. משטרים כאלה עשויים להפליל התנהגויות שמותרות בדין הרגיל, להשתמש באמצעי אכיפה מדכאים יותר ולצמצם זכויות דיוניות. הספרות נוטה לקשור צעדים כאלה להוצאת עבריינים מן הקהילה הפוליטית, אך בלאס טוענת שבמשטרי חירום מסוימים צמצום זכויות יכול גם לבטא הכללה. המאמר משווה שני משטרים שהופעלו בישראל ב־1948: משטר צבאי שהטיל הגבלות תנועה על המיעוט הפלסטיני, ומשטר צנע שהגביל סחר במוצרי מזון של כלל האזרחים. לפי התקציר, שני הסוגים פועלים על יסודות שונים של המשפט הפלילי הרגיל. משטר אחד עשוי לחזק את גבולות הקהילה ולסמן מי נמצא בשוליה, ואילו אחר עשוי לעצב מחדש את מערכת החובות בין חברי הקהילה באמצעות נטל משותף. לכן חירום אינו מייצר רק ציר אחד של שייכות מול הדרה, אלא כמה תצורות של אזרחות. כאשר משטרים שונים נאכפים בו בזמן על קבוצות מודרות, אזרחותן נעשית דו־משמעית: הן נכללות במערך החובות המשותפות ובמקביל מסומנות באמצעות גבולות ואמצעי אכיפה מיוחדים. הטענה רלוונטית גם לדיון במשברי כלכלה ובמגפות, שהתקציר מזכיר כדוגמאות למשטרים שבהם צמצום זכויות עשוי לשאת משמעות מכלילה. עם זאת, התקציר אינו מפרט את מקורות המחקר, הראיות ההיסטוריות או היקף האכיפה, ולכן הסיכום אינו משלים עובדות שלא נמסרו בו ואינו מציג כל מגבלת חירום כהכללה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_public_religious_services_freedom_religion_israel_summary_he",
+      "file": "democracy_public_religious_services_freedom_religion_israel_summary_he.html",
+      "permalink": "/democracy_public_religious_services_freedom_religion_israel_summary_he.html",
+      "sortKey": 202609120009,
+      "titleHe": "כיצד אספקה ציבורית של שירותי דת עשויה לקדם חופש דת",
+      "paperTitle": "Enhancing Freedom of Religion Through Public Provision of Religious Services: The Israeli Experience",
+      "authorsCardHe": "Barak Medina",
+      "sourceAuthors": [
+        "Barak Medina"
+      ],
+      "journal": "Israel Law Review, 39(2), 127–157",
+      "dateText": "גיליון קיץ 2006; פורסם מקוון בארכיון קיימברידג׳: 4 ביולי 2014; כרך 39, גיליון 2, עמ׳ 127–157",
+      "doiUrl": "https://doi.org/10.1017/S0021223700013042",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_religious_services_freedom_religion_israel_summary_he.jpg",
+        "altHe": "מתפללים ומבקרים עוברים בכניסה לרחבת הכותל המערבי בירושלים ביום",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "ברק מדינה בוחן מחדש את ההנחה שלפיה חופש דת מחייב בהכרח הפרדה בין המדינה לדת. נקודת המוצא שלו היא חובת המדינה לנהוג בבני אדם בשוויון ולהבטיח לכל האזרחים גישה סבירה לשירותי דת. מכאן הוא מסיק שאספקה ציבורית של שירותים כאלה יכולה דווקא להרחיב את האפשרות לממש חופש דת. עם זאת, עצם העובדה שהמדינה מעורבת באספקת שירות אינה מצדיקה כשלעצמה הסדרה של הפעילות הדתית הנוגעת לו. לעיתים יש הצדקה אחרת להסדרה, למשל כאשר קהילות דתיות מתחרות על משאבים מוגבלים של זמן ומקום באתר קדוש ונדרש כלל שיבטיח גישה סבירה. במקרים אחרים המדינה מעניקה לגופים דתיים כוח נוסף, ואז מתעורר חשש לכפייה דתית ולפגיעה בחירות. גם כאן המחבר אינו מסיק אוטומטית שכל מעורבות פוגעת בחופש, אלא דורש הערכה מפורטת של ההשפעה הכוללת ושל סוג המעורבות. המאמר מדגים את הטיעונים באמצעות כמעט שישה עשורים של מעורבות אינטנסיבית של מדינה דמוקרטית באספקת שירותי דת בישראל. הניסיון הישראלי משמש מקרה מחשבה על התוצאות והכדאיות של מודל שבו מדינה דמוקרטית ממסדת דת או דתות בהיקף נרחב. התקציר אינו מפרט את כל השירותים, ההסדרים או המקרים המשפטיים שנבחנו, ולכן הסיכום אינו מייחס למאמר המלצה גורפת בעד מימון ציבורי או בעד מודל ישראלי מסוים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_kantian_case_against_democracy_summary_he",
+      "file": "democracy_kantian_case_against_democracy_summary_he.html",
+      "permalink": "/democracy_kantian_case_against_democracy_summary_he.html",
+      "sortKey": 202609120008,
+      "titleHe": "הטיעון הקאנטיאני נגד הקשר ההכרחי בין דמוקרטיה ללגיטימיות",
+      "paperTitle": "The Kantian case against democracy",
+      "authorsCardHe": "Alon Harel",
+      "sourceAuthors": [
+        "Alon Harel"
+      ],
+      "journal": "Critical Review of International Social and Political Philosophy, 26(2), 243–250",
+      "dateText": "פורסם מקוון: 19 באוקטובר 2022; מהדורת דפוס: 23 בפברואר 2023; כרך 26, גיליון 2, עמ׳ 243–250",
+      "doiUrl": "https://doi.org/10.1080/13698230.2022.2133828",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_kantian_case_against_democracy_summary_he.jpg",
+        "altHe": "אזרחית יושבת לשולחן עדות מול נבחרי ציבור בחדר דיונים מעוגל, וקלפי סגורה מונחת לצדה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "אלון הראל מתערב בוויכוח פילוסופי על היחס בין לגיטימיות קאנטיאנית לבין קבלת החלטות דמוקרטית. בניגוד לעמדה שהוא מייחס לקיארה קורדלי, הראל טוען שהיחס בין השתיים מותנה ולא הכרחי. התקציר מארגן את הביקורת בשלוש טענות: אישור דמוקרטי אינו הכרחי לממשל לגיטימי; הוא גם אינו מספיק כדי להבטיח לגיטימיות; ובמצבים מסוימים הוא אף עשוי להזיק לממשל לגיטימי. שלושת הצעדים מפרידים בין השאלה מי אישר החלטה לבין השאלה אם הפעלת השלטון מוצדקת לפי אמת מידה קאנטיאנית. הם גם מזהירים מפני הפיכת הדמוקרטיה למבחן אוטומטי שמכריע לבדו אם ממשל לגיטימי. עם זאת, התקציר אינו מפרט את הטיעונים, הדוגמאות או התנאים שבהם אישור דמוקרטי נעשה מזיק, ולכן אין להסיק ממנו שהראל דוחה כל מוסד דמוקרטי או מציע משטר חלופי. הוא קובע טענה מצומצמת יותר: אי אפשר לגזור קשר הכרחי בין לגיטימיות קאנטיאנית לבין הליך דמוקרטי רק מעצם שמותיהם. זהו דיון נורמטיבי קצר, בן שמונה עמודים, ולא מחקר אמפירי על תפקודן של דמוקרטיות. הסיכום שלהלן מסביר את מבנה הטענה ואת השלכותיה המושגיות, אך מסמן במפורש את הפרטים שאינם זמינים בתקציר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_foreigners_human_rights_abuses_cat_retaliation_summary_he",
+      "file": "democracy_foreigners_human_rights_abuses_cat_retaliation_summary_he.html",
+      "permalink": "/democracy_foreigners_human_rights_abuses_cat_retaliation_summary_he.html",
+      "sortKey": 202609120007,
+      "titleHe": "פרסום פגיעות בזכויות זרים ותגובת־נגד בין מדינות האמנה נגד עינויים",
+      "paperTitle": "Publication of foreigners’ human rights abuses and retaliation between Convention Against Torture (CAT) states",
+      "authorsCardHe": "Sara Kahn-Nisser",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "International Journal: Canada’s Journal of Global Policy Analysis, 78(1–2), 87–107",
+      "dateText": "פורסם בגיליון: מרץ 2023; פורסם מקוון: 6 ביוני 2023; כרך 78, גיליון משולב 1–2, עמ׳ 87–107",
+      "doiUrl": "https://doi.org/10.1177/00207020231178390",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_foreigners_human_rights_abuses_cat_retaliation_summary_he.jpg",
+        "altHe": "אולם זכויות האדם וברית הציוויליזציות בארמון האומות בז׳נבה כשהוא ריק",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "שרה קאהן־ניסר בוחנת נוהג שזכה לתשומת לב מועטה: גופים המנטרים הפרות זכויות אדם מציינים לעיתים בדוחותיהם את מדינת המוצא של נפגעים החיים מחוץ לארצם. המאמר טוען כי הפרסום הזה עלול ליצור בלי כוונה דינמיקה דו־צדדית של תגובת־נגד בין מדינת המוצא של הנפגעים לבין המדינה שפגעה בזכויותיהם. לפי ההשערה, כאשר מדינה אחת פוגעת בזכויותיהם של זרים ממדינה עמיתה והפגיעה מזוהה ומתפרסמת, המדינה העמיתה עשויה להגיב בפגיעה בזכויות אזרחי המדינה הראשונה. המחקר בוחן את ההשערה באמצעות מאגר נתונים זוגי חדש על פגיעות בזכויות זרים, כפי שזוהו בידי אמנסטי אינטרנשיונל והוועדה נגד עינויים של האו״ם. הניתוח האמפירי מדווח על קשר התואם את השערת תגובת־הנגד. בנוסף, המאמר בוחן את המקרה הסורי־לבנוני כדי להתחקות אחר התהליך ולא להסתפק במתאם בין זוגות מדינות. שני חלקי הניתוח תומכים בטענה שמדינות מגיבות לפגיעות בזכויות אזרחיהן בחו״ל. התרומה אינה טענה שדיווח זכויות אדם מזיק תמיד, אלא זיהוי של תוצאה לא מכוונת אפשרית של פרסום מדינת המוצא. התקציר אינו מפרט את הגדרת התוצאה, יחידת הזמן, מספר זוגות המדינות, האומדנים או מלוא הראיות ממקרה המבחן, ולכן הסיכום אינו מוסיף פרטים אלה ואינו הופך את הקשר המדווח לקביעה סיבתית רחבה יותר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_inclusive_curriculum_civic_education_jewish_democratic_state_summary_he",
+      "file": "democracy_inclusive_curriculum_civic_education_jewish_democratic_state_summary_he.html",
+      "permalink": "/democracy_inclusive_curriculum_civic_education_jewish_democratic_state_summary_he.html",
+      "sortKey": 202609120006,
+      "titleHe": "תוכנית לימודים מכלילה? האתגרים של חינוך אזרחי במדינה יהודית ודמוקרטית",
+      "paperTitle": "Inclusive Curriculum? Challenges to the Role of Civic Education in a Jewish and Democratic State",
+      "authorsCardHe": "Halleli Pinson",
+      "sourceAuthors": [
+        "Halleli Pinson"
+      ],
+      "journal": "Curriculum Inquiry, 37(4), 351–382",
+      "dateText": "פורסם לראשונה: 6 בדצמבר 2007; כרך 37, גיליון 4, עמ׳ 351–382",
+      "doiUrl": "https://doi.org/10.1111/j.1467-873X.2007.00391.x",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_inclusive_curriculum_civic_education_jewish_democratic_state_summary_he.jpg",
+        "altHe": "תלמידים ומורה בכיתת בית ספר ביסוד המעלה בשנת 1925",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "הללי פינסון בוחנת את האתגר של חינוך אזרחי מכליל במדינה המוגדרת יהודית ודמוקרטית. על רקע עימותים גוברים בחברה הישראלית ודאגה לאופייה הדמוקרטי, הנחיות תוכנית הלימודים וספר הלימוד הרשמי באזרחות נועדו להציע חינוך מכליל יותר ולהדגיש אזרחות פלורליסטית ודמוקרטית. ואולם, המאמר מדגיש שתוכנית הלימודים אינה פועלת בחלל ריק. ניתוח שיח של חומרי התוכנית, בצירוף ראיונות עם 13 אנשי משרד החינוך, חושף מורכבות ומסרים מתחרים בחינוך האזרחי בן הזמן. פינסון בוחנת כיצד המקורות הרשמיים מגדירים אזרחות ישראלית וחברות בקולקטיב האזרחי. מוקד מרכזי הוא המתח בין הכלה להדרה, ולא רק מידת התאמתו של ספר הלימוד להצהרת כוונות אחת. המאמר מתייחס לחינוך האזרחי גם כזירה של בניין אומה וגם כזירה של עיצוב המדינה, ולכן אותה תוכנית יכולה לקדם שפה דמוקרטית ובו בזמן להשתתף בשרטוט גבולות השייכות. התקציר אינו מפרט את מלוא קטגוריות הניתוח, את תוכן הראיונות או את המסרים המתחרים אחד לאחד, ולכן הסיכום אינו מייחס למחברת מסקנות מפורטות שאינן מופיעות בו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_public_opinion_israeli_palestinian_two_level_game_summary_he",
+      "file": "democracy_public_opinion_israeli_palestinian_two_level_game_summary_he.html",
+      "permalink": "/democracy_public_opinion_israeli_palestinian_two_level_game_summary_he.html",
+      "sortKey": 202609120005,
+      "titleHe": "דעת הקהל במשחק הדו־מפלסי: מסגור והמרחב להסכם",
+      "paperTitle": "Public Opinion in the Israeli-Palestinian Two-Level Game",
+      "authorsCardHe": "Jacob Shamir; Khalil Shikaki",
+      "sourceAuthors": [
+        "Jacob Shamir",
+        "Khalil Shikaki"
+      ],
+      "journal": "Journal of Peace Research, 42(3), 311–328",
+      "dateText": "פורסם: 1 במאי 2005; כרך 42, גיליון 3, עמ׳ 311–328",
+      "doiUrl": "https://doi.org/10.1177/0022343305052014",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_public_opinion_israeli_palestinian_two_level_game_summary_he.jpg",
+        "altHe": "יצחק רבין ויאסר ערפאת לוחצים ידיים בבית הלבן לצד נשיא ארצות הברית ביל קלינטון בשנת 1993",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "ג׳ייקוב שמיר וח׳ליל שקאקי מציבים את דעת הקהל בלב המשחק הדו־מפלסי של משא ומתן ישראלי־פלסטיני: מנהלים נדרשים לפעול הן מול הצד שמנגד והן מול הציבור שבשמו הם נושאים ונותנים. המאמר מדגיש שתי תכונות של דעת הקהל הרלוונטיות למדיניות — היותה רבת־פנים ורגישותה למסגור. לפי המחברים, שתי התכונות מעניקות למנהלים אפשרות להשפיע על ״טווחי הקבלה״, כלומר על קבוצת ההסכמות שעשויות לזכות בתמיכת רוב בכל ציבור. הם מדגימים את הטענה בעזרת נתוני סקרים פלסטיניים־ישראליים משותפים בשתי סוגיות קשות: הכרה ישראלית בזכות השיבה של פליטים פלסטינים והכרה פלסטינית בזהותה היהודית של ישראל. בנוגע לפליטים, התקציר מדווח כי הצגת פתרון כיישום של זכות השיבה או כוויתור עליה משנה במידה רבה את התמיכה בו, אך אינו מוסר שיעורים או אומדנים. עוד נדונות עמימות בונה והיכולת שלה לאפשר לקהלים שונים לקרוא ניסוח מוסכם בדרכים שונות. בסוגיית הזהות הלאומית, גישה רבת־פנים מסייעת לזהות בורות פלורליסטית וטעויות הדדיות בהערכת עמדות הציבור האחר. המאמר אינו טוען שדעת הקהל ניתנת לשליטה מלאה, אלא מראה שהאופן שבו שואלים, מציגים ומפרשים חלופות יכול לשנות את המרחב הפוליטי הנתפס. התקציר אינו מפרט את מועדי הסקרים, גודל המדגמים, נוסחי השאלות או מלוא התוצאות, ולכן הסיכום אינו מוסיף נתונים או טענות סיבתיות שאינם מופיעים בו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_politicians_bargaining_ultimatum_games_summary_he",
+      "file": "democracy_politicians_bargaining_ultimatum_games_summary_he.html",
+      "permalink": "/democracy_politicians_bargaining_ultimatum_games_summary_he.html",
+      "sortKey": 202609120004,
+      "titleHe": "איך פוליטיקאים מתמקחים? הטיה מפלגתית מול עמיתים ומול אזרחים",
+      "paperTitle": "How Do Politicians Bargain? Evidence from Ultimatum Games with Legislators in Five Countries",
+      "authorsCardHe": "Lior Sheffer; Peter John Loewen; Stefaan Walgrave; Stefanie Bailer; Christian Breunig; Luzia Helfer; Jean-Benoît Pilet; Frédéric Varone; Rens Vliegenthart",
+      "sourceAuthors": [
+        "Lior Sheffer",
+        "Peter John Loewen",
+        "Stefaan Walgrave",
+        "Stefanie Bailer",
+        "Christian Breunig",
+        "Luzia Helfer",
+        "Jean-Benoît Pilet",
+        "Frédéric Varone",
+        "Rens Vliegenthart"
+      ],
+      "journal": "American Political Science Review, 117(4), 1429–1447",
+      "dateText": "פורסם לראשונה ברשת: 27 בינואר 2023; כרך 117, גיליון 4, עמ׳ 1429–1447 (נובמבר 2023)",
+      "doiUrl": "https://doi.org/10.1017/S0003055422001459",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_politicians_bargaining_ultimatum_games_summary_he.jpg",
+        "altHe": "אולם בית הנבחרים של קנדה במבנה המערבי באוטווה, ובו שורות מושבים ירוקים ושולחן מרכזי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "ליאור שפר ושמונה עמיתים בוחנים ישירות כיצד נבחרי ציבור מתמקחים — פעילות מרכזית לחקיקה, קואליציות וחלוקת משאבים שקשה לצפות בה מאחורי דלתיים סגורות. הם שילבו משחק אולטימטום בסקרים של 1,109 פוליטיקאים מכהנים בבלגיה, קנדה, גרמניה, שווייץ וארצות הברית. כל משתתף התבקש לחלק סכום היפותטי של 1,000 יחידות מטבע ולציין גם את ההצעה שייתן וגם את הסכום המזערי שיסכים לקבל. בניסוי הוגרלו שני מאפיינים של הצד השני: בן אותה מפלגה או יריב מפלגתי, ועמית פוליטיקאי או אזרח. בכלל התנאים הציעו הפוליטיקאים בממוצע 54% מן הסכום — 11–14 נקודות אחוז יותר מן הממוצעים שדווחו בספרות על לא־אליטות — ודרשו בדרך כלל 25%–30%. אך הזהות המפלגתית שינתה את ההתנהגות: מול בן אותה מפלגה ההצעה עלתה בממוצע ב־8.5 נקודות אחוז והדרישה ירדה ב־7.5 נקודות אחוז לעומת יריב. ההטיה הייתה גדולה יותר מול אזרחים: תומך מאותה מפלגה קיבל הצעה ממוצעת של 643 לעומת 527 ליריב, והדרישה ממנו הייתה 171 לעומת 276. מול עמיתים הפער הצטמצם בערך למחצית: 505 לעומת 449 בהצעות ו־294 לעומת 343 בדרישות. הדפוס הופיע בכל חמש המדינות, אף שעוצמתו השתנתה. החוקרים מפרשים את הריסון מול עמיתים כאפשרות שניסיון, צורך בשיתוף פעולה ונורמות של הוגנות בתוך מוסד מצמצמים את כוח הזהות המפלגתית; מול אזרחים, התלות בתומכים והעדר מגבלות של עבודה משותפת עשויים לחזק העדפת קבוצת פנים. אולם הניסוי אינו מזהה איזה מנגנון מסביר את האפקט, והמשחק כולל כסף היפותטי, עסקה חד־פעמית ושותף מתואר ולא משא ומתן ממשי. הניתוח המפלגתי כולל כ־827 תצפיות לאחר השמטת עצמאיים ותנאים שאינם בני השוואה בארצות הברית, ושיעורי ההיענות שם היו נמוכים. חמש המדינות הן דמוקרטיות ליברליות יציבות, ולכן אין בסיס להכליל אוטומטית למשטרים סמכותניים, למו״מ רב־סבבי או לעסקאות קואליציוניות ממשיות. הממצא המרכזי הוא ניסויי ומדויק יותר: רמז מפלגתי לבדו שינה את תנאי החלוקה שבחרו פוליטיקאים, והמסגרת המוסדית של מפגש עם עמית צמצמה אך לא ביטלה את ההעדפה לבני המחנה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_criminal_justice_social_media_zadorov_summary_he",
+      "file": "democracy_criminal_justice_social_media_zadorov_summary_he.html",
+      "permalink": "/democracy_criminal_justice_social_media_zadorov_summary_he.html",
+      "sortKey": 202609120003,
+      "titleHe": "כשהציבור פותח את תיק החקירה: דמוקרטיזציה של שיח פלילי ברשתות החברתיות",
+      "paperTitle": "Democratizing the discourse on criminal justice in social media: the activity for justice for Roman Zadorov as a case study",
+      "authorsCardHe": "Azi Lev-On",
+      "sourceAuthors": [
+        "Azi Lev-On"
+      ],
+      "journal": "Humanities and Social Sciences Communications, 10(1), 770",
+      "dateText": "פורסם: 1 בנובמבר 2023; כרך 10, מאמר 770",
+      "doiUrl": "https://doi.org/10.1057/s41599-023-02302-9",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_criminal_justice_social_media_zadorov_summary_he.jpg",
+        "altHe": "ארבעה אזרחים בוחנים יחד מסמכים ותצלומים מתיק משפט לצד מחשב וטלפון בעלי מסכים כבויים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "עזי לב־און בוחן כיצד תיק פלילי שהיה בעבר כמעט נחלתם של חוקרים, עורכי דין, שופטים ועיתונאים הופך למרחב של חקירה ופרשנות אזרחית. מקרה הבוחן הוא הפעילות המקוונת למען רומן זדורוב, שהורשע ב־2010 ברצח תאיר ראדה, ערעורו נדחה ב־2015, משפט חוזר בעניינו אושר ב־2021 והוא זוכה ב־2023. המאמר אינו מכריע מחדש בשאלת האשמה; הוא חוקר את סביבת המידע והשיח שנבנתה סביב ההליך. המחקר הוא נטנוגרפיה איכותנית שנמשכה מדצמבר 2015 עד מרץ 2023. הוא שילב תצפית והתקשרות עם מנהלי קבוצות ופעילים, תיעוד בזמן אמת של פוסטים ותגובות ב־15 קבוצות פייסבוק שמנו יחד יותר מ־300 אלף חברויות, ודגימה יומית בקבוצות הפעילות ושבועית באחרות. נוסף על כך נערכו 25 ראיונות מוקלטים ומתומללים עם מנהלי קבוצות, שנמשכו כשעה עד שעה וחצי. לב־און מזהה שלושה תנאים המאפשרים ״דמוקרטיזציה״ של שיח משפטי: דיגיטציה של חומרי חקירה, נגישות ושקיפות של החומרים, וקיומן של זירות שבהן ציבור רחב יכול לדון בהם. אתר ״האמת היום״, שהוקם ב־2016, ריכז מסמכי משטרה ומשפט, וחלק מן החומרים תומללו או תורגמו בידי מתנדבים; פעילים גם הכינו כתוביות לכ־110 שעות וידאו עם דיבור ועברו על עוד כ־47 שעות ללא דיבור. התשתית הזאת אפשרה חינוך אזרחי, בדיקת עבודת הרשויות, יצירת טיעונים ותוצרים חזותיים וגיוס פעולה. אך אותה פתיחות שימרה ללא מגבלת זמן מידע אישי על תלמידים, תושבים ועובדי ציבור, והעניקה חומר גלם לממים ולנרטיבים חלופיים שחלקם כבר הופרכו או לא נתמכו בחקירה. המאמר מתאר פגיעה אפשרית בשם טוב, הטרדה, הפצת מידע כוזב ושחיקת אמון במערכת המשפט, לצד אפשרות לחשוף טעויות ולדרוש אחריות. המסקנה אינה שיש לסגור את החומרים או שההמון תמיד צודק, אלא שמוסדות צריכים ללמוד להשתתף בזירה, לספק הקשר, להתמודד עם מידע מטעה ולרתום ידע אזרחי. זהו מחקר עומק של מקרה יחיד וחריג, ללא קבוצת השוואה וללא אומדן סיבתי; ספירת החברויות בקבוצות אינה בהכרח מספר אנשים ייחודיים, והמאמר אינו מודד את השפעת השיח על פסק הדין, על דעת הקהל או על כל משתתף.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_campaign_spending_electoral_outcomes_israel_summary_he",
+      "file": "democracy_campaign_spending_electoral_outcomes_israel_summary_he.html",
+      "permalink": "/democracy_campaign_spending_electoral_outcomes_israel_summary_he.html",
+      "sortKey": 202609120002,
+      "titleHe": "האם כסף קונה קולות? הוצאות קמפיין בבחירות המקומיות בישראל",
+      "paperTitle": "Does campaign spending affect electoral outcomes?",
+      "authorsCardHe": "Avi Ben-Bassat; Momi Dahan; Esteban F. Klor",
+      "sourceAuthors": [
+        "Avi Ben-Bassat",
+        "Momi Dahan",
+        "Esteban F. Klor"
+      ],
+      "journal": "Electoral Studies, 40, 102–114",
+      "dateText": "פורסם לראשונה ברשת: 10 ביולי 2015; כרך 40, עמ׳ 102–114 (דצמבר 2015)",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2015.06.012",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_campaign_spending_electoral_outcomes_israel_summary_he.jpg",
+        "altHe": "דפי תקציב ותרשימי עמודות ללא כיתוב לצד ערימות מטבעות וקלפי על רקע ירושלים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "אבי בן־בסט, מומי דהן ואסטבן קלור בוחנים שאלה מרכזית להגינות דמוקרטית: האם יתרון כספי בקמפיין מתורגם ליתרון בקלפי. קשר פשוט בין הוצאה לקולות אינו מספיק, מפני שמועמד פופולרי מגייס יותר כסף, מועמד במרוץ צמוד עשוי להוציא יותר, ולראש רשות מכהן יש משאבים שאינם מופיעים בדוח הקמפיין. החוקרים משתמשים במבנה הבחירות המקומיות בישראל כמעין ניסוי טבעי. אם איש אינו מקבל לפחות 40% בסיבוב הראשון, שני המובילים מתמודדים שוב כעבור 14 יום; כללי המימון הציבורי ותקרת ההוצאה משתנים בין הסיבובים, ובסיבוב השני מקבלים שני המועמדים מימון ותקרה שווים. מאגר המחקר מכסה את ארבע מערכות הבחירות של 1993, 1998, 2003 ו־2008. מתוך 134 מרוצי סיבוב שני נכללו במאגר הראשי 100 רשויות שבהן היו הנתונים הדרושים על הוצאה ותוצאות. האמידה משווה בין המועמדים ובין שני הסיבובים את השינוי היחסי בהוצאה ואת השינוי היחסי בתמיכה, ובכך מסירה מאפיינים קבועים של מועמד ורשות ומצמצמת סיבתיות הפוכה. לפני התיקון נראה קשר חיובי חזק בין כסף לקולות; לאחר אסטרטגיית ההפרשים־בהפרשים, האלסטיות המוערכת הייתה כ־0.034 ולא הייתה שונה באופן מובהק מאפס. עלייה של כמעט 70% בהוצאה — סטיית תקן אחת — נקשרה לעלייה של כ־2% בלבד בשיעור הקולות. התוצאה נשמרה לאחר הוצאת תצפיות בעייתיות, בחינת רשויות יהודיות בנפרד, חלוקה לפי גודל ומצב חברתי־כלכלי, השמטת כל שנת בחירות בתורה ושימוש בגודל הסיעה במועצה כמקור חלופי ליתרון במימון. הממצא שונה מאומדנים גדולים יותר מברזיל וממקסיקו, אך המחברים מציגים את ההסברים האפשריים — הצבעה חובה, מגבלות פרסום, מימון נדיב, רוויה, ביטוח מפני הפסד או הוצאה הדדית שמבטלת את עצמה — כהשערות שלא נבדקו ישירות. המחקר אינו מוכיח שכסף לעולם אינו חשוב, אינו מפריד בין ערוצי הוצאה ואינו מכסה בחירות ארציות או מרוצים ללא סיבוב שני. הוא מראה שבמסגרת המסוימת של בחירות מקומיות בישראל, עוד הוצאה בתוך טווח ההוצאות שנצפה לא סיפקה יתרון אלקטורלי גדול או יציב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_polling_station_micro_context_voting_summary_he",
+      "file": "democracy_polling_station_micro_context_voting_summary_he.html",
+      "permalink": "/democracy_polling_station_micro_context_voting_summary_he.html",
+      "sortKey": 202609120001,
+      "titleHe": "כשהקיר ליד הקלפי נכנס להצבעה: ההשפעה של הסביבה המיידית על בחירת מפלגה",
+      "paperTitle": "The effect of micro-level context in polling stations on voting",
+      "authorsCardHe": "Pazit Ben-Nun Bloom; Amit Birenboim; Ran R. Hassin",
+      "sourceAuthors": [
+        "Pazit Ben-Nun Bloom",
+        "Amit Birenboim",
+        "Ran R. Hassin"
+      ],
+      "journal": "Political Geography, 107, 102976",
+      "dateText": "עותק המאגר מתוארך ל־4 בספטמבר 2023; כרך 107, מאמר 102976 (נובמבר 2023)",
+      "doiUrl": "https://doi.org/10.1016/j.polgeo.2023.102976",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_polling_station_micro_context_voting_summary_he.jpg",
+        "altHe": "כיתת בית ספר שהוסבה לקלפי, ובה תא הצבעה, תיבת קלפי ועיטורי קיר בגוני כחול ולבן",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-12",
+      "dateModified": "2026-09-12",
+      "summaryHe": "פזית בן־נון בלום, עמית בירנבוים ורן ר' חסין מעבירים את חקר ההקשר האלקטורלי מרמת השכונה אל המטרים והשניות שלפני הטלת הפתק. הם שואלים אם עיטורי בית ספר שאינם תעמולת בחירות מפורשת — דגלים, דמויות לאומיות, פסוקים וסמלים של חג — יכולים להפעיל זהות לאומית, דתית או חילונית ולשנות בחירה בין מפלגות. המחקר כולל חמישה מחקרים משלימים. בתצפית ביום הבחירות לכנסת ה־21 קודדו 142 קלפיות ב־31 בתי ספר ב־12 ערים: ב־44% מן הקלפיות נמצא תוכן לאומי ברור וב־30% תוכן דתי ברור, ונמצאה שונות גם בין קלפיות בתוך אותו בית ספר. שלושה ניסויים שנערכו סמוך לבחירות 2019 השוו סביבת קלפי לאומית, דתית וניטרלית. הראשון השתמש במציאות מדומה ובמדגם סטודנטים סופי של 154 משתתפים; השניים הבאים השתמשו בתמונות מן הסביבה המדומה ובמדגמים סופיים של 446 ושל 1,058 יהודים ישראלים. לא נמצא אפקט ראשי אחיד של הסביבה על כלל המשתתפים. לעומת זאת, בשלושת הניסויים נמצא דפוס מותנה: עיטור לאומי קירב בעיקר מצביעי שמאל בעלי הזדהות לאומית נמוכה או בינונית אל מרכז הגוש, ואילו הסביבה הדתית נטתה להרחיב את הפער בין שמאל לימין ברמות הזדהות לאומית נמוכות, אך דפוס זה היה חלש ופחות יציב. בקלפיות שנצפו הוטלו 57,052 קולות תקפים, ומודל השדה קישר את הקודים הסביבתיים להצבעה ב־138 קלפיות בתוך 30 בתי ספר. תוכן לאומי נקשר להצבעה מתונה יותר בקלפיות שמאליות מובהקות, אך זהו ניתוח מצרפי הנשען על הקצאה מעין־אקראית לפי שמות משפחה ועל שימוש בדפוס ההצבעה כתחליף להזדהות לאומית אישית. גודל האפקט הלאומי ירד מ־d=0.34 בניסוי המציאות המדומה ל־0.21 ול־0.14 בניסויי התמונות, והאפקט הדתי היה קטן ופחות עמיד למפרט המודל. לכן המאמר אינו מראה שקישוט יחיד משנה בהכרח קול, אלא שסביבה שיטתית שהמצביע לא בחר עשויה להטות מעט החלטות של קבוצות מסוימות. החוקרים מציעים לכסות או לאחד סמלים לאומיים ודתיים באזורי הצבעה, ובו בזמן מדגישים שהמחקר נערך בישראל ושאלת ההכללה למדינות ולמוסדות אחרים נשארת פתוחה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_erasable_citizenship_arab_palestinian_citizens_summary_he",
       "file": "democracy_erasable_citizenship_arab_palestinian_citizens_summary_he.html",

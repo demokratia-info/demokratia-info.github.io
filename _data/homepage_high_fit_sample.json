@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-11",
+  "lastUpdated": "2026-09-12",
   "sampleSize": 6,
-  "seed": "2026-09-11-homepage-high-fit",
+  "seed": "2026-09-12-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
-  "fullTextHighFitPaperCount": 6,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 915,
   "paperSlugs": [
     "democracy_conflict_escalation_electoral_implications_israel_summary_he",
-    "democracy_radical_flank_social_movement_support_summary_he",
+    "democracy_constitutional_filibuster_israel_summary_he",
     "democracy_free_speech_prejudice_immigrants_social_identity_summary_he",
-    "democracy_fsu_immigrants_active_citizenship_israel_summary_he",
+    "democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he",
     "democracy_citizenship_status_origin_entitlement_rights_israel_summary_he",
     "democracy_erasable_citizenship_arab_palestinian_citizens_summary_he"
   ]
