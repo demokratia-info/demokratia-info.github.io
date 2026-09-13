@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-14",
   "sampleSize": 6,
-  "seed": "2026-09-12-homepage-high-fit",
+  "seed": "2026-09-14-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 915,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_conflict_escalation_electoral_implications_israel_summary_he",
-    "democracy_constitutional_filibuster_israel_summary_he",
-    "democracy_free_speech_prejudice_immigrants_social_identity_summary_he",
-    "democracy_precautionary_demand_for_education_inequality_and_technological_progress_summary_he",
-    "democracy_citizenship_status_origin_entitlement_rights_israel_summary_he",
-    "democracy_erasable_citizenship_arab_palestinian_citizens_summary_he"
+    "democracy_arab_palestinian_teachers_civicize_pupils_summary_he",
+    "democracy_civic_republicanism_education_nondomination_summary_he",
+    "democracy_net_zero_climate_entrenchment_democracy_summary_he",
+    "democracy_montgomery_bus_boycott_humiliation_social_movements_summary_he",
+    "democracy_haredi_parties_emergency_campaign_2013_elections_summary_he",
+    "democracy_causes_religious_discrimination_western_democracies_summary_he"
   ]
 }
