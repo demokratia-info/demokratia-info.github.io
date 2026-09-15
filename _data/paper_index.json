@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1632,
+  "paperCount": 1642,
   "papers": [
+    {
+      "slug": "democracy_western_democracies_societal_diversity_strategies_summary_he",
+      "file": "democracy_western_democracies_societal_diversity_strategies_summary_he.html",
+      "permalink": "/democracy_western_democracies_societal_diversity_strategies_summary_he.html",
+      "sortKey": 202609160010,
+      "titleHe": "שלוש דרכים דמוקרטיות לנהל שונות עמוקה — ושלושתן מצמצמות אותה",
+      "paperTitle": "How do western democracies cope with the challenge of societal diversity?",
+      "authorsCardHe": "Sammy Smooha",
+      "sourceAuthors": [
+        "Sammy Smooha"
+      ],
+      "journal": "Nations and Nationalism, 24(2), 215–236",
+      "dateText": "פורסם לראשונה ברשת: 25 באפריל 2018; כרך 24, גיליון 2, עמ׳ 215–236",
+      "doiUrl": "https://doi.org/10.1111/nana.12402",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_western_democracies_societal_diversity_strategies_summary_he.jpg",
+        "altHe": "המחשה: נציגות ונציגים מקבוצות שפה ותרבות שונות יושבים סביב שולחן אספה משותף באולם מוסדי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "סמי סמוחה מציע מסגרת השוואתית להבנת האופן שבו דמוקרטיות מערביות מתמודדות עם שסעים בני־קיימא של שפה, דת, תרבות וזהות לאומית. נקודת המוצא שלו היא היסטורית: מודרניזציה, בניית הלאום וליברליזם אינדיבידואלי דחפו מדינות לאחידות, גם כאשר עשו זאת באמצעים שונים מאוד. התפשטות הרב־תרבותיות מאמצע שנות השבעים לא ביטלה, לטענתו, את המגמה הזאת. ברוב הדמוקרטיות הליברליות היא העניקה בעיקר אי־אפליה, הכלה ומרחב לתת־תרבויות, אך לא אוטונומיה תרבותית, מערכות ציבוריות נפרדות או חלוקת כוח בין קבוצות. המאמר מארגן את ההבדלים בין מדינות בשלושה טיפוסי משטר. דמוקרטיה ליברלית, המודגמת באמצעות ארצות הברית, מכירה בזכויות הפרט אך בדרך כלל אינה מעניקה לקבוצות את האמצעים הציבוריים הדרושים לשימור גבולותיהן לאורך דורות; בכך היא מעודדת הטמעה. דמוקרטיה הסדרית, המודגמת באמצעות שווייץ, מכירה בקבוצות, מממנת מוסדות נפרדים ומשלבת אוטונומיה, ייצוג יחסי, וטו וחלוקת כוח; אולם השונות ברמה הפדרלית נשענת במידה רבה על הומוגניות יחסית בתוך קנטונים ורשויות מקומיות. דמוקרטיה אתנית, המודגמת באמצעות אסטוניה, מעניקה למיעוט זכויות אזרח ואפשרות למאבק פוליטי, אך שומרת את הבעלות הסמלית והשליטה במדינה בידי קבוצת הרוב ומגבילה אזרחות, שפה והגירה באופן המחזק את עליונותה. מכאן נובעת טענתו החריפה של סמוחה: שלושת הטיפוסים אינם ניטרליים כלפי שונות חברתית עמוקה; כולם מנסים להקטין אותה או לתחום את השפעתה, אך נבדלים במחיר שהם מטילים על חירות הפרט, על זכויות קולקטיביות ועל שוויון בין הקבוצות. זהו מאמר תיאורטי־היסטורי הנשען על ספרות מחקר ועל שלושה מקרי המחשה, ולא מחקר סיבתי או מדידה שיטתית של תוצאות מדיניות. משום כך, הטיפוסים מסייעים לשאול אילו זכויות ומנגנונים קיימים, אך אינם לבדם הוכחה שמדינה מסוימת מתאימה בשלמות לקטגוריה אחת. המאמר נכתב על רקע משברי הגירה, טרור ועליית הימין בשנות האלפיים, והוא מזהיר במיוחד מפני מעבר משיח על זכויות מיעוט לשיח המעמיד את זכויות הרוב מעליהן. הגנה על שפה, תרבות ולכידות של רוב יכולה להיות אינטרס לגיטימי, אך כאשר היא מתורגמת להגבלת שוויון, לאזרחות מדורגת או לחשדנות קולקטיבית היא פותחת פתח לעריצות הרוב. התרומה הליברלית־דמוקרטית של ההשוואה היא חשיפת הבחירה המוסדית שמאחורי סיסמאות כמו שוויון, רב־תרבותיות ואחדות: השאלה אינה רק אם שונות מותרת, אלא אם לקבוצות יש כוח, משאבים ומעמד שמאפשרים לה להתקיים בלי להפוך את היחיד לשבוי של קהילתו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_brazil_jewish_diaspora_racial_democracy_summary_he",
+      "file": "democracy_brazil_jewish_diaspora_racial_democracy_summary_he.html",
+      "permalink": "/democracy_brazil_jewish_diaspora_racial_democracy_summary_he.html",
+      "sortKey": 202609160009,
+      "titleHe": "מיתוס השוויון שהפך קשר לתפוצה לחשד באי־נאמנות",
+      "paperTitle": "Diaspora boundaries and racial democracy: Nationalist discourses on Judaism and Zionism in Brazil",
+      "authorsCardHe": "Jonathan Grossman",
+      "sourceAuthors": [
+        "Jonathan Grossman"
+      ],
+      "journal": "Nations and Nationalism, 29(4), 1304–1320",
+      "dateText": "פורסם לראשונה ברשת: 21 במאי 2023; כרך 29, גיליון 4, עמ׳ 1304–1320",
+      "doiUrl": "https://doi.org/10.1111/nana.12954",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_brazil_jewish_diaspora_racial_democracy_summary_he.jpg",
+        "altHe": "המחשה: חוקרת מעיינת בתיקי מודיעין ישנים בארכיון ברזילאי, לצד תצלומי קהילה ומפת ברזיל ללא כיתוב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "יונתן גרוסמן בוחן כיצד אליטות לאומניות בברזיל תפסו יהודים, יהדות וציונות בשנות הדיקטטורה הצבאית, 1964–1985. הטענה המרכזית היא שחשד כלפי יהודים לא נשען רק על סטריאוטיפים אנטישמיים מוכרים, אלא קיבל צורה ברזילאית ייחודית מתוך נרטיב ״הדמוקרטיה הגזעית״. נרטיב זה תיאר את ברזיל כאומה שנוצרה מערבוב מוצלח של גזעים וקבוצות, נטולת אפליה ושסעים קבועים. דווקא משום שהלאום דומיין כאחיד ופתוח לכול, שמירה על גבולות קהילתיים וזיקה למולדת חיצונית הוצגו כסירוב להשתלב. המאמר משתמש במושג ״עמדה תפוצתית״ כדי לתאר שני רכיבים: שימור זהות מובחנת ביחס לחברת המגורים וקשר סמלי או פוליטי למולדת נתפסת. יהודים ברזילאים שתמכו בישראל או קיימו מוסדות יהודיים לא נחשבו בהכרח לאויבים, אך בעיני פקידים, דיפלומטים, אנשי ביטחון ואינטלקטואלים מסוימים הם נעשו ברזילאים שנאמנותם אינה שלמה. המחקר הוא ניתוח היסטורי של מסמכי מקור: דוחות מודיעין וביטחון שהותרו לפרסום, תכתובת דיפלומטית ברזילאית, מברקים מארכיון המדינה בישראל, ועיתונות יהודית וכללית. גרוסמן אינו משתמש בדוחות כדי לקבוע מה יהודים עשו בפועל; הוא מנתח את הטענות, השגיאות והסטריאוטיפים שבהם כעדות לאופן שבו האליטות ראו אותם. לאורך שנות השישים החשד נותר בדרך כלל בשיח פנימי גם כשיחסי ברזיל–ישראל היו טובים. בראשית שנות השבעים, עם החרפת הדיכוי והלאומנות ושינוי מדיניות החוץ במזרח התיכון, השיח הפך ביטחוני יותר וקשר ציונות לקומוניזם, הון בינלאומי ואיום על המדינה. בנובמבר 1975, בעת שברזיל תמכה בהחלטת העצרת הכללית של האו״ם 3379 שהשוותה ציונות לגזענות, ההאשמות יצאו מן המסמכים הסודיים אל נאומים רשמיים: בכירים טענו כי זיקה לישראל סותרת את המסורת הברזילאית של התמזגות ונאמנות בלעדית. לאחר 1979, כשיחסי המשטר עם ישראל ועם הנהגת הקהילה השתפרו, העוצמה והפומביות של השיח פחתו, אך הוא לא נעלם. ההשוואה הקצרה לארגנטינה מחדדת את הייחוד הברזילאי. בלאומנות הארגנטינית הקתולית יהודים הוצגו לעיתים כזרים מעצם יהדותם; בברזיל ההבטחה הייתה הכלה מותנית — יהודים יכלו להשתייך אם ויתרו על עמדה תפוצתית והוכיחו שוב ושוב את ברזילאיותם. המאמר מדגיש שיהודי ברזיל נהנו בדרך כלל מהצלחה חברתית וכלכלית ולא היו קבוצה מודרת בדומה לברזילאים ממוצא אפריקאי. אין הוא מציג את ברזיל כמדינה אנטישמית בכללותה, אלא חושף מנגנון של שייכות לא־שוויונית שפעל גם ללא הדרה גורפת. תרומתו הדמוקרטית רחבה מן המקרה היהודי: אידאל של אחדות ושל עיוורון להבדלים יכול להסתיר היררכיה כאשר רק מיעוטים נדרשים למחוק זיקות מורכבות ולהוכיח נאמנות. חברה פלורליסטית נבחנת לא רק בפתיחת שעריה למיעוט, אלא גם ביכולתו להשתייך בלי לוותר על זהות, קשרים חוצי גבולות וביקורת פוליטית לגיטימית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_global_citizenship_education_dialogue_controversial_issues_summary_he",
+      "file": "democracy_global_citizenship_education_dialogue_controversial_issues_summary_he.html",
+      "permalink": "/democracy_global_citizenship_education_dialogue_controversial_issues_summary_he.html",
+      "sortKey": 202609160008,
+      "titleHe": "דיאלוג על מחלוקת דורש גם מיומנות הוראה וגם עמדה ביקורתית",
+      "paperTitle": "Pedagogies of dialogue in global citizenship education: pre-service teachers navigate controversial issues across borders",
+      "authorsCardHe": "Aviv Cohen; Yifat Ben-David Kolikant; Micah Sapir; Julia Resnik; Timothy J. Patterson",
+      "sourceAuthors": [
+        "Aviv Cohen",
+        "Yifat Ben-David Kolikant",
+        "Micah Sapir",
+        "Julia Resnik",
+        "Timothy J. Patterson"
+      ],
+      "journal": "Discourse: Studies in the Cultural Politics of Education, 47(3), 430–442",
+      "dateText": "פורסם לראשונה ברשת: 21 באוקטובר 2025; כרך 47, גיליון 3, 2026, עמ׳ 430–442",
+      "doiUrl": "https://doi.org/10.1080/01596306.2025.2574981",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_global_citizenship_education_dialogue_controversial_issues_summary_he.jpg",
+        "altHe": "המחשה: פרחי הוראה ממדינות שונות דנים סביב שולחן בחומרי שיעור על הגירה, כשמחשב נייד מחבר עמיתים מרחוק",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "אביב כהן, יפעת בן־דוד קוליקנט, מיכה ספיר, ג׳וליה רזניק וטימותי פטרסון בוחנים כיצד פרחי הוראה מתרגמים חינוך לאזרחות גלובלית להתמודדות ממשית עם סוגיות ציבוריות שנויות במחלוקת. נקודת המוצא היא שחינוך כזה אינו רק טיפוח סובלנות, מודעות לעולם או כישורים לשוק גלובלי. בגרסתו הביקורתית הוא דורש לבחון יחסי כוח, עוולות היסטוריות, היררכיות של ידע ומפגש עם נקודות מבט שאינן נוחות ללומד. אלא שמטרות אלה אינן הופכות מעצמן לפרקטיקה בכיתה: מורה צריך גם לדעת לבנות שיחה, להכין ידע רקע, לטפל ברגש ובקונפליקט ולהחליט מתי ניטרליות מגינה על דיון ומתי היא מסתירה אי־שוויון. המחקר נערך במסגרת GlobalSense, מיזם Erasmus+ להכשרת מורים שחיבר פרחי הוראה מבלגיה, צרפת, גרמניה, ישראל וארצות הברית. בשלושה מחזורים בשנים האקדמיות 2021–2024 התקיימו 37 מפגשים מקוונים מוקלטים ומתומללים ובהם 300 משתתפים. הפעילות כללה ארבעה שלבים: קריאת טקסטים וניתוח חומר חזותי על הגירה; בניית מערך שיעור מותאם להקשר המקומי; שיחה סינכרונית בת 90 דקות בקבוצה בינלאומית; וכתיבת רפלקציה אישית והשתתפות בקבוצת מיקוד מקומית. לצד הגירה, עלו בשיחות גם דת וחילוניות, זכויות להט״ב וצנזורה. החוקרים ניתחו את החומרים באופן תמטי וספירלי, תוך מעבר בין היכרות מעמיקה עם הנתונים, ניסוח שאלות, קידוד ופרשנות. הממצאים מצביעים על שני מוקדים קשורים: מה צריך לדעת על הסוגיה, ואיך צריך ללמד אותה. המשתתפים ביקשו בסיס עובדתי והיכרות עם ההקשר, חששו מהטיה ומפגיעה בתלמידים, והציעו כלים כגון שיחה מובנית, ריבוי מקורות, משחקי תפקידים וסיפורים המעניקים פנים אנושיות לסוגיה. עם זאת, רבים מהם לא הסתפקו בניהול מסודר של תור דיבור. הם שאלו מי מרגיש בטוח לדבר, אילו קולות נעדרים, איזה ידע מקבל סמכות וכיצד אפשר להחזיק מחלוקת בלי לנטרל את שאלות הצדק שבתוכה. מכאן נובעת מסקנתו המרכזית של המאמר: הכשרה מבוססת פרקטיקה מעניקה למורים כלים הכרחיים, אך עלולה להפוך דיון דמוקרטי לטכניקה נטולת פוליטיקה אם היא מתעלמת מהיסטוריה, זהות וכוח. מן הצד האחר, שפה מופשטת של צדק, אמפתיה ושינוי אינה מספיקה אם למורה אין דרך מעשית לתרגם אותה למבנה שיעור ולתגובה בזמן אמת. הדרישה היא אינטגרטיבית — ידע תוכן, מיומנות הנחיה, רפלקסיה ביקורתית ורגישות אתית ורגשית. המחקר אינו טוען שכל המשתתפים פיתחו אותה עמדה; האתוס הביקורתי הופיע בעוצמות שונות ולעיתים התקיים לצד רצון בניטרליות. גם תנאי המיזם מגבילים את ההכללה: כל המוסדות היו בצפון הגלובלי, השיחות התנהלו באנגלית, היו הבדלים בשליטה בשפה ובהיכרות קודמת עם התחום, ולא נאספו נתונים דמוגרפיים אחידים בכל האתרים. המחקר מנתח תכנון ושיח של פרחי הוראה, לא את הצלחתם המאוחרת בהנחיית כיתות. למרות זאת, הוא מבהיר מדוע שיחה על מחלוקת היא פעולה דמוקרטית ולא רק כלי הוראה. כשהמורה מאפשר התנגדות, מברר אילו הנחות שולטות בחדר ויוצר מקום גם לאי־נוחות וגם לאחריות, הכיתה יכולה לפתח רפלקסיביות, אמפתיה, יכולת לחלוק והכרה במגבלות הידע של כל משתתף.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_electoral_candidate_selection_personalised_campaigning_summary_he",
+      "file": "democracy_electoral_candidate_selection_personalised_campaigning_summary_he.html",
+      "permalink": "/democracy_electoral_candidate_selection_personalised_campaigning_summary_he.html",
+      "sortKey": 202609160007,
+      "titleHe": "המפלגה, המועמד ושני שערי הבחירה: מתי קמפיין נעשה אישי?",
+      "paperTitle": "Institutional personalism and personalised behaviour: Electoral systems, candidate selection methods, and politicians’ campaign strategy",
+      "authorsCardHe": "Or Tuttnauer; Gideon Rahat",
+      "sourceAuthors": [
+        "Or Tuttnauer",
+        "Gideon Rahat"
+      ],
+      "journal": "Electoral Studies, 94, 102909",
+      "dateText": "פורסם ברשת: 16 בפברואר 2025; כרך 94, אפריל 2025, מאמר 102909",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2025.102909",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_electoral_candidate_selection_personalised_campaigning_summary_he.jpg",
+        "altHe": "חברי מפלגה בוחנים תמונות מועמדים באספת בחירה פנימית בזמן שמועמד נואם ברקע",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "פוליטיקאי המבקש להגיע לפרלמנט חייב בדרך כלל לעבור שני שערים: להיבחר כמועמד בתוך מפלגתו ולזכות בתמיכת הבוחרים בבחירות הכלליות. אור טוטנאואר וגדעון רהט מראים שאין להבין את סגנון הקמפיין האישי בלי לבחון את יחסי הגומלין בין שני השערים. הם מחברים את סקר המועמדים ההשוואתי למאגר מפלגות מפורט ומנתחים 9,320 משיבים מ־101 מפלגות, ב־18 מערכות בחירות וב־16 דמוקרטיות. המדד המרכזי הוא דיווח המועמדים על מוקד הקמפיין בסולם שבין משיכת תשומת לב למפלגה לבין משיכת תשומת לב לעצמם. בשיטות יחסיות עם רשימה סגורה, בחירה בפריימריז או בידי מנהיג נקשרה ליותר קמפיין אישי מאשר בחירה בידי מוסד מפלגתי קולגיאלי. ככל ששיטת הבחירות מאפשרת לבוחרים לבחור מועמד מסוים, ההבדלים בין שיטות הבחירה הפנים־מפלגתיות נחלשים ואף נעלמים. הממצא מערער על ההנחה שבחירת מועמדים בידי מנהיג היא בהכרח ההפך מפריימריז: שתיהן עשויות להיות צורות שונות של פרסונליזציה, האחת ממוקדת במנהיג והאחרת ביחיד. מבחינה דמוקרטית, המחקר מדגיש שכלל שנראה משתף או ריכוזי בתוך המפלגה אינו מכתיב לבדו את התנהגות המועמדים; משמעותו תלויה במבנה הבחירות שבתוכו הוא פועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_inoculation_affective_polarization_social_media_summary_he",
+      "file": "democracy_inoculation_affective_polarization_social_media_summary_he.html",
+      "permalink": "/democracy_inoculation_affective_polarization_social_media_summary_he.html",
+      "sortKey": 202609160006,
+      "titleHe": "חיסון פסיכולוגי נגד תוכן מקטב: פחות שיתוף, אך לא פחות שפה עוינת",
+      "paperTitle": "Inoculation reduces social media engagement with affectively polarized content in the UK and US",
+      "authorsCardHe": "Fintan Smith; Almog Simchon; Dawn Holford; Stephan Lewandowsky",
+      "sourceAuthors": [
+        "Fintan Smith",
+        "Almog Simchon",
+        "Dawn Holford",
+        "Stephan Lewandowsky"
+      ],
+      "journal": "Communications Psychology, 3(1), Article 11",
+      "dateText": "פורסם: 26 בינואר 2025; כרך 3, גיליון 1, מאמר 11",
+      "doiUrl": "https://doi.org/10.1038/s44271-025-00189-7",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_inoculation_affective_polarization_social_media_summary_he.jpg",
+        "altHe": "משתתפים בסדנת אוריינות מדיה עוצרים ובוחנים תגובה לתוכן מקטב בטלפונים שלהם",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "תוכן היפר־מפלגתי מקבל כוח פוליטי לא רק ממי שיוצר אותו, אלא גם ממשתמשים אמיתיים שלוחצים, משתפים, מגיבים ומעניקים לו נראות ולגיטימציה. פינטאן סמית, אלמוג שמחון, דון הולפורד וסטפן לבנדובסקי בוחנים אם חיסון פסיכולוגי קצר יכול להחליש את הדחף להשתתף בהפצה. ההתערבות מזהירה מפני המחיר הדמוקרטי של שיח מקטב ומלמדת לזהות שלוש טכניקות: יצירת שעיר לעזאזל, התקפה על האדם ושפה רגשית. ששת הניסויים נחלקים לשתי קבוצות. בשלושת הניסויים הראשונים, שכללו יחד 3,276 משתתפים בבריטניה ובארצות הברית, ההתערבות הפחיתה דיווח על נכונות ללחוץ על כותרות מקטבות או לשתף אותן. בשני ניסויי הברקזיט בבריטניה הירידה לא הוגבלה לתוכן משפיל כלפי המחנה האחר, ואילו בניסוי האמריקאי על הפלות נרשמה השפעה חזקה במיוחד על תוכן מקטב רגשית. בשלושת הניסויים הבאים, שכללו יחד 1,878 משתתפים, ההתערבות לא שינתה באופן מובהק את מידת השפה המקטבת בטקסט שהמשתתפים עצמם כתבו. ההבדל בין התוצאות מבהיר שהימנעות מפעולת הפצה קלה אינה שקולה לשינוי סגנון הביטוי העצמי. ההתערבות מציעה כלי אפשרי להאטת תפוצה, אך אינה תחליף לעיצוב פלטפורמות, לנורמות שיח או להתערבויות שמכוונות במפורש ליצירת תוכן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_social_media_affordances_social_movements_summary_he",
+      "file": "democracy_social_media_affordances_social_movements_summary_he.html",
+      "permalink": "/democracy_social_media_affordances_social_movements_summary_he.html",
+      "sortKey": 202609160005,
+      "titleHe": "לא כל רשת מתאימה לכל מחאה: מפת היכולות הדיגיטליות של תנועות חברתיות",
+      "paperTitle": "Differential social media affordances: an actor type-centric, intermediate-level approach using the case of social movements",
+      "authorsCardHe": "Christian Baden; Annett Heft; Michael Vaughan; Barbara Pfetsch",
+      "sourceAuthors": [
+        "Christian Baden",
+        "Annett Heft",
+        "Michael Vaughan",
+        "Barbara Pfetsch"
+      ],
+      "journal": "Communication Theory, 36(3), 165–176",
+      "dateText": "פורסם לראשונה ברשת: 10 בנובמבר 2025; כרך 36, גיליון 3, אוגוסט 2026, עמ׳ 165–176",
+      "doiUrl": "https://doi.org/10.1093/ct/qtaf030",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_media_affordances_social_movements_summary_he.jpg",
+        "altHe": "מפגינים בכיכר תחריר מטעינים יחד טלפונים ניידים ששימשו לתקשורת ולתיעוד המחאה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "רשתות חברתיות אינן ארגז כלים אחיד, ותכונה טכנית אינה הופכת מעצמה ליכולת פוליטית. כריסטיאן באדן, אנט הפט, מייקל ווהן וברברה פטש מציעים לנתח יכולות דיגיטליות ברמת ביניים: מפורטת מספיק כדי להבדיל בין דרכי הפעולה שפלטפורמות מאפשרות, אך כללית מספיק להשוואה בין פלטפורמות, מדינות ותקופות. נקודת המוצא היא סוג השחקן. תנועות חברתיות חולקות שלושה צרכים: לנסח תביעות ציבוריות, לגייס פעולות מחאה ולבנות ארגון, רשת וזהות קולקטיבית. מתוך ספרות רחבה המחברים גוזרים שמונה יכולות: יחסים עם תקשורת, תיווך עצמי לקהל, סיפור משותף, הנעה להשתתפות, תיאום מבוזר, בניית זהות משלבת, היררכיות מתהוות וקבלת החלטות מבוזרת. כל יכולת נוצרת מן היחסים בין עיצוב הפלטפורמה, תפיסת המשתמש והמטרה שהוא מבקש להשיג. המסגרת מוסיפה שני תנאי הקשר. דיכוי נתפס מגדיל את ערכם של הצפנה ומרחבים מוגנים אך מקשה להגיע לציבור; חלוקת הכוח בין תאגיד יחיד, מוסד פוליטי או ציבור מפוזר משנה אם התנועה זקוקה בעיקר לתיאום, ללגיטימציה ציבורית או לסיפור משותף. המאמר הוא בניית תאוריה ולא מבחן אמפירי של דירוג פלטפורמות. תרומתו הדמוקרטית היא להראות שנראות, ביטחון, השתתפות וארגון כרוכים לעיתים בעסקאות חליפין, ולכן בחירה דיגיטלית של תנועה היא החלטה פוליטית ולא רק טכנית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_human_rights_ngos_arts_interventions_summary_he",
+      "file": "democracy_human_rights_ngos_arts_interventions_summary_he.html",
+      "permalink": "/democracy_human_rights_ngos_arts_interventions_summary_he.html",
+      "sortKey": 202609160004,
+      "titleHe": "מן הדו״ח אל הדמיון: מה אמנות מוסיפה לעבודת זכויות אדם?",
+      "paperTitle": "From human rights documentation towards arts-based interventions: NGO collaborations with artists and the reimagining of human rights",
+      "authorsCardHe": "Ron Dudai; Paul Gready",
+      "sourceAuthors": [
+        "Ron Dudai",
+        "Paul Gready"
+      ],
+      "journal": "The International Journal of Human Rights, 29(7), 1226–1248",
+      "dateText": "פורסם ברשת: 5 בינואר 2025; כרך 29, גיליון 7, עמ׳ 1226–1248",
+      "doiUrl": "https://doi.org/10.1080/13642987.2024.2446963",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_human_rights_ngos_arts_interventions_summary_he.jpg",
+        "altHe": "פעילי זכויות אדם ואמנים בוחנים יחד תצלומים, עדויות ורעיונות לתערוכה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "המודל הקלאסי של ארגוני זכויות אדם מניח שתיעוד מדויק, אימות עדויות ויישום הדין יפרצו הכחשה ויניעו שינוי. רון דודאי ופול גרידי מראים כי בסביבה פופוליסטית ורוויית מדיה חברתית העובדות אינן בהכרח שנויות במחלוקת: לעיתים הציבור מכיר אותן, אך מצדיק את הפגיעה, אדיש לה או דוחה את עצם סמכותם של ארגוני מומחים. המחקר נשען על שישה ראיונות עילית עם בכירים בארבעה ארגונים ישראליים — בצלם, שוברים שתיקה, זוכרות והורים נגד מעצר ילדים — ועל ניתוח סרטים, תצלומים, מחול, תיאטרון, איור ומציאות מדומה שהופקו עם הארגונים או בעבורם. המרואיינים מתארים שלוש תרומות מרכזיות של אמנות: הרחבת האמת העובדתית לסיפורים אישיים, חברתיים ומשקמים; יצירת נקודות כניסה פחות מתגוננות לקהלים חדשים; ומתן צורה לעתידים חלופיים שקשה לבטא בדו״ח משפטי. הדוגמאות מראות כיצד אמנות חושפת את שגרת הכיבוש ולא רק הפרה חריגה, מערבת את הגוף והרגש ומאפשרת לקהל להשתתף בפרשנות. עם זאת, המחברים אינם מציעים להחליף תיעוד באמנות: הדו״ח והעדות ממשיכים להקנות לתוצרים האחרים לגיטימציה בירושה, וארגונים מגינים עליהם באמצעות כללים נגד סילוף, הפרדת בעלות ולעיתים דחיית שיתוף פעולה. זהו מחקר על שיקול דעתם של אנשי הארגונים, לא מחקר קהל, ולכן הוא אינו מוכיח שההתערבויות שינו עמדות או מדיניות. תרומתו הדמוקרטית היא בזיהוי מתח מעשי: כיצד לשמר אמת ניתנת לבדיקה ובו בזמן לפתח שפה המסוגלת להתמודד עם הכחשה סיפורית, קיטוב וחוסר יכולת לדמיין סדר פוליטי אחר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_civil_war_interventions_regime_type_summary_he",
+      "file": "democracy_civil_war_interventions_regime_type_summary_he.html",
+      "permalink": "/democracy_civil_war_interventions_regime_type_summary_he.html",
+      "sortKey": 202609160003,
+      "titleHe": "מתי דמוקרטיות מסייעות למשטרים במלחמות אזרחים?",
+      "paperTitle": "Democracy for the rescue—of dictators? The role of regime type in civil war interventions",
+      "authorsCardHe": "Ogen S. Goldman; Uriel Abulof",
+      "sourceAuthors": [
+        "Ogen S. Goldman",
+        "Uriel Abulof"
+      ],
+      "journal": "Contemporary Security Policy, 37(3), 341–368",
+      "dateText": "פורסם מקוון: 20 בספטמבר 2016; כרך 37, גיליון 3, עמ׳ 341–368",
+      "doiUrl": "https://doi.org/10.1080/13523260.2016.1228033",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_civil_war_interventions_regime_type_summary_he.jpg",
+        "altHe": "חיילי כוח שמירת שלום בתוך רכב משוריין במהלך סיור במרחב של סכסוך פנימי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "המאמר בוחן סכסוכים פנימיים שנעשו בינלאומיים באמצעות סיוע של מדינות לממשלות הנלחמות במורדים. המחברים שואלים כיצד סוג המשטר של המדינה המסייעת ושל הממשלה הנאבקת קשור להחלטה לתמוך בה. הם בודקים שלוש השערות: שדמוקרטיות יסייעו לאוטוקרטיות פחות מכפי שאוטוקרטיות יסייעו להן; שדמוקרטיות יסייעו לדמוקרטיות יותר מכפי שאוטוקרטיות יסייעו להן; ושככל ששתי המדינות דמוקרטיות יותר, גדלה ההסתברות שאחת תסייע למאבקה של האחרת במורדים. בסיס הבדיקה כולל את כלל מקרי הסיוע החיצוני המתועדים במלחמות פנימיות בשנים 1975–2000. שתי ההשערות הראשונות זוכות לתמיכה חלקית בלבד, ואילו ההשערה השלישית מאוששת. בהשוואה בין ההסבר הנורמטיבי להסבר המבני של תיאוריית השלום הדמוקרטי, המחברים מוצאים תמיכה עמידה רק בהסבר הנורמטיבי. בכך המאמר מרחיב את הדיון בשלום הדמוקרטי מן היחסים בין מדינות גם אל התערבות במלחמות בתוך מדינות. התמונה המצטברת מורכבת יותר מכלל פשוט של סולידריות בין משטרים: המדרג הדמוקרטי של שני הצדדים מסביר יותר מן הסיווג של צד אחד בלבד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_liberal_human_rights_meaning_religion_state_summary_he",
+      "file": "democracy_liberal_human_rights_meaning_religion_state_summary_he.html",
+      "permalink": "/democracy_liberal_human_rights_meaning_religion_state_summary_he.html",
+      "sortKey": 202609160002,
+      "titleHe": "משמעות, דת והמדינה: עתידן של זכויות האדם הליברליות",
+      "paperTitle": "Meaning, Religion, and the State: On the Future of Liberal Human Rights",
+      "authorsCardHe": "Menachem Mautner",
+      "sourceAuthors": [
+        "Menachem Mautner"
+      ],
+      "journal": "The Law & Ethics of Human Rights, 10(1), 109–133",
+      "dateText": "פורסם: 1 במאי 2016; כרך 10, גיליון 1, עמ׳ 109–133",
+      "doiUrl": "https://doi.org/10.1515/lehr-2016-0004",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_liberal_human_rights_meaning_religion_state_summary_he.jpg",
+        "altHe": "קבוצה בין־דתית משוחחת בחלל ציבורי של אמנות ומוזיקה כשמבני דת נראים ברקע",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "מנחם מאוטנר מציג טיעון על משבר המשמעות במדינה הניאו־ליברלית והפוסט־לאומית ועל השלכותיו לעתיד הדמוקרטיה הליברלית החילונית. לפי המאמר, התפשטות הניאו־ליברליזם מדלדלת את המשמעות בחיי בני אדם, וככל שמדינה ניאו־ליברלית יותר כך אזרחיה עשויים לפנות יותר לדת. במקביל, אם הסיפורים והפרקטיקות של מדינת הלאום חדלים לספק משמעות, הדת נותרת מקור מרכזי ל״משמעות גדולה״ — מסגרת כוללת להבנת החיים. מאוטנר רואה בשילוב בין שתי המגמות איום אפשרי על הדמוקרטיה הליברלית החילונית. לדבריו, המדינה הליברלית אינה יכולה ואינה אמורה לספק לאזרחיה מערכת עבה ומקיפה של משמעות גדולה. חלופה אפשרית היא ״הליברליזם של השגשוג״: מדינה המעמידה לרשות אזרחיה שפע של תכנים בעלי ״משמעות עמוקה״, ובעיקר חומרים הגלומים באמנות. תכנים כאלה יכולים לשמש אבני בניין שמהן כל אדם יפתח תפיסה אישית של משמעות החיים. כך המדינה אינה מכתיבה אמונה כוללת, אלא מחזקת את יכולתם של יחידים לעצב משמעות בעצמם ולהעמיד חלופה למשמעות שמספקת הדת. זוהי הצעה נורמטיבית על תפקידה התרבותי של המדינה: היא מרחיבה את מקורות המשמעות הזמינים, והיחיד הוא שמרכיב מהם את תפיסת חייו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_hollow_citizenship_palestinian_citizens_israel_summary_he",
+      "file": "democracy_hollow_citizenship_palestinian_citizens_israel_summary_he.html",
+      "permalink": "/democracy_hollow_citizenship_palestinian_citizens_israel_summary_he.html",
+      "sortKey": 202609160001,
+      "titleHe": "מדינה מלאימה ואזרחות חלולה: ישראל ואזרחיה הפלסטינים",
+      "paperTitle": "Nationalizing States and the Constitution of ‘Hollow Citizenship’: Israel and its Palestinian Citizens",
+      "authorsCardHe": "Amal Jamal",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Ethnopolitics, 6(4), 471–493",
+      "dateText": "פורסם ברשת: 19 בדצמבר 2007; כרך 6, גיליון 4, עמ׳ 471–493",
+      "doiUrl": "https://doi.org/10.1080/17449050701448647",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/democracy_hollow_citizenship_palestinian_citizens_israel_summary_he.jpg",
+        "altHe": "משפחה ערבית־פלסטינית ממתינה לקבלת שירות מול דלפק ציבורי במבנה מוסדי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
+      "summaryHe": "אמל ג׳מאל טוען שמדינות מלאימות מאמצות מדיניות פוליטית, כלכלית ותרבותית המרוקנת את אזרחותם של מיעוטים לאומיים ממשמעות מהותית. המיעוט, לעיתים מעצם קיומו, מציב אתגר לחזון היסוד של המדינה, ולכן מעמד אזרחי פורמלי אינו מבטיח השתייכות שווה בפועל. המאמר מדגים את הטענה באמצעות היחסים בין מדינת ישראל לבין המיעוט הערבי־פלסטיני. הוא מנתח מדיניות מן התקופה שקדמה לפרסום בשלושה ממדים ומדגיש כי הסבר היחסים בין מדינה מלאימה למיעוט דורש מסגרת רב־ממדית. בניגוד לתזת הליברליזציה שרווחה לפי המאמר בחוגים אקדמיים מסוימים בישראל, ג׳מאל טוען שהמדינה הדגישה את אופייה המלאים. התוצאה המתוארת היא אזרחות ערבית־פלסטינית שנשארת קיימת מבחינה פורמלית אך מאבדת תוכן מהותי. לפי המאמר, המדיניות המלאימה הגבירה את הדרישות הערביות לשינוי כולל במבנה המדינה ובמדיניותה. הגברת הדרישות מזינה בתורה את הסכסוך בין המדינה לבין המיעוט, ולכן המדיניות אינה רק תגובה למתח אלא גם חלק מן התהליך שמעמיק אותו. הטענה היא מבנית: איכות האזרחות נקבעת בהצטברות של מדיניות בכמה זירות, ולא רק בקיומו של מעמד משפטי או באירוע יחיד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_migrant_organizations_urban_citizenship_crisis_summary_he",
       "file": "democracy_migrant_organizations_urban_citizenship_crisis_summary_he.html",

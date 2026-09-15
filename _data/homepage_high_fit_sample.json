@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-15",
+  "lastUpdated": "2026-09-16",
   "sampleSize": 6,
-  "seed": "2026-09-15-homepage-high-fit",
+  "seed": "2026-09-16-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 928,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 7,
   "paperSlugs": [
-    "democracy_polarization_partisan_bias_public_services_summary_he",
-    "democracy_civic_republicanism_education_nondomination_summary_he",
-    "democracy_net_zero_climate_entrenchment_democracy_summary_he",
-    "democracy_arab_israeli_citizens_in_the_2009_elections_between_israeli_citizenship_and_palestinia_summary_he",
-    "democracy_haredi_parties_emergency_campaign_2013_elections_summary_he",
-    "democracy_causes_religious_discrimination_western_democracies_summary_he"
+    "democracy_human_rights_ngos_arts_interventions_summary_he",
+    "democracy_inoculation_affective_polarization_social_media_summary_he",
+    "democracy_global_citizenship_education_dialogue_controversial_issues_summary_he",
+    "democracy_social_media_affordances_social_movements_summary_he",
+    "democracy_brazil_jewish_diaspora_racial_democracy_summary_he",
+    "democracy_electoral_candidate_selection_personalised_campaigning_summary_he"
   ]
 }
