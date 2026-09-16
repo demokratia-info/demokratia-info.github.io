@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-16",
+  "lastUpdated": "2026-09-17",
   "sampleSize": 6,
-  "seed": "2026-09-16-homepage-high-fit",
+  "seed": "2026-09-17-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 6,
-  "fullTextHighFitPaperCount": 7,
+  "replacementCount": 2,
+  "fullTextHighFitPaperCount": 938,
   "paperSlugs": [
     "democracy_human_rights_ngos_arts_interventions_summary_he",
-    "democracy_inoculation_affective_polarization_social_media_summary_he",
+    "democracy_the_israeli_unfinished_constitutional_revolution_has_the_time_come_for_protecting_economic_and_summary_he",
     "democracy_global_citizenship_education_dialogue_controversial_issues_summary_he",
-    "democracy_social_media_affordances_social_movements_summary_he",
+    "democracy_editorial_the_crises_of_the_israeli_democracy_summary_he",
     "democracy_brazil_jewish_diaspora_racial_democracy_summary_he",
     "democracy_electoral_candidate_selection_personalised_campaigning_summary_he"
   ]

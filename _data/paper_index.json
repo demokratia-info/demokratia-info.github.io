@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1642,
+  "paperCount": 1652,
   "papers": [
+    {
+      "slug": "democracy_terrorism_political_tolerance_fellow_travelers_summary_he",
+      "file": "democracy_terrorism_political_tolerance_fellow_travelers_summary_he.html",
+      "permalink": "/democracy_terrorism_political_tolerance_fellow_travelers_summary_he.html",
+      "sortKey": 202609170010,
+      "titleHe": "כשהטרור מרחיב את אי־הסובלנות כלפי ״שותפים לדרך״",
+      "paperTitle": "Terrorism and Political Tolerance toward “Fellow Travelers”",
+      "authorsCardHe": "Mark Peffley; Marc L. Hutchison; Michal Shamir",
+      "sourceAuthors": [
+        "Mark Peffley",
+        "Marc L. Hutchison",
+        "Michal Shamir"
+      ],
+      "journal": "Journal of Conflict Resolution, 66(7–8), 1208–1234",
+      "dateText": "פורסם לראשונה ברשת: 2 במרץ 2022; כרך 66, גיליונות 7–8, עמ׳ 1208–1234",
+      "doiUrl": "https://doi.org/10.1177/00220027211069121",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_terrorism_political_tolerance_fellow_travelers_summary_he.jpg",
+        "altHe": "המחשה: אזרחים יהודים וערבים משתתפים בדיון ציבורי מתוח באולם קהילתי בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "מארק פפלי, מארק ל׳ האצ׳יסון ומיכל שמיר שואלים אם עלייה בטרור שוחקת חירויות לא רק של מי שנתפסים כקרובים למבצעים, אלא גם של קבוצות מקומיות המוצגות כ״שותפות לדרך״ אף שהן רחוקות מן האלימות ואינן אחראיות לה. המחקר משלב 18 סקרים ייצוגיים של יהודים בוגרים בישראל שנערכו בטלפון או פנים אל פנים בין 1980 ל־2011; ב־15 מהם נשאלה גם שאלה קבועה על אזרחים ערבים. הסובלנות נמדדת באמצעות הנכונות להתיר הפגנה לקבוצה הפוליטית הפחות־אהודה על המשיב, ובסקרים המתאימים גם לאזרחים הערבים בישראל כקבוצה רחבה. שלוש קבוצות היעד הן קבוצות פוליטיות ערביות לא־אהודות, קבוצות שמאל יהודיות לא־אהודות והציבור הערבי האזרחי. רמת הטרור היא מספר הפיגועים שתיעד Global Terrorism Database בתוך גבולות ישראל המוכרים בינלאומית בשלושת החודשים שלפני כל סקר; המספר נע בין אפס ל־27 והממוצע היה 11. עוד לפני בחינת השינוי בטרור, הסובלנות כלפי קבוצות פוליטיות ערביות לא־אהודות הייתה נמוכה מזו שניתנה לקבוצות שמאל יהודיות לא־אהודות. ככל שמספר הפיגועים עלה, הנכונות להתיר הפגנה לשני סוגי הקבוצות הפחות־אהודות ירדה בקצב דומה, בניגוד להשערה שהפגיעה תהיה חזקה יותר כלפי הקבוצות הערביות. הפירוק לפי זהות פוליטית מראה שהקשר השלילי נבע בעיקר ממשיבים בימין: אצלם התפשטה הירידה בסובלנות לכל שלוש קבוצות היעד, בלי הבחנה רבה ביניהן. ביחס לאזרחים ערבים, המקדם היה ‎−0.011 בקרב הימין והיה מובהק ברמת p<0.01; בימין המתון הוא היה ‎−0.007 ברמת p=0.08, ואילו במרכז ובשמאל לא נמצא קשר מובהק. בדיקות עמידות במודלים חלופיים, עם מדדי איום נוספים, ללא מי שבחרו בתנועה האסלאמית ובבדיקות של בחירת הקבוצה הפחות־אהודה שמרו על המסקנה המרכזית. עם זאת, המחקר הוא תצפיתי ואינו יכול להוכיח שפיגועים לבדם גרמו לשינוי בעמדות, והיעדר מדדים עקביים של איום נתפס, ביטחון פסיכולוגי ומחויבות לנורמות דמוקרטיות מגביל את זיהוי המנגנון. תרומתו היא בהראותו כיצד איום ממשי יכול להרחיב את מעגל הקבוצות שחירותן נעשית פגיעה, במיוחד כאשר זהות פוליטית משרטטת גבול רחב בין ״אנחנו״ ל״הם״.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_british_2010_election_different_voting_rules_summary_he",
+      "file": "democracy_british_2010_election_different_voting_rules_summary_he.html",
+      "permalink": "/democracy_british_2010_election_different_voting_rules_summary_he.html",
+      "sortKey": 202609170009,
+      "titleHe": "אותם בוחרים, מנצחת אחרת: בחירות בריטניה ב־2010 תחת כללי הצבעה חלופיים",
+      "paperTitle": "The British general election of 2010 under different voting rules",
+      "authorsCardHe": "Paul R. Abramson; John H. Aldrich; Abraham Diskin; Aaron M. Houck; Renan Levine; Thomas J. Scotto",
+      "sourceAuthors": [
+        "Paul R. Abramson",
+        "John H. Aldrich",
+        "Abraham Diskin",
+        "Aaron M. Houck",
+        "Renan Levine",
+        "Thomas J. Scotto"
+      ],
+      "journal": "Electoral Studies, 32(1), 134–139",
+      "dateText": "פורסם לראשונה ברשת: 22 באוקטובר 2012; כרך 32, גיליון 1, מרץ 2013, עמ׳ 134–139",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2012.10.002",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_british_2010_election_different_voting_rules_summary_he.jpg",
+        "altHe": "המחשה: עובדי בחירות סופרים פתקים ולצדם כמה חלוקות אפשריות של מושבי הפרלמנט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "פול אברמסון וחמשת עמיתיו משתמשים בנתוני סקר כדי לשאול כיצד היו נראות בחירות בריטניה ב־2010 תחת כללי הכרעה אחרים. הבחירות בפועל נערכו בשיטת הרוב היחסי במחוזות, FPTP, והסתיימו בפרלמנט תלוי — בלי רוב למפלגה אחת — לראשונה זה יותר מדור. החוקרים מדמים ארבע חלופות: השוואות זוגיות מחזוריות, ספירת בורדה, שיטת הקול החלופי ושיטת קומבס. לפי התוצאות המדווחות, הליברל־דמוקרטים היו מנצחים כל מפלגה אחרת בהשוואה ישירה ולכן היו המנצחים לפי אמת המידה של קונדורסה. הם היו מנצחים גם בכל אחת מן השיטות החלופיות שנבדקו למעט הקול החלופי; הם לא ניצחו כמובן גם בשיטת FPTP שבה נערכו הבחירות. החריג יוצר אירוניה פוליטית: הקול החלופי היה השיטה שהליברל־דמוקרטים תמכו בה במשאל העם במאי 2011. המאמר מדגים אפוא שכלל ההכרעה אינו כלי ניטרלי המתרגם העדפות לתוצאה אחת הכרחית. עם זאת, זו סימולציה המבוססת על העדפות שדווחו בסקר תחת מערכת הבחירות שהתקיימה בפועל, ולא תצפית בבחירות מקבילות. מן התקציר אי אפשר לדעת כיצד קמפיינים, מועמדים, הצבעה אסטרטגית או שיעור ההשתתפות היו משתנים אילו הכללים החלופיים היו נהוגים באמת, ואף לא להשלים את מלוא החישובים בכל שיטה. לכן הממצא מבסס טענת רגישות מוסדית חזקה — כללים שונים יכולים לבחור מנצחת אחרת מאותם נתוני העדפה — אך אינו מוכיח איזו שיטה היא ההוגנת ביותר או מה היה הציבור עושה תחתיה בפועל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_religious_discrimination_european_western_christian_majority_summary_he",
+      "file": "democracy_religious_discrimination_european_western_christian_majority_summary_he.html",
+      "permalink": "/democracy_religious_discrimination_european_western_christian_majority_summary_he.html",
+      "sortKey": 202609170008,
+      "titleHe": "גם בדמוקרטיות מערביות, חופש הדת אינו מתחלק באופן שווה",
+      "paperTitle": "Religious discrimination in European and Western Christian-majority democracies",
+      "authorsCardHe": "Jonathan Fox",
+      "sourceAuthors": [
+        "Jonathan Fox"
+      ],
+      "journal": "Zeitschrift für Religion, Gesellschaft und Politik, 1(2), 185–209",
+      "dateText": "פורסם אונליין: 3 בנובמבר 2017; כרך 1, גיליון 2, עמ׳ 185–209",
+      "doiUrl": "https://doi.org/10.1007/s41682-017-0009-3",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_discrimination_european_western_christian_majority_summary_he.jpg",
+        "altHe": "נציגי קהילות דתיות שונות ממתינים יחד מול דלפק רישוי עירוני כשברקע נראה מבנה כנסייה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "ג׳ונתן פוקס בוחן אם דמוקרטיות אירופיות ומערביות בעלות רוב נוצרי מקיימות בפועל שוויון דתי כלפי מיעוטים. המחקר משתמש בגרסה השלישית של מאגר Religion and State–Minorities ועוקב מדי שנה אחר 159 מיעוטים דתיים ב־37 מדינות בשנים 1990–2014. אפליה מוגדרת כהגבלה המוטלת על מוסדות או מנהגים של דת מיעוט ואינה מוטלת באותו אופן על דת הרוב; המחקר מקודד 35 סוגי פעולה ממשלתית, ש־28 מהם הופיעו במדגם, וכן 27 סוגי פעולה חברתית. השיעור של מיעוטים שחוו לפחות סוג אחד של אפליה חברתית עלה מ־41.5% בתחילת התקופה ל־55.3% ב־2014, והשיעור שחווה אפליה ממשלתית עלה מ־63.5% ל־67.3%. ב־2014, 125 מתוך 159 המיעוטים — 78.6% — חוו לפחות אחד משני הסוגים. גם עוצמת האפליה הממוצעת עלתה: המדד החברתי גדל מ־2.65 ל־3.83, עלייה של 44.5%, והמדד הממשלתי מ־2.88 ל־3.27, עלייה של 13.5%. העלייה החברתית הייתה רחבה: 21 מתוך 27 סוגי הפעולה נעשו שכיחים יותר ורק שניים פחתו; באפליה הממשלתית עלו 15 מתוך 28 הסוגים שהופיעו במדגם וארבעה פחתו. מוסלמים ויהודים חוו את הרמות הגבוהות ביותר בדפוסים שונים: בקרב מוסלמים גדלה האפליה החברתית ב־85% והעלייה הממשלתית המובהקת נמצאה רק אצלם, ואילו בקרב יהודים גדלה האפליה החברתית ב־42% והם חוו את הרמה החברתית הגבוהה ביותר. מדינות בעלות רוב נוצרי אורתודוקסי הציגו רמות גבוהות יותר בשני המדדים. פוקס דן בזהות לאומית, במורשת יחסי דת ומדינה ובביטחוניזציה של האסלאם כהסברים אפשריים, אך העיצוב ההשוואתי הוא תיאורי ואינו מוכיח שכל אחד מהם גרם לעלייה. המסר הדמוקרטי הוא שמוסדות ייצוגיים וזכויות חוקתיות אינם מבטיחים לבדם חופש דת שווה; יש לבחון את ההגבלות הממשלתיות ואת פעולות החברה כלפי כל מיעוט לאורך זמן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_ethnic_relations_democratic_stability_comparison_summary_he",
+      "file": "democracy_ethnic_relations_democratic_stability_comparison_summary_he.html",
+      "permalink": "/democracy_ethnic_relations_democratic_stability_comparison_summary_he.html",
+      "sortKey": 202609170007,
+      "titleHe": "מדינה, מרחב ושיתוף כוח: יציבות דמוקרטית בלבנון, קפריסין וישראל",
+      "paperTitle": "The state, ethnic relations and democratic stability: Lebanon, Cyprus and Israel",
+      "authorsCardHe": "Oren Yiftachel",
+      "sourceAuthors": [
+        "Oren Yiftachel"
+      ],
+      "journal": "GeoJournal, 28(3), 319–332",
+      "dateText": "נובמבר 1992; כרך 28, גיליון 3, עמ׳ 319–332",
+      "doiUrl": "https://doi.org/10.1007/BF00817909",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_ethnic_relations_democratic_stability_comparison_summary_he.jpg",
+        "altHe": "אזור החיץ של הקו הירוק בניקוסיה שבקפריסין בין מבנים משני צדי הרחוב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "אורן יפתחאל משווה שלושה מקרים של דמוקרטיות פלורליות במזרח התיכון: לבנון בשנים 1943–1975, קפריסין בשנים 1960–1974 וישראל בשנים 1948–1992. נקודת המוצא היא שחברה המחולקת עמוקות לקבוצות אתניות אינה מוסברת רק באמצעות חוקי המשטר או רק באמצעות מפת המגורים. המאמר מסווג וסוקר שתי משפחות תיאוריה: האחת עוסקת בתפקיד המדינה בשמירת יציבות דמוקרטית בחברות שסועות, והשנייה בקשר בין מבנים מרחביים אתניים לבין יציבות פוליטית. לאחר מכן הוא מנתח את תפקיד המדינה ואת הגאוגרפיה האתנית בכל אחד משלושת המקרים לאור שתי המסגרות. מן ההשוואה עולות ארבע נקודות מרכזיות. הראשונה היא חשיבותה של יחסיות בין־אתנית — ההתאמה בין משקלן של קבוצות לבין מקומן בסדר הפוליטי. השנייה היא חשיבות ההפרדה המרחבית בין קבוצות, לא כעיקרון נורמטיבי פשוט אלא כמרכיב שחייבים להביא בחשבון בניתוח יחסי הכוח. השלישית היא מה שהמאמר מכנה אי־הפיכות של התהליך הקונסוציאציונלי: מרגע שהפוליטיקה נבנית סביב הסדרי שיתוף כוח בין קבוצות, קשה להבין שינוי יציב בלי להתייחס למסלול המוסדי שכבר נוצר. הרביעית היא הצורך לשלב תיאוריה של המדינה עם תיאוריה של יחסים מרחביים כדי להסביר אי־יציבות דמוקרטית. התרומה הדמוקרטית של ההשוואה היא דחיית הסבר חד־ממדי. ייצוג והסדרים מוסדיים פועלים בתוך מרחב שבו קבוצות חיות יחד או בנפרד, ואילו דפוסי המרחב מקבלים משמעות פוליטית באמצעות המדינה. לכן יציבות בחברה שסועה תלויה ביחסי הגומלין בין מוסדות, חלוקת כוח וגאוגרפיה אתנית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_religious_institutions_electoral_support_israel_summary_he",
+      "file": "democracy_religious_institutions_electoral_support_israel_summary_he.html",
+      "permalink": "/democracy_religious_institutions_electoral_support_israel_summary_he.html",
+      "sortKey": 202609170006,
+      "titleHe": "מוסדות דת כמתווכים אלקטורליים: כיצד נבנית תמיכה במפלגות דתיות בישראל",
+      "paperTitle": "Vote with your rabbi: The electoral effects of religious institutions in Israel",
+      "authorsCardHe": "Michael Freedman",
+      "sourceAuthors": [
+        "Michael Freedman"
+      ],
+      "journal": "Electoral Studies, 68, Article 102241",
+      "dateText": "דצמבר 2020; כרך 68, מאמר 102241",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2020.102241",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_religious_institutions_electoral_support_israel_summary_he.jpg",
+        "altHe": "המחשה: מנהיג דתי ומתנדבים מחלקים חבילות מזון לתושבים במרכז קהילתי בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "מייקל פרידמן מנתח את מוסד הדת המקומי כחוליה המחברת בין מפלגה, משאבים ציבוריים ובוחרים. הטיעון הוא שמפלגות דתיות מסייעות בהזרמת מימון וגישה פוליטית לישיבות ולארגוני אמונה יהודיים, ואילו המוסדות מעניקים שירותי דת, חינוך, רווחה ורשתות חברתיות ומעודדים תמיכה במפלגות. היחסים דומים לקליינטליזם, אך אינם זהים לקניית קולות: ההצבעה חשאית, ההטבות אינן מותנות בדרך כלל בהצבעתו הנצפית של אדם מסוים, וההשפעה פועלת דרך קהילה, לגיטימציה וציפייה למשאבים עתידיים. המחקר מחבר תוצאות של בחירות ארציות בשנים 1977–2015 ברמת אזור סטטיסטי לנתוני מיקום ומועד הקמה של יותר מ־3,000 מוסדות דת רשומים. כדי להתמודד עם העובדה שמוסדות אינם מוקמים בשכונות באקראי, הוא משווה בין אזורים שקיבלו מוסד ראשון בשנות התשעים לבין אזורים שקיבלו מוסד בשנים 2000–2015; לפני הטיפול ניכרו בשתי הקבוצות מגמות הצבעה דומות. האומדן המרכזי קושר כניסת מוסדות בשנות התשעים לעלייה ממוצעת של כארבע נקודות אחוז בהצבעה למפלגות דתיות בבחירות הבאות — כחמישית מממוצע בסיס של 20 אחוז. העלייה מופיעה בעיקר אצל יהדות התורה וש״ס, לצד ירידה בתמיכה במפלגות מרכז ובחלק מן המפלגות הימניות הלא־דתיות, ולא כתנועת נגד ברורה אל מפלגות השמאל. מוסדות שקיבלו מימון מן המדינה נקשרו להשפעה גדולה יותר ממוסדות שלא קיבלו מימון, ממצא התואם את מנגנון חלוקת המשאבים אך אינו לבדו הוכחה לו. נתוני הגירה פנימית לשנים המצומצמות שבהן היו זמינים אינם מראים שינוי שנתי מובהק בהרכב השכונה בעקבות מוסד חדש, ולכן ההסבר הנתמך יותר הוא שינוי בחירתם של תושבים קיימים; עם זאת, הבדיקה אינה שוללת שינוי דמוגרפי ארוך טווח סביב מוסדות גדולים. מבחינה דמוקרטית, המחקר מראה שארגון קהילתי יכול לתרגם שירותים, אמון ומימון ציבורי לכוח מפלגתי מקומי. הוא גם מחדד את הצורך לבחון כיצד הקצאת תקציבים דרך מוסדות המזוהים פוליטית משפיעה על תחרות, אחריותיות ועל השסע בין דתיים לחילונים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_israel_2015_stable_blocs_multiple_identities_summary_he",
+      "file": "democracy_israel_2015_stable_blocs_multiple_identities_summary_he.html",
+      "permalink": "/democracy_israel_2015_stable_blocs_multiple_identities_summary_he.html",
+      "sortKey": 202609170005,
+      "titleHe": "גושים יציבים וזהויות מרובות בבחירות בישראל ב־2015",
+      "paperTitle": "Stable Blocs and Multiple Identities: The 2015 Elections in Israel",
+      "authorsCardHe": "Gideon Rahat; Reuven Y. Hazan; Pazit Ben-Nun Bloom",
+      "sourceAuthors": [
+        "Gideon Rahat",
+        "Reuven Y. Hazan",
+        "Pazit Ben-Nun Bloom"
+      ],
+      "journal": "Representation, 52(1), 99–117",
+      "dateText": "פורסם: 2 בינואר 2016; כרך 52, גיליון 1, עמ׳ 99–117",
+      "doiUrl": "https://doi.org/10.1080/00344893.2016.1190592",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_2015_stable_blocs_multiple_identities_summary_he.jpg",
+        "altHe": "ידו של מצביע מכניסה מעטפת הצבעה לקלפי כחולה בבחירות לכנסת בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "גדעון רהט, ראובן חזן ופזית בן־נון בלום מנתחים את בחירות 2015 דרך שני תהליכים מחוברים: תנועת קולות בתוך גושים אידאולוגיים והופעתן של זהויות מרובות בקמפיינים. הבחירות הוקדמו לאחר שממשלת נתניהו קרסה, שנתיים וחודשיים בלבד אחרי הבחירות הקודמות. מערכת הבחירות הוצגה כמרוץ בין הליכוד למחנה הציוני, ושתי המפלגות אכן התחזקו ביחס לבחירות שקדמו לה. אולם כמעט כל התוספת שקיבלה כל אחת מהן הגיעה ממפלגות אחרות בתוך הגוש שלה, ולא מחציית הגבול בין הגושים. לפי המחברים, הפוליטיקה של זהויות מרובות דחפה את שתי המפלגות לפנות בעיקר אל בוחרים במחנה שלהן ובו בזמן הבהירה את גבולות המחנות. החריגה הייתה כולנו, מפלגת מרכז חדשה שהצליחה לתפוס עמדה אסטרטגית מכרעת בין האפשרויות הקואליציוניות. ניצחונו הברור של הליכוד על המחנה הציוני הוביל את כולנו להצטרף לקואליציית ימין־דתיים בראשות הליכוד. המאמר מראה אפוא שמרוץ בין שתי מפלגות גדולות אינו מעיד בהכרח על מעבר רחב של בוחרים מצד לצד. הוא יכול לשקף ריכוז מחדש של תמיכה בתוך מחנות יציבים, כאשר מפלגת מרכז אחת מחזיקה בעמדה שמכריעה כיצד יתורגמו התוצאות לממשלה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israel_1999_prime_minister_strategic_voting_summary_he",
+      "file": "democracy_israel_1999_prime_minister_strategic_voting_summary_he.html",
+      "permalink": "/democracy_israel_1999_prime_minister_strategic_voting_summary_he.html",
+      "sortKey": 202609170004,
+      "titleHe": "כשהבוחרים נוטשים והמועמד פורש: הצבעה אסטרטגית בישראל ב־1999",
+      "paperTitle": "Strategic Abandonment or Sincerely Second Best? The 1999 Israeli Prime Ministerial Election",
+      "authorsCardHe": "Paul R. Abramson; John H. Aldrich; Matthew Diamond; Abraham Diskin; Renan Levine; Thomas J. Scotto",
+      "sourceAuthors": [
+        "Paul R. Abramson",
+        "John H. Aldrich",
+        "Matthew Diamond",
+        "Abraham Diskin",
+        "Renan Levine",
+        "Thomas J. Scotto"
+      ],
+      "journal": "The Journal of Politics, 66(3), 706–728",
+      "dateText": "פורסם לראשונה ברשת: 25 ביוני 2004; כרך 66, גיליון 3, אוגוסט 2004, עמ׳ 706–728",
+      "doiUrl": "https://doi.org/10.1111/j.1468-2508.2004.00273.x",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_1999_prime_minister_strategic_voting_summary_he.jpg",
+        "altHe": "מצביע מתלבט מול כמה פתקים וקלפי במערכת הבחירות הישירה לראשות הממשלה בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "פול אברמסון ועמיתיו בוחנים את המרוץ הישיר לראשות ממשלת ישראל ב־1999 כמקרה של הצבעה אסטרטגית בתחרות מרובת מועמדים. בתחילת המרוץ השתתפו חמישה מועמדים, אך שלושה מהם פרשו ביומיים שלפני ההצבעה. בין הפורשים היה יצחק מרדכי, מועמד מרכזי שמוקם במרכז המפה הפוליטית. לפי המחקר, פרישתו נבעה במידה רבה מן ההחלטות האסטרטגיות של בוחרים שתמכו בו אך נטשו את מועמדותו ככל שמעמדו בסקרים נחלש. המחברים משתמשים בסקרים שנערכו במהלך מערכת הבחירות ואומדים מודלים המבוססים על חישוב הצבעה בתחרות מרובת מועמדים. הם מוצאים כי רמתה ואופייה של ההצבעה האסטרטגית בשיטה הישראלית של רוב עם סיבוב הכרעה דמו לדפוסים שנמצאו בשיטות הקרובות יותר לרוב יחסי טהור. התוצאה תומכת בהסבר שנתן מרדכי לפרישתו: היחלשות התמיכה לא הייתה רק תמונת מצב, אלא חלק מתהליך שבו בוחרים התאימו את בחירתם לסיכויי המועמדים. המקרה ממחיש שהחלטת הבוחר והחלטת המועמד כרוכות זו בזו, מפני שציפיות ציבוריות יכולות לצמצם את התמיכה ובהמשך לשנות את עצם מבנה התחרות. כך הבחירות אינן רק רגע של ספירת קולות, אלא תהליך אסטרטגי שבו מידע על כדאיות משפיע על האפשרויות שנותרות לבוחרים ביום ההצבעה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_palestinian_citizens_civic_education_curriculum_summary_he",
+      "file": "democracy_palestinian_citizens_civic_education_curriculum_summary_he.html",
+      "permalink": "/democracy_palestinian_citizens_civic_education_curriculum_summary_he.html",
+      "sortKey": 202609170003,
+      "titleHe": "תוכנית אזרחות משותפת שעדיין מציבה פלסטינים בשוליים",
+      "paperTitle": "At the boundaries of citizenship: Palestinian Israeli citizens and the civic education curriculum",
+      "authorsCardHe": "Halleli Pinson",
+      "sourceAuthors": [
+        "Halleli Pinson"
+      ],
+      "journal": "Oxford Review of Education, 33(3), 331–348",
+      "dateText": "פורסם לראשונה ברשת: 4 ביוני 2007; כרך 33, גיליון 3, עמ׳ 331–348",
+      "doiUrl": "https://doi.org/10.1080/03054980701366256",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_palestinian_citizens_civic_education_curriculum_summary_he.jpg",
+        "altHe": "המחשה: קבוצת לומדות ולומדים משוחחת במעגל על חומרי לימוד אזרחיים בכיתה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "הללי פינסון בוחנת את מקומם של האזרחים הפלסטינים בישראל בתוך השיח הרשמי של תוכנית האזרחות. נקודת המוצא היא המתח המתמשך במערכת החינוך בין בניית המדינה לבין בניית האומה, ובין שפה אזרחית אוניברסלית לבין זהות לאומית פרטיקולרית. בשנים שקדמו למאמר אוחדה תוכנית החובה באזרחות לבתי הספר התיכוניים הממלכתיים במגזרי החינוך השונים. המהלך הוצג כניסיון ליצור תוכנית מכילה ואוניברסלית שתשמש בסיס לתרבות אזרחית משותפת. פינסון שואלת כיצד ההבטחה הזאת פועלת כאשר התוכנית נדרשת לייצג מיעוט פלסטיני שהוא אזרח המדינה אך מצוי ביחסי מתח עם הגדרתה הלאומית. לפי התקציר הרשמי, תוכנית האזרחות היא זירה שבה מתנהל משא ומתן על משמעות החברות בקולקטיב הישראלי. ניתוח הייצוגים והמיקומים של האזרחים הפלסטינים מגלה במקרה הטוב עמדה אמביוולנטית, הנעה בין הכלה להדרה ובין אוניברסליזם לפרטיקולריזם. לעתים קרובות יותר, השיח הרשמי ממשיך לשעתק את מקומו השולי של המיעוט הפלסטיני בחברה הישראלית. מכאן עולה שתוכנית משותפת אינה בהכרח תוכנית שוויונית: אחידות יכולה להרחיב ידע אזרחי משותף, אך גם לדרוש מן המיעוט ללמוד סיפור שבו קולו וזהותו נותרים משניים. המאמר מסיים בדיון בהשלכות האפשריות של המסרים הכפולים על תלמידים פלסטינים, שנקראים להשתייך למסגרת אזרחית המבטיחה הכלה ובה בעת מסמנת את גבולות השתייכותם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_israel_mass_elite_political_intolerance_summary_he",
+      "file": "democracy_israel_mass_elite_political_intolerance_summary_he.html",
+      "permalink": "/democracy_israel_mass_elite_political_intolerance_summary_he.html",
+      "sortKey": 202609170002,
+      "titleHe": "כשהאליטות אינן סובלניות יותר מן הציבור",
+      "paperTitle": "Political Intolerance among Masses and Elites in Israel: A Reevaluation of the Elitist Theory of Democracy",
+      "authorsCardHe": "Michal Shamir",
+      "sourceAuthors": [
+        "Michal Shamir"
+      ],
+      "journal": "The Journal of Politics, 53(4), 1018–1043",
+      "dateText": "פורסם: נובמבר 1991; כרך 53, גיליון 4, עמ׳ 1018–1043",
+      "doiUrl": "https://doi.org/10.2307/2131865",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_israel_mass_elite_political_intolerance_summary_he.jpg",
+        "altHe": "תצלום תיעודי של דיון במליאת הכנסת, המחשה לזירת קבלת ההחלטות של אליטות פוליטיות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "מיכל שמיר בוחנת את הטענה האליטיסטית שלפיה מנהיגים פוליטיים מחויבים יותר מן הציבור לנורמות דמוקרטיות ולכן מסוגלים לרסן אי־סובלנות עממית. המחקר משלב סקרים בקרב אליטות ובקרב הציבור עם ניתוח מקרה של תגובת המערכת הפוליטית בישראל לכניסתן של שתי קבוצות חוץ חדשות לזירה בשנות השמונים. לפי התקציר הרשמי, הממצאים מערערים על הכללה רחבה של התאוריה בשלושה מובנים. ראשית, במיוחד כאשר קבוצה נתפסת כמאיימת ומעוררת התנגדות חזקה, האליטה הפוליטית אינה בהכרח סובלנית יותר מן הציבור; לעומת זאת, אליטות שאינן פוליטיות נמצאו שונות ממנו. שנית, חישובים מפלגתיים נכנסים לתהליך קבלת ההחלטות ויכולים ליצור דינמיקה של אי־סובלנות: קבוצות האליטה הפוליטית לא ריסנו זו את זו, אלא שיתפו פעולה בהרחבת ההגבלות לקבוצות נוספות. שלישית, אף שאי־סובלנות הייתה נפוצה בציבור, הצעדים המעשיים להגבלת קבוצות היו מעשה ידיהן של האליטות. בכך המחקר מפריד בין עמדות ציבוריות לבין הכוח המוסדי לתרגמן להגבלות על קבוצות פוליטיות. תרומתו הדמוקרטית היא אזהרה מפני הסתמכות על אופיים המשוער של מנהיגים כתחליף לכללים, זכויות וביקורת: האליטה עשויה לפעול כמסנן סובלני, אך תחרות מפלגתית ואיום פוליטי עלולים להפוך אותה דווקא לסוכן של הגבלה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "democracy_chile_electoral_engineering_limited_democracy_summary_he",
+      "file": "democracy_chile_electoral_engineering_limited_democracy_summary_he.html",
+      "permalink": "/democracy_chile_electoral_engineering_limited_democracy_summary_he.html",
+      "sortKey": 202609170001,
+      "titleHe": "כשהנדסת בחירות משמרת דמוקרטיה מוגבלת",
+      "paperTitle": "Electoral engineering in Chile: the electoral system and limited democracy",
+      "authorsCardHe": "Gideon Rahat; Mario Sznajder",
+      "sourceAuthors": [
+        "Gideon Rahat",
+        "Mario Sznajder"
+      ],
+      "journal": "Electoral Studies, 17(4), 429–442",
+      "dateText": "פורסם: דצמבר 1998; כרך 17, גיליון 4, עמ׳ 429–442",
+      "doiUrl": "https://doi.org/10.1016/S0261-3794(98)00001-8",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/democracy_chile_electoral_engineering_limited_democracy_summary_he.jpg",
+        "altHe": "המחשה: ספירת פתקי הצבעה בצ׳ילה לצד תרשים מושבים המדגיש כיצד כללי הבחירות מעצבים את מאזן הכוחות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
+      "summaryHe": "גדעון רהט ומריו סניידר מנתחים את הנדסת הבחירות שנעשתה בצ׳ילה ערב המעבר מן המשטר הצבאי לממשלה נבחרת. לפי תקציר המאמר, תכלית ההסדר הייתה לשמר את הסדר החוקתי שקיבע המשטר בחוקת 1980 גם לאחר חידוש הבחירות. המחברים בוחנים את הבחירות הכלליות של 1989 ושל 1993 ומראים כי הדרך שבה קולות תורגמו למושבים היטיבה, כמתוכנן, עם הגוש האלקטורלי השני בגודלו — הימין הצ׳יליאני. ההטיה לא פעלה לבדה: סנאטורים ממונים ורוב מיוחס שנדרש לתיקונים חוקתיים הצטרפו אליה והעניקו לימין כוח וטו של מיעוט על יוזמות שינוי. מערכת הבחירות גם יצרה תמריצים למפלגות, למועמדים ולבוחרים שחיזקו את מאזן הכוחות הזה. הטענה אינה שבחירות נעדרו או שהציבור לא השתתף, אלא שהמסגרת המוסדית הגבילה מראש את יכולת התחרות האלקטורלית להביא לשינוי ליברלי מלא. בכך המאמר מבחין בין עצם קיומן של בחירות לבין איכותה של הדמוקרטיה: מוסדות בחירה יכולים להעניק לגיטימציה לשלטון נבחר ובה בעת להגן על מובלעות סמכותניות ועל זכות חסימה שאינה משקפת רוב. מסקנת המחברים היא שמערכת הבחירות סייעה לבסס בצ׳ילה דמוקרטיה מוגבלת, ולא דמוקרטיה ליברלית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "democracy_western_democracies_societal_diversity_strategies_summary_he",
       "file": "democracy_western_democracies_societal_diversity_strategies_summary_he.html",
