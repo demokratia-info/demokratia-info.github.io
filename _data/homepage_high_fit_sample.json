@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-19",
+  "lastUpdated": "2026-09-20",
   "sampleSize": 6,
-  "seed": "2026-09-19-homepage-high-fit",
+  "seed": "2026-09-20-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
-  "replacementCount": 2,
-  "fullTextHighFitPaperCount": 946,
+  "replacementCount": 6,
+  "fullTextHighFitPaperCount": 8,
   "paperSlugs": [
-    "democracy_the_distribution_of_human_capital_and_economic_growth_summary_he",
-    "democracy_economic_shocks_unauthorized_immigration_summary_he",
-    "democracy_mathematics_classroom_freedom_equality_dialogue_summary_he",
-    "democracy_political_acrophily_social_media_summary_he",
-    "democracy_immigration_stock_flow_opposition_summary_he",
-    "democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he"
+    "democracy_latino_solidarity_trump_2020_summary_he",
+    "democracy_india_democracy_before_discontent_summary_he",
+    "democracy_party_personalism_democratic_preferences_summary_he",
+    "democracy_nonvoting_decisiveness_electoral_outcomes_summary_he",
+    "democracy_long_term_policymaking_voter_beliefs_summary_he",
+    "democracy_discrimination_grievances_violence_minorities_summary_he"
   ]
 }
