@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1692,
+  "paperCount": 1702,
   "papers": [
+    {
+      "slug": "davidovitz-lgb-teachers-minority-representation",
+      "file": "davidovitz-lgb-teachers-minority-representation.html",
+      "permalink": "/davidovitz-lgb-teachers-minority-representation.html",
+      "sortKey": 202609230010,
+      "titleHe": "מורים להט״בים וייצוג תלמידי מיעוט: שינוי עמדות בכיתה כמנגנון הגנה",
+      "paperTitle": "Winds of change: How street‐level bureaucrats actively represent minority clients by influencing majority clients—The context of LGB Israeli teachers",
+      "authorsCardHe": "מעיין דוידוביץ",
+      "sourceAuthors": [
+        "Maayan Davidovitz"
+      ],
+      "journal": "Public Administration, 101(4), 1587–1603",
+      "dateText": "פורסם לראשונה בדצמבר 2022; כרך 101, גיליון 4, דצמבר 2023, עמ׳ 1587–1603",
+      "doiUrl": "https://doi.org/10.1111/padm.12903",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/davidovitz-lgb-teachers-minority-representation.jpg",
+        "altHe": "מורה ותלמידים מקיימים שיחה קשובה במעגל בכיתה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "עובדי ציבור מקבוצת מיעוט יכולים לייצג את בני קבוצתם גם באמצעות שינוי היחסים בין הרוב למיעוט. מעיין דוידוביץ בוחנת זאת דרך ראיונות עומק עם 36 מורים ומורות לסביות, הומואים וביסקסואלים בישראל, שנערכו בין 2019 ל־2021. המורים מתארים שילוב תכנים על מגוון משפחות וזכויות בשיעורים, ייזום תוכניות ופעילויות, תגובה לאמירות הומופוביות ושימוש באירועים ציבוריים לפתיחת שיחה. חשיפת זהותם ודוגמה אישית משמשות אותם ליצירת כתובת בטוחה לתלמידי מיעוט ולהמחשת מציאות חיים בפני שאר הכיתה. המחקר מרחיב את מושג הייצוג הפעיל: הגנה על תלמידים אינה רק יחס מועדף או התאמת שירות ישירה, אלא גם ניסיון להפחית עוינות בסביבתם. עם זאת, התוצאות נשענות על תפיסות המורים ולא על מדידה עצמאית של עמדות תלמידים או ירידה בבריונות; המדגם גם אינו מייצג את כלל עובדי החינוך. המסקנה המוסדית היא שגיוון בצוות עשוי לקבל משמעות מעשית כאשר הוא מלווה בשיקול דעת, בהכשרה ובתמיכה בסובלנות, ובמקביל נשמרת ההכרה במחיר האישי של חשיפה ובזכותם של עובדים לפרטיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "steklov-women-local-government-social-spending",
+      "file": "steklov-women-local-government-social-spending.html",
+      "permalink": "/steklov-women-local-government-social-spending.html",
+      "sortKey": 202609230009,
+      "titleHe": "נשים במועצה וראשת עיר: מתי הייצוג קשור לתקציב החינוך",
+      "paperTitle": "The influence of women’s representation on social spending in local government",
+      "authorsCardHe": "עודד סטקלוב; ענת גופן; יניב ריינגוורץ",
+      "sourceAuthors": [
+        "Oded Steklov",
+        "Anat Gofen",
+        "Yaniv Reingewertz"
+      ],
+      "journal": "Journal of Urban Affairs, 47(1), 252–268",
+      "dateText": "פורסם מקוון ב־23 במרץ 2023; כרך 47, גיליון 1, 2025, עמ׳ 252–268",
+      "doiUrl": "https://doi.org/10.1080/07352166.2023.2177551",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/steklov-women-local-government-social-spending.jpg",
+        "altHe": "חברת מועצה מובילה דיון תקציבי עם עמיתיה באולם עירוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "הגדלת מספר הנשים במועצה המקומית אינה מבטיחה לבדה שינוי בחלוקת התקציב. עודד סטקלוב, ענת גופן ויניב ריינגוורץ בוחנים תשע שנות תקציב ברשויות עירוניות בישראל, בתקופות שבין 2005 ל־2017, ומפרידים את הוצאות החינוך והרווחה שמממנת הרשות בעצמה מתקציבים ממשלתיים ומתשלומי משתמשים. לא נמצא קשר מובהק בין שיעור חברות המועצה, או עצם כהונתה של ראשת רשות, לבין ההוצאות הללו כשכל משתנה נבחן בנפרד. הממצא החיובי היחיד נוגע לשילוב בין שיעור חברות המועצה לבין ראשת רשות בהוצאה על חינוך, וברף מובהקות מתון של 10%; לרווחה לא נמצא קשר דומה. גם חציית סף ייצוג של 15% לא הבטיחה השפעה תקציבית. המדגם אינו כולל רשויות לא־יהודיות, רשויות חרדיות, מועצות אזוריות או שנים של מועצה ממונה, ולכן אין להחיל את התוצאה על כלל השלטון המקומי. המחברים מציעים כי כוחו הרב של ראש הרשות בעיצוב התקציב עשוי להגביל את השפעת חברות המועצה, ומדגישים ייצוג נשים בכמה מוקדי כוח. הלקח הדמוקרטי הוא להבחין בין שוויון בנגישות לתפקידים לבין יכולת להשפיע על החלטות: מספר הנבחרות חשוב, אך יש לבחון גם סמכות, מוסדות ותוצאות מדיניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "zoizner-politician-personality-media-visibility",
+      "file": "zoizner-politician-personality-media-visibility.html",
+      "permalink": "/zoizner-politician-personality-media-visibility.html",
+      "sortKey": 202609230008,
+      "titleHe": "אישיות פוליטיקאים וחשיפה תקשורתית: היתרון של תכונות אפלות בסיקור אישי",
+      "paperTitle": "Unique Personalities in the Limelight? A Cross-National Analysis of Politicians’ Personality and Media Visibility during Elections",
+      "authorsCardHe": "אלון זויזנר; אלסנדרו נאי; יורגן מאייר",
+      "sourceAuthors": [
+        "Alon Zoizner",
+        "Alessandro Nai",
+        "Jürgen Maier"
+      ],
+      "journal": "Journalism & Mass Communication Quarterly, OnlineFirst, 1–30",
+      "dateText": "פורסם לראשונה ב־13 באפריל 2026; פרסום מקוון מוקדם, עמ׳ 1–30",
+      "doiUrl": "https://doi.org/10.1177/10776990261436064",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/zoizner-politician-personality-media-visibility.jpg",
+        "altHe": "צלמים וכתבת מקיפים פוליטיקאי בדיוני המשוחח עמם בכיכר עירונית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "החשיפה שמקבלים פוליטיקאים תלויה לא רק בכוחם המוסדי, אלא גם במפגש בין אישיותם לבין דפוסי הסיקור. אלון זויזנר, אלסנדרו נאי ויורגן מאייר משלבים הערכות מומחים של תכונות אישיות עם אזכורים בעיתונים של 159 מועמדים ב־85 מערכות בחירות ב־52 מדינות בשנים 2016–2022. בניגוד להשערתם הראשונית, יציבות אישיותית הייתה קשורה ליותר נראות במודל המרכזי, בעוד שלא נמצא יתרון כללי מובהק לתכונות אפלות או למוחצנות ופתיחות שנמדדו יחד. התמונה השתנתה בסביבות שבהן החדשות התמקדו בדמויות ובאישיות: שם נמצא קשר חזק יותר בין נרקיסיזם, מקיאווליזם ופסיכופתיה תת־קלינית לבין חשיפה. הממצאים לגבי דגש תקשורתי על שליליות חלשים יותר מבחינה סטטיסטית ונוגעים בעיקר לנרקיסיזם ולמקיאווליזם. המחקר מבוסס על קשרים תצפיתיים ועל הערכות מומחים, מודד עיתונות בלבד ואינו מאבחן אישיות קלינית או בוחן ישירות השפעה על הצבעה. תרומתו היא בהצבעה על מנגנון אפשרי שבו בחירות עריכה המעדיפות עימותים ודמויות עשויות להגדיל את הבמה של מנהיגים מניפולטיביים, בלי שזו תהיה כוונתם של העיתונאים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sandberg-karsik-strategic-judicial-considerations",
+      "file": "sandberg-karsik-strategic-judicial-considerations.html",
+      "permalink": "/sandberg-karsik-strategic-judicial-considerations.html",
+      "sortKey": 202609230007,
+      "titleHe": "פרשת קרסיק: כשהכרה בזכות הקניין נותרת בלי סעד מעשי",
+      "paperTitle": "Strategic considerations behind normative explanations: Lessons from Israel's Supreme Court expropriations case",
+      "authorsCardHe": "חיים זנדברג",
+      "sourceAuthors": [
+        "Haim Sandberg"
+      ],
+      "journal": "International Journal of Constitutional Law, 11(3), 751–770",
+      "dateText": "2013; כרך 11, גיליון 3, עמ׳ 751–770; פורסם באתר כתב העת ב־25 בספטמבר 2013",
+      "doiUrl": "https://doi.org/10.1093/icon/mot021",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/sandberg-karsik-strategic-judicial-considerations.jpg",
+        "altHe": "בעל קרקע ויועצת משפטית מעיינים במפה לצד חלקה מגודרת שאינה בשימוש",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "הכרה עקרונית בזכות אינה מבטיחה שהאדם שפנה לבית המשפט יקבל סעד. חיים זנדברג מנתח את פרשת קרסיק, שבה קבע בית המשפט העליון ב־2001 כי סיום המטרה הציבורית של הפקעה עשוי להצדיק השבת הקרקע לבעליה, אך הותיר את ההסדרה למחוקק ונמנע מהכרעה המעניקה לעותרים את הקרקע. במהלך השנים נדחתה ההכרעה, העתירה נמחקה ב־2009, והחקיקה שבאה בהמשך צמצמה, לשיטת המחבר, את ההבטחה הגלומה בעיקרון. זנדברג בוחן את הנימוקים הגלויים, ובהם יתרונו של המחוקק בעיצוב הסדר כולל ודיאלוג בין הרשויות, ומציע שני הסברים אסטרטגיים: פשרה בין שופטים בעלי תפיסות שונות של קניין פרטי, וחשש מפגיעה בתמיכה הציבורית בבית המשפט בעקבות עימות עם הרשויות. הוא נשען על הפסיקה, התפתחות החקיקה, עמדות שופטים במקרים אחרים ושינויים בהרכב בית המשפט ובמעמדו הציבורי. אלו ראיות נסיבתיות להסברים אפשריים, ולא תיעוד ישיר של משא ומתן חסוי או הוכחה למניע אישי של שופט. התרומה הדמוקרטית של הניתוח היא הפניית תשומת הלב לפער בין שפה חוקתית מגינת זכויות לבין אחריות מוסדית להענקת סעד בזמן וליישומו בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_moldova_polarization_paradox_summary_he",
+      "file": "democracy_moldova_polarization_paradox_summary_he.html",
+      "permalink": "/democracy_moldova_polarization_paradox_summary_he.html",
+      "sortKey": 202609230006,
+      "titleHe": "הפרדוקס של מולדובה: קיטוב שוחק דמוקרטיה אך גם מקשה על שלטון יחיד",
+      "paperTitle": "Political polarisation and democratic backsliding: Moldova’s Paradox",
+      "authorsCardHe": "מישה גיפסמן, דניס איבנוב, דינה רוזנברג",
+      "sourceAuthors": [
+        "Misha Gipsman",
+        "Denis Ivanov",
+        "Dina Rosenberg"
+      ],
+      "journal": "Third World Quarterly, פרסום מקוון מוקדם, עמ׳ 1–23",
+      "dateText": "פורסם מקוון: 28 באוגוסט 2026",
+      "doiUrl": "https://doi.org/10.1080/01436597.2026.2703558",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_moldova_polarization_paradox_summary_he.jpg",
+        "altHe": "בניין הפרלמנט של מולדובה בקישינב ומדרגות הכניסה אליו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "מישה גיפסמן, דניס איבנוב ודינה רוזנברג טוענים שמולדובה אינה מחולקת בפשטות לשני מחנות קבועים של מזרח ומערב. הקיטוב מעלה את המחיר של הפסד פוליטי ומעודד פגיעה במוסדות, אך גבולות המחנות המשתנים וההצבעה נגד בעלי השלטון גם משמרים תחרות ומקשים על התבססות אוטוקרטיה. ניתוח סקרים, מדדים, נתוני קלפיות וראיונות מבחין בין הישרדותה של תחרות אלקטורלית לבין ההגנה הנדרשת על זכויות ומוסדות ליברליים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_mayor_removal_political_participation_summary_he",
+      "file": "democracy_mayor_removal_political_participation_summary_he.html",
+      "permalink": "/democracy_mayor_removal_political_participation_summary_he.html",
+      "sortKey": 202609230005,
+      "titleHe": "כשוועדה קרואה מחליפה נבחרי ציבור, קבוצות שונות מגיבות אחרת בקלפי",
+      "paperTitle": "Biased Policy and Political Behavior: The Case of Uneven Removal of Elected Mayors in Israel",
+      "authorsCardHe": "אבי בן־בסט, מומי דהן",
+      "sourceAuthors": [
+        "Avi Ben-Bassat",
+        "Momi Dahan"
+      ],
+      "journal": "Politics & Policy, 46(6), 912–950",
+      "dateText": "פורסם מקוון: 21 בדצמבר 2018",
+      "doiUrl": "https://doi.org/10.1111/polp.12280",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_mayor_removal_political_participation_summary_he.jpg",
+        "altHe": "חזית בניין עיריית חיפה והמרחב הציבורי שלפניו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "אבי בן־בסט ומומי דהן בוחנים את ההשלכות האלקטורליות של החלפת נבחרי ציבור מקומיים בוועדות ממונות. ביישובים ערביים ההתערבות קשורה לעלייה בהצבעה לכנסת ולתמיכה מוגברת במפלגות ערביות, בעוד שביישובים יהודיים נאמדת ירידה בהשתתפות, בעוצמה ובמובהקות המשתנות בין המודלים. המחקר מציע שמדיניות הנתפסת כפגיעה קבוצתית יכולה לעורר התגייסות פוליטית גם לצד חוסר אמון, ולכן יש להעריך פיקוח על רשויות גם במונחים של קול אזרחי וייצוג.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_nato_democratic_conditionality_summary_he",
+      "file": "democracy_nato_democratic_conditionality_summary_he.html",
+      "permalink": "/democracy_nato_democratic_conditionality_summary_he.html",
+      "sortKey": 202609230004,
+      "titleHe": "כשהצטרפות לנאט״ו הופכת ליעד, תנאי הדמוקרטיה נשחקים",
+      "paperTitle": "Flexible democratic conditionality? The role of democracy and human rights adherence in NATO enlargement decisions",
+      "authorsCardHe": "אייל רובינסון",
+      "sourceAuthors": [
+        "Eyal Rubinson"
+      ],
+      "journal": "Journal of International Relations and Development, 24(3), 696–725",
+      "dateText": "פורסם מקוון: 23 במרץ 2021; גיליון: ספטמבר 2021",
+      "doiUrl": "https://doi.org/10.1057/s41268-021-00209-z",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/democracy_nato_democratic_conditionality_summary_he.jpg",
+        "altHe": "חלל פנימי ומעברים בבניין מטה נאט״ו בבריסל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "אייל רובינסון טוען שהיחלשות התנאים הדמוקרטיים להצטרפות לנאט״ו נובעת גם משינוי בתרבות הארגונית: סטיות מהדרישות נעשות מקובלות, והשלמת ההרחבה מקבלת עדיפות על אכיפתן. ראיונות עם בעלי תפקידים, מסמכים רשמיים ומקרה אלבניה מראים כיצד אמונה כנה בדמוקרטיה יכולה להתקיים לצד נכונות לקבל מדינות שטרם השלימו רפורמות. ההשלכה היא שדרישות כתובות זקוקות ליכולת ממשית לעכב קבלה, אחרת הן מאבדות מכוחן להגן על זכויות ועל מוסדות דמוקרטיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_social_citizenship_rights_us_europe_summary_he",
+      "file": "democracy_social_citizenship_rights_us_europe_summary_he.html",
+      "permalink": "/democracy_social_citizenship_rights_us_europe_summary_he.html",
+      "sortKey": 202609230003,
+      "titleHe": "זכויות חברתיות כחלק מדמוקרטיה: השוואה בין ארצות הברית לאירופה",
+      "paperTitle": "Give Me Your Tired, Your Poor? Support for Social Citizenship Rights in the United States and Europe",
+      "authorsCardHe": "ג׳ניפר אוסר; מארק הוכה",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Marc Hooghe"
+      ],
+      "journal": "Sociological Perspectives, 61(1), 14–38",
+      "dateText": "פורסם ברשת: 26 במרץ 2017; כרך 61, גיליון 1 (2018), עמ׳ 14–38",
+      "doiUrl": "https://doi.org/10.1177/0731121417697305",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/democracy_social_citizenship_rights_us_europe_summary_he.jpg",
+        "altHe": "אזרחים נפגשים עם עובדת שירות ציבורי במרכז סיוע קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "ג׳ניפר אוסר ומארק הוכה בוחנים אם הגנה מעוני וצמצום אי־שוויון בהכנסות נתפסים כחלק מדמוקרטיה ראויה, ומה מבדיל בעניין זה בין ארצות הברית לאירופה. הם משווים שאלות זהות בסקר החברתי האירופי מ־2012 ובמודול אמריקאי של סקר CCES מ־2014, על בסיס מסגרת האזרחות של ת״ה מרשל. משיבים משני צדי האוקיינוס נתנו עדיפות גבוהה לשוויון בפני בתי המשפט ולבחירות חופשיות והוגנות, אך האמריקאים דירגו את שני רכיבי הזכויות החברתיות נמוך יותר. ניתוח דפוסי תשובות זיהה חמש קבוצות, ובהן קבוצה המדגישה זכויות חברתיות וקבוצה המדגישה זכויות פוליטיות. הקבוצה החברתית הייתה קטנה יחסית בארצות הברית, אך עצם קיומה אינו חריג ואינו מוגבל לשמאל הקיצוני. ההבדל הבולט הוא הפיצול האידאולוגי: באירופה הדגש החברתי נמצא לאורך הקשת הפוליטית, ובארצות הברית הוא נדיר יותר בקרב משיבים מן הימין. המחקר מצביע על התאמה בין דעת הקהל לבין מדיניות הרווחה, אך נתוני החתך אינם קובעים אם הציבור עיצב את המדיניות או למד ממנה מה לצפות. תרומתו היא בהצבת הביטחון החומרי והשוויון בתוך הדיון הציבורי על משמעות האזרחות הדמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_news_knowledge_affective_polarization_summary_he",
+      "file": "democracy_news_knowledge_affective_polarization_summary_he.html",
+      "permalink": "/democracy_news_knowledge_affective_polarization_summary_he.html",
+      "sortKey": 202609230002,
+      "titleHe": "צריכת חדשות, ידע פוליטי וקיטוב רגשי בבחירות בארצות הברית",
+      "paperTitle": "Testing political knowledge as a mediator of the relationship between news use and affective polarization",
+      "authorsCardHe": "בומסו קים; ראיין ברוסארד; מתיו ברנידג׳",
+      "sourceAuthors": [
+        "Bumsoo Kim",
+        "Ryan Broussard",
+        "Matthew Barnidge"
+      ],
+      "journal": "The Social Science Journal, 60(4), 731–743",
+      "dateText": "פורסם ברשת: 1 במאי 2020; כרך 60, גיליון 4 (2023), עמ׳ 731–743",
+      "doiUrl": "https://doi.org/10.1080/03623319.2020.1750845",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_news_knowledge_affective_polarization_summary_he.jpg",
+        "altHe": "קוראי עיתונים משוחחים במתח סביב שולחן בחדר קריאה ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "בומסו קים, ראיין ברוסארד ומתיו ברנידג׳ בוחנים אפשרות מאתגרת לחינוך אזרחי: חדשות עשויות להרחיב ידע פוליטי ובה בעת להעמיק את הפער הרגשי בין מחנות. באמצעות סקר הבחירות האמריקאי ANES סביב בחירות 2016 הם מצאו שצריכת חדשות לפני הבחירות נקשרה לידע רב יותר אחריהן, ושידע רב יותר נקשר לקיטוב רגשי כלפי המועמדים וכלפי ליברלים ושמרנים. ניתוחי תיווך הצביעו על מסלול עקיף חיובי דרך הידע. הסקר כלל 4,271 משיבים בתחילתו, אך ניתוחי התיווך התבססו על 1,212 ו־1,215 תצפיות בהתאם לתוצאה. קיטוב נמדד כהפרש מוחלט בין דירוגי חום רגשי, וידע נמדד באמצעות זיהוי בעלי תפקידים; המחקר לא עקב ישירות אחר למידת מסרים שליליים. מאחר שהידע והתוצאה נמדדו באותו גל שלאחר הבחירות, ומכיוון שמדובר בתצפיות ולא בניסוי, כיוון ההשפעה נשאר פתוח. המחברים מציעים שאוריינות חדשות, הכוללת בחינה ביקורתית של תוכן ושל תגובות רגשיות, עשויה להשלים חינוך המבוסס על ידע. האפשרות הזאת היא המלצה הנובעת מן הדיון, ולא התערבות שנבחנה במחקר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "democracy_party_primaries_constitutional_checks_summary_he",
+      "file": "democracy_party_primaries_constitutional_checks_summary_he.html",
+      "permalink": "/democracy_party_primaries_constitutional_checks_summary_he.html",
+      "sortKey": 202609230001,
+      "titleHe": "פריימריז במפלגות ושינוי מאזן הכוחות בין הכנסת לממשלה",
+      "paperTitle": "Party Primaries as Collective Action with Constitutional Ramifications: Israel as a Case Study",
+      "authorsCardHe": "איל בנבנישתי",
+      "sourceAuthors": [
+        "Eyal Benvenisti"
+      ],
+      "journal": "Theoretical Inquiries in Law, 3(1)",
+      "dateText": "2002; כרך 3, גיליון 1; פרסום מקוון: 7 במאי 2002",
+      "doiUrl": "https://doi.org/10.2202/1565-3404.1047",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/democracy_party_primaries_constitutional_checks_summary_he.jpg",
+        "altHe": "אולם מליאת הכנסת ובו ספסלי נבחרי הציבור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "summaryHe": "איל בנבנישתי מציע הסבר לשינוי מעמדה של הכנסת בשנות התשעים: המעבר לבחירת מועמדים בידי חברי המפלגה הפחית את תלותם של חברי הכנסת בהנהגה, ועודד אותם לבנות בסיסי תמיכה עצמאיים באמצעות חקיקה ופיקוח. לטענתו, השינוי הפנים־מפלגתי יצר תוצאות חוקתיות גם בלי תיקון ישיר של החוקה. המאמר משלב ניתוח תמריצים ופעולה קולקטיבית עם השוואת פעילות הכנסת השתים־עשרה והשלוש־עשרה, דוגמאות לחקיקה ולבריתות בין מפלגות, ודיון בתגובת בית המשפט העליון. בנבנישתי טוען שהכנסת העצמאית יותר פיזרה כוח, צמצמה את יתרונן של המפלגות הדתיות כמתווכות קואליציוניות ופתחה אפשרויות פעולה למפלגות ערביות. הוא מציין שהראיות לשינוי כוחן של הקבוצות פחות ברורות מן הראיות לפעילות הפרלמנטרית. הניתוח מבחין בין הפריימריז לבין הבחירה הישירה לראש הממשלה ואינו מציג ניסוי המבודד השפעה סיבתית. השלכתו הציבורית היא שכללי בחירת מועמדים משפיעים על האיזונים בין הרשויות ועל הייצוג, ולכן יש לבחון אותם גם כעניין של עיצוב דמוקרטי ולא רק של ניהול מפלגה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "democracy_human_rights_occupation_proportionality_summary_he",
       "file": "democracy_human_rights_occupation_proportionality_summary_he.html",

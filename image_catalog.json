@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-23",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -45905,6 +45905,289 @@
       "provider": "OpenAI",
       "fitness": "high",
       "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/democracy_party_primaries_constitutional_checks_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_party_primaries_constitutional_checks_summary_he.html",
+      "usedBy": [
+        "democracy_party_primaries_constitutional_checks_summary_he.html"
+      ],
+      "cardTitleHe": "פריימריז במפלגות ושינוי מאזן הכוחות בין הכנסת לממשלה",
+      "authorsHe": "איל בנבנישתי",
+      "visualDescriptionHe": "אולם מליאת הכנסת ובו ספסלי נבחרי הציבור",
+      "semanticDescriptionHe": "מליאת הכנסת ממחישה את הזירה המוסדית שהשינוי בשיטת בחירת המועמדים משפיע עליה; התצלום אינו מתעד בחירות מקדימות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "wikimedia_commons",
+      "license": "CC BY 2.5",
+      "creator": "Dr. Avishai Teicher / Pikiwiki Israel",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_21559_The_Knesset_in_Jerusalem.JPG",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/PikiWiki_Israel_21559_The_Knesset_in_Jerusalem.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "modifications": "Center crop and resize to 800x600; JPEG recompression. Derivative retains the stated license."
+    },
+    {
+      "file": "html_qa/democracy_news_knowledge_affective_polarization_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_news_knowledge_affective_polarization_summary_he.html",
+      "usedBy": [
+        "democracy_news_knowledge_affective_polarization_summary_he.html"
+      ],
+      "cardTitleHe": "צריכת חדשות, ידע פוליטי וקיטוב רגשי בבחירות בארצות הברית",
+      "authorsHe": "בומסו קים; ראיין ברוסארד; מתיו ברנידג׳",
+      "visualDescriptionHe": "קוראי עיתונים משוחחים במתח סביב שולחן בחדר קריאה ציבורי",
+      "semanticDescriptionHe": "סצנה בדיונית המחברת קריאת חדשות וידע פוליטי לריחוק רגשי בין משתתפים בדיון.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/democracy_social_citizenship_rights_us_europe_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_social_citizenship_rights_us_europe_summary_he.html",
+      "usedBy": [
+        "democracy_social_citizenship_rights_us_europe_summary_he.html"
+      ],
+      "cardTitleHe": "זכויות חברתיות כחלק מדמוקרטיה: השוואה בין ארצות הברית לאירופה",
+      "authorsHe": "ג׳ניפר אוסר; מארק הוכה",
+      "visualDescriptionHe": "אזרחים נפגשים עם עובדת שירות ציבורי במרכז סיוע קהילתי",
+      "semanticDescriptionHe": "סצנה בדיונית של שירות חברתי הממחישה הגנה על תנאי חיים; היא אינה מציגה את מדידת תפיסות הדמוקרטיה או את ההשוואה בין ארצות הברית לאירופה.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "standard",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/democracy_nato_democratic_conditionality_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_nato_democratic_conditionality_summary_he.html",
+      "usedBy": [
+        "democracy_nato_democratic_conditionality_summary_he.html"
+      ],
+      "cardTitleHe": "כשהצטרפות לנאט״ו הופכת ליעד, תנאי הדמוקרטיה נשחקים",
+      "authorsHe": "אייל רובינסון",
+      "visualDescriptionHe": "חלל פנימי ומעברים בבניין מטה נאט״ו בבריסל",
+      "semanticDescriptionHe": "תצלום פנים של הארגון שהמאמר מנתח את שינוי נורמות הקבלה שלו; התמונה אינה מתעדת דיון בהצטרפות מדינה מסוימת.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "wikimedia_commons",
+      "license": "CC BY-SA 4.0",
+      "creator": "Swadim",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:New_HQ_NATO_1.jpg",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/New_HQ_NATO_1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Center crop and resize to 800x600; JPEG recompression. Derivative retains the stated license."
+    },
+    {
+      "file": "html_qa/democracy_mayor_removal_political_participation_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_mayor_removal_political_participation_summary_he.html",
+      "usedBy": [
+        "democracy_mayor_removal_political_participation_summary_he.html"
+      ],
+      "cardTitleHe": "כשוועדה קרואה מחליפה נבחרי ציבור, קבוצות שונות מגיבות אחרת בקלפי",
+      "authorsHe": "אבי בן־בסט, מומי דהן",
+      "visualDescriptionHe": "חזית בניין עיריית חיפה והמרחב הציבורי שלפניו",
+      "semanticDescriptionHe": "בניין עירייה בישראל מייצג את מוסד השלטון המקומי; בחירת חיפה לצילום אינה טענה שראש העיר בה הוסר במסגרת המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "wikimedia_commons",
+      "license": "CC BY 2.5",
+      "creator": "Avishai Teicher / צילום: ד״ר אבישי טייכר",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_6692_haifa_city_hall.jpg",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/PikiWiki_Israel_6692_haifa_city_hall.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "modifications": "Center crop and resize to 800x600; JPEG recompression. Derivative retains the stated license."
+    },
+    {
+      "file": "html_qa/democracy_moldova_polarization_paradox_summary_he.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "democracy_moldova_polarization_paradox_summary_he.html",
+      "usedBy": [
+        "democracy_moldova_polarization_paradox_summary_he.html"
+      ],
+      "cardTitleHe": "הפרדוקס של מולדובה: קיטוב שוחק דמוקרטיה אך גם מקשה על שלטון יחיד",
+      "authorsHe": "מישה גיפסמן, דניס איבנוב, דינה רוזנברג",
+      "visualDescriptionHe": "בניין הפרלמנט של מולדובה בקישינב ומדרגות הכניסה אליו",
+      "semanticDescriptionHe": "הפרלמנט המולדובי קושר את התצלום לזירה המדינתית של המחקר; תצלום המוסד כשלעצמו אינו ממחיש את מנגנון הקיטוב.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "wikimedia_commons",
+      "license": "Public domain",
+      "creator": "Mirek237",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitness": "standard",
+      "fitnessSource": "nightly_wikimedia_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Chisinau_parliament.jpg",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Chisinau_parliament.jpg",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Chisinau_parliament.jpg",
+      "modifications": "Center crop and resize to 800x600; JPEG recompression. Derivative retains the stated license."
+    },
+    {
+      "file": "html_qa/sandberg-karsik-strategic-judicial-considerations.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sandberg-karsik-strategic-judicial-considerations.html",
+      "usedBy": [
+        "sandberg-karsik-strategic-judicial-considerations.html"
+      ],
+      "cardTitleHe": "פרשת קרסיק: כשהכרה בזכות הקניין נותרת בלי סעד מעשי",
+      "authorsHe": "חיים זנדברג",
+      "visualDescriptionHe": "בעל קרקע ויועצת משפטית מעיינים במפה לצד חלקה מגודרת שאינה בשימוש",
+      "semanticDescriptionHe": "המחשה בדיונית לשאלת השבת קרקע שהופקעה לאחר שתכליתה הציבורית הסתיימה; אינה שחזור של מגרש קרסיק.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/zoizner-politician-personality-media-visibility.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zoizner-politician-personality-media-visibility.html",
+      "usedBy": [
+        "zoizner-politician-personality-media-visibility.html"
+      ],
+      "cardTitleHe": "אישיות פוליטיקאים וחשיפה תקשורתית: היתרון של תכונות אפלות בסיקור אישי",
+      "authorsHe": "אלון זויזנר; אלסנדרו נאי; יורגן מאייר",
+      "visualDescriptionHe": "צלמים וכתבת מקיפים פוליטיקאי בדיוני המשוחח עמם בכיכר עירונית",
+      "semanticDescriptionHe": "סצנה בדיונית הממחישה את המפגש בין הופעת המועמד לבין תשומת הלב התקשורתית בזמן בחירות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/steklov-women-local-government-social-spending.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "steklov-women-local-government-social-spending.html",
+      "usedBy": [
+        "steklov-women-local-government-social-spending.html"
+      ],
+      "cardTitleHe": "נשים במועצה וראשת עיר: מתי הייצוג קשור לתקציב החינוך",
+      "authorsHe": "עודד סטקלוב; ענת גופן; יניב ריינגוורץ",
+      "visualDescriptionHe": "חברת מועצה מובילה דיון תקציבי עם עמיתיה באולם עירוני",
+      "semanticDescriptionHe": "סצנה בדיונית המחברת ייצוג נשים במועצה המקומית לדיון בהקצאת משאבים ציבוריים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/davidovitz-lgb-teachers-minority-representation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "davidovitz-lgb-teachers-minority-representation.html",
+      "usedBy": [
+        "davidovitz-lgb-teachers-minority-representation.html"
+      ],
+      "cardTitleHe": "מורים להט״בים וייצוג תלמידי מיעוט: שינוי עמדות בכיתה כמנגנון הגנה",
+      "authorsHe": "מעיין דוידוביץ",
+      "visualDescriptionHe": "מורה ותלמידים מקיימים שיחה קשובה במעגל בכיתה",
+      "semanticDescriptionHe": "המחשה בדיונית של השפעת מורים על שיח מכיל בקרב תלמידים; אין בתמונה זיהוי של הנטייה המינית של דמות כלשהי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "createdDate": "2026-09-23",
+      "sourceType": "generated",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "fitness": "high",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation, 2026-09-23"
     }
   ],
   "topicGraphics": [
