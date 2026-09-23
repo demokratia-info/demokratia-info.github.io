@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1702,
+  "paperCount": 1712,
   "papers": [
+    {
+      "slug": "levy-political-parties-coalitions",
+      "file": "levy-political-parties-coalitions.html",
+      "permalink": "/levy-political-parties-coalitions.html",
+      "sortKey": 202609240028,
+      "titleHe": "מפלגות כמנגנון להתחייבות לפשרה: כשהברית משנה את המדיניות",
+      "paperTitle": "A model of political parties",
+      "authorsCardHe": "גילת לוי",
+      "sourceAuthors": [
+        "Gilat Levy"
+      ],
+      "journal": "Journal of Economic Theory, 115(2), 250–277",
+      "dateText": "אפריל 2004, כרך 115, גיליון 2, עמ׳ 250–277",
+      "doiUrl": "https://doi.org/10.1016/S0022-0531(03)00254-0",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/levy-political-parties-coalitions.jpg",
+        "altHe": "נציגי קבוצות דנים יחד במסמכים סביב שולחן בחדר ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "מפלגות עשויות לשנות את המדיניות משום שהן מאפשרות לקבוצות בעלות עמדות שונות להתחייב לפשרה משותפת. במודל של גילת לוי, מועמד עצמאי יכול להבטיח באמינות רק את המדיניות שהוא עצמו מעדיף, ואילו מפלגה יכולה לאכוף הסכמות בין חבריה. היכולת הזאת כרוכה בוויתור על שליטה ובהתחשבות בשותפים, ולכן המחקר בוחן גם אם הברית עמידה בפני פרישה. כאשר יש ממד מחלוקת יחיד, מפלגות אינן מוסיפות תוצאות יציבות מעבר לאלה האפשריות בהתמודדות עצמאית. כשיש כמה ממדים, הן יכולות לאפשר החלפת ויתורים בין נושאים וליצור תוצאות חדשות. דוגמה המשלבת מיסוי עם יעד ההוצאה מראה כיצד בעלי הכנסה גבוהה וחלק מבעלי ההכנסה הנמוכה עשויים להתאחד סביב מס נמוך יחסית ושירותים המיועדים לקבוצה מסוימת. הברית גם מחברת מחלוקות שונות לחבילת מדיניות שנראית כעמדת שמאל או ימין. זהו הסבר תיאורטי מותנה למקור כוחן של מפלגות, המדגיש כיצד הרכבן והתחייבויותיהן מעצבים את החלופות המוצגות לבוחרים ואת חלוקת ההישגים בין קבוצות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dadon-golan-university-political-tolerance",
+      "file": "dadon-golan-university-political-tolerance.html",
+      "permalink": "/dadon-golan-university-political-tolerance.html",
+      "sortKey": 202609240024,
+      "titleHe": "לימודים באוניברסיטה וסובלנות פוליטית: המקרה הישראלי",
+      "paperTitle": "Does university attendance impact students' political tolerance and open-mindedness: the atypical case of Israel?",
+      "authorsCardHe": "זהורית דדון-גולן, אדריאן זידרמן, איריס בן דוד-הדר",
+      "sourceAuthors": [
+        "Zehorit Dadon-Golan",
+        "Adrian Ziderman",
+        "Iris BenDavid-Hadar"
+      ],
+      "journal": "Journal of Applied Research in Higher Education, 13(4), 1133–1153",
+      "dateText": "פורסם לראשונה ב־26 באוקטובר 2020; כרך 13, גיליון 4, 2021, עמ׳ 1133–1153",
+      "doiUrl": "https://doi.org/10.1108/jarhe-02-2020-0040",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/dadon-golan-university-political-tolerance.jpg",
+        "altHe": "סטודנטים משוחחים בחצר קמפוס ואחרים יוצאים משטח האוניברסיטה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "תואר אקדמי אינו מבטיח כשלעצמו שינוי בסובלנות פוליטית. זהורית דדון-גולן, אדריאן זידרמן ואיריס בן דוד-הדר בוחנים שאלונים של 329 סטודנטים באוניברסיטאות חיפה, בר-אילן ובן-גוריון, שנאספו ביוני 2016. הם משווים סטודנטים בשנה הראשונה ובשנה האחרונה, ומפרידים בין מסלולים של ארבעה ימי לימוד בקמפוס ומעלה למסלולים מרוכזים של שלושה ימים ומטה. ניתוח הפרש ההפרשים אינו מוצא השפעה מובהקת של הנוכחות המוגברת על סובלנות פוליטית; ההבדל שנמצא קטן מאוד. החוקרים מציעים שחיי קמפוס מצומצמים, עבודה, מחויבויות משפחתיות והגעה בגיל מבוגר יחסית עשויים להסביר מדוע התוצאה שונה מזו המצופה בחלק מהספרות. הם מדגישים את חשיבות המפגש וההחלפה של דעות מחוץ להרצאות, ומרחיבים את הדיון ללמידה מרחוק ולחופש הביטוי. השאלה הדמוקרטית היא אילו תנאים מוסדיים מאפשרים פתיחות למחלוקת, ולא רק כמה שנים או ימים מבלים במסגרת לימודית. מאחר שהמחקר משווה קבוצות שונות ואינו עוקב אחרי אותם אנשים, הממצא אינו מוכיח שאין לאוניברסיטה השפעה בכל הקשר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-arab-minority-internal-migration",
+      "file": "cohen-arab-minority-internal-migration.html",
+      "permalink": "/cohen-arab-minority-internal-migration.html",
+      "sortKey": 202609240023,
+      "titleHe": "הגירה פנימית של ערבים בישראל: הזדמנויות, חסמים וקשרים למקום",
+      "paperTitle": "Internal Migration of Ethno‐national Minorities: The Case of Arabs in Israel",
+      "authorsCardHe": "ניר כהן, דניאל צ׳מנסקי, אמיר חפץ",
+      "sourceAuthors": [
+        "Nir Cohen",
+        "Daniel Czamanski",
+        "Amir Hefetz"
+      ],
+      "journal": "International Migration, 53(6), 74–88",
+      "dateText": "פורסם לראשונה באינטרנט ב־29 בנובמבר 2012; כרך 53, גיליון 6, דצמבר 2015, עמ׳ 74–88",
+      "doiUrl": "https://doi.org/10.1111/imig.12014",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/cohen-arab-minority-internal-migration.jpg",
+        "altHe": "בתי מגורים ומבני ציבור על מדרונות נצרת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "היכולת לעבור דירה קשורה גם למבנה ההזדמנויות של קבוצת המיעוט, ולא רק להעדפה אישית. ניר כהן, דניאל צ׳מנסקי ואמיר חפץ מנתחים נתוני מיקרו ממפקד האוכלוסין של 1995 כדי לתאר הגירה פנימית בקרב ערבים בישראל, בהשוואה בין מוסלמים, נוצרים ודרוזים. מי שעברו בחמש השנים שקדמו למפקד נוטים להיות צעירים ומשכילים יותר ולחיות במשקי בית קטנים יותר ממי שלא עברו, אך הכנסתם נמוכה יותר. שיעור המעבר של נשים גבוה יותר, והחוקרים דנים בין השאר במעבר בעקבות נישואים ובהשכלה כהסברים אפשריים. לצד הדפוסים הדמוגרפיים הם מנתחים את המתח בין חיפוש עבודה והשכלה לבין עלויות דיור, הפרדה מרחבית, אפליה ואובדן תמיכה משפחתית וקהילתית. רשתות חברתיות מסייעות להתמודד עם חסרונות, אך גם קושרות אנשים למקום המוצא. המשמעות לשוויון היא שמעבר פורמלי פתוח אינו מעיד בהכרח על נגישות מעשית למגורים ולהזדמנויות. המחקר מציג תמונה היסטורית ותיאורית; הוא אינו קובע כמה מכל הבדל במעבר נגרם מאפליה, מתרבות או מהכנסה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "barak-humanitarian-law-supreme-court",
+      "file": "barak-humanitarian-law-supreme-court.html",
+      "permalink": "/barak-humanitarian-law-supreme-court.html",
+      "sortKey": 202609240022,
+      "titleHe": "המשפט ההומניטרי ובית המשפט העליון: כבוד האדם ומידתיות בזמן לחימה",
+      "paperTitle": "International Humanitarian Law and the Israeli Supreme Court",
+      "authorsCardHe": "אהרן ברק",
+      "sourceAuthors": [
+        "Aharon Barak"
+      ],
+      "journal": "Israel Law Review, 47(2), 181–189",
+      "dateText": "פורסם לראשונה ב־6 ביוני 2014; כרך 47, גיליון 2, יולי 2014, עמ׳ 181–189",
+      "doiUrl": "https://doi.org/10.1017/s0021223714000041",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/barak-humanitarian-law-supreme-court.jpg",
+        "altHe": "חקלאי מציג גישה למטע זיתים ליד מכשול ביטחוני בפני משקיפה משפטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "פעילות צבאית אינה מוציאה פגיעה בזכויות מתחום המשפט. אהרן ברק מתאר כיצד בית המשפט העליון בישראל דן בעתירות הנוגעות לתפיסה לוחמתית וללחימה, ומסביר את הבסיס לסמכותו ואת מקומו של המשפט ההומניטרי הבינלאומי במשפט הישראלי. הוא מציג שני כיווני ביקורת מנוגדים: הטענה שהשופטים מגבילים יתר על המידה את הצבא, והטענה שהם מעניקים לכיבוש לגיטימציה באמצעות ביקורת חלקית. בתשובתו הוא מבחין בין בחינת חוקיותה של פעולה מסוימת לבין הכרעה פוליטית על עצם המצב שבו נעשתה. במרכז החשיבה שהוא מציע עומדים כבוד האדם ומידתיות: תכלית ביטחונית אינה מספיקה, ויש לבדוק את התאמת האמצעי, חלופה פוגענית פחות ואת היחס בין התועלת הביטחונית לנזק לאדם. הדיון בפסיקת הגדר, הסיכולים הממוקדים וההגנה על אזרחים מבהיר את החשיבות הדמוקרטית של ביקורת גם בזמן עימות. זהו ניתוח משפטי ורפלקציה של שופט שהיה שותף להכרעות, ובו נשמר גם המתח בין הגנה על זכויות, ריסון שיפוטי והפרדת רשויות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bogoch-media-criticism-supreme-court",
+      "file": "bogoch-media-criticism-supreme-court.html",
+      "permalink": "/bogoch-media-criticism-supreme-court.html",
+      "sortKey": 202609240021,
+      "titleHe": "ביקורת תקשורתית על בית המשפט העליון: בין ערעור על הסמכות להגנה עליה",
+      "paperTitle": "Critical coverage: How the media criticize supreme courts—Evidence from Israel",
+      "authorsCardHe": "רינה בוגוש, יפעת הולצמן-גזית",
+      "sourceAuthors": [
+        "Bryna Bogoch",
+        "Yifat Holzman-Gazit"
+      ],
+      "journal": "Law & Policy, 43(1), 51–72",
+      "dateText": "פורסם לראשונה ב־21 בינואר 2021; כרך 43, גיליון 1, עמ׳ 51–72",
+      "doiUrl": "https://doi.org/10.1111/lapo.12160",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/bogoch-media-criticism-supreme-court.jpg",
+        "altHe": "עיתונאים מראיינים מומחה למשפט מחוץ לבית משפט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "ביקורת על בית המשפט העליון יכולה להופיע בתוך כתבה שמציגה אותו דווקא באור חיובי. רינה בוגוש ויפעת הולצמן-גזית מנתחות 1,297 פריטים מהארץ ומידיעות אחרונות בארבעה חודשים נבחרים בכל אחת מהשנים 2002, 2008 ו־2011. הן מפרידות בין ביקורת נקודתית על החלטות או שופטים לבין ביקורת על סמכותו ותפקודו של בית המשפט כמוסד, ובוחנות בנפרד מסגור פוליטי וטון כולל. הביקורת גדלה בתקופה הנחקרת, ובייחוד התרבו ערעורים על המוסד, אך אלה שולבו לעיתים בתגובות נגד שהגנו עליו. כתבות על מינויים ועל יחסי בית המשפט עם רשויות אחרות היו ביקורתיות יותר מהסיקור של הכרעותיו. לכן ספירת אמירות ביקורתיות אינה מספיקה להבנת הדימוי הציבורי שנוצר: יש לבדוק מי מדבר, מהו מושא הביקורת ואילו תגובות ניתנות לה. המחקר מאיר את המתח הדמוקרטי בין עיתונות שבוחנת מוסדות כוח לבין האופן שבו היא משמרת או מערערת את הלגיטימציה שלהם. הוא מודד את תוכן הסיקור, ולא שינוי סיבתי באמון הקוראים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "atmor-electoral-threshold-fragmentation",
+      "file": "atmor-electoral-threshold-fragmentation.html",
+      "permalink": "/atmor-electoral-threshold-fragmentation.html",
+      "sortKey": 202609240020,
+      "titleHe": "העלאת אחוז החסימה בישראל שינתה בריתות פוליטיות אך לא פתרה את הפיצול",
+      "paperTitle": "Israel: increased political fragmentation despite increasing thresholds for a parliamentary seat",
+      "authorsCardHe": "ניר אטמור",
+      "sourceAuthors": [
+        "Nir Atmor"
+      ],
+      "journal": "Zeitschrift für Vergleichende Politikwissenschaft",
+      "dateText": "2022 · כרך 16, גיליון 3, עמ׳ 447–461; פורסם מקוון ב־18 בינואר 2023",
+      "doiUrl": "https://doi.org/10.1007/s12286-022-00549-1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/atmor-electoral-threshold-fragmentation.jpg",
+        "altHe": "בניין הכנסת בירושלים מאחורי גדר וגינה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "העלאת אחוז החסימה בישראל עודדה הסתגלות אסטרטגית של מפלגות ובוחרים, אך לא סיפקה פתרון יציב לפיצול המפלגתי. אטמור בוחן את הרפורמה שהעלתה את הסף ל־3.25% באמצעות התנהגות רשימות, נתוני בחירות וסימולציות של ספים חלופיים. הוא מתאר בריתות בין מפלגות, גיוס מועמדים והצבעה המתחשבת בסיכויי כניסה לכנסת, לצד תנודות חדות בשיעור הקולות שנותרו ללא ייצוג. הסימולציות מבודדות את ההשפעה המכנית של הסף ואינן מנבאות את מלוא תגובות השחקנים לכלל אחר. המסקנה היא שמאפייני החברה והשיטה היחסית ממשיכים להזין פיצול, ולכן יש לשקול את מחיר הפגיעה בייצוג קבוצות קטנות מול תועלת אפשרית למשילות שלא בהכרח מתממשת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sommer-supreme-court-recusal-norms",
+      "file": "sommer-supreme-court-recusal-norms.html",
+      "permalink": "/sommer-supreme-court-recusal-norms.html",
+      "sortKey": 202609240018,
+      "titleHe": "פסילת שופטים בארצות הברית: נורמות אי־תלות מול השפעה על תוצאת המשפט",
+      "paperTitle": "Norms and Political Payoffs in Supreme Court Recusals",
+      "authorsCardHe": "אודי זומר; Quan Li; Jonathan Parent",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Quan Li",
+        "Jonathan Parent"
+      ],
+      "journal": "Political Behavior",
+      "dateText": "2022 · כרך 44, גיליון 2, עמ׳ 859–875; פורסם מקוון ב־20 באוגוסט 2020",
+      "doiUrl": "https://doi.org/10.1007/s11109-020-09640-3",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/sommer-supreme-court-recusal-norms.jpg",
+        "altHe": "כיסא פנוי בהרכב שיפוטי ושופט היוצא מאולם הדיונים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "תמריץ להשפיע על תוצאת משפט עשוי לפעול כבר בהחלטת השופט אם להשתתף בתיק. המחקר משלב מודל של תועלת מהשתתפות עם השוואה בין פסילות שבשיקול דעת לבין היעדרויות מטעמי בריאות בבית המשפט העליון האמריקאי. בתיקים שהסתיימו ברוב מינימלי מכריע נמצאה סבירות נמוכה יותר לפסילה רצונית, ואילו בפסילות בריאותיות לא נמצא קשר מובהק דומה. הניתוח ההיסטורי מציג דפוס כזה לאורך כמה תקופות נשיאות, ולכן אינו מתאר רק את הקיטוב העכשווי. לצד התמיכה בחשיבותם של תמריצים אסטרטגיים, הנתונים אינם מוכיחים הפרת כלל במקרה מסוים או היעדר עקרונות אצל כלל השופטים. הממצא מחדד את השאלה כיצד מוסדות שנשענים על אמון ציבורי מתמודדים עם התנגשות בין ריסון עצמי להשפעה על מדיניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gradstein-democracy-income-inequality",
+      "file": "gradstein-democracy-income-inequality.html",
+      "permalink": "/gradstein-democracy-income-inequality.html",
+      "sortKey": 202609240017,
+      "titleHe": "דמוקרטיה ואי־שוויון בהכנסות: מדוע הרחבת הזכויות אינה מספיקה לבדה",
+      "paperTitle": "Does Libertè = Egalité? A Survey of the Empirical Links between Democracy and Inequality with Some Evidence on the Transition Economies",
+      "authorsCardHe": "מרק גרדשטיין; ברנקו מילנוביץ׳",
+      "sourceAuthors": [
+        "Mark Gradstein",
+        "Branko Milanović"
+      ],
+      "journal": "Journal of Economic Surveys",
+      "dateText": "2004 · כרך 18, גיליון 4, עמ׳ 515–537",
+      "doiUrl": "https://doi.org/10.1111/j.0950-0804.2004.00229.x",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/gradstein-democracy-income-inequality.jpg",
+        "altHe": "אזרחים ממתינים להצבעה בחדר קלפי משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "הרחבת זכויות פוליטיות עשויה לחזק דרישות לחלוקה מחדש, אך אינה מבטיחה צמצום מיידי של פערי הכנסות. גרדשטיין ומילנוביץ׳ משלבים סקירת מחקרים על זכות בחירה, חירויות אזרחיות ואי־שוויון עם ניתוח של מדינות המעבר הפוסט־קומוניסטי. הם מוצאים תמיכה בחלק מן העדויות בקשר בין דמוקרטיה לשוויון, לצד מקרים שבהם הדמוקרטיזציה והפערים גדלו יחד. הניתוח מדגיש את הזמן הדרוש לבניית מוסדות וארגונים של חלוקה מחדש ואת השפעתם האפשרית של הפרטה, כוח אליטות וערכים חברתיים; גם הממצא לגבי דמוקרטיה מצטברת רגיש למשתני הבקרה. המשמעות הדמוקרטית היא שזכות להשתתף בבחירות פותחת ערוץ להשפעה כלכלית, אך כוחו תלוי במוסדות המאפשרים לאזרחים לתרגם השתתפות למדיניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ikan-resource-windfalls-polarization",
+      "file": "ikan-resource-windfalls-polarization.html",
+      "permalink": "/ikan-resource-windfalls-polarization.html",
+      "sortKey": 202609240015,
+      "titleHe": "כיצד הכנסות ממשאבי טבע עלולות להעמיק קיטוב פוליטי",
+      "paperTitle": "Resource windfalls, connectivity, and political polarization",
+      "authorsCardHe": "Lotem Ikan; דוד לגזיאל; אוהד רוה",
+      "sourceAuthors": [
+        "Lotem Ikan",
+        "David Lagziel",
+        "Ohad Raveh"
+      ],
+      "journal": "Journal of Environmental Economics and Management",
+      "dateText": "2025 · כרך 132, מאמר 103164",
+      "doiUrl": "https://doi.org/10.1016/j.jeem.2025.103164",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/ikan-resource-windfalls-polarization.jpg",
+        "altHe": "אסדת קידוח נפט בים הצפוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "הכנסות גדלות ממשאבי טבע יכולות להעלות את התמריץ להתחרות על השליטה בשיח הציבורי, ובתנאים מסוימים להעמיק קיטוב. המחקר משלב מודל שבו קולות קיצוניים דוחקים מתונים עם נתוני ANES מהשנים 1964–2020, מדדי הכנסות מנפט וגז ונתוני קרבה של אוכלוסייה לבירות המדינות בארצות הברית. האומדנים מראים קשר חזק יותר בין הכנסות בלתי צפויות לקיטוב רגשי כאשר החיבור למרכז הפוליטי גבוה. הקישוריות הנמדדת היא גאוגרפית ופוליטית, ולא מידת השימוש באינטרנט, והמסקנה אינה חלה באופן אחיד על כל מדינה בעלת משאבים. החוקרים מציעים לבחון ניהול שקוף וצפוי יותר של הכנסות כאלה, משום שהשלכותיהן עשויות להתבטא גם באיכות הדיון הדמוקרטי ולא רק בצמיחה ובהוצאות הציבוריות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "akbaba-fox-religious-minorities-dataset",
+      "file": "akbaba-fox-religious-minorities-dataset.html",
+      "permalink": "/akbaba-fox-religious-minorities-dataset.html",
+      "sortKey": 202609240010,
+      "titleHe": "אפליה דתית לפי קבוצת מיעוט: מעבר לציון יחיד למדינה",
+      "paperTitle": "The Religion and State-Minorities dataset",
+      "authorsCardHe": "יסמין אקבבה; ג׳ונתן פוקס",
+      "sourceAuthors": [
+        "Yasemin Akbaba",
+        "Jonathan Fox"
+      ],
+      "journal": "Journal of Peace Research, 48(6), 807–816",
+      "dateText": "נובמבר 2011, כרך 48, גיליון 6, עמ׳ 807–816",
+      "doiUrl": "https://doi.org/10.1177/0022343311418997",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/akbaba-fox-religious-minorities-dataset.jpg",
+        "altHe": "נציגת קהילה דתית משוחחת עם נציג רשות ליד כניסה למקום תפילה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-24",
+      "dateModified": "2026-09-24",
+      "summaryHe": "חופש דת אינו מתחלק בהכרח באופן שווה בין המיעוטים החיים באותה מדינה. יסמין אקבבה וג׳ונתן פוקס מציגים את מאגר RASM, המתעד 24 סוגים של הגבלות שלטוניות על 566 מיעוטים דתיים ב־175 מדינות בשנים 1990–2002. במקום להסתפק בציון ארצי, המאגר מבחין בין קהילות ומאפשר להשוות את יחס השלטון לאותו מיעוט במדינות שונות. ניתוחי ההמחשה מראים כי זהויות הרוב והמיעוט קשורות לדפוסי ההגבלה גם לצד מאפייני משטר ואוכלוסייה, וכי דמוקרטיה רבה יותר קשורה לפחות אפליה דתית שלטונית. בדיקות של עקביות הקידוד ושל דרכים חלופיות לבניית המדד מחזקות את יציבות המדידה. עם זאת, המאגר אינו כולל קבוצות שמתחת לספי הגודל ואינו מודד באופן שיטתי אפליה חברתית או הגבלות המוטלות גם על הרוב. תרומתו לדיון בזכויות היא הפיכת השאלה הכללית על חופש דת לבדיקה ממוקדת: איזו קהילה נתקלת באיזו מגבלה, וכיצד השלטון מבחין בינה לבין קבוצות אחרות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "davidovitz-lgb-teachers-minority-representation",
       "file": "davidovitz-lgb-teachers-minority-representation.html",

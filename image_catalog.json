@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -46188,6 +46188,291 @@
       "fitness": "high",
       "fitnessSource": "nightly_generated_specific",
       "source": "OpenAI built-in image generation, 2026-09-23"
+    },
+    {
+      "file": "html_qa/akbaba-fox-religious-minorities-dataset.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "akbaba-fox-religious-minorities-dataset.html",
+      "usedBy": [
+        "akbaba-fox-religious-minorities-dataset.html"
+      ],
+      "cardTitleHe": "אפליה דתית לפי קבוצת מיעוט: מעבר לציון יחיד למדינה",
+      "authorsHe": "יסמין אקבבה; ג׳ונתן פוקס",
+      "visualDescriptionHe": "נציגת קהילה דתית משוחחת עם נציג רשות ליד כניסה למקום תפילה",
+      "semanticDescriptionHe": "איור בדיוני של המפגש בין חופש פולחן של קהילת מיעוט לבין הליכי רישוי ופיקוח; אינו מתעד קהילה מסוימת.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/ikan-resource-windfalls-polarization.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ikan-resource-windfalls-polarization.html",
+      "usedBy": [
+        "ikan-resource-windfalls-polarization.html"
+      ],
+      "cardTitleHe": "כיצד הכנסות ממשאבי טבע עלולות להעמיק קיטוב פוליטי",
+      "authorsHe": "Lotem Ikan; דוד לגזיאל; אוהד רוה",
+      "visualDescriptionHe": "אסדת קידוח נפט בים הצפוני",
+      "semanticDescriptionHe": "צילום אסדה ממחיש את מקור ההכנסות ממשאבי טבע; אינו מתעד את המדינות בארצות הברית שנבדקו במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oil_platform_in_the_North_Sea.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Oil_platform_in_the_North_Sea.jpg",
+      "creator": "Erik Christensen; crop and brightness by Soerfm",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fileTitle": "Oil platform in the North Sea.jpg",
+      "sourceDimensions": "2235x1479",
+      "sourceType": "wikimedia_commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Oil_platform_in_the_North_Sea.jpg",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitnessSource": "nightly_wikimedia_specific",
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/gradstein-democracy-income-inequality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gradstein-democracy-income-inequality.html",
+      "usedBy": [
+        "gradstein-democracy-income-inequality.html"
+      ],
+      "cardTitleHe": "דמוקרטיה ואי־שוויון בהכנסות: מדוע הרחבת הזכויות אינה מספיקה לבדה",
+      "authorsHe": "מרק גרדשטיין; ברנקו מילנוביץ׳",
+      "visualDescriptionHe": "אזרחים ממתינים להצבעה בחדר קלפי משותף",
+      "semanticDescriptionHe": "איור בדיוני של גישה שווה להצבעה בקרב אזרחים מרקעים כלכליים שונים, בהקשר לקשר בין זכויות פוליטיות לאי־שוויון.",
+      "tags": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/sommer-supreme-court-recusal-norms.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sommer-supreme-court-recusal-norms.html",
+      "usedBy": [
+        "sommer-supreme-court-recusal-norms.html"
+      ],
+      "cardTitleHe": "פסילת שופטים בארצות הברית: נורמות אי־תלות מול השפעה על תוצאת המשפט",
+      "authorsHe": "אודי זומר; Quan Li; Jonathan Parent",
+      "visualDescriptionHe": "כיסא פנוי בהרכב שיפוטי ושופט היוצא מאולם הדיונים",
+      "semanticDescriptionHe": "איור בדיוני המדגים באופן ישיר את שינוי ההרכב בעקבות הימנעות של שופט מדיון; אינו מתעד שופטים או תיק ממשיים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "high",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/atmor-electoral-threshold-fragmentation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "atmor-electoral-threshold-fragmentation.html",
+      "usedBy": [
+        "atmor-electoral-threshold-fragmentation.html"
+      ],
+      "cardTitleHe": "העלאת אחוז החסימה בישראל שינתה בריתות פוליטיות אך לא פתרה את הפיצול",
+      "authorsHe": "ניר אטמור",
+      "visualDescriptionHe": "בניין הכנסת בירושלים מאחורי גדר וגינה",
+      "semanticDescriptionHe": "צילום הכנסת מציג את המוסד שהכניסה אליו מוסדרת באמצעות אחוז החסימה; אינו ממחיש תוצאה של בחירות מסוימות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:134100_jerusalem_israeli_knesset_PikiWiki_Israel.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/134100_jerusalem_israeli_knesset_PikiWiki_Israel.jpg",
+      "creator": "Israel Preker",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "fileTitle": "134100 jerusalem israeli knesset PikiWiki Israel.jpg",
+      "sourceDimensions": "3792x2675",
+      "sourceType": "wikimedia_commons",
+      "source": "https://commons.wikimedia.org/wiki/File:134100_jerusalem_israeli_knesset_PikiWiki_Israel.jpg",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitnessSource": "nightly_wikimedia_specific",
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/bogoch-media-criticism-supreme-court.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bogoch-media-criticism-supreme-court.html",
+      "usedBy": [
+        "bogoch-media-criticism-supreme-court.html"
+      ],
+      "cardTitleHe": "ביקורת תקשורתית על בית המשפט העליון: בין ערעור על הסמכות להגנה עליה",
+      "authorsHe": "רינה בוגוש, יפעת הולצמן-גזית",
+      "visualDescriptionHe": "עיתונאים מראיינים מומחה למשפט מחוץ לבית משפט",
+      "semanticDescriptionHe": "איור בדיוני המחבר במישרין בין סיקור עיתונאי לבין דיון במוסד השיפוטי ובפעולתו.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "high",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/barak-humanitarian-law-supreme-court.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "barak-humanitarian-law-supreme-court.html",
+      "usedBy": [
+        "barak-humanitarian-law-supreme-court.html"
+      ],
+      "cardTitleHe": "המשפט ההומניטרי ובית המשפט העליון: כבוד האדם ומידתיות בזמן לחימה",
+      "authorsHe": "אהרן ברק",
+      "visualDescriptionHe": "חקלאי מציג גישה למטע זיתים ליד מכשול ביטחוני בפני משקיפה משפטית",
+      "semanticDescriptionHe": "איור בדיוני של אינטרסים אזרחיים ושיקולי ביטחון במרחב שבו מופעלת ביקורת משפטית; אינו תיעוד של אירוע או פסק דין מסוים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "high",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/cohen-arab-minority-internal-migration.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-arab-minority-internal-migration.html",
+      "usedBy": [
+        "cohen-arab-minority-internal-migration.html"
+      ],
+      "cardTitleHe": "הגירה פנימית של ערבים בישראל: הזדמנויות, חסמים וקשרים למקום",
+      "authorsHe": "ניר כהן, דניאל צ׳מנסקי, אמיר חפץ",
+      "visualDescriptionHe": "בתי מגורים ומבני ציבור על מדרונות נצרת",
+      "semanticDescriptionHe": "צילום נצרת נותן הקשר למרחב מגורים עירוני של המיעוט הערבי; אינו מציג מהגרים או מעיד על החלטת מעבר של משק בית.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_51454_panorama_of_the_city_of_nazareth.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/PikiWiki_Israel_51454_panorama_of_the_city_of_nazareth.jpg",
+      "creator": "Ronen Marcus",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "fileTitle": "PikiWiki Israel 51454 panorama of the city of nazareth.jpg",
+      "sourceDimensions": "4864x3648",
+      "sourceType": "wikimedia_commons",
+      "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_51454_panorama_of_the_city_of_nazareth.jpg",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "fitnessSource": "nightly_wikimedia_specific",
+      "reuseGuidance": "Newly obtained for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/dadon-golan-university-political-tolerance.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dadon-golan-university-political-tolerance.html",
+      "usedBy": [
+        "dadon-golan-university-political-tolerance.html"
+      ],
+      "cardTitleHe": "לימודים באוניברסיטה וסובלנות פוליטית: המקרה הישראלי",
+      "authorsHe": "זהורית דדון-גולן, אדריאן זידרמן, איריס בן דוד-הדר",
+      "visualDescriptionHe": "סטודנטים משוחחים בחצר קמפוס ואחרים יוצאים משטח האוניברסיטה",
+      "semanticDescriptionHe": "איור בדיוני של אינטראקציה בקמפוס לצד שגרת לימודים ויציאה ממנו; אינו מציג תוצאה של מחקר או שינוי בעמדות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/levy-political-parties-coalitions.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "levy-political-parties-coalitions.html",
+      "usedBy": [
+        "levy-political-parties-coalitions.html"
+      ],
+      "cardTitleHe": "מפלגות כמנגנון להתחייבות לפשרה: כשהברית משנה את המדיניות",
+      "authorsHe": "גילת לוי",
+      "visualDescriptionHe": "נציגי קבוצות דנים יחד במסמכים סביב שולחן בחדר ציבורי",
+      "semanticDescriptionHe": "איור בדיוני של גיבוש פשרה והתחייבות משותפת בין קבוצות, כמסגרת חזותית למודל התאורטי של מפלגות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-24",
+      "fitness": "standard",
+      "qualityNotes": "Reviewed for subject fit, natural composition and image quality; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-24",
+      "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
     }
   ],
   "topicGraphics": [
