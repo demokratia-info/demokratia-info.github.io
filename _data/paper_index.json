@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1712,
+  "paperCount": 1722,
   "papers": [
+    {
+      "slug": "abat-minority-constitutional-judges",
+      "file": "abat-minority-constitutional-judges.html",
+      "permalink": "/abat-minority-constitutional-judges.html",
+      "sortKey": 202609250010,
+      "titleHe": "מינוי שופטים חוקתיים: ייצוג ממשי למיעוטים וליחידות תת־מדינתיות",
+      "paperTitle": "Kelsen versus Schmitt and the Role of the Sub-National Entities and Minorities in the Appointment of Constitutional Judges in Continental Systems",
+      "authorsCardHe": "אנטוני אבאט נינט",
+      "sourceAuthors": [
+        "Antoni Abat Ninet"
+      ],
+      "journal": "ICL Journal 14(4), 523–543",
+      "dateText": "כרך 2020; פורסם ברשת ב־19 בינואר 2021",
+      "doiUrl": "https://doi.org/10.1515/icl-2020-0015",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/abat-minority-constitutional-judges.jpg",
+        "altHe": "גרם המדרגות בבית המשפט החוקתי האוסטרי בווינה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "אנטוני אבאט נינט טוען שבמדינות מורכבות ומבוזרות יש להעניק למיעוטים וליחידות תת־מדינתיות תפקיד משמעותי במינוי שופטי בית המשפט החוקתי. נוכחות סמלית בלבד אינה מספיקה, משום שהרכב הערכאה קשור גם לתפיסת עצמאותה ולייצוג מאוזן. הטיעון מחבר בין הפרדת רשויות במרכז לבין חלוקת הכוח בין רמות שלטון, וחוזר למודל האוסטרי, לפדרליזם של קלזן ולדיון של שמיט בשומר החוקה. ההשלכה היא שיש לבחון מי משפיע על המינוי, ולא רק מי מופיע בסופו של דבר בהרכב השיפוטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "spektorowski-national-identity-democracy",
+      "file": "spektorowski-national-identity-democracy.html",
+      "permalink": "/spektorowski-national-identity-democracy.html",
+      "sortKey": 202609250009,
+      "titleHe": "זהות לאומית וכללי המשחק הדמוקרטי: ארגנטינה ואורוגוואי בהשוואה",
+      "paperTitle": "Nationalism and democratic construction: the origins of Argentina and Uruguay's political cultures in comparative perspective",
+      "authorsCardHe": "אלברטו ספקטורובסקי",
+      "sourceAuthors": [
+        "Alberto Spektorowski"
+      ],
+      "journal": "Bulletin of Latin American Research 19(1), 81–99",
+      "dateText": "ינואר 2000",
+      "doiUrl": "https://doi.org/10.1111/j.1470-9856.2000.tb00093.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/spektorowski-national-identity-democracy.jpg",
+        "altHe": "ארמון המחוקקים במונטווידאו, אורוגוואי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "אלברטו ספקטורובסקי משווה את התהוות הזהות הלאומית והתרבות הפוליטית בארגנטינה ובאורוגוואי. טענתו היא שבאורוגוואי הסכמה בין כוחות פוליטיים על כללי המשחק שילבה את הדמוקרטיה בזהות הקולקטיבית, בעוד שבארגנטינה מחלוקות והדרה הותירו פתחים לפתרונות סמכותניים. ההשוואה מתמקדת בבניית הזהות לאחר העצמאות, בתפקיד מפלגות מרכזיות ובתקופות הסמכותניות של שנות השלושים. היא מצביעה על חשיבותה של הכרה הדדית בין יריבים בלי להציג תרבות דמוקרטית כביטוח מוחלט מפני שלטון סמכותני.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "remennick-russian-israeli-citizenship",
+      "file": "remennick-russian-israeli-citizenship.html",
+      "permalink": "/remennick-russian-israeli-citizenship.html",
+      "sortKey": 202609250008,
+      "titleHe": "שייכות שמאפשרת ביקורת: אזרחות בשלושה דורות של ישראלים דוברי רוסית",
+      "paperTitle": "Critical citizenship and civic participation in three generations of Russian Israelis",
+      "authorsCardHe": "לריסה רמניק, אנה פרשיצקי",
+      "sourceAuthors": [
+        "Larissa Remennick",
+        "Anna Prashizky"
+      ],
+      "journal": "Journal of Civil Society 19(2), 140–155",
+      "dateText": "2023; פורסם ברשת ב־16 ביוני 2023",
+      "doiUrl": "https://doi.org/10.1080/17448689.2023.2206159",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/remennick-russian-israeli-citizenship.jpg",
+        "altHe": "אנדרטת הניצחון בנתניה ומרחב הזיכרון הציבורי שסביבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "לריסה רמניק ואנה פרשיצקי משוות תפיסות אזרחות ומעורבות ציבורית בשלושה דורות של יוצאי ברית המועצות לשעבר בישראל. הן מתארות מעבר מדגש על התבססות ועל ערוצי השתתפות מוגבלים לעבר מגוון רחב יותר של פעילות אזרחית, תרבותית וביקורתית אצל הדורות הצעירים. תחושת שייכות לישראל יכולה לחזק את הנכונות לתבוע שוויון והכרה, בלי למחוק זהות משפחתית ותרבותית. המאמר משלב סקרים ומחקרים איכותניים מתקופות שונות, ולכן אינו מאפשר לייחס את כל ההבדלים לגיל או לדור בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "horne-coalition-partisan-hostility",
+      "file": "horne-coalition-partisan-hostility.html",
+      "permalink": "/horne-coalition-partisan-hostility.html",
+      "sortKey": 202609250007,
+      "titleHe": "שותפים לשעבר, יריבים מתונים יותר: זיכרון קואליציוני ועוינות מפלגתית",
+      "paperTitle": "The Way we Were: How Histories of Co-Governance Alleviate Partisan Hostility",
+      "authorsCardHe": "ויל הורן, ג׳יימס אדמס, נעם גדרון",
+      "sourceAuthors": [
+        "Will Horne",
+        "James Adams",
+        "Noam Gidron"
+      ],
+      "journal": "Comparative Political Studies 56(3), 299–325",
+      "dateText": "מרץ 2023; פורסם ברשת ב־21 במאי 2022",
+      "doiUrl": "https://doi.org/10.1177/00104140221100197",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/horne-coalition-partisan-hostility.jpg",
+        "altHe": "מבט מכיפת הרייכסטאג אל אולם המליאה של הבונדסטאג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "ויל הורן, ג׳יימס אדמס ונעם גדרון בוחנים אם שותפות בממשלה מותירה חותם על היחסים בין תומכי מפלגות. בניתוח 77 מערכות בחירות ב־19 דמוקרטיות הם מוצאים ששותפות בהווה ובעבר קשורה לעוינות נמוכה יותר, גם בהתחשב במרחק אידיאולוגי. הזיקה לשותפות קודמת נחלשת ככל שחולף זמן מאז הקואליציה. המחקר מציע שהיסטוריה של שיתוף פעולה עשויה לסייע להסביר קיטוב רגשי במערכות רב־מפלגתיות, אך הנתונים התצפיתיים אינם מוכיחים שהקמת קואליציה כשלעצמה תגרום לפיוס בין המחנות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "franck-judicial-impartiality",
+      "file": "franck-judicial-impartiality.html",
+      "permalink": "/franck-judicial-impartiality.html",
+      "sortKey": 202609250006,
+      "titleHe": "עצמאות שיפוטית ואי־משוא פנים במחלוקות על בחירות מקומיות בצרפת",
+      "paperTitle": "Judicial impartiality in politically charged cases",
+      "authorsCardHe": "רפאל פרנק",
+      "sourceAuthors": [
+        "Raphaël Franck"
+      ],
+      "journal": "Constitutional Political Economy 29(2), 193–229",
+      "dateText": "יוני 2018; פורסם ברשת ב־30 באוקטובר 2017",
+      "doiUrl": "https://doi.org/10.1007/s10602-017-9252-z",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/franck-judicial-impartiality.jpg",
+        "altHe": "חזית מועצת המדינה הצרפתית בפאלה רויאל בפריז",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "רפאל פרנק בוחן פסיקות של מועצת המדינה הצרפתית על תקפותן של בחירות מקומיות בשנים 1958–2007. לפני 1981 אין בניתוח עדות להשפעת השתייכות המועמדים, ואילו לאחר מכן ניצחונות של מפלגות מרכזיות ושל הקומוניסטים נוטים להישמר יותר. המחבר מפרש את הדפוס על רקע התחזקות החזית הלאומית ומראה שעצמאות מן הממשלה יכולה להתקיים לצד העדפות פוליטיות. המסקנה מחייבת להבחין בין עצמאות לאי־משוא פנים, אך אינה מבטלת הסברים חלופיים הנוגעים להפרות חוק ולמשאבים משפטיים של המתמודדים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "oser-adolescent-citizenship-norms",
+      "file": "oser-adolescent-citizenship-norms.html",
+      "permalink": "/oser-adolescent-citizenship-norms.html",
+      "sortKey": 202609250005,
+      "titleHe": "מהי אזרחות טובה בעיני מתבגרים? שינוי בדפוסי ציפיות בין 1999 ל־2016",
+      "paperTitle": "Changing citizenship norms among adolescents, 1999-2009-2016: A two-step latent class approach with measurement equivalence testing",
+      "authorsCardHe": "ג׳ניפר אוסר, מארק הוכה, ז׳וז׳ה באק, רוברטו די מארי",
+      "sourceAuthors": [
+        "Jennifer Oser",
+        "Marc Hooghe",
+        "Zsuzsa Bakk",
+        "Roberto Di Mari"
+      ],
+      "journal": "Quality & Quantity 57(5), 4915–4933",
+      "dateText": "2023; פורסם ברשת ב־6 בדצמבר 2022",
+      "doiUrl": "https://doi.org/10.1007/s11135-022-01585-5",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/oser-adolescent-citizenship-norms.jpg",
+        "altHe": "איור של מתבגרים סביב שולחן לתכנון פעילות קהילתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "ג׳ניפר אוסר, מארק הוכה, ז׳וז׳ה באק ורוברטו די מארי בוחנים תפיסות של אזרחות טובה אצל 137,499 מתבגרים בשלושה גלי סקר בין־לאומיים. במקום להניח מעבר פשוט מאזרחות של חובה לאזרחות מעורבת, הם מזהים חמישה דפוסי ציפיות. הקבוצות המזוהות בבירור עם חובה או מעורבות נותרות יציבות יחסית, בעוד שקבוצת הביניים מצטמצמת וקבוצות בעלות ציפיות רחבות מאוד או נמוכות גדלות. המחקר מראה מדוע ממוצע אחד אינו מספיק להבנת עתיד ההשתתפות הדמוקרטית, ומבחין בין תפיסות נורמטיביות של בני נוער לבין התנהגותם בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "canetti-religiosity-authoritarianism",
+      "file": "canetti-religiosity-authoritarianism.html",
+      "permalink": "/canetti-religiosity-authoritarianism.html",
+      "sortKey": 202609250004,
+      "titleHe": "דתיות וערכים דמוקרטיים: התפקיד המתווך של סמכותנות",
+      "paperTitle": "The Effect of Religiosity on Endorsement of Democratic Values: The Mediating Influence of Authoritarianism",
+      "authorsCardHe": "דפנה קנטי־ניסים",
+      "sourceAuthors": [
+        "Daphna Canetti"
+      ],
+      "journal": "Political Behavior 26(4), 377–398",
+      "dateText": "דצמבר 2004",
+      "doiUrl": "https://doi.org/10.1007/s11109-004-0901-3",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/canetti-religiosity-authoritarianism.jpg",
+        "altHe": "איור של מבוגרים דתיים וחילונים בשיחה קבוצתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "דפנה קנטי־ניסים בוחנת כיצד דתיות קשורה לתמיכה בערכים דמוקרטיים בקרב סטודנטים יהודים בישראל. במודל הנתמך בנתונים, הקשר עובר בעיקר דרך סמכותנות, ואילו התרומה הישירה של הדתיות מצומצמת. המחקר מבקש להבחין בין אמונה לבין דפוסי יחס לסמכות, לקונפורמיות ולמי שסוטים מן הנורמות. ההבחנה מסייעת להבין מתחים סביב זכויות מיעוטים וחופש ביטוי בלי לזהות באופן אוטומטי דתיות עם התנגדות לדמוקרטיה; עם זאת, סקר חד־פעמי של סטודנטים אינו מוכיח סדר סיבתי ואינו מייצג את כלל הציבור.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "harel-hate-crime-equal-protection",
+      "file": "harel-hate-crime-equal-protection.html",
+      "permalink": "/harel-hate-crime-equal-protection.html",
+      "sortKey": 202609250003,
+      "titleHe": "פשעי שנאה ושוויון: חלוקה הוגנת של ההגנה מפני פשיעה",
+      "paperTitle": "On Hate and Equality",
+      "authorsCardHe": "אלון הראל, גדעון פרחומובסקי",
+      "sourceAuthors": [
+        "Alon Harel",
+        "Gideon Parchomovsky"
+      ],
+      "journal": "The Yale Law Journal 109(3), 507–539",
+      "dateText": "דצמבר 1999",
+      "doiUrl": "https://doi.org/10.2307/797410",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/harel-hate-crime-equal-protection.jpg",
+        "altHe": "איור של שכנים משוחחים על ביטחון והגנה ברחוב מגורים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "אלון הראל וגדעון פרחומובסקי מציעים להצדיק חקיקה נגד פשעי שנאה באמצעות חלוקה הוגנת של הגנה מפני פשיעה. לצד חומרת המעשה ואשמת הפוגע, הם מבקשים לבחון אם קבוצות מסוימות חשופות לסיכון עודף בגלל גזע, דת, מגדר או נטייה מינית. מסגרת זו מסבירה מדוע בחירת קורבן בשל זהותו עשויה להצדיק תגובה מיוחדת גם ללא שנאה אישית. התרומה היא חיבור בין המשפט הפלילי לצדק חלוקתי; היישום מחייב לבחון אילו פערי פגיעוּת אינם מוצדקים ובאילו אמצעי אכיפה או ענישה אפשר לצמצמם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sabar-african-migrant-rights",
+      "file": "sabar-african-migrant-rights.html",
+      "permalink": "/sabar-african-migrant-rights.html",
+      "sortKey": 202609250002,
+      "titleHe": "מארץ הקודש לשפת הזכויות: מהגרים ומבקשי מקלט מאפריקה בישראל",
+      "paperTitle": "Israel and the ‘Holy Land’: The Religio-Political Discourse of Rights among African Migrant Labourers and African Asylum Seekers, 1990-2008",
+      "authorsCardHe": "גליה צבר",
+      "sourceAuthors": [
+        "Galia Sabar"
+      ],
+      "journal": "African Diaspora 3(1), 42–75",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1163/187254610x508364",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/sabar-african-migrant-rights.jpg",
+        "altHe": "איור של מפגש סיוע בקהילה נוצרית של מהגרים מאפריקה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "גליה צבר מתארת כיצד מהגרי עבודה ומבקשי מקלט מאפריקה משתמשים בדת, בזיכרון ובשיח זכויות כדי לתבוע מקום בחברה הישראלית. מחקר אתנוגרפי מתמשך מציג כנסיות המספקות סיוע וקשרים, ובהדרגה נעשות גם זירות לפעולה ציבורית. בהשוואה בין גלי ההגירה משתנה המשקל של קדושת הארץ, פנייה לחמלה וטענות בדבר מקלט וזכויות אדם. המאמר מציג מהגרים כמי שמעצבים תביעות ומגייסים שותפים, ומראה כיצד גבולות האזרחות מאותגרים גם בידי מי שאינם אזרחים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "perez-religion-state-confidence",
+      "file": "perez-religion-state-confidence.html",
+      "permalink": "/perez-religion-state-confidence.html",
+      "sortKey": 202609250001,
+      "titleHe": "תמיכת המדינה בדת ואמון המיעוטים: מבחן לטיעון הטינה",
+      "paperTitle": "Unequal State Support of Religion: On Resentment, Equality, and the Separation of Religion and State",
+      "authorsCardHe": "נחשון פרז, ג׳ונתן פוקס, ג׳ניפר מ׳ מקלור",
+      "sourceAuthors": [
+        "Nahshon Perez",
+        "Jonathan Fox",
+        "Jennifer M. McClure"
+      ],
+      "journal": "Politics, Religion & Ideology 18(4), 431–448",
+      "dateText": "2017; פורסם ברשת ב־1 בדצמבר 2017",
+      "doiUrl": "https://doi.org/10.1080/21567689.2017.1400429",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/perez-religion-state-confidence.jpg",
+        "altHe": "איור של תושבים מקבוצות דתיות שונות בחדר המתנה של שירות ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "summaryHe": "נחשון פרז, ג׳ונתן פוקס וג׳ניפר מקלור בוחנים טיעון נפוץ בעד הפרדת דת ומדינה: שהעדפת דת הרוב מעוררת טינה בקרב מיעוטים ומחלישה את אמונם בשלטון. בשילוב סקרי ערכים עם נתונים על תמיכה ממשלתית בדת הם אינם מוצאים את הקשר השלילי הצפוי; בחלק מההשוואות הקשר אף חיובי. הממצא מצמצם את הבסיס האמפירי של טיעון מסוים, אך אינו מכריע אם העדפה דתית צודקת. אמון במוסדות הוא מדד עקיף לטינה, והבחנה זו חיונית לדיון דמוקרטי שמבקש גם ראיות וגם הגנה על מעמד שווה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "levy-political-parties-coalitions",
       "file": "levy-political-parties-coalitions.html",

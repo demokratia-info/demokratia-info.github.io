@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-24",
+  "lastUpdated": "2026-09-25",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -46473,6 +46473,316 @@
       "license": "Generated site asset",
       "source": "OpenAI built-in image generation, 2026-09-24",
       "reuseGuidance": "Newly generated for this paper only; do not reuse for future new papers."
+    },
+    {
+      "file": "html_qa/perez-religion-state-confidence.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "perez-religion-state-confidence.html",
+      "usedBy": [
+        "perez-religion-state-confidence.html"
+      ],
+      "cardTitleHe": "תמיכת המדינה בדת ואמון המיעוטים: מבחן לטיעון הטינה",
+      "authorsHe": "נחשון פרז, ג׳ונתן פוקס, ג׳ניפר מ׳ מקלור",
+      "visualDescriptionHe": "איור של תושבים מקבוצות דתיות שונות בחדר המתנה של שירות ציבורי",
+      "semanticDescriptionHe": "סצנה בדיונית הממחישה מפגש של מיעוטים דתיים עם מוסדות ציבור; אינה תיעוד משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-25",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial illustration for a scholarly article about religious minorities' trust in state institutions and unequal public support for religion. Create a polished, rich painterly editorial scene in 4:3 landscape, warm civic documentary style with natural people, rooms, textured materials and depth. In a modest public-service waiting room, people of visibly varied faith backgrounds and secular dress sit as equal ordinary visitors; a woman with a simple head covering and an older man in a plain cap quietly converse with a civil servant at an open counter. Through a large window, two distant subtly different places of worship share the city skyline, with no dominant religious symbol. The picture should invite reflection about trust and belonging, not imply a measured result. No flags, readable text, letters, numbers, logos, watermarks, infographics, scales icons, UI or pasted layers. Distinct muted olive and terracotta tones, soft daylight, human warmth, nuanced expressions. This is fictional illustration, not a photograph of real study subjects."
+    },
+    {
+      "file": "html_qa/sabar-african-migrant-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sabar-african-migrant-rights.html",
+      "usedBy": [
+        "sabar-african-migrant-rights.html"
+      ],
+      "cardTitleHe": "מארץ הקודש לשפת הזכויות: מהגרים ומבקשי מקלט מאפריקה בישראל",
+      "authorsHe": "גליה צבר",
+      "visualDescriptionHe": "איור של מפגש סיוע בקהילה נוצרית של מהגרים מאפריקה",
+      "semanticDescriptionHe": "סצנה בדיונית של כנסייה כמרחב לסיוע ולהתארגנות מהגרים, נושא מרכזי במחקר האתנוגרפי.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-25",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly website article illustration. Create a detailed warm painterly editorial illustration, 4:3 landscape, about African migrant churches in Tel Aviv as spaces of community assistance and rights claims during the 1990s and 2000s. A modest converted urban community room with worn pale plaster, simple stacked chairs, one small unobtrusive wooden cross, a window to an ordinary Mediterranean apartment street. Black African adult community members and a community leader gather supportively with a volunteer and a child beside their parent; one person carries a closed plain folder, emphasizing collective care and civic agency. No depiction of distress, border crossing or stereotyped poverty. Natural spatial depth, people not posed for camera, textiles and warm afternoon light. No readable text, letters, numbers, logos, flags, watermarks, flat icons, diagrams or pasted graphic layers. Fictional scene, not documentary evidence."
+    },
+    {
+      "file": "html_qa/harel-hate-crime-equal-protection.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "harel-hate-crime-equal-protection.html",
+      "usedBy": [
+        "harel-hate-crime-equal-protection.html"
+      ],
+      "cardTitleHe": "פשעי שנאה ושוויון: חלוקה הוגנת של ההגנה מפני פשיעה",
+      "authorsHe": "אלון הראל, גדעון פרחומובסקי",
+      "visualDescriptionHe": "איור של שכנים משוחחים על ביטחון והגנה ברחוב מגורים",
+      "semanticDescriptionHe": "סצנה בדיונית הממחישה צורך בהגנה קהילתית; אינה תיעוד של פשע שנאה או של קורבנות מסוימים.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-25",
+      "generationPrompt": "Create a refined editorial illustration for a Hebrew academic summary about equal protection from hate-motivated crime and the fair distribution of public safety. Landscape 4:3 composition intended for 800x600. A richly textured, warm, realistic civic street at early evening: two adult neighbors with visibly different ethnic backgrounds stand with a calm municipal community liaison and another concerned neighbor near the entrance of a small residential building, listening seriously and supportively to one resident who is explaining an incident. The residents have agency and dignity. A softly lit public street and occupied homes extend into the background, creating a clear sense of everyday vulnerability and collective protection. Use subtle painterly realism, natural believable anatomy, earthy terracotta and navy, golden window light, detailed urban materials, layered depth, thoughtful expressions. The scene is fictional and illustrative, no real person and no purported documentary incident. No weapons, violence, injuries, handcuffs, uniforms with badges, police insignia, scales, gavels, flags, logos, letters, numbers, readable text, signage, watermarks, UI, abstract icons, or collage layers."
+    },
+    {
+      "file": "html_qa/canetti-religiosity-authoritarianism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "canetti-religiosity-authoritarianism.html",
+      "usedBy": [
+        "canetti-religiosity-authoritarianism.html"
+      ],
+      "cardTitleHe": "דתיות וערכים דמוקרטיים: התפקיד המתווך של סמכותנות",
+      "authorsHe": "דפנה קנטי־ניסים",
+      "visualDescriptionHe": "איור של מבוגרים דתיים וחילונים בשיחה קבוצתית",
+      "semanticDescriptionHe": "מפגש בדיוני המלווה דיון בדתיות ובערכים; אין לייחס למצולמים עמדות סמכותניות או לראות בהם משתתפי מחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-25",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly article editorial image about religiosity, authoritarian attitudes and support for democracy. Make a nuanced rich painterly illustration, 4:3 landscape. An ordinary Israeli civic discussion room: adults of varied levels of religious observance, including one man in a modest skullcap and other secular men and women, seated in a loose semicircle with visibly differing but attentive responses to a speaker. The focus is on thoughtful listening and the possibility of disagreement, not on equating any religion with authoritarianism. A broad side window, layered wooden chairs, warm plaster walls, subtle blue and warm amber hues, believable expressions and tactile brushwork. Avoid parliament icon imagery. No readable text, posters, letters, numbers, logos, flags, watermarks, raised threatening fists, caricature, UI or geometric diagram. Fictional illustration."
+    },
+    {
+      "file": "html_qa/oser-adolescent-citizenship-norms.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "oser-adolescent-citizenship-norms.html",
+      "usedBy": [
+        "oser-adolescent-citizenship-norms.html"
+      ],
+      "cardTitleHe": "מהי אזרחות טובה בעיני מתבגרים? שינוי בדפוסי ציפיות בין 1999 ל־2016",
+      "authorsHe": "ג׳ניפר אוסר, מארק הוכה, ז׳וז׳ה באק, רוברטו די מארי",
+      "visualDescriptionHe": "איור של מתבגרים סביב שולחן לתכנון פעילות קהילתית",
+      "semanticDescriptionHe": "סצנה בדיונית של למידה אזרחית ומעורבות; אינה תיעוד אוכלוסיית הסקר או ממצא על פעילות בפועל.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "fitnessSource": "nightly_generated_specific",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation, 2026-09-25",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished scholarly website editorial illustration. Create a rich painterly 4:3 landscape scene reflecting different civic ideals among adolescents: a diverse group of teenagers around a classroom workshop table, some intently planning a community garden using small seedlings and blank folders, two quietly observing, while an adult teacher listens rather than directs. Sunlit school windows, a glimpse of a shared courtyard, textured wooden tables, varied natural expressions and layered spatial composition. Grounded human civic education scene, no abstract icons or generic democracy symbols. The image must not label or diagnose individual students. No readable text, written labels, letters, numbers, logos, flags, watermarks, UI or pasted layers. Warm forest green, cream and muted coral; editorial painting rather than flat vector, fictional illustration."
+    },
+    {
+      "file": "html_qa/franck-judicial-impartiality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "franck-judicial-impartiality.html",
+      "usedBy": [
+        "franck-judicial-impartiality.html"
+      ],
+      "cardTitleHe": "עצמאות שיפוטית ואי־משוא פנים במחלוקות על בחירות מקומיות בצרפת",
+      "authorsHe": "רפאל פרנק",
+      "visualDescriptionHe": "חזית מועצת המדינה הצרפתית בפאלה רויאל בפריז",
+      "semanticDescriptionHe": "צילום המוסד שפסיקותיו על בחירות מקומיות הן מושא המחקר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Juan Antonio Cordero",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conseil_dEtat_France.JPG",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Conseil dEtat France.JPG",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Conseil_dEtat_France.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 1280,
+      "sourceHeight": 593,
+      "source": "https://commons.wikimedia.org/wiki/File:Conseil_dEtat_France.JPG",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/horne-coalition-partisan-hostility.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "horne-coalition-partisan-hostility.html",
+      "usedBy": [
+        "horne-coalition-partisan-hostility.html"
+      ],
+      "cardTitleHe": "שותפים לשעבר, יריבים מתונים יותר: זיכרון קואליציוני ועוינות מפלגתית",
+      "authorsHe": "ויל הורן, ג׳יימס אדמס, נעם גדרון",
+      "visualDescriptionHe": "מבט מכיפת הרייכסטאג אל אולם המליאה של הבונדסטאג",
+      "semanticDescriptionHe": "צילום פרלמנטרי המלווה מחקר השוואתי על קואליציות; אינו תיעוד של משא ומתן מסוים.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "BriYYZ from Toronto, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_the_Plenary_Chamber_of_the_Bundestag_from_the_Dome_of_the_Reichstag._(4209149129).jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:View of the Plenary Chamber of the Bundestag from the Dome of the Reichstag. (4209149129).jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/View_of_the_Plenary_Chamber_of_the_Bundestag_from_the_Dome_of_the_Reichstag._%284209149129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 4012,
+      "sourceHeight": 2672,
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Plenary_Chamber_of_the_Bundestag_from_the_Dome_of_the_Reichstag._(4209149129).jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/remennick-russian-israeli-citizenship.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "remennick-russian-israeli-citizenship.html",
+      "usedBy": [
+        "remennick-russian-israeli-citizenship.html"
+      ],
+      "cardTitleHe": "שייכות שמאפשרת ביקורת: אזרחות בשלושה דורות של ישראלים דוברי רוסית",
+      "authorsHe": "לריסה רמניק, אנה פרשיצקי",
+      "visualDescriptionHe": "אנדרטת הניצחון בנתניה ומרחב הזיכרון הציבורי שסביבה",
+      "semanticDescriptionHe": "צילום המחשה לנוכחות זיכרון מלחמת העולם השנייה במרחב הישראלי; אינו אתר המוצג כאן כמקרה שנבדק במאמר.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Dr. Avishai  Teicher",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_20617_Victory_Monument_in_Netanya.JPG",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:PikiWiki Israel 20617 Victory Monument in Netanya.JPG",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/PikiWiki_Israel_20617_Victory_Monument_in_Netanya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 2048,
+      "sourceHeight": 1536,
+      "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_20617_Victory_Monument_in_Netanya.JPG",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/spektorowski-national-identity-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "spektorowski-national-identity-democracy.html",
+      "usedBy": [
+        "spektorowski-national-identity-democracy.html"
+      ],
+      "cardTitleHe": "זהות לאומית וכללי המשחק הדמוקרטי: ארגנטינה ואורוגוואי בהשוואה",
+      "authorsHe": "אלברטו ספקטורובסקי",
+      "visualDescriptionHe": "ארמון המחוקקים במונטווידאו, אורוגוואי",
+      "semanticDescriptionHe": "צילום מוסד פרלמנטרי באחת משתי המדינות שבהשוואה; אינו תיעוד התקופות ההיסטוריות הנחקרות.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "GameOfLight",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palacio_Legislativo_Montevideo_1.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Palacio Legislativo Montevideo 1.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Palacio_Legislativo_Montevideo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 4912,
+      "sourceHeight": 2751,
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Legislativo_Montevideo_1.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/abat-minority-constitutional-judges.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "abat-minority-constitutional-judges.html",
+      "usedBy": [
+        "abat-minority-constitutional-judges.html"
+      ],
+      "cardTitleHe": "מינוי שופטים חוקתיים: ייצוג ממשי למיעוטים וליחידות תת־מדינתיות",
+      "authorsHe": "אנטוני אבאט נינט",
+      "visualDescriptionHe": "גרם המדרגות בבית המשפט החוקתי האוסטרי בווינה",
+      "semanticDescriptionHe": "צילום מוסד הקשור לדיון במודל האוסטרי; אינו תיעוד הרכב השופטים או מבנה בית המשפט בשנת 1920.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-25",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "VfGH/Achim Bieniek",
+      "license": "CC BY-SA 3.0 at",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_staircase_of_the_Austrian_Constitutional_Court_01.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Grand staircase of the Austrian Constitutional Court 01.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grand_staircase_of_the_Austrian_Constitutional_Court_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 1500,
+      "sourceHeight": 990,
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_staircase_of_the_Austrian_Constitutional_Court_01.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
     }
   ],
   "topicGraphics": [
