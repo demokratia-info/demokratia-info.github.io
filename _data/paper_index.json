@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1722,
+  "paperCount": 1732,
   "papers": [
+    {
+      "slug": "krumbein-marriage-equality-east-asia",
+      "file": "krumbein-marriage-equality-east-asia.html",
+      "permalink": "/krumbein-marriage-equality-east-asia.html",
+      "sortKey": 202609260010,
+      "titleHe": "שוויון בנישואים במזרח אסיה: הלקחים מן הדרך של טאיוואן",
+      "paperTitle": "Who will be Asia’s Next Unicorn? Comparing Marriage Equality in Taiwan with Hong Kong, Japan and South Korea",
+      "authorsCardHe": "פרדריק קרומביין",
+      "sourceAuthors": [
+        "Frédéric Krumbein"
+      ],
+      "journal": "Asian Studies Review 46(1), 55–73",
+      "dateText": "כרך 2022; פורסם ברשת ב־10 במאי 2021",
+      "doiUrl": "https://doi.org/10.1080/10357823.2021.1920886",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/krumbein-marriage-equality-east-asia.jpg",
+        "altHe": "שתי נשים בטקס נישואים בודהיסטי בטאיוואן בשנת 2012",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "לאחר שטאיוואן הנהיגה נישואים לבני אותו מין במאי 2019, קרומביין בחן מה ניתן ללמוד מניסיונה עבור הונג קונג, יפן ודרום קוריאה. הוא מדגיש התקדמות ארוכת טווח בזכויות להט״ב, קואליציה רחבה בין חברה אזרחית למפלגות, חינוך מגדרי והתאמת שפת הזכויות להקשר התרבותי. לצד זכויות אדם, הפעילים הדגישו גם כבוד הדדי, זוגיות יציבה ומשפחה. ההשוואה עוסקת במצב בזמן המחקר, ומציעה תנאים המסייעים למאבק לשוויון בלי לנבא איזו מדינה תאמץ אותו הבאה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "elazar-fascist-violence-local-democracy",
+      "file": "elazar-fascist-violence-local-democracy.html",
+      "permalink": "/elazar-fascist-violence-local-democracy.html",
+      "sortKey": 202609260009,
+      "titleHe": "אלימות פשיסטית נגד שלטון מקומי נבחר באיטליה, 1920–1921",
+      "paperTitle": "Electoral democracy, revolutionary politics and political violence: the emergence of Fascism in Italy, 1920–21",
+      "authorsCardHe": "דליה סבינה אלעזר",
+      "sourceAuthors": [
+        "Dahlia Sabina Elazar"
+      ],
+      "journal": "The British Journal of Sociology 51(3), 461–488",
+      "dateText": "ספטמבר 2000",
+      "doiUrl": "https://doi.org/10.1111/j.1468-4446.2000.00461.x",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/elazar-fascist-violence-local-democracy.jpg",
+        "altHe": "חצר ארמון אקורסיו, מקום מושב עיריית בולוניה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "המחקר משווה בין 69 מחוזות באיטליה ומוצא שהאלימות הפשיסטית התמקדה בעיקר במקומות שבהם הסוציאליסטים נהנו מתמיכה אלקטורלית חזקה. אלעזר מסבירה את הדפוס באמצעות האיום על ההגמוניה של בעלי הקרקעות ומסורת ההתארגנות האנטי־עובדית שלהם, שהובילה לברית עם הפשיסטים. תמיכת בעלי הקרקעות ויחסן האוהד של הרשויות אפשרו לחוליות לפגוע בממשלים סוציאליסטיים שנבחרו כחוק. העלייה הפשיסטית מוצגת כתהליך פוליטי מותנה, ולא כגורל היסטורי בלתי נמנע.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "petersen-turkish-court-surnames",
+      "file": "petersen-turkish-court-surnames.html",
+      "permalink": "/petersen-turkish-court-surnames.html",
+      "sortKey": 202609260008,
+      "titleHe": "שמות משפחה של נשים וביקורת חוקתית בטורקיה: חשיבותן של דעות המיעוט",
+      "paperTitle": "Judicial review and social construction: the case of the Turkish Constitutional Court",
+      "authorsCardHe": "פליקס פטרסן",
+      "sourceAuthors": [
+        "Felix Petersen"
+      ],
+      "journal": "Research and Policy on Turkey 3(1), 18–39",
+      "dateText": "2018; פורסם ברשת ב־18 באפריל 2018",
+      "doiUrl": "https://doi.org/10.1080/23760818.2018.1445232",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/petersen-turkish-court-surnames.jpg",
+        "altHe": "חזית בית המשפט החוקתי של טורקיה באנקרה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "בית המשפט החוקתי הטורקי מתואר לעיתים כמגן על האינטרס המדינתי. פטרסן מציע לבדוק גם את תהליך ההכרעה, באמצעות פסיקות על חוקתיות דיני שמות המשפחה ביחס לנשים. הוא מציג הכרעה שיפוטית כתחרות בין הבניות חברתיות ומדגיש את תפקידן של מחלוקות והצבעות ברוב דחוק. גישה זו מראה שתוצאה מסוימת אינה מעידה בהכרח על הסכמה מוסדית יציבה: עמדה שנותרה במיעוט עשויה בעתיד לקבל רוב.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kenig-electoral-reform-fragmentation",
+      "file": "kenig-electoral-reform-fragmentation.html",
+      "permalink": "/kenig-electoral-reform-fragmentation.html",
+      "sortKey": 202609260007,
+      "titleHe": "בחירות 2003 בישראל: האם ביטול הבחירה הישירה צמצם את פיצול המפלגות?",
+      "paperTitle": "The 2003 Elections in Israel: Has the Return to the ‘Old’ System Reduced Party System Fragmentation?",
+      "authorsCardHe": "עופר קניג",
+      "sourceAuthors": [
+        "Ofer Kenig"
+      ],
+      "journal": "Israel Affairs 11(3), 552–566",
+      "dateText": "יולי 2005",
+      "doiUrl": "https://doi.org/10.1080/13537120500122768",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kenig-electoral-reform-fragmentation.jpg",
+        "altHe": "איור של בוחרים בקלפי ובה פרגודים, פתק הצבעה ותיבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "קניג מנתח שתי רפורמות בשיטת הבחירות בישראל ואת השלכותיהן על מערכת המפלגות. באמצעות מדד המספר האפקטיבי של מפלגות הוא בוחן שינוי בגודלן היחסי, לצד התמריצים של בוחרים ואסטרטגיות מפלגתיות. טענתו היא שהבחירה הישירה לראשות הממשלה תרמה בבירור לעלייה בפיצול, ואילו החזרה לשיטה יחסית של פתק אחד עשויה לפעול בכיוון ההפוך. המסקנה מציבה את כללי ההצבעה כגורם חשוב בפיצול, בלי לטעון ששינוי יחיד מבטיח מערכת מפלגות מרוכזת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "herzog-citizenship-discourse",
+      "file": "herzog-citizenship-discourse.html",
+      "permalink": "/herzog-citizenship-discourse.html",
+      "sortKey": 202609260006,
+      "titleHe": "אזרחות ואתניות בישראל: כיצד הוצדקה מדיניות ההגירה בראשית המדינה?",
+      "paperTitle": "Presenting Ethnicity: Israeli Citizenship Discourse",
+      "authorsCardHe": "בן הרצוג",
+      "sourceAuthors": [
+        "Ben Herzog"
+      ],
+      "journal": "Contemporary Review of the Middle East 6(3-4), 383–394",
+      "dateText": "ספטמבר 2019",
+      "doiUrl": "https://doi.org/10.1177/2347798919872840",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/herzog-citizenship-discourse.jpg",
+        "altHe": "איור של משפחות בחדר המתנה להגירה בראשית ימי המדינה, מול דלפק ותיקי מסמכים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "המאמר בוחן את שיח האזרחות סביב חוק השבות מ־1950 וחוק האזרחות מ־1952. הרצוג מזהה ארבע דרכי הצדקה למדיניות ההגירה: הדגשת ההיבטים החיוביים והדמוקרטיים של הגירה יהודית, הימנעות ממינוח גזעי, הצגת נכונות לכלול תושבים לא־יהודים והסתמכות על נימוקי ביטחון להגבלת הגירתם של לא־יהודים. הניתוח מראה כיצד הגדרת המדינה כיהודית והמחויבות לעקרונות דמוקרטיים עיצבו את השפה שבה הוצגו גבולות ההשתייכות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "basedau-religious-minorities-risk",
+      "file": "basedau-religious-minorities-risk.html",
+      "permalink": "/basedau-religious-minorities-risk.html",
+      "sortKey": 202609260005,
+      "titleHe": "מיעוטים דתיים בסיכון: להבחין בין אפליה, תחושת קיפוח ומחאה",
+      "paperTitle": "Introducing the “Religious Minorities at Risk” Dataset",
+      "authorsCardHe": "מתיאס באסדאו; ג׳ונתן פוקס; כריסטופר הובר; ארנה פיטרס; טום קונצאק; מורן דיטש",
+      "sourceAuthors": [
+        "Matthias Basedau",
+        "Jonathan Fox",
+        "Christopher Huber",
+        "Arne Pieters",
+        "Tom Konzack",
+        "Mora Deitch"
+      ],
+      "journal": "Peace Economics, Peace Science and Public Policy 25(4)",
+      "dateText": "2019; פורסם ברשת ב־21 בנובמבר 2019",
+      "doiUrl": "https://doi.org/10.1515/peps-2019-0028",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/basedau-religious-minorities-risk.jpg",
+        "altHe": "נזירים טיבטים בטקס תפילה בין־דתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "באסדאו ועמיתיו מציגים מאגר על 771 מיעוטים דתיים בעולם בשנים 2000–2014. הוא מפריד בין הדרה פוליטית, כלכלית ודתית לבין תלונות ותחושות קיפוח, ומצרף מידע על יכולת התארגנות. בניגוד להתמקדות באלימות בלבד, המאגר מאפשר להשוות גם פעולה ציבורית לא־אלימה. ההבחנות הללו חשובות לבדיקת הקשר בין פגיעה בזכויות לתגובה פוליטית, בלי להניח שכל אפליה מוליכה בהכרח לעימות אלים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "epstein-interest-groups-party-discipline",
+      "file": "epstein-interest-groups-party-discipline.html",
+      "permalink": "/epstein-interest-groups-party-discipline.html",
+      "sortKey": 202609260004,
+      "titleHe": "קבוצות אינטרס ומשמעת מפלגתית: מי משפיע על מדיניות אחרי הבחירות?",
+      "paperTitle": "The efficacy and efforts of interest groups in post elections policy formation",
+      "authorsCardHe": "גיל ס׳ אפשטיין; יוסף מעלם; שמואל ניצן",
+      "sourceAuthors": [
+        "Gil S. Epstein",
+        "Yosef Mealem",
+        "Shmuel I. Nitzan"
+      ],
+      "journal": "Economics of Governance 14(1), 77–105",
+      "dateText": "פברואר 2013; פורסם ברשת ב־8 בדצמבר 2012",
+      "doiUrl": "https://doi.org/10.1007/s10101-012-0121-y",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/epstein-interest-groups-party-discipline.jpg",
+        "altHe": "איור של נציגי קבוצות אינטרס ומחוקקים משוחחים במסדרון פרלמנטרי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "המאמר מנתח תחרות בין שתי קבוצות אינטרס המבקשות מדיניות שונה לאחר הבחירות. כאשר אין משמעת מפלגתית מחייבת, הפעילות מופנית גם לקואליציה וגם לאופוזיציה, וההשפעה תלויה בקרבה האידאולוגית ובחלוקת המושבים. כאשר המשמעת נאכפת, מרכז הכובד עובר להכרעה בתוך הקואליציה לפני קביעת הקו המחייב. המודל מבחין בין סיכוי גבוה לנצח לבין היכולת של השדלנות לשפר את הסיכוי ביחס למצב ללא תחרות. מכאן שהערכת כוחן של קבוצות מחייבת להתחשב גם בכללי ההכרעה ולא רק בזהות הרוב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "pikkel-disability-sexual-rights",
+      "file": "pikkel-disability-sexual-rights.html",
+      "permalink": "/pikkel-disability-sexual-rights.html",
+      "sortKey": 202609260003,
+      "titleHe": "נגישות, בחירה והנאה: זכויות מיניות של אנשים עם מוגבלות",
+      "paperTitle": "Access, Choice, and Pleasure: Towards a New Model of Disability Sexual Rights",
+      "authorsCardHe": "רינה ב. פיקל",
+      "sourceAuthors": [
+        "Rina B. Pikkel"
+      ],
+      "journal": "Sexuality and Disability 42(4), 783–795",
+      "dateText": "דצמבר 2024; פורסם ברשת ב־30 בספטמבר 2024",
+      "doiUrl": "https://doi.org/10.1007/s11195-024-09874-7",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/pikkel-disability-sexual-rights.jpg",
+        "altHe": "איור של זוג בוגר ברגע של קרבה במרחב ציבורי נגיש, כאשר אחד מבני הזוג משתמש בכיסא גלגלים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "המאמר מחבר בין לימודי מוגבלות, אזרחות מינית ומשפט כדי להציע מודל של שלושה רכיבים משלימים: נגישות, בחירה והנאה. זכויות מיניות תלויות גם בתנאים חברתיים המאפשרים קשר, מידע ופרטיות, ולא רק בהכרה משפטית. פיקל מדגישה את זכות האדם לעצב את חייו האינטימיים לפי רצונותיו, לרבות בחירה שלא לקיים פעילות מינית. הכללת ההנאה מסיטה את המוקד מתפיסה הרואה במיניות של אנשים עם מוגבלות רק בעיה רפואית או סכנה שיש לנהל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "jha-shayo-valuing-peace",
+      "file": "jha-shayo-valuing-peace.html",
+      "permalink": "/jha-shayo-valuing-peace.html",
+      "sortKey": 202609260002,
+      "titleHe": "מסחר במניות ועמדות כלפי שלום: ניסוי לקראת בחירות 2015 בישראל",
+      "paperTitle": "Valuing Peace: The Effects of Financial Market Exposure on Votes and Political Attitudes",
+      "authorsCardHe": "סאומיטרה ג׳ה; משה שעיו",
+      "sourceAuthors": [
+        "Saumitra Jha",
+        "Moses Shayo"
+      ],
+      "journal": "Econometrica 87(5), 1561–1588",
+      "dateText": "ספטמבר 2019",
+      "doiUrl": "https://doi.org/10.3982/ecta16385",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/jha-shayo-valuing-peace.jpg",
+        "altHe": "צילום היסטורי של אולם המסחר בבורסה בתל אביב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "סאומיטרה ג׳ה ומשה שעיו הקצו באקראי נכסים פיננסיים למשתתפים לקראת בחירות 2015 ותמרצו מסחר במשך עד שבעה שבועות, בלי מסרים פוליטיים. ההקצאה הגדילה בכשש נקודות אחוז את ההצבעה למפלגות השמאל במדגם, והפחיתה התנגדות לוויתורים במסגרת שלום. ממצאי ההמשך מצביעים על שינוי החורג מתמריץ כספי מיידי: המשתתפים נעשו מודעים יותר לעלויות הכלכליות הלאומיות של הסכסוך. הניסוי מלמד כיצד התנסות כלכלית יכולה להשפיע על שיקול פוליטי, במסגרת האוכלוסייה והנסיבות שנבדקו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "karayanni-multicultural-qualifications",
+      "file": "karayanni-multicultural-qualifications.html",
+      "permalink": "/karayanni-multicultural-qualifications.html",
+      "sortKey": 202609260001,
+      "titleHe": "רב־תרבותיות ומיעוטים: מתי אוטונומיה מגינה על שוויון וחירות?",
+      "paperTitle": "Multiculture Me No More! On Multicultural Qualifications and the Palestinian-Arab Minority of Israel",
+      "authorsCardHe": "מיכאיל קרייני",
+      "sourceAuthors": [
+        "Michael Mousa Karayanni"
+      ],
+      "journal": "Diogenes 54(3), 39–58",
+      "dateText": "אוגוסט 2007",
+      "doiUrl": "https://doi.org/10.1177/0392192107080715",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/karayanni-multicultural-qualifications.jpg",
+        "altHe": "איור של אישה ערבייה בפתח חדר שבו מתקיים דיון אזרחי משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-26",
+      "dateModified": "2026-09-26",
+      "summaryHe": "הכרה בקבוצה אינה מבטיחה רב־תרבותיות ליברלית. קרייני מציע לבחון הסדרים קבוצתיים לפי שוויון, השתתפות ואפשרות ממשית לצאת ממסגרת כופה. הדיון במיעוט הפלסטיני־ערבי בישראל מחבר בין מעמדו הלאומי לבין סמכותן של קהילות דתיות בענייני אישות. כך מתחדדת הבחנה בין הגנה מפני כוחו של הרוב לבין הסדר המגביל את חברי המיעוט עצמם.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "abat-minority-constitutional-judges",
       "file": "abat-minority-constitutional-judges.html",

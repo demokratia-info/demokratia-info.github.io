@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-26",
   "sampleSize": 6,
-  "seed": "2026-09-25-homepage-high-fit",
+  "seed": "2026-09-26-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 981,
+  "fullTextHighFitPaperCount": 982,
   "paperSlugs": [
     "democracy_institutional_abandonment_of_minority_women_in_israel_who_are_violence_victims_summary_he",
-    "democracy_policy_responsiveness_voters_citizens_oecd_summary_he",
+    "democracy_resource_windfalls_negative_campaigning_summary_he",
     "democracy_oligarchic_elite_democratize_reform_act_summary_he",
     "democracy_knesset_democracy_framings_summary_he",
-    "democracy_parliamentary_promises_routine_discourse_summary_he",
+    "democracy_police_collective_labour_rights_constitutionalism_summary_he",
     "democracy_race_religion_and_nationality_in_immigration_selection_120_years_after_the_chinese_exclusion_case_summary_he"
   ]
 }

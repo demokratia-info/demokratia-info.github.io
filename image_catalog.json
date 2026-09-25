@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-26",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -46782,6 +46782,296 @@
       "sourceWidth": 1500,
       "sourceHeight": 990,
       "source": "https://commons.wikimedia.org/wiki/File:Grand_staircase_of_the_Austrian_Constitutional_Court_01.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/karayanni-multicultural-qualifications.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "karayanni-multicultural-qualifications.html",
+      "usedBy": [
+        "karayanni-multicultural-qualifications.html"
+      ],
+      "cardTitleHe": "רב־תרבותיות ומיעוטים: מתי אוטונומיה מגינה על שוויון וחירות?",
+      "authorsHe": "מיכאיל קרייני",
+      "visualDescriptionHe": "איור של אישה ערבייה בפתח חדר שבו מתקיים דיון אזרחי משותף",
+      "semanticDescriptionHe": "איור מושגי של קול אישי, השתתפות ואפשרות יציאה בהסדרים קבוצתיים; אין בו ייצוג של אדם מזוהה.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "fitnessSource": "nightly_generated_specific",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration about multicultural rights, individual choice, and common citizenship. A dignified Arab woman at an open doorway of a civic mediation room, with a mixed group of adult residents and an older community representative in attentive conversation around a wooden table beyond her. Sunlit stone courtyard visible through a second doorway, understated Middle Eastern architecture, ordinary contemporary clothing. Convey the woman's agency and ability to enter or leave, without distress or stereotypes. Warm textured polished editorial painting, complex human scene with depth, landscape 4:3. No text, lettering, logos, flags, religious emblems as focal objects, watermarks, split-screen graphics or UI."
+    },
+    {
+      "file": "html_qa/jha-shayo-valuing-peace.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "jha-shayo-valuing-peace.html",
+      "usedBy": [
+        "jha-shayo-valuing-peace.html"
+      ],
+      "cardTitleHe": "מסחר במניות ועמדות כלפי שלום: ניסוי לקראת בחירות 2015 בישראל",
+      "authorsHe": "סאומיטרה ג׳ה; משה שעיו",
+      "visualDescriptionHe": "צילום היסטורי של אולם המסחר בבורסה בתל אביב",
+      "semanticDescriptionHe": "צילום ארכיוני של זירת המסחר בישראל; אינו מציג את משתתפי הניסוי או את המסחר המקוון שערכו ב־2015.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Tsvika Israeli",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_A_general_view_of_the_main_hall_at_the_Stock_Exchange_Building_in_Tel_Aviv.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Flickr - Government Press Office (GPO) - A general view of the main hall at the Stock Exchange Building in Tel Aviv.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flickr_-_Government_Press_Office_%28GPO%29_-_A_general_view_of_the_main_hall_at_the_Stock_Exchange_Building_in_Tel_Aviv.jpg",
+      "sourceWidth": 3072,
+      "sourceHeight": 2048,
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_A_general_view_of_the_main_hall_at_the_Stock_Exchange_Building_in_Tel_Aviv.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/pikkel-disability-sexual-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "pikkel-disability-sexual-rights.html",
+      "usedBy": [
+        "pikkel-disability-sexual-rights.html"
+      ],
+      "cardTitleHe": "נגישות, בחירה והנאה: זכויות מיניות של אנשים עם מוגבלות",
+      "authorsHe": "רינה ב. פיקל",
+      "visualDescriptionHe": "איור של זוג בוגר ברגע של קרבה במרחב ציבורי נגיש, כאשר אחד מבני הזוג משתמש בכיסא גלגלים",
+      "semanticDescriptionHe": "איור מושגי המשלב נגישות, קשר רצוי ובחירה אישית; המצולמים המאוירים אינם אנשים אמיתיים או משתתפי מחקר.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "fitnessSource": "nightly_generated_specific",
+      "generationPrompt": "Use case: illustration-story. Asset: tasteful academic editorial illustration on access, choice and pleasure in the intimate citizenship rights of adults with disabilities. Two clearly adult partners sharing a quiet affectionate conversation at a sunlit outdoor cafe beside an accessible city promenade; one partner uses a realistic wheelchair. Both are fully clothed in everyday adult clothing, equal agency, relaxed natural posture, gently touching hands on the cafe table. Emphasize ordinary intimacy, autonomy and welcome in public space, never medical care or pity. Warm polished painterly editorial realism, sophisticated texture and scene depth, 4:3 landscape. No text, numbers, symbols, flags, logos, watermarks, UI, nudity or sexualized framing."
+    },
+    {
+      "file": "html_qa/epstein-interest-groups-party-discipline.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "epstein-interest-groups-party-discipline.html",
+      "usedBy": [
+        "epstein-interest-groups-party-discipline.html"
+      ],
+      "cardTitleHe": "קבוצות אינטרס ומשמעת מפלגתית: מי משפיע על מדיניות אחרי הבחירות?",
+      "authorsHe": "גיל ס׳ אפשטיין; יוסף מעלם; שמואל ניצן",
+      "visualDescriptionHe": "איור של נציגי קבוצות אינטרס ומחוקקים משוחחים במסדרון פרלמנטרי",
+      "semanticDescriptionHe": "איור מושגי של השפעה על מדיניות אחרי הבחירות; אינו מתאר אירוע לובי מסוים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "fitnessSource": "nightly_generated_specific",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial image about interest groups lobbying legislators after an election and the role of party discipline. A warm naturalistic parliamentary corridor: two small groups of professionally dressed advocates talking with elected representatives outside an open committee room, unmarked folders carried at their sides, wood paneling, soft lamplight, textured stone floor and convincing perspective. No secret cash, bribery stereotype or confrontational mood. People negotiating institutional access. Polished painterly civic editorial style with rich detail, landscape 4:3. No text, lettering, logos, flags, watermarks, flat icons, charts or UI."
+    },
+    {
+      "file": "html_qa/basedau-religious-minorities-risk.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "basedau-religious-minorities-risk.html",
+      "usedBy": [
+        "basedau-religious-minorities-risk.html"
+      ],
+      "cardTitleHe": "מיעוטים דתיים בסיכון: להבחין בין אפליה, תחושת קיפוח ומחאה",
+      "authorsHe": "מתיאס באסדאו; ג׳ונתן פוקס; כריסטופר הובר; ארנה פיטרס; טום קונצאק; מורן דיטש",
+      "visualDescriptionHe": "נזירים טיבטים בטקס תפילה בין־דתי",
+      "semanticDescriptionHe": "צילום של השתתפות דתית בין קבוצות; אינו מציג קבוצה כמסוכנת ואינו תיעוד של מקרה אפליה מתוך המאגר.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Center for Interfaith Relations from Louisville, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tibetan_Monks_chanting_at_the_interfaith_Prayer_Service._(8879533935).jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Tibetan Monks chanting at the interfaith Prayer Service. (8879533935).jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Tibetan_Monks_chanting_at_the_interfaith_Prayer_Service._%288879533935%29.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 2448,
+      "source": "https://commons.wikimedia.org/wiki/File:Tibetan_Monks_chanting_at_the_interfaith_Prayer_Service._(8879533935).jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/herzog-citizenship-discourse.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "herzog-citizenship-discourse.html",
+      "usedBy": [
+        "herzog-citizenship-discourse.html"
+      ],
+      "cardTitleHe": "אזרחות ואתניות בישראל: כיצד הוצדקה מדיניות ההגירה בראשית המדינה?",
+      "authorsHe": "בן הרצוג",
+      "visualDescriptionHe": "איור של משפחות בחדר המתנה להגירה בראשית ימי המדינה, מול דלפק ותיקי מסמכים",
+      "semanticDescriptionHe": "איור מושגי על הכללה וסיווג במסגרת מדיניות הגירה; אינו תיעוד היסטורי של אנשים או אירוע מסוים.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "fitnessSource": "nightly_generated_specific",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration for an academic paper about how early Israeli citizenship and immigration policy framed Jewish belonging and democratic inclusion. A warm, richly textured civic interior in the early 1950s: a diverse group of adults waiting at a modest immigration office, families seated on wooden benches, a clerk working with closed unmarked document folders, soft Mediterranean light. Thoughtful human dignity and the threshold of civic membership, no caricatures. Painterly polished editorial realism with depth, natural anatomy, landscape 4:3 composition. No text, letters, numbers, logos, flags, watermarks, UI, isolated symbols or diagrams."
+    },
+    {
+      "file": "html_qa/kenig-electoral-reform-fragmentation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kenig-electoral-reform-fragmentation.html",
+      "usedBy": [
+        "kenig-electoral-reform-fragmentation.html"
+      ],
+      "cardTitleHe": "בחירות 2003 בישראל: האם ביטול הבחירה הישירה צמצם את פיצול המפלגות?",
+      "authorsHe": "עופר קניג",
+      "visualDescriptionHe": "איור של בוחרים בקלפי ובה פרגודים, פתק הצבעה ותיבה",
+      "semanticDescriptionHe": "איור של מוסד הבחירות והבחירה בפתק אחד; אינו תיעוד של קלפי בבחירות 2003.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "fitnessSource": "nightly_generated_specific",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial image for a study of Israel's return from separate prime-minister voting to a single parliamentary vote and party fragmentation. A richly textured warm civic scene: people choosing at curtained voting booths inside a community room, with one simple ballot box on a sturdy wooden table and a diverse line of voters in the background. A folded blank ballot in the foreground, layered realistic room depth and afternoon sunlight. Polished painterly documentary editorial style, 4:3 landscape, not flat vector. No readable text, letters, numbers, party logos, flags, watermarks, charts or UI. Depict a conceptual election scene, not a claimed historic photograph."
+    },
+    {
+      "file": "html_qa/petersen-turkish-court-surnames.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "petersen-turkish-court-surnames.html",
+      "usedBy": [
+        "petersen-turkish-court-surnames.html"
+      ],
+      "cardTitleHe": "שמות משפחה של נשים וביקורת חוקתית בטורקיה: חשיבותן של דעות המיעוט",
+      "authorsHe": "פליקס פטרסן",
+      "visualDescriptionHe": "חזית בית המשפט החוקתי של טורקיה באנקרה",
+      "semanticDescriptionHe": "צילום של המוסד שבו נערכו ההכרעות הנדונות; אינו תיעוד של דיון מסוים או של שופטים מסוימים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Murat Karabulut (VOA)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Turkey.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Constitutional Court of Turkey.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Constitutional_Court_of_Turkey.jpg",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "source": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Turkey.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/elazar-fascist-violence-local-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "elazar-fascist-violence-local-democracy.html",
+      "usedBy": [
+        "elazar-fascist-violence-local-democracy.html"
+      ],
+      "cardTitleHe": "אלימות פשיסטית נגד שלטון מקומי נבחר באיטליה, 1920–1921",
+      "authorsHe": "דליה סבינה אלעזר",
+      "visualDescriptionHe": "חצר ארמון אקורסיו, מקום מושב עיריית בולוניה",
+      "semanticDescriptionHe": "צילום עכשווי של מוסד עירוני בבולוניה להמחשת הזירה המקומית; אינו תיעוד האלימות בשנים 1920–1921.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Palickap",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bologna,_Palazzo_D%27_Accursio,_cortile.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Bologna, Palazzo D' Accursio, cortile.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bologna%2C_Palazzo_D%27_Accursio%2C_cortile.jpg",
+      "sourceWidth": 3968,
+      "sourceHeight": 2976,
+      "source": "https://commons.wikimedia.org/wiki/File:Bologna,_Palazzo_D%27_Accursio,_cortile.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/krumbein-marriage-equality-east-asia.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "krumbein-marriage-equality-east-asia.html",
+      "usedBy": [
+        "krumbein-marriage-equality-east-asia.html"
+      ],
+      "cardTitleHe": "שוויון בנישואים במזרח אסיה: הלקחים מן הדרך של טאיוואן",
+      "authorsHe": "פרדריק קרומביין",
+      "visualDescriptionHe": "שתי נשים בטקס נישואים בודהיסטי בטאיוואן בשנת 2012",
+      "semanticDescriptionHe": "טקס זוגי בטאיוואן מדגים את נושא ההכרה בזוגות מאותו מין; אין בתצלום קביעה בדבר תוקפו המשפטי או קשר לאירוע החקיקה ב־2019.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-26",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Newly created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Guy of taipei",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Same-sex-marriage-taiwan.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Same-sex-marriage-taiwan.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Same-sex-marriage-taiwan.jpg",
+      "sourceWidth": 800,
+      "sourceHeight": 596,
+      "source": "https://commons.wikimedia.org/wiki/File:Same-sex-marriage-taiwan.jpg",
       "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
     }
   ],
