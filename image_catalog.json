@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-09-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -47072,6 +47072,316 @@
       "sourceWidth": 800,
       "sourceHeight": 596,
       "source": "https://commons.wikimedia.org/wiki/File:Same-sex-marriage-taiwan.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/katz-television-framing-judicial-reform.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "katz-television-framing-judicial-reform.html",
+      "usedBy": [
+        "katz-television-framing-judicial-reform.html"
+      ],
+      "cardTitleHe": "שתי מציאויות חדשותיות במשבר השינויים במערכת המשפט",
+      "authorsHe": "נסים כץ",
+      "visualDescriptionHe": "איור של עורכי חדשות מול שני מסכים המציגים מסגורים שונים של התקהלות אזרחית",
+      "semanticDescriptionHe": "איור שנוצר בבינה מלאכותית להמחשת בחירת זוויות סיקור; המסכים, האולפן והדמויות בדיוניים ואינם שידורים אמיתיים.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "Newly generated editorial illustration; fictional people and setting.",
+      "generationTool": "built-in image_gen"
+    },
+    {
+      "file": "html_qa/zvulun-stv-local-turnout-new-zealand.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zvulun-stv-local-turnout-new-zealand.html",
+      "usedBy": [
+        "zvulun-stv-local-turnout-new-zealand.html"
+      ],
+      "cardTitleHe": "דירוג מועמדים והשתתפות בבחירות המקומיות בניו זילנד",
+      "authorsHe": "ג׳קי זבולון",
+      "visualDescriptionHe": "בית העירייה בוולינגטון, ניו זילנד",
+      "semanticDescriptionHe": "צילום של מוסד עירוני באחת הערים הנזכרות במחקר; אינו תיעוד של הצבעה בבחירות 2004.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Michal Klajban",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wellington_Town_Hall,_Wellington,_New_Zealand_(11).JPG",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Wellington Town Hall, Wellington, New Zealand (11).JPG",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Wellington_Town_Hall%2C_Wellington%2C_New_Zealand_%2811%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 3460,
+      "sourceHeight": 2794,
+      "source": "https://commons.wikimedia.org/wiki/File:Wellington_Town_Hall,_Wellington,_New_Zealand_(11).JPG",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/kremnitzer-constitutional-principles-criminal-law.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kremnitzer-constitutional-principles-criminal-law.html",
+      "usedBy": [
+        "kremnitzer-constitutional-principles-criminal-law.html"
+      ],
+      "cardTitleHe": "כבוד האדם והגבולות החוקתיים של הדין הפלילי",
+      "authorsHe": "מרדכי קרמניצר",
+      "visualDescriptionHe": "איור של נאשם וסנגורית באולם משפט, להמחשת כבוד האדם בהליך הפלילי",
+      "semanticDescriptionHe": "איור שנוצר בבינה מלאכותית להמחשת המתח בין אחריות פלילית לכבוד האדם; אינו מתאר תיק או אנשים מסוימים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "Newly generated editorial illustration; fictional people and setting.",
+      "generationTool": "built-in image_gen"
+    },
+    {
+      "file": "html_qa/sommer-womens-groups-supreme-court-confirmations.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sommer-womens-groups-supreme-court-confirmations.html",
+      "usedBy": [
+        "sommer-womens-groups-supreme-court-confirmations.html"
+      ],
+      "cardTitleHe": "ארגוני נשים והשפעה ציבורית על מינוי שופטים בארצות הברית",
+      "authorsHe": "אודי זומר",
+      "visualDescriptionHe": "סוניה סוטומאיור ביום הראשון לשימוע אישור מינויה לבית המשפט העליון",
+      "semanticDescriptionHe": "צילום של אחד מהליכי המינוי הנכללים במחקר; אינו מייחס לנוכחים בו עמדה מסוימת של ארגון נשים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Patrick Leahy Senate staffer",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonia_Sotomayor_on_first_day_of_confirmation_hearings.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Sonia Sotomayor on first day of confirmation hearings.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sonia_Sotomayor_on_first_day_of_confirmation_hearings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 1032,
+      "sourceHeight": 687,
+      "source": "https://commons.wikimedia.org/wiki/File:Sonia_Sotomayor_on_first_day_of_confirmation_hearings.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/shomer-lavi-democratic-backsliding-bill-monitor.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shomer-lavi-democratic-backsliding-bill-monitor.html",
+      "usedBy": [
+        "shomer-lavi-democratic-backsliding-bill-monitor.html"
+      ],
+      "cardTitleHe": "מעקב אחר חקיקה אנטי־דמוקרטית: מאגר לבחינת נסיגה דמוקרטית בישראל",
+      "authorsHe": "יעל שומר · לירון לביא",
+      "visualDescriptionHe": "איור של חוקרים הממיינים תיקי חקיקה בחדר עיון פרלמנטרי",
+      "semanticDescriptionHe": "איור שנוצר בבינה מלאכותית להמחשת מיון ומעקב שיטתי אחר חקיקה; אינו מציג את החוקרות או את המאגר עצמו.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "Newly generated editorial illustration; fictional people and setting.",
+      "generationTool": "built-in image_gen"
+    },
+    {
+      "file": "html_qa/forman-rabinovici-sommer-religion-reproductive-policy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "forman-rabinovici-sommer-religion-reproductive-policy.html",
+      "usedBy": [
+        "forman-rabinovici-sommer-religion-reproductive-policy.html"
+      ],
+      "cardTitleHe": "דת וזכויות רבייה: מדוע הקשר מורכב יותר מהנחה גורפת",
+      "authorsHe": "עליזה פורמן־רבינוביץ׳ · אודי זומר",
+      "visualDescriptionHe": "איור של אישה בהתייעצות עם אשת מקצוע בחדר טיפול",
+      "semanticDescriptionHe": "איור שנוצר בבינה מלאכותית להמחשת אוטונומיה בהחלטות בריאות; אינו מציג משתתפות במחקר או הליך רפואי מסוים.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "Newly generated editorial illustration; fictional people and setting.",
+      "generationTool": "built-in image_gen"
+    },
+    {
+      "file": "html_qa/barak-detainees-bargaining-chips-court.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "barak-detainees-bargaining-chips-court.html",
+      "usedBy": [
+        "barak-detainees-bargaining-chips-court.html"
+      ],
+      "cardTitleHe": "עצורים כקלפי מיקוח: בית המשפט העליון בתוך ההקשר הפוליטי",
+      "authorsHe": "איתן ברק",
+      "visualDescriptionHe": "איור של עצור בחדר ביקורים ועורכת דין במסדרון סמוך",
+      "semanticDescriptionHe": "איור שנוצר בבינה מלאכותית להמחשת חירות מוגבלת וגישה לסיוע משפטי; אינו תיעוד של העצורים או של מתקן מן הפרשה.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "Newly generated editorial illustration; fictional people and setting.",
+      "generationTool": "built-in image_gen"
+    },
+    {
+      "file": "html_qa/zamir-daudi-civics-teachers-political-tolerance.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zamir-daudi-civics-teachers-political-tolerance.html",
+      "usedBy": [
+        "zamir-daudi-civics-teachers-political-tolerance.html"
+      ],
+      "cardTitleHe": "סובלנות פוליטית בקרב מורים לאזרחות בישראל",
+      "authorsHe": "שרה זמיר · שלמה דאודי",
+      "visualDescriptionHe": "כיתה ריקה בירושלים באור אחר הצהריים",
+      "semanticDescriptionHe": "צילום כיתה להמחשת הזירה החינוכית בלבד; בית הספר המצולם אינו מזוהה כמשתתף במחקר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Yitzilitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Empty_classroom_with_chairs_on_table_in_Har_Nof.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Empty classroom with chairs on table in Har Nof.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Empty_classroom_with_chairs_on_table_in_Har_Nof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024,
+      "source": "https://commons.wikimedia.org/wiki/File:Empty_classroom_with_chairs_on_table_in_Har_Nof.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/sicron-democracy-frame-protest-mobilization.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sicron-democracy-frame-protest-mobilization.html",
+      "usedBy": [
+        "sicron-democracy-frame-protest-mobilization.html"
+      ],
+      "cardTitleHe": "מי מדבר בשם הדמוקרטיה? מסגור וגיוס במחאות בישראל",
+      "authorsHe": "אביטל סיקרון",
+      "visualDescriptionHe": "הפגנה נגד השינויים במערכת המשפט בכיכר הבימה בתל אביב בינואר 2023",
+      "semanticDescriptionHe": "צילום מחאה מן התקופה והזירה הנדונות; אינו מזהה מצולמים כמשתתפים בתצפיות או בסקר של המחקר.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Yuval Talya Nehemia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Habima_Square_protest_against_judicial_reform.jpg",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Habima Square protest against judicial reform.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Habima_Square_protest_against_judicial_reform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 4000,
+      "sourceHeight": 2250,
+      "source": "https://commons.wikimedia.org/wiki/File:Habima_Square_protest_against_judicial_reform.jpg",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/fakhoury-feinstein-threat-minority-inclusion.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "fakhoury-feinstein-threat-minority-inclusion.html",
+      "usedBy": [
+        "fakhoury-feinstein-threat-minority-inclusion.html"
+      ],
+      "cardTitleHe": "איום ולאומיות: מי נתפס כשותף לגיטימי בשלטון בישראל?",
+      "authorsHe": "אמיר פח׳ורי · יובל פיינשטיין",
+      "visualDescriptionHe": "אולם המליאה בכנסת",
+      "semanticDescriptionHe": "צילום הזירה הפרלמנטרית להמחשת שאלת ההשתתפות בשלטון; אינו מתאר את הקואליציות או אירועי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-27",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; center-cropped and resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "בית השלום (Hebrew Wikipedia)",
+      "license": "Attribution",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Hall.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Knesset_Hall.JPG",
+      "sourceType": "wikimedia_commons",
+      "fitnessSource": "nightly_commons_specific",
+      "provider": "Wikimedia Commons",
+      "title": "File:Knesset Hall.JPG",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Knesset_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 2816,
+      "sourceHeight": 2112,
+      "source": "https://commons.wikimedia.org/wiki/File:Knesset_Hall.JPG",
       "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
     }
   ],

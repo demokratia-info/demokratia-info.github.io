@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1732,
+  "paperCount": 1742,
   "papers": [
+    {
+      "slug": "fakhoury-feinstein-threat-minority-inclusion",
+      "file": "fakhoury-feinstein-threat-minority-inclusion.html",
+      "permalink": "/fakhoury-feinstein-threat-minority-inclusion.html",
+      "sortKey": 202609270010,
+      "titleHe": "איום ולאומיות: מי נתפס כשותף לגיטימי בשלטון בישראל?",
+      "paperTitle": "Inclusion under threat? majority nationalism and the making of political boundaries in Israel",
+      "authorsCardHe": "אמיר פח׳ורי · יובל פיינשטיין",
+      "sourceAuthors": [
+        "Ameer Fakhoury",
+        "Yuval Feinstein"
+      ],
+      "journal": "Journal of Ethnic and Migration Studies",
+      "dateText": "2 ביולי 2026",
+      "doiUrl": "https://doi.org/10.1080/1369183x.2026.2679165",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/fakhoury-feinstein-threat-minority-inclusion.jpg",
+        "altHe": "אולם המליאה בכנסת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "המחקר בוחן את גבולות ההשתייכות הפוליטית דרך עמדות של בני הרוב היהודי כלפי המיעוט הערבי־פלסטיני. נתוני פאנל מ־2022–2023 קושרים עמדות שילוב והדרה לשלושה סוגי איום: על האופי האתנו־לאומי, על הביטחון ועל הסדר המשטרי. הקשרים השתנו בין אשכולות של אמונות לאומיות ובין תקופת המאבק על השינויים המשפטיים לבין התקופה שלאחר 7 באוקטובר. פח׳ורי ופיינשטיין מציעים לנתח את הרוב כשחקן מגוון ונפרד מן המדינה, כדי להבין מתי אזרחות פורמלית מתורגמת ללגיטימציה להשתתף בשלטון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "sicron-democracy-frame-protest-mobilization",
+      "file": "sicron-democracy-frame-protest-mobilization.html",
+      "permalink": "/sicron-democracy-frame-protest-mobilization.html",
+      "sortKey": 202609270009,
+      "titleHe": "מי מדבר בשם הדמוקרטיה? מסגור וגיוס במחאות בישראל",
+      "paperTitle": "Democracy as a frame: Contested meanings of democracy, frame reclaiming, and mass mobilization in Israel",
+      "authorsCardHe": "אביטל סיקרון",
+      "sourceAuthors": [
+        "Avital Sicron"
+      ],
+      "journal": "International Journal of Comparative Sociology",
+      "dateText": "9 בספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1177/00207152261484431",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/sicron-democracy-frame-protest-mobilization.jpg",
+        "altHe": "הפגנה נגד השינויים במערכת המשפט בכיכר הבימה בתל אביב בינואר 2023",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "המחקר מנתח כיצד שני מחנות יריבים השתמשו בדמוקרטיה להצדקת מטרותיהם במאבק על השינויים המשפטיים ב־2023. באמצעות תצפיות משתתפות, ניתוח רשתות חברתיות וסקר אוכלוסייה, המחקר בוחן לא רק מסרים של מנהיגים אלא גם את התקבלותם בקרב אזרחים. המסגור הליברלי של מתנגדי השינויים הדהד דרך סיפור מוסרי, טיעון מוסדי והגנת זכויות, ונקשר להשתתפות במחאה. המחקר מכנה את השימוש המתחרה באותה מסגרת ניכוס חוזר של מסגור, ומראה מדוע עצם ההסכמה על המילה דמוקרטיה אינה מבטיחה הסכמה על משמעותה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "zamir-daudi-civics-teachers-political-tolerance",
+      "file": "zamir-daudi-civics-teachers-political-tolerance.html",
+      "permalink": "/zamir-daudi-civics-teachers-political-tolerance.html",
+      "sortKey": 202609270008,
+      "titleHe": "סובלנות פוליטית בקרב מורים לאזרחות בישראל",
+      "paperTitle": "Political tolerance among civic education teachers in Israel",
+      "authorsCardHe": "שרה זמיר · שלמה דאודי",
+      "sourceAuthors": [
+        "Sara Zamir",
+        "Shlomo Daudi"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "17 ביולי 2026",
+      "doiUrl": "https://doi.org/10.1080/13537121.2026.2696522",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/zamir-daudi-civics-teachers-political-tolerance.jpg",
+        "altHe": "כיתה ריקה בירושלים באור אחר הצהריים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "המחקר בוחן סובלנות פוליטית אצל 160 מורים לאזרחות בחינוך הממלכתי ובחינוך הממלכתי־דתי לאחר אירועי 7 באוקטובר 2023. בחינוך הממלכתי נמצאה סובלנות כוללת גבוהה יותר, עם פערים בולטים ביחסי דת ומדינה, בערכים ליברליים וביחסי יהודים וערבים. דתיות הייתה המנבא השלילי החזק ביותר בניתוח, ואילו השכלה גבוהה ומגדר נשי נקשרו לתוספות חיוביות מתונות. הממצאים מדגישים את חשיבות הכשרת המורים לדיאלוג פלורליסטי, בלי להפוך קשרים קבוצתיים לאבחנה על כל מורה יחיד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "barak-detainees-bargaining-chips-court",
+      "file": "barak-detainees-bargaining-chips-court.html",
+      "permalink": "/barak-detainees-bargaining-chips-court.html",
+      "sortKey": 202609270007,
+      "titleHe": "עצורים כקלפי מיקוח: בית המשפט העליון בתוך ההקשר הפוליטי",
+      "paperTitle": "Under cover of darkness: The Israeli supreme court and the use of human lives as ‘Bargaining Chips’",
+      "authorsCardHe": "איתן ברק",
+      "sourceAuthors": [
+        "Eitan Barak"
+      ],
+      "journal": "The International Journal of Human Rights 3(3), 1–43",
+      "dateText": "ספטמבר 1999",
+      "doiUrl": "https://doi.org/10.1080/13642989908406827",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/barak-detainees-bargaining-chips-court.jpg",
+        "altHe": "איור של עצור בחדר ביקורים ועורכת דין במסדרון סמוך",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "המאמר מנתח הכרעה שאישרה החזקת עשרה עצורים לבנונים כאמצעי לקידום שחרור שבויים ונעדרים ישראלים. ברק מבקש להסביר כיצד בית משפט הנחשב ליברלי עשוי לאשר פגיעה כה קשה בחירות. תשובתו מפנה אל בית המשפט כמוסד הפועל בתוך הקשר פוליטי, ואל המגבלות שאותו הקשר מטיל גם על רשויות הביטחון ועל העצורים. זהו ניתוח היסטורי וביקורתי של הפרשה כפי שנידונה במאמר מ־1999, המדגיש את המתח בין התפקיד המגן של השפיטה לבין השתלבותה במערכת השלטונית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "forman-rabinovici-sommer-religion-reproductive-policy",
+      "file": "forman-rabinovici-sommer-religion-reproductive-policy.html",
+      "permalink": "/forman-rabinovici-sommer-religion-reproductive-policy.html",
+      "sortKey": 202609270006,
+      "titleHe": "דת וזכויות רבייה: מדוע הקשר מורכב יותר מהנחה גורפת",
+      "paperTitle": "An impediment to gender Equality?: Religion’s influence on development and reproductive policy",
+      "authorsCardHe": "עליזה פורמן־רבינוביץ׳ · אודי זומר",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Udi Sommer"
+      ],
+      "journal": "World Development 105, 48–58",
+      "dateText": "מאי 2018",
+      "doiUrl": "https://doi.org/10.1016/j.worlddev.2017.12.024",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/forman-rabinovici-sommer-religion-reproductive-policy.jpg",
+        "altHe": "איור של אישה בהתייעצות עם אשת מקצוע בחדר טיפול",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "המחקר בוחן מחדש את ההנחה שדת מגבילה באופן אחיד זכויות נשים וזכויות רבייה. פורמן־רבינוביץ׳ וזומר מרחיבים את ההשוואה מעבר למקרים מערביים ומציגים מדד השוואתי למדיניות הפלות. הם מוצאים קשרים רק לחלק מן הזרמים הדתיים ולרמת הדתיות, בעוד שחופש דת, הפרדת דת ומדינה וגיוון דתי אינם מראים קשר מובהק בניתוח המדווח. ההבחנה בין מאפיינים אלה חיונית להבנת התנאים המוסדיים והחברתיים שבהם נקבעת מדיניות הנוגעת לאוטונומיה של נשים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shomer-lavi-democratic-backsliding-bill-monitor",
+      "file": "shomer-lavi-democratic-backsliding-bill-monitor.html",
+      "permalink": "/shomer-lavi-democratic-backsliding-bill-monitor.html",
+      "sortKey": 202609270005,
+      "titleHe": "מעקב אחר חקיקה אנטי־דמוקרטית: מאגר לבחינת נסיגה דמוקרטית בישראל",
+      "paperTitle": "Legislating democratic backsliding: a novel dataset",
+      "authorsCardHe": "יעל שומר · לירון לביא",
+      "sourceAuthors": [
+        "Yael Shomer",
+        "Liron Lavi"
+      ],
+      "journal": "The Journal of Legislative Studies",
+      "dateText": "16 בספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1080/13572334.2026.2732604",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shomer-lavi-democratic-backsliding-bill-monitor.jpg",
+        "altHe": "איור של חוקרים הממיינים תיקי חקיקה בחדר עיון פרלמנטרי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "שומר ולביא מציעות לעקוב אחר נסיגה דמוקרטית באמצעות חקיקה, ולא רק באמצעות שינויים מוסדיים שכבר הושלמו. המאגר שלהן מסווג הצעות חוק בשבע קטגוריות, ובהן שינוי מערכת המשפט, פגיעה בזכויות, פוליטיזציה של השירות הציבורי ושליטה בתקשורת. ניתוח 497 הצעות בתקופת הממשלה ה־37 מצביע על פעולה מקבילה בכמה תחומים. החוקרות מדגישות גם קצב חקיקה מהיר ושימוש בהצעות פרטיות לצמצום הבקרה. המסגרת נועדה לאפשר לחוקרים ולציבור לזהות דפוס מצטבר מעבר לכל הצעה בודדת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "sommer-womens-groups-supreme-court-confirmations",
+      "file": "sommer-womens-groups-supreme-court-confirmations.html",
+      "permalink": "/sommer-womens-groups-supreme-court-confirmations.html",
+      "sortKey": 202609270004,
+      "titleHe": "ארגוני נשים והשפעה ציבורית על מינוי שופטים בארצות הברית",
+      "paperTitle": "Representative Appointments: The Effect of Women's Groups in Contentious Supreme Court Confirmations",
+      "authorsCardHe": "אודי זומר",
+      "sourceAuthors": [
+        "Udi Sommer"
+      ],
+      "journal": "Journal of Women, Politics & Policy 34(1), 1–22",
+      "dateText": "ינואר 2013",
+      "doiUrl": "https://doi.org/10.1080/1554477x.2013.747876",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/sommer-womens-groups-supreme-court-confirmations.jpg",
+        "altHe": "סוניה סוטומאיור ביום הראשון לשימוע אישור מינויה לבית המשפט העליון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "תפקידים רבים בדמוקרטיה מאוישים באמצעות מינוי, ולכן השפעת הציבור על הליך המינוי היא שאלה של ייצוג. זומר מנתח הצבעות אישור של חמישה שופטים לבית המשפט העליון האמריקאי ומוצא השפעה של אינטרסים מאורגנים של נשים ושל העדפות ציבוריות. הוא קושר את חשיבות הפוליטיקה המגדרית לדיונים בהטרדה מינית, בפרטיות ובזכויות הפלה. הממצאים מרחיבים את הדיון בייצוג מעבר לבחירות הישירות, אל הזירות שבהן נבחרי ציבור מכריעים על איוש מוסדות אחרים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kremnitzer-constitutional-principles-criminal-law",
+      "file": "kremnitzer-constitutional-principles-criminal-law.html",
+      "permalink": "/kremnitzer-constitutional-principles-criminal-law.html",
+      "sortKey": 202609270003,
+      "titleHe": "כבוד האדם והגבולות החוקתיים של הדין הפלילי",
+      "paperTitle": "Constitutional Principles and Criminal Law",
+      "authorsCardHe": "מרדכי קרמניצר",
+      "sourceAuthors": [
+        "Mordechai Kremnitzer"
+      ],
+      "journal": "Israel Law Review 27(1-2), 84–99",
+      "dateText": "1993",
+      "doiUrl": "https://doi.org/10.1017/s0021223700016861",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kremnitzer-constitutional-principles-criminal-law.jpg",
+        "altHe": "איור של נאשם וסנגורית באולם משפט, להמחשת כבוד האדם בהליך הפלילי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "קרמניצר מציג את חקיקת חוק יסוד: כבוד האדם וחירותו כנקודת מוצא לבירור היחסים בין המשפט החוקתי לדין הפלילי המהותי. עקרונות חוקתיים פעלו גם קודם לכן, אך חוק היסוד פותח אפשרויות פרשניות ומחייב לברר את גבולות החקיקה הפלילית העתידית. שני התחומים נשענים, לפי המאמר, על תפיסת האדם כבעל יכולת להבין, לשפוט ולבחור. אותה אוטונומיה שמאפשרת לייחס אחריות מחייבת גם להציב גבולות לכוח המדינה להעניש.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "zvulun-stv-local-turnout-new-zealand",
+      "file": "zvulun-stv-local-turnout-new-zealand.html",
+      "permalink": "/zvulun-stv-local-turnout-new-zealand.html",
+      "sortKey": 202609270002,
+      "titleHe": "דירוג מועמדים והשתתפות בבחירות המקומיות בניו זילנד",
+      "paperTitle": "The Single Transferable Vote and Voter Turnout in the 2004 Local Elections",
+      "authorsCardHe": "ג׳קי זבולון",
+      "sourceAuthors": [
+        "Jacky Zvulun"
+      ],
+      "journal": "Journal of Political Marketing 11(3), 123–142",
+      "dateText": "כרך 2012; פורסם ברשת ב־17 באוגוסט 2012",
+      "doiUrl": "https://doi.org/10.1080/15377857.2012.699392",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/zvulun-stv-local-turnout-new-zealand.jpg",
+        "altHe": "בית העירייה בוולינגטון, ניו זילנד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "הבחירות המקומיות בניו זילנד ב־2004 יצרו הזדמנות להשוות בין רשויות שהשתמשו בקול יחיד נייד לבין רשויות שהמשיכו בשיטת רוב. ג׳קי זבולון בוחן באמצעותן את הקשר בין כללי הבחירה להשתתפות אזרחית, ומערער על הסברים מקובלים להשתתפות נמוכה. הדיון מחבר את שאלת הייצוג להבנת הליך ההצבעה ולביצועו המעשי. שינוי שיטת בחירות דורש אפוא בחינה של התנהגות הבוחרים ושל ההקשר המוסדי שבו הם מצביעים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "katz-television-framing-judicial-reform",
+      "file": "katz-television-framing-judicial-reform.html",
+      "permalink": "/katz-television-framing-judicial-reform.html",
+      "sortKey": 202609270001,
+      "titleHe": "שתי מציאויות חדשותיות במשבר השינויים במערכת המשפט",
+      "paperTitle": "Echo chambers of a nation on the brink: narrative warfare and the construction of reality in Israel’s judicial reform crisis",
+      "authorsCardHe": "נסים כץ",
+      "sourceAuthors": [
+        "Nissim Katz"
+      ],
+      "journal": "Israel Affairs",
+      "dateText": "16 בדצמבר 2025",
+      "doiUrl": "https://doi.org/10.1080/13537121.2025.2596690",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/katz-television-framing-judicial-reform.jpg",
+        "altHe": "איור של עורכי חדשות מול שני מסכים המציגים מסגורים שונים של התקהלות אזרחית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-27",
+      "dateModified": "2026-09-27",
+      "summaryHe": "כץ מנתח כיצד ערוצים 12 ו־14 בנו סיפורים מתחרים על המשבר סביב השינויים במערכת המשפט. ערוץ 12 מוצג כמי שהדגיש סכנה לדמוקרטיה והגנה מוסדית, ואילו ערוץ 14 הדגיש השבת כוח לרצון העם ומאבק באליטות. הניתוח עוסק בשפה, בבחירת מקורות, במבנה הסיפור ובדימויים חזותיים ורגשיים. המחבר טוען שדפוסים אלה מחלישים בסיס עובדתי משותף, אך מבחין בין הטיית תקשורת מרכזית לתקשורת מפלגתית. המחקר מנתח תוכן של מדגם שידורים מצומצם ואינו מודד ישירות השפעה סיבתית על הצופים.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "krumbein-marriage-equality-east-asia",
       "file": "krumbein-marriage-equality-east-asia.html",
