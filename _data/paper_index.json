@@ -1,8 +1,301 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1742,
+  "paperCount": 1752,
   "papers": [
+    {
+      "slug": "giannetti-umansky-sened-five-star-italy",
+      "file": "giannetti-umansky-sened-five-star-italy.html",
+      "permalink": "/giannetti-umansky-sened-five-star-italy.html",
+      "sortKey": 202609280010,
+      "titleHe": "איך תנועת חמשת הכוכבים שינתה את מרחב התחרות באיטליה?",
+      "paperTitle": "The Entry of the M5S and the Reshaping of Party Politics in Italy (2008–2018)",
+      "authorsCardHe": "Daniela Giannetti · Karen Umansky · איתי סנד",
+      "sourceAuthors": [
+        "Daniela Giannetti",
+        "Karen Umansky",
+        "Itai Sened"
+      ],
+      "journal": "Government and Opposition 59(2), 464-481",
+      "dateText": "22 בספטמבר 2022",
+      "doiUrl": "https://doi.org/10.1017/gov.2022.38",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/giannetti-umansky-sened-five-star-italy.jpg",
+        "altHe": "מליאת בית הנבחרים האיטלקי בארמון מונטצ׳יטוריו ברומא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "דניאלה ג׳אנטי, קרן אומנסקי ואיתי סנד בוחנים את כניסת תנועת חמשת הכוכבים למערכת המפלגות באיטליה. שילוב סקרי מומחים עם מודל של הכרעות רוב מראה כיצד עמדה חריגה בסוגיית האיחוד האירופי סייעה לתנועה לבדל את עצמה. השינוי לא יצר ממד פוליטי חדש, אלא שינה את השימוש בממדים קיימים ואת מרחב התוצאות האפשריות. המחברים מדגישים שגם משברים ושינויים אלקטורליים אחרים תרמו לתהליך.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "forman-rabinovici-mandel-gender-blindness",
+      "file": "forman-rabinovici-mandel-gender-blindness.html",
+      "permalink": "/forman-rabinovici-mandel-gender-blindness.html",
+      "sortKey": 202609280009,
+      "titleHe": "מה מסתתר בממוצע? עיוורון מגדרי במחקר כמותי במדע המדינה",
+      "paperTitle": "The Prevalence and Implications of Gender Blindness in Quantitative Political Science Research",
+      "authorsCardHe": "עליזה פורמן-רבינוביץ׳ · הדס מנדל",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Hadas Mandel"
+      ],
+      "journal": "Politics & Gender 19(2), 482-506",
+      "dateText": "25 ביולי 2022",
+      "doiUrl": "https://doi.org/10.1017/s1743923x22000174",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/forman-rabinovici-mandel-gender-blindness.jpg",
+        "altHe": "איור של צוות מחקר המשווה חומרי סקר ותמונות של נשים וגברים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "עליזה פורמן־רבינוביץ׳ והדס מנדל בוחנות כיצד התעלמות מהבדלים מגדריים משפיעה על מחקר פוליטי. ניתוח חוזר של שלושה מאמרים שינה את פירוש הממצאים בשניים מהם, ובשלישי חיזק את הדמיון בין נשים לגברים. בסקירת 96 מאמרים כמותיים בכתב עת מרכזי, 49 סווגו כבעלי עיוורון מגדרי מלא או חלקי. החוקרות מציעות להתאים את התיאוריה, המדידה והניתוח לשאלה אם הקשרים הנחקרים משתנים לפי מגדר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "rasul-partisan-news-meta-perceptions",
+      "file": "rasul-partisan-news-meta-perceptions.html",
+      "permalink": "/rasul-partisan-news-meta-perceptions.html",
+      "sortKey": 202609280008,
+      "titleHe": "מה חושב עלינו המחנה האחר? חדשות מפלגתיות ותפיסות של עוינות",
+      "paperTitle": "The role of partisan news and political parasocial relationships in shaping meta‐perceptions: Cross‐national evidence",
+      "authorsCardHe": "Muhammad Ehab Rasul · בועז המאירי · Gila Hacohen · נחומי מלוביצקי־יפה · Samantha L. Moore-Berg",
+      "sourceAuthors": [
+        "Muhammad Ehab Rasul",
+        "Boaz Hameiri",
+        "Gila Hacohen",
+        "Nechumi Malovicki-Yaffe",
+        "Samantha L. Moore-Berg"
+      ],
+      "journal": "Political Psychology 47(4), e70172",
+      "dateText": "30 ביוני 2026",
+      "doiUrl": "https://doi.org/10.1111/pops.70172",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/rasul-partisan-news-meta-perceptions.jpg",
+        "altHe": "אולפן רדיו עם מיקרופונים ושולחן שידור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "שלושה מחקרים בחנו כיצד צריכת חדשות של מחנות שונים קשורה לאמונה שהקבוצה האחרת שונאת אותנו או שוללת את אנושיותנו. בחלק מן הקבוצות חשיפה לתקשורת של הצד האחר נקשרה לתפיסות מתונות יותר, אך הדפוס לא היה סימטרי או עקבי בכל בדיקה. המחקר בוחן גם תחושת קִרבה עקיפה דרך התקשורת. מאחר שהנתונים חתכיים, הם אינם קובעים אם החשיפה היא שיצרה את השינוי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "rotem-global-judicial-independence-erosion",
+      "file": "rotem-global-judicial-independence-erosion.html",
+      "permalink": "/rotem-global-judicial-independence-erosion.html",
+      "sortKey": 202609280007,
+      "titleHe": "עצמאות שיפוטית בעולם: מהתרחבות לבלימה ולשחיקה",
+      "paperTitle": "From Expansion to Erosion: The Global Trajectory of Judicial Independence, 1960–2018",
+      "authorsCardHe": "ניר רותם",
+      "sourceAuthors": [
+        "Nir Rotem"
+      ],
+      "journal": "Sociological Forum 41(3), 412-430",
+      "dateText": "3 במרץ 2026",
+      "doiUrl": "https://doi.org/10.1111/socf.70062",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/rotem-global-judicial-independence-erosion.jpg",
+        "altHe": "אולם מספר אחת בבית המשפט העליון של הממלכה המאוחדת בלונדון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "ניר רותם מנתח נתונים מ־156 מדינות בשנים 1960–2018 ומבחין בין לחץ כללי על בתי משפט, הרחבתם ממניעים פוליטיים והדחת שופטים. קשרים לארגונים לא ממשלתיים בין־לאומיים נקשרו להגנה על עצמאות שיפוטית, ואילו השתייכות לארגונים בין־ממשלתיים לא ליברליים נקשרה לשחיקתה. לאחר 2008 בלטה היחלשות בתנופה הליברלית, אך דפוס השינוי לא היה זהה בכל מדדי הפגיעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "moran-walther-moral-learning-polarization",
+      "file": "moran-walther-moral-learning-polarization.html",
+      "permalink": "/moran-walther-moral-learning-polarization.html",
+      "sortKey": 202609280006,
+      "titleHe": "ללמוד לחבב יריב פוליטי דרך מעשים מוסריים",
+      "paperTitle": "Learning to Like the Enemy: Moral Learning Reduces Affective Polarization",
+      "authorsCardHe": "טל מורן · Eva Walther",
+      "sourceAuthors": [
+        "Tal Moran",
+        "Eva Walther"
+      ],
+      "journal": "Social Psychological and Personality Science 17(3), 302-314",
+      "dateText": "18 ביוני 2025",
+      "doiUrl": "https://doi.org/10.1177/19485506251343667",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/moran-walther-moral-learning-polarization.jpg",
+        "altHe": "איור של צעיר המסייע לאישה מבוגרת לאסוף מצרכים שנפלו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "טל מורן ואווה ולתר בחנו אם למידה על מעשים מוסריים של יריבים פוליטיים מפחיתה קיטוב רגשי. בשלושה ניסויים רשומים מראש בארצות הברית, מידע חיובי על אנשים מן המחנה האחר צמצם העדפה לאנשי המחנה של המשתתף. חלק מהשינויים נשמרו בבדיקה כעבור יומיים שכללה תזכורת. ההכללה אל המפלגה כולה הייתה חלקית ושונה בין מדדים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bareket-fiske-gendered-arrangements-men",
+      "file": "bareket-fiske-gendered-arrangements-men.html",
+      "permalink": "/bareket-fiske-gendered-arrangements-men.html",
+      "sortKey": 202609280005,
+      "titleHe": "המחיר של תפקידי מגדר נוקשים לגברים",
+      "paperTitle": "Lost opportunities: How gendered arrangements harm men",
+      "authorsCardHe": "Orly Bareket · Susan T. Fiske",
+      "sourceAuthors": [
+        "Orly Bareket",
+        "Susan T. Fiske"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences 122(5), e2320788122",
+      "dateText": "24 בינואר 2025",
+      "doiUrl": "https://doi.org/10.1073/pnas.2320788122",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bareket-fiske-gendered-arrangements-men.jpg",
+        "altHe": "איור של אב המטפל בילד ומשוחח עם גבר נוסף בבית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "אורלי ברקת וסוזן פיסק בוחנות כיצד הסדרים מגדריים המקנים יתרונות לגברים יכולים גם להגביל את חייהם. המאמר משלב מחקרים על נורמות גבריות, ריחוק מתפקידי טיפול, סקסיזם עוין ומגונן, ותחושת איום משינוי בהיררכיה. הטענה אינה שהפגיעה בנשים ובגברים זהה, אלא שהרחבת אפשרויות החיים עשויה לסייע לשניהם. חוזק הראיות משתנה בין התחומים, וחלק מההסברים עדיין טעונים בדיקה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kagan-chesney-fire-film-gender-gap",
+      "file": "kagan-chesney-fire-film-gender-gap.html",
+      "permalink": "/kagan-chesney-fire-film-gender-gap.html",
+      "sortKey": 202609280004,
+      "titleHe": "מי נמצאת במרכז הסיפור? פערי מגדר ברשתות של דמויות קולנוע",
+      "paperTitle": "Using data science to understand the film industry’s gender gap",
+      "authorsCardHe": "Dima Kagan · Thomas Chesney · Michael Fire",
+      "sourceAuthors": [
+        "Dima Kagan",
+        "Thomas Chesney",
+        "Michael Fire"
+      ],
+      "journal": "Palgrave Communications 6(1), 92",
+      "dateText": "13 במאי 2020",
+      "doiUrl": "https://doi.org/10.1057/s41599-020-0436-1",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kagan-chesney-fire-film-gender-gap.jpg",
+        "altHe": "איור של שתי שחקניות בדיאלוג על סט קולנוע לצד מצלמה וצוות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "דימה קגן, תומס צ׳סני ומיכאל פייר מציגים שיטה לבניית רשתות של דמויות מתוך כתוביות ונתוני צוות השחקנים. ניתוח 15,540 סרטים מצא יתרון מתמשך לגברים בתפקידים מרכזיים ובקשרים בין דמויות, לצד שיפור לאורך זמן. החוקרים מציעים מדד ליחס בין קשרי נשים לגברים, אך מדגישים שמרכזיות מספרית אינה מבטיחה דמות מורכבת או ייצוג נטול סטריאוטיפים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "peled-raz-patient-care-human-rights",
+      "file": "peled-raz-patient-care-human-rights.html",
+      "permalink": "/peled-raz-patient-care-human-rights.html",
+      "sortKey": 202609280003,
+      "titleHe": "זכויות אדם בטיפול רפואי: לחבר בין המטופל לבריאות הציבור",
+      "paperTitle": "Human rights in patient care and public health—a common ground",
+      "authorsCardHe": "מאיה פלד-רז",
+      "sourceAuthors": [
+        "Maya Peled-Raz"
+      ],
+      "journal": "Public Health Reviews 38(1), 29",
+      "dateText": "20 בדצמבר 2017",
+      "doiUrl": "https://doi.org/10.1186/s40985-017-0075-2",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/peled-raz-patient-care-human-rights.jpg",
+        "altHe": "איור של מטופלים ואנשי מקצוע בשיחה במרפאה ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "מאיה פלד־רז מציעה לראות בזכויות אדם בטיפול רפואי גשר בין זכויות המטופל לבריאות הציבור. הגישה בוחנת מדיניות ודפוסים מערכתיים, לצד המפגש עם איש המקצוע, וכוללת גם את זכויות הצוותים והקהילה. באמצעות תרחיש של חובת דיווח על מהגר ללא מעמד מוסדר, המאמר מדגים בחינה של מטרה לגיטימית, צורך ציבורי וחלופות פוגעניות פחות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "neubaum-unfriending-morality-relationships",
+      "file": "neubaum-unfriending-morality-relationships.html",
+      "permalink": "/neubaum-unfriending-morality-relationships.html",
+      "sortKey": 202609280002,
+      "titleHe": "מחלוקת פוליטית בפייסבוק: מתי חברות שורדת פגיעה מוסרית?",
+      "paperTitle": "“You’re still worth it”: The moral and relational context of politically motivated unfriending decisions in online networks",
+      "authorsCardHe": "German Neubaum · Manuel Cargnino · Stephan Winter · שירה דביר-גבירצמן",
+      "sourceAuthors": [
+        "German Neubaum",
+        "Manuel Cargnino",
+        "Stephan Winter",
+        "Shira Dvir-Gvirsman"
+      ],
+      "journal": "PLOS ONE 16(1), e0243049",
+      "dateText": "11 בינואר 2021",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0243049",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/neubaum-unfriending-morality-relationships.jpg",
+        "altHe": "שני חברים יושבים יחד עם כוסות תה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "שני מחקרים בקרב משתמשי פייסבוק בגרמניה בחנו מתי אמירה פוליטית מעוררת רצון להסיר חבר או לחסום אותו. ככל שהאמירה נתפסה כפסולה מוסרית, התחזקה הנטייה לניתוק. עם זאת, קשרים קרובים היו עמידים יותר, ותמיכה רגשית הייתה חלק מן ההסבר. הממצאים עוסקים בעיקר בתגובות לתרחישים ובדיווח עצמי, ולא במעקב אחר מחיקות בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "puryear-political-opponents-moral-wrongs",
+      "file": "puryear-political-opponents-moral-wrongs.html",
+      "permalink": "/puryear-political-opponents-moral-wrongs.html",
+      "sortKey": 202609280001,
+      "titleHe": "למה נדמה לנו שהיריב הפוליטי מצדיק מעשים פסולים?",
+      "paperTitle": "People believe political opponents accept blatant moral wrongs, fueling partisan divides",
+      "authorsCardHe": "Curtis Puryear · Emily Kubin · Chelsea Schein · יוחנן ביגמן · Pierce Ekstrom · Kurt Gray",
+      "sourceAuthors": [
+        "Curtis Puryear",
+        "Emily Kubin",
+        "Chelsea Schein",
+        "Yochanan E Bigman",
+        "Pierce Ekstrom",
+        "Kurt Gray"
+      ],
+      "journal": "PNAS Nexus 3(7), pgae244",
+      "dateText": "16 ביולי 2024",
+      "doiUrl": "https://doi.org/10.1093/pnasnexus/pgae244",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/puryear-political-opponents-moral-wrongs.jpg",
+        "altHe": "דיון קהילתי עם דובר מן הקהל באולם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-28",
+      "dateModified": "2026-09-28",
+      "summaryHe": "סדרת שמונה מחקרים בארצות הברית מצאה שאנשים מעריכים ביתר את נכונותם של יריבים פוליטיים לקבל מעשים פסולים בבירור. ההטיה קשורה לדה־הומניזציה ולהימנעות מקשר. בניסויים, מידע על התנגדות היריב למעשים כאלה שיפר את היחס אליו, ולעיתים גם למחנהו. הסכמה מוסרית בסיסית עשויה אפוא לפתוח פתח למפגש בלי לפתור את המחלוקת הפוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "fakhoury-feinstein-threat-minority-inclusion",
       "file": "fakhoury-feinstein-threat-minority-inclusion.html",

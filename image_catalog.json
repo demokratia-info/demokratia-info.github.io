@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-27",
+  "lastUpdated": "2026-09-28",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -47383,6 +47383,325 @@
       "sourceHeight": 2112,
       "source": "https://commons.wikimedia.org/wiki/File:Knesset_Hall.JPG",
       "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license."
+    },
+    {
+      "file": "html_qa/puryear-political-opponents-moral-wrongs.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "puryear-political-opponents-moral-wrongs.html",
+      "usedBy": [
+        "puryear-political-opponents-moral-wrongs.html"
+      ],
+      "cardTitleHe": "למה נדמה לנו שהיריב הפוליטי מצדיק מעשים פסולים?",
+      "authorsHe": "Curtis Puryear · Emily Kubin · Chelsea Schein · יוחנן ביגמן · Pierce Ekstrom · Kurt Gray",
+      "visualDescriptionHe": "דיון קהילתי עם דובר מן הקהל באולם",
+      "semanticDescriptionHe": "מפגש קהילתי בסיאטל ב־2012 להמחשת האפשרות להקשיב לאחר; המצולמים אינם משתתפי המחקר ואין ייחוס של עמדה פוליטית לאיש מהם.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Jennifer Haliski / U.S. Food and Drug Administration",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Youth_and_Tobacco_Town_Hall_6827_(7415641028).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Youth_and_Tobacco_Town_Hall_6827_(7415641028).jpg",
+      "fitnessSource": "nightly_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Youth_and_Tobacco_Town_Hall_6827_(7415641028).jpg",
+      "title": "File:Youth and Tobacco Town Hall 6827 (7415641028).jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Youth_and_Tobacco_Town_Hall_6827_%287415641028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 3571,
+      "sourceHeight": 2372,
+      "visualFamily": "community_meeting",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added."
+    },
+    {
+      "file": "html_qa/neubaum-unfriending-morality-relationships.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "neubaum-unfriending-morality-relationships.html",
+      "usedBy": [
+        "neubaum-unfriending-morality-relationships.html"
+      ],
+      "cardTitleHe": "מחלוקת פוליטית בפייסבוק: מתי חברות שורדת פגיעה מוסרית?",
+      "authorsHe": "German Neubaum · Manuel Cargnino · Stephan Winter · שירה דביר-גבירצמן",
+      "visualDescriptionHe": "שני חברים יושבים יחד עם כוסות תה",
+      "semanticDescriptionHe": "צילום להמחשת הקִרבה האישית שיכולה להעניק ערך לקשר מעבר לפוליטיקה; אין ייחוס של מחלוקת או התנהגות ברשת למצולמים.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Matthew Henry matthewhenry",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Friends_talking_over_tea_(Unsplash).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "fitnessSource": "nightly_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Friends_talking_over_tea_(Unsplash).jpg",
+      "title": "File:Friends talking over tea (Unsplash).jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Friends_talking_over_tea_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 5605,
+      "sourceHeight": 3153,
+      "visualFamily": "informal_friendship",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added."
+    },
+    {
+      "file": "html_qa/peled-raz-patient-care-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "peled-raz-patient-care-human-rights.html",
+      "usedBy": [
+        "peled-raz-patient-care-human-rights.html"
+      ],
+      "cardTitleHe": "זכויות אדם בטיפול רפואי: לחבר בין המטופל לבריאות הציבור",
+      "authorsHe": "מאיה פלד-רז",
+      "visualDescriptionHe": "איור של מטופלים ואנשי מקצוע בשיחה במרפאה ציבורית",
+      "semanticDescriptionHe": "מפגש בדיוני המדגיש גישה לטיפול, כבוד ושיחה בין מטופלים, צוות וגורם מלווה; אינו מתעד מקרה מתוך המאמר.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset: editorial illustration for a Hebrew academic summary website about human rights in patient care. Create a polished, warm, richly textured editorial painting, landscape 4:3 composition. Scene: a dignified elderly patient and a younger patient meet a female healthcare professional and a legal advocate at an accessible public hospital consultation table, an open corridor with other people and natural window light behind them. The people are equals in a thoughtful conversation, illustrating institutional accountability, access, dignity, and consent in healthcare. Detailed lived-in architecture, natural faces and hands, subtle ochre and sage palette, depth and soft light. Documents may be blank or face down. No text, lettering, numbers, labels, logos, watermarks, flags, interface elements, diagrams, scales of justice, or symbolic floating objects. One coherent scene, no collage.",
+      "generationMode": "builtin",
+      "visualFamily": "clinical_consultation"
+    },
+    {
+      "file": "html_qa/kagan-chesney-fire-film-gender-gap.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kagan-chesney-fire-film-gender-gap.html",
+      "usedBy": [
+        "kagan-chesney-fire-film-gender-gap.html"
+      ],
+      "cardTitleHe": "מי נמצאת במרכז הסיפור? פערי מגדר ברשתות של דמויות קולנוע",
+      "authorsHe": "Dima Kagan · Thomas Chesney · Michael Fire",
+      "visualDescriptionHe": "איור של שתי שחקניות בדיאלוג על סט קולנוע לצד מצלמה וצוות",
+      "semanticDescriptionHe": "שיחה בין דמויות נשיות והפקת סרט ממחישות את שאלת הנוכחות והמרכזיות של נשים בקולנוע; הסצנה בדיונית.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset: editorial image for an academic study of women's speaking roles and social networks in cinema. Create a polished cinematic editorial painting in landscape 4:3. Two adult women actors converse as equals in a warmly lit realistic film-set living room; a cinema camera and a woman camera operator are visible at the edge of the scene, with male crew members discreetly in the deeper background. Emphasize the women's active dialogue and agency. Rich warm light, detailed skin and fabrics, layered depth, subtle film-grain and painterly texture, coherent grounded scene. No text, letters, numbers, subtitles, clapperboards with writing, branding, logos, watermarks, flags, charts or interface graphics. Keep all important content suitable for an 800x600 crop.",
+      "generationMode": "builtin",
+      "visualFamily": "film_production"
+    },
+    {
+      "file": "html_qa/bareket-fiske-gendered-arrangements-men.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bareket-fiske-gendered-arrangements-men.html",
+      "usedBy": [
+        "bareket-fiske-gendered-arrangements-men.html"
+      ],
+      "cardTitleHe": "המחיר של תפקידי מגדר נוקשים לגברים",
+      "authorsHe": "Orly Bareket · Susan T. Fiske",
+      "visualDescriptionHe": "איור של אב המטפל בילד ומשוחח עם גבר נוסף בבית",
+      "semanticDescriptionHe": "טיפול בילד וקִרבה בין גברים ממחישים אפשרויות שתפקידי מגדר נוקשים עלולים לצמצם; הסצנה בדיונית.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset: editorial illustration for an academic paper about the personal costs of restrictive gender roles for men. Create a refined warm editorial painting with lifelike people, depth and tactile detail, landscape 4:3. Show an ordinary father actively caring for his small child in a sunlit lived-in home while another adult man listens supportively at the kitchen table; a work jacket rests on a chair. The image should convey room for care, emotional connection and choices beyond the breadwinner stereotype, with dignity and no caricature. Natural expressive faces, warm amber daylight, textured fabrics, muted teal and terracotta colors, painterly but realistic. No words, letters, logos, watermarks, flags, screens, infographics, isolated symbols, or pasted layers. Composition must crop cleanly to 800x600.",
+      "generationMode": "builtin",
+      "visualFamily": "domestic_care"
+    },
+    {
+      "file": "html_qa/moran-walther-moral-learning-polarization.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "moran-walther-moral-learning-polarization.html",
+      "usedBy": [
+        "moran-walther-moral-learning-polarization.html"
+      ],
+      "cardTitleHe": "ללמוד לחבב יריב פוליטי דרך מעשים מוסריים",
+      "authorsHe": "טל מורן · Eva Walther",
+      "visualDescriptionHe": "איור של צעיר המסייע לאישה מבוגרת לאסוף מצרכים שנפלו",
+      "semanticDescriptionHe": "מעשה עזרה יומיומי ממחיש מידע מוסרי חיובי; הדמויות בדיוניות ואינן משתתפי הניסוי או נציגות של מפלגה.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset: editorial illustration for a social psychology paper about learning that people outside one's political group perform moral actions. A richly textured, warm, realistic editorial painting, landscape 4:3: in a lived-in neighborhood street, an ordinary young adult pauses to help an older adult pick up scattered groceries beside a bench, while two different neighbors watch with thoughtful softened expressions. Emphasize a concrete everyday act of care rather than a heroic pose. Natural body language, a few tactile grocery objects, believable architecture, golden late-afternoon light, depth, terracotta and muted blue. This is a conceptual illustration, not a depiction of research participants. No writing, signs, numbers, logos, flags, watermarks, graphics, symbols or collage layers. Crop-safe 4:3.",
+      "generationMode": "builtin",
+      "visualFamily": "neighborhood_help"
+    },
+    {
+      "file": "html_qa/rotem-global-judicial-independence-erosion.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rotem-global-judicial-independence-erosion.html",
+      "usedBy": [
+        "rotem-global-judicial-independence-erosion.html"
+      ],
+      "cardTitleHe": "עצמאות שיפוטית בעולם: מהתרחבות לבלימה ולשחיקה",
+      "authorsHe": "ניר רותם",
+      "visualDescriptionHe": "אולם מספר אחת בבית המשפט העליון של הממלכה המאוחדת בלונדון",
+      "semanticDescriptionHe": "צילום מוסד שיפוטי להמחשת המחקר ההשוואתי על עצמאות בתי משפט; אינו מציג אירוע של התערבות פוליטית.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "DAVID ILIFF",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_the_United_Kingdom,_Court_1_Interior,_London,_UK_-_Diliff.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "fitnessSource": "nightly_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_the_United_Kingdom,_Court_1_Interior,_London,_UK_-_Diliff.jpg",
+      "title": "File:Supreme Court of the United Kingdom, Court 1 Interior, London, UK - Diliff.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Supreme_Court_of_the_United_Kingdom%2C_Court_1_Interior%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 7289,
+      "sourceHeight": 5137,
+      "visualFamily": "judicial_interior",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added."
+    },
+    {
+      "file": "html_qa/rasul-partisan-news-meta-perceptions.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rasul-partisan-news-meta-perceptions.html",
+      "usedBy": [
+        "rasul-partisan-news-meta-perceptions.html"
+      ],
+      "cardTitleHe": "מה חושב עלינו המחנה האחר? חדשות מפלגתיות ותפיסות של עוינות",
+      "authorsHe": "Muhammad Ehab Rasul · בועז המאירי · Gila Hacohen · נחומי מלוביצקי־יפה · Samantha L. Moore-Berg",
+      "visualDescriptionHe": "אולפן רדיו עם מיקרופונים ושולחן שידור",
+      "semanticDescriptionHe": "צילום להמחשת חשיפה לקולות דרך התקשורת; האולפן אינו מזוהה עם כלי התקשורת או המחנות שנבחנו במאמר.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Limsj",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Radio_Studio.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "fitnessSource": "nightly_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Radio_Studio.jpg",
+      "title": "File:Radio Studio.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Radio_Studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 5472,
+      "sourceHeight": 3648,
+      "visualFamily": "broadcast_studio",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added."
+    },
+    {
+      "file": "html_qa/forman-rabinovici-mandel-gender-blindness.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "forman-rabinovici-mandel-gender-blindness.html",
+      "usedBy": [
+        "forman-rabinovici-mandel-gender-blindness.html"
+      ],
+      "cardTitleHe": "מה מסתתר בממוצע? עיוורון מגדרי במחקר כמותי במדע המדינה",
+      "authorsHe": "עליזה פורמן-רבינוביץ׳ · הדס מנדל",
+      "visualDescriptionHe": "איור של צוות מחקר המשווה חומרי סקר ותמונות של נשים וגברים",
+      "semanticDescriptionHe": "סצנה בדיונית של השוואה מחקרית הממחישה בדיקת הבדלים מגדריים מעבר לממוצע משותף.",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "fitnessSource": "nightly_generated_specific",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset: academic editorial illustration about overlooked gender differences in political science research. Paint a polished warm realistic scene in a university social-science research room, landscape 4:3. Two women researchers and one man examine survey material together, thoughtfully comparing two clearly separate groups of plain paper folders and arranging interview portraits face-up; diverse ordinary adult men and women are represented in small photo prints without captions. Their attention to differences should convey careful research and inclusion. Natural wooden table, daylight, textured documents, bookshelves without lettering, detailed faces and hands, depth and cinematic composition. No legible or generated text, letters, numbers, charts, symbols, UI, logos, watermarks, flags or isolated icons. One coherent scene, not a collage.",
+      "generationMode": "builtin",
+      "visualFamily": "survey_research"
+    },
+    {
+      "file": "html_qa/giannetti-umansky-sened-five-star-italy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "giannetti-umansky-sened-five-star-italy.html",
+      "usedBy": [
+        "giannetti-umansky-sened-five-star-italy.html"
+      ],
+      "cardTitleHe": "איך תנועת חמשת הכוכבים שינתה את מרחב התחרות באיטליה?",
+      "authorsHe": "Daniela Giannetti · Karen Umansky · איתי סנד",
+      "visualDescriptionHe": "מליאת בית הנבחרים האיטלקי בארמון מונטצ׳יטוריו ברומא",
+      "semanticDescriptionHe": "צילום בית הנבחרים האיטלקי בטקס ב־2022 להמחשת הזירה המוסדית; אינו מתעד את בחירות 2008–2018 שנחקרו.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-28",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; cropped/resized to 800x600 progressive JPEG. No overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "creator": "Francesco Ammendola / Presidenza della Repubblica — Quirinale.it",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aula_Montecitorio_2022.jpg",
+      "license": "Attribution",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aula_Montecitorio_2022.jpg",
+      "fitnessSource": "nightly_commons_specific",
+      "source": "https://commons.wikimedia.org/wiki/File:Aula_Montecitorio_2022.jpg",
+      "title": "File:Aula Montecitorio 2022.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aula_Montecitorio_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": 3543,
+      "sourceHeight": 2362,
+      "visualFamily": "italian_parliament",
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added."
     }
   ],
   "topicGraphics": [
