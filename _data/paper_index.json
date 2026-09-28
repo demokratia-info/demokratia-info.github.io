@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1752,
+  "paperCount": 1762,
   "papers": [
+    {
+      "slug": "segal-mor-doron-older-consumers-rights",
+      "file": "segal-mor-doron-older-consumers-rights.html",
+      "permalink": "/segal-mor-doron-older-consumers-rights.html",
+      "sortKey": 202609290010,
+      "titleHe": "זכויות צרכנים מבוגרים: הגנה מפני ניצול בלי לפגוע באוטונומיה",
+      "paperTitle": "The Judicial Construction of Older Consumers’ Rights: A Qualitative Case-Law Analysis",
+      "authorsCardHe": "מיכל סגל · שגית מור · ישראל דורון",
+      "sourceAuthors": [
+        "Michal Segal",
+        "Sagit Mor",
+        "Israel (Issi) Doron"
+      ],
+      "journal": "Canadian Journal of Law and Society / Revue Canadienne Droit et Société 36(1), 159-180",
+      "dateText": "22 בפברואר 2021",
+      "doiUrl": "https://doi.org/10.1017/cls.2020.36",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/segal-mor-doron-older-consumers-rights.jpg",
+        "altHe": "המחשה בדיונית של צרכנית מבוגרת הבוחנת מסמך עם עובדת חנות למכשירי חשמל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "מיכל סגל, שגית מור וישראל דורון מנתחים 62 פסקי דין ישראליים הנוגעים לצרכנים מבוגרים. הם מראים כיצד הגנה משפטית עלולה להישען על דימוי גורף של זקנה כחולשה וחוסר אונים. המודל שהם מציעים בוחן את יכולת ההחלטה של האדם ואת התנהגות העסק, כדי לשלב הגנה יעילה עם כבוד ועצמאות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hirsch-social-movements-investment-rights",
+      "file": "hirsch-social-movements-investment-rights.html",
+      "permalink": "/hirsch-social-movements-investment-rights.html",
+      "sortKey": 202609290009,
+      "titleHe": "תנועות חברתיות ובוררות השקעות: להכניס את זכויות התושבים לדיון",
+      "paperTitle": "Social movements, reframing investment relations, and enhancing the application of human rights norms in international investment law",
+      "authorsCardHe": "משה הירש",
+      "sourceAuthors": [
+        "Moshe Hirsch"
+      ],
+      "journal": "Leiden Journal of International Law 34(1), 127-154",
+      "dateText": "2 בדצמבר 2020",
+      "doiUrl": "https://doi.org/10.1017/s0922156520000643",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/hirsch-social-movements-investment-rights.jpg",
+        "altHe": "תושבים משתתפים בהתייעצות ציבורית בנושא המים בקוצ׳במבה בשנת 2000",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "משה הירש בוחן כיצד תנועות חברתיות משנות את האופן שבו נתפסים סכסוכים בין משקיעים זרים למדינות. הן מפנות את המבט גם לקהילות שהשקעות והליכי בוררות משפיעים על זכויותיהן. המאמר מצביע על שינוי מוגבל בקליטת זכויות אדם במשפט ההשקעות ומציע להרחיב שקיפות והשתתפות של הציבור הנפגע.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "raday-religion-culture-human-rights",
+      "file": "raday-religion-culture-human-rights.html",
+      "permalink": "/raday-religion-culture-human-rights.html",
+      "sortKey": 202609290008,
+      "titleHe": "מסורת, דת ושוויון: הגנה על זכויות היחיד בתוך הקהילה",
+      "paperTitle": "Traditionalist Religious and Cultural Challengers—International and Constitutional Human Rights Responses",
+      "authorsCardHe": "פרנסס רדאי",
+      "sourceAuthors": [
+        "Frances Raday"
+      ],
+      "journal": "Israel Law Review 41(3), 596-634",
+      "dateText": "2008",
+      "doiUrl": "https://doi.org/10.1017/s0021223700000388",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/raday-religion-culture-human-rights.jpg",
+        "altHe": "אולם מועצת זכויות האדם של האו״ם בז׳נבה בזמן ישיבה ב־2015",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "פרנסס רדאי בוחנת התנגשויות בין דרישות דתיות ותרבותיות מסורתיות לבין זכויות אדם, במיוחד שוויון מגדרי. היא מצביעה על פער בין המסגרת הנורמטיבית של המשפט הבינלאומי לבין נכונותם של בתי משפט לאומיים לאכוף שוויון. הצעתה מגינה על חופש דת ותרבות תוך התנגדות לשימוש בהם להצדקת כפיפות של חברי הקהילה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mandel-semyonov-sector-gender-pay-gap",
+      "file": "mandel-semyonov-sector-gender-pay-gap.html",
+      "permalink": "/mandel-semyonov-sector-gender-pay-gap.html",
+      "sortKey": 202609290007,
+      "titleHe": "פערי שכר מגדריים במגזר הציבורי והפרטי: תפקידן של שעות העבודה",
+      "paperTitle": "Gender Pay Gap and Employment Sector: Sources of Earnings Disparities in the United States, 1970–2010",
+      "authorsCardHe": "הדס מנדל · משה סמיונוב",
+      "sourceAuthors": [
+        "Hadas Mandel",
+        "Moshe Semyonov"
+      ],
+      "journal": "Demography 51(5), 1597-1618",
+      "dateText": "23 באוגוסט 2014",
+      "doiUrl": "https://doi.org/10.1007/s13524-014-0320-y",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mandel-semyonov-sector-gender-pay-gap.jpg",
+        "altHe": "המחשה בדיונית של עובדת האורזת את תיקה במשרד בשעת ערב ועמית הממשיך לעבוד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "הדס מנדל ומשה סמיונוב משווים פערי השתכרות בין נשים לגברים בארצות הברית בשנים 1970–2010. הפער היה קטן יותר במגזר הציבורי, אך הצטמצם מהר יותר במגזר הפרטי. הניתוח מדגיש את חשיבותן של שעות העבודה ומראה מדוע השכלה לבדה אינה מסבירה את התפתחות אי־השוויון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bilsky-transnational-holocaust-litigation",
+      "file": "bilsky-transnational-holocaust-litigation.html",
+      "permalink": "/bilsky-transnational-holocaust-litigation.html",
+      "sortKey": 202609290006,
+      "titleHe": "תביעות השואה נגד תאגידים: צדק אזרחי גם בלי פסק דין מכריע",
+      "paperTitle": "Transnational Holocaust Litigation",
+      "authorsCardHe": "ליאורה בילסקי",
+      "sourceAuthors": [
+        "Leora Bilsky"
+      ],
+      "journal": "European Journal of International Law 23(2), 349-375",
+      "dateText": "מאי 2012",
+      "doiUrl": "https://doi.org/10.1093/ejil/chs021",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bilsky-transnational-holocaust-litigation.jpg",
+        "altHe": "בית המשפט הפדרלי של המחוז המזרחי של ניו יורק בברוקלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "ליאורה בילסקי בוחנת את תביעות ההשבה והפיצוי שהוגשו בארצות הברית נגד בנקים שווייצריים ותאגידים גרמניים. היא טוענת שאין למדוד את תרומתן רק לפי השאלה אם הסתיימו בפסק דין שקבע אחריות. תובענות ייצוגיות ופשרות אפשרו לנפגעים לפעול יחד, פתחו ארכיונים והעבירו את המבט מאשם של יחידים לאחריות של ארגונים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gavison-immigration-universal-rights-states",
+      "file": "gavison-immigration-universal-rights-states.html",
+      "permalink": "/gavison-immigration-universal-rights-states.html",
+      "sortKey": 202609290005,
+      "titleHe": "הגירה וזכויות אדם: אחריות המדינה, זכויות אוניברסליות ומשמעות המספרים",
+      "paperTitle": "Immigration and the Human Rights Discourse: The Universality of Human Rights and the Relevance of States and of Numbers",
+      "authorsCardHe": "רות גביזון",
+      "sourceAuthors": [
+        "Ruth Gavison"
+      ],
+      "journal": "Israel Law Review 43(1), 7-48",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1017/s0021223700000030",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gavison-immigration-universal-rights-states.jpg",
+        "altHe": "מהגרים ממתינים להעברה באליס איילנד בשנת 1912",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "רות גביזון מבחינה בין הגנה על זכויות האדם של מהגרים לבין הכרעה כוללת במדיניות הגירה. היא טוענת ששיח זכויות המתמקד במקרים יחידים מתקשה לעתים לטפל בהיקף ההגירה, בחלוקת האחריות וביכולת הקליטה. הצעתה משלבת הגנות בסיסיות עם מדיניות ציבורית רחבה ואחריות דמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "asher-naor-mann-lebanon-political-satire",
+      "file": "asher-naor-mann-lebanon-political-satire.html",
+      "permalink": "/asher-naor-mann-lebanon-political-satire.html",
+      "sortKey": 202609290004,
+      "titleHe": "סאטירה פוליטית בלבנון: גבולות הביטוי בין החוק, האיום והמסך",
+      "paperTitle": "Defending Freedom of Expression and Challenging the Press and Media Laws in Lebanon: The Case of the Lebanese Political TV Satire Shows",
+      "authorsCardHe": "אבנר אשר · דן נאור · יוסי מן",
+      "sourceAuthors": [
+        "Avner Asher",
+        "Dan Naor",
+        "Yossi Mann"
+      ],
+      "journal": "Contemporary Review of the Middle East 8(4), 388-409",
+      "dateText": "16 בספטמבר 2021",
+      "doiUrl": "https://doi.org/10.1177/23477989211027068",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/asher-naor-mann-lebanon-political-satire.jpg",
+        "altHe": "המחשה בדיונית של צילום מערכון סאטירי באולפן קטן בביירות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "אבנר אשר, דן נאור ויוסי מן מנתחים כ־1,700 מערכונים מחמש תוכניות סאטירה לבנוניות. הם מראים כיצד יוצרים מרחיבים את מרחב הביקורת באמצעות הומור ורמיזות, ובו בזמן נזהרים מנושאים ומדמויות מסוימים. התוצאה היא חופש ביטוי לא אחיד, המעוצב הן בידי החוק והן בידי כוח פוליטי ולחצים בלתי רשמיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dudai-human-rights-organizational-biographies",
+      "file": "dudai-human-rights-organizational-biographies.html",
+      "permalink": "/dudai-human-rights-organizational-biographies.html",
+      "sortKey": 202609290003,
+      "titleHe": "ביוגרפיות של ארגוני זכויות אדם: ההיסטוריה שנחשפת מתוך העבודה היומיומית",
+      "paperTitle": "The Life and Times of Human Rights Organizations: Organizational Biographies and the Sociology of Human Rights",
+      "authorsCardHe": "רון דודאי",
+      "sourceAuthors": [
+        "Ron Dudai"
+      ],
+      "journal": "Social & Legal Studies 32(4), 645-653",
+      "dateText": "2 בינואר 2023",
+      "doiUrl": "https://doi.org/10.1177/09646639221146078",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dudai-human-rights-organizational-biographies.jpg",
+        "altHe": "המחשה בדיונית של פעילים וחוקר המעיינים במסמכים בחדר ארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "רון דודאי מציע לחקור זכויות אדם דרך תולדותיהם של ארגונים מסוימים והדילמות שהתמודדו עמן. הדיון במחקר על ארגון אל־חק מדגים כיצד תיעוד, ויכוחים פנימיים וקשרים מקומיים מעצבים פעולה ציבורית. נקודת המבט הזאת מסבכת סיפורים כוללים על ניצחון או כישלון של תנועת זכויות האדם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "efrat-newman-extradition-human-rights",
+      "file": "efrat-newman-extradition-human-rights.html",
+      "permalink": "/efrat-newman-extradition-human-rights.html",
+      "sortKey": 202609290002,
+      "titleHe": "זכויות אדם והסגרת מבוקשים: כשהגנה על היחיד מגבילה שיתוף פעולה",
+      "paperTitle": "Defending core values: Human rights and the extradition of fugitives",
+      "authorsCardHe": "אסיף אפרת · Abraham L. Newman",
+      "sourceAuthors": [
+        "Asif Efrat",
+        "Abraham L. Newman"
+      ],
+      "journal": "Journal of Peace Research 57(4), 581-596",
+      "dateText": "28 באפריל 2020",
+      "doiUrl": "https://doi.org/10.1177/0022343319898231",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/efrat-newman-extradition-human-rights.jpg",
+        "altHe": "המחשה בדיונית של פגישה בין נוסע, עורכת דין ואיש רשות בחדר בשדה תעופה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "אסיף אפרת ואברהם ניומן מוצאים קשר בין כיבוד זכויות אדם במדינה לבין היקף נמוך יותר של הסגרת מבוקשים. הניתוח משלב נתונים מן האיחוד האירופי ומארצות הברית עם דיון במקרה הבריטי. הוא מראה כיצד החשש לגורל האדם המוסגר יכול להגביל שיתוף פעולה באכיפת חוק גם בין דמוקרטיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ashwall-yakar-women-in-red-protest",
+      "file": "ashwall-yakar-women-in-red-protest.html",
+      "permalink": "/ashwall-yakar-women-in-red-protest.html",
+      "sortKey": 202609290001,
+      "titleHe": "מחאת הנשים באדום: נראות ציבורית, זכויות נשים ותגובה לאיום מוסדי",
+      "paperTitle": "Crisis Management and Resilience Building Through the Women in Red Protest: The Handmaid's Tale Performances in Response to Israel's Judicial Overhaul",
+      "authorsCardHe": "Rachelly Ashwall-Yakar · Oriana Abboud-Armaly · Smadar Bracha · Hadar Hashash",
+      "sourceAuthors": [
+        "Rachelly Ashwall-Yakar",
+        "Oriana Abboud-Armaly",
+        "Smadar Bracha",
+        "Hadar Hashash"
+      ],
+      "journal": "Conflict Resolution Quarterly 42(4), 475-487",
+      "dateText": "27 בדצמבר 2024",
+      "doiUrl": "https://doi.org/10.1002/crq.21466",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/ashwall-yakar-women-in-red-protest.jpg",
+        "altHe": "נשים בגלימות אדומות ובכובעים לבנים במחאה בתל אביב במרץ 2023",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-29",
+      "dateModified": "2026-09-29",
+      "summaryHe": "מחאת הגלימות האדומות תרגמה חשש לפגיעה בזכויות נשים לדימוי ציבורי בולט במהלך המחאה על השינויים במערכת המשפט ב־2023. סקר בקרב 185 משיבים בחן היכרות עם המיצג ותפיסות של השפעתו. צוות המחקר מציע לראות בו תגובה מוקדמת למשבר, אך הנתונים אינם מוכיחים שהמחאה שינתה מדיניות או מנעה פגיעה בזכויות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "giannetti-umansky-sened-five-star-italy",
       "file": "giannetti-umansky-sened-five-star-italy.html",
