@@ -1,8 +1,301 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1762,
+  "paperCount": 1772,
   "papers": [
+    {
+      "slug": "stecklov-carletto-gender-migration-albania",
+      "file": "stecklov-carletto-gender-migration-albania.html",
+      "permalink": "/stecklov-carletto-gender-migration-albania.html",
+      "sortKey": 202609300010,
+      "titleHe": "הגירת נשים מאלבניה: יותר יציאה לחו״ל אינה בהכרח יותר עצמאות",
+      "paperTitle": "Gender and migration from Albania",
+      "authorsCardHe": "Guy Stecklov · Calogero Carletto · Carlo Azzarri · Benjamin Davis",
+      "sourceAuthors": [
+        "Guy Stecklov",
+        "Calogero Carletto",
+        "Carlo Azzarri",
+        "Benjamin Davis"
+      ],
+      "journal": "Demography 47(4), 935–961",
+      "dateText": "נובמבר 2010",
+      "doiUrl": "https://doi.org/10.1007/bf03213734",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/stecklov-carletto-gender-migration-albania.jpg",
+        "altHe": "נוסעים וכלי רכב באזור היציאה ממסוף הנוסעים בנמל דורס באלבניה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "מחקר על הגירה מאלבניה בשנים 1990–2004 מצא שהצטרפות נשים להגירה נותרה קשורה מאוד להרכב המשפחה ולזעזועים במשק הבית. השכלה ורשתות חברתיות הרחיבו הזדמנויות, אך עלייה בהגירה לא העידה בהכרח על עצמאות בקבלת החלטות. הממצאים מדגישים את ההבדל בין גישה לתנועה חוצת גבולות לבין יכולת ממשית לבחור בה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hou-canetti-hong-kong-democracy-health",
+      "file": "hou-canetti-hong-kong-democracy-health.html",
+      "permalink": "/hou-canetti-hong-kong-democracy-health.html",
+      "sortKey": 202609300009,
+      "titleHe": "אובדן משאבים ומצוקה נפשית אחרי מחאת המטריות בהונג קונג",
+      "paperTitle": "Threat to democracy: Physical and mental health impact of democracy movement in Hong Kong",
+      "authorsCardHe": "Wai Kai Hou · Brian J. Hall · דפנה קנטי · Kam Man Lau · Sin Man Ng · Stevan E. Hobfoll",
+      "sourceAuthors": [
+        "Wai Kai Hou",
+        "Brian J. Hall",
+        "Daphna Canetti",
+        "Kam Man Lau",
+        "Sin Man Ng",
+        "Stevan E. Hobfoll"
+      ],
+      "journal": "Journal of Affective Disorders 186, 74–82",
+      "dateText": "21 ביולי 2015",
+      "doiUrl": "https://doi.org/10.1016/j.jad.2015.07.005",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/hou-canetti-hong-kong-democracy-health.jpg",
+        "altHe": "מפגינים במחאת המטריות באזור אדמירליטי בהונג קונג בליל 4 באוקטובר 2014",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "סקר של 1,208 תושבים לאחר מחאת המטריות מצא קשר בין אובדן תחושת שליטה וקשרים חברתיים לבין מצוקה נפשית. המחקר ממחיש כיצד משבר סביב ייצוג דמוקרטי עשוי להשתלב בחיי היום־יום וברווחה האישית. מאחר שנערך במועד אחד וללא מדידת בריאות מוקדמת, הוא אינו מוכיח שהמחאה עצמה גרמה לתסמינים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "szekeres-shuman-saguy-metoo-attitudes",
+      "file": "szekeres-shuman-saguy-metoo-attitudes.html",
+      "permalink": "/szekeres-shuman-saguy-metoo-attitudes.html",
+      "sortKey": 202609300008,
+      "titleHe": "עמדות כלפי תקיפה מינית אחרי MeToo: שינוי לאורך זמן והבדלים בין קבוצות",
+      "paperTitle": "Views of sexual assault following #MeToo: The role of gender and individual differences",
+      "authorsCardHe": "Hanna Szekeres · אריק שומן · תמר שגיא",
+      "sourceAuthors": [
+        "Hanna Szekeres",
+        "Eric Shuman",
+        "Tamar Saguy"
+      ],
+      "journal": "Personality and Individual Differences 166, 110203",
+      "dateText": "27 ביוני 2020",
+      "doiUrl": "https://doi.org/10.1016/j.paid.2020.110203",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/szekeres-shuman-saguy-metoo-attitudes.jpg",
+        "altHe": "המחשה בדיונית של שיחה קשובה בין נשים וגבר בסלון ביתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "מעקב בארבעה מועדים אחר משיבים בארצות הברית מצא ירידה בנטייה לבטל תלונות על תקיפה מינית לאחר התפשטות MeToo, שנשמרה גם כעבור חצי שנה. השינוי השתנה לפי מגדר ותמיכה בהיררכיה בין קבוצות. נשירה ניכרת והיעדר קבוצת ביקורת מחייבים להבחין בין שינוי שנצפה בקרב המשתתפים לבין הוכחה להשפעת התנועה על הציבור כולו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "alon-diprete-gender-field-study-choice",
+      "file": "alon-diprete-gender-field-study-choice.html",
+      "permalink": "/alon-diprete-gender-field-study-choice.html",
+      "sortKey": 202609300007,
+      "titleHe": "בחירת תחום לימודים: הפער המגדרי בין האפשרויות הנשקלות לעדיפות הראשונה",
+      "paperTitle": "Gender Differences in the Formation of a Field of Study Choice Set",
+      "authorsCardHe": "סיגל אלון · Thomas A. DiPrete",
+      "sourceAuthors": [
+        "Sigal Alon",
+        "Thomas A. DiPrete"
+      ],
+      "journal": "Sociological Science 2, 50–81",
+      "dateText": "18 בפברואר 2015",
+      "doiUrl": "https://doi.org/10.15195/v2.a5",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/alon-diprete-gender-field-study-choice.jpg",
+        "altHe": "מדשאה ובניינים בקמפוס אוניברסיטת תל אביב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "סיגל אלון ותומס דיפרטה מראים שההפרדה המגדרית בתחומי לימוד קטנה יותר ברשימת החלופות שהמועמדים שוקלים מאשר בבחירתם הראשונה. נתוני מועמדות לאוניברסיטאות בישראל חושפים תהליך שבו פתיחות לאפשרויות אינה מתורגמת בהכרח לדירוג דומה. צמצום פערים מחייב אפוא להבין גם כיצד מדרגים חלופות, מעבר לעצם הנגישות ללימודים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "zeltzer-gender-homophily-physician-referrals",
+      "file": "zeltzer-gender-homophily-physician-referrals.html",
+      "permalink": "/zeltzer-gender-homophily-physician-referrals.html",
+      "sortKey": 202609300006,
+      "titleHe": "רשתות הפניה בין רופאים ופערי ההכנסה בין נשים לגברים",
+      "paperTitle": "Gender Homophily in Referral Networks: Consequences for the Medicare Physician Earnings Gap",
+      "authorsCardHe": "דן זלצר",
+      "sourceAuthors": [
+        "Dan Zeltzer"
+      ],
+      "journal": "American Economic Journal: Applied Economics 12(2), 169–197",
+      "dateText": "אפריל 2020",
+      "doiUrl": "https://doi.org/10.1257/app.20180201",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/zeltzer-gender-homophily-physician-referrals.jpg",
+        "altHe": "המחשה בדיונית של רופאה מומחית במסדרון מרפאה לצד עמיתים המשוחחים על הפניה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "דן זלצר מנתח רשתות הפניה של Medicare ומראה שרופאים נוטים להפנות למומחים בני אותו מגדר, גם לאחר התחשבות במאפיינים מקצועיים וגאוגרפיים. כשהרוב בקרב הרופאים המפנים הוא גברי, נטייה הדדית כזאת יוצרת חיסרון לרופאות מומחיות. המחקר מצביע על רשתות מקצועיות כמנגנון המשפיע על הזדמנויות כלכליות מעבר לכללי שכר פורמליים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cislak-formanowicz-saguy-gender-bias-research",
+      "file": "cislak-formanowicz-saguy-gender-bias-research.html",
+      "permalink": "/cislak-formanowicz-saguy-gender-bias-research.html",
+      "sortKey": 202609300005,
+      "titleHe": "הטיה כלפי מחקר על הטיה מגדרית: מימון ומעמד אקדמי",
+      "paperTitle": "Bias against research on gender bias",
+      "authorsCardHe": "Aleksandra Cislak · Magdalena Formanowicz · תמר שגיא",
+      "sourceAuthors": [
+        "Aleksandra Cislak",
+        "Magdalena Formanowicz",
+        "Tamar Saguy"
+      ],
+      "journal": "Scientometrics 115(1), 189–200",
+      "dateText": "17 בפברואר 2018",
+      "doiUrl": "https://doi.org/10.1007/s11192-018-2667-0",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/cislak-formanowicz-saguy-gender-bias-research.jpg",
+        "altHe": "המחשה בדיונית של דיון בין חוקרים בהערכת כתב יד אקדמי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "השוואה בין מחקרים על הטיה מגדרית למחקרים על הטיה גזעית מצאה שהראשונים דיווחו פחות על מימון והופיעו בכתבי עת בעלי מדד השפעה נמוך יותר. הפער לא הוסבר במלואו בהרכב המגדרי של המחברים או בסוג שיטת המחקר. הממצאים מעלים שאלה מוסדית על המשאבים וההכרה המוקצים לחקר אי־שוויון, בלי להוכיח כוונת אפליה אצל שופטים או מממנים מסוימים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "katz-gramscian-global-civil-society-networks",
+      "file": "katz-gramscian-global-civil-society-networks.html",
+      "permalink": "/katz-gramscian-global-civil-society-networks.html",
+      "sortKey": 202609300004,
+      "titleHe": "רשתות החברה האזרחית העולמית: בין שיתוף פעולה לשעתוק פערי כוח",
+      "paperTitle": "Gramsci, Hegemony, and Global Civil Society Networks",
+      "authorsCardHe": "חגי כץ",
+      "sourceAuthors": [
+        "Hagai Katz"
+      ],
+      "journal": "Voluntas 17(4), 333–348",
+      "dateText": "6 בדצמבר 2006",
+      "doiUrl": "https://doi.org/10.1007/s11266-006-9022-4",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/katz-gramscian-global-civil-society-networks.jpg",
+        "altHe": "המחשה בדיונית של משתתפים ממקומות שונים בסדנת חברה אזרחית בינלאומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "חגי כץ בוחן רשת של 10,001 ארגונים בינלאומיים לא ממשלתיים כדי לבדוק אם החברה האזרחית העולמית מערערת יחסי כוח או משמרת אותם. לצד קשרים החוצים תחומים ואזורים, הוא מוצא ריכוז בולט במדינות עשירות. השתתפות גלובלית אפקטיבית תלויה אפוא גם בגישה למשאבים ולמרכזי הרשת, ולא רק בעצם קיומם של ארגונים רבים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "danziger-levav-avnaim-pesso-judicial-breaks",
+      "file": "danziger-levav-avnaim-pesso-judicial-breaks.html",
+      "permalink": "/danziger-levav-avnaim-pesso-judicial-breaks.html",
+      "sortKey": 202609300003,
+      "titleHe": "סדר הדיונים והפסקות בוועדות שחרורים: גורמים חיצוניים בהחלטות שיפוטיות",
+      "paperTitle": "Extraneous factors in judicial decisions",
+      "authorsCardHe": "שי דנציגר · יונתן לבב · Liora Avnaim-Pesso",
+      "sourceAuthors": [
+        "Shai Danziger",
+        "Jonathan Levav",
+        "Liora Avnaim-Pesso"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences 108(17), 6889–6892",
+      "dateText": "11 באפריל 2011",
+      "doiUrl": "https://doi.org/10.1073/pnas.1018033108",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/danziger-levav-avnaim-pesso-judicial-breaks.jpg",
+        "altHe": "המחשה בדיונית של הפסקה בין דיונים בחדר ועדת שחרורים, עם תיקי דיון וארוחה בצד",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "ניתוח 1,112 החלטות של ועדות שחרורים בישראל מצא ששיעור ההחלטות לטובת האסיר ירד לאורך רצף הדיונים ועלה מחדש לאחר הפסקות. המחקר מצביע על חשיבות התנאים שבהם מתקבלות החלטות הנוגעות לחירות. מכיוון שסדר התיקים לא הוגרל והמנוחה והאכילה התרחשו יחד, אין בנתונים הוכחה שרעב הוא הסיבה לדפוס.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shinar-su-religious-law-constitutional-interpretation",
+      "file": "shinar-su-religious-law-constitutional-interpretation.html",
+      "permalink": "/shinar-su-religious-law-constitutional-interpretation.html",
+      "sortKey": 202609300002,
+      "titleHe": "דין דתי בפרשנות חוקתית: מתי אפשר ללמוד ממנו כמקור השוואתי",
+      "paperTitle": "Religious law as foreign law in constitutional interpretation",
+      "authorsCardHe": "אדם שנער · Anna Su",
+      "sourceAuthors": [
+        "Adam Shinar",
+        "Anna Su"
+      ],
+      "journal": "International Journal of Constitutional Law 11(1), 74–100",
+      "dateText": "7 בינואר 2013",
+      "doiUrl": "https://doi.org/10.1093/icon/mos048",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shinar-su-religious-law-constitutional-interpretation.jpg",
+        "altHe": "המחשה בדיונית של חוקרת משפט המשווה ספרים ומסמכים בספרייה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "אדם שנער ואנה סו מציעים לבחון הפניות לדין דתי בכלים הדומים לאלה המשמשים לבחינת משפט זר. מקור דתי יכול לספק חומר היסטורי או טיעון משכנע בלי לקבל סמכות מחייבת. ההבחנה מאפשרת לדון ברלוונטיות, בשוויון ובחופש המצפון במקום לפסול מראש כל אזכור דתי בפסיקה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "salzberger-fenn-judicial-independence-promotion",
+      "file": "salzberger-fenn-judicial-independence-promotion.html",
+      "permalink": "/salzberger-fenn-judicial-independence-promotion.html",
+      "sortKey": 202609300001,
+      "titleHe": "עצמאות שיפוטית וקידום שופטים: ראיות מבית המשפט לערעורים באנגליה",
+      "paperTitle": "Judicial Independence: Some Evidence from the English Court of Appeal",
+      "authorsCardHe": "עלי זלצברגר · Paul Fenn",
+      "sourceAuthors": [
+        "Eli Salzberger",
+        "Paul Fenn"
+      ],
+      "journal": "The Journal of Law and Economics 42(2), 831–847",
+      "dateText": "אוקטובר 1999",
+      "doiUrl": "https://doi.org/10.1086/467444",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/salzberger-fenn-judicial-independence-promotion.jpg",
+        "altHe": "בתי המשפט המלכותיים בלונדון, מקום מושבו של בית המשפט לערעורים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-09-30",
+      "dateModified": "2026-09-30",
+      "summaryHe": "מחקר על קידום שופטים באנגליה בשנים 1951–1986 לא מצא שפסיקה נגד הממשלה כשלעצמה פגעה בסיכויי הקידום. שילוב של פסיקות כאלה עם נטייה להפוך החלטות של ערכאות נמוכות נקשר לקידום איטי יותר. הממצאים ממחישים מדוע בחינת עצמאות שיפוטית מחייבת לבדוק תמריצים ודפוסי התנהגות לצד הסמכות הפורמלית למנות שופטים.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "segal-mor-doron-older-consumers-rights",
       "file": "segal-mor-doron-older-consumers-rights.html",

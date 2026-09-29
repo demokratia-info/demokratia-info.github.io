@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-29",
+  "lastUpdated": "2026-09-30",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -48030,6 +48030,318 @@
       "sourceType": "generated",
       "provider": "OpenAI built-in image generation",
       "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/salzberger-fenn-judicial-independence-promotion.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "salzberger-fenn-judicial-independence-promotion.html",
+      "usedBy": [
+        "salzberger-fenn-judicial-independence-promotion.html"
+      ],
+      "cardTitleHe": "עצמאות שיפוטית וקידום שופטים: ראיות מבית המשפט לערעורים באנגליה",
+      "authorsHe": "עלי זלצברגר · Paul Fenn",
+      "visualDescriptionHe": "בתי המשפט המלכותיים בלונדון, מקום מושבו של בית המשפט לערעורים",
+      "semanticDescriptionHe": "בתי המשפט המלכותיים בלונדון, מקום מושבו של בית המשפט לערעורים. צילום תיעודי של המקום או האירוע הנדון במאמר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "london_court_architecture",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_exterior_-_03.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Royal_Courts_of_Justice_exterior_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added.",
+      "creator": "The wub",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_exterior_-_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "fitnessSource": "nightly_commons_specific"
+    },
+    {
+      "file": "html_qa/shinar-su-religious-law-constitutional-interpretation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shinar-su-religious-law-constitutional-interpretation.html",
+      "usedBy": [
+        "shinar-su-religious-law-constitutional-interpretation.html"
+      ],
+      "cardTitleHe": "דין דתי בפרשנות חוקתית: מתי אפשר ללמוד ממנו כמקור השוואתי",
+      "authorsHe": "אדם שנער · Anna Su",
+      "visualDescriptionHe": "המחשה בדיונית של חוקרת משפט המשווה ספרים ומסמכים בספרייה",
+      "semanticDescriptionHe": "המחשה בדיונית של חוקרת משפט המשווה ספרים ומסמכים בספרייה. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "comparative_law_library",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: editorial illustration for an academic article about using religious legal traditions as optional comparative sources in constitutional interpretation. Create one polished, richly textured, realistic painted scene in a warm law library: a female legal scholar at a substantial oak reading desk compares three open unmarked old volumes with a modern legal binder, another scholar sits farther back among tall bookshelves. Carefully considered inquiry and pluralism, soft side-window daylight, layered room depth, natural hands and faces, teal and amber details. 4:3 landscape. Fictional people, no visible writing or letters on pages or spines, no logos, no watermark, no flags, no graphic symbols, no scales, no UI, no collage. The image must be a full coherent human scene, not a diagram or flat vector art.",
+      "generationMode": "builtin",
+      "editPrompt": "Use case: precise-object-edit. Edit this law-library editorial image. Preserve the people, their identities and positions, the room, lighting, colors, composition and realistic texture. Remove every trace of lettering, printed characters and pseudo-writing from all visible papers, all book pages and all book spines. Replace printed pages with completely blank warm ivory sheets, and book spines with plain unmarked cloth or leather surfaces. Keep natural page texture and shading but absolutely no rows of lines, letters, glyphs or symbols. No added text, logos or watermark. The result should remain the same coherent 4:3 landscape scholarly reading scene.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/danziger-levav-avnaim-pesso-judicial-breaks.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "danziger-levav-avnaim-pesso-judicial-breaks.html",
+      "usedBy": [
+        "danziger-levav-avnaim-pesso-judicial-breaks.html"
+      ],
+      "cardTitleHe": "סדר הדיונים והפסקות בוועדות שחרורים: גורמים חיצוניים בהחלטות שיפוטיות",
+      "authorsHe": "שי דנציגר · יונתן לבב · Liora Avnaim-Pesso",
+      "visualDescriptionHe": "המחשה בדיונית של הפסקה בין דיונים בחדר ועדת שחרורים, עם תיקי דיון וארוחה בצד",
+      "semanticDescriptionHe": "המחשה בדיונית של הפסקה בין דיונים בחדר ועדת שחרורים, עם תיקי דיון וארוחה בצד. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "parole_hearing_break",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: academic website editorial illustration. A quiet pause between parole hearings in a modest institutional hearing room. In foreground a judicial officer in ordinary dark formal clothes sits away from a desk with a simple cup and a small meal, looking thoughtful. A stack of unmarked case folders remains on the hearing table, empty chairs beyond, open door showing the corridor. A dignified realistic painted scene about cognitive workload and the organization of justice, not a literal depiction of study participants. Landscape 4:3, coherent sophisticated composition with people, room depth, realistic materials and restrained teal/amber palette. Fictional people. No visible text, letters, numbers, logos, flags, watermarks, UI widgets, symbolic scales, diagram shapes, flat vector art or collage.",
+      "generationMode": "builtin",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/katz-gramscian-global-civil-society-networks.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "katz-gramscian-global-civil-society-networks.html",
+      "usedBy": [
+        "katz-gramscian-global-civil-society-networks.html"
+      ],
+      "cardTitleHe": "רשתות החברה האזרחית העולמית: בין שיתוף פעולה לשעתוק פערי כוח",
+      "authorsHe": "חגי כץ",
+      "visualDescriptionHe": "המחשה בדיונית של משתתפים ממקומות שונים בסדנת חברה אזרחית בינלאומית",
+      "semanticDescriptionHe": "המחשה בדיונית של משתתפים ממקומות שונים בסדנת חברה אזרחית בינלאומית. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "international_civil_society_workshop",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: academic website editorial illustration. A busy global civil-society workshop in a sunlit community hall: diverse adult participants from several world regions form small discussion circles across a deep room, connecting separate tables by walking to exchange unmarked folders. A small group near the foreground listens attentively to a speaker from another table. Show unequal group sizes and a rich human setting, no diagrammatic network lines. Warm polished editorial painting about international NGO collaboration and whose voice is heard. Landscape 4:3, coherent sophisticated composition with people, room depth, realistic materials and restrained teal/amber palette. Fictional people. No visible text, letters, numbers, logos, flags, watermarks, UI widgets, symbolic scales, diagram shapes, flat vector art or collage.",
+      "generationMode": "builtin",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/cislak-formanowicz-saguy-gender-bias-research.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cislak-formanowicz-saguy-gender-bias-research.html",
+      "usedBy": [
+        "cislak-formanowicz-saguy-gender-bias-research.html"
+      ],
+      "cardTitleHe": "הטיה כלפי מחקר על הטיה מגדרית: מימון ומעמד אקדמי",
+      "authorsHe": "Aleksandra Cislak · Magdalena Formanowicz · תמר שגיא",
+      "visualDescriptionHe": "המחשה בדיונית של דיון בין חוקרים בהערכת כתב יד אקדמי",
+      "semanticDescriptionHe": "המחשה בדיונית של דיון בין חוקרים בהערכת כתב יד אקדמי. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "academic_manuscript_review",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: academic website editorial illustration. An academic editorial review meeting seen from the side: a woman researcher in the foreground presents an unmarked manuscript to two attentive colleagues, while many other unmarked manuscripts occupy a wooden table. Window light illuminates her thoughtful face; bookshelves and another researcher out of focus in the background. A rich realistic editorial painting about whether research on gender inequality receives fair scholarly attention, without caricaturing or villainizing anyone. Landscape 4:3, coherent sophisticated composition with people, room depth, realistic materials and restrained teal/amber palette. Fictional people. No visible text, letters, numbers, logos, flags, watermarks, UI widgets, symbolic scales, diagram shapes, flat vector art or collage.",
+      "generationMode": "builtin",
+      "editPrompt": "Edit this existing editorial photograph only to remove all writing or letters from the papers, folders and books. Make all visible document sheets naturally blank cream paper, retaining shadows and paper texture. Preserve the reviewers, poses, table, lighting, photographic style and composition. No text, letters, logos, watermarks or UI.",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/zeltzer-gender-homophily-physician-referrals.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zeltzer-gender-homophily-physician-referrals.html",
+      "usedBy": [
+        "zeltzer-gender-homophily-physician-referrals.html"
+      ],
+      "cardTitleHe": "רשתות הפניה בין רופאים ופערי ההכנסה בין נשים לגברים",
+      "authorsHe": "דן זלצר",
+      "visualDescriptionHe": "המחשה בדיונית של רופאה מומחית במסדרון מרפאה לצד עמיתים המשוחחים על הפניה",
+      "semanticDescriptionHe": "המחשה בדיונית של רופאה מומחית במסדרון מרפאה לצד עמיתים המשוחחים על הפניה. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "physician_referral_network",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: academic website editorial illustration. A hospital corridor with depth and textured daylight: a male primary-care physician and another male specialist confer in the middle distance, while a female specialist with an unmarked patient folder waits professionally at an adjacent consultation-room door in the foreground. Respectful natural poses and faces, no patients, no distress. Warm polished editorial painting about professional referral networks and gendered access to work, a fictional conceptual scene. Landscape 4:3, coherent sophisticated composition with people, room depth, realistic materials and restrained teal/amber palette. Fictional people. No visible text, letters, numbers, logos, flags, watermarks, UI widgets, symbolic scales, diagram shapes, flat vector art or collage.",
+      "generationMode": "builtin",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/alon-diprete-gender-field-study-choice.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "alon-diprete-gender-field-study-choice.html",
+      "usedBy": [
+        "alon-diprete-gender-field-study-choice.html"
+      ],
+      "cardTitleHe": "בחירת תחום לימודים: הפער המגדרי בין האפשרויות הנשקלות לעדיפות הראשונה",
+      "authorsHe": "סיגל אלון · Thomas A. DiPrete",
+      "visualDescriptionHe": "מדשאה ובניינים בקמפוס אוניברסיטת תל אביב",
+      "semanticDescriptionHe": "מדשאה ובניינים בקמפוס אוניברסיטת תל אביב. צילום הקשר בלבד; אינו מציג את משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "tel_aviv_campus",
+      "source": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%93%D7%A9%D7%90%D7%94_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%D7%9E%D7%93%D7%A9%D7%90%D7%94_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added.",
+      "creator": "SparksRain",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%93%D7%A9%D7%90%D7%94_%D7%91%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "fitnessSource": "nightly_commons_specific"
+    },
+    {
+      "file": "html_qa/szekeres-shuman-saguy-metoo-attitudes.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "szekeres-shuman-saguy-metoo-attitudes.html",
+      "usedBy": [
+        "szekeres-shuman-saguy-metoo-attitudes.html"
+      ],
+      "cardTitleHe": "עמדות כלפי תקיפה מינית אחרי MeToo: שינוי לאורך זמן והבדלים בין קבוצות",
+      "authorsHe": "Hanna Szekeres · אריק שומן · תמר שגיא",
+      "visualDescriptionHe": "המחשה בדיונית של שיחה קשובה בין נשים וגבר בסלון ביתי",
+      "semanticDescriptionHe": "המחשה בדיונית של שיחה קשובה בין נשים וגבר בסלון ביתי. המחשה מקורית של נושא המאמר; אינה תיעוד של משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "public_attitudes_conversation",
+      "source": "OpenAI built-in image generation",
+      "prompt": "Use case: illustration-story. Asset type: academic website editorial illustration. Three adults, two women and a man, hold a respectful serious conversation in a warm everyday living room after reading news about gender and sexual harassment. A smartphone lies face down beside plain cups; one woman speaks while the others listen. Medium wide view, natural posture and expressive faces, tactile upholstery, layered warm window light. A thoughtful realistic editorial painting about changes in public perceptions after MeToo, no violence, no depiction of assault, no slogan. Landscape 4:3, coherent sophisticated composition with people, room depth, realistic materials and restrained teal/amber palette. Fictional people. No visible text, letters, numbers, logos, flags, watermarks, UI widgets, symbolic scales, diagram shapes, flat vector art or collage.",
+      "generationMode": "builtin",
+      "creator": "OpenAI image generation",
+      "sourceType": "generated",
+      "provider": "OpenAI built-in image generation",
+      "fitnessSource": "nightly_generated_specific"
+    },
+    {
+      "file": "html_qa/hou-canetti-hong-kong-democracy-health.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hou-canetti-hong-kong-democracy-health.html",
+      "usedBy": [
+        "hou-canetti-hong-kong-democracy-health.html"
+      ],
+      "cardTitleHe": "אובדן משאבים ומצוקה נפשית אחרי מחאת המטריות בהונג קונג",
+      "authorsHe": "Wai Kai Hou · Brian J. Hall · דפנה קנטי · Kam Man Lau · Sin Man Ng · Stevan E. Hobfoll",
+      "visualDescriptionHe": "מפגינים במחאת המטריות באזור אדמירליטי בהונג קונג בליל 4 באוקטובר 2014",
+      "semanticDescriptionHe": "מפגינים במחאת המטריות באזור אדמירליטי בהונג קונג בליל 4 באוקטובר 2014. צילום תיעודי של המקום או האירוע הנדון במאמר.",
+      "tags": [
+        "public-opinion-polarization-violence"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "high",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "hong_kong_umbrella_crowd",
+      "source": "https://commons.wikimedia.org/wiki/File:Umbrella_Revolution_in_Admiralty_Night_view_20141004.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Umbrella_Revolution_in_Admiralty_Night_view_20141004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped and resized to 800x600; JPEG recompression; no content added.",
+      "creator": "Doctor Ho",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Umbrella_Revolution_in_Admiralty_Night_view_20141004.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "fitnessSource": "nightly_commons_specific"
+    },
+    {
+      "file": "html_qa/stecklov-carletto-gender-migration-albania.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "stecklov-carletto-gender-migration-albania.html",
+      "usedBy": [
+        "stecklov-carletto-gender-migration-albania.html"
+      ],
+      "cardTitleHe": "הגירת נשים מאלבניה: יותר יציאה לחו״ל אינה בהכרח יותר עצמאות",
+      "authorsHe": "Guy Stecklov · Calogero Carletto · Carlo Azzarri · Benjamin Davis",
+      "visualDescriptionHe": "נוסעים וכלי רכב באזור היציאה ממסוף הנוסעים בנמל דורס באלבניה",
+      "semanticDescriptionHe": "נוסעים וכלי רכב באזור היציאה ממסוף הנוסעים בנמל דורס באלבניה. צילום הקשר בלבד; אינו מציג את משתתפי המחקר.",
+      "tags": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "createdDate": "2026-09-30",
+      "fitness": "standard",
+      "qualityNotes": "Visually reviewed; 800x600 progressive JPEG; no overlays added.",
+      "reuseGuidance": "Created or obtained for this paper only; must not be reused for future new papers.",
+      "visualFamily": "albania_port_passengers",
+      "source": "https://commons.wikimedia.org/wiki/File:Durres_harbor_ferry_landing.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Durres_harbor_ferry_landing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "licenseAppliesTo": "Original photograph and this cropped/resized derivative under the stated license.",
+      "modifications": "Cropped to passenger exit gates from the 1280x851 source thumbnail (box 400,0,1200,600); JPEG recompression; no content added.",
+      "creator": "Albinfo",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Durres_harbor_ferry_landing.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "fitnessSource": "nightly_commons_specific"
     }
   ],
   "topicGraphics": [
