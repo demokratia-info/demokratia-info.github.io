@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1772,
+  "paperCount": 1782,
   "papers": [
+    {
+      "slug": "pinto-arabic-language-intrinsic-value",
+      "file": "pinto-arabic-language-intrinsic-value.html",
+      "permalink": "/pinto-arabic-language-intrinsic-value.html",
+      "sortKey": 202610010010,
+      "titleHe": "הערך של הערבית בישראל: שפה כמרכיב של זהות תרבותית",
+      "paperTitle": "On the Intrinsic Value of Arabic in Israel—Challenging Kymlicka on Language Rights",
+      "authorsCardHe": "מיטל פינטו",
+      "sourceAuthors": [
+        "Meital Pinto"
+      ],
+      "journal": "Canadian Journal of Law & Jurisprudence 20(1), 143–172",
+      "dateText": "ינואר 2007",
+      "doiUrl": "https://doi.org/10.1017/s0841820900005737",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/pinto-arabic-language-intrinsic-value.jpg",
+        "altHe": "אנשים בשוק בנצרת בשנת 2007",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "מיטל פינטו מציעה להצדיק זכויות שפה באמצעות חשיבות השפה לזהות התרבותית, במקום להסתמך רק על ההבחנה בין מיעוט לאומי למיעוט מהגרים. בהשוואתה בין ערבית לרוסית בישראל היא טוענת לאינטרס חזק יותר בהגנת הערבית בשל מקומה בזהות הערבית. הדיון מציע אמת מידה נורמטיבית להגנה על מיעוטים לשוניים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "wolff-nationalism-fascism-democracy",
+      "file": "wolff-nationalism-fascism-democracy.html",
+      "permalink": "/wolff-nationalism-fascism-democracy.html",
+      "sortKey": 202610010009,
+      "titleHe": "לאומיות כבסיס לשלילת הדמוקרטיה באיטליה הפשיסטית ובגרמניה הנאצית",
+      "paperTitle": "Exploiting nationalism in order to repudiate democracy: the case of Fascist Italy and Nazi Germany",
+      "authorsCardHe": "Noga Wolff",
+      "sourceAuthors": [
+        "Noga Wolff"
+      ],
+      "journal": "Journal of Political Ideologies 20(1), 86–108",
+      "dateText": "17 באפריל 2015 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/13569317.2015.991509",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/wolff-nationalism-fascism-democracy.jpg",
+        "altHe": "חגיגת יום החוקה ליד הרייכסטאג בברלין בשנת 1926",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "נוגה וולף מנתחת את כתבי מוסוליני והיטלר כדי לברר כיצד קדימות מוחלטת של האומה יכולה לדחוק ערכים אנושיים אוניברסליים. היא מדגישה סולידריות המוגבלת לבני הקבוצה לצד הממד הגזעי של האידאולוגיות. הטיעון מאיר מנגנון היסטורי של שלילת דמוקרטיה באמצעות החלפת אמת המידה המוסרית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohen-eyal-civic-education-alliances",
+      "file": "cohen-eyal-civic-education-alliances.html",
+      "permalink": "/cohen-eyal-civic-education-alliances.html",
+      "sortKey": 202610010008,
+      "titleHe": "שותפויות בחינוך אזרחי: מתי גורם חיצוני מרחיב את הדיון הדמוקרטי?",
+      "paperTitle": "Cross-sector Alliances for Democratic Civic Education: Do They Serve the Common Good?",
+      "authorsCardHe": "אביב כהן · אורי איל",
+      "sourceAuthors": [
+        "Aviv Cohen",
+        "Ori Eyal"
+      ],
+      "journal": "Peabody Journal of Education 96(3), 319–329",
+      "dateText": "16 ביולי 2021 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/0161956x.2021.1943237",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/cohen-eyal-civic-education-alliances.jpg",
+        "altHe": "איור של מורה, אורחים ותלמידים בדיון כיתתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "ראיונות עם 32 מורים בישראל מראים כי שותפויות בין בתי ספר לגורמים חיצוניים אינן מבטיחות חינוך אזרחי ביקורתי. כהן ואיל מזהים ארבע גישות לשיתוף פעולה וטוענים כי שלוש מהן משמרות יחסי כוח דומיננטיים. הערכת השותפות מחייבת לברר אילו תפיסות אזרחות היא מכניסה לכיתה וכיצד הן קשורות לתוכנית הלימודים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "mandel-lazarus-housework-context",
+      "file": "mandel-lazarus-housework-context.html",
+      "permalink": "/mandel-lazarus-housework-context.html",
+      "sortKey": 202610010007,
+      "titleHe": "חלוקת עבודות הבית: הקשר שבין תעסוקת נשים לנורמות מגדריות",
+      "paperTitle": "Contextual Effects on the Gendered Division of Housework: A Cross-Country and Cross-Time Analysis",
+      "authorsCardHe": "הדס מנדל · Amit Lazarus",
+      "sourceAuthors": [
+        "Hadas Mandel",
+        "Amit Lazarus"
+      ],
+      "journal": "Sex Roles 85(3-4), 205–220",
+      "dateText": "5 בינואר 2021",
+      "doiUrl": "https://doi.org/10.1007/s11199-020-01215-0",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/mandel-lazarus-housework-context.jpg",
+        "altHe": "איור של גבר המקפל כביסה ואישה היוצאת לעבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "השוואה בין 25 מדינות בשנים 2002 ו־2012 בוחנת כיצד הסביבה החברתית קשורה לפער בין נשים לגברים בעבודות הבית. הקשר העצמאי של שיעור תעסוקת הנשים נחלש בין המדידות, וב־2012 בלט יותר הקשר לנורמות שוויוניות. מנדל ולזרוס מציעים לראות במשאבים כלכליים ובתרבות מגדרית תנאים משלימים לשוויון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sabbagh-vanhuysse-welfare-attitudes",
+      "file": "sabbagh-vanhuysse-welfare-attitudes.html",
+      "permalink": "/sabbagh-vanhuysse-welfare-attitudes.html",
+      "sortKey": 202610010006,
+      "titleHe": "עמדות כלפי מדינת הרווחה: מעבר לחלוקה בין בעד לנגד",
+      "paperTitle": "Exploring Attitudes Towards the Welfare State: Students' Views in Eight Democracies",
+      "authorsCardHe": "Clara Sabbagh · Pieter Vanhuysse",
+      "sourceAuthors": [
+        "Clara Sabbagh",
+        "Pieter Vanhuysse"
+      ],
+      "journal": "Journal of Social Policy 35(4), 607–628",
+      "dateText": "4 בספטמבר 2006",
+      "doiUrl": "https://doi.org/10.1017/s0047279406000109",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/sabbagh-vanhuysse-welfare-attitudes.jpg",
+        "altHe": "סטודנטים באולם הרצאות באוניברסיטה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "סקר סטודנטים בשמונה דמוקרטיות מציג תמיכה במדינת הרווחה כצירוף של עמדות על אחריות, עבודה, עוני וחלוקה מחדש. ההבדלים בין משטרי רווחה אינם מסתדרים בסולם פשוט, ובחלקם אף מנוגדים לציפיות. המחקר מציע לבחון מה בדיוק אנשים מבקשים מן המדינה לפני שמסיקים אם הם תומכים ברווחה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "tal-lavi-stem-role-models-gender",
+      "file": "tal-lavi-stem-role-models-gender.html",
+      "permalink": "/tal-lavi-stem-role-models-gender.html",
+      "sortKey": 202610010005,
+      "titleHe": "מודלים לחיקוי במדע ובהנדסה: אמפתיה ועידוד לצד מצוינות",
+      "paperTitle": "Gender Perspectives on Role Models: Insights from STEM Students and Professionals",
+      "authorsCardHe": "Marina Tal · רע לביא · Shari Reiss · Yehudit Judy Dori",
+      "sourceAuthors": [
+        "Marina Tal",
+        "Rea Lavi",
+        "Shari Reiss",
+        "Yehudit Judy Dori"
+      ],
+      "journal": "Journal of Science Education and Technology 33(5), 699–717",
+      "dateText": "11 במאי 2024",
+      "doiUrl": "https://doi.org/10.1007/s10956-024-10114-y",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/tal-lavi-stem-role-models-gender.jpg",
+        "altHe": "אישה בחלוק מעבדה בעבודה לצד ציוד מדעי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "מחקר בקרב סטודנטים ובוגרי הטכניון בוחן מה הופך אדם למודל לחיקוי בתחומי המדע וההנדסה. נשים דיווחו על מודל לחיקוי בשיעור גבוה יותר, אך לא נמצאו הבדלים מובהקים בין המגדרים בתכונות המועדפות. הממצאים מדגישים קשר אנושי ותמיכה כחלק מדיון בשוויון הזדמנויות ובהשתלבות מקצועית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gordon-barzilay-discrimination-sexual-minority-youth",
+      "file": "gordon-barzilay-discrimination-sexual-minority-youth.html",
+      "permalink": "/gordon-barzilay-discrimination-sexual-minority-youth.html",
+      "sortKey": 202610010004,
+      "titleHe": "אפליה, סטיגמה ובריאות נפשית של צעירים ממיעוטים מיניים",
+      "paperTitle": "The Role of Individual Discrimination and Structural Stigma in the Mental Health of Sexual Minority Youth",
+      "authorsCardHe": "Joshua H. Gordon · Kate T. Tran · Elina Visoki · Stirling T. Argabright · Grace E. DiDomenico · Eugenia Saiegh · Kevin W. Hoffman · Galit Erez · Ran Barzilay",
+      "sourceAuthors": [
+        "Joshua H. Gordon",
+        "Kate T. Tran",
+        "Elina Visoki",
+        "Stirling T. Argabright",
+        "Grace E. DiDomenico",
+        "Eugenia Saiegh",
+        "Kevin W. Hoffman",
+        "Galit Erez",
+        "Ran Barzilay"
+      ],
+      "journal": "Journal of the American Academy of Child & Adolescent Psychiatry 63(2), 231–244",
+      "dateText": "6 ביולי 2023 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1016/j.jaac.2023.05.033",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/gordon-barzilay-discrimination-sexual-minority-youth.jpg",
+        "altHe": "איור של קבוצת צעירים בשיחה ידידותית בחצר בית ספר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "מחקר אמריקאי בקרב 11,622 צעירים קושר חוויות של אפליה על רקע נטייה מינית למצוקה נפשית. הוא בוחן גם את הסביבה המדינתית ומוצא תמונה מורכבת ורגישה להתאמות סטטיסטיות. הממצאים מדגישים את חשיבות היחס החברתי וההגנה מפני אפליה, בלי לייחס לנטייה המינית עצמה את מקור הפגיעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "felsenthal-machover-voting-power-meanings",
+      "file": "felsenthal-machover-voting-power-meanings.html",
+      "permalink": "/felsenthal-machover-voting-power-meanings.html",
+      "sortKey": 202610010003,
+      "titleHe": "כוח הצבעה: ההבדל בין השפעה על החלטה לבין חלק בשלל",
+      "paperTitle": "Myths and Meanings of Voting Power",
+      "authorsCardHe": "דן ס׳ פלזנטל · משה מחובר",
+      "sourceAuthors": [
+        "Dan S. Felsenthal",
+        "Moshé Machover"
+      ],
+      "journal": "Journal of Theoretical Politics 13(1), 81–97",
+      "dateText": "1 בינואר 2001",
+      "doiUrl": "https://doi.org/10.1177/0951692801013001004",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/felsenthal-machover-voting-power-meanings.jpg",
+        "altHe": "אולם ישיבות המועצה האירופית בבניין אירופה בבריסל בשנת 2017",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "פלזנטל ומחובר מבחינים בין כוח לשנות תוצאת הצבעה לבין חלק צפוי בתועלת של קואליציה מנצחת. הבחירה במדד תלויה בשאלה שמבקשים לבדוק, ולא רק במספר הקולות. ההבחנה חשובה במיוחד בעיצוב כללי הכרעה וייצוג במוסדות משותפים כמו האיחוד האירופי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "baum-men-social-work-clients",
+      "file": "baum-men-social-work-clients.html",
+      "permalink": "/baum-men-social-work-clients.html",
+      "sortKey": 202610010002,
+      "titleHe": "גברים כלקוחות עבודה סוציאלית: הצרכים שנותרים מחוץ לשיחה",
+      "paperTitle": "The Unheard Gender: The Neglect of Men as Social Work Clients",
+      "authorsCardHe": "נחמי באום",
+      "sourceAuthors": [
+        "Nehami Baum"
+      ],
+      "journal": "British Journal of Social Work 46(5), 1463–1471",
+      "dateText": "2 בספטמבר 2015",
+      "doiUrl": "https://doi.org/10.1093/bjsw/bcv074",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/baum-men-social-work-clients.jpg",
+        "altHe": "איור של גבר בשיחת תמיכה עם עובדת סוציאלית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "נחמי באום טוענת שהעבודה הסוציאלית נוטה לראות גברים בעיקר כאבות או כמקור סיכון, ופחות כאנשים בעלי צורכי תמיכה משלהם. סקירתה מצביעה על קשר בין פערי ידע, הכשרה ופרקטיקה. שירות שוויוני מחייב לזהות מצוקה אצל גברים תוך שמירה על אחריותם ועל זכויות נשים וילדים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "lahad-may-solo-dining-belonging",
+      "file": "lahad-may-solo-dining-belonging.html",
+      "permalink": "/lahad-may-solo-dining-belonging.html",
+      "sortKey": 202610010001,
+      "titleHe": "לסעוד לבד במרחב הציבורי: מגדר, זמן ותחושת שייכות",
+      "paperTitle": "Just One? Solo Dining, Gender and Temporal Belonging in Public Spaces",
+      "authorsCardHe": "כנרת להד · Vanessa May",
+      "sourceAuthors": [
+        "Kinneret Lahad",
+        "Vanessa May"
+      ],
+      "journal": "Sociological Research Online 22(2), 176–186",
+      "dateText": "29 במאי 2017",
+      "doiUrl": "https://doi.org/10.5153/sro.4270",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/lahad-may-solo-dining-belonging.jpg",
+        "altHe": "איור של אישה הסועדת לבדה במסעדה בשעת ערב",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "summaryHe": "ניתוח של מאתיים טקסטים מקוונים מראה כיצד אישה הסועדת לבדה עלולה להיתפס כחריגה, במיוחד בשעות הערב. להד ומיי קושרות בין תחושת השייכות לבין כללים יומיומיים של נראות, זוגיות וזמן. המסעדה ממחישה מדוע גישה פורמלית למרחב אינה מבטיחה חופש להשתמש בו בנוחות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "stecklov-carletto-gender-migration-albania",
       "file": "stecklov-carletto-gender-migration-albania.html",
