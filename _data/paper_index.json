@@ -1,8 +1,295 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1782,
+  "paperCount": 1792,
   "papers": [
+    {
+      "slug": "rotman-mandel-gendered-wage-structure",
+      "file": "rotman-mandel-gendered-wage-structure.html",
+      "permalink": "/rotman-mandel-gendered-wage-structure.html",
+      "sortKey": 202610020010,
+      "titleHe": "פער השכר המגדרי טמון גם בתגמול שונה על השכלה וניסיון",
+      "paperTitle": "Gender-Specific Wage Structure and the Gender Wage Gap in the U.S. Labor Market",
+      "authorsCardHe": "אסף רוטמן; הדס מנדל",
+      "sourceAuthors": [
+        "Assaf Rotman",
+        "Hadas Mandel"
+      ],
+      "journal": "Social Indicators Research 165(2), 585–606",
+      "dateText": "21 בנובמבר 2022 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1007/s11205-022-03030-4",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/rotman-mandel-gendered-wage-structure.jpg",
+        "altHe": "המחשה: מהנדסת ומהנדס עובדים במשרד מקצועי בעל היררכיה ניהולית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "אסף רוטמן והדס מנדל מראים כי נשים וגברים אינם מקבלים תמורה כספית שווה להשכלה ולניסיון בשוק העבודה האמריקאי. בהשוואת 1980 ו־2010 הפער בתגמול גדל לטובת גברים, גם כשהבדלי הכישורים הצטמצמו. הממצאים מפנים את הדיון בשוויון ממאפייני העובדים גם למבנה התגמולים במוסדות ובמקצועות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mandel-rotman-top-earnings-education",
+      "file": "mandel-rotman-top-earnings-education.html",
+      "permalink": "/mandel-rotman-top-earnings-education.html",
+      "sortKey": 202610020009,
+      "titleHe": "שכר בצמרת מסתיר פער מגדרי בתמורה להשכלה גבוהה",
+      "paperTitle": "Revealing the Concealed Effect of Top Earnings on the Gender Gap in the Economic Value of Higher Education in the United States, 1980–2017",
+      "authorsCardHe": "הדס מנדל; אסף רוטמן",
+      "sourceAuthors": [
+        "Hadas Mandel",
+        "Assaf Rotman"
+      ],
+      "journal": "Demography 58(2), 551–570",
+      "dateText": "5 במרץ 2021 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1215/00703370-9009367",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mandel-rotman-top-earnings-education.jpg",
+        "altHe": "משתתפים בגלימות אקדמיות בטקס סיום לימודים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "הדס מנדל ואסף רוטמן מראים כי הפער המגדרי בתמורה הכספית להשכלה גבוהה בארצות הברית גדול במיוחד בצמרת השכר. ניתוח נתוני 1980–2017 מדגים כיצד מדידה יחסית עלולה לטשטש את הפער. הרחבת הגישה של נשים להשכלה אינה מבטיחה שוויון בתגמולים ובגישה למשרות המכניסות ביותר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bar-haim-gender-earnings-education-cohorts",
+      "file": "bar-haim-gender-earnings-education-cohorts.html",
+      "permalink": "/bar-haim-gender-earnings-education-cohorts.html",
+      "sortKey": 202610020008,
+      "titleHe": "יתרון בהשכלה אינו סוגר את פער ההכנסות המגדרי: השוואה בין 12 מדינות",
+      "paperTitle": "The Persistence of the Gender Earnings Gap: Cohort Trends and the Role of Education in Twelve Countries",
+      "authorsCardHe": "אייל בר־חיים; Louis Chauvel; Janet C. Gornick; Anne Hartung",
+      "sourceAuthors": [
+        "Eyal Bar-Haim",
+        "Louis Chauvel",
+        "Janet C. Gornick",
+        "Anne Hartung"
+      ],
+      "journal": "Social Indicators Research 165(3), 821–841",
+      "dateText": "14 בדצמבר 2022 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1007/s11205-022-03029-x",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bar-haim-gender-earnings-education-cohorts.jpg",
+        "altHe": "עובדים ליד כבשן במפעל החרסינה בסבר שבצרפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "אייל בר־חיים ועמיתיו בוחנים את הקשר בין השכלה להכנסות מעבודה ב־12 מדינות, כולל ישראל, תוך הכללת אנשים ללא הכנסה מעבודה. הם מראים שגם בדורות שבהם נשים הדביקו את הגברים בהשכלה נותר פער כלכלי ניכר. הממצאים מדגישים את חשיבות ההשתתפות בתעסוקה ואת הצורך למדוד שוויון מעבר לשכר של מועסקים בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "vliegenthart-alternative-media-misperceptions",
+      "file": "vliegenthart-alternative-media-misperceptions.html",
+      "permalink": "/vliegenthart-alternative-media-misperceptions.html",
+      "sortKey": 202610020007,
+      "titleHe": "צריכת תקשורת חלופית ותפיסות שגויות: תמונה מורכבת משוודיה",
+      "paperTitle": "Taking Political Alternative Media into Account: Investigating the Linkage Between Media Repertoires and (Mis)perceptions",
+      "authorsCardHe": "Rens Vliegenthart; Jesper Stromback; Hajo Boomgaarden; Elena Broda; Alyt Damstra; Elina Lindgren; יריב צפתי; Annelien Van Remoortere",
+      "sourceAuthors": [
+        "Rens Vliegenthart",
+        "Jesper Stromback",
+        "Hajo Boomgaarden",
+        "Elena Broda",
+        "Alyt Damstra",
+        "Elina Lindgren",
+        "Yariv Tsfati",
+        "Annelien Van Remoortere"
+      ],
+      "journal": "Mass Communication and Society 27(5), 877–901",
+      "dateText": "6 בספטמבר 2023 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/15205436.2023.2251444",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/vliegenthart-alternative-media-misperceptions.jpg",
+        "altHe": "המחשה: שילוב של קריאה בטאבלט, עיתון וצפייה בטלוויזיה בבית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "החוקרים, ובהם יריב צפתי, בוחנים כיצד אזרחים בשוודיה משלבים תקשורת מרכזית וחלופית. הם מוצאים הבדלים בתפיסות שגויות בין דפוסי הצריכה, אך לא שינוי כללי לאורך שנה שאפשר לקשור לדפוסים אלה. המחקר מדגיש את ההבחנה בין סוג כלי התקשורת, מכלול מקורות המידע והוכחת השפעה על אמונות ציבוריות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "tenenboim-aharoni-baden-political-forecasting",
+      "file": "tenenboim-aharoni-baden-political-forecasting.html",
+      "permalink": "/tenenboim-aharoni-baden-political-forecasting.html",
+      "sortKey": 202610020006,
+      "titleHe": "עיתונאים כנביאים מסויגים: כיצד מסקרים עתיד פוליטי לא ודאי",
+      "paperTitle": "Journalists as Reluctant Political Prophets",
+      "authorsCardHe": "קרן טננבוים־וינבלט; טלי אהרוני; כריסטיאן באדן",
+      "sourceAuthors": [
+        "Keren Tenenboim-Weinblatt",
+        "Tali Aharoni",
+        "Christian Baden"
+      ],
+      "journal": "Political Communication 43(3), 400–424",
+      "dateText": "3 באוקטובר 2025 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/10584609.2025.2556703",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/tenenboim-aharoni-baden-political-forecasting.jpg",
+        "altHe": "המחשה: עיתונאית מקשיבה לשאלה של מראיין במערכת חדשות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "המחקר של קרן טננבוים־וינבלט, טלי אהרוני וכריסטיאן באדן בוחן כיצד עיתונאים מייצרים ומתווכים תחזיות פוליטיות. ראיונות וניתוח סיקור בחירות מראים מתח בין לחצים לספק תחזית לבין ערכים מקצועיים וסיכון לטעות. הדרך שבה התחזית מוצגת משפיעה על יכולת הציבור להבחין בין עובדה, תרחיש ואי־ודאות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "giladi-saudi-personal-status-gender-reform",
+      "file": "giladi-saudi-personal-status-gender-reform.html",
+      "permalink": "/giladi-saudi-personal-status-gender-reform.html",
+      "sortKey": 202610020005,
+      "titleHe": "רפורמת המעמד האישי בסעודיה: הרחבת זכויות בתוך סדר פטריארכלי",
+      "paperTitle": "Saudi Arabia’s Gendered-Judicial Reform and the New Personal Status Law: Profound Change or Gender Washing?",
+      "authorsCardHe": "אלעד גלעדי",
+      "sourceAuthors": [
+        "Elad Giladi"
+      ],
+      "journal": "Islamic Law and Society, 1–31",
+      "dateText": "24 בספטמבר 2025 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1163/15685195-bja10070",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/giladi-saudi-personal-status-gender-reform.jpg",
+        "altHe": "מפגש עם מנהיגות סעודיות בריאד ביוני 2023",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "אלעד גלעדי מנתח את חוק המעמד האישי הסעודי מ־2022 כחלק מרפורמה משפטית ומגדרית רחבה. לטענתו, החוק מקדם זכויות נשים ואחידות בפסיקה, ובמקביל משמר מבנים פטריארכליים ואת האינטרסים של המלוכה. המקרה מדגים מדוע יש לבחון שינוי בזכויות יחד עם האופן שבו הוא מעצב מחדש כוח פוליטי ודתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shany-margin-appreciation-strasbourg-un",
+      "file": "shany-margin-appreciation-strasbourg-un.html",
+      "permalink": "/shany-margin-appreciation-strasbourg-un.html",
+      "sortKey": 202610020004,
+      "titleHe": "מרחב שיקול הדעת של מדינות: בין שטרסבורג לוועדת זכויות האדם של האו״ם",
+      "paperTitle": "All Roads Lead to Strasbourg?: Application of the Margin of Appreciation Doctrine by the European Court of Human Rights and the UN Human Rights Committee",
+      "authorsCardHe": "יובל שני",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "Journal of International Dispute Settlement 9(2), 180–198",
+      "dateText": "31 ביולי 2017 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1093/jnlids/idx011",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shany-margin-appreciation-strasbourg-un.jpg",
+        "altHe": "אולם הדיונים של בית הדין האירופי לזכויות אדם בשטרסבורג",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "יובל שני משווה בין דוקטרינת מרחב ההערכה בבית הדין האירופי לזכויות אדם לבין גישות מקבילות בוועדת זכויות האדם של האו״ם. הוא בוחן אם דחייה מוצהרת של הדוקטרינה מסתירה שימוש במנגנונים דומים של ריסון. ההבחנה בין החלת דין, איזון ופרשנות מחדדת את הדיון ביחסים בין סמכות מדינתית להגנה בינלאומית על זכויות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohn-kremnitzer-multidimensional-judicial-activism",
+      "file": "cohn-kremnitzer-multidimensional-judicial-activism.html",
+      "permalink": "/cohn-kremnitzer-multidimensional-judicial-activism.html",
+      "sortKey": 202610020003,
+      "titleHe": "אקטיביזם שיפוטי אינו מדד יחיד: מודל של דין, תגובות וערכים",
+      "paperTitle": "Judicial Activism: A Multidimensional Model",
+      "authorsCardHe": "מרגית כהן; מרדכי קרמניצר",
+      "sourceAuthors": [
+        "Margit Cohn",
+        "Mordechai Kremnitzer"
+      ],
+      "journal": "Canadian Journal of Law & Jurisprudence 18(2), 333–356",
+      "dateText": "יולי 2005",
+      "doiUrl": "https://doi.org/10.1017/s0841820900004033",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohn-kremnitzer-multidimensional-judicial-activism.jpg",
+        "altHe": "המחשה: שופטת ומשתתפים נוספים בדיון מוסדי משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "מרגית כהן ומרדכי קרמניצר מציעים מודל רב־ממדי לאקטיביזם שיפוטי המבוסס על 17 פרמטרים. לצד השינוי בדין הם בוחנים את תגובות הרשויות והציבור ואת הערכים שעליהם מגינה ההכרעה. המודל מציג את בית המשפט כחלק ממערכת של תלות הדדית ומחדד את הדיון הדמוקרטי בהשפעתו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ritov-zamir-affirmative-action-identifiability",
+      "file": "ritov-zamir-affirmative-action-identifiability.html",
+      "permalink": "/ritov-zamir-affirmative-action-identifiability.html",
+      "sortKey": 202610020002,
+      "titleHe": "העדפה מתקנת: זיהוי מי שעלול להיפגע משנה את התמיכה במדיניות",
+      "paperTitle": "Affirmative action and other group tradeoff policies: Identifiability of those adversely affected",
+      "authorsCardHe": "אילנה ריטוב; איל זמיר",
+      "sourceAuthors": [
+        "Ilana Ritov",
+        "Eyal Zamir"
+      ],
+      "journal": "Organizational Behavior and Human Decision Processes 125(1), 50–60",
+      "dateText": "ספטמבר 2014",
+      "doiUrl": "https://doi.org/10.1016/j.obhdp.2014.04.002",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/ritov-zamir-affirmative-action-identifiability.jpg",
+        "altHe": "המחשה: ועדת קבלה ומועמדים הממתינים להכרעה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "אילנה ריטוב ואיל זמיר בוחנים כיצד האפשרות לזהות את מי שמפסיד מהקצאת משאבים משפיעה על התמיכה בהעדפה מתקנת. בחמישה ניסויים, הליכים בעלי תועלת ונזק כוללים דומים זכו לתמיכה שונה לפי מידת הזיהוי של הנפגעים. הממצא מחדד את ההבדל בין הערכת תוצאות מדיניות לבין האופן שבו מציגים את האנשים המושפעים ממנה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "mundlak-corporatist-revival-legitimacy",
+      "file": "mundlak-corporatist-revival-legitimacy.html",
+      "permalink": "/mundlak-corporatist-revival-legitimacy.html",
+      "sortKey": 202610020001,
+      "titleHe": "מי מיוצג בהסכמים רחבים? פער הלגיטימיות ביחסי העבודה בישראל",
+      "paperTitle": "Addressing the Legitimacy Gap in the Israeli Corporatist Revival",
+      "authorsCardHe": "גיא מונדלק",
+      "sourceAuthors": [
+        "Guy Mundlak"
+      ],
+      "journal": "British Journal of Industrial Relations 47(4), 765–787",
+      "dateText": "10 בנובמבר 2009 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8543.2009.00754.x",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mundlak-corporatist-revival-legitimacy.jpg",
+        "altHe": "חברי האספה הכללית של ההסתדרות מצביעים בדיון על שכר בשנת 1975",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "summaryHe": "גיא מונדלק בוחן את חזרתם של הסכמים קיבוציים כלל־ארציים בישראל לאחר התפצלות מערכת יחסי העבודה. הוא טוען שכלי מיקוח ריכוזיים פועלים בתוך מערכת פלורליסטית, ולכן מתעוררת שאלה את מי הם מייצגים. ההצעה היא לחבר בין השותפים הוותיקים לבין ארגוני חברה אזרחית המבטאים את קולם של עובדים מוחלשים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "pinto-arabic-language-intrinsic-value",
       "file": "pinto-arabic-language-intrinsic-value.html",
