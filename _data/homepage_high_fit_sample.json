@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-03",
   "sampleSize": 6,
-  "seed": "2026-10-02-homepage-high-fit",
+  "seed": "2026-10-03-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 997,
+  "fullTextHighFitPaperCount": 1000,
   "paperSlugs": [
-    "democracy_academic_institutions_state_of_war_gaza_israel_conflict_summary_he",
+    "democracy_towards_a_post_citizenship_society_a_report_from_the_front_summary_he",
     "democracy_politicians_democratic_realists_representational_beliefs_summary_he",
     "democracy_constitutional_dialogue_under_pressure_constitutional_remedies_in_israel_as_a_test_case_summary_he",
     "democracy_polling_station_micro_context_voting_summary_he",
     "democracy_weak_ties_political_expression_online_summary_he",
-    "democracy_muslim_interest_group_us_britain_summary_he"
+    "democracy_apriori_voting_power_influence_summary_he"
   ]
 }

@@ -1,8 +1,308 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1792,
+  "paperCount": 1802,
   "papers": [
+    {
+      "slug": "albert-constitutional-provisions-importance",
+      "file": "albert-constitutional-provisions-importance.html",
+      "permalink": "/albert-constitutional-provisions-importance.html",
+      "sortKey": 202610030010,
+      "titleHe": "מה חשוב בחוקה? דירוג מומחים מציב את כללי המשחק המוסדיים במרכז",
+      "paperTitle": "Which Constitutional Provisions Are Most Important?",
+      "authorsCardHe": "Richard Albert; נטע ברק-קורן; Daniel M. Brinks; Adam Chilton; רוזלינד דיקסון; Zachary Elkins; טום גינסבורג; רן הירשל; דייוויד א׳ לנדאו; Ashley Moran; Yvonne Tew; Mila Versteeg",
+      "sourceAuthors": [
+        "Richard Albert",
+        "Netta Barak-Corren",
+        "Daniel M. Brinks",
+        "Adam Chilton",
+        "Rosalind Dixon",
+        "Zachary Elkins",
+        "Tom Ginsburg",
+        "Ran Hirschl",
+        "David E. Landau",
+        "Ashley Moran",
+        "Yvonne Tew",
+        "Mila Versteeg"
+      ],
+      "journal": "European Journal of Empirical Legal Studies 1(1), 19–48",
+      "dateText": "13 במאי 2024",
+      "doiUrl": "https://doi.org/10.62355/ejels.21907",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/albert-constitutional-provisions-importance.jpg",
+        "altHe": "אולם המועצה הלאומית בפרלמנט האוסטרי בשנת 2010",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "ריצ׳רד אלברט ושותפיו מדרגים את חשיבותם של 340 הסדרים חוקתיים באמצעות הערכות של 12 מומחים. כללי שינוי החוקה, חשאיות הבחירות, ועדת הבחירות ומבנה הרשות המבצעת בולטים בראש הדירוג. ההסכמה רחבה יותר בחלק מההסדרים המוסדיים, אך הדירוג מבטא שיפוט מקצועי ואינו מוכיח אילו סעיפים יבטיחו דמוקרטיה בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "stromback-political-opinion-leaders-knowledge",
+      "file": "stromback-political-opinion-leaders-knowledge.html",
+      "permalink": "/stromback-political-opinion-leaders-knowledge.html",
+      "sortKey": 202610030009,
+      "titleHe": "משפיעים בשיחה הפוליטית, אך האם גם יודעים יותר?",
+      "paperTitle": "Political Opinion Leaders in High-Choice Information Environments: Are They More Informed Than Others?",
+      "authorsCardHe": "Jesper Strömbäck; Elina Lindgren; יריב צפתי; Alyt Damstra; Rens Vliegenthart; Hajo Boomgaarden; Elena Broda; Noelle Lebernegg; Sebastian Galyga",
+      "sourceAuthors": [
+        "Jesper Strömbäck",
+        "Elina Lindgren",
+        "Yariv Tsfati",
+        "Alyt Damstra",
+        "Rens Vliegenthart",
+        "Hajo Boomgaarden",
+        "Elena Broda",
+        "Noelle Lebernegg",
+        "Sebastian Galyga"
+      ],
+      "journal": "Mass Communication and Society 27(5), 949–971",
+      "dateText": "14 בדצמבר 2023 (פרסום מקוון); כרך 2024",
+      "doiUrl": "https://doi.org/10.1080/15205436.2023.2281311",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/stromback-political-opinion-leaders-knowledge.jpg",
+        "altHe": "משתתפים משוחחים במפגש דיון סטודנטיאלי בסטוקהולם בשנת 1951",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "מחקר בקרב משתתפי סקר בשוודיה בוחן אם אנשים המתארים את עצמם כמובילי דעה פוליטיים מחזיקים בידע מדויק יותר. לאחר התחשבות בגורמים כמו עניין בפוליטיקה, לא נמצא יתרון ידע כללי עקבי. יכולת לעורר שיחה או לשכנע אחרים אינה יכולה לשמש לבדה סימן לאיכות המידע המועבר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "efrat-yair-arms-human-rights",
+      "file": "efrat-yair-arms-human-rights.html",
+      "permalink": "/efrat-yair-arms-human-rights.html",
+      "sortKey": 202610030008,
+      "titleHe": "מכירת נשק למפרי זכויות אדם: הציבור הישראלי אינו אדיש לזהות הקונה",
+      "paperTitle": "Should we sell arms to human rights violators? What the public thinks",
+      "authorsCardHe": "אסיף אפרת; עומר יעיר",
+      "sourceAuthors": [
+        "Asif Efrat",
+        "Omer Yair"
+      ],
+      "journal": "Defence and Peace Economics 35(6), 694–712",
+      "dateText": "21 ביוני 2023 (פרסום מקוון); כרך 2024",
+      "doiUrl": "https://doi.org/10.1080/10242694.2023.2225401",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/efrat-yair-arms-human-rights.jpg",
+        "altHe": "המחשה: צוות פיקוח אזרחי בוחן ארגז נשק לפני יצוא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "אסיף אפרת ועומר יעיר בוחנים בניסוי סקר כיצד מידע על פגיעה באזרחים משפיע על התמיכה ביצוא נשק. בקרב המשתתפים בישראל, מידע על הפרות חמורות הגדיל את ההתנגדות למכירה גם כשהוצגו קשרים כלכליים או ביטחוניים עם המדינה הקונה. הממצא מצביע על בסיס ציבורי אפשרי לפיקוח, אך אינו מודד החלטות יצוא בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gershkov-multiple-issues-ballot",
+      "file": "gershkov-multiple-issues-ballot.html",
+      "permalink": "/gershkov-multiple-issues-ballot.html",
+      "sortKey": 202610030007,
+      "titleHe": "מה מעמידים להצבעה? ניסוח סעיפי התקציב משנה את ההכרעה המשותפת",
+      "paperTitle": "Voting on multiple issues: What to put on the ballot?",
+      "authorsCardHe": "אלכס גרשקוב; Benny Moldovanu; Xianwen Shi",
+      "sourceAuthors": [
+        "Alex Gershkov",
+        "Benny Moldovanu",
+        "Xianwen Shi"
+      ],
+      "journal": "Theoretical Economics 14(2), 555–596",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.3982/te3193",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gershkov-multiple-issues-ballot.jpg",
+        "altHe": "המחשה: תושבים דנים בדגמי בית ספר ופארק כחלק מתקציב ציבורי משותף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "אלכס גרשקוב, בני מולדובנו ושיאנוון שי מנתחים כיצד חלוקת החלטה למספר שאלות הצבעה משפיעה על התוצאה. במודל שלהם, הצבעה נפרדת על כל הוצאה יכולה להוביל לתוצאה שונה מהצבעה על גודל התקציב ועל חלוקתו. גם כאשר העדפות הבוחרים קבועות, בחירת הנושאים שעל הפתק עשויה לשנות את הרווחה הכוללת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "perez-sebastian-raveh-resource-tax-voting",
+      "file": "perez-sebastian-raveh-resource-tax-voting.html",
+      "permalink": "/perez-sebastian-raveh-resource-tax-voting.html",
+      "sortKey": 202610030006,
+      "titleHe": "נפט, מסים והצבעות בקונגרס: הגאוגרפיה הכלכלית שמאחורי העמדה הפוליטית",
+      "paperTitle": "Federal tax policies, congressional voting and natural resources",
+      "authorsCardHe": "Fidel Perez-Sebastian; אוהד רוה",
+      "sourceAuthors": [
+        "Fidel Perez-Sebastian",
+        "Ohad Raveh"
+      ],
+      "journal": "Canadian Journal of Economics 52(3), 1112–1164",
+      "dateText": "27 באוגוסט 2019 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/caje.12404",
+      "topics": [
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/perez-sebastian-raveh-resource-tax-voting.jpg",
+        "altHe": "משאבת נפט מדרום למידלנד בטקסס בשקיעה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "פידל פרס־סבסטיאן ואוהד רוה מראים כיצד משאבי טבע מקומיים קשורים לעמדת נבחרים כלפי מסים פדרליים. לפי המנגנון שהם בוחנים, פעילות המבוססת על משאב שאינו נייד רגישה פחות לשינויי מס, ולכן לנציגיה תמריצים שונים. נתוני הצבעות בבית הנבחרים האמריקאי מצביעים על חשיבות האינטרס האזורי לצד ההשתייכות המפלגתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bondy-maggor-tassinari-wage-growth",
+      "file": "bondy-maggor-tassinari-wage-growth.html",
+      "permalink": "/bondy-maggor-tassinari-wage-growth.html",
+      "sortKey": 202610030005,
+      "titleHe": "החזרת השכר לשולחן: כוחם הפוליטי של איגודים בישראל, בפולין ובספרד",
+      "paperTitle": "Putting wage growth back on the table: Labour incorporation, political exchange, and wage-boosting policies in advanced peripheral economies",
+      "authorsCardHe": "אסף בונדי; ארז מגור; Arianna Tassinari",
+      "sourceAuthors": [
+        "Assaf S. Bondy",
+        "Erez Maggor",
+        "Arianna Tassinari"
+      ],
+      "journal": "Competition & Change 29(3–4), 437–464",
+      "dateText": "18 במרץ 2024 (פרסום מקוון); כרך 2025",
+      "doiUrl": "https://doi.org/10.1177/10245294241226733",
+      "topics": [
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/bondy-maggor-tassinari-wage-growth.jpg",
+        "altHe": "המחשה: נציגי עובדים, ממשלה ומעסיקים דנים בשכר ובעלות סל המזון",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "אסף בונדי, ארז מגור ואריאנה טסינארי מסבירים כיצד שילוב איגודים בקואליציות כלכליות אפשר מדיניות משפרת שכר. ההשוואה בין ישראל, פולין וספרד מדגישה הזדמנות פוליטית לצד הקלה באילוצים כלכליים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "benvenisti-downs-van-gend-democracy",
+      "file": "benvenisti-downs-van-gend-democracy.html",
+      "permalink": "/benvenisti-downs-van-gend-democracy.html",
+      "sortKey": 202610030004,
+      "titleHe": "זכויות מכוח המשפט האירופי: כיצד בתי משפט יכולים להרחיב את קול האזרחים",
+      "paperTitle": "The Premises, Assumptions, and Implications of Van Gend en Loos: Viewed from the Perspectives of Democracy and Legitimacy of International Institutions",
+      "authorsCardHe": "איל בנבנישתי; ג׳ורג׳ ו׳ דאונס",
+      "sourceAuthors": [
+        "Eyal Benvenisti",
+        "George W. Downs"
+      ],
+      "journal": "European Journal of International Law 25(1), 85–102",
+      "dateText": "2014 (פרסום מקוון: 7 באפריל)",
+      "doiUrl": "https://doi.org/10.1093/ejil/cht084",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/benvenisti-downs-van-gend-democracy.jpg",
+        "altHe": "אולם דיונים בבית הדין לצדק של האיחוד האירופי בלוקסמבורג בשנת 2012",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "איל בנבנישתי וג׳ורג׳ דאונס בוחנים את פסק הדין ואן חנד אן לוס מנקודת מבט של דמוקרטיה ולגיטימיות. לטענתם, הענקת יכולת ליחידים להסתמך על המשפט האירופי בבתי משפט לאומיים יצרה משקל נגד לשליטת ממשלות ביישומו. כוח שיפוטי חוצה גבולות יכול כך לתמוך בהשתתפות אזרחית, אך נדרשים תנאים מוסדיים כדי שימלא תפקיד זה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gershkov-optimal-voting-rules",
+      "file": "gershkov-optimal-voting-rules.html",
+      "permalink": "/gershkov-optimal-voting-rules.html",
+      "sortKey": 202610030003,
+      "titleHe": "כללי הצבעה מיטביים: מתי רוב רגיל אינו ממקסם את הרווחה",
+      "paperTitle": "Optimal Voting Rules",
+      "authorsCardHe": "אלכס גרשקוב; Benny Moldovanu; Xianwen Shi",
+      "sourceAuthors": [
+        "Alex Gershkov",
+        "Benny Moldovanu",
+        "Xianwen Shi"
+      ],
+      "journal": "The Review of Economic Studies 84(2), 688–717",
+      "dateText": "14 בספטמבר 2016 (פרסום מקוון); כרך 2017",
+      "doiUrl": "https://doi.org/10.1093/restud/rdw044",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gershkov-optimal-voting-rules.jpg",
+        "altHe": "מבט צד על אולם המליאה של הבונדסטאג בברלין בשנת 2010",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "אלכס גרשקוב, בני מולדובנו ושיאנוון שי בוחנים כיצד לבחור מדיניות משותפת כשהעדפות המשתתפים פרטיות ואי אפשר לשלם להם כדי לחשוף אותן. במסגרת מודל של העדפות על ציר אחד, הם מראים שספי תמיכה המשתנים בין חלופות יכולים לשפר את הרווחה לעומת כלל רוב קבוע. המסקנה תלויה במבנה ההעדפות ובאילוצי ההליך.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-klement-neeman-judicial-reputation",
+      "file": "cohen-klement-neeman-judicial-reputation.html",
+      "permalink": "/cohen-klement-neeman-judicial-reputation.html",
+      "sortKey": 202610030002,
+      "titleHe": "בחירות לשופטים ומוניטין: מדוע שופט מחמיר עשוי דווקא להקל",
+      "paperTitle": "Judicial Decision Making: A Dynamic Reputation Approach",
+      "authorsCardHe": "עלמה כהן; אלון קלמנט; צביקה נאמן",
+      "sourceAuthors": [
+        "Alma Cohen",
+        "Alon Klement",
+        "Zvika Neeman"
+      ],
+      "journal": "The Journal of Legal Studies 44(S1), S133–S159",
+      "dateText": "ינואר 2015",
+      "doiUrl": "https://doi.org/10.1086/682689",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohen-klement-neeman-judicial-reputation.jpg",
+        "altHe": "גשר המחבר את בית המשפט של מחוז אלגני לבית הסוהר בפיטסבורג, פנסילבניה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "עלמה כהן, אלון קלמנט וצביקה נאמן מראים שתמריץ בחירות יכול לפעול אחרת אצל שופטים בעלי עבר ענישתי שונה. המודל שלהם, לצד נתוני ענישה מפנסילבניה, קושר בין החלטות קודמות, המוניטין שנוצר אצל הציבור ושינוי בענישה לקראת בחירות. הממצא מסבך את הטענה שבחירות לשופטים מובילות תמיד להחמרה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohn-justiciability-formulas",
+      "file": "cohn-justiciability-formulas.html",
+      "permalink": "/cohn-justiciability-formulas.html",
+      "sortKey": 202610030001,
+      "titleHe": "שפיטות ושאלות פוליטיות: הנוסחאות שמעצבות את גבולות המשפט",
+      "paperTitle": "Form, Formula and Constitutional Ethos: The Political Question/Justiciability Doctrine in Three Common Law Systems",
+      "authorsCardHe": "מרגית כהן",
+      "sourceAuthors": [
+        "Margit Cohn"
+      ],
+      "journal": "American Journal of Comparative Law 59(3), 675–713",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.5131/ajcl.2010.0029",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohn-justiciability-formulas.jpg",
+        "altHe": "המחשה: חוקרי משפט סביב שולחן ספרים בפתחו של אולם בית משפט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-03",
+      "dateModified": "2026-10-03",
+      "summaryHe": "מרגית כהן משווה את מבחני השפיטות בארצות הברית, בישראל ובבריטניה. היא מראה כיצד ניסוחם משקף תפיסות של סמכות שיפוטית ושל חלוקת הכוח החוקתית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "rotman-mandel-gendered-wage-structure",
       "file": "rotman-mandel-gendered-wage-structure.html",
