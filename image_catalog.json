@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-03",
+  "lastUpdated": "2026-10-04",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -49363,6 +49363,347 @@
       "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Interior_of_the_National_Council_of_the_Austrian_Parliament_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "sourceDate": "2010-08-27 13:28:17",
       "sourceDimensions": "1888x1022"
+    },
+    {
+      "file": "html_qa/peisah-dementia-intimacy-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "peisah-dementia-intimacy-rights.html",
+      "usedBy": [
+        "peisah-dementia-intimacy-rights.html"
+      ],
+      "cardTitleHe": "אינטימיות ודמנציה: הזכות לקרבה מחייבת תמיכה בבחירה ובפרטיות",
+      "authorsHe": "Carmelle Peisah; ליאת איילון; Hilde Verbeek; Susan Mary Benbow; Esther Wiskerke; Kiran Rabheru; Oluwatoyin Sorinmade",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: זוג מבוגר מחזיק ידיים בפינת גן פרטית, ואשת צוות נמצאת במרחק",
+      "semanticDescriptionHe": "אבחנת דמנציה אינה מבטלת את הזכות לאינטימיות. המחברים מציעים להחליף הגבלות גורפות בתמיכה ברצונו של האדם, בפרטיותו ובהסכמה חופשית. סקירתם מדגישה שהגנה מפני ניצול והכרה בצורך בקרבה צריכות להשתלב במדיניות הטיפול.",
+      "tags": [
+        "דמנציה",
+        "אינטימיות",
+        "זכויות אדם",
+        "גילנות",
+        "הסכמה",
+        "טיפול ממושך"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one polished painterly editorial image for a Hebrew academic summary about the rights of people living with dementia to intimacy, dignity, supported decision making and privacy. Landscape 4:3. A tender, dignified older couple sit close together in a comfortable care-home garden alcove holding hands, with a discreet open doorway and a caregiver in the far background respecting their private space. Warm natural afternoon light, mature real human faces, lush garden depth, fabric and stone texture, sophisticated documentary-inspired magazine illustration. This is a conceptual scene with fictional people, not a depiction of research participants. Fully clothed, nonsexual. No text, lettering, words, signs, logos, flags, watermarks, diagrams, icon shapes, UI or collage. No visual signs implying the actual people have a medical condition. Fill the frame with a rich and coherent scene.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/cohen-chen-humor-gender-injustice.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-chen-humor-gender-injustice.html",
+      "usedBy": [
+        "cohen-chen-humor-gender-injustice.html"
+      ],
+      "cardTitleHe": "הומור מול סקסיזם: תחושת כוח עולה, אך הכעס המניע לפעולה עלול להיחלש",
+      "authorsHe": "סמדר כהן־חן; Rashpal K. Dhensa-Kahlon; בועז המאירי",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אישה מופיעה במועדון סטנדאפ מול קהל המגיב בחיוך ובמחשבה",
+      "semanticDescriptionHe": "בשני ניסויים מצאו סמדר כהן־חן, רשפל דהנסה־קהלון ובועז המאירי שהומור בתגובה לאי־צדק מגדרי מפעיל כוחות מנוגדים. הוא עשוי לחזק תחושת מסוגלות קבוצתית, אך גם להחליש רגשות המניעים לפעולה. לכן תגובה משעשעת אינה מבטיחה נכונות רבה יותר לפעול למען שוויון.",
+      "tags": [
+        "הומור",
+        "סקסיזם",
+        "שוויון מגדרי",
+        "פעולה קולקטיבית",
+        "מסוגלות קבוצתית",
+        "רגשות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one polished editorial painting for a Hebrew academic summary of experiments on humor as a response to sexism: it can increase perceived group efficacy but dampen anger and action. Landscape 4:3. Specific scene: a confident adult woman at a microphone in a small intimate comedy club, telling a witty story, a mixed audience of adult women visible in foreground, some smiling while one looks thoughtfully serious. Warm amber stage lighting, rich burgundy and blue shadows, realistic expressive people, timber floor and velvet textures, depth, painterly magazine quality. Fictional scene, no real personalities. No text, lettering, words, slogans, signs, logos, watermarks, diagrams, generic democracy symbols or UI. Natural single coherent scene, no inset panels.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/reinwald-politics-workplace-elections.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "reinwald-politics-workplace-elections.html",
+      "usedBy": [
+        "reinwald-politics-workplace-elections.html"
+      ],
+      "cardTitleHe": "המחלוקת הפוליטית מגיעה למטבחון: יחסי עבודה סביב בחירות בארצות הברית",
+      "authorsHe": "Max Reinwald; Rouven Kanitz; פיטר במברגר; Julia Backmann; Martin Hoegl",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: עמיתים משוחחים במטבחון משרדי, ואדם נוסף עומד ברקע",
+      "semanticDescriptionHe": "שלושה מחקרים סביב בחירות בארצות הברית מציעים שהשפעתם של הבדלים פוליטיים בין עמיתים משתנה לאורך מערכת הבחירות. לאחר ההצבעה, איום על הזהות הקבוצתית עשוי לצמצם התחשבות באחר ולפגוע ביחסים. הממצאים מדגישים צורך בקשב ארגוני גם לאחר תום הקמפיין.",
+      "tags": [
+        "זהות פוליטית",
+        "יחסי עבודה",
+        "בחירות",
+        "קיטוב",
+        "התחשבות חברתית",
+        "ארצות הברית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: photorealistic-natural. Create one editorial conceptual photograph for an academic article about political differences affecting social interactions at work during election campaigns. Landscape 4:3. A contemporary office kitchenette at lunch with three diverse adult colleagues: two converse carefully across a small wooden cafe table while a third at the counter glances over with reserved attention. Everyday humane subtle interpersonal distance, not hostility or caricature. A sunlit window, indoor plant, ceramic cups, soft warm lighting, spatial depth, realistic skin and clothes, documentary civic style. No actual political people or identified employees, no campaign objects or colors coding parties. No text, lettering, screens, logos, flags, watermarks, UI, charts, pasted layers or abstract symbols.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/moody-childrens-rights-education.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "moody-childrens-rights-education.html",
+      "usedBy": [
+        "moody-childrens-rights-education.html"
+      ],
+      "cardTitleHe": "חינוך לזכויות ילדים מתחיל גם באופן שבו הכיתה מתנהלת",
+      "authorsHe": "Zoe Moody; Katarzyna Gawlicz; Jenna Gillett-Swan; לטם פרי־חזן; Ann Quennerstedt",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: ילדים ומורה יושבים במעגל ומקשיבים לילדה שמביעה עמדה",
+      "semanticDescriptionHe": "זואי מודי, לטם פרי־חזן ושותפותיהן מציעות מודל המשלב מטרות, תכנים, מורים, תלמידים ודרכי הוראה בחינוך לזכויות ילדים. ידיעת הזכויות לבדה אינה מספיקה: ילדים צריכים גם לחוות כבוד והשתתפות ולהיות מסוגלים לפעול למען זכויותיהם וזכויות אחרים.",
+      "tags": [
+        "זכויות ילדים",
+        "חינוך לזכויות אדם",
+        "השתתפות תלמידים",
+        "פדגוגיה",
+        "אמנת זכויות הילד",
+        "תודעת זכויות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one rich polished editorial painting for an academic article about children's human rights education as knowing, feeling, acting and experiencing rights at school. Landscape 4:3. In a welcoming primary classroom, children of diverse backgrounds aged 9-12 sit in a semicircle at the same level with a teacher, a girl offers her view while the others listen seriously and a boy waits his turn. Show children as participants with agency, not passive recipients. Warm daylight, textured wood, colorful but restrained clothes, depth and credible faces, sophisticated civic magazine illustration. Fictional people. No readable books, text, letters, numbers, posters, signs, logos, watermarks, flags, diagrams, UI, flat vectors or inset panels.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/elisha-community-reentry-mentoring.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "elisha-community-reentry-mentoring.html",
+      "usedBy": [
+        "elisha-community-reentry-mentoring.html"
+      ],
+      "cardTitleHe": "ליווי אחרי השחרור: כיצד מתנדבים מסייעים לחזרה לחיי הקהילה",
+      "authorsHe": "אתי אלישע",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: שני מבוגרים משוחחים בהליכה בשכונת מגורים ים־תיכונית",
+      "semanticDescriptionHe": "אתי אלישע בוחנת תוכנית ישראלית שבה מתנדבים מלווים אנשים שסיימו לרצות מאסר. ראיונות עם אנשי התוכנית ושותפיה מדגישים קשר לא שיפוטי, סיוע מעשי ונגישות לזכויות. לצד הפוטנציאל לשילוב חברתי, המחקר מצביע על קשיי מימון, נשירה והיעדר מדידה שיטתית של התוצאות.",
+      "tags": [
+        "חברה אזרחית",
+        "שיקום בקהילה",
+        "אסירים משוחררים",
+        "התנדבות",
+        "מימוש זכויות",
+        "ליווי קהילתי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one polished, warm editorial illustration for an academic paper about volunteer community mentors helping formerly incarcerated adults return to everyday life in Israel. Landscape 4:3. Fictional adult mentor and another adult walk side by side in conversation through a leafy Mediterranean neighborhood with modest apartment facades and a community center doorway in background. Respectful equal standing, ordinary civilian clothes, relaxed but thoughtful faces, practical canvas bag, late-afternoon warm light, rich architectural and foliage texture, meaningful depth. The image should convey human connection and community belonging, not supervision. No prison bars, uniforms, handcuffs or criminal stereotypes. No text, letters, numbers, logos, signs, flags, watermarks, diagrams, UI or collage.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/naftali-china-gender-education.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "naftali-china-gender-education.html",
+      "usedBy": [
+        "naftali-china-gender-education.html"
+      ],
+      "cardTitleHe": "שוויון לצד תפקידי מגדר: המסרים הכפולים בספרי לימוד בסין",
+      "authorsHe": "אורנה נפתלי",
+      "visualDescriptionHe": "תלמידים בפעילות אסטרונומיה בחטיבת ביניים בגאולואו שבסין, 2019",
+      "semanticDescriptionHe": "אורנה נפתלי מנתחת ספרי חינוך מוסרי ומשפטי בחטיבות ביניים בסין. היא מזהה הכרה בשוויון ובהגנה מפני אפליה, לצד תפיסות בינאריות וציפיות להתאמה מגדרית. ההכרה בשונות מתקיימת בתוך גבולות של מוסר וסדר לאומי.",
+      "tags": [
+        "סין",
+        "שוויון מגדרי",
+        "ספרי לימוד",
+        "חינוך אזרחי",
+        "סטריאוטיפים",
+        "תודעה משפטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "IAU Office for Astronomy Outreach",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:100_Hours_of_Astronomy,_%E7%91%9E%E5%AE%89%E5%B8%82%E9%AB%98%E6%A5%BC%E9%95%87%E4%B8%AD%E5%AD%A6%E5%A4%A9%E6%96%87%E8%AF%BE1.png",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "source": "https://commons.wikimedia.org/wiki/File:100_Hours_of_Astronomy,_%E7%91%9E%E5%AE%89%E5%B8%82%E9%AB%98%E6%A5%BC%E9%95%87%E4%B8%AD%E5%AD%A6%E5%A4%A9%E6%96%87%E8%AF%BE1.png",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/100_Hours_of_Astronomy%2C_%E7%91%9E%E5%AE%89%E5%B8%82%E9%AB%98%E6%A5%BC%E9%95%87%E4%B8%AD%E5%AD%A6%E5%A4%A9%E6%96%87%E8%AF%BE1.png",
+      "sourceDate": "2019-01-10",
+      "sourceDimensions": {
+        "width": 857,
+        "height": 590
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants."
+    },
+    {
+      "file": "html_qa/zebarjadi-neural-political-polarization.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zebarjadi-neural-political-polarization.html",
+      "usedBy": [
+        "zebarjadi-neural-political-polarization.html"
+      ],
+      "cardTitleHe": "אותו סיפור על הגירה, תגובות מוחיות שונות: קיטוב גם בין עמדות קרובות",
+      "authorsHe": "Niloufar Zebarjadi; Annika Kluge; Enrico Glerean; Matilde Tassinari; Iiro P. Jääskeläinen; Inga Jasinskaja-Lahti; Jonathan Levy",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: שני מבוגרים מאזינים באוזניות בחדר מחקר; הסצנה אינה מתעדת את ציוד המחקר",
+      "semanticDescriptionHe": "מחקר הדמיה בפינלנד מצא קשר בין הבדלים קטנים בעמדות כלפי הגירה לבין דמיון בתגובות המוחיות להאזנה לסיפורים פוליטיים. גם בתוך מדגם שהיה ברובו תומך בהגירה ניכרו דפוסים שונים. הממצא מרחיב את חקר הקיטוב, אך אינו הופך עמדה פוליטית לתכונה ביולוגית קבועה.",
+      "tags": [
+        "קיטוב",
+        "הגירה",
+        "דימות מוחי",
+        "נרטיבים פוליטיים",
+        "עמדות",
+        "מתאם בין נבדקים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one polished editorial illustration for an academic neuroscience study of how people with mildly differing attitudes listen to pro- and anti-immigration narratives. Landscape 4:3. Two adult research volunteers, each wearing plain headphones, sit separately in a warmly lit university listening laboratory, one in the foreground listening intently and another further back showing a thoughtful different reaction. A softly focused researcher behind glass observes, no visible computer displays. Emphasize different perceptions of the same spoken narrative. Rich textured room, subtle warm and blue lighting, quiet human scene, credible anatomy, professional painterly editorial style. Fictional scene, not the study's actual participants or equipment. No brain icons, head cross-sections, graphs, EEG caps, text, letters, slogans, logos, flags, watermarks, UI, diagram or split-screen collage.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/schul-perceived-party-positions.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "schul-perceived-party-positions.html",
+      "usedBy": [
+        "schul-perceived-party-positions.html"
+      ],
+      "cardTitleHe": "המפלגה בעיני הבוחר: עמדה אישית ואידאולוגיה מעצבות את תפיסת היריב",
+      "authorsHe": "יעקב שול; יואב גנזך",
+      "visualDescriptionHe": "מצביעים בתאי הצבעה באולם בארצות הברית ביום הבחירות, 2008",
+      "semanticDescriptionHe": "יעקב שול ויואב גנזך מנתחים סקרי בחירות אמריקאיים ומבחינים בין עמדה בסוגיה לבין זהות אידאולוגית. בוחרים מקרבים לעצמם את המפלגה המועדפת ומרחיקים את היריבה. האידאולוגיה מוסיפה תרומה נפרדת, במיוחד לתפיסת היריב.",
+      "tags": [
+        "תפיסת מפלגות",
+        "אידאולוגיה",
+        "הזדהות מפלגתית",
+        "קיטוב",
+        "ANES",
+        "עמדות ציבור"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "Heather Katsoulis from Western Mass",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Booths_(3002212217).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Booths_(3002212217).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Booths_%283002212217%29.jpg",
+      "sourceDate": "2008-11-04 08:39",
+      "sourceDimensions": {
+        "width": 3008,
+        "height": 2000
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants."
+    },
+    {
+      "file": "html_qa/kark-men-allyship-gender-equality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kark-men-allyship-gender-equality.html",
+      "usedBy": [
+        "kark-men-allyship-gender-equality.html"
+      ],
+      "cardTitleHe": "גברים כשותפים לשוויון מגדרי: בין תמיכה, אמביוולנטיות ושימור כוח",
+      "authorsHe": "רונית קרק; Claudia Buengeler",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אישה מובילה דיון צוות ועמיתיה מקשיבים לה",
+      "semanticDescriptionHe": "רונית קרק וקלאודיה בינגלר סוקרות 110 פריטים על שותפות גברים בקידום שוויון בארגונים. הן מציעות להבין התנהגות דרך המתח בין תמיכה בשינוי לבין הגנה על מעמד. עזרה עשויה להעצים נשים או לשמר תלות.",
+      "tags": [
+        "שוויון מגדרי",
+        "שותפות גברים",
+        "אמביוולנטיות",
+        "ארגונים",
+        "יחסי כוח",
+        "סקירת ספרות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create one sophisticated editorial illustration about men's allyship for gender equality at work and the difference between listening and taking over. Landscape 4:3. A woman team leader confidently presents her ideas at a small creative studio meeting; a male colleague deliberately steps back beside her and listens with an open posture, while another woman and another man listen from their seats. A coherent medium-wide scene with layered depth, warm daylight, materials and natural human faces, polished painterly magazine style. Center the woman as the leader, balanced collaborative atmosphere, no savior gesture or exaggerated gender stereotypes. Fictional people. No text, letters, numbers, diagrams, screens, logos, watermarks, flags, UI or collage.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-04; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/gazal-ayal-ethnic-bias-detention.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gazal-ayal-ethnic-bias-detention.html",
+      "usedBy": [
+        "gazal-ayal-ethnic-bias-detention.html"
+      ],
+      "cardTitleHe": "זהות משותפת באולם המשפט: הטיה בהחלטות מעצר ראשוניות",
+      "authorsHe": "אורן גזל־אייל; רענן סוליציאנו־קינן",
+      "visualDescriptionHe": "חלל הפנים והמעברים בבית המשפט בחיפה, 2006",
+      "semanticDescriptionHe": "אורן גזל־אייל ורענן סוליציאנו־קינן בחנו החלטות מעצר בהקצאה אקראית של שופטי תורנות בישראל. נמצא יתרון יחסי לחשודים מקבוצתו האתנית של השופט בהחלטה על מעצר או שחרור. הממצא מחדד שאלות על שוויון בהליך הפלילי.",
+      "tags": [
+        "מעצר",
+        "הטיה קבוצתית",
+        "שוויון בפני החוק",
+        "שופטים",
+        "ניסוי טבעי",
+        "יהודים וערבים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-04",
+      "fitness": "standard",
+      "creator": "ToastieIL",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haifa_Court_-_Interior,_2nd_floor.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "fitnessSource": "paper_specific_documentary_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Haifa_Court_-_Interior,_2nd_floor.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Haifa_Court_-_Interior%2C_2nd_floor.jpg",
+      "sourceDate": "17 October 2006 (according to Exif data)",
+      "sourceDimensions": {
+        "width": 2048,
+        "height": 1536
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants."
     }
   ],
   "topicGraphics": [

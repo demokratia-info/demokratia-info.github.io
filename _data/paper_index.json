@@ -1,8 +1,304 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1802,
+  "paperCount": 1812,
   "papers": [
+    {
+      "slug": "gazal-ayal-ethnic-bias-detention",
+      "file": "gazal-ayal-ethnic-bias-detention.html",
+      "permalink": "/gazal-ayal-ethnic-bias-detention.html",
+      "sortKey": 202610040010,
+      "titleHe": "זהות משותפת באולם המשפט: הטיה בהחלטות מעצר ראשוניות",
+      "paperTitle": "Let My People Go: Ethnic In‐Group Bias in Judicial Decisions—Evidence from a Randomized Natural Experiment",
+      "authorsCardHe": "אורן גזל־אייל; רענן סוליציאנו־קינן",
+      "sourceAuthors": [
+        "Oren Gazal-Ayal",
+        "Raanan Sulitzeanu-Kenan"
+      ],
+      "journal": "Journal of Empirical Legal Studies 7(3), 403–428",
+      "dateText": "22 ביולי 2010; גיליון ספטמבר 2010",
+      "doiUrl": "https://doi.org/10.1111/j.1740-1461.2010.01183.x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/gazal-ayal-ethnic-bias-detention.jpg",
+        "altHe": "חלל הפנים והמעברים בבית המשפט בחיפה, 2006",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "אורן גזל־אייל ורענן סוליציאנו־קינן בחנו החלטות מעצר בהקצאה אקראית של שופטי תורנות בישראל. נמצא יתרון יחסי לחשודים מקבוצתו האתנית של השופט בהחלטה על מעצר או שחרור. הממצא מחדד שאלות על שוויון בהליך הפלילי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kark-men-allyship-gender-equality",
+      "file": "kark-men-allyship-gender-equality.html",
+      "permalink": "/kark-men-allyship-gender-equality.html",
+      "sortKey": 202610040009,
+      "titleHe": "גברים כשותפים לשוויון מגדרי: בין תמיכה, אמביוולנטיות ושימור כוח",
+      "paperTitle": "Leaning in together? A review of men's allyship in promoting gender equality in organizations from an ambivalence perspective",
+      "authorsCardHe": "רונית קרק; Claudia Buengeler",
+      "sourceAuthors": [
+        "Ronit Kark",
+        "Claudia Buengeler"
+      ],
+      "journal": "International Journal of Management Reviews 28(3), e70025",
+      "dateText": "6 במאי 2026; גיליון יולי 2026",
+      "doiUrl": "https://doi.org/10.1111/ijmr.70025",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kark-men-allyship-gender-equality.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה מובילה דיון צוות ועמיתיה מקשיבים לה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "רונית קרק וקלאודיה בינגלר סוקרות 110 פריטים על שותפות גברים בקידום שוויון בארגונים. הן מציעות להבין התנהגות דרך המתח בין תמיכה בשינוי לבין הגנה על מעמד. עזרה עשויה להעצים נשים או לשמר תלות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schul-perceived-party-positions",
+      "file": "schul-perceived-party-positions.html",
+      "permalink": "/schul-perceived-party-positions.html",
+      "sortKey": 202610040008,
+      "titleHe": "המפלגה בעיני הבוחר: עמדה אישית ואידאולוגיה מעצבות את תפיסת היריב",
+      "paperTitle": "Divergent views of party positions: How ideology and own issue position shape party perception through convergence and divergence processes",
+      "authorsCardHe": "יעקב שול; יואב גנזך",
+      "sourceAuthors": [
+        "Yaacov Schul",
+        "Yoav Ganzach"
+      ],
+      "journal": "Group Processes & Intergroup Relations 28(2), 256–276",
+      "dateText": "11 בספטמבר 2024; גיליון פברואר 2025",
+      "doiUrl": "https://doi.org/10.1177/13684302241264420",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/schul-perceived-party-positions.jpg",
+        "altHe": "מצביעים בתאי הצבעה באולם בארצות הברית ביום הבחירות, 2008",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "יעקב שול ויואב גנזך מנתחים סקרי בחירות אמריקאיים ומבחינים בין עמדה בסוגיה לבין זהות אידאולוגית. בוחרים מקרבים לעצמם את המפלגה המועדפת ומרחיקים את היריבה. האידאולוגיה מוסיפה תרומה נפרדת, במיוחד לתפיסת היריב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "zebarjadi-neural-political-polarization",
+      "file": "zebarjadi-neural-political-polarization.html",
+      "permalink": "/zebarjadi-neural-political-polarization.html",
+      "sortKey": 202610040007,
+      "titleHe": "אותו סיפור על הגירה, תגובות מוחיות שונות: קיטוב גם בין עמדות קרובות",
+      "paperTitle": "Polarized neural responses to political narratives are sensitive to small variations in self-reported political perspectives",
+      "authorsCardHe": "Niloufar Zebarjadi; Annika Kluge; Enrico Glerean; Matilde Tassinari; Iiro P. Jääskeläinen; Inga Jasinskaja-Lahti; Jonathan Levy",
+      "sourceAuthors": [
+        "Niloufar Zebarjadi",
+        "Annika Kluge",
+        "Enrico Glerean",
+        "Matilde Tassinari",
+        "Iiro P. Jääskeläinen",
+        "Inga Jasinskaja-Lahti",
+        "Jonathan Levy"
+      ],
+      "journal": "iScience 29(1), 114268",
+      "dateText": "16 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1016/j.isci.2025.114268",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/zebarjadi-neural-political-polarization.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שני מבוגרים מאזינים באוזניות בחדר מחקר; הסצנה אינה מתעדת את ציוד המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "מחקר הדמיה בפינלנד מצא קשר בין הבדלים קטנים בעמדות כלפי הגירה לבין דמיון בתגובות המוחיות להאזנה לסיפורים פוליטיים. גם בתוך מדגם שהיה ברובו תומך בהגירה ניכרו דפוסים שונים. הממצא מרחיב את חקר הקיטוב, אך אינו הופך עמדה פוליטית לתכונה ביולוגית קבועה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "naftali-china-gender-education",
+      "file": "naftali-china-gender-education.html",
+      "permalink": "/naftali-china-gender-education.html",
+      "sortKey": 202610040006,
+      "titleHe": "שוויון לצד תפקידי מגדר: המסרים הכפולים בספרי לימוד בסין",
+      "paperTitle": "Schooling ‘Soft-Spoken Boys’ and ‘Masculine Girls’: Morality, Equality, and Difference in China’s Gender Education",
+      "authorsCardHe": "אורנה נפתלי",
+      "sourceAuthors": [
+        "Orna Naftali"
+      ],
+      "journal": "NAN NÜ 26(1), 85–113",
+      "dateText": "28 במאי 2024",
+      "doiUrl": "https://doi.org/10.1163/15685268-02601042",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/naftali-china-gender-education.jpg",
+        "altHe": "תלמידים בפעילות אסטרונומיה בחטיבת ביניים בגאולואו שבסין, 2019",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "אורנה נפתלי מנתחת ספרי חינוך מוסרי ומשפטי בחטיבות ביניים בסין. היא מזהה הכרה בשוויון ובהגנה מפני אפליה, לצד תפיסות בינאריות וציפיות להתאמה מגדרית. ההכרה בשונות מתקיימת בתוך גבולות של מוסר וסדר לאומי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "elisha-community-reentry-mentoring",
+      "file": "elisha-community-reentry-mentoring.html",
+      "permalink": "/elisha-community-reentry-mentoring.html",
+      "sortKey": 202610040005,
+      "titleHe": "ליווי אחרי השחרור: כיצד מתנדבים מסייעים לחזרה לחיי הקהילה",
+      "paperTitle": "Civil society in action: insights into volunteer-based community mentoring for reentry support",
+      "authorsCardHe": "אתי אלישע",
+      "sourceAuthors": [
+        "Ety Elisha"
+      ],
+      "journal": "Health & Justice 13(1), 57",
+      "dateText": "30 בספטמבר 2025",
+      "doiUrl": "https://doi.org/10.1186/s40352-025-00366-0",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/elisha-community-reentry-mentoring.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שני מבוגרים משוחחים בהליכה בשכונת מגורים ים־תיכונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "אתי אלישע בוחנת תוכנית ישראלית שבה מתנדבים מלווים אנשים שסיימו לרצות מאסר. ראיונות עם אנשי התוכנית ושותפיה מדגישים קשר לא שיפוטי, סיוע מעשי ונגישות לזכויות. לצד הפוטנציאל לשילוב חברתי, המחקר מצביע על קשיי מימון, נשירה והיעדר מדידה שיטתית של התוצאות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "moody-childrens-rights-education",
+      "file": "moody-childrens-rights-education.html",
+      "permalink": "/moody-childrens-rights-education.html",
+      "sortKey": 202610040004,
+      "titleHe": "חינוך לזכויות ילדים מתחיל גם באופן שבו הכיתה מתנהלת",
+      "paperTitle": "A theory of children’s human rights education",
+      "authorsCardHe": "Zoe Moody; Katarzyna Gawlicz; Jenna Gillett-Swan; לטם פרי־חזן; Ann Quennerstedt",
+      "sourceAuthors": [
+        "Zoe Moody",
+        "Katarzyna Gawlicz",
+        "Jenna Gillett-Swan",
+        "Lotem Perry-Hazan",
+        "Ann Quennerstedt"
+      ],
+      "journal": "European Educational Research Journal 25(5), 641–658",
+      "dateText": "2 באוקטובר 2025; גיליון ספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1177/14749041251378172",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/moody-childrens-rights-education.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: ילדים ומורה יושבים במעגל ומקשיבים לילדה שמביעה עמדה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "זואי מודי, לטם פרי־חזן ושותפותיהן מציעות מודל המשלב מטרות, תכנים, מורים, תלמידים ודרכי הוראה בחינוך לזכויות ילדים. ידיעת הזכויות לבדה אינה מספיקה: ילדים צריכים גם לחוות כבוד והשתתפות ולהיות מסוגלים לפעול למען זכויותיהם וזכויות אחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "reinwald-politics-workplace-elections",
+      "file": "reinwald-politics-workplace-elections.html",
+      "permalink": "/reinwald-politics-workplace-elections.html",
+      "sortKey": 202610040003,
+      "titleHe": "המחלוקת הפוליטית מגיעה למטבחון: יחסי עבודה סביב בחירות בארצות הברית",
+      "paperTitle": "The Elephant and Donkey in the Room: Time-Varying Effects of Political Dissimilarity on Social Interactions at Work During U.S. Elections",
+      "authorsCardHe": "Max Reinwald; Rouven Kanitz; פיטר במברגר; Julia Backmann; Martin Hoegl",
+      "sourceAuthors": [
+        "Max Reinwald",
+        "Rouven Kanitz",
+        "Peter Bamberger",
+        "Julia Backmann",
+        "Martin Hoegl"
+      ],
+      "journal": "Organization Science 37(2), 466–489",
+      "dateText": "7 בינואר 2026; גיליון מרץ–אפריל 2026",
+      "doiUrl": "https://doi.org/10.1287/orsc.2024.18538",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/reinwald-politics-workplace-elections.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: עמיתים משוחחים במטבחון משרדי, ואדם נוסף עומד ברקע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "שלושה מחקרים סביב בחירות בארצות הברית מציעים שהשפעתם של הבדלים פוליטיים בין עמיתים משתנה לאורך מערכת הבחירות. לאחר ההצבעה, איום על הזהות הקבוצתית עשוי לצמצם התחשבות באחר ולפגוע ביחסים. הממצאים מדגישים צורך בקשב ארגוני גם לאחר תום הקמפיין.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-chen-humor-gender-injustice",
+      "file": "cohen-chen-humor-gender-injustice.html",
+      "permalink": "/cohen-chen-humor-gender-injustice.html",
+      "sortKey": 202610040002,
+      "titleHe": "הומור מול סקסיזם: תחושת כוח עולה, אך הכעס המניע לפעולה עלול להיחלש",
+      "paperTitle": "Humorous Responses to Gender Injustice: The Contrasting Effects of Efficacy and Emotions on Women’s Collective Action Intentions",
+      "authorsCardHe": "סמדר כהן־חן; Rashpal K. Dhensa-Kahlon; בועז המאירי",
+      "sourceAuthors": [
+        "Smadar Cohen-Chen",
+        "Rashpal K. Dhensa-Kahlon",
+        "Boaz Hameiri"
+      ],
+      "journal": "Sex Roles 90(2), 336–351",
+      "dateText": "13 בפברואר 2024",
+      "doiUrl": "https://doi.org/10.1007/s11199-024-01459-0",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/cohen-chen-humor-gender-injustice.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה מופיעה במועדון סטנדאפ מול קהל המגיב בחיוך ובמחשבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "בשני ניסויים מצאו סמדר כהן־חן, רשפל דהנסה־קהלון ובועז המאירי שהומור בתגובה לאי־צדק מגדרי מפעיל כוחות מנוגדים. הוא עשוי לחזק תחושת מסוגלות קבוצתית, אך גם להחליש רגשות המניעים לפעולה. לכן תגובה משעשעת אינה מבטיחה נכונות רבה יותר לפעול למען שוויון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "peisah-dementia-intimacy-rights",
+      "file": "peisah-dementia-intimacy-rights.html",
+      "permalink": "/peisah-dementia-intimacy-rights.html",
+      "sortKey": 202610040001,
+      "titleHe": "אינטימיות ודמנציה: הזכות לקרבה מחייבת תמיכה בבחירה ובפרטיות",
+      "paperTitle": "Sexuality and the Human Rights of Persons With Dementia",
+      "authorsCardHe": "Carmelle Peisah; ליאת איילון; Hilde Verbeek; Susan Mary Benbow; Esther Wiskerke; Kiran Rabheru; Oluwatoyin Sorinmade",
+      "sourceAuthors": [
+        "Carmelle Peisah",
+        "Liat Ayalon",
+        "Hilde Verbeek",
+        "Susan Mary Benbow",
+        "Esther Wiskerke",
+        "Kiran Rabheru",
+        "Oluwatoyin Sorinmade"
+      ],
+      "journal": "The American Journal of Geriatric Psychiatry 29(10), 1021–1026",
+      "dateText": "אוקטובר 2021",
+      "doiUrl": "https://doi.org/10.1016/j.jagp.2021.05.016",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/peisah-dementia-intimacy-rights.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: זוג מבוגר מחזיק ידיים בפינת גן פרטית, ואשת צוות נמצאת במרחק",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-04",
+      "dateModified": "2026-10-04",
+      "summaryHe": "אבחנת דמנציה אינה מבטלת את הזכות לאינטימיות. המחברים מציעים להחליף הגבלות גורפות בתמיכה ברצונו של האדם, בפרטיותו ובהסכמה חופשית. סקירתם מדגישה שהגנה מפני ניצול והכרה בצורך בקרבה צריכות להשתלב במדיניות הטיפול.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "albert-constitutional-provisions-importance",
       "file": "albert-constitutional-provisions-importance.html",
