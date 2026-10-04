@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1812,
+  "paperCount": 1822,
   "papers": [
+    {
+      "slug": "hacker-transnational-litigation-abuse",
+      "file": "hacker-transnational-litigation-abuse.html",
+      "permalink": "/hacker-transnational-litigation-abuse.html",
+      "sortKey": 202610050010,
+      "titleHe": "כששפת זכויות האדם משמשת לרעה בסכסוכי משמורת חוצי גבולות",
+      "paperTitle": "Divorced Israeli Men's Abuse of Transnational Human Rights Law",
+      "authorsCardHe": "דפנה הקר",
+      "sourceAuthors": [
+        "Daphna Hacker"
+      ],
+      "journal": "Canadian Journal of Women and the Law 28(1), 91–115",
+      "dateText": "אפריל 2016",
+      "doiUrl": "https://doi.org/10.3138/cjwl.28.1.91",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/hacker-transnational-litigation-abuse.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: חוקרת משפט מעיינת בתיקי מסמכים בספרייה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "דפנה הקר בוחנת תביעות שהגישו גברים ישראלים גרושים בארצות הברית כחלק ממאבקי משמורת. אף שהתביעות נדחו, המאמר מצביע על נזק אפשרי מן השימוש בהליכי זכויות אדם ומציע לחשוב על תנאים למשפט חוצה גבולות אחראי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "spanier-older-persons-echr",
+      "file": "spanier-older-persons-echr.html",
+      "permalink": "/spanier-older-persons-echr.html",
+      "sortKey": 202610050009,
+      "titleHe": "זקנים בבית המשפט האירופי לזכויות אדם: נגישות ללא הכרה ייחודית",
+      "paperTitle": "Older Persons’ use of the European Court of Human Rights",
+      "authorsCardHe": "בני שפנייר; ישראל דורון; פאינה מילמן־סיון",
+      "sourceAuthors": [
+        "Benny Spanier",
+        "Israel (Issi) Doron",
+        "Faina Milman-Sivan"
+      ],
+      "journal": "Journal of Cross-Cultural Gerontology 28(4), 407–420",
+      "dateText": "20 באוקטובר 2013; גיליון דצמבר 2013",
+      "doiUrl": "https://doi.org/10.1007/s10823-013-9212-7",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/spanier-older-persons-echr.jpg",
+        "altHe": "אולם הדיונים של בית המשפט האירופי לזכויות אדם בשטרסבורג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "בני שפנייר, ישראל דורון ופאינה מילמן־סיון בחנו פסקי דין הנוגעים לאנשים זקנים בבית המשפט האירופי לזכויות אדם. הממצאים מצביעים על אפשרות ממשית לתבוע זכויות כלליות, לצד נוכחות מוגבלת של הזיקנה עצמה כנושא משפטי מובחן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mundlak-right-to-work-policy",
+      "file": "mundlak-right-to-work-policy.html",
+      "permalink": "/mundlak-right-to-work-policy.html",
+      "sortKey": 202610050008,
+      "titleHe": "הזכות לעבוד: לחבר זכויות אדם למדיניות תעסוקה",
+      "paperTitle": "The right to work: Linking human rights and employment policy",
+      "authorsCardHe": "גיא מונדלק",
+      "sourceAuthors": [
+        "Guy Mundlak"
+      ],
+      "journal": "International Labour Review 146(3-4), 189–215",
+      "dateText": "גיליון ספטמבר 2007; פרסום מקוון ב־18 בינואר 2008",
+      "doiUrl": "https://doi.org/10.1111/j.1564-913x.2007.00013.x",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/mundlak-right-to-work-policy.jpg",
+        "altHe": "בניין לשכת התעסוקה ההיסטורית בדסאו שבגרמניה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "גיא מונדלק מציע לעגן מדיניות תעסוקה בזכות לעבודה בכבוד, תוך הכרה במחלוקות ובפשרות הכרוכות בה. שילוב בין עקרונות זכויות אדם, השתתפות ציבורית ולמידה מוסדית יכול לחייב את המדינה להסביר ולבחון את בחירותיה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sheafer-media-economic-voting",
+      "file": "sheafer-media-economic-voting.html",
+      "permalink": "/sheafer-media-economic-voting.html",
+      "sortKey": 202610050007,
+      "titleHe": "חדשות כלכליות והצבעה בישראל: בין ביצועי המשק להערכת הממשלה",
+      "paperTitle": "The Media and Economic Voting in Israel",
+      "authorsCardHe": "תמיר שפר",
+      "sourceAuthors": [
+        "Tamir Sheafer"
+      ],
+      "journal": "International Journal of Public Opinion Research 20(1), 33–51",
+      "dateText": "4 בפברואר 2008",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edn004",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/sheafer-media-economic-voting.jpg",
+        "altHe": "מכונת דפוס במערכת העיתון Kaleva באולו שבפינלנד, 1961",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "תמיר שפר בוחן כיצד סיקור הכלכלה מתקשר להערכת יכולתה הכלכלית של מפלגת ראש הממשלה ולהצבעה עבורה. המחקר משלב נתונים כלכליים, תוכן חדשותי וסקרי בחירות, ומאיר את תפקיד התקשורת באחריותיות הדמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "perry-hazan-school-cameras-rights",
+      "file": "perry-hazan-school-cameras-rights.html",
+      "permalink": "/perry-hazan-school-cameras-rights.html",
+      "sortKey": 202610050006,
+      "titleHe": "מצלמות בבית הספר: השיעור הסמוי בפרטיות ובהליך הוגן",
+      "paperTitle": "The hidden human rights curriculum of surveillance cameras in schools: due process, privacy and trust",
+      "authorsCardHe": "לוטם פרי־חזן; מיכאל בירנהק",
+      "sourceAuthors": [
+        "Lotem Perry-Hazan",
+        "Michael Birnhack"
+      ],
+      "journal": "Cambridge Journal of Education 48(1), 47–64",
+      "dateText": "21 בספטמבר 2016; גיליון ינואר 2018",
+      "doiUrl": "https://doi.org/10.1080/0305764x.2016.1224813",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/perry-hazan-school-cameras-rights.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: מורה מקשיבה לתלמיד במסדרון בית ספר שבו מצלמה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "לוטם פרי־חזן ומיכאל בירנהק מראים כיצד השימוש במצלמות בבית הספר מלמד תלמידים על זכויותיהם בפועל. ראיונות עם מנהלים וגורמי רשות חושפים מתח בין משמעת ודאגה לבין פרטיות, זכות תגובה ואמון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "oshri-risk-gender-radical-right",
+      "file": "oshri-risk-gender-radical-right.html",
+      "permalink": "/oshri-risk-gender-radical-right.html",
+      "sortKey": 202610050005,
+      "titleHe": "סיכון אלקטורלי והפער בין נשים לגברים בהצבעה לימין הפופוליסטי",
+      "paperTitle": "Risk Aversion and the Gender Gap in the Vote for Populist Radical Right Parties",
+      "authorsCardHe": "אודליה אושרי; לירן הרסגור; רעות איצקוביץ׳־מלכה; אור טוטנאואר",
+      "sourceAuthors": [
+        "Odelia Oshri",
+        "Liran Harsgor",
+        "Reut Itzkovitch-Malka",
+        "Or Tuttnauer"
+      ],
+      "journal": "American Journal of Political Science 67(3), 701–717",
+      "dateText": "פרסום מקוון בפברואר 2022; גיליון יולי 2023",
+      "doiUrl": "https://doi.org/10.1111/ajps.12696",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/oshri-risk-gender-radical-right.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה שוקלת את בחירתה ליד תא הצבעה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "אודליה אושרי ועמיתיה מציעים להסביר חלק מהפער המגדרי בהצבעה לימין הרדיקלי באמצעות רתיעה מסיכון אלקטורלי וחברתי. ניתוח השוואתי ומקרה גרמני מראים כיצד סיכויי ההצלחה של מפלגה והלגיטימיות הנתפסת שלה עשויים לשנות את הפער.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "grossman-diverse-judicial-panels",
+      "file": "grossman-diverse-judicial-panels.html",
+      "permalink": "/grossman-diverse-judicial-panels.html",
+      "sortKey": 202610050004,
+      "titleHe": "גיוון בהרכב השופטים ותוצאות ערעורים פליליים בישראל",
+      "paperTitle": "Descriptive Representation and Judicial Outcomes in Multiethnic Societies",
+      "authorsCardHe": "גיא גרוסמן; אורן גזל־אייל; Samuel D. Pimentel; Jeremy M. Weinstein",
+      "sourceAuthors": [
+        "Guy Grossman",
+        "Oren Gazal-Ayal",
+        "Samuel D. Pimentel",
+        "Jeremy M. Weinstein"
+      ],
+      "journal": "American Journal of Political Science 60(1), 44–69",
+      "dateText": "24 באפריל 2015; גיליון ינואר 2016",
+      "doiUrl": "https://doi.org/10.1111/ajps.12187",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/grossman-diverse-judicial-panels.jpg",
+        "altHe": "ספרייה בתוך מתחם בית המשפט בנצרת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "גיא גרוסמן ועמיתיו מצאו כי נוכחות שופט ערבי בהרכב ערעור נקשרה לתוצאות מקלות יותר לנאשמים ערבים, ללא שינוי מובהק מקביל אצל יהודים. המחקר מראה כיצד ייצוג של מיעוט במוסד שיפוטי עשוי להשפיע על תוצאותיו המעשיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "salman-arms-diplomacy-human-rights",
+      "file": "salman-arms-diplomacy-human-rights.html",
+      "permalink": "/salman-arms-diplomacy-human-rights.html",
+      "sortKey": 202610050003,
+      "titleHe": "דיפלומטיית נשק וזכויות אדם: ישראל, הפיליפינים ומיאנמר",
+      "paperTitle": "Arms Diplomacy and Human Rights: The Case of Israel’s Relations With the Philippines and Myanmar",
+      "authorsCardHe": "ירון סלמן",
+      "sourceAuthors": [
+        "Yaron Salman"
+      ],
+      "journal": "Journal of Asian and African Studies 61(4), 2869–2886",
+      "dateText": "11 באוגוסט 2025; גיליון יוני 2026",
+      "doiUrl": "https://doi.org/10.1177/00219096251359244",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/salman-arms-diplomacy-human-rights.jpg",
+        "altHe": "ספינת הסיור BRP Nestor Acero של הצי הפיליפיני עוגנת בנמל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "ירון סלמן בוחן כיצד יצוא נשק ושיתוף פעולה ביטחוני עיצבו את יחסי ישראל עם הפיליפינים ומיאנמר. לטענתו, שיקולים מדיניים וכלכליים דחקו את זכויות האדם, והקשר בין רווח ביטחוני לאחריות דמוקרטית מחייב שקיפות ובחינה ציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "neiger-holocaust-twitter-memory",
+      "file": "neiger-holocaust-twitter-memory.html",
+      "permalink": "/neiger-holocaust-twitter-memory.html",
+      "sortKey": 202610050002,
+      "titleHe": "זיכרון השואה בטוויטר: מהנצחה ועד עקיצה פוליטית",
+      "paperTitle": "Tweeting the Holocaust: social media discourse between reverence, exploitation, and simulacra",
+      "authorsCardHe": "מוטי נייגר; אורן מאיירס; ענת בן־דוד",
+      "sourceAuthors": [
+        "Motti Neiger",
+        "Oren Meyers",
+        "Anat Ben-David"
+      ],
+      "journal": "Journal of Communication 73(3), 222–234",
+      "dateText": "17 באפריל 2023; גיליון יוני 2023",
+      "doiUrl": "https://doi.org/10.1093/joc/jqad010",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/neiger-holocaust-twitter-memory.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תצלומי משפחה ישנים ומפגש בין דורות לצד טלפון מונח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "מוטי נייגר, אורן מאיירס וענת בן־דוד מראים כיצד הביטוי ״ועוזריהם״ נע בין הנצחת השואה, תקיפה פוליטית ושימוש משחקי. חקר ההקשרים חושף כיצד זיכרון היסטורי מוסיף לעצב את השיח הציבורי גם כשהאירוע המקורי אינו מוזכר במפורש.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "likhovski-tax-compliance-citizenship",
+      "file": "likhovski-tax-compliance-citizenship.html",
+      "permalink": "/likhovski-tax-compliance-citizenship.html",
+      "sortKey": 202610050001,
+      "titleHe": "חינוך לתשלום מסים: כיצד עוצבה אזרחות בישראל הצעירה",
+      "paperTitle": "“Training in Citizenship”: Tax Compliance and Modernity",
+      "authorsCardHe": "אסף לחובסקי",
+      "sourceAuthors": [
+        "Assaf Likhovski"
+      ],
+      "journal": "Law & Social Inquiry 32(3), 665–700",
+      "dateText": "16 באוגוסט 2007; גיליון קיץ 2007",
+      "doiUrl": "https://doi.org/10.1111/j.1747-4469.2007.00073.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/likhovski-tax-compliance-citizenship.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: פקידה ואזרחים במשרד מס בסגנון שנות החמישים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "summaryHe": "אסף לחובסקי מראה כי טיפוח הציות למס בישראל בשנות החמישים שילב שיפור מינהלי, חינוך ועיצוב דמות האזרח הרצוי. לצד מימון שירותים ציבוריים ובניית אמון, התהליך הרחיב את הפיקוח על היחיד ולעיתים נשען על הכללות אתניות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "gazal-ayal-ethnic-bias-detention",
       "file": "gazal-ayal-ethnic-bias-detention.html",

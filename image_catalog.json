@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-04",
+  "lastUpdated": "2026-10-05",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -49704,6 +49704,354 @@
         "height": 1536
       },
       "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants."
+    },
+    {
+      "file": "html_qa/likhovski-tax-compliance-citizenship.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "likhovski-tax-compliance-citizenship.html",
+      "usedBy": [
+        "likhovski-tax-compliance-citizenship.html"
+      ],
+      "cardTitleHe": "חינוך לתשלום מסים: כיצד עוצבה אזרחות בישראל הצעירה",
+      "authorsHe": "אסף לחובסקי",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: פקידה ואזרחים במשרד מס בסגנון שנות החמישים",
+      "semanticDescriptionHe": "אסף לחובסקי מראה כי טיפוח הציות למס בישראל בשנות החמישים שילב שיפור מינהלי, חינוך ועיצוב דמות האזרח הרצוי. לצד מימון שירותים ציבוריים ובניית אמון, התהליך הרחיב את הפיקוח על היחיד ולעיתים נשען על הכללות אתניות.",
+      "tags": [
+        "מסים",
+        "אזרחות",
+        "מינהל ציבורי",
+        "אמון",
+        "היסטוריה משפטית",
+        "פיקוח"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial image for a Hebrew academic research summary about the Israeli state's effort to cultivate tax compliance and civic identity in the 1950s. Create one warm, sophisticated painterly editorial scene in landscape 4:3: a modest 1950s civic tax-office service counter, a female clerk explaining a small stack of plain papers to a working man, with a woman waiting nearby; wood furniture, plaster walls, daylight through high windows, detailed material texture and spatial depth, humane documentary atmosphere. Fictional people, plausible mid-century civilian clothing, coherent natural anatomy. Show the relationship between public administration and everyday citizens. No text, letters, numbers, readable documents, flags, logos, watermarks, computer screens, icons, diagrams, collage or UI. Papers must be blank. Not a flat vector illustration.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/neiger-holocaust-twitter-memory.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "neiger-holocaust-twitter-memory.html",
+      "usedBy": [
+        "neiger-holocaust-twitter-memory.html"
+      ],
+      "cardTitleHe": "זיכרון השואה בטוויטר: מהנצחה ועד עקיצה פוליטית",
+      "authorsHe": "מוטי נייגר; אורן מאיירס; ענת בן־דוד",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: תצלומי משפחה ישנים ומפגש בין דורות לצד טלפון מונח",
+      "semanticDescriptionHe": "מוטי נייגר, אורן מאיירס וענת בן־דוד מראים כיצד הביטוי ״ועוזריהם״ נע בין הנצחת השואה, תקיפה פוליטית ושימוש משחקי. חקר ההקשרים חושף כיצד זיכרון היסטורי מוסיף לעצב את השיח הציבורי גם כשהאירוע המקורי אינו מוזכר במפורש.",
+      "tags": [
+        "זיכרון השואה",
+        "טוויטר",
+        "זיכרון קולקטיבי",
+        "שיח פוליטי",
+        "תקשורת דיגיטלית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: one polished editorial illustration for research on Holocaust memory and everyday social media discourse. Landscape 4:3. A quiet, respectful contemporary room, an elderly woman's hand resting beside a small box of faded family photographs on a wooden table, while a younger adult nearby holds a smartphone face down and pauses thoughtfully. The photographs show only indistinct ordinary family silhouettes. Warm window light, muted blue and ochre, rich paper and wood textures, layered depth, intimate oblique tabletop composition, painterly magazine quality. A conceptual fictional scene about the distance between historical remembrance and fast digital conversation; not a recreation of any historical event or research participant. No text, letters, numbers, symbols of Nazism, flags, logos, watermarks, screens or interface elements, diagrams, collage effects or flat vector style.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/salman-arms-diplomacy-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "salman-arms-diplomacy-human-rights.html",
+      "usedBy": [
+        "salman-arms-diplomacy-human-rights.html"
+      ],
+      "cardTitleHe": "דיפלומטיית נשק וזכויות אדם: ישראל, הפיליפינים ומיאנמר",
+      "authorsHe": "ירון סלמן",
+      "visualDescriptionHe": "ספינת הסיור BRP Nestor Acero של הצי הפיליפיני עוגנת בנמל",
+      "semanticDescriptionHe": "ירון סלמן בוחן כיצד יצוא נשק ושיתוף פעולה ביטחוני עיצבו את יחסי ישראל עם הפיליפינים ומיאנמר. לטענתו, שיקולים מדיניים וכלכליים דחקו את זכויות האדם, והקשר בין רווח ביטחוני לאחריות דמוקרטית מחייב שקיפות ובחינה ציבורית.",
+      "tags": [
+        "יצוא נשק",
+        "זכויות אדם",
+        "מיאנמר",
+        "הפיליפינים",
+        "מדיניות חוץ",
+        "שקיפות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "Naval Command Western Mindanao",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BRP_Nestor_Acero_PG-200_-_PDA.jpg",
+      "license": "Public domain",
+      "fitnessSource": "paper_specific_documentary_review",
+      "source": "https://commons.wikimedia.org/wiki/File:BRP_Nestor_Acero_PG-200_-_PDA.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/BRP_Nestor_Acero_PG-200_-_PDA.jpg",
+      "sourceDate": "2026-08-18",
+      "sourceDimensions": {
+        "width": 2048,
+        "height": 1152
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/grossman-diverse-judicial-panels.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "grossman-diverse-judicial-panels.html",
+      "usedBy": [
+        "grossman-diverse-judicial-panels.html"
+      ],
+      "cardTitleHe": "גיוון בהרכב השופטים ותוצאות ערעורים פליליים בישראל",
+      "authorsHe": "גיא גרוסמן; אורן גזל־אייל; Samuel D. Pimentel; Jeremy M. Weinstein",
+      "visualDescriptionHe": "ספרייה בתוך מתחם בית המשפט בנצרת",
+      "semanticDescriptionHe": "גיא גרוסמן ועמיתיו מצאו כי נוכחות שופט ערבי בהרכב ערעור נקשרה לתוצאות מקלות יותר לנאשמים ערבים, ללא שינוי מובהק מקביל אצל יהודים. המחקר מראה כיצד ייצוג של מיעוט במוסד שיפוטי עשוי להשפיע על תוצאותיו המעשיות.",
+      "tags": [
+        "גיוון שיפוטי",
+        "ייצוג מיעוטים",
+        "ערעור פלילי",
+        "שוויון בפני החוק",
+        "יהודים וערבים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "מיכאלי",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:4CourtNazareth.jpg",
+      "license": "CC BY 4.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:4CourtNazareth.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/4CourtNazareth.jpg",
+      "sourceDate": "Taken on 4 July 2023, 09:39:06",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 3000
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/oshri-risk-gender-radical-right.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "oshri-risk-gender-radical-right.html",
+      "usedBy": [
+        "oshri-risk-gender-radical-right.html"
+      ],
+      "cardTitleHe": "סיכון אלקטורלי והפער בין נשים לגברים בהצבעה לימין הפופוליסטי",
+      "authorsHe": "אודליה אושרי; לירן הרסגור; רעות איצקוביץ׳־מלכה; אור טוטנאואר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אישה שוקלת את בחירתה ליד תא הצבעה",
+      "semanticDescriptionHe": "אודליה אושרי ועמיתיה מציעים להסביר חלק מהפער המגדרי בהצבעה לימין הרדיקלי באמצעות רתיעה מסיכון אלקטורלי וחברתי. ניתוח השוואתי ומקרה גרמני מראים כיצד סיכויי ההצלחה של מפלגה והלגיטימיות הנתפסת שלה עשויים לשנות את הפער.",
+      "tags": [
+        "הצבעה",
+        "מגדר",
+        "ימין פופוליסטי",
+        "רתיעה מסיכון",
+        "בחירות",
+        "אירופה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: one sophisticated civic editorial illustration for a study about risk aversion and the gender gap in voting for populist radical-right parties. Landscape 4:3. Interior of an ordinary polling station: an adult woman stands thoughtfully before a plain curtained voting booth, holding a blank folded ballot at waist level, with other ordinary adult voters at different distances in the softly focused room. A moment of independent personal judgment, quiet institutional surroundings, natural proportions, warm morning light, textured walls and floor, deep perspective, polished painterly style. Fictional voters with dignity and agency; avoid fearful gender stereotypes. No partisan cues, identifiable politicians, text, numbers, letters, symbols, flags, logos, watermarks, UI, flat icons, charts or collaged layers.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/perry-hazan-school-cameras-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "perry-hazan-school-cameras-rights.html",
+      "usedBy": [
+        "perry-hazan-school-cameras-rights.html"
+      ],
+      "cardTitleHe": "מצלמות בבית הספר: השיעור הסמוי בפרטיות ובהליך הוגן",
+      "authorsHe": "לוטם פרי־חזן; מיכאל בירנהק",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: מורה מקשיבה לתלמיד במסדרון בית ספר שבו מצלמה",
+      "semanticDescriptionHe": "לוטם פרי־חזן ומיכאל בירנהק מראים כיצד השימוש במצלמות בבית הספר מלמד תלמידים על זכויותיהם בפועל. ראיונות עם מנהלים וגורמי רשות חושפים מתח בין משמעת ודאגה לבין פרטיות, זכות תגובה ואמון.",
+      "tags": [
+        "מצלמות מעקב",
+        "זכויות תלמידים",
+        "פרטיות",
+        "הליך הוגן",
+        "אמון",
+        "חינוך"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial illustration about school surveillance cameras, pupils' privacy and due process. Landscape 4:3. A wide view down a light-filled ordinary school corridor, a small ceiling-mounted CCTV camera visible in the upper foreground, a teenage pupil explaining something to a listening teacher near an open classroom door, with two pupils quietly passing farther away. Fictional people fully clothed, calm reflective atmosphere. Warm textured plaster and natural wood, soft blue and ochre colors, painterly editorial realism with spatial depth and natural anatomy. Camera should be realistically proportioned, without exaggerated dystopia. No written notices, text, letters, digits, flags, logos, watermark, screens, overlays, icons, diagrams or collage.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/sheafer-media-economic-voting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sheafer-media-economic-voting.html",
+      "usedBy": [
+        "sheafer-media-economic-voting.html"
+      ],
+      "cardTitleHe": "חדשות כלכליות והצבעה בישראל: בין ביצועי המשק להערכת הממשלה",
+      "authorsHe": "תמיר שפר",
+      "visualDescriptionHe": "מכונת דפוס במערכת העיתון Kaleva באולו שבפינלנד, 1961",
+      "semanticDescriptionHe": "תמיר שפר בוחן כיצד סיקור הכלכלה מתקשר להערכת יכולתה הכלכלית של מפלגת ראש הממשלה ולהצבעה עבורה. המחקר משלב נתונים כלכליים, תוכן חדשותי וסקרי בחירות, ומאיר את תפקיד התקשורת באחריותיות הדמוקרטית.",
+      "tags": [
+        "הצבעה כלכלית",
+        "תקשורת",
+        "בחירות בישראל",
+        "אחריותיות",
+        "דעת קהל"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "Unknown photographer; Kaleva collection, JOKA Press Photo Archive, Finnish Heritage Agency",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_press_in_the_printing_house_Kaleva_1961_(JOKAKAL3B-9309).tif",
+      "license": "CC BY 4.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_press_in_the_printing_house_Kaleva_1961_(JOKAKAL3B-9309).tif",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/A_press_in_the_printing_house_Kaleva_1961_%28JOKAKAL3B-9309%29.tif",
+      "sourceDate": "1961-05-10",
+      "sourceDimensions": {
+        "width": 4961,
+        "height": 3548
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants. Conservative standard fit. Crop excludes the archival border; attribution includes the collection and institution."
+    },
+    {
+      "file": "html_qa/mundlak-right-to-work-policy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mundlak-right-to-work-policy.html",
+      "usedBy": [
+        "mundlak-right-to-work-policy.html"
+      ],
+      "cardTitleHe": "הזכות לעבוד: לחבר זכויות אדם למדיניות תעסוקה",
+      "authorsHe": "גיא מונדלק",
+      "visualDescriptionHe": "בניין לשכת התעסוקה ההיסטורית בדסאו שבגרמניה",
+      "semanticDescriptionHe": "גיא מונדלק מציע לעגן מדיניות תעסוקה בזכות לעבודה בכבוד, תוך הכרה במחלוקות ובפשרות הכרוכות בה. שילוב בין עקרונות זכויות אדם, השתתפות ציבורית ולמידה מוסדית יכול לחייב את המדינה להסביר ולבחון את בחירותיה.",
+      "tags": [
+        "הזכות לעבוד",
+        "זכויות חברתיות",
+        "מדיניות תעסוקה",
+        "עבודה בכבוד",
+        "השתתפות ציבורית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "Gunnar Klack",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2020-09-18-Arbeitsamt-Dessau.jpg",
+      "license": "CC BY-SA 4.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2020-09-18-Arbeitsamt-Dessau.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2020-09-18-Arbeitsamt-Dessau.jpg",
+      "sourceDate": "2020-09-18",
+      "sourceDimensions": {
+        "width": 4237,
+        "height": 2900
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/spanier-older-persons-echr.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "spanier-older-persons-echr.html",
+      "usedBy": [
+        "spanier-older-persons-echr.html"
+      ],
+      "cardTitleHe": "זקנים בבית המשפט האירופי לזכויות אדם: נגישות ללא הכרה ייחודית",
+      "authorsHe": "בני שפנייר; ישראל דורון; פאינה מילמן־סיון",
+      "visualDescriptionHe": "אולם הדיונים של בית המשפט האירופי לזכויות אדם בשטרסבורג",
+      "semanticDescriptionHe": "בני שפנייר, ישראל דורון ופאינה מילמן־סיון בחנו פסקי דין הנוגעים לאנשים זקנים בבית המשפט האירופי לזכויות אדם. הממצאים מצביעים על אפשרות ממשית לתבוע זכויות כלליות, לצד נוכחות מוגבלת של הזיקנה עצמה כנושא משפטי מובחן.",
+      "tags": [
+        "זכויות זקנים",
+        "בית המשפט האירופי לזכויות אדם",
+        "גישה לצדק",
+        "זיקנה",
+        "אמנות זכויות אדם"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "CherryX per Wikimedia Commons",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons (cropped and resized)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Strasbourg-_European_Court_of_Human_Rights.jpg",
+      "license": "CC BY-SA 3.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Strasbourg-_European_Court_of_Human_Rights.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Strasbourg-_European_Court_of_Human_Rights.jpg",
+      "sourceDate": "",
+      "sourceDimensions": {
+        "width": 2560,
+        "height": 1600
+      },
+      "qualityNotes": "Newly downloaded licensed documentary photograph, cropped and resized to 800×600. Illustrates the setting; not presented as a photograph of the study or its participants. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/hacker-transnational-litigation-abuse.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hacker-transnational-litigation-abuse.html",
+      "usedBy": [
+        "hacker-transnational-litigation-abuse.html"
+      ],
+      "cardTitleHe": "כששפת זכויות האדם משמשת לרעה בסכסוכי משמורת חוצי גבולות",
+      "authorsHe": "דפנה הקר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: חוקרת משפט מעיינת בתיקי מסמכים בספרייה",
+      "semanticDescriptionHe": "דפנה הקר בוחנת תביעות שהגישו גברים ישראלים גרושים בארצות הברית כחלק ממאבקי משמורת. אף שהתביעות נדחו, המאמר מצביע על נזק אפשרי מן השימוש בהליכי זכויות אדם ומציע לחשוב על תנאים למשפט חוצה גבולות אחראי.",
+      "tags": [
+        "משפט חוצה גבולות",
+        "זכויות אדם",
+        "משמורת ילדים",
+        "שימוש לרעה בהליך",
+        "מגדר"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-05",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial illustration for an academic article on misuse of cross-border human-rights litigation in family disputes. Landscape 4:3. A thoughtful fictional female legal researcher seated alone at the far end of a long wooden library table, studying two separate modest stacks of blank case folders, with tall bookshelves and high windows giving deep architectural perspective. An empty chair nearby suggests the human consequences of litigation. Warm late-afternoon light, rich paper and wood textures, restrained painterly magazine style, serious humane mood. No identifiable actual litigants, no children, no aggressive gestures. No text, readable book spines, letters, numbers, logos, flags, watermarks, diagrams, scales, gavels, UI or collage. Blank folders and papers.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
     }
   ],
   "topicGraphics": [
