@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-06",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -50052,6 +50052,344 @@
       "generationPrompt": "Use case: illustration-story. Asset: polished editorial illustration for an academic article on misuse of cross-border human-rights litigation in family disputes. Landscape 4:3. A thoughtful fictional female legal researcher seated alone at the far end of a long wooden library table, studying two separate modest stacks of blank case folders, with tall bookshelves and high windows giving deep architectural perspective. An empty chair nearby suggests the human consequences of litigation. Warm late-afternoon light, rich paper and wood textures, restrained painterly magazine style, serious humane mood. No identifiable actual litigants, no children, no aggressive gestures. No text, readable book spines, letters, numbers, logos, flags, watermarks, diagrams, scales, gavels, UI or collage. Blank folders and papers.",
       "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the study participants, authors, or actual research setting. Cropped and resized to 800×600. Conservative standard fit.",
       "source": "OpenAI image generation, 2026-10-05; creation prompt recorded in generationPrompt."
+    },
+    {
+      "file": "html_qa/pedahzur-extremism-democratic-boundaries.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "pedahzur-extremism-democratic-boundaries.html",
+      "usedBy": [
+        "pedahzur-extremism-democratic-boundaries.html"
+      ],
+      "cardTitleHe": "הגנה על הדמוקרטיה מפני קיצוניות ימנית: כוח המדינה וחוסנה של החברה האזרחית",
+      "authorsHe": "עמי פדהצור",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: תושבים מקיימים שיחה במרכז קהילתי",
+      "semanticDescriptionHe": "עמי פדהצור משווה תגובות לקיצוניות ימנית בארצות הברית, גרמניה וישראל. הוא מבחין בין דיכוי חריף, הגנה מוסדית וחיסון חברתי, ומדגיש שחברה אזרחית פעילה עשויה לצמצם את הצורך באמצעים הפוגעים בחירויות.",
+      "tags": [
+        "דמוקרטיה מתגוננת",
+        "קיצוניות ימנית",
+        "חברה אזרחית",
+        "חופש ההתאגדות",
+        "אלימות פוליטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial illustration for a Hebrew academic summary of civic resistance to right-wing extremism and protection of democratic freedoms. Landscape 4:3 composition. A warm, richly textured municipal community hall in a Mediterranean town, several fictional adult residents from varied backgrounds sitting in a loose circle and listening carefully to a neighbor. Through open doors, a normal public square with people going about their day. The concrete theme is civil society building tolerance from below while preserving freedom. Natural human gestures, architectural depth, warm afternoon light, painterly editorial realism. No protest placards, flags, text, letters, numbers, logos, watermarks, screens, diagrams, icons, scales, gavels, collage, or stereotyped ethnic costumes. Not a depiction of any real people or historical event.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/shalev-reproductive-health-autonomy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shalev-reproductive-health-autonomy.html",
+      "usedBy": [
+        "shalev-reproductive-health-autonomy.html"
+      ],
+      "cardTitleHe": "בריאות מינית ופריון כזכויות אדם: אוטונומיה, הסכמה מדעת ושוויון",
+      "authorsHe": "כרמל שלו",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אישה ואשת מקצוע בשיחה רפואית פרטית",
+      "semanticDescriptionHe": "כרמל שלו קושרת בין זכויות לבריאות מינית ופריון לבין חירות, שוויון וחלוקת משאבים. באמצעות אמנות ודיווחי מדינות היא מראה שהכרה בזכות מחייבת גם שירותים נגישים, סודיות וכיבוד החלטותיה של האישה.",
+      "tags": [
+        "זכויות נשים",
+        "בריאות ופריון",
+        "הסכמה מדעת",
+        "אוטונומיה",
+        "CEDAW"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration for a scholarly article about women's autonomy, informed consent and equal access to reproductive health care. Landscape 4:3. A fictional adult woman in ordinary clothes and a female health professional sit at equal eye level in a private consultation room, conversing respectfully, with a closed unmarked medical folder resting untouched at the side. A sunlit courtyard through a window adds space and depth. Focus on listening and independent patient choice, no treatment or procedure. Warm restrained colors, tactile painted realism and humane magazine illustration, natural hands and faces. No text, letters, numbers, signage, logos, watermarks, flags, diagrams, icons or computer screens. Not actual patients or study participants.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/cohn-administrative-review-mixed-systems.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohn-administrative-review-mixed-systems.html",
+      "usedBy": [
+        "cohn-administrative-review-mixed-systems.html"
+      ],
+      "cardTitleHe": "סבירות ומידתיות בין בריטניה לישראל: גבולות ההבחנה בין שיטות משפט",
+      "authorsHe": "מרגית כהן",
+      "visualDescriptionHe": "אולם מספר אחת בבית המשפט העליון של הממלכה המאוחדת בלונדון",
+      "semanticDescriptionHe": "מרגית כהן בוחנת את התפתחותן של שלוש עילות לביקורת על המינהל בבריטניה ובישראל. הניתוח מערער על חלוקה נוקשה לשיטות טהורות ומעורבות, ומראה מדוע יש לבדוק כיצד כלים משפטיים התפתחו בפועל.",
+      "tags": [
+        "משפט מינהלי",
+        "סבירות",
+        "מידתיות",
+        "הבטחה מינהלית",
+        "משפט השוואתי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "Rwendland",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UK_Supreme_Court,_Court_1.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "fitnessSource": "paper_specific_documentary_review",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/UK_Supreme_Court%2C_Court_1.JPG",
+      "sourceDate": "2012-09-03",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 3000
+      },
+      "qualityNotes": "Documentary photograph of Court 1 at the UK Supreme Court; illustrates the British judicial institution, not a case or hearing discussed in the article. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:UK_Supreme_Court,_Court_1.JPG"
+    },
+    {
+      "file": "html_qa/gazal-ayal-language-models-sentencing.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gazal-ayal-language-models-sentencing.html",
+      "usedBy": [
+        "gazal-ayal-language-models-sentencing.html"
+      ],
+      "cardTitleHe": "מודלי שפה בענישה פלילית: עקביות גבוהה אינה בהכרח הכרעה צודקת",
+      "authorsHe": "אורן גזל־אייל, זוהר אליוסף, אדיר סולומון",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: שופטת באולם דיונים לצד מחשב ותיקי משפט",
+      "semanticDescriptionHe": "אורן גזל־אייל, זוהר אליוסף ואדיר סולומון משווים עונשים שמציעים מודלי שפה להכרעות של שופטים בדימוס בשני מקרים בדיוניים. המודלים היו עקביים יותר וקרובים יותר לממוצע השופטים, אך אמת המידה אינה קובעת מהו העונש הראוי.",
+      "tags": [
+        "ענישה פלילית",
+        "מודלי שפה",
+        "שיקול דעת שיפוטי",
+        "פערי ענישה",
+        "בינה מלאכותית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial illustration for a scholarly study comparing language models and human judges' sentencing consistency. Landscape 4:3. A fictional judge in a modest wood-paneled courtroom studies a plain closed laptop beside two blank case folders, with rows of empty public seats receding into soft light. Side angle, the computer remains a small supporting object and its screen is unseen. Reflective mood, warm wood, deep room perspective, detailed painterly realism. Convey human responsibility in assessing computerized advice, no robot or brain symbols. No text, letters, numbers, logos, flags, gavels, scales, watermarks, diagrams or visible interface. Not an actual judge or case.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/gordon-berkovitch-domestic-rights-discourse.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gordon-berkovitch-domestic-rights-discourse.html",
+      "usedBy": [
+        "gordon-berkovitch-domestic-rights-discourse.html"
+      ],
+      "cardTitleHe": "כיצד שיח זכויות אדם נעשה מקומי: העיתונות הישראלית בין השפעות עולמיות למאבקים פנימיים",
+      "authorsHe": "ניב גורדון, ניצה ברקוביץ",
+      "visualDescriptionHe": "חדר המערכת של תחנת הרדיו האוניברסיטאית Mephisto 97.6 בלייפציג",
+      "semanticDescriptionHe": "ניב גורדון וניצה ברקוביץ בוחנים את התפתחות שיח זכויות האדם בעיתונות בישראל. הם טוענים שהפצת רעיונות עולמיים תלויה באירועים ובפרקטיקות מקומיים, ומחייבת הבנה של ההבדלים בתוך הזירה הלאומית.",
+      "tags": [
+        "שיח זכויות אדם",
+        "עיתונות",
+        "גלובליזציה",
+        "מאבקים מקומיים",
+        "ישראל"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "Mephisto97.6",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Newsroom.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "fitnessSource": "paper_specific_documentary_review",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Newsroom.jpg",
+      "sourceDate": "2011-06-08",
+      "sourceDimensions": {
+        "width": 2256,
+        "height": 1504
+      },
+      "qualityNotes": "Documentary photograph of a university radio newsroom in Leipzig; represents news production, not the Israeli newspapers or research setting in the article. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Newsroom.jpg"
+    },
+    {
+      "file": "html_qa/cohen-dudai-informers-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-dudai-informers-human-rights.html",
+      "usedBy": [
+        "cohen-dudai-informers-human-rights.html"
+      ],
+      "cardTitleHe": "מודיעים במאבק בטרור: חובות זכויות אדם בגיוס, בהפעלה ולאחריה",
+      "authorsHe": "הלל כהן, רון דודאי",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: שני אנשים בסמטה בשעת ערב, ואחד מהם פונה לפתח מואר",
+      "semanticDescriptionHe": "הלל כהן ורון דודאי מנתחים דילמות זכויות אדם בשימוש במודיעים במקרה הישראלי־פלסטיני. הם מבחינים בין גיוס, הפעלה וחובות לאחר סיום הפעילות, ומצביעים על פגיעות אפשריות במודיעים ועל פגיעות שהם עצמם עלולים לגרום.",
+      "tags": [
+        "מודיעים",
+        "מאבק בטרור",
+        "זכויות אדם",
+        "אחריות ביטחונית",
+        "הסכסוך הישראלי־פלסטיני"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial artwork for an academic paper on human rights duties toward intelligence informers after cooperation has ended. Landscape 4:3. An exterior scene, NOT an office and NO table: two fictional adult men in ordinary civilian coats walking separately along a quiet stone residential lane, seen from behind at medium-long distance, one entering a modest sheltered doorway while the other pauses respectfully several steps away. The scene suggests vulnerability and responsibility for someone's continuing safety without portraying surveillance or an operation. Early evening blue air, a warm amber doorway, layered architecture and textured stone, sober painterly magazine realism. No identifiable real people, weapons, uniforms, spy props, readable signs, text, letters, numbers, logos, flags, watermarks or diagrams. The entire composition must differ from an indoor consultation scene.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/shany-extraterritorial-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shany-extraterritorial-human-rights.html",
+      "usedBy": [
+        "shany-extraterritorial-human-rights.html"
+      ],
+      "cardTitleHe": "זכויות אדם מעבר לגבול: אחריות מדינה לפי יכולתה להשפיע ולהגן",
+      "authorsHe": "יובל שני",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: מפגש בין נוסע לעובדת ציבור בחדר שירות סמוך לגבול",
+      "semanticDescriptionHe": "יובל שני מציע גישה תפקודית לתחולת חובות זכויות אדם מחוץ לשטח המדינה. ההצעה קושרת אחריות ליחסי כוח בעלי השפעה ישירה, משמעותית וצפויה, או ליחסים משפטיים מיוחדים, במקום להסתפק במיקומו של הגבול.",
+      "tags": [
+        "זכויות אדם",
+        "תחולה חוץ־טריטוריאלית",
+        "אוניברסליות",
+        "אחריות מדינה",
+        "יחסי כוח"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: polished conceptual editorial illustration for a legal article on human rights obligations beyond state borders and the significance of actual power over people. Landscape 4:3. Wide view inside a simple public administrative service room at a remote border crossing: a fictional adult official listens to a traveler seated at the same plain desk, with a broad open landscape visible through the window. Their ordinary encounter and the institution's ability to help are the focus, not a confrontation. Restrained warm late-afternoon light, architectural depth, tactile painted realism, humane civic magazine aesthetic. No weapons, uniforms with insignia, flags, maps, fences as a central symbol, readable documents, text, letters, numbers, logos, watermarks, icons, diagrams or collage.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/cohen-eliya-hammer-advertising-stereotypes.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-eliya-hammer-advertising-stereotypes.html",
+      "usedBy": [
+        "cohen-eliya-hammer-advertising-stereotypes.html"
+      ],
+      "cardTitleHe": "סטריאוטיפים בפרסום מסחרי: חופש ביטוי מול אוטונומיית הקהל",
+      "authorsHe": "משה כהן־אליה, יואב המר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: צוות יצירתי בוחן תצלומי דמויות על שולחן עבודה",
+      "semanticDescriptionHe": "משה כהן־אליה ויואב המר מציעים הצדקה ליברלית להגבלת סטריאוטיפים מגדריים וגזעיים בפרסומות. לטענתם, מסרים חזותיים חוזרים עלולים לשמר הטיות רגשיות גם אצל מי שמחזיקים בעמדות שוויוניות, ולפגוע בעיצוב עצמאי של העדפות.",
+      "tags": [
+        "פרסום מסחרי",
+        "סטריאוטיפים",
+        "חופש הביטוי",
+        "אוטונומיה",
+        "שוויון מגדרי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration for a philosophical article about gender and racial stereotypes in commercial advertising, autonomy and freedom of expression. Landscape 4:3. A fictional mixed group of adult advertising editors around a studio worktable reviewing several unlettered photographic portrait prints of ordinary men and women, thoughtful expressions and one person setting aside a print. Street windows and pinboards with blank sheets add depth. Warm editorial painterly realism, natural people, subtle materials and paper textures, not a corporate stock photo. No text or typography anywhere, no logos, brands, signs, watermarks, flags, symbols, diagrams, computer interfaces or stereotypical depictions. Not the article's authors or actual subjects.",
+      "source": "OpenAI image generation, 2026-10-06; creation prompt recorded in generationPrompt.",
+      "qualityNotes": "New AI-generated conceptual scene with fictional people; does not depict the authors, actual participants, or research setting. Cropped and resized to 800×600. Conservative standard fit."
+    },
+    {
+      "file": "html_qa/moyakine-tabachnik-russian-digital-laws.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "moyakine-tabachnik-russian-digital-laws.html",
+      "usedBy": [
+        "moyakine-tabachnik-russian-digital-laws.html"
+      ],
+      "cardTitleHe": "ביטחון ומידע ברוסיה: כשחקיקה דיגיטלית דוחקת פרטיות וחופש ביטוי",
+      "authorsHe": "יבגני מויאקין, אלכסנדר טבצ׳ניק",
+      "visualDescriptionHe": "ארונות שרתים בחדר מרכז נתונים",
+      "semanticDescriptionHe": "יבגני מויאקין ואלכסנדר טבצ׳ניק בוחנים את חוקי ירובאיה, החדשות הכוזבות ואי־הכבוד ברוסיה. הם טוענים שההסדרים מציבים איומים על פרטיות, הגנת מידע וחופש ביטוי, ומעניקים משקל יתר לאינטרסים של המדינה.",
+      "tags": [
+        "פרטיות",
+        "חופש הביטוי",
+        "רוסיה",
+        "הגנת מידע",
+        "חקיקה דיגיטלית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "Carl Lender",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "fitnessSource": "paper_specific_documentary_review",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Datacenter_Server_Racks_%2822370909788%29.jpg",
+      "sourceDate": "2015-11-04",
+      "sourceDimensions": {
+        "width": 6000,
+        "height": 4000
+      },
+      "qualityNotes": "Documentary server-room photograph used as technological context; does not depict a Russian facility or a particular statutory implementation. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg"
+    },
+    {
+      "file": "html_qa/tal-arab-minority-informal-science.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "tal-arab-minority-informal-science.html",
+      "usedBy": [
+        "tal-arab-minority-informal-science.html"
+      ],
+      "cardTitleHe": "למידת מדעים מחוץ לבית הספר: משאבים, הזדמנויות ותרבות בחינוך הערבי",
+      "authorsHe": "טלי טל",
+      "visualDescriptionHe": "שטח הגן של מוזיאון המדע מדעטק בחיפה",
+      "semanticDescriptionHe": "טלי טל בוחנת פערים בין תלמידים יהודים לערבים בישראל בלמידת מדעים בסביבות בלתי פורמליות. היא משלבת מסמכים וראיונות כדי לדון במשאבים ובפרקטיקות תרבותיות, ומציעה להבין הבדלים בלי לייחס לקבוצה חוסר מובנה.",
+      "tags": [
+        "שוויון בחינוך",
+        "החברה הערבית",
+        "חינוך מדעי",
+        "למידה בלתי פורמלית",
+        "הקצאת משאבים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-06",
+      "fitness": "standard",
+      "creator": "Oshri Reicher (אושרי רייכר)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Madatech_The_Science_Museum_Haifa_Avney_Moreshet_2386cc39.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "fitnessSource": "paper_specific_documentary_review",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Madatech_The_Science_Museum_Haifa_Avney_Moreshet_2386cc39.jpg",
+      "sourceDate": "2026-07-14",
+      "sourceDimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "qualityNotes": "Documentary photograph of the outdoor setting at MadaTech science museum in Haifa, via Avney Moreshet. Illustrates an informal science-learning setting, not the study participants or a documented study visit. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Madatech_The_Science_Museum_Haifa_Avney_Moreshet_2386cc39.jpg"
     }
   ],
   "topicGraphics": [

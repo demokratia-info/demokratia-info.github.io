@@ -1,8 +1,296 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1822,
+  "paperCount": 1832,
   "papers": [
+    {
+      "slug": "tal-arab-minority-informal-science",
+      "file": "tal-arab-minority-informal-science.html",
+      "permalink": "/tal-arab-minority-informal-science.html",
+      "sortKey": 202610060010,
+      "titleHe": "למידת מדעים מחוץ לבית הספר: משאבים, הזדמנויות ותרבות בחינוך הערבי",
+      "paperTitle": "Inequity and Cultural Differences in Out-of-School Science Education: The Case of the Arab Minority in Israel",
+      "authorsCardHe": "טלי טל",
+      "sourceAuthors": [
+        "Tali Tal"
+      ],
+      "journal": "Asia-Pacific Science Education 6(2), 427–455",
+      "dateText": "14 בדצמבר 2020",
+      "doiUrl": "https://doi.org/10.1163/23641177-bja10011",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/tal-arab-minority-informal-science.jpg",
+        "altHe": "שטח הגן של מוזיאון המדע מדעטק בחיפה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "טלי טל בוחנת פערים בין תלמידים יהודים לערבים בישראל בלמידת מדעים בסביבות בלתי פורמליות. היא משלבת מסמכים וראיונות כדי לדון במשאבים ובפרקטיקות תרבותיות, ומציעה להבין הבדלים בלי לייחס לקבוצה חוסר מובנה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "moyakine-tabachnik-russian-digital-laws",
+      "file": "moyakine-tabachnik-russian-digital-laws.html",
+      "permalink": "/moyakine-tabachnik-russian-digital-laws.html",
+      "sortKey": 202610060009,
+      "titleHe": "ביטחון ומידע ברוסיה: כשחקיקה דיגיטלית דוחקת פרטיות וחופש ביטוי",
+      "paperTitle": "Struggling to strike the right balance between interests at stake: The ‘Yarovaya’, ‘Fake news’ and ‘Disrespect’ laws as examples of ill-conceived legislation in the age of modern technology",
+      "authorsCardHe": "יבגני מויאקין, אלכסנדר טבצ׳ניק",
+      "sourceAuthors": [
+        "Evgeni Moyakine",
+        "Alexander Tabachnik"
+      ],
+      "journal": "Computer Law & Security Review 40, 105512",
+      "dateText": "אפריל 2021",
+      "doiUrl": "https://doi.org/10.1016/j.clsr.2020.105512",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/moyakine-tabachnik-russian-digital-laws.jpg",
+        "altHe": "ארונות שרתים בחדר מרכז נתונים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "יבגני מויאקין ואלכסנדר טבצ׳ניק בוחנים את חוקי ירובאיה, החדשות הכוזבות ואי־הכבוד ברוסיה. הם טוענים שההסדרים מציבים איומים על פרטיות, הגנת מידע וחופש ביטוי, ומעניקים משקל יתר לאינטרסים של המדינה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohen-eliya-hammer-advertising-stereotypes",
+      "file": "cohen-eliya-hammer-advertising-stereotypes.html",
+      "permalink": "/cohen-eliya-hammer-advertising-stereotypes.html",
+      "sortKey": 202610060008,
+      "titleHe": "סטריאוטיפים בפרסום מסחרי: חופש ביטוי מול אוטונומיית הקהל",
+      "paperTitle": "Advertisements, Stereotypes, and Freedom of Expression",
+      "authorsCardHe": "משה כהן־אליה, יואב המר",
+      "sourceAuthors": [
+        "Moshe Cohen-Eliya",
+        "Yoav Hammer"
+      ],
+      "journal": "Journal of Social Philosophy 35(2), 165–187",
+      "dateText": "יוני 2004",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9833.2004.00223.x",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/cohen-eliya-hammer-advertising-stereotypes.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: צוות יצירתי בוחן תצלומי דמויות על שולחן עבודה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "משה כהן־אליה ויואב המר מציעים הצדקה ליברלית להגבלת סטריאוטיפים מגדריים וגזעיים בפרסומות. לטענתם, מסרים חזותיים חוזרים עלולים לשמר הטיות רגשיות גם אצל מי שמחזיקים בעמדות שוויוניות, ולפגוע בעיצוב עצמאי של העדפות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shany-extraterritorial-human-rights",
+      "file": "shany-extraterritorial-human-rights.html",
+      "permalink": "/shany-extraterritorial-human-rights.html",
+      "sortKey": 202610060007,
+      "titleHe": "זכויות אדם מעבר לגבול: אחריות מדינה לפי יכולתה להשפיע ולהגן",
+      "paperTitle": "Taking Universality Seriously: A Functional Approach to Extraterritoriality in International Human Rights Law",
+      "authorsCardHe": "יובל שני",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "The Law & Ethics of Human Rights 7(1), 47–71",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1515/lehr-2013-0004",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/shany-extraterritorial-human-rights.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: מפגש בין נוסע לעובדת ציבור בחדר שירות סמוך לגבול",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "יובל שני מציע גישה תפקודית לתחולת חובות זכויות אדם מחוץ לשטח המדינה. ההצעה קושרת אחריות ליחסי כוח בעלי השפעה ישירה, משמעותית וצפויה, או ליחסים משפטיים מיוחדים, במקום להסתפק במיקומו של הגבול.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohen-dudai-informers-human-rights",
+      "file": "cohen-dudai-informers-human-rights.html",
+      "permalink": "/cohen-dudai-informers-human-rights.html",
+      "sortKey": 202610060006,
+      "titleHe": "מודיעים במאבק בטרור: חובות זכויות אדם בגיוס, בהפעלה ולאחריה",
+      "paperTitle": "Human Rights Dilemmas in Using Informers to Combat Terrorism: The Israeli-Palestinian Case",
+      "authorsCardHe": "הלל כהן, רון דודאי",
+      "sourceAuthors": [
+        "Hillel Cohen",
+        "Ron Dudai"
+      ],
+      "journal": "Terrorism and Political Violence 17(1–2), 229–243",
+      "dateText": "2005",
+      "doiUrl": "https://doi.org/10.1080/09546550490520709",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohen-dudai-informers-human-rights.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שני אנשים בסמטה בשעת ערב, ואחד מהם פונה לפתח מואר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "הלל כהן ורון דודאי מנתחים דילמות זכויות אדם בשימוש במודיעים במקרה הישראלי־פלסטיני. הם מבחינים בין גיוס, הפעלה וחובות לאחר סיום הפעילות, ומצביעים על פגיעות אפשריות במודיעים ועל פגיעות שהם עצמם עלולים לגרום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gordon-berkovitch-domestic-rights-discourse",
+      "file": "gordon-berkovitch-domestic-rights-discourse.html",
+      "permalink": "/gordon-berkovitch-domestic-rights-discourse.html",
+      "sortKey": 202610060005,
+      "titleHe": "כיצד שיח זכויות אדם נעשה מקומי: העיתונות הישראלית בין השפעות עולמיות למאבקים פנימיים",
+      "paperTitle": "Human Rights Discourse in Domestic Settings: How does it Emerge?",
+      "authorsCardHe": "ניב גורדון, ניצה ברקוביץ",
+      "sourceAuthors": [
+        "Neve Gordon",
+        "Nitza Berkovitch"
+      ],
+      "journal": "Political Studies 55(1), 243–266",
+      "dateText": "מרץ 2007",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9248.2007.00651.x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gordon-berkovitch-domestic-rights-discourse.jpg",
+        "altHe": "חדר המערכת של תחנת הרדיו האוניברסיטאית Mephisto 97.6 בלייפציג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "ניב גורדון וניצה ברקוביץ בוחנים את התפתחות שיח זכויות האדם בעיתונות בישראל. הם טוענים שהפצת רעיונות עולמיים תלויה באירועים ובפרקטיקות מקומיים, ומחייבת הבנה של ההבדלים בתוך הזירה הלאומית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gazal-ayal-language-models-sentencing",
+      "file": "gazal-ayal-language-models-sentencing.html",
+      "permalink": "/gazal-ayal-language-models-sentencing.html",
+      "sortKey": 202610060004,
+      "titleHe": "מודלי שפה בענישה פלילית: עקביות גבוהה אינה בהכרח הכרעה צודקת",
+      "paperTitle": "Evaluating Large Language Models as Judicial Decision-Makers",
+      "authorsCardHe": "אורן גזל־אייל, זוהר אליוסף, אדיר סולומון",
+      "sourceAuthors": [
+        "Oren Gazal-Ayal",
+        "Zohar Elyoseph",
+        "Adir Solomon"
+      ],
+      "journal": "Justice Quarterly 43(5), 1184–1219",
+      "dateText": "פורסם מקוון ב־21 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1080/07418825.2026.2618254",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/gazal-ayal-language-models-sentencing.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שופטת באולם דיונים לצד מחשב ותיקי משפט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "אורן גזל־אייל, זוהר אליוסף ואדיר סולומון משווים עונשים שמציעים מודלי שפה להכרעות של שופטים בדימוס בשני מקרים בדיוניים. המודלים היו עקביים יותר וקרובים יותר לממוצע השופטים, אך אמת המידה אינה קובעת מהו העונש הראוי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohn-administrative-review-mixed-systems",
+      "file": "cohn-administrative-review-mixed-systems.html",
+      "permalink": "/cohn-administrative-review-mixed-systems.html",
+      "sortKey": 202610060003,
+      "titleHe": "סבירות ומידתיות בין בריטניה לישראל: גבולות ההבחנה בין שיטות משפט",
+      "paperTitle": "Pure or Mixed? The Evolution of Three Grounds of Judicial Review of the Administration in British and Israeli Administrative Law",
+      "authorsCardHe": "מרגית כהן",
+      "sourceAuthors": [
+        "Margit Cohn"
+      ],
+      "journal": "European Journal of Comparative Law and Governance, 1–36",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1163/22134514-45060003",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohn-administrative-review-mixed-systems.jpg",
+        "altHe": "אולם מספר אחת בבית המשפט העליון של הממלכה המאוחדת בלונדון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "מרגית כהן בוחנת את התפתחותן של שלוש עילות לביקורת על המינהל בבריטניה ובישראל. הניתוח מערער על חלוקה נוקשה לשיטות טהורות ומעורבות, ומראה מדוע יש לבדוק כיצד כלים משפטיים התפתחו בפועל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shalev-reproductive-health-autonomy",
+      "file": "shalev-reproductive-health-autonomy.html",
+      "permalink": "/shalev-reproductive-health-autonomy.html",
+      "sortKey": 202610060002,
+      "titleHe": "בריאות מינית ופריון כזכויות אדם: אוטונומיה, הסכמה מדעת ושוויון",
+      "paperTitle": "Rights to Sexual and Reproductive Health: The ICPD and the Convention on the Elimination of All Forms of Discrimination against Women",
+      "authorsCardHe": "כרמל שלו",
+      "sourceAuthors": [
+        "Carmel Shalev"
+      ],
+      "journal": "Health and Human Rights 4(2), 38–66",
+      "dateText": "2000",
+      "doiUrl": "https://doi.org/10.2307/4065196",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shalev-reproductive-health-autonomy.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה ואשת מקצוע בשיחה רפואית פרטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "כרמל שלו קושרת בין זכויות לבריאות מינית ופריון לבין חירות, שוויון וחלוקת משאבים. באמצעות אמנות ודיווחי מדינות היא מראה שהכרה בזכות מחייבת גם שירותים נגישים, סודיות וכיבוד החלטותיה של האישה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "pedahzur-extremism-democratic-boundaries",
+      "file": "pedahzur-extremism-democratic-boundaries.html",
+      "permalink": "/pedahzur-extremism-democratic-boundaries.html",
+      "sortKey": 202610060001,
+      "titleHe": "הגנה על הדמוקרטיה מפני קיצוניות ימנית: כוח המדינה וחוסנה של החברה האזרחית",
+      "paperTitle": "Struggling with the Challenges of Right-Wing Extremism and Terrorism within Democratic Boundaries: A Comparative Analysis",
+      "authorsCardHe": "עמי פדהצור",
+      "sourceAuthors": [
+        "Ami Pedahzur"
+      ],
+      "journal": "Studies in Conflict & Terrorism 24(5), 339–359",
+      "dateText": "ספטמבר 2001",
+      "doiUrl": "https://doi.org/10.1080/105761001750434213",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/pedahzur-extremism-democratic-boundaries.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תושבים מקיימים שיחה במרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "summaryHe": "עמי פדהצור משווה תגובות לקיצוניות ימנית בארצות הברית, גרמניה וישראל. הוא מבחין בין דיכוי חריף, הגנה מוסדית וחיסון חברתי, ומדגיש שחברה אזרחית פעילה עשויה לצמצם את הצורך באמצעים הפוגעים בחירויות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "hacker-transnational-litigation-abuse",
       "file": "hacker-transnational-litigation-abuse.html",
