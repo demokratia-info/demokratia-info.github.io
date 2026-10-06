@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1832,
+  "paperCount": 1842,
   "papers": [
+    {
+      "slug": "baliga-hanany-klibanoff-polarization-ambiguity",
+      "file": "baliga-hanany-klibanoff-polarization-ambiguity.html",
+      "permalink": "/baliga-hanany-klibanoff-polarization-ambiguity.html",
+      "sortKey": 202610070010,
+      "titleHe": "אותו מידע, אמונות מתרחקות: כיצד עמימות יכולה לייצר קיטוב?",
+      "paperTitle": "Polarization and Ambiguity",
+      "authorsCardHe": "Sandeep Baliga, ערן חנני, Peter Klibanoff",
+      "sourceAuthors": [
+        "Sandeep Baliga",
+        "Eran Hanany",
+        "Peter Klibanoff"
+      ],
+      "journal": "American Economic Review 103(7), 3071–3083",
+      "dateText": "דצמבר 2013",
+      "doiUrl": "https://doi.org/10.1257/aer.103.7.3071",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/baliga-hanany-klibanoff-polarization-ambiguity.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שני אנשים בוחנים יחד תצלום ארכיוני בחדר קריאה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "סנדיפ בליגה, ערן חנני ופיטר קליבנוף מציעים מודל שבו אנשים הנרתעים מעמימות מקטבים את אמונותיהם לאחר קבלת אותו מידע. ההסבר אינו דורש הטיית אישוש או מידע פרטי שונה, אך מתקיים בתנאים מוגדרים ואינו קביעה שכל מחלוקת פוליטית היא רציונלית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mandel-welfare-gender-wage-inequality",
+      "file": "mandel-welfare-gender-wage-inequality.html",
+      "permalink": "/mandel-welfare-gender-wage-inequality.html",
+      "sortKey": 202610070009,
+      "titleHe": "מדינת הרווחה ופערי שכר מגדריים: מדוע נשים ממעמדות שונים מושפעות אחרת?",
+      "paperTitle": "Winners and Losers: The Consequences of Welfare State Policies for Gender Wage Inequality",
+      "authorsCardHe": "הדס מנדל",
+      "sourceAuthors": [
+        "Hadas Mandel"
+      ],
+      "journal": "European Sociological Review 28(2), 241–262",
+      "dateText": "19 בנובמבר 2010 (פרסום מקוון; גיליון 2012)",
+      "doiUrl": "https://doi.org/10.1093/esr/jcq061",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mandel-welfare-gender-wage-inequality.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: נשים לבושות בבגדי עבודה שונים מביאות ילדים למסגרת טיפול",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "הדס מנדל משווה בין מדינות מפותחות ומראה שמדיניות המשלבת עבודה ומשפחה אינה משפיעה באופן אחיד על פערי השכר של נשים. ההצטלבות בין מגדר למעמד מסבירה כיצד הסדרים המסייעים לנשים מוחלשות יכולים לפעול אחרת אצל בעלות כישורים גבוהים, ומחדדת את הצורך במענה מגוון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mandel-lazarus-moreno-kibbutz-wage-reforms",
+      "file": "mandel-lazarus-moreno-kibbutz-wage-reforms.html",
+      "permalink": "/mandel-lazarus-moreno-kibbutz-wage-reforms.html",
+      "sortKey": 202610070008,
+      "titleHe": "כיצד נקבע ערך העבודה: רפורמות שכר ופערים מגדריים בקיבוץ מתחדש",
+      "paperTitle": "The Value of Work: The Gendered Outcomes of Organizational Wage Reforms",
+      "authorsCardHe": "הדס מנדל, עמית לזרוס, עדי מורנו",
+      "sourceAuthors": [
+        "Hadas Mandel",
+        "Amit Lazarus",
+        "Adi Moreno"
+      ],
+      "journal": "Feminist Economics 30(3), 69–96",
+      "dateText": "27 באוגוסט 2024",
+      "doiUrl": "https://doi.org/10.1080/13545701.2024.2375986",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mandel-lazarus-moreno-kibbutz-wage-reforms.jpg",
+        "altHe": "המבנה של חדר האוכל החדש בקיבוץ רמות מנשה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "הדס מנדל, עמית לזרוס ועדי מורנו בוחנים רפורמות שכר בקיבוץ מתחדש אחד. שילוב נתונים וראיונות מראה כיצד מעבר מהערכת תפקידים שיטתית לשכר המבוסס על מחירי שוק יכול לשעתק פערים מגדריים, גם בארגון בעל מסורת שוויונית ובעלות משותפת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "itzkovitch-malka-harsgor-tuttnauer-formateur",
+      "file": "itzkovitch-malka-harsgor-tuttnauer-formateur.html",
+      "permalink": "/itzkovitch-malka-harsgor-tuttnauer-formateur.html",
+      "sortKey": 202610070007,
+      "titleHe": "להצביע למרכיב הממשלה: בחירה אסטרטגית במערכות רב־מפלגתיות",
+      "paperTitle": "The effect of formateur expectations on vote choice: A comparative analysis",
+      "authorsCardHe": "רעות איצקוביץ׳-מלכה, לירן הרסגור, אור טוטנאואר",
+      "sourceAuthors": [
+        "Reut Itzkovitch-Malka",
+        "Liran Harsgor",
+        "Or Tuttnauer"
+      ],
+      "journal": "European Journal of Political Research 65(3), 993–1014",
+      "dateText": "1 באוקטובר 2025 (פרסום מקוון; גיליון 2026)",
+      "doiUrl": "https://doi.org/10.1017/s1475676525100236",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/itzkovitch-malka-harsgor-tuttnauer-formateur.jpg",
+        "altHe": "אולם המליאה של הבונדסטאג בברלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "רעות איצקוביץ׳־מלכה, לירן הרסגור ואור טוטנאואר בוחנים מדוע תומכי מפלגות קטנות מצביעים למפלגה של מי שהם מעדיפים כמרכיב הממשלה. נתונים השוואתיים וסקרים מגרמניה מצביעים על חשיבות התחרות בין המועמדים להרכבה, לצד כוחן של הזיקה למפלגה ושל ציפיות הבוחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "vandermeulen-myanmar-minority-threat",
+      "file": "vandermeulen-myanmar-minority-threat.html",
+      "permalink": "/vandermeulen-myanmar-minority-threat.html",
+      "sortKey": 202610070006,
+      "titleHe": "איום משותף וזכויות מיעוטים: שינוי בתפיסות אחרי ההפיכה במיאנמר",
+      "paperTitle": "Perceived threat from minorities decreases with increased societal threat after the 2021 military coup in Myanmar",
+      "authorsCardHe": "דאן ונדרמולן, Kinneret Endevelt, עמית גולדנברג, ערן הלפרין",
+      "sourceAuthors": [
+        "Daan Vandermeulen",
+        "Kinneret Endevelt",
+        "Amit Goldenberg",
+        "Eran Halperin"
+      ],
+      "journal": "Scientific Reports 15, 44545",
+      "dateText": "23 בנובמבר 2025",
+      "doiUrl": "https://doi.org/10.1038/s41598-025-28400-z",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/vandermeulen-myanmar-minority-threat.jpg",
+        "altHe": "דוכנים וקונים בשוק בקלאו שבמיאנמר בשנת 2013",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "שלושה סקרים במיאנמר, לפני ההפיכה הצבאית ב־2021 ואחריה, מצביעים על ירידה זמנית באיום שיוחס למיעוטים כאשר האיום על החברה כולה גבר. איום נמוך יותר מצד מיעוטים נקשר לתמיכה בזכויותיהם, אך המדגמים הנפרדים וההבדלים בין קבוצות מגבילים הסקה על סיבתיות ועל יציבות השינוי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schul-ganzach-pazy-partisan-animosity",
+      "file": "schul-ganzach-pazy-partisan-animosity.html",
+      "permalink": "/schul-ganzach-pazy-partisan-animosity.html",
+      "sortKey": 202610070005,
+      "titleHe": "זהות מפלגתית ועוינות למחנה היריב: מדוע מדידה בתוך אדם דורשת הבחנה בין המפלגות?",
+      "paperTitle": "On the within-person effects of political attitudes on outgroup animosity: Evidence for Democratic-Republican asymmetry",
+      "authorsCardHe": "יעקב שול, יואב גנזך, אסיה פזי",
+      "sourceAuthors": [
+        "Yaacov Schul",
+        "Yoav Ganzach",
+        "Asya Pazy"
+      ],
+      "journal": "PLOS One 21(9), e0352103",
+      "dateText": "8 בספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1371/journal.pone.0352103",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/schul-ganzach-pazy-partisan-animosity.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אנשים מנהלים שיחות נפרדות בבית קפה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "יעקב שול, יואב גנזך ואסיה פזי מנתחים מחדש סקרי אורך אמריקאיים על זהות מפלגתית ועוינות. הם מראים ששילוב בין כיוון ההזדהות לעוצמתה משנה את פירוש הקשר בתוך אדם, ומוצאים קשר חזק יותר בקרב רפובליקאים במודלים שנבחנו, בלי לקבוע סיבתיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "skowron-slinko-szufa-talmon-participatory-budgeting",
+      "file": "skowron-slinko-szufa-talmon-participatory-budgeting.html",
+      "permalink": "/skowron-slinko-szufa-talmon-participatory-budgeting.html",
+      "sortKey": 202610070004,
+      "titleHe": "תקציב משתף עם קולות מצטברים: ביטוי לעוצמת ההעדפה והגנה על קבוצות מיעוט",
+      "paperTitle": "Participatory budgeting with cumulative votes",
+      "authorsCardHe": "Piotr Skowron, Arkadii Slinko, Stanisław Szufa, נמרוד טלמון",
+      "sourceAuthors": [
+        "Piotr Skowron",
+        "Arkadii Slinko",
+        "Stanisław Szufa",
+        "Nimrod Talmon"
+      ],
+      "journal": "Theory and Decision 100(1), 197–223",
+      "dateText": "31 באוקטובר 2025 (פרסום מקוון; גיליון 2026)",
+      "doiUrl": "https://doi.org/10.1007/s11238-025-10097-1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/skowron-slinko-szufa-talmon-participatory-budgeting.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תושבים בוחנים דגמים של פרויקטים ומקצים להם אסימונים במפגש תקציב משתף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "המאמר מציע שיטות לתקציב משתף שבהן כל מצביע מחלק תקציב וירטואלי שווה בין פרויקטים. ניתוח מתמטי וסימולציות מראים כיצד העברת תמיכה בין פרויקטים יכולה לשפר ייצוג יחסי, ומדגישים שהכלל המחבר את הקולות משפיע על מי שייהנה מכספי הציבור.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "paz-fuchs-harel-ben-shahar-school-segregation",
+      "file": "paz-fuchs-harel-ben-shahar-school-segregation.html",
+      "permalink": "/paz-fuchs-harel-ben-shahar-school-segregation.html",
+      "sortKey": 202610070003,
+      "titleHe": "נפרד אך שווה בבית הספר הדתי: מה מפספס מבחן התנאים הזהים?",
+      "paperTitle": "Separate but Equal Reconsidered: Religious Education and Gender Separation",
+      "authorsCardHe": "אמיר פז־פוקס, תמי הראל בן־שחר",
+      "sourceAuthors": [
+        "Amir Paz-Fuchs",
+        "Tammy Harel Ben-Shahar"
+      ],
+      "journal": "Human Rights Law Review 19(2), 369–386",
+      "dateText": "יוני 2019",
+      "doiUrl": "https://doi.org/10.1093/hrlr/ngz009",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/paz-fuchs-harel-ben-shahar-school-segregation.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תלמידות ותלמידים לומדים בשני אזורים נפרדים של מוסד חינוכי דתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "אמיר פז־פוקס ותמי הראל בן־שחר מנתחים את פרשת בית הספר אל־היג'רה בבריטניה. הם טוענים שגם תנאים לימודיים זהים אינם ממצים את שאלת השוויון, משום שהפרדה מגדרית עשויה לשדר נחיתות ולהכין תלמידות למרחב ציבורי מחולק, אך מזהירים גם מתוצאות בלתי צפויות של סעד משפטי צר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hostovsky-brandes-single-sex-education",
+      "file": "hostovsky-brandes-single-sex-education.html",
+      "permalink": "/hostovsky-brandes-single-sex-education.html",
+      "sortKey": 202610070002,
+      "titleHe": "חינוך נפרד לבנות ולבנים: בין אוטונומיה דתית לשוויון",
+      "paperTitle": "Separate and Different: Single-Sex Education and the Quest for Equality",
+      "authorsCardHe": "תמר הוסטובסקי ברנדס",
+      "sourceAuthors": [
+        "Tamar Hostovsky Brandes"
+      ],
+      "journal": "Israel Law Review 45(2), 235–266",
+      "dateText": "29 ביוני 2012",
+      "doiUrl": "https://doi.org/10.1017/s0021223712000040",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hostovsky-brandes-single-sex-education.jpg",
+        "altHe": "חצר בית הספר שיקמים בהוד השרון, להמחשת סביבת חינוך ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "תמר הוסטובסקי ברנדס משווה בין ההצדקות לחינוך נפרד בישראל ובארצות הברית. היא מראה שהפרדה דתית והפרדה המוצעת בשם העצמת בנות מעלות שאלות שונות, ומדגישה את אחריות המדינה לבחון שוויון, בחירה ומשאבים גם כשקיימת תמיכה הורית בהפרדה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "roznai-suteu-territorial-eternity",
+      "file": "roznai-suteu-territorial-eternity.html",
+      "permalink": "/roznai-suteu-territorial-eternity.html",
+      "sortKey": 202610070001,
+      "titleHe": "גבולות נצחיים בחוקה: משבר קרים ומגבלות השריון החוקתי",
+      "paperTitle": "The Eternal Territory? The Crimean Crisis and Ukraine's Territorial Integrity as an Unamendable Constitutional Principle",
+      "authorsCardHe": "יניב רוזנאי, Silvia Suteu",
+      "sourceAuthors": [
+        "Yaniv Roznai",
+        "Silvia Suteu"
+      ],
+      "journal": "German Law Journal 16(3), 542–580",
+      "dateText": "יולי 2015",
+      "doiUrl": "https://doi.org/10.1017/s2071832200020976",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/roznai-suteu-territorial-eternity.jpg",
+        "altHe": "חוף חצי האי קרים ומבט לעבר הר איו־דאג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "summaryHe": "יניב רוזנאי וסילביה סוטאו בוחנים את ההגנה החוקתית על שלמות שטחה של אוקראינה בעקבות משבר קרים ב־2014. לטענתם, איסור מוחלט על שינוי גבולות חושף פער בין סמכות משפטית לכוח פוליטי, ומחייב להבחין בין הגנה על עקרונות דמוקרטיים לבין הנצחת טריטוריה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "tal-arab-minority-informal-science",
       "file": "tal-arab-minority-informal-science.html",

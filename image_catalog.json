@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-07",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -50390,6 +50390,361 @@
       },
       "qualityNotes": "Documentary photograph of the outdoor setting at MadaTech science museum in Haifa, via Avney Moreshet. Illustrates an informal science-learning setting, not the study participants or a documented study visit. Cropped and resized to 800×600. Conservative standard fit.",
       "source": "https://commons.wikimedia.org/wiki/File:Madatech_The_Science_Museum_Haifa_Avney_Moreshet_2386cc39.jpg"
+    },
+    {
+      "file": "html_qa/roznai-suteu-territorial-eternity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "roznai-suteu-territorial-eternity.html",
+      "usedBy": [
+        "roznai-suteu-territorial-eternity.html"
+      ],
+      "cardTitleHe": "גבולות נצחיים בחוקה: משבר קרים ומגבלות השריון החוקתי",
+      "authorsHe": "יניב רוזנאי, Silvia Suteu",
+      "visualDescriptionHe": "חוף חצי האי קרים ומבט לעבר הר איו־דאג",
+      "semanticDescriptionHe": "יניב רוזנאי וסילביה סוטאו בוחנים את ההגנה החוקתית על שלמות שטחה של אוקראינה בעקבות משבר קרים ב־2014. לטענתם, איסור מוחלט על שינוי גבולות חושף פער בין סמכות משפטית לכוח פוליטי, ומחייב להבחין בין הגנה על עקרונות דמוקרטיים לבין הנצחת טריטוריה.",
+      "tags": [
+        "פסקאות נצחיות",
+        "שלמות טריטוריאלית",
+        "קרים",
+        "תיקון חוקה",
+        "ריבונות העם"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "A.Savin, Wikipedia",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Crimea_South_Coast_04-14_img11_Gaspra_view_to_Ayu-Dag.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Crimea_South_Coast_04-14_img11_Gaspra_view_to_Ayu-Dag.jpg",
+      "sourceDate": "2014-04-04",
+      "sourceDimensions": {
+        "width": 3058,
+        "height": 2038
+      },
+      "qualityNotes": "Documentary view of the Crimean coast; illustrates the territorial setting, not the legal events or a boundary. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Crimea_South_Coast_04-14_img11_Gaspra_view_to_Ayu-Dag.jpg"
+    },
+    {
+      "file": "html_qa/hostovsky-brandes-single-sex-education.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hostovsky-brandes-single-sex-education.html",
+      "usedBy": [
+        "hostovsky-brandes-single-sex-education.html"
+      ],
+      "cardTitleHe": "חינוך נפרד לבנות ולבנים: בין אוטונומיה דתית לשוויון",
+      "authorsHe": "תמר הוסטובסקי ברנדס",
+      "visualDescriptionHe": "חצר בית הספר שיקמים בהוד השרון, להמחשת סביבת חינוך ציבורית",
+      "semanticDescriptionHe": "תמר הוסטובסקי ברנדס משווה בין ההצדקות לחינוך נפרד בישראל ובארצות הברית. היא מראה שהפרדה דתית והפרדה המוצעת בשם העצמת בנות מעלות שאלות שונות, ומדגישה את אחריות המדינה לבחון שוויון, בחירה ומשאבים גם כשקיימת תמיכה הורית בהפרדה.",
+      "tags": [
+        "חינוך נפרד",
+        "שוויון מגדרי",
+        "אוטונומיה דתית",
+        "זכויות הורים",
+        "חינוך ציבורי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "israel zeller ישראל זלר",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "fitnessSource": "paper_specific_documentary_review",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:148499_hod_hasharon_shikmim_high_school_PikiWiki_Israel.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/148499_hod_hasharon_shikmim_high_school_PikiWiki_Israel.jpg",
+      "sourceDate": "2025-12-26",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 3000
+      },
+      "qualityNotes": "Documentary photograph of Shikmim school courtyard in Hod Hasharon. Illustrative educational setting, not a school studied in the article or evidence of gender separation. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:148499_hod_hasharon_shikmim_high_school_PikiWiki_Israel.jpg"
+    },
+    {
+      "file": "html_qa/paz-fuchs-harel-ben-shahar-school-segregation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "paz-fuchs-harel-ben-shahar-school-segregation.html",
+      "usedBy": [
+        "paz-fuchs-harel-ben-shahar-school-segregation.html"
+      ],
+      "cardTitleHe": "נפרד אך שווה בבית הספר הדתי: מה מפספס מבחן התנאים הזהים?",
+      "authorsHe": "אמיר פז־פוקס, תמי הראל בן־שחר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: תלמידות ותלמידים לומדים בשני אזורים נפרדים של מוסד חינוכי דתי",
+      "semanticDescriptionHe": "אמיר פז־פוקס ותמי הראל בן־שחר מנתחים את פרשת בית הספר אל־היג'רה בבריטניה. הם טוענים שגם תנאים לימודיים זהים אינם ממצים את שאלת השוויון, משום שהפרדה מגדרית עשויה לשדר נחיתות ולהכין תלמידות למרחב ציבורי מחולק, אך מזהירים גם מתוצאות בלתי צפויות של סעד משפטי צר.",
+      "tags": [
+        "אל־היג'רה",
+        "הפרדה מגדרית",
+        "נפרד אך שווה",
+        "חינוך דתי",
+        "אפליה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourcePage": "OpenAI image generation",
+      "licenseUrl": "",
+      "source": "New image generated for this paper",
+      "generationPrompt": "Use case: illustration-story. Asset: polished editorial image for an academic paper about gender separation in religious schooling and equal educational opportunity. Landscape 4:3. A warm, richly textured realistic painted view inside a modest school library, two adjoining study areas of equal visual dignity, a girl and a boy each studying with an adult teacher; shelves, desks and afternoon window light create natural depth. Quiet thoughtful atmosphere. Fictional people, not research participants. No text, letters, numbers, readable books, posters, religious emblems, logos, flags, watermarks, UI, diagrams, flat vector symbols, or pasted layers. This is a conceptual illustration, not evidence of a specific school.",
+      "qualityNotes": "New editorial illustration created for this paper. Illustrative scene, not a documentary depiction of study participants. Cropped and resized to 800×600; conservative standard fit."
+    },
+    {
+      "file": "html_qa/skowron-slinko-szufa-talmon-participatory-budgeting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "skowron-slinko-szufa-talmon-participatory-budgeting.html",
+      "usedBy": [
+        "skowron-slinko-szufa-talmon-participatory-budgeting.html"
+      ],
+      "cardTitleHe": "תקציב משתף עם קולות מצטברים: ביטוי לעוצמת ההעדפה והגנה על קבוצות מיעוט",
+      "authorsHe": "Piotr Skowron, Arkadii Slinko, Stanisław Szufa, נמרוד טלמון",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: תושבים בוחנים דגמים של פרויקטים ומקצים להם אסימונים במפגש תקציב משתף",
+      "semanticDescriptionHe": "המאמר מציע שיטות לתקציב משתף שבהן כל מצביע מחלק תקציב וירטואלי שווה בין פרויקטים. ניתוח מתמטי וסימולציות מראים כיצד העברת תמיכה בין פרויקטים יכולה לשפר ייצוג יחסי, ומדגישים שהכלל המחבר את הקולות משפיע על מי שייהנה מכספי הציבור.",
+      "tags": [
+        "תקציב משתף",
+        "קולות מצטברים",
+        "ייצוג יחסי",
+        "בחירה חברתית",
+        "מימון פרויקטים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourcePage": "OpenAI image generation",
+      "licenseUrl": "",
+      "source": "New image generated for this paper",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration for a research article on participatory budgeting and allocating public money fairly among residents' preferred projects. Landscape 4:3. Warm detailed painterly realism: residents of different ages gather around a long table in a neighborhood civic hall, considering three small realistic physical scale models of a public garden, a school courtyard and a pedestrian walkway. Hands carefully move plain wooden counters between the models as others listen. Room depth, real paper and wood texture, afternoon light, purposeful discussion. Fictional people and place. No readable text, numbers, letters, logos, brands, flags, watermarks, charts, interface widgets, isolated icons, abstract blobs or pasted overlays.",
+      "qualityNotes": "New editorial illustration created for this paper. Illustrative scene, not a documentary depiction of study participants. Cropped and resized to 800×600; conservative standard fit."
+    },
+    {
+      "file": "html_qa/schul-ganzach-pazy-partisan-animosity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "schul-ganzach-pazy-partisan-animosity.html",
+      "usedBy": [
+        "schul-ganzach-pazy-partisan-animosity.html"
+      ],
+      "cardTitleHe": "זהות מפלגתית ועוינות למחנה היריב: מדוע מדידה בתוך אדם דורשת הבחנה בין המפלגות?",
+      "authorsHe": "יעקב שול, יואב גנזך, אסיה פזי",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אנשים מנהלים שיחות נפרדות בבית קפה",
+      "semanticDescriptionHe": "יעקב שול, יואב גנזך ואסיה פזי מנתחים מחדש סקרי אורך אמריקאיים על זהות מפלגתית ועוינות. הם מראים ששילוב בין כיוון ההזדהות לעוצמתה משנה את פירוש הקשר בתוך אדם, ומוצאים קשר חזק יותר בקרב רפובליקאים במודלים שנבחנו, בלי לקבוע סיבתיות.",
+      "tags": [
+        "קיטוב רגשי",
+        "זהות מפלגתית",
+        "עוינות בין קבוצות",
+        "סקרי אורך",
+        "דמוקרטים ורפובליקאים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourcePage": "OpenAI image generation",
+      "licenseUrl": "",
+      "source": "New image generated for this paper",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial illustration for an academic analysis of how changing partisan identity and dislike of political opponents relate over time. Landscape 4:3. A richly textured naturalistic painted scene in a quiet community cafe: two separate pairs of adult neighbors converse at opposite sides of a deep room, some attentive and others reserved; an open doorway and warm late afternoon window light connect the spaces. Subtle maroon and navy clothing accents, no explicit party identifiers. Layered human scene, nuanced expressions, natural proportions. Fictional people, not research participants or authors. No text, signs, letters, numbers, slogans, logos, flags, watermarks, maps, graphs, scales, interface elements, vector icons, or collage.",
+      "qualityNotes": "New editorial illustration created for this paper. Illustrative scene, not a documentary depiction of study participants. Cropped and resized to 800×600; conservative standard fit."
+    },
+    {
+      "file": "html_qa/vandermeulen-myanmar-minority-threat.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "vandermeulen-myanmar-minority-threat.html",
+      "usedBy": [
+        "vandermeulen-myanmar-minority-threat.html"
+      ],
+      "cardTitleHe": "איום משותף וזכויות מיעוטים: שינוי בתפיסות אחרי ההפיכה במיאנמר",
+      "authorsHe": "דאן ונדרמולן, Kinneret Endevelt, עמית גולדנברג, ערן הלפרין",
+      "visualDescriptionHe": "דוכנים וקונים בשוק בקלאו שבמיאנמר בשנת 2013",
+      "semanticDescriptionHe": "שלושה סקרים במיאנמר, לפני ההפיכה הצבאית ב־2021 ואחריה, מצביעים על ירידה זמנית באיום שיוחס למיעוטים כאשר האיום על החברה כולה גבר. איום נמוך יותר מצד מיעוטים נקשר לתמיכה בזכויותיהם, אך המדגמים הנפרדים וההבדלים בין קבוצות מגבילים הסקה על סיבתיות ועל יציבות השינוי.",
+      "tags": [
+        "מיאנמר",
+        "תפיסת איום",
+        "זכויות מיעוטים",
+        "הפיכה צבאית",
+        "יחסים בין קבוצות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "Paul Arps from The Netherlands",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalaw_market_(Myanmar_2013)_(11773023484).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kalaw_market_%28Myanmar_2013%29_%2811773023484%29.jpg",
+      "sourceDate": "2013-12-21 08:09",
+      "sourceDimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "qualityNotes": "Kalaw market, Myanmar, photographed in 2013. Contextual civic setting, not the 2021 coup or survey participants. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Kalaw_market_(Myanmar_2013)_(11773023484).jpg"
+    },
+    {
+      "file": "html_qa/itzkovitch-malka-harsgor-tuttnauer-formateur.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "itzkovitch-malka-harsgor-tuttnauer-formateur.html",
+      "usedBy": [
+        "itzkovitch-malka-harsgor-tuttnauer-formateur.html"
+      ],
+      "cardTitleHe": "להצביע למרכיב הממשלה: בחירה אסטרטגית במערכות רב־מפלגתיות",
+      "authorsHe": "רעות איצקוביץ׳-מלכה, לירן הרסגור, אור טוטנאואר",
+      "visualDescriptionHe": "אולם המליאה של הבונדסטאג בברלין",
+      "semanticDescriptionHe": "רעות איצקוביץ׳־מלכה, לירן הרסגור ואור טוטנאואר בוחנים מדוע תומכי מפלגות קטנות מצביעים למפלגה של מי שהם מעדיפים כמרכיב הממשלה. נתונים השוואתיים וסקרים מגרמניה מצביעים על חשיבות התחרות בין המועמדים להרכבה, לצד כוחן של הזיקה למפלגה ושל ציפיות הבוחרים.",
+      "tags": [
+        "הצבעה אסטרטגית",
+        "הרכבת ממשלה",
+        "מפלגות קטנות",
+        "ציפיות בחירות",
+        "קואליציות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "Photo: Andreas Praefcke",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "fitnessSource": "paper_specific_documentary_review",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Reichstag_Plenarsaal_des_Bundestags.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Reichstag_Plenarsaal_des_Bundestags.jpg",
+      "sourceDate": "2007-04",
+      "sourceDimensions": {
+        "width": 3264,
+        "height": 2448
+      },
+      "qualityNotes": "German Bundestag plenary chamber. Relevant to the German component of the comparative voting study, not a depiction of study participants. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:Reichstag_Plenarsaal_des_Bundestags.jpg"
+    },
+    {
+      "file": "html_qa/mandel-lazarus-moreno-kibbutz-wage-reforms.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mandel-lazarus-moreno-kibbutz-wage-reforms.html",
+      "usedBy": [
+        "mandel-lazarus-moreno-kibbutz-wage-reforms.html"
+      ],
+      "cardTitleHe": "כיצד נקבע ערך העבודה: רפורמות שכר ופערים מגדריים בקיבוץ מתחדש",
+      "authorsHe": "הדס מנדל, עמית לזרוס, עדי מורנו",
+      "visualDescriptionHe": "המבנה של חדר האוכל החדש בקיבוץ רמות מנשה",
+      "semanticDescriptionHe": "הדס מנדל, עמית לזרוס ועדי מורנו בוחנים רפורמות שכר בקיבוץ מתחדש אחד. שילוב נתונים וראיונות מראה כיצד מעבר מהערכת תפקידים שיטתית לשכר המבוסס על מחירי שוק יכול לשעתק פערים מגדריים, גם בארגון בעל מסורת שוויונית ובעלות משותפת.",
+      "tags": [
+        "פערי שכר מגדריים",
+        "קיבוץ מתחדש",
+        "הערכת תפקידים",
+        "ערך העבודה",
+        "שכר שוק"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "israel zeller ישראל זלר",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "fitnessSource": "paper_specific_documentary_review",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:138462_ramot_menashe_new_dining_room_PikiWiki_Israel.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/138462_ramot_menashe_new_dining_room_PikiWiki_Israel.jpg",
+      "sourceDate": "1.10.2025",
+      "sourceDimensions": {
+        "width": 3796,
+        "height": 2846
+      },
+      "qualityNotes": "Ramot Menashe dining hall as a contextual kibbutz photograph. The study kibbutz is anonymous; this is not identified as the case study site. Cropped and resized to 800×600. Conservative standard fit.",
+      "source": "https://commons.wikimedia.org/wiki/File:138462_ramot_menashe_new_dining_room_PikiWiki_Israel.jpg"
+    },
+    {
+      "file": "html_qa/mandel-welfare-gender-wage-inequality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mandel-welfare-gender-wage-inequality.html",
+      "usedBy": [
+        "mandel-welfare-gender-wage-inequality.html"
+      ],
+      "cardTitleHe": "מדינת הרווחה ופערי שכר מגדריים: מדוע נשים ממעמדות שונים מושפעות אחרת?",
+      "authorsHe": "הדס מנדל",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: נשים לבושות בבגדי עבודה שונים מביאות ילדים למסגרת טיפול",
+      "semanticDescriptionHe": "הדס מנדל משווה בין מדינות מפותחות ומראה שמדיניות המשלבת עבודה ומשפחה אינה משפיעה באופן אחיד על פערי השכר של נשים. ההצטלבות בין מגדר למעמד מסבירה כיצד הסדרים המסייעים לנשים מוחלשות יכולים לפעול אחרת אצל בעלות כישורים גבוהים, ומחדדת את הצורך במענה מגוון.",
+      "tags": [
+        "מדינת הרווחה",
+        "פערי שכר מגדריים",
+        "עבודה ומשפחה",
+        "הצטלבות מעמד ומגדר",
+        "מדיניות משפחה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourcePage": "OpenAI image generation",
+      "licenseUrl": "",
+      "source": "New image generated for this paper",
+      "generationPrompt": "Use case: illustration-story. Asset: an editorial illustration for a sociological study of how welfare and family policies affect wage inequality differently for women in different occupations. Landscape 4:3. Warm detailed painterly realism in a public childcare entrance at morning: a woman wearing plain medical scrubs and another woman in everyday professional clothing collect their bags after accompanying their young children to an attentive childcare worker. Equal dignity, natural expressions and no hierarchy, real building depth with a courtyard visible through windows, rich fabric and plaster textures. This is a fictional conceptual scene, not research participants. No text, readable notices, letters, numbers, logos, brand names, flags, watermarks, diagrams, charts, flat icons, isolated symbols, UI or collages.",
+      "qualityNotes": "New editorial illustration created for this paper. Illustrative scene, not a documentary depiction of study participants. Cropped and resized to 800×600; conservative standard fit."
+    },
+    {
+      "file": "html_qa/baliga-hanany-klibanoff-polarization-ambiguity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "baliga-hanany-klibanoff-polarization-ambiguity.html",
+      "usedBy": [
+        "baliga-hanany-klibanoff-polarization-ambiguity.html"
+      ],
+      "cardTitleHe": "אותו מידע, אמונות מתרחקות: כיצד עמימות יכולה לייצר קיטוב?",
+      "authorsHe": "Sandeep Baliga, ערן חנני, Peter Klibanoff",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: שני אנשים בוחנים יחד תצלום ארכיוני בחדר קריאה",
+      "semanticDescriptionHe": "סנדיפ בליגה, ערן חנני ופיטר קליבנוף מציעים מודל שבו אנשים הנרתעים מעמימות מקטבים את אמונותיהם לאחר קבלת אותו מידע. ההסבר אינו דורש הטיית אישוש או מידע פרטי שונה, אך מתקיים בתנאים מוגדרים ואינו קביעה שכל מחלוקת פוליטית היא רציונלית.",
+      "tags": [
+        "קיטוב אמונות",
+        "עמימות",
+        "עדכון אמונות",
+        "רתיעה מעמימות",
+        "תורת ההחלטות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-07",
+      "fitness": "standard",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI image generation",
+      "license": "AI-generated image",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourcePage": "OpenAI image generation",
+      "licenseUrl": "",
+      "source": "New image generated for this paper",
+      "generationPrompt": "Use case: illustration-story. Asset: editorial conceptual image for an economic theory paper about polarization and ambiguity, where people can observe the same evidence yet become more convinced of opposing views. Landscape 4:3. A richly textured realistic painted scene in a university reading room: two adult researchers at opposite sides of one broad wooden desk study the same large unlettered archival photograph laid between them, their thoughtful expressions suggest different interpretations; bookshelves, a window with soft daylight and paper materials give deep natural space. Keep the photograph indistinct and purely visual, no graphs or labels. Fictional people, no depiction of actual authors. No words, letters, numbers, readable book spines, symbols, logos, flags, watermarks, UI, diagrams, flat vector shapes, or pasted layers.",
+      "qualityNotes": "New editorial illustration created for this paper. Illustrative scene, not a documentary depiction of study participants. Cropped and resized to 800×600; conservative standard fit."
     }
   ],
   "topicGraphics": [
