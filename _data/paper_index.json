@@ -1,8 +1,344 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1842,
+  "paperCount": 1852,
   "papers": [
+    {
+      "slug": "meir-gal-tal-strategic-voting-lab",
+      "file": "meir-gal-tal-strategic-voting-lab.html",
+      "permalink": "/meir-gal-tal-strategic-voting-lab.html",
+      "sortKey": 202610080010,
+      "titleHe": "הצבעה אסטרטגית במעבדה: פשרה והטיה לטובת המוביל",
+      "paperTitle": "Strategic voting in the lab: compromise and leader bias behavior",
+      "authorsCardHe": "רשף מאיר, קובי גל, Maor Tal",
+      "sourceAuthors": [
+        "Reshef Meir",
+        "Kobi Gal",
+        "Maor Tal"
+      ],
+      "journal": "Autonomous Agents and Multi-Agent Systems 34(1), article 31",
+      "dateText": "11 במרץ 2020",
+      "doiUrl": "https://doi.org/10.1007/s10458-020-09446-x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/meir-gal-tal-strategic-voting-lab.jpg",
+        "altHe": "מעבדת מחשבים באוניברסיטת הנילוס בניגריה, להמחשת סביבת ניסוי ממוחשב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "רשף מאיר, קובי גל ומאור טל בוחנים משחקי הצבעה שבהם המשתתפים יודעים מה יקבלו מניצחון כל מועמד. רבים מתפשרים בהתאם למצב בסקר, אך חלקם עושים זאת יותר מכפי שמצדיק התגמול הצפוי ונמשכים למועמד המוביל. הממצאים מבחינים בין אסטרטגיית פשרה לבין הטיית מוביל ומסייעים להבין את השפעת המידע המוצג במערכות הצבעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "joel-fine-sex-gender-policy",
+      "file": "joel-fine-sex-gender-policy.html",
+      "permalink": "/joel-fine-sex-gender-policy.html",
+      "sortKey": 202610080009,
+      "titleHe": "מין, מגדר וזהות מגדרית: מסגרת לבחינת כללי זכאות והכללה",
+      "paperTitle": "Who Is a Woman: Sex, Gender and Policy Making",
+      "authorsCardHe": "דפנה יואל, Cordelia Fine",
+      "sourceAuthors": [
+        "Daphna Joel",
+        "Cordelia Fine"
+      ],
+      "journal": "Journal of Controversial Ideas 2(2), article 6",
+      "dateText": "31 באוקטובר 2022",
+      "doiUrl": "https://doi.org/10.35995/jci02020006",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/joel-fine-sex-gender-policy.jpg",
+        "altHe": "מסלולים ואדני זינוק בבריכת שחייה תחרותית במכון הספורט האוסטרלי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "דפנה יואל וקורדליה פיין מציעות להתחיל את הדיון בכללי הכללה ממטרת המדיניות ומהשלכותיה על כלל הנוגעים בדבר. הן מבחינות בין מין, מגדר וזהות מגדרית ומראות מדוע שירותי בריאות, מרחבים אינטימיים, העדפה מתקנת וספורט עשויים להצריך שיקולים שונים. המדע מסייע לברר נתונים ומושגים, אך אינו מחליף הכרעה ערכית בין זכויות וצרכים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "eid-haller-carmel-constitutionality",
+      "file": "eid-haller-carmel-constitutionality.html",
+      "permalink": "/eid-haller-carmel-constitutionality.html",
+      "sortKey": 202610080008,
+      "titleHe": "אחרי השריפה בכרמל: השתתפות דרוזית ובניית מוסדות לניהול היער",
+      "paperTitle": "Burning Forests, Rising Power: Towards a Constitutionality Process in Mount Carmel Biosphere Reserve",
+      "authorsCardHe": "Ramez Eid, Tobias Haller",
+      "sourceAuthors": [
+        "Ramez Eid",
+        "Tobias Haller"
+      ],
+      "journal": "Human Ecology 46(1), 41–50",
+      "dateText": "18 בינואר 2018",
+      "doiUrl": "https://doi.org/10.1007/s10745-018-9968-z",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/eid-haller-carmel-constitutionality.jpg",
+        "altHe": "עשן השריפה בכרמל ליד עספיא בשנת 2010, בצילום מאוניברסיטת חיפה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "עיד והאלר מנתחים כיצד השריפה בכרמל ב־2010 שינתה את יחסי המיקוח בין המדינה לתושבים הדרוזים. מחקרם האתנוגרפי מתאר התארגנות של רועים וחקלאים ושימוש בעקרונות ההשתתפות של אונסק״ו כדי לדרוש השפעה על ניהול היער. המקרה מדגים שהכרזה רשמית על שיתוף ציבור אינה מספיקה בלי כוח ממשי לעצב את הכללים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "chernyak-hai-gendered-help",
+      "file": "chernyak-hai-gendered-help.html",
+      "permalink": "/chernyak-hai-gendered-help.html",
+      "sortKey": 202610080007,
+      "titleHe": "עזרה מגדרית: מתי סיוע מעודד עצמאות ומתי הוא משמר תלות",
+      "paperTitle": "Gendered help: Effects of gender and realm of achievement on autonomy- versus dependency-oriented help giving",
+      "authorsCardHe": "Lily Chernyak-Hai, סאמר חלבי, אריה נדלר",
+      "sourceAuthors": [
+        "Lily Chernyak-Hai",
+        "Samer Halabi",
+        "Arie Nadler"
+      ],
+      "journal": "Journal of Social and Political Psychology 5(1), 117–141",
+      "dateText": "13 במרץ 2017",
+      "doiUrl": "https://doi.org/10.5964/jspp.v5i1.609",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/chernyak-hai-gendered-help.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: מדריכה מסבירה ללומד כיצד לעבוד בעצמו בסדנה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "שני מחקרים של צ׳רניאק־חי, חלבי ונדלר בוחנים איזה סיוע אנשים מעדיפים להציע לנשים ולגברים המתקשים במשימה. כשהדמות הייתה אישה שנכשלה במתמטיקה, נמצאה נטייה להציע עזרה המספקת פתרון במקום כלים לפתרון עצמאי. המחקר מצביע על דרך שבה סטריאוטיפים עשויים לעצב גם התנהגות הנתפסת כמיטיבה, אך מודד תגובות לתרחישים ולא יחסי סיוע בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "friedman-sokuler-justman-arab-stem",
+      "file": "friedman-sokuler-justman-arab-stem.html",
+      "permalink": "/friedman-sokuler-justman-arab-stem.html",
+      "sortKey": 202610080006,
+      "titleHe": "מגדר, תרבות ולימודי מדעים: דפוסים מפתיעים בבתי ספר ערביים בישראל",
+      "paperTitle": "Gender, culture and STEM: Counter-intuitive patterns in Arab society",
+      "authorsCardHe": "Naomi Friedman-Sokuler, משה יוסטמן",
+      "sourceAuthors": [
+        "Naomi Friedman-Sokuler",
+        "Moshe Justman"
+      ],
+      "journal": "Economics of Education Review 74, 101947",
+      "dateText": "פברואר 2020; גרסת המחברים ששימשה לסיכום: 28 בנובמבר 2018",
+      "doiUrl": "https://doi.org/10.1016/j.econedurev.2019.101947",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/friedman-sokuler-justman-arab-stem.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תלמידות ותלמידים עורכים ניסוי באור במעבדת בית ספר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "פרידמן־סוקולר ויוסטמן משווים הישגים ובחירת מקצועות מדעיים בבתי ספר עבריים וערביים בישראל. הם מוצאים דפוסי יתרון לנערות בבתי הספר הערביים שאינם מוסברים במלואם בהישגים מוקדמים וברקע חברתי־כלכלי. הממצאים מערערים על קשר פשוט בין שוויון מגדרי כללי לבין בחירת מקצועות מדעיים, ומדגישים שהצלחה בלימודים אינה מבטיחה גישה שווה לתעסוקה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "claassen-measuring-support-for-democracy",
+      "file": "claassen-measuring-support-for-democracy.html",
+      "permalink": "/claassen-measuring-support-for-democracy.html",
+      "sortKey": 202610080005,
+      "titleHe": "למדוד תמיכה בדמוקרטיה דרך עקרונות ומוסדות, מעבר לתווית הכללית",
+      "paperTitle": "Conceptualizing and Measuring Support for Democracy: A New Approach",
+      "authorsCardHe": "Christopher Claassen, אמנון כוורי ועמיתיהם",
+      "sourceAuthors": [
+        "Christopher Claassen",
+        "Kathrin Ackermann",
+        "Eri Bertsou",
+        "Lucas Borba",
+        "Ryan E. Carlin",
+        "Amnon Cavari",
+        "Sirianne Dahlum",
+        "Sergiu Gherghina",
+        "Darren Hawkins",
+        "Yphtach Lelkes",
+        "Pedro C. Magalhães",
+        "Robert Mattes",
+        "Maurits J. Meijers",
+        "Anja Neundorf",
+        "Dániel Oross",
+        "Aykut Öztürk",
+        "Rodolfo Sarsfield",
+        "Darin Self",
+        "Ben Stanley",
+        "Tsung-han Tsai",
+        "Andrej Zaslove",
+        "Elizabeth J. Zechmeister"
+      ],
+      "journal": "Comparative Political Studies 58(6), 1171–1198",
+      "dateText": "מאי 2025; פרסום מקוון: 23 ביולי 2024",
+      "doiUrl": "https://doi.org/10.1177/00104140241259458",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/claassen-measuring-support-for-democracy.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: חוקרת מראיינת משתתפת בסקר בביתה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "קלאסן, כוורי ועמיתיהם מפתחים מדד לתמיכה בדמוקרטיה ליברלית באמצעות שאלות על בחירות, זכויות והגבלת כוח השלטון. הבדיקה ב־19 מדגמים לאומיים מראה מדוע הסכמה עם המילה דמוקרטיה לבדה אינה מספקת. לצד מדד קצר, השאלון המורחב מאפשר לזהות אילו עקרונות זוכים לתמיכה ואילו מעוררים התנגדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "penner-within-job-gender-pay-inequality",
+      "file": "penner-within-job-gender-pay-inequality.html",
+      "permalink": "/penner-within-job-gender-pay-inequality.html",
+      "sortKey": 202610080004,
+      "titleHe": "פערי שכר מגדריים בתוך אותו משלח יד ואותו מקום עבודה ב־15 מדינות",
+      "paperTitle": "Within-job gender pay inequality in 15 countries",
+      "authorsCardHe": "Andrew M. Penner, טלי קריסטל ועמיתיהם",
+      "sourceAuthors": [
+        "Andrew M. Penner",
+        "Trond Petersen",
+        "Are Skeie Hermansen",
+        "Anthony Rainey",
+        "István Boza",
+        "Marta M. Elvira",
+        "Olivier Godechot",
+        "Martin Hällsten",
+        "Lasse Folke Henriksen",
+        "Feng Hou",
+        "Aleksandra Kanjuo Mrčela",
+        "Joe King",
+        "Naomi Kodama",
+        "Tali Kristal",
+        "Alena Křížková",
+        "Zoltán Lippényi",
+        "Silvia Maja Melzer",
+        "Eunmi Mun",
+        "Paula Apascaritei",
+        "Dustin Avent-Holt",
+        "Nina Bandelj",
+        "Gergely Hajdu",
+        "Jiwook Jung",
+        "Andreja Poje",
+        "Halil Sabanci",
+        "Mirna Safi",
+        "Matthew Soener",
+        "Donald Tomaskovic-Devey",
+        "Zaibu Tufail"
+      ],
+      "journal": "Nature Human Behaviour 7(2), 184–189",
+      "dateText": "פברואר 2023; פרסום מקוון: 24 בנובמבר 2022",
+      "doiUrl": "https://doi.org/10.1038/s41562-022-01470-z",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/penner-within-job-gender-pay-inequality.jpg",
+        "altHe": "צוות בעבודה משותפת במעבדת Esculab, להמחשת סביבת עבודה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "מחקר השוואתי של פנר, קריסטל ועמיתיהם מראה שהפרדה בין נשים לגברים במקומות עבודה ובמשלחי יד אינה מסבירה את מלוא פער ההשתכרות. פער ניכר נותר גם בהשוואה בתוך צירוף של מקום עבודה ומשלח יד. הממצאים מצביעים על הצורך לבחון הן גישה למשרות והן תגמול בתוכן, בלי לזהות אוטומטית כל פער שיורי עם אפליה מוכחת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dekel-piccione-sequential-binary-elections",
+      "file": "dekel-piccione-sequential-binary-elections.html",
+      "permalink": "/dekel-piccione-sequential-binary-elections.html",
+      "sortKey": 202610080003,
+      "titleHe": "הצבעה ברצף מול הצבעה בו־זמנית: מתי סדר המצביעים אינו משנה את שיווי המשקל",
+      "paperTitle": "Sequential Voting Procedures in Symmetric Binary Elections",
+      "authorsCardHe": "אדי דקל, Michele Piccione",
+      "sourceAuthors": [
+        "Eddie Dekel",
+        "Michele Piccione"
+      ],
+      "journal": "Journal of Political Economy 108(1), 34–55",
+      "dateText": "פברואר 2000",
+      "doiUrl": "https://doi.org/10.1086/262110",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/dekel-piccione-sequential-binary-elections.jpg",
+        "altHe": "שולחן וכיסאות בחדר דיונים של חבר מושבעים בבית המשפט במחוז פרנקלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "אדי דקל ומיקלה פיצ׳ונה מראים שבבחירה בין שתי חלופות עם מצביעים סימטריים, שיווי משקל אינפורמטיבי וסימטרי של הצבעה בו־זמנית יכול להתקיים גם בהצבעה ברצף. המנגנון נשען על החלטה המותנית בכך שקולו של המצביע מכריע. המסקנה מוגבלת לתנאי המודל ואינה שוללת השפעות של סדר ההצבעה במוסדות אחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "aragones-gilboa-weiss-approval-voting",
+      "file": "aragones-gilboa-weiss-approval-voting.html",
+      "permalink": "/aragones-gilboa-weiss-approval-voting.html",
+      "sortKey": 202610080002,
+      "titleHe": "הצבעת אישור וביטוי פוליטי: כיצד שיטת ההצבעה עשויה להשפיע על השתתפות",
+      "paperTitle": "Making statements and approval voting",
+      "authorsCardHe": "Enriqueta Aragones, יצחק גלבוע, Andrew Weiss",
+      "sourceAuthors": [
+        "Enriqueta Aragones",
+        "Itzhak Gilboa",
+        "Andrew Weiss"
+      ],
+      "journal": "Theory and Decision 71(4), 461–472",
+      "dateText": "2011; פרסום מקוון: 27 במרץ 2010",
+      "doiUrl": "https://doi.org/10.1007/s11238-010-9208-5",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/aragones-gilboa-weiss-approval-voting.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: מצביעת בחירות בוחנת פתק עם כמה אפשרויות בתא הצבעה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "המודל של אראגונס, גלבוע ווייס בוחן מצביעים המבקשים לבטא עמדה באמצעות הפתק שלהם. האפשרות לאשר כמה מפלגות מרחיבה את מגוון העמדות שאפשר לבטא, ולכן עשויה לצמצם הימנעות גם בלי להניח עלות להצבעה. זו תוצאה תאורטית התלויה באופן שבו מפרשים את משמעות הפתק, ולא תחזית אמפירית לשיעור ההצבעה בבחירות מסוימות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "drazen-central-bank-independence-democracy",
+      "file": "drazen-central-bank-independence-democracy.html",
+      "permalink": "/drazen-central-bank-independence-democracy.html",
+      "sortKey": 202610080001,
+      "titleHe": "עצמאות הבנק המרכזי ודולריזציה בדמוקרטיה חוקתית",
+      "paperTitle": "Central Bank Independence, Democracy, and Dollarization",
+      "authorsCardHe": "אלן דרייזן",
+      "sourceAuthors": [
+        "Allan Drazen"
+      ],
+      "journal": "Journal of Applied Economics 5(1), 1–17",
+      "dateText": "מאי 2002",
+      "doiUrl": "https://doi.org/10.1080/15140326.2002.12040569",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/drazen-central-bank-independence-democracy.jpg",
+        "altHe": "בניין הבנק המרכזי האירופי וקו הרקיע של פרנקפורט עם שחר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-08",
+      "dateModified": "2026-10-08",
+      "summaryHe": "אלן דרייזן טוען שהאצלת סמכות לבנק מרכזי עצמאי יכולה להתיישב עם דמוקרטיה חוקתית. ההצדקה נשענת על הבחנה בין קביעת מטרות ציבוריות לבין בחירת הכלים להשגתן, ועל האפשרות להגביל מראש פיתויים פוליטיים קצרי טווח. התאמה דמוקרטית אינה מוכיחה שכל הסדר של עצמאות או אימוץ מטבע זר הוא רצוי מבחינה כלכלית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "baliga-hanany-klibanoff-polarization-ambiguity",
       "file": "baliga-hanany-klibanoff-polarization-ambiguity.html",
