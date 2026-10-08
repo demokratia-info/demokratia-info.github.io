@@ -1,8 +1,298 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1852,
+  "paperCount": 1862,
   "papers": [
+    {
+      "slug": "zeedan-kinship-municipal-polls",
+      "file": "zeedan-kinship-municipal-polls.html",
+      "permalink": "/zeedan-kinship-municipal-polls.html",
+      "sortKey": 202610090010,
+      "titleHe": "סקרי בחירות מקומיות בחברה הערבית: דגימה לפי קשרי משפחה",
+      "paperTitle": "Predicting the Vote in Kinship-Based Municipal Elections: The Case of Arab Cities in Israel",
+      "authorsCardHe": "ראמי זידאן",
+      "sourceAuthors": [
+        "Rami Zeedan"
+      ],
+      "journal": "Journal of Muslim Minority Affairs 38(1), 87–102",
+      "dateText": "15 בפברואר 2018",
+      "doiUrl": "https://doi.org/10.1080/13602004.2018.1432149",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/zeedan-kinship-municipal-polls.jpg",
+        "altHe": "בניין בסח׳נין בשנת 2025, להמחשת סביבה עירונית; אינו מזהה רשות שהשתתפה במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "ראמי זידאן בוחן סקרים בבחירות המקומיות של 2013 בארבע רשויות ערביות בישראל. הוא משווה שיטות דגימה ואיסוף נתונים ומציע להתחשב במבנה המשפחתי המקומי ובאופן שבו משיבים לא-מחליטים מסתירים או מגבשים העדפות. שילוב התאמות אלה שיפר את החיזוי במקרים שנחקרו, תוך הדגשת הצורך בבדיקה מקומית במקום בהנחה שכל הבוחרים מתנהגים באותו אופן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bara-lev-turrini-communities-voting",
+      "file": "bara-lev-turrini-communities-voting.html",
+      "permalink": "/bara-lev-turrini-communities-voting.html",
+      "sortKey": 202610090009,
+      "titleHe": "תאי הד וריבוי מפלגות: גבולות החיזוי של הצבעה ברשתות חברתיות",
+      "paperTitle": "Predicting voting outcomes in the presence of communities, echo chambers and multiple parties",
+      "authorsCardHe": "Jacques Bara, עומר לב, Paolo Turrini",
+      "sourceAuthors": [
+        "Jacques Bara",
+        "Omer Lev",
+        "Paolo Turrini"
+      ],
+      "journal": "Artificial Intelligence 312, article 103773",
+      "dateText": "נובמבר 2022",
+      "doiUrl": "https://doi.org/10.1016/j.artint.2022.103773",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/bara-lev-turrini-communities-voting.jpg",
+        "altHe": "סצנה בדיונית שנוצרה בבינה מלאכותית: קבוצות שיחה בבית קפה ואדם הנע ביניהן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "Jacques Bara, עומר לב ו-Paolo Turrini בוחנים בסימולציות אם מדד של פער השפעה ברשת מנבא תוצאות הצבעה גם בנוכחות קהילות ותאי הד. כאשר הרשת מחולקת לקהילות, ספירה פשוטה של התמיכה הראשונית מנבאת לעיתים טוב יותר, ובייחוד בתחרות מרובת מפלגות. הממצאים מדגישים שהצלחת מדד תלויה במבנה החברתי שבו הוא נבדק.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kislev-minorities-transnational-mobility",
+      "file": "kislev-minorities-transnational-mobility.html",
+      "permalink": "/kislev-minorities-transnational-mobility.html",
+      "sortKey": 202610090008,
+      "titleHe": "ניידות חברתית מעבר לגבול: מיעוטים המהגרים לארצות הברית",
+      "paperTitle": "Transnational social mobility of minorities: a comparative analysis of 14 immigrant minority groups",
+      "authorsCardHe": "אליקים כסלו",
+      "sourceAuthors": [
+        "Elyakim Kislev"
+      ],
+      "journal": "IZA Journal of Development and Migration 8(1), article 15",
+      "dateText": "9 באוגוסט 2018",
+      "doiUrl": "https://doi.org/10.1186/s40176-018-0123-9",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/kislev-minorities-transnational-mobility.jpg",
+        "altHe": "פארק טראוורס בשכונת ג׳קסון הייטס בקווינס, בתצלום משנת 2022 להמחשת מרחב עירוני בארצות הברית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "אליקים כסלו משווה 14 קבוצות של מהגרים שהיו מיעוט במדינת המוצא לקבוצות רוב מאותה מדינה שהיגרו לארצות הברית. הממצאים מצביעים על מסלולי השתלבות שונים: חלק מהמיעוטים שאינם שחורים מצמצמים פערים במהירות, בעוד שחסרונות כלכליים נמשכים אצל מיעוטים שחורים. ההשוואה מדגישה שהזדמנויות כלכליות תלויות גם באופן שבו חברת היעד מסווגת ומקבלת קבוצות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dekel-piccione-strategic-voting-time",
+      "file": "dekel-piccione-strategic-voting-time.html",
+      "permalink": "/dekel-piccione-strategic-voting-time.html",
+      "sortKey": 202610090007,
+      "titleHe": "הצבעה מוקדמת כיתרון או כחיסרון אסטרטגי",
+      "paperTitle": "The Strategic Dis/advantage of Voting Early",
+      "authorsCardHe": "אדי דקל, Michele Piccione",
+      "sourceAuthors": [
+        "Eddie Dekel",
+        "Michele Piccione"
+      ],
+      "journal": "American Economic Journal: Microeconomics 6(4), 164–179",
+      "dateText": "נובמבר 2014",
+      "doiUrl": "https://doi.org/10.1257/mic.6.4.162",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/dekel-piccione-strategic-voting-time.jpg",
+        "altHe": "תאי הצבעה בניו פורסט שבבריטניה בשנת 2011, להמחשת הליך בחירה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "אדי דקל ו-Michele Piccione מפתחים מודל שבו בוחרים מחליטים גם למי להצביע וגם מתי. הצבעה מוקדמת יכולה לצמצם את שדה המועמדים הרלוונטיים, אך בכך גם לחזק יריב שנותר בתחרות. התוצאה תלויה בעוצמת ההעדפות ובאפשרות ללמוד מההצבעות שכבר ניתנו, ומבהירה מדוע קדימות בתהליך אינה מבטיחה כוח פוליטי גדול יותר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "garcia-gottlieb-palacios-income-polarization",
+      "file": "garcia-gottlieb-palacios-income-polarization.html",
+      "permalink": "/garcia-gottlieb-palacios-income-polarization.html",
+      "sortKey": 202610090006,
+      "titleHe": "קיטוב הכנסות בישראל: צמיחה שאינה מגיעה לכל הקבוצות",
+      "paperTitle": "Polarization, Growth and Social Policy in the Case of Israel, 1997–2008",
+      "authorsCardHe": "Rosa María García-Fernández, דניאל גוטליב, Federico Palacios-González",
+      "sourceAuthors": [
+        "Rosa María García-Fernández",
+        "Daniel Gottlieb",
+        "Federico Palacios-González"
+      ],
+      "journal": "Economics 7, article 2013-15, 1–40",
+      "dateText": "16 באפריל 2013",
+      "doiUrl": "https://doi.org/10.5018/economics-ejournal.ja.2013-15",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/garcia-gottlieb-palacios-income-polarization.jpg",
+        "altHe": "בנייני מגורים בבאר שבע, בתצלום משנת 2014 להמחשת הקשר עירוני של מחקר הכנסות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "Rosa María García-Fernández, דניאל גוטליב ו-Federico Palacios-González מנתחים את התפלגות ההכנסות בישראל בשנים 1997–2008. באמצעות זיהוי קבוצות הכנסה מתוך הנתונים הם בוחנים קיטוב, שינויים במעמד הביניים והבדלים בין קבוצות אוכלוסייה. הממצאים מצביעים על גבולותיה של צמיחה שאינה משפרת במידה דומה את מצבם של ערבים וחרדים, ועל חשיבות ההגדרות המשמשות למדידת פערים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schmid-government-civil-society-covid",
+      "file": "schmid-government-civil-society-covid.html",
+      "permalink": "/schmid-government-civil-society-covid.html",
+      "sortKey": 202610090005,
+      "titleHe": "ממשלה וחברה אזרחית בקורונה: תלות הדדית ללא אמון",
+      "paperTitle": "Reflections on the Relationship between the Government and Civil Society Organizations during the Covid-19 Pandemic: The Israeli Case",
+      "authorsCardHe": "הלל שמיד",
+      "sourceAuthors": [
+        "Hillel Schmid"
+      ],
+      "journal": "Nonprofit Policy Forum 12(1), 189–197",
+      "dateText": "5 בפברואר 2021; גיליון מרץ 2021",
+      "doiUrl": "https://doi.org/10.1515/npf-2021-0003",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/schmid-government-civil-society-covid.jpg",
+        "altHe": "סצנה בדיונית שנוצרה בבינה מלאכותית: מתנדבים עם מסכות אורזים סלי מזון במרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "הלל שמיד מנתח את היחסים בין הממשלה לארגוני החברה האזרחית בישראל בראשית מגפת הקורונה. הוא טוען שהמשבר החריף דפוסים קודמים של חשדנות, תלות תקציבית וחולשה ארגונית. ניתוח המדיניות מדגיש ששמירת שירותים לאוכלוסיות פגיעות דורשת שיתוף פעולה, הכרה בידע של הארגונים ושיפור יכולתם הניהולית והציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bulteau-hazon-perpetual-voting-representation",
+      "file": "bulteau-hazon-perpetual-voting-representation.html",
+      "permalink": "/bulteau-hazon-perpetual-voting-representation.html",
+      "sortKey": 202610090004,
+      "titleHe": "ייצוג לאורך זמן: איך למנוע מקבוצה להפסיד בכל הצבעה",
+      "paperTitle": "Justified Representation for Perpetual Voting",
+      "authorsCardHe": "Laurent Bulteau, נועם חזון, Rutvik Page, אריאל רוזנפלד, נמרוד טלמון",
+      "sourceAuthors": [
+        "Laurent Bulteau",
+        "Noam Hazon",
+        "Rutvik Page",
+        "Ariel Rosenfeld",
+        "Nimrod Talmon"
+      ],
+      "journal": "IEEE Access 9, 96598–96612",
+      "dateText": "6 ביולי 2021",
+      "doiUrl": "https://doi.org/10.1109/access.2021.3095087",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/bulteau-hazon-perpetual-voting-representation.jpg",
+        "altHe": "סצנה בדיונית שנוצרה בבינה מלאכותית: קבוצה סביב שולחן בוחרת באמצעות כרטיסים ואסימונים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "Laurent Bulteau, נועם חזון, Rutvik Page, אריאל רוזנפלד ונמרוד טלמון מפתחים כללי ייצוג לסדרה של החלטות קבוצתיות. במקום לבחון כל הצבעה בנפרד, הם שואלים אם קבוצות בעלות העדפות משותפות מקבלות מקום לאורך זמן. הניתוח המתמטי ומחקר בחירות של משתתפים מבהירים את המתח בין שביעות רצון מצטברת לבין הוגנות כלפי קבוצות שנשארות שוב ושוב מחוץ להכרעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "felsenthal-miller-proportional-election-inversions",
+      "file": "felsenthal-miller-proportional-election-inversions.html",
+      "permalink": "/felsenthal-miller-proportional-election-inversions.html",
+      "sortKey": 202610090003,
+      "titleHe": "איך רוב המושבים יכול לייצג מיעוט קולות גם בבחירות יחסיות",
+      "paperTitle": "WHAT TO DO ABOUT ELECTION INVERSIONS UNDER PROPORTIONAL REPRESENTATION?",
+      "authorsCardHe": "דן ס׳ פלזנטל, Nicholas R. Miller",
+      "sourceAuthors": [
+        "Dan S. Felsenthal",
+        "Nicholas R. Miller"
+      ],
+      "journal": "Representation 51(2), 173–186",
+      "dateText": "18 ביוני 2015; כרך 51 משנת 2015",
+      "doiUrl": "https://doi.org/10.1080/00344893.2015.1056218",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/felsenthal-miller-proportional-election-inversions.jpg",
+        "altHe": "אולם המליאה של הבית התחתון בפרלמנט ההולנדי בהאג, להמחשת חלוקת מושבים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "דן פלזנטל ו-Nicholas R. Miller בוחנים מצבים שבהם קבוצת מפלגות מקבלת רוב מושבים בלי רוב קולות, גם בשיטת ייצוג יחסי. עיגול הקולות למספרים שלמים של מושבים עשוי להפוך את היחס בין גושים אפשריים. המאמר משווה דרכי תיקון ומראה שכללי חלוקה טכניים נושאים הכרעה בין ייצוג יחסי, רוב ושוויון בהצבעה הפרלמנטרית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gafni-marom-robb-sade-crowdfunding-gender",
+      "file": "gafni-marom-robb-sade-crowdfunding-gender.html",
+      "permalink": "/gafni-marom-robb-sade-crowdfunding-gender.html",
+      "sortKey": 202610090002,
+      "titleHe": "מגדר במימון המונים: הצלחה של יזמיות לצד העדפות מפלות",
+      "paperTitle": "Gender Dynamics in Crowdfunding (Kickstarter): Evidence on Entrepreneurs, Backers, and Taste-Based Discrimination",
+      "authorsCardHe": "הדר גפני, דן מרום, Alicia Robb, אורלי שדה",
+      "sourceAuthors": [
+        "Hadar Gafni",
+        "Dan Marom",
+        "Alicia Robb",
+        "Orly Sade"
+      ],
+      "journal": "Review of Finance 25(2), 235–274",
+      "dateText": "16 בדצמבר 2020; גיליון אפריל 2021",
+      "doiUrl": "https://doi.org/10.1093/rof/rfaa041",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/gafni-marom-robb-sade-crowdfunding-gender.jpg",
+        "altHe": "סצנה בדיונית שנוצרה בבינה מלאכותית: יזמית מציגה מוצר לקבוצת תומכים בסדנת קרמיקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "הדר גפני, דן מרום, Alicia Robb ואורלי שדה בוחנים יזמים ותומכים בשנותיו הראשונות של Kickstarter. נשים הצליחו יותר בהשגת יעדי גיוס גם לאחר התחשבות במאפייני הפרויקטים, אך היו בתת-ייצוג והתרכזו בענפים מסוימים. שילוב נתוני מימון וסקר תומכים מראה שפתיחת הגישה למימון אינה מבטלת בהכרח העדפות מגדריות ואפליה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cavari-efrat-crisis-public-agenda",
+      "file": "cavari-efrat-crisis-public-agenda.html",
+      "permalink": "/cavari-efrat-crisis-public-agenda.html",
+      "sortKey": 202610090001,
+      "titleHe": "סדר היום הציבורי במשבר: הרפורמה המשפטית והמלחמה בישראל",
+      "paperTitle": "Polarized public agenda in times of crisis",
+      "authorsCardHe": "אמנון כוורי, אסיף אפרת",
+      "sourceAuthors": [
+        "Amnon Cavari",
+        "Asif Efrat"
+      ],
+      "journal": "Journal of European Public Policy 33(1), 159–188",
+      "dateText": "15 בספטמבר 2025; גיליון ינואר 2026",
+      "doiUrl": "https://doi.org/10.1080/13501763.2025.2552418",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cavari-efrat-crisis-public-agenda.jpg",
+        "altHe": "בניין הכנסת בירושלים, בתצלום משנת 2018",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "summaryHe": "אמנון כוורי ואסיף אפרת משווים את סדרי העדיפויות של הציבור בישראל בזמן המשבר החוקתי ובזמן המלחמה. סקרי התקופה מראים שמשבר פנימי הרחיב את הפער בין המחנות בנושאים שהעסיקו אותם, ואילו איום ביטחוני חיצוני ריכז את תשומת הלב בנושאים משותפים. הסכמה על הבעיה הדחופה אינה בהכרח הסכמה על הממשלה או על הפתרון.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "meir-gal-tal-strategic-voting-lab",
       "file": "meir-gal-tal-strategic-voting-lab.html",
