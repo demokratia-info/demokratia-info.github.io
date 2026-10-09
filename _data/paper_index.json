@@ -1,8 +1,300 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1862,
+  "paperCount": 1872,
   "papers": [
+    {
+      "slug": "tarshish-nouman-altshuler-social-work",
+      "file": "tarshish-nouman-altshuler-social-work.html",
+      "permalink": "/tarshish-nouman-altshuler-social-work.html",
+      "sortKey": 202610100010,
+      "titleHe": "עבודה סוציאלית בחברה החרדית בזמן הקורונה: סיוע, סנגור ותיווך מדיניות",
+      "paperTitle": "COVID-19 and the changing roles of social workers in minority communities: Lessons from the Israeli ultra-Orthodox community",
+      "authorsCardHe": "נועם תרשיש, חני נוימן, אלכס אלטשולר",
+      "sourceAuthors": [
+        "Noam Tarshish",
+        "Hani Nouman",
+        "Alex Altshuler"
+      ],
+      "journal": "International Social Work 67(3), 761–776",
+      "dateText": "10 ביוני 2023",
+      "doiUrl": "https://doi.org/10.1177/00208728231178386",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/tarshish-nouman-altshuler-social-work.jpg",
+        "altHe": "מבט לילי על מרכז בני ברק להמחשת מרחב קהילתי; התצלום אינו מתעד פעילות רווחה או משתתפי מחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "נועם תרשיש, חני נוימן ואלכס אלטשולר בחנו כיצד השתנו תפקידי עובדים סוציאליים בשירותים ציבוריים הפועלים בחברה החרדית בזמן הקורונה. ראיונות חוזרים עם 28 עובדים תיארו מעבר ממענה חירום לצרכים בסיסיים לעבודה קהילתית ולסנגור, לצד תיווך מתמשך בין המדינה לקהילה. הממצאים מדגישים שמדיניות נגישה דורשת קשרי אמון ויכולת להעביר גם את צורכי התושבים בחזרה למקבלי ההחלטות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "snir-childism-minority-school",
+      "file": "snir-childism-minority-school.html",
+      "permalink": "/snir-childism-minority-school.html",
+      "sortKey": 202610100009,
+      "titleHe": "שוויון לילדים ותרבויות מיעוט בבית הספר הציבורי",
+      "paperTitle": "childism and minority cultures in school",
+      "authorsCardHe": "איתי שניר",
+      "sourceAuthors": [
+        "Itay Snir"
+      ],
+      "journal": "childhood & philosophy 20, 1–20",
+      "dateText": "30 באוגוסט 2024",
+      "doiUrl": "https://doi.org/10.12957/childphilo.2024.81824",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/snir-childism-minority-school.jpg",
+        "altHe": "איור דמיוני של ילדים ומורה בוחנים כלי חרס ואריגים בכיתה, תוך הקשבה לפרשנות שמציעה תלמידה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "איתי שניר בוחן אם בית הספר הציבורי יכול לקדם יחס שוויוני לילדים גם כשהוא מנוהל בידי מבוגרים. באמצעות דיון פילוסופי בילדוּת, בסמכות חינוכית ובתרבויות מיעוט, הוא מציג את הלימוד המשותף כמרחב שבו ילדים יכולים לחרוג מן התפקיד שהחברה והמשפחה ייעדו להם. ההגנה על מרחב כזה דורשת גם התנגדות להטמעה כפויה והכרה ביכולתם של ילדים לחדש את המסורות שבתוכן הם גדלים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hasisi-itskovich-inequality-violence",
+      "file": "hasisi-itskovich-inequality-violence.html",
+      "permalink": "/hasisi-itskovich-inequality-violence.html",
+      "sortKey": 202610100008,
+      "titleHe": "שינוי באי-שוויון ופשיעה אלימה ברשויות יהודיות וערביות",
+      "paperTitle": "Trends in Inequality and Violent Crime: A Comparative Analysis of Majority and Minority Communities",
+      "authorsCardHe": "באדי חסייסי, ערן איצקוביץ",
+      "sourceAuthors": [
+        "Badi Hasisi",
+        "Eran Itskovich"
+      ],
+      "journal": "Journal of Quantitative Criminology 42(3), 413–432",
+      "dateText": "22 בספטמבר 2025",
+      "doiUrl": "https://doi.org/10.1007/s10940-025-09631-9",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/hasisi-itskovich-inequality-violence.jpg",
+        "altHe": "מבט פנורמי על נצרת להמחשת סביבה עירונית; התצלום אינו מציג אירוע פשיעה או נתון על תושבי העיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "באדי חסייסי וערן איצקוביץ בוחנים נתונים מ-192 רשויות מקומיות בישראל בשנים 2013–2018 כדי לבדוק כיצד שינוי באי-שוויון קשור לשינוי בפשיעה אלימה. עלייה באי-שוויון נקשרה לעלייה גדולה יותר באלימות ברשויות ערביות, בעוד הדפוס ברשויות יהודיות היה שונה. המחקר מפנה את הדיון מן הפער הכלכלי לבדו גם למשאבים, למוסדות ולהזדמנויות הזמינים לקבוצות שונות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "maoz-berkowitz-gewirtz-youth-belonging",
+      "file": "maoz-berkowitz-gewirtz-youth-belonging.html",
+      "permalink": "/maoz-berkowitz-gewirtz-youth-belonging.html",
+      "sortKey": 202610100007,
+      "titleHe": "בני נוער להט״ב בין מדיניות, חסמים מוסדיים ותחושת שייכות",
+      "paperTitle": "Between Policy and Identity: How Institutional Barriers, Political Climate, and Social Norms Shape Sexual and Gender Minority Youth Experiences, Identity Formation, and Sense of Belonging",
+      "authorsCardHe": "Shir Maoz, רות אלה ברקוביץ, עטרת גבירץ מידן",
+      "sourceAuthors": [
+        "Shir Maoz",
+        "Ruth Berkowitz",
+        "Ateret Gewirtz-Meydan"
+      ],
+      "journal": "Sexuality Research and Social Policy",
+      "dateText": "8 בנובמבר 2025",
+      "doiUrl": "https://doi.org/10.1007/s13178-025-01199-0",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/maoz-berkowitz-gewirtz-youth-belonging.jpg",
+        "altHe": "איור דמיוני של נער או נערה בשיחה רגועה עם יועצת בחדר תמיכה בבית ספר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "Shir Maoz, רות אלה ברקוביץ ו-עטרת גבירץ מידן בוחנות כיצד מוסדות, אקלים פוליטי ונורמות חברתיות מעצבים את חייהם של בני נוער ממיעוטים מיניים ומגדריים בישראל. ראיונות עם 20 אנשי מקצוע מתארים פער בין הכרה בזכויות לבין נגישות לתמיכה בפועל, ולעיתים תלות ברצונו של איש צוות מסוים. המחקר מציע להפוך תמיכה עקבית לאחריות מוסדית, תוך התאמה להקשרים התרבותיים והמשפחתיים של הצעירים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kolikant-hadar-salman-ai-dialogue",
+      "file": "kolikant-hadar-salman-ai-dialogue.html",
+      "permalink": "/kolikant-hadar-salman-ai-dialogue.html",
+      "sortKey": 202610100006,
+      "titleHe": "בינה מלאכותית כשותפה לתרגול שיח על מחלוקות",
+      "paperTitle": "Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization",
+      "authorsCardHe": "יפעת בן-דוד קוליקנט, Omri Hadar, Asaf Salman",
+      "sourceAuthors": [
+        "Yifat Ben-David Kolikant",
+        "Omri Hadar",
+        "Asaf Salman"
+      ],
+      "journal": "International Journal of Computer-Supported Collaborative Learning 21(1), 155–167",
+      "dateText": "19 בנובמבר 2025",
+      "doiUrl": "https://doi.org/10.1007/s11412-025-09461-8",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kolikant-hadar-salman-ai-dialogue.jpg",
+        "altHe": "איור דמיוני של סטודנטית מתכוננת ליד מחשב ומחברת ריקה, כשברקע מתקיימת שיחה בין סטודנטים ומורה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "יפעת בן-דוד קוליקנט, Omri Hadar ו-Asaf Salman בחנו צ׳אטבוט שהותאם לשיחות פוריות בנושאים שנויים במחלוקת. בעשר שיחות שניהלו החוקרים הוא הציג נקודות מבט נוספות ושאל על הנחות יסוד, אך גם הפגין טעויות, הטיות וטון שעלול לסגור את השיח. המאמר מציע פוטנציאל להכנה לדיאלוג אנושי, בלי להראות עדיין ירידה בקיטוב בקרב תלמידים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "slawotsky-human-rights-state-procurement",
+      "file": "slawotsky-human-rights-state-procurement.html",
+      "permalink": "/slawotsky-human-rights-state-procurement.html",
+      "sortKey": 202610100005,
+      "titleHe": "זכויות אדם בחוזי רכש ממשלתיים: אחריות התאגיד בהתקשרות עם המדינה",
+      "paperTitle": "Leveraging Human Rights Due Diligence in Corporate-State Procurement: The Exemplar of the Pfizer-Israeli COVID-19 Vaccination Program",
+      "authorsCardHe": "Joel Slawotsky",
+      "sourceAuthors": [
+        "Joel Slawotsky"
+      ],
+      "journal": "Business and Human Rights Journal 8, 352–368",
+      "dateText": "7 בדצמבר 2023",
+      "doiUrl": "https://doi.org/10.1017/bhj.2023.43",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/slawotsky-human-rights-state-procurement.jpg",
+        "altHe": "איור דמיוני של בחינת חוזה רכש בחדר ישיבות הסמוך למרפאה, להמחשת הקשר בין התקשרות עסקית לזכויות מטופלים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "Joel Slawotsky טוען שבדיקת נאותות בתחום זכויות האדם צריכה לכלול גם את התנהלותה של מדינה הרוכשת מוצרים מתאגיד. באמצעות ניתוח משפטי ביקורתי של ההתקשרות בין פייזר לישראל סביב חיסוני הקורונה, הוא מציע להשתמש בתנאי חוזה, במידע ובפיקוח כדי להתמודד עם סיכונים לזכויות. זהו טיעון נורמטיבי על אחריות עסקית ועל הסכמה מדעת, ולא ממצא רפואי או הכרעה שיפוטית לגבי התוכנית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shani-inclusivity-adolescent-polarization",
+      "file": "shani-inclusivity-adolescent-polarization.html",
+      "permalink": "/shani-inclusivity-adolescent-polarization.html",
+      "sortKey": 202610100004,
+      "titleHe": "נורמות הכלה וקיטוב בין מתבגרים: מעקב בשני בתי ספר בגרמניה",
+      "paperTitle": "Longitudinal Associations Between Perceived Inclusivity Norms and Opinion Polarization in Adolescence",
+      "authorsCardHe": "מאור שני, Marjorie Berns, Lucy Bergen, Stefanie Richters, Kristina Krämer, Sophie de Lede, Maarten van Zalk",
+      "sourceAuthors": [
+        "Maor Shani",
+        "Marjorie Berns",
+        "Lucy Bergen",
+        "Stefanie Richters",
+        "Kristina Krämer",
+        "Sophie De Lede",
+        "Maarten Van Zalk"
+      ],
+      "journal": "Social Inclusion 13, Article 10122",
+      "dateText": "9 ביוני 2025",
+      "doiUrl": "https://doi.org/10.17645/si.10122",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shani-inclusivity-adolescent-polarization.jpg",
+        "altHe": "חצר בית הספר קרולינום באוסנבריק, להמחשת סביבה חינוכית בגרמניה; אין בכך זיהוי של אתר המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "מאור שני ועמיתיו עקבו אחר תפיסת נורמות של הכלה ונכונות לקשר עם בני נוער בעלי עמדות מנוגדות בשני בתי ספר בגרמניה. ההבדלים בין קבוצות עמדה היו ניכרים, אך תפיסת אקלים מכיל לא ניבאה ירידה בקיטוב לאורך שנה בניתוחי האורך. הממצאים מציעים להבחין בין הצהרה על סובלנות לבין שינוי ביחסים, ולבחון מסגרות שיח תוך התחשבות בהקשר הבית-ספרי ובמורכבות עמדות המתבגרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "haimanko-le-breton-weber-polarized-transfers",
+      "file": "haimanko-le-breton-weber-polarized-transfers.html",
+      "permalink": "/haimanko-le-breton-weber-polarized-transfers.html",
+      "sortKey": 202610100003,
+      "titleHe": "העברות בין אזורים במדינה מקוטבת: בין יעילות ליציבות",
+      "paperTitle": "Transfers in a polarized country: bridging the gap between efficiency and stability",
+      "authorsCardHe": "אורי חיימנקו, Michel Le Breton, Shlomo Weber",
+      "sourceAuthors": [
+        "Ori Haimanko",
+        "Michel Le Breton",
+        "Shlomo Weber"
+      ],
+      "journal": "Journal of Public Economics 89(7), 1277–1303",
+      "dateText": "יולי 2005",
+      "doiUrl": "https://doi.org/10.1016/j.jpubeco.2004.05.010",
+      "topics": [
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/haimanko-le-breton-weber-polarized-transfers.jpg",
+        "altHe": "איור דמיוני של נציגי אזורים הדנים במימון מוסדות משותפים מול שתי עיירות המחוברות בגשר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "אורי חיימנקו, Michel Le Breton ו-Shlomo Weber מפתחים מודל שבו מדינה מאוחדת יכולה להיות יעילה מבחינה כוללת אך בלתי יציבה מבחינת קבוצות השוקלות לפרוש ממנה. כאשר העדפות המדיניות מקוטבות, חיסכון בעלויות של מוסדות משותפים אינו מבטיח שכל אזור ירצה להישאר. המאמר בוחן כיצד העברות מפצות עשויות לגשר על הפער, ואילו תנאים מאפשרים גם תמיכה פוליטית בהן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "forman-rabinovici-beeri-gender-local-policy",
+      "file": "forman-rabinovici-beeri-gender-local-policy.html",
+      "permalink": "/forman-rabinovici-beeri-gender-local-policy.html",
+      "sortKey": 202610100002,
+      "titleHe": "מגדר, אמון ותמיכה במדיניות מקומית: ניסוי בקרב תושבי חיפה",
+      "paperTitle": "Gender Dimensions of Support for Local Policy: Resident, Policymaker, and Policy Gender",
+      "authorsCardHe": "עליזה פורמן-רבינוביץ׳, איתי בארי",
+      "sourceAuthors": [
+        "Aliza Forman‐Rabinovici",
+        "Itai Beeri"
+      ],
+      "journal": "Policy Studies Journal 54(3)",
+      "dateText": "15 בינואר 2026",
+      "doiUrl": "https://doi.org/10.1111/psj.70096",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/forman-rabinovici-beeri-gender-local-policy.jpg",
+        "altHe": "חזית עיריית חיפה ומבקרים ליד הכניסה, להמחשת הזירה העירונית של המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "עליזה פורמן-רבינוביץ׳ ואיתי בארי בוחנים כיצד מגדר התושבים, זהות מקבלי ההחלטות ותחום המדיניות קשורים לתמיכה ביוזמות עירוניות. בניסוי סקר בקרב 500 תושבי חיפה נמצאו הבדלים בעיקר ביחס למדיניות חינוך, ולא דפוס מקביל בתחום הביטחון המקומי. הממצאים מצביעים על ציפיות מגדריות שעשויות לעצב את האופן שבו הציבור מתרגם אמון לתמיכה, ולכן גם את מרחב הפעולה של נבחרות ונבחרי ציבור.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "harel-kahana-judicial-review-hearing",
+      "file": "harel-kahana-judicial-review-hearing.html",
+      "permalink": "/harel-kahana-judicial-review-hearing.html",
+      "sortKey": 202610100001,
+      "titleHe": "ביקורת שיפוטית כזכות להשמיע טענה ולקבל מענה",
+      "paperTitle": "The Easy Core Case for Judicial Review",
+      "authorsCardHe": "אלון הראל, צבי כהנא",
+      "sourceAuthors": [
+        "Alon Harel",
+        "Tsvi Kahana"
+      ],
+      "journal": "Journal of Legal Analysis 2(1), 227–256",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1093/jla/2.1.227",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/harel-kahana-judicial-review-hearing.jpg",
+        "altHe": "איור דמיוני של אזרחית המציגה את טענתה בפני שופטת ואיש צוות המקשיבים לה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "summaryHe": "אלון הראל וצבי כהנא מציעים להצדיק ביקורת שיפוטית באמצעות זכותו של אדם להישמע כאשר השלטון פוגע בזכויותיו. ההצדקה אינה תלויה בהנחה ששופטים תמיד מקבלים החלטות טובות יותר ממחוקקים, אלא בחובת המדינה לשמוע תלונה, לנמק ולשקול מחדש. מכאן נובעת הגנה על הליך המאפשר לאזרח לערער על הפגיעה הקונקרטית בו, בלי להכריע מראש בכל שאלת העליונות השיפוטית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "zeedan-kinship-municipal-polls",
       "file": "zeedan-kinship-municipal-polls.html",

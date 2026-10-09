@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-09",
+  "lastUpdated": "2026-10-10",
   "sampleSize": 6,
-  "seed": "2026-10-09-homepage-high-fit",
+  "seed": "2026-10-10-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
   "fullTextHighFitPaperCount": 1001,
   "paperSlugs": [
     "democracy_age_related_risk_and_protective_factors_quality_of_life_and_loneliness_in_summary_he",
-    "democracy_west_bank_settlement_and_the_transformation_of_zionist_housing_ethos_from_shelter_to_act_of_violence_summary_he",
+    "democracy_redistribution_inequality_growth_summary_he",
     "democracy_backsliding_in_israel_mautner_summary_he",
     "democracy_polling_station_micro_context_voting_summary_he",
     "democracy_collaborative_rulemaking_democratic_bots_and_the_future_of_digital_democracy_summary_he",
-    "democracy_human_capital_inequality_life_expectancy_and_growth_summary_he"
+    "democracy_migrant_language_minority_sociopolitical_participation_summary_he"
   ]
 }
