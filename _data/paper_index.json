@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1872,
+  "paperCount": 1882,
   "papers": [
+    {
+      "slug": "vishkin-gender-equality-relative-advantage",
+      "file": "vishkin-gender-equality-relative-advantage.html",
+      "permalink": "/vishkin-gender-equality-relative-advantage.html",
+      "sortKey": 202610110010,
+      "titleHe": "שוויון מגדרי וייצוג נשים בספורט: הדפוס הייחודי של רכיבה תחרותית",
+      "paperTitle": "Gender equality predicts female overrepresentation only in competitive domains where they have a relative advantage over males",
+      "authorsCardHe": "אלון וישקין, רייצ׳ל קרסנר, Majd Wely",
+      "sourceAuthors": [
+        "Allon Vishkin",
+        "Rachel Krasner",
+        "Majd Wely"
+      ],
+      "journal": "PNAS Nexus 5(3), pgag035",
+      "dateText": "18 בפברואר 2026 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1093/pnasnexus/pgag035",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/vishkin-gender-equality-relative-advantage.jpg",
+        "altHe": "רוכבת וסוס בתחרות דרסאז׳, להמחשת ענף הרכיבה שנבחן במחקר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "אלון וישקין, רייצ׳ל קרסנר ו־Majd Wely משווים ייצוג נשים בחמישה ענפי ספורט בין מדינות. הקשר בין שוויון מגדרי לבין שיעור הנשים בולט במיוחד ברכיבה, והחוקרים בוחנים אותו לצד מודל ממוחשב ונתונים אולימפיים היסטוריים. הם מפרשים את הדפוס כתואם הסבר של יתרון יחסי, אך אינם מודדים ישירות יתרון בביצועים ואינם שוללים חסמים חברתיים ומוסדיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "yosef-legislative-initiatives-judicial-proceedings",
+      "file": "yosef-legislative-initiatives-judicial-proceedings.html",
+      "permalink": "/yosef-legislative-initiatives-judicial-proceedings.html",
+      "sortKey": 202610110009,
+      "titleHe": "כאשר בג״ץ ממתין לחקיקה: דיאלוג בין רשויות והמחיר לעותרים",
+      "paperTitle": "The legal supremacy of legislative initiatives in judicial proceedings: The Israeli lesson",
+      "authorsCardHe": "בל יוסף",
+      "sourceAuthors": [
+        "Bell E Yosef"
+      ],
+      "journal": "International Journal of Constitutional Law 18(3), 965–987",
+      "dateText": "4 בדצמבר 2020 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1093/icon/moaa069",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/yosef-legislative-initiatives-judicial-proceedings.jpg",
+        "altHe": "ספריית בית המשפט העליון בישראל, כהקשר מוסדי לדיון ביחסי שפיטה וחקיקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "בל יוסף בוחנת כיצד יוזמות חקיקה שטרם הפכו לחוק משפיעות על הכרעות בית המשפט העליון בישראל. ההמתנה למחוקק יכולה לאפשר פתרון דמוקרטי ולצמצם עימות בין רשויות, אך גם להאריך פגיעה בזכויות ולהעניק למדינה יתרון בהליך. המאמר מציע אמות מידה להגבלת ההמתנה ולהעמדת מצבו של העותר לצד השיקולים המוסדיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "landau-marshall-shamir-union-due-diligence",
+      "file": "landau-marshall-shamir-union-due-diligence.html",
+      "permalink": "/landau-marshall-shamir-union-due-diligence.html",
+      "sortKey": 202610110008,
+      "titleHe": "איגודי עובדים גלובליים מול חובות זכויות אדם בשרשראות אספקה",
+      "paperTitle": "Global Union Federations and Human Rights Due Diligence: Strategic Repertoires in a Shifting Legal Terrain",
+      "authorsCardHe": "אינגריד לנדאו, שלי מרשל, הילה שמיר",
+      "sourceAuthors": [
+        "Ingrid Landau",
+        "Shelley Marshall",
+        "Hila Shamir"
+      ],
+      "journal": "Global Policy",
+      "dateText": "8 בספטמבר 2026 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/1758-5899.70217",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/landau-marshall-shamir-union-due-diligence.jpg",
+        "altHe": "מנופי מכולות בנמל אנטוורפן בשעת דמדומים, להמחשת תשתיות שרשראות אספקה בינלאומיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "אינגריד לנדאו, שלי מרשל והילה שמיר בוחנות כיצד פדרציות בינלאומיות של איגודי עובדים משתמשות בחובות בדיקת נאותות בתחום זכויות האדם. ראיונות, מסמכים וניתוח משפטי מזהים שש דרכי פעולה, מהתייעצות והכשרה ועד קמפיינים והליכים משפטיים. החקיקה עשויה להרחיב את כוחם של עובדים, אך גם לצמצם את השתתפותם להליך פורמלי אם היא מנותקת מהתארגנות וממיקוח קיבוצי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "itsik-kosovo-israel-citizen-soldier",
+      "file": "itsik-kosovo-israel-citizen-soldier.html",
+      "permalink": "/itsik-kosovo-israel-citizen-soldier.html",
+      "sortKey": 202610110007,
+      "titleHe": "צבא אזרחים בדמוקרטיה: זכויות, חובות וההשוואה בין ישראל לקוסובו",
+      "paperTitle": "Democracy and the ‘citizen-soldier’ military: The case of Kosovo and Israel",
+      "authorsCardHe": "רונן איציק, Hajdi Xhixha, אלונה חגי פריי",
+      "sourceAuthors": [
+        "Ronen Itsik",
+        "Hajdi Xhixha",
+        "Alona Hagay Frey"
+      ],
+      "journal": "Security and Defence Quarterly 47(3), 74–92",
+      "dateText": "3 באוקטובר 2024 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.35467/sdq/192308",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/itsik-kosovo-israel-citizen-soldier.jpg",
+        "altHe": "גשר האבן והעיר פריזרן בקוסובו, כהקשר גאוגרפי להשוואה עם ישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "רונן איציק, Hajdi Xhixha ואלונה חגי פריי בוחנים מה יכולה קוסובו ללמוד ממודל צבא האזרחים הישראלי. הניתוח המשפטי וההשוואתי מדגיש עיגון חוקתי של חובות השירות, שילוב חברתי והסדרת מעמדן של קבוצות שונות. ישראל מוצגת גם כמקור לניסיון וגם כאזהרה מפני פערים בחלוקת הנטל ומתחים בין זכויות אזרח לצורכי ביטחון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "apter-europeanised-international-law",
+      "file": "apter-europeanised-international-law.html",
+      "permalink": "/apter-europeanised-international-law.html",
+      "sortKey": 202610110006,
+      "titleHe": "בתי משפט באירופה בין משפט לאומי, דיני האיחוד והמשפט הבינלאומי",
+      "paperTitle": "Europeanised International Law and Administrative and Constitutional Courts in EU Member States: Navigating the Global Legal Waters of Luxembourg (CJEU), Strasbourg (ECtHR) and The Hague (ICJ)",
+      "authorsCardHe": "איתי אפטר",
+      "sourceAuthors": [
+        "Itai Apter"
+      ],
+      "journal": "Rocznik Administracji Publicznej 5, 87–114",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.4467/24497800rap.19.006.11469",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/apter-europeanised-international-law.jpg",
+        "altHe": "חזית מבנה בית הדין של האיחוד האירופי בלוקסמבורג",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "איתי אפטר בוחן את הקשיים העומדים בפני בתי משפט חוקתיים ומינהליים במדינות האיחוד האירופי כאשר כמה מערכות משפט דורשות הכרעה שונה. באמצעות פסיקה ותרחישים בתחומי חסינות מדינה, זכויות אדם וסכסוכים חוצי גבולות, הוא מראה שאין תמיד היררכיה פשוטה הפותרת את ההתנגשות. ההצעות משלבות מודעות שיפוטית, שיח בין ערכאות והבהרה מוסדית, תוך הכרה במחיר האפשרי של כל פתרון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "haddad-jasper-palestinian-treaty-bodies",
+      "file": "haddad-jasper-palestinian-treaty-bodies.html",
+      "permalink": "/haddad-jasper-palestinian-treaty-bodies.html",
+      "sortKey": 202610110005,
+      "titleHe": "ריבונות פלסטינית דרך אמנות זכויות האדם: הכרה לצד אחריות",
+      "paperTitle": "In Pursuit of Statehood: Palestinian Performativity in Human Rights Treaty Bodies",
+      "authorsCardHe": "מרי חדאד, אלון ג׳ספר",
+      "sourceAuthors": [
+        "Mary Haddad",
+        "Alon Jasper"
+      ],
+      "journal": "Law & Social Inquiry 50(2), 438–467",
+      "dateText": "27 בפברואר 2025 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1017/lsi.2025.9",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/haddad-jasper-palestinian-treaty-bodies.jpg",
+        "altHe": "חזית ארמון וילסון בז׳נבה, הקשור למערכת זכויות האדם של האו״ם; תצלום המבנה ולא דיון בוועדה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "מרי חדאד ואלון ג׳ספר מנתחים כיצד הרשות הפלסטינית מבססת מעמד מדינתי באמצעות דיווחים והתדיינות מול ועדות אמנות זכויות האדם. הקריאה במסמכים ובפסיקה מבחינה בין הצגת פלסטין כמדינה חברה, כמדינה כבושה וכמדינה שיכולתה לפעול מוגבלת. המעמד מעניק הכרה, אך גם חושף את הרשות ואת מוסדותיה לתביעות אחריות שאינן נעלמות בשל מגבלות השליטה בשטח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "elishar-media-repeated-elections",
+      "file": "elishar-media-repeated-elections.html",
+      "permalink": "/elishar-media-repeated-elections.html",
+      "sortKey": 202610110004,
+      "titleHe": "חדשות, מעקב אחר פוליטיקאים וכוונות הצבעה בבחירות חוזרות בישראל",
+      "paperTitle": "Media Consumption, Social‐Media Political Tracking, and Vote Intention Across Four Back‐to‐Back Israeli Elections (2019–2022)",
+      "authorsCardHe": "ורד אלישר, דנה וימן זקס, ירון אריאל",
+      "sourceAuthors": [
+        "Vered Elishar",
+        "Dana Weimann‐Saks",
+        "Yaron Ariel"
+      ],
+      "journal": "Social Science Quarterly 106(4), e70068",
+      "dateText": "16 ביולי 2025 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/ssqu.70068",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/elishar-media-repeated-elections.jpg",
+        "altHe": "שדרניות באולפן רדיו בניו אורלינס, כתצלום המחשה לצריכת תקשורת; אין זה תיעוד של הבחירות בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "ורד אלישר, דנה וימן זקס וירון אריאל בחנו צריכת תקשורת וכוונות הצבעה בקרב 2,000 משיבים יהודים בישראל בתקופות בחירות בשנים 2019–2022. צריכת תוכן פוליטי כללית ברשתות ומעקב אחר פוליטיקאים במגוון פלטפורמות נקשרו לכיוונים שונים של שינוי בכוונת ההצבעה. ההבחנה מלמדת שחשיפה פוליטית מקוונת אינה פעילות אחידה, ושהקשרים שנמצאו אינם הוכחה להשפעה סיבתית של הרשתות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shechory-bitton-hadad-mothers-daughters",
+      "file": "shechory-bitton-hadad-mothers-daughters.html",
+      "permalink": "/shechory-bitton-hadad-mothers-daughters.html",
+      "sortKey": 202610110003,
+      "titleHe": "אימהות ובנות מול מיתוסים על אונס: דת, שמרנות ושינוי בין דורות",
+      "paperTitle": "Rape Myth Acceptance, Gender Roles, and Sexual Conservatism: An Intergenerational Study of Mothers and Daughters in Religious and Secular Communities",
+      "authorsCardHe": "מלי שחורי ביטון, שיר חדד",
+      "sourceAuthors": [
+        "Mally Shechory Bitton",
+        "Shir Hadad"
+      ],
+      "journal": "Journal of Interpersonal Violence 41(21–22), 9135–9158",
+      "dateText": "25 בספטמבר 2025 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1177/08862605251368853",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shechory-bitton-hadad-mothers-daughters.jpg",
+        "altHe": "איור של אם ובת בוגרת בשיחה בבית; הדמויות דמיוניות ואינן משתתפות במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "מלי שחורי ביטון ושיר חדד בחנו 151 זוגות של אימהות ובנות יהודיות בישראל, דתיות וחילוניות. שמרנות בנושאי מגדר ומיניות נקשרה לקבלה רבה יותר של מיתוסים המצדיקים אונס או מאשימים נפגעות, אך הבנות נטו פחות מאימותיהן לאמץ עמדות כאלה. הפער הבין־דורי היה גדול יותר בקבוצה הדתית, ומדגיש ששייכות דתית אינה מבטלת שינוי פנימי בעמדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bruck-ritov-identifiable-political-outgroup",
+      "file": "bruck-ritov-identifiable-political-outgroup.html",
+      "permalink": "/bruck-ritov-identifiable-political-outgroup.html",
+      "sortKey": 202610110002,
+      "titleHe": "אדם מזוהה מעבר למחלוקת הפוליטית: צמצום הציפייה לעוינות",
+      "paperTitle": "From Groups to Individuals: How Identifiability Reduces Biased Meta‐Perceptions and Polarization",
+      "authorsCardHe": "איימי ברוק, אילנה ריטוב",
+      "sourceAuthors": [
+        "Amy Bruck",
+        "Ilana Ritov"
+      ],
+      "journal": "Journal of Applied Social Psychology 56(7), 519–527",
+      "dateText": "17 במאי 2026 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/jasp.70069",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/bruck-ritov-identifiable-political-outgroup.jpg",
+        "altHe": "איור של שיחה בין שני אנשים בבית קפה, להמחשת התמקדות באדם מעבר להשתייכותו הפוליטית; סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "איימי ברוק ואילנה ריטוב בוחנות אם מחשבה על אדם מסוים מן המחנה הפוליטי האחר משנה את העוינות שאנשים מצפים לקבל ממנו. בשני מחקרים בקרב יהודים בישראל, מעבר מקבוצה מופשטת לאדם מזוהה שיפר חלק מהתפיסות, אך השפעותיו לא היו אחידות. הממצאים מציעים כלי מוגבל להפחתת חשדנות, בלי להראות שינוי כולל בקיטוב או בהתנהגות פוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bornstein-human-rights-discourse",
+      "file": "bornstein-human-rights-discourse.html",
+      "permalink": "/bornstein-human-rights-discourse.html",
+      "sortKey": 202610110001,
+      "titleHe": "זכויות אדם בישראל: שפה אוניברסלית, זהויות מקומיות שונות",
+      "paperTitle": "Shades of Universality: Variation of Performances in the Glocalized Israeli Human Rights Discourse",
+      "authorsCardHe": "בן בורנשטיין",
+      "sourceAuthors": [
+        "Ben Bornstein"
+      ],
+      "journal": "Sociological Perspectives 64(3), 411–431",
+      "dateText": "25 באוגוסט 2020 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1177/0731121420950762",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/bornstein-human-rights-discourse.jpg",
+        "altHe": "איור של מעגלי שיחה נפרדים בחדר קהילתי, להמחשת גישות שונות לזכויות אדם; הדמויות והמסגרת דמיוניות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-11",
+      "dateModified": "2026-10-11",
+      "summaryHe": "בן בורנשטיין משווה את הצהרות הייעוד של שישה ארגוני זכויות אדם בישראל ומראה ששפה אוניברסלית יכולה לקבל משמעויות דתיות, לאומיות ופוליטיות שונות. הניתוח מערער על החלוקה הפשוטה בין זכויות גלובליות לזהות מקומית. הבנת ההבדלים מאפשרת לבחון כיצד ארגונים מצדיקים הגנה על זכויות ואיזה יחס למדינה הם מציעים.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "tarshish-nouman-altshuler-social-work",
       "file": "tarshish-nouman-altshuler-social-work.html",
