@@ -1,8 +1,302 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1882,
+  "paperCount": 1892,
   "papers": [
+    {
+      "slug": "halperin-kaddari-freeman-marriage-equality",
+      "file": "halperin-kaddari-freeman-marriage-equality.html",
+      "permalink": "/halperin-kaddari-freeman-marriage-equality.html",
+      "sortKey": 202610120010,
+      "titleHe": "שוויון כלכלי בנישואים ובפרידה מול מערכות דיני משפחה שונות",
+      "paperTitle": "Economic Consequences of Marriage and Its Dissolution: Applying a Universal Equality Norm in a Fragmented Universe",
+      "authorsCardHe": "רות הלפרין-קדרי, Marsha A. Freeman",
+      "sourceAuthors": [
+        "Ruth Halperin-Kaddari",
+        "Marsha A. Freeman"
+      ],
+      "journal": "Theoretical Inquiries in Law 13(1), 323–360",
+      "dateText": "15 בינואר 2012",
+      "doiUrl": "https://doi.org/10.1515/1565-3404.1294",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/halperin-kaddari-freeman-marriage-equality.jpg",
+        "altHe": "צילום טבעות המוגשות בטקס נישואים, להמחשת יחסי משפחה; התצלום אינו מתאר מקרה מהמאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "רות הלפרין־קדרי ומרשה פרימן בוחנות כיצד ליישם עקרון שוויון אוניברסלי כאשר דיני המשפחה מפוצלים בין מערכות מדינתיות, דתיות ומנהגיות. דרך אמנת CEDAW והדיון בהשלכות הכלכליות של יחסי משפחה ופירוקם, הן מדגישות את זכויות היחידים ואת האפשרות לצאת ממסגרת מפלה. ההגנה על זהות קהילתית נבחנת לצד החובה לא להנציח פגיעה כלכלית בנשים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "renan-barzilay-platform-gender-inequality",
+      "file": "renan-barzilay-platform-gender-inequality.html",
+      "permalink": "/renan-barzilay-platform-gender-inequality.html",
+      "sortKey": 202610120009,
+      "titleHe": "כיצד פלטפורמות עבודה מטפחות אי־שוויון מגדרי",
+      "paperTitle": "The Technologies of Discrimination: How Platforms Cultivate Gender Inequality",
+      "authorsCardHe": "אריאן רנן-ברזילי",
+      "sourceAuthors": [
+        "Arianne Renan Barzilay"
+      ],
+      "journal": "The Law & Ethics of Human Rights 13(2), 179–202",
+      "dateText": "18 בנובמבר 2019",
+      "doiUrl": "https://doi.org/10.1515/lehr-2019-2006",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/renan-barzilay-platform-gender-inequality.jpg",
+        "altHe": "איור של שליחה עם אופניים וטלפון ברחוב עירוני, להמחשת עבודה באמצעות פלטפורמות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "אריאן רנן־ברזילי מציעה לראות בעיצוב הטכנולוגי של פלטפורמות עבודה גם מבנה ארגוני. חיבור בין מחקר על אפליה מבוססת נתונים, אפשרויות הפעולה במערכת ומדיניות ארגונית מסביר כיצד אי־שוויון מגדרי יכול להתמסד. מכאן עולה שהדיון בשוויון צריך לבחון יחד טכנולוגיה, ניהול ואחריות משפטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shayo-harel-nonconsequentialist-voting",
+      "file": "shayo-harel-nonconsequentialist-voting.html",
+      "permalink": "/shayo-harel-nonconsequentialist-voting.html",
+      "sortKey": 202610120008,
+      "titleHe": "להצביע גם כשהקול אינו מכריע: המניע שאינו תלוי בתוצאה",
+      "paperTitle": "Non-consequentialist voting",
+      "authorsCardHe": "משה שעיו, אלון הראל",
+      "sourceAuthors": [
+        "Moses Shayo",
+        "Alon Harel"
+      ],
+      "journal": "Journal of Economic Behavior & Organization 81(1), 299–313",
+      "dateText": "ינואר 2012",
+      "doiUrl": "https://doi.org/10.1016/j.jebo.2011.10.021",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shayo-harel-nonconsequentialist-voting.jpg",
+        "altHe": "איור של אישה ליד תא הצבעה וקלפי, להמחשת הערך האישי של פעולת ההצבעה; סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "משה שעיו ואלון הראל בוחנים בניסוי אם אנשים מייחסים חשיבות לאופן הצבעתם גם כאשר ההצבעה אינה משנה את התוצאה. שינוי חיצוני בסיכוי להיות מכריע חשף דפוס התואם מניעים כאלה אצל לפחות 12.5% מהמשתתפים. הממצא מצביע על גבול להסבר שלפיו כל בחירת הצבעה נובעת רק מהעדפת מועמד או מדיניות שינצחו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "bessell-gal-child-protection-partnerships",
+      "file": "bessell-gal-child-protection-partnerships.html",
+      "permalink": "/bessell-gal-child-protection-partnerships.html",
+      "sortKey": 202610120007,
+      "titleHe": "ילדים כשותפים במערכת ההגנה: זכויות, צרכים ואזרחות בטיפול חוץ־ביתי",
+      "paperTitle": "Forming Partnerships: The Human Rights of Children in Need of Care and Protection",
+      "authorsCardHe": "Sharon Bessell, טלי גל",
+      "sourceAuthors": [
+        "Sharon Bessell",
+        "Tali Gal"
+      ],
+      "journal": "The International Journal of Children’s Rights 17(2), 283–298",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1163/157181808x358258",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bessell-gal-child-protection-partnerships.jpg",
+        "altHe": "איור של ילדה המשמיעה את עמדתה בפגישה עם מבוגרים המקשיבים לה; סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "שרון בסל וטלי גל מציעות לשלב זכויות אדם, צורכי ילדים ואזרחות כבסיס לעיצוב שירותים לילדים בהשמה חוץ־ביתית. לטענתן, אימוץ שפה של זכויות אינו מספיק כאשר הילדים נותרים רק מושא להחלטות של מבוגרים. ההכרה בהם כשותפים מציבה את קולם במרכז הדיון על הגנה, טיפול ותמיכה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "felsenthal-leech-list-machover-voting-power",
+      "file": "felsenthal-leech-list-machover-voting-power.html",
+      "permalink": "/felsenthal-leech-list-machover-voting-power.html",
+      "sortKey": 202610120006,
+      "titleHe": "עוצמת הצבעה: מה כללי ההכרעה מעניקים למצביעים עוד לפני המשא ומתן",
+      "paperTitle": "In Defence of Voting Power Analysis",
+      "authorsCardHe": "דן ס׳ פלזנטל, Dennis Leech, Christian List, משה מחובר",
+      "sourceAuthors": [
+        "Dan S. Felsenthal",
+        "Dennis Leech",
+        "Christian List",
+        "Moshé Machover"
+      ],
+      "journal": "European Union Politics 4(4), 473–497",
+      "dateText": "דצמבר 2003",
+      "doiUrl": "https://doi.org/10.1177/146511650344005",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/felsenthal-leech-list-machover-voting-power.jpg",
+        "altHe": "הצבעה בהרמת ידיים בישיבת אגודת סניפי ויקימדיה בשנת 2012; המחשה של הכרעה קבוצתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "מקבץ התגובות של דן פלזנטל, דניס ליץ׳, כריסטיאן ליסט ומשה מחובר מגן על ניתוח עוצמת הצבעה. בתגובה של פלזנטל ומחובר מובחנת ההשפעה הפורמלית שמקנים כללי ההכרעה מהכוח הנובע מהעדפות וקואליציות בפועל. ההבחנה מאפשרת לבחון שוויון בייצוג ותכנון של מוסדות בלי לבלבל בין משקל הצבעה לבין השפעה פוליטית כוללת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kretzmer-criminal-libel-intent",
+      "file": "kretzmer-criminal-libel-intent.html",
+      "permalink": "/kretzmer-criminal-libel-intent.html",
+      "sortKey": 202610120005,
+      "titleHe": "כוונה לפגוע בלשון הרע פלילית: גבולות הפרשנות השיפוטית",
+      "paperTitle": "Intent in Criminal Libel: Statutory Interpretation or Judicial Imagination?",
+      "authorsCardHe": "דוד קרצמר",
+      "sourceAuthors": [
+        "David Kretzmer"
+      ],
+      "journal": "Israel Law Review 21(3–4), 591–605",
+      "dateText": "1986",
+      "doiUrl": "https://doi.org/10.1017/s0021223700009262",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/kretzmer-criminal-libel-intent.jpg",
+        "altHe": "אולם דיונים בבית המשפט העליון בישראל בשנת 2024; צילום הקשר לדיון בפרשנות שיפוטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "דוד קרצמר בוחן את דרישת הכוונה לפגוע בעבירת לשון הרע, בעקבות פסק הדין בורוכוב נגד יפת. הדיון מבחין בין אחריות אזרחית לבין אחריות פלילית ושואל כיצד על בית המשפט לפרש את התנאי הנוסף שקבע המחוקק. בלב הסוגיה עומד המתח בין הגנה על השם הטוב, חופש הביטוי וגבולות הענישה על פרסום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "mitchell-minority-youth-support-needs",
+      "file": "mitchell-minority-youth-support-needs.html",
+      "permalink": "/mitchell-minority-youth-support-needs.html",
+      "sortKey": 202610120004,
+      "titleHe": "צרכים ללא מענה אצל צעירים להט״בים בסיכון לניצול: הקשר בין תמיכה מקוונת לסיוע מעשי",
+      "paperTitle": "Mapping help needs among sexual and gender minority youth at risk for commercial sexual exploitation: A network analysis.",
+      "authorsCardHe": "Kimberly J. Mitchell, Jennifer E. O'Brien, עטרת גבירץ מידן, Lisa M. Jones, Deirdre Colburn",
+      "sourceAuthors": [
+        "Kimberly J. Mitchell",
+        "Jennifer E. O'Brien",
+        "Ateret Gewirtz-Meydan",
+        "Lisa M. Jones",
+        "Deirdre Colburn"
+      ],
+      "journal": "Psychology of Sexual Orientation and Gender Diversity",
+      "dateText": "25 ביוני 2026 (פרסום מקוון מוקדם)",
+      "doiUrl": "https://doi.org/10.1037/sgd0000944",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mitchell-minority-youth-support-needs.jpg",
+        "altHe": "איור של צעיר עם טלפון בחדר סיוע קהילתי ובו גם מצרכים וציוד שימושי; סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "קימברלי מיטשל ועמיתותיה, ובהן עטרת גבירץ־מידן, בחנו 612 צעירים אמריקאים ממיעוטים מיניים ומגדריים. בקרב מי שסווגו בסיכון לניצול מיני מסחרי נמצאו יותר צרכים בלתי מסופקים בתחומי בריאות, דיור ומזון, לצד קשרים חלשים בין צרכים לבין דפוסי חיפוש תמיכה. המחקר מציע לחשוב על תמיכה מקוונת כחיבור אפשרי לשירותים מעשיים, תוך שמירה על אמון, פרטיות והכרה בזהות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hashoul-kosher-residential-care-wellbeing",
+      "file": "hashoul-kosher-residential-care-wellbeing.html",
+      "permalink": "/hashoul-kosher-residential-care-wellbeing.html",
+      "sortKey": 202610120003,
+      "titleHe": "ילדים ערבים־פלסטינים בפנימיות: רווחה, קשרים וקול בהחלטות היומיום",
+      "paperTitle": "Minority Children in Residential Care: What Do Palestinian-Arab Children Think About Their Well-Being?",
+      "authorsCardHe": "Miraz Hashoul, חניתה קושר",
+      "sourceAuthors": [
+        "Miraz Hashoul",
+        "Hanita Kosher"
+      ],
+      "journal": "Child Indicators Research 19(5), 2327–2351",
+      "dateText": "19 במאי 2026 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1007/s12187-026-10383-6",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hashoul-kosher-residential-care-wellbeing.jpg",
+        "altHe": "איור של ילדים ומדריכה בגינה לצד בית; הדמויות והפעילות דמיוניות ואינן תיעוד של המסגרות שנחקרו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "Miraz Hashoul וחניתה קושר בחנו כיצד 82 ילדים ערבים־פלסטינים בני 9–13 משלוש מסגרות חוץ־ביתיות בצפון ישראל מעריכים את חייהם. לצד הערכה חיובית לקשרים עם אנשי צוות, נמצאה שביעות רצון נמוכה יותר מכללים ומהיכולת להשפיע. המחקר מדגיש שמדידת איכות הטיפול צריכה לכלול את קולם של הילדים ואת חוויית החיים היומיומית במסגרת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kotz-climate-polarization-politicians",
+      "file": "kotz-climate-polarization-politicians.html",
+      "permalink": "/kotz-climate-polarization-politicians.html",
+      "sortKey": 202610120002,
+      "titleHe": "קיטוב סביב שינוי האקלים: הפער האידאולוגי גדול יותר אצל פוליטיקאים",
+      "paperTitle": "Ideological polarization on anthropogenic climate change is stronger among politicians than among citizens across eight countries",
+      "authorsCardHe": "Johannes Kotz, Helge Giese, Christian Breunig, Maj-Britt Sterba, Nathalie Brack, Patrick Dumont, Marija Taflaga, Javier Olivera, ליאור שפר, Annika Werner, Anam Kuraishi, Wolfgang Gaissmaier",
+      "sourceAuthors": [
+        "Johannes Kotz",
+        "Helge Giese",
+        "Christian Breunig",
+        "Maj-Britt Sterba",
+        "Nathalie Brack",
+        "Patrick Dumont",
+        "Marija Taflaga",
+        "Javier Olivera",
+        "Lior Sheffer",
+        "Annika Werner",
+        "Anam Kuraishi",
+        "Wolfgang Gaissmaier"
+      ],
+      "journal": "Communications Sustainability 1, 111",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1038/s44458-026-00113-y",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kotz-climate-polarization-politicians.jpg",
+        "altHe": "דיון באולם הפרלמנט הנורווגי, להמחשת הזירה הפוליטית; התצלום אינו תיעוד של משתתפי המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "מחקר בשמונה דמוקרטיות משווה בין פוליטיקאים לאזרחים בשאלת תרומת האדם לשינוי האקלים. הקשר בין מיקום בשמאל–ימין לבין העמדה בנושא חזק יותר אצל פוליטיקאים, אף שבממוצע הם מקבלים יותר מהאזרחים את ההסבר האנושי להתחממות. הממצאים מעלים שאלה של ייצוג: האם עימות בין מחנות פוליטיים משקף במדויק את מגוון העמדות בציבור?",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "griazina-bamberger-mun-doctoral-access",
+      "file": "griazina-bamberger-mun-doctoral-access.html",
+      "permalink": "/griazina-bamberger-mun-doctoral-access.html",
+      "sortKey": 202610120001,
+      "titleHe": "מי יכול להרשות לעצמו דוקטורט בחו״ל? מגדר, מימון וייצור ידע בבריטניה",
+      "paperTitle": "Classed and gendered internationalisation of research and knowledge production: a critical analysis of international doctoral students in the UK (1998-2016)",
+      "authorsCardHe": "Alexandra Griazina, Annette Bamberger, Olga Mun",
+      "sourceAuthors": [
+        "Alexandra Griazina",
+        "Annette Bamberger",
+        "Olga Mun"
+      ],
+      "journal": "International Studies in Sociology of Education 32(2), 443–465",
+      "dateText": "3 בפברואר 2022 (פרסום מקוון; גיליון 2023)",
+      "doiUrl": "https://doi.org/10.1080/09620214.2021.2008266",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/griazina-bamberger-mun-doctoral-access.jpg",
+        "altHe": "איור של דוקטורנטים בוגרים בסמינר אוניברסיטאי; הדמויות דמיוניות ואינן משתתפות במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-12",
+      "dateModified": "2026-10-12",
+      "summaryHe": "אלכסנדרה גריאזינה, אנט במברגר ואולגה מון מנתחות נתונים על דוקטורנטים בינלאומיים בבריטניה מסוף שנות התשעים עד אמצע העשור השני של המאה ה־21. השתתפות הנשים התרחבה, אך תחומי הלימוד ומקורות המימון נותרו מובחנים, והנתונים עצמם מתקשים לתאר אי־שוויון מעמדי. המחקר מראה מדוע גיוון בארצות המוצא אינו מספיק כדי להבטיח הזדמנות שווה להשתתף בייצור ידע.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "vishkin-gender-equality-relative-advantage",
       "file": "vishkin-gender-equality-relative-advantage.html",
