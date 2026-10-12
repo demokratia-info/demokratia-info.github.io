@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1892,
+  "paperCount": 1902,
   "papers": [
+    {
+      "slug": "doron-cox-spanier-older-rights-index",
+      "file": "doron-cox-spanier-older-rights-index.html",
+      "permalink": "/doron-cox-spanier-older-rights-index.html",
+      "sortKey": 202610130010,
+      "titleHe": "זכויות בזקנה על הנייר ובחיים: השוואת מדד משפטי למדד רווחה",
+      "paperTitle": "Comparing Older Persons’ Human Rights: Exploratory Study of the International Older Persons’ Human Rights Index (IOPHRI)",
+      "authorsCardHe": "ישראל דורון, Carole Cox, בני שפנייר",
+      "sourceAuthors": [
+        "Israel (Issi) Doron",
+        "Carole Cox",
+        "Benny Spanier"
+      ],
+      "journal": "The Gerontologist 59(4), 625-634",
+      "dateText": "2019; פורסם ברשת ב־2018",
+      "doiUrl": "https://doi.org/10.1093/geront/gny080",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/doron-cox-spanier-older-rights-index.jpg",
+        "altHe": "איור של אזרחים ותיקים המשוחחים עם יועץ בעמדת שירות ציבורי, סצנה דמיונית על מימוש זכויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "דורון, קוקס ושפנייר מציעים מדד להשוואת ההגנה המשפטית על זכויות אנשים זקנים ובוחנים אותו בשש מדינות. דירוג ההגנות הפורמליות שונה מדירוג תנאי החיים: דרום אפריקה מובילה במדד המשפטי בתוך הקבוצה שנבדקה, אך מדורגת אחרונה בה במדד AgeWatch. הפער מצביע על הצורך למדוד הן מסגרת זכויות והן מימוש ותוצאות, בלי לראות באחד תחליף לאחר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "khalaile-makladeh-navot-local-turnout",
+      "file": "khalaile-makladeh-navot-local-turnout.html",
+      "permalink": "/khalaile-makladeh-navot-local-turnout.html",
+      "sortKey": 202610130009,
+      "titleHe": "שיעור הצבעה גבוה והכוח החמולתי ברשויות הערביות בישראל",
+      "paperTitle": "Upturning the turnout voting upside down: the case of the Arab local government in Israel",
+      "authorsCardHe": "מוחמד ח׳לאילה, Yousef Makladeh, דורון נבות",
+      "sourceAuthors": [
+        "Muhammed Khalaily",
+        "Yousef Makladeh",
+        "Doron Navot"
+      ],
+      "journal": "Local Government Studies 52(5), 929-950",
+      "dateText": "2026; פורסם ברשת ב־2025",
+      "doiUrl": "https://doi.org/10.1080/03003930.2025.2591601",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/khalaile-makladeh-navot-local-turnout.jpg",
+        "altHe": "איור של קבוצות תושבים משוחחות בכיכר יישוב ערבי לקראת בחירות מקומיות, סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "מחקר על הבחירות לרשויות המקומיות הערביות בישראל מערער על הזיהוי הישיר בין שיעור הצבעה גבוה לבריאות דמוקרטית. לפי ממצאיו, קשרים חמולתיים הם גורם מרכזי בחיזוי ההשתתפות, והזירה המקומית מאפשרת גם שעתוק של מבני כוח מסורתיים. הערכת הדמוקרטיה המקומית מחייבת אפוא לבחון את יחסי הכוח והייצוג לצד מספר המצביעים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "green-shachar-voting-habit",
+      "file": "green-shachar-voting-habit.html",
+      "permalink": "/green-shachar-voting-habit.html",
+      "sortKey": 202610130008,
+      "titleHe": "הצבעה כהרגל: האם השתתפות בבחירות מחזקת השתתפות עתידית?",
+      "paperTitle": "Habit Formation and Political Behaviour: Evidence of Consuetude in Voter Turnout",
+      "authorsCardHe": "Donald P. Green, רון שחר",
+      "sourceAuthors": [
+        "Donald P. Green",
+        "Ron Shachar"
+      ],
+      "journal": "British Journal of Political Science 30(4), 561-573",
+      "dateText": "2000",
+      "doiUrl": "https://doi.org/10.1017/s0007123400000247",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/green-shachar-voting-habit.jpg",
+        "altHe": "חדר הצבעה בבית ספר בשכונת מיכלה בפראג; צילום להמחשת הליך ההצבעה ולא אתר במחקר האמריקאי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "גרין ושחר בוחנים אם עצם ההצבעה משנה את הסיכוי להצביע בעתיד, מעבר להבדלים קבועים בין אזרחים. ניתוחי פאנל ודיון מחדש בניסויי עידוד השתתפות תומכים בקיומו של רכיב הרגלי, אך אינם מבטיחים שהרגל עובר בין כל סוגי הבחירות. הממצא נותן להשתתפות בהווה משמעות אפשרית לטווח ארוך, ומחדד את ההבחנה בין מתאם לבין השפעת הפעולה עצמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schwartz-rubel-lifschitz-gender-values",
+      "file": "schwartz-rubel-lifschitz-gender-values.html",
+      "permalink": "/schwartz-rubel-lifschitz-gender-values.html",
+      "sortKey": 202610130007,
+      "titleHe": "שוויון מגדרי והבדלים בערכים: מדוע פערים אינם תמיד מצטמצמים?",
+      "paperTitle": "Cross-national variation in the size of sex differences in values: Effects of gender equality.",
+      "authorsCardHe": "שלום ה׳ שוורץ, תמי רובל־ליפשיץ",
+      "sourceAuthors": [
+        "Shalom H. Schwartz",
+        "Tammy Rubel-Lifschitz"
+      ],
+      "journal": "Journal of Personality and Social Psychology 97(1), 171-185",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1037/a0015546",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/schwartz-rubel-lifschitz-gender-values.jpg",
+        "altHe": "נשים וגברים בכיכר ירנבנטורגה באוסלו בזמן אירוע מוזיקה; צילום הקשר שאינו מתעד משתתפים במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "שני מחקרים בין־לאומיים מצאו ששוויון מגדרי גבוה יותר קשור להבדלים גדולים יותר בין נשים לגברים בחלק מסדרי העדיפויות הערכיים. התרחבות הפער אינה מחייבת תנועה בכיוונים מנוגדים: שני המינים יכולים להשתנות באותו כיוון ובמידה שונה. שוורץ ורובל־ליפשיץ מבחינים בין שוויון בהזדמנויות לבין זהות בהעדפות, אך הנתונים אינם מוכיחים שההבדלים מולדים או שהשוויון עצמו גרם להם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bielous-meir-strategic-proxy-voting",
+      "file": "bielous-meir-strategic-proxy-voting.html",
+      "permalink": "/bielous-meir-strategic-proxy-voting.html",
+      "sortKey": 202610130006,
+      "titleHe": "הצבעה באמצעות נציגים: מתי אסטרטגיה מקרבת להעדפת הציבור?",
+      "paperTitle": "Strategic Proxy Voting on the Line",
+      "authorsCardHe": "Gili Bielous, רשף מאיר",
+      "sourceAuthors": [
+        "Gili Bielous",
+        "Reshef Meir"
+      ],
+      "journal": "SN Computer Science 6(6), 591",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1007/s42979-025-04084-0",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/bielous-meir-strategic-proxy-voting.jpg",
+        "altHe": "איור של תושבים המעבירים מעטפות לנציגים במפגש קהילתי, סצנה דמיונית על האצלת קולות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "מודל של הצבעה באמצעות נציגים בוחן מה קורה כאשר בוחרים מעבירים את משקל קולם לנציג הקרוב לעמדתם. מחברי המאמר מראים שבתנאים מסוימים שינוי אסטרטגי בעמדות הנציגים מתכנס לחציון של כלל הבוחרים, אך מידע חלקי עלול להרחיק ממנו. הדיוק של שיטת הייצוג תלוי בכללי המשחק ובמידע הזמין למשתתפים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gershkov-weimar-flag-voting",
+      "file": "gershkov-weimar-flag-voting.html",
+      "permalink": "/gershkov-weimar-flag-voting.html",
+      "sortKey": 202610130005,
+      "titleHe": "פשרה בעקבות הצבעה: המאבק על דגל רפובליקת ויימאר",
+      "paperTitle": "Voting on the flag of the Weimar Republic",
+      "authorsCardHe": "אלכס גרשקוב, Andreas Kleiner, Benny Moldovanu, Xianwen Shi",
+      "sourceAuthors": [
+        "Alex Gershkov",
+        "Andreas Kleiner",
+        "Benny Moldovanu",
+        "Xianwen Shi"
+      ],
+      "journal": "European Economic Review 170, 104871",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.1016/j.euroecorev.2024.104871",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gershkov-weimar-flag-voting.jpg",
+        "altHe": "צילום היסטורי של חברי המפלגה הדמוקרטית הגרמנית בארוחה בוויימאר ב־1919, ולא בעת ההצבעה על הדגל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "המאבק על הדגל בגרמניה ב־1919 מדגים כיצד סדר ההצבעות יכול לחשוף מידע ולשנות את התמיכה בפשרה. גרשקוב, קליינר, מולדובנו ושי מפתחים מודל שבו העדפות תלויות גם בעוצמת התמיכה הציבורית הנחשפת בתהליך. הדיון מציג את כללי ההצבעה כמנגנון לעיצוב החלטה משותפת, ומבחין בין הסבר תאורטי לבין הוכחה למניעי המשתתפים ההיסטוריים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "carmon-popper-common-views-bedouin",
+      "file": "carmon-popper-common-views-bedouin.html",
+      "permalink": "/carmon-popper-common-views-bedouin.html",
+      "sortKey": 202610130004,
+      "titleHe": "אמנות, מים ומורשת: שיתוף פעולה עם קהילות בדואיות בנגב",
+      "paperTitle": "Art-Heritage-Environment: Common Views Art Collective Engagement with Bedouin Minority in Israeli Desert Region (2019–2021)",
+      "authorsCardHe": "עירית כרמון פופר",
+      "sourceAuthors": [
+        "Irit Carmon Popper"
+      ],
+      "journal": "Arts 11(6), 128",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.3390/arts11060128",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/carmon-popper-common-views-bedouin.jpg",
+        "altHe": "צילום בור מים עתיק בנגב להמחשת מורשת אגירת מים; זה אינו הבור המתואר במיזם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "עירית כרמון פופר בוחנת כיצד קבוצת האמנות Common Views מחברת פעולה סביבתית, מורשת מקומית ומפגש בין קהילות בנגב. שיקום בור מים, אירועי אמנות ועבודה עם ידע מסורתי יוצרים מרחבים של השתתפות במקום המאופיין באי־שוויון מרחבי. הפעולות מציעות דרכי שיתוף אזרחי, אך אינן מבטלות את הפערים המוסדיים בנגישות למשאבים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "frisch-aviram-minority-health-messages",
+      "file": "frisch-aviram-minority-health-messages.html",
+      "permalink": "/frisch-aviram-minority-health-messages.html",
+      "sortKey": 202610130003,
+      "titleHe": "מסרים למיעוט הערבי בזמן הקורונה: שותפות, אינטרס אישי ואמון",
+      "paperTitle": "Communicating with ethnic minorities during COVID-19: An experimental test of the effect of self-, ingroup-, and intergroup-focused messages",
+      "authorsCardHe": "נעמי פריש־אבירם, סיוואר חסן־אסליח, ערן הלפרין",
+      "sourceAuthors": [
+        "Neomi Frisch-Aviram",
+        "Siwar Hasan-Aslih",
+        "Eran Halperin"
+      ],
+      "journal": "Heliyon 9(6), e16629",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1016/j.heliyon.2023.e16629",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/frisch-aviram-minority-health-messages.jpg",
+        "altHe": "איור של שיחת בריאות קהילתית בחצר עם תושבים ערבים, סצנה דמיונית על אמון והקשבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "שני ניסויים מקוונים בקרב אזרחים ערבים בישראל השוו מסרים המדגישים תועלת אישית, קהילתית או משותפת לערבים וליהודים. מסרים חברתיים הניבו כוונות מניעה גבוהות יותר ממסר אישי, אך לא נמצא יתרון כללי למסרים בכוונות להתחסן. הממצאים מציבים את האמון וההכרה במיעוט במרכז התקשורת הציבורית, בלי לזהות כוונה עם התנהגות בפועל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "perry-hazan-antwerp-educational-freedom",
+      "file": "perry-hazan-antwerp-educational-freedom.html",
+      "permalink": "/perry-hazan-antwerp-educational-freedom.html",
+      "sortKey": 202610130002,
+      "titleHe": "חופש חינוך בין החוקה לכיתה בבתי הספר החרדיים באנטוורפן",
+      "paperTitle": "From the Constitution to the Classroom: Educational Freedom in Antwerp’s Ultra-Orthodox Jewish Schools",
+      "authorsCardHe": "לוטם פרי־חזן",
+      "sourceAuthors": [
+        "Lotem Perry-Hazan"
+      ],
+      "journal": "Journal of School Choice 8(3), 475-502",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1080/15582159.2014.942178",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/perry-hazan-antwerp-educational-freedom.jpg",
+        "altHe": "איור של שתי מורות משוחחות על ספרי לימוד בכיתה באנטוורפן, סצנה דמיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "לוטם פרי־חזן מראה כיצד חופש חינוך חוקתי משתנה כשהוא פוגש פיקוח, תקצוב, הכשרת מורים ונורמות קהילתיות. בבתי הספר החרדיים באנטוורפן, ריבוי מוסדות אינו מבטיח ריבוי אפשרויות ממשיות להורים ולילדים. הגנה על אוטונומיה חינוכית מחייבת בחינה של תנאי מימושה היומיומיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "waismel-manor-election-cortisol",
+      "file": "waismel-manor-election-cortisol.html",
+      "permalink": "/waismel-manor-election-cortisol.html",
+      "sortKey": 202610130001,
+      "titleHe": "המתח בגוף בזמן ההצבעה",
+      "paperTitle": "When endocrinology and democracy collide: Emotions, cortisol and voting at national elections",
+      "authorsCardHe": "Israel Waismel-Manor, Gal Ifergane, חגית כהן",
+      "sourceAuthors": [
+        "Israel Waismel-Manor",
+        "Gal Ifergane",
+        "Hagit Cohen"
+      ],
+      "journal": "European Neuropsychopharmacology 21(11), 789-795",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.1016/j.euroneuro.2011.03.003",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/waismel-manor-election-cortisol.jpg",
+        "altHe": "איור של מצביע מהורהר לצד תא הצבעה באולם ציבורי, סצנה דמיונית הממחישה עוררות רגשית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-13",
+      "dateModified": "2026-10-13",
+      "summaryHe": "מצביעים בישראל הראו עוררות גופנית ורגשית מוגברת. ההצבעה מתגלה גם כחוויה רגשית, אך השפעת המתח על הבחירה נותרה פתוחה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "halperin-kaddari-freeman-marriage-equality",
       "file": "halperin-kaddari-freeman-marriage-equality.html",

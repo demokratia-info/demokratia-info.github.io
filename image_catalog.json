@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-13",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -52419,6 +52419,347 @@
       "sourceDownloadSha256": "d743d0fcfc8e4e48d689dbc2f2e4bf12d80993c423c8fca9bbaeeefa6a5814bf",
       "modifications": "Cropped to 4:3 and resized to 800×600 JPEG.",
       "qualityNotes": "Newly obtained documentary photograph; contextual illustration, not evidence of the paper’s cases or participants."
+    },
+    {
+      "file": "html_qa/waismel-manor-election-cortisol.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "waismel-manor-election-cortisol.html",
+      "usedBy": [
+        "waismel-manor-election-cortisol.html"
+      ],
+      "cardTitleHe": "המתח בגוף בזמן ההצבעה",
+      "authorsHe": "Israel Waismel-Manor, Gal Ifergane, חגית כהן",
+      "visualDescriptionHe": "איור של מצביע מהורהר לצד תא הצבעה באולם ציבורי, סצנה דמיונית הממחישה עוררות רגשית",
+      "semanticDescriptionHe": "מצביעים בישראל הראו עוררות גופנית ורגשית מוגברת. ההצבעה מתגלה גם כחוויה רגשית, אך השפעת המתח על הבחירה נותרה פתוחה.",
+      "tags": [
+        "הצבעה",
+        "קורטיזול",
+        "רגשות",
+        "בחירות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly democracy website editorial image. Paint a warm, detailed, realistic editorial scene of an ordinary adult voter pausing thoughtfully beside a plain wooden voting booth inside a small civic hall, holding one blank folded envelope. Subtle nervous concentration in the face and posture, with two quiet waiting voters at a distance. Theme: the emotional and bodily stress of casting a ballot; do not show medical instruments or imply anyone is ill. Natural anatomy, textured clothing and wood, soft warm side light, deep layered room, muted indigo and ochre, landscape 4:3 suitable for 800x600. Fictional people. No text, letters, numbers, signs, logos, flags, watermarks, UI, diagrams, abstract symbols, or pasted layers.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/perry-hazan-antwerp-educational-freedom.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "perry-hazan-antwerp-educational-freedom.html",
+      "usedBy": [
+        "perry-hazan-antwerp-educational-freedom.html"
+      ],
+      "cardTitleHe": "חופש חינוך בין החוקה לכיתה בבתי הספר החרדיים באנטוורפן",
+      "authorsHe": "לוטם פרי־חזן",
+      "visualDescriptionHe": "איור של שתי מורות משוחחות על ספרי לימוד בכיתה באנטוורפן, סצנה דמיונית",
+      "semanticDescriptionHe": "לוטם פרי־חזן מראה כיצד חופש חינוך חוקתי משתנה כשהוא פוגש פיקוח, תקצוב, הכשרת מורים ונורמות קהילתיות. בבתי הספר החרדיים באנטוורפן, ריבוי מוסדות אינו מבטיח ריבוי אפשרויות ממשיות להורים ולילדים. הגנה על אוטונומיה חינוכית מחייבת בחינה של תנאי מימושה היומיומיים.",
+      "tags": [
+        "חופש חינוך",
+        "בתי ספר חרדיים",
+        "אנטוורפן",
+        "אוטונומיה",
+        "פיקוח חינוכי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly democracy website editorial illustration. Theme: educational freedom in Antwerp's ultra-Orthodox Jewish schools, where public curriculum standards meet a religious school's autonomy. A warm richly textured editorial painting in a late-nineteenth-century Antwerp brick school classroom: two adult women teachers, one wearing a modest dark long-sleeved dress and simple head covering and one in a plain cardigan, thoughtfully compare two open books with blank unlettered pages beside old wooden desks. Empty classroom, tall windows looking onto Belgian brick rooftops, soft overcast daylight, realistic materials and perspective, layered depth. Dignified ordinary fictional people, a plausible imagined scene rather than actual participants or a particular real school. Landscape 4:3 suitable for 800x600. Avoid all text, letters, numbers, charts, signs, logos, flags, watermarks, UI, religious symbols, caricature, flat icons, and pasted layers.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/frisch-aviram-minority-health-messages.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "frisch-aviram-minority-health-messages.html",
+      "usedBy": [
+        "frisch-aviram-minority-health-messages.html"
+      ],
+      "cardTitleHe": "מסרים למיעוט הערבי בזמן הקורונה: שותפות, אינטרס אישי ואמון",
+      "authorsHe": "נעמי פריש־אבירם, סיוואר חסן־אסליח, ערן הלפרין",
+      "visualDescriptionHe": "איור של שיחת בריאות קהילתית בחצר עם תושבים ערבים, סצנה דמיונית על אמון והקשבה",
+      "semanticDescriptionHe": "שני ניסויים מקוונים בקרב אזרחים ערבים בישראל השוו מסרים המדגישים תועלת אישית, קהילתית או משותפת לערבים וליהודים. מסרים חברתיים הניבו כוונות מניעה גבוהות יותר ממסר אישי, אך לא נמצא יתרון כללי למסרים בכוונות להתחסן. הממצאים מציבים את האמון וההכרה במיעוט במרכז התקשורת הציבורית, בלי לזהות כוונה עם התנהגות בפועל.",
+      "tags": [
+        "אמון בממשלה",
+        "המיעוט הערבי",
+        "תקשורת ציבורית",
+        "קורונה",
+        "זהות חברתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly democracy website editorial image. A polished, richly textured painting of a small community health outreach meeting in a Mediterranean civic courtyard: a health worker speaks respectfully with Arab adult residents of different ages seated in a loose semicircle, while a few diverse neighbors listen nearby. Theme: messages addressed to a minority community during a public health crisis, with emphasis on trust and inclusion. Show ordinary contemporary clothing, natural faces and hands, warm stone, a tree, dappled sunlight, quiet thoughtful attention. Not a depiction of actual research participants. Landscape 4:3 suitable for 800x600. No text, letters, numbers, posters, logos, flags, watermarks, visible documents, medical procedures, UI, diagrams, stereotyped costume, flat icons, or pasted layers.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/carmon-popper-common-views-bedouin.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "carmon-popper-common-views-bedouin.html",
+      "usedBy": [
+        "carmon-popper-common-views-bedouin.html"
+      ],
+      "cardTitleHe": "אמנות, מים ומורשת: שיתוף פעולה עם קהילות בדואיות בנגב",
+      "authorsHe": "עירית כרמון פופר",
+      "visualDescriptionHe": "צילום בור מים עתיק בנגב להמחשת מורשת אגירת מים; זה אינו הבור המתואר במיזם",
+      "semanticDescriptionHe": "עירית כרמון פופר בוחנת כיצד קבוצת האמנות Common Views מחברת פעולה סביבתית, מורשת מקומית ומפגש בין קהילות בנגב. שיקום בור מים, אירועי אמנות ועבודה עם ידע מסורתי יוצרים מרחבים של השתתפות במקום המאופיין באי־שוויון מרחבי. הפעולות מציעות דרכי שיתוף אזרחי, אך אינן מבטלות את הפערים המוסדיים בנגישות למשאבים.",
+      "tags": [
+        "אמנות חברתית",
+        "בדואים בנגב",
+        "מים",
+        "מורשת",
+        "השתתפות אזרחית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "dr. avishai teicher User:Avi1111",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Byzantine_Water_Cistern_in_the_Negev,_Israel.jpg",
+      "source": "Wikimedia Commons",
+      "sourceFileName": "Byzantine Water Cistern in the Negev, Israel.jpg",
+      "sourceDownloadSha256": "67ea8295ceecb8f27efe5c202342c46b2acb001172facb5485ee8ed6b926a3b7",
+      "modifications": "Cropped to 4:3 and resized to 800×600 JPEG.",
+      "qualityNotes": "Newly obtained documentary photograph; contextual illustration, not evidence of the paper’s research participants or a specific voting event."
+    },
+    {
+      "file": "html_qa/gershkov-weimar-flag-voting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gershkov-weimar-flag-voting.html",
+      "usedBy": [
+        "gershkov-weimar-flag-voting.html"
+      ],
+      "cardTitleHe": "פשרה בעקבות הצבעה: המאבק על דגל רפובליקת ויימאר",
+      "authorsHe": "אלכס גרשקוב, Andreas Kleiner, Benny Moldovanu, Xianwen Shi",
+      "visualDescriptionHe": "צילום היסטורי של חברי המפלגה הדמוקרטית הגרמנית בארוחה בוויימאר ב־1919, ולא בעת ההצבעה על הדגל",
+      "semanticDescriptionHe": "המאבק על הדגל בגרמניה ב־1919 מדגים כיצד סדר ההצבעות יכול לחשוף מידע ולשנות את התמיכה בפשרה. גרשקוב, קליינר, מולדובנו ושי מפתחים מודל שבו העדפות תלויות גם בעוצמת התמיכה הציבורית הנחשפת בתהליך. הדיון מציג את כללי ההצבעה כמנגנון לעיצוב החלטה משותפת, ומבחין בין הסבר תאורטי לבין הוכחה למניעי המשתתפים ההיסטוריים.",
+      "tags": [
+        "רפובליקת ויימאר",
+        "כללי הצבעה",
+        "פשרה פוליטית",
+        "מידע",
+        "תורת המשחקים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "wahrscheinlich Heinrich Sanden, Martin Gordan, Berliner Illustrations-Gesellschaft (1933 aufgelöst)",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Die_Deutsche_Demokratische_Partei_beim_Mittagsmahl._Nationalversammlung_in_Weimar.jpg",
+      "source": "Wikimedia Commons",
+      "sourceFileName": "Die Deutsche Demokratische Partei beim Mittagsmahl. Nationalversammlung in Weimar.jpg",
+      "sourceDownloadSha256": "6f3f89560a72400e68ad8f4ae0780ca3294823d5667f1f5d27f80a81f520164f",
+      "modifications": "Cropped to 4:3 and resized to 800×600 JPEG.",
+      "qualityNotes": "Newly obtained documentary photograph; contextual illustration, not evidence of the paper’s research participants or a specific voting event.",
+      "sourceCropPixels": [
+        0,
+        0,
+        1280,
+        672
+      ]
+    },
+    {
+      "file": "html_qa/bielous-meir-strategic-proxy-voting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bielous-meir-strategic-proxy-voting.html",
+      "usedBy": [
+        "bielous-meir-strategic-proxy-voting.html"
+      ],
+      "cardTitleHe": "הצבעה באמצעות נציגים: מתי אסטרטגיה מקרבת להעדפת הציבור?",
+      "authorsHe": "Gili Bielous, רשף מאיר",
+      "visualDescriptionHe": "איור של תושבים המעבירים מעטפות לנציגים במפגש קהילתי, סצנה דמיונית על האצלת קולות",
+      "semanticDescriptionHe": "מודל של הצבעה באמצעות נציגים בוחן מה קורה כאשר בוחרים מעבירים את משקל קולם לנציג הקרוב לעמדתם. מחברי המאמר מראים שבתנאים מסוימים שינוי אסטרטגי בעמדות הנציגים מתכנס לחציון של כלל הבוחרים, אך מידע חלקי עלול להרחיק ממנו. הדיוק של שיטת הייצוג תלוי בכללי המשחק ובמידע הזמין למשתתפים.",
+      "tags": [
+        "הצבעת שליחים",
+        "האצלת קולות",
+        "ייצוג",
+        "חציון",
+        "מידע חלקי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial illustration for a scholarly democracy website. Primary request: proxy voting, where people delegate their votes to active representatives. A warm, richly textured painterly civic scene in a modest community meeting room: a small group of diverse ordinary adult residents hand completely blank folded envelopes to two trusted delegates at a long wooden table, while other residents listen and discuss in the background. Emphasize personal trust and representation, natural gestures, believable anatomy, depth, soft window light, muted terracotta and blue-green. Landscape 4:3, composition suitable for an 800x600 crop. Fictional people and room; no suggestion of documenting the paper's experiment. Avoid all text, letters, numbers, signs, logos, watermarks, flags, UI, diagrams, isolated symbols, flat vector shapes, pasted layers. One coherent scene.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/schwartz-rubel-lifschitz-gender-values.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "schwartz-rubel-lifschitz-gender-values.html",
+      "usedBy": [
+        "schwartz-rubel-lifschitz-gender-values.html"
+      ],
+      "cardTitleHe": "שוויון מגדרי והבדלים בערכים: מדוע פערים אינם תמיד מצטמצמים?",
+      "authorsHe": "שלום ה׳ שוורץ, תמי רובל־ליפשיץ",
+      "visualDescriptionHe": "נשים וגברים בכיכר ירנבנטורגה באוסלו בזמן אירוע מוזיקה; צילום הקשר שאינו מתעד משתתפים במחקר",
+      "semanticDescriptionHe": "שני מחקרים בין־לאומיים מצאו ששוויון מגדרי גבוה יותר קשור להבדלים גדולים יותר בין נשים לגברים בחלק מסדרי העדיפויות הערכיים. התרחבות הפער אינה מחייבת תנועה בכיוונים מנוגדים: שני המינים יכולים להשתנות באותו כיוון ובמידה שונה. שוורץ ורובל־ליפשיץ מבחינים בין שוויון בהזדמנויות לבין זהות בהעדפות, אך הנתונים אינם מוכיחים שההבדלים מולדים או שהשוויון עצמו גרם להם.",
+      "tags": [
+        "שוויון מגדרי",
+        "ערכים",
+        "הבדלים בין המינים",
+        "מחקר בין־לאומי",
+        "הזדמנויות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Jorge Franganillo",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oslo_-_Jernbanetorget.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "Wikimedia Commons",
+      "sourceFileName": "Oslo - Jernbanetorget.jpg",
+      "sourceDownloadSha256": "a2341dc233fb7cf71ee52e0c3c95a1fb57a3324a183873fe636d63151a49dea2",
+      "modifications": "Cropped to 4:3 and resized to 800×600 JPEG.",
+      "qualityNotes": "Newly obtained documentary photograph; contextual illustration, not evidence of the paper’s research participants or a specific voting event.",
+      "sourceCropPixels": [
+        225,
+        340,
+        793,
+        766
+      ]
+    },
+    {
+      "file": "html_qa/green-shachar-voting-habit.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "green-shachar-voting-habit.html",
+      "usedBy": [
+        "green-shachar-voting-habit.html"
+      ],
+      "cardTitleHe": "הצבעה כהרגל: האם השתתפות בבחירות מחזקת השתתפות עתידית?",
+      "authorsHe": "Donald P. Green, רון שחר",
+      "visualDescriptionHe": "חדר הצבעה בבית ספר בשכונת מיכלה בפראג; צילום להמחשת הליך ההצבעה ולא אתר במחקר האמריקאי",
+      "semanticDescriptionHe": "גרין ושחר בוחנים אם עצם ההצבעה משנה את הסיכוי להצביע בעתיד, מעבר להבדלים קבועים בין אזרחים. ניתוחי פאנל ודיון מחדש בניסויי עידוד השתתפות תומכים בקיומו של רכיב הרגלי, אך אינם מבטיחים שהרגל עובר בין כל סוגי הבחירות. הממצא נותן להשתתפות בהווה משמעות אפשרית לטווח ארוך, ומחדד את ההבחנה בין מתאם לבין השפעת הפעולה עצמה.",
+      "tags": [
+        "שיעור הצבעה",
+        "הרגלים פוליטיים",
+        "השתתפות",
+        "מחקר פאנל",
+        "עידוד הצבעה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Jiří Sedláček",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Election_room_at_Z%C5%A0_Ohradn%C3%AD_in_Michle,_Prague.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "Wikimedia Commons",
+      "sourceFileName": "Election room at ZŠ Ohradní in Michle, Prague.jpg",
+      "sourceDownloadSha256": "02590ba2d66bd085fb635902f321bff37e542af27752517ed79b516a05a73a44",
+      "modifications": "Cropped to 4:3 and resized to 800×600 JPEG.",
+      "qualityNotes": "Newly obtained documentary photograph; contextual illustration, not evidence of the paper’s research participants or a specific voting event.",
+      "sourceCropPixels": [
+        80,
+        180,
+        1120,
+        960
+      ]
+    },
+    {
+      "file": "html_qa/khalaile-makladeh-navot-local-turnout.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "khalaile-makladeh-navot-local-turnout.html",
+      "usedBy": [
+        "khalaile-makladeh-navot-local-turnout.html"
+      ],
+      "cardTitleHe": "שיעור הצבעה גבוה והכוח החמולתי ברשויות הערביות בישראל",
+      "authorsHe": "מוחמד ח׳לאילה, Yousef Makladeh, דורון נבות",
+      "visualDescriptionHe": "איור של קבוצות תושבים משוחחות בכיכר יישוב ערבי לקראת בחירות מקומיות, סצנה דמיונית",
+      "semanticDescriptionHe": "מחקר על הבחירות לרשויות המקומיות הערביות בישראל מערער על הזיהוי הישיר בין שיעור הצבעה גבוה לבריאות דמוקרטית. לפי ממצאיו, קשרים חמולתיים הם גורם מרכזי בחיזוי ההשתתפות, והזירה המקומית מאפשרת גם שעתוק של מבני כוח מסורתיים. הערכת הדמוקרטיה המקומית מחייבת אפוא לבחון את יחסי הכוח והייצוג לצד מספר המצביעים.",
+      "tags": [
+        "בחירות מקומיות",
+        "החברה הערבית",
+        "חמולות",
+        "שיעור הצבעה",
+        "ייצוג"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial illustration for a scholarly democracy website. Theme: very high voter participation and social networks in Arab local government in Israel. A richly textured contemporary editorial painting showing a small Mediterranean town's public square outside a modest municipal meeting hall: several small groups of ordinary adult Arab residents of varied ages converse quietly before a local election, some warmly greeting relatives, others standing independently. Wide street-level view with limestone walls, olive tree shade, balconies, warm late-afternoon light and visible depth; no crowd confrontation or stereotyped dress. The scene should suggest overlapping community relationships and local civic participation, without depicting coercion, identifying a real clan, or implying actual research participants. Landscape 4:3 suitable for 800x600. No text, letters, numbers, posters, ballots with writing, signs, flags, logos, watermarks, UI, diagrams, isolated symbols, flat vector shapes, or pasted layers.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/doron-cox-spanier-older-rights-index.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "doron-cox-spanier-older-rights-index.html",
+      "usedBy": [
+        "doron-cox-spanier-older-rights-index.html"
+      ],
+      "cardTitleHe": "זכויות בזקנה על הנייר ובחיים: השוואת מדד משפטי למדד רווחה",
+      "authorsHe": "ישראל דורון, Carole Cox, בני שפנייר",
+      "visualDescriptionHe": "איור של אזרחים ותיקים המשוחחים עם יועץ בעמדת שירות ציבורי, סצנה דמיונית על מימוש זכויות",
+      "semanticDescriptionHe": "דורון, קוקס ושפנייר מציעים מדד להשוואת ההגנה המשפטית על זכויות אנשים זקנים ובוחנים אותו בשש מדינות. דירוג ההגנות הפורמליות שונה מדירוג תנאי החיים: דרום אפריקה מובילה במדד המשפטי בתוך הקבוצה שנבדקה, אך מדורגת אחרונה בה במדד AgeWatch. הפער מצביע על הצורך למדוד הן מסגרת זכויות והן מימוש ותוצאות, בלי לראות באחד תחליף לאחר.",
+      "tags": [
+        "זכויות בזקנה",
+        "זכויות אדם",
+        "מדדים",
+        "AgeWatch",
+        "חקיקה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-13",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: scholarly democracy website editorial image. A richly textured warm editorial painting about older people's legal rights and the gap between rights on paper and everyday life. An older woman and older man sit at an accessible public service desk discussing a plain unlettered folder with a respectful younger adviser; another older adult waits near a window with a walking stick. Dignified independent people, believable anatomy, natural gestures, civic room with layered depth, warm wood and sage green, soft morning light. Landscape 4:3 suitable for 800x600. Fictional people, no actual case depicted. Avoid text, letters, numbers, signs, logos, flags, watermarks, charts, icons, scales, UI, flat vector forms, and pasted layers.",
+      "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
     }
   ],
   "topicGraphics": [
