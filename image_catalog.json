@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-13",
+  "lastUpdated": "2026-10-14",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -52760,6 +52760,318 @@
       "source": "OpenAI image generation",
       "generationPrompt": "Use case: illustration-story. Asset type: scholarly democracy website editorial image. A richly textured warm editorial painting about older people's legal rights and the gap between rights on paper and everyday life. An older woman and older man sit at an accessible public service desk discussing a plain unlettered folder with a respectful younger adviser; another older adult waits near a window with a walking stick. Dignified independent people, believable anatomy, natural gestures, civic room with layered depth, warm wood and sage green, soft morning light. Landscape 4:3 suitable for 800x600. Fictional people, no actual case depicted. Avoid text, letters, numbers, signs, logos, flags, watermarks, charts, icons, scales, UI, flat vector forms, and pasted layers.",
       "qualityNotes": "New fictional editorial illustration created specifically for this paper; not documentary evidence of actual participants."
+    },
+    {
+      "file": "html_qa/epstein-collective-secular-conscience.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "epstein-collective-secular-conscience.html",
+      "usedBy": [
+        "epstein-collective-secular-conscience.html"
+      ],
+      "cardTitleHe": "סרבנות מצפונית חילונית וקולקטיבית: בין ציות למדינה לחופש המצפון",
+      "authorsHe": "Alek D. Epstein",
+      "visualDescriptionHe": "איור של קבוצת אזרחים המשוחחת על מצפון ושירות בחדר משותף, סצנה דמיונית",
+      "semanticDescriptionHe": "אפשטיין מערער על ההפרדה החדה בין סירוב מצפוני אישי למחאה פוליטית מאורגנת. ניתוחו ההיסטורי של ישראל מראה כיצד סירוב חילוני וסלקטיבי מאתגר מסגרות הכרה שנבנו סביב פציפיזם ודת. הטענה המרכזית היא שגם המדינה נדרשת להצדיק כפייה הפוגעת באמונה מוסרית עמוקה, ולא רק האזרח נדרש להצדיק את סירובו.",
+      "tags": [
+        "חופש המצפון",
+        "סרבנות מצפונית",
+        "אי־ציות אזרחי",
+        "לגיטימיות",
+        "חברה אזרחית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/nouman-sayegh-badan-community-intrapreneurship.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "nouman-sayegh-badan-community-intrapreneurship.html",
+      "usedBy": [
+        "nouman-sayegh-badan-community-intrapreneurship.html"
+      ],
+      "cardTitleHe": "יוזמה מבפנים בשירותי הרווחה: העצמת קהילות ערביות",
+      "authorsHe": "חני נוימן, Soad Sayegh-Badan",
+      "visualDescriptionHe": "איור של עובדת שירות ותושבות בתכנון פעילות קהילתית בחצר, סצנה דמיונית",
+      "semanticDescriptionHe": "מחקר איכותני בקרב 18 עובדות ועובדים סוציאליים בוחן יוזמות חדשות הנוצרות בתוך ארגוני שירות ציבוריים לקהילות ערביות בישראל. הממצאים קושרים פרקטיקות מותאמות תרבות ומבוססות קהילה להעצמה אישית וקהילתית ולהרחבת המעורבות. שירות ציבורי קשוב נבחן כאן גם ביכולתו לאפשר לתושבים להשתתף בעיצוב המענה.",
+      "tags": [
+        "יזמות פנים־ארגונית",
+        "עבודה סוציאלית",
+        "קהילות ערביות",
+        "העצמה",
+        "שירות ציבורי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/herzog-derrida-democracy-sovereignty.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "herzog-derrida-democracy-sovereignty.html",
+      "usedBy": [
+        "herzog-derrida-democracy-sovereignty.html"
+      ],
+      "cardTitleHe": "דמוקרטיה אצל דרידה: המתח בין הכנסת אורחים לריבונות",
+      "authorsHe": "Annabel Herzog",
+      "visualDescriptionHe": "איור של אישה המקבלת אורחים בסף ביתה, המחשה דמיונית למתח בין הכנסת אורחים לגבולות",
+      "semanticDescriptionHe": "הרצוג קוראת את דרידה דרך המתח בין סמכותה של הקהילה הדמוקרטית לבין מחויבותה לאחר. הכנסת אורחים, עונש מוות והגבול בין החוק לחייתיות משמשים לבחינת סתירות בהכלה, בזכויות ובגלובליזציה. הטענה היא שאתיקה וריבונות גם מגבילות זו את זו וגם משתתפות בכינונה של הדמוקרטיה.",
+      "tags": [
+        "דרידה",
+        "ריבונות",
+        "אתיקה",
+        "הכנסת אורחים",
+        "דמוקרטיה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/ben-david-feitelson-jerusalem-preservation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ben-david-feitelson-jerusalem-preservation.html",
+      "usedBy": [
+        "ben-david-feitelson-jerusalem-preservation.html"
+      ],
+      "cardTitleHe": "ירושלים בין שימור לציפוף: מחלוקות בתוך החברה האזרחית",
+      "authorsHe": "Lidor Ben-David, Eran Feitelson",
+      "visualDescriptionHe": "שטח ירוק בגני צ׳ארלס קלור בירושלים ובניינים ברקע, להמחשת מפגש בין מרחב פתוח לבנייה",
+      "semanticDescriptionHe": "בן־דוד ופייטלסון בוחנים שמונה זירות עימות תכנוני במערב ירושלים ומזהים שינוי בסדרי העדיפויות של החברה האזרחית. ארגוני סביבה ממוסדים מעניקים משקל גובר לשטחים פתוחים בשולי העיר, בעוד פעילי שטח נאבקים על מרקם היסטורי ושטחים פתוחים בתוכה. המחלוקת מראה שהבחירה בציפוף אינה מסיימת את הוויכוח על ערכי העיר ועל ייצוגם.",
+      "tags": [
+        "ירושלים",
+        "שימור עירוני",
+        "שטחים פתוחים",
+        "ציפוף",
+        "חברה אזרחית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SirCharlesCloreHillGardensNov152022_02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SirCharlesCloreHillGardensNov152022_02.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/SirCharlesCloreHillGardensNov152022_02.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/slawotsky-states-security-federalism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "slawotsky-states-security-federalism.html",
+      "usedBy": [
+        "slawotsky-states-security-federalism.html"
+      ],
+      "cardTitleHe": "מדינות ארצות הברית מול סין: ביטחון, פדרליזם וגבולות הסמכות",
+      "authorsHe": "Joel Slawotsky",
+      "visualDescriptionHe": "אולם הסנאט של טקסס, המחשה למוסדות השלטון של מדינות ארצות הברית",
+      "semanticDescriptionHe": "סלאווצקי בוחן צעדים של מדינות בארצות הברית מול איומים נתפסים הקשורים לסין, בתחומי מידע, תשתיות וכלכלה. פעילות זו מחדדת את המתח בין הגנת התושבים לבין סמכויות השלטון הפדרלי ביחסי חוץ ובמסחר. המאמר מציע לבחון מחדש את המסגרת החוקתית תוך הבחנה בין צעדים הגנתיים להתקפיים ובחינת השינוי במושג הביטחון.",
+      "tags": [
+        "פדרליזם",
+        "ביטחון לאומי",
+        "ארצות הברית",
+        "סין",
+        "סמכות חוקתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Farragutful",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2025_Texas_Senate_02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Texas_Senate_02.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/2025_Texas_Senate_02.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/abolafia-elite-accountability-punishment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "abolafia-elite-accountability-punishment.html",
+      "usedBy": [
+        "abolafia-elite-accountability-punishment.html"
+      ],
+      "cardTitleHe": "אחריות האליטות בדמוקרטיה: ענישה, שוויון והליך הוגן",
+      "authorsHe": "Jacob Abolafia",
+      "visualDescriptionHe": "בימת הנואמים בפניקס והאקרופוליס באתונה, המחשה למסורת הדמוקרטית הקלאסית",
+      "semanticDescriptionHe": "אבולעפיה טוען שכשל בהטלת אחריות על אליטות פוליטיות וכלכליות תורם למשבר הלגיטימיות של הדמוקרטיה הליברלית. הוא משווה בין מסורות דמוקרטיות מוקדמות למסגרת הליברלית של שוויון בפני החוק, ומציע לשלב מנגנוני אחריות ציבורית עם ההגנות של הליך הוגן. היעד הוא הגבלת כוחם של בעלי עוצמה בלי לוותר על זכויות היחיד.",
+      "tags": [
+        "אליטות",
+        "אחריות ציבורית",
+        "הליך הוגן",
+        "שוויון בפני החוק",
+        "לגיטימיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "George E. Koronaios",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Acropolis_and_the_Orator%27s_Bema_on_the_Pnyx_on_December_16,_2019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Acropolis_and_the_Orator%27s_Bema_on_the_Pnyx_on_December_16,_2019.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Acropolis_and_the_Orator%27s_Bema_on_the_Pnyx_on_December_16%2C_2019.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/munin-wto-gender-sensitive-trade.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "munin-wto-gender-sensitive-trade.html",
+      "usedBy": [
+        "munin-wto-gender-sensitive-trade.html"
+      ],
+      "cardTitleHe": "כללי סחר ניטרליים ומכשולים לנשים בכלכלה העולמית",
+      "authorsHe": "Nellie Munin",
+      "visualDescriptionHe": "נשים בשוק טקורדי בגאנה, המחשה להשתתפות נשים בפעילות כלכלית",
+      "semanticDescriptionHe": "מונין בוחנת את המתח בין הניטרליות המגדרית המוצהרת של כללי ארגון הסחר העולמי לבין תוצאות שעלולות להעמיק אפליה. המאמר שואל כיצד לגשר בין יחס שווה בנוסח הכללים לבין נגישות ממשית של נשים לסחר בין־לאומי. בכך הוא מחבר שוויון מגדרי לשאלת עיצובם של מוסדות כלכליים גלובליים.",
+      "tags": [
+        "ארגון הסחר העולמי",
+        "מגדר",
+        "סחר בין־לאומי",
+        "שוויון",
+        "רגולציה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "MPIMPIMHENE Nana Gyetuah Eric",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:TRADERS_TAKORADI_MARKET_CIRCLE.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TRADERS_TAKORADI_MARKET_CIRCLE.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/TRADERS_TAKORADI_MARKET_CIRCLE.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/greenwald-implicit-race-vote-2008.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "greenwald-implicit-race-vote-2008.html",
+      "usedBy": [
+        "greenwald-implicit-race-vote-2008.html"
+      ],
+      "cardTitleHe": "עמדות גזעיות סמויות וכוונת ההצבעה בבחירות ארצות הברית ב־2008",
+      "authorsHe": "Anthony G. Greenwald, Colin Tucker Smith, N. Sriram, Yoav Bar-Anan, Brian A. Nosek",
+      "visualDescriptionHe": "איור של משתתף וחוקרת במעבדת מחשבים, סצנה דמיונית להמחשת מדידה עקיפה של עמדות",
+      "semanticDescriptionHe": "מחקר בקרב 1,057 משתתפים לפני הבחירות לנשיאות ארצות הברית ב־2008 מצא קשר בין העדפה ללבנים לבין כוונה להצביע לג׳ון מקיין. מדדים סמויים תרמו מידע מעבר למדדי הדיווח העצמי. המדגם התנדבותי והמחקר מתאמי, ולכן הממצא מסייע להבין את מדידתן של עמדות פוליטיות בלי לקבוע מניע אישי או השפעה סיבתית.",
+      "tags": [
+        "עמדות סמויות",
+        "הטיה גזעית",
+        "כוונת הצבעה",
+        "IAT",
+        "בחירות 2008"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/dekel-jackson-wolinsky-vote-buying.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dekel-jackson-wolinsky-vote-buying.html",
+      "usedBy": [
+        "dekel-jackson-wolinsky-vote-buying.html"
+      ],
+      "cardTitleHe": "קניית קולות והבטחות בחירות: מתי העדפות הבוחרים קובעות",
+      "authorsHe": "אדי דקל, Matthew O. Jackson, Asher Wolinsky",
+      "visualDescriptionHe": "איור של בוחר ושני מתחרים המחזיקים מעטפות ליד אולם הצבעה, המחשה דמיונית לתחרות על קולות",
+      "semanticDescriptionHe": "דקל, ג׳קסון וולינסקי משווים במודל תאורטי בין רכישת קולות בתשלום מראש לבין הבטחות המותנות בניצחון בבחירות. בתנאי המודל, התשלום מראש עשוי להחליש מאוד את השפעת העדפות הבוחרים על זהות המנצח, גם כשהתשלומים קטנים. ההשוואה מראה מדוע פתיחת ההצבעה למסחר אינה מבטיחה תוצאה יעילה או ייצוג מלא של העדפות הציבור.",
+      "tags": [
+        "קניית קולות",
+        "הבטחות בחירות",
+        "תורת המשחקים",
+        "ייצוג פוליטי",
+        "תמריצים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/samet-schmeidler-liberalism-consent.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "samet-schmeidler-liberalism-consent.html",
+      "usedBy": [
+        "samet-schmeidler-liberalism-consent.html"
+      ],
+      "cardTitleHe": "בין החלטת הרוב להגדרה עצמית: כללי הסכמה לזכויות אישיות",
+      "authorsHe": "Dov Samet, David Schmeidler",
+      "visualDescriptionHe": "איור של אישה הבוחרת ספר בספרייה לצד קוראים אחרים, המחשה דמיונית לבחירה אישית",
+      "semanticDescriptionHe": "סמט ושמיידלר מפתחים מודל של כללי הסכמה הקובעים מי זכאי לזכות או לכשירות מסוימת. המשפחה כוללת הכרעה אישית, דרגות שונות של הסכמה חברתית והכרעת רוב. הניתוח מבהיר אילו הנחות מעניקות לפרט שליטה בעניינו, וכיצד תפיסות מסוימות של הגדרה עצמית מובילות לכלל הליברלי.",
+      "tags": [
+        "ליברליזם",
+        "הגדרה עצמית",
+        "כללי הסכמה",
+        "הכרעת רוב",
+        "בחירה חברתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-14",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
     }
   ],
   "topicGraphics": [
