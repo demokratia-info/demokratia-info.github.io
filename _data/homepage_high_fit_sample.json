@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-15",
   "sampleSize": 6,
-  "seed": "2026-10-14-homepage-high-fit",
+  "seed": "2026-10-15-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
   "fullTextHighFitPaperCount": 1002,
   "paperSlugs": [
     "democracy_seeds_for_democracy_ethical_learning_educational_dialogues_summary_he",
     "democracy_taiping_rebellion_property_rights_fiscal_social_capacity_summary_he",
-    "democracy_liberal_democracy_resource_curse_israel_gas_summary_he",
-    "democracy_politicians_projection_public_opinion_summary_he",
+    "democracy_global_governance_new_technology_democracy_summary_he",
+    "democracy_corruption_crime_nexus_governance_summary_he",
     "democracy_india_democracy_before_discontent_summary_he",
     "democracy_migrant_language_minority_sociopolitical_participation_summary_he"
   ]

@@ -1,8 +1,295 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1912,
+  "paperCount": 1922,
   "papers": [
+    {
+      "slug": "levenson-avatar-citizenship",
+      "file": "levenson-avatar-citizenship.html",
+      "permalink": "/levenson-avatar-citizenship.html",
+      "sortKey": 202610150010,
+      "titleHe": "אזרחות אווטאר: שייכות צעירה בבית הספר הארמני בירושלים",
+      "paperTitle": "Avatar citizenship: subjectivity formation of ethnoreligious minority youth in Jerusalem’s Armenian School",
+      "authorsCardHe": "Lance Levenson",
+      "sourceAuthors": [
+        "Lance Levenson"
+      ],
+      "journal": "Discourse: Studies in the Cultural Politics of Education 47(3), 393–404",
+      "dateText": "מאי 2026",
+      "doiUrl": "https://doi.org/10.1080/01596306.2026.2669389",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/levenson-avatar-citizenship.jpg",
+        "altHe": "רחוב סנט ג׳יימס ברובע הארמני בירושלים, המחשה לסביבה העירונית של המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "לוינסון בוחן כיצד בית הספר הארמני בירושלים יוצר מרחב לשייכות מעבר לגבולות עבור צעירים מקבוצות מיעוט. נרטיבים של תפוצה וחינוך בין־לאומי מאפשרים לדמיין זהויות וזיקות נוספות, לצד מגבלות החיים בעיר. מושג אזרחות האווטאר מדגיש שייכות מרובה שאינה שקולה להבטחת מעמד וזכויות בעולם שמחוץ לבית הספר.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "harpaz-diaspora-insurance-refuge",
+      "file": "harpaz-diaspora-insurance-refuge.html",
+      "permalink": "/harpaz-diaspora-insurance-refuge.html",
+      "sortKey": 202610150009,
+      "titleHe": "אזרחות תפוצות בעת משבר: ביטוח לעתיד או מקלט ממוקד",
+      "paperTitle": "Between insurance and refuge: minority precarity and diaspora citizenship in France and Argentina",
+      "authorsCardHe": "יוסי הרפז",
+      "sourceAuthors": [
+        "Yossi Harpaz"
+      ],
+      "journal": "Third World Quarterly, 1–20",
+      "dateText": "יוני 2026",
+      "doiUrl": "https://doi.org/10.1080/01436597.2026.2676276",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/harpaz-diaspora-insurance-refuge.jpg",
+        "altHe": "חזית בית הכנסת הגדול בפריז, המחשה להקשר החיים היהודיים בצרפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "הרפז משווה הגירה יהודית מארגנטינה ומצרפת לישראל בעקבות משברים שונים. כאשר הסיכון פוגע בחברה כולה, אפשרות לאזרחות ולהגירה יכולה לשמש ביטוח; כאשר הוא מכוון למיעוט ומבודד אותו, היא נוטה לקבל משמעות של מקלט. ההבחנה קושרת זכויות מעבר לגבול לתחושת הביטחון והשייכות במדינת המגורים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hadoba-frieh-political-awareness",
+      "file": "hadoba-frieh-political-awareness.html",
+      "permalink": "/hadoba-frieh-political-awareness.html",
+      "sortKey": 202610150008,
+      "titleHe": "התהוות מודעות פוליטית בקרב המיעוט הפלסטיני בישראל",
+      "paperTitle": "Political Awareness at the Edge of the State: The Palestinian Minority in Israel",
+      "authorsCardHe": "מרוות אבו הדובה־פריח",
+      "sourceAuthors": [
+        "Mirvat Hadoba-Frieh"
+      ],
+      "journal": "Ethnopolitics, 1–19",
+      "dateText": "יולי 2026",
+      "doiUrl": "https://doi.org/10.1080/17449057.2026.2707839",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/hadoba-frieh-political-awareness.jpg",
+        "altHe": "איור דמיוני של שיחה בין־דורית בחצר ביישוב ערבי, להמחשת חיברות ורכישת ידע פוליטי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "הדובה־פריח בוחנת כיצד בני המיעוט הפלסטיני בישראל רוכשים ידע ומפתחים מודעות פוליטית. הניתוח קושר בין חיברות, חינוך ואירועים טראומטיים, תוך הבחנה בין הבנת המציאות לבין פעולה לשינויה. זווית זו מבהירה מדוע מודלים המתמקדים באוכלוסיית הרוב אינם מתארים בהכרח את דרכם של מיעוטים להגן על זכויותיהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shalev-greenman-lavee-informal-gender",
+      "file": "shalev-greenman-lavee-informal-gender.html",
+      "permalink": "/shalev-greenman-lavee-informal-gender.html",
+      "sortKey": 202610150007,
+      "titleHe": "סיוע אישי בשירות הציבורי ושעתוק אי־שוויון מגדרי",
+      "paperTitle": "Gender inequality at the street level explained: redoing gender through informal practices",
+      "authorsCardHe": "Ofri Shalev Greenman, עינת לביא",
+      "sourceAuthors": [
+        "Ofri Shalev Greenman",
+        "Einat Lavee"
+      ],
+      "journal": "Public Management Review, 1–29",
+      "dateText": "אוגוסט 2026",
+      "doiUrl": "https://doi.org/10.1080/14719037.2026.2723226",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shalev-greenman-lavee-informal-gender.jpg",
+        "altHe": "איור דמיוני של עובדת בשירות חברתי המעניקה עזרה אישית לפונה במשרד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "שלו גרינמן ולביא בוחנות כיצד שימוש במשאבים אישיים של עובדים סוציאליים קשור לאי־שוויון מגדרי בתוך השירות. נשים וגברים מעניקים סיוע בלתי פורמלי, אך נראות העזרה והגבולות בין האישי למקצועי משתנים. המחקר מראה ששיקול דעת מיטיב כלפי מקבלי השירות עשוי להתקיים לצד שעתוק היררכיות בין נותניו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "singh-gender-mobility-tel-aviv",
+      "file": "singh-gender-mobility-tel-aviv.html",
+      "permalink": "/singh-gender-mobility-tel-aviv.html",
+      "sortKey": 202610150006,
+      "titleHe": "פערי מגדר בניידות ובפנאי במטרופולין תל אביב",
+      "paperTitle": "Gender disparities in travel behaviour and leisure: A Tel-Aviv metropolis time-use study",
+      "authorsCardHe": "Ramandeep Singh, Hannah Hook, וופא אליאס, Constantinos Antoniou",
+      "sourceAuthors": [
+        "Ramandeep Singh",
+        "Hannah Hook",
+        "Wafa Elias",
+        "Constantinos Antoniou"
+      ],
+      "journal": "Journal of Transport Geography 134, 104646",
+      "dateText": "יוני 2026",
+      "doiUrl": "https://doi.org/10.1016/j.jtrangeo.2026.104646",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/singh-gender-mobility-tel-aviv.jpg",
+        "altHe": "שביל אופניים ומרחב הליכה בשדרות רוטשילד בתל אביב, המחשה לניידות עירונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "סינג ועמיתיה מנתחים דפוסי נסיעה ושימוש בזמן במטרופולין תל אביב. נשים משלבות יותר משימות בנסיעותיהן אך מבלות פחות זמן מחוץ לבית, והפערים מצטלבים עם אחריות טיפולית והשתייכות קהילתית. הממצאים מצביעים על חשיבותו של תכנון תחבורה המתחשב באפשרות המעשית להגיע לעבודה, לפנאי ולמרחב הציבורי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cavari-freedman-survey-nonresponse",
+      "file": "cavari-freedman-survey-nonresponse.html",
+      "permalink": "/cavari-freedman-survey-nonresponse.html",
+      "sortKey": 202610150005,
+      "titleHe": "מי אינו עונה לסקר: ההטיה במדידת קיטוב פוליטי",
+      "paperTitle": "Survey Nonresponse and Mass Polarization: The Consequences of Declining Contact and Cooperation Rates",
+      "authorsCardHe": "אמנון כוורי, גיא פרידמן",
+      "sourceAuthors": [
+        "Amnon Cavari",
+        "Guy Freedman"
+      ],
+      "journal": "American Political Science Review 117(1), 332–339",
+      "dateText": "פברואר 2023; פורסם ברשת במאי 2022",
+      "doiUrl": "https://doi.org/10.1017/s0003055422000399",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/cavari-freedman-survey-nonresponse.jpg",
+        "altHe": "איור דמיוני של מראיין בסקר טלפוני ואנשים הממשיכים בשגרת יומם, להמחשת אי־מענה לסקרים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "כוורי ופרידמן מראים כי ירידה בנכונות להשתתף בסקרים יכולה לשנות את אומדני הקיטוב בין מפלגות. ניתוח סקרי Pew מבחין בין הצלחה ליצור קשר לבין הסכמה להשיב, ומוצא שההטיה תלויה בתחום המדיניות. קיטוב נמדד עשוי לגדול או להצטמצם בשל הרכב המשיבים, ולכן שיעור ההיענות דורש בחינה לצד תוכן השאלות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bashir-historical-injustice-deliberation",
+      "file": "bashir-historical-injustice-deliberation.html",
+      "permalink": "/bashir-historical-injustice-deliberation.html",
+      "sortKey": 202610150004,
+      "titleHe": "עוולות היסטוריות ודיון דמוקרטי: הכרה, תיקון ופיוס",
+      "paperTitle": "Reconciling Historical Injustices: Deliberative Democracy and the Politics of Reconciliation",
+      "authorsCardHe": "בשיר בשיר",
+      "sourceAuthors": [
+        "Bashir Bashir"
+      ],
+      "journal": "Res Publica 18(2), 127–143",
+      "dateText": "מאי 2012; פורסם ברשת ביולי 2011",
+      "doiUrl": "https://doi.org/10.1007/s11158-011-9163-1",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bashir-historical-injustice-deliberation.jpg",
+        "altHe": "איור דמיוני של מפגש בין־דורי סביב תצלומים משפחתיים, להמחשת הקשבה והכרה בעוולות עבר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "בשיר בשיר טוען כי דמוקרטיה דיונית צריכה להתמודד עם עוולות היסטוריות הממשיכות לעצב יחסי כוח וזהויות. הכרה, אחריות ותיקון יכולים ליצור תנאים להשתתפות שוויונית בדיון ציבורי, גם בדמוקרטיות ותיקות. פיוס ודיון משלימים זה את זה, אך אינם מבטלים מחלוקת, פשרה ומאבק פוליטי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kristal-yaish-pandemic-gender",
+      "file": "kristal-yaish-pandemic-gender.html",
+      "permalink": "/kristal-yaish-pandemic-gender.html",
+      "sortKey": 202610150003,
+      "titleHe": "פערי מגדר בעבודה ובהכנסה בסגר הראשון בישראל",
+      "paperTitle": "Does the coronavirus pandemic level the gender inequality curve? (It doesn’t)",
+      "authorsCardHe": "טלי קריסטל, מאיר יעיש",
+      "sourceAuthors": [
+        "Tali Kristal",
+        "Meir Yaish"
+      ],
+      "journal": "Research in Social Stratification and Mobility 68, 100520",
+      "dateText": "אוגוסט 2020; פורסם ברשת במאי 2020",
+      "doiUrl": "https://doi.org/10.1016/j.rssm.2020.100520",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kristal-yaish-pandemic-gender.jpg",
+        "altHe": "איור דמיוני של אישה ליד מחשב סגור ומסכה בבית, להמחשת הפגיעה בעבודה בתקופת הסגר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "קריסטל ויעיש מוצאים שהפגיעה התעסוקתית בתחילת משבר הקורונה הייתה קשה יותר לנשים במדגם של שכירים יהודים בישראל. אובדן עבודה, צמצום שעות וירידה בהכנסה אינם משתקפים במלואם בפער השכר של מי שנשארו מועסקים. המחקר מדגיש כיצד משבר יכול להעמיק אי־שוויון גם כשמדד השכר הרגיל כמעט אינו משתנה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "docquier-emigration-democracy",
+      "file": "docquier-emigration-democracy.html",
+      "permalink": "/docquier-emigration-democracy.html",
+      "sortKey": 202610150002,
+      "titleHe": "הגירה החוצה וזכויות במדינת המוצא: הקשר לדמוקרטיה במדינות היעד",
+      "paperTitle": "Emigration and democracy",
+      "authorsCardHe": "Frédéric Docquier, Elisabetta Lodigiani, Hillel Rapoport, Maurice Schiff",
+      "sourceAuthors": [
+        "Frédéric Docquier",
+        "Elisabetta Lodigiani",
+        "Hillel Rapoport",
+        "Maurice Schiff"
+      ],
+      "journal": "Journal of Development Economics 120, 209–223",
+      "dateText": "מאי 2016",
+      "doiUrl": "https://doi.org/10.1016/j.jdeveco.2015.12.001",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/docquier-emigration-democracy.jpg",
+        "altHe": "נוסעים באולם המתנה בנמל התעופה קואלה נאמו באינדונזיה, המחשה כללית לניידות בין מדינות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "דוקייה ועמיתיו בוחנים אם הגירה ממדינות מתפתחות למדינות דמוקרטיות עשירות קשורה לשיפור בזכויות ובחירויות במדינות המוצא. הניתוח מוצא קשר חיובי הנשמר במגוון בדיקות, אך התוצאות משתנות בין מדדי זכויות למדדי משטר פורמליים. יעד ההגירה חשוב להבנת ההשפעה הפוליטית האפשרית של קשרים חוצי גבולות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "brender-drazen-election-budgets",
+      "file": "brender-drazen-election-budgets.html",
+      "permalink": "/brender-drazen-election-budgets.html",
+      "sortKey": 202610150001,
+      "titleHe": "גירעון בשנת בחירות: ההבדל בין דמוקרטיות חדשות לוותיקות",
+      "paperTitle": "Political budget cycles in new versus established democracies",
+      "authorsCardHe": "עדי ברנדר, אלן דרייזן",
+      "sourceAuthors": [
+        "Adi Brender",
+        "Allan Drazen"
+      ],
+      "journal": "Journal of Monetary Economics 52(7), 1271–1295",
+      "dateText": "אוקטובר 2005",
+      "doiUrl": "https://doi.org/10.1016/j.jmoneco.2005.04.004",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/brender-drazen-election-budgets.jpg",
+        "altHe": "איור דמיוני של עובדי תקציב במשרד ציבורי ועבודות תשתית בחוץ, להמחשת החלטות הוצאה סביב בחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-15",
+      "dateModified": "2026-10-15",
+      "summaryHe": "ברנדר ודרייזן מוצאים שהגידול הממוצע בגירעון בשנת בחירות במדגם הבין־לאומי נובע בעיקר מדמוקרטיות חדשות. כאשר מוציאים אותן מן המדגם, המחזור התקציבי הכולל נעלם. הממצא קושר את הפיקוח האזרחי על התקציב לניסיון דמוקרטי, ומחייב להבחין בין תמרון סך ההוצאה לבין שינוי בהרכבה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "samet-schmeidler-liberalism-consent",
       "file": "samet-schmeidler-liberalism-consent.html",

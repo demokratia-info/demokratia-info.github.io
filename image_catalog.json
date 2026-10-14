@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-15",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -53072,6 +53072,318 @@
       "license": "AI-generated image",
       "source": "OpenAI image generation",
       "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/brender-drazen-election-budgets.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "brender-drazen-election-budgets.html",
+      "usedBy": [
+        "brender-drazen-election-budgets.html"
+      ],
+      "cardTitleHe": "גירעון בשנת בחירות: ההבדל בין דמוקרטיות חדשות לוותיקות",
+      "authorsHe": "עדי ברנדר, אלן דרייזן",
+      "visualDescriptionHe": "איור דמיוני של עובדי תקציב במשרד ציבורי ועבודות תשתית בחוץ, להמחשת החלטות הוצאה סביב בחירות",
+      "semanticDescriptionHe": "ברנדר ודרייזן מוצאים שהגידול הממוצע בגירעון בשנת בחירות במדגם הבין־לאומי נובע בעיקר מדמוקרטיות חדשות. כאשר מוציאים אותן מן המדגם, המחזור התקציבי הכולל נעלם. הממצא קושר את הפיקוח האזרחי על התקציב לניסיון דמוקרטי, ומחייב להבחין בין תמרון סך ההוצאה לבין שינוי בהרכבה.",
+      "tags": [
+        "בחירות",
+        "גירעון תקציבי",
+        "דמוקרטיות חדשות",
+        "אחריותיות",
+        "כלכלה פוליטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/docquier-emigration-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "docquier-emigration-democracy.html",
+      "usedBy": [
+        "docquier-emigration-democracy.html"
+      ],
+      "cardTitleHe": "הגירה החוצה וזכויות במדינת המוצא: הקשר לדמוקרטיה במדינות היעד",
+      "authorsHe": "Frédéric Docquier, Elisabetta Lodigiani, Hillel Rapoport, Maurice Schiff",
+      "visualDescriptionHe": "נוסעים באולם המתנה בנמל התעופה קואלה נאמו באינדונזיה, המחשה כללית לניידות בין מדינות",
+      "semanticDescriptionHe": "דוקייה ועמיתיו בוחנים אם הגירה ממדינות מתפתחות למדינות דמוקרטיות עשירות קשורה לשיפור בזכויות ובחירויות במדינות המוצא. הניתוח מוצא קשר חיובי הנשמר במגוון בדיקות, אך התוצאות משתנות בין מדדי זכויות למדדי משטר פורמליים. יעד ההגירה חשוב להבנת ההשפעה הפוליטית האפשרית של קשרים חוצי גבולות.",
+      "tags": [
+        "הגירה",
+        "דמוקרטיזציה",
+        "זכויות פוליטיות",
+        "חירויות אזרחיות",
+        "מדינות מוצא"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Kenrick95",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kuala_Namu_International_Airport_Waiting_Room_Interior.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Namu_International_Airport_Waiting_Room_Interior.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuala_Namu_International_Airport_Waiting_Room_Interior.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
+    },
+    {
+      "file": "html_qa/kristal-yaish-pandemic-gender.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kristal-yaish-pandemic-gender.html",
+      "usedBy": [
+        "kristal-yaish-pandemic-gender.html"
+      ],
+      "cardTitleHe": "פערי מגדר בעבודה ובהכנסה בסגר הראשון בישראל",
+      "authorsHe": "טלי קריסטל, מאיר יעיש",
+      "visualDescriptionHe": "איור דמיוני של אישה ליד מחשב סגור ומסכה בבית, להמחשת הפגיעה בעבודה בתקופת הסגר",
+      "semanticDescriptionHe": "קריסטל ויעיש מוצאים שהפגיעה התעסוקתית בתחילת משבר הקורונה הייתה קשה יותר לנשים במדגם של שכירים יהודים בישראל. אובדן עבודה, צמצום שעות וירידה בהכנסה אינם משתקפים במלואם בפער השכר של מי שנשארו מועסקים. המחקר מדגיש כיצד משבר יכול להעמיק אי־שוויון גם כשמדד השכר הרגיל כמעט אינו משתנה.",
+      "tags": [
+        "אי־שוויון מגדרי",
+        "תעסוקה",
+        "הכנסה",
+        "קורונה",
+        "שכירים בישראל"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/bashir-historical-injustice-deliberation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bashir-historical-injustice-deliberation.html",
+      "usedBy": [
+        "bashir-historical-injustice-deliberation.html"
+      ],
+      "cardTitleHe": "עוולות היסטוריות ודיון דמוקרטי: הכרה, תיקון ופיוס",
+      "authorsHe": "בשיר בשיר",
+      "visualDescriptionHe": "איור דמיוני של מפגש בין־דורי סביב תצלומים משפחתיים, להמחשת הקשבה והכרה בעוולות עבר",
+      "semanticDescriptionHe": "בשיר בשיר טוען כי דמוקרטיה דיונית צריכה להתמודד עם עוולות היסטוריות הממשיכות לעצב יחסי כוח וזהויות. הכרה, אחריות ותיקון יכולים ליצור תנאים להשתתפות שוויונית בדיון ציבורי, גם בדמוקרטיות ותיקות. פיוס ודיון משלימים זה את זה, אך אינם מבטלים מחלוקת, פשרה ומאבק פוליטי.",
+      "tags": [
+        "דמוקרטיה דיונית",
+        "עוולות היסטוריות",
+        "פיוס",
+        "הכרה",
+        "הדרה קבוצתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/cavari-freedman-survey-nonresponse.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cavari-freedman-survey-nonresponse.html",
+      "usedBy": [
+        "cavari-freedman-survey-nonresponse.html"
+      ],
+      "cardTitleHe": "מי אינו עונה לסקר: ההטיה במדידת קיטוב פוליטי",
+      "authorsHe": "אמנון כוורי, גיא פרידמן",
+      "visualDescriptionHe": "איור דמיוני של מראיין בסקר טלפוני ואנשים הממשיכים בשגרת יומם, להמחשת אי־מענה לסקרים",
+      "semanticDescriptionHe": "כוורי ופרידמן מראים כי ירידה בנכונות להשתתף בסקרים יכולה לשנות את אומדני הקיטוב בין מפלגות. ניתוח סקרי Pew מבחין בין הצלחה ליצור קשר לבין הסכמה להשיב, ומוצא שההטיה תלויה בתחום המדיניות. קיטוב נמדד עשוי לגדול או להצטמצם בשל הרכב המשיבים, ולכן שיעור ההיענות דורש בחינה לצד תוכן השאלות.",
+      "tags": [
+        "סקרי דעת קהל",
+        "אי־מענה",
+        "קיטוב",
+        "הטיית מדגם",
+        "השתתפות פוליטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/singh-gender-mobility-tel-aviv.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "singh-gender-mobility-tel-aviv.html",
+      "usedBy": [
+        "singh-gender-mobility-tel-aviv.html"
+      ],
+      "cardTitleHe": "פערי מגדר בניידות ובפנאי במטרופולין תל אביב",
+      "authorsHe": "Ramandeep Singh, Hannah Hook, וופא אליאס, Constantinos Antoniou",
+      "visualDescriptionHe": "שביל אופניים ומרחב הליכה בשדרות רוטשילד בתל אביב, המחשה לניידות עירונית",
+      "semanticDescriptionHe": "סינג ועמיתיה מנתחים דפוסי נסיעה ושימוש בזמן במטרופולין תל אביב. נשים משלבות יותר משימות בנסיעותיהן אך מבלות פחות זמן מחוץ לבית, והפערים מצטלבים עם אחריות טיפולית והשתייכות קהילתית. הממצאים מצביעים על חשיבותו של תכנון תחבורה המתחשב באפשרות המעשית להגיע לעבודה, לפנאי ולמרחב הציבורי.",
+      "tags": [
+        "ניידות",
+        "שוויון מגדרי",
+        "שימוש בזמן",
+        "מטרופולין תל אביב",
+        "תכנון תחבורה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Homerethegreat",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cycling_Tel_Aviv_Rothschild_Boulevard.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Cycling_Tel_Aviv_Rothschild_Boulevard.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cycling_Tel_Aviv_Rothschild_Boulevard.png",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY 4.0."
+    },
+    {
+      "file": "html_qa/shalev-greenman-lavee-informal-gender.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shalev-greenman-lavee-informal-gender.html",
+      "usedBy": [
+        "shalev-greenman-lavee-informal-gender.html"
+      ],
+      "cardTitleHe": "סיוע אישי בשירות הציבורי ושעתוק אי־שוויון מגדרי",
+      "authorsHe": "Ofri Shalev Greenman, עינת לביא",
+      "visualDescriptionHe": "איור דמיוני של עובדת בשירות חברתי המעניקה עזרה אישית לפונה במשרד",
+      "semanticDescriptionHe": "שלו גרינמן ולביא בוחנות כיצד שימוש במשאבים אישיים של עובדים סוציאליים קשור לאי־שוויון מגדרי בתוך השירות. נשים וגברים מעניקים סיוע בלתי פורמלי, אך נראות העזרה והגבולות בין האישי למקצועי משתנים. המחקר מראה ששיקול דעת מיטיב כלפי מקבלי השירות עשוי להתקיים לצד שעתוק היררכיות בין נותניו.",
+      "tags": [
+        "עבודה סוציאלית",
+        "שיקול דעת",
+        "משאבים אישיים",
+        "אי־שוויון מגדרי",
+        "שירות ציבורי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/hadoba-frieh-political-awareness.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hadoba-frieh-political-awareness.html",
+      "usedBy": [
+        "hadoba-frieh-political-awareness.html"
+      ],
+      "cardTitleHe": "התהוות מודעות פוליטית בקרב המיעוט הפלסטיני בישראל",
+      "authorsHe": "מרוות אבו הדובה־פריח",
+      "visualDescriptionHe": "איור דמיוני של שיחה בין־דורית בחצר ביישוב ערבי, להמחשת חיברות ורכישת ידע פוליטי",
+      "semanticDescriptionHe": "הדובה־פריח בוחנת כיצד בני המיעוט הפלסטיני בישראל רוכשים ידע ומפתחים מודעות פוליטית. הניתוח קושר בין חיברות, חינוך ואירועים טראומטיים, תוך הבחנה בין הבנת המציאות לבין פעולה לשינויה. זווית זו מבהירה מדוע מודלים המתמקדים באוכלוסיית הרוב אינם מתארים בהכרח את דרכם של מיעוטים להגן על זכויותיהם.",
+      "tags": [
+        "מודעות פוליטית",
+        "המיעוט הפלסטיני בישראל",
+        "חיברות פוליטי",
+        "חינוך",
+        "זכויות מיעוטים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/harpaz-diaspora-insurance-refuge.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "harpaz-diaspora-insurance-refuge.html",
+      "usedBy": [
+        "harpaz-diaspora-insurance-refuge.html"
+      ],
+      "cardTitleHe": "אזרחות תפוצות בעת משבר: ביטוח לעתיד או מקלט ממוקד",
+      "authorsHe": "יוסי הרפז",
+      "visualDescriptionHe": "חזית בית הכנסת הגדול בפריז, המחשה להקשר החיים היהודיים בצרפת",
+      "semanticDescriptionHe": "הרפז משווה הגירה יהודית מארגנטינה ומצרפת לישראל בעקבות משברים שונים. כאשר הסיכון פוגע בחברה כולה, אפשרות לאזרחות ולהגירה יכולה לשמש ביטוח; כאשר הוא מכוון למיעוט ומבודד אותו, היא נוטה לקבל משמעות של מקלט. ההבחנה קושרת זכויות מעבר לגבול לתחושת הביטחון והשייכות במדינת המגורים.",
+      "tags": [
+        "אזרחות תפוצות",
+        "הגירה",
+        "מיעוטים",
+        "חוסר ביטחון",
+        "ארגנטינה וצרפת"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Luiza Fediuc",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PA00089001_-_Synagogue_de_Paris_%28fa%C3%A7ade_principale%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:PA00089001_-_Synagogue_de_Paris_%28fa%C3%A7ade_principale%29.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/PA00089001_-_Synagogue_de_Paris_%28fa%C3%A7ade_principale%29.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
+    },
+    {
+      "file": "html_qa/levenson-avatar-citizenship.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "levenson-avatar-citizenship.html",
+      "usedBy": [
+        "levenson-avatar-citizenship.html"
+      ],
+      "cardTitleHe": "אזרחות אווטאר: שייכות צעירה בבית הספר הארמני בירושלים",
+      "authorsHe": "Lance Levenson",
+      "visualDescriptionHe": "רחוב סנט ג׳יימס ברובע הארמני בירושלים, המחשה לסביבה העירונית של המחקר",
+      "semanticDescriptionHe": "לוינסון בוחן כיצד בית הספר הארמני בירושלים יוצר מרחב לשייכות מעבר לגבולות עבור צעירים מקבוצות מיעוט. נרטיבים של תפוצה וחינוך בין־לאומי מאפשרים לדמיין זהויות וזיקות נוספות, לצד מגבלות החיים בעיר. מושג אזרחות האווטאר מדגיש שייכות מרובה שאינה שקולה להבטחת מעמד וזכויות בעולם שמחוץ לבית הספר.",
+      "tags": [
+        "אזרחות",
+        "חינוך בין־לאומי",
+        "המיעוט הארמני",
+        "ירושלים",
+        "תפוצה ושייכות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-15",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Shirleyzer",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Jerusalem_Armenian_Quarter_St._James_street.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_Jerusalem_Armenian_Quarter_St._James_street.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Old_Jerusalem_Armenian_Quarter_St._James_street.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
     }
   ],
   "topicGraphics": [
