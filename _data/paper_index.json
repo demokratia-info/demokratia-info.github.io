@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1922,
+  "paperCount": 1932,
   "papers": [
+    {
+      "slug": "kizhner-museum-minority-data-bias",
+      "file": "kizhner-museum-minority-data-bias.html",
+      "permalink": "/kizhner-museum-minority-data-bias.html",
+      "sortKey": 202610160010,
+      "titleHe": "מיעוטים באוספי מוזיאונים מקוונים: ההטיות שמסתתרות בקטלוג",
+      "paperTitle": "Ethnic minorities in online museum collections: skews and bias in digital material culture",
+      "authorsCardHe": "Inna Kizhner; Daniil Skorinkin; Melissa Terras; יעל נצר; משה לביא",
+      "sourceAuthors": [
+        "Inna Kizhner",
+        "Daniil Skorinkin",
+        "Melissa Terras",
+        "Yael Netzer",
+        "Moshe Lavee"
+      ],
+      "journal": "Digital Scholarship in the Humanities, 41(Supplement_1), i123–i150",
+      "dateText": "דצמבר 2025; גיליון אפריל 2026",
+      "doiUrl": "https://doi.org/10.1093/llc/fqaf104",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kizhner-museum-minority-data-bias.jpg",
+        "altHe": "איור דמיוני של אוצרת מול אוסף חפצים ורשומות, להמחשת השפעת האיסוף והקטלוג על הייצוג",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "אוספים דיגיטליים אינם מדגם ניטרלי של תרבות. השוואת ייצוג יהודים וארמנים בשני מוזיאונים מראה כיצד רכישה, קטלוג ומילות חיפוש מעצבים את התמונה. הבנת ההקשר של כל אוסף חיונית לייצוג אחראי של מיעוטים גם במחקר כמותי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "rubinson-bitton-election-winner-policy",
+      "file": "rubinson-bitton-election-winner-policy.html",
+      "permalink": "/rubinson-bitton-election-winner-policy.html",
+      "sortKey": 202610160009,
+      "titleHe": "ניצחון בבחירות משנה מעט את העמדות, אך הזהות המפלגתית נשארת חזקה",
+      "paperTitle": "Rally Around the Winner—A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances",
+      "authorsCardHe": "אייל רובינסון; Gal Bitton-Alayof",
+      "sourceAuthors": [
+        "Eyal Rubinson",
+        "Gal Bitton-Alayof"
+      ],
+      "journal": "International Journal of Public Opinion Research, 37(3), edaf040",
+      "dateText": "ספטמבר 2025",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edaf040",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/rubinson-bitton-election-winner-policy.jpg",
+        "altHe": "תצלום ארכיוני של עמדות הצבעה בוויומינג ב־2008, להמחשת סביבת בחירות בארצות הברית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "סקר לפני בחירות ארצות הברית ב־2024 ואחריהן מצא שינוי מתון בתמיכה בעמדות המועמדים. חלק מהדמוקרטים התקרבו מעט למדיניות טראמפ לאחר ניצחונו, אך ההבדלים המפלגתיים נשארו מרכזיים. תוצאה אלקטורלית עשויה לעצב עמדות, לצד העדפות שקדמו לה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schwartz-personal-political-values-voting",
+      "file": "schwartz-personal-political-values-voting.html",
+      "permalink": "/schwartz-personal-political-values-voting.html",
+      "sortKey": 202610160008,
+      "titleHe": "מערכים אישיים להצבעה: תפקידם המתווך של ערכים פוליטיים",
+      "paperTitle": "Basic Personal Values, Core Political Values, and Voting: A Longitudinal Analysis",
+      "authorsCardHe": "שלום ה׳ שוורץ; Gian Vittorio Caprara; Michele Vecchione",
+      "sourceAuthors": [
+        "Shalom H. Schwartz",
+        "Gian Vittorio Caprara",
+        "Michele Vecchione"
+      ],
+      "journal": "Political Psychology, 31(3), 421–452",
+      "dateText": "מאי 2010",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9221.2010.00764.x",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/schwartz-personal-political-values-voting.jpg",
+        "altHe": "איור דמיוני של מצביעים ליד תא הצבעה באיטליה, להמחשת החיבור בין ערכים לבחירה פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "מחקר אורך באיטליה קושר ערכים אישיים לעמדות פוליטיות, ודרכן לבחירה בקלפי. ערכים כגון ביטחון ואוניברסליות מארגנים תפיסות של זכויות, שוויון וסדר. הקשר מציע הסבר לבחירה פוליטית מעבר לתווית כללית של ימין ושמאל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "miodownik-nir-perceived-group-inequality",
+      "file": "miodownik-nir-perceived-group-inequality.html",
+      "permalink": "/miodownik-nir-perceived-group-inequality.html",
+      "sortKey": 202610160007,
+      "titleHe": "אי־שוויון בין קבוצות ותמיכה באלימות: הפער בין מצב לתפיסה",
+      "paperTitle": "Receptivity to Violence in Ethnically Divided Societies: A Micro-Level Mechanism of Perceived Horizontal Inequalities",
+      "authorsCardHe": "דן מיודובניק; לילך ניר",
+      "sourceAuthors": [
+        "Dan Miodownik",
+        "Lilach Nir"
+      ],
+      "journal": "Studies in Conflict & Terrorism, 39(1), 22–45",
+      "dateText": "אוקטובר 2015; גיליון ינואר 2016",
+      "doiUrl": "https://doi.org/10.1080/1057610x.2015.1084162",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/miodownik-nir-perceived-group-inequality.jpg",
+        "altHe": "מפגש קהילתי בצפון גאנה, המחשה לחיים קבוצתיים שאינה מתעדת את משתתפי המחקר או את עמדותיהם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "מיודובניק וניר מראים כי הדרה פוליטית ומצב כלכלי אינם מסבירים לבדם תמיכה באלימות. גם האופן שבו אנשים מעריכים את מעמד קבוצתם ואת יחס הממשלה משנה את הקשר. שילוב מוסדי צריך להיבחן לצד תפיסות ההוגנות שהוא יוצר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ayalon-arab-girls-science-curriculum",
+      "file": "ayalon-arab-girls-science-curriculum.html",
+      "permalink": "/ayalon-arab-girls-science-curriculum.html",
+      "sortKey": 202610160006,
+      "titleHe": "לימודי מדעים ושוויון מגדרי בבתי ספר ערביים: הפרדוקס של היצע מצומצם",
+      "paperTitle": "Mathematics and Sciences Course Taking Among Arab Students in Israel: A Case of Unexpected Gender Equality",
+      "authorsCardHe": "חנה איילון",
+      "sourceAuthors": [
+        "Hanna Ayalon"
+      ],
+      "journal": "Educational Evaluation and Policy Analysis, 24(1), 63–80",
+      "dateText": "מרץ 2002",
+      "doiUrl": "https://doi.org/10.3102/01623737024001063",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ayalon-arab-girls-science-curriculum.jpg",
+        "altHe": "איור דמיוני של תלמידות ערביות ומורה בשיעור מדעים, להמחשת גישה לידע מדעי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "חנה איילון מצאה שבמדגם תלמידי תיכון מ־1989 הפערים המגדריים בלימודי מתמטיקה ומדעים היו קטנים יותר בבתי ספר ערביים. היצע מצומצם של חלופות מתקדמות תרם לחשיפת תלמידות לתחומים אלה. הממצא מדגיש שהרחבת בחירה אינה מבטיחה כשלעצמה שוויון בהזדמנויות לימוד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "fox-secular-religious-policy-competition",
+      "file": "fox-secular-religious-policy-competition.html",
+      "permalink": "/fox-secular-religious-policy-competition.html",
+      "sortKey": 202610160005,
+      "titleHe": "דת ומדינה בדמוקרטיות מערביות: תחרות פוליטית במקום היעלמות הדת",
+      "paperTitle": "Secular–religious competition in Western democracies: 1990 to 2014",
+      "authorsCardHe": "Jonathan Fox",
+      "sourceAuthors": [
+        "Jonathan Fox"
+      ],
+      "journal": "Journal of Religious and Political Practice, 2(2), 155–174",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1080/20566093.2016.1181378",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/fox-secular-religious-policy-competition.jpg",
+        "altHe": "כיכר כריסטיאנסבורג בקופנהגן, המחשה למוסדות השלטון בדמוקרטיה מערבית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "ג׳ונתן פוקס בוחן מדיניות דת ב־27 דמוקרטיות מערביות בשנים 1990–2014. לצד שינויים בתמיכה ובפיקוח הוא מזהה התרחבות של הגבלות על מיעוטים דתיים. התמונה מתאימה למאבק מתמשך על מדיניות, ומעמידה במבחן את השוויון בחופש הדת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "oneal-maoz-russett-trade-liberal-peace",
+      "file": "oneal-maoz-russett-trade-liberal-peace.html",
+      "permalink": "/oneal-maoz-russett-trade-liberal-peace.html",
+      "sortKey": 202610160004,
+      "titleHe": "סחר ודמוקרטיה בשלום הליברלי: קשרים כלכליים לצד ריסון שלטוני",
+      "paperTitle": "The Liberal Peace: Interdependence, Democracy, and International Conflict, 1950-85",
+      "authorsCardHe": "John R. Oneal; Frances H. Oneal; זאב מעוז; Bruce Russett",
+      "sourceAuthors": [
+        "John R. Oneal",
+        "Frances H. Oneal",
+        "Zeev Maoz",
+        "Bruce Russett"
+      ],
+      "journal": "Journal of Peace Research, 33(1), 11–28",
+      "dateText": "פברואר 1996",
+      "doiUrl": "https://doi.org/10.1177/0022343396033001002",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/oneal-maoz-russett-trade-liberal-peace.jpg",
+        "altHe": "מסופי מכולות בנמל המבורג, להמחשת קשרי סחר בין מדינות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "אוניל, אוניל, מעוז וראסט בוחנים יחד דמוקרטיה ותלות מסחרית בין מדינות. בניתוח השנים 1950–1985, חשיבות הסחר קשורה לפחות סכסוכים צבאיים, גם לצד גורמים ביטחוניים וכלכליים נוספים. המאמר מציג את השלום הליברלי כמכלול של קשרים ומוסדות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "maoz-russett-democratic-peace-alternatives",
+      "file": "maoz-russett-democratic-peace-alternatives.html",
+      "permalink": "/maoz-russett-democratic-peace-alternatives.html",
+      "sortKey": 202610160003,
+      "titleHe": "האם השלום בין דמוקרטיות מוסבר בעושר, בבריתות או ביציבות?",
+      "paperTitle": "Alliance, contiguity, wealth, and political stability: Is the lack of conflict among democracies a statistical artifact?",
+      "authorsCardHe": "זאב מעוז; Bruce Russett",
+      "sourceAuthors": [
+        "Zeev Maoz",
+        "Bruce Russett"
+      ],
+      "journal": "International Interactions, 17(3), 245–267",
+      "dateText": "פברואר 1992",
+      "doiUrl": "https://doi.org/10.1080/03050629208434782",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/maoz-russett-democratic-peace-alternatives.jpg",
+        "altHe": "פארק וגשר להולכי רגל מעל הריין בין צרפת לגרמניה, להמחשת קשרים בין דמוקרטיות שכנות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "מעוז וראסט בוחנים אם מיעוט הסכסוכים בין דמוקרטיות נובע ממשתנים הנלווים לסוג המשטר. לאחר התחשבות במרחק, עושר, צמיחה, בריתות ויציבות, נשאר קשר עצמאי בין דמוקרטיה למיעוט סכסוכים. הממצא מחזק את טענת השלום הדמוקרטי בלי להפוך אותה לכלל מוחלט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "pines-lerner-schwartz-gender-entrepreneurship",
+      "file": "pines-lerner-schwartz-gender-entrepreneurship.html",
+      "permalink": "/pines-lerner-schwartz-gender-entrepreneurship.html",
+      "sortKey": 202610160002,
+      "titleHe": "יזמות נשים בין הזדמנות לאילוץ: מימון, שוויון והדרה",
+      "paperTitle": "Gender differences in entrepreneurship",
+      "authorsCardHe": "איילה מלאך פיינס; מירי לרנר; דפנה שוורץ",
+      "sourceAuthors": [
+        "Ayala Malach Pines",
+        "Miri Lerner",
+        "Dafna Schwartz"
+      ],
+      "journal": "Equality, Diversity and Inclusion: An International Journal, 29(2), 186–198",
+      "dateText": "פברואר 2010",
+      "doiUrl": "https://doi.org/10.1108/02610151011024493",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/pines-lerner-schwartz-gender-entrepreneurship.jpg",
+        "altHe": "איור דמיוני של בעלת סדנת קדרות בשיחה על מימון העסק, להמחשת גישה למשאבים ביזמות נשים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "מלאך פיינס, לרנר ושוורץ מבחינות בין יזמות הנובעת מהזדמנות לבין יזמות הנכפית בשל מחסור בחלופות פרנסה. ההשוואה מדגישה שפערי מימון והדרה מעצבים את פעילות הנשים. תמיכה ביזמות דורשת בחינת תנאי הפעולה, ולא רק ספירת עסקים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kacowicz-peace-zones-territorial-status-quo",
+      "file": "kacowicz-peace-zones-territorial-status-quo.html",
+      "permalink": "/kacowicz-peace-zones-territorial-status-quo.html",
+      "sortKey": 202610160001,
+      "titleHe": "אזורי שלום וגבולות מוסכמים: האם שביעות רצון טריטוריאלית משלימה דמוקרטיה?",
+      "paperTitle": "Explaining Zones of Peace: Democracies as Satisfied Powers?",
+      "authorsCardHe": "אריה קצוביץ׳",
+      "sourceAuthors": [
+        "Arie M. Kacowicz"
+      ],
+      "journal": "Journal of Peace Research, 32(3), 265–276",
+      "dateText": "אוגוסט 1995",
+      "doiUrl": "https://doi.org/10.1177/0022343395032003002",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kacowicz-peace-zones-territorial-status-quo.jpg",
+        "altHe": "אנדרטת ישו הגואל בגבול ארגנטינה וצ׳ילה, להמחשת ההקשר האזורי של שלום וגבולות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-16",
+      "dateModified": "2026-10-16",
+      "summaryHe": "אריה קצוביץ׳ מציע לבחון את השלום בין דמוקרטיות דרך שביעות רצונן מן הסדר הטריטוריאלי. השוואת אזורים היסטוריים מרחיבה את הדיון מעבר לסוג המשטר. המאמר מעלה אפשרות שוויתור על תביעות לשינוי גבולות עשוי לתרום לשלום גם בין מדינות שאינן דמוקרטיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "levenson-avatar-citizenship",
       "file": "levenson-avatar-citizenship.html",

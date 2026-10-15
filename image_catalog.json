@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-16",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -53384,6 +53384,324 @@
       "source": "https://commons.wikimedia.org/wiki/File:Old_Jerusalem_Armenian_Quarter_St._James_street.jpg",
       "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Old_Jerusalem_Armenian_Quarter_St._James_street.jpg",
       "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
+    },
+    {
+      "file": "html_qa/kizhner-museum-minority-data-bias.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kizhner-museum-minority-data-bias.html",
+      "usedBy": [
+        "kizhner-museum-minority-data-bias.html"
+      ],
+      "cardTitleHe": "מיעוטים באוספי מוזיאונים מקוונים: ההטיות שמסתתרות בקטלוג",
+      "authorsHe": "Inna Kizhner; Daniil Skorinkin; Melissa Terras; יעל נצר; משה לביא",
+      "visualDescriptionHe": "איור דמיוני של אוצרת מול אוסף חפצים ורשומות, להמחשת השפעת האיסוף והקטלוג על הייצוג",
+      "semanticDescriptionHe": "אוספים דיגיטליים אינם מדגם ניטרלי של תרבות. השוואת ייצוג יהודים וארמנים בשני מוזיאונים מראה כיצד רכישה, קטלוג ומילות חיפוש מעצבים את התמונה. הבנת ההקשר של כל אוסף חיונית לייצוג אחראי של מיעוטים גם במחקר כמותי.",
+      "tags": [
+        "מוזיאונים",
+        "מיעוטים",
+        "מורשת דיגיטלית",
+        "הטיית נתונים",
+        "קטלוג"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/rubinson-bitton-election-winner-policy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rubinson-bitton-election-winner-policy.html",
+      "usedBy": [
+        "rubinson-bitton-election-winner-policy.html"
+      ],
+      "cardTitleHe": "ניצחון בבחירות משנה מעט את העמדות, אך הזהות המפלגתית נשארת חזקה",
+      "authorsHe": "אייל רובינסון; Gal Bitton-Alayof",
+      "visualDescriptionHe": "תצלום ארכיוני של עמדות הצבעה בוויומינג ב־2008, להמחשת סביבת בחירות בארצות הברית",
+      "semanticDescriptionHe": "סקר לפני בחירות ארצות הברית ב־2024 ואחריהן מצא שינוי מתון בתמיכה בעמדות המועמדים. חלק מהדמוקרטים התקרבו מעט למדיניות טראמפ לאחר ניצחונו, אך ההבדלים המפלגתיים נשארו מרכזיים. תוצאה אלקטורלית עשויה לעצב עמדות, לצד העדפות שקדמו לה.",
+      "tags": [
+        "דעת קהל",
+        "בחירות ארצות הברית",
+        "מדיניות חוץ",
+        "זהות מפלגתית",
+        "אפקט המנצח"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Leila Monaghan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Election_Day08_Wyo2.JPG",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Election_Day08_Wyo2.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Election_Day08_Wyo2.JPG",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
+    },
+    {
+      "file": "html_qa/schwartz-personal-political-values-voting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "schwartz-personal-political-values-voting.html",
+      "usedBy": [
+        "schwartz-personal-political-values-voting.html"
+      ],
+      "cardTitleHe": "מערכים אישיים להצבעה: תפקידם המתווך של ערכים פוליטיים",
+      "authorsHe": "שלום ה׳ שוורץ; Gian Vittorio Caprara; Michele Vecchione",
+      "visualDescriptionHe": "איור דמיוני של מצביעים ליד תא הצבעה באיטליה, להמחשת החיבור בין ערכים לבחירה פוליטית",
+      "semanticDescriptionHe": "מחקר אורך באיטליה קושר ערכים אישיים לעמדות פוליטיות, ודרכן לבחירה בקלפי. ערכים כגון ביטחון ואוניברסליות מארגנים תפיסות של זכויות, שוויון וסדר. הקשר מציע הסבר לבחירה פוליטית מעבר לתווית כללית של ימין ושמאל.",
+      "tags": [
+        "ערכים אישיים",
+        "הצבעה",
+        "שוויון",
+        "חירויות אזרח",
+        "איטליה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/miodownik-nir-perceived-group-inequality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "miodownik-nir-perceived-group-inequality.html",
+      "usedBy": [
+        "miodownik-nir-perceived-group-inequality.html"
+      ],
+      "cardTitleHe": "אי־שוויון בין קבוצות ותמיכה באלימות: הפער בין מצב לתפיסה",
+      "authorsHe": "דן מיודובניק; לילך ניר",
+      "visualDescriptionHe": "מפגש קהילתי בצפון גאנה, המחשה לחיים קבוצתיים שאינה מתעדת את משתתפי המחקר או את עמדותיהם",
+      "semanticDescriptionHe": "מיודובניק וניר מראים כי הדרה פוליטית ומצב כלכלי אינם מסבירים לבדם תמיכה באלימות. גם האופן שבו אנשים מעריכים את מעמד קבוצתם ואת יחס הממשלה משנה את הקשר. שילוב מוסדי צריך להיבחן לצד תפיסות ההוגנות שהוא יוצר.",
+      "tags": [
+        "אי־שוויון בין קבוצות",
+        "הדרה פוליטית",
+        "תפיסת הוגנות",
+        "אלימות פוליטית",
+        "אפרוברומטר"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Qulat96",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_village_community_development_meeting_in_northern_Ghana.jpg",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:A_village_community_development_meeting_in_northern_Ghana.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/A_village_community_development_meeting_in_northern_Ghana.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/ayalon-arab-girls-science-curriculum.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ayalon-arab-girls-science-curriculum.html",
+      "usedBy": [
+        "ayalon-arab-girls-science-curriculum.html"
+      ],
+      "cardTitleHe": "לימודי מדעים ושוויון מגדרי בבתי ספר ערביים: הפרדוקס של היצע מצומצם",
+      "authorsHe": "חנה איילון",
+      "visualDescriptionHe": "איור דמיוני של תלמידות ערביות ומורה בשיעור מדעים, להמחשת גישה לידע מדעי",
+      "semanticDescriptionHe": "חנה איילון מצאה שבמדגם תלמידי תיכון מ־1989 הפערים המגדריים בלימודי מתמטיקה ומדעים היו קטנים יותר בבתי ספר ערביים. היצע מצומצם של חלופות מתקדמות תרם לחשיפת תלמידות לתחומים אלה. הממצא מדגיש שהרחבת בחירה אינה מבטיחה כשלעצמה שוויון בהזדמנויות לימוד.",
+      "tags": [
+        "שוויון מגדרי",
+        "חינוך ערבי",
+        "מתמטיקה ומדעים",
+        "תוכנית לימודים",
+        "ריבוד חינוכי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/fox-secular-religious-policy-competition.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "fox-secular-religious-policy-competition.html",
+      "usedBy": [
+        "fox-secular-religious-policy-competition.html"
+      ],
+      "cardTitleHe": "דת ומדינה בדמוקרטיות מערביות: תחרות פוליטית במקום היעלמות הדת",
+      "authorsHe": "Jonathan Fox",
+      "visualDescriptionHe": "כיכר כריסטיאנסבורג בקופנהגן, המחשה למוסדות השלטון בדמוקרטיה מערבית",
+      "semanticDescriptionHe": "ג׳ונתן פוקס בוחן מדיניות דת ב־27 דמוקרטיות מערביות בשנים 1990–2014. לצד שינויים בתמיכה ובפיקוח הוא מזהה התרחבות של הגבלות על מיעוטים דתיים. התמונה מתאימה למאבק מתמשך על מדיניות, ומעמידה במבחן את השוויון בחופש הדת.",
+      "tags": [
+        "חופש דת",
+        "דת ומדינה",
+        "חילוניות",
+        "מיעוטים דתיים",
+        "מדיניות ציבורית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Leif Jørgensen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slotsplads_1.jpg",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slotsplads_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Christiansborg_Slotsplads_1.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 3.0."
+    },
+    {
+      "file": "html_qa/oneal-maoz-russett-trade-liberal-peace.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "oneal-maoz-russett-trade-liberal-peace.html",
+      "usedBy": [
+        "oneal-maoz-russett-trade-liberal-peace.html"
+      ],
+      "cardTitleHe": "סחר ודמוקרטיה בשלום הליברלי: קשרים כלכליים לצד ריסון שלטוני",
+      "authorsHe": "John R. Oneal; Frances H. Oneal; זאב מעוז; Bruce Russett",
+      "visualDescriptionHe": "מסופי מכולות בנמל המבורג, להמחשת קשרי סחר בין מדינות",
+      "semanticDescriptionHe": "אוניל, אוניל, מעוז וראסט בוחנים יחד דמוקרטיה ותלות מסחרית בין מדינות. בניתוח השנים 1950–1985, חשיבות הסחר קשורה לפחות סכסוכים צבאיים, גם לצד גורמים ביטחוניים וכלכליים נוספים. המאמר מציג את השלום הליברלי כמכלול של קשרים ומוסדות.",
+      "tags": [
+        "שלום דמוקרטי",
+        "סחר בין־לאומי",
+        "תלות הדדית",
+        "סכסוכים צבאיים",
+        "ריסון שלטוני"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Eurogate_and_Burchardkai_container_terminals_(view_from_the_southeast).jpg",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Eurogate_and_Burchardkai_container_terminals_(view_from_the_southeast).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aerial_image_of_the_Eurogate_and_Burchardkai_container_terminals_%28view_from_the_southeast%29.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/maoz-russett-democratic-peace-alternatives.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "maoz-russett-democratic-peace-alternatives.html",
+      "usedBy": [
+        "maoz-russett-democratic-peace-alternatives.html"
+      ],
+      "cardTitleHe": "האם השלום בין דמוקרטיות מוסבר בעושר, בבריתות או ביציבות?",
+      "authorsHe": "זאב מעוז; Bruce Russett",
+      "visualDescriptionHe": "פארק וגשר להולכי רגל מעל הריין בין צרפת לגרמניה, להמחשת קשרים בין דמוקרטיות שכנות",
+      "semanticDescriptionHe": "מעוז וראסט בוחנים אם מיעוט הסכסוכים בין דמוקרטיות נובע ממשתנים הנלווים לסוג המשטר. לאחר התחשבות במרחק, עושר, צמיחה, בריתות ויציבות, נשאר קשר עצמאי בין דמוקרטיה למיעוט סכסוכים. הממצא מחזק את טענת השלום הדמוקרטי בלי להפוך אותה לכלל מוחלט.",
+      "tags": [
+        "שלום דמוקרטי",
+        "בריתות",
+        "יציבות פוליטית",
+        "סכסוך בין־מדינתי",
+        "משטר דמוקרטי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Flocci Nivis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20180915Jardin_des_Deux_Rives_01.jpg",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:20180915Jardin_des_Deux_Rives_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/20180915Jardin_des_Deux_Rives_01.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/pines-lerner-schwartz-gender-entrepreneurship.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "pines-lerner-schwartz-gender-entrepreneurship.html",
+      "usedBy": [
+        "pines-lerner-schwartz-gender-entrepreneurship.html"
+      ],
+      "cardTitleHe": "יזמות נשים בין הזדמנות לאילוץ: מימון, שוויון והדרה",
+      "authorsHe": "איילה מלאך פיינס; מירי לרנר; דפנה שוורץ",
+      "visualDescriptionHe": "איור דמיוני של בעלת סדנת קדרות בשיחה על מימון העסק, להמחשת גישה למשאבים ביזמות נשים",
+      "semanticDescriptionHe": "מלאך פיינס, לרנר ושוורץ מבחינות בין יזמות הנובעת מהזדמנות לבין יזמות הנכפית בשל מחסור בחלופות פרנסה. ההשוואה מדגישה שפערי מימון והדרה מעצבים את פעילות הנשים. תמיכה ביזמות דורשת בחינת תנאי הפעולה, ולא רק ספירת עסקים.",
+      "tags": [
+        "יזמות נשים",
+        "שוויון הזדמנויות",
+        "הדרה כלכלית",
+        "מימון",
+        "יזמות מכורח"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image",
+      "source": "OpenAI image generation",
+      "qualityNotes": "New fictional editorial illustration for this paper; no actual participant or event depicted. Cropped and resized to 800×600."
+    },
+    {
+      "file": "html_qa/kacowicz-peace-zones-territorial-status-quo.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kacowicz-peace-zones-territorial-status-quo.html",
+      "usedBy": [
+        "kacowicz-peace-zones-territorial-status-quo.html"
+      ],
+      "cardTitleHe": "אזורי שלום וגבולות מוסכמים: האם שביעות רצון טריטוריאלית משלימה דמוקרטיה?",
+      "authorsHe": "אריה קצוביץ׳",
+      "visualDescriptionHe": "אנדרטת ישו הגואל בגבול ארגנטינה וצ׳ילה, להמחשת ההקשר האזורי של שלום וגבולות",
+      "semanticDescriptionHe": "אריה קצוביץ׳ מציע לבחון את השלום בין דמוקרטיות דרך שביעות רצונן מן הסדר הטריטוריאלי. השוואת אזורים היסטוריים מרחיבה את הדיון מעבר לסוג המשטר. המאמר מעלה אפשרות שוויתור על תביעות לשינוי גבולות עשוי לתרום לשלום גם בין מדינות שאינן דמוקרטיות.",
+      "tags": [
+        "אזורי שלום",
+        "גבולות",
+        "סטטוס קוו טריטוריאלי",
+        "שלום דמוקרטי",
+        "יחסים בין־לאומיים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-16",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "creator": "Alejandra Cartamil",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Monumento_Cristo_Redentor_y_edificaciones.jpg",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Monumento_Cristo_Redentor_y_edificaciones.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Monumento_Cristo_Redentor_y_edificaciones.jpg",
+      "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
     }
   ],
   "topicGraphics": [
