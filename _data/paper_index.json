@@ -1,8 +1,296 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1932,
+  "paperCount": 1942,
   "papers": [
+    {
+      "slug": "libby-deitrick-mano-nonprofit-lobbying",
+      "file": "libby-deitrick-mano-nonprofit-lobbying.html",
+      "permalink": "/libby-deitrick-mano-nonprofit-lobbying.html",
+      "sortKey": 202610170010,
+      "titleHe": "איך עמותות בישראל מנסות להשפיע על חקיקה?",
+      "paperTitle": "Exploring Lobbying Practices in Israel’s Nonprofit Advocacy Organizations: An Application of the Libby Lobbying Model",
+      "authorsCardHe": "Patricia Libby; Laura Deitrick; ריטה מנו",
+      "sourceAuthors": [
+        "Patricia Libby",
+        "Laura Deitrick",
+        "Rita Mano"
+      ],
+      "journal": "Administrative Sciences, 7(4), 37",
+      "dateText": "2017",
+      "doiUrl": "https://doi.org/10.3390/admsci7040037",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/libby-deitrick-mano-nonprofit-lobbying.jpg",
+        "altHe": "תצלום ארכיוני של מפגש ועדת הכספים עם מנהיג ההסתדרות ירוחם משל, להמחשת מפגש בין נציגי ארגונים למחוקקים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "ראיונות עם ארגוני סנגור בישראל מצביעים על שילוב של קשרים עם מחוקקים, ניירות עמדה, תקשורת ולעיתים גם מחאה. בהשוואה למודל ליבי לשדלנות, החוקרות מזהות פחות שימוש שיטתי במיפוי בעלי עניין ובכמה שלבי תכנון. המחקר מציע כלי לבחינת יכולת ההשפעה של החברה האזרחית, בלי להוכיח שמודל פעולה אחד מבטיח הצלחה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sandberg-hofri-arab-women-inheritance",
+      "file": "sandberg-hofri-arab-women-inheritance.html",
+      "permalink": "/sandberg-hofri-arab-women-inheritance.html",
+      "sortKey": 202610170009,
+      "titleHe": "ויתור של נשים ערביות על ירושה: הסכמה משפחתית ושוויון משפטי",
+      "paperTitle": "Arab Israeli women's renunciation of their inheritance shares: a challenge for Israel's courts",
+      "authorsCardHe": "חיים זנדברג; אדם חפרי־וינוגרדוב",
+      "sourceAuthors": [
+        "Haim Sandberg",
+        "Adam Hofri-Winogradow"
+      ],
+      "journal": "International Journal of Law in Context, 8(2), 253–267",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1017/s1744552312000079",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/sandberg-hofri-arab-women-inheritance.jpg",
+        "altHe": "איור דמיוני של אישה בשיחה משפחתית סביב מסמכים, להמחשת בחירה וזכויות רכוש במשפחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "ויתור על זכות רכושית בתוך המשפחה יכול להיות פורמלי וחופשי לכאורה, אך להישען על תלות ולחץ מתמשך. חיים זנדברג ואדם חפרי־וינוגרדוב משווים את תגובת בתי המשפט לוויתורי ירושה של נשים ערביות לתגובתם לוויתורי רכוש של נשים יהודיות בגירושים. הם קוראים לבחינה קפדנית ושוויונית של רצון חופשי בשני ההקשרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "levy-social-utility-judicial-punishment",
+      "file": "levy-social-utility-judicial-punishment.html",
+      "permalink": "/levy-social-utility-judicial-punishment.html",
+      "sortKey": 202610170008,
+      "titleHe": "ענישה ותועלת חברתית: מה מניע ענישה ומה ראוי שתשיג?",
+      "paperTitle": "Optimizing the social utility of judicial punishment: An evolutionary biology and neuroscience perspective",
+      "authorsCardHe": "דניאל לוי",
+      "sourceAuthors": [
+        "Daniel A. Levy"
+      ],
+      "journal": "Frontiers in Human Neuroscience, 16",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.3389/fnhum.2022.967090",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/levy-social-utility-judicial-punishment.jpg",
+        "altHe": "איש צוות ימי בפעילות התנדבותית לפינוי ענפים, להמחשת תרומה לקהילה; אין זה תיעוד של ענישה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "דניאל לוי מחבר מחקרים אבולוציוניים, התנהגותיים ומוחיים לדיון במטרות הענישה. הוא מציע לראות בהשבת תחושת הצדק ובתמיכה בשיתוף פעולה רכיבים של תועלת חברתית, לצד מניעה והרתעה. ההצעה מחייבת להבחין בין הסבר הדחף להעניש לבין הצדקה מוסרית של עונש מסוים, ולבחון גם עלויות וסיכוני כוח מוסדי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "doron-ageism-judicial-narratives",
+      "file": "doron-ageism-judicial-narratives.html",
+      "permalink": "/doron-ageism-judicial-narratives.html",
+      "sortKey": 202610170007,
+      "titleHe": "גילנות בבית המשפט: בין הגנה על אדם זקן לכיבוד בחירתו",
+      "paperTitle": "A Judicial Rashomon: On Ageism and Narrative Justice",
+      "authorsCardHe": "ישראל דורון",
+      "sourceAuthors": [
+        "Israel (Issi) Doron"
+      ],
+      "journal": "Journal of Cross-Cultural Gerontology, 27(1), 17–28",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1007/s10823-012-9160-7",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/doron-ageism-judicial-narratives.jpg",
+        "altHe": "איור דמיוני של אישה מבוגרת המשמיעה את עמדתה בסביבה משפטית, להמחשת אוטונומיה בזקנה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "אותו סכסוך על הסכם דיור וטיפול בזקנה יכול להיקרא כסיפור של בחירה עצמאית או כסיפור של ניצול חולשה. ישראל דורון מנתח כיצד שתי ערכאות עיצבו נרטיבים שונים סביב אישה מבוגרת שנפטרה זמן קצר לאחר ההתקשרות. המאמר מזהיר שהגנה המבוססת על סטריאוטיפים של גיל עלולה לצמצם אוטונומיה, גם כשהכוונה מיטיבה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ben-zvi-judicial-greatness-duties",
+      "file": "ben-zvi-judicial-greatness-duties.html",
+      "permalink": "/ben-zvi-judicial-greatness-duties.html",
+      "sortKey": 202610170006,
+      "titleHe": "חדשנות שיפוטית והגבול שבין חובה למצוינות",
+      "paperTitle": "Judicial Greatness and the Duties of a Judge",
+      "authorsCardHe": "עמרי בן־צבי",
+      "sourceAuthors": [
+        "Omri Ben-Zvi"
+      ],
+      "journal": "Law and Philosophy, 35(6), 615–654",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1007/s10982-016-9276-y",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/ben-zvi-judicial-greatness-duties.jpg",
+        "altHe": "איור דמיוני של שופט בספרייה משפטית, להמחשת חשיבה על מסורת וחדשנות בהנמקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "עמרי בן־צבי מציע להבין גדוּלה שיפוטית כיצירת דרכי הנמקה חדשות, מעבר להכרעות מוצלחות בתיקים בודדים. לפי טיעונו, פיתוח כזה אינו חובה המוטלת על כל שופט, אך עשוי להצדיק מרחב פעולה חריג בתנאים מסוימים. ההצעה מציפה מתח בין יצירתיות משפטית, נאמנות לדין ואחריות מוסדית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shayo-zussman-judicial-ingroup-bias-terrorism",
+      "file": "shayo-zussman-judicial-ingroup-bias-terrorism.html",
+      "permalink": "/shayo-zussman-judicial-ingroup-bias-terrorism.html",
+      "sortKey": 202610170005,
+      "titleHe": "הטיה לטובת הקבוצה בבית המשפט בצל טרור",
+      "paperTitle": "Judicial Ingroup Bias in the Shadow of Terrorism *",
+      "authorsCardHe": "משה שעיו; אסף זוסמן",
+      "sourceAuthors": [
+        "Moses Shayo",
+        "Asaf Zussman"
+      ],
+      "journal": "The Quarterly Journal of Economics, 126(3), 1447–1484",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.1093/qje/qjr022",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shayo-zussman-judicial-ingroup-bias-terrorism.jpg",
+        "altHe": "בניין בית משפט השלום בהרצליה, צילום המחשה למוסדות שבהם מתבררות תביעות אזרחיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "ניתוח תביעות קטנות בישראל מצא קשר בין זהותם האתנית של שופטים ובעלי דין לבין ההכרעה. ההקצאה האקראית בקירוב של תיקים בתוך בתי משפט מחזקת את הזיהוי של העדפה לקבוצת הפנים, והטיה חזקה יותר נקשרה גם לחשיפה מקומית לטרור. המחקר מראה כיצד סכסוך רחב עשוי לחדור להכרעות אזרחיות יומיומיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "lahat-sharony-sowa-public-sector-discrimination",
+      "file": "lahat-sharony-sowa-public-sector-discrimination.html",
+      "permalink": "/lahat-sharony-sowa-public-sector-discrimination.html",
+      "sortKey": 202610170004,
+      "titleHe": "שירות ציבורי ותפיסת אפליה: ההבטחה לשוויון מול הבדלים בין מדינות",
+      "paperTitle": "Rhetoric Versus Reality? A Comparative Study of Public and Non‐Public Sector Employees' Perceptions of Discrimination",
+      "authorsCardHe": "ליהיא להט; חן שרוני; Jessica E. Sowa",
+      "sourceAuthors": [
+        "Lihi Lahat",
+        "Chen Sharony",
+        "Jessica E. Sowa"
+      ],
+      "journal": "Public Administration Review, 86(4), 1031–1044",
+      "dateText": "דצמבר 2025; גיליון 2026",
+      "doiUrl": "https://doi.org/10.1111/puar.70058",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/lahat-sharony-sowa-public-sector-discrimination.jpg",
+        "altHe": "איור דמיוני של עמיתים במשרד, להמחשת שייכות והדרה; אינו תיעוד של אירוע שנבדק במחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "עובדי השירות הציבורי אינם מדווחים באופן עקבי על פחות השתייכות לקבוצה מופלית מעובדים מחוצה לו. השוואת נתוני הסקר החברתי האירופי מראה שהקשר משתנה לפי המדינה והמאפיינים החברתיים. הממצא מחדד את הפער בין שאיפת המדינה להיות מעסיקה הוגנת לבין מדד התפיסה שנבדק, שאינו מדידה ישירה של אפליה בעבודה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "feldman-lutmar-mandler-pandemic-diplomacy",
+      "file": "feldman-lutmar-mandler-pandemic-diplomacy.html",
+      "permalink": "/feldman-lutmar-mandler-pandemic-diplomacy.html",
+      "sortKey": 202610170003,
+      "titleHe": "דיפלומטיה בזמן מגפה: סיוע, אמון ויציבות דמוקרטית",
+      "paperTitle": "Masks Down: Diplomacy and Regime Stability in the Post‐Covid‐19 Era",
+      "authorsCardHe": "ניצן פלדמן; כרמלה לוטמר; לאה מנדלר",
+      "sourceAuthors": [
+        "Nizan Feldman",
+        "Carmela Lutmar",
+        "Leah Mandler"
+      ],
+      "journal": "Politics and Governance, 12",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.17645/pag.8646",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/feldman-lutmar-mandler-pandemic-diplomacy.jpg",
+        "altHe": "מטען סיוע רפואי במטוס בדרכו לגאנה, להמחשת דיפלומטיית סיוע בעת מגפה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "משבר בריאות משותף אינו מבטיח שיתוף פעולה בין מדינות. ניתוח היחסים בין המלדיביים, הודו וסין ובתוך האיחוד האירופי מציג כיצד סיוע, חשדנות ופוליטיקה פנימית משנים קשרים דיפלומטיים. המחברים קושרים את המשבר גם לסכנות של ריכוז כוח ושל הדרת קבוצות בתוך המדינה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mordechay-lapid-negotiated-democratic-backsliding",
+      "file": "mordechay-lapid-negotiated-democratic-backsliding.html",
+      "permalink": "/mordechay-lapid-negotiated-democratic-backsliding.html",
+      "sortKey": 202610170002,
+      "titleHe": "הסכמות משפטיות ונסיגה דמוקרטית: גבולות הפשרה עם הממשלה",
+      "paperTitle": "Contracting Around Democratic Backsliding: Netanyahu and the Ministry of Justice",
+      "authorsCardHe": "נדיב מרדכי; עדן לפיד",
+      "sourceAuthors": [
+        "Nadiv Mordechay",
+        "Eden Lapid"
+      ],
+      "journal": "Israel Law Review, 1–25",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1017/s0021223726100223",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/mordechay-lapid-negotiated-democratic-backsliding.jpg",
+        "altHe": "בניין משרד המשפטים בגבעת רם, ירושלים, בתצלום מיולי 2024",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "הסדר שנועד לרסן כוח שלטוני עלול גם להעניק לו לגיטימציה. באמצעות שלוש פרשות בישראל, נדיב מרדכי ועדן לפיד טוענים כי פשרות בין הייעוץ המשפטי לממשלה להנהגה הפוליטית החלישו גבולות מוסדיים כאשר ההתחייבויות לא נאכפו. הניתוח מדגיש את המחיר המצטבר של הימנעות מהכרעה חוקתית מפורשת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "stier-lewin-epstein-part-time-household-equality",
+      "file": "stier-lewin-epstein-part-time-household-equality.html",
+      "permalink": "/stier-lewin-epstein-part-time-household-equality.html",
+      "sortKey": 202610170001,
+      "titleHe": "עבודה במשרה חלקית וחלוקת הכוח במשפחה",
+      "paperTitle": "Women's Part-Time Employment and Gender Inequality in the Family",
+      "authorsCardHe": "חיה שטייר; נח לוין־אפשטיין",
+      "sourceAuthors": [
+        "Haya Stier",
+        "Noah Lewin-Epstein"
+      ],
+      "journal": "Journal of Family Issues, 21(3), 390–410",
+      "dateText": "2000",
+      "doiUrl": "https://doi.org/10.1177/019251300021003006",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/stier-lewin-epstein-part-time-household-equality.jpg",
+        "altHe": "איור דמיוני של בני זוג החולקים מרחב ביתי, עם מסמכי עבודה, כלים וכביסה, להמחשת חלוקת העבודה במשפחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "summaryHe": "יציאה לעבודה אינה מבטיחה חלוקה שוויונית בבית. בסקר שנערך בישראל, משרה מלאה של נשים נקשרה לשותפות רבה יותר בכמה תחומי משק הבית, ואילו משרה חלקית דמתה לרוב לאי־תעסוקה. שוויון מגדרי תלוי גם בהיקף העבודה ובמשאבים שהיא מעניקה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "kizhner-museum-minority-data-bias",
       "file": "kizhner-museum-minority-data-bias.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-16",
+  "lastUpdated": "2026-10-17",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -53702,6 +53702,320 @@
       "source": "https://commons.wikimedia.org/wiki/File:Monumento_Cristo_Redentor_y_edificaciones.jpg",
       "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Monumento_Cristo_Redentor_y_edificaciones.jpg",
       "qualityNotes": "New Commons photograph acquired for this paper. Illustrative context, not evidence of the paper’s particular cases or participants. Cropped and resized to 800×600; derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "file": "html_qa/stier-lewin-epstein-part-time-household-equality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "stier-lewin-epstein-part-time-household-equality.html",
+      "usedBy": [
+        "stier-lewin-epstein-part-time-household-equality.html"
+      ],
+      "cardTitleHe": "עבודה במשרה חלקית וחלוקת הכוח במשפחה",
+      "authorsHe": "חיה שטייר; נח לוין־אפשטיין",
+      "visualDescriptionHe": "איור דמיוני של בני זוג החולקים מרחב ביתי, עם מסמכי עבודה, כלים וכביסה, להמחשת חלוקת העבודה במשפחה",
+      "semanticDescriptionHe": "יציאה לעבודה אינה מבטיחה חלוקה שוויונית בבית. בסקר שנערך בישראל, משרה מלאה של נשים נקשרה לשותפות רבה יותר בכמה תחומי משק הבית, ואילו משרה חלקית דמתה לרוב לאי־תעסוקה. שוויון מגדרי תלוי גם בהיקף העבודה ובמשאבים שהיא מעניקה.",
+      "tags": [
+        "שוויון מגדרי",
+        "עבודה חלקית",
+        "משק בית",
+        "חלוקת עבודה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial image for a Hebrew academic summary about women's part-time employment and household bargaining. A warm, nuanced painted documentary-style scene inside an ordinary Israeli family apartment: an adult woman in work clothes has returned from her job, sets a work bag beside a table holding household expense folders with entirely blank pages, while domestic laundry and an adult partner in the adjacent kitchen show competing paid and unpaid responsibilities. Both adults look thoughtful and realistic, no caricature or accusation. Depict the difficult negotiation over who does household work and who manages money, not a victory scene. Rich room depth, natural late-afternoon light, tactile fabrics, subtle brush texture, polished editorial magazine quality. Landscape 4:3 composition suitable for crop to 800x600. Absolutely no text, letters, numbers, logos, flags, watermarks, diagrams, icons or UI. Fictional people.",
+      "qualityNotes": "Generated with the built-in image generation tool; editorial illustration, not a documentary depiction of study participants. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/mordechay-lapid-negotiated-democratic-backsliding.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mordechay-lapid-negotiated-democratic-backsliding.html",
+      "usedBy": [
+        "mordechay-lapid-negotiated-democratic-backsliding.html"
+      ],
+      "cardTitleHe": "הסכמות משפטיות ונסיגה דמוקרטית: גבולות הפשרה עם הממשלה",
+      "authorsHe": "נדיב מרדכי; עדן לפיד",
+      "visualDescriptionHe": "בניין משרד המשפטים בגבעת רם, ירושלים, בתצלום מיולי 2024",
+      "semanticDescriptionHe": "הסדר שנועד לרסן כוח שלטוני עלול גם להעניק לו לגיטימציה. באמצעות שלוש פרשות בישראל, נדיב מרדכי ועדן לפיד טוענים כי פשרות בין הייעוץ המשפטי לממשלה להנהגה הפוליטית החלישו גבולות מוסדיים כאשר ההתחייבויות לא נאכפו. הניתוח מדגיש את המחיר המצטבר של הימנעות מהכרעה חוקתית מפורשת.",
+      "tags": [
+        "נסיגה דמוקרטית",
+        "ייעוץ משפטי לממשלה",
+        "ניגוד עניינים",
+        "נורמות חוקתיות",
+        "אכיפה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Israel%27s_Ministry_of_Justice_building_in_Givat_Ram,_July_2024.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Israel%27s_Ministry_of_Justice_building_in_Givat_Ram%2C_July_2024.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, then cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "ציון הלוי",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Israel%27s_Ministry_of_Justice_building_in_Givat_Ram,_July_2024.jpg"
+    },
+    {
+      "file": "html_qa/feldman-lutmar-mandler-pandemic-diplomacy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "feldman-lutmar-mandler-pandemic-diplomacy.html",
+      "usedBy": [
+        "feldman-lutmar-mandler-pandemic-diplomacy.html"
+      ],
+      "cardTitleHe": "דיפלומטיה בזמן מגפה: סיוע, אמון ויציבות דמוקרטית",
+      "authorsHe": "ניצן פלדמן; כרמלה לוטמר; לאה מנדלר",
+      "visualDescriptionHe": "מטען סיוע רפואי במטוס בדרכו לגאנה, להמחשת דיפלומטיית סיוע בעת מגפה",
+      "semanticDescriptionHe": "משבר בריאות משותף אינו מבטיח שיתוף פעולה בין מדינות. ניתוח היחסים בין המלדיביים, הודו וסין ובתוך האיחוד האירופי מציג כיצד סיוע, חשדנות ופוליטיקה פנימית משנים קשרים דיפלומטיים. המחברים קושרים את המשבר גם לסכנות של ריכוז כוח ושל הדרת קבוצות בתוך המדינה.",
+      "tags": [
+        "דיפלומטיית אסונות",
+        "קורונה",
+        "שיתוף פעולה בינלאומי",
+        "יציבות משטרית",
+        "לאומיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_Forces_Africa_delivers_medical_supplies_to_Ghana_(49829156488).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Air_Forces_Africa_delivers_medical_supplies_to_Ghana_%2849829156488%29.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, then cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "USAFRICOM from Stuttgart, Germany",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Air_Forces_Africa_delivers_medical_supplies_to_Ghana_(49829156488).jpg"
+    },
+    {
+      "file": "html_qa/lahat-sharony-sowa-public-sector-discrimination.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "lahat-sharony-sowa-public-sector-discrimination.html",
+      "usedBy": [
+        "lahat-sharony-sowa-public-sector-discrimination.html"
+      ],
+      "cardTitleHe": "שירות ציבורי ותפיסת אפליה: ההבטחה לשוויון מול הבדלים בין מדינות",
+      "authorsHe": "ליהיא להט; חן שרוני; Jessica E. Sowa",
+      "visualDescriptionHe": "איור דמיוני של עמיתים במשרד, להמחשת שייכות והדרה; אינו תיעוד של אירוע שנבדק במחקר",
+      "semanticDescriptionHe": "עובדי השירות הציבורי אינם מדווחים באופן עקבי על פחות השתייכות לקבוצה מופלית מעובדים מחוצה לו. השוואת נתוני הסקר החברתי האירופי מראה שהקשר משתנה לפי המדינה והמאפיינים החברתיים. הממצא מחדד את הפער בין שאיפת המדינה להיות מעסיקה הוגנת לבין מדד התפיסה שנבדק, שאינו מדידה ישירה של אפליה בעבודה.",
+      "tags": [
+        "שירות ציבורי",
+        "אפליה נתפסת",
+        "שוויון",
+        "הסקר החברתי האירופי",
+        "תרבות מנהלית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial image for research comparing perceived discrimination among public and non-public sector employees. A warm painterly office scene of three adult colleagues with different ages and appearances at a shared work table in an institutional workplace, one employee quietly waiting at the edge while two others discuss access to an opportunity. Subtle social distance and uneven access, humane expressions, no villain or stereotyped minority depiction. Deep perspective with doors and desks, tangible paper folders with entirely blank pages, softly lit window, textured wood and clothing. Polished civic editorial illustration, restrained teal and warm ochre colors. Landscape 4:3 for 800x600. No text, writing, letters, numbers, labels, logos, flags, watermarks, UI, symbols or flat graphics. Fictional people.",
+      "qualityNotes": "Generated with the built-in image generation tool; editorial illustration, not a documentary depiction of study participants. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/shayo-zussman-judicial-ingroup-bias-terrorism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shayo-zussman-judicial-ingroup-bias-terrorism.html",
+      "usedBy": [
+        "shayo-zussman-judicial-ingroup-bias-terrorism.html"
+      ],
+      "cardTitleHe": "הטיה לטובת הקבוצה בבית המשפט בצל טרור",
+      "authorsHe": "משה שעיו; אסף זוסמן",
+      "visualDescriptionHe": "בניין בית משפט השלום בהרצליה, צילום המחשה למוסדות שבהם מתבררות תביעות אזרחיות",
+      "semanticDescriptionHe": "ניתוח תביעות קטנות בישראל מצא קשר בין זהותם האתנית של שופטים ובעלי דין לבין ההכרעה. ההקצאה האקראית בקירוב של תיקים בתוך בתי משפט מחזקת את הזיהוי של העדפה לקבוצת הפנים, והטיה חזקה יותר נקשרה גם לחשיפה מקומית לטרור. המחקר מראה כיצד סכסוך רחב עשוי לחדור להכרעות אזרחיות יומיומיות.",
+      "tags": [
+        "הטיה קבוצתית",
+        "שופטים",
+        "תביעות קטנות",
+        "טרור",
+        "שוויון בפני החוק"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:139291_herzliya_magistrates_court_building_PikiWiki_Israel.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/139291_herzliya_magistrates_court_building_PikiWiki_Israel.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, then cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "ישראל פרקר",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:139291_herzliya_magistrates_court_building_PikiWiki_Israel.jpg"
+    },
+    {
+      "file": "html_qa/ben-zvi-judicial-greatness-duties.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ben-zvi-judicial-greatness-duties.html",
+      "usedBy": [
+        "ben-zvi-judicial-greatness-duties.html"
+      ],
+      "cardTitleHe": "חדשנות שיפוטית והגבול שבין חובה למצוינות",
+      "authorsHe": "עמרי בן־צבי",
+      "visualDescriptionHe": "איור דמיוני של שופט בספרייה משפטית, להמחשת חשיבה על מסורת וחדשנות בהנמקה",
+      "semanticDescriptionHe": "עמרי בן־צבי מציע להבין גדוּלה שיפוטית כיצירת דרכי הנמקה חדשות, מעבר להכרעות מוצלחות בתיקים בודדים. לפי טיעונו, פיתוח כזה אינו חובה המוטלת על כל שופט, אך עשוי להצדיק מרחב פעולה חריג בתנאים מסוימים. ההצעה מציפה מתח בין יצירתיות משפטית, נאמנות לדין ואחריות מוסדית.",
+      "tags": [
+        "תורת המשפט",
+        "חובות שופטים",
+        "הנמקה משפטית",
+        "חדשנות שיפוטית",
+        "מצוינות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial image for a legal philosophy paper on judicial greatness and judges' duties. A contemplative fictional senior judge in a warmly lit law library reviewing an unmarked open volume and several blank case folders at a large wooden desk, with older bound law books and a curved doorway opening toward a softly illuminated courtroom in the background. The scene suggests the tension between inherited legal practice and a new way of reasoning, through the person's expression and the architecture, not through icons or a schematic. Lush painterly texture, rich spatial depth, dignified human scale, polished magazine editorial style. Landscape 4:3 for 800x600. No gavel as focal subject, no scales symbol, no readable text, letters, numbers, logos, flags, watermarks or UI. Do not depict a recognizable real judge.",
+      "qualityNotes": "Generated with the built-in image generation tool; editorial illustration, not a documentary depiction of study participants. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/doron-ageism-judicial-narratives.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "doron-ageism-judicial-narratives.html",
+      "usedBy": [
+        "doron-ageism-judicial-narratives.html"
+      ],
+      "cardTitleHe": "גילנות בבית המשפט: בין הגנה על אדם זקן לכיבוד בחירתו",
+      "authorsHe": "ישראל דורון",
+      "visualDescriptionHe": "איור דמיוני של אישה מבוגרת המשמיעה את עמדתה בסביבה משפטית, להמחשת אוטונומיה בזקנה",
+      "semanticDescriptionHe": "אותו סכסוך על הסכם דיור וטיפול בזקנה יכול להיקרא כסיפור של בחירה עצמאית או כסיפור של ניצול חולשה. ישראל דורון מנתח כיצד שתי ערכאות עיצבו נרטיבים שונים סביב אישה מבוגרת שנפטרה זמן קצר לאחר ההתקשרות. המאמר מזהיר שהגנה המבוססת על סטריאוטיפים של גיל עלולה לצמצם אוטונומיה, גם כשהכוונה מיטיבה.",
+      "tags": [
+        "גילנות",
+        "אוטונומיה",
+        "זקנה",
+        "נרטיב שיפוטי",
+        "חופש חוזים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial illustration for a study of ageism in judicial narratives. An older woman with agency and composure sits in a modest courtroom telling her story, seen at eye level from the listening bench. A middle-aged legal professional is listening carefully rather than towering over her, and a softly blurred stack of blank case files lies in the foreground. The woman is expressive, capable, not frail or infantilized. Warm natural light, realistic clothing and lived-in institutional room, depth, gentle brushwork, textured polished civic magazine illustration. Landscape 4:3 composition for 800x600. No generated text, letters, numbers, logos, flags, scales, watermarks, icons, diagrams or UI. Fictional people; an illustrative scene, not a particular historical case.",
+      "qualityNotes": "Generated with the built-in image generation tool; editorial illustration, not a documentary depiction of study participants. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/levy-social-utility-judicial-punishment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "levy-social-utility-judicial-punishment.html",
+      "usedBy": [
+        "levy-social-utility-judicial-punishment.html"
+      ],
+      "cardTitleHe": "ענישה ותועלת חברתית: מה מניע ענישה ומה ראוי שתשיג?",
+      "authorsHe": "דניאל לוי",
+      "visualDescriptionHe": "איש צוות ימי בפעילות התנדבותית לפינוי ענפים, להמחשת תרומה לקהילה; אין זה תיעוד של ענישה",
+      "semanticDescriptionHe": "דניאל לוי מחבר מחקרים אבולוציוניים, התנהגותיים ומוחיים לדיון במטרות הענישה. הוא מציע לראות בהשבת תחושת הצדק ובתמיכה בשיתוף פעולה רכיבים של תועלת חברתית, לצד מניעה והרתעה. ההצעה מחייבת להבחין בין הסבר הדחף להעניש לבין הצדקה מוסרית של עונש מסוים, ולבחון גם עלויות וסיכוני כוח מוסדי.",
+      "tags": [
+        "ענישה",
+        "תועלת חברתית",
+        "שיתוף פעולה",
+        "פסיכולוגיה מוסרית",
+        "מוסדות משפט"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Truman_sailors_committed_to_community_service_120313-N-UK248-009.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Truman_sailors_committed_to_community_service_120313-N-UK248-009.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, then cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "Petty Officer 2nd Class Kristina Young",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Truman_sailors_committed_to_community_service_120313-N-UK248-009.jpg"
+    },
+    {
+      "file": "html_qa/sandberg-hofri-arab-women-inheritance.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sandberg-hofri-arab-women-inheritance.html",
+      "usedBy": [
+        "sandberg-hofri-arab-women-inheritance.html"
+      ],
+      "cardTitleHe": "ויתור של נשים ערביות על ירושה: הסכמה משפחתית ושוויון משפטי",
+      "authorsHe": "חיים זנדברג; אדם חפרי־וינוגרדוב",
+      "visualDescriptionHe": "איור דמיוני של אישה בשיחה משפחתית סביב מסמכים, להמחשת בחירה וזכויות רכוש במשפחה",
+      "semanticDescriptionHe": "ויתור על זכות רכושית בתוך המשפחה יכול להיות פורמלי וחופשי לכאורה, אך להישען על תלות ולחץ מתמשך. חיים זנדברג ואדם חפרי־וינוגרדוב משווים את תגובת בתי המשפט לוויתורי ירושה של נשים ערביות לתגובתם לוויתורי רכוש של נשים יהודיות בגירושים. הם קוראים לבחינה קפדנית ושוויונית של רצון חופשי בשני ההקשרים.",
+      "tags": [
+        "ירושה",
+        "נשים ערביות",
+        "שוויון מגדרי",
+        "הסכמה חופשית",
+        "דיני משפחה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: editorial image for an academic article about Arab women's relinquishment of inheritance shares and courts' response. A dignified adult Arab woman in ordinary contemporary clothes sits at a family table in a warm Mediterranean home, holding a closed plain folder in front of her; an older male relative and another woman sit across the table, leaving physical space for a difficult conversation over family property. The woman has a thoughtful, self-possessed expression and is the clear focus. Sunlit stone walls and a glimpse of an olive courtyard, tactile furniture and fabrics, realistic humane bodies, polished painterly editorial style with rich depth. No simplistic villain, no forced religious clothing, no money stacks or legal symbols. Landscape 4:3 for 800x600. All documents are blank; no text, letters, numbers, logos, flags, watermarks, diagrams or UI. Fictional scene.",
+      "qualityNotes": "Generated with the built-in image generation tool; editorial illustration, not a documentary depiction of study participants. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/libby-deitrick-mano-nonprofit-lobbying.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "libby-deitrick-mano-nonprofit-lobbying.html",
+      "usedBy": [
+        "libby-deitrick-mano-nonprofit-lobbying.html"
+      ],
+      "cardTitleHe": "איך עמותות בישראל מנסות להשפיע על חקיקה?",
+      "authorsHe": "Patricia Libby; Laura Deitrick; ריטה מנו",
+      "visualDescriptionHe": "תצלום ארכיוני של מפגש ועדת הכספים עם מנהיג ההסתדרות ירוחם משל, להמחשת מפגש בין נציגי ארגונים למחוקקים",
+      "semanticDescriptionHe": "ראיונות עם ארגוני סנגור בישראל מצביעים על שילוב של קשרים עם מחוקקים, ניירות עמדה, תקשורת ולעיתים גם מחאה. בהשוואה למודל ליבי לשדלנות, החוקרות מזהות פחות שימוש שיטתי במיפוי בעלי עניין ובכמה שלבי תכנון. המחקר מציע כלי לבחינת יכולת ההשפעה של החברה האזרחית, בלי להוכיח שמודל פעולה אחד מבטיח הצלחה.",
+      "tags": [
+        "חברה אזרחית",
+        "עמותות",
+        "שדלנות",
+        "חקיקה",
+        "סנגור ציבורי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-17",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Finance_Committee_met_the_Histadrut_leader,_Yerucham_Meshel_(FL63079698).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Finance_Committee_met_the_Histadrut_leader%2C_Yerucham_Meshel_%28FL63079698%29.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, then cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "IPPA photographer",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Finance_Committee_met_the_Histadrut_leader,_Yerucham_Meshel_(FL63079698).jpg"
     }
   ],
   "topicGraphics": [
