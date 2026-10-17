@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-17",
+  "lastUpdated": "2026-10-18",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -54016,6 +54016,315 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Finance_Committee_met_the_Histadrut_leader,_Yerucham_Meshel_(FL63079698).jpg"
+    },
+    {
+      "file": "html_qa/bonikowski-feinstein-bock-nationalism-party-sorting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bonikowski-feinstein-bock-nationalism-party-sorting.html",
+      "usedBy": [
+        "bonikowski-feinstein-bock-nationalism-party-sorting.html"
+      ],
+      "cardTitleHe": "זהות אמריקאית וקיטוב מפלגתי בבחירות 2016",
+      "authorsHe": "Bart Bonikowski; Yuval Feinstein; Sean Bock",
+      "visualDescriptionHe": "איור דמיוני של קבוצות אזרחים בשיחה בספרייה קהילתית, להמחשת מחלוקת על זהות לאומית משותפת",
+      "semanticDescriptionHe": "תפיסות שונות של שייכות לאומית נקשרו לתמיכה במועמדים בבחירות בארצות הברית. המחקר מוצא כי השינוי המרכזי היה התכנסות של תפיסות לאומיות בתוך מחנות מפלגתיים לאורך שני עשורים, יותר מאשר הקצנה אחידה של הציבור. כשהמחלוקת על מדיניות הופכת גם למחלוקת על זהות האומה, עלול להיפגע הבסיס להסכמה דמוקרטית.",
+      "tags": [
+        "לאומיות",
+        "זהות לאומית",
+        "קיטוב",
+        "ארצות הברית",
+        "בחירות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial image for an academic paper about competing meanings of American national identity, political party sorting and the 2016 US election. Create a polished, richly textured painterly editorial scene of a civic discussion in an American community library: two small diverse groups of adult citizens in conversation across a room, faces thoughtful, a shared tall window between them, bookshelves and worn wooden chairs, late afternoon warm light with teal shadows. Natural spatial depth and nuanced human gestures; neither group villainous. Composition distinct and human, no literal symbols or diagrams. No flags, politicians, recognizable real people, readable text, letters, logos, watermark, ballot lettering or UI. Fill the entire 4:3 image; no border.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/kenig-rahat-likud-netanyahu-personalization.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kenig-rahat-likud-netanyahu-personalization.html",
+      "usedBy": [
+        "kenig-rahat-likud-netanyahu-personalization.html"
+      ],
+      "cardTitleHe": "הליכוד בעידן נתניהו: ממפלגת מנהיג למפלגה אישית",
+      "authorsHe": "עופר קניג; גדעון רהט",
+      "visualDescriptionHe": "ברק אובמה מלווה את בנימין נתניהו בבית הלבן במאי 2009; תצלום מנהיגות להמחשה ולא תיעוד של מוסדות הליכוד",
+      "semanticDescriptionHe": "עופר קניג וגדעון רהט מתארים כיצד הליכוד נעשה תלוי יותר בנתניהו אף שסמכויות היו״ר הפורמליות השתנו מעט. הם בוחנים תחרות פנימית, מוסדות מפלגתיים, מסרים והתנהגות בוחרים. הטענה הדמוקרטית המרכזית היא שמפלגה חזקה בקלפי יכולה להיחלש כמוסד המסוגל להגביל את מנהיגה.",
+      "tags": [
+        "הליכוד",
+        "נתניהו",
+        "פרסונליזציה",
+        "מפלגות",
+        "נסיגה דמוקרטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Barack_Obama_walking_with_Benjamin_Netanyahu_in_2009_(3543351847).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Barack_Obama_walking_with_Benjamin_Netanyahu_in_2009_%283543351847%29.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "Pete Souza / The White House",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Barack_Obama_walking_with_Benjamin_Netanyahu_in_2009_(3543351847).jpg",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS"
+    },
+    {
+      "file": "html_qa/sommer-asal-rights-guarantees-employment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sommer-asal-rights-guarantees-employment.html",
+      "usedBy": [
+        "sommer-asal-rights-guarantees-employment.html"
+      ],
+      "cardTitleHe": "איסור אפליה בתעסוקה: איך זכויות מתפשטות בין קבוצות ומדינות",
+      "authorsHe": "אודי זומר; ויקטור אסאל",
+      "visualDescriptionHe": "איור דמיוני של עובדים המתקבלים במקום עבודה, להמחשת שוויון בגישה לתעסוקה",
+      "semanticDescriptionHe": "מחקר ב־161 מדינות בוחן אימוץ הגנות משפטיות מפני אפליה בעבודה בשל נטייה מינית. אודי זומר וויקטור אסאל מצביעים על שילוב בין הכללה פוליטית פנימית לבין מחויבויות בינלאומיות. הממצאים נוגעים לעצם קיומן של זכויות במשפט, ולכן חשוב להבחין בינן לבין אכיפתן בחיי העבודה.",
+      "tags": [
+        "שוויון בתעסוקה",
+        "נטייה מינית",
+        "זכויות מיעוטים",
+        "ייצוג נשים",
+        "משפט בינלאומי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial art for a cross-national study of laws prohibiting sexual-orientation discrimination in employment. Polished textured editorial painting of diverse adult workers standing together in a bright ordinary workplace corridor, two colleagues greeted on equal terms by a welcoming manager beside an open office doorway, documents held without visible writing. Human dignity and equal access are the focus, natural warm daylight, nuanced ochre and sage palette, real spatial depth. Do not imply identities by stereotypes. Fictional illustration, no recognizable people, no flags, signs, lettering, logos, watermarks, scales, icons, diagrams or UI. Fill 4:3 image.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/hillman-metsuyanim-potrafke-group-identity-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hillman-metsuyanim-potrafke-group-identity-democracy.html",
+      "usedBy": [
+        "hillman-metsuyanim-potrafke-group-identity-democracy.html"
+      ],
+      "cardTitleHe": "זהות קבוצתית והצבעה: הפער בין בחירות מקומיות לארציות",
+      "authorsHe": "Arye L. Hillman; Kfir Metsuyanim; Niklas Potrafke",
+      "visualDescriptionHe": "מבט על מרכז אום אל־פחם, להמחשת המרחב העירוני בדיון על השתתפות פוליטית מקומית",
+      "semanticDescriptionHe": "המחקר בוחן מדוע שיעורי הצבעה גבוהים ביישובים מסוימים בבחירות המקומיות מתקיימים לצד השתתפות נמוכה יותר בבחירות הארציות. ההסבר מתמקד ביכולת של קבוצה להשפיע על חלוקת משאבים ועל הרכב השלטון. הוא מדגיש שהשתתפות רבה יכולה להתקיים גם כשהתחרות נשענת על קבוצות קבועות.",
+      "tags": [
+        "זהות קבוצתית",
+        "שלטון מקומי",
+        "השתתפות פוליטית",
+        "הצבעה",
+        "חלוקת משאבים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm-al-Fahm-centre-3.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Umm-al-Fahm-centre-3.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "MihMin",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Umm-al-Fahm-centre-3.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "file": "html_qa/tsur-democracy-greenhouse-gas-emissions.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "tsur-democracy-greenhouse-gas-emissions.html",
+      "usedBy": [
+        "tsur-democracy-greenhouse-gas-emissions.html"
+      ],
+      "cardTitleHe": "אילו מרכיבים של הדמוקרטיה קשורים להפחתת פליטות?",
+      "authorsHe": "Yacov Tsur",
+      "visualDescriptionHe": "איור דמיוני של דיון אזרחי בחדר עירוני שממנו נשקפת תחנת כוח, להמחשת השתתפות ציבורית ומדיניות פליטות",
+      "semanticDescriptionHe": "יעקב צור מפריד בין מרכיבים שונים של הדמוקרטיה כדי לבחון את הקשר שלהם לפליטות גזי חממה. ההשוואה בין מדינות מצביעה על הבדלים בין הצבעה ישירה, השתתפות אזרחית, חירויות ומגבלות על הרשות המבצעת. התוצאות תלויות גם בהכנסה ובסוג הפליטות, ומציעות להתאים כלי מדיניות למוסדות ולמקורות הזיהום.",
+      "tags": [
+        "דמוקרטיה",
+        "מדיניות אקלים",
+        "פליטות",
+        "חברה אזרחית",
+        "משאלי עם"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create a polished textured painterly editorial image, full 4:3 landscape, about the differing effects of democratic participation on greenhouse gas emissions. A civic meeting in a modest municipal room with a wide window overlooking a distant industrial power station and a town; diverse adult citizens discuss with attentive expressions around a wooden table, one participant speaking while others listen, blank papers, natural proportions, rich spatial depth. Late-afternoon warm interior light, hazy muted blue exterior with thin industrial plumes. Specific human scene connecting public participation and emissions, not a diagram. Fictional location and people, no identifiable politicians, no text or letters, logos, flags, watermarks, graphs, screen interfaces or pasted layers. Fill entire 4:3 frame.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/franck-income-shocks-french-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "franck-income-shocks-french-democracy.html",
+      "usedBy": [
+        "franck-income-shocks-french-democracy.html"
+      ],
+      "cardTitleHe": "גשם, הכנסה והתבססות הדמוקרטיה בצרפת",
+      "authorsHe": "Raphaël Franck",
+      "visualDescriptionHe": "איור דמיוני של כפר צרפתי ושדה לאחר גשם במאה התשע־עשרה, להמחשת הקשר בין מזג אוויר להכנסה חקלאית",
+      "semanticDescriptionHe": "רפאל פרנק בוחן כיצד תנודות בהכנסה המקומית השפיעו על התמיכה ברפובליקנים בראשית הרפובליקה השלישית. המחקר משתמש בשונות בכמויות הגשם כדי לזהות זעזועים כלכליים במשק חקלאי. הוא מציע שהתבססות המשטר הייתה תלויה גם בתנאים זמניים שלא היו בשליטת המנהיגים, ולא רק בהתחזקות מחויבות הציבור לדמוקרטיה.",
+      "tags": [
+        "צרפת",
+        "הצבעה כלכלית",
+        "התבססות דמוקרטית",
+        "הכנסה",
+        "גשם"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: historical-scene. Asset type: 4:3 landscape editorial painting illustrating a study of rainfall, agricultural incomes and republican voting in nineteenth-century France. Rich atmospheric painterly view of a French rural village in the late nineteenth century after heavy rain: wet wheat field and muddy track in foreground, two adult villagers in period rural clothing conversing beside a stone farm building, distant village rooftops under clearing cloud. Strong depth, tactile landscape, cool rain light balanced with warm earth tones. This is an imagined illustration, not a specific historical event. No modern technology, politicians, flags, text, lettering, logos, watermark, diagrams or symbols. Entire 4:3 image with no border.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/rosenfeld-arab-minority-class-situation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rosenfeld-arab-minority-class-situation.html",
+      "usedBy": [
+        "rosenfeld-arab-minority-class-situation.html"
+      ],
+      "cardTitleHe": "מעמד חברתי וזכויות המיעוט הערבי בישראל",
+      "authorsHe": "הנרי רוזנפלד",
+      "visualDescriptionHe": "שוק בנצרת בתצלום בן זמננו, להמחשת חיי חברה וכלכלה; אינו תיעוד של תקופת המחקר משנת 1978",
+      "semanticDescriptionHe": "הנרי רוזנפלד מציע לקרוא את מצב המיעוט הערבי בישראל דרך הקשר בין מעמד כלכלי, לאומיות וכוח מדינתי. מסגרת הניתוח מחברת את היווצרותו של מבנה מעמדי חדש למאבק על זכויות מיעוט. היא מעלה את השאלה כיצד שפה אידאולוגית יכולה להסתיר יחסי כוח חברתיים ופוליטיים.",
+      "tags": [
+        "המיעוט הערבי",
+        "מעמד חברתי",
+        "זכויות מיעוטים",
+        "לאומיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Market_in_Nazareth_P1020531.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/A_Market_in_Nazareth_P1020531.JPG",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "deror_avi",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Market_in_Nazareth_P1020531.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "file": "html_qa/frosh-wolfsfeld-news-nationhood-civil-society.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "frosh-wolfsfeld-news-nationhood-civil-society.html",
+      "usedBy": [
+        "frosh-wolfsfeld-news-nationhood-civil-society.html"
+      ],
+      "cardTitleHe": "חדשות טלוויזיה, חיי יום־יום ובניית תחושת הלאום",
+      "authorsHe": "פול פרוש; גדי וולפספלד",
+      "visualDescriptionHe": "איור דמיוני של צוות טלוויזיה המשוחח עם תושבים ברחוב ירושלמי, להמחשת הקשר בין סיפור אזרחי לסיקור חדשותי",
+      "semanticDescriptionHe": "פול פרוש וגדי וולפספלד בוחנים כיצד סיקור חדשותי של פיגוע בירושלים מציג חברה אזרחית כסמל לחוסן לאומי. הטענה היא שהטלוויזיה בונה דימוי של האומה גם דרך קשרים בין אנשים, מעבר להצגת המדינה ומנהיגיה. כך סיפורים אזרחיים יכולים לשלב תפיסות אזרחיות ואתניות של שייכות.",
+      "tags": [
+        "חדשות טלוויזיה",
+        "לאומיות",
+        "חברה אזרחית",
+        "סיקור טרור"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Create a polished painterly editorial image, full 4:3 landscape, illustrating a scholarly study of how television news turns everyday civil solidarity into stories of national resilience. A small fictional television crew with a shoulder-mounted camera interviews ordinary adult neighbors on a warm stone street in Jerusalem, some neighbors conversing and supporting one another in the middle distance, humane faces, natural proportions, layers of architecture and people, soft golden light and cool shadows, realistic depth and rich textured detail. Calm civic life, no depiction of an actual event or identifiable real people. No explosions, injured people, weapons, flags, readable text, letters, logos, watermarks, signs, diagrams, UI or visible screen content. No border.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/franck-french-constitutional-court-divided-polity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "franck-french-constitutional-court-divided-polity.html",
+      "usedBy": [
+        "franck-french-constitutional-court-divided-polity.html"
+      ],
+      "cardTitleHe": "עצמאות שיפוטית בצרפת כשהכוח הפוליטי מפוצל",
+      "authorsHe": "Raphaël Franck",
+      "visualDescriptionHe": "חדר הדיונים של המועצה החוקתית בצרפת, הגוף שפסיקותיו נבחנות במחקר",
+      "semanticDescriptionHe": "רפאל פרנק בוחן את פסיקות המועצה החוקתית הצרפתית בשנים 1959–2006. הממצא המרכזי הוא שפסיקות עצמאיות הופיעו בעיקר כשהמערכת הפוליטית הייתה מפוצלת בין ימין לשמאל. המחקר מציע לבחון עצמאות שיפוטית כמאפיין התלוי גם במאזן הכוחות שסביב בית המשפט.",
+      "tags": [
+        "עצמאות שיפוטית",
+        "צרפת",
+        "המועצה החוקתית",
+        "פיצול פוליטי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_-_Salle_des_d%C3%A9lib%C3%A9r%C3%A9s.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Conseil_Constitutionnel_-_Salle_des_d%C3%A9lib%C3%A9r%C3%A9s.JPG",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is described in alt text.",
+      "creator": "Faqscl",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_-_Salle_des_d%C3%A9lib%C3%A9r%C3%A9s.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/davidson-meyers-journalistic-pressure-clientelism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "davidson-meyers-journalistic-pressure-clientelism.html",
+      "usedBy": [
+        "davidson-meyers-journalistic-pressure-clientelism.html"
+      ],
+      "cardTitleHe": "עיתונאים תחת לחץ: נאמנות לציבור וקשרים עם בעלי כוח",
+      "authorsHe": "רועי דוידזון; אורן מאיירס",
+      "visualDescriptionHe": "איור דמיוני של עיתונאי בחדר חדשות בזמן שעורך משוחח עם מבקר מעבר לקיר זכוכית",
+      "semanticDescriptionHe": "רועי דוידזון ואורן מאיירס מנתחים 47 ראיונות עם עיתונאים בישראל על לחצים המשפיעים על עבודתם. הם מתארים סביבה של תלות הדדית בין כלי תקשורת, מעסיקים ובעלי כוח, שחודרת גם לקשרים האישיים של העיתונאי. המחקר מחדד את הפער בין אחריות ציבורית לבין התמריצים המעצבים פרסום, הסתרה ומסגור.",
+      "tags": [
+        "עיתונות",
+        "קליינטליזם",
+        "חופש העיתונות",
+        "אינטרס ציבורי",
+        "נסיגה דמוקרטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-18",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial image about journalists facing employer and source pressures in a clientelistic media system. Warm textured sophisticated editorial painting, a working journalist in a busy newsroom in the foreground pauses thoughtfully over a plain notebook; through glass in the middle distance a senior editor converses with a well-dressed visitor. Shelves, desk lamps, piles of papers without legible writing, other staff in the background. Side-angle composition with depth, evening amber light and muted blues, realistic human proportions. Show professional tension subtly without a villain, bribery, literal strings or symbols. Fictional scene, no recognizable real people. No text, letters, logos, visible screens or UI, watermarks, flags. Entire image 4:3 landscape.",
+      "qualityNotes": "Generated editorial illustration, not a documentary depiction. Cropped and resized to 800x600 JPEG.",
+      "creator": "OpenAI",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "license": "AI-generated image"
     }
   ],
   "topicGraphics": [

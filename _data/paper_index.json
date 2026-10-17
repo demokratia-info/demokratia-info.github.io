@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1942,
+  "paperCount": 1952,
   "papers": [
+    {
+      "slug": "davidson-meyers-journalistic-pressure-clientelism",
+      "file": "davidson-meyers-journalistic-pressure-clientelism.html",
+      "permalink": "/davidson-meyers-journalistic-pressure-clientelism.html",
+      "sortKey": 202610180010,
+      "titleHe": "עיתונאים תחת לחץ: נאמנות לציבור וקשרים עם בעלי כוח",
+      "paperTitle": "Under Pressure: Journalistic Role Performance and the Public Interest in an Era of Media Clientelism",
+      "authorsCardHe": "רועי דוידזון; אורן מאיירס",
+      "sourceAuthors": [
+        "Roei Davidson",
+        "Oren Meyers"
+      ],
+      "journal": "Journalism Studies, 27(8), 1130–1150",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1080/1461670x.2026.2626417",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/davidson-meyers-journalistic-pressure-clientelism.jpg",
+        "altHe": "איור דמיוני של עיתונאי בחדר חדשות בזמן שעורך משוחח עם מבקר מעבר לקיר זכוכית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "רועי דוידזון ואורן מאיירס מנתחים 47 ראיונות עם עיתונאים בישראל על לחצים המשפיעים על עבודתם. הם מתארים סביבה של תלות הדדית בין כלי תקשורת, מעסיקים ובעלי כוח, שחודרת גם לקשרים האישיים של העיתונאי. המחקר מחדד את הפער בין אחריות ציבורית לבין התמריצים המעצבים פרסום, הסתרה ומסגור.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "franck-french-constitutional-court-divided-polity",
+      "file": "franck-french-constitutional-court-divided-polity.html",
+      "permalink": "/franck-french-constitutional-court-divided-polity.html",
+      "sortKey": 202610180009,
+      "titleHe": "עצמאות שיפוטית בצרפת כשהכוח הפוליטי מפוצל",
+      "paperTitle": "Judicial Independence Under a Divided Polity: A Study of the Rulings of the French Constitutional Court, 1959-2006",
+      "authorsCardHe": "Raphaël Franck",
+      "sourceAuthors": [
+        "Raphaël Franck"
+      ],
+      "journal": "Journal of Law, Economics, and Organization, 25(1), 262–284",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1093/jleo/ewn001",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/franck-french-constitutional-court-divided-polity.jpg",
+        "altHe": "חדר הדיונים של המועצה החוקתית בצרפת, הגוף שפסיקותיו נבחנות במחקר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "רפאל פרנק בוחן את פסיקות המועצה החוקתית הצרפתית בשנים 1959–2006. הממצא המרכזי הוא שפסיקות עצמאיות הופיעו בעיקר כשהמערכת הפוליטית הייתה מפוצלת בין ימין לשמאל. המחקר מציע לבחון עצמאות שיפוטית כמאפיין התלוי גם במאזן הכוחות שסביב בית המשפט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "frosh-wolfsfeld-news-nationhood-civil-society",
+      "file": "frosh-wolfsfeld-news-nationhood-civil-society.html",
+      "permalink": "/frosh-wolfsfeld-news-nationhood-civil-society.html",
+      "sortKey": 202610180008,
+      "titleHe": "חדשות טלוויזיה, חיי יום־יום ובניית תחושת הלאום",
+      "paperTitle": "ImagiNation: news discourse, nationhood and civil society",
+      "authorsCardHe": "פול פרוש; גדי וולפספלד",
+      "sourceAuthors": [
+        "Paul Frosh",
+        "Gadi Wolfsfeld"
+      ],
+      "journal": "Media, Culture & Society, 29(1), 105–129",
+      "dateText": "2007",
+      "doiUrl": "https://doi.org/10.1177/0163443706072001",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/frosh-wolfsfeld-news-nationhood-civil-society.jpg",
+        "altHe": "איור דמיוני של צוות טלוויזיה המשוחח עם תושבים ברחוב ירושלמי, להמחשת הקשר בין סיפור אזרחי לסיקור חדשותי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "פול פרוש וגדי וולפספלד בוחנים כיצד סיקור חדשותי של פיגוע בירושלים מציג חברה אזרחית כסמל לחוסן לאומי. הטענה היא שהטלוויזיה בונה דימוי של האומה גם דרך קשרים בין אנשים, מעבר להצגת המדינה ומנהיגיה. כך סיפורים אזרחיים יכולים לשלב תפיסות אזרחיות ואתניות של שייכות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "rosenfeld-arab-minority-class-situation",
+      "file": "rosenfeld-arab-minority-class-situation.html",
+      "permalink": "/rosenfeld-arab-minority-class-situation.html",
+      "sortKey": 202610180007,
+      "titleHe": "מעמד חברתי וזכויות המיעוט הערבי בישראל",
+      "paperTitle": "The Class Situation of the Arab National Minority in Israel",
+      "authorsCardHe": "הנרי רוזנפלד",
+      "sourceAuthors": [
+        "Henry Rosenfeld"
+      ],
+      "journal": "Comparative Studies in Society and History, 20(3), 374–407",
+      "dateText": "1978",
+      "doiUrl": "https://doi.org/10.1017/s0010417500009051",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/rosenfeld-arab-minority-class-situation.jpg",
+        "altHe": "שוק בנצרת בתצלום בן זמננו, להמחשת חיי חברה וכלכלה; אינו תיעוד של תקופת המחקר משנת 1978",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "הנרי רוזנפלד מציע לקרוא את מצב המיעוט הערבי בישראל דרך הקשר בין מעמד כלכלי, לאומיות וכוח מדינתי. מסגרת הניתוח מחברת את היווצרותו של מבנה מעמדי חדש למאבק על זכויות מיעוט. היא מעלה את השאלה כיצד שפה אידאולוגית יכולה להסתיר יחסי כוח חברתיים ופוליטיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "franck-income-shocks-french-democracy",
+      "file": "franck-income-shocks-french-democracy.html",
+      "permalink": "/franck-income-shocks-french-democracy.html",
+      "sortKey": 202610180006,
+      "titleHe": "גשם, הכנסה והתבססות הדמוקרטיה בצרפת",
+      "paperTitle": "The Political Consequences of Income Shocks: Explaining the Consolidation of Democracy in France",
+      "authorsCardHe": "Raphaël Franck",
+      "sourceAuthors": [
+        "Raphaël Franck"
+      ],
+      "journal": "Review of Economics and Statistics, 98(1), 57–82",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1162/rest_a_00477",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/franck-income-shocks-french-democracy.jpg",
+        "altHe": "איור דמיוני של כפר צרפתי ושדה לאחר גשם במאה התשע־עשרה, להמחשת הקשר בין מזג אוויר להכנסה חקלאית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "רפאל פרנק בוחן כיצד תנודות בהכנסה המקומית השפיעו על התמיכה ברפובליקנים בראשית הרפובליקה השלישית. המחקר משתמש בשונות בכמויות הגשם כדי לזהות זעזועים כלכליים במשק חקלאי. הוא מציע שהתבססות המשטר הייתה תלויה גם בתנאים זמניים שלא היו בשליטת המנהיגים, ולא רק בהתחזקות מחויבות הציבור לדמוקרטיה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "tsur-democracy-greenhouse-gas-emissions",
+      "file": "tsur-democracy-greenhouse-gas-emissions.html",
+      "permalink": "/tsur-democracy-greenhouse-gas-emissions.html",
+      "sortKey": 202610180005,
+      "titleHe": "אילו מרכיבים של הדמוקרטיה קשורים להפחתת פליטות?",
+      "paperTitle": "The diverse impacts of democracy on greenhouse gas emissions",
+      "authorsCardHe": "Yacov Tsur",
+      "sourceAuthors": [
+        "Yacov Tsur"
+      ],
+      "journal": "Ecological Economics, 227, 108411",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1016/j.ecolecon.2024.108411",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/tsur-democracy-greenhouse-gas-emissions.jpg",
+        "altHe": "איור דמיוני של דיון אזרחי בחדר עירוני שממנו נשקפת תחנת כוח, להמחשת השתתפות ציבורית ומדיניות פליטות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "יעקב צור מפריד בין מרכיבים שונים של הדמוקרטיה כדי לבחון את הקשר שלהם לפליטות גזי חממה. ההשוואה בין מדינות מצביעה על הבדלים בין הצבעה ישירה, השתתפות אזרחית, חירויות ומגבלות על הרשות המבצעת. התוצאות תלויות גם בהכנסה ובסוג הפליטות, ומציעות להתאים כלי מדיניות למוסדות ולמקורות הזיהום.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hillman-metsuyanim-potrafke-group-identity-democracy",
+      "file": "hillman-metsuyanim-potrafke-group-identity-democracy.html",
+      "permalink": "/hillman-metsuyanim-potrafke-group-identity-democracy.html",
+      "sortKey": 202610180004,
+      "titleHe": "זהות קבוצתית והצבעה: הפער בין בחירות מקומיות לארציות",
+      "paperTitle": "Democracy with group identity",
+      "authorsCardHe": "Arye L. Hillman; Kfir Metsuyanim; Niklas Potrafke",
+      "sourceAuthors": [
+        "Arye L. Hillman",
+        "Kfir Metsuyanim",
+        "Niklas Potrafke"
+      ],
+      "journal": "European Journal of Political Economy, 40, 274–287",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2015.04.001",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/hillman-metsuyanim-potrafke-group-identity-democracy.jpg",
+        "altHe": "מבט על מרכז אום אל־פחם, להמחשת המרחב העירוני בדיון על השתתפות פוליטית מקומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "המחקר בוחן מדוע שיעורי הצבעה גבוהים ביישובים מסוימים בבחירות המקומיות מתקיימים לצד השתתפות נמוכה יותר בבחירות הארציות. ההסבר מתמקד ביכולת של קבוצה להשפיע על חלוקת משאבים ועל הרכב השלטון. הוא מדגיש שהשתתפות רבה יכולה להתקיים גם כשהתחרות נשענת על קבוצות קבועות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sommer-asal-rights-guarantees-employment",
+      "file": "sommer-asal-rights-guarantees-employment.html",
+      "permalink": "/sommer-asal-rights-guarantees-employment.html",
+      "sortKey": 202610180003,
+      "titleHe": "איסור אפליה בתעסוקה: איך זכויות מתפשטות בין קבוצות ומדינות",
+      "paperTitle": "A cross-national analysis of the guarantees of rights",
+      "authorsCardHe": "אודי זומר; ויקטור אסאל",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Victor Asal"
+      ],
+      "journal": "International Political Science Review, 35(4), 463–481",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1177/0192512112455209",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/sommer-asal-rights-guarantees-employment.jpg",
+        "altHe": "איור דמיוני של עובדים המתקבלים במקום עבודה, להמחשת שוויון בגישה לתעסוקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "מחקר ב־161 מדינות בוחן אימוץ הגנות משפטיות מפני אפליה בעבודה בשל נטייה מינית. אודי זומר וויקטור אסאל מצביעים על שילוב בין הכללה פוליטית פנימית לבין מחויבויות בינלאומיות. הממצאים נוגעים לעצם קיומן של זכויות במשפט, ולכן חשוב להבחין בינן לבין אכיפתן בחיי העבודה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kenig-rahat-likud-netanyahu-personalization",
+      "file": "kenig-rahat-likud-netanyahu-personalization.html",
+      "permalink": "/kenig-rahat-likud-netanyahu-personalization.html",
+      "sortKey": 202610180002,
+      "titleHe": "הליכוד בעידן נתניהו: ממפלגת מנהיג למפלגה אישית",
+      "paperTitle": "The personalization of the Likud in the era of Netanyahu",
+      "authorsCardHe": "עופר קניג; גדעון רהט",
+      "sourceAuthors": [
+        "Ofer Kenig",
+        "Gideon Rahat"
+      ],
+      "journal": "Social Science Quarterly, 105(3), 444–460",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.1111/ssqu.13325",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kenig-rahat-likud-netanyahu-personalization.jpg",
+        "altHe": "ברק אובמה מלווה את בנימין נתניהו בבית הלבן במאי 2009; תצלום מנהיגות להמחשה ולא תיעוד של מוסדות הליכוד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "עופר קניג וגדעון רהט מתארים כיצד הליכוד נעשה תלוי יותר בנתניהו אף שסמכויות היו״ר הפורמליות השתנו מעט. הם בוחנים תחרות פנימית, מוסדות מפלגתיים, מסרים והתנהגות בוחרים. הטענה הדמוקרטית המרכזית היא שמפלגה חזקה בקלפי יכולה להיחלש כמוסד המסוגל להגביל את מנהיגה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bonikowski-feinstein-bock-nationalism-party-sorting",
+      "file": "bonikowski-feinstein-bock-nationalism-party-sorting.html",
+      "permalink": "/bonikowski-feinstein-bock-nationalism-party-sorting.html",
+      "sortKey": 202610180001,
+      "titleHe": "זהות אמריקאית וקיטוב מפלגתי בבחירות 2016",
+      "paperTitle": "The Partisan Sorting of “America”: How Nationalist Cleavages Shaped the 2016 U.S. Presidential Election",
+      "authorsCardHe": "Bart Bonikowski; Yuval Feinstein; Sean Bock",
+      "sourceAuthors": [
+        "Bart Bonikowski",
+        "Yuval Feinstein",
+        "Sean Bock"
+      ],
+      "journal": "American Journal of Sociology, 127(2), 492–561",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1086/717103",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/bonikowski-feinstein-bock-nationalism-party-sorting.jpg",
+        "altHe": "איור דמיוני של קבוצות אזרחים בשיחה בספרייה קהילתית, להמחשת מחלוקת על זהות לאומית משותפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "summaryHe": "תפיסות שונות של שייכות לאומית נקשרו לתמיכה במועמדים בבחירות בארצות הברית. המחקר מוצא כי השינוי המרכזי היה התכנסות של תפיסות לאומיות בתוך מחנות מפלגתיים לאורך שני עשורים, יותר מאשר הקצנה אחידה של הציבור. כשהמחלוקת על מדיניות הופכת גם למחלוקת על זהות האומה, עלול להיפגע הבסיס להסכמה דמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "libby-deitrick-mano-nonprofit-lobbying",
       "file": "libby-deitrick-mano-nonprofit-lobbying.html",
