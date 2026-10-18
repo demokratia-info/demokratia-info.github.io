@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-10-19",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -54325,6 +54325,321 @@
       "sourceType": "generated",
       "provider": "OpenAI",
       "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/gradwohl-heller-hillman-social-media-voting.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gradwohl-heller-hillman-social-media-voting.html",
+      "usedBy": [
+        "gradwohl-heller-hillman-social-media-voting.html"
+      ],
+      "cardTitleHe": "מידע אמיתי, בחירה מוטה: כיצד רשתות חברתיות יכולות לשנות הכרעת רוב",
+      "authorsHe": "Ronen Gradwohl, Yuval Heller, Arye L. Hillman",
+      "visualDescriptionHe": "סצנה דמיונית של אנשים הקוראים בטלפונים נפרדים בבית קפה, להמחשת סביבות מידע אישיות",
+      "semanticDescriptionHe": "מודל של שכנוע בייסיאני מראה שפלטפורמה יכולה להשפיע על הכרעת רוב באמצעות חלוקה בררנית של מידע אמיתי בין בוחרים. בתנאים מסוימים, תוספת מידע משפרת את החלטתו של היחיד בממוצע אך פוגעת ביכולת הציבור לבחור יחד את החלופה העדיפה. מכאן שבדיקת עובדות לבדה אינה מספיקה לבחינת כוחן הפוליטי של פלטפורמות.",
+      "tags": [
+        "רשתות חברתיות",
+        "שכנוע בייסיאני",
+        "משפט קונדורסה",
+        "מידע פוליטי",
+        "הכרעת רוב"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial illustration about selective true information sent privately by social platforms to voters. Primary request: a textured, cinematic painting of three ordinary adults at different tables in a busy neighborhood cafe, each quietly reading a smartphone while a shared public conversation continues in the deeper background. Phones seen obliquely with soft blank light, no screens readable, no message bubbles. The people occupy distinct pools of warm light and have different contemplative reactions, conveying separate information environments without literal diagrams or malicious caricatures. Rich warm wood, plants, layered civic street outside, subtle muted blues and ochres, sophisticated editorial realism. Fictional people. No text, letters, numbers, logos, flags, watermarks, UI, arrows or icons. Full 4:3 landscape.",
+      "qualityNotes": "Generated fictional editorial illustration, not documentary evidence. Cropped and resized to 800x600 JPEG.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/benvenisti-subsidiarity-global-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "benvenisti-subsidiarity-global-democracy.html",
+      "usedBy": [
+        "benvenisti-subsidiarity-global-democracy.html"
+      ],
+      "cardTitleHe": "שיקול דעת למדינות מול לחצים גלובליים: תפקידו הדמוקרטי של בית הדין לזכויות האדם",
+      "authorsHe": "Eyal Benvenisti",
+      "visualDescriptionHe": "אולם הדיונים הגדול של בית הדין האירופי לזכויות האדם בשטרסבורג",
+      "semanticDescriptionHe": "איל בנבנישתי בוחן מדוע כיבוד החלטות של מוסדות לאומיים אינו מבטיח הגנה דמוקרטית כשזכויות מושפעות מלחצים חוצי גבולות. הוא מציע להעדיף חשיבה של סובסידיאריות: להכריע באיזו רמה מוסדית אפשר להגן על מי שקולם חסר. לפי גישה זו, ביקורת בינלאומית יכולה לחזק דמוקרטיה מקומית כאשר המדינה אינה מסוגלת להתמודד לבדה עם הבעיה.",
+      "tags": [
+        "מרווח הערכה",
+        "סובסידיאריות",
+        "בית הדין האירופי לזכויות האדם",
+        "גלובליזציה",
+        "ייצוג דמוקרטי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Courtroom_European_Court_of_Human_Rights_02.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Courtroom_European_Court_of_Human_Rights_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is stated in alt text.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtroom_European_Court_of_Human_Rights_02.JPG"
+    },
+    {
+      "file": "html_qa/golan-militarization-gender-israel.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "golan-militarization-gender-israel.html",
+      "usedBy": [
+        "golan-militarization-gender-israel.html"
+      ],
+      "cardTitleHe": "צבא, מעמד ושוויון: מיליטריזציה ויחסי מגדר בישראל",
+      "authorsHe": "Galia Golan",
+      "visualDescriptionHe": "חיילות בטירונות בבה״ד 12 בשנת 1972, בצילום ארכיוני להמחשת חלוקת התפקידים בצבא",
+      "semanticDescriptionHe": "גליה גולן טוענת כי מרכזיות הצבא בחברה הישראלית מעבירה הבדלים מגדריים מן השירות הצבאי אל המעמד האזרחי. בניתוח שפורסם ב־1997, היא קושרת בין חלוקת התפקידים בצבא, היוקרה המיוחסת לשירות גברי ואי־שוויון חברתי. הטיעון מדגיש ששוויון מחייב לבחון גם את המוסדות המעניקים ערך והכרה לתרומה ציבורית.",
+      "tags": [
+        "מיליטריזציה",
+        "שוויון מגדרי",
+        "נשים בצבא",
+        "יחסי צבא וחברה",
+        "ישראל"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Basic_training_for_female_soldiers_at_Bahad_12_(FL45933984).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Basic_training_for_female_soldiers_at_Bahad_12_%28FL45933984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is stated in alt text.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "IPPA photographer",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basic_training_for_female_soldiers_at_Bahad_12_(FL45933984).jpg"
+    },
+    {
+      "file": "html_qa/resnick-golan-civic-teacher-agency.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "resnick-golan-civic-teacher-agency.html",
+      "usedBy": [
+        "resnick-golan-civic-teacher-agency.html"
+      ],
+      "cardTitleHe": "להכשיר מורים לפעולה אזרחית: מפגש יהודי־ערבי בתוכנית ״יוצרים עתיד״",
+      "authorsHe": "Vered Resnick, Yael Golan",
+      "visualDescriptionHe": "סצנה דמיונית של פרחי הוראה יהודים וערבים בלמידה משותפת בכיתה",
+      "semanticDescriptionHe": "מחקר בתוכנית ״יוצרים עתיד״ בוחן כיצד פרחי הוראה יהודים וערבים מבטאים אחריות אזרחית בתוך הכשרתם המקצועית. ניתוח איכותני של שאלוני 25 משתתפים מצביע על שילוב בין מפגש בין־תרבותי, עיבוד רגשי ועיגון בזהות המקצועית. הממצאים מציעים לראות בהוראה גם אחריות לחיים דמוקרטיים ולקהילה שמעבר לכיתה.",
+      "tags": [
+        "הכשרת מורים",
+        "חינוך דמוקרטי",
+        "כשירות אזרחית",
+        "מפגש יהודי־ערבי",
+        "יוצרים עתיד"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial article illustration. Primary request: a warm, sophisticated painterly scene of Jewish and Arab adult student teachers collaborating in an intercultural teacher-training workshop in Israel. Several young adults of diverse appearance, some women with headscarves and some without, men with varied dress, working as equals in a sunlit classroom around a table with plain notebooks and educational materials. One participant thoughtfully listens while another explains, an instructor listens nearby. Natural human proportions, expressive but subtle faces, rich textures, architectural depth, olive trees visible through a window. The scene conveys shared civic responsibility and learning across differences, not a staged posed photo. Fictional people. No readable text, letters, numbers, logos, flags, watermarks, diagrams, screens or UI. Warm ochre and muted green palette. Full 4:3 image, no borders.\nRefinement: Edit this existing illustration only: remove every letter, word, number and writing-like mark from all book spines, book covers, pages and notebooks. Make all these surfaces completely blank and plain, retaining their natural paper or cloth texture. Preserve the people, their faces, clothing, poses, expressions, the workshop setting, lighting, composition and all other details exactly. No new elements. No text anywhere.",
+      "qualityNotes": "Generated fictional editorial illustration, not documentary evidence. Cropped and resized to 800x600 JPEG.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/riemer-wajner-intelligence-populism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "riemer-wajner-intelligence-populism.html",
+      "usedBy": [
+        "riemer-wajner-intelligence-populism.html"
+      ],
+      "cardTitleHe": "פופוליזם מול קהילת המודיעין: מחשדנות להשתלטות מוסדית",
+      "authorsHe": "Ofek Riemer, Daniel F. Wajner",
+      "visualDescriptionHe": "סצנה דמיונית של אנשי מקצוע המציגים תיק מסמכים לבכיר מדיני המפנה את מבטו",
+      "semanticDescriptionHe": "אופק רימר ודניאל ויינר מציעים שפופוליזם מעמיק את החיכוך בין מודיעין מקצועי למקבלי החלטות בשלושה מסלולים: התעלמות, שלילת לגיטימציה והשתלטות מוסדית. הם מיישמים את המסגרת על התפתחות מנהיגותו של בנימין נתניהו ויחסיו עם קהילת המודיעין. הטיעון מחבר בין עצמאות מקצועית, איכות ההחלטות והגנה על ממשל דמוקרטי.",
+      "tags": [
+        "פופוליזם",
+        "מודיעין",
+        "שירות ציבורי",
+        "עצמאות מקצועית",
+        "קבלת החלטות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape polished editorial image about the strained relationship between professional intelligence analysis and political leadership. Primary request: a fictional senior government official at the far end of a dignified meeting room looks away thoughtfully while two civilian analysts in the foreground present a plain folder of evidence across a long wood table. The contrast is between attentive professionals and a leader disengaged from their advice. Shelves, desk lamps, angled late afternoon light, believable room depth and human anatomy, warm textured painterly realism with dark teal and amber. No recognizable politicians. Avoid villain caricatures, espionage weapons, surveillance gadgets, conspiring groups. No text, letters, numbers, visible writing, flags, logos, watermarks, diagrams, UI or symbolic tornado. Full 4:3 landscape, no border.",
+      "qualityNotes": "Generated fictional editorial illustration, not documentary evidence. Cropped and resized to 800x600 JPEG.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/dagan-zimran-prison-judicial-knowledge.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dagan-zimran-prison-judicial-knowledge.html",
+      "usedBy": [
+        "dagan-zimran-prison-judicial-knowledge.html"
+      ],
+      "cardTitleHe": "בית הכלא שמעבר למבט השיפוטי: פערי ידע בביקורת על תנאי מאסר",
+      "authorsHe": "Netanel Dagan, Adiel Zimran",
+      "visualDescriptionHe": "סצנה דמיונית של אסיר ומבקר משפטי המשוחחים מבעד למחיצת זכוכית בכלא",
+      "semanticDescriptionHe": "נתנאל דגן ועדיאל זימרן בוחנים כיצד שופטים מבקרים החלטות של רשויות הכליאה כשהם רחוקים מחוויית החיים בכלא. ראיונות עם 17 שופטי בית המשפט העליון בדימוס מצביעים על פערים מוסדיים וחווייתיים ועל דרכים לדמיין את עולם המאסר. המחקר מציע שביקורת על כוח הכליאה תלויה גם בשאלה איזה ידע זוכה להישמע ומי נשאר מחוץ לתמונה.",
+      "tags": [
+        "ביקורת שיפוטית",
+        "זכויות אסירים",
+        "פערי ידע",
+        "כליאה",
+        "אי־צדק אפיסטמי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape sophisticated editorial painting for a paper about judges' limited understanding of lived prison experience. Primary request: a quiet prison visiting room seen from the institutional side of a glass divider, a seated incarcerated adult in modest plain clothing speaks earnestly to a legal visitor listening with a closed blank notebook; a long corridor and another closed door recede in the background. The architecture conveys separation and distance while both people retain dignity and agency. Natural proportions, nuanced faces, warm daylight crossing cool stone, rich materials and depth. Fictional scene, no real identifiable people, no stripes, handcuffs, violence or dramatic villain imagery. No text, numbers, logos, flags, watermarks, symbols, UI or pasted layers. Full 4:3 landscape, not a flat vector.",
+      "qualityNotes": "Generated fictional editorial illustration, not documentary evidence. Cropped and resized to 800x600 JPEG.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/givati-rosenberg-judicial-panel-selection.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "givati-rosenberg-judicial-panel-selection.html",
+      "usedBy": [
+        "givati-rosenberg-judicial-panel-selection.html"
+      ],
+      "cardTitleHe": "כיצד שופטים בוחרים עמיתים להרכב: עדויות מבית המשפט העליון בישראל",
+      "authorsHe": "Yehonatan Givati, Israel Rosenberg",
+      "visualDescriptionHe": "החצר הפנימית של בית המשפט העליון בישראל, להמחשת המוסד שבו נערך המחקר",
+      "semanticDescriptionHe": "יהונתן גבעתי וישראל רוזנברג בוחנים הליך שבו שופטי בית המשפט העליון יכלו להרכיב מותב של שלושה. דפוסי הבחירה אינם מתיישבים עם שיבוץ אקראי או עם ההסבר המקצועי שנבחן, ותומכים בפרשנות של בחירה אסטרטגית. המחקר מראה מדוע כללי קביעת ההרכב הם מרכיב חשוב בדיון על הליך שיפוטי הוגן.",
+      "tags": [
+        "הרכבים שיפוטיים",
+        "בית המשפט העליון",
+        "בחירה אסטרטגית",
+        "מחקר משפטי אמפירי",
+        "הוגנות ההליך"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Inner_courtyard_of_Israel_supreme_court_building_(2).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Inner_courtyard_of_Israel_supreme_court_building_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is stated in alt text.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Avi1111 dr. avishai teicher",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Inner_courtyard_of_Israel_supreme_court_building_(2).jpg"
+    },
+    {
+      "file": "html_qa/perez-conflicting-medical-experts.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "perez-conflicting-medical-experts.html",
+      "usedBy": [
+        "perez-conflicting-medical-experts.html"
+      ],
+      "cardTitleHe": "כיצד שופטים מכריעים בין מומחים רפואיים חלוקים?",
+      "authorsHe": "Oren Perez",
+      "visualDescriptionHe": "סצנה דמיונית של מומחים וגורמים משפטיים בדיון באולם בית משפט",
+      "semanticDescriptionHe": "אורן פרז בוחן כיצד שופטים בישראל מתמודדים עם חוות דעת רפואיות סותרות בתביעות נזיקין. המאמר מציע שקיצורי דרך בהערכת הראיות נובעים גם ממגבלות ידע ומאילוצים מוסדיים, ואינם בהכרח משרתים את תכליות הדין. הוא מציג יתרונות למינוי מומחים מטעם בית המשפט, לצד הצורך בכללי פיקוח המותאמים לסוג המחלוקת.",
+      "tags": [
+        "עדות מומחים",
+        "חוות דעת רפואית",
+        "דיני נזיקין",
+        "היוריסטיקות",
+        "מומחה מטעם בית המשפט"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape polished editorial painting about judges weighing conflicting medical expert opinions in civil injury litigation. Primary request: side-angle view in a modest wood-paneled courtroom, two medical experts in civilian suits sit at separate tables with plain folders, one explains with an open hand while a judge listens at an elevated bench in the middle distance. A patient-litigant is seated respectfully beside counsel. Distinct viewpoints expressed through posture, not arguing. Warm natural light, believable faces and anatomy, tangible wood and paper textures, layered depth. Do not depict medical charts, diagrams or writing. No text, letters, numbers, logos, flags, watermarks, UI, gavel or generic scales. Fictional people and setting. Full 4:3 landscape.",
+      "qualityNotes": "Generated fictional editorial illustration, not documentary evidence. Cropped and resized to 800x600 JPEG.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "AI-generated image"
+    },
+    {
+      "file": "html_qa/jabareen-mendel-richlen-arabic-legal-liminality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "jabareen-mendel-richlen-arabic-legal-liminality.html",
+      "usedBy": [
+        "jabareen-mendel-richlen-arabic-legal-liminality.html"
+      ],
+      "cardTitleHe": "ערבית במעמד מיוחד: חוק הלאום וגבולות האזרחות השווה",
+      "authorsHe": "Yousef T. Jabareen, Yonatan Mendel, Lisa Richlen",
+      "visualDescriptionHe": "שלט רחוב מגידו בחיפה בעברית, בערבית ובאנגלית, להמחשת נוכחות השפות במרחב הציבורי",
+      "semanticDescriptionHe": "המאמר בוחן את שינוי מעמדה של הערבית בחוק הלאום מ־2018. המחברים מפרשים את המעבר ממעמד רשמי למעמד מיוחד כיצירת עמימות משפטית בזכויות הקשורות לזהות קולקטיבית. טענתם היא שגם אזרחות פורמלית מלאה יכולה להתקיים לצד שחיקה בהכרה בשפה ובהגנות על המיעוט הערבי־פלסטיני.",
+      "tags": [
+        "חוק הלאום",
+        "השפה הערבית",
+        "אזרחות שווה",
+        "זכויות לשוניות",
+        "מיעוט ערבי־פלסטיני"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:%D7%A9%D7%9C%D7%98_%D7%A8%D7%97%D7%95%D7%91_%D7%9E%D7%92%D7%99%D7%93%D7%95.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D7%A9%D7%9C%D7%98_%D7%A8%D7%97%D7%95%D7%91_%D7%9E%D7%92%D7%99%D7%93%D7%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is stated in alt text.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "אור 423",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D7%A9%D7%9C%D7%98_%D7%A8%D7%97%D7%95%D7%91_%D7%9E%D7%92%D7%99%D7%93%D7%95.jpg"
+    },
+    {
+      "file": "html_qa/porat-starting-at-home-minority-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "porat-starting-at-home-minority-rights.html",
+      "usedBy": [
+        "porat-starting-at-home-minority-rights.html"
+      ],
+      "cardTitleHe": "להתחיל בבית: אמת מידה שווה לרוב ולמיעוט במחלוקות על מנהגים דתיים",
+      "authorsHe": "Iddo Porat",
+      "visualDescriptionHe": "פנים בית הכנסת בגוריציה שבאיטליה, להמחשת חיי מיעוט דתי באירופה",
+      "semanticDescriptionHe": "עידו פורת מציע לבחון איסורים על מנהגי מיעוט באמצעות עיקרון שלפיו הרוב צריך להחיל תחילה על עצמו את אמות המידה המוסריות שהוא דורש מאחרים. הוא מבקר את ההתמקדות באיזון בין חופש דת לזכויות ילדים ובעלי חיים, ומיישם את החלופה על שחיטה פולחנית ומילת זכרים באירופה. הטיעון מעמיד במרכז את השוויון ביחסי הכוח בין רוב למיעוט.",
+      "tags": [
+        "חופש דת",
+        "זכויות מיעוטים",
+        "מידתיות",
+        "שחיטה פולחנית",
+        "מילת זכרים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-19",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_Synagogue_(Gorizia)_-_European_Capital_of_Culture_2025_06.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Interior_Synagogue_%28Gorizia%29_-_European_Capital_of_Culture_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. Illustrative context is stated in alt text.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Naturpuur",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_Synagogue_(Gorizia)_-_European_Capital_of_Culture_2025_06.jpg"
     }
   ],
   "topicGraphics": [

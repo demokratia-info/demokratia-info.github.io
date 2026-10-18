@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1952,
+  "paperCount": 1962,
   "papers": [
+    {
+      "slug": "porat-starting-at-home-minority-rights",
+      "file": "porat-starting-at-home-minority-rights.html",
+      "permalink": "/porat-starting-at-home-minority-rights.html",
+      "sortKey": 202610190010,
+      "titleHe": "להתחיל בבית: אמת מידה שווה לרוב ולמיעוט במחלוקות על מנהגים דתיים",
+      "paperTitle": "The Starting at Home Principle: On Ritual Animal Slaughter, Male Circumcision and Proportionality",
+      "authorsCardHe": "Iddo Porat",
+      "sourceAuthors": [
+        "Iddo Porat"
+      ],
+      "journal": "Oxford Journal of Legal Studies 41(1), 30–58",
+      "dateText": "24 בנובמבר 2020",
+      "doiUrl": "https://doi.org/10.1093/ojls/gqaa027",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/porat-starting-at-home-minority-rights.jpg",
+        "altHe": "פנים בית הכנסת בגוריציה שבאיטליה, להמחשת חיי מיעוט דתי באירופה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "עידו פורת מציע לבחון איסורים על מנהגי מיעוט באמצעות עיקרון שלפיו הרוב צריך להחיל תחילה על עצמו את אמות המידה המוסריות שהוא דורש מאחרים. הוא מבקר את ההתמקדות באיזון בין חופש דת לזכויות ילדים ובעלי חיים, ומיישם את החלופה על שחיטה פולחנית ומילת זכרים באירופה. הטיעון מעמיד במרכז את השוויון ביחסי הכוח בין רוב למיעוט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "jabareen-mendel-richlen-arabic-legal-liminality",
+      "file": "jabareen-mendel-richlen-arabic-legal-liminality.html",
+      "permalink": "/jabareen-mendel-richlen-arabic-legal-liminality.html",
+      "sortKey": 202610190009,
+      "titleHe": "ערבית במעמד מיוחד: חוק הלאום וגבולות האזרחות השווה",
+      "paperTitle": "Arabic and the Nation-State law in Israel: when legal liminality foreshadows political downgrade",
+      "authorsCardHe": "Yousef T. Jabareen, Yonatan Mendel, Lisa Richlen",
+      "sourceAuthors": [
+        "Yousef T. Jabareen",
+        "Yonatan Mendel",
+        "Lisa Richlen"
+      ],
+      "journal": "British Journal of Middle Eastern Studies, 1–14",
+      "dateText": "25 במאי 2026",
+      "doiUrl": "https://doi.org/10.1080/13530194.2026.2675270",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/jabareen-mendel-richlen-arabic-legal-liminality.jpg",
+        "altHe": "שלט רחוב מגידו בחיפה בעברית, בערבית ובאנגלית, להמחשת נוכחות השפות במרחב הציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "המאמר בוחן את שינוי מעמדה של הערבית בחוק הלאום מ־2018. המחברים מפרשים את המעבר ממעמד רשמי למעמד מיוחד כיצירת עמימות משפטית בזכויות הקשורות לזהות קולקטיבית. טענתם היא שגם אזרחות פורמלית מלאה יכולה להתקיים לצד שחיקה בהכרה בשפה ובהגנות על המיעוט הערבי־פלסטיני.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "perez-conflicting-medical-experts",
+      "file": "perez-conflicting-medical-experts.html",
+      "permalink": "/perez-conflicting-medical-experts.html",
+      "sortKey": 202610190008,
+      "titleHe": "כיצד שופטים מכריעים בין מומחים רפואיים חלוקים?",
+      "paperTitle": "Judicial Strategies for Reviewing Conflicting Expert Evidence: Biases, Heuristics, and Higher-Order Evidence",
+      "authorsCardHe": "Oren Perez",
+      "sourceAuthors": [
+        "Oren Perez"
+      ],
+      "journal": "American Journal of Comparative Law 64(1), 75–120",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.5131/ajcl.2016.0003",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/perez-conflicting-medical-experts.jpg",
+        "altHe": "סצנה דמיונית של מומחים וגורמים משפטיים בדיון באולם בית משפט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "אורן פרז בוחן כיצד שופטים בישראל מתמודדים עם חוות דעת רפואיות סותרות בתביעות נזיקין. המאמר מציע שקיצורי דרך בהערכת הראיות נובעים גם ממגבלות ידע ומאילוצים מוסדיים, ואינם בהכרח משרתים את תכליות הדין. הוא מציג יתרונות למינוי מומחים מטעם בית המשפט, לצד הצורך בכללי פיקוח המותאמים לסוג המחלוקת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "givati-rosenberg-judicial-panel-selection",
+      "file": "givati-rosenberg-judicial-panel-selection.html",
+      "permalink": "/givati-rosenberg-judicial-panel-selection.html",
+      "sortKey": 202610190007,
+      "titleHe": "כיצד שופטים בוחרים עמיתים להרכב: עדויות מבית המשפט העליון בישראל",
+      "paperTitle": "How Would Judges Compose Judicial Panels? Theory and Evidence from the Supreme Court of Israel",
+      "authorsCardHe": "Yehonatan Givati, Israel Rosenberg",
+      "sourceAuthors": [
+        "Yehonatan Givati",
+        "Israel Rosenberg"
+      ],
+      "journal": "Journal of Empirical Legal Studies 17(2), 317–341",
+      "dateText": "23 במרץ 2020",
+      "doiUrl": "https://doi.org/10.1111/jels.12247",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/givati-rosenberg-judicial-panel-selection.jpg",
+        "altHe": "החצר הפנימית של בית המשפט העליון בישראל, להמחשת המוסד שבו נערך המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "יהונתן גבעתי וישראל רוזנברג בוחנים הליך שבו שופטי בית המשפט העליון יכלו להרכיב מותב של שלושה. דפוסי הבחירה אינם מתיישבים עם שיבוץ אקראי או עם ההסבר המקצועי שנבחן, ותומכים בפרשנות של בחירה אסטרטגית. המחקר מראה מדוע כללי קביעת ההרכב הם מרכיב חשוב בדיון על הליך שיפוטי הוגן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "dagan-zimran-prison-judicial-knowledge",
+      "file": "dagan-zimran-prison-judicial-knowledge.html",
+      "permalink": "/dagan-zimran-prison-judicial-knowledge.html",
+      "sortKey": 202610190006,
+      "titleHe": "בית הכלא שמעבר למבט השיפוטי: פערי ידע בביקורת על תנאי מאסר",
+      "paperTitle": "Imagining the Invisible: Judicial Epistemology, Carceral Regulation, and the Liberal State",
+      "authorsCardHe": "Netanel Dagan, Adiel Zimran",
+      "sourceAuthors": [
+        "Netanel Dagan",
+        "Adiel Zimran"
+      ],
+      "journal": "Regulation & Governance",
+      "dateText": "12 באוקטובר 2026",
+      "doiUrl": "https://doi.org/10.1111/rego.70215",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dagan-zimran-prison-judicial-knowledge.jpg",
+        "altHe": "סצנה דמיונית של אסיר ומבקר משפטי המשוחחים מבעד למחיצת זכוכית בכלא",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "נתנאל דגן ועדיאל זימרן בוחנים כיצד שופטים מבקרים החלטות של רשויות הכליאה כשהם רחוקים מחוויית החיים בכלא. ראיונות עם 17 שופטי בית המשפט העליון בדימוס מצביעים על פערים מוסדיים וחווייתיים ועל דרכים לדמיין את עולם המאסר. המחקר מציע שביקורת על כוח הכליאה תלויה גם בשאלה איזה ידע זוכה להישמע ומי נשאר מחוץ לתמונה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "riemer-wajner-intelligence-populism",
+      "file": "riemer-wajner-intelligence-populism.html",
+      "permalink": "/riemer-wajner-intelligence-populism.html",
+      "sortKey": 202610190005,
+      "titleHe": "פופוליזם מול קהילת המודיעין: מחשדנות להשתלטות מוסדית",
+      "paperTitle": "The intelligence cyclone: How populism reshapes intelligence-policy relations",
+      "authorsCardHe": "Ofek Riemer, Daniel F. Wajner",
+      "sourceAuthors": [
+        "Ofek Riemer",
+        "Daniel F. Wajner"
+      ],
+      "journal": "Contemporary Security Policy 47(4), 1082–1114",
+      "dateText": "1 בספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1080/13523260.2026.2722403",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/riemer-wajner-intelligence-populism.jpg",
+        "altHe": "סצנה דמיונית של אנשי מקצוע המציגים תיק מסמכים לבכיר מדיני המפנה את מבטו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "אופק רימר ודניאל ויינר מציעים שפופוליזם מעמיק את החיכוך בין מודיעין מקצועי למקבלי החלטות בשלושה מסלולים: התעלמות, שלילת לגיטימציה והשתלטות מוסדית. הם מיישמים את המסגרת על התפתחות מנהיגותו של בנימין נתניהו ויחסיו עם קהילת המודיעין. הטיעון מחבר בין עצמאות מקצועית, איכות ההחלטות והגנה על ממשל דמוקרטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "resnick-golan-civic-teacher-agency",
+      "file": "resnick-golan-civic-teacher-agency.html",
+      "permalink": "/resnick-golan-civic-teacher-agency.html",
+      "sortKey": 202610190004,
+      "titleHe": "להכשיר מורים לפעולה אזרחית: מפגש יהודי־ערבי בתוכנית ״יוצרים עתיד״",
+      "paperTitle": "Developing social-civic agency in an intercultural teacher education programme",
+      "authorsCardHe": "Vered Resnick, Yael Golan",
+      "sourceAuthors": [
+        "Vered Resnick",
+        "Yael Golan"
+      ],
+      "journal": "Intercultural Education 37(5), 619–632",
+      "dateText": "12 באפריל 2026",
+      "doiUrl": "https://doi.org/10.1080/14675986.2026.2657734",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/resnick-golan-civic-teacher-agency.jpg",
+        "altHe": "סצנה דמיונית של פרחי הוראה יהודים וערבים בלמידה משותפת בכיתה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "מחקר בתוכנית ״יוצרים עתיד״ בוחן כיצד פרחי הוראה יהודים וערבים מבטאים אחריות אזרחית בתוך הכשרתם המקצועית. ניתוח איכותני של שאלוני 25 משתתפים מצביע על שילוב בין מפגש בין־תרבותי, עיבוד רגשי ועיגון בזהות המקצועית. הממצאים מציעים לראות בהוראה גם אחריות לחיים דמוקרטיים ולקהילה שמעבר לכיתה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "golan-militarization-gender-israel",
+      "file": "golan-militarization-gender-israel.html",
+      "permalink": "/golan-militarization-gender-israel.html",
+      "sortKey": 202610190003,
+      "titleHe": "צבא, מעמד ושוויון: מיליטריזציה ויחסי מגדר בישראל",
+      "paperTitle": "Militarization and gender: The Israeli experience",
+      "authorsCardHe": "Galia Golan",
+      "sourceAuthors": [
+        "Galia Golan"
+      ],
+      "journal": "Women's Studies International Forum 20(5-6), 581–586",
+      "dateText": "ספטמבר 1997",
+      "doiUrl": "https://doi.org/10.1016/s0277-5395(97)00063-0",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/golan-militarization-gender-israel.jpg",
+        "altHe": "חיילות בטירונות בבה״ד 12 בשנת 1972, בצילום ארכיוני להמחשת חלוקת התפקידים בצבא",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "גליה גולן טוענת כי מרכזיות הצבא בחברה הישראלית מעבירה הבדלים מגדריים מן השירות הצבאי אל המעמד האזרחי. בניתוח שפורסם ב־1997, היא קושרת בין חלוקת התפקידים בצבא, היוקרה המיוחסת לשירות גברי ואי־שוויון חברתי. הטיעון מדגיש ששוויון מחייב לבחון גם את המוסדות המעניקים ערך והכרה לתרומה ציבורית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "benvenisti-subsidiarity-global-democracy",
+      "file": "benvenisti-subsidiarity-global-democracy.html",
+      "permalink": "/benvenisti-subsidiarity-global-democracy.html",
+      "sortKey": 202610190002,
+      "titleHe": "שיקול דעת למדינות מול לחצים גלובליים: תפקידו הדמוקרטי של בית הדין לזכויות האדם",
+      "paperTitle": "The Margin of Appreciation, Subsidiarity and Global Challenges to Democracy",
+      "authorsCardHe": "Eyal Benvenisti",
+      "sourceAuthors": [
+        "Eyal Benvenisti"
+      ],
+      "journal": "Journal of International Dispute Settlement 9(2), 240–253",
+      "dateText": "18 באפריל 2018",
+      "doiUrl": "https://doi.org/10.1093/jnlids/idy005",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/benvenisti-subsidiarity-global-democracy.jpg",
+        "altHe": "אולם הדיונים הגדול של בית הדין האירופי לזכויות האדם בשטרסבורג",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "איל בנבנישתי בוחן מדוע כיבוד החלטות של מוסדות לאומיים אינו מבטיח הגנה דמוקרטית כשזכויות מושפעות מלחצים חוצי גבולות. הוא מציע להעדיף חשיבה של סובסידיאריות: להכריע באיזו רמה מוסדית אפשר להגן על מי שקולם חסר. לפי גישה זו, ביקורת בינלאומית יכולה לחזק דמוקרטיה מקומית כאשר המדינה אינה מסוגלת להתמודד לבדה עם הבעיה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gradwohl-heller-hillman-social-media-voting",
+      "file": "gradwohl-heller-hillman-social-media-voting.html",
+      "permalink": "/gradwohl-heller-hillman-social-media-voting.html",
+      "sortKey": 202610190001,
+      "titleHe": "מידע אמיתי, בחירה מוטה: כיצד רשתות חברתיות יכולות לשנות הכרעת רוב",
+      "paperTitle": "How social media can undermine democracy",
+      "authorsCardHe": "Ronen Gradwohl, Yuval Heller, Arye L. Hillman",
+      "sourceAuthors": [
+        "Ronen Gradwohl",
+        "Yuval Heller",
+        "Arye L. Hillman"
+      ],
+      "journal": "European Journal of Political Economy 86, 102634",
+      "dateText": "ינואר 2025",
+      "doiUrl": "https://doi.org/10.1016/j.ejpoleco.2024.102634",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gradwohl-heller-hillman-social-media-voting.jpg",
+        "altHe": "סצנה דמיונית של אנשים הקוראים בטלפונים נפרדים בבית קפה, להמחשת סביבות מידע אישיות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "summaryHe": "מודל של שכנוע בייסיאני מראה שפלטפורמה יכולה להשפיע על הכרעת רוב באמצעות חלוקה בררנית של מידע אמיתי בין בוחרים. בתנאים מסוימים, תוספת מידע משפרת את החלטתו של היחיד בממוצע אך פוגעת ביכולת הציבור לבחור יחד את החלופה העדיפה. מכאן שבדיקת עובדות לבדה אינה מספיקה לבחינת כוחן הפוליטי של פלטפורמות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "davidson-meyers-journalistic-pressure-clientelism",
       "file": "davidson-meyers-journalistic-pressure-clientelism.html",
