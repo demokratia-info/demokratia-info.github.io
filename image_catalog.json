@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -54640,6 +54640,311 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_Synagogue_(Gorizia)_-_European_Capital_of_Culture_2025_06.jpg"
+    },
+    {
+      "file": "html_qa/efrat-civil-society-organ-trafficking.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "efrat-civil-society-organ-trafficking.html",
+      "usedBy": [
+        "efrat-civil-society-organ-trafficking.html"
+      ],
+      "cardTitleHe": "רופאים נגד סחר באיברים: כוח החברה האזרחית וגבולות האכיפה",
+      "authorsHe": "Asif Efrat",
+      "visualDescriptionHe": "איור של רופאים ואנשי ציבור בדיון על מדיניות בחדר ישיבות רפואי, להמחשת מאבק מקצועי בסחר באיברים",
+      "semanticDescriptionHe": "אסיף אפרת משווה את המאבק הרפואי בסחר באיברים בישראל ובפקיסטן. הוא מראה כיצד לחץ מקצועי ומוסרי הניע חקיקה, אך התקשה להבטיח אכיפה מלאה. ההבחנה בין איסור רשמי ליישומו חושפת את גבולות ההשפעה של החברה האזרחית על המדינה.",
+      "tags": [
+        "חברה אזרחית",
+        "סחר באיברים",
+        "אכיפת חוק",
+        "רופאים",
+        "תיירות השתלות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished 4:3 landscape editorial illustration for an academic paper about physicians as civil-society advocates against commercial organ trafficking. A fictional small meeting of doctors and civic advocates in a warm, modest hospital conference room, a physician in a white coat presenting concerns to attentive policymakers in civilian clothes around a wooden table with closed plain folders. Through a window a textured urban street is visible. Human dignity, collective persuasion and institutional responsibility, natural gestures and believable anatomy, warm daylight, sophisticated painterly documentary civic style with depth and material texture. No operation, no organs, no money, no suffering bodies. No text, letters, numbers, logos, flags, watermarks, signs, UI, scales or gavel. This is an imagined scene, not a portrayal of the actual researchers. Landscape 4:3.",
+      "qualityNotes": "Newly generated fictional editorial illustration, cropped and resized to 800x600 JPEG. It does not depict an actual study participant or documented event."
+    },
+    {
+      "file": "html_qa/gross-canetti-vashdi-cyberterrorism-liberties.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gross-canetti-vashdi-cyberterrorism-liberties.html",
+      "usedBy": [
+        "gross-canetti-vashdi-cyberterrorism-liberties.html"
+      ],
+      "cardTitleHe": "חרדה מסייברטרור והנכונות לוותר על פרטיות וחירויות",
+      "authorsHe": "Michael L. Gross, Daphna Canetti, Dana R. Vashdi",
+      "visualDescriptionHe": "איור של בני זוג מודאגים מול מחשב בבית, כשברקע תשתית מים עירונית, להמחשת החרדה מאיום סייבר על חיי היום־יום",
+      "semanticDescriptionHe": "מחקרי חשיפה לסייברטרור בישראל מראים שגם איום ללא הרוגים עלול להגביר חרדה ותחושת פגיעוּת. תפיסת איום גבוהה נקשרה לתמיכה במעקב ובתגובה צבאית. הממצאים מדגישים שהגנת סייבר נוגעת גם לחוסן אזרחי ולחירויות, מעבר להגנת מערכות מחשב.",
+      "tags": [
+        "סייברטרור",
+        "פרטיות",
+        "חירויות אזרח",
+        "תפיסת איום",
+        "אמון ציבורי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished 4:3 landscape editorial painting about how cyberattacks on everyday public services create anxiety and demand for government surveillance. A fictional evening scene in a warm modest apartment: two adults sit by a kitchen table looking concerned at a laptop, seen from behind the screen so no screen content is visible; a glass of water and an ordinary faucet connect digital security to daily civilian life. Through the large window the softly lit city and a water tower appear in the distance. Emphasize human vulnerability and thoughtfulness, not technical hacking. Warm ochre interior against cool blue evening, painterly texture, believable anatomy, layered depth. No text, letters, numbers, logos, watermarks, flags, UI, digital code, floating symbols or split panels. Fictional people and place. Landscape 4:3.",
+      "qualityNotes": "Newly generated fictional editorial illustration, cropped and resized to 800x600 JPEG. It does not depict an actual study participant or documented event."
+    },
+    {
+      "file": "html_qa/fischer-hotam-wexler-postsecular-education.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "fischer-hotam-wexler-postsecular-education.html",
+      "usedBy": [
+        "fischer-hotam-wexler-postsecular-education.html"
+      ],
+      "cardTitleHe": "חינוך דמוקרטי בחברה פוסט־חילונית: משמעות משותפת בלי הדרת אחרים",
+      "authorsHe": "Shlomo Fischer, Yotam Hotam, Philip Wexler",
+      "visualDescriptionHe": "אולם פוסקוליאנה באוניברסיטת פאביה באיטליה, להמחשת מסורות של השכלה ותרבות בדיון על מטרות החינוך",
+      "semanticDescriptionHe": "המחברים בוחנים את הקשרים בין דת, דמוקרטיה וחינוך מעבר להפרדה קשיחה בין חילוני לדתי. מסורות רוחניות עשויות להזין טיפוח עצמי וקהילה, אך גם הדרה. האתגר החינוכי הוא לשמר משמעות ושייכות בלי לדכא את מי שמחוץ לקבוצה.",
+      "tags": [
+        "חינוך דמוקרטי",
+        "חברה פוסט־חילונית",
+        "דת ומדינה",
+        "טיפוח עצמי",
+        "ציונות דתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Alexdechi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aula_Foscoliana_(Universit%C3%A0_di_Pavia).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aula_Foscoliana_(Universit%C3%A0_di_Pavia).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aula_Foscoliana_%28Universit%C3%A0_di_Pavia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
+    },
+    {
+      "file": "html_qa/cohen-yang-judicial-politics-sentencing.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-yang-judicial-politics-sentencing.html",
+      "usedBy": [
+        "cohen-yang-judicial-politics-sentencing.html"
+      ],
+      "cardTitleHe": "מינוי שופטים ופערי ענישה גזעיים ומגדריים בארצות הברית",
+      "authorsHe": "Alma Cohen, Crystal S. Yang",
+      "visualDescriptionHe": "איור של שופט, עורכת דין ונאשם באולם משפט בדיוני, להמחשת הדיון במינוי שופטים ובפערי ענישה",
+      "semanticDescriptionHe": "עלמה כהן וקריסטל יאנג קושרות נתוני ענישה של יותר מחצי מיליון נאשמים לזהות השופטים. הן מוצאות הבדלים בפערי הענישה לפי מפלגת הנשיא שמינה את השופט. הפערים מתרחבים עם שיקול הדעת, ומחברים את הליך המינוי לשאלת השוויון בפני החוק.",
+      "tags": [
+        "ענישה",
+        "מינוי שופטים",
+        "שוויון בפני החוק",
+        "פערים גזעיים",
+        "שיקול דעת שיפוטי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape polished editorial painting for an academic paper about political appointments of federal judges and racial and gender disparities in prison sentences. A fictional American courtroom, viewed obliquely from the public benches: a judge at a restrained wooden bench studies a plain closed case folder, while a defense attorney and an adult defendant wait respectfully beside the counsel table. The judge and defendant must be fictional, not identifiable real people. Quiet gravity, dignity, warm daylight from tall windows, old wood textures, deep spatial perspective, sophisticated painterly civic magazine style. The scene illustrates sentencing discretion, not guilt. No handcuffs, no prison bars, no weapons, no dramatic violence. No text, letters, numbers, logos, emblems, seals, flags, watermarks, UI, scales or gavels. Landscape 4:3.",
+      "qualityNotes": "Newly generated fictional editorial illustration, cropped and resized to 800x600 JPEG. It does not depict an actual study participant or documented event."
+    },
+    {
+      "file": "html_qa/epstein-sadl-weinshall-comparative-judging.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "epstein-sadl-weinshall-comparative-judging.html",
+      "usedBy": [
+        "epstein-sadl-weinshall-comparative-judging.html"
+      ],
+      "cardTitleHe": "כיצד שופטים מחליטים: משפט השוואתי ומחקר ההתנהגות השיפוטית",
+      "authorsHe": "Lee Epstein, Urška Šadl, Keren Weinshall",
+      "visualDescriptionHe": "אולם בית המשפט הפדרלי באוגוסטה שבג׳ורג׳יה, להמחשת המחקר על החלטות שופטים בהקשר מוסדי",
+      "semanticDescriptionHe": "המאמר מחבר בין הבנת הדין בהקשרו לבין מחקר אמפירי של החלטות שופטים. הוא מציג הסברים המבוססים על משפט, עמדות, תמריצים וזהות, ומדגיש שמדידה השוואתית דורשת ידע משפטי מקומי. השילוב יכול לשפר את הערכת ההשפעה של שינוי מוסדי על בתי המשפט.",
+      "tags": [
+        "משפט השוואתי",
+        "התנהגות שיפוטית",
+        "מוסדות משפט",
+        "מחקר אמפירי",
+        "הטיות שיפוטיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Courtroom._U.S._Court_House,_Augusta,_Georgia.jpg#Licensing",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtroom._U.S._Court_House,_Augusta,_Georgia.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Courtroom._U.S._Court_House,_Augusta,_Georgia.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Courtroom._U.S._Court_House%2C_Augusta%2C_Georgia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
+    },
+    {
+      "file": "html_qa/herzog-lefort-ranciere-democratic-sovereignty.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "herzog-lefort-ranciere-democratic-sovereignty.html",
+      "usedBy": [
+        "herzog-lefort-ranciere-democratic-sovereignty.html"
+      ],
+      "cardTitleHe": "ריבונות עממית כיכולת לשנות את המרחב הציבורי: לפור ורנסייר",
+      "authorsHe": "Annabel Herzog",
+      "visualDescriptionHe": "כיכר הרפובליקה בפריז כמרחב מפגש ציבורי, להמחשת הדיון בריבונות וביכולת לעצב את המשותף",
+      "semanticDescriptionHe": "אנאבל הרצוג מציעה להבין ריבונות עממית באמצעות היכולת לעצב מחדש את המרחב הציבורי. קריאתה בלפור וברנסייר מציבה במרכז מחלוקת על ההשתתפות בחיים המשותפים. היא מחפשת תפיסה דמוקרטית שאינה מקבעת את העם כזהות אחידה ואינה מוותרת על כוחו הפוליטי.",
+      "tags": [
+        "ריבונות עממית",
+        "קלוד לפור",
+        "ז׳אק רנסייר",
+        "מרחב ציבורי",
+        "מחלוקת דמוקרטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Pierre-Selim Huard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
+    },
+    {
+      "file": "html_qa/shmuel-budget-cycles-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shmuel-budget-cycles-democracy.html",
+      "usedBy": [
+        "shmuel-budget-cycles-democracy.html"
+      ],
+      "cardTitleHe": "תקציבי בחירות בין דמוקרטיה לאוטוקרטיה: תמריץ מול יכולת",
+      "authorsHe": "Assaf Shmuel",
+      "visualDescriptionHe": "בניין משרד האוצר הבריטי בלונדון, להמחשת הקשר בין מוסדות המדינה להחלטות תקציביות",
+      "semanticDescriptionHe": "אסף שמואל מציע קשר לא־ליניארי בין רמת הדמוקרטיה למניפולציה תקציבית סביב בחירות. תחרות מגדילה את התמריץ להשפיע על הבוחרים, אך מוסדות דמוקרטיים מגבילים את היכולת. הניתוח מוצא מחזור תקציבי חזק במיוחד במשטרי ביניים, וחלש יותר בשני הקצוות.",
+      "tags": [
+        "מחזור תקציבי פוליטי",
+        "בחירות",
+        "מדיניות תקציבית",
+        "אוטוקרטיה",
+        "מגבלות מוסדיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Robert Lamb",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_the_HM_Treasury_building_from_Horse_Guards_Road_Geograph_(3888622).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_the_HM_Treasury_building_from_Horse_Guards_Road_Geograph_(3888622).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/View_of_the_HM_Treasury_building_from_Horse_Guards_Road_Geograph_%283888622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
+    },
+    {
+      "file": "html_qa/hammer-advertising-democratic-discourse.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hammer-advertising-democratic-discourse.html",
+      "usedBy": [
+        "hammer-advertising-democratic-discourse.html"
+      ],
+      "cardTitleHe": "פרסום מסחרי ושיח דמוקרטי: בין מידע לצרכן לעיצוב ערכים",
+      "authorsHe": "Yoav Hammer",
+      "visualDescriptionHe": "איור של רחוב מסחרי עם עוברי אורח וחלונות ראווה, להמחשת השפעת הפרסום והצרכנות על המרחב הציבורי",
+      "semanticDescriptionHe": "יואב המר טוען שפרסומות אינן רק מידע על מוצרים אלא גם מסרים ערכיים המעצבים את השיח הציבורי. הוא מבקר את ההגנה המשפטית המתעלמת מהבחנה זו, ומציע להגביל מסרים ערכיים בפרסום. זהו טיעון נורמטיבי על כוח תאגידי ועל תנאי הדיון הדמוקרטי.",
+      "tags": [
+        "פרסום מסחרי",
+        "חופש הביטוי",
+        "שיח ציבורי",
+        "כוח תאגידי",
+        "צרכנות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: refined 4:3 landscape editorial illustration about commercial advertising shaping the public conversation. A fictional lively pedestrian street at dusk, with ordinary citizens walking past illuminated commercial display windows. The windows show carefully arranged consumer objects such as a shoe, handbag and perfume bottle, all plain and unbranded. Rich reflections in glass and wet stone, tactile architecture, several small groups of people in candid conversation. Visual emphasis on the contrast in scale between large glowing commercial displays and quieter interpersonal conversation. Warm amber and deep teal, detailed painterly civic magazine style with depth. No billboards with writing; no text, letters, numbers, logos, watermarks, flags, UI, flat icons, abstract blobs or collage. Landscape 4:3.",
+      "qualityNotes": "Newly generated fictional editorial illustration, cropped and resized to 800x600 JPEG. It does not depict an actual study participant or documented event."
+    },
+    {
+      "file": "html_qa/unterrainer-workplace-democracy-participation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "unterrainer-workplace-democracy-participation.html",
+      "usedBy": [
+        "unterrainer-workplace-democracy-participation.html"
+      ],
+      "cardTitleHe": "דמוקרטיה במקום העבודה: השתתפות עובדים, מחויבות ועמדה מוסרית",
+      "authorsHe": "Christine Unterrainer, Michal Palgi, Wolfgang G. Weber, Anna Iwanowa, Rainer Oesterreich",
+      "visualDescriptionHe": "איור של עובדים המשתתפים בדיון משותף בבית מלאכה, להמחשת השתתפות בהחלטות במקום העבודה",
+      "semanticDescriptionHe": "מחקר ב־33 ארגונים בארבע מדינות בוחן קשר בין מבנים דמוקרטיים להשתתפות עובדים, למחויבות רגשית ולאוריינטציה הומניטרית. תחושת ההשתתפות תיווכה סטטיסטית את הקשר למחויבות, אך לא את הקשר המוסרי. הממצאים מבחינים בין הסדרי שיתוף פורמליים לבין חוויית העובד.",
+      "tags": [
+        "דמוקרטיה ארגונית",
+        "השתתפות עובדים",
+        "מחויבות רגשית",
+        "אתיקה הומניטרית",
+        "ארגון העבודה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial painting for an academic paper about structurally embedded workplace democracy and employees' felt participation. A fictional worker assembly in a small bright manufacturing workshop. Around a broad workbench, workers of different ages and genders in ordinary workwear discuss a practical decision; one worker raises a hand to speak and another listens thoughtfully with hands resting on the table. In the deep background real shelves, woodworking tools and unfinished wooden furniture establish a productive workplace. Warm natural side light, rich wood and fabric texture, believable anatomy, calm participatory atmosphere, eye-level medium-wide composition. No supervisor elevated above others. No text, letters, numbers, logos, watermarks, flags, signs, screens, UI, diagrams or symbolic scales. This is a fictional illustration, not the study's actual participants. Landscape 4:3.",
+      "qualityNotes": "Newly generated fictional editorial illustration, cropped and resized to 800x600 JPEG. It does not depict an actual study participant or documented event."
+    },
+    {
+      "file": "html_qa/kochin-plato-knowledge-democratic-choice.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kochin-plato-knowledge-democratic-choice.html",
+      "usedBy": [
+        "kochin-plato-knowledge-democratic-choice.html"
+      ],
+      "cardTitleHe": "ידע פוליטי ובחירת העם: קריאה מחודשת באליטה של אפלטון",
+      "authorsHe": "Michael S. Kochin",
+      "visualDescriptionHe": "בניין האקדמיה המודרנית באתונה, להמחשת הקשר בין ידע להנהגה בדיון הפילוסופי",
+      "semanticDescriptionHe": "מיכאל קוצ׳ין מפרש את החלופה הסוקרטית לדמוקרטיה כאליטה של בעלי ידע, ולא כאריסטוקרטיה של מעמד. לצד הטענה ליתרון הידיעה נשמרת בפרשנותו זכות העם להכריע בין הטוענים להנהגה. המתח בין מומחיות לסמכות ציבורית עומד במרכז הקריאה.",
+      "tags": [
+        "אפלטון",
+        "סוקרטס",
+        "ידע פוליטי",
+        "דמוקרטיה",
+        "אליטות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-20",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "C messier",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_5260.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_5260.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_5260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
     }
   ],
   "topicGraphics": [

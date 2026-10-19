@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1962,
+  "paperCount": 1972,
   "papers": [
+    {
+      "slug": "kochin-plato-knowledge-democratic-choice",
+      "file": "kochin-plato-knowledge-democratic-choice.html",
+      "permalink": "/kochin-plato-knowledge-democratic-choice.html",
+      "sortKey": 202610200010,
+      "titleHe": "ידע פוליטי ובחירת העם: קריאה מחודשת באליטה של אפלטון",
+      "paperTitle": "Academic Politics between Democracy and Aristocracy",
+      "authorsCardHe": "Michael S. Kochin",
+      "sourceAuthors": [
+        "Michael S. Kochin"
+      ],
+      "journal": "Political Research Quarterly 64(2), 247–259",
+      "dateText": "20 במאי 2011",
+      "doiUrl": "https://doi.org/10.1177/1065912909346743",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kochin-plato-knowledge-democratic-choice.jpg",
+        "altHe": "בניין האקדמיה המודרנית באתונה, להמחשת הקשר בין ידע להנהגה בדיון הפילוסופי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "מיכאל קוצ׳ין מפרש את החלופה הסוקרטית לדמוקרטיה כאליטה של בעלי ידע, ולא כאריסטוקרטיה של מעמד. לצד הטענה ליתרון הידיעה נשמרת בפרשנותו זכות העם להכריע בין הטוענים להנהגה. המתח בין מומחיות לסמכות ציבורית עומד במרכז הקריאה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "unterrainer-workplace-democracy-participation",
+      "file": "unterrainer-workplace-democracy-participation.html",
+      "permalink": "/unterrainer-workplace-democracy-participation.html",
+      "sortKey": 202610200009,
+      "titleHe": "דמוקרטיה במקום העבודה: השתתפות עובדים, מחויבות ועמדה מוסרית",
+      "paperTitle": "Structurally Anchored Organizational Democracy",
+      "authorsCardHe": "Christine Unterrainer, Michal Palgi, Wolfgang G. Weber, Anna Iwanowa, Rainer Oesterreich",
+      "sourceAuthors": [
+        "Christine Unterrainer",
+        "Michal Palgi",
+        "Wolfgang G. Weber",
+        "Anna Iwanowa",
+        "Rainer Oesterreich"
+      ],
+      "journal": "Journal of Personnel Psychology 10(3), 118–132",
+      "dateText": "ינואר 2011",
+      "doiUrl": "https://doi.org/10.1027/1866-5888/a000038",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/unterrainer-workplace-democracy-participation.jpg",
+        "altHe": "איור של עובדים המשתתפים בדיון משותף בבית מלאכה, להמחשת השתתפות בהחלטות במקום העבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "מחקר ב־33 ארגונים בארבע מדינות בוחן קשר בין מבנים דמוקרטיים להשתתפות עובדים, למחויבות רגשית ולאוריינטציה הומניטרית. תחושת ההשתתפות תיווכה סטטיסטית את הקשר למחויבות, אך לא את הקשר המוסרי. הממצאים מבחינים בין הסדרי שיתוף פורמליים לבין חוויית העובד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hammer-advertising-democratic-discourse",
+      "file": "hammer-advertising-democratic-discourse.html",
+      "permalink": "/hammer-advertising-democratic-discourse.html",
+      "sortKey": 202610200008,
+      "titleHe": "פרסום מסחרי ושיח דמוקרטי: בין מידע לצרכן לעיצוב ערכים",
+      "paperTitle": "Advertisements and the Public Discourse in a Democracy",
+      "authorsCardHe": "Yoav Hammer",
+      "sourceAuthors": [
+        "Yoav Hammer"
+      ],
+      "journal": "Law &amp; Ethics of Human Rights 5(2)",
+      "dateText": "1 באוקטובר 2011",
+      "doiUrl": "https://doi.org/10.2202/1938-2545.1059",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hammer-advertising-democratic-discourse.jpg",
+        "altHe": "איור של רחוב מסחרי עם עוברי אורח וחלונות ראווה, להמחשת השפעת הפרסום והצרכנות על המרחב הציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "יואב המר טוען שפרסומות אינן רק מידע על מוצרים אלא גם מסרים ערכיים המעצבים את השיח הציבורי. הוא מבקר את ההגנה המשפטית המתעלמת מהבחנה זו, ומציע להגביל מסרים ערכיים בפרסום. זהו טיעון נורמטיבי על כוח תאגידי ועל תנאי הדיון הדמוקרטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shmuel-budget-cycles-democracy",
+      "file": "shmuel-budget-cycles-democracy.html",
+      "permalink": "/shmuel-budget-cycles-democracy.html",
+      "sortKey": 202610200007,
+      "titleHe": "תקציבי בחירות בין דמוקרטיה לאוטוקרטיה: תמריץ מול יכולת",
+      "paperTitle": "The political budget cycle across varying degrees of democracy",
+      "authorsCardHe": "Assaf Shmuel",
+      "sourceAuthors": [
+        "Assaf Shmuel"
+      ],
+      "journal": "Electoral Studies 68, 102218",
+      "dateText": "דצמבר 2020",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2020.102218",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/shmuel-budget-cycles-democracy.jpg",
+        "altHe": "בניין משרד האוצר הבריטי בלונדון, להמחשת הקשר בין מוסדות המדינה להחלטות תקציביות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "אסף שמואל מציע קשר לא־ליניארי בין רמת הדמוקרטיה למניפולציה תקציבית סביב בחירות. תחרות מגדילה את התמריץ להשפיע על הבוחרים, אך מוסדות דמוקרטיים מגבילים את היכולת. הניתוח מוצא מחזור תקציבי חזק במיוחד במשטרי ביניים, וחלש יותר בשני הקצוות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "herzog-lefort-ranciere-democratic-sovereignty",
+      "file": "herzog-lefort-ranciere-democratic-sovereignty.html",
+      "permalink": "/herzog-lefort-ranciere-democratic-sovereignty.html",
+      "sortKey": 202610200006,
+      "titleHe": "ריבונות עממית כיכולת לשנות את המרחב הציבורי: לפור ורנסייר",
+      "paperTitle": "Lefort and Rancière on democracy and sovereignty",
+      "authorsCardHe": "Annabel Herzog",
+      "sourceAuthors": [
+        "Annabel Herzog"
+      ],
+      "journal": "Philosophy &amp; Social Criticism 50(2), 323–342",
+      "dateText": "21 במאי 2022",
+      "doiUrl": "https://doi.org/10.1177/01914537221101322",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/herzog-lefort-ranciere-democratic-sovereignty.jpg",
+        "altHe": "כיכר הרפובליקה בפריז כמרחב מפגש ציבורי, להמחשת הדיון בריבונות וביכולת לעצב את המשותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "אנאבל הרצוג מציעה להבין ריבונות עממית באמצעות היכולת לעצב מחדש את המרחב הציבורי. קריאתה בלפור וברנסייר מציבה במרכז מחלוקת על ההשתתפות בחיים המשותפים. היא מחפשת תפיסה דמוקרטית שאינה מקבעת את העם כזהות אחידה ואינה מוותרת על כוחו הפוליטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "epstein-sadl-weinshall-comparative-judging",
+      "file": "epstein-sadl-weinshall-comparative-judging.html",
+      "permalink": "/epstein-sadl-weinshall-comparative-judging.html",
+      "sortKey": 202610200005,
+      "titleHe": "כיצד שופטים מחליטים: משפט השוואתי ומחקר ההתנהגות השיפוטית",
+      "paperTitle": "The Role of Comparative Law in the Analysis of Judicial Behavior",
+      "authorsCardHe": "Lee Epstein, Urška Šadl, Keren Weinshall",
+      "sourceAuthors": [
+        "Lee Epstein",
+        "Urška Šadl",
+        "Keren Weinshall"
+      ],
+      "journal": "The American Journal of Comparative Law 69(4), 689–719",
+      "dateText": "16 במרץ 2022",
+      "doiUrl": "https://doi.org/10.1093/ajcl/avac002",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/epstein-sadl-weinshall-comparative-judging.jpg",
+        "altHe": "אולם בית המשפט הפדרלי באוגוסטה שבג׳ורג׳יה, להמחשת המחקר על החלטות שופטים בהקשר מוסדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "המאמר מחבר בין הבנת הדין בהקשרו לבין מחקר אמפירי של החלטות שופטים. הוא מציג הסברים המבוססים על משפט, עמדות, תמריצים וזהות, ומדגיש שמדידה השוואתית דורשת ידע משפטי מקומי. השילוב יכול לשפר את הערכת ההשפעה של שינוי מוסדי על בתי המשפט.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-yang-judicial-politics-sentencing",
+      "file": "cohen-yang-judicial-politics-sentencing.html",
+      "permalink": "/cohen-yang-judicial-politics-sentencing.html",
+      "sortKey": 202610200004,
+      "titleHe": "מינוי שופטים ופערי ענישה גזעיים ומגדריים בארצות הברית",
+      "paperTitle": "Judicial Politics and Sentencing Decisions",
+      "authorsCardHe": "Alma Cohen, Crystal S. Yang",
+      "sourceAuthors": [
+        "Alma Cohen",
+        "Crystal S. Yang"
+      ],
+      "journal": "American Economic Journal: Economic Policy 11(1), 160–191",
+      "dateText": "1 בפברואר 2019",
+      "doiUrl": "https://doi.org/10.1257/pol.20170329",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/cohen-yang-judicial-politics-sentencing.jpg",
+        "altHe": "איור של שופט, עורכת דין ונאשם באולם משפט בדיוני, להמחשת הדיון במינוי שופטים ובפערי ענישה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "עלמה כהן וקריסטל יאנג קושרות נתוני ענישה של יותר מחצי מיליון נאשמים לזהות השופטים. הן מוצאות הבדלים בפערי הענישה לפי מפלגת הנשיא שמינה את השופט. הפערים מתרחבים עם שיקול הדעת, ומחברים את הליך המינוי לשאלת השוויון בפני החוק.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "fischer-hotam-wexler-postsecular-education",
+      "file": "fischer-hotam-wexler-postsecular-education.html",
+      "permalink": "/fischer-hotam-wexler-postsecular-education.html",
+      "sortKey": 202610200003,
+      "titleHe": "חינוך דמוקרטי בחברה פוסט־חילונית: משמעות משותפת בלי הדרת אחרים",
+      "paperTitle": "Democracy and Education in Postsecular Society",
+      "authorsCardHe": "Shlomo Fischer, Yotam Hotam, Philip Wexler",
+      "sourceAuthors": [
+        "Shlomo Fischer",
+        "Yotam Hotam",
+        "Philip Wexler"
+      ],
+      "journal": "Review of Research in Education 36(1), 261–281",
+      "dateText": "1 במרץ 2012",
+      "doiUrl": "https://doi.org/10.3102/0091732x11422799",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/fischer-hotam-wexler-postsecular-education.jpg",
+        "altHe": "אולם פוסקוליאנה באוניברסיטת פאביה באיטליה, להמחשת מסורות של השכלה ותרבות בדיון על מטרות החינוך",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "המחברים בוחנים את הקשרים בין דת, דמוקרטיה וחינוך מעבר להפרדה קשיחה בין חילוני לדתי. מסורות רוחניות עשויות להזין טיפוח עצמי וקהילה, אך גם הדרה. האתגר החינוכי הוא לשמר משמעות ושייכות בלי לדכא את מי שמחוץ לקבוצה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gross-canetti-vashdi-cyberterrorism-liberties",
+      "file": "gross-canetti-vashdi-cyberterrorism-liberties.html",
+      "permalink": "/gross-canetti-vashdi-cyberterrorism-liberties.html",
+      "sortKey": 202610200002,
+      "titleHe": "חרדה מסייברטרור והנכונות לוותר על פרטיות וחירויות",
+      "paperTitle": "Cyberterrorism: its effects on psychological well-being, public confidence and political attitudes",
+      "authorsCardHe": "Michael L. Gross, Daphna Canetti, Dana R. Vashdi",
+      "sourceAuthors": [
+        "Michael L. Gross",
+        "Daphna Canetti",
+        "Dana R. Vashdi"
+      ],
+      "journal": "Journal of Cybersecurity 3(1), 49–58",
+      "dateText": "15 בפברואר 2017",
+      "doiUrl": "https://doi.org/10.1093/cybsec/tyw018",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/gross-canetti-vashdi-cyberterrorism-liberties.jpg",
+        "altHe": "איור של בני זוג מודאגים מול מחשב בבית, כשברקע תשתית מים עירונית, להמחשת החרדה מאיום סייבר על חיי היום־יום",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "מחקרי חשיפה לסייברטרור בישראל מראים שגם איום ללא הרוגים עלול להגביר חרדה ותחושת פגיעוּת. תפיסת איום גבוהה נקשרה לתמיכה במעקב ובתגובה צבאית. הממצאים מדגישים שהגנת סייבר נוגעת גם לחוסן אזרחי ולחירויות, מעבר להגנת מערכות מחשב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "efrat-civil-society-organ-trafficking",
+      "file": "efrat-civil-society-organ-trafficking.html",
+      "permalink": "/efrat-civil-society-organ-trafficking.html",
+      "sortKey": 202610200001,
+      "titleHe": "רופאים נגד סחר באיברים: כוח החברה האזרחית וגבולות האכיפה",
+      "paperTitle": "Combating The Kidney Commerce: Civil Society against Organ Trafficking in Pakistan and Israel",
+      "authorsCardHe": "Asif Efrat",
+      "sourceAuthors": [
+        "Asif Efrat"
+      ],
+      "journal": "British Journal of Criminology 53(5), 764–783",
+      "dateText": "26 באפריל 2013",
+      "doiUrl": "https://doi.org/10.1093/bjc/azt025",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/efrat-civil-society-organ-trafficking.jpg",
+        "altHe": "איור של רופאים ואנשי ציבור בדיון על מדיניות בחדר ישיבות רפואי, להמחשת מאבק מקצועי בסחר באיברים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-20",
+      "dateModified": "2026-10-20",
+      "summaryHe": "אסיף אפרת משווה את המאבק הרפואי בסחר באיברים בישראל ובפקיסטן. הוא מראה כיצד לחץ מקצועי ומוסרי הניע חקיקה, אך התקשה להבטיח אכיפה מלאה. ההבחנה בין איסור רשמי ליישומו חושפת את גבולות ההשפעה של החברה האזרחית על המדינה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "porat-starting-at-home-minority-rights",
       "file": "porat-starting-at-home-minority-rights.html",
