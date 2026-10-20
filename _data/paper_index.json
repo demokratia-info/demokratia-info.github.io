@@ -1,8 +1,288 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1972,
+  "paperCount": 1982,
   "papers": [
+    {
+      "slug": "dothan-margin-appreciation-democratic-deference",
+      "file": "dothan-margin-appreciation-democratic-deference.html",
+      "permalink": "/dothan-margin-appreciation-democratic-deference.html",
+      "sortKey": 202610210010,
+      "titleHe": "מרווח ההערכה בדיני זכויות האדם: כיצד ריסון מאפשר התערבות",
+      "paperTitle": "Margin of Appreciation and Democracy: Human Rights and Deference to Political Bodies",
+      "authorsCardHe": "Shai Dothan",
+      "sourceAuthors": [
+        "Shai Dothan"
+      ],
+      "journal": "Journal of International Dispute Settlement 9(2), 145–153",
+      "dateText": "8 בפברואר 2018 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1093/jnlids/idx019",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dothan-margin-appreciation-democratic-deference.jpg",
+        "altHe": "בניין בית הדין האירופי לזכויות אדם בשטרסבורג, בהקשר למרווח ההערכה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "שי דותן מציג פרדוקס בתפקידו של מרווח ההערכה: דוקטרינה המכבדת הכרעות מקומיות עשויה גם להצדיק ולאפשר התערבות של בתי משפט בין־לאומיים. הדיון קושר בין הגנה על זכויות אדם, לגיטימיות שיפוטית והיתכנות פוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "saada-islam-democracy-citizenship-education",
+      "file": "saada-islam-democracy-citizenship-education.html",
+      "permalink": "/saada-islam-democracy-citizenship-education.html",
+      "sortKey": 202610210009,
+      "titleHe": "חינוך אסלאמי, דמוקרטיה ואזרחות שווה: המחלוקת והחלופה הפדגוגית",
+      "paperTitle": "Understanding the religious controversy around democracy in Muslim-majority societies: An educational perspective",
+      "authorsCardHe": "Najwan Saada",
+      "sourceAuthors": [
+        "Najwan Saada"
+      ],
+      "journal": "Citizenship Teaching & Learning 15(1), 63–78",
+      "dateText": "1 במרץ 2020",
+      "doiUrl": "https://doi.org/10.1386/ctl_00020_1",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/saada-islam-democracy-citizenship-education.jpg",
+        "altHe": "איור של סטודנטים בדיון על דת ואזרחות, עם מקום לחשיבה עצמאית ולהקשבה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "נג׳ואן סעאדה משווה בין פרשנויות אסלאמיסטיות־סלפיות לבין תפיסות ליברליות ומתקדמות של דמוקרטיה. הוא מציע הוראה של האסלאם דרך חוויות דתיות והקשרים תרבותיים, כדי לטפח חשיבה דתית עצמאית, זהות רפלקטיבית ואזרחות מכילה ושווה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "goldman-democracies-violent-proxy-support",
+      "file": "goldman-democracies-violent-proxy-support.html",
+      "permalink": "/goldman-democracies-violent-proxy-support.html",
+      "sortKey": 202610210008,
+      "titleHe": "דמוקרטיות ומלחמה עקיפה: תמיכה מדינתית בארגונים חמושים",
+      "paperTitle": "Do Democracies Support Violent Non-governmental Organizations Less Than Autocracies Do?",
+      "authorsCardHe": "Ogen Goldman",
+      "sourceAuthors": [
+        "Ogen S. Goldman"
+      ],
+      "journal": "Civil Wars 18(4), 439–466",
+      "dateText": "28 במרץ 2017 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/13698249.2017.1297050",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/goldman-democracies-violent-proxy-support.jpg",
+        "altHe": "איור של העברת ארגזי אספקה דרך מתווכים, להמחשת תמיכה חומרית עקיפה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "עוגן גולדמן בוחן אם דמוקרטיות נוטות פחות לתמוך חומרית בארגונים אלימים הנלחמים בתוך מדינות אחרות. הממצאים מצביעים על הסתברות נמוכה יותר לתמיכה ככל שהמשטר דמוקרטי יותר, אך אינם מעניקים תמיכה חד־משמעית לכל גרסאות הטיעון בדבר התנהגות דמוקרטית שוחרת שלום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "rosenberg-milli-gorus-liberal-democracy",
+      "file": "rosenberg-milli-gorus-liberal-democracy.html",
+      "permalink": "/rosenberg-milli-gorus-liberal-democracy.html",
+      "sortKey": 202610210007,
+      "titleHe": "מילי גורוש בטורקיה: מהתנגדות לדמוקרטיה לשיח של זכויות",
+      "paperTitle": "Reconstructing the caliphate or bringing liberal democracy to Turkey? Millî Görüş’s view on liberal democracy before reaching power",
+      "authorsCardHe": "Uri Rosenberg",
+      "sourceAuthors": [
+        "Uri Rosenberg"
+      ],
+      "journal": "Middle Eastern Studies 60(6), 961–978",
+      "dateText": "17 באפריל 2024 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/00263206.2024.2336092",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/rosenberg-milli-gorus-liberal-democracy.jpg",
+        "altHe": "בניין האספה הלאומית הגדולה באנקרה, בהקשר לשיח על דמוקרטיה וזכויות בטורקיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "אורי רוזנברג מתחקה אחר השינוי בשיח של תנועת מילי גורוש, משנות השבעים ועד אמצע וסוף שנות התשעים. מתנועה שתקפה את המערב ואת הדמוקרטיה היא עברה להציג דרישות לדמוקרטיזציה ולזכויות יסוד. המעבר מעלה שאלות על היחס בין אסלאם פוליטי לליברליזם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ben-yehuda-levin-banchik-terror-crises-power",
+      "file": "ben-yehuda-levin-banchik-terror-crises-power.html",
+      "permalink": "/ben-yehuda-levin-banchik-terror-crises-power.html",
+      "sortKey": 202610210006,
+      "titleHe": "משטר ועוצמה במשברי טרור: מדוע דמוקרטיות חזקות מגיבות בכוח",
+      "paperTitle": "Regime and Power in International Terror Crises: Strong Democracies Fight Back Hard",
+      "authorsCardHe": "Hemda Ben-Yehuda, Luba Levin-Banchik",
+      "sourceAuthors": [
+        "Hemda Ben-Yehuda",
+        "Luba Levin-Banchik"
+      ],
+      "journal": "Terrorism and Political Violence 26(3), 504–522",
+      "dateText": "13 בינואר 2014 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/09546553.2012.736891",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/ben-yehuda-levin-banchik-terror-crises-power.jpg",
+        "altHe": "איור של ישיבת משבר אזרחית וצבאית סביב מפת תבליט, בהקשר לתגובה מדינתית לטרור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "חמדה בן־יהודה ולובה לוין־בנצ׳יק בוחנות משברי טרור בין־לאומיים בשנים 1934–2006. בניתוח שלהן דמוקרטיות חזקות הן מטרות שכיחות במיוחד וגם מגיבות באלימות רבה. הממצאים מדגישים שהקשר בין משטר דמוקרטי לריסון תלוי גם בעוצמת המדינה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "fox-religion-state-stable-democracies",
+      "file": "fox-religion-state-stable-democracies.html",
+      "permalink": "/fox-religion-state-stable-democracies.html",
+      "sortKey": 202610210005,
+      "titleHe": "הפרדת דת ומדינה בדמוקרטיות יציבות: הפער בין הגדרה למציאות",
+      "paperTitle": "Separation of Religion and State in Stable Christian Democracies: Fact or Myth?",
+      "authorsCardHe": "Jonathan Fox",
+      "sourceAuthors": [
+        "Jonathan Fox"
+      ],
+      "journal": "Journal of Law, Religion and State 1(1), 60–94",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1163/221248112x638145",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/fox-religion-state-stable-democracies.jpg",
+        "altHe": "קפלת ארמון כריסטיאנסבורג בקופנהגן, להמחשת הקשר בין מוסדות המדינה לדת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "ג׳ונתן פוקס משווה בין תפיסות של הפרדת דת ומדינה לבין המציאות ב־40 דמוקרטיות יציבות בעלות רוב נוצרי. בשנים 1990–2008, רק אפס עד שמונה מהן עומדות בתנאי ההפרדה, בהתאם להגדרה. הממצא מחייב לבחון כיצד מגדירים דמוקרטיה ליברלית ואת יחסה לדת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "bartal-ghannouchi-tunisia-political-islam",
+      "file": "bartal-ghannouchi-tunisia-political-islam.html",
+      "permalink": "/bartal-ghannouchi-tunisia-political-islam.html",
+      "sortKey": 202610210004,
+      "titleHe": "ראשד ע׳נושי וא־נהדה: אסלאם פוליטי במבחן הדמוקרטיה בתוניסיה",
+      "paperTitle": "Rached Ghannouchi’s test: Political Islam and democracy in Tunisia",
+      "authorsCardHe": "Shaul Bartal",
+      "sourceAuthors": [
+        "Shaul Bartal"
+      ],
+      "journal": "African Studies 79(1), 110–124",
+      "dateText": "2 במרץ 2020 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/00020184.2020.1732190",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/bartal-ghannouchi-tunisia-political-islam.jpg",
+        "altHe": "חזית הפרלמנט התוניסאי בארמון בארדו, בהקשר לדיון בהשתתפות פוליטית בתוניסיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "שאול ברטל בוחן את מחשבתו ופעולתו של ראשד ע׳נושי בתוניסיה בשנים 2011–2017. המקרה מציב במרכז את היחס בין זהות אסלאמית, מטרות פוליטיות והשתתפות בסדר דמוקרטי, ומערער על הצגה אחידה של האסלאם הפוליטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "herzog-popular-sovereignty-management-democracy",
+      "file": "herzog-popular-sovereignty-management-democracy.html",
+      "permalink": "/herzog-popular-sovereignty-management-democracy.html",
+      "sortKey": 202610210003,
+      "titleHe": "ריבונות העם מול ממשל של מומחים: האייק, פוקו ולפור",
+      "paperTitle": "The Attack on Sovereignty: Liberalism and Democracy in Hayek, Foucault, and Lefort",
+      "authorsCardHe": "Annabel Herzog",
+      "sourceAuthors": [
+        "Annabel Herzog"
+      ],
+      "journal": "Political Theory 49(4), 662–685",
+      "dateText": "16 בספטמבר 2020 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1177/0090591720958124",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/herzog-popular-sovereignty-management-democracy.jpg",
+        "altHe": "איור של דיון אזרחי ומושב פנוי במעגל, להמחשת האפשרות לעצב מחדש את מרחב הכוח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "אנאבל הרצוג בוחנת את החלפת ריבונות העם בטכניקות ניהול ואת החלופה שמציע קלוד לפור. לטענתה, הגנה על כוחו הפוליטי של הציבור מחייבת לחשוב מחדש על ריבונות, מול הביקורת הנאו־ליברלית וגם מול הרטוריקה הפופוליסטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "sela-gabay-egozi-judicial-attention-civil-cases",
+      "file": "sela-gabay-egozi-judicial-attention-civil-cases.html",
+      "permalink": "/sela-gabay-egozi-judicial-attention-civil-cases.html",
+      "sortKey": 202610210002,
+      "titleHe": "גישה לצדק לפני פסק הדין: מדידת המעורבות של שופטים בהליך האזרחי",
+      "paperTitle": "Judicial Procedural Involvement (JPI): A Metric for Judges’ Role in Civil Litigation, Settlement, and Access to Justice",
+      "authorsCardHe": "Ayelet Sela, Limor Gabay-Egozi",
+      "sourceAuthors": [
+        "Ayelet Sela",
+        "Limor Gabay-Egozi"
+      ],
+      "journal": "Journal of Law and Society 47(3), 468–498",
+      "dateText": "12 באוגוסט 2020 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/jols.12243",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/sela-gabay-egozi-judicial-attention-civil-cases.jpg",
+        "altHe": "איור של שופטת המקשיבה לבעלי דין בדיון אזרחי מקדמי, להמחשת תשומת לב שיפוטית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "איילת סלע ולימור גבאי־אגוזי מציעות למדוד גישה לצדק גם באמצעות הגישה לתשומת לב שיפוטית. בניתוח 1,283 תיקים אזרחיים, 60% כללו מעורבות דיונית של שופט ו־40% הסתיימו בלעדיה. המדד חושף פעילות שאינה ניכרת בספירת פסקי דין בלבד, ומציע בסיס לבחינת פשרות ורפורמות דיוניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "winter-hollman-manheim-judicial-ai-alignment",
+      "file": "winter-hollman-manheim-judicial-ai-alignment.html",
+      "permalink": "/winter-hollman-manheim-judicial-ai-alignment.html",
+      "sortKey": 202610210001,
+      "titleHe": "בינה מלאכותית שיפוטית: מהגדרת ערכים לפיקוח וליכולת עצירה",
+      "paperTitle": "Value Alignment for Advanced Artificial Judicial Intelligence",
+      "authorsCardHe": "Christoph Winter, Nicholas Hollman, David Manheim",
+      "sourceAuthors": [
+        "Christoph Winter",
+        "Nicholas Hollman",
+        "David Manheim"
+      ],
+      "journal": "American Philosophical Quarterly 60(2), 187–203",
+      "dateText": "1 באפריל 2023",
+      "doiUrl": "https://doi.org/10.5406/21521123.60.2.06",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/winter-hollman-manheim-judicial-ai-alignment.jpg",
+        "altHe": "איור של בדיקת מערכת מחשוב שיפוטית לצד מנגנון עצירה ובקרה אנושית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-21",
+      "dateModified": "2026-10-21",
+      "summaryHe": "המאמר מחבר בין הדיון בבינה מלאכותית שיפוטית למחקר על התאמת מערכות לערכים. הוא מציע להגדיר במדויק מטרות משפטיות והתנגשויות ביניהן, ולבנות מנגנוני אימות, הסבר ועצירה. הסוגיה אינה רק איכות הכרעה בודדת, אלא גם עצמאות שיפוטית, זכויות ואיזונים בין רשויות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "kochin-plato-knowledge-democratic-choice",
       "file": "kochin-plato-knowledge-democratic-choice.html",

@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "sampleSize": 6,
-  "seed": "2026-10-20-homepage-high-fit",
+  "seed": "2026-10-21-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 1011,
+  "fullTextHighFitPaperCount": 1013,
   "paperSlugs": [
     "democracy_authoritarianism_threat_exclusionism_gaza_summary_he",
-    "democracy_mizrahi_feminist_theory_israeli_law_summary_he",
+    "democracy_nation_owe_non_citizens_rights_summary_he",
     "democracy_stretching_the_boundaries_of_political_violence_lessons_from_hungary_and_israel_summary_he",
     "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he",
-    "democracy_settlements_in_the_supreme_court_of_israel_summary_he",
+    "democracy_transnational_nuclear_free_civil_society_summary_he",
     "democracy_nonvoting_decisiveness_electoral_outcomes_summary_he"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -54945,6 +54945,306 @@
       "source": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_5260.jpg",
       "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_5260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The photograph supplies illustrative context and does not depict the study participants."
+    },
+    {
+      "file": "html_qa/winter-hollman-manheim-judicial-ai-alignment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "winter-hollman-manheim-judicial-ai-alignment.html",
+      "usedBy": [
+        "winter-hollman-manheim-judicial-ai-alignment.html"
+      ],
+      "cardTitleHe": "בינה מלאכותית שיפוטית: מהגדרת ערכים לפיקוח וליכולת עצירה",
+      "authorsHe": "Christoph Winter, Nicholas Hollman, David Manheim",
+      "visualDescriptionHe": "איור של בדיקת מערכת מחשוב שיפוטית לצד מנגנון עצירה ובקרה אנושית",
+      "semanticDescriptionHe": "המאמר מחבר בין הדיון בבינה מלאכותית שיפוטית למחקר על התאמת מערכות לערכים. הוא מציע להגדיר במדויק מטרות משפטיות והתנגשויות ביניהן, ולבנות מנגנוני אימות, הסבר ועצירה. הסוגיה אינה רק איכות הכרעה בודדת, אלא גם עצמאות שיפוטית, זכויות ואיזונים בין רשויות.",
+      "tags": [
+        "בינה מלאכותית שיפוטית",
+        "התאמה לערכים",
+        "עצמאות שיפוטית",
+        "הסבריות",
+        "פיקוח על אלגוריתמים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial illustration for a philosophical paper about value alignment, verification, interpretability, and interruptibility of advanced judicial AI. A fictional courthouse technology testing room adjacent to an empty traditional wood-panelled courtroom visible through glass. A legal researcher and a computer engineer stand beside a modest server cabinet with a clearly visible simple physical power disconnect handle; a seated judge studies a plain paper case file at a desk nearby. No robot judges, no futuristic holograms. The scene connects ongoing human scrutiny and the ability to halt an automated system with judicial institutions. Warm oak, soft daylight, cobalt technical detail, textured painterly realism and convincing spatial depth. Landscape 4:3. No readable text, letters, numbers, logos, flags, watermarks, UI widgets, lit screen content, icons or symbolic scales.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/sela-gabay-egozi-judicial-attention-civil-cases.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sela-gabay-egozi-judicial-attention-civil-cases.html",
+      "usedBy": [
+        "sela-gabay-egozi-judicial-attention-civil-cases.html"
+      ],
+      "cardTitleHe": "גישה לצדק לפני פסק הדין: מדידת המעורבות של שופטים בהליך האזרחי",
+      "authorsHe": "Ayelet Sela, Limor Gabay-Egozi",
+      "visualDescriptionHe": "איור של שופטת המקשיבה לבעלי דין בדיון אזרחי מקדמי, להמחשת תשומת לב שיפוטית",
+      "semanticDescriptionHe": "איילת סלע ולימור גבאי־אגוזי מציעות למדוד גישה לצדק גם באמצעות הגישה לתשומת לב שיפוטית. בניתוח 1,283 תיקים אזרחיים, 60% כללו מעורבות דיונית של שופט ו־40% הסתיימו בלעדיה. המדד חושף פעילות שאינה ניכרת בספירת פסקי דין בלבד, ומציע בסיס לבחינת פשרות ורפורמות דיוניות.",
+      "tags": [
+        "גישה לצדק",
+        "מעורבות שיפוטית",
+        "הליך אזרחי",
+        "פשרות",
+        "בעלי דין ללא ייצוג"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial illustration for an empirical paper about judicial involvement before final judgments in Israeli civil litigation, settlements, and access to judicial attention. Fictional small civil courtroom during a calm preliminary case-management hearing: a woman judge leaning forward attentively toward two ordinary adult litigants seated at separate tables, one carrying a modest folder without a lawyer. Wide diagonal composition showing warm wood furniture, daylight through high windows, a few empty public benches and textured stone wall. Judge and litigants have believable natural poses and direct attentive engagement. No gavel, no scales, no actual identifiable litigants or documented case. Landscape 4:3. No text, letters, numbers, flags, logos, watermarks, readable papers, UI, diagrams or isolated symbols.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/herzog-popular-sovereignty-management-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "herzog-popular-sovereignty-management-democracy.html",
+      "usedBy": [
+        "herzog-popular-sovereignty-management-democracy.html"
+      ],
+      "cardTitleHe": "ריבונות העם מול ממשל של מומחים: האייק, פוקו ולפור",
+      "authorsHe": "Annabel Herzog",
+      "visualDescriptionHe": "איור של דיון אזרחי ומושב פנוי במעגל, להמחשת האפשרות לעצב מחדש את מרחב הכוח",
+      "semanticDescriptionHe": "אנאבל הרצוג בוחנת את החלפת ריבונות העם בטכניקות ניהול ואת החלופה שמציע קלוד לפור. לטענתה, הגנה על כוחו הפוליטי של הציבור מחייבת לחשוב מחדש על ריבונות, מול הביקורת הנאו־ליברלית וגם מול הרטוריקה הפופוליסטית.",
+      "tags": [
+        "ריבונות העם",
+        "נאו־ליברליזם",
+        "קלוד לפור",
+        "פרידריך האייק",
+        "מישל פוקו"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial illustration for a Hebrew academic summary about Annabel Herzog's analysis of popular sovereignty, managerial government, and democratic power remaining open to reinterpretation. Fictional civic reading room with tall windows and warm late-afternoon light: several adult citizens of different ages discuss around an open circular arrangement of mismatched wooden chairs, with a visibly empty chair in the circle and a large open doorway leading into a busy public square. Rich natural textures, depth, thoughtful human faces, restrained ochre, teal and warm cream palette, painterly documentary editorial style. The empty seat suggests that political authority belongs to no permanent owner. Landscape 4:3. No text, letters, numbers, flags, logos, watermarks, screens, UI, diagrams, icons, isolated symbols or pasted layers.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/bartal-ghannouchi-tunisia-political-islam.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bartal-ghannouchi-tunisia-political-islam.html",
+      "usedBy": [
+        "bartal-ghannouchi-tunisia-political-islam.html"
+      ],
+      "cardTitleHe": "ראשד ע׳נושי וא־נהדה: אסלאם פוליטי במבחן הדמוקרטיה בתוניסיה",
+      "authorsHe": "Shaul Bartal",
+      "visualDescriptionHe": "חזית הפרלמנט התוניסאי בארמון בארדו, בהקשר לדיון בהשתתפות פוליטית בתוניסיה",
+      "semanticDescriptionHe": "שאול ברטל בוחן את מחשבתו ופעולתו של ראשד ע׳נושי בתוניסיה בשנים 2011–2017. המקרה מציב במרכז את היחס בין זהות אסלאמית, מטרות פוליטיות והשתתפות בסדר דמוקרטי, ומערער על הצגה אחידה של האסלאם הפוליטי.",
+      "tags": [
+        "תוניסיה",
+        "ראשד ע׳נושי",
+        "א־נהדה",
+        "אסלאם פוליטי",
+        "דמוקרטיזציה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Dan Sloan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_parlement_Tunisie.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_parlement_Tunisie.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Fa%C3%A7ade_parlement_Tunisie.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. This contextual photograph does not depict the study participants. The crop is distributed under the stated source license."
+    },
+    {
+      "file": "html_qa/fox-religion-state-stable-democracies.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "fox-religion-state-stable-democracies.html",
+      "usedBy": [
+        "fox-religion-state-stable-democracies.html"
+      ],
+      "cardTitleHe": "הפרדת דת ומדינה בדמוקרטיות יציבות: הפער בין הגדרה למציאות",
+      "authorsHe": "Jonathan Fox",
+      "visualDescriptionHe": "קפלת ארמון כריסטיאנסבורג בקופנהגן, להמחשת הקשר בין מוסדות המדינה לדת",
+      "semanticDescriptionHe": "ג׳ונתן פוקס משווה בין תפיסות של הפרדת דת ומדינה לבין המציאות ב־40 דמוקרטיות יציבות בעלות רוב נוצרי. בשנים 1990–2008, רק אפס עד שמונה מהן עומדות בתנאי ההפרדה, בהתאם להגדרה. הממצא מחייב לבחון כיצד מגדירים דמוקרטיה ליברלית ואת יחסה לדת.",
+      "tags": [
+        "הפרדת דת ומדינה",
+        "חופש דת",
+        "מיעוטים דתיים",
+        "דמוקרטיה ליברלית",
+        "חקיקה דתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Jens Cederskjold",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slotskirke_-_Christiansborg_Palace_Chapel_-_1826_-_Seen_from_Prins_J%C3%B8rgens_G%C3%A5rd_-_Architect_C.F._Hansen_%281756-1845%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slotskirke_-_Christiansborg_Palace_Chapel_-_1826_-_Seen_from_Prins_J%C3%B8rgens_G%C3%A5rd_-_Architect_C.F._Hansen_%281756-1845%29.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Christiansborg_Slotskirke_-_Christiansborg_Palace_Chapel_-_1826_-_Seen_from_Prins_J%C3%B8rgens_G%C3%A5rd_-_Architect_C.F._Hansen_%281756-1845%29.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. This contextual photograph does not depict the study participants. The crop is distributed under the stated source license."
+    },
+    {
+      "file": "html_qa/ben-yehuda-levin-banchik-terror-crises-power.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ben-yehuda-levin-banchik-terror-crises-power.html",
+      "usedBy": [
+        "ben-yehuda-levin-banchik-terror-crises-power.html"
+      ],
+      "cardTitleHe": "משטר ועוצמה במשברי טרור: מדוע דמוקרטיות חזקות מגיבות בכוח",
+      "authorsHe": "Hemda Ben-Yehuda, Luba Levin-Banchik",
+      "visualDescriptionHe": "איור של ישיבת משבר אזרחית וצבאית סביב מפת תבליט, בהקשר לתגובה מדינתית לטרור",
+      "semanticDescriptionHe": "חמדה בן־יהודה ולובה לוין־בנצ׳יק בוחנות משברי טרור בין־לאומיים בשנים 1934–2006. בניתוח שלהן דמוקרטיות חזקות הן מטרות שכיחות במיוחד וגם מגיבות באלימות רבה. הממצאים מדגישים שהקשר בין משטר דמוקרטי לריסון תלוי גם בעוצמת המדינה.",
+      "tags": [
+        "משברי טרור",
+        "דמוקרטיה",
+        "עוצמה מדינתית",
+        "הסלמה",
+        "תגובות צבאיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: warm polished editorial painting for a research summary on how military power affects democratic governments' responses to international terrorism. Fictional late-night government crisis room, wide side view, civilian ministers and two uniformed advisers without insignia listening intently around a long wooden table; a large unlabelled relief terrain map with no borders or writing rests on the table, closed files and plain cups nearby. Rain at the windows, muted navy and warm brass desk light, deep perspective, textured oil-paint finish, restrained serious atmosphere. No actual identifiable people or events. Landscape 4:3. No text, letters, numbers, insignia, flags, logos, watermarks, screens, UI, icons, diagrams, symbolic scales or violence.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/rosenberg-milli-gorus-liberal-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rosenberg-milli-gorus-liberal-democracy.html",
+      "usedBy": [
+        "rosenberg-milli-gorus-liberal-democracy.html"
+      ],
+      "cardTitleHe": "מילי גורוש בטורקיה: מהתנגדות לדמוקרטיה לשיח של זכויות",
+      "authorsHe": "Uri Rosenberg",
+      "visualDescriptionHe": "בניין האספה הלאומית הגדולה באנקרה, בהקשר לשיח על דמוקרטיה וזכויות בטורקיה",
+      "semanticDescriptionHe": "אורי רוזנברג מתחקה אחר השינוי בשיח של תנועת מילי גורוש, משנות השבעים ועד אמצע וסוף שנות התשעים. מתנועה שתקפה את המערב ואת הדמוקרטיה היא עברה להציג דרישות לדמוקרטיזציה ולזכויות יסוד. המעבר מעלה שאלות על היחס בין אסלאם פוליטי לליברליזם.",
+      "tags": [
+        "מילי גורוש",
+        "טורקיה",
+        "אסלאם פוליטי",
+        "דמוקרטיה ליברלית",
+        "זכויות יסוד"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Makril",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Building_of_the_Grand_National_Assembly_of_Turkey.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Building_of_the_Grand_National_Assembly_of_Turkey.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Building_of_the_Grand_National_Assembly_of_Turkey.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. This contextual photograph does not depict the study participants. The crop is distributed under the stated source license."
+    },
+    {
+      "file": "html_qa/goldman-democracies-violent-proxy-support.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "goldman-democracies-violent-proxy-support.html",
+      "usedBy": [
+        "goldman-democracies-violent-proxy-support.html"
+      ],
+      "cardTitleHe": "דמוקרטיות ומלחמה עקיפה: תמיכה מדינתית בארגונים חמושים",
+      "authorsHe": "Ogen Goldman",
+      "visualDescriptionHe": "איור של העברת ארגזי אספקה דרך מתווכים, להמחשת תמיכה חומרית עקיפה",
+      "semanticDescriptionHe": "עוגן גולדמן בוחן אם דמוקרטיות נוטות פחות לתמוך חומרית בארגונים אלימים הנלחמים בתוך מדינות אחרות. הממצאים מצביעים על הסתברות נמוכה יותר לתמיכה ככל שהמשטר דמוקרטי יותר, אך אינם מעניקים תמיכה חד־משמעית לכל גרסאות הטיעון בדבר התנהגות דמוקרטית שוחרת שלום.",
+      "tags": [
+        "מלחמה באמצעות שליחים",
+        "שלום דמוקרטי",
+        "ארגונים חמושים",
+        "תמיכה מדינתית",
+        "סכסוכים פנימיים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished editorial painting illustrating a paper about state material support to armed non-state groups and indirect warfare. Fictional rural transport depot at dusk, medium-wide composition viewed from an elevated loading bay. Two plain civilian trucks stand at a weathered warehouse while several adult men in neutral work jackets quietly transfer unmarked wooden supply crates; distant mountain road disappears beyond the compound. The scene is a metaphor for intermediaries and material support, not a photograph of any named group or event. Rich earthy textures, teal evening shadows and amber warehouse light, cinematic layered depth, believable anatomy. No weapons in use, injuries, flags, uniforms with insignia, readable labels, text, letters, logos, watermarks, UI, diagrams or abstract icons. Landscape 4:3.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/saada-islam-democracy-citizenship-education.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "saada-islam-democracy-citizenship-education.html",
+      "usedBy": [
+        "saada-islam-democracy-citizenship-education.html"
+      ],
+      "cardTitleHe": "חינוך אסלאמי, דמוקרטיה ואזרחות שווה: המחלוקת והחלופה הפדגוגית",
+      "authorsHe": "Najwan Saada",
+      "visualDescriptionHe": "איור של סטודנטים בדיון על דת ואזרחות, עם מקום לחשיבה עצמאית ולהקשבה",
+      "semanticDescriptionHe": "נג׳ואן סעאדה משווה בין פרשנויות אסלאמיסטיות־סלפיות לבין תפיסות ליברליות ומתקדמות של דמוקרטיה. הוא מציע הוראה של האסלאם דרך חוויות דתיות והקשרים תרבותיים, כדי לטפח חשיבה דתית עצמאית, זהות רפלקטיבית ואזרחות מכילה ושווה.",
+      "tags": [
+        "חינוך לאזרחות",
+        "חינוך אסלאמי",
+        "אסלאם ליברלי",
+        "אזרחות שווה",
+        "פדגוגיה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "generationPrompt": "Use case: illustration-story. Asset type: polished warm editorial illustration for an academic paper about teaching Islam through cultural and phenomenological approaches to support inclusive citizenship and reflective religious reasoning. Fictional bright college seminar room in the eastern Mediterranean, young adult students including women with and without headscarves and men sit in a semicircle actively listening to a woman student speak. Instructor at the same level as students, plain open notebooks with no visible writing, natural sunlit plaster walls, arched courtyard windows, plants, deep spatial layering. Intimate eye-level view, elegant painterly documentary style, rich fabric and wood texture. No actual study participants. No text, letters, numbers, logos, flags, watermarks, blackboard writing, screens, diagrams, icons or pasted layers. Landscape 4:3.",
+      "qualityNotes": "New fictional editorial illustration generated with the built-in image generation tool, cropped and resized to 800x600 JPEG. It does not depict actual research participants or a documented event."
+    },
+    {
+      "file": "html_qa/dothan-margin-appreciation-democratic-deference.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dothan-margin-appreciation-democratic-deference.html",
+      "usedBy": [
+        "dothan-margin-appreciation-democratic-deference.html"
+      ],
+      "cardTitleHe": "מרווח ההערכה בדיני זכויות האדם: כיצד ריסון מאפשר התערבות",
+      "authorsHe": "Shai Dothan",
+      "visualDescriptionHe": "בניין בית הדין האירופי לזכויות אדם בשטרסבורג, בהקשר למרווח ההערכה",
+      "semanticDescriptionHe": "שי דותן מציג פרדוקס בתפקידו של מרווח ההערכה: דוקטרינה המכבדת הכרעות מקומיות עשויה גם להצדיק ולאפשר התערבות של בתי משפט בין־לאומיים. הדיון קושר בין הגנה על זכויות אדם, לגיטימיות שיפוטית והיתכנות פוליטית.",
+      "tags": [
+        "מרווח ההערכה",
+        "זכויות אדם",
+        "בית הדין האירופי לזכויות אדם",
+        "ריסון שיפוטי",
+        "לגיטימיות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-21",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Gzen92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
+      "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. This contextual photograph does not depict the study participants. The crop is distributed under the stated source license."
     }
   ],
   "topicGraphics": [
