@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 1982,
+  "paperCount": 1992,
   "papers": [
+    {
+      "slug": "khalaile-bare-citizenship-gaza-war",
+      "file": "khalaile-bare-citizenship-gaza-war.html",
+      "permalink": "/khalaile-bare-citizenship-gaza-war.html",
+      "sortKey": 202610220010,
+      "titleHe": "אזרחות מרוקנת מתוכן: פלסטינים אזרחי ישראל במלחמת עזה",
+      "paperTitle": "Palestinians in Israel: Bare Citizenship during the Gaza War",
+      "authorsCardHe": "מוחמד חלאילה",
+      "sourceAuthors": [
+        "Muhammed Khalaily"
+      ],
+      "journal": "The Middle East Journal 79(1), mej-7901-10",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.3751/79.1.18",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/khalaile-bare-citizenship-gaza-war.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אזרחים ממתינים מול דלת סגורה של מבנה ציבורי מדומיין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "מוחמד חלאילה מנתח את הפער בין מעמד אזרחי פורמלי לבין תוכנה של האזרחות במלחמת עזה. לטענתו, דיכוי פוליטי, מבחני נאמנות והסתה ממשיכים מגמות שקדמו למלחמה ומחריפים את השחיקה הדמוקרטית ואת הניכור בין יהודים לערבים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "paltieli-mill-solitude-imperfect-democracy",
+      "file": "paltieli-mill-solitude-imperfect-democracy.html",
+      "permalink": "/paltieli-mill-solitude-imperfect-democracy.html",
+      "sortKey": 202610220009,
+      "titleHe": "ג׳ון סטיוארט מיל: התבודדות כמשקל נגד לחיים הדמוקרטיים",
+      "paperTitle": "Mill’s closet: J.S. Mill on solitude and the imperfect democracy",
+      "authorsCardHe": "גיא פלטיאל",
+      "sourceAuthors": [
+        "Guy Paltieli"
+      ],
+      "journal": "History of European Ideas 45(1), 47–63",
+      "dateText": "4 באוקטובר 2018 (פרסום מקוון); גיליון 2019",
+      "doiUrl": "https://doi.org/10.1080/01916599.2018.1527558",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/paltieli-mill-solitude-imperfect-democracy.jpg",
+        "altHe": "פסל ג׳ון סטיוארט מיל בין עצים בגני ויקטוריה אמבנקמנט בלונדון, צילום מ־2017",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "גיא פלטיאל מציע קריאה בהגותו של מיל שבה התבודדות חיונית לדמוקרטיה ולהתקדמות אינטלקטואלית, אף שהיא נבדלת מהשתתפות ומשיח ציבורי. לפי קריאה זו, דמוקרטיה זקוקה גם למרחבים ולכוחות שאינם נטמעים לחלוטין בפעילותה המשותפת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gradstein-decentralization-credible-commitment",
+      "file": "gradstein-decentralization-credible-commitment.html",
+      "permalink": "/gradstein-decentralization-credible-commitment.html",
+      "sortKey": 202610220008,
+      "titleHe": "ביזור שלטוני כמנגנון התחייבות במשטרים לא־דמוקרטיים",
+      "paperTitle": "Government decentralization as a commitment in non-democracies",
+      "authorsCardHe": "מארק גרדשטיין",
+      "sourceAuthors": [
+        "Mark Gradstein"
+      ],
+      "journal": "Journal of Comparative Economics 45(1), 110–118",
+      "dateText": "פברואר 2017",
+      "doiUrl": "https://doi.org/10.1016/j.jce.2016.01.005",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/gradstein-decentralization-credible-commitment.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: נציגים אזוריים מתכננים שירותים ציבוריים סביב דגם של יישובים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "מארק גרדשטיין מסביר מדוע שליט לא־דמוקרטי עשוי לוותר מרצונו על סמכויות לטובת אזורים. ביזור יכול ליצור התחייבות אמינה להתחשבות בהעדפות מקומיות, לחזק תמריצים לפעילות יצרנית ולהגדיל את המשאבים למוצרים ציבוריים ארציים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "fox-constitutional-religion-policy-gap",
+      "file": "fox-constitutional-religion-policy-gap.html",
+      "permalink": "/fox-constitutional-religion-policy-gap.html",
+      "sortKey": 202610220007,
+      "titleHe": "דת ומדינה: הפער בין סעיפי החוקה לבין החקיקה בפועל",
+      "paperTitle": "Out of Sync: The Disconnect Between Constitutional Clauses and State Legislation on Religion",
+      "authorsCardHe": "יונתן פוקס",
+      "sourceAuthors": [
+        "Jonathan Fox"
+      ],
+      "journal": "Canadian Journal of Political Science 44(1), 59–81",
+      "dateText": "31 במרץ 2011 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1017/s0008423910001046",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/fox-constitutional-religion-policy-gap.jpg",
+        "altHe": "כיכר הסנאט והקתדרלה בהלסינקי במאי 2026; צילום להמחשת נוכחות מוסדות דת במרחב הציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "יונתן פוקס בוחן 166 מדינות ומראה שהכרזה חוקתית על דת רשמית או על הפרדת דת ומדינה קשורה למדיניות, אך אינה מתארת אותה לבדה. מאפיינים מבניים מסבירים חלק חשוב מההבדלים, והניסוח המדויק של הסעיפים מוסיף מעט יחסית להבנת החקיקה הדתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "jamal-nationality-bill-majoritarianism",
+      "file": "jamal-nationality-bill-majoritarianism.html",
+      "permalink": "/jamal-nationality-bill-majoritarianism.html",
+      "sortKey": 202610220006,
+      "titleHe": "הצעת חוק הלאום מ־2014: שלטון רוב וגבולות השוויון האזרחי",
+      "paperTitle": "Constitutionalizing Sophisticated Racism: Israel's Proposed Nationality Law",
+      "authorsCardHe": "אמל ג׳מאל",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Journal of Palestine Studies 45(3), 40–51",
+      "dateText": "אביב 2016",
+      "doiUrl": "https://doi.org/10.1525/jps.2016.45.3.40",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/jamal-nationality-bill-majoritarianism.jpg",
+        "altHe": "תצלום ארכיוני של דיון בכנסת על הסכם אוסלו ב׳ ב־1995; להמחשת הזירה הפרלמנטרית, ולא דיון בהצעת חוק הלאום",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "אמל ג׳מאל מנתח את המניעים הפוליטיים להצעת חוק הלאום שהועלתה ב־2014. לטענתו, עיגון העדיפות הלאומית היהודית נועד לשנות את האיזון בין הרוב, בית המשפט ותביעות השוויון של המיעוט הערבי, ולהפוך היררכיה פוליטית לעיקרון חוקתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "yanovskiy-ginker-constitutional-constraints",
+      "file": "yanovskiy-ginker-constitutional-constraints.html",
+      "permalink": "/yanovskiy-ginker-constitutional-constraints.html",
+      "sortKey": 202610220005,
+      "titleHe": "כיצד למדוד מגבלות חוקתיות בפועל: בחירות, בתי משפט ותקשורת",
+      "paperTitle": "A proposal for a more objective measure of de facto constitutional constraints",
+      "authorsCardHe": "משה ינובסקי; טים גינקר",
+      "sourceAuthors": [
+        "Moshe Yanovskiy",
+        "Tim Ginker"
+      ],
+      "journal": "Constitutional Political Economy 28(4), 311–320",
+      "dateText": "8 ביולי 2017 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1007/s10602-017-9242-1",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/yanovskiy-ginker-constitutional-constraints.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: חוקרים משווים תצלומים מדומיינים של חילופי שלטון, דיון שיפוטי ועיתונאים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "משה ינובסקי וטים גינקר מציעים שני מדדים למגבלות שלטוניות המבוססים על אירועים נצפים: חילופי שלטון, ציות להכרעות שיפוטיות וחופש ביקורת. הם בוחנים את המדדים בנתונים היסטוריים ומשווים את הקשר שלהם להתפתחות כלכלית למדדים מוסדיים מורכבים יותר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "jamal-nation-state-constitutional-imagination",
+      "file": "jamal-nation-state-constitutional-imagination.html",
+      "permalink": "/jamal-nation-state-constitutional-imagination.html",
+      "sortKey": 202610220004,
+      "titleHe": "חוק הלאום והדמיון החוקתי: גבולות השייכות והשוויון בישראל",
+      "paperTitle": "Israel's New Constitutional Imagination: The Nation State Law and Beyond",
+      "authorsCardHe": "אמל ג׳מאל",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Journal of Holy Land and Palestine Studies 18(2), 193–220",
+      "dateText": "נובמבר 2019",
+      "doiUrl": "https://doi.org/10.3366/hlps.2019.0215",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/jamal-nation-state-constitutional-imagination.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אזרחים מגוונים בפתח אולם דיון מדומיין, בהקשר לשייכות חוקתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "אמל ג׳מאל מנתח את חוק הלאום מ־2018 כמהלך המעצב מחדש את הזהות החוקתית של ישראל. לטענתו, החוק מצמצם את המרחב שהותירה העמימות בין הבטחות לשוויון אזרחי לבין עליונות לאומית יהודית, ומחליש אפשרות לעתיד חוקתי משותף.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "asimow-dotan-open-closed-judicial-review",
+      "file": "asimow-dotan-open-closed-judicial-review.html",
+      "permalink": "/asimow-dotan-open-closed-judicial-review.html",
+      "sortKey": 202610220003,
+      "titleHe": "ביקורת שיפוטית פתוחה וסגורה: הראיות והטיעונים שבית המשפט רשאי לבחון",
+      "paperTitle": "Open and Closed Judicial Review of Agency Action: The Conflicting U.S. and Israeli Approaches",
+      "authorsCardHe": "מייקל אסימוב; יואב דותן",
+      "sourceAuthors": [
+        "Michael Asimow",
+        "Yoav Dotan"
+      ],
+      "journal": "The American Journal of Comparative Law 64(3), 521–553",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1093/ajcl/avw001",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/asimow-dotan-open-closed-judicial-review.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: עורכת דין מציגה חומר חדש לשופט לצד תיקי רשות וארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "מייקל אסימוב ויואב דותן משווים בין ביקורת שיפוטית אמריקאית הנשענת בעיקר על התשתית שנבנתה ברשות המינהלית לבין הגישה הישראלית הפתוחה יותר לחומר חדש. הבחירה ביניהן משפיעה על בירור העובדות, על זכות הטיעון ועל חלוקת העבודה בין הרשות לבית המשפט.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "franck-judicial-independence-disputed-elections",
+      "file": "franck-judicial-independence-disputed-elections.html",
+      "permalink": "/franck-judicial-independence-disputed-elections.html",
+      "sortKey": 202610220002,
+      "titleHe": "עצמאות שיפוטית והכרעה בבחירות שנויות במחלוקת בצרפת",
+      "paperTitle": "Judicial Independence and the Validity of Controverted Elections",
+      "authorsCardHe": "רפאל פרנק",
+      "sourceAuthors": [
+        "Raphaël Franck"
+      ],
+      "journal": "American Law and Economics Review 12(2), 423–461",
+      "dateText": "24 באוגוסט 2010 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1093/aler/ahq011",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/franck-judicial-independence-disputed-elections.jpg",
+        "altHe": "הסלון הגדול במועצה החוקתית בצרפת; צילום של המוסד שנחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "רפאל פרנק בוחן את פסיקות המועצה החוקתית בצרפת בערעורים על תוצאות בחירות לפרלמנט. ממצאיו מבחינים בין עצמאות מן הממשלה לבין היעדר הטיה פוליטית: היעדר העדפה שיטתית למפלגת השלטון יכול להתקיים לצד יחס מחמיר כלפי מועמדי הימין הקיצוני.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "feinstein-ben-eliezer-peace-illiberal-spiral",
+      "file": "feinstein-ben-eliezer-peace-illiberal-spiral.html",
+      "permalink": "/feinstein-ben-eliezer-peace-illiberal-spiral.html",
+      "sortKey": 202610220001,
+      "titleHe": "כישלון השלום ושחיקת הליברליזם בישראל: מודל של מעגל מזין",
+      "paperTitle": "Failed peace and the decline in liberalism in Israel: A spiral model",
+      "authorsCardHe": "יובל פיינשטיין; אורי בן־אליעזר",
+      "sourceAuthors": [
+        "Yuval Feinstein",
+        "Uri Ben-Eliezer"
+      ],
+      "journal": "Mediterranean Politics 24(5), 568–591",
+      "dateText": "15 בפברואר 2018 (פרסום מקוון); גיליון 2019",
+      "doiUrl": "https://doi.org/10.1080/13629395.2018.1434595",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/feinstein-ben-eliezer-peace-illiberal-spiral.jpg",
+        "altHe": "כיכר רבין בתל אביב בינואר 2018; צילום של המרחב הציבורי להמחשה, ולא תיעוד של אירוע שנחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22",
+      "summaryHe": "יובל פיינשטיין ואורי בן־אליעזר מציעים להבין את הקשר בין סכסוך אלים לנסיגה ליברלית כתהליך הדדי. כוחות לאומניים לא־ליברליים מתחזקים מתוך פחד ואיבה, אך גם פועלים באופן התורם להמשך הסכסוך ולשחיקת ההגנה על זכויות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "dothan-margin-appreciation-democratic-deference",
       "file": "dothan-margin-appreciation-democratic-deference.html",

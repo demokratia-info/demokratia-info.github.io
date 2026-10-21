@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -55245,6 +55245,319 @@
       "source": "https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
       "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cour_europ%C3%A9enne_des_droits_de_l%27homme_%28Strasbourg%29_%281%29.jpg",
       "qualityNotes": "Newly obtained free-license documentary photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. This contextual photograph does not depict the study participants. The crop is distributed under the stated source license."
+    },
+    {
+      "file": "html_qa/feinstein-ben-eliezer-peace-illiberal-spiral.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "feinstein-ben-eliezer-peace-illiberal-spiral.html",
+      "usedBy": [
+        "feinstein-ben-eliezer-peace-illiberal-spiral.html"
+      ],
+      "cardTitleHe": "כישלון השלום ושחיקת הליברליזם בישראל: מודל של מעגל מזין",
+      "authorsHe": "יובל פיינשטיין; אורי בן־אליעזר",
+      "visualDescriptionHe": "כיכר רבין בתל אביב בינואר 2018; צילום של המרחב הציבורי להמחשה, ולא תיעוד של אירוע שנחקר",
+      "semanticDescriptionHe": "יובל פיינשטיין ואורי בן־אליעזר מציעים להבין את הקשר בין סכסוך אלים לנסיגה ליברלית כתהליך הדדי. כוחות לאומניים לא־ליברליים מתחזקים מתוך פחד ואיבה, אך גם פועלים באופן התורם להמשך הסכסוך ולשחיקת ההגנה על זכויות.",
+      "tags": [
+        "נסיגה דמוקרטית",
+        "ליברליזם חוקתי",
+        "הסכסוך הישראלי־פלסטיני",
+        "לאומנות",
+        "סקר פאנל"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Rakoon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20180111-rabin-square-january-2018-tel-aviv.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20180111-rabin-square-january-2018-tel-aviv.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/20180111-rabin-square-january-2018-tel-aviv.jpg",
+      "qualityNotes": "Newly obtained free-license photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The crop is distributed under the stated source license. כיכר רבין בתל אביב בינואר 2018; צילום של המרחב הציבורי להמחשה, ולא תיעוד של אירוע שנחקר"
+    },
+    {
+      "file": "html_qa/franck-judicial-independence-disputed-elections.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "franck-judicial-independence-disputed-elections.html",
+      "usedBy": [
+        "franck-judicial-independence-disputed-elections.html"
+      ],
+      "cardTitleHe": "עצמאות שיפוטית והכרעה בבחירות שנויות במחלוקת בצרפת",
+      "authorsHe": "רפאל פרנק",
+      "visualDescriptionHe": "הסלון הגדול במועצה החוקתית בצרפת; צילום של המוסד שנחקר",
+      "semanticDescriptionHe": "רפאל פרנק בוחן את פסיקות המועצה החוקתית בצרפת בערעורים על תוצאות בחירות לפרלמנט. ממצאיו מבחינים בין עצמאות מן הממשלה לבין היעדר הטיה פוליטית: היעדר העדפה שיטתית למפלגת השלטון יכול להתקיים לצד יחס מחמיר כלפי מועמדי הימין הקיצוני.",
+      "tags": [
+        "עצמאות שיפוטית",
+        "בחירות שנויות במחלוקת",
+        "המועצה החוקתית בצרפת",
+        "משוא פנים",
+        "ביטול בחירות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Faqscl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_-_Grand_salon.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_-_Grand_salon.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Conseil_Constitutionnel_-_Grand_salon.JPG",
+      "qualityNotes": "Newly obtained free-license photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The crop is distributed under the stated source license. הסלון הגדול במועצה החוקתית בצרפת; צילום של המוסד שנחקר"
+    },
+    {
+      "file": "html_qa/asimow-dotan-open-closed-judicial-review.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "asimow-dotan-open-closed-judicial-review.html",
+      "usedBy": [
+        "asimow-dotan-open-closed-judicial-review.html"
+      ],
+      "cardTitleHe": "ביקורת שיפוטית פתוחה וסגורה: הראיות והטיעונים שבית המשפט רשאי לבחון",
+      "authorsHe": "מייקל אסימוב; יואב דותן",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: עורכת דין מציגה חומר חדש לשופט לצד תיקי רשות וארכיון",
+      "semanticDescriptionHe": "מייקל אסימוב ויואב דותן משווים בין ביקורת שיפוטית אמריקאית הנשענת בעיקר על התשתית שנבנתה ברשות המינהלית לבין הגישה הישראלית הפתוחה יותר לחומר חדש. הבחירה ביניהן משפיעה על בירור העובדות, על זכות הטיעון ועל חלוקת העבודה בין הרשות לבית המשפט.",
+      "tags": [
+        "ביקורת שיפוטית",
+        "משפט מינהלי",
+        "תיק מינהלי",
+        "זכות הטיעון",
+        "משפט השוואתי"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
+    },
+    {
+      "file": "html_qa/jamal-nation-state-constitutional-imagination.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "jamal-nation-state-constitutional-imagination.html",
+      "usedBy": [
+        "jamal-nation-state-constitutional-imagination.html"
+      ],
+      "cardTitleHe": "חוק הלאום והדמיון החוקתי: גבולות השייכות והשוויון בישראל",
+      "authorsHe": "אמל ג׳מאל",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אזרחים מגוונים בפתח אולם דיון מדומיין, בהקשר לשייכות חוקתית",
+      "semanticDescriptionHe": "אמל ג׳מאל מנתח את חוק הלאום מ־2018 כמהלך המעצב מחדש את הזהות החוקתית של ישראל. לטענתו, החוק מצמצם את המרחב שהותירה העמימות בין הבטחות לשוויון אזרחי לבין עליונות לאומית יהודית, ומחליש אפשרות לעתיד חוקתי משותף.",
+      "tags": [
+        "חוק הלאום",
+        "דמיון חוקתי",
+        "זהות חוקתית",
+        "אזרחות שווה",
+        "זכויות מיעוט"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
+    },
+    {
+      "file": "html_qa/yanovskiy-ginker-constitutional-constraints.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "yanovskiy-ginker-constitutional-constraints.html",
+      "usedBy": [
+        "yanovskiy-ginker-constitutional-constraints.html"
+      ],
+      "cardTitleHe": "כיצד למדוד מגבלות חוקתיות בפועל: בחירות, בתי משפט ותקשורת",
+      "authorsHe": "משה ינובסקי; טים גינקר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: חוקרים משווים תצלומים מדומיינים של חילופי שלטון, דיון שיפוטי ועיתונאים",
+      "semanticDescriptionHe": "משה ינובסקי וטים גינקר מציעים שני מדדים למגבלות שלטוניות המבוססים על אירועים נצפים: חילופי שלטון, ציות להכרעות שיפוטיות וחופש ביקורת. הם בוחנים את המדדים בנתונים היסטוריים ומשווים את הקשר שלהם להתפתחות כלכלית למדדים מוסדיים מורכבים יותר.",
+      "tags": [
+        "מגבלות חוקתיות",
+        "שלטון החוק",
+        "חילופי שלטון",
+        "עצמאות שיפוטית",
+        "חופש העיתונות",
+        "צמיחה כלכלית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
+    },
+    {
+      "file": "html_qa/jamal-nationality-bill-majoritarianism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "jamal-nationality-bill-majoritarianism.html",
+      "usedBy": [
+        "jamal-nationality-bill-majoritarianism.html"
+      ],
+      "cardTitleHe": "הצעת חוק הלאום מ־2014: שלטון רוב וגבולות השוויון האזרחי",
+      "authorsHe": "אמל ג׳מאל",
+      "visualDescriptionHe": "תצלום ארכיוני של דיון בכנסת על הסכם אוסלו ב׳ ב־1995; להמחשת הזירה הפרלמנטרית, ולא דיון בהצעת חוק הלאום",
+      "semanticDescriptionHe": "אמל ג׳מאל מנתח את המניעים הפוליטיים להצעת חוק הלאום שהועלתה ב־2014. לטענתו, עיגון העדיפות הלאומית היהודית נועד לשנות את האיזון בין הרוב, בית המשפט ותביעות השוויון של המיעוט הערבי, ולהפוך היררכיה פוליטית לעיקרון חוקתי.",
+      "tags": [
+        "הצעת חוק הלאום",
+        "שלטון רוב",
+        "שוויון אזרחי",
+        "המיעוט הערבי",
+        "חוקתנות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Gideon Markowiz / Dan Hadani Archive, National Library of Israel, digital ID 990040384490205171",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Knesset_held_a_debate_on_the_Oslo_B%27_agreement,_1995_III_Dan_Hadani_Archive.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Knesset_held_a_debate_on_the_Oslo_B%27_agreement,_1995_III_Dan_Hadani_Archive.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Knesset_held_a_debate_on_the_Oslo_B%27_agreement%2C_1995_III_Dan_Hadani_Archive.jpg",
+      "qualityNotes": "Newly obtained free-license photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The crop is distributed under the stated source license. תצלום ארכיוני של דיון בכנסת על הסכם אוסלו ב׳ ב־1995; להמחשת הזירה הפרלמנטרית, ולא דיון בהצעת חוק הלאום",
+      "credit": "Gideon Markowiz / Dan Hadani Archive, National Library of Israel, digital ID 990040384490205171"
+    },
+    {
+      "file": "html_qa/fox-constitutional-religion-policy-gap.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "fox-constitutional-religion-policy-gap.html",
+      "usedBy": [
+        "fox-constitutional-religion-policy-gap.html"
+      ],
+      "cardTitleHe": "דת ומדינה: הפער בין סעיפי החוקה לבין החקיקה בפועל",
+      "authorsHe": "יונתן פוקס",
+      "visualDescriptionHe": "כיכר הסנאט והקתדרלה בהלסינקי במאי 2026; צילום להמחשת נוכחות מוסדות דת במרחב הציבורי",
+      "semanticDescriptionHe": "יונתן פוקס בוחן 166 מדינות ומראה שהכרזה חוקתית על דת רשמית או על הפרדת דת ומדינה קשורה למדיניות, אך אינה מתארת אותה לבדה. מאפיינים מבניים מסבירים חלק חשוב מההבדלים, והניסוח המדויק של הסעיפים מוסיף מעט יחסית להבנת החקיקה הדתית.",
+      "tags": [
+        "דת ומדינה",
+        "חוקה",
+        "הפרדת דת ומדינה",
+        "דת רשמית",
+        "חקיקה דתית",
+        "Religion and State"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "JIP",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg",
+      "qualityNotes": "Newly obtained free-license photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The crop is distributed under the stated source license. כיכר הסנאט והקתדרלה בהלסינקי במאי 2026; צילום להמחשת נוכחות מוסדות דת במרחב הציבורי"
+    },
+    {
+      "file": "html_qa/gradstein-decentralization-credible-commitment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gradstein-decentralization-credible-commitment.html",
+      "usedBy": [
+        "gradstein-decentralization-credible-commitment.html"
+      ],
+      "cardTitleHe": "ביזור שלטוני כמנגנון התחייבות במשטרים לא־דמוקרטיים",
+      "authorsHe": "מארק גרדשטיין",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: נציגים אזוריים מתכננים שירותים ציבוריים סביב דגם של יישובים",
+      "semanticDescriptionHe": "מארק גרדשטיין מסביר מדוע שליט לא־דמוקרטי עשוי לוותר מרצונו על סמכויות לטובת אזורים. ביזור יכול ליצור התחייבות אמינה להתחשבות בהעדפות מקומיות, לחזק תמריצים לפעילות יצרנית ולהגדיל את המשאבים למוצרים ציבוריים ארציים.",
+      "tags": [
+        "ביזור שלטוני",
+        "התחייבות אמינה",
+        "העדפות אזוריות",
+        "פדרליזם פיסקלי",
+        "משטרים לא־דמוקרטיים"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
+    },
+    {
+      "file": "html_qa/paltieli-mill-solitude-imperfect-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "paltieli-mill-solitude-imperfect-democracy.html",
+      "usedBy": [
+        "paltieli-mill-solitude-imperfect-democracy.html"
+      ],
+      "cardTitleHe": "ג׳ון סטיוארט מיל: התבודדות כמשקל נגד לחיים הדמוקרטיים",
+      "authorsHe": "גיא פלטיאל",
+      "visualDescriptionHe": "פסל ג׳ון סטיוארט מיל בין עצים בגני ויקטוריה אמבנקמנט בלונדון, צילום מ־2017",
+      "semanticDescriptionHe": "גיא פלטיאל מציע קריאה בהגותו של מיל שבה התבודדות חיונית לדמוקרטיה ולהתקדמות אינטלקטואלית, אף שהיא נבדלת מהשתתפות ומשיח ציבורי. לפי קריאה זו, דמוקרטיה זקוקה גם למרחבים ולכוחות שאינם נטמעים לחלוטין בפעילותה המשותפת.",
+      "tags": [
+        "ג׳ון סטיוארט מיל",
+        "התבודדות",
+        "מחשבה פוליטית",
+        "השתתפות פוליטית",
+        "דמוקרטיה דיונית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Irid Escent",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Stuart_Mill_statue,_Victoria_Embankment_Gardens_20170803_105347_(49450380902).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:John_Stuart_Mill_statue,_Victoria_Embankment_Gardens_20170803_105347_(49450380902).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/John_Stuart_Mill_statue%2C_Victoria_Embankment_Gardens_20170803_105347_%2849450380902%29.jpg",
+      "qualityNotes": "Newly obtained free-license photograph; EXIF orientation applied, cropped and resized to 800x600 JPEG. The crop is distributed under the stated source license. פסל ג׳ון סטיוארט מיל בין עצים בגני ויקטוריה אמבנקמנט בלונדון, צילום מ־2017"
+    },
+    {
+      "file": "html_qa/khalaile-bare-citizenship-gaza-war.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "khalaile-bare-citizenship-gaza-war.html",
+      "usedBy": [
+        "khalaile-bare-citizenship-gaza-war.html"
+      ],
+      "cardTitleHe": "אזרחות מרוקנת מתוכן: פלסטינים אזרחי ישראל במלחמת עזה",
+      "authorsHe": "מוחמד חלאילה",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אזרחים ממתינים מול דלת סגורה של מבנה ציבורי מדומיין",
+      "semanticDescriptionHe": "מוחמד חלאילה מנתח את הפער בין מעמד אזרחי פורמלי לבין תוכנה של האזרחות במלחמת עזה. לטענתו, דיכוי פוליטי, מבחני נאמנות והסתה ממשיכים מגמות שקדמו למלחמה ומחריפים את השחיקה הדמוקרטית ואת הניכור בין יהודים לערבים.",
+      "tags": [
+        "אזרחות",
+        "פלסטינים אזרחי ישראל",
+        "מלחמת עזה",
+        "זכויות מיעוטים",
+        "שחיקה דמוקרטית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-22",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
     }
   ],
   "topicGraphics": [
