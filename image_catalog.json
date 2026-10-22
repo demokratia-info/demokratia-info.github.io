@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-10-23",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -55558,6 +55558,324 @@
       "creator": "OpenAI image generation",
       "source": "New original AI-generated editorial illustration",
       "qualityNotes": "Newly generated fictional editorial scene; not a photograph of actual people or events. Cropped and resized to 800x600 JPEG. No generated labels or text."
+    },
+    {
+      "file": "html_qa/harel-segal-utilitarianism-discrimination.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "harel-segal-utilitarianism-discrimination.html",
+      "usedBy": [
+        "harel-segal-utilitarianism-discrimination.html"
+      ],
+      "cardTitleHe": "הגנה מיוחדת על מיעוטים יכולה להגדיל את הרווחה הכוללת",
+      "authorsHe": "אלון הראל, עוזי סגל",
+      "visualDescriptionHe": "רחוב בשכונת ואדי ניסנאס בחיפה; צילום להמחשת הדיון במרחבי מגורים",
+      "semanticDescriptionHe": "אלון הראל ועוזי סגל מציגים מודל שבו כללים שונים לרוב ולמיעוט עשויים למקסם את סך התועלת, גם כאשר לכל אדם ניתן משקל שווה. התוצאה תלויה במבנה ההעדפות ובאפשרויות המגורים וההשתייכות, ולכן טיעון כללי בשם היעילות אינו מספיק לפסילת הגנות מיוחדות על מיעוטים.",
+      "tags": [
+        "תועלתנות",
+        "זכויות מיעוטים",
+        "אפליה",
+        "הפרדה במגורים",
+        "רווחה חברתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "creator": "User:Orderinchaos",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haifa_Wadi_Nisnas_street_OIC.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Haifa_Wadi_Nisnas_street_OIC.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Haifa_Wadi_Nisnas_street_OIC.jpg",
+      "qualityNotes": "Newly obtained Commons photograph, center-cropped and resized to 800x600 JPEG. Contextual illustration; no claim that the photographed location is an empirical case in the paper."
+    },
+    {
+      "file": "html_qa/gerson-open-society-populism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gerson-open-society-populism.html",
+      "usedBy": [
+        "gerson-open-society-populism.html"
+      ],
+      "cardTitleHe": "החברה הפתוחה מול פופוליזם: הגנה על חירות וסכנת האליטיזם",
+      "authorsHe": "גל גרסון",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: חוקרים בספרייה ואזרחים משוחחים בחצר פתוחה",
+      "semanticDescriptionHe": "גל גרסון בוחן כיצד רעיון החברה הפתוחה של קרל פופר מצדיק הגנה על זכויות ועל מוסדות גם מול רוב נבחר. לצד יתרונו במאבק בפופוליזם, הוא מזהה בו נטייה להעדיף את סמכותם של מומחים על פני הכרעה אזרחית, וקורא לשמור על ערכה העצמי של השתתפות דמוקרטית.",
+      "tags": [
+        "החברה הפתוחה",
+        "קרל פופר",
+        "פופוליזם",
+        "שלטון הרוב",
+        "מומחיות והשתתפות אזרחית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. Original polished editorial illustration for a philosophical paper on Karl Popper's open society, democratic public participation and the danger of elevating expert knowledge above citizens. A fictional sunlit university library opening onto a public courtyard: in foreground two scholars in ordinary clothes examine a closed book while a diverse small circle of citizens in courtyard exchange views, connected by the open doorway. Both groups equally human and dignified, no superiority caricature. Rich bookshelves without any visible lettering, warm Mediterranean stone, painterly realism, atmospheric depth, wide architectural composition, landscape 4:3 for 800x600. No legible text, letters, numbers, signage, logos, flags, watermarks, icons, UI or diagrams.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/sharon-demagogy-marketplace-ideas.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "sharon-demagogy-marketplace-ideas.html",
+      "usedBy": [
+        "sharon-demagogy-marketplace-ideas.html"
+      ],
+      "cardTitleHe": "דמגוגיה הופכת יריבים לאויבים ומאתגרת את שוק הרעיונות",
+      "authorsHe": "אסף שרון",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: דובר וקהל קשוב מול משתתפת הממתינה בדיון ציבורי מדומיין",
+      "semanticDescriptionHe": "אסף שרון טוען שדמגוגים סמכותניים בני זמננו מערערים את הדמוקרטיה מבפנים באמצעות שלילת הלגיטימיות של יריביהם. מאחר שלמסר הזה יש ביקוש ציבורי, ההנחה שתחרות חופשית בין רעיונות תתקן מעצמה את השיח ניצבת בפני קושי מהותי.",
+      "tags": [
+        "דמגוגיה",
+        "חופש הביטוי",
+        "חופש העיתונות",
+        "שוק הרעיונות",
+        "דה־לגיטימציה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. Create one original polished editorial illustration for a Hebrew academic summary of Assaf Sharon's paper about demagogy that turns political opponents into enemies and challenges the marketplace-of-ideas defense of free speech. A warm, richly textured public debate in a Mediterranean civic hall: a foreground cluster listening intensely to a gesturing speaker while a quieter opposing speaker at the other side waits unheard. Human faces thoughtful, not caricatured; fictional people, no resemblance to public figures. Layered room depth, wooden chairs, afternoon window light, painterly editorial realism. Horizontal 4:3 composition suitable for 800x600 JPEG crop. No words, letters, numbers, signs, flags, logos, watermarks, screens, speech bubbles, diagrams, scales, isolated symbols, or collage effects.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/zeev-wolf-mentovich-law-moral-judgment.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zeev-wolf-mentovich-law-moral-judgment.html",
+      "usedBy": [
+        "zeev-wolf-mentovich-law-moral-judgment.html"
+      ],
+      "cardTitleHe": "כיצד חקיקה ופסיקה משנות שיפוט מוסרי ותפיסות של נורמות",
+      "authorsHe": "מאור זאב־וולף, אביטל מנטוביץ׳",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אזרחים משוחחים על כללים ונורמות סביב שולחן",
+      "semanticDescriptionHe": "מאור זאב־וולף ואביטל מנטוביץ׳ מצאו כי עמדות המחוקק ובית המשפט יכולות להזיז שיפוט מוסרי באמצעות השפעתן על מה שנתפס כמקובל בחברה. כששתי הרשויות חלוקות, יכולתן להשפיע על תפיסת הנורמה ועל השיפוט המוסרי נחלשת.",
+      "tags": [
+        "שיפוט מוסרי",
+        "נורמות חברתיות",
+        "חקיקה",
+        "התערבות שיפוטית",
+        "יחסי רשויות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. Original polished editorial illustration for an academic paper studying how legislation and court rulings influence ordinary people's moral judgments by shaping perceived social norms. Fictional contemporary community consultation room, small mixed group of adults seated around a broad table, carefully discussing plain closed legal folders while a thoughtful facilitator listens. Show varying reactions and room depth, warm natural window light, tactile painted realism, close diagonal composition at human eye level, softly detailed civic building visible through window. Horizontal 4:3 landscape crop for 800x600. Not an actual experiment or real people. No text, letters, numbers, logos, flags, scales, isolated symbols, UI, diagrams, speech bubbles or watermarks.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/cohen-independent-judicial-review.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-independent-judicial-review.html",
+      "usedBy": [
+        "cohen-independent-judicial-review.html"
+      ],
+      "cardTitleHe": "מדוע פוליטיקאים עשויים להרוויח מביקורת שיפוטית עצמאית",
+      "authorsHe": "אלון כהן",
+      "visualDescriptionHe": "מסדרון קשתות בחצר הפנימית של בית המשפט העליון בירושלים",
+      "semanticDescriptionHe": "אלון כהן מציע מודל שבו ביקורת שיפוטית עצמאית מאפשרת לפוליטיקאים להתחייב לאפשרות של ביטול מדיניות המוטה לטובת קבוצות אינטרס. כאשר אמת המידה החוקתית קשורה יותר לאינטרס הכללי, ההתערבות האפשרית עשויה לשפר את הרווחה ואת סיכויי הבחירה מחדש, גם במחיר אובדן תרומות.",
+      "tags": [
+        "ביקורת שיפוטית",
+        "עצמאות שיפוטית",
+        "קבוצות אינטרס",
+        "כלכלה פוליטית",
+        "רווחה חברתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "creator": "Avi1111 dr. avishai teicher",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Inner_courtyard_of_Israel_supreme_court_building_(3).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Inner_courtyard_of_Israel_supreme_court_building_(3).jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Inner_courtyard_of_Israel_supreme_court_building_%283%29.jpg",
+      "qualityNotes": "Newly obtained Commons photograph, center-cropped and resized to 800x600 JPEG. Contextual illustration; no claim that the photographed location is an empirical case in the paper."
+    },
+    {
+      "file": "html_qa/ben-david-adoption-judicial-bias.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ben-david-adoption-judicial-bias.html",
+      "usedBy": [
+        "ben-david-adoption-judicial-bias.html"
+      ],
+      "cardTitleHe": "שוליות חברתית של הורים והכרעות שיפוטיות באימוץ ילדים",
+      "authorsHe": "ורד בן־דוד",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: הורים בשיחה עם יועצת משפטית לצד כיסא ילד ריק",
+      "semanticDescriptionHe": "ורד בן־דוד בוחנת כיצד מצוקתם ומעמדם החברתי של הורים קשורים להערכת מסוכנותם ולהכרעות על אימוץ כפוי. בניתוח 231 החלטות נמצאו קשרים בין מדדי שוליות לבין ההכרעה וההתייחסות לזכויות המשפחה, המחדדים את שאלת ההטיה בהפעלת מושגים משפטיים פתוחים.",
+      "tags": [
+        "אימוץ כפוי",
+        "הטיה שיפוטית",
+        "זכויות המשפחה",
+        "מסוגלות הורית",
+        "שוליות חברתית"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. One original warm, serious editorial illustration for a paper about how social marginalization of parents relates to judges' reasoning in compulsory adoption cases. Fictional courthouse consultation room: two anxious parents sit together across a modest wooden table from an attentive female legal counselor; a plain closed case folder between them, an empty small child-sized chair to the side, soft high window light, carefully observed expressions and realistic human anatomy, generous spatial depth, nuanced painterly surface. Child not present; no distressed child or dramatic accusations. Medium-wide horizontal 4:3 composition for 800x600, distinct from courtroom bench scene. No text, letters, numbers, logos, flags, watermarks, pictograms, scales or collage.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/shnoor-katvan-judicial-overload-transparency.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shnoor-katvan-judicial-overload-transparency.html",
+      "usedBy": [
+        "shnoor-katvan-judicial-overload-transparency.html"
+      ],
+      "cardTitleHe": "עומס בבתי המשפט: בין תדמית מושלמת לשקיפות ציבורית",
+      "authorsHe": "בועז שנור, אייל כתבן",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: עובדי ארכיון בית משפט מטפלים בערמות תיקיות",
+      "semanticDescriptionHe": "בועז שנור ואייל כתבן טוענים ששמירה על דימוי אידיאלי של מערכת המשפט ושליטה במידע תרמו להסתרת עומס העבודה מעיני הציבור. הם בוחנים שינוי לעבר לגיטימציה לחשיפת העומס, ומחברים בין מחסור במשאבים, כבוד מוסדי ואחריות ציבורית.",
+      "tags": [
+        "עומס שיפוטי",
+        "שקיפות",
+        "משאבי מערכת המשפט",
+        "כבוד מוסדי",
+        "מידע לציבור"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. One polished editorial illustration about judicial workload, transparency and the public image of courts. A fictional courthouse records office: two adult clerks sorting many plain closed case folders on a broad desk, one tall shelving wall visibly full, a wide open doorway reveals a dignified quiet court corridor and visitors waiting. Observational, humane and serious, no comic exaggeration. Rich wood, paper textures, warm window light, layered architectural depth, oil-painted realism. Horizontal landscape 4:3 crop for 800x600. No visible writing or labels, letters, numbers, logos, flags, watermarks, charts, scales, computers or UI.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/brenner-cohen-ideology-judicial-independence.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "brenner-cohen-ideology-judicial-independence.html",
+      "usedBy": [
+        "brenner-cohen-ideology-judicial-independence.html"
+      ],
+      "cardTitleHe": "אידיאולוגיה ותחרות פוליטית מעצבות יחד תמיכה בעצמאות שיפוטית",
+      "authorsHe": "דרור ברנר, אלון כהן",
+      "visualDescriptionHe": "מבקרים בכיפת הרייכסטאג בברלין; צילום להמחשת הזירה המוסדית",
+      "semanticDescriptionHe": "דרור ברנר ואלון כהן בוחנים את המפגש בין העדפות אידיאולוגיות לבין הרצון של פוליטיקאים להגביל את יורשיהם. הניתוח שלהם מראה שהשפעת התחרות הפוליטית על העצמאות השיפוטית הרצויה יכולה להתהפך כשמביאים בחשבון את יחסי הגומלין בין שני השיקולים.",
+      "tags": [
+        "עצמאות שיפוטית",
+        "תחרות פוליטית",
+        "אידיאולוגיה",
+        "אסטרטגיה פוליטית",
+        "יחסי רשויות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "creator": "Perituss",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Reichstag_dome_2015_2.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Reichstag_dome_2015_2.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Interior_of_the_Reichstag_dome_2015_2.jpg",
+      "qualityNotes": "Newly obtained Commons photograph, center-cropped and resized to 800x600 JPEG. Contextual illustration; no claim that the photographed location is an empirical case in the paper."
+    },
+    {
+      "file": "html_qa/tomer-fishman-cultural-conflict-courts.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "tomer-fishman-cultural-conflict-courts.html",
+      "usedBy": [
+        "tomer-fishman-cultural-conflict-courts.html"
+      ],
+      "cardTitleHe": "השונות התרבותית שנעלמת מן השיח בבית המשפט הפלילי",
+      "authorsHe": "תמר תומר־פישמן",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: משתתפת בדיון משפטי נעזרת באדם המקשיב לה באולם",
+      "semanticDescriptionHe": "תמר תומר־פישמן מנתחת יותר מחמישים שנות שיח שיפוטי בישראל בתיקים פליליים של קונפליקט תרבותי. היא מזהה דרכים שבהן שופטים נמנעים מדיון ברקע התרבותי או מסווים אותו, ומראה כי בחינת ההשתקה חשובה להבנת יחס המשפט לשונות.",
+      "tags": [
+        "שונות תרבותית",
+        "שיח שיפוטי",
+        "משפט פלילי",
+        "השתקה",
+        "הדרה"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "source": "New original AI-generated editorial illustration",
+      "generationPrompt": "Use case: illustration-story. Original richly textured editorial illustration for a study about criminal courts failing to address cultural difference. A fictional modern courtroom seen from behind a seated adult litigant, an interpreter leaning toward them to listen while a judge across the room concentrates on closed case folders. Human scene centered on the gap between lived cultural experience and formal legal procedure; people wear varied ordinary contemporary clothing, no ethnic stereotypes. Warm walnut furniture, afternoon sidelighting, painterly realism, layered room depth, quiet thoughtful mood. Horizontal landscape 4:3 for 800x600. No visible writing, letters, numbers, logos, flags, watermarks, screens, scales, abstract symbols or diagrams.",
+      "generationMethod": "Built-in image_gen tool",
+      "qualityNotes": "Fictional editorial scene; not a photograph of actual people or events. Center-cropped and resized to 800x600 JPEG. No generated text or labels."
+    },
+    {
+      "file": "html_qa/rubin-british-ottoman-judicial-reform.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rubin-british-ottoman-judicial-reform.html",
+      "usedBy": [
+        "rubin-british-ottoman-judicial-reform.html"
+      ],
+      "cardTitleHe": "הרפורמה המשפטית העות'מאנית דרך מבטם המוטה של דיפלומטים בריטים",
+      "authorsHe": "אבי רובין",
+      "visualDescriptionHe": "השער הנשגב באיסטנבול, בהקשר ההיסטורי של הממשל העות׳מאני",
+      "semanticDescriptionHe": "אבי רובין משווה דיווחים בריטיים על רפורמות המשפט העות'מאניות למקורות עות'מאניים ולמחקר ההיסטורי. הוא מוצא שהדיווחים הושפעו מבורות, מדעות קדומות ומחשש לפגיעה ביכולת ההתערבות הבריטית, וממחיש מדוע הערכת מוסדות מחייבת בחינה ביקורתית של מקורותיה.",
+      "tags": [
+        "רפורמה משפטית",
+        "האימפריה העות'מאנית",
+        "בתי משפט ניזאמייה",
+        "דיפלומטיה בריטית",
+        "ביקורת מקורות"
+      ],
+      "reuseGuidance": "Newly obtained or generated for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-23",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia",
+      "provider": "Wikimedia Commons",
+      "creator": "Yair Haklai",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sublime_Porte.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sublime_Porte.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sublime_Porte.jpg",
+      "qualityNotes": "Newly obtained Commons photograph, center-cropped and resized to 800x600 JPEG. Contextual illustration; no claim that the photographed location is an empirical case in the paper."
     }
   ],
   "topicGraphics": [
