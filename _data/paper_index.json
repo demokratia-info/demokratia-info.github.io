@@ -1,8 +1,294 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2002,
+  "paperCount": 2012,
   "papers": [
+    {
+      "slug": "adnan-miaari-voting-gender-wage-gap",
+      "file": "adnan-miaari-voting-gender-wage-gap.html",
+      "permalink": "/adnan-miaari-voting-gender-wage-gap.html",
+      "sortKey": 202610240010,
+      "titleHe": "דפוסי הצבעה מקומיים ופערי שכר בין נשים לגברים בישראל",
+      "paperTitle": "Voting patterns and the gender wage gap",
+      "authorsCardHe": "ויפאק עדנאן; סאמי מיעארי",
+      "sourceAuthors": [
+        "Wifag Adnan",
+        "Sami H. Miaari"
+      ],
+      "journal": "Journal of Economic Behavior & Organization 146, 222-247",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1016/j.jebo.2017.12.027",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/adnan-miaari-voting-gender-wage-gap.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: עמיתים בסדנה מחזיקים מעטפות שכר על רקע יישוב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "ויפאק עדנאן וסאמי מיעארי קושרים בין נתוני שכר לבין תוצאות בחירות ברמת היישוב ומוצאים קשר בין שיעור תמיכה גבוה יותר במפלגות בעלות סדר יום לאומי לבין פער שכר מגדרי מתוקנן גדול יותר. המחקר בוחן בנפרד יהודים וערבים ומצביע גם על הפרדה תעסוקתית ותקרת זכוכית, תוך הבחנה בין מאפייני עובדים לבין הסביבה החברתית המקומית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "nabwani-baruch-home-work-household-equality",
+      "file": "nabwani-baruch-home-work-household-equality.html",
+      "permalink": "/nabwani-baruch-home-work-household-equality.html",
+      "sortKey": 202610240009,
+      "titleHe": "עבודה מהבית מרחיבה מעורבות אבות, אך אינה מבטיחה חלוקה שוויונית בבית",
+      "paperTitle": "Working from home, household-task equality, and gendered pathways to well-being and work outcomes",
+      "authorsCardHe": "עולא נבואני; יהודה ברוך",
+      "sourceAuthors": [
+        "Ola Abu-Hasan Nabwani",
+        "Yehuda Baruch"
+      ],
+      "journal": "Equality, Diversity and Inclusion: An International Journal, 1-16",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1108/edi-02-2026-0122",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/nabwani-baruch-home-work-household-equality.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אב מטפל בילד בזמן שהאם עובדת במחשב בבית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "עולא נבואני ויהודה ברוך בוחנים סקר של 765 הורים עובדים בישראל ומוצאים שעבודה מהבית קשורה באופן עקבי יותר להגברת השתתפות גברים בטיפול בילדים ובניקיון מאשר להפחתת חלקן של נשים. המחקר מדגיש שגמישות תעסוקתית תורמת לשוויון רק כאשר היא מתורגמת לחלוקה מעשית של אחריות, וממליץ לתמוך גם באבות המשתמשים בה לצורכי טיפול.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bloch-women-rabbis-equality-religious-law",
+      "file": "bloch-women-rabbis-equality-religious-law.html",
+      "permalink": "/bloch-women-rabbis-equality-religious-law.html",
+      "sortKey": 202610240008,
+      "titleHe": "הסמכת נשים לרבנות ושינוי תפיסת ההלכה ביהדות הקונסרבטיבית",
+      "paperTitle": "GENDER EQUALITY AND RELIGIOUS LAW: THE ORDINATION OF WOMEN AS RABBIS IN THE CONSERVATIVE MOVEMENT AS A CASE STUDY",
+      "authorsCardHe": "עמנואל בלוך",
+      "sourceAuthors": [
+        "Emmanuel Bloch"
+      ],
+      "journal": "Journal of Law and Religion 36(2), 255-277",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1017/jlr.2021.44",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/bloch-women-rabbis-equality-religious-law.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: רבה מובילה דיון לימודי משותף בבית כנסת",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "עמנואל בלוך מראה שהוויכוח על הסמכת נשים לרבנות ביהדות הקונסרבטיבית לא היה מכשול משפטי צדדי בדרך לשוויון. ניתוח התשובות ההלכתיות חושף מחלוקת על סמכות, תפקיד הרב ומקומם של שיקולים חברתיים, ומסביר כיצד השפה ההלכתית גם ביטאה שינוי בזהות הקהילה וגם סייעה לחולל אותו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "yefet-coptic-diaspora-minority-rights",
+      "file": "yefet-coptic-diaspora-minority-rights.html",
+      "permalink": "/yefet-coptic-diaspora-minority-rights.html",
+      "sortKey": 202610240007,
+      "titleHe": "התפוצה הקופטית בארצות הברית והמאבק על זכויות הקופטים במצרים",
+      "paperTitle": "The Coptic diaspora and the status of the Coptic minority in Egypt",
+      "authorsCardHe": "בשמת יפת",
+      "sourceAuthors": [
+        "Bosmat Yefet"
+      ],
+      "journal": "Journal of Ethnic and Migration Studies 43(7), 1205-1221",
+      "dateText": "2017",
+      "doiUrl": "https://doi.org/10.1080/1369183x.2016.1228445",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/yefet-coptic-diaspora-minority-rights.jpg",
+        "altHe": "כנסיית סנט מרק הקופטית בג׳רזי סיטי, מוסד של הקהילה הקופטית בארצות הברית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "בשמת יפת בוחנת כיצד פעילי התפוצה הקופטית בארצות הברית ניסו להשפיע על מעמד המיעוט במצרים. היא מתארת מעבר מהתמקדות בשדלנות בינלאומית לשילוב דרכי פעולה במולדת, ומראה כיצד יחסי התפוצה עם הקהילה והזדמנויות פוליטיות במצרים מעצבים את יכולתה להשפיע.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "switat-jabareen-london-planning-rights",
+      "file": "switat-jabareen-london-planning-rights.html",
+      "permalink": "/switat-jabareen-london-planning-rights.html",
+      "sortKey": 202610240006,
+      "titleHe": "מעמד מיעוטים בתכנון לונדון קשור גם למסגרת הזכויות החוקתית",
+      "paperTitle": "The coevolution between the status of groups in planning London and the development of the British constitutional rights",
+      "authorsCardHe": "עורווה סוויטאת; יוסף ג׳בארין",
+      "sourceAuthors": [
+        "Orwa Switat",
+        "Yosef Jabareen"
+      ],
+      "journal": "Planning Practice & Research 39(6), 1088-1113",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.1080/02697459.2024.2380857",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/switat-jabareen-london-planning-rights.jpg",
+        "altHe": "בית ביטי במתחם המגורים פטמור בבטרסי, לונדון, להמחשת המרחב העירוני המתוכנן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "עורווה סוויטאת ויוסף ג׳בארין מנתחים תוכניות עירוניות, חקיקה וזכויות חוקתיות בבריטניה מאז תוכניתה המקיפה הראשונה של לונדון לאחר מלחמת העולם השנייה. הם טוענים שמעמד קבוצות חברתיות ומיעוטים בתכנון מושפע מהמסגרת הפוליטית והחוקתית, ולא רק מגישות תכנון מקצועיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "erdman-constitutional-amendments-duty-obey",
+      "file": "erdman-constitutional-amendments-duty-obey.html",
+      "permalink": "/erdman-constitutional-amendments-duty-obey.html",
+      "sortKey": 202610240005,
+      "titleHe": "תיקון חוקתי וחובת הציות: הצעה להגביל ביקורת שיפוטית להגנה על ההליך הדמוקרטי",
+      "paperTitle": "The Question of the Unconstitutional Constitutional Amendment, and The Duty to Obey the Law",
+      "authorsCardHe": "שלמה מיכאל ארדמן",
+      "sourceAuthors": [
+        "Shlomo Michael Erdman"
+      ],
+      "journal": "ICL Journal 19(3), 317-341",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1515/icl-2024-0012",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/erdman-constitutional-amendments-duty-obey.jpg",
+        "altHe": "אולם המליאה של הבונדסטאג בברלין, להמחשת ההקשר המוסדי של שינוי חוקתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "שלמה מיכאל ארדמן מציע להבחין בין תוקפו של תיקון חוקתי לבין החובה לציית לו. הוא מבקר פסילה על בסיס עקרונות על־חוקתיים ומציע להתיר התערבות כאשר התיקון נעשה בדרך לא דמוקרטית או שולל מהעם את האפשרות לשנות שוב את החוקה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "akirav-cox-formateur-bonus-monarchies",
+      "file": "akirav-cox-formateur-bonus-monarchies.html",
+      "permalink": "/akirav-cox-formateur-bonus-monarchies.html",
+      "sortKey": 202610240004,
+      "titleHe": "כוחו של המלך בבחירת מרכיב הממשלה והיתרון בחלוקת תיקי השרים",
+      "paperTitle": "The Formateur’s Bonus in European Constitutional Monarchies, 1901–99",
+      "authorsCardHe": "אסנת עקירב; גארי קוקס",
+      "sourceAuthors": [
+        "Osnat Akirav",
+        "Gary W. Cox"
+      ],
+      "journal": "Legislative Studies Quarterly 43(4), 681-703",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1111/lsq.12216",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/akirav-cox-formateur-bonus-monarchies.jpg",
+        "altHe": "ארמון כריסטיאנסבורג בקופנהגן, בהקשר של מוסדות המדינה במונרכיה החוקתית הדנית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "אסנת עקירב וגארי קוקס בוחנים ממשלות קואליציוניות במונרכיות חוקתיות אירופיות בשנים 1901–1999. הם מוצאים כי יתרונו של מרכיב הממשלה בחלוקת תיקים היה גדול יותר כאשר למלך היה שיקול דעת בבחירתו, והצטמצם לאחר הגבלת התפקיד המלכותי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ben-bassat-dahan-constitutional-social-security",
+      "file": "ben-bassat-dahan-constitutional-social-security.html",
+      "permalink": "/ben-bassat-dahan-constitutional-social-security.html",
+      "sortKey": 202610240003,
+      "titleHe": "מחויבות חוקתית לביטחון סוציאלי והכיסוי שמעניקה מדינת הרווחה",
+      "paperTitle": "Constitutional Commitment to Social Security and Welfare Policy",
+      "authorsCardHe": "אבי בן בסט; מומי דהן",
+      "sourceAuthors": [
+        "Avi Ben-Bassat",
+        "Momi Dahan"
+      ],
+      "journal": "Review of Law & Economics 12(1), 165-201",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1515/rle-2014-0005",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/ben-bassat-dahan-constitutional-social-security.jpg",
+        "altHe": "עובדות ועובדים בתהליך תיוק בקשות לביטחון סוציאלי בארצות הברית, בתצלום ארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "אבי בן בסט ומומי דהן בונים מדד למחויבות חוקתית לביטחון סוציאלי בשבעה תחומים ומוצאים קשר חיובי בינו לבין היקף הכיסוי בחקיקה הסוציאלית. המחקר מצביע על חשיבות אפשרית לנוסח החוקה בהסבר הבדלים בין מדינות, בלי להפוך את הקשר הסטטיסטי להבטחה שמספיק לכתוב זכות כדי לממשה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohen-eliya-porat-indifference-constitutional-rights",
+      "file": "cohen-eliya-porat-indifference-constitutional-rights.html",
+      "permalink": "/cohen-eliya-porat-indifference-constitutional-rights.html",
+      "sortKey": 202610240002,
+      "titleHe": "אדישות שלטונית לפגיעה בזכויות: האתגר שמציב אפקט נוֹבּ למשפט החוקתי",
+      "paperTitle": "The Knobe Effect, Indifference, and Constitutional Law",
+      "authorsCardHe": "משה כהן־אליה; עידו פורת",
+      "sourceAuthors": [
+        "Moshe Cohen-Eliya",
+        "Iddo Porat"
+      ],
+      "journal": "The Law & Ethics of Human Rights 9(2), 229-247",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1515/lehr-2015-0010",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/cohen-eliya-porat-indifference-constitutional-rights.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: חסם נגישות בכניסה למבנה ציבורי כמשל לאדישות לפגיעה בזכויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "משה כהן־אליה ועידו פורת טוענים שאדישות שלטונית לפגיעה בזכויות עשויה לבטא חוסר כבוד הדומה לזה שבכוונה לפגוע. באמצעות דיון באפקט נוב הם מציעים להרחיב את המבט החוקתי מעבר להוכחת כוונה פסולה, ולבחון ברצינות גם את היחס האדיש לנפגעים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hadad-hofnung-judicial-framing-immigration",
+      "file": "hadad-hofnung-judicial-framing-immigration.html",
+      "permalink": "/hadad-hofnung-judicial-framing-immigration.html",
+      "sortKey": 202610240001,
+      "titleHe": "כיצד מסגור חוזר בבג״ץ מעצב מדיניות כלפי פלסטינים הטוענים שסייעו לישראל",
+      "paperTitle": "Judicial Framing and Immigration Policymaking: Israel's Policy toward Self-Claiming Palestinian Informers",
+      "authorsCardHe": "אופיר חדד; מנחם הופנונג",
+      "sourceAuthors": [
+        "Ofir Hadad",
+        "Menachem Hofnung"
+      ],
+      "journal": "International Migration Review 58(2), 964-988",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.1177/01979183231154556",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hadad-hofnung-judicial-framing-immigration.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: פגישה עם יועצת משפטית לצד שורת תיקי הגירה בחדר בית משפט",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "summaryHe": "אופיר חדד ומנחם הופנונג מראים כיצד מסגור שיפוטי החוזר בתיקים רבים עשוי לעצב מדיניות הגירה גם בלי תקדים מפורש. המקרה של פלסטינים הטוענים ששיתפו פעולה עם גורמי ביטחון ישראליים חושף השפעה מוסדית שקשה לזהות בבחינת תוצאות של עתירה בודדת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "rubin-british-ottoman-judicial-reform",
       "file": "rubin-british-ottoman-judicial-reform.html",

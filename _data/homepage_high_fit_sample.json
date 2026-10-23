@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-24",
   "sampleSize": 6,
-  "seed": "2026-10-23-homepage-high-fit",
+  "seed": "2026-10-24-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 1013,
+  "fullTextHighFitPaperCount": 1015,
   "paperSlugs": [
     "democracy_authoritarianism_threat_exclusionism_gaza_summary_he",
-    "democracy_political_regimes_economic_freedom_growth_summary_he",
-    "democracy_higher_education_internationalization_troublesome_minorities_summary_he",
+    "democracy_perceived_discrimination_health_quality_arabs_jews_israel_summary_he",
+    "democracy_local_civic_engagement_polycrises_israel_summary_he",
     "democracy_law_making_and_the_securitization_of_the_jewish_identity_in_israel_summary_he",
     "democracy_haredim_higher_education_liberal_democracy_summary_he",
     "democracy_the_arab_lecturer_on_a_zionist_campus_student_practices_replicating_national_hegemony_summary_he"

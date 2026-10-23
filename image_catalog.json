@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-24",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -55876,6 +55876,284 @@
       "source": "https://commons.wikimedia.org/wiki/File:Sublime_Porte.jpg",
       "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sublime_Porte.jpg",
       "qualityNotes": "Newly obtained Commons photograph, center-cropped and resized to 800x600 JPEG. Contextual illustration; no claim that the photographed location is an empirical case in the paper."
+    },
+    {
+      "file": "html_qa/hadad-hofnung-judicial-framing-immigration.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "hadad-hofnung-judicial-framing-immigration.html",
+      "usedBy": [
+        "hadad-hofnung-judicial-framing-immigration.html"
+      ],
+      "cardTitleHe": "כיצד מסגור חוזר בבג״ץ מעצב מדיניות כלפי פלסטינים הטוענים שסייעו לישראל",
+      "authorsHe": "אופיר חדד; מנחם הופנונג",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: פגישה עם יועצת משפטית לצד שורת תיקי הגירה בחדר בית משפט",
+      "semanticDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: פגישה עם יועצת משפטית לצד שורת תיקי הגירה בחדר בית משפט",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "generated",
+      "source": "OpenAI built-in image generation",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/cohen-eliya-porat-indifference-constitutional-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-eliya-porat-indifference-constitutional-rights.html",
+      "usedBy": [
+        "cohen-eliya-porat-indifference-constitutional-rights.html"
+      ],
+      "cardTitleHe": "אדישות שלטונית לפגיעה בזכויות: האתגר שמציב אפקט נוֹבּ למשפט החוקתי",
+      "authorsHe": "משה כהן־אליה; עידו פורת",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: חסם נגישות בכניסה למבנה ציבורי כמשל לאדישות לפגיעה בזכויות",
+      "semanticDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: חסם נגישות בכניסה למבנה ציבורי כמשל לאדישות לפגיעה בזכויות",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "generated",
+      "source": "OpenAI built-in image generation",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/ben-bassat-dahan-constitutional-social-security.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ben-bassat-dahan-constitutional-social-security.html",
+      "usedBy": [
+        "ben-bassat-dahan-constitutional-social-security.html"
+      ],
+      "cardTitleHe": "מחויבות חוקתית לביטחון סוציאלי והכיסוי שמעניקה מדינת הרווחה",
+      "authorsHe": "אבי בן בסט; מומי דהן",
+      "visualDescriptionHe": "עובדות ועובדים בתהליך תיוק בקשות לביטחון סוציאלי בארצות הברית, בתצלום ארכיון",
+      "semanticDescriptionHe": "עובדות ועובדים בתהליך תיוק בקשות לביטחון סוציאלי בארצות הברית, בתצלום ארכיון",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Social_Security,_%22Part_of_the_biggest_bookeeping_job_in_the_world,_Filing_workers%27_applications_for_social_security..._-_NARA_-_195882.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Social_Security,_%22Part_of_the_biggest_bookeeping_job_in_the_world,_Filing_workers%27_applications_for_social_security..._-_NARA_-_195882.tif",
+      "provider": "Wikimedia Commons",
+      "creator": "Unknown photographer; U.S. National Archives (NARA 195882)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "modifications": "Center crop to 4:3 and resize to 800x600; published under the source license."
+    },
+    {
+      "file": "html_qa/akirav-cox-formateur-bonus-monarchies.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "akirav-cox-formateur-bonus-monarchies.html",
+      "usedBy": [
+        "akirav-cox-formateur-bonus-monarchies.html"
+      ],
+      "cardTitleHe": "כוחו של המלך בבחירת מרכיב הממשלה והיתרון בחלוקת תיקי השרים",
+      "authorsHe": "אסנת עקירב; גארי קוקס",
+      "visualDescriptionHe": "ארמון כריסטיאנסבורג בקופנהגן, בהקשר של מוסדות המדינה במונרכיה החוקתית הדנית",
+      "semanticDescriptionHe": "ארמון כריסטיאנסבורג בקופנהגן, בהקשר של מוסדות המדינה במונרכיה החוקתית הדנית",
+      "tags": [
+        "institutions-civil-society-public-service"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slot_Copenhagen_2014_01.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slot_Copenhagen_2014_01.jpg",
+      "provider": "Wikimedia Commons",
+      "creator": "Julian Herzog",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "modifications": "Center crop to 4:3 and resize to 800x600; published under the source license."
+    },
+    {
+      "file": "html_qa/erdman-constitutional-amendments-duty-obey.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "erdman-constitutional-amendments-duty-obey.html",
+      "usedBy": [
+        "erdman-constitutional-amendments-duty-obey.html"
+      ],
+      "cardTitleHe": "תיקון חוקתי וחובת הציות: הצעה להגביל ביקורת שיפוטית להגנה על ההליך הדמוקרטי",
+      "authorsHe": "שלמה מיכאל ארדמן",
+      "visualDescriptionHe": "אולם המליאה של הבונדסטאג בברלין, להמחשת ההקשר המוסדי של שינוי חוקתי",
+      "semanticDescriptionHe": "אולם המליאה של הבונדסטאג בברלין, להמחשת ההקשר המוסדי של שינוי חוקתי",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlin-Reichstag-Plenarsaal_des_Bundestags-06-2022-gje.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Berlin-Reichstag-Plenarsaal_des_Bundestags-06-2022-gje.jpg",
+      "provider": "Wikimedia Commons",
+      "creator": "Gerd Eichmann",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "modifications": "Center crop to 4:3 and resize to 800x600; published under the source license."
+    },
+    {
+      "file": "html_qa/switat-jabareen-london-planning-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "switat-jabareen-london-planning-rights.html",
+      "usedBy": [
+        "switat-jabareen-london-planning-rights.html"
+      ],
+      "cardTitleHe": "מעמד מיעוטים בתכנון לונדון קשור גם למסגרת הזכויות החוקתית",
+      "authorsHe": "עורווה סוויטאת; יוסף ג׳בארין",
+      "visualDescriptionHe": "בית ביטי במתחם המגורים פטמור בבטרסי, לונדון, להמחשת המרחב העירוני המתוכנן",
+      "semanticDescriptionHe": "בית ביטי במתחם המגורים פטמור בבטרסי, לונדון, להמחשת המרחב העירוני המתוכנן",
+      "tags": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Beattie_House,_Patmore_Estate,_Battersea_(geograph_2674893).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Beattie_House,_Patmore_Estate,_Battersea_(geograph_2674893).jpg",
+      "provider": "Wikimedia Commons",
+      "creator": "Stacey Harris",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "modifications": "Center crop to 4:3 and resize to 800x600; published under the source license."
+    },
+    {
+      "file": "html_qa/yefet-coptic-diaspora-minority-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "yefet-coptic-diaspora-minority-rights.html",
+      "usedBy": [
+        "yefet-coptic-diaspora-minority-rights.html"
+      ],
+      "cardTitleHe": "התפוצה הקופטית בארצות הברית והמאבק על זכויות הקופטים במצרים",
+      "authorsHe": "בשמת יפת",
+      "visualDescriptionHe": "כנסיית סנט מרק הקופטית בג׳רזי סיטי, מוסד של הקהילה הקופטית בארצות הברית",
+      "semanticDescriptionHe": "כנסיית סנט מרק הקופטית בג׳רזי סיטי, מוסד של הקהילה הקופטית בארצות הברית",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "wikimedia",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Mark_Coptic_Orthodox_Church,_Jersey_City,_New_Jersey,_US.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:St._Mark_Coptic_Orthodox_Church,_Jersey_City,_New_Jersey,_US.jpg",
+      "provider": "Wikimedia Commons",
+      "creator": "Clyde Charles Brown",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "Center crop to 4:3 and resize to 800x600; published under the source license."
+    },
+    {
+      "file": "html_qa/bloch-women-rabbis-equality-religious-law.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "bloch-women-rabbis-equality-religious-law.html",
+      "usedBy": [
+        "bloch-women-rabbis-equality-religious-law.html"
+      ],
+      "cardTitleHe": "הסמכת נשים לרבנות ושינוי תפיסת ההלכה ביהדות הקונסרבטיבית",
+      "authorsHe": "עמנואל בלוך",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: רבה מובילה דיון לימודי משותף בבית כנסת",
+      "semanticDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: רבה מובילה דיון לימודי משותף בבית כנסת",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "generated",
+      "source": "OpenAI built-in image generation",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/nabwani-baruch-home-work-household-equality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "nabwani-baruch-home-work-household-equality.html",
+      "usedBy": [
+        "nabwani-baruch-home-work-household-equality.html"
+      ],
+      "cardTitleHe": "עבודה מהבית מרחיבה מעורבות אבות, אך אינה מבטיחה חלוקה שוויונית בבית",
+      "authorsHe": "עולא נבואני; יהודה ברוך",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אב מטפל בילד בזמן שהאם עובדת במחשב בבית",
+      "semanticDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אב מטפל בילד בזמן שהאם עובדת במחשב בבית",
+      "tags": [
+        "rights-equality-minorities"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "generated",
+      "source": "OpenAI built-in image generation",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/adnan-miaari-voting-gender-wage-gap.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "adnan-miaari-voting-gender-wage-gap.html",
+      "usedBy": [
+        "adnan-miaari-voting-gender-wage-gap.html"
+      ],
+      "cardTitleHe": "דפוסי הצבעה מקומיים ופערי שכר בין נשים לגברים בישראל",
+      "authorsHe": "ויפאק עדנאן; סאמי מיעארי",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: עמיתים בסדנה מחזיקים מעטפות שכר על רקע יישוב",
+      "semanticDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: עמיתים בסדנה מחזיקים מעטפות שכר על רקע יישוב",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "reuseGuidance": "Created or newly obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-24",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "New asset for this article. Visually reviewed, center-cropped and resized to 800x600 JPEG; no identical site asset reused.",
+      "sourceType": "generated",
+      "source": "OpenAI built-in image generation",
+      "provider": "OpenAI",
+      "creator": "OpenAI",
+      "license": "Generated site asset"
     }
   ],
   "topicGraphics": [
