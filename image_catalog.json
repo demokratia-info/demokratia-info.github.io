@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-24",
+  "lastUpdated": "2026-10-25",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -56154,6 +56154,327 @@
       "provider": "OpenAI",
       "creator": "OpenAI",
       "license": "Generated site asset"
+    },
+    {
+      "file": "html_qa/avnimelech-zelekha-religion-entrepreneurship-gender.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "avnimelech-zelekha-religion-entrepreneurship-gender.html",
+      "usedBy": [
+        "avnimelech-zelekha-religion-entrepreneurship-gender.html"
+      ],
+      "cardTitleHe": "דת, רשתות חברתיות והפער בין נשים לגברים ביזמות",
+      "authorsHe": "גיל אבנימלך; ירון זליכה",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: בעלת עסק בחנות בדים משוחחת עם אישה ליד הדלפק",
+      "semanticDescriptionHe": "גיל אבנימלך וירון זליכה מבחינים בין נורמות דתיות הקשורות לפערים מגדריים לבין רשתות דתיות העשויות לתמוך ביזמות נשים. ניתוח נתונים מ־102 מדינות מצביע על יחסים מורכבים בין דת, השתתפות בתעסוקה ויזמות, ומדגיש את הצורך לשלב שינוי נורמות עם הרחבת הגישה לרשתות עסקיות.",
+      "tags": [
+        "יזמות נשים",
+        "דת",
+        "הון חברתי",
+        "רשתות עסקיות",
+        "פערים מגדריים"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial illustration for an academic Hebrew website, no text. Primary request: a warm, richly textured scene illustrating women's access to entrepreneurship across social and religious environments. Show an adult woman proprietor in a modest small textile shop, thoughtfully discussing supplies with another woman at the wooden counter; bolts of fabric, a mechanical sewing machine and softly lit street beyond create a lived-in economic setting. Natural inclusive faces, realistic anatomy, painterly editorial depth with ochre, muted teal and terracotta, credible everyday scene. No religious stereotypes or devotional symbols, no invented data or visual charts. No writing, letters, numerals, logos, watermarks, UI, flags, collage edges, vector icons or sparse symbolic composition. One complete original image."
+    },
+    {
+      "file": "html_qa/leibner-uruguay-communist-women-participation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "leibner-uruguay-communist-women-participation.html",
+      "usedBy": [
+        "leibner-uruguay-communist-women-participation.html"
+      ],
+      "cardTitleHe": "יותר פעילות ופחות השפעה: נשים במפלגה הקומוניסטית באורוגוואי",
+      "authorsHe": "חררדו ליבנר",
+      "visualDescriptionHe": "המחשה היסטורית שנוצרה בבינה מלאכותית: נשים במפגש התארגנות ולצדן סל תפירה וצעצוע",
+      "semanticDescriptionHe": "חררדו ליבנר מתחקה אחר השתתפות נשים במפלגה הקומוניסטית באורוגוואי משנות העשרים עד שנות השישים. הוא מראה שהתרחבות ההשתתפות לא הבטיחה בולטות בהנהגה או קידום סדר יום של נשים: הפיכתה של המפלגה לתנועת המונים לוותה גם בהסתגלות לנורמות מגדריות שמרניות.",
+      "tags": [
+        "אורוגוואי",
+        "השתתפות נשים",
+        "מפלגות",
+        "מטרנליזם",
+        "שוויון מגדרי"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: historical-scene. Asset type: 4:3 landscape editorial illustration, clearly an invented historical illustration rather than a documentary photograph. A 1940s working-class community meeting in Montevideo: adult women sit and stand in a modest union reading room with a sewing basket and a child's wooden toy near a chair, suggesting the intersection of organizing work and domestic responsibilities. A woman addresses the attentive group with dignity and authority; a few men listen in the background. Warm window light, weathered plaster, wooden furnishings, subdued period clothing, rich gouache and oil-paint textures, natural human proportions and depth. No identifiable historical people. No signs, lettering, writing, numerals, flags, political emblems, logos, watermarks, UI, geometric symbolism or collage."
+    },
+    {
+      "file": "html_qa/raday-religious-family-equality-autonomy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "raday-religious-family-equality-autonomy.html",
+      "usedBy": [
+        "raday-religious-family-equality-autonomy.html"
+      ],
+      "cardTitleHe": "חופש דת ושוויון במשפחה: גבולות ההכרה בנורמות פטריארכליות",
+      "authorsHe": "פרנסס רדאי",
+      "visualDescriptionHe": "חדר הנישואים האזרחיים בבניין העירייה של דן הלדר בהולנד",
+      "semanticDescriptionHe": "פרנסס רדאי בוחנת את המתח בין דיני משפחה ביהדות, בנצרות ובאסלאם לבין זכויות נשים ולהט״ב לשוויון ולאוטונומיה. היא טוענת שהכרה באוטונומיה דתית אינה פוטרת את המדינה מהגנה על בני המשפחה, ומדגישה גישה לערכאות, אפשרות יציאה ממשית ותנאים כלכליים וחינוכיים לבחירה חופשית.",
+      "tags": [
+        "דיני משפחה",
+        "חופש דת",
+        "שוויון מגדרי",
+        "זכויות להט״ב",
+        "אוטונומיה"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Lars van der Heide",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Den_Helder_-_Stadhuis_(trouwzaal).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Den_Helder_-_Stadhuis_(trouwzaal).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Den_Helder_-_Stadhuis_%28trouwzaal%29.jpg"
+    },
+    {
+      "file": "html_qa/yefet-egypt-national-unity-coptic-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "yefet-egypt-national-unity-coptic-rights.html",
+      "usedBy": [
+        "yefet-egypt-national-unity-coptic-rights.html"
+      ],
+      "cardTitleHe": "אחדות לאומית והשתקת תביעות השוויון של הקופטים במצרים",
+      "authorsHe": "בשמת יפת",
+      "visualDescriptionHe": "פנים הכנסייה התלויה הקופטית בקהיר, צילום של רדוסלב בוטב",
+      "semanticDescriptionHe": "בשמת יפת בוחנת כיצד שיח האחדות הלאומית במצרים מגביל את האפשרות לדבר על אפליית המיעוט הקופטי. גם כשהשלטון ופעילים למען דמוקרטיה מציעים גרסאות שונות של הזהות המצרית, הדרישה להצניע תביעות לזכויות עלולה לצמצם את הפלורליזם של החברה כולה.",
+      "tags": [
+        "זכויות מיעוטים",
+        "קופטים",
+        "מצרים",
+        "אחדות לאומית",
+        "פלורליזם"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Radosław Botev",
+      "license": "CC BY 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hanging_Church_Cairo_interior_(1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hanging_Church_Cairo_interior_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Hanging_Church_Cairo_interior_%281%29.jpg"
+    },
+    {
+      "file": "html_qa/moodrick-abat-solidarity-national-autonomy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "moodrick-abat-solidarity-national-autonomy.html",
+      "usedBy": [
+        "moodrick-abat-solidarity-national-autonomy.html"
+      ],
+      "cardTitleHe": "סולידריות ואוטונומיה במחלוקות הלאומיות בקטלוניה ובישראל",
+      "authorsHe": "הילי מודריק אבן חן; אנטוני אבאט אי נינט",
+      "visualDescriptionHe": "אולם המליאה של הפרלמנט הקטלוני בברצלונה",
+      "semanticDescriptionHe": "הילי מודריק אבן חן ואנטוני אבאט אי נינט מערערים על הבחירה הבינארית בין היפרדות לאומית לבין היטמעות. באמצעות דיון נפרד בקטלוניה וביחסי יהודים וערבים בישראל, הם בוחנים כיצד סולידריות מדינתית יכולה להתיישב עם אוטונומיה ושימור שונות לאומית.",
+      "tags": [
+        "סולידריות",
+        "אוטונומיה",
+        "קטלוניה",
+        "ישראל",
+        "זכויות מיעוטים"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Kent Wang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_the_Parliament_of_Catalonia_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_the_Parliament_of_Catalonia_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hemicycle_of_the_Parliament_of_Catalonia_01.jpg"
+    },
+    {
+      "file": "html_qa/shnabel-dovidio-levin-rights-framing.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "shnabel-dovidio-levin-rights-framing.html",
+      "usedBy": [
+        "shnabel-dovidio-levin-rights-framing.html"
+      ],
+      "cardTitleHe": "מסגור זכויות ותמיכת יהודים במדיניות להעצמת ערבים בישראל",
+      "authorsHe": "נורית שנבל; ג׳ון פ׳ דובידיו; זיו לוין",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: תושבים דנים בתכנון גינה משותפת בחצר ציבורית",
+      "semanticDescriptionHe": "נורית שנבל, ג׳ון דובידיו וזיו לוין מוצאים בשלושה מחקרים שמסגור אי־שוויון כהפרת זכויות הפחית תמיכה של משתתפים יהודים במדיניות להעצמת ערבים בישראל. התגובה נקשרה לתפיסת היחסים כמשחק סכום אפס, ונעלמה כאשר הודגשה תלות הדדית חיובית בין הקבוצות.",
+      "tags": [
+        "מסגור זכויות",
+        "תלות הדדית",
+        "תפיסת סכום אפס",
+        "שוויון",
+        "יחסי יהודים וערבים"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 editorial illustration for a Hebrew academic article about how rights framing and mutual dependence shape Jewish-majority support for Arab-minority equality. A warm, detailed civic courtyard in a contemporary Mediterranean town: a small mixed group of adults attentively discussing shared neighborhood plans around a real wooden worktable, one woman points to an unmarked physical model of a community garden. Natural subtle differences of dress, equal agency, no national stereotypes. Late afternoon light, textured stone, people and plants, painterly sophisticated editorial realism and depth. Clearly a conceptual illustration, not a documented event. No letters, writing, numerals, symbols, flags, logos, watermarks, graphic overlays, vector icons or sparse symbolic shapes."
+    },
+    {
+      "file": "html_qa/zreik-arendt-truth-opinion-populism.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zreik-arendt-truth-opinion-populism.html",
+      "usedBy": [
+        "zreik-arendt-truth-opinion-populism.html"
+      ],
+      "cardTitleHe": "אמת, דעה וגבולות הפופוליזם בעקבות חנה ארנדט",
+      "authorsHe": "ראיף זריק",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: אישה מעיינת בתצלומים ובתיקי ארכיון",
+      "semanticDescriptionHe": "ראיף זריק מפתח, בעקבות חנה ארנדט, טיעון דמוקרטי נגד פופוליזם. הוא מצביע על תפקידה הכפול של האמת: תביעה לאמת יחידה עלולה לסגור את הוויכוח הפוליטי, אך הגנה על אמת יכולה גם לשמש התנגדות לדעת רוב שמוחקת חירות וריבוי.",
+      "tags": [
+        "חנה ארנדט",
+        "פופוליזם",
+        "אמת",
+        "דעה",
+        "ריבוי פוליטי"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 landscape editorial illustration for an academic paper on Hannah Arendt, truth, opinion and the defense of democratic plurality. Primary request: a distinctive, quiet scene about checking evidence before forming a public judgment. One thoughtful adult woman is seated alone at a substantial wooden archive reading desk, studying a small historical photograph beside open unmarked folders. Wide oblique overhead composition: the desk and carefully arranged archival materials dominate the foreground, with deep rows of archival storage and a tall rainy window in the distance. Tactile paper, wool clothing and worn wood; warm desk-lamp light against cool gray daylight. Polished painterly editorial realism with a real inhabited room, physical depth and texture. A conceptual illustration, not a portrait of Hannah Arendt or a documented event. No public discussion circle, no standing speaker, no audience, no Mediterranean arches. No visible text, letters, numbers, labels, logos, flags, watermarks, UI, diagrams, isolated symbols or collage layers.",
+      "generationEditPrompts": [
+        "Use case: precise-object-edit. Keep this editorial archive scene, person, photographs, room, window, materials, composition, colors and lighting unchanged. Remove ALL handwriting, printing, text-like scribbles and lines from every paper sheet and folder on the desk, including the large foreground sheets and the sheets beside the woman's hands. Those sheets must be completely blank cream paper with only natural lighting, folds and paper texture. Leave the photographic pictures intact. Preserve the blank archive box labels and unlettered books. No words, letters, numerals, logos or watermarks anywhere."
+      ]
+    },
+    {
+      "file": "html_qa/davidson-schejter-digital-television-diversity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "davidson-schejter-digital-television-diversity.html",
+      "usedBy": [
+        "davidson-schejter-digital-television-diversity.html"
+      ],
+      "cardTitleHe": "רב־תרבותיות ושיקולי שוק בעיצוב הטלוויזיה הדיגיטלית בישראל",
+      "authorsHe": "רועי דוידזון; עמית שכטר",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: בני משפחה צופים בטלוויזיה ואנטנה נראית מעבר לחלון",
+      "semanticDescriptionHe": "רועי דוידזון ועמית שכטר מנתחים את עיצוב מדיניות הטלוויזיה הדיגיטלית הקרקעית בישראל. לטענתם, רטוריקה המצדדת בזכויות התרבותיות והכלכליות של מיעוטים יכולה להסוות בחירות מדיניות הפועלות נגדן, כפי שמשתקף בהרכב הערוצים שנכללו בפלטפורמה.",
+      "tags": [
+        "טלוויזיה דיגיטלית",
+        "רב־תרבותיות",
+        "נאו־ליברליזם",
+        "מדיניות תקשורת",
+        "ייצוג מיעוטים"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 editorial illustration for research on digital terrestrial television policy and minority cultural representation in Israel. A warmly lit modest living room at dusk, an older woman and younger adult man watch a small television showing a text-free documentary landscape with people in a village. The television is part of the room, with books and everyday objects, and a rooftop aerial is visible through the open window. Mid-distance composition, polished painterly civic editorial style with rich depth, material texture and warm amber/cool blue contrast. No branded objects, writing on the television, news tickers, channel marks, logos, subtitles, text, letters, numerals, UI, flags, watermarks or isolated vector symbols. Not a historical photograph."
+    },
+    {
+      "file": "html_qa/harel-shalev-muslim-women-india-policy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "harel-shalev-muslim-women-india-policy.html",
+      "usedBy": [
+        "harel-shalev-muslim-women-india-policy.html"
+      ],
+      "cardTitleHe": "זכויות נשים מוסלמיות בהודו מעבר לוויכוח על הדין האישי",
+      "authorsHe": "איילת הראל־שלו",
+      "visualDescriptionHe": "המחשה שנוצרה בבינה מלאכותית: נשים הודיות בשיחה עם יועצת במרכז קהילתי",
+      "semanticDescriptionHe": "איילת הראל־שלו בוחנת את המתח בין אוטונומיה דתית למיעוט המוסלמי בהודו לבין זכויות הנשים בתוכו. היא מציעה להרחיב את ניתוח המדיניות מעבר לוויכוח על הדין האישי, תוך התייחסות לרשויות המדינה ולנקודות המבט השונות בתוך קהילת המיעוט.",
+      "tags": [
+        "נשים מוסלמיות",
+        "הודו",
+        "אוטונומיה דתית",
+        "דין אישי",
+        "זכויות נשים"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "generated",
+      "provider": "OpenAI",
+      "creator": "OpenAI image generation",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "generationPrompt": "Use case: illustration-story. Asset type: 4:3 editorial illustration for an academic article about Muslim women's rights in India and the relationship between community autonomy and individual equality. Depict an ordinary small group of adult Indian women, some in simple headscarves and some without, speaking with a female civic adviser in an airy courtyard community center. A document folder lies closed on a low wooden desk, no written marks. Respectful active conversation, women as agents, no distress stereotype. Warm sandstone architecture, fabric textures, layered greenery and natural daylight, polished painterly editorial realism. No text, letters, numerals, religious emblems, logos, watermarks, flags, UI, diagrams or pasted-looking layers."
+    },
+    {
+      "file": "html_qa/rein-peronism-cultural-diversity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rein-peronism-cultural-diversity.html",
+      "usedBy": [
+        "rein-peronism-cultural-diversity.html"
+      ],
+      "cardTitleHe": "פרוניזם, זכויות קבוצתיות והערעור על כור ההיתוך בארגנטינה",
+      "authorsHe": "רענן ריין",
+      "visualDescriptionHe": "תצוגת חדר מגורים במוזיאון מלון המהגרים בבואנוס איירס",
+      "semanticDescriptionHe": "רענן ריין מתאר מעבר של הפרוניזם מהדגשת המורשת הספרדית לעבר הכרה רחבה יותר בגיוון האתני והדתי בארגנטינה. לטענתו, אזרחות המבוססת על ייצוג קבוצתי פתחה מקום ליהודים, לערבים, ליפנים ולתנועות ילידיות, וערערה על דימוי לאומי לבן, אירופי ונוצרי.",
+      "tags": [
+        "פרוניזם",
+        "ארגנטינה",
+        "כור היתוך",
+        "זכויות קבוצתיות",
+        "אזרחות"
+      ],
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-10-25",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "qualityNotes": "Visually reviewed, EXIF orientation applied, center-cropped and resized to 800x600 JPEG. Wikimedia crops retain the source license. Conceptual illustrations are labeled as generated; documentary photographs are illustrative, not claimed as study evidence.",
+      "sourceType": "wikimedia_commons",
+      "provider": "Wikimedia Commons",
+      "creator": "Leandro Kibisz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Museo_Hotel_de_Inmigrantes_04.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Museo_Hotel_de_Inmigrantes_04.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Buenos_Aires_-_Museo_Hotel_de_Inmigrantes_04.JPG"
     }
   ],
   "topicGraphics": [

@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2012,
+  "paperCount": 2022,
   "papers": [
+    {
+      "slug": "avnimelech-zelekha-religion-entrepreneurship-gender",
+      "file": "avnimelech-zelekha-religion-entrepreneurship-gender.html",
+      "permalink": "/avnimelech-zelekha-religion-entrepreneurship-gender.html",
+      "sortKey": 202610250010,
+      "titleHe": "דת, רשתות חברתיות והפער בין נשים לגברים ביזמות",
+      "paperTitle": "Religion and the gender gap in entrepreneurship",
+      "authorsCardHe": "גיל אבנימלך; ירון זליכה",
+      "sourceAuthors": [
+        "Gil Avnimelech",
+        "Yaron Zelekha"
+      ],
+      "journal": "International Entrepreneurship and Management Journal 19(2), 629-665",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1007/s11365-023-00855-4",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/avnimelech-zelekha-religion-entrepreneurship-gender.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: בעלת עסק בחנות בדים משוחחת עם אישה ליד הדלפק",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "גיל אבנימלך וירון זליכה מבחינים בין נורמות דתיות הקשורות לפערים מגדריים לבין רשתות דתיות העשויות לתמוך ביזמות נשים. ניתוח נתונים מ־102 מדינות מצביע על יחסים מורכבים בין דת, השתתפות בתעסוקה ויזמות, ומדגיש את הצורך לשלב שינוי נורמות עם הרחבת הגישה לרשתות עסקיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "leibner-uruguay-communist-women-participation",
+      "file": "leibner-uruguay-communist-women-participation.html",
+      "permalink": "/leibner-uruguay-communist-women-participation.html",
+      "sortKey": 202610250009,
+      "titleHe": "יותר פעילות ופחות השפעה: נשים במפלגה הקומוניסטית באורוגוואי",
+      "paperTitle": "Women in Uruguayan Communism: Contradictions and Ambiguities, 1920s–1960s",
+      "authorsCardHe": "חררדו ליבנר",
+      "sourceAuthors": [
+        "Gerardo Leibner"
+      ],
+      "journal": "Journal of Latin American Studies 50(3), 643-672",
+      "dateText": "2018 (פרסום מקוון: 2017)",
+      "doiUrl": "https://doi.org/10.1017/s0022216x17001201",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/leibner-uruguay-communist-women-participation.jpg",
+        "altHe": "המחשה היסטורית שנוצרה בבינה מלאכותית: נשים במפגש התארגנות ולצדן סל תפירה וצעצוע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "חררדו ליבנר מתחקה אחר השתתפות נשים במפלגה הקומוניסטית באורוגוואי משנות העשרים עד שנות השישים. הוא מראה שהתרחבות ההשתתפות לא הבטיחה בולטות בהנהגה או קידום סדר יום של נשים: הפיכתה של המפלגה לתנועת המונים לוותה גם בהסתגלות לנורמות מגדריות שמרניות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "raday-religious-family-equality-autonomy",
+      "file": "raday-religious-family-equality-autonomy.html",
+      "permalink": "/raday-religious-family-equality-autonomy.html",
+      "sortKey": 202610250008,
+      "titleHe": "חופש דת ושוויון במשפחה: גבולות ההכרה בנורמות פטריארכליות",
+      "paperTitle": "Sacralising the patriarchal family in the monotheistic religions: ‘To no form of religion is woman indebted for one impulse of freedom’",
+      "authorsCardHe": "פרנסס רדאי",
+      "sourceAuthors": [
+        "Frances Raday"
+      ],
+      "journal": "International Journal of Law in Context 8(2), 211-230",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1017/s1744552312000055",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/raday-religious-family-equality-autonomy.jpg",
+        "altHe": "חדר הנישואים האזרחיים בבניין העירייה של דן הלדר בהולנד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "פרנסס רדאי בוחנת את המתח בין דיני משפחה ביהדות, בנצרות ובאסלאם לבין זכויות נשים ולהט״ב לשוויון ולאוטונומיה. היא טוענת שהכרה באוטונומיה דתית אינה פוטרת את המדינה מהגנה על בני המשפחה, ומדגישה גישה לערכאות, אפשרות יציאה ממשית ותנאים כלכליים וחינוכיים לבחירה חופשית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "yefet-egypt-national-unity-coptic-rights",
+      "file": "yefet-egypt-national-unity-coptic-rights.html",
+      "permalink": "/yefet-egypt-national-unity-coptic-rights.html",
+      "sortKey": 202610250007,
+      "titleHe": "אחדות לאומית והשתקת תביעות השוויון של הקופטים במצרים",
+      "paperTitle": "Defending the Egyptian nation: national unity and Muslim attitudes toward the Coptic minority",
+      "authorsCardHe": "בשמת יפת",
+      "sourceAuthors": [
+        "Bosmat Yefet"
+      ],
+      "journal": "Middle Eastern Studies 55(4), 638-654",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.1080/00263206.2019.1573365",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/yefet-egypt-national-unity-coptic-rights.jpg",
+        "altHe": "פנים הכנסייה התלויה הקופטית בקהיר, צילום של רדוסלב בוטב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "בשמת יפת בוחנת כיצד שיח האחדות הלאומית במצרים מגביל את האפשרות לדבר על אפליית המיעוט הקופטי. גם כשהשלטון ופעילים למען דמוקרטיה מציעים גרסאות שונות של הזהות המצרית, הדרישה להצניע תביעות לזכויות עלולה לצמצם את הפלורליזם של החברה כולה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "moodrick-abat-solidarity-national-autonomy",
+      "file": "moodrick-abat-solidarity-national-autonomy.html",
+      "permalink": "/moodrick-abat-solidarity-national-autonomy.html",
+      "sortKey": 202610250006,
+      "titleHe": "סולידריות ואוטונומיה במחלוקות הלאומיות בקטלוניה ובישראל",
+      "paperTitle": "Diversity, Autonomy and Solidarity in Multinational States: Current Developments in the Spanish-Catalan and the Jews-Arabs Political Disputes",
+      "authorsCardHe": "הילי מודריק אבן חן; אנטוני אבאט אי נינט",
+      "sourceAuthors": [
+        "Hilly Moodrick-Even Khen",
+        "Antoni Abat Ninet"
+      ],
+      "journal": "International Journal on Minority and Group Rights 28(4), 605-644",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1163/15718115-bja10030",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/moodrick-abat-solidarity-national-autonomy.jpg",
+        "altHe": "אולם המליאה של הפרלמנט הקטלוני בברצלונה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "הילי מודריק אבן חן ואנטוני אבאט אי נינט מערערים על הבחירה הבינארית בין היפרדות לאומית לבין היטמעות. באמצעות דיון נפרד בקטלוניה וביחסי יהודים וערבים בישראל, הם בוחנים כיצד סולידריות מדינתית יכולה להתיישב עם אוטונומיה ושימור שונות לאומית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shnabel-dovidio-levin-rights-framing",
+      "file": "shnabel-dovidio-levin-rights-framing.html",
+      "permalink": "/shnabel-dovidio-levin-rights-framing.html",
+      "sortKey": 202610250005,
+      "titleHe": "מסגור זכויות ותמיכת יהודים במדיניות להעצמת ערבים בישראל",
+      "paperTitle": "But it's my right! Framing effects on support for empowering policies",
+      "authorsCardHe": "נורית שנבל; ג׳ון פ׳ דובידיו; זיו לוין",
+      "sourceAuthors": [
+        "Nurit Shnabel",
+        "John F. Dovidio",
+        "Ziv Levin"
+      ],
+      "journal": "Journal of Experimental Social Psychology 63, 36-49",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1016/j.jesp.2015.11.007",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shnabel-dovidio-levin-rights-framing.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: תושבים דנים בתכנון גינה משותפת בחצר ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "נורית שנבל, ג׳ון דובידיו וזיו לוין מוצאים בשלושה מחקרים שמסגור אי־שוויון כהפרת זכויות הפחית תמיכה של משתתפים יהודים במדיניות להעצמת ערבים בישראל. התגובה נקשרה לתפיסת היחסים כמשחק סכום אפס, ונעלמה כאשר הודגשה תלות הדדית חיובית בין הקבוצות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "zreik-arendt-truth-opinion-populism",
+      "file": "zreik-arendt-truth-opinion-populism.html",
+      "permalink": "/zreik-arendt-truth-opinion-populism.html",
+      "sortKey": 202610250004,
+      "titleHe": "אמת, דעה וגבולות הפופוליזם בעקבות חנה ארנדט",
+      "paperTitle": "The tyranny of truth and the tyranny of opinion: Thinking with Arendt",
+      "authorsCardHe": "ראיף זריק",
+      "sourceAuthors": [
+        "Raef Zreik"
+      ],
+      "journal": "Theoretical Inquiries in Law 26(2), 159-182",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1515/til-2025-0020",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/zreik-arendt-truth-opinion-populism.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה מעיינת בתצלומים ובתיקי ארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "ראיף זריק מפתח, בעקבות חנה ארנדט, טיעון דמוקרטי נגד פופוליזם. הוא מצביע על תפקידה הכפול של האמת: תביעה לאמת יחידה עלולה לסגור את הוויכוח הפוליטי, אך הגנה על אמת יכולה גם לשמש התנגדות לדעת רוב שמוחקת חירות וריבוי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "davidson-schejter-digital-television-diversity",
+      "file": "davidson-schejter-digital-television-diversity.html",
+      "permalink": "/davidson-schejter-digital-television-diversity.html",
+      "sortKey": 202610250003,
+      "titleHe": "רב־תרבותיות ושיקולי שוק בעיצוב הטלוויזיה הדיגיטלית בישראל",
+      "paperTitle": "“Their Deeds are the Deeds of Zimri; but They Expect a Reward Like Phineas”: Neoliberal and Multicultural Discourses in the Development of Israeli DTT Policy",
+      "authorsCardHe": "רועי דוידזון; עמית שכטר",
+      "sourceAuthors": [
+        "Roei Davidson",
+        "Amit M. Schejter"
+      ],
+      "journal": "Communication, Culture & Critique 4(1), 1-22",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.1111/j.1753-9137.2010.01089.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/davidson-schejter-digital-television-diversity.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: בני משפחה צופים בטלוויזיה ואנטנה נראית מעבר לחלון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "רועי דוידזון ועמית שכטר מנתחים את עיצוב מדיניות הטלוויזיה הדיגיטלית הקרקעית בישראל. לטענתם, רטוריקה המצדדת בזכויות התרבותיות והכלכליות של מיעוטים יכולה להסוות בחירות מדיניות הפועלות נגדן, כפי שמשתקף בהרכב הערוצים שנכללו בפלטפורמה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "harel-shalev-muslim-women-india-policy",
+      "file": "harel-shalev-muslim-women-india-policy.html",
+      "permalink": "/harel-shalev-muslim-women-india-policy.html",
+      "sortKey": 202610250002,
+      "titleHe": "זכויות נשים מוסלמיות בהודו מעבר לוויכוח על הדין האישי",
+      "paperTitle": "Policy Analysis beyond Personal Law: Muslim Women's Rights in India",
+      "authorsCardHe": "איילת הראל־שלו",
+      "sourceAuthors": [
+        "Ayelet Harel-Shalev"
+      ],
+      "journal": "Politics & Policy 41(3), 384-419",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1111/polp.12016",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/harel-shalev-muslim-women-india-policy.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: נשים הודיות בשיחה עם יועצת במרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "איילת הראל־שלו בוחנת את המתח בין אוטונומיה דתית למיעוט המוסלמי בהודו לבין זכויות הנשים בתוכו. היא מציעה להרחיב את ניתוח המדיניות מעבר לוויכוח על הדין האישי, תוך התייחסות לרשויות המדינה ולנקודות המבט השונות בתוך קהילת המיעוט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "rein-peronism-cultural-diversity",
+      "file": "rein-peronism-cultural-diversity.html",
+      "permalink": "/rein-peronism-cultural-diversity.html",
+      "sortKey": 202610250001,
+      "titleHe": "פרוניזם, זכויות קבוצתיות והערעור על כור ההיתוך בארגנטינה",
+      "paperTitle": "Challenging the Argentine Melting Pot: Peronism, Hispanidad, and Cultural Diversity",
+      "authorsCardHe": "רענן ריין",
+      "sourceAuthors": [
+        "Raanan Rein"
+      ],
+      "journal": "Journal of Contemporary History 57(3), 691-707",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1177/00220094211065994",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/rein-peronism-cultural-diversity.jpg",
+        "altHe": "תצוגת חדר מגורים במוזיאון מלון המהגרים בבואנוס איירס",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25",
+      "summaryHe": "רענן ריין מתאר מעבר של הפרוניזם מהדגשת המורשת הספרדית לעבר הכרה רחבה יותר בגיוון האתני והדתי בארגנטינה. לטענתו, אזרחות המבוססת על ייצוג קבוצתי פתחה מקום ליהודים, לערבים, ליפנים ולתנועות ילידיות, וערערה על דימוי לאומי לבן, אירופי ונוצרי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "adnan-miaari-voting-gender-wage-gap",
       "file": "adnan-miaari-voting-gender-wage-gap.html",
