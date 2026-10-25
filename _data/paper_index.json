@@ -1,8 +1,295 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2022,
+  "paperCount": 2032,
   "papers": [
+    {
+      "slug": "forman-rabinovici-sommer-abortion-policy-institutions",
+      "file": "forman-rabinovici-sommer-abortion-policy-institutions.html",
+      "permalink": "/forman-rabinovici-sommer-abortion-policy-institutions.html",
+      "sortKey": 202610260010,
+      "titleHe": "ייצוג נשים, מוסדות בינלאומיים ומדיניות גישה להפלות",
+      "paperTitle": "Reproductive health policy‐makers: Comparing the influences of international and domestic institutions on abortion policy",
+      "authorsCardHe": "עליזה פורמן־רבינוביץ׳; אודי זומר",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici",
+        "Udi Sommer"
+      ],
+      "journal": "Public Administration 96(1), 185–199",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1111/padm.12383",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/forman-rabinovici-sommer-abortion-policy-institutions.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: אישה מדברת בדיון פרלמנטרי בפני מחוקקות ומחוקקים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "עליזה פורמן־רבינוביץ׳ ואודי זומר משווים בין ייצוג פוליטי של נשים לבין פעילות מוסדות בינלאומיים בהסבר מדיניות גישה להפלות. הממצאים מבליטים קשרים בזירה הבינלאומית והבדל בין ייצוג נשי לבין מכסות מגדריות, ומדגישים שהשתתפות פוליטית וזכויות דורשות בדיקה של המנגנונים המחברים ביניהן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shachar-childrens-books-gender-roles",
+      "file": "shachar-childrens-books-gender-roles.html",
+      "permalink": "/shachar-childrens-books-gender-roles.html",
+      "sortKey": 202610260009,
+      "titleHe": "מי מופיע בספרי הילדים? שינוי איטי בייצוג תפקידי מגדר בישראל",
+      "paperTitle": "Structuring of Gender in Israeli Society Through Children's Reading and Textbooks: Where Is Mom's Apron?",
+      "authorsCardHe": "רינה שחר",
+      "sourceAuthors": [
+        "Rina Shachar"
+      ],
+      "journal": "Journal of Research in Childhood Education 26(3), 249–263",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1080/02568543.2012.685124",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shachar-childrens-books-gender-roles.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: ילדים ומורה קוראים ספר תמונות המציג אישה בעבודה טכנית ואב המטפל בפעוט",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "רינה שחר מתארת התרחבות בתפקידי נשים וגברים בספרי קריאה ולימוד לצד המשך נוכחותם של סטריאוטיפים מגדריים. ההשוואה לאורך עשורים מבליטה את תפקידו של חומר חינוכי בעיצוב מה שנתפס כאפשרי, ומציעה לבחון ייצוג דרך הפעולות והתפקידים המוקצים לדמויות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ben-lulu-reform-bat-mitzvah-gender-recognition",
+      "file": "ben-lulu-reform-bat-mitzvah-gender-recognition.html",
+      "permalink": "/ben-lulu-reform-bat-mitzvah-gender-recognition.html",
+      "sortKey": 202610260008,
+      "titleHe": "בת מצווה רפורמית בישראל כמעשה של שוויון והכרה ציבורית",
+      "paperTitle": "Performing Gender and Political Recognition: Israeli Reform Jewish Life-cycle Rituals",
+      "authorsCardHe": "אלעזר בן־לולו",
+      "sourceAuthors": [
+        "Elazar Ben-Lulu"
+      ],
+      "journal": "Journal of Contemporary Ethnography 50(2), 202–230",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1177/0891241620968264",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/ben-lulu-reform-bat-mitzvah-gender-recognition.jpg",
+        "altHe": "פנים בית הכנסת של קהילת כל הנשמה בירושלים; צילום להמחשת מרחב תפילה רפורמי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "אלעזר בן־לולו מנתח טקסי בת מצווה בקהילות רפורמיות בישראל כפעולה דתית שיש לה משמעות מגדרית ופוליטית. ברכות, סמלים ומחוות מעניקים לנערות מקום פעיל בטקס, וממחישים כיצד קהילה דתית יכולה לערער על גבולות סמכות והכרה במרחב הציבורי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "karazi-presler-high-tech-gender-moral-repertoires",
+      "file": "karazi-presler-high-tech-gender-moral-repertoires.html",
+      "permalink": "/karazi-presler-high-tech-gender-moral-repertoires.html",
+      "sortKey": 202610260007,
+      "titleHe": "שיח מוסרי ושימור אי־שוויון מגדרי בארגוני הייטק",
+      "paperTitle": "The Moralization of Gender (In)Equality: Contested Hybrid Repertoires Among Men in High-Tech Organizations",
+      "authorsCardHe": "Tair Karazi-Presler",
+      "sourceAuthors": [
+        "Tair Karazi-Presler"
+      ],
+      "journal": "Men and Masculinities, OnlineFirst",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1177/1097184x261465812",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/karazi-presler-high-tech-gender-moral-repertoires.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: שיחה בין עמיתים במסדרון חברת הייטק, לצד עמיתה בפתח חדר זכוכית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "Tair Karazi-Presler מראה כיצד גברים בהייטק משלבים תמיכה בשוויון עם טענות על אותנטיות, אפליה הפוכה ואובדן כוח. המחקר מסביר כיצד נימוקים מוסריים עשויים להצדיק סדר מגדרי קיים גם בארגון שמצהיר על שוויון, ומציע להקשיב לאופן שבו מובנת הוגנות בחיי העבודה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "alhuzail-mahajne-bedouin-girls-protection-empowerment",
+      "file": "alhuzail-mahajne-bedouin-girls-protection-empowerment.html",
+      "permalink": "/alhuzail-mahajne-bedouin-girls-protection-empowerment.html",
+      "sortKey": 202610260006,
+      "titleHe": "בין הגנה להעצמה: עובדי הגנת הילד ונערות במשפחות בדואיות",
+      "paperTitle": "Balancing acts: the intricate role of child protection officers in empowering Bedouin girls for gender equality in patriarchal families",
+      "authorsCardHe": "נוזהה אלאסד אלהוזייל; Ibrahim Mahajne",
+      "sourceAuthors": [
+        "Nuzha Allassad Alhuzail",
+        "Ibrahim Mahajne"
+      ],
+      "journal": "Journal of Ethnic & Cultural Diversity in Social Work 35(3), 184–195",
+      "dateText": "2026; פרסום מקוון מוקדם ב־2025",
+      "doiUrl": "https://doi.org/10.1080/15313204.2025.2495566",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/alhuzail-mahajne-bedouin-girls-protection-empowerment.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: עובדת סוציאלית מקשיבה לנערה ולאמה בפתח בית בנגב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "נוזהה אלאסד אלהוזייל ואבראהים מחאג׳נה מנתחים את הדילמות של עובדי הגנת הילד המלווים נערות במשפחות בדואיות פטריארכליות. המחקר מראה מדוע שמירה על בטיחות, אפשרות למימוש עצמי וקשרים משפחתיים מחייבות התבוננות משולבת בזכויות וביחסי כוח.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "bloom-gilad-freedman-globalization-gender-equality",
+      "file": "bloom-gilad-freedman-globalization-gender-equality.html",
+      "permalink": "/bloom-gilad-freedman-globalization-gender-equality.html",
+      "sortKey": 202610260005,
+      "titleHe": "מתי פתיחות כלכלית תומכת בשוויון מגדרי? תפקיד החשיפה לתרבויות אחרות",
+      "paperTitle": "Does exposure to other cultures affect the impact of economic globalization on gender equality?",
+      "authorsCardHe": "פזית בן־נון בלום; שרון גלעד; מייקל פרידמן",
+      "sourceAuthors": [
+        "Pazit Ben-Nun Bloom",
+        "Sharon Gilad",
+        "Michael Freedman"
+      ],
+      "journal": "International Political Science Review 38(3), 378–395",
+      "dateText": "2017",
+      "doiUrl": "https://doi.org/10.1177/0192512116644358",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/bloom-gilad-freedman-globalization-gender-equality.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: נשים מרקעים שונים משוחחות בנמל מסחרי ובסביבת עבודה בינלאומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "פזית בן־נון בלום, שרון גלעד ומייקל פרידמן מצביעים על קשר בין חשיפה לרעיונות ולאנשים מחוץ למדינה לבין השפעת הגלובליזציה הכלכלית על שוויון מגדרי. המחקר מציע ששינוי בהזדמנויות דורש גם שינוי בערכים ובדרישה הציבורית למדיניות התומכת בזכויות נשים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hitman-tunisian-women-constitutional-equality",
+      "file": "hitman-tunisian-women-constitutional-equality.html",
+      "permalink": "/hitman-tunisian-women-constitutional-equality.html",
+      "sortKey": 202610260004,
+      "titleHe": "נשים בתוניסיה אחרי מהפכת היסמין: שינוי חוקתי ואתגר היישום",
+      "paperTitle": "Arab Spring Era: Winds of Change in the Direction of Gender Equality for Tunisian Women",
+      "authorsCardHe": "גדי היטמן",
+      "sourceAuthors": [
+        "Gadi Hitman"
+      ],
+      "journal": "Digest of Middle East Studies 27(2), 168–184",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1111/dome.12137",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/hitman-tunisian-women-constitutional-equality.jpg",
+        "altHe": "בניין הפרלמנט בתוניסיה, בצילום המתעד את חזית המבנה ואת מדרגות הכניסה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "גדי היטמן קושר את ההתקדמות במעמד נשים בתוניסיה להתארגנות נשית, לנוכחות ציבורית ממושכת ולשותפים פוליטיים חילוניים. ההשוואה בין חוקות 1959 ו־2014 מבליטה הישגים משפטיים לצד קושי ביישומם, ומזכירה שהכרה בזכויות דורשת גם כוח חברתי התומך במימושן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "guttman-health-rights-ethiopian-community",
+      "file": "guttman-health-rights-ethiopian-community.html",
+      "permalink": "/guttman-health-rights-ethiopian-community.html",
+      "sortKey": 202610260003,
+      "titleHe": "מידע על זכויות בריאות שנבנה עם קהילת יוצאי אתיופיה",
+      "paperTitle": "Communicating Health Rights to Disadvantaged Populations: Challenges in Developing a Culture-Centered Approach For Ethiopian Immigrants in Israel",
+      "authorsCardHe": "נורית גוטמן; ענת גסר־אדלסבורג; Seffefe Aycheh",
+      "sourceAuthors": [
+        "Nurit Guttman",
+        "Anat Gesser-Edelsburg",
+        "Seffefe Aycheh"
+      ],
+      "journal": "Health Communication 28(6), 546–556",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1080/10410236.2012.702643",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/guttman-health-rights-ethiopian-community.jpg",
+        "altHe": "המחשה שנוצרה בבינה מלאכותית: בני קהילת יוצאי אתיופיה משוחחים סביב חומרי מידע מצוירים במרכז בריאות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "נורית גוטמן, ענת גסר־אדלסבורג ו־Seffefe Aycheh בחנו חומרי הסברה המבוססים על חוויות של יוצאי אתיופיה בישראל. המשתתפים ראו בהם מידע רלוונטי ומעודד למימוש זכויות, והמחקר מדגיש ששוויון בשירותי בריאות תלוי גם בדרך שבה מוסדות מקשיבים למקבלי השירות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "daniel-silverman-turkish-jewish-rights-diplomacy",
+      "file": "daniel-silverman-turkish-jewish-rights-diplomacy.html",
+      "permalink": "/daniel-silverman-turkish-jewish-rights-diplomacy.html",
+      "sortKey": 202610260002,
+      "titleHe": "דיפלומטיה עקיפה להגנת יהודי טורקיה בשנים 1960–1961",
+      "paperTitle": "Finding the ultimate pipe: Israel's covert activity to protect the rights of the Jewish community in Turkey (1960–1961)",
+      "authorsCardHe": "רמי דניאל; Jason A. Silverman",
+      "sourceAuthors": [
+        "Rémi Daniel",
+        "Jason A. Silverman"
+      ],
+      "journal": "Political Geography 105, 102928",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1016/j.polgeo.2023.102928",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/daniel-silverman-turkish-jewish-rights-diplomacy.jpg",
+        "altHe": "חזית בית הכנסת נווה שלום באיסטנבול; צילום להמחשת החיים הקהילתיים היהודיים בעיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "רמי דניאל וג׳ייסון סילברמן מתארים כיצד ישראל גייסה את בני ברית בארצות הברית לפעולה למען מוסדות יהודיים בטורקיה. המקרה מראה כיצד הגנת מיעוטים נשזרת בשיקולי ריבונות וביחסים בין מדינות, ומדוע חשוב לבחון גם את רצונם העצמאי של ארגוני התפוצה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ben-shalom-lewin-engel-mixed-military-units",
+      "file": "ben-shalom-lewin-engel-mixed-military-units.html",
+      "permalink": "/ben-shalom-lewin-engel-mixed-military-units.html",
+      "sortKey": 202610260001,
+      "titleHe": "איך נבנה שיתוף פעולה מגדרי בגדודי חי״ר מעורבים?",
+      "paperTitle": "Organizational processes and gender integration in operational military units: An Israel Defense Forces case study",
+      "authorsCardHe": "עוזי בן־שלום; אייל לוין; Shimrit Engel",
+      "sourceAuthors": [
+        "Uzi Ben-Shalom",
+        "Eyal Lewin",
+        "Shimrit Engel"
+      ],
+      "journal": "Gender, Work & Organization 26(9), 1289–1303",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.1111/gwao.12348",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ben-shalom-lewin-engel-mixed-military-units.jpg",
+        "altHe": "אימון מסכם של גדוד קרקל בשנת 2012; תצלום להמחשת שירות ביחידת חי״ר מעורבת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "summaryHe": "עוזי בן־שלום, אייל לוין ושמרית אנגל מזהים תהליכי פיקוד, חלוקת עבודה ופיתוח מפקדים המסייעים לפעולה משותפת של נשים וגברים בשלושה גדודים מעורבים. המחקר מדגיש ששילוב מוסדי דורש למידה יומיומית, ושקיום יחידה מתפקדת אינו מוחק בהכרח חסמים מגדריים רחבים יותר.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "avnimelech-zelekha-religion-entrepreneurship-gender",
       "file": "avnimelech-zelekha-religion-entrepreneurship-gender.html",
