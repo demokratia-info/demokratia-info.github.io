@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -56821,6 +56821,325 @@
       "license": "Generated illustration",
       "creator": "OpenAI image generation",
       "provider": "OpenAI"
+    },
+    {
+      "file": "html_qa/broude-henckels-investor-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "broude-henckels-investor-human-rights.html",
+      "usedBy": [
+        "broude-henckels-investor-human-rights.html"
+      ],
+      "cardTitleHe": "זכויות משקיעים וזכויות אדם: מי נתפס כמפסיד בבוררות השקעות?",
+      "authorsHe": "תומר ברודי, Caroline Henckels",
+      "visualDescriptionHe": "המחשה מאוירת של נציגת תושבים, נציגי חברה ובוררים סביב שולחן דיונים",
+      "semanticDescriptionHe": "ברודי והנקלס טוענים שבוררות השקעות עלולה להעניק יתרון לזכויות משקיעים כאשר פגיעה בהן מוצגת כהפסד ודאי, ואילו הגנה על זכויות התושבים מוצגת כרווח עתידי. הניתוח מחבר בין דיני השקעות לתובנות על קבלת החלטות, ומציע לבחון מחדש את נקודת המוצא שממנה מעריכים את הזכויות המתחרות. ההשלכה היא שהגנת זכויות אדם צריכה להיכלל בהערכת הסכסוך כבר בהגדרת המצב הקיים.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "בוררות השקעות",
+        "זכויות אדם",
+        "מסגור הפסדים ורווחים",
+        "זכויות משקיעים",
+        "משפט בינלאומי"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/tagari-personal-family-law.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "tagari-personal-family-law.html",
+      "usedBy": [
+        "tagari-personal-family-law.html"
+      ],
+      "cardTitleHe": "דיני משפחה לפי השתייכות דתית: חופש בחירה, שוויון וזכויות אדם",
+      "authorsHe": "הדס תגרי",
+      "visualDescriptionHe": "חדר נישואים אזרחיים בעיריית אורהוס בדנמרק, להמחשת חלופה אזרחית בדיני משפחה",
+      "semanticDescriptionHe": "הדס תגרי משווה בין שיטות שבהן דיני המשפחה נקבעים לפי השתייכות דתית, ובוחנת את המתח בין הכרה בקבוצות לבין זכויות הפרט. הניתוח של ישראל, הודו, לבנון ומרוקו מצביע על חשיבותם של מבנה המערכת, יחסי הכוח והאפשרות המעשית לצאת מן המסגרת הדתית. חלופה אזרחית יכולה להרחיב חופש בחירה, אך שוויון דורש גם התייחסות ללחצים ולתנאים שבהם הבחירה נעשית.",
+      "tags": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law",
+        "דיני משפחה",
+        "פלורליזם משפטי",
+        "חופש דת ומצפון",
+        "שוויון מגדרי",
+        "נישואים אזרחיים"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "Ciara Ní Riain",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Registry_office_wedding_room_Vielseslokale_Aarhus_City_Hall_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/efrat-tomasina-extradition-china.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "efrat-tomasina-extradition-china.html",
+      "usedBy": [
+        "efrat-tomasina-extradition-china.html"
+      ],
+      "cardTitleHe": "הסגרה לסין: בין שיתוף פעולה נגד פשיעה להגנה על זכויות אדם",
+      "authorsHe": "אסיף אפרת, Marcello Tomasina",
+      "visualDescriptionHe": "האולם הגדול בבניין הפרלמנט של אוסטרליה, אחת המדינות שנדונות במחקר",
+      "semanticDescriptionHe": "אפרת וטומסינה בוחנים את הוויכוחים באוסטרליה ובקנדה על הסכמי הסגרה עם סין. הם מראים כיצד אינטרסים דיפלומטיים ואכיפתיים יכולים לדחוף ממשלות דמוקרטיות לשיתוף פעולה למרות חששות לזכויות המבוקשים, וכיצד התנגדות משפטית וציבורית יכולה לבלום אותו. המקרים מדגישים שהגנת זכויות בהסגרה תלויה גם בביקורת על מדיניות החוץ בתוך המדינה המסגירה.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "הסגרה",
+        "סין",
+        "הליך הוגן",
+        "זכויות אדם",
+        "אוסטרליה",
+        "קנדה"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Great_Hall_-_Parliament_of_Australia.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "file": "html_qa/goldenberg-political-acrophily.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "goldenberg-political-acrophily.html",
+      "usedBy": [
+        "goldenberg-political-acrophily.html"
+      ],
+      "cardTitleHe": "למה אנשים בוחרים קשרים עם בעלי עמדות קיצוניות יותר משלהם?",
+      "authorsHe": "עמית גולדנברג, Joseph M. Abruzzo, Zi Huang, Jonas Schöne, David D. Bailey, Robb Willer, ערן הלפרין, James J. Gross",
+      "visualDescriptionHe": "המחשה מאוירת של משתתף באספה קהילתית הפונה לעבר קבוצה המקשיבה לדובר נלהב",
+      "semanticDescriptionHe": "גולדנברג ועמיתיו מבחינים בין העדפת אנשים דומים לבין העדפת אנשים בעלי תגובות פוליטיות קיצוניות יותר באותו כיוון. סדרת מחקרים בקרב אמריקאים וסימולציה של רשתות חברתיות מצביעות על כך ששתי הנטיות יכולות לפעול יחד ולהגביר הפרדה בין מחנות. הבחירה עם מי ליצור קשר עשויה אפוא לעצב סביבה חברתית קיצונית יותר גם בלי רצון מפורש להקצין.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "אקרופיליה",
+        "הומופיליה",
+        "קיטוב פוליטי",
+        "רשתות חברתיות",
+        "בחירת קשרים"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/katabi-partisan-brain-responses.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "katabi-partisan-brain-responses.html",
+      "usedBy": [
+        "katabi-partisan-brain-responses.html"
+      ],
+      "cardTitleHe": "עמדות פוליטיות ותגובות מוחיות לצפייה במסרים מהימין ומהשמאל",
+      "authorsHe": "נועה קטבי, Hadas Simon, Sharon Yakim, Inbal Ravreby, טל אוהד, יערה ישורון",
+      "visualDescriptionHe": "מכשיר תהודה מגנטית קליני, להמחשת שיטת המדידה ולא המכשיר ששימש במחקר",
+      "semanticDescriptionHe": "קטבי ועמיתיה בחנו תגובות מוחיות של ישראלים בעלי עמדות ימין ושמאל בעת צפייה בסרטונים פוליטיים לפני בחירות. ההבדלים לא הוגבלו לאזורים המזוהים עם פרשנות מורכבת, אלא הופיעו גם באזורי חישה ותנועה ובתיאום הפעילות בין משתתפים. הממצאים מציעים כי השתייכות פוליטית קשורה לאופן עיבודו של מסר כבר ברמות בסיסיות, אך אינם מעידים על גורל ביולוגי פוליטי או על סיבה יחידה לקיטוב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "קיטוב פוליטי",
+        "תהודה מגנטית תפקודית",
+        "פרשנות פוליטית",
+        "סנכרון מוחי",
+        "זהות קבוצתית"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "FbrG",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clinical_1.5T_MRI_system.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/zoizner-levy-online-toxicity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "zoizner-levy-online-toxicity.html",
+      "usedBy": [
+        "zoizner-levy-online-toxicity.html"
+      ],
+      "cardTitleHe": "שיח רעיל ברשת: משתמשים מאמצים בעיקר את הסגנון של המחנה שלהם",
+      "authorsHe": "אלון זויזנר, Avraham Levy",
+      "visualDescriptionHe": "המחשה מאוירת של שיחה בבית קפה שבה חברי קבוצה מגיבים בכעס לתוכן בטלפון",
+      "semanticDescriptionHe": "זויזנר ולוי מנתחים ציוצים בישראל ומוצאים קשר עקבי בין שיח רעיל של בני המחנה הפוליטי לבין שיח רעיל של משתמשים העוקבים אחריהם. הם מבחינים בין סגנון לא מנומס לבין תוכן לא סובלני, ומראים שהקשרים עם התנהגות המחנה היריב חלשים ופחות עקביים. התוצאה מפנה תשומת לב לנורמות בתוך הקבוצה, אך הנתונים התצפיתיים אינם מוכיחים חשיפה בפועל או סיבתיות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "שיח רעיל",
+        "אי־סובלנות",
+        "רשתות חברתיות",
+        "זהות פוליטית",
+        "טוויטר"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/gluer-spectre-motivated-numeracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gluer-spectre-motivated-numeracy.html",
+      "usedBy": [
+        "gluer-spectre-motivated-numeracy.html"
+      ],
+      "cardTitleHe": "יכולת מספרית וקיטוב: האם בחירה לחשב היא חשיבה מוטה?",
+      "authorsHe": "Kathrin Glüer-Pagin, לוי ספקטר",
+      "visualDescriptionHe": "המחשה מאוירת של שני אנשים בספרייה הבוחנים קבוצות מונים צבעוניים על שולחן",
+      "semanticDescriptionHe": "גליר־פגין וספקטר בוחנים את ההסבר שלפיו אנשים בעלי יכולת מספרית גבוהה מפרשים נתונים באופן המגן על זהותם הפוליטית. הם טוענים שהמנגנון המוצע בספרות עשוי לתאר החלטה מתי להשקיע בחישוב, בלי להוכיח שהחישוב עצמו מעוות לשם השגת מסקנה רצויה. ההבחנה מחדדת מדוע שגיאה פוליטית, מוטיבציה לברר וחשיבה מוטה אינן אותו דבר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "חשיבה מוטת מוטיבציה",
+        "יכולת מספרית",
+        "קיטוב עובדתי",
+        "זהות פוליטית",
+        "נורמות של חקירה"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/asimow-dotan-government-attorneys.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "asimow-dotan-government-attorneys.html",
+      "usedBy": [
+        "asimow-dotan-government-attorneys.html"
+      ],
+      "cardTitleHe": "למי מחויב עורך הדין של המדינה: לרשות שהוא מייצג או לאינטרס הציבורי?",
+      "authorsHe": "מייקל אסימוב, יואב דותן",
+      "visualDescriptionHe": "אולם בבית המשפט העליון בירושלים, להמחשת הזירה המוסדית של ייצוג רשויות בבג״ץ",
+      "semanticDescriptionHe": "אסימוב ודותן משווים בין תפיסות תפקיד של עורכי דין המייצגים רשויות מנהליות בארצות הברית ובישראל. הם מציבים זה מול זה דגם של נאמנות ללקוח הממשלתי ודגם המאפשר לפרקליט לפעול בשם חוקיות ואינטרס ציבורי רחב יותר. ההשוואה מראה כיצד מבנה הביקורת השיפוטית והתרבות המשפטית משפיעים על כוחו של הייצוג המשפטי לתקן פעולת רשות עוד לפני הכרעה שיפוטית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law",
+        "ייצוג המדינה",
+        "פרקליטות",
+        "אינטרס ציבורי",
+        "ביקורת שיפוטית",
+        "משפט מנהלי"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "ישראל פרקר",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_62921_jerusalem_supreme_court.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+      "file": "html_qa/dishon-temporary-constitutional-amendments.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dishon-temporary-constitutional-amendments.html",
+      "usedBy": [
+        "dishon-temporary-constitutional-amendments.html"
+      ],
+      "cardTitleHe": "תיקונים חוקתיים זמניים: כיצד חריגה מוגבלת בזמן יכולה לחזק את השלטון",
+      "authorsHe": "נדב דישון",
+      "visualDescriptionHe": "המחשה מאוירת של החלפת דף בכרך ישן בחדר ועדה פרלמנטרית",
+      "semanticDescriptionHe": "נדב דישון מנתח שימוש בתיקונים זמניים לחוקי יסוד בישראל וטוען שזמניות אינה מבטיחה פגיעה מצומצמת בדמוקרטיה. חריגות המותאמות לצורכי הממשלה יכולות להפחית פיקוח ואחריותיות גם כשהן מוצגות כפתרון קצר מועד. המאמר מציע לבחון את השפעת התיקון על מבנה הכוח ועל מעמד החוקה, במיוחד במערכות שבהן שינוי חוקתי קל ותכוף.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-backsliding-populism",
+        "תיקון חוקתי זמני",
+        "חוקי יסוד",
+        "שימוש לרעה בסמכות המכוננת",
+        "אחריותיות",
+        "תקציב דו־שנתי"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/kremnitzer-sulitzeanu-kenan-policy-proportionality.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kremnitzer-sulitzeanu-kenan-policy-proportionality.html",
+      "usedBy": [
+        "kremnitzer-sulitzeanu-kenan-policy-proportionality.html"
+      ],
+      "cardTitleHe": "הגנה על זכויות בזמן עיצוב המדיניות: שילוב מידתיות וניתוח חלופות",
+      "authorsHe": "מרדכי קרמניצר, רענן סוליציאנו־קינן",
+      "visualDescriptionHe": "רוכבי אופניים בפארק בקופנהגן, להמחשת מרחב ציבורי המושפע מהחלטות מדיניות",
+      "semanticDescriptionHe": "קרמניצר וסוליציאנו־קינן מציעים לחבר בין מבחני המידתיות המשפטיים לבין העבודה המקצועית של מנתחי מדיניות. ההצעה כוללת הערכת השפעה על זכויות, בחינה ממשית של חלופות ותשתית עובדתית המאפשרת גם ביקורת שיפוטית. כך הגנת זכויות יכולה להשתלב בתכנון ההחלטה מראש, לצד שמירת מרחב ההכרעה של הרשויות הנבחרות.",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "מידתיות",
+        "ניתוח מדיניות",
+        "הערכת חלופות",
+        "זכויות אדם",
+        "ביקורת שיפוטית"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photographs cropped and resized from the credited source.",
+      "createdDate": "2026-10-27",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "heb@Wikimedia Commons (mail)",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cycling_in_Faelledparken.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     }
   ],
   "topicGraphics": [
