@@ -1,8 +1,301 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2042,
+  "paperCount": 2052,
   "papers": [
+    {
+      "slug": "goldfarb-cohen-dishon-digital-perspective-taking",
+      "file": "goldfarb-cohen-dishon-digital-perspective-taking.html",
+      "permalink": "/goldfarb-cohen-dishon-digital-perspective-taking.html",
+      "sortKey": 202610280010,
+      "titleHe": "לראות את נקודת המבט של האחר: הזדמנויות ומגבלות של למידה דיגיטלית",
+      "paperTitle": "Can we work it out? Affordances and constraints for cultivating perspective‐taking in digital contexts",
+      "authorsCardHe": "שי גולדפרב כהן, גדעון דישון",
+      "sourceAuthors": [
+        "Shai Goldfarb Cohen",
+        "Gideon Dishon"
+      ],
+      "journal": "Journal of Computer Assisted Learning 41(1), e13086 (2025)",
+      "dateText": "26 באוקטובר 2024 (פרסום מקוון); גיליון פברואר 2025",
+      "doiUrl": "https://doi.org/10.1111/jcal.13086",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/goldfarb-cohen-dishon-digital-perspective-taking.jpg",
+        "altHe": "המחשה מאוירת של סטודנטים בשיחה סביב מחשבים ניידים, להמחשת למידה דיגיטלית והקשבה לנקודות מבט שונות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "שי גולדפרב כהן וגדעון דישון מציעים מסגרת לתכנון למידה דיגיטלית המפתחת הבנה של אחרים. הם מבחינים בין חיבור לאנשים שונים, הדמיית נקודות מבט וניסוח משותף של פרשנויות, ובוחנים את המתח בין מגוון המשתתפים לעומק המפגש. המסגרת מדגישה תכנון חינוכי, משוב וזמן למחשבה כתנאים לשיח המאפשר להתמודד עם קיטוב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-garasic-informed-ignorance-epistemic-injustice",
+      "file": "cohen-garasic-informed-ignorance-epistemic-injustice.html",
+      "permalink": "/cohen-garasic-informed-ignorance-epistemic-injustice.html",
+      "sortKey": 202610280009,
+      "titleHe": "בורות עתירת מידע: כיצד שפע מידע יכול להעמיק אי־צדק",
+      "paperTitle": "Informed Ignorance as a Form of Epistemic Injustice",
+      "authorsCardHe": "נועה כהן, מירקו דניאל גראסיץ׳",
+      "sourceAuthors": [
+        "Noa Cohen",
+        "Mirko Daniel Garasic"
+      ],
+      "journal": "Philosophies 9(3), 59 (2024)",
+      "dateText": "29 באפריל 2024",
+      "doiUrl": "https://doi.org/10.3390/philosophies9030059",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/cohen-garasic-informed-ignorance-epistemic-injustice.jpg",
+        "altHe": "המחשה מאוירת של קורא וספרנית בין מדפי ספרים וערמות דפים, להמחשת הפער בין שפע מידע להבנה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "נועה כהן ומירקו דניאל גאראסיץ׳ מתארים מצב שבו חשיפה רבה למידע מתקיימת לצד מחסור בידע אמין. הם מחברים בין עומס קוגניטיבי, תמריצים מסחריים והיחלשות האמון במומחיות, ומציעים לראות בתנאים להשגת ידע עניין של צדק חברתי. האחריות מתחלקת בין פלטפורמות, חוקרים, מוסדות ומדיניות חינוך ותקשורת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dahan-internet-national-security-democracy",
+      "file": "dahan-internet-national-security-democracy.html",
+      "permalink": "/dahan-internet-national-security-democracy.html",
+      "sortKey": 202610280008,
+      "titleHe": "האינטרנט, הצנזורה וביטחון המדינה בישראל של שנות התשעים",
+      "paperTitle": "National Security and Democracy on the Internet in Israel",
+      "authorsCardHe": "מייקל (מייק) דהאן",
+      "sourceAuthors": [
+        "Michael H. Dahan"
+      ],
+      "journal": "Javnost – The Public 6(4) (1999)",
+      "dateText": "1999",
+      "doiUrl": "https://doi.org/10.1080/13183222.1999.11008728",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/dahan-internet-national-security-democracy.jpg",
+        "altHe": "מעבדת מחשבים בברמטי שבהודו בשנת 2006, להמחשת תשתיות מחשוב מהתקופה המוקדמת של האינטרנט הציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "מייקל דהאן בחן כיצד האינטרנט הרחיב דיון ציבורי בענייני ביטחון בישראל בשנות התשעים. מקרי פרסום ופעילות אזרחית שימשו אותו לניתוח המתח בין חופש הביטוי לתרבות של סודיות. הוא ראה ברשת זרז לשינויים חברתיים רחבים יותר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "amit-ingroup-leaders-national-identity",
+      "file": "amit-ingroup-leaders-national-identity.html",
+      "permalink": "/amit-ingroup-leaders-national-identity.html",
+      "sortKey": 202610280007,
+      "titleHe": "כשהמנהיג שלנו נתפס כמייצג את האומה: הטיה בזהות פוליטית",
+      "paperTitle": "Exemplar-based ingroup projection: The superordinate national category is associated more strongly with ingroup than outgroup political leaders",
+      "authorsCardHe": "עדי עמית, עידו לויתן, שרי מנצר, איתן ונז׳יק, יובל כרמל, טל מורן",
+      "sourceAuthors": [
+        "Adi Amit",
+        "Ido Liviatan",
+        "Sari Mentser",
+        "Eitan Venzhik",
+        "Yuval Karmel",
+        "Tal Moran"
+      ],
+      "journal": "Journal of Experimental Social Psychology 115, 104669 (2024)",
+      "dateText": "נובמבר 2024",
+      "doiUrl": "https://doi.org/10.1016/j.jesp.2024.104669",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/amit-ingroup-leaders-national-identity.jpg",
+        "altHe": "המחשה מאוירת של קהל ומנהיג באולם מפגש פוליטי, להמחשת הקשר בין מנהיגות לזהות קבוצתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "שלושה ניסויים בישראל ובארצות הברית מצאו קישור חזק יותר בין האומה למנהיגי המחנה הפוליטי של המשתתפים. הממצא מרחיב את הדיון בזהות לאומית גם לדמויות מנהיגים, וממחיש כיצד השתייכות משותפת יכולה להיתפס דרך גבולות מחנאיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "brenner-miodownik-city-immigration-participation",
+      "file": "brenner-miodownik-city-immigration-participation.html",
+      "permalink": "/brenner-miodownik-city-immigration-participation.html",
+      "sortKey": 202610280006,
+      "titleHe": "השתתפות עירונית ועמדות כלפי מהגרים: הכלה וקיטוב בשלוש ערים",
+      "paperTitle": "Identities, participation, and the immigration crisis in the city: A comparative analysis",
+      "authorsCardHe": "נעם ברנר, דן מיודובניק",
+      "sourceAuthors": [
+        "Noam Brenner",
+        "Dan Miodownik"
+      ],
+      "journal": "Cities 166, 106269 (2025)",
+      "dateText": "נובמבר 2025",
+      "doiUrl": "https://doi.org/10.1016/j.cities.2025.106269",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/brenner-miodownik-city-immigration-participation.jpg",
+        "altHe": "אנשים יושבים לצד תעלת לנדוור בברלין, להמחשת החיים המשותפים במרחב העירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "סקרים בברלין, בברצלונה ובפריז מצביעים על קשר בין מעורבות בפוליטיקה העירונית לעמדות חיוביות כלפי מהגרים, לצד חיזוק הבדלים הקשורים לזהות. נעם ברנר ודן מיודובניק מראים שהעיר יכולה להיות זירה של שייכות מכלילה ושל קיטוב בעת ובעונה אחת. המשמעות לרשויות מקומיות היא הצורך להתחשב בהבדלי זהות בתוך תהליכי השתתפות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "almog-bar-nonprofit-policy-israel",
+      "file": "almog-bar-nonprofit-policy-israel.html",
+      "permalink": "/almog-bar-nonprofit-policy-israel.html",
+      "sortKey": 202610280005,
+      "titleHe": "שותפות בין הממשלה לעמותות: דיאלוג בלי חיזוק מספק של עצמאות אזרחית",
+      "paperTitle": "Policy Initiatives towards the Nonprofit Sector: Insights from the Israeli Case",
+      "authorsCardHe": "מיכל אלמוג־בר",
+      "sourceAuthors": [
+        "Michal Almog-Bar"
+      ],
+      "journal": "Nonprofit Policy Forum 7(2), 237–256 (2016)",
+      "dateText": "1 ביוני 2016",
+      "doiUrl": "https://doi.org/10.1515/npf-2016-0005",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/almog-bar-nonprofit-policy-israel.jpg",
+        "altHe": "המחשה מאוירת של מפגש בין מתנדבת לנציג ציבור בכניסה למרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "מיכל אלמוג־בר מנתחת יוזמות מדיניות כלפי המגזר ללא כוונת רווח בישראל מאז שנת 2000. היוזמות יצרו דיאלוג ועבודה משותפת עם ארגונים מרכזיים, אך לא חיזקו את החברה האזרחית כמרחב ציבורי חלופי. המאמר מבחין בין שיתוף פעולה לבין עצמאות אזרחית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "perez-sacks-israel-civil-society-religion",
+      "file": "perez-sacks-israel-civil-society-religion.html",
+      "permalink": "/perez-sacks-israel-civil-society-religion.html",
+      "sortKey": 202610280004,
+      "titleHe": "דת בחברה האזרחית: יונתן זקס על קהילה, ברית ומדינת ישראל",
+      "paperTitle": "Rabbi Lord Jonathan Sacks’ political thought and the state of Israel",
+      "authorsCardHe": "נחשון פרז",
+      "sourceAuthors": [
+        "Nahshon Perez"
+      ],
+      "journal": "Israel Affairs 29(3), 700–715 (2023)",
+      "dateText": "1 במאי 2023 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/13537121.2023.2206255",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/perez-sacks-israel-civil-society-religion.jpg",
+        "altHe": "המחשה מאוירת של שכנים דתיים וחילונים מכינים יחד מפגש בחצר קהילתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "נחשון פרז בוחן את הגותו של יונתן זקס על ישראל דרך רעיונות של קהילה וברית. הניתוח מתמקד בסיפור הלאומי, בחיזוק החברה האזרחית ובמקומה של הדת. במרכזו ביקורת על קשרי דת וכוח שלטוני.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kaplan-friendship-national-identity",
+      "file": "kaplan-friendship-national-identity.html",
+      "permalink": "/kaplan-friendship-national-identity.html",
+      "sortKey": 202610280003,
+      "titleHe": "חברות, אחווה וזהות לאומית: הרגש הפוליטי שמחבר בין זרים",
+      "paperTitle": "What can the concept of friendship contribute to the study of national identity?",
+      "authorsCardHe": "דני קפלן",
+      "sourceAuthors": [
+        "Danny Kaplan"
+      ],
+      "journal": "Nations and Nationalism 13(2), 225–244 (2007)",
+      "dateText": "21 במרץ 2007 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1111/j.1469-8129.2007.00270.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kaplan-friendship-national-identity.jpg",
+        "altHe": "שחקני שחמט בפארק כיכר וושינגטון בניו יורק, להמחשת קשרים חברתיים במרחב הציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "דני קפלן מציע לבחון חברות כרגש פוליטי המסייע להסביר זהות לאומית. הוא מחבר בין חברות אזרחית, אחווה גברית ורשתות התאגדות. הניתוח מעלה שאלות על השתייכות ועל גבולות הסולידריות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "rein-bornstein-jewish-christian-friendship-spain",
+      "file": "rein-bornstein-jewish-christian-friendship-spain.html",
+      "permalink": "/rein-bornstein-jewish-christian-friendship-spain.html",
+      "sortKey": 202610280002,
+      "titleHe": "ידידות יהודית־נוצרית בספרד של פרנקו: מאבק אזרחי באנטישמיות",
+      "paperTitle": "“The teaching of appreciation”: the Amistad Judeo-Cristiana and the inclusion of Jews in Spain’s public sphere during the Franco Dictatorship",
+      "authorsCardHe": "רענן ריין, פבלו בורנשטיין",
+      "sourceAuthors": [
+        "Raanan Rein",
+        "Pablo Bornstein"
+      ],
+      "journal": "Journal of Iberian and Latin American Studies 29(3), 403–423 (2023)",
+      "dateText": "12 בספטמבר 2023 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/14701847.2023.2258007",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/rein-bornstein-jewish-christian-friendship-spain.jpg",
+        "altHe": "חזית בית הכנסת במדריד בצילום משנת 2006, להמחשת נוכחות הקהילה היהודית בעיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "רענן ריין ופבלו בורנשטיין מנתחים את פעילות אגודת הידידות היהודית־נוצרית שהוקמה במדריד ב־1961. האגודה פעלה נגד תכנים אנטי־יהודיים בספרי לימוד ונגד מסורות של עלילות דם, בתמיכת גורמים בכנסייה. המחברים מציבים פעילות זו בתוך הדיון בתרומת החברה האזרחית להכנת המעבר לדמוקרטיה בספרד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "tirosh-weightism-womens-exclusion",
+      "file": "tirosh-weightism-womens-exclusion.html",
+      "permalink": "/tirosh-weightism-womens-exclusion.html",
+      "sortKey": 202610280001,
+      "titleHe": "הפליה בשל משקל והדרת נשים: מאבק על כבוד הגוף במרחב הציבורי",
+      "paperTitle": "Juxtaposing contested bodies: What can be learned from the politics of weightism and of women’s exclusion",
+      "authorsCardHe": "יופי תירוש",
+      "sourceAuthors": [
+        "Yofi Tirosh"
+      ],
+      "journal": "Fat Studies 13(2), 200–220 (2024)",
+      "dateText": "30 ביוני 2024 (פרסום מקוון)",
+      "doiUrl": "https://doi.org/10.1080/21604851.2024.2361545",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/tirosh-weightism-womens-exclusion.jpg",
+        "altHe": "המחשה מאוירת של נשים בעלות מבני גוף שונים בתחבורה ציבורית, להמחשת נוכחות ושוויון במרחב משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28",
+      "summaryHe": "יופי תירוש משווה בין הפליה בשל משקל בצפון הגלובלי לבין הפרדה מגדרית מטעמי דת בישראל. היא מזהה דפוסים של האשמת הגוף, צמצום נוכחותו והצגת ריסונו כאינטרס קולקטיבי. ההשוואה מזמינה לבחון שפה של בחירה ואחריות אישית לצד שאלות של כבוד, שוויון וכוח.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "kremnitzer-sulitzeanu-kenan-policy-proportionality",
       "file": "kremnitzer-sulitzeanu-kenan-policy-proportionality.html",

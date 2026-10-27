@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-10-28",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -57140,6 +57140,329 @@
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Cycling_in_Faelledparken.jpg",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "file": "html_qa/goldfarb-cohen-dishon-digital-perspective-taking.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "goldfarb-cohen-dishon-digital-perspective-taking.html",
+      "usedBy": [
+        "goldfarb-cohen-dishon-digital-perspective-taking.html"
+      ],
+      "cardTitleHe": "לראות את נקודת המבט של האחר: הזדמנויות ומגבלות של למידה דיגיטלית",
+      "authorsHe": "שי גולדפרב כהן, גדעון דישון",
+      "visualDescriptionHe": "המחשה מאוירת של סטודנטים בשיחה סביב מחשבים ניידים, להמחשת למידה דיגיטלית והקשבה לנקודות מבט שונות",
+      "semanticDescriptionHe": "שי גולדפרב כהן וגדעון דישון מציעים מסגרת לתכנון למידה דיגיטלית המפתחת הבנה של אחרים. הם מבחינים בין חיבור לאנשים שונים, הדמיית נקודות מבט וניסוח משותף של פרשנויות, ובוחנים את המתח בין מגוון המשתתפים לעומק המפגש. המסגרת מדגישה תכנון חינוכי, משוב וזמן למחשבה כתנאים לשיח המאפשר להתמודד עם קיטוב.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "נטילת פרספקטיבה",
+        "חינוך דיגיטלי",
+        "קיטוב",
+        "משחקי מחשב",
+        "הערות שיתופיות"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/cohen-garasic-informed-ignorance-epistemic-injustice.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "cohen-garasic-informed-ignorance-epistemic-injustice.html",
+      "usedBy": [
+        "cohen-garasic-informed-ignorance-epistemic-injustice.html"
+      ],
+      "cardTitleHe": "בורות עתירת מידע: כיצד שפע מידע יכול להעמיק אי־צדק",
+      "authorsHe": "נועה כהן, מירקו דניאל גראסיץ׳",
+      "visualDescriptionHe": "המחשה מאוירת של קורא וספרנית בין מדפי ספרים וערמות דפים, להמחשת הפער בין שפע מידע להבנה",
+      "semanticDescriptionHe": "נועה כהן ומירקו דניאל גאראסיץ׳ מתארים מצב שבו חשיפה רבה למידע מתקיימת לצד מחסור בידע אמין. הם מחברים בין עומס קוגניטיבי, תמריצים מסחריים והיחלשות האמון במומחיות, ומציעים לראות בתנאים להשגת ידע עניין של צדק חברתי. האחריות מתחלקת בין פלטפורמות, חוקרים, מוסדות ומדיניות חינוך ותקשורת.",
+      "tags": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence",
+        "אי־צדק אפיסטמי",
+        "מידע מטעה",
+        "אוריינות מידע",
+        "קשב",
+        "אמון במומחים"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/dahan-internet-national-security-democracy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "dahan-internet-national-security-democracy.html",
+      "usedBy": [
+        "dahan-internet-national-security-democracy.html"
+      ],
+      "cardTitleHe": "האינטרנט, הצנזורה וביטחון המדינה בישראל של שנות התשעים",
+      "authorsHe": "מייקל (מייק) דהאן",
+      "visualDescriptionHe": "מעבדת מחשבים בברמטי שבהודו בשנת 2006, להמחשת תשתיות מחשוב מהתקופה המוקדמת של האינטרנט הציבורי",
+      "semanticDescriptionHe": "מייקל דהאן בחן כיצד האינטרנט הרחיב דיון ציבורי בענייני ביטחון בישראל בשנות התשעים. מקרי פרסום ופעילות אזרחית שימשו אותו לניתוח המתח בין חופש הביטוי לתרבות של סודיות. הוא ראה ברשת זרז לשינויים חברתיים רחבים יותר.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "חופש הביטוי",
+        "צנזורה",
+        "ביטחון לאומי",
+        "אינטרנט",
+        "שנות התשעים"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photograph cropped and resized from the credited source.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "Fredericknoronha",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Baramati,_Maharashtra,_India._Computers_in_a_lab_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/amit-ingroup-leaders-national-identity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "amit-ingroup-leaders-national-identity.html",
+      "usedBy": [
+        "amit-ingroup-leaders-national-identity.html"
+      ],
+      "cardTitleHe": "כשהמנהיג שלנו נתפס כמייצג את האומה: הטיה בזהות פוליטית",
+      "authorsHe": "עדי עמית, עידו לויתן, שרי מנצר, איתן ונז׳יק, יובל כרמל, טל מורן",
+      "visualDescriptionHe": "המחשה מאוירת של קהל ומנהיג באולם מפגש פוליטי, להמחשת הקשר בין מנהיגות לזהות קבוצתית",
+      "semanticDescriptionHe": "שלושה ניסויים בישראל ובארצות הברית מצאו קישור חזק יותר בין האומה למנהיגי המחנה הפוליטי של המשתתפים. הממצא מרחיב את הדיון בזהות לאומית גם לדמויות מנהיגים, וממחיש כיצד השתייכות משותפת יכולה להיתפס דרך גבולות מחנאיים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "זהות לאומית",
+        "השלכת קבוצת פנים",
+        "מנהיגות",
+        "קיטוב",
+        "זיכרון"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/brenner-miodownik-city-immigration-participation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "brenner-miodownik-city-immigration-participation.html",
+      "usedBy": [
+        "brenner-miodownik-city-immigration-participation.html"
+      ],
+      "cardTitleHe": "השתתפות עירונית ועמדות כלפי מהגרים: הכלה וקיטוב בשלוש ערים",
+      "authorsHe": "נעם ברנר, דן מיודובניק",
+      "visualDescriptionHe": "אנשים יושבים לצד תעלת לנדוור בברלין, להמחשת החיים המשותפים במרחב העירוני",
+      "semanticDescriptionHe": "סקרים בברלין, בברצלונה ובפריז מצביעים על קשר בין מעורבות בפוליטיקה העירונית לעמדות חיוביות כלפי מהגרים, לצד חיזוק הבדלים הקשורים לזהות. נעם ברנר ודן מיודובניק מראים שהעיר יכולה להיות זירה של שייכות מכלילה ושל קיטוב בעת ובעונה אחת. המשמעות לרשויות מקומיות היא הצורך להתחשב בהבדלי זהות בתוך תהליכי השתתפות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "הגירה",
+        "השתתפות עירונית",
+        "זהות לאומית",
+        "ברלין",
+        "ברצלונה",
+        "פריז"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photograph cropped and resized from the credited source.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "Joe Mabel",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Berlin_-_people_sitting_by_the_Landswehrkanal_in_Kreuzberg_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/almog-bar-nonprofit-policy-israel.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "almog-bar-nonprofit-policy-israel.html",
+      "usedBy": [
+        "almog-bar-nonprofit-policy-israel.html"
+      ],
+      "cardTitleHe": "שותפות בין הממשלה לעמותות: דיאלוג בלי חיזוק מספק של עצמאות אזרחית",
+      "authorsHe": "מיכל אלמוג־בר",
+      "visualDescriptionHe": "המחשה מאוירת של מפגש בין מתנדבת לנציג ציבור בכניסה למרכז קהילתי",
+      "semanticDescriptionHe": "מיכל אלמוג־בר מנתחת יוזמות מדיניות כלפי המגזר ללא כוונת רווח בישראל מאז שנת 2000. היוזמות יצרו דיאלוג ועבודה משותפת עם ארגונים מרכזיים, אך לא חיזקו את החברה האזרחית כמרחב ציבורי חלופי. המאמר מבחין בין שיתוף פעולה לבין עצמאות אזרחית.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "חברה אזרחית",
+        "עמותות",
+        "שותפות ממשלתית",
+        "מדיניות",
+        "מרחב ציבורי"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/perez-sacks-israel-civil-society-religion.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "perez-sacks-israel-civil-society-religion.html",
+      "usedBy": [
+        "perez-sacks-israel-civil-society-religion.html"
+      ],
+      "cardTitleHe": "דת בחברה האזרחית: יונתן זקס על קהילה, ברית ומדינת ישראל",
+      "authorsHe": "נחשון פרז",
+      "visualDescriptionHe": "המחשה מאוירת של שכנים דתיים וחילונים מכינים יחד מפגש בחצר קהילתית",
+      "semanticDescriptionHe": "נחשון פרז בוחן את הגותו של יונתן זקס על ישראל דרך רעיונות של קהילה וברית. הניתוח מתמקד בסיפור הלאומי, בחיזוק החברה האזרחית ובמקומה של הדת. במרכזו ביקורת על קשרי דת וכוח שלטוני.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "יונתן זקס",
+        "קהילתנות",
+        "ברית",
+        "דת ומדינה",
+        "חברה אזרחית"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/kaplan-friendship-national-identity.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "kaplan-friendship-national-identity.html",
+      "usedBy": [
+        "kaplan-friendship-national-identity.html"
+      ],
+      "cardTitleHe": "חברות, אחווה וזהות לאומית: הרגש הפוליטי שמחבר בין זרים",
+      "authorsHe": "דני קפלן",
+      "visualDescriptionHe": "שחקני שחמט בפארק כיכר וושינגטון בניו יורק, להמחשת קשרים חברתיים במרחב הציבורי",
+      "semanticDescriptionHe": "דני קפלן מציע לבחון חברות כרגש פוליטי המסייע להסביר זהות לאומית. הוא מחבר בין חברות אזרחית, אחווה גברית ורשתות התאגדות. הניתוח מעלה שאלות על השתייכות ועל גבולות הסולידריות.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "חברות אזרחית",
+        "אחווה",
+        "לאומיות",
+        "מגדר",
+        "סולידריות"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photograph cropped and resized from the credited source.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "David Brossard",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chess_players_in_Washington_Square_Park.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "file": "html_qa/rein-bornstein-jewish-christian-friendship-spain.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "rein-bornstein-jewish-christian-friendship-spain.html",
+      "usedBy": [
+        "rein-bornstein-jewish-christian-friendship-spain.html"
+      ],
+      "cardTitleHe": "ידידות יהודית־נוצרית בספרד של פרנקו: מאבק אזרחי באנטישמיות",
+      "authorsHe": "רענן ריין, פבלו בורנשטיין",
+      "visualDescriptionHe": "חזית בית הכנסת במדריד בצילום משנת 2006, להמחשת נוכחות הקהילה היהודית בעיר",
+      "semanticDescriptionHe": "רענן ריין ופבלו בורנשטיין מנתחים את פעילות אגודת הידידות היהודית־נוצרית שהוקמה במדריד ב־1961. האגודה פעלה נגד תכנים אנטי־יהודיים בספרי לימוד ונגד מסורות של עלילות דם, בתמיכת גורמים בכנסייה. המחברים מציבים פעילות זו בתוך הדיון בתרומת החברה האזרחית להכנת המעבר לדמוקרטיה בספרד.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism",
+        "ספרד",
+        "אנטישמיות",
+        "פרנקו",
+        "חברה אזרחית",
+        "דיאלוג בין־דתי"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "Reviewed at 800x600. Illustrative image, not evidence from the study; photograph cropped and resized from the credited source. Commons date and author fields are transposed; attribution uses the named photographer and uploader Olevy.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "Olivier Lévy (Olevy)",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Synagogue_de_Madrid.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "file": "html_qa/tirosh-weightism-womens-exclusion.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "tirosh-weightism-womens-exclusion.html",
+      "usedBy": [
+        "tirosh-weightism-womens-exclusion.html"
+      ],
+      "cardTitleHe": "הפליה בשל משקל והדרת נשים: מאבק על כבוד הגוף במרחב הציבורי",
+      "authorsHe": "יופי תירוש",
+      "visualDescriptionHe": "המחשה מאוירת של נשים בעלות מבני גוף שונים בתחבורה ציבורית, להמחשת נוכחות ושוויון במרחב משותף",
+      "semanticDescriptionHe": "יופי תירוש משווה בין הפליה בשל משקל בצפון הגלובלי לבין הפרדה מגדרית מטעמי דת בישראל. היא מזהה דפוסים של האשמת הגוף, צמצום נוכחותו והצגת ריסונו כאינטרס קולקטיבי. ההשוואה מזמינה לבחון שפה של בחירה ואחריות אישית לצד שאלות של כבוד, שוויון וכוח.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "הפליה בשל משקל",
+        "הדרת נשים",
+        "הפרדה מגדרית",
+        "כבוד האדם",
+        "התאמות דתיות"
+      ],
+      "reuseGuidance": "New image obtained for this paper only; must not be reused for future new papers.",
+      "qualityNotes": "New generated editorial illustration; fictional people and scene, not evidence from the study. Reviewed for visible text and logos and cropped to 800x600.",
+      "createdDate": "2026-10-28",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
     }
   ],
   "topicGraphics": [
