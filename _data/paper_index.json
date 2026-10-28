@@ -1,8 +1,290 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2052,
+  "paperCount": 2062,
   "papers": [
+    {
+      "slug": "peled-self-organization-democratic-institutions",
+      "file": "peled-self-organization-democratic-institutions.html",
+      "permalink": "/peled-self-organization-democratic-institutions.html",
+      "sortKey": 202610290010,
+      "titleHe": "התארגנות עצמית אינה מבטיחה דמוקרטיה",
+      "paperTitle": "The new sciences, self‐organization and democracy",
+      "authorsCardHe": "אלון פלד",
+      "sourceAuthors": [
+        "Alon Peled"
+      ],
+      "journal": "Democratization 7(2), 19–35 (2000)",
+      "dateText": "יוני 2000",
+      "doiUrl": "https://doi.org/10.1080/13510340008403658",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/peled-self-organization-democratic-institutions.jpg",
+        "altHe": "המחשה מאוירת של תושבים המכינים מפגש קהילתי בחצר, להמחשת אחריות לפעולה דמוקרטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "אלון פלד מבקר את הניסיון להסיק מתאוריות מדעיות על התארגנות עצמית תמיכה הכרחית בדמוקרטיה ליברלית. הוא טוען שסדר המתהווה מעצמו אינו תלוי בדמוקרטיה ואינו מוביל אליה בהכרח. מבחינה ציבורית, הסכנה היא החלפת האחריות האנושית להגנת מוסדות דמוקרטיים באמונה שתהליכים טבעיים יבטיחו את קיומם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kaplan-nuriye-democracy-schooling-turkey",
+      "file": "kaplan-nuriye-democracy-schooling-turkey.html",
+      "permalink": "/kaplan-nuriye-democracy-schooling-turkey.html",
+      "sortKey": 202610290009,
+      "titleHe": "לדבר דמוקרטיה בבית הספר: שפה, סמכות וחיי יום־יום בטורקיה",
+      "paperTitle": "Nuriye's dilemma: Turkish lessons of democracy and the gendered state",
+      "authorsCardHe": "סם קפלן",
+      "sourceAuthors": [
+        "Sam Kaplan"
+      ],
+      "journal": "American Ethnologist 30(3), 401–417 (2003)",
+      "dateText": "אוגוסט 2003",
+      "doiUrl": "https://doi.org/10.1525/ae.2003.30.3.401",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kaplan-nuriye-democracy-schooling-turkey.jpg",
+        "altHe": "המחשה מאוירת של הורה, תלמיד ומורה בפתח בית ספר בעיירה טורקית בדיונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "סם קפלן בוחן כיצד תלמידים והוריהם בעיירה בדרום טורקיה משתמשים במושג דמוקרטיה כדי להבין את חייהם ואת מעמדם. באמצעות רעיון משחקי השפה הוא מצביע על קשרים לא־חד־משמעיים בין שיח פוליטי לפרקטיקות חינוכיות. הניתוח מדגיש שהמובן המעשי של דמוקרטיה נוצר גם במפגש בין שפה רשמית, היררכיה והבדלים בין דורות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shechtman-education-democracy-school-climate",
+      "file": "shechtman-education-democracy-school-climate.html",
+      "permalink": "/shechtman-education-democracy-school-climate.html",
+      "sortKey": 202610290008,
+      "titleHe": "חינוך לדמוקרטיה בחטיבת הביניים: ערכים, אקלים כיתה וביקורת על בית הספר",
+      "paperTitle": "Education for Democracy",
+      "authorsCardHe": "ציפורה שכטמן",
+      "sourceAuthors": [
+        "Zipora Shechtman"
+      ],
+      "journal": "Youth & Society 25(1), 126–139 (1993)",
+      "dateText": "ספטמבר 1993",
+      "doiUrl": "https://doi.org/10.1177/0044118x93025001008",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shechtman-education-democracy-school-climate.jpg",
+        "altHe": "המחשה מאוירת של תלמידים ומורה בשיחה כיתתית, להמחשת חינוך לדמוקרטיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "ציפורה שכטמן בחנה תוכנית חינוכית המשלבת מטרות דמוקרטיות ופסיכו־חברתיות בקרב 600 תלמידי חטיבת ביניים. בהשוואה לפני ההתערבות ואחריה נמצאו התחזקות של ערכים דמוקרטיים ושיפור באקלים הכיתה, לצד ירידה בעמדות חיוביות כלפי בית הספר. הממצאים מדגישים שהערכת חינוך דמוקרטי דורשת הבחנה בין ערכים, יחסים ושביעות רצון מהמוסד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gordon-arendt-social-change-democracies",
+      "file": "gordon-arendt-social-change-democracies.html",
+      "permalink": "/gordon-arendt-social-change-democracies.html",
+      "sortKey": 202610290007,
+      "titleHe": "חירות ושינוי חברתי בדמוקרטיות בעקבות חנה ארנדט",
+      "paperTitle": "Arendt and social change in democracies",
+      "authorsCardHe": "ניב גורדון",
+      "sourceAuthors": [
+        "Neve Gordon"
+      ],
+      "journal": "Critical Review of International Social and Political Philosophy 4(2), 85–111 (2001)",
+      "dateText": "2001",
+      "doiUrl": "https://doi.org/10.1080/13698230108403351",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gordon-arendt-social-change-democracies.jpg",
+        "altHe": "המחשה מאוירת של אזרחים בשיחה בכיכר ציבורית לעת ערב, להמחשת יכולת פעולה משותפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "ניב גורדון נעזר בחנה ארנדט כדי לבחון כיצד שליטה חברתית מתקיימת בתוך דמוקרטיות וכיצד אפשר להתנגד לה. הוא קושר בין הגדרת החירות, תפיסת הכוח והאפשרות לפעולה פוליטית. הניתוח מציב את חוסר האונים והאדישות כבעיות של המבנה החברתי והמוסדי, ומבקש לזהות דרכים להעמקת הדמוקרטיה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ezrahi-technology-civil-epistemology-democracy",
+      "file": "ezrahi-technology-civil-epistemology-democracy.html",
+      "permalink": "/ezrahi-technology-civil-epistemology-democracy.html",
+      "sortKey": 202610290006,
+      "titleHe": "לראות את השלטון: טכנולוגיה והידע האזרחי בדמוקרטיה",
+      "paperTitle": "Technology and the civil epistemology of democracy",
+      "authorsCardHe": "ירון אזרחי",
+      "sourceAuthors": [
+        "Yaron Ezrahi"
+      ],
+      "journal": "Inquiry 35(3-4), 363–376 (1992)",
+      "dateText": "1992",
+      "doiUrl": "https://doi.org/10.1080/00201749208602299",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ezrahi-technology-civil-epistemology-democracy.jpg",
+        "altHe": "המחשה מאוירת של נציג ציבור, צלם ואזרחים המתבוננים בפעולה ציבורית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "ירון אזרחי מציע את המושג אפיסטמולוגיה אזרחית לתיאור ההנחות המאפשרות לאזרחים לדעת מה השלטון עושה ולדרוש ממנו דין וחשבון. הוא קושר בין הדגש הדמוקרטי על נראות, הטכנולוגיה כדגם של פעולה הניתנת לצפייה, ותפקידי הפוליטיקאים, העיתונאים והציבור. כך מתברר שהפיקוח הדמוקרטי נשען גם על תפיסה משותפת של עובדות ועדות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "stopler-natality-policy-womens-equality",
+      "file": "stopler-natality-policy-womens-equality.html",
+      "permalink": "/stopler-natality-policy-womens-equality.html",
+      "sortKey": 202610290005,
+      "titleHe": "מדיניות ילודה ושוויון נשים בחברה רב־תרבותית",
+      "paperTitle": "A Feminist Perspective on Natality Policies in Multicultural Societies",
+      "authorsCardHe": "גילה שטופלר",
+      "sourceAuthors": [
+        "Gila Stopler"
+      ],
+      "journal": "Law & Ethics of Human Rights 2(1), 1–40 (2008)",
+      "dateText": "2008",
+      "doiUrl": "https://doi.org/10.2202/1938-2545.1020",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/stopler-natality-policy-womens-equality.jpg",
+        "altHe": "המחשה מאוירת של נשים בשיחה בספרייה קהילתית, להמחשת אוטונומיה ושוויון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "גילה שטופלר מבחינה בין מדיניות ילודה שנועדה לשנות את הרכב האוכלוסייה לבין מדיניות המכוונת לשוויון נשים. באמצעות דיון בחברה החרדית בישראל היא בוחנת את המתח בין בחירה, שייכות תרבותית והגנה על נשים. טענתה בדבר חובת המדינה לפעול כפופה לדרישה שאמצעי המדיניות עצמם יכבדו זכויות אדם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cohn-non-statutory-executive-powers",
+      "file": "cohn-non-statutory-executive-powers.html",
+      "permalink": "/cohn-non-statutory-executive-powers.html",
+      "sortKey": 202610290004,
+      "titleHe": "סמכויות ממשלה ללא חוק מפורש: בין צורך מעשי לעקרון החוקיות",
+      "paperTitle": "Medieval Chains, Invisible Inks: On Non-Statutory Powers of the Executive",
+      "authorsCardHe": "מרגית כהן",
+      "sourceAuthors": [
+        "Margit Cohn"
+      ],
+      "journal": "Oxford Journal of Legal Studies 25(1), 97–122 (2005)",
+      "dateText": "1 במרץ 2005",
+      "doiUrl": "https://doi.org/10.1093/ojls/gqi005",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/cohn-non-statutory-executive-powers.jpg",
+        "altHe": "המחשה מאוירת של צוות ממשלתי המתלבט בחדר חירום לצד ספרי משפט ומסמכים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "מרגית כהן בוחנת כיצד המשפט האנגלי מצדיק ומגביל פעולות של הרשות המבצעת שאינן נשענות על הסמכה בחוק. היא מצביעה על פערים בסמכויות הכתר ההיסטוריות, בהשוואת המדינה לאדם פרטי ובביקורת השיפוטית. הצעתה היא לפתח מסגרת שמבינה את תפקידי הממשלה ובה בעת נותנת משקל למגבלות הכוח הציבורי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "peleg-winter-constitutional-implementation",
+      "file": "peleg-winter-constitutional-implementation.html",
+      "permalink": "/peleg-winter-constitutional-implementation.html",
+      "sortKey": 202610290003,
+      "titleHe": "יישום חוקתי: כללי הכרעה צריכים לשמר גם את חלוקת הכוח",
+      "paperTitle": "Constitutional implementation",
+      "authorsCardHe": "בצלאל פלג, אייל וינטר",
+      "sourceAuthors": [
+        "Bezalel Peleg",
+        "Eyal Winter"
+      ],
+      "journal": "Review of Economic Design 7(2), 187–204 (2002)",
+      "dateText": "ספטמבר 2002",
+      "doiUrl": "https://doi.org/10.1007/s100580200074",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/peleg-winter-constitutional-implementation.jpg",
+        "altHe": "מושבי אולם הדיונים של הפרלמנט הסקוטי, להמחשת כללי הכרעה וחלוקת סמכויות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "בצלאל פלג ואייל וינטר מראים שהשגת תוצאה חברתית רצויה בשיווי משקל אינה מספיקה לתכנון מנגנון הכרעה. המנגנון עלול להעניק לקבוצות כוח החורג מן המסגרת החוקתית, גם אם תוצאותיו הצפויות נראות תקינות. המאמר מפתח תנאים מתמטיים המחברים בין יישום כללי בחירה לבין שמירת סמכויותיהם של יחידים וקואליציות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "brender-drazen-electoral-fiscal-policy-fragile-democracies",
+      "file": "brender-drazen-electoral-fiscal-policy-fragile-democracies.html",
+      "permalink": "/brender-drazen-electoral-fiscal-policy-fragile-democracies.html",
+      "sortKey": 202610290002,
+      "titleHe": "תקציבי בחירות בדמוקרטיות צעירות: בין תמריץ אלקטורלי ליציבות המשטר",
+      "paperTitle": "Electoral Fiscal Policy in New, Old, and Fragile Democracies",
+      "authorsCardHe": "עדי ברנדר, אלן דרייזן",
+      "sourceAuthors": [
+        "Adi Brender",
+        "Allan Drazen"
+      ],
+      "journal": "Comparative Economic Studies 49(3), 446–466 (2007)",
+      "dateText": "22 באוגוסט 2007",
+      "doiUrl": "https://doi.org/10.1057/palgrave.ces.8100213",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/brender-drazen-electoral-fiscal-policy-fragile-democracies.jpg",
+        "altHe": "אולם הדאל, הבית התחתון של הפרלמנט האירי, להמחשת מוסדות נבחרים ומדיניות ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "עדי ברנדר ואלן דרייזן סוקרים ממצאים שלפיהם התרחבות הגירעון בשנת בחירות מאפיינת בעיקר דמוקרטיות חדשות. בה בעת, הם אינם מוצאים שבוחריהן מתגמלים הגדלת גירעונות. הפער מוביל להשערה שהוצאות בתקופות בחירות עשויות לשרת גם מאמץ לבסס אמון במשטר דמוקרטי שברירי, לצד שאלות על מידע, אחריותיות וניהול תקציב.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bassok-dotan-countermajoritarian-public-support",
+      "file": "bassok-dotan-countermajoritarian-public-support.html",
+      "permalink": "/bassok-dotan-countermajoritarian-public-support.html",
+      "sortKey": 202610290001,
+      "titleHe": "אמון מתמשך בבית המשפט כמענה לקושי האנטי־רובני",
+      "paperTitle": "Solving the countermajoritarian difficulty?",
+      "authorsCardHe": "אור בסוק, יואב דותן",
+      "sourceAuthors": [
+        "Or Bassok",
+        "Yoav Dotan"
+      ],
+      "journal": "International Journal of Constitutional Law 11(1), 13–33 (2013)",
+      "dateText": "7 בינואר 2013",
+      "doiUrl": "https://doi.org/10.1093/icon/mos047",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/bassok-dotan-countermajoritarian-public-support.jpg",
+        "altHe": "בניין בית המשפט העליון של ארצות הברית בוושינגטון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "summaryHe": "אור בסוק ויואב דותן מבחינים בין התנגדות לפסק דין לבין תמיכה בסמכותו של בית המשפט לפסול חוקים. לטענתם, קבלה ציבורית מתמשכת של ביקורת שיפוטית עשויה להצדיק הכרעות החורגות מעמדת הרוב ברגע מסוים. ההצעה פותרת חלק מקושי הרוב, אך מותירה פתוחות שאלות על אחריותיות ועל צדקת ההכרעה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "goldfarb-cohen-dishon-digital-perspective-taking",
       "file": "goldfarb-cohen-dishon-digital-perspective-taking.html",
