@@ -1,8 +1,288 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2062,
+  "paperCount": 2072,
   "papers": [
+    {
+      "slug": "peleg-peters-storcken-constitutional-implementation",
+      "file": "peleg-peters-storcken-constitutional-implementation.html",
+      "permalink": "/peleg-peters-storcken-constitutional-implementation.html",
+      "sortKey": 202610300010,
+      "titleHe": "יישום כללי הכרעה בלי לשנות את כוחן של קבוצות",
+      "paperTitle": "Constitutional implementation of social choice correspondences",
+      "authorsCardHe": "בצלאל פלג, האנס פיטרס, טון סטורקן",
+      "sourceAuthors": [
+        "Bezalel Peleg",
+        "Hans Peters",
+        "Ton Storcken"
+      ],
+      "journal": "International Journal of Game Theory 33(3), 381–396 (2005)",
+      "dateText": "ספטמבר 2005",
+      "doiUrl": "https://doi.org/10.1007/s001820400179",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/peleg-peters-storcken-constitutional-implementation.jpg",
+        "altHe": "המחשה מאוירת של אספה אזרחית וקבוצות משתתפים באולם, להמחשת חלוקת כוח בהכרעה משותפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "פלג, פיטרס וסטורקן מגדירים יישום חוקתי המחייב גם תוצאות מתאימות וגם שימור כוחן של קבוצות. מנגנון שמפיק החלטות רצויות עלול בכל זאת לשנות מי מסוגל לכפות תוצאה. לכן בחינת הליך הכרעה צריכה לכלול את חלוקת הכוח שהוא יוצר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "slonim-states-interests-constitutional-convention",
+      "file": "slonim-states-interests-constitutional-convention.html",
+      "permalink": "/slonim-states-interests-constitutional-convention.html",
+      "sortKey": 202610300009,
+      "titleHe": "השפעת המדינות על חוקת ארצות הברית מעבר לפשרת הסנאט",
+      "paperTitle": "Securing States' Interests at the 1787 Constitutional Convention: A Reassessment",
+      "authorsCardHe": "שלמה סלונים",
+      "sourceAuthors": [
+        "Shlomo Slonim"
+      ],
+      "journal": "Studies in American Political Development 14(1), 1–19 (2000)",
+      "dateText": "אפריל 2000",
+      "doiUrl": "https://doi.org/10.1017/s0898588x00002984",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/slonim-states-interests-constitutional-convention.jpg",
+        "altHe": "תצלום מודרני של חדר האספה באינדפנדנס הול בפילדלפיה, שבו התכנסה ועידת החוקה ב־1787",
+        "fitness": "high"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "שלמה סלונים מראה שהדאגה לאינטרסים של המדינות עיצבה כמה מרכיבי יסוד בחוקה האמריקאית. השפעתה חרגה משוויון הייצוג בסנאט והגיעה לסמכויות, למינויים ולבחירת הנשיא.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dahan-kalev-cultural-rights-bodily-autonomy",
+      "file": "dahan-kalev-cultural-rights-bodily-autonomy.html",
+      "permalink": "/dahan-kalev-cultural-rights-bodily-autonomy.html",
+      "sortKey": 202610300008,
+      "titleHe": "זכויות תרבותיות, שלמות הגוף וקולן של נשים בתוך הקהילה",
+      "paperTitle": "Cultural Rights or Human Rights: The Case of Female Genital Mutilation",
+      "authorsCardHe": "הנרייט דהאן־כלב",
+      "sourceAuthors": [
+        "Henriette Dahan Kalev"
+      ],
+      "journal": "Sex Roles 51(5–6), 339–348 (2004)",
+      "dateText": "ספטמבר 2004",
+      "doiUrl": "https://doi.org/10.1023/b:sers.0000046617.71083.a6",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dahan-kalev-cultural-rights-bodily-autonomy.jpg",
+        "altHe": "המחשה מאוירת של נשים מקיימות דיון קהילתי על קולן ועל זכותן להשתתף בהחלטות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "הנרייט דהאן־כלב בוחנת את המתח בין הגנה על תרבות להגנה על נשים באמצעות הדיון בהשחתת איברי מין נשיים. מסקנתה מדגישה תמיכה בזכותן של מתנגדות מתוך הקהילה להשמיע את קולן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "barilan-brusa-human-rights-bioethics",
+      "file": "barilan-brusa-human-rights-bioethics.html",
+      "permalink": "/barilan-brusa-human-rights-bioethics.html",
+      "sortKey": 202610300007,
+      "titleHe": "זכויות אדם בביואתיקה: בין רצון חופשי לצרכים בסיסיים",
+      "paperTitle": "Human rights and bioethics",
+      "authorsCardHe": "מיכאל בר־אילן, מרגריטה ברוסה",
+      "sourceAuthors": [
+        "Y. Michael Barilan",
+        "Margherita Brusa"
+      ],
+      "journal": "Journal of Medical Ethics 34(5), 379–383 (2008)",
+      "dateText": "מאי 2008",
+      "doiUrl": "https://doi.org/10.1136/jme.2007.020859",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/barilan-brusa-human-rights-bioethics.jpg",
+        "altHe": "המחשה מאוירת של שיחה בגובה העיניים בין מטופל לרופאה על צרכים ובחירה בטיפול",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "מיכאל בר־אילן ומרגריטה ברוסה מציבים את האדם הפגיע במרכז הדיון הביואתי. הם בוחנים את המתח בין רצון חופשי, פרטיות, כבוד האדם והגנה על צרכים בסיסיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "forman-rabinovici-gender-mainstreaming-iraqi-constitution",
+      "file": "forman-rabinovici-gender-mainstreaming-iraqi-constitution.html",
+      "permalink": "/forman-rabinovici-gender-mainstreaming-iraqi-constitution.html",
+      "sortKey": 202610300006,
+      "titleHe": "הטמעת חשיבה מגדרית בכתיבת חוקת עיראק",
+      "paperTitle": "Gender Mainstreaming as a Universal Tool for Constitution Writing: The Case of Iraq",
+      "authorsCardHe": "עליזה פורמן־רבינוביץ׳",
+      "sourceAuthors": [
+        "Aliza Forman-Rabinovici"
+      ],
+      "journal": "Social Politics: International Studies in Gender, State & Society 28(4), 1073–1094 (2021)",
+      "dateText": "חורף 2021; פורסם מקוון במאי 2020",
+      "doiUrl": "https://doi.org/10.1093/sp/jxaa007",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/forman-rabinovici-gender-mainstreaming-iraqi-constitution.jpg",
+        "altHe": "המחשה מאוירת ובדיונית של נשים נושאות דברים לפני אספה באולם ציבורי בעיראק, בהקשר של כתיבת חוקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "עליזה פורמן־רבינוביץ׳ בוחנת שילוב נקודת מבט מגדרית בכתיבת חוקת עיראק. מסגרת הבדיקה קושרת שוויון, הצטלבות הבדלים חברתיים והקשר פוליטי מקומי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "agassi-experts-democracy-rationality",
+      "file": "agassi-experts-democracy-rationality.html",
+      "permalink": "/agassi-experts-democracy-rationality.html",
+      "sortKey": 202610300005,
+      "titleHe": "מומחים בדמוקרטיה וגבולות השאיפה לרציונליות",
+      "paperTitle": "Experts within Democracy: The Turner Version",
+      "authorsCardHe": "יוסף אגסי",
+      "sourceAuthors": [
+        "Joseph Agassi"
+      ],
+      "journal": "Philosophy of the Social Sciences 45(3), 370–384 (2015)",
+      "dateText": "יוני 2015; פורסם מקוון בספטמבר 2014",
+      "doiUrl": "https://doi.org/10.1177/0048393114550807",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/agassi-experts-democracy-rationality.jpg",
+        "altHe": "המחשה מאוירת של מומחית ותושבים בשיחה ציבורית סביב דגם של נהר וסביבתו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "יוסף אגסי בוחן את הגנתו של סטיבן טרנר על תפקיד המומחים. הוא מבחין בין שיפור השימוש בידע לבין דרישות רציונליות שהדמוקרטיה אינה תמיד יכולה למלא.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "parchev-political-agency-radical-democracy",
+      "file": "parchev-political-agency-radical-democracy.html",
+      "permalink": "/parchev-political-agency-radical-democracy.html",
+      "sortKey": 202610300004,
+      "titleHe": "חירות פוליטית ותפיסת העצמי בדמוקרטיה רדיקלית",
+      "paperTitle": "The Political Agent and Radical Democracy",
+      "authorsCardHe": "עופר פרצ׳ב",
+      "sourceAuthors": [
+        "Ofer Parchev"
+      ],
+      "journal": "The European Legacy 13(7), 837–850 (2008)",
+      "dateText": "דצמבר 2008",
+      "doiUrl": "https://doi.org/10.1080/10848770802503881",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/parchev-political-agency-radical-democracy.jpg",
+        "altHe": "המחשה מאוירת של שיחה אזרחית בחצר ציבורית, העוסקת במרחב הדיבור והפעולה הפוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "עופר פרצ׳ב טוען שתפיסות מצמצמות של העצמי עלולות להגביל את החירות שהדמוקרטיה הליברלית מבקשת להבטיח. הוא מציע מפגש בין ביקורת המודרניות לפוסט־סטרוקטורליזם כדי להרחיב את מרחב הפעולה הפוליטי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "otmazgin-taiwan-democracy-cultural-soft-power",
+      "file": "otmazgin-taiwan-democracy-cultural-soft-power.html",
+      "permalink": "/otmazgin-taiwan-democracy-cultural-soft-power.html",
+      "sortKey": 202610300003,
+      "titleHe": "דמוקרטיה ותרבות כעוצמה רכה של טאיוואן",
+      "paperTitle": "A Taiwanese Soft Power? Contesting Visions of Democracy and Culture",
+      "authorsCardHe": "נסים אוטמזגין",
+      "sourceAuthors": [
+        "Nissim Otmazgin"
+      ],
+      "journal": "International Journal of Taiwan Studies 6(2), 241–260",
+      "dateText": "פורסם מקוון בדצמבר 2022",
+      "doiUrl": "https://doi.org/10.1163/24688800-20221285",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/otmazgin-taiwan-democracy-cultural-soft-power.jpg",
+        "altHe": "כיכר החירות בטאיפיי ואתר ההנצחה לצ׳יאנג קאי־שק, במבט מן התיאטרון הלאומי בשנת 2009",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "נסים אוטמזגין בוחן כיצד בכירים בטאיוואן מבקשים להשתמש בדמוקרטיה ובתרבות לקידום מעמדה הבינלאומי. ראיונותיו מצביעים על מגבלות מוסדיות ומושגיות ועל מחלוקות בנוגע לשימוש במשאבים אלה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "rausser-zusman-public-policy-constitutional-rules",
+      "file": "rausser-zusman-public-policy-constitutional-rules.html",
+      "permalink": "/rausser-zusman-public-policy-constitutional-rules.html",
+      "sortKey": 202610300002,
+      "titleHe": "כללי הכרעה ציבוריים מעצבים את האיזון בין אינטרסים",
+      "paperTitle": "Public Policy and Constitutional Prescription",
+      "authorsCardHe": "גורדון ראוסר, פנחס זוסמן",
+      "sourceAuthors": [
+        "Gordon C. Rausser",
+        "Pinhas Zusman"
+      ],
+      "journal": "American Journal of Agricultural Economics 74(2), 247–257 (1992)",
+      "dateText": "מאי 1992",
+      "doiUrl": "https://doi.org/10.2307/1242479",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/rausser-zusman-public-policy-constitutional-rules.jpg",
+        "altHe": "המחשה מאוירת של חקלאים ויועצת מדיניות בוחנים מפה לצד שדות, בהקשר של אינטרסים והכרעות ציבוריות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "גורדון ראוסר ופנחס זוסמן מבחינים בין הסבר מדיניות קיימת לבין עיצוב הכללים המייצרים אותה. המסגרת שלהם מציבה את כללי הבחירה הקולקטיבית במרכז האיזון בין אינטרס ציבורי לאינטרסים מיוחדים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "zusman-cooperative-collective-choice-rules",
+      "file": "zusman-cooperative-collective-choice-rules.html",
+      "permalink": "/zusman-cooperative-collective-choice-rules.html",
+      "sortKey": 202610300001,
+      "titleHe": "בחירת כללי הכרעה בקואופרטיב תחת אי־ודאות",
+      "paperTitle": "Constitutional selection of collective-choice rules in a cooperative enterprise",
+      "authorsCardHe": "פנחס זוסמן",
+      "sourceAuthors": [
+        "Pinhas Zusman"
+      ],
+      "journal": "Journal of Economic Behavior & Organization 17(3), 353–362 (1992)",
+      "dateText": "מאי 1992",
+      "doiUrl": "https://doi.org/10.1016/s0167-2681(95)90013-6",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/zusman-cooperative-collective-choice-rules.jpg",
+        "altHe": "המחשה מאוירת של חברי קואופרטיב מקיימים דיון במחסן תוצרת על כללי הכרעה משותפים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "summaryHe": "פנחס זוסמן מנתח תקנון קואופרטיבי כחוזה ארוך טווח. בחירת כללי ההכרעה מבקשת לצמצם יחד עלויות מיקוח וסיכונים לחברים שאינם יודעים מה יהיה מצבם בעתיד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "peled-self-organization-democratic-institutions",
       "file": "peled-self-organization-democratic-institutions.html",

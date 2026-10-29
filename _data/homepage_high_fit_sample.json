@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "sampleSize": 6,
-  "seed": "2026-10-29-homepage-high-fit",
+  "seed": "2026-10-30-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 1015,
+  "fullTextHighFitPaperCount": 1016,
   "paperSlugs": [
     "democracy_authoritarianism_threat_exclusionism_gaza_summary_he",
     "democracy_holocaust_memorial_day_affective_polarization_summary_he",
-    "democracy_religious_institutions_electoral_support_israel_summary_he",
+    "democracy_politicians_theories_of_voting_behavior_summary_he",
     "democracy_green_policy_backlash_voting_summary_he",
     "democracy_eyes_have_they_but_they_see_not_israeli_election_laws_freedom_of_expression_and_the_need_for_transparent_spe_summary_he",
-    "democracy_minds_of_peace_conflict_resolution_ground_up_summary_he"
+    "democracy_brazil_jewish_diaspora_racial_democracy_summary_he"
   ]
 }
