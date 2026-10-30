@@ -1,8 +1,290 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2072,
+  "paperCount": 2082,
   "papers": [
+    {
+      "slug": "levy-sznaider-holocaust-cosmopolitan-human-rights",
+      "file": "levy-sznaider-holocaust-cosmopolitan-human-rights.html",
+      "permalink": "/levy-sznaider-holocaust-cosmopolitan-human-rights.html",
+      "sortKey": 202610310010,
+      "titleHe": "זיכרון השואה והתגבשותה של אחריות לזכויות אדם",
+      "paperTitle": "The institutionalization of cosmopolitan morality: the Holocaust and human rights",
+      "authorsCardHe": "דניאל לוי; נתן שניידר",
+      "sourceAuthors": [
+        "Daniel Levy",
+        "Natan Sznaider"
+      ],
+      "journal": "Journal of Human Rights, 3(2), 143–157",
+      "dateText": "יוני 2004",
+      "doiUrl": "https://doi.org/10.1080/1475483042000210685",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/levy-sznaider-holocaust-cosmopolitan-human-rights.jpg",
+        "altHe": "מעבר בין גושי הבטון באנדרטה לזכר יהודי אירופה שנרצחו בברלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "זיכרון השואה מסייע להפוך זכויות אוניברסליות למחויבות ציבורית. לוי ושניידר מדגישים את תפקידן של חוויות היסטוריות בזהות מוסרית חוצת גבולות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "abramowitz-prison-mental-health-rights",
+      "file": "abramowitz-prison-mental-health-rights.html",
+      "permalink": "/abramowitz-prison-mental-health-rights.html",
+      "sortKey": 202610310009,
+      "titleHe": "זכויות אדם וטיפול נפשי בבתי סוהר",
+      "paperTitle": "Prisons and the human rights of persons with mental disorders",
+      "authorsCardHe": "משה צבי אברמוביץ",
+      "sourceAuthors": [
+        "Moshe Z. Abramowitz"
+      ],
+      "journal": "Current Opinion in Psychiatry, 18(5), 525–529",
+      "dateText": "ספטמבר 2005",
+      "doiUrl": "https://doi.org/10.1097/01.yco.0000179491.77638.26",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/abramowitz-prison-mental-health-rights.jpg",
+        "altHe": "המחשה מאוירת של מפגש מכבד בין איש צוות טיפולי למטופל במרפאה בתוך מוסד כליאה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "שלילת חירות אינה מבטלת את הזכות לטיפול נפשי ראוי. הסקירה מחברת בין תנאי כליאה, נגישות לטיפול והמשכיות בקהילה, ובוחנת פערים בין הכרה בזכויות למימושן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mehozay-action-based-human-rights",
+      "file": "mehozay-action-based-human-rights.html",
+      "permalink": "/mehozay-action-based-human-rights.html",
+      "sortKey": 202610310008,
+      "titleHe": "זכויות אדם כפעולה פוליטית: תפקידה של הקרימינולוגיה הביקורתית",
+      "paperTitle": "Critical Criminology as a Guardian of Human Rights: An Action-Based Model",
+      "authorsCardHe": "יואב מחוזאי",
+      "sourceAuthors": [
+        "Yoav Mehozay"
+      ],
+      "journal": "Critical Criminology, 26(2), 149–168",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1007/s10612-018-9392-0",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mehozay-action-based-human-rights.jpg",
+        "altHe": "המחשה מאוירת של תושבים וחוקרים מקיימים שיחה במעגל בחצר קהילתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "יואב מחוזאי מציע לקדם זכויות באמצעות פעולה של האנשים הנפגעים עצמם. קרימינולוגיה ביקורתית יכולה לסייע בחשיפת פגיעה מבנית וביצירת מרחב להשתתפות, מעבר לסעד משפטי פרטני.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "moshe-financial-press-constitutional-patriotism",
+      "file": "moshe-financial-press-constitutional-patriotism.html",
+      "permalink": "/moshe-financial-press-constitutional-patriotism.html",
+      "sortKey": 202610310007,
+      "titleHe": "פטריוטיות לאומית ואזרחית בשיח של העיתונות הכלכלית",
+      "paperTitle": "Between national and constitutional patriotism: framing financial patriotic discourse",
+      "authorsCardHe": "מירה משה",
+      "sourceAuthors": [
+        "Mira Moshe"
+      ],
+      "journal": "Journalism Studies, 5(4), 497–509",
+      "dateText": "נובמבר 2004",
+      "doiUrl": "https://doi.org/10.1080/14616700412331296428",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/moshe-financial-press-constitutional-patriotism.jpg",
+        "altHe": "המחשה מאוירת של שני עורכים משוחחים על עיתון בחדר מערכת מול נוף עירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "העיתונות הכלכלית אינה בהכרח מחליפה הזדהות לאומית בנאמנות לעקרונות חוקתיים. ניתוח השיח בגלובס מצא משקל דומה לפטריוטיות לאומית ולאזרחית, ומערער על ציפייה כזאת מן האליטה הכלכלית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "salzberger-voigt-constitutional-delegation",
+      "file": "salzberger-voigt-constitutional-delegation.html",
+      "permalink": "/salzberger-voigt-constitutional-delegation.html",
+      "sortKey": 202610310006,
+      "titleHe": "האצלת סמכויות בזמן עיצוב חוקה: ישראל ומרכז אירופה ומזרחה",
+      "paperTitle": "On Constitutional Processes and the Delegation of Power, with Special Emphasis on Israel and Central and Eastern Europe",
+      "authorsCardHe": "עלי זלצברגר; סטפן פויגט",
+      "sourceAuthors": [
+        "Eli M. Salzberger",
+        "Stefan Voigt"
+      ],
+      "journal": "Theoretical Inquiries in Law, 3(1)",
+      "dateText": "2002",
+      "doiUrl": "https://doi.org/10.2202/1565-3404.1049",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/salzberger-voigt-constitutional-delegation.jpg",
+        "altHe": "חזית ארמון תון בפראג, מקום מושבו של בית הנבחרים הצ׳כי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "נבחרי ציבור מחליטים גם אם להאציל סמכות וגם למי להעבירה. זלצברגר ופויגט מחברים בין בחירות חוקתיות להעברת סמכויות שוטפת, ובוחנים את המפגש ביניהן בתשע מדינות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "frenkel-lurie-human-rights-workplace",
+      "file": "frenkel-lurie-human-rights-workplace.html",
+      "permalink": "/frenkel-lurie-human-rights-workplace.html",
+      "sortKey": 202610310005,
+      "titleHe": "זכויות אדם ביחסי עבודה: שכר שווה, פרטיות וקניין",
+      "paperTitle": "Human rights in industrial relations – the Israeli approach",
+      "authorsCardHe": "דוד פרנקל; יותם לוריא",
+      "sourceAuthors": [
+        "David A. Frenkel",
+        "Yotam Lurie"
+      ],
+      "journal": "Business Ethics: A European Review, 12(1), 33–40",
+      "dateText": "ינואר 2003",
+      "doiUrl": "https://doi.org/10.1111/1467-8608.00303",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/frenkel-lurie-human-rights-workplace.jpg",
+        "altHe": "המחשה מאוירת של עובדים ומנהלת משוחחים סביב שולחן בסדנת טקסטיל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "זכויות עובדים מקבלות משמעות קונקרטית בתוך יחסי העבודה. פרנקל ולוריא בוחנים כיצד חוקי מגן בישראל מגנים עליהן, ומדוע הכרה משפטית עדיין עשויה להיתקל בלחצי השוק.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "krumbein-china-taiwan-human-rights-strategies",
+      "file": "krumbein-china-taiwan-human-rights-strategies.html",
+      "permalink": "/krumbein-china-taiwan-human-rights-strategies.html",
+      "sortKey": 202610310004,
+      "titleHe": "סין וטאיוואן: שתי אסטרטגיות בינלאומיות של זכויות אדם",
+      "paperTitle": "Two Chinese tales of human rights– Mainland China’s and Taiwan’s external human rights strategies",
+      "authorsCardHe": "פרדריק קרומביין",
+      "sourceAuthors": [
+        "Frédéric Krumbein"
+      ],
+      "journal": "The International Journal of Human Rights, 26(5), 856–882",
+      "dateText": "2022; פורסם לראשונה ברשת בספטמבר 2021",
+      "doiUrl": "https://doi.org/10.1080/13642987.2021.1978982",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/krumbein-china-taiwan-human-rights-strategies.jpg",
+        "altHe": "בניין היואן השיפוטי בטאיפיי, בצילום משנת 2008",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "סין וטאיוואן משלבות זכויות אדם באסטרטגיות חוץ שונות. המחקר משווה בין מאמץ סיני להדוף ביקורת ולהחליש נורמות בינלאומיות לבין שימוש טאיוואני בהישגים בתחום הזכויות להרחבת קשרים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hashimshony-yaffe-meydani-human-rights-commission",
+      "file": "hashimshony-yaffe-meydani-human-rights-commission.html",
+      "permalink": "/hashimshony-yaffe-meydani-human-rights-commission.html",
+      "sortKey": 202610310003,
+      "titleHe": "המאבק על נציבות זכויות אדם בישראל: מוסדות ותרבות פוליטית",
+      "paperTitle": "The political economy of human rights: the struggle over the establishment of a human rights commission in Israel",
+      "authorsCardHe": "נורית השמשוני-יפה; אסף מידני",
+      "sourceAuthors": [
+        "Nurit Hashimshony-Yaffe",
+        "Assaf Meydani"
+      ],
+      "journal": "Israel Affairs, 20(4), 484–502",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1080/13537121.2014.955654",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/hashimshony-yaffe-meydani-human-rights-commission.jpg",
+        "altHe": "המחשה מאוירת של דיון בין נציגי ציבור ופעילים בחדר ישיבות, ללא ייצוג של אירוע ממשי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "הקמת מוסד לזכויות אדם תלויה גם ביחסי כוח ובתרבות פוליטית. השמשוני־יפה ומידני מנתחים את הניסיונות בישראל בשנים 1999–2004 דרך בחירה ציבורית, משילות, משפטיזציה וחברה אזרחית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "krumbein-han-fei-human-rights",
+      "file": "krumbein-han-fei-human-rights.html",
+      "permalink": "/krumbein-han-fei-human-rights.html",
+      "sortKey": 202610310002,
+      "titleHe": "האן פיי, סמכות המדינה ותפיסת זכויות האדם הסינית",
+      "paperTitle": "Han Fei and conceptions of universal and Chinese human rights",
+      "authorsCardHe": "פרדריק קרומביין",
+      "sourceAuthors": [
+        "Frédéric Krumbein"
+      ],
+      "journal": "Asian Philosophy, 33(2), 145–162",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1080/09552367.2023.2181247",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/krumbein-han-fei-human-rights.jpg",
+        "altHe": "חצר היכל ההרמוניה העליונה בעיר האסורה בבייג׳ינג; צילום הקשר של אדריכלות שלטונית מאוחרת לתקופת האן פיי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "הגותו של האן פיי מסייעת לקרומביין לפרש את הנרטיב הרשמי של זכויות האדם בסין. הדגש על סמכות המדינה ועל החוק ככלי שלטוני מחדד את המתח מול זכויות אזרחיות ופוליטיות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "yefet-egypt-human-rights-council",
+      "file": "yefet-egypt-human-rights-council.html",
+      "permalink": "/yefet-egypt-human-rights-council.html",
+      "sortKey": 202610310001,
+      "titleHe": "מועצת זכויות האדם במצרים: בין אחריותיות לנרמול פגיעה",
+      "paperTitle": "Can national human rights institutions make a difference? Discourse, accountability, and the Egyptian National Council for Human Rights",
+      "authorsCardHe": "בשמת יפת",
+      "sourceAuthors": [
+        "Bosmat Yefet"
+      ],
+      "journal": "Journal of Human Rights, 20(4), 431–448",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1080/14754835.2021.1915119",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/yefet-egypt-human-rights-council.jpg",
+        "altHe": "כיכר תחריר והבניינים שסביבה בקהיר בשעות הבוקר המוקדמות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-31",
+      "summaryHe": "סמכויות רשמיות אינן מבטיחות שמוסד לזכויות אדם יאתגר פגיעה בזכויות. בשמת יפת מראה כיצד ההקשר הפוליטי במצרים הגביל את שיח המועצה הלאומית ואת תפקידה כמרחב ציבורי לאחר מהפכת 2011.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "peleg-peters-storcken-constitutional-implementation",
       "file": "peleg-peters-storcken-constitutional-implementation.html",
