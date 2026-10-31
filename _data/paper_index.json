@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2082,
+  "paperCount": 2092,
   "papers": [
+    {
+      "slug": "hamilton-older-women-mental-health-human-rights",
+      "file": "hamilton-older-women-mental-health-human-rights.html",
+      "permalink": "/hamilton-older-women-mental-health-human-rights.html",
+      "sortKey": 202611010010,
+      "titleHe": "זכויות נשים מבוגרות: המפגש בין גיל, מגדר ובריאות הנפש",
+      "paperTitle": "Understanding Barriers to the Realization of Human Rights Among Older Women With Mental Health Conditions",
+      "authorsCardHe": "Myra Hamilton; Carmelle Peisah; Kiran Rabheru; ליאת איילון; Hilde Verbeek; Gabriela Stoppe; Carlos de Mendonça Lima",
+      "sourceAuthors": [
+        "Myra Hamilton",
+        "Carmelle Peisah",
+        "Kiran Rabheru",
+        "Liat Ayalon",
+        "Hilde Verbeek",
+        "Gabriela Stoppe",
+        "Carlos de Mendonça Lima"
+      ],
+      "journal": "The American Journal of Geriatric Psychiatry 29(10), 1009–1014",
+      "dateText": "אוקטובר 2021",
+      "doiUrl": "https://doi.org/10.1016/j.jagp.2021.05.024",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hamilton-older-women-mental-health-human-rights.jpg",
+        "altHe": "איור של אישה מבוגרת משתתפת באופן פעיל בשיחה קהילתית על שירותי דיור ורווחה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "נשים מבוגרות המתמודדות עם מצבים נפשיים פוגשות חסמים הנוצרים במפגש בין גיל, מגדר וסטיגמה. המאמר של מיירה המילטון ועמיתיה מראה כיצד פערי שכר, עבודה טיפולית ללא שכר, דיור לא בטוח ואפליה עלולים להצטבר ולהחריף זה את זה. הגנה על זכויות מחייבת לכן תמיכה כלכלית וחברתית לצד שירותי בריאות נגישים, ושיתוף הנשים עצמן בהחלטות המשפיעות על חייהן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "eliaz-spiegler-competing-political-narratives",
+      "file": "eliaz-spiegler-competing-political-narratives.html",
+      "permalink": "/eliaz-spiegler-competing-political-narratives.html",
+      "sortKey": 202611010009,
+      "titleHe": "נרטיבים פוליטיים מתחרים: אותם נתונים, סיפורי סיבה שונים",
+      "paperTitle": "A Model of Competing Narratives",
+      "authorsCardHe": "כפיר אליאז; רני שפיגלר",
+      "sourceAuthors": [
+        "Kfir Eliaz",
+        "Ran Spiegler"
+      ],
+      "journal": "American Economic Review 110(12), 3786–3816",
+      "dateText": "דצמבר 2020",
+      "doiUrl": "https://doi.org/10.1257/aer.20191099",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/eliaz-spiegler-competing-political-narratives.jpg",
+        "altHe": "איור של שתי קבוצות בספרייה המסדרות דגמי אונייה, מפעל ועובדים כדי להמחיש סיפורים סיבתיים שונים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "מחלוקת פוליטית יכולה להתפתח גם כאשר אנשים מסכימים על הנתונים ועל התוצאה הרצויה. כפיר אליאז ורני שפיגלר מראים כיצד נרטיבים מסדרים את אותם משתנים בקשרים סיבתיים שונים, ומעניקים למדיניות מסוימת הבטחה לעתיד טוב יותר. במודל שלהם, הסיפור חייב להתיישב עם המציאות הקיימת, אך הוא עדיין עלול להטעות בנוגע לתוצאות של שינוי מדיניות. התחרות בין סיפורים כאלה מסייעת להסביר את קיומן של עמדות מנוגדות לאורך זמן.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shlomov-milson-rights-nonsovereignty-promises",
+      "file": "shlomov-milson-rights-nonsovereignty-promises.html",
+      "permalink": "/shlomov-milson-rights-nonsovereignty-promises.html",
+      "sortKey": 202611010008,
+      "titleHe": "זכויות ללא הגנת המדינה: ארנדט, אי־ריבונות וכוחן של הבטחות",
+      "paperTitle": "Rights and the human condition of non-sovereignty: Rethinking Arendt’s critique of human rights with Rancière and Balibar",
+      "authorsCardHe": "עמרי שלומוב מילסון",
+      "sourceAuthors": [
+        "Omri Shlomov Milson"
+      ],
+      "journal": "Philosophy &amp; Social Criticism 51(8), 1238–1267",
+      "dateText": "אוקטובר 2025; פורסם לראשונה ברשת בנובמבר 2023",
+      "doiUrl": "https://doi.org/10.1177/01914537231211037",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shlomov-milson-rights-nonsovereignty-promises.jpg",
+        "altHe": "איור של קבוצת מבוגרים בחצר קהילתית המקשיבים זה לזה בשיחה על מחויבות ופעולה משותפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "זכויות אדם מעוררות קושי חריף כאשר דווקא מי שזקוקים להן אינם יכולים להיעזר במדינה שתגן עליהם. עמרי שלומוב מילסון בוחן מחדש את ביקורתה של חנה ארנדט דרך תגובותיהם של ז׳אק רנסייר ואטיין בליבר. הוא קושר את הדיון בזכויות לתפיסת אי־הריבונות האנושית ולכוחן של הבטחות, כדי לחשוב על אפשרויות פעולה של פליטים, חסרי אזרחות ואנשים הנתונים לכיבוש.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kahn-nisser-eu-china-trade-human-rights",
+      "file": "kahn-nisser-eu-china-trade-human-rights.html",
+      "permalink": "/kahn-nisser-eu-china-trade-human-rights.html",
+      "sortKey": 202611010007,
+      "titleHe": "סחר עם האיחוד האירופי וסין: קשרים כלכליים ומדיניות זכויות אדם",
+      "paperTitle": "The EU, China, trade dependence and human rights",
+      "authorsCardHe": "שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Cambridge Review of International Affairs 35(4), 545–565",
+      "dateText": "יולי 2022; פורסם לראשונה ברשת ביולי 2019",
+      "doiUrl": "https://doi.org/10.1080/09557571.2019.1641067",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-eu-china-trade-human-rights.jpg",
+        "altHe": "מנופים ומכולות במסוף נמל רוטרדם, בהמחשה לתנועת סחורות אל השוק האירופי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "האם עלייתה הכלכלית של סין מצמצמת את השפעת האיחוד האירופי בתחום זכויות האדם? שרה קאהן־ניסר בוחנת את הקשר בין יצוא לשני היעדים לבין ההגנה על זכויות במדינות שעבורן זמינים נתונים. היא מוצאת שהקשר בין מדיניות המדינות למדיניות האיחוד תלוי בהיקף היצוא אליו, ושיצוא לסין אינו מערער את הדפוס. הממצאים מצביעים על חשיבותם של קשרים כלכליים להבנת התפשטות מדיניות זכויות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "maoz-mccauley-trust-contact-human-rights",
+      "file": "maoz-mccauley-trust-contact-human-rights.html",
+      "permalink": "/maoz-mccauley-trust-contact-human-rights.html",
+      "sortKey": 202611010006,
+      "titleHe": "אמון ומגע בין קבוצות: התמיכה בפגיעה בזכויות פלסטינים",
+      "paperTitle": "Explaining Support for Violating Out-Group Human Rights in Conflict: Attitudes Toward Principles of Human Rights, Trust in the Out-Group, and Intergroup Contact",
+      "authorsCardHe": "יפעת מעוז; קלארק מקאולי",
+      "sourceAuthors": [
+        "Ifat Maoz",
+        "Clark McCauley"
+      ],
+      "journal": "Journal of Applied Social Psychology 41(4), 891–905",
+      "dateText": "אפריל 2011",
+      "doiUrl": "https://doi.org/10.1111/j.1559-1816.2011.00740.x",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/maoz-mccauley-trust-contact-human-rights.jpg",
+        "altHe": "איור של מבוגרים מקשיבים זה לזה בשיחה משותפת בגינה עירונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "תמיכה בזכויות אדם כעיקרון והאמון בקבוצה מסוימת הם שני רכיבים נפרדים בהסבר התמיכה בפגיעה בזכויותיה. יפעת מעוז וקלארק מקאולי מצאו ששניהם תורמים להסבר עמדות יהודים־ישראלים כלפי פגיעה בזכויות פלסטינים. מגע עם פלסטינים נקשר לאמון רב יותר, ורמת דתיות גבוהה יותר נקשרה לאמון נמוך יותר במודל שנבדק. הממצאים מחברים בין עמדות עקרוניות ליחסים בין קבוצות בתוך סכסוך.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "stopler-religion-state-human-rights-models",
+      "file": "stopler-religion-state-human-rights-models.html",
+      "permalink": "/stopler-religion-state-human-rights-models.html",
+      "sortKey": 202611010005,
+      "titleHe": "דת ומדינה: שלושה דגמים והשלכותיהם על זכויות אדם",
+      "paperTitle": "Religion–State Relations and Their Effects on Human Rights: Nationalization, Authorization, and Privatization",
+      "authorsCardHe": "גילה שטופלר",
+      "sourceAuthors": [
+        "Gila Stopler"
+      ],
+      "journal": "Oxford Journal of Law and Religion 6(3), 474–497",
+      "dateText": "אוקטובר 2017",
+      "doiUrl": "https://doi.org/10.1093/ojlr/rwx048",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/stopler-religion-state-human-rights-models.jpg",
+        "altHe": "מבט אל מבנים וכיפות בעיר העתיקה בירושלים, בהקשר לדיון במעמד הציבורי של הדת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "התחזקות הדת במרחב הציבורי כוללת גם שאיפה לסמכות רבה יותר כלפי חברי הקהילה הדתית. גילה שטופלר מציעה שלושה דגמים להבנת יחסי דת ומדינה: הלאמת הדת, הסמכת הדת והפרטת הדת. ההשוואה בין מדינות ליברליות ולא־ליברליות ממקדת את הדיון בחלוקת הסמכות ובהשלכותיה על זכויות. כך מתברר מדוע מעמדה הציבורי של הדת וההגנה על הפרט בתוך הקהילה הן שאלות הקשורות זו בזו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "feinberg-counterterrorism-kadi-checks-balances",
+      "file": "feinberg-counterterrorism-kadi-checks-balances.html",
+      "permalink": "/feinberg-counterterrorism-kadi-checks-balances.html",
+      "sortKey": 202611010004,
+      "titleHe": "מאבק בטרור וזכויות אדם: פרשת קאדי כאיזון בין מוסדות",
+      "paperTitle": "International counterterrorism – national security and human rights: conflicts of norms or checks and balances?",
+      "authorsCardHe": "מרים פיינברג",
+      "sourceAuthors": [
+        "Myriam Feinberg"
+      ],
+      "journal": "The International Journal of Human Rights 19(4), 388–407",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1080/13642987.2015.1027053",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/feinberg-counterterrorism-kadi-checks-balances.jpg",
+        "altHe": "אולם הדיונים הגדול של בית הדין לצדק של האיחוד האירופי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "היחס בין ביטחון לזכויות אדם מתואר לעיתים כמאבק שבו חיזוק האחד מחליש את האחר. מרים פיינברג בוחנת את התיאור הזה דרך סנקציות נגד טרור ופרשת קאדי בבית הדין לצדק של האיחוד האירופי. לטענתה, המחלוקת יכולה להיות מובנת גם כעימות מוסדי היוצר איזונים ובלמים ומשפר את הוגנות הסנקציות. נורמות הביטחון והזכויות צריכות יחד להנחות את המאבק בטרור.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "sheleff-extradition-death-penalty-human-rights",
+      "file": "sheleff-extradition-death-penalty-human-rights.html",
+      "permalink": "/sheleff-extradition-death-penalty-human-rights.html",
+      "sortKey": 202611010003,
+      "titleHe": "הסגרה ועונש מוות: זכויות אדם כגבול לשיתוף פעולה בין מדינות",
+      "paperTitle": "The “Penological Exception” to Extradition: On Ultimate Penalties, Human Rights and International Relations",
+      "authorsCardHe": "ליאון שלף",
+      "sourceAuthors": [
+        "Leon Sheleff"
+      ],
+      "journal": "Israel Law Review 27(1–2), 310–338",
+      "dateText": "1993",
+      "doiUrl": "https://doi.org/10.1017/s0021223700016976",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/sheleff-extradition-death-penalty-human-rights.jpg",
+        "altHe": "מבנה בית הדין האירופי לזכויות אדם בשטרסבורג, בהמחשה לשיפוט בתחום זכויות האדם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "בקשת הסגרה מעוררת גם את שאלת העונש שעלול להיות מוטל על האדם במדינה המבקשת. ליאון שלף בוחן את הנכונות הגוברת של בתי משפט בתקופה שבה כתב להתחשב בסכנת עונש מוות. הוא מציג זאת כהתפתחות ביחסים הבין־לאומיים, שבה זכויות אדם משפיעות על היענות לבקשות רשמיות. ההיגיון המשפטי הנדון עשוי לפתוח דיון גם בהשלכות ענישה נוספות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kahn-nisser-shaming-faming-human-rights",
+      "file": "kahn-nisser-shaming-faming-human-rights.html",
+      "permalink": "/kahn-nisser-shaming-faming-human-rights.html",
+      "sortKey": 202611010002,
+      "titleHe": "ביקורת לצד הכרה בהתקדמות: דיווח בין־לאומי וזכויות אדם",
+      "paperTitle": "For better or worse: Shaming, faming, and human rights abuse",
+      "authorsCardHe": "שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Journal of Peace Research 58(3), 479–493",
+      "dateText": "מאי 2021; פורסם לראשונה ברשת ביולי 2020",
+      "doiUrl": "https://doi.org/10.1177/0022343320905346",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-shaming-faming-human-rights.jpg",
+        "altHe": "איור של נציגות בדיון מוסדי הבוחנות יחד שתי תיקיות המייצגות ביקורת והכרה בהתקדמות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "האם הכרה בהתקדמות מחלישה ביקורת על הפרות זכויות, או יכולה לחזק אותה? שרה קאהן־ניסר מוצאת שבדוחות של גופי אמנות האו״ם, השילוב בין ביקורת לשבח נקשר לרמות גבוהות יותר של הגנת זכויות בהמשך. ביקורת לבדה ושבח לבדו נקשרים כל אחד לדפוס שלילי. ההסבר המוצע מדגיש למידה: דיווח משולב ומפורט יכול לסייע למקבלי החלטות להבין כיצד לקיים התחייבויות ולשפר את ההגנה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kahn-nisser-shaming-incentives-reforms",
+      "file": "kahn-nisser-shaming-incentives-reforms.html",
+      "permalink": "/kahn-nisser-shaming-incentives-reforms.html",
+      "sortKey": 202611010001,
+      "titleHe": "ביקורת ותמריצים יחד: רפורמות בזכויות אדם במדיניות השכנות האירופית",
+      "paperTitle": "Constructive Criticism: Shaming, Incentives, and Human Rights Reforms",
+      "authorsCardHe": "שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Politics &amp; Policy 46(1), 58–83",
+      "dateText": "פברואר 2018",
+      "doiUrl": "https://doi.org/10.1111/polp.12240",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-shaming-incentives-reforms.jpg",
+        "altHe": "אולם המליאה של הפרלמנט האירופי בבריסל, בהמחשה להקשר המוסדי האירופי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-01",
+      "summaryHe": "ביוש של מדינות המפרות זכויות אדם אינו מוביל תמיד לרפורמה. שרה קאהן־ניסר בוחנת את ההשערה שביקורת פומבית ותמריצים מחזקים זה את השפעתו של זה. באמצעות נתונים מקודדים על 15 מדינות באירופה, באסיה ובאפריקה במסגרת מדיניות השכנות האירופית, היא מוצאת תמיכה בתרומתו של השילוב לשינוי מדיניות. הממצאים ממקדים את הדיון בתנאים שבהם לחץ בין־לאומי יכול לקדם רפורמות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "levy-sznaider-holocaust-cosmopolitan-human-rights",
       "file": "levy-sznaider-holocaust-cosmopolitan-human-rights.html",
