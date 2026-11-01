@@ -1,8 +1,301 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2092,
+  "paperCount": 2102,
   "papers": [
+    {
+      "slug": "yadlin-marciano-chatgpt-political-futures",
+      "file": "yadlin-marciano-chatgpt-political-futures.html",
+      "permalink": "/yadlin-marciano-chatgpt-political-futures.html",
+      "sortKey": 202611020010,
+      "titleHe": "פחד מהמכונה ופחד מהאדם: הסיקור העיתונאי של העתיד הפוליטי עם ChatGPT",
+      "paperTitle": "Hallucinating a political future: Global press coverage of human and post-human abilities in ChatGPT applications",
+      "authorsCardHe": "איה ידלין; אבי מרציאנו",
+      "sourceAuthors": [
+        "Aya Yadlin‐Segal",
+        "Avi Marciano"
+      ],
+      "journal": "Media, Culture & Society 46(8), 1580–1598",
+      "dateText": "נובמבר 2024; פרסום מקוון ביוני 2024",
+      "doiUrl": "https://doi.org/10.1177/01634437241259892",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/yadlin-marciano-chatgpt-political-futures.jpg",
+        "altHe": "חדר המערכת של ניו יורק טיימס בתצלום משנת 2008, כדימוי לזירה העיתונאית הנבחנת במאמר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "איה ידלין ואבי מרציאנו בוחנים את הסיקור העולמי של ChatGPT בימי שיא של תשומת לב תקשורתית בשנת קיומו המלאה הראשונה. בניתוח נרטיבי איכותני הם מזהים שני מוקדי פחד: המכונה ויכולותיה, והאדם שעלול לנצל אותה. הנרטיבים קושרים את העתיד הפוליטי לניצול, לתעמולה ולהעמקת שסעים קיימים. המחקר מציב את העיתונות כגורם המארגן את הדיון המוסרי בטכנולוגיה, ומעלה שאלות על תרומתה להבנה אזרחית מושכלת שלה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hisherik-gindi-arab-teachers-political-socialization",
+      "file": "hisherik-gindi-arab-teachers-political-socialization.html",
+      "permalink": "/hisherik-gindi-arab-teachers-political-socialization.html",
+      "sortKey": 202611020009,
+      "titleHe": "מורים ערבים בבתי ספר יהודיים: מודעות פוליטית שנבנית במפגש היומיומי",
+      "paperTitle": "‘We were not even trained to have an opinion’: Political socialization of Arabs in Israel",
+      "authorsCardHe": "מיכל הישריק; שחר גינדי",
+      "sourceAuthors": [
+        "Michal Hisherik",
+        "Shahar Gindi"
+      ],
+      "journal": "Citizenship Teaching & Learning 17(2), 249–271",
+      "dateText": "יוני 2022",
+      "doiUrl": "https://doi.org/10.1386/ctl_00093_1",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/hisherik-gindi-arab-teachers-political-socialization.jpg",
+        "altHe": "איור של מורה ערבייה מובילה שיחה עם עמיתיה בחדר מורים בבית ספר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "מורים ערבים העובדים בבתי ספר יהודיים תיארו ילדות המאופיינת בשתיקה פוליטית, לצד התפתחות של מודעות פוליטית במהלך העבודה. מיכל הישריק ושחר גינדי מראים כיצד המפגש היומיומי עם קבוצת הרוב חושף מנגנונים חברתיים ויחסי כוח, וכיצד השיח בין מורים יהודים לערבים עשוי להתרחב עם הזמן. ההבחנה בין מודעות לבין נכונות לפעול חשובה להבנת השתתפותם של אזרחי מיעוט בחברה מקוטבת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "tsfati-selective-exposure-polarization-israel",
+      "file": "tsfati-selective-exposure-polarization-israel.html",
+      "permalink": "/tsfati-selective-exposure-polarization-israel.html",
+      "sortKey": 202611020008,
+      "titleHe": "חדשות תואמות־עמדה ותפיסת דעת הקהל: מסלול אפשרי לקיטוב בישראל",
+      "paperTitle": "Testing the Selective Exposure–Polarization Hypothesis in Israel Using Three Indicators of Ideological News Exposure and Testing for Mediating Mechanisms",
+      "authorsCardHe": "יריב צפתי; עדי צ׳וטינר",
+      "sourceAuthors": [
+        "Yariv Tsfati",
+        "Adi Chotiner"
+      ],
+      "journal": "International Journal of Public Opinion Research 28(1), 1–24",
+      "dateText": "מרץ 2016; פרסום מקוון בפברואר 2015",
+      "doiUrl": "https://doi.org/10.1093/ijpor/edv001",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/tsfati-selective-exposure-polarization-israel.jpg",
+        "altHe": "איור של שכנים המשוחחים בפתחי דירות שבכל אחת מהן מוצג משדר חדשות אחר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "יריב צפתי ועדי צ׳וטינר בדקו את הקשר בין צריכת חדשות התואמות את עמדת הקורא לבין קיטוב בקרב משתמשי חדשות בישראל. שלושה מדדי חשיפה, ובהם מקור הגיוס לסקר שאינו נשען על דיווח עצמי, נקשרו לקיטוב. תפיסות בדבר התפלגות הדעות בציבור הופיעו כמנגנון מתווך, ואילו שימוש בטיעוני התקשורת בשיחות לא תיווך בקשר. המחקר מציע שהשפעת סביבת החדשות קשורה גם לאופן שבו אנשים מדמיינים את החברה שסביבם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "sznajder-roniger-political-exile-latin-america",
+      "file": "sznajder-roniger-political-exile-latin-america.html",
+      "permalink": "/sznajder-roniger-political-exile-latin-america.html",
+      "sortKey": 202611020007,
+      "titleHe": "גלות פוליטית באמריקה הלטינית: הדרה שחוצה גבולות",
+      "paperTitle": "Political Exile in Latin America",
+      "authorsCardHe": "מריו שניידר; לואיס רוניגר",
+      "sourceAuthors": [
+        "Mario Sznajder",
+        "Luis Roniger"
+      ],
+      "journal": "Latin American Perspectives 34(4), 7–30",
+      "dateText": "יולי 2007",
+      "doiUrl": "https://doi.org/10.1177/0094582x07302891",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/sznajder-roniger-political-exile-latin-america.jpg",
+        "altHe": "חזית מוזיאון הזיכרון וזכויות האדם בסנטיאגו שבצ׳ילה, דימוי להקשר ההיסטורי של הדרה פוליטית באזור",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "גלות פוליטית היא רכיב מעצב בהיסטוריה הפוליטית של אמריקה הלטינית. מריו שניידר ולואיס רוניגר קושרים אותה למתח בין מבנים חברתיים היררכיים לבין הבטחות להשתתפות פוליטית, וכן למאבקים בין סיעות ולגבולות שנויים במחלוקת. הם מתארים את התרחבותה ממנגנון שפגע באליטות לתופעה המונית ואת היווצרותן של קהילות גולים בעלות השפעה מעבר לגבולות. הרחקה מן המדינה אינה בהכרח סיום ההשתתפות הפוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "bruckner-gradstein-income-ethnic-political-risk",
+      "file": "bruckner-gradstein-income-ethnic-political-risk.html",
+      "permalink": "/bruckner-gradstein-income-ethnic-political-risk.html",
+      "sortKey": 202611020006,
+      "titleHe": "צמיחה אינה מבטיחה יציבות: הכנסה, קיטוב אתני וסיכון פוליטי",
+      "paperTitle": "Income growth, ethnic polarization, and political risk: Evidence from international oil price shocks",
+      "authorsCardHe": "מרקוס ברוקנר; מרק גרדשטיין",
+      "sourceAuthors": [
+        "Markus Brückner",
+        "Mark Gradstein"
+      ],
+      "journal": "Journal of Comparative Economics 43(3), 575–594",
+      "dateText": "אוגוסט 2015",
+      "doiUrl": "https://doi.org/10.1016/j.jce.2014.05.005",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/bruckner-gradstein-income-ethnic-political-risk.jpg",
+        "altHe": "משאבת נפט בנוף פתוח, הממחישה את מקור השינוי הכלכלי המשמש בזיהוי המחקרי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "מרקוס ברוקנר ומרק גרדשטיין בוחנים כיצד גידול בהכנסה הלאומית משפיע על סיכון פוליטי. הם משתמשים בשינויים במחירי הנפט העולמיים, בשקלול חשיפת המדינות ליצוא נטו של נפט, ככלי לזיהוי שינוי בהכנסה. בממוצע נמצא שגידול בהכנסה מפחית סיכון פוליטי, אך ברמות גבוהות של קיטוב אתני הכיוון מתהפך. המשמעות הציבורית היא שאין לראות בשגשוג כלכלי לבדו ערובה ליציבות פוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "allegra-casaglia-rokem-divided-cities",
+      "file": "allegra-casaglia-rokem-divided-cities.html",
+      "permalink": "/allegra-casaglia-rokem-divided-cities.html",
+      "sortKey": 202611020005,
+      "titleHe": "ערים מפוצלות: גבולות השלטון, הגישה להחלטות ותוכן המדיניות",
+      "paperTitle": "The Political Geographies of Urban Polarization: A Critical Review of Research on Divided Cities",
+      "authorsCardHe": "Marco Allegra; Anna Casaglia; יונתן רוקם",
+      "sourceAuthors": [
+        "Marco Allegra",
+        "Anna Casaglia",
+        "Jonathan Rokem"
+      ],
+      "journal": "Geography Compass 6(9), 560–574",
+      "dateText": "ספטמבר 2012",
+      "doiUrl": "https://doi.org/10.1111/j.1749-8198.2012.00506.x",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/allegra-casaglia-rokem-divided-cities.jpg",
+        "altHe": "רחוב בניקוסיה שבקפריסין ובו מחסום הממחיש גבול בתוך המרחב העירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "מרקו אלגרה, אנה קזאליה ויונתן רוקם סוקרים את הספרות על פיצול עירוני ומבקרים הסברים המתמקדים בגורם יחיד או בקומץ ערים המשמשות דגם לכל האחרות. הם מציעים להשוות בין ערים באמצעות שלושה ממדים: מבנה הסמכות, הגישה לקבלת החלטות ותוכן המדיניות. כך שאלת העיר המחולקת נעשית גם שאלה על חלוקת כוח ועל אפשרותם של תושבים להשפיע.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "biletzki-dignity-rights-political-power",
+      "file": "biletzki-dignity-rights-political-power.html",
+      "permalink": "/biletzki-dignity-rights-political-power.html",
+      "sortKey": 202611020004,
+      "titleHe": "כבוד האדם וזכויותיו: האחריות נשארת במוקדי הכוח",
+      "paperTitle": "Inherent Dignity: The Essence of Human Rights (or How to Get from Dignity to Political Power)",
+      "authorsCardHe": "ענת בילצקי",
+      "sourceAuthors": [
+        "Anat Biletzki"
+      ],
+      "journal": "Diogenes 57(4), 21–26",
+      "dateText": "נובמבר 2010",
+      "doiUrl": "https://doi.org/10.1177/0392192111433679",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/biletzki-dignity-rights-political-power.jpg",
+        "altHe": "איור של תושבים ונציגת חברה אזרחית מציגים פנייה לנציגת מוסד ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "ענת בילצקי מבחינה בין כבוד האדם לבין זכויות אדם ורואה בכבוד יסוד לזכויות. היא בוחנת את התרחבות העיסוק בזכויות בתוך החברה האזרחית, לצד אחריותן של מדינות. באמצעות הדיון בבצלם היא מצביעה על מתח: פעילות אזרחית יכולה להציב זכויות במרכז השיח, אך גם להרחיק את המבט ממוקדי הכוח שאחראים למימושן. המשמעות היא הצורך לחבר פעולה אזרחית לאחריות שלטונית ולמתן דין וחשבון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "grodofsky-community-rights-peace-education",
+      "file": "grodofsky-community-rights-peace-education.html",
+      "permalink": "/grodofsky-community-rights-peace-education.html",
+      "sortKey": 202611020003,
+      "titleHe": "קידום זכויות בקהילה כחלק מחינוך לשלום",
+      "paperTitle": "Community-based human rights advocacy practice and peace education",
+      "authorsCardHe": "מירב משה גרודופסקי",
+      "sourceAuthors": [
+        "Merav Moshe Grodofsky"
+      ],
+      "journal": "International Social Work 55(5), 740–753",
+      "dateText": "ספטמבר 2012",
+      "doiUrl": "https://doi.org/10.1177/0020872812448078",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/grodofsky-community-rights-peace-education.jpg",
+        "altHe": "איור של עובדים סוציאליים ותושבים המשתתפים במפגש קהילתי על סביבת המגורים והשירותים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "קידום שלום בין חברות קשור גם לתנאי החיים ולמימוש זכויות בתוכן. מירב משה גרודופסקי בוחנת את המפגש בין סנגור קהילתי לזכויות אדם לבין חינוך לשלום, ומציגה תוכנית הכשרה לעובדים סוציאליים במזרח התיכון. החיבור מציע לראות בעבודה על זכויות בקהילה חלק מהתשתית החברתית ליחסים בין חברות בסכסוך.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "van-boven-partisan-conditional-probability",
+      "file": "van-boven-partisan-conditional-probability.html",
+      "permalink": "/van-boven-partisan-conditional-probability.html",
+      "sortKey": 202611020002,
+      "titleHe": "אותם נתונים, חשיבות שונה: ההטיה הפוליטית בבחירת הסתברויות",
+      "paperTitle": "It depends: Partisan evaluation of conditional probability importance",
+      "authorsCardHe": "Leaf Van Boven; Jairo Ramos; רונית מונטל־רוזנברג; תהילה קוגוט; David K. Sherman; Paul Slovic",
+      "sourceAuthors": [
+        "Leaf Van Boven",
+        "Jairo Ramos",
+        "Ronit Montal-Rosenberg",
+        "Tehila Kogut",
+        "David K. Sherman",
+        "Paul Slovic"
+      ],
+      "journal": "Cognition 188, 51–63",
+      "dateText": "יולי 2019",
+      "doiUrl": "https://doi.org/10.1016/j.cognition.2019.01.020",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/van-boven-partisan-conditional-probability.jpg",
+        "altHe": "איור של חוקרים הממיינים אסימונים לפי צורה וצבע כדי לבחון קבוצות התייחסות שונות",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "ליף ואן בובן ועמיתיו בחנו כיצד אנשים מעריכים נתונים על מדיניות שנועדה לצמצם אירועים נדירים באמצעות הגבלת קטגוריה רחבה של אנשים או כלי נשק. תומכי המדיניות ייחסו חשיבות רבה יותר לשיעור השתייכותם של המעורבים באירוע לקטגוריה, ואילו מתנגדיה הדגישו את הסיכוי לאירוע בתוך הקטגוריה. ההבדל הופיע גם כשהנתונים נמסרו במפורש. אימוץ נקודת מבט של מומחה בלתי מוטה צמצם חלק מהפערים, והמחקר מדגיש שבחינת מדיניות מחייבת לברר גם איזו הסתברות רלוונטית לשאלה הציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dancygier-margalit-immigration-party-manifestos",
+      "file": "dancygier-margalit-immigration-party-manifestos.html",
+      "permalink": "/dancygier-margalit-immigration-party-manifestos.html",
+      "sortKey": 202611020001,
+      "titleHe": "מצעי המפלגות באירופה: התקרבות בעמדות כלפי הגירה לצד החרפת הדיון",
+      "paperTitle": "The Evolution of the Immigration Debate: Evidence from a New Dataset of Party Positions Over the Last Half-Century",
+      "authorsCardHe": "רפאלה דנסיגייר; יותם מרגלית",
+      "sourceAuthors": [
+        "Rafaela Dancygier",
+        "Yotam Margalit"
+      ],
+      "journal": "Comparative Political Studies 53(5), 734–774",
+      "dateText": "אפריל 2020; פרסום מקוון ביולי 2019",
+      "doiUrl": "https://doi.org/10.1177/0010414019858936",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dancygier-margalit-immigration-party-manifestos.jpg",
+        "altHe": "אולם המליאה של בית הנבחרים ההולנדי, בתצלום המתייחס לזירת התחרות המפלגתית באירופה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02",
+      "summaryHe": "רפאלה דנסיגייר ויותם מרגלית בחנו את הדיון בהגירה במצעי מפלגות במערב אירופה לאורך חמישה עשורים. הם מצאו שמפלגות המרכז־שמאל והמרכז־ימין הגבירו את העיסוק בנושא ונעו במידה רבה בכיוונים דומים, בלי התרחבות עקבית של הפער ביניהן. סוגיות כלכליות נותרו מרכזיות, והקשר בין הצלחת מפלגות מתנגדות להגירה לבין שינוי עמדות המרכז היה מוגבל. הממצאים מדגישים את הצורך לבדוק מה מפלגות מציעות בפועל, מעבר לדימוי של עימות בין שני מחנות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "hamilton-older-women-mental-health-human-rights",
       "file": "hamilton-older-women-mental-health-human-rights.html",
