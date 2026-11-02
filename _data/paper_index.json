@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2102,
+  "paperCount": 2112,
   "papers": [
+    {
+      "slug": "ben-eliezer-civil-uncivil-oslo-politics",
+      "file": "ben-eliezer-civil-uncivil-oslo-politics.html",
+      "permalink": "/ben-eliezer-civil-uncivil-oslo-politics.html",
+      "sortKey": 202611030010,
+      "titleHe": "מחברה אזרחית להשפעה פוליטית: הסבר חברתי לקשיי תהליך אוסלו",
+      "paperTitle": "The Civil Society, the Uncivil Society, and the Difficulty Israel Has Making Peace with the Palestinians",
+      "authorsCardHe": "אורי בן־אליעזר",
+      "sourceAuthors": [
+        "Uri Ben-Eliezer"
+      ],
+      "journal": "Journal of Civil Society 11(2), 170–186",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1080/17448689.2015.1045697",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/ben-eliezer-civil-uncivil-oslo-politics.jpg",
+        "altHe": "כיכר רבין ובניין עיריית תל אביב בתצלום משנת 2020, כהמחשה למרחב ציבורי בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "אורי בן־אליעזר מציע להסביר חלק מקשיי תהליך אוסלו באמצעות היחסים בתוך המרחב הציבורי הישראלי ובינו לבין המדינה. הוא מבחין בין פוליטיקה תרבותית לפוליטיקה אינסטרומנטלית, וטוען כי המחנה שהוא מכנה חברה לא־אזרחית הצליח לתרגם זהות קולקטיבית להשפעה מדינתית יותר מן החברה האזרחית. ההסבר מדגיש שהופעת קול ציבורי והשגת כוח פוליטי הם תהליכים שונים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "lomsky-feder-school-memorial-ceremony",
+      "file": "lomsky-feder-school-memorial-ceremony.html",
+      "permalink": "/lomsky-feder-school-memorial-ceremony.html",
+      "sortKey": 202611030009,
+      "titleHe": "טקסי זיכרון בבתי ספר: בין קול לאומי לקולות אזרחיים",
+      "paperTitle": "The memorial ceremony in Israeli schools: between the State and civil society",
+      "authorsCardHe": "עדנה לומסקי-פדר",
+      "sourceAuthors": [
+        "Edna Lomsky-Feder"
+      ],
+      "journal": "British Journal of Sociology of Education 25(3), 291–305",
+      "dateText": "ספטמבר 2004",
+      "doiUrl": "https://doi.org/10.1080/0142569042000216954",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/lomsky-feder-school-memorial-ceremony.jpg",
+        "altHe": "איור של תלמידים ומורה בטקס זיכרון בית־ספרי, לצד נרות ועמדת קריאה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "עדנה לומסקי-פדר מנתחת 50 אתנוגרפיות המבוססות על תצפיות בטקסי זיכרון בבתי ספר בישראל. היא מתארת שדה מגוון המשלב מאפיינים קנוניים עם חידוש והתנגדות. הטקס חושף מתח בין ביטוי לקולות אחרים של החברה האזרחית לבין שילובם בקולקטיב הלאומי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "mitrani-global-civil-international-society",
+      "file": "mitrani-global-civil-international-society.html",
+      "permalink": "/mitrani-global-civil-international-society.html",
+      "sortKey": 202611030008,
+      "titleHe": "חברה אזרחית גלובלית ומערכת המדינות: תחרות או השלמה",
+      "paperTitle": "Global Civil Society and International Society: Compete or Complete?",
+      "authorsCardHe": "מור מיטרני",
+      "sourceAuthors": [
+        "Mor Mitrani"
+      ],
+      "journal": "Alternatives: Global, Local, Political 38(2), 172–188",
+      "dateText": "מאי 2013; פרסום מקוון: אפריל 2013",
+      "doiUrl": "https://doi.org/10.1177/0304375413486333",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mitrani-global-civil-international-society.jpg",
+        "altHe": "משתתפים בכינוס באולם האו״ם בז׳נבה בשנת 2005, כהקשר למערכת הבין־מדינתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "מור מיטרני בוחנת את היחסים בין חברה אזרחית גלובלית לבין המערכת הבין־מדינתית. היא מבחינה בין החלפה, התנגדות ותפקיד מסייע, וטוענת כי התחזקות השחקנים האזרחיים קשורה לניסיונה של החברה הבין־לאומית להתאים כללים ופרקטיקות לגלובליזציה. כוח אזרחי חוצה גבולות נבחן כאן מתוך יחסיו עם המדינות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "orkibi-right-underdog-discourse",
+      "file": "orkibi-right-underdog-discourse.html",
+      "permalink": "/orkibi-right-underdog-discourse.html",
+      "sortKey": 202611030007,
+      "titleHe": "זהות של נרדפים מעמדת כוח: שיח האנדרדוג של הימין בישראל",
+      "paperTitle": "Self-othering to power: vilification, ridicule and moral claims in the Israeli right ‘underdog’ discourse",
+      "authorsCardHe": "איתן אורקיבי",
+      "sourceAuthors": [
+        "Eithan Orkibi"
+      ],
+      "journal": "Journal of Multicultural Discourses 17(2), 158–172",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1080/17447143.2022.2079649",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/orkibi-right-underdog-discourse.jpg",
+        "altHe": "איור של כותב מאמר דעה בחדר עבודה, כהמחשה לזירת הפרשנות הפוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "איתן אורקיבי מנתח מאמרי דעה ופרשנות של אנשי ימין בתקופת המשבר הצבאי בקיץ 2006. הוא מראה כיצד שיח קורבני מציג את השמאל כאליטה מדכאת ואת הימין כתנועה עממית מודרת, גם כאשר כוחו הפוליטי משמעותי. הניתוח מדגיש את תפקיד המסגור בבניית זהות ובהעמקת קיטוב.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gurses-fox-ozturk-turkey-state-faith",
+      "file": "gurses-fox-ozturk-turkey-state-faith.html",
+      "permalink": "/gurses-fox-ozturk-turkey-state-faith.html",
+      "sortKey": 202611030006,
+      "titleHe": "מדינה ודת בטורקיה: חיזוק דתי שמעמיק גם את הקיטוב",
+      "paperTitle": "State and faith: the supply-side theory of religion and the case of Turkey",
+      "authorsCardHe": "מהמט גורסס; ג׳ונתן פוקס; אחמט ארדי אוזטורק",
+      "sourceAuthors": [
+        "Mehmet Gurses",
+        "Jonathan Fox",
+        "Ahmet Erdi Öztürk"
+      ],
+      "journal": "Southeast European and Black Sea Studies 24(3), 617–637",
+      "dateText": "2024; פרסום מקוון: מרץ 2023",
+      "doiUrl": "https://doi.org/10.1080/14683857.2023.2187130",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gurses-fox-ozturk-turkey-state-faith.jpg",
+        "altHe": "מסגד הסולטאן אהמט באיסטנבול בתצלום משנת 2012, כהקשר חזותי לדיון בדת בטורקיה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "מהמט גורסס, ג׳ונתן פוקס ואחמט ארדי אוזטורק בוחנים את יחסי המדינה והדת בטורקיה באמצעות סקרי דעת קהל מהשנים 2010–2020. הם מתארים התלכדות של ציבור דתי סביב AKP ושל ציבור חילוני סביב האופוזיציה. מדיניות המחזקת מונופול דתי עשויה לפעול בכיוונים מנוגדים ולהעמיק קיטוב.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "pasitselska-ukraine-political-talk",
+      "file": "pasitselska-ukraine-political-talk.html",
+      "permalink": "/pasitselska-ukraine-political-talk.html",
+      "sortKey": 202611030005,
+      "titleHe": "שיחה על חדשות סותרות: בירור משותף, קיטוב או הימנעות",
+      "paperTitle": "Logics of Exclusion: How Ukrainian Audiences Renegotiate Propagandistic Narratives in Times of Conflict",
+      "authorsCardHe": "אולגה פסיצלסקיה",
+      "sourceAuthors": [
+        "Olga Pasitselska"
+      ],
+      "journal": "Political Communication 39(4), 475–499",
+      "dateText": "יולי 2022; פרסום מקוון: מרץ 2022",
+      "doiUrl": "https://doi.org/10.1080/10584609.2022.2047846",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/pasitselska-ukraine-political-talk.jpg",
+        "altHe": "איור של קבוצת דיון בדיונית בחדר קהילתי, כהמחשה לפרשנות משותפת של מידע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "אולגה פסיצלסקיה מנתחת קבוצות מיקוד במזרח אוקראינה ומבחינה בין שלושה דפוסי שיחה על מידע פוליטי: חקירה, נרטיב והימנעות. בירור משותף מאפשר דיון, גבולות קשיחים של הסכמה מחזקים קיטוב, והתרחקות צינית משמרת בלבול. הפוטנציאל הדמוקרטי של שיחה תלוי גם באופן שבו המשתתפים בונים משמעות יחד.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "dishon-kafai-connected-civic-gaming",
+      "file": "dishon-kafai-connected-civic-gaming.html",
+      "permalink": "/dishon-kafai-connected-civic-gaming.html",
+      "sortKey": 202611030004,
+      "titleHe": "למידה אזרחית דרך משחקים: לתת לצעירים גם לעצב ולהחליט",
+      "paperTitle": "Connected civic gaming: rethinking the role of video games in civic education",
+      "authorsCardHe": "גדעון דישון; יסמין כפאי",
+      "sourceAuthors": [
+        "Gideon Dishon",
+        "Yasmin B. Kafai"
+      ],
+      "journal": "Interactive Learning Environments 30(6), 999–1010",
+      "dateText": "יולי 2022; פרסום מקוון: דצמבר 2019",
+      "doiUrl": "https://doi.org/10.1080/10494820.2019.1704791",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/dishon-kafai-connected-civic-gaming.jpg",
+        "altHe": "איור של צעירים מעצבים יחד משחק על מרחב קהילתי באמצעות דגם ומחשב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "גדעון דישון ויסמין כפאי מציעים מסגרת של משחקיות אזרחית מקושרת. היא מחברת בין תחומי העניין של צעירים, יצירת משחקי וידאו והשתתפות בקהילות שסביבם. ההצעה מדגישה שילוב במאמץ חינוכי רחב ומתן כוח החלטה לצעירים בתוך המשחקים ועל אודותיהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hayat-lebron-crosscutting-audiences",
+      "file": "hayat-lebron-crosscutting-audiences.html",
+      "permalink": "/hayat-lebron-crosscutting-audiences.html",
+      "sortKey": 202611030003,
+      "titleHe": "הקהל של לברון ג׳יימס כגשר בין ליברלים לשמרנים",
+      "paperTitle": "Can celebrity athletes burst the echo chamber bubble? The case of LeBron James and Lady Gaga",
+      "authorsCardHe": "צחי חייט; יאיר גלילי; טל שמואל-עזרן",
+      "sourceAuthors": [
+        "Tsahi Hayat",
+        "Yair Galily",
+        "Tal Samuel-Azran"
+      ],
+      "journal": "International Review for the Sociology of Sport 55(7), 900–914",
+      "dateText": "נובמבר 2020; פרסום מקוון: יוני 2019",
+      "doiUrl": "https://doi.org/10.1177/1012690219855913",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/hayat-lebron-crosscutting-audiences.jpg",
+        "altHe": "לברון ג׳יימס ואוהדים בתצלום משנת 2015, כהמחשה לקהל סביב ספורטאי מפורסם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "צחי חייט, יאיר גלילי וטל שמואל-עזרן משווים את קהל העוקבים של לברון ג׳יימס לקהלים של ליידי גאגא ו־ESPN. קהלו של ג׳יימס נמצא המגוון ביותר מבחינה פוליטית, ועבור רוב עוקביו השמרנים הוא היה המקור הליברלי היחיד שנמצא בפרופילים שלהם. אהדת ספורט עשויה לפתוח ערוץ לחשיפה החוצה גבולות פוליטיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "tsfati-ideological-news-opinion-climate",
+      "file": "tsfati-ideological-news-opinion-climate.html",
+      "permalink": "/tsfati-ideological-news-opinion-climate.html",
+      "sortKey": 202611030002,
+      "titleHe": "חדשות אידאולוגיות והתמונה שאנו בונים על דעת הקהל",
+      "paperTitle": "Exposure to Ideological News and Perceived Opinion Climate: Testing the Media Effects Component of Spiral-of-Silence in a Fragmented Media Landscape",
+      "authorsCardHe": "יריב צפתי; נטלי ג׳ומיני סטראוד; עדי קוטינר",
+      "sourceAuthors": [
+        "Yariv Tsfati",
+        "Natalie Jomini Stroud",
+        "Adi Chotiner"
+      ],
+      "journal": "The International Journal of Press/Politics 19(1), 3–23",
+      "dateText": "ינואר 2014; פרסום מקוון: אוקטובר 2013",
+      "doiUrl": "https://doi.org/10.1177/1940161213508206",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/tsfati-ideological-news-opinion-climate.jpg",
+        "altHe": "איור של צפייה בחדשות בבית מול מגוון האנשים במרחב הציבורי שמחוץ לחלון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "יריב צפתי, נטלי ג׳ומיני סטראוד ועדי קוטינר מצאו בשני מחקרים קשר בין צריכת חדשות אידאולוגיות לבין תפיסה של דעת הקהל המוטה לכיוון כלי התקשורת. במחקר האמריקאי תפיסה זו תיווכה גם קשר לקיטוב. ריבוי מקורות חדשות אינו מבטיח תמונה משותפת של עמדות הציבור.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "galily-lebron-athlete-activism",
+      "file": "galily-lebron-athlete-activism.html",
+      "permalink": "/galily-lebron-athlete-activism.html",
+      "sortKey": 202611030001,
+      "titleHe": "לברון ג׳יימס והקול הפוליטי של ספורטאים ברשת",
+      "paperTitle": "“Shut up and dribble!”? Athletes activism in the age of twittersphere: The case of LeBron James",
+      "authorsCardHe": "יאיר גלילי",
+      "sourceAuthors": [
+        "Yair Galily"
+      ],
+      "journal": "Technology in Society 58, 101109",
+      "dateText": "אוגוסט 2019",
+      "doiUrl": "https://doi.org/10.1016/j.techsoc.2019.01.002",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/galily-lebron-athlete-activism.jpg",
+        "altHe": "איור של שחקן כדורסל בדיוני משוחח עם תושבים ליד מגרש שכונתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-03",
+      "dateModified": "2026-11-03",
+      "summaryHe": "יאיר גלילי בוחן כיצד האקטיביזם של לברון ג׳יימס חורג ממגרש הכדורסל ומשתלב בשיח הפוליטי. הדיון קושר בין אי־שוויון בספורט, קיטוב והקושי להיחשף לעמדות מנוגדות. מעמדו של ספורטאי מפורסם מציע אפשרות להרחיב את קהל השיחה האזרחית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "yadlin-marciano-chatgpt-political-futures",
       "file": "yadlin-marciano-chatgpt-political-futures.html",
