@@ -1,8 +1,148 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2112,
+  "paperCount": 2117,
   "papers": [
+    {
+      "slug": "payes-jaffa-education-civil-society",
+      "file": "payes-jaffa-education-civil-society.html",
+      "permalink": "/payes-jaffa-education-civil-society.html",
+      "sortKey": 202611040005,
+      "titleHe": "החינוך ביפו: בין שימור הפרדה לאתגר אזרחי",
+      "paperTitle": "Separate education and hegemonic domination: civil society challenges in the Arab-Jewish city of Jaffa",
+      "authorsCardHe": "שני פייס",
+      "sourceAuthors": [
+        "Shany Payes"
+      ],
+      "journal": "Intercultural Education 24(6), 544–558",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1080/14675986.2013.866015",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/payes-jaffa-education-civil-society.jpg",
+        "altHe": "שער בית הספר קולג׳ דה פרר ביפו, כהמחשה למרחב החינוכי בעיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "summaryHe": "שני פייס מנתחת את תפקידה הכפול של מערכת החינוך ביפו. הפרדה, אפליה והיעדר רב-תרבותיות יכולים לשמר שליטה של אליטות; בה בעת, תושבים וארגונים אזרחיים יכולים לפעול דרך החינוך לשינוי היחסים בין הקהילות. המוסד החינוכי הוא אפוא גם זירה למחלוקת על הסדר החברתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "binhas-moskovich-immigrant-organisations-coalition",
+      "file": "binhas-moskovich-immigrant-organisations-coalition.html",
+      "permalink": "/binhas-moskovich-immigrant-organisations-coalition.html",
+      "sortKey": 202611040004,
+      "titleHe": "קואליציה של ארגוני מהגרים בישראל: שירותים משלימים וסולידריות",
+      "paperTitle": "Coalitions and Collaboration among Three Civil Society Immigrant Organisations in Israel",
+      "authorsCardHe": "עדי בינס, יפה מושקוביץ",
+      "sourceAuthors": [
+        "Adi Binhas",
+        "Yaffa Moskovich"
+      ],
+      "journal": "Journal of Organisational Transformation & Social Change 12(3), 194–210",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1080/14779633.2015.1101252",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/binhas-moskovich-immigrant-organisations-coalition.jpg",
+        "altHe": "איור מושגי של צוותי ארגונים המסייעים למשפחות מהגרים ומשתפים פעולה בחצר מרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "summaryHe": "עדי בינס ויפה מושקוביץ בוחנות קואליציה של שלושה ארגוני חברה אזרחית העוסקים בהגירה בישראל. ראיונות אתנוגרפיים וניתוח מסמכים קושרים את שיתוף הפעולה לשירותים משלימים, לתפיסות סוציאליסטיות דומות ולקשרים אישיים. השותפות התפתחה מול מדיניות ממשלתית שהחוקרות מתארות כעוינת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ireni-saban-disaster-civil-society-collaboration",
+      "file": "ireni-saban-disaster-civil-society-collaboration.html",
+      "permalink": "/ireni-saban-disaster-civil-society-collaboration.html",
+      "sortKey": 202611040003,
+      "titleHe": "ניהול אסונות: שותפות בין השירות הציבורי לחברה האזרחית",
+      "paperTitle": "Civil Service and Civil Society Collaboration: A Comparative Analysis of Disaster Management Results in China and the United States",
+      "authorsCardHe": "ליזה אירני-סבן",
+      "sourceAuthors": [
+        "Liza Ireni-Saban"
+      ],
+      "journal": "International Journal of Public Administration 36(5), 320–330",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1080/01900692.2012.757622",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/ireni-saban-disaster-civil-society-collaboration.jpg",
+        "altHe": "מתנדבי אמריקורפס מפנים הריסות בקמרון, לואיזיאנה, בנובמבר 2005 לאחר עונת ההוריקנים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "summaryHe": "ליזה אירני-סבן בוחנת כיצד ניהול אסונות יכול לחזק הדדית את המדינה ואת החברה האזרחית. ההשוואה בין סופות ההוריקן בחוף המפרץ ב-2005 לרעידת האדמה בוונצ׳ואן ב-2008 מדגישה אמון, ייצוג קהילות מודרות ותגובה ציבורית יעילה והוגנת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gidron-nonprofits-participatory-management",
+      "file": "gidron-nonprofits-participatory-management.html",
+      "permalink": "/gidron-nonprofits-participatory-management.html",
+      "sortKey": 202611040002,
+      "titleHe": "ניהול משתף בעמותות: כך מקבלת החברה האזרחית ביטוי ארגוני",
+      "paperTitle": "Promoting civil society in Third Sector organizations through participatory management patterns",
+      "authorsCardHe": "בנימין גדרון",
+      "sourceAuthors": [
+        "Benjamin Gidron"
+      ],
+      "journal": "European Management Journal 28(6), 403–412",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1016/j.emj.2010.06.005",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gidron-nonprofits-participatory-management.jpg",
+        "altHe": "איור של מתנדבים, עובדים ומשתמשי שירות המשתתפים בדיון ובעבודה במרכז קהילתי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "summaryHe": "בנימין גדרון קושר את תרומתן האזרחית של עמותות לדרכי הניהול שלהן. הוא מזהה ארבע מערכות שבהן יכול להתבטא אופיין הייחודי: שירותים, ממשל ארגוני, משתתפים ומשאבים. כדי לתרום לחברה האזרחית, המבנה והניהול צריכים לאפשר השתתפות בפועל.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "filc-civil-society-health-reform-hegemony",
+      "file": "filc-civil-society-health-reform-hegemony.html",
+      "permalink": "/filc-civil-society-health-reform-hegemony.html",
+      "sortKey": 202611040001,
+      "titleHe": "חברה אזרחית ורפורמות בריאות: זירה למאבקי כוח",
+      "paperTitle": "The role of civil society in health care reforms: An arena for hegemonic struggles",
+      "authorsCardHe": "דני פילק",
+      "sourceAuthors": [
+        "Dani Filc"
+      ],
+      "journal": "Social Science & Medicine 123, 168–173",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1016/j.socscimed.2014.07.030",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/filc-civil-society-health-reform-hegemony.jpg",
+        "altHe": "איור מושגי של מטופלת, פעילה קהילתית, רופא ונציגת מינהל בדיון במרפאה ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04",
+      "summaryHe": "דני פילק מציע להבין את החברה האזרחית כזירה למאבקים על הסדר החברתי. באמצעות רפורמת הבריאות בישראל הוא מערער על ההנחה שהיא נפרדת מטבעה מהמדינה וחיובית בהכרח. הגישה מפנה את תשומת הלב ליחסי הכוח שבמסגרתם משתנה מדיניות הבריאות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "ben-eliezer-civil-uncivil-oslo-politics",
       "file": "ben-eliezer-civil-uncivil-oslo-politics.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-03",
+  "lastUpdated": "2026-11-04",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -59484,6 +59484,170 @@
         "פוליטיקה תרבותית",
         "השפעה על מדיניות"
       ]
+    },
+    {
+      "file": "html_qa/filc-civil-society-health-reform-hegemony.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "filc-civil-society-health-reform-hegemony.html",
+      "usedBy": [
+        "filc-civil-society-health-reform-hegemony.html"
+      ],
+      "cardTitleHe": "חברה אזרחית ורפורמות בריאות: זירה למאבקי כוח",
+      "authorsHe": "דני פילק",
+      "visualDescriptionHe": "איור מושגי של מטופלת, פעילה קהילתית, רופא ונציגת מינהל בדיון במרפאה ציבורית",
+      "createdDate": "2026-11-04",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "חברה אזרחית",
+        "רפורמת בריאות",
+        "הגמוניה",
+        "מדיניות בריאות"
+      ],
+      "source": "OpenAI image generation",
+      "creationBrief": "Use case: illustration-story. Asset type: landscape 4:3 civic editorial illustration for a Hebrew academic summary about civil society, state power and health-care reform. Primary request: a richly textured, realistic painterly scene inside a public clinic: a woman patient and a community health advocate stand beside a doorway while a doctor and a public administrator review unmarked folders at a nearby desk; their thoughtful, differing perspectives suggest negotiation over access to care. Warm afternoon light, lived-in walls, fabric, wood and institutional depth; restrained ochre, olive and blue. Frame as one coherent room viewed obliquely, with natural human anatomy and dignified ordinary fictional people. It is a conceptual illustration, not a depiction of a real event or real individuals. No text, letters, numbers, readable documents, logos, emblems, flags, watermarks, UI widgets, charts, flat icons, or isolated symbols. No border. Intended final size 800x600.",
+      "semanticDescriptionHe": "איור מושגי של מטופלת, פעילה קהילתית, רופא ונציגת מינהל בדיון במרפאה ציבורית. המחשה מושגית; האנשים והמקום בדיוניים.",
+      "qualityNotes": "Newly generated editorial illustration. Resized to 800x600. No depiction of an actual event or identified participants is claimed.",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/gidron-nonprofits-participatory-management.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gidron-nonprofits-participatory-management.html",
+      "usedBy": [
+        "gidron-nonprofits-participatory-management.html"
+      ],
+      "cardTitleHe": "ניהול משתף בעמותות: כך מקבלת החברה האזרחית ביטוי ארגוני",
+      "authorsHe": "בנימין גדרון",
+      "visualDescriptionHe": "איור של מתנדבים, עובדים ומשתמשי שירות המשתתפים בדיון ובעבודה במרכז קהילתי",
+      "createdDate": "2026-11-04",
+      "fitness": "high",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "עמותות",
+        "המגזר השלישי",
+        "ניהול משתף",
+        "חברה אזרחית"
+      ],
+      "source": "OpenAI image generation",
+      "creationBrief": "Use case: illustration-story. Asset type: landscape 4:3 polished editorial illustration for an academic article on participatory management in nonprofit organizations. Primary request: a warm, lively community workshop in a modest civic hall, seen from a high diagonal viewpoint: volunteers, staff and service users of varied ages jointly arrange shelves of donated household goods and discuss choices in a loose standing circle, one older volunteer inviting a younger participant to speak. Several small groups working together create depth and make shared responsibility visible. Detailed brushwork with natural faces and hands, textured wood shelves, woven baskets, morning light, warm rust and teal palette. The scene must focus on genuine participation in everyday organization, not a boardroom of executives. Fictional people and place, conceptual illustration. No text, letters, numbers, signs, logos, watermarks, flags, UI widgets, flat icons or diagrams. No border. Intended final size 800x600.",
+      "semanticDescriptionHe": "איור של מתנדבים, עובדים ומשתמשי שירות המשתתפים בדיון ובעבודה במרכז קהילתי. המחשה מושגית; האנשים והמקום בדיוניים.",
+      "qualityNotes": "Newly generated editorial illustration. Resized to 800x600. No depiction of an actual event or identified participants is claimed.",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration"
+    },
+    {
+      "file": "html_qa/ireni-saban-disaster-civil-society-collaboration.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "ireni-saban-disaster-civil-society-collaboration.html",
+      "usedBy": [
+        "ireni-saban-disaster-civil-society-collaboration.html"
+      ],
+      "cardTitleHe": "ניהול אסונות: שותפות בין השירות הציבורי לחברה האזרחית",
+      "authorsHe": "ליזה אירני-סבן",
+      "visualDescriptionHe": "מתנדבי אמריקורפס מפנים הריסות בקמרון, לואיזיאנה, בנובמבר 2005 לאחר עונת ההוריקנים",
+      "createdDate": "2026-11-04",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "ניהול אסונות",
+        "שירות ציבורי",
+        "חברה אזרחית",
+        "אמון",
+        "קהילות מודרות"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:(Hurricane_Katrina-Hurricane_Rita)_Cameron,_LA,_11-11-05_--_AmeriCorps_volunteers_Greg_Lucid,_Komal_Soin,_Kelly_Asplin,_%26_Casey_Schoemeberger_pile_debris_from_a_yard_in_their_truck_-_DPLA_-_7f032bfe522f890d8462efccb707d5e2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%28Hurricane_Katrina-Hurricane_Rita%29_Cameron%2C_LA%2C_11-11-05_--_AmeriCorps_volunteers_Greg_Lucid%2C_Komal_Soin%2C_Kelly_Asplin%2C_%26_Casey_Schoemeberger_pile_debris_from_a_yard_in_their_truck_-_DPLA_-_7f032bfe522f890d8462efccb707d5e2.jpg",
+      "semanticDescriptionHe": "מתנדבי אמריקורפס מפנים הריסות בקמרון, לואיזיאנה, בנובמבר 2005 לאחר עונת ההוריקנים",
+      "qualityNotes": "Newly obtained freely licensed Commons photograph. Cropped and resized to 800x600; contextual image, not a claim that these are the specific organizations, schools or participants studied.",
+      "sourceType": "wikimedia_commons",
+      "creator": "FEMA / U.S. Department of Homeland Security",
+      "provider": "Wikimedia Commons · חיתוך והתאמה לגודל",
+      "license": "Public domain",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:(Hurricane_Katrina-Hurricane_Rita)_Cameron,_LA,_11-11-05_--_AmeriCorps_volunteers_Greg_Lucid,_Komal_Soin,_Kelly_Asplin,_%26_Casey_Schoemeberger_pile_debris_from_a_yard_in_their_truck_-_DPLA_-_7f032bfe522f890d8462efccb707d5e2.jpg"
+    },
+    {
+      "file": "html_qa/binhas-moskovich-immigrant-organisations-coalition.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "binhas-moskovich-immigrant-organisations-coalition.html",
+      "usedBy": [
+        "binhas-moskovich-immigrant-organisations-coalition.html"
+      ],
+      "cardTitleHe": "קואליציה של ארגוני מהגרים בישראל: שירותים משלימים וסולידריות",
+      "authorsHe": "עדי בינס, יפה מושקוביץ",
+      "visualDescriptionHe": "איור מושגי של צוותי ארגונים המסייעים למשפחות מהגרים ומשתפים פעולה בחצר מרכז קהילתי",
+      "createdDate": "2026-11-04",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "ארגוני מהגרים",
+        "קואליציות",
+        "חברה אזרחית",
+        "סולידריות"
+      ],
+      "source": "OpenAI image generation",
+      "semanticDescriptionHe": "איור מושגי של צוותי ארגונים המסייעים למשפחות מהגרים ומשתפים פעולה בחצר מרכז קהילתי. המחשה מושגית; האנשים והמקום בדיוניים.",
+      "qualityNotes": "Newly generated editorial illustration. Resized to 800x600. No depiction of actual organizations or identified participants is claimed.",
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration",
+      "creationBrief": "Use case: illustration-story. Asset type: polished civic editorial illustration, landscape 4:3, for a study of collaboration among three civil-society organizations assisting immigrants in Israel. Primary request: one coherent outdoor courtyard of a modest community service center in a Mediterranean city. Three small service teams at neighboring tables cooperate to welcome newly arrived families: a volunteer carries an unmarked folder from one team to another, while colleagues help people find their way and pass practical supplies. Make personal connections across the teams visually clear through natural gestures and shared attention, with the arriving families actively involved. Warm late-afternoon light, pale stone, leafy shade, textured clothing, restrained blue and terracotta palette, depth and realistic anatomy. The people and place are fictional, and the scene is a conceptual illustration, not a record of particular organizations or services in the study. No labels, readable text, letters, numbers, signs, logos, flags, watermarks, arrows, UI widgets or flat symbols. No border. Intended final size 800x600."
+    },
+    {
+      "file": "html_qa/payes-jaffa-education-civil-society.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "payes-jaffa-education-civil-society.html",
+      "usedBy": [
+        "payes-jaffa-education-civil-society.html"
+      ],
+      "cardTitleHe": "החינוך ביפו: בין שימור הפרדה לאתגר אזרחי",
+      "authorsHe": "שני פייס",
+      "visualDescriptionHe": "שער בית הספר קולג׳ דה פרר ביפו, כהמחשה למרחב החינוכי בעיר",
+      "createdDate": "2026-11-04",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "יפו",
+        "חינוך",
+        "הפרדה",
+        "רב-תרבותיות",
+        "חברה אזרחית"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:College_des_Freres_Jaffa.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/College_des_Freres_Jaffa.jpg",
+      "semanticDescriptionHe": "שער בית הספר קולג׳ דה פרר ביפו, כהמחשה למרחב החינוכי בעיר",
+      "qualityNotes": "Newly obtained freely licensed Commons photograph. Cropped and resized to 800x600; contextual image, not a claim that these are the specific organizations, schools or participants studied.",
+      "sourceType": "wikimedia_commons",
+      "creator": "יורם שורק",
+      "provider": "Wikimedia Commons · חיתוך והתאמה לגודל",
+      "license": "CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:College_des_Freres_Jaffa.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ],
   "topicGraphics": [
