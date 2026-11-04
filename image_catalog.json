@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -59648,6 +59648,75 @@
       "license": "CC BY-SA 4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:College_des_Freres_Jaffa.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "file": "html_qa/drori-institutional-stress-academic-freedom.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "drori-institutional-stress-academic-freedom.html",
+      "usedBy": [
+        "drori-institutional-stress-academic-freedom.html"
+      ],
+      "cardTitleHe": "חופש אקדמי תחת לחץ מוסדי מצטבר",
+      "authorsHe": "גילי דרורי",
+      "visualDescriptionHe": "איור מושגי של חוקרים בשיחה בחדר סמינרים, כשצל מדלת צרה נופל על הקיר",
+      "semanticDescriptionHe": "איור מושגי של חוקרים בשיחה בחדר סמינרים, כשצל מדלת צרה נופל על הקיר",
+      "createdDate": "2026-11-05",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "חופש אקדמי",
+        "אוניברסיטאות",
+        "לחץ מוסדי",
+        "נסיגה דמוקרטית",
+        "חשיבה ביקורתית"
+      ],
+      "sourceType": "generated",
+      "creator": "OpenAI image generation",
+      "provider": "OpenAI",
+      "license": "Generated illustration",
+      "source": "OpenAI image generation",
+      "creationBrief": "Use case: illustration-story. Asset type: polished civic editorial illustration for a Hebrew summary of Gili Drori's academic paper on institutional stress and academic freedom. Create one coherent landscape 4:3 scene inside a university seminar room: a small, diverse group of adult researchers continue a thoughtful discussion around a wooden table while heavy shadows from a narrowing doorway fall across the room. Warm natural window light still illuminates their faces and open blank notebooks, suggesting the fragile space for free inquiry under accumulating institutional pressure. Use subtle painted realism, natural human gestures, architectural depth, rich paper and wood textures, a restrained warm stone, teal and ochre palette. The scene is conceptual and all people and locations are fictional. No identifiable real institutions, politicians, flags, protest signs, labels, readable writing, letters, numbers, logos, watermarks, UI, icons, arrows, flat symbols, collage layers or borders. Keep all key subjects within a crop safe for a final 800x600 JPEG.",
+      "qualityNotes": "Newly generated conceptual editorial illustration of fictional people and a fictional university room. Resized to 800x600."
+    },
+    {
+      "file": "html_qa/mcnamara-shohamy-language-tests-human-rights.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mcnamara-shohamy-language-tests-human-rights.html",
+      "usedBy": [
+        "mcnamara-shohamy-language-tests-human-rights.html"
+      ],
+      "cardTitleHe": "מבחני שפה כתנאי לתושבות ולאזרחות",
+      "authorsHe": "טים מקנמרה, אלנה שוהמי",
+      "visualDescriptionHe": "שורות שולחנות נפרדים באולם בחינות קבלה בצרפת, כהמחשה כללית למבחנים",
+      "semanticDescriptionHe": "שורות שולחנות נפרדים באולם בחינות קבלה בצרפת, כהמחשה כללית למבחנים",
+      "createdDate": "2026-11-05",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "reuseGuidance": "Newly created or obtained for this paper only; do not reuse for future new papers.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "מבחני שפה",
+        "זכויות אדם",
+        "תושבות",
+        "אזרחות",
+        "אפליה",
+        "מדיניות שפה"
+      ],
+      "sourceType": "wikimedia_commons",
+      "creator": "Jérémy Barande",
+      "provider": "Wikimedia Commons · חיתוך והתאמה לגודל",
+      "license": "CC BY-SA 2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Exam_tables_-_France.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Exam_tables_-_France.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Exam_tables_-_France.jpg",
+      "qualityNotes": "Newly obtained Commons photograph of French higher-education entrance-examination desks, used as a general illustration of assessment. Cropped and resized to 800x600; retained CC BY-SA 2.0 attribution."
     }
   ],
   "topicGraphics": [

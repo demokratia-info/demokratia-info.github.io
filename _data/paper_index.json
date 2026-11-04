@@ -1,8 +1,65 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2117,
+  "paperCount": 2119,
   "papers": [
+    {
+      "slug": "mcnamara-shohamy-language-tests-human-rights",
+      "file": "mcnamara-shohamy-language-tests-human-rights.html",
+      "permalink": "/mcnamara-shohamy-language-tests-human-rights.html",
+      "sortKey": 202611050002,
+      "titleHe": "מבחני שפה כתנאי לתושבות ולאזרחות",
+      "paperTitle": "Language tests and human rights",
+      "authorsCardHe": "טים מקנמרה, אלנה שוהמי",
+      "sourceAuthors": [
+        "Tim McNamara",
+        "Elana Shohamy"
+      ],
+      "journal": "International Journal of Applied Linguistics 18(1), 89–95",
+      "dateText": "2008",
+      "doiUrl": "https://doi.org/10.1111/j.1473-4192.2008.00191.x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mcnamara-shohamy-language-tests-human-rights.jpg",
+        "altHe": "שורות שולחנות נפרדים באולם בחינות קבלה בצרפת, כהמחשה כללית למבחנים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-05",
+      "dateModified": "2026-11-05",
+      "summaryHe": "מבחני שפה משמשים במדינות שונות כתנאי לקבלת תושבות או אזרחות. מקנמרה ושוהמי מבקרים את השימוש הזה, מדגישים טעויות ובעיות אמינות בתוצאות ומצביעים על השלכות מפלות. הם קוראים לפעילות להגנה על זכויות ולדיאלוג עם קובעי מדיניות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "drori-institutional-stress-academic-freedom",
+      "file": "drori-institutional-stress-academic-freedom.html",
+      "permalink": "/drori-institutional-stress-academic-freedom.html",
+      "sortKey": 202611050001,
+      "titleHe": "חופש אקדמי תחת לחץ מוסדי מצטבר",
+      "paperTitle": "Institutional Stress: Academic freedom under attack by democratic backsliding",
+      "authorsCardHe": "גילי דרורי",
+      "sourceAuthors": [
+        "Gili S. Drori"
+      ],
+      "journal": "Organization Studies",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1177/01708406251349319",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/drori-institutional-stress-academic-freedom.jpg",
+        "altHe": "איור מושגי של חוקרים בשיחה בחדר סמינרים, כשצל מדלת צרה נופל על הקיר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-05",
+      "dateModified": "2026-11-05",
+      "summaryHe": "לחצים תקציביים, טכנולוגיים ותעשייתיים על אוניברסיטאות מצטרפים למתקפות אידאולוגיות על חקירה חופשית וחשיבה ביקורתית. גילי דרורי מכנה את המפגש הזה לחץ מוסדי: מצב מתמשך שעלול לערער את ייעוד המוסד ולשנותו באופן עמוק. הגנה על חופש אקדמי מחייבת להבין כיצד הלחצים מצטברים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "payes-jaffa-education-civil-society",
       "file": "payes-jaffa-education-civil-society.html",
