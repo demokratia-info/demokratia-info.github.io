@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-07",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -59717,6 +59717,75 @@
       "source": "https://commons.wikimedia.org/wiki/File:Exam_tables_-_France.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Exam_tables_-_France.jpg",
       "qualityNotes": "Newly obtained Commons photograph of French higher-education entrance-examination desks, used as a general illustration of assessment. Cropped and resized to 800x600; retained CC BY-SA 2.0 attribution."
+    },
+    {
+      "file": "html_qa/mansbach-whistleblowing-democratic-truth-telling.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "mansbach-whistleblowing-democratic-truth-telling.html",
+      "usedBy": [
+        "mansbach-whistleblowing-democratic-truth-telling.html"
+      ],
+      "cardTitleHe": "חשיפת שחיתות בעבודה כמעשה דמוקרטי",
+      "authorsHe": "אברהם מנסבך",
+      "visualDescriptionHe": "איור מושגי של עובדת עם תיק מסמכים בין משרד הנהלה לחדר ייעוץ אזרחי",
+      "tags": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "חשיפת שחיתות",
+        "אמירת אמת",
+        "פרהסיה",
+        "דמוקרטיה רדיקלית",
+        "זהות",
+        "אחריותיות"
+      ],
+      "reuseGuidance": "Created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-11-07",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "generated",
+      "creator": "OpenAI",
+      "provider": "OpenAI",
+      "license": "Generated site asset",
+      "source": "OpenAI built-in image generation",
+      "semanticDescriptionHe": "מעבר של עובדת בין הנהלה לייעוץ אזרחי ממחיש אמירת אמת מול סמכות; האנשים והמקום בדיוניים.",
+      "qualityNotes": "New editorial illustration resized to 800x600. Standard fitness because this is a fictional conceptual workplace scene, not a depiction of Mia Kuch or Tnuva. No added text or logos."
+    },
+    {
+      "file": "html_qa/slonim-hamilton-brutus-judicial-supremacy.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "slonim-hamilton-brutus-judicial-supremacy.html",
+      "usedBy": [
+        "slonim-hamilton-brutus-judicial-supremacy.html"
+      ],
+      "cardTitleHe": "ברוטוס והמילטון: גבולות הכוח השיפוטי",
+      "authorsHe": "שלמה סלונים",
+      "visualDescriptionHe": "אולם בית המשפט העליון הישן בקפיטול בארצות הברית, כהמחשה לסמכות השיפוטית",
+      "tags": [
+        "constitutionalism-courts-rule-of-law",
+        "ביקורת שיפוטית",
+        "עליונות שיפוטית",
+        "ברוטוס",
+        "אלכסנדר המילטון",
+        "פדרליזם"
+      ],
+      "reuseGuidance": "Created or obtained for this paper only; do not reuse for future new papers.",
+      "createdDate": "2026-11-07",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sourceType": "wikimedia_commons",
+      "creator": "Adam Jones",
+      "provider": "Wikimedia Commons · התאמה לגודל",
+      "license": "CC BY-SA 2.0",
+      "source": "Adam Jones / Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Supreme_Court_Chambers_-_Capitol_Building_-_Washington_-_DC_-_USA_(32817208487).jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Old_Supreme_Court_Chambers_-_Capitol_Building_-_Washington_-_DC_-_USA_%2832817208487%29.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceDate": "2019-05-02",
+      "sourceDimensions": "3648x2736",
+      "semanticDescriptionHe": "אולם שיפוט היסטורי ממחיש את הסמכות המוסדית הנדונה; התצלום אינו מתעד את ויכוח אשרור החוקה.",
+      "qualityNotes": "New Commons photograph resized to 800x600. Standard fitness: the later Supreme Court chamber illustrates judicial authority, not the founding-era debate itself. CC BY-SA 2.0 applies to this resized photograph."
     }
   ],
   "topicGraphics": [

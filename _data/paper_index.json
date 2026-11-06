@@ -1,8 +1,63 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2119,
+  "paperCount": 2121,
   "papers": [
+    {
+      "slug": "mansbach-whistleblowing-democratic-truth-telling",
+      "file": "mansbach-whistleblowing-democratic-truth-telling.html",
+      "permalink": "/mansbach-whistleblowing-democratic-truth-telling.html",
+      "sortKey": 202611070002,
+      "titleHe": "חשיפת שחיתות בעבודה כמעשה דמוקרטי",
+      "paperTitle": "Keeping Democracy Vibrant: Whistleblowing as Truth-Telling in the Workplace",
+      "authorsCardHe": "אברהם מנסבך",
+      "sourceAuthors": [
+        "Abraham Mansbach"
+      ],
+      "journal": "Constellations 16(3), 363–376",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00547.x",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mansbach-whistleblowing-democratic-truth-telling.jpg",
+        "altHe": "איור מושגי של עובדת עם תיק מסמכים בין משרד הנהלה לחדר ייעוץ אזרחי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-07",
+      "dateModified": "2026-11-07",
+      "summaryHe": "חשיפת שחיתות מחברת בין מצפון אישי לאחריות ציבורית. מנסבך מפרש אותה כהתנגדות לפגיעה בזהות העובד וכדרישה שמוסדות יקיימו את ערכיהם המוצהרים. מאבקה של מיה קוך ממחיש כיצד פעולה אישית מתרחבת לפעילות אזרחית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "slonim-hamilton-brutus-judicial-supremacy",
+      "file": "slonim-hamilton-brutus-judicial-supremacy.html",
+      "permalink": "/slonim-hamilton-brutus-judicial-supremacy.html",
+      "sortKey": 202611070001,
+      "titleHe": "ברוטוס והמילטון: גבולות הכוח השיפוטי",
+      "paperTitle": "Federalist No. 78 and Brutus' Neglected Thesis on Judicial Supremacy",
+      "authorsCardHe": "שלמה סלונים",
+      "sourceAuthors": [
+        "Shlomo Slonim"
+      ],
+      "journal": "Constitutional Commentary 23(1), 7–32",
+      "dateText": "2006",
+      "doiUrl": "https://doi.org/10.24926/26390742.2194",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/slonim-hamilton-brutus-judicial-supremacy.jpg",
+        "altHe": "אולם בית המשפט העליון הישן בקפיטול בארצות הברית, כהמחשה לסמכות השיפוטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-07",
+      "dateModified": "2026-11-07",
+      "summaryHe": "המילטון הגן על ביקורת שיפוטית. סלונים מדגיש שברוטוס חשש מעליונות השופטים ומריכוז הכוח הפדרלי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "mcnamara-shohamy-language-tests-human-rights",
       "file": "mcnamara-shohamy-language-tests-human-rights.html",
