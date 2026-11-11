@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-12",
   "sampleSize": 6,
-  "seed": "2026-11-11-homepage-high-fit",
+  "seed": "2026-11-12-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
   "fullTextHighFitPaperCount": 1019,
   "paperSlugs": [
-    "democracy_judicial_rhetoric_government_lawyers_and_human_rights_the_case_of_the_israeli_high_court_of_ju_summary_he",
+    "democracy_differentiating_the_sources_of_post_election_partisan_affect_warming_summary_he",
     "democracy_religion_and_the_city_local_governments_as_the_flag_holders_of_freedom_from_religion_in_israel_summary_he",
     "democracy_remember_to_be_jewish_religious_populism_in_israel_summary_he",
     "democracy_in_between_surveillance_and_spatial_protest_the_production_of_space_of_the_mixed_city_of_lod_summary_he",
     "democracy_the_religions_zionist_sector_at_bay_summary_he",
-    "democracy_terrorism_political_tolerance_fellow_travelers_summary_he"
+    "democracy_sex_work_governance_israeli_velvet_triangle_end_demand_policy_summary_he"
   ]
 }
