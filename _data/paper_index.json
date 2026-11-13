@@ -1,8 +1,95 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2121,
+  "paperCount": 2124,
   "papers": [
+    {
+      "slug": "diskin-israeli-election-1992",
+      "file": "diskin-israeli-election-1992.html",
+      "permalink": "/diskin-israeli-election-1992.html",
+      "sortKey": 202611140003,
+      "titleHe": "בחירות 1992: אחוז החסימה והדרך לרוב פרלמנטרי",
+      "paperTitle": "The Israeli general election of 1992",
+      "authorsCardHe": "אברהם דיסקין",
+      "sourceAuthors": [
+        "Abraham Diskin"
+      ],
+      "journal": "Electoral Studies 11(4), 356–361",
+      "dateText": "דצמבר 1992",
+      "doiUrl": "https://doi.org/10.1016/0261-3794(92)90008-T",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/diskin-israeli-election-1992.jpg",
+        "altHe": "איור של ספירת קולות בחדר אזרחי, עם ערימות פתקים וקבוצה נפרדת של פתקים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-14",
+      "dateModified": "2026-11-14",
+      "summaryHe": "אברהם דיסקין מראה כיצד התחזקות העבודה, פיצול בימין ואחוז החסימה עיצבו רוב פרלמנטרי חדש. המקרה מחדד את חשיבותם של כללי הייצוג ושל הסכמים בין מפלגות להבנת הכרעת הבוחר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gordon-swanson-buttigieg-rights-emancipation",
+      "file": "gordon-swanson-buttigieg-rights-emancipation.html",
+      "permalink": "/gordon-swanson-buttigieg-rights-emancipation.html",
+      "sortKey": 202611140002,
+      "titleHe": "זכויות אדם ושחרור חברתי: גבולות האסטרטגיה המשפטית",
+      "paperTitle": "Is the struggle for human rights a struggle for emancipation?",
+      "authorsCardHe": "Neve Gordon; Jacinda Swanson; Joseph A. Buttigieg",
+      "sourceAuthors": [
+        "Neve Gordon",
+        "Jacinda Swanson",
+        "Joseph A. Buttigieg"
+      ],
+      "journal": "Rethinking Marxism 12(3), 1–22",
+      "dateText": "סתיו 2000",
+      "doiUrl": "https://doi.org/10.1080/08935690009359008",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gordon-swanson-buttigieg-rights-emancipation.jpg",
+        "altHe": "אריגה בכפר ג׳ארי שבצפון הודו, תצלום המחשה של מלאכה מקומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-14",
+      "dateModified": "2026-11-14",
+      "summaryHe": "גורדון, סוונסון ובוטיג׳ג מכירים בתרומת זכויות האדם להפחתת דיכוי, אך טוענים שאכיפת חוק לבדה אינה משנה את התנאים שמייצרים ניצול. הם מציעים לקשור הגנה משפטית להשתתפות פוליטית ולשינוי יחסים חברתיים וכלכליים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "diskin-hazan-knesset-election-2006",
+      "file": "diskin-hazan-knesset-election-2006.html",
+      "permalink": "/diskin-hazan-knesset-election-2006.html",
+      "sortKey": 202611140001,
+      "titleHe": "בחירות 2006: שינוי מפת המפלגות והרכבת הקואליציה",
+      "paperTitle": "The Knesset election in Israel, March 2006",
+      "authorsCardHe": "אברהם דיסקין; Reuven Y. Hazan",
+      "sourceAuthors": [
+        "Abraham Diskin",
+        "Reuven Y. Hazan"
+      ],
+      "journal": "Electoral Studies 26(3), 707–711",
+      "dateText": "ספטמבר 2007",
+      "doiUrl": "https://doi.org/10.1016/j.electstud.2006.10.012",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/diskin-hazan-knesset-election-2006.jpg",
+        "altHe": "איור של משא ומתן סביב שולחן וכיסא המצורף למפגש, כהמחשה להרכבת קואליציה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-14",
+      "dateModified": "2026-11-14",
+      "summaryHe": "בחירות 2006 העניקו לקדימה את מספר המושבים הגדול ביותר ושינו את יחסי הכוחות בין המפלגות. הניתוח קושר בין המחלוקות סביב ההתנתקות, תוצאות ההצבעה והמשא ומתן הקואליציוני, וממחיש כיצד ייצוג פרלמנטרי מתורגם לשותפות בשלטון.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "mansbach-whistleblowing-democratic-truth-telling",
       "file": "mansbach-whistleblowing-democratic-truth-telling.html",

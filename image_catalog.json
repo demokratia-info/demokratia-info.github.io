@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-14",
   "imageSize": {
     "width": 800,
     "height": 600,
@@ -59786,6 +59786,111 @@
       "sourceDimensions": "3648x2736",
       "semanticDescriptionHe": "אולם שיפוט היסטורי ממחיש את הסמכות המוסדית הנדונה; התצלום אינו מתעד את ויכוח אשרור החוקה.",
       "qualityNotes": "New Commons photograph resized to 800x600. Standard fitness: the later Supreme Court chamber illustrates judicial authority, not the founding-era debate itself. CC BY-SA 2.0 applies to this resized photograph."
+    },
+    {
+      "file": "html_qa/diskin-israeli-election-1992.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "diskin-israeli-election-1992.html",
+      "usedBy": [
+        "diskin-israeli-election-1992.html"
+      ],
+      "cardTitleHe": "בחירות 1992: אחוז החסימה והדרך לרוב פרלמנטרי",
+      "authorsHe": "אברהם דיסקין",
+      "visualDescriptionHe": "סופרי קולות בדיוניים ממיינים פתקים בחדר בסגנון תחילת שנות התשעים.",
+      "semanticDescriptionHe": "ערימות הפתקים ממחישות את ההבחנה בין הצבעה לבין תרגום קולות לייצוג; זהו איור ולא תיעוד בחירות 1992.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "בחירות 1992",
+        "אחוז החסימה",
+        "ייצוג יחסי",
+        "מפלגות",
+        "חילופי שלטון"
+      ],
+      "reuseGuidance": "Newly added for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit, visual quality and absence of text overlays; resized to 800x600. Standard fitness because this is contextual illustration rather than direct evidence from the article.",
+      "createdDate": "2026-11-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "איור שנוצר בבינה מלאכותית",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sha256": "b6a7caa7ca656f34336d51805c61c05751bb4a241dba3979e2e8ac0d68362386"
+    },
+    {
+      "file": "html_qa/gordon-swanson-buttigieg-rights-emancipation.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "gordon-swanson-buttigieg-rights-emancipation.html",
+      "usedBy": [
+        "gordon-swanson-buttigieg-rights-emancipation.html"
+      ],
+      "cardTitleHe": "זכויות אדם ושחרור חברתי: גבולות האסטרטגיה המשפטית",
+      "authorsHe": "Neve Gordon; Jacinda Swanson; Joseph A. Buttigieg",
+      "visualDescriptionHe": "אישה אורגת בנול בכפר ג׳ארי בצפון הודו; צילום משנת 2006.",
+      "semanticDescriptionHe": "הצילום ממחיש מלאכה מקומית בהודו כהקשר כלכלי רחב בלבד; אין בו תיעוד של מקרי הניצול הנידונים במאמר או טענה על תנאי עבודתה של המצולמת.",
+      "tags": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "זכויות אדם",
+        "שוויון",
+        "אמנציפציה",
+        "עבודת כפייה",
+        "חברה אזרחית",
+        "Human Rights Watch"
+      ],
+      "reuseGuidance": "Newly added for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit, visual quality and absence of text overlays; resized to 800x600. Standard fitness because this is contextual illustration rather than direct evidence from the article.",
+      "createdDate": "2026-11-14",
+      "sourceType": "wikimedia_commons",
+      "source": "https://commons.wikimedia.org/wiki/File:WeavingIndia.JPG",
+      "license": "Public domain (PD-self)",
+      "creator": "Shefshef",
+      "provider": "Wikimedia Commons · התאמה לגודל",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sha256": "4e153097141714ca48f28b2b74d8e4c30527cd3e0c2be46595c132a25ba0a66b",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WeavingIndia.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/WeavingIndia.JPG",
+      "sourceDate": "2006-06-23"
+    },
+    {
+      "file": "html_qa/diskin-hazan-knesset-election-2006.jpg",
+      "width": 800,
+      "height": 600,
+      "primaryArticle": "diskin-hazan-knesset-election-2006.html",
+      "usedBy": [
+        "diskin-hazan-knesset-election-2006.html"
+      ],
+      "cardTitleHe": "בחירות 2006: שינוי מפת המפלגות והרכבת הקואליציה",
+      "authorsHe": "אברהם דיסקין; Reuven Y. Hazan",
+      "visualDescriptionHe": "משתתפים בדיוניים במשא ומתן בחדר ירושלמי מואר; כיסא נוסף מוצב לצד השולחן.",
+      "semanticDescriptionHe": "צירוף משתתפים לשולחן ממחיש את בניית השותפות הקואליציונית בעקבות שינוי מפת המפלגות; אין מדובר בתיעוד אנשים או אירועים היסטוריים.",
+      "tags": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service",
+        "בחירות 2006",
+        "קדימה",
+        "הליכוד",
+        "קואליציה",
+        "התנתקות",
+        "ייצוג פוליטי"
+      ],
+      "reuseGuidance": "Newly added for this paper only; do not reuse for future new papers.",
+      "qualityNotes": "Reviewed for subject fit, visual quality and absence of text overlays; resized to 800x600. Standard fitness because this is contextual illustration rather than direct evidence from the article.",
+      "createdDate": "2026-11-14",
+      "sourceType": "generated",
+      "source": "OpenAI image generation",
+      "license": "Generated site asset",
+      "creator": "OpenAI",
+      "provider": "איור שנוצר בבינה מלאכותית",
+      "fitness": "standard",
+      "fitnessSource": "paper_specific_editorial_review",
+      "sha256": "32664ee401a5f7bf8fe34490524bb96c8096be01e47215cf92dbd825e89bd6b1"
     }
   ],
   "topicGraphics": [
