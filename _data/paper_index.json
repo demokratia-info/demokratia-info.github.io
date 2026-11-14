@@ -1,8 +1,322 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2124,
+  "paperCount": 2134,
   "papers": [
+    {
+      "slug": "benvenisti-harel-discordant-parity",
+      "file": "benvenisti-harel-discordant-parity.html",
+      "permalink": "/benvenisti-harel-discordant-parity.html",
+      "sortKey": 202611150010,
+      "titleHe": "זכויות אדם בין המשפט החוקתי למשפט הבינלאומי: ערכו של מתח מתמשך",
+      "paperTitle": "Embracing the tension between national and international human rights law: The case for discordant parity",
+      "authorsCardHe": "איל בנבנישתי; אלון הראל",
+      "sourceAuthors": [
+        "Eyāl Benveniśtî",
+        "Alon Harel"
+      ],
+      "journal": "International Journal of Constitutional Law 15(1), 36–59",
+      "dateText": "2017-03-13",
+      "doiUrl": "https://doi.org/10.1093/icon/mox002",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/benvenisti-harel-discordant-parity.jpg",
+        "altHe": "איור של משפטנים משני מוסדות הדנים בזכויות סביב שולחן משותף",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "בנבנישתי והראל מציעים להכיר במעמד מקביל של המשפט החוקתי והמשפט הבינלאומי בתחום זכויות האדם. לטענתם, מתח בין המערכות יכול לבטא גם את חובת המדינה לכבד זכויות וגם את מעמד האזרחים כשותפים בעיצוב הדין. מכאן נובעת דרישה להתחשבות הדדית ולהנמקה, בלי לקבוע מראש שמערכת אחת תמיד גוברת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "adams-gender-inclusivity-party-ideology",
+      "file": "adams-gender-inclusivity-party-ideology.html",
+      "permalink": "/adams-gender-inclusivity-party-ideology.html",
+      "sortKey": 202611150009,
+      "titleHe": "נוכחות נשים במפלגה משנה את האופן שבו בוחרים ממקמים אותה על ציר ימין–שמאל",
+      "paperTitle": "Gender inclusivity and perceptions of party ideology: Observational and experimental evidence",
+      "authorsCardHe": "ג׳יימס אדמס; דייוויד ברקן; נעם גדרון; ויל הורן; Seonghui Lee; דיאנה ז׳ אובריאן; Lie Philip Santoso; קייטלין סנק; Randolph T. Stevenson",
+      "sourceAuthors": [
+        "James Adams",
+        "David Bracken",
+        "Noam Gidron",
+        "Will Horne",
+        "Seonghui Lee",
+        "Diana Z. O’Brien",
+        "Lie Philip Santoso",
+        "Kaitlin Senk",
+        "Randolph T. Stevenson"
+      ],
+      "journal": "European Journal of Political Research, 1–21",
+      "dateText": "2026-10-26",
+      "doiUrl": "https://doi.org/10.1017/s1475676526101923",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/adams-gender-inclusivity-party-ideology.jpg",
+        "altHe": "איור של נשים וגברים בהנהגת מפלגה בדיון משותף במשרד ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "המחקר מראה שמפלגות המשלבות יותר נשים נתפסות בדרך כלל כשמאליות יותר, גם לאחר התחשבות בעמדות המדיניות שלהן. נתונים השוואתיים וניסויי סקר מצביעים על שימוש בהרכב המגדרי כרמז אידאולוגי. המשמעות היא ששינוי בייצוג עשוי להשפיע גם על תדמית המפלגה, בלי להעיד כשלעצמו על שינוי במצעה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "leidorf-agency-independence-credibility",
+      "file": "leidorf-agency-independence-credibility.html",
+      "permalink": "/leidorf-agency-independence-credibility.html",
+      "sortKey": 202611150008,
+      "titleHe": "עצמאות רגולטורית ואמון הציבור: הניסוי על אישור חיסון באיחוד האירופי",
+      "paperTitle": "Independent Agencies, Regulation‐Compliant Citizens? Evidence From a Survey Experiment on Vaccine Authorization in the EU",
+      "authorsCardHe": "Benjamin Leidorf‐Tidå; סער אלון-ברקת; מדלינה בוסיוק; Thijs de Boer",
+      "sourceAuthors": [
+        "Benjamin Leidorf‐Tidå",
+        "Saar Alon-Barkat",
+        "Madalina Busuioc",
+        "Thijs de Boer"
+      ],
+      "journal": "Regulation & Governance 20(4), 2315–2332",
+      "dateText": "2026-10-09",
+      "doiUrl": "https://doi.org/10.1111/rego.70205",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/leidorf-agency-independence-credibility.jpg",
+        "altHe": "איור של צוות מומחים בוחן מסמכים ודגימה בחדר דיונים של רשות רגולטורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "מחקר על סוכנות התרופות האירופית מבחין בין הקשר החזק של עצמאות נתפסת עם אמינות לבין השפעה ניסויית מוגבלת של מידע על עצמאות. הממצא מדגיש שעצמאות מוסדית, אמון ונכונות להיענות למדיניות הם שלבים נפרדים. הצגת גוף כמוגן מלחצים אינה מבטיחה כשלעצמה שינוי בהתנהגות הציבור.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "franck-gay-urbanization-electoral-success",
+      "file": "franck-gay-urbanization-electoral-success.html",
+      "permalink": "/franck-gay-urbanization-electoral-success.html",
+      "sortKey": 202611150007,
+      "titleHe": "עיור שינה את ההרכב המקצועי של נבחרי הציבור בצרפת בין מלחמות העולם",
+      "paperTitle": "Urbanization and electoral success: lawyers and workers in interwar France",
+      "authorsCardHe": "Raphaël Franck; Victor Gay",
+      "sourceAuthors": [
+        "Raphaël Franck",
+        "Victor Gay"
+      ],
+      "journal": "Journal of Historical Political Economy 6(2), 113–141",
+      "dateText": "2026-08-21",
+      "doiUrl": "https://doi.org/10.1108/jhpe-12-2025-0027",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/franck-gay-urbanization-electoral-success.jpg",
+        "altHe": "פנורמה עכשווית של ליון ונהר הסון, תצלום המחשה למרחב עירוני בצרפת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "פרנק וגיי בוחנים כיצד צפיפות הבוחרים השפיעה על הצלחת מועמדים ממקצועות שונים בצרפת בשנים 1928–1936. שינויים בגבולות מחוזות הבחירה מאפשרים להם לזהות דפוס שבו עיור היטיב עם עובדים ושכירים ופגע בעורכי דין, בעיקר בתוך השמאל. המחקר מחבר בין מרחב עירוני, רשתות ארגון וייצוג של קבוצות חברתיות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "vandergoot-citizens-politicians-conflict",
+      "file": "vandergoot-citizens-politicians-conflict.html",
+      "permalink": "/vandergoot-citizens-politicians-conflict.html",
+      "sortKey": 202611150006,
+      "titleHe": "אזרחים ופוליטיקאים מעריכים עימותים פוליטיים אחרת",
+      "paperTitle": "Conflicting perceptions: Misalignment between citizens’ and politicians’ evaluations of political conflict",
+      "authorsCardHe": "Emma Sarah van der Goot; Laura Jacobs; Pirmin Bundi; Frédéric Varone; טוני ואן דר מיר; Rens Vliegenthart; ליאור שפר; Jorge Miguel Fernandes",
+      "sourceAuthors": [
+        "Emma Sarah van der Goot",
+        "Laura Jacobs",
+        "Pirmin Bundi",
+        "Frédéric Varone",
+        "Toni van der Meer",
+        "Rens Vliegenthart",
+        "Lior Sheffer",
+        "Jorge Miguel Fernandes"
+      ],
+      "journal": "European Journal of Political Research, 1–22",
+      "dateText": "2026-03-30",
+      "doiUrl": "https://doi.org/10.1017/s1475676526100966",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/vandergoot-citizens-politicians-conflict.jpg",
+        "altHe": "אולם המועצה הלאומית של שווייץ, אחת המדינות שנכללו במחקר על עימותים פוליטיים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "ניסויי סקר בארבע מדינות מגלים שפוליטיקאים מאשרים עימותים ענייניים ואידאולוגיים יותר מאזרחים, אך מסתייגים מעימותים אישיים יותר מהם. פוליטיקאים גם מעריכים באופן לא מדויק את מידת התמיכה הציבורית בסוגי העימות. הפער נוגע לייצוג דמוקרטי: נבחרים עלולים לפרש את טעמם שלהם כדרישה של הבוחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "fernandes-candidate-selection-democratization",
+      "file": "fernandes-candidate-selection-democratization.html",
+      "permalink": "/fernandes-candidate-selection-democratization.html",
+      "sortKey": 202611150005,
+      "titleHe": "פתיחת בחירת המועמדים אינה מבטיחה למפלגות יותר קולות",
+      "paperTitle": "The Electoral Implications of Legislative Candidate Selection Democratization",
+      "authorsCardHe": "Jorge Miguel Fernandes; אלון יקטר; יעל שומר; Gert-Jan Put",
+      "sourceAuthors": [
+        "Jorge Miguel Fernandes",
+        "Alon Yakter",
+        "Yael Shomer",
+        "Gert-Jan Put"
+      ],
+      "journal": "British Journal of Political Science 55 · e125",
+      "dateText": "2025-10-15",
+      "doiUrl": "https://doi.org/10.1017/s0007123425100744",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/fernandes-candidate-selection-democratization.jpg",
+        "altHe": "איור של חברי מפלגה משתתפים בבחירת מועמדים באולם קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "מחקר השוואתי וניסויי סקר מראים שהעדפה לבחירת מועמדים פתוחה יותר אינה מתורגמת בהכרח לרווח אלקטורלי. כאשר שיטת הבחירה מתחרה בשיקולים אחרים, משקלה בהחלטת הבוחר נחלש. ההבחנה חשובה לרפורמות דמוקרטיות במפלגות: השתתפות פנימית והצלחה בבחירות הן תוצאות שונות שיש לבחון בנפרד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "bergeron-voter-personality-preferences",
+      "file": "bergeron-voter-personality-preferences.html",
+      "permalink": "/bergeron-voter-personality-preferences.html",
+      "sortKey": 202611150004,
+      "titleHe": "אילו תכונות אישיות בוחרים רוצים לראות אצל פוליטיקאים?",
+      "paperTitle": "What personality traits do citizens want politicians to have? Observational and experimental evidence of citizens' preferences in three countries",
+      "authorsCardHe": "Thomas Bergeron; ערן אמסלם; ליאור שפר; Jeroen Joly; Peter John Loewen",
+      "sourceAuthors": [
+        "Thomas Bergeron",
+        "Eran Amsalem",
+        "Lior Sheffer",
+        "Jeroen Joly",
+        "Peter John Loewen"
+      ],
+      "journal": "Political Psychology 47(2) · e70043",
+      "dateText": "2025-06-03",
+      "doiUrl": "https://doi.org/10.1111/pops.70043",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/bergeron-voter-personality-preferences.jpg",
+        "altHe": "איור של מועמד מקשיב לקבוצת אזרחים במפגש בכיכר ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "שלושה מחקרים בבלגיה, בקנדה ובישראל מראים שבוחרים נותנים משקל לאישיותם של מועמדים, ובפרט למצפוניות וליציבות רגשית. בניסוי של בחירה בין מועמדים בלטה גם נעימות. הממצאים מרחיבים את הדיון בייצוג: הערכת אדם מסייעת בבחירת מנהיג, אך אינה מחליפה בחינה של עמדותיו ומחויבויותיו הציבוריות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "vande-wardt-honesty-political-ambition",
+      "file": "vande-wardt-honesty-political-ambition.html",
+      "permalink": "/vande-wardt-honesty-political-ambition.html",
+      "sortKey": 202611150003,
+      "titleHe": "יושר וענווה קשורים לנכונות להתמודד על תפקיד פוליטי",
+      "paperTitle": "Too honest and humble to run for office? Citizens’ personality traits, nascent ambition, and recruitment",
+      "authorsCardHe": "Marc van de Wardt; Pirmin Bundi; Peter John Loewen; Anne Rasmussen; ליאור שפר; Frédéric Varone",
+      "sourceAuthors": [
+        "Marc van de Wardt",
+        "Pirmin Bundi",
+        "Peter John Loewen",
+        "Anne Rasmussen",
+        "Lior Sheffer",
+        "Frédéric Varone"
+      ],
+      "journal": "European Journal of Political Research 65(1), 307–327",
+      "dateText": "2025-10-13",
+      "doiUrl": "https://doi.org/10.1017/s1475676525100224",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/vande-wardt-honesty-political-ambition.jpg",
+        "altHe": "איור של מארגנת ציבורית מזמינה אזרח לגשת לדוכן באולם קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "המחקר מוצא שאנשים המדווחים על רמות נמוכות יותר של יושר וענווה נוטים יותר להביע שאיפה פוליטית ולהיכנס למסלול של מועמדות. הקשר מופיע גם בדיווחים על פנייה אליהם להתמודד. הממצאים מעוררים דיון בחסמי הכניסה לפוליטיקה ובאחריותיות מוסדית, אך אינם מאפשרים לשפוט את יושרו של נבחר מסוים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shwartz-altshuler-smart-glasses-rights",
+      "file": "shwartz-altshuler-smart-glasses-rights.html",
+      "permalink": "/shwartz-altshuler-smart-glasses-rights.html",
+      "sortKey": 202611150002,
+      "titleHe": "משקפיים חכמים משנים את המרחב המשותף ואת ההגנה על זכויות",
+      "paperTitle": "Governing phygital spaces: Human rights by design meets speculative design",
+      "authorsCardHe": "תהילה שוורץ אלטשולר; רחל ארידור־הרשקוביץ; רומי מיקולינסקי; Boris Müller",
+      "sourceAuthors": [
+        "Tehilla Shwartz Altshuler",
+        "Rachel Aridor-Hershkovitz",
+        "Romi Mikulinsky",
+        "Boris Müller"
+      ],
+      "journal": "Internet Policy Review 14(4)",
+      "dateText": "2025-11-18",
+      "doiUrl": "https://doi.org/10.14763/2025.4.2048",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shwartz-altshuler-smart-glasses-rights.jpg",
+        "altHe": "איור של מפגש במרחב ציבורי שבו אדם מרכיב משקפיים חכמים לצד עוברי אורח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "המאמר מציע לבחון משקפיים חכמים דרך היחסים שהם יוצרים במרחב הפיזי והדיגיטלי המשולב. תרחישים וסדנאות המחשה חושפים שאלות של הסכמה, כבוד, נגישות ושליטה במה שאנשים רואים. ההצעה היא לשלב הגנת זכויות בתכנון הטכנולוגיה ובכללי השימוש במרחב משותף, מעבר לאבטחת מידע של המשתמש בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "assy-carmel-traffic-court-representation",
+      "file": "assy-carmel-traffic-court-representation.html",
+      "permalink": "/assy-carmel-traffic-court-representation.html",
+      "sortKey": 202611150001,
+      "titleHe": "ייצוג משפטי בתיקי תעבורה: פחות נקודות לצד קנסות גבוהים יותר",
+      "paperTitle": "The impact of legal representation in Israeli traffic courts: Addressing selection bias and generalizability problems",
+      "authorsCardHe": "רביע עאסי; תומר כרמל",
+      "sourceAuthors": [
+        "Rabeea Assy",
+        "Tomer Carmel"
+      ],
+      "journal": "Journal of Empirical Legal Studies 21(3), 532–576",
+      "dateText": "2024-07-01",
+      "doiUrl": "https://doi.org/10.1111/jels.12392",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/assy-carmel-traffic-court-representation.jpg",
+        "altHe": "היכל המשפט בחיפה, תצלום המחשה למוסדות משפט בישראל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-15",
+      "dateModified": "2026-11-15",
+      "summaryHe": "עאסי וכרמל בוחנים תיקי תעבורה בישראל כדי לצמצם חלק מבעיות ההשוואה בין בעלי ייצוג למי שמייצגים את עצמם. בקרב מי שהגיעו לבית המשפט, ייצוג נקשר ליותר הסדרי טיעון ולהפחתת נקודות, לצד קנסות גבוהים יותר. הממצאים מדגישים שגם הליך פשוט לכאורה עשוי להעניק יתרון לידע מקצועי, אך אינם ניסוי בהקצאה אקראית של עורכי דין.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "diskin-israeli-election-1992",
       "file": "diskin-israeli-election-1992.html",
