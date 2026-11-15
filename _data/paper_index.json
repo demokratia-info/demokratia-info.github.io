@@ -1,8 +1,290 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2134,
+  "paperCount": 2144,
   "papers": [
+    {
+      "slug": "waterman-electoral-districts-israel",
+      "file": "waterman-electoral-districts-israel.html",
+      "permalink": "/waterman-electoral-districts-israel.html",
+      "sortKey": 202611160010,
+      "titleHe": "אזורי בחירה בישראל: הגבולות הגאוגרפיים הם חלק מהרפורמה",
+      "paperTitle": "Electoral Reform in Israel: a Geographer's View",
+      "authorsCardHe": "Stanley Waterman",
+      "sourceAuthors": [
+        "Stanley Waterman"
+      ],
+      "journal": "Geographical Research Forum 3, 16–24",
+      "dateText": "1981-05-01",
+      "doiUrl": "https://doi.org/10.64166/d89cxg10",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/waterman-electoral-districts-israel.jpg",
+        "altHe": "נוף עירוני של חיפה והמפרץ, להמחשת פיזור אוכלוסייה במרחב",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "ווטרמן בוחן הצעות לשינוי שיטת הבחירות בישראל ומראה שחלוקה לאזורי בחירה אינה פרט טכני. גודל המחוזות, צורתם וגבולותיהם משפיעים על ייצוג מפלגות, על הקשר לנבחרים ועל ערך הקול. ניתוחו ההיסטורי מציע לשלב שיקולים גאוגרפיים כבר בעיצוב הרפורמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kook-democracy-hybrid-identity",
+      "file": "kook-democracy-hybrid-identity.html",
+      "permalink": "/kook-democracy-hybrid-identity.html",
+      "sortKey": 202611160009,
+      "titleHe": "דמוקרטיה וזהות מורכבת: זכויות קבוצתיות והחירות לבחור",
+      "paperTitle": "Democracy and Identity: Liberal Virtue and the Hybrid Individual",
+      "authorsCardHe": "Rebecca Kook",
+      "sourceAuthors": [
+        "Rebecca Kook"
+      ],
+      "journal": "Hagar: International Social Science Review 3(1), 37–43",
+      "dateText": "2002-06-01",
+      "doiUrl": "https://doi.org/10.64166/sdf7f287",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kook-democracy-hybrid-identity.jpg",
+        "altHe": "איור של הורה וסטודנטית בשיחה עם מורה בספרייה קהילתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "קוק טוענת שדמוקרטיה ליברלית צריכה להכיר בכך שלאנשים יש זהויות מורכבות שאינן נכנסות לקטגוריה קבוצתית אחת. בדיון בזכויות קבוצתיות ובחינוך הערבי בישראל, היא מראה כיצד הגנה תרבותית עלולה להפוך למסגרת כופה. ההצעה היא לחבר הכרה קבוצתית עם בחירה אישית והשפעה ממשית על תוכן המוסדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "felsenthal-machover-eu-draft-voting",
+      "file": "felsenthal-machover-eu-draft-voting.html",
+      "permalink": "/felsenthal-machover-eu-draft-voting.html",
+      "sortKey": 202611160008,
+      "titleHe": "רוב מיוחס באיחוד האירופי: יעילות החלטה מול שוויון בכוח ההצבעה",
+      "paperTitle": "Analysis of QM rules in the draft constitution for Europe proposed by the European Convention, 2003",
+      "authorsCardHe": "דן ס׳ פלזנטל; משה מחובר",
+      "sourceAuthors": [
+        "Dan S. Felsenthal",
+        "Moshé Machover"
+      ],
+      "journal": "Social Choice and Welfare 23(1), 1–20",
+      "dateText": "2004-08",
+      "doiUrl": "https://doi.org/10.1007/s00355-004-0317-3",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/felsenthal-machover-eu-draft-voting.jpg",
+        "altHe": "בניין יוסטוס ליפסיוס בבריסל, המשמש את מועצת האיחוד האירופי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "פלזנטל ומחובר מנתחים את כללי הרוב המיוחס שהוצעו למועצת השרים בטיוטת החוקה האירופית מ־2003. בהשוואה להסדרי ניס, ההצעה מקלה על קבלת החלטות אך מחלקת את הכוח בצורה פחות שוויונית ופוגעת במיוחד בכוח החסימה של מדינות בינוניות. המאמר מציע להעריך רפורמות הצבעה לפי כמה אמות מידה, ולא לפי מהירות הכרעה בלבד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "milman-sivan-eu-social-dialogue",
+      "file": "milman-sivan-eu-social-dialogue.html",
+      "permalink": "/milman-sivan-eu-social-dialogue.html",
+      "sortKey": 202611160007,
+      "titleHe": "מי מייצג עובדים ומעסיקים בדיאלוג החברתי האירופי?",
+      "paperTitle": "Representativity, Civil Society, and the EU Social Dialogue: Lessons From the International Labor Organization",
+      "authorsCardHe": "פאינה מילמן־סיון",
+      "sourceAuthors": [
+        "Faina Milman-Sivan"
+      ],
+      "journal": "Indiana Journal of Global Legal Studies 16(1), 311–337",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.2979/gls.2009.16.1.311",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/milman-sivan-eu-social-dialogue.jpg",
+        "altHe": "מרכז ויליאם ראפאר בז׳נבה, ששימש בעבר את ארגון העבודה הבינלאומי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "מילמן־סיון בוחנת את הלגיטימציה של ארגוני עובדים ומעסיקים המשתתפים בעיצוב נורמות באיחוד האירופי. באמצעות השוואה לארגון העבודה הבינלאומי היא טוענת שיש לבחון גם את המבנה הפנימי וחופש ההתאגדות בארגונים המייצגים. עצם השתייכותו של ארגון לחברה האזרחית אינה מספיקה כדי לבסס סמכות לדבר בשם אחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "akirav-candidate-selection-cooperation",
+      "file": "akirav-candidate-selection-cooperation.html",
+      "permalink": "/akirav-candidate-selection-cooperation.html",
+      "sortKey": 202611160006,
+      "titleHe": "פריימריז ושיתוף פעולה בכנסת: הקשר בין בחירת מועמדים להצלחת חקיקה",
+      "paperTitle": "Candidate Selection Methods, Cooperation and Legislative Effectiveness",
+      "authorsCardHe": "אסנת עקירב",
+      "sourceAuthors": [
+        "Osnat Akirav"
+      ],
+      "journal": "Review of European Studies 10(1), 46–60",
+      "dateText": "2018-01-22",
+      "doiUrl": "https://doi.org/10.5539/res.v10n1p46",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/akirav-candidate-selection-cooperation.jpg",
+        "altHe": "איור של קבוצת מחוקקים בדיוניים המעיינים יחד במסמך במסדרון פרלמנטרי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "עקירב בוחנת כיצד שיטות בחירת מועמדים ומבנה המערכת המפלגתית קשורים לשיתוף פעולה ולהעברת חוקים בכנסת. בנתונים לשנים 1949–2015, שיתוף פעולה בין מפלגות היה נפוץ יותר משיתוף בתוך מפלגה בקרב היוזמות המשותפות, ואימוץ פריימריז נקשר לסיכויי העברה נמוכים יותר. המחקר מראה שיש לבחון רפורמות מפלגתיות גם דרך התמריצים שהן יוצרות בעבודה הפרלמנטרית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "akirav-intersectional-representation",
+      "file": "akirav-intersectional-representation.html",
+      "permalink": "/akirav-intersectional-representation.html",
+      "sortKey": 202611160005,
+      "titleHe": "ייצוג מוסלמים בפרלמנט: כיצד מגדר, דת ולאום מצטלבים",
+      "paperTitle": "Intersectional Representation Between Gender, Religion, and Nationality",
+      "authorsCardHe": "אסנת עקירב",
+      "sourceAuthors": [
+        "Osnat Akirav"
+      ],
+      "journal": "Review of European Studies 13(4), 32–45",
+      "dateText": "2021-11-15",
+      "doiUrl": "https://doi.org/10.5539/res.v13n4p32",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/akirav-intersectional-representation.jpg",
+        "altHe": "תצלום ארכיוני של עבודה בכנסת, להמחשת הזירה הפרלמנטרית ולא של נציגי המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "עקירב מנתחת שאילתות של נציגים מוסלמים בישראל, בגרמניה ובבריטניה כדי לבחון אילו זהויות מיוצגות בפעולתם. המחקר מוצא הבדלים בין המדינות ומראה שסוגיות של נשים מוסלמיות עלולות להישאר בלתי נראות גם כשיש נציגי מיעוט בפרלמנט. בדיקת ייצוג מחייבת אפוא לבחון גם את תוכן העשייה ואת השילוב בין זהויות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gafni-lavi-tennenholtz-weighted-voting",
+      "file": "gafni-lavi-tennenholtz-weighted-voting.html",
+      "permalink": "/gafni-lavi-tennenholtz-weighted-voting.html",
+      "sortKey": 202611160004,
+      "titleHe": "מספר הקולות אינו כוח ההכרעה: שחקנים גדולים וקטנים בהצבעה משוקללת",
+      "paperTitle": "Worst-case Bounds on Power vs. Proportion in Weighted Voting Games with an Application to False-name Manipulation",
+      "authorsCardHe": "Yotam Gafni; Ron Lavi; משה טננהולץ",
+      "sourceAuthors": [
+        "Yotam Gafni",
+        "Ron Lavi",
+        "Moshe Tennenholtz"
+      ],
+      "journal": "Journal of Artificial Intelligence Research 72, 99–135",
+      "dateText": "2021-09-23",
+      "doiUrl": "https://doi.org/10.1613/jair.1.13136",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/gafni-lavi-tennenholtz-weighted-voting.jpg",
+        "altHe": "איור מטפורי של משתתפים בדיון ולפניהם ערמות שונות של אסימוני הצבעה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "גפני, לביא וטננהולץ מנתחים את הפער בין חלקם של שחקנים בקולות לבין כוחם ביצירת קואליציה מנצחת. במודל שלהם, היתרון היחסי של השחקנים הגדולים מוגבל במדדים מסוימים אך אינו חסום במדד אחר. התוצאה מבהירה מדוע הערכת שוויון בהצבעה מחייבת לבחון גם את כלל ההכרעה ואת מדד הכוח שנבחר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "rosenfeld-shapiro-talmon-proportional-primaries",
+      "file": "rosenfeld-shapiro-talmon-proportional-primaries.html",
+      "permalink": "/rosenfeld-shapiro-talmon-proportional-primaries.html",
+      "sortKey": 202611160003,
+      "titleHe": "דירוג יחסי בפריימריז: כיצד לשפר ייצוג בלי לצמצם השתתפות",
+      "paperTitle": "Proportional ranking in primary elections: A case study",
+      "authorsCardHe": "אריאל רוזנפלד; אהוד שפירא; נמרוד טלמון",
+      "sourceAuthors": [
+        "Ariel Rosenfeld",
+        "Ehud Shapiro",
+        "Nimrod Talmon"
+      ],
+      "journal": "Party Politics 29(2), 335–346",
+      "dateText": "2022-01-03",
+      "doiUrl": "https://doi.org/10.1177/13540688211066711",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/rosenfeld-shapiro-talmon-proportional-primaries.jpg",
+        "altHe": "איור של ציבור מגוון המשתתף בהצבעה בחדר קהילתי, להמחשת בחירת מועמדים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "רוזנפלד, שפירא וטלמון מראים ששיתוף מצביעים רבים בפריימריז אינו מבטיח ייצוג מאוזן של קבוצותיהם ברשימה. בניתוח הצבעות ממפלגת דמוקרטית, שיטות דירוג יחסיות שיפרו את ייצוגן של קבוצות שהספירה הרגילה הותירה מאחור. אימוץ שיטה כזאת דורש גם הסבר ובקרה שיאפשרו לחברי המפלגה להבין את התוצאה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shalev-peer-poll-graphic-scaling",
+      "file": "shalev-peer-poll-graphic-scaling.html",
+      "permalink": "/shalev-peer-poll-graphic-scaling.html",
+      "sortKey": 202611160002,
+      "titleHe": "ציר מקוצר בגרף סקר גורם ליתרון קטן להיראות כמו ניצחון ברור",
+      "paperTitle": "Predicting a win by a small margin: The effect of graphic scaling in published polls on voters' predictions",
+      "authorsCardHe": "Edith Shalev; Eyal Peer",
+      "sourceAuthors": [
+        "Edith Shalev",
+        "Eyal Peer"
+      ],
+      "journal": "Journal of Behavioral Decision Making 36(4), e2339",
+      "dateText": "2023-07-14",
+      "doiUrl": "https://doi.org/10.1002/bdm.2339",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shalev-peer-poll-graphic-scaling.jpg",
+        "altHe": "איור של שני עורכים המשווים דפי תרשימים בעלי פערים חזותיים שונים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "שלו ופאר מצאו בשלושה ניסויים כי צמצום טווח הציר בגרף סקר מחזק את התחזית שהמועמד המוביל ינצח ובפער גדול יותר. ההשפעה נחלשת כשהפער המספרי גדול ומתחזקת כאשר הערכים אינם כתובים על התרשים. שקיפות במספרים ובקנה המידה היא אפוא רכיב מהותי בדיווח הוגן על תחרות פוליטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "trillo-starita-instagram-middle-region",
+      "file": "trillo-starita-instagram-middle-region.html",
+      "permalink": "/trillo-starita-instagram-middle-region.html",
+      "sortKey": 202611160001,
+      "titleHe": "מנהיגים יוצאי דופן ואנשים רגילים: הפופוליזם של מלוני ורנצי באינסטגרם",
+      "paperTitle": "The Middle Region Populism of Giorgia Meloni and Matteo Renzi on Instagram",
+      "authorsCardHe": "Tommaso Trillò; Giovanni Daniele Starita",
+      "sourceAuthors": [
+        "Tommaso Trillò",
+        "Giovanni Daniele Starita"
+      ],
+      "journal": "The International Journal of Press/Politics 30(1), 122–144",
+      "dateText": "2023-07-22",
+      "doiUrl": "https://doi.org/10.1177/19401612231186938",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/trillo-starita-instagram-middle-region.jpg",
+        "altHe": "איור המחשה של מנהיגה בדיונית המצטלמת עם אנשים במסדרון של מוסד ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "summaryHe": "טרילו וסטאריטה מראים כיצד ג׳ורג׳ה מלוני ומתאו רנצי משלבים באינסטגרם סממנים של חיי יומיום עם מעמד פוליטי יוצא דופן. ניתוח תמונותיהם מצביע על טשטוש מתוכנן בין הבמה הציבורית למאחורי הקלעים. הקרבה המצולמת לציבור היא אפוא חלק מבניית הסמכות של המנהיג, ואינה בהכרח ביטול המרחק ממנו.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "benvenisti-harel-discordant-parity",
       "file": "benvenisti-harel-discordant-parity.html",
