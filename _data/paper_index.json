@@ -1,8 +1,330 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2144,
+  "paperCount": 2154,
   "papers": [
+    {
+      "slug": "palestinian-parties-indigeneity-fragmentation",
+      "file": "palestinian-parties-indigeneity-fragmentation.html",
+      "permalink": "/palestinian-parties-indigeneity-fragmentation.html",
+      "sortKey": 202611170010,
+      "titleHe": "מדוע הפיצול בין המפלגות הפלסטיניות בישראל נמשך?",
+      "paperTitle": "What do indigenous parties want? The case of Palestinian citizens of Israel",
+      "authorsCardHe": "דורון נבות; Mohammed Khalaile; Salem Seh; Samer Swaid",
+      "sourceAuthors": [
+        "Doron Navot",
+        "Muhammed Khalaily",
+        "Salem Seh",
+        "Samer Swaid"
+      ],
+      "journal": "Ethnic and Racial Studies, 1–18",
+      "dateText": "2025-04-22",
+      "doiUrl": "https://doi.org/10.1080/01419870.2025.2490189",
+      "topics": [
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/palestinian-parties-indigeneity-fragmentation.jpg",
+        "altHe": "איור של קבוצות נציגים בדיונים נפרדים באולם קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "המחברים מסבירים את הפיצול המתמשך בין המפלגות של אזרחי ישראל הפלסטינים באמצעות שילוב של מבנה פוליטי, בסיסי תמיכה ותפיסות ילידיות. נאמנות חזקה בתוך מפלגות יכולה להתקיים לצד עוינות ביניהן וסדרי יום המרוחקים מצורכי האזרח הממוצע. כך גם רצון ציבורי בשיתוף פעולה אינו מבטיח אחדות מפלגתית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "russian-online-discourse-gender",
+      "file": "russian-online-discourse-gender.html",
+      "permalink": "/russian-online-discourse-gender.html",
+      "sortKey": 202611170009,
+      "titleHe": "נשים בשיח הפוליטי הרוסי ברשת: ההשתתפות משתנה עם המלחמה",
+      "paperTitle": "Gender-based dynamics in Russian online political discourse",
+      "authorsCardHe": "Elizaveta Savchenko; מייקל פרידמן",
+      "sourceAuthors": [
+        "Elizaveta Savchenko",
+        "Michael Freedman"
+      ],
+      "journal": "Information, Communication & Society 29(1), 62–76",
+      "dateText": "2025-05-05",
+      "doiUrl": "https://doi.org/10.1080/1369118x.2025.2496904",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/russian-online-discourse-gender.jpg",
+        "altHe": "איור של אישה המשתתפת בשיחה מקוונת באמצעות טלפון בביתה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "סבצ׳נקו ופרידמן מנתחים 2,168 סרטוני יוטיוב ויותר מ־36 אלף תגובות בתקופת המלחמה בין רוסיה לאוקראינה. השתתפות נשים קשורה לאירועים מרכזיים, ובולטת יותר בערוצים המתנגדים לממשלה, במיוחד בשיאי העימות. הממצא מדגיש שהזירה המקוונת ומאפייני הזמן חשובים להבנת פערים מגדריים בהשתתפות פוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "collective-action-self-esteem",
+      "file": "collective-action-self-esteem.html",
+      "permalink": "/collective-action-self-esteem.html",
+      "sortKey": 202611170008,
+      "titleHe": "ערך עצמי מסביר גם השתתפות במחאה וגם הימנעות ממנה",
+      "paperTitle": "Identity, Collective Action and Inaction: The Role of Self‐Esteem and Psychological Benefits",
+      "authorsCardHe": "דורון שולצינר",
+      "sourceAuthors": [
+        "Doron Shultziner"
+      ],
+      "journal": "Journal for the Theory of Social Behaviour 55(1), e12440",
+      "dateText": "2025-01-02",
+      "doiUrl": "https://doi.org/10.1111/jtsb.12440",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/collective-action-self-esteem.jpg",
+        "altHe": "איור של שכנים מתארגנים למפגש אזרחי בחצר, ולצדם צופה שטרם הצטרפה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "דורון שולצינר מציע להסביר פעולה קולקטיבית דרך ערך עצמי ותועלות פסיכולוגיות, לצד זהות קבוצתית ועמדות מוסריות. פעולה עשויה לחזק ערך עצמי ולעודד השתתפות נוספת, אך גם הימנעות יכולה להעניק תועלת פסיכולוגית. לכן הבנת התגייסות אזרחית מחייבת לבחון גם את מי שאינם מצטרפים ואת ההבדלים בעוצמת המעורבות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "left-populism-party-organization",
+      "file": "left-populism-party-organization.html",
+      "permalink": "/left-populism-party-organization.html",
+      "sortKey": 202611170007,
+      "titleHe": "פופוליזם של השמאל זקוק גם למפלגות ולארגון",
+      "paperTitle": "People’s populism? Institutionalization and organization as the blind spots of contemporary left populism",
+      "authorsCardHe": "יאיר גולדשמידט; דורון נבות",
+      "sourceAuthors": [
+        "Yair Goldshmidt",
+        "Doron Navot"
+      ],
+      "journal": "Journal of Political Ideologies, 1–19",
+      "dateText": "2026-10-07",
+      "doiUrl": "https://doi.org/10.1080/13569317.2026.2744287",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/left-populism-party-organization.jpg",
+        "altHe": "פנים אולם הקונגרס הספרדי במדריד, להמחשת הממד המוסדי של פעילות מפלגתית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "גולדשמידט ונבות טוענים שחלק מכישלונות הפופוליזם השמאלי בשנות ה־2010 קשורים להזנחת מיסוד וארגון. הם מבקרים גישות הרואות בעם בעיקר תוצר של שיח, ובוחנים את סיריזה ופודמוס. טענתם היא שייצוג עממי מחייב גם מסגרות חומריות ומפלגתיות המסוגלות לארגן את האנשים שבשמם פועלים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "women-in-red-vulnerability-activism",
+      "file": "women-in-red-vulnerability-activism.html",
+      "permalink": "/women-in-red-vulnerability-activism.html",
+      "sortKey": 202611170006,
+      "titleHe": "נשים באדום: פגיעוּת מגדרית כמקור לכוח אזרחי",
+      "paperTitle": "Women in Red: gender-based vulnerabilities and the far-right coalition in Israel",
+      "authorsCardHe": "רחל לוי הרץ",
+      "sourceAuthors": [
+        "Rachel Levi Herz"
+      ],
+      "journal": "Journal of Gender Studies",
+      "dateText": "2026-02-23",
+      "doiUrl": "https://doi.org/10.1080/09589236.2026.2633726",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/women-in-red-vulnerability-activism.jpg",
+        "altHe": "נשים בלבוש שפחות במחאה נגד השינוי המשפטי ברעננה, מרץ 2023",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "רחל לוי הרץ בוחנת כיצד פעילות נשים באדום הפכו חשש מפגיעה מגדרית לבסיס לפעולה קולקטיבית נגד המהלך המשפטי של קואליציית הימין הקיצוני. ראיונות עם הפעילות מצביעים על העצמה, זהות פוליטית וקשרי תמיכה. לצד זאת, ההרכב החברתי של המחאה הציב גבולות ליכולתה לשתף קהילות מודרות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "barbie-woke-gender-culture-war",
+      "file": "barbie-woke-gender-culture-war.html",
+      "permalink": "/barbie-woke-gender-culture-war.html",
+      "sortKey": 202611170005,
+      "titleHe": "ברבי ו־Woke: מילה אחת במאבק על מגדר וערכים",
+      "paperTitle": "“This Barbie is Woke!”: unpacking ‘Woke’ as a contested keyword in the gendered culture war",
+      "authorsCardHe": "הדס גור־זאב; נטע קליגלר־וילנצ׳יק",
+      "sourceAuthors": [
+        "Hadas Gur-Ze’ev",
+        "Neta Kligler-Vilenchik"
+      ],
+      "journal": "Feminist Media Studies, 1–17",
+      "dateText": "2026-08-26",
+      "doiUrl": "https://doi.org/10.1080/14680777.2026.2720511",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/barbie-woke-gender-culture-war.jpg",
+        "altHe": "דיון עם קהל בפסטיבל לוקרנו 2025, להמחשת ויכוח ציבורי על קולנוע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "גור־זאב וקליגלר־וילנצ׳יק מנתחות 648 תגובות מקוונות לסרט ברבי ומראות כיצד המונח Woke מקבל משמעויות מתחרות. הביקורת מופנית לסרט, לערכים המזוהים איתו וגם לאופן שבו מתווכחים עליו. הניתוח מסביר כיצד יצירה פופולרית נעשית זירה למאבק על שוויון מגדרי ועל זהויות ליברליות ושמרניות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "big-tech-international-human-rights",
+      "file": "big-tech-international-human-rights.html",
+      "permalink": "/big-tech-international-human-rights.html",
+      "sortKey": 202611170004,
+      "titleHe": "ענקיות הטכנולוגיה מול דיני זכויות האדם: אחריות בלי אכיפה מספקת",
+      "paperTitle": "Big Tech Companies’ Obligations under International Human Rights Law",
+      "authorsCardHe": "יובל שני",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "Israel Law Review 58(1), 3–27",
+      "dateText": "2025-03-06",
+      "doiUrl": "https://doi.org/10.1017/s0021223724000189",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/big-tech-international-human-rights.jpg",
+        "altHe": "איור של משתמשים בשיחה על זכויותיהם במרחב דיגיטלי לצד חדר שרתים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "יובל שני בוחן כיצד מסגרת זכויות אדם שנבנתה בעיקר להגבלת מדינות יכולה להתמודד עם כוחן של חברות טכנולוגיה. הוא מוצא התקדמות בעקרונות בינלאומיים, בהסדרה עצמית ובפיקוח, לצד תלות ניכרת בהתחייבויות וולונטריות. הגנת משתמשים דורשת להתמודד גם עם הפער בין הכרזה על זכויות לבין מנגנוני אחריות וסעד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "political-ads-facebook-instagram-2020",
+      "file": "political-ads-facebook-instagram-2020.html",
+      "permalink": "/political-ads-facebook-instagram-2020.html",
+      "sortKey": 202611170003,
+      "titleHe": "הסרת פרסום פוליטי בפייסבוק ובאינסטגרם לא שינתה באופן מזוהה את ההצבעה ב־2020",
+      "paperTitle": "The effects of political advertising on Facebook and Instagram before the 2020 US election",
+      "authorsCardHe": "Hunt Allcott; Matthew Gentzkow; רועי לוי ואחרים",
+      "sourceAuthors": [
+        "Hunt Allcott",
+        "Matthew Gentzkow",
+        "Ro’ee Levy",
+        "Adriana Crespo-Tenorio",
+        "Natasha Dumas",
+        "Winter Mason",
+        "Devra Moehler",
+        "Pablo Barberá",
+        "Taylor Brown",
+        "Juan Carlos Cisneros",
+        "Drew Dimmery",
+        "Deen Freelon",
+        "Sandra González-Bailón",
+        "Andrew M. Guess",
+        "Young Mie Kim",
+        "David Lazer",
+        "Neil Malhotra",
+        "Sameer Nair-Desai",
+        "Brendan Nyhan",
+        "Ana Carolina Paixao de Queiroz",
+        "Jennifer Pan",
+        "Jaime Settle",
+        "Emily Thorson",
+        "Rebekah Tromble",
+        "Carlos Velasco Rivera",
+        "Benjamin Wittenbrink",
+        "Magdalena Wojcieszak",
+        "Shiqi Yang",
+        "Saam Zahedian",
+        "Annie Franco",
+        "Chad Kiewiet de Jonge",
+        "Natalie Jomini Stroud",
+        "Joshua A. Tucker"
+      ],
+      "journal": "Nature Human Behaviour 10, 884–895",
+      "dateText": "2026-03-02",
+      "doiUrl": "https://doi.org/10.1038/s41562-025-02328-w",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/political-ads-facebook-instagram-2020.jpg",
+        "altHe": "איור של שימוש בטלפון לצד מעטפות דואר בבית בתקופת בחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "ניסוי בארצות הברית הסיר מודעות פוליטיות מקבוצות משתמשים בפייסבוק ובאינסטגרם לפני בחירות 2020. לא זוהתה השפעה על הצבעה, קיטוב, ידע פוליטי או תפיסת לגיטימיות הבחירות. הממצא מצמצם טענות להשפעה גדולה של הפרסום בהקשר שנבדק, אך אינו שולל השפעות קטנות או השפעה בזמנים ובבחירות אחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "electoral-district-variation-representation",
+      "file": "electoral-district-variation-representation.html",
+      "permalink": "/electoral-district-variation-representation.html",
+      "sortKey": 202611170002,
+      "titleHe": "מחוזות בחירה בגדלים שונים משנים את הייצוג בפרלמנט",
+      "paperTitle": "Permissibility of Electoral Systems: A New Look at an Old Question",
+      "authorsCardHe": "אורית קדר; לירן הרסגור; אור טוטנאואר",
+      "sourceAuthors": [
+        "Orit Kedar",
+        "Liran Harsgor",
+        "Or Tuttnauer"
+      ],
+      "journal": "The Journal of Politics 83(2), 439–452",
+      "dateText": "2021-02-24",
+      "doiUrl": "https://doi.org/10.1086/709835",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/electoral-district-variation-representation.jpg",
+        "altHe": "איור של עובדי בחירות ממיינים מעטפות הצבעה בחדר ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "קדר, הרסגור וטוטנאואר מראים שהשוואת שיטות בחירות באמצעות מחוז ממוצע או חציוני בלבד מחמיצה גורם חשוב. מחוזות גדולים לצד מחוזות קטנים מאפשרים למגוון רחב יותר של מפלגות בבחירות להגיע לפרלמנט. לכן הערכת רפורמה אזורית דורשת לבחון את התפלגות המושבים בין כל המחוזות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "populism-democracy-interstate-belligerence",
+      "file": "populism-democracy-interstate-belligerence.html",
+      "permalink": "/populism-democracy-interstate-belligerence.html",
+      "sortKey": 202611170001,
+      "titleHe": "פופוליזם וסמכותנות: שילוב הקשור לעימותים בין מדינות",
+      "paperTitle": "Assessing Populist Belligerence: Evidence of Populism and Democratic Governance’s Interaction on Interstate Violence",
+      "authorsCardHe": "Ariel Zellman; דניאל פ׳ ויינר; כרמלה לוטמר; Özgür Özdamar",
+      "sourceAuthors": [
+        "Ariel Zellman",
+        "Daniel F Wajner",
+        "Carmela Lutmar",
+        "Özgür Özdamar"
+      ],
+      "journal": "International Studies Quarterly 70(4), sqag085",
+      "dateText": "2026-11-03",
+      "doiUrl": "https://doi.org/10.1093/isq/sqag085",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/populism-democracy-interstate-belligerence.jpg",
+        "altHe": "איור של הנהגה אזרחית בדיון על עימות בין מדינות, לצד מוסדות שלטון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "summaryHe": "המחקר קושר בין פופוליזם של מפלגות שלטון לבין נטייה לאיים ולהפעיל כוח צבאי, ומוצא שהקשר חריף במיוחד במשטרים סמכותניים. ההשוואה בין מדינות מראה שגם דמוקרטיות אינן חסינות מפני דינמיקה זו. מכאן החשיבות של בחינת מבנה המשטר לצד סגנון ההנהגה כשמעריכים סכנת הסלמה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "waterman-electoral-districts-israel",
       "file": "waterman-electoral-districts-israel.html",
