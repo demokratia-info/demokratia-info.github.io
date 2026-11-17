@@ -1,8 +1,299 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2154,
+  "paperCount": 2164,
   "papers": [
+    {
+      "slug": "women-mps-gendered-parliaments-coping",
+      "file": "women-mps-gendered-parliaments-coping.html",
+      "permalink": "/women-mps-gendered-parliaments-coping.html",
+      "sortKey": 202611180010,
+      "titleHe": "כיצד חברות כנסת מתמודדות עם חסמים מגדריים?",
+      "paperTitle": "Contending with disadvantage: women MPs’ coping strategies in gendered parliaments",
+      "authorsCardHe": "רעות איצקוביץ׳־מלכה; ורד פורזיקי",
+      "sourceAuthors": [
+        "Reut Itzkovitch-Malka",
+        "Vered Porzycki"
+      ],
+      "journal": "International Feminist Journal of Politics, 27(3), 683–706",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1080/14616742.2025.2471052",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/women-mps-gendered-parliaments-coping.jpg",
+        "altHe": "ישיבה של ועדת העבודה, הרווחה והבריאות בכנסת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "מחקר המבוסס על 29 ראיונות עם מחוקקות בישראל מזהה שלוש אסטרטגיות התמודדות: בניית קשרים, פיצוי והתרחקות מסטריאוטיפים מגדריים. הוא מראה ששיפור בייצוג המספרי אינו מבטל את השפעת הכללים הפורמליים והבלתי פורמליים. הבדלים בין נשים, ובהם זהות לאומית, משפיעים על מרחב הפעולה שלהן.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "older-persons-rights-new-york-geneva",
+      "file": "older-persons-rights-new-york-geneva.html",
+      "permalink": "/older-persons-rights-new-york-geneva.html",
+      "sortKey": 202611180009,
+      "titleHe": "ממדיניות זיקנה לאמנה לזכויות אנשים מבוגרים",
+      "paperTitle": "From New York to Geneva: advancing a new international human rights convention for older persons",
+      "authorsCardHe": "ישראל איסי דורון; סילביה פרל־לוין",
+      "sourceAuthors": [
+        "Israel (Issi) Doron",
+        "Silvia Perel-Levin"
+      ],
+      "journal": "The International Journal of Human Rights, 1–13",
+      "dateText": "2026-04-29",
+      "doiUrl": "https://doi.org/10.1080/13642987.2026.2661918",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/older-persons-rights-new-york-geneva.jpg",
+        "altHe": "זוג מבוגר חוצה כביש בכיכר לונדון בליסבון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "ישראל איסי דורון וסילביה פרל־לוין מנתחים את הדרך להחלטת מועצת זכויות האדם ב־2025 לפתוח בתהליך ניסוח אמנה לאנשים מבוגרים. הם רואים במעבר ממסגרת פיתוח ורווחה למסגרת זכויות שינוי במעמדם של אנשים מבוגרים כנושאי זכויות. פתיחת תהליך הניסוח היא שלב מוסדי משמעותי, אך אינה זהה לאימוץ אמנה מחייבת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "employment-discrimination-integrative-mechanisms",
+      "file": "employment-discrimination-integrative-mechanisms.html",
+      "permalink": "/employment-discrimination-integrative-mechanisms.html",
+      "sortKey": 202611180008,
+      "titleHe": "מנגנונים שונים של אפליה דורשים מחקר משולב",
+      "paperTitle": "The Human Mind and Human Rights: A Call for an Integrative Study of the Mechanisms Generating Employment Discrimination across Different Social Categories",
+      "authorsCardHe": "יובל פלדמן; תמר קריכלי־קץ",
+      "sourceAuthors": [
+        "Yuval Feldman",
+        "Tamar Kricheli-Katz"
+      ],
+      "journal": "The Law & Ethics of Human Rights, 9(1), 43–67",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1515/lehr-2015-0005",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/employment-discrimination-integrative-mechanisms.jpg",
+        "altHe": "איור של מועמדות ומועמדים מרקעים שונים ממתינים לראיון עבודה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "יובל פלדמן ותמר קריכלי־קץ קוראים לחקור אפליה בתעסוקה באמצעות שילוב דיסציפלינות ושיטות. הם מבקרים את ההנחה שמנגנון אחד ומדיניות אחידה מתאימים לכל קבוצה ולכל שלב ביחסי העבודה. הבנת השילוב בין חשיבה מודעת לתגובות אוטומטיות יכולה לסייע בהתאמת מדיניות לקבלה לעבודה, לקידום ולפיטורים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "primaries-spending-gender-gap-israel",
+      "file": "primaries-spending-gender-gap-israel.html",
+      "permalink": "/primaries-spending-gender-gap-israel.html",
+      "sortKey": 202611180007,
+      "titleHe": "כסף, ותק והפער המגדרי בפריימריז בישראל",
+      "paperTitle": "Campaign expenditures and electoral outcomes in Israeli legislative primaries – A financial gender gap?",
+      "authorsCardHe": "ניר אטמור; לירן הרסגור; עופר קניג",
+      "sourceAuthors": [
+        "Nir Atmor",
+        "Liran Harsgor",
+        "Ofer Kenig"
+      ],
+      "journal": "International Political Science Review, 44(1), 27–42",
+      "dateText": "2023; פורסם מקוון ב־2022",
+      "doiUrl": "https://doi.org/10.1177/01925121221085439",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/primaries-spending-gender-gap-israel.jpg",
+        "altHe": "איור של מועמדת וצוות מתנדבים בוחנים תקציב במשרד קמפיין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "מחקר על 365 מועמדים בשבע התמודדויות פנימיות מצא שגברים הוציאו בממוצע יותר מנשים, במיוחד בקרב מועמדים חדשים. הבדלים בהוצאות ובשיעור המכהנים מסבירים בנתונים את יתרון ההצלחה של גברים. שוויון בכניסה לפוליטיקה דורש לבחון משאבי קמפיין לצד כללי הבחירה הפורמליים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "government-termination-coalition-measurement",
+      "file": "government-termination-coalition-measurement.html",
+      "permalink": "/government-termination-coalition-measurement.html",
+      "sortKey": 202611180006,
+      "titleHe": "מתי ממשלה באמת מסתיימת?",
+      "paperTitle": "Termination of parliamentary governments: revised definitions and implications",
+      "authorsCardHe": "יעל שומר; ביורן אריק ראש; אסנת עקירב",
+      "sourceAuthors": [
+        "Yael Shomer",
+        "Bjørn Erik Rasch",
+        "Osnat Akirav"
+      ],
+      "journal": "West European Politics, 45(3), 550–575",
+      "dateText": "2022; פורסם מקוון ב־2021",
+      "doiUrl": "https://doi.org/10.1080/01402382.2021.1997498",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/government-termination-coalition-measurement.jpg",
+        "altHe": "בניין הפרלמנט הנורווגי באוסלו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "יעל שומר, ביורן אריק ראש ואסנת עקירב מראים שספירת כל שינוי מפלגתי בקואליציה כסיום ממשלה עלולה לנפח את מספר הממשלות. הגדרות מדויקות יותר משנות את משך הכהונה הנמדד ומצמצמות כמעט לגמרי את הפער בין קואליציות רוב מינימליות לעודפות. מדדי יציבות צריכים להבחין בין שינוי בהרכב לבין סיום בעל משמעות פוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "civil-rights-reform-free-enterprise-folkways",
+      "file": "civil-rights-reform-free-enterprise-folkways.html",
+      "permalink": "/civil-rights-reform-free-enterprise-folkways.html",
+      "sortKey": 202611180005,
+      "titleHe": "כיצד חופש כלכלי שימש להתנגדות לרפורמה בזכויות האזרח",
+      "paperTitle": "American folkways: Laissez-faire and the economic objection to civil rights reform",
+      "authorsCardHe": "תמר הופנונג",
+      "sourceAuthors": [
+        "Tamar Hofnung"
+      ],
+      "journal": "Economy and Society, 54(3), 525–548",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1080/03085147.2025.2532307",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/civil-rights-reform-free-enterprise-folkways.jpg",
+        "altHe": "עובד אפרו־אמריקאי במפעל מטוסים של הצי בפילדלפיה בשנת 1942",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "תמר הופנונג מנתחת כיצד התנגדות לאכיפה נגד אפליה בתעסוקה נוסחה כהגנה על חופש כלכלי ועל מנהגים חברתיים. השינוי אפשר למחוקקים דרומיים לחבר שמרנות גזעית לברית עם שמרנים כלכליים. המקרה מראה כיצד מסגור הדיון יכול להשפיע על יכולתה של מדיניות שוויון לזכות בתמיכה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "women-voice-un-human-rights-experts",
+      "file": "women-voice-un-human-rights-experts.html",
+      "permalink": "/women-voice-un-human-rights-experts.html",
+      "sortKey": 202611180004,
+      "titleHe": "מי משמיעות קול בוועדות זכויות האדם של האו״ם?",
+      "paperTitle": "A Voice or an Echo? Women in the UN Human Rights Expert Bodies",
+      "authorsCardHe": "נינה ריינרס; שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Nina Reiners",
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "Global Governance: A Review of Multilateralism and International Organizations, 30(3-4), 383–408",
+      "dateText": "2024-12-19",
+      "doiUrl": "https://doi.org/10.1163/19426720-03003010",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/women-voice-un-human-rights-experts.jpg",
+        "altHe": "איור של מומחית משמיעה עמדה בדיון ועדה בין־לאומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "מחקר על שלוש ועדות אמנה של האו״ם מצא שנשים השתתפו בדיונים יותר מגברים, אך היתרון לא התחלק באופן שווה בין נשים. הכשרה משפטית והשתייכות לקבוצות אזוריות דומיננטיות עיצבו את הדפוס. הרחבת הייצוג דורשת לכן תשומת לב גם למקצוע ולרקע הגאוגרפי, ולא רק למספר הנשים בוועדה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "corporate-human-rights-liability-process",
+      "file": "corporate-human-rights-liability-process.html",
+      "permalink": "/corporate-human-rights-liability-process.html",
+      "sortKey": 202611180003,
+      "titleHe": "אחריות תאגידית לזכויות אדם מתחילה גם בעיצוב ההליך",
+      "paperTitle": "A Process-Oriented Approach to Corporate Liability for Human Rights Violations",
+      "authorsCardHe": "ליאורה בילסקי; נטלי דודזון",
+      "sourceAuthors": [
+        "Leora Bilsky",
+        "Natalie R Davidson"
+      ],
+      "journal": "Transnational Legal Theory, 4(1), 1–43",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.5235/20414005.4.1.1",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/corporate-human-rights-liability-process.jpg",
+        "altHe": "איור של אדם מבוגר וחוקרת משפטית הבוחנים מסמכי ארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "ליאורה בילסקי ונטלי דודזון טוענות שדיון באחריות תאגידים מחייב לברר גם מי משתתף בהליך, מי מחליט ואיזה צדק הוא מקדם. ההשוואה בין התביעות נגד בנקים שווייצריים לתביעות נגד חברות גרמניות מראה שבחירה בין מסלול שיפוטי למסלול מדיני־מינהלי משנה את הייצוג ואת הסעד. הליכים יכולים לייצר אחריות ציבורית גם מעבר להכרעה משפטית סופית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "workplace-democracy-process-participation",
+      "file": "workplace-democracy-process-participation.html",
+      "permalink": "/workplace-democracy-process-participation.html",
+      "sortKey": 202611180002,
+      "titleHe": "דמוקרטיה בעבודה: השתתפות, זכויות וכוח",
+      "paperTitle": "Workplace – Democracy: Reclaiming the Effort to Foster Public and Private Isomorphism",
+      "authorsCardHe": "גיא מונדלק",
+      "sourceAuthors": [
+        "Guy Mundlak"
+      ],
+      "journal": "Theoretical Inquiries in Law, 15(1), 159–198",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1515/til-2014-007",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/workplace-democracy-process-participation.jpg",
+        "altHe": "איור של עובדות, עובדים ומנהל בדיון סביב שולחן עבודה במפעל",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "גיא מונדלק מציע לחדש את הקשר בין עבודה לדמוקרטיה באמצעות הליכים שמאפשרים לעובדים להשתתף, לקבל מידע ולדרוש אחריות. גלובליזציה ושינויים בשוק העבודה מחייבים לחבר בין המפעל, המדינה ורשתות פעולה רחבות יותר. השתתפות אינה תחליף לזכויות מהותיות, אלא חלק ממערך המגביל כוח ומרחיב יכולת פעולה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gender-framing-livni-clinton-press",
+      "file": "gender-framing-livni-clinton-press.html",
+      "permalink": "/gender-framing-livni-clinton-press.html",
+      "sortKey": 202611180001,
+      "titleHe": "הסיקור המגדרי של ציפי לבני והילרי קלינטון",
+      "paperTitle": "\"He Will Take Care of our Security Better than Her\" Examining Socio-Cultural Conceptions of Gender in Israeli and American Press Coverage of Female Candidates for Top Political Positions, 2008-2009",
+      "authorsCardHe": "גלעד גרינוולד; סם לימן־וילציג",
+      "sourceAuthors": [
+        "Gilad Greenwald",
+        "Sam Lehman-Wilzig"
+      ],
+      "journal": "Journal of Intercultural Communication, 17(3), 1–18",
+      "dateText": "2017-11-10",
+      "doiUrl": "https://doi.org/10.36923/jicc.v17i3.744",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gender-framing-livni-clinton-press.jpg",
+        "altHe": "איור של מועמדת בדיונית משוחחת עם עיתונאים וצלמים מחוץ למבנה ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "summaryHe": "ההשוואה בין סיקור לבני וקלינטון מראה שהטיות מגדריות פועלות בשתי המדינות, אך מקבלות ביטויים שונים. בישראל בלטו תפיסות הקשורות לצבא ולדת, ובעיתונות הפופולרית בלט עיסוק במראה ובמיניות. ייצוג תקשורתי שוויוני מחייב לבחון גם את אמות המידה להערכת מועמדות, מעבר לעצם נוכחותן בחדשות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "palestinian-parties-indigeneity-fragmentation",
       "file": "palestinian-parties-indigeneity-fragmentation.html",
