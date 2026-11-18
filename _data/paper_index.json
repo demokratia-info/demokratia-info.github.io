@@ -1,8 +1,335 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2164,
+  "paperCount": 2174,
   "papers": [
+    {
+      "slug": "kahn-nisser-export-trade-human-rights-praise",
+      "file": "kahn-nisser-export-trade-human-rights-praise.html",
+      "permalink": "/kahn-nisser-export-trade-human-rights-praise.html",
+      "sortKey": 202611190010,
+      "titleHe": "סחר בינלאומי ושבח בדוחות זכויות אדם של האו״ם",
+      "paperTitle": "Pleasing the Buyer: Human Rights Experts from Exporting Countries and Praise of Importing Countries",
+      "authorsCardHe": "שרה קאהן-ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "International Interactions, 51(1), 92–120",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1080/03050629.2025.2451650",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-export-trade-human-rights-praise.jpg",
+        "altHe": "איור של מומחים מעיינים בדוחות בחדר המשקיף על נמל מסחרי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "שרה קאהן־ניסר בוחנת כיצד קשרי יצוא בין מדינות קשורים לשבח בדוחות של מומחי זכויות אדם באו״ם. ניתוח של שלושה גופי אמנות מצביע על זיקה בין יצוא ממדינת המומחה למדינה הנבדקת לבין נקודות חיוביות בדוחות, ומעלה שאלה על השפעת היררכיות כלכליות על פיקוח בינלאומי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shany-digital-rights-treaty-interpretation",
+      "file": "shany-digital-rights-treaty-interpretation.html",
+      "permalink": "/shany-digital-rights-treaty-interpretation.html",
+      "sortKey": 202611190009,
+      "titleHe": "זכויות דיגיטליות וגבולות הפרשנות של אמנות זכויות האדם",
+      "paperTitle": "How far can you go? Shoehorning Digital Rights into Existing Human Rights Treaties",
+      "authorsCardHe": "יובל שני",
+      "sourceAuthors": [
+        "Yuval Shany"
+      ],
+      "journal": "ICL Journal, 19(4), 435–477",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1515/icl-2025-0020",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/shany-digital-rights-treaty-interpretation.jpg",
+        "altHe": "איור של חוקרי משפט הדנים בספר פתוח ולצדו מחשב נייד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "יובל שני בוחן עד כמה אפשר להגן על זכויות דיגיטליות באמצעות פרשנות מרחיבה של אמנות קיימות. הדיון בגישה לאינטרנט, בהגדרה עצמית דיגיטלית ובהוגנות ושקיפות אלגוריתמית מציב זו לצד זו את הצורך בהגנה מתעדכנת ואת שאלת הגבולות והלגיטימיות של הפרשנות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "shaham-maymon-miodownik-cities-human-rights",
+      "file": "shaham-maymon-miodownik-cities-human-rights.html",
+      "permalink": "/shaham-maymon-miodownik-cities-human-rights.html",
+      "sortKey": 202611190008,
+      "titleHe": "מי יגן על זכויותינו: העיר, המדינה והזהות האתנית",
+      "paperTitle": "Who will protect our human rights? Cities, states, and ethnicity",
+      "authorsCardHe": "גיל שהם־מימון, דן מיודובניק",
+      "sourceAuthors": [
+        "Gil Shaham-Maymon",
+        "Dan Miodownik"
+      ],
+      "journal": "Journal of Urban Affairs, 48(4), 1367–1392",
+      "dateText": "21 בינואר 2025 (פרסום מקוון; גיליון 2026)",
+      "doiUrl": "https://doi.org/10.1080/07352166.2024.2447346",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/shaham-maymon-miodownik-cities-human-rights.jpg",
+        "altHe": "רחוב בוואדי ניסנאס בחיפה בשנת 2009; תצלום להמחשת ההקשר העירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "גיל שהם־מימון ודן מיודובניק בוחנים כיצד זהות עירונית קשורה לציפייה שהשלטון המקומי יגן על זכויות אדם. סקר וראיונות בערים בישראל מצביעים על קשר בולט במיוחד בקרב בני הרוב היהודי בערים מעורבות, ומבחינים בין שייכות מקומית לבין זהות אתנו־לאומית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "luster-albin-green-pass-rights-equity",
+      "file": "luster-albin-green-pass-rights-equity.html",
+      "permalink": "/luster-albin-green-pass-rights-equity.html",
+      "sortKey": 202611190007,
+      "titleHe": "התו הירוק: קידום חיסונים דרך זכויות אדם ושוויון",
+      "paperTitle": "Promoting Vaccination from a Human Rights and Equity Perspective: Lessons from the Israeli “Green Pass”",
+      "authorsCardHe": "תמר לוסטר, עינת אלבין ועמיתים",
+      "sourceAuthors": [
+        "Tamar Luster",
+        "Einat Albin",
+        "Aeyal Gross",
+        "Miriam Tabenkin",
+        "Nadav Davidovitch",
+        "The COVID-19 and Human Rights Working Group"
+      ],
+      "journal": "European Journal of Risk Regulation, 12(2), 308–320",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1017/err.2021.36",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/luster-albin-green-pass-rights-equity.jpg",
+        "altHe": "איור של שיחה בין אשת צוות רפואי למטופל במרפאת חיסונים בתקופת הקורונה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "ניתוח התו הירוק בישראל בשנת 2021 מבחין בין צמצום סיכון בריאותי לבין הפעלת לחץ להתחסן. המחברים מציעים לבחון הגבלות דרך זכויות אדם, מידתיות ושוויון בגישה, ומדגישים את חשיבות ההסדרה הציבורית, האמון והסרת החסמים להתחסנות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "tuttnauer-rahat-complex-candidate-selection",
+      "file": "tuttnauer-rahat-complex-candidate-selection.html",
+      "permalink": "/tuttnauer-rahat-complex-candidate-selection.html",
+      "sortKey": 202611190006,
+      "titleHe": "מי בוחר את המועמדים? חלוקת הכוח בתוך מפלגות",
+      "paperTitle": "Servants of two (or more) masters: Accounting for the complexity of intraparty candidate selection methods",
+      "authorsCardHe": "אור טוטנאואר, גדעון רהט",
+      "sourceAuthors": [
+        "Or Tuttnauer",
+        "Gideon Rahat"
+      ],
+      "journal": "Party Politics, 29(1), 185–192",
+      "dateText": "4 בינואר 2022 (פרסום מקוון; גיליון 2023)",
+      "doiUrl": "https://doi.org/10.1177/13540688211060658",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/tuttnauer-rahat-complex-candidate-selection.jpg",
+        "altHe": "איור של עיון בתיקי מועמדים לצד אספת חברים המצביעה בחדר סמוך",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "אור טוטנאואר וגדעון רהט מראים שבחירת מועמדים במפלגות מערבת בדרך כלל כמה גופים ושלבים. מחקר על 184 מפלגות ב־35 דמוקרטיות מציע למדוד בנפרד את היקף ההשתתפות ואת מורכבות התהליך, כדי לחשוף גם סמכויות סינון וטו שמסתתרות מאחורי ההצבעה הסופית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cosma-gender-inequality-adolescent-bullying",
+      "file": "cosma-gender-inequality-adolescent-bullying.html",
+      "permalink": "/cosma-gender-inequality-adolescent-bullying.html",
+      "sortKey": 202611190005,
+      "titleHe": "בריונות ואי־שוויון מגדרי: מחקר בני נוער ב־46 מדינות",
+      "paperTitle": "Gender Differences in Bullying Reflect Societal Gender Inequality: A Multilevel Study With Adolescents in 46 Countries",
+      "authorsCardHe": "Alina Cosma, סופי וולש ועמיתים",
+      "sourceAuthors": [
+        "Alina Cosma",
+        "Ylva Bjereld",
+        "Frank J. Elgar",
+        "Clive Richardson",
+        "Ludwig Bilz",
+        "Wendy Craig",
+        "Lilly Augustine",
+        "Michal Molcho",
+        "Marta Malinowska-Cieślik",
+        "Sophie D. Walsh"
+      ],
+      "journal": "Journal of Adolescent Health, 71(5), 601–608",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1016/j.jadohealth.2022.05.015",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/cosma-gender-inequality-adolescent-bullying.jpg",
+        "altHe": "איור של נערות ונערים משוחחים בחצר בית ספר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "מחקר השוואתי ב־46 מדינות קושר בין אי־שוויון מגדרי בחברה לבין הבדלים בין בנים לבנות במעורבות בבריונות. הדפוס משתנה בין בריונות מסורתית לפגיעה ברשת, ומצביע על הצורך לחבר מניעה בבית הספר להבנת נורמות ויחסי כוח בחברה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "giraudet-climate-convention-co-construction",
+      "file": "giraudet-climate-convention-co-construction.html",
+      "permalink": "/giraudet-climate-convention-co-construction.html",
+      "sortKey": 202611190004,
+      "titleHe": "ועידת האזרחים לאקלים בצרפת: השתתפות, מומחיות ואמון",
+      "paperTitle": "“Co-construction” in deliberative democracy: lessons from the French Citizens’ Convention for Climate",
+      "authorsCardHe": "Louis-Gaëtan Giraudet ועמיתים",
+      "sourceAuthors": [
+        "Louis-Gaëtan Giraudet",
+        "Bénédicte Apouey",
+        "Hazem Arab",
+        "Simon Baeckelandt",
+        "Philippe Bégout",
+        "Nicolas Berghmans",
+        "Nathalie Blanc",
+        "Jean-Yves Boulin",
+        "Eric Buge",
+        "Dimitri Courant",
+        "Amy Dahan",
+        "Adrien Fabre",
+        "Jean-Michel Fourniau",
+        "Maxime Gaborit",
+        "Laurence Granchamp",
+        "Hélène Guillemot",
+        "Laurent Jeanpierre",
+        "Hélène Landemore",
+        "Jean-François Laslier",
+        "Antonin Macé",
+        "Claire Mellier",
+        "Sylvain Mounier",
+        "Théophile Pénigaud",
+        "Ana Póvoas",
+        "Christiane Rafidinarivo",
+        "Bernard Reber",
+        "Romane Rozencwajg",
+        "Philippe Stamenkovic",
+        "Selma Tilikete",
+        "Solène Tournus"
+      ],
+      "journal": "Humanities and Social Sciences Communications, 9, Article 207",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1057/s41599-022-01212-6",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/giraudet-climate-convention-co-construction.jpg",
+        "altHe": "משתתפי ועידת האזרחים לאקלים בצרפת, פברואר 2020; התצלום נחתך למיקוד בקהל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "מחקר על ועידת האזרחים לאקלים בצרפת מראה כיצד אזרחים, מארגנים ומומחים עיצבו יחד הצעות מדיניות. אזרחים יכלו לגלות עצמאות בתוך תהליך שתוכנן עבורם, אך ההסכמה שנוצרה בחדר לא הבטיחה אמון בציבור הרחב או מימוש פוליטי של ההמלצות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kaplan-british-parliament-club-public-event",
+      "file": "kaplan-british-parliament-club-public-event.html",
+      "permalink": "/kaplan-british-parliament-club-public-event.html",
+      "sortKey": 202611190003,
+      "titleHe": "בית הנבחרים הבריטי: ממועדון אליטה לאירוע ציבורי",
+      "paperTitle": "When a Club Turns into a Public Event: The Structural Transformation of the British Parliament and the Making of Collective Solidarity",
+      "authorsCardHe": "דני קפלן",
+      "sourceAuthors": [
+        "Danny Kaplan"
+      ],
+      "journal": "Society, 60(6), 881–892",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1007/s12115-023-00897-y",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kaplan-british-parliament-club-public-event.jpg",
+        "altHe": "סקיצה של ג׳ורג׳ הייטר המתארת את בית הנבחרים הבריטי בשנת 1833",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "דני קפלן מתאר כיצד הסיקור העיתונאי הפך את הפרלמנט הבריטי מזירה של קשרים בין חברי אליטה לאירוע שקהל רחב יכול לעקוב אחריו. חשיפת חיי המועדון יצרה תחושת קרבה ושייכות לאומית, גם כאשר הגישה הישירה לכוח הפוליטי נותרה מוגבלת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-hazan-weiss-politics-executive-gender",
+      "file": "cohen-hazan-weiss-politics-executive-gender.html",
+      "permalink": "/cohen-hazan-weiss-politics-executive-gender.html",
+      "sortKey": 202611190002,
+      "titleHe": "פוליטיקה ושוויון מגדרי בצמרת ההנהלה",
+      "paperTitle": "Politics and gender in the executive suite",
+      "authorsCardHe": "עלמה כהן, משה חזן, דוד וייס",
+      "sourceAuthors": [
+        "Alma Cohen",
+        "Moshe Hazan",
+        "David Weiss"
+      ],
+      "journal": "The Journal of Law, Economics, and Organization, 41(3), 893–929",
+      "dateText": "11 ביולי 2024 (פרסום מקוון; גיליון 2025)",
+      "doiUrl": "https://doi.org/10.1093/jleo/ewae011",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/cohen-hazan-weiss-politics-executive-gender.jpg",
+        "altHe": "איור של מנהלת המציגה עמדה בישיבת הנהלה הכוללת נשים וגברים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "עלמה כהן, משה חזן ודוד וייס מוצאים קשר בין העדפות פוליטיות של מנכ״לים בארצות הברית לבין ייצוג נשים ושכרן בהנהלה הבכירה. בחברות שבהן מנכ״ל דמוקרטי החליף מנכ״ל רפובליקני גדל חלקן של נשים ביחס לקבוצת ההשוואה, אך המנגנון שמאחורי הפער נותר פתוח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "schwed-cultural-argumentation-democratic-resilience",
+      "file": "schwed-cultural-argumentation-democratic-resilience.html",
+      "permalink": "/schwed-cultural-argumentation-democratic-resilience.html",
+      "sortKey": 202611190001,
+      "titleHe": "דיון טיעוני רגיש לתרבות כבסיס לחוסן דמוקרטי",
+      "paperTitle": "Culturally Responsive Argumentation for Democratic Resilience",
+      "authorsCardHe": "מנשה שויד",
+      "sourceAuthors": [
+        "Menashe Schwed"
+      ],
+      "journal": "Argumentation",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1007/s10503-025-09684-x",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/schwed-cultural-argumentation-democratic-resilience.jpg",
+        "altHe": "איור של משתתפים מרקעים תרבותיים שונים בדיון לימודי סביב שולחן וספרים פתוחים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-19",
+      "dateModified": "2026-11-19",
+      "summaryHe": "מנשה שויד מציע מסגרת להוראת טיעון המשלבת מסורות מקומיות עם ביקורת פתוחה ושוויונית. המסגרת מבקשת לטפח נכונות לנמק, להקשיב ולשנות עמדה בלי לדרוש ויתור על זהות תרבותית; תרומתה לחוסן הדמוקרטי מוצגת כהצעה שיש לבחון, ולא כתוצאה שכבר הוכחה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "women-mps-gendered-parliaments-coping",
       "file": "women-mps-gendered-parliaments-coping.html",
