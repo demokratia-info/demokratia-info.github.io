@@ -1,8 +1,293 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2174,
+  "paperCount": 2184,
   "papers": [
+    {
+      "slug": "oskolkov-estonia-open-ethnic-democracy",
+      "file": "oskolkov-estonia-open-ethnic-democracy.html",
+      "permalink": "/oskolkov-estonia-open-ethnic-democracy.html",
+      "sortKey": 202611200010,
+      "titleHe": "מיהו אסטוני: לאומיות ודמוקרטיה אתנית פתוחה",
+      "paperTitle": "Estonianness in the Making: Transformations of Ethnic Democracy Model and Nationalism in Estonia",
+      "authorsCardHe": "Petr Oskolkov",
+      "sourceAuthors": [
+        "Petr Oskolkov"
+      ],
+      "journal": "Ethnopolitics, 23(5), 467–486",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.1080/17449057.2023.2216981",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/oskolkov-estonia-open-ethnic-democracy.jpg",
+        "altHe": "איור של מפגש שכנים בחצר עירונית בהשראת טאלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "המאמר מציע להבחין בין דמוקרטיה אתנית פתוחה לסגורה באמצעות התפתחות הזהות הלאומית באסטוניה. הוא מתאר לאומיות הנשענת על שפה ותרבות אך מאפשרת הצטרפות, ומחדד את ההבדל בין שימור זהות לאומית לבין קיבוע גבולות שייכות שאי אפשר לחצות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "david-shalhoub-kevorkian-racial-beliefs-child-arrest",
+      "file": "david-shalhoub-kevorkian-racial-beliefs-child-arrest.html",
+      "permalink": "/david-shalhoub-kevorkian-racial-beliefs-child-arrest.html",
+      "sortKey": 202611200009,
+      "titleHe": "עמדות גזעניות, תקשורת ותמיכה במעצר ילדים בסכסוך הישראלי־פלסטיני",
+      "paperTitle": "Racializing human rights: political orientation, racial beliefs, and media use as predictors of support for human rights violations – a case study of the Israeli-Palestinian conflict",
+      "authorsCardHe": "יוסי דוד, נאדירה שלהוב־קבורקיאן",
+      "sourceAuthors": [
+        "Yossi David",
+        "Nadera Shalhoub-Kevorkian"
+      ],
+      "journal": "Ethnic and Racial Studies, 46(10), 1947–1971",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1080/01419870.2023.2166792",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/david-shalhoub-kevorkian-racial-beliefs-child-arrest.jpg",
+        "altHe": "תצלום רחוב בתל אביב מאת Eugenie Vasilyeff, להמחשת ההקשר העירוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "סקר של 1,001 יהודים ישראלים בוחן את הקשרים בין עמדה פוליטית, אמונות גזעניות ושימוש בתקשורת לבין תמיכה במעצר ילדים. הממצאים מדגישים את מקומן של אמונות על קבוצות בהצדקת פגיעה בזכויות ואת הצורך לבחון כיצד השיח הציבורי מתווך בין זהות פוליטית לבין יחס לזכויות ילדים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "moskovich-binhas-religious-civil-society-idf",
+      "file": "moskovich-binhas-religious-civil-society-idf.html",
+      "permalink": "/moskovich-binhas-religious-civil-society-idf.html",
+      "sortKey": 202611200008,
+      "titleHe": "בין משפחה לבירוקרטיה: עמותה דתית הפועלת בתוך צה״ל",
+      "paperTitle": "Hybrid religious civil society organization, the Israeli case of “the path upwards” lesson learned",
+      "authorsCardHe": "יפה מושקוביץ, עדי בינס",
+      "sourceAuthors": [
+        "Yaffa Moskovich",
+        "Adi Binhas"
+      ],
+      "journal": "International Journal of Sociology and Social Policy, 45(1/2), 51–66",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1108/ijssp-06-2024-0286",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/moskovich-binhas-religious-civil-society-idf.jpg",
+        "altHe": "איור של מתנדבים סביב שולחן ארוחה משותפת בסביבה קהילתית וצבאית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "מחקר מקרה המבוסס על עשרים ראיונות בוחן עמותה דתית התנדבותית הפועלת בצה״ל. הוא מזהה שילוב של קהילה, יחסים משפחתיים ובירוקרטיה, ומראה מדוע הבנת הקשר בין חברה אזרחית למוסדות המדינה מחייבת תשומת לב גם לתרבות הארגונית ולדרכי ההשתלבות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kahn-nisser-donor-states-torture-committee-reviews",
+      "file": "kahn-nisser-donor-states-torture-committee-reviews.html",
+      "permalink": "/kahn-nisser-donor-states-torture-committee-reviews.html",
+      "sortKey": 202611200007,
+      "titleHe": "כשמדינות מממנות גם את מי שמבקר אותן על זכויות אדם",
+      "paperTitle": "When the targets are members and donors: Analyzing inter-governmental organizations’ human rights shaming",
+      "authorsCardHe": "שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "The Review of International Organizations, 14(3), 431–451",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.1007/s11558-018-9317-4",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-donor-states-torture-committee-reviews.jpg",
+        "altHe": "איור של מומחים בוחנים מסמכים בחדר עבודה המשקיף על ג׳נבה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "שרה קאהן־ניסר בוחנת את השבח והביקורת בדוחות הוועדה נגד עינויים של האו״ם. הניתוח מוצא קשר בין קרבה מדינית לארצות הברית לבין הערכה חיובית יותר, ומעלה שאלה על עצמאות הפיקוח כאשר המדינות המבוקרות שותפות גם למימון המערכת הבינלאומית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "anisman-razin-kark-saguy-speaking-gender-inequality",
+      "file": "anisman-razin-kark-saguy-speaking-gender-inequality.html",
+      "permalink": "/anisman-razin-kark-saguy-speaking-gender-inequality.html",
+      "sortKey": 202611200006,
+      "titleHe": "המחיר החברתי של העלאת אי־שוויון מגדרי לדיון",
+      "paperTitle": "“Putting gender on the table”: Understanding reactions to women who discuss gender inequality",
+      "authorsCardHe": "מורן אניסמן־רזין, רונית קרק, תמר שגיא",
+      "sourceAuthors": [
+        "Moran Anisman-Razin",
+        "Ronit Kark",
+        "Tamar Saguy"
+      ],
+      "journal": "Group Processes & Intergroup Relations, 21(5), 690–706",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1177/1368430217744648",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/anisman-razin-kark-saguy-speaking-gender-inequality.jpg",
+        "altHe": "איור של אישה מדברת בפני קבוצת מאזינים בספרייה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "שני ניסויים בוחנים תגובות לאישה המדברת על אי־שוויון מגדרי לעומת אישה המדברת על נושאים אחרים. הממצאים מצביעים על תגובות שליליות בקרב גברים ועל חשיבות ההזדהות הפמיניסטית בקרב נשים, וממחישים כיצד תגובות לקולה של הדוברת עשויות להקשות על קידום שוויון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ginsburg-human-rights-video-voice-collaboration",
+      "file": "ginsburg-human-rights-video-voice-collaboration.html",
+      "permalink": "/ginsburg-human-rights-video-voice-collaboration.html",
+      "sortKey": 202611200005,
+      "titleHe": "מי שולט בסיפור: צילום פלסטיני ופעילות וידאו למען זכויות אדם",
+      "paperTitle": "Emancipation and Collaboration: A Critical Examination of Human Rights Video Advocacy",
+      "authorsCardHe": "רותי גינזבורג",
+      "sourceAuthors": [
+        "Ruthie Ginsburg"
+      ],
+      "journal": "Theory, Culture & Society, 38(3), 51–70",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1177/0263276419861681",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ginsburg-human-rights-video-voice-collaboration.jpg",
+        "altHe": "איור של אישה מצלמת במצלמת וידאו במרחב עירוני בנוי אבן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "רותי גינזבורג בוחנת את המתח בין העצמה באמצעות צילום לבין תלות בארגון המפיץ וממסגר את התיעוד. ניתוח סרטונים וראיונות סביב פעילות בצלם מראה כיצד ראיה משפטית וחשיפה ציבורית עשויות לקדם אחריותיות, אך גם להסיט את תשומת הלב מן הצלמים הפלסטינים וממטרותיהם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "khoury-bisharat-goldstone-local-human-rights-organizations",
+      "file": "khoury-bisharat-goldstone-local-human-rights-organizations.html",
+      "permalink": "/khoury-bisharat-goldstone-local-human-rights-organizations.html",
+      "sortKey": 202611200004,
+      "titleHe": "אחרי ועדת גולדסטון: הגנה בינלאומית ותגובת נגד לארגוני זכויות אדם",
+      "paperTitle": "The Unintended Consequences of the Goldstone Commission of Inquiry on Human Rights Organizations in Israel",
+      "authorsCardHe": "האלה חורי באשארת",
+      "sourceAuthors": [
+        "Hala Khoury-Bisharat"
+      ],
+      "journal": "European Journal of International Law, 30(3), 877–901",
+      "dateText": "2019",
+      "doiUrl": "https://doi.org/10.1093/ejil/chz044",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/khoury-bisharat-goldstone-local-human-rights-organizations.jpg",
+        "altHe": "דיפלומטים בארמון האומות בג׳נבה במהלך ועידת פירוק מנשק בשנת 2012",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "המאמר בוחן כיצד שיתוף פעולה של ארגוני זכויות אדם בישראל עם ועדת גולדסטון השפיע עליהם. הוא מתאר שילוב של דה־לגיטימציה ולחץ בזירה המקומית עם התחזקות הנראות וההכרה הבינלאומית, ומבקש לכלול את ביטחון הארגונים המקומיים בתכנון עבודתן של ועדות חקירה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "dagan-shalev-judges-solitary-confinement-responsibility",
+      "file": "dagan-shalev-judges-solitary-confinement-responsibility.html",
+      "permalink": "/dagan-shalev-judges-solitary-confinement-responsibility.html",
+      "sortKey": 202611200003,
+      "titleHe": "כיצד בתי משפט מאשרים בידוד ממושך למרות ההכרה בנזקיו",
+      "paperTitle": "The role of Israeli judges in authorising solitary confinement placements: Balancing human rights and risk, or neutralising responsibility?",
+      "authorsCardHe": "נתנאל דגן, שרון שלו",
+      "sourceAuthors": [
+        "Netanel Dagan",
+        "Sharon Shalev"
+      ],
+      "journal": "Punishment & Society, 25(1), 181–201",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1177/14624745211019112",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/dagan-shalev-judges-solitary-confinement-responsibility.jpg",
+        "altHe": "איור של מסדרון כליאה ותא ריק הממחיש הפרדה ממושכת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "ניתוח 354 החלטות של בתי משפט מחוזיים בישראל מצביע על אישור נרחב של בקשות להארכת הפרדה בכלא. דגן ושלו מראים כיצד הסתמכות על מומחיות שב״ס, מידע חסוי ושגרות שיפוטיות עשויה לנטרל אחריות להגנת זכויות, גם כשהשופטים מכירים בנזקי הבידוד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ben-haim-approval-plurality-uncertainty-robustness",
+      "file": "ben-haim-approval-plurality-uncertainty-robustness.html",
+      "permalink": "/ben-haim-approval-plurality-uncertainty-robustness.html",
+      "sortKey": 202611200002,
+      "titleHe": "איזו שיטת הצבעה עמידה יותר לאי־ודאות בתוצאות?",
+      "paperTitle": "Approval and plurality voting with uncertainty: Info-gap analysis of robustness",
+      "authorsCardHe": "יעקב בן־חיים",
+      "sourceAuthors": [
+        "Yakov Ben-Haim"
+      ],
+      "journal": "Public Choice, 189(1-2), 239–256",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1007/s11127-021-00881-2",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ben-haim-approval-plurality-uncertainty-robustness.jpg",
+        "altHe": "איור של ספירת פתקי הצבעה בידי צוות קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "השוואה בין הצבעת אישור להצבעה למועמד יחיד מראה שעמידות לאי־ודאות תלויה גם בפער הניצחון שמבקשים להבטיח. ניתוח בשיטת פער המידע מוצא יתרונות שונים בבחירות צמודות ובפערים גדולים, ומציע לבחון כללי בחירות באמצעות ספי ביצוע מפורשים ולא באמצעות הכרזה על שיטה עדיפה תמיד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kuna-nadiv-harassment-commissioners-organizational-power",
+      "file": "kuna-nadiv-harassment-commissioners-organizational-power.html",
+      "permalink": "/kuna-nadiv-harassment-commissioners-organizational-power.html",
+      "sortKey": 202611200001,
+      "titleHe": "ממונות על הטרדה מינית: אחריות בלי כוח ארגוני מספיק",
+      "paperTitle": "Human resource practitioners as sexual harassment commissioners: Sisyphus amid gender inequalities",
+      "authorsCardHe": "שני קונה, רונית נדיב",
+      "sourceAuthors": [
+        "Shani Kuna",
+        "Ronit Nadiv"
+      ],
+      "journal": "Equality, Diversity and Inclusion: An International Journal, 40(6), 737–761",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1108/edi-10-2020-0305",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kuna-nadiv-harassment-commissioners-organizational-power.jpg",
+        "altHe": "איור של עובדת משאבי אנוש עם תיק מסמכים מחוץ לחדר הנהלה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "summaryHe": "ראיונות עם 45 ממונות על הטרדה מינית בארגונים עסקיים בישראל חושפים פער בין סמכות פורמלית לבין יכולת לפעול. המחקר מראה כיצד מחסור במשאבים, תלות בהנהלה ובדידות מקצועית מחלישים את ההגנה על עובדים, ומציע לבחון את יחסי הכוח שמאחורי מנגנון התלונות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "kahn-nisser-export-trade-human-rights-praise",
       "file": "kahn-nisser-export-trade-human-rights-praise.html",
