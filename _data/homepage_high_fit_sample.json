@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-20",
+  "lastUpdated": "2026-11-21",
   "sampleSize": 6,
-  "seed": "2026-11-20-homepage-high-fit",
+  "seed": "2026-11-21-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 1022,
+  "fullTextHighFitPaperCount": 1023,
   "paperSlugs": [
     "eliaz-spiegler-competing-political-narratives",
     "democracy_elevating_the_significance_of_military_service_knesset_members_and_republican_values_summary_he",
     "democracy_populist_champion_diplomacy_agreements_summary_he",
-    "democracy_divided_israeli_social_protest_covid19_summary_he",
+    "democracy_datafication_law_carceral_power_judges_summary_he",
     "democracy_the_stranger_that_dwelleth_with_you_shall_be_unto_you_as_one_born_among_you_israeli_media_law_summary_he",
-    "democracy_the_supreme_court_yeshiva_students_and_military_conscription_judicial_review_the_gruni_summary_he"
+    "democracy_basic_law_nation_state_harel_summary_he"
   ]
 }

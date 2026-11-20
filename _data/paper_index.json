@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2184,
+  "paperCount": 2194,
   "papers": [
+    {
+      "slug": "brunner-plotkin-amrami-emotions-civil-society",
+      "file": "brunner-plotkin-amrami-emotions-civil-society.html",
+      "permalink": "/brunner-plotkin-amrami-emotions-civil-society.html",
+      "sortKey": 202611210010,
+      "titleHe": "רגשות בזירה הציבורית: אנשי בריאות הנפש מול שתי האינתיפאדות",
+      "paperTitle": "Emotionalising the Israeli–Palestinian conflict: on the civil society engagements of Israeli mental health professionals in response to the Palestinian uprisings",
+      "authorsCardHe": "José Brunner, גליה פלוטקין־עמרמי",
+      "sourceAuthors": [
+        "José Brunner",
+        "Galia Plotkin Amrami"
+      ],
+      "journal": "Emotions and Society, 3(1), 115–132",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1332/263169021x16148605412750",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/brunner-plotkin-amrami-emotions-civil-society.jpg",
+        "altHe": "איור של מפגש שיחה קבוצתי בחדר קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המאמר משווה טקסטים של אימות ונט״ל בתגובה לשתי האינתיפאדות. למרות ההבדלים בעמדותיהן הפוליטיות, שתי העמותות תיארו רגשות קולקטיביים כמפתח להבנת הסכסוך וכיעד לניהול, ובכך העבירו שפה פסיכולוגית מן היחיד אל הזירה החברתית והפוליטית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ben-lulu-reform-rituals-right-to-city",
+      "file": "ben-lulu-reform-rituals-right-to-city.html",
+      "permalink": "/ben-lulu-reform-rituals-right-to-city.html",
+      "sortKey": 202611210009,
+      "titleHe": "טקסים רפורמיים בתל אביב־יפו כמאבק על שייכות דתית ומגדרית",
+      "paperTitle": "Who has the right to the city? Reform Jewish rituals of gender-religious resistance in Tel Aviv-Jaffa",
+      "authorsCardHe": "Elazar Ben-Lulu",
+      "sourceAuthors": [
+        "Elazar Ben-Lulu"
+      ],
+      "journal": "Gender, Place & Culture, 29(9), 1251–1273",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1080/0966369x.2021.1950643",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ben-lulu-reform-rituals-right-to-city.jpg",
+        "altHe": "הטיילת בתל אביב לצד המרחב העירוני הפתוח",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המאמר בוחן טקסים רפורמיים הנערכים במרחב העירוני של תל אביב־יפו מחוץ לבתי התפילה הקבועים. הוא מפרש אותם כפעולות של התנגדות דתית ומגדרית להגמוניה אורתודוקסית וכדרך להנכיח חלופה דתית שוויונית במרחב הציבורי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kahn-nisser-negative-reciprocity-social-rights",
+      "file": "kahn-nisser-negative-reciprocity-social-rights.html",
+      "permalink": "/kahn-nisser-negative-reciprocity-social-rights.html",
+      "sortKey": 202611210008,
+      "titleHe": "כשאי־ציות של מדינות אחרות מחליש את ההגנה על זכויות חברתיות",
+      "paperTitle": "Reciprocating to the bottom: Is there negative diffuse reciprocity in social economic human rights",
+      "authorsCardHe": "שרה קאהן־ניסר",
+      "sourceAuthors": [
+        "Sara Kahn-Nisser"
+      ],
+      "journal": "International Political Science Review, 44(5), 661–675",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1177/01925121211073325",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/kahn-nisser-negative-reciprocity-social-rights.jpg",
+        "altHe": "איור של אנשי מדיניות בוחנים דוחות לצד מרכז שירות ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המחקר בוחן קשר בין פרסום מידע על הפרות האמנה לזכויות כלכליות, חברתיות ותרבותיות לבין מאמצי מדינות להגן על זכויות אלה. הממצא הוא שככל שמתפרסם יותר מידע על הפרות, המאמצים נמוכים יותר — דפוס שהמאמר מפרש כהדדיות שלילית מפוזרת.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "lerner-permissive-constitution-making",
+      "file": "lerner-permissive-constitution-making.html",
+      "permalink": "/lerner-permissive-constitution-making.html",
+      "sortKey": 202611210007,
+      "titleHe": "דחיית ההכרעה החוקתית: פשרה מועילה שאינה מבטיחה הסכמה לאורך זמן",
+      "paperTitle": "Permissive and Unpermissive Constitution Making",
+      "authorsCardHe": "חנה לרנר",
+      "sourceAuthors": [
+        "Hanna Lerner"
+      ],
+      "journal": "The Law & Ethics of Human Rights, 16(2), 321–346",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1515/lehr-2023-2001",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/lerner-permissive-constitution-making.jpg",
+        "altHe": "בניין הפרלמנט הישן בקולומבו, סרי לנקה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המאמר משווה בין ישראל, הודו וסרי לנקה, שבהן הסדרים חוקתיים מוקדמים הותירו מחלוקות זהות פתוחות. הוא בוחן את המעבר המאוחר לעקרונות מכריעים ומצמצמים יותר, וטוען כי גם לנוכח עמידות מוגבלת, השארת מרחב חוקתי עשויה לסייע לפשרה ולבניית מוסדות דמוקרטיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "abudy-aharon-shust-gender-pay-disclosure",
+      "file": "abudy-aharon-shust-gender-pay-disclosure.html",
+      "permalink": "/abudy-aharon-shust-gender-pay-disclosure.html",
+      "sortKey": 202611210006,
+      "titleHe": "חשיפת פערי שכר מגדריים בבריטניה: צמצום בשכר השעתי, פחות שינוי בבונוסים",
+      "paperTitle": "Can gender Pay-Gap disclosures make a difference?",
+      "authorsCardHe": "Menachem (Meni) Abudy, David Y. Aharon, אפרת שוסט",
+      "sourceAuthors": [
+        "Menachem (Meni) Abudy",
+        "David Y. Aharon",
+        "Efrat Shust"
+      ],
+      "journal": "Finance Research Letters, 52, 103583",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.1016/j.frl.2022.103583",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/abudy-aharon-shust-gender-pay-disclosure.jpg",
+        "altHe": "איור של אישה ואיש בוחנים תיקי שכר בחדר ארכיון",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המחקר בוחן את חובת פרסום פערי השכר המגדריים שהונהגה בבריטניה ב־2017. הוא מוצא ירידה בפערי השכר השעתי לאורך זמן, אך אינו מוצא שינוי מובהק מקביל בפערי הבונוסים ובפער בין שיעורי מקבלי הבונוס.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "mayseless-kizel-youth-participatory-civil-society",
+      "file": "mayseless-kizel-youth-participatory-civil-society.html",
+      "permalink": "/mayseless-kizel-youth-participatory-civil-society.html",
+      "sortKey": 202611210005,
+      "titleHe": "לחנך להשתתפות אזרחית באמצעות משמעות, קהילה וחקירה פילוסופית",
+      "paperTitle": "Preparing youth for participatory civil society: A call for spiritual, communal, and pluralistic humanism in education with a focus on community of philosophical inquiry",
+      "authorsCardHe": "עפרה מייזלס, אריה קיזל",
+      "sourceAuthors": [
+        "Ofra Mayseless",
+        "Arie Kizel"
+      ],
+      "journal": "International Journal of Educational Research, 115, 102015",
+      "dateText": "2022",
+      "doiUrl": "https://doi.org/10.1016/j.ijer.2022.102015",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mayseless-kizel-youth-participatory-civil-society.jpg",
+        "altHe": "איור של צעירים ומורה במעגל שיחה בכיתה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המאמר מציע בסיס חינוכי לחברה אזרחית משתפת: חיפוש משמעות אישי, מחויבות לקהילה ופתיחות לריבוי השקפות. קהילת חקירה פילוסופית מוצגת כמסגרת שבה צעירים יכולים לטפח חשיבה עצמאית, הקשבה ואחריות הדדית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kuperman-malcolm-x-black-nationality",
+      "file": "kuperman-malcolm-x-black-nationality.html",
+      "permalink": "/kuperman-malcolm-x-black-nationality.html",
+      "sortKey": 202611210004,
+      "titleHe": "לאומיות שחורה בלי נוסחה קבועה: השינויים בעמדות מלקולם אקס",
+      "paperTitle": "Malcolm X and Black Nationality—from Separation to Human Rights",
+      "authorsCardHe": "ספי יוסף קופרמן",
+      "sourceAuthors": [
+        "Sefi Josef Kuperman"
+      ],
+      "journal": "The Pluralist, 19(2), 23–46",
+      "dateText": "2024",
+      "doiUrl": "https://doi.org/10.5406/19446489.19.2.02",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kuperman-malcolm-x-black-nationality.jpg",
+        "altHe": "מלקולם אקס ומרטין לותר קינג בתצלום משנת 1964",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המאמר קורא את השינויים בעמדות מלקולם אקס כהתפתחות בתוך מחויבות מתמשכת ללאומיות שחורה. הוא מבחין בין הפרדה, הגירה ועצמאות, ומראה מדוע שינוי בעמדה על גבולות טריטוריאליים אינו מעיד כשלעצמו על ויתור על זהות לאומית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "cesari-fox-religious-hegemony-democracy",
+      "file": "cesari-fox-religious-hegemony-democracy.html",
+      "permalink": "/cesari-fox-religious-hegemony-democracy.html",
+      "sortKey": 202611210003,
+      "titleHe": "דת ודמוקרטיה: חשיבותן של זכויות־יתר מוסדיות לדת אחת",
+      "paperTitle": "Institutional Relations Rather Than Clashes of Civilizations: When and How Is Religion Compatible with Democracy?",
+      "authorsCardHe": "Jocelyne Cesari, Jonathan Fox",
+      "sourceAuthors": [
+        "Jocelyne Cesari",
+        "Jonathan Fox"
+      ],
+      "journal": "International Political Sociology, 10(3), 241–257",
+      "dateText": "2016",
+      "doiUrl": "https://doi.org/10.1093/ips/olw011",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/cesari-fox-religious-hegemony-democracy.jpg",
+        "altHe": "כנסיית ארמון כריסטיאנסבורג בקופנהגן",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המחקר בוחן את הקשר בין הגמוניה דתית לבין דמוקרטיה וזכויות אדם באמצעות נתונים בין־מדינתיים. הוא מפנה את הדיון מזהות הדת להסדרים מוסדיים המעניקים לדת אחת עדיפות בלעדית במימון, בחינוך ובמשפט, ומוצא קשר בין הצטברותם לבין רמות דמוקרטיה נמוכות יותר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "daskal-digital-rights-civic-education",
+      "file": "daskal-digital-rights-civic-education.html",
+      "permalink": "/daskal-digital-rights-civic-education.html",
+      "sortKey": 202611210002,
+      "titleHe": "לדעת, לפעול ולהזדהות: כיצד ארגוני זכויות דיגיטליות מחנכים אזרחים",
+      "paperTitle": "Let’s be careful out there … : how digital rights advocates educate citizens in the digital age",
+      "authorsCardHe": "אפרת דסקל",
+      "sourceAuthors": [
+        "Efrat Daskal"
+      ],
+      "journal": "Information, Communication & Society, 21(2), 241–256",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1080/1369118x.2016.1271903",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/daskal-digital-rights-civic-education.jpg",
+        "altHe": "משתתפות בסדנת ויקיפדיה במלדונדו שבאורוגוואי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "אפרת דסקל מנתחת אתרי אינטרנט וקמפיינים של ארבעה ארגוני זכויות דיגיטליות בארצות הברית, בגרמניה ובישראל. היא מזהה שלוש דרכי חינוך אזרחי: התאמת מידע להקשר תרבותי, עידוד פעולה אישית ומיתוג המאפשר להזדהות בפומבי עם המאבק.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hayat-samuel-azran-second-screen-echo-chambers",
+      "file": "hayat-samuel-azran-second-screen-echo-chambers.html",
+      "permalink": "/hayat-samuel-azran-second-screen-echo-chambers.html",
+      "sortKey": 202611210001,
+      "titleHe": "המסך השני אינו מבטל תיבות תהודה: טוויטר בזמן חדשות הבחירות בארצות הברית",
+      "paperTitle": "“You too, Second Screeners?” Second Screeners’ Echo Chambers During the 2016 U.S. Elections Primaries",
+      "authorsCardHe": "Tsahi Hayat, טל שמואל־עזרן",
+      "sourceAuthors": [
+        "Tsahi Hayat",
+        "Tal Samuel-Azran"
+      ],
+      "journal": "Journal of Broadcasting & Electronic Media, 61(2), 291–308",
+      "dateText": "2017",
+      "doiUrl": "https://doi.org/10.1080/08838151.2017.1309417",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/hayat-samuel-azran-second-screen-echo-chambers.jpg",
+        "altHe": "איור של אדם המשתמש בטלפון בזמן צפייה בחדשות בטלוויזיה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-21",
+      "dateModified": "2026-11-21",
+      "summaryHe": "המחקר מנתח קשרי טוויטר ופעילות בזמן שידור של שלוש תוכניות חדשות בתקופת הפריימריז בארצות הברית ב־2016. הוא מזהה נטייה חזקה לקשרים בתוך המחנה הפוליטי, ומראה שההבדל בין משתתפים פעילים לעוקבים אינו מצביע על התמתנות אחידה בשני המחנות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "oskolkov-estonia-open-ethnic-democracy",
       "file": "oskolkov-estonia-open-ethnic-democracy.html",
