@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2194,
+  "paperCount": 2204,
   "papers": [
+    {
+      "slug": "dudai-transitional-justice-social-control",
+      "file": "dudai-transitional-justice-social-control.html",
+      "permalink": "/dudai-transitional-justice-social-control.html",
+      "sortKey": 202611220010,
+      "titleHe": "צדק מעברי כפיקוח חברתי: שינוי האופן שבו חברה שופטת את עברה",
+      "paperTitle": "Transitional justice as social control: political transitions, human rights norms and the reclassification of the past",
+      "authorsCardHe": "רון דודאי",
+      "sourceAuthors": [
+        "Ron Dudai"
+      ],
+      "journal": "The British Journal of Sociology, 69(3), 691–711",
+      "dateText": "2018 (פרסום מקוון: 2017)",
+      "doiUrl": "https://doi.org/10.1111/1468-4446.12300",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/dudai-transitional-justice-social-control.jpg",
+        "altHe": "איור של מתן עדות בפני ועדה אזרחית באולם ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "רון דודאי מציע להבין צדק מעברי כתהליך של שינוי נורמות ושל סיווג מחדש של העבר. משפטים, ועדות אמת, פיצויים והתנצלויות אינם רק תגובה להיעדר ענישה: הם מתמודדים גם עם הכחשת הפרות זכויות ועם הצגתן בעבר כנורמליות. המאמר מדגיש את תפקידם של זיכרון, גינוי, הכרה וחברה אזרחית בביסוס נורמות חדשות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "semyonov-development-gender-economic-inequality",
+      "file": "semyonov-development-gender-economic-inequality.html",
+      "permalink": "/semyonov-development-gender-economic-inequality.html",
+      "sortKey": 202611220009,
+      "titleHe": "פיתוח כלכלי ותעסוקת נשים: השתתפות, מעמד מקצועי ופערי שכר",
+      "paperTitle": "Development and Gender-Linked Economic Inequality in the Era of Globalization",
+      "authorsCardHe": "משה סמיונוב",
+      "sourceAuthors": [
+        "Moshe Semyonov"
+      ],
+      "journal": "Sociology of Development, 4(3), 304–324",
+      "dateText": "2018",
+      "doiUrl": "https://doi.org/10.1525/sod.2018.4.3.304",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/semyonov-development-gender-economic-inequality.jpg",
+        "altHe": "איור של נשים וגברים בתפקידי עבודה שונים במשרד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "משה סמיונוב משווה בין ממדים של אי־שוויון מגדרי בשוק העבודה בשנים 1990 ו־2015. פיתוח כלכלי קשור להתרחבות השתתפותן של נשים, אך יותר השתתפות ופחות הפרדה בין מקצועות אינם מבטיחים גישה שווה למשרות בעלות מעמד גבוה. המחקר מחבר בין מבנה התעסוקה לבין פערי שכר ומציג שוויון כתוצאה רב־ממדית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "yefet-egypt-human-rights-2011-revolution",
+      "file": "yefet-egypt-human-rights-2011-revolution.html",
+      "permalink": "/yefet-egypt-human-rights-2011-revolution.html",
+      "sortKey": 202611220008,
+      "titleHe": "תנועת זכויות האדם במצרים ומהפכת 2011: גבולות הארגון והזדמנויות הפעולה",
+      "paperTitle": "The Egyptian human rights movement and the 2011 Revolution: the implications of a missed opportunity",
+      "authorsCardHe": "בשמת יפת",
+      "sourceAuthors": [
+        "Bosmat Yefet"
+      ],
+      "journal": "British Journal of Middle Eastern Studies, 47(4), 526–543",
+      "dateText": "2020 (פרסום מקוון: 2018)",
+      "doiUrl": "https://doi.org/10.1080/13530194.2018.1509694",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/yefet-egypt-human-rights-2011-revolution.jpg",
+        "altHe": "קהל בכיכר תחריר בקהיר במהלך המחאות במצרים בשנת 2011",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "בשמת יפת בוחנת את תנועת זכויות האדם במצרים בזמן מהפכת 2011 ולאחריה, ואת האופן שבו פעילים פירשו את כישלונה. המאמר מצביע על מגבלות הארגונים המקצועיים לצד התרחבות הפעילות האזרחית מעבר לגבולותיהם. הוא מציע להבין חברה אזרחית כמרחב של שיתוף פעולה ומחלוקת בין שחקנים מגוונים, גם כאשר השלטון הסמכותני מתבסס מחדש.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "barkay-shamir-csr-human-rights-bds",
+      "file": "barkay-shamir-csr-human-rights-bds.html",
+      "permalink": "/barkay-shamir-csr-human-rights-bds.html",
+      "sortKey": 202611220007,
+      "titleHe": "אחריות תאגידית וזכויות אדם: המאבק על מסגור הפעילות בשטחים",
+      "paperTitle": "Israel vs. BDS: corporate social responsibility and the politics of human rights",
+      "authorsCardHe": "תמר ברקאי, רונן שמיר",
+      "sourceAuthors": [
+        "Tamar Barkay",
+        "Ronen Shamir"
+      ],
+      "journal": "Globalizations, 17(4), 698–713",
+      "dateText": "2020 (פרסום מקוון: 2019)",
+      "doiUrl": "https://doi.org/10.1080/14747731.2019.1689689",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/barkay-shamir-csr-human-rights-bds.jpg",
+        "altHe": "איור של שיחה בלתי רשמית בין משתתפים בכנס אחריות תאגידית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "תמר ברקאי ורונן שמיר מנתחים שלושה כנסים בינלאומיים של אחריות תאגידית בישראל. לטענתם, מארגני הכנסים פעלו לנתק פעילות תאגידית בשטחים הפלסטיניים הכבושים ממסגרת זכויות האדם, תוך שימוש בהתנגדות ל־BDS ובהדגשת תעסוקה ופיתוח. המחקר מראה כיצד פרשנותן של נורמות זכויות מתעצבת גם במפגשים מקצועיים ובחילופי דברים בלתי רשמיים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "akirav-gender-parliamentary-activity",
+      "file": "akirav-gender-parliamentary-activity.html",
+      "permalink": "/akirav-gender-parliamentary-activity.html",
+      "sortKey": 202611220006,
+      "titleHe": "מגדר בעבודה הפרלמנטרית: המדינה וכלי הפעולה משנים את התמונה",
+      "paperTitle": "Gender and parliamentary activity",
+      "authorsCardHe": "אסנת עקירב",
+      "sourceAuthors": [
+        "Osnat Akirav"
+      ],
+      "journal": "Women's Studies International Forum, 79, 102344",
+      "dateText": "2020",
+      "doiUrl": "https://doi.org/10.1016/j.wsif.2020.102344",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/akirav-gender-parliamentary-activity.jpg",
+        "altHe": "אולם המליאה של הכנסת בירושלים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "אסנת עקירב משווה את פעילותן של מחוקקות ומחוקקים בארצות הברית, בבריטניה ובישראל באמצעות מדד פעילות וכלים פרלמנטריים נפרדים. ההבדלים המגדריים משתנים בין מדינות ובין כלים; בארצות הברית נשים פעילות יותר מגברים בחלק מהמדדים, ובהם נאומים בני דקה. המחקר מדגיש את הצורך להבחין בין נוכחות בפרלמנט, היקף הפעילות ותוכן הייצוג.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "itzkovitch-malka-constituency-without-districts",
+      "file": "itzkovitch-malka-constituency-without-districts.html",
+      "permalink": "/itzkovitch-malka-constituency-without-districts.html",
+      "sortKey": 202611220005,
+      "titleHe": "ייצוג מקומי גם בלי מחוזות בחירה: ישראל והולנד בהשוואה",
+      "paperTitle": "MPs’ Constituency Orientation in the Absence of Electoral Districts: The Case of Extreme Proportional Electoral Systems",
+      "authorsCardHe": "רעות איצקוביץ׳-מלכה",
+      "sourceAuthors": [
+        "Reut Itzkovitch-Malka"
+      ],
+      "journal": "Parliamentary Affairs, 74(2), 421–442",
+      "dateText": "2021 (פרסום מקוון: 2020)",
+      "doiUrl": "https://doi.org/10.1093/pa/gsaa010",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/itzkovitch-malka-constituency-without-districts.jpg",
+        "altHe": "אולם המליאה של הבית התחתון בפרלמנט ההולנדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "רעות איצקוביץ׳־מלכה משווה את הזיקה הגאוגרפית של חברי פרלמנט לבוחרים בישראל ובהולנד, שתי שיטות בחירה יחסיות מאוד. בהולנד נמצא קשר מקומי מצומצם, בהתאם לציפייה התאורטית, אך בישראל התמונה שונה. ההשוואה מראה שהיעדר מחוזות ותמריצים אלקטורליים מקומיים אינו מסביר לבדו כיצד נציגים מגדירים את ציבור בוחריהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kristal-labor-share-capitalist-democracies",
+      "file": "kristal-labor-share-capitalist-democracies.html",
+      "permalink": "/kristal-labor-share-capitalist-democracies.html",
+      "sortKey": 202611220004,
+      "titleHe": "חלק העובדים בהכנסה הלאומית: כוח מיקוח, איגודים ומדיניות",
+      "paperTitle": "Good Times, Bad Times: Postwar Labor’s Share of National Income in Capitalist Democracies",
+      "authorsCardHe": "טלי קריסטל",
+      "sourceAuthors": [
+        "Tali Kristal"
+      ],
+      "journal": "American Sociological Review, 75(5), 729–763",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1177/0003122410382640",
+      "topics": [
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kristal-labor-share-capitalist-democracies.jpg",
+        "altHe": "תצלום של עובדים בקו ייצור תעשייתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "טלי קריסטל בוחנת את חלוקת ההכנסה הלאומית בין עבודה להון ב־16 דמוקרטיות מתועשות בשנים 1960–2005. היא מזהה עלייה בחלק העובדים ולאחריה ירידה מאז ראשית שנות השמונים, וקושרת את השינוי לכוח המיקוח של העובדים בזירה הכלכלית, הפוליטית והגלובלית. המחקר מדגיש שצמיחה אינה מבטיחה חלוקה יציבה של פירותיה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mandel-work-family-policy-class-gender",
+      "file": "mandel-work-family-policy-class-gender.html",
+      "permalink": "/mandel-work-family-policy-class-gender.html",
+      "sortKey": 202611220003,
+      "titleHe": "מדיניות עבודה ומשפחה: שוויון מגדרי משתנה לפי מעמד",
+      "paperTitle": "Rethinking the paradox: tradeoffs in work-family policy and patterns of gender inequality",
+      "authorsCardHe": "הדס מנדל",
+      "sourceAuthors": [
+        "Hadas Mandel"
+      ],
+      "journal": "Community, Work & Family, 14(2), 159–176",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.1080/13668803.2011.571397",
+      "topics": [
+        "rights-equality-minorities",
+        "democratic-institutions-economic-prosperity",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/mandel-work-family-policy-class-gender.jpg",
+        "altHe": "איור של אם המביאה ילד למסגרת טיפול בבוקר בדרכה לעבודה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "הדס מנדל בוחנת כיצד מדיניות המשלבת עבודה ומשפחה קשורה לממדים שונים של אי־שוויון מגדרי. במדינות עם מדיניות משפחתית נדיבה נמצאים יתרונות בולטים לנשים מקבוצות מוחלשות, לצד פערים במדדי קידום של נשים בעלות יתרונות כלכליים והשכלתיים. המאמר מציע להעריך מדיניות לפי כמה תוצאות ולפי קבוצות שונות, במקום להסתפק בדירוג יחיד של שוויון.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "rubin-bifurcated-loyalty-religious-zionism",
+      "file": "rubin-bifurcated-loyalty-religious-zionism.html",
+      "permalink": "/rubin-bifurcated-loyalty-religious-zionism.html",
+      "sortKey": 202611220002,
+      "titleHe": "נאמנות דתית ואזרחית בציונות הדתית: בין שיתוף פעולה לעימות",
+      "paperTitle": "Bifurcated loyalty and religious actors’ behaviour in democratic politics: the case of post-1967 religious Zionism in Israel",
+      "authorsCardHe": "אביעד רובין",
+      "sourceAuthors": [
+        "Aviad Rubin"
+      ],
+      "journal": "Religion, State and Society, 42(1), 46–65",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1080/09637494.2014.887358",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/rubin-bifurcated-loyalty-religious-zionism.jpg",
+        "altHe": "איור של דיון קהילתי בין אזרחים דתיים לנציג ציבור בחדר מפגש",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "אביעד רובין מציע להבין את התנהגותן הפוליטית של קבוצות דתיות דרך המתח בין מחויבות לאמונה לבין נאמנות למדינה דמוקרטית. באמצעות הציונות הדתית, בעיקר מאז 1967, הוא מראה כיצד מדיניות המדינה ופרשנות דתית משתנה עשויות לעודד שיתוף פעולה או עימות. הניתוח מדגיש הבדלים פנימיים בקבוצה ואת האפשרות שחברה אזרחית תפעל גם נגד יציבות דמוקרטית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "efrat-human-rights-fbi-cooperation",
+      "file": "efrat-human-rights-fbi-cooperation.html",
+      "permalink": "/efrat-human-rights-fbi-cooperation.html",
+      "sortKey": 202611220001,
+      "titleHe": "הפרת זכויות אדם כמכשול לשיתוף פעולה משטרתי נגד טרור",
+      "paperTitle": "Do human rights violations hinder counterterrorism cooperation? Evidence from the FBI’s deployment abroad",
+      "authorsCardHe": "אסיף אפרת",
+      "sourceAuthors": [
+        "Asif Efrat"
+      ],
+      "journal": "The Review of International Organizations, 10(3), 329–349",
+      "dateText": "2015 (פרסום מקוון: 2014)",
+      "doiUrl": "https://doi.org/10.1007/s11558-014-9202-8",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/efrat-human-rights-fbi-cooperation-arrival.jpg",
+        "altHe": "איור של נציג אכיפה אורח המתקבל בכניסה למוסד ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-22",
+      "dateModified": "2026-11-22",
+      "summaryHe": "אסיף אפרת בוחן את פתיחת משרדי הקישור של ה־FBI בעולם בשנים 1993–2010. פגיעה בזכויות אדם קשורה לסיכוי נמוך יותר לפתיחת משרד, גם כאשר יש לארצות הברית אינטרס ביטחוני בשיתוף פעולה. ההסבר מתמקד בחששם של משטרים מדכאים מפני נציגי אכיפה זרים, ומראה כיצד דיכוי פנימי עלול להקשות גם על קשרים ביטחוניים בין מדינות.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "brunner-plotkin-amrami-emotions-civil-society",
       "file": "brunner-plotkin-amrami-emotions-civil-society.html",
