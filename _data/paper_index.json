@@ -1,8 +1,289 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2204,
+  "paperCount": 2214,
   "papers": [
+    {
+      "slug": "itzkovitch-malka-hazan-party-unity",
+      "file": "itzkovitch-malka-hazan-party-unity.html",
+      "permalink": "/itzkovitch-malka-hazan-party-unity.html",
+      "sortKey": 202611230010,
+      "titleHe": "בחירת מועמדים ושיטת הבחירות מעצבות יחד את אחדות המפלגה",
+      "paperTitle": "Unpacking Party Unity: The Combined Effects of Electoral Systems and Candidate Selection Methods on Legislative Attitudes and Behavioural Norms",
+      "authorsCardHe": "רעות איצקוביץ׳-מלכה, ראובן חזן",
+      "sourceAuthors": [
+        "Reut Itzkovitch-Malka",
+        "Reuven Y. Hazan"
+      ],
+      "journal": "Political Studies, 65(2), 452–474",
+      "dateText": "2017 (פרסום מקוון: 2016)",
+      "doiUrl": "https://doi.org/10.1177/0032321716634094",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/itzkovitch-malka-hazan-party-unity.jpg",
+        "altHe": "אולם המליאה בבניין הרייכסטאג בברלין",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "אחדות מפלגתית תלויה בשילוב מוסדות הבחירה, המשפיע על הסכמה ונאמנות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "mustafa-ghanem-extreme-right-2009",
+      "file": "mustafa-ghanem-extreme-right-2009.html",
+      "permalink": "/mustafa-ghanem-extreme-right-2009.html",
+      "sortKey": 202611230009,
+      "titleHe": "התחזקות הימין הקיצוני בבחירות לכנסת ה־18",
+      "paperTitle": "The Empowering of the Israeli Extreme Right in the 18th Knesset Elections",
+      "authorsCardHe": "מוהנד מוסטפא, אסעד גאנם",
+      "sourceAuthors": [
+        "Muhanad Mustafa",
+        "As'ad Ghanem"
+      ],
+      "journal": "Mediterranean Politics, 15(1), 25–44",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1080/13629391003644645",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-backsliding-populism",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/mustafa-ghanem-extreme-right-2009.jpg",
+        "altHe": "איור של אזרחים מצביעים בקלפי בכיתת בית ספר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "מוסטפא וגאנם קושרים בחירות לשינויים חברתיים ולמתח באזרחות השווה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "miller-democracy-promotion-offensive-liberalism",
+      "file": "miller-democracy-promotion-offensive-liberalism.html",
+      "permalink": "/miller-democracy-promotion-offensive-liberalism.html",
+      "sortKey": 202611230008,
+      "titleHe": "קידום דמוקרטיה בכוח: ליברליזם התקפי וחלופותיו",
+      "paperTitle": "Democracy Promotion: Offensive Liberalism versus the Rest of IR Theory",
+      "authorsCardHe": "בני מילר",
+      "sourceAuthors": [
+        "Benjamin Miller"
+      ],
+      "journal": "Millennium: Journal of International Studies, 38(3), 561–591",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1177/0305829810366475",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/miller-democracy-promotion-offensive-liberalism.jpg",
+        "altHe": "איור של דיון בין יועצים אזרחיים על מדיניות חוץ",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "מילר מפריד בין תמיכה בדמוקרטיה לבין הסכמה לכפותה באמצעות מלחמה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kedar-judicial-autonomy-early-israel",
+      "file": "kedar-judicial-autonomy-early-israel.html",
+      "permalink": "/kedar-judicial-autonomy-early-israel.html",
+      "sortKey": 202611230007,
+      "titleHe": "עצמאות השופטים בראשית המדינה: מעבר לכללי המינוי",
+      "paperTitle": "Democracy and Judicial Autonomy in Israel's Early Years",
+      "authorsCardHe": "ניר קידר",
+      "sourceAuthors": [
+        "Nir Kedar"
+      ],
+      "journal": "Israel Studies, 15(1), 25–46",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.2979/isr.2010.15.1.25",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/kedar-judicial-autonomy-early-israel.jpg",
+        "altHe": "הבניין ששימש את בית המשפט העליון במגרש הרוסים בירושלים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "ניר קידר טוען שהשופטים נהנו מאוטונומיה גם לפני חוק השופטים ב־1953. הבחנתו בין סמכות מינוי פורמלית להתערבות בפסיקה מדגישה את חשיבותן של נורמות מוסדיות לצד חקיקה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "fox-james-li-state-religion-minority-discrimination",
+      "file": "fox-james-li-state-religion-minority-discrimination.html",
+      "permalink": "/fox-james-li-state-religion-minority-discrimination.html",
+      "sortKey": 202611230006,
+      "titleHe": "דת המדינה ואפליית מיעוטים אתניים",
+      "paperTitle": "State Religion and Discrimination Against Ethnic Minorities",
+      "authorsCardHe": "יונתן פוקס, פטריק ג׳יימס, איטאן לי",
+      "sourceAuthors": [
+        "Jonathan Fox",
+        "Patrick James",
+        "Yitan Li"
+      ],
+      "journal": "Nationalism and Ethnic Politics, 15(2), 189–210",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1080/13537110902921230",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/fox-james-li-state-religion-minority-discrimination.jpg",
+        "altHe": "איור של אזרחים המקבלים שירות במשרד ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "המחקר קושר העדפה דתית מדינתית להגבלות פוליטיות ולדיכוי מיעוטים אתניים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "jamal-state-minority-rights-israel",
+      "file": "jamal-state-minority-rights-israel.html",
+      "permalink": "/jamal-state-minority-rights-israel.html",
+      "sortKey": 202611230005,
+      "titleHe": "יחסי מדינה ומיעוט בישראל: שוויון אישי והכרה קולקטיבית",
+      "paperTitle": "The Contradictions of State‐Minority Relations in Israel: The Search for Clarifications",
+      "authorsCardHe": "אמל ג׳מאל",
+      "sourceAuthors": [
+        "Amal Jamal"
+      ],
+      "journal": "Constellations, 16(3), 493–508",
+      "dateText": "2009",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00557.x",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/jamal-state-minority-rights-israel.jpg",
+        "altHe": "בניין עיריית נצרת וסביבתו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "אמל ג׳מאל טוען ששוויון אזרחי והכרה בזכויות קבוצתיות צריכים להתקיים יחד. לשיטתו, שילוב חלקי של השניים אינו מספיק כאשר מבנה הכוח משמר עדיפות לקבוצה אחת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "oser-membership-civic-leadership",
+      "file": "oser-membership-civic-leadership.html",
+      "permalink": "/oser-membership-civic-leadership.html",
+      "sortKey": 202611230004,
+      "titleHe": "חברות בארגונים אזרחיים: כוח ציבורי בלי השתתפות עמוקה?",
+      "paperTitle": "Between Atomistic and Participatory Democracy: Leverage, Leadership, and Legitimacy in Israeli Civil Society",
+      "authorsCardHe": "ג׳ניפר אוסר",
+      "sourceAuthors": [
+        "Jennifer Oser"
+      ],
+      "journal": "Nonprofit and Voluntary Sector Quarterly, 39(3), 429–459",
+      "dateText": "2010 (פרסום מקוון: 2009)",
+      "doiUrl": "https://doi.org/10.1177/0899764009334587",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/oser-membership-civic-leadership.jpg",
+        "altHe": "איור של חברי ארגון אזרחי בדיון קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "אוסר מראה שחברות מחזקת השפעה בלי לפתח מנהיגות אזרחית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "khanin-russian-speaking-voters-2013",
+      "file": "khanin-russian-speaking-voters-2013.html",
+      "permalink": "/khanin-russian-speaking-voters-2013.html",
+      "sortKey": 202611230003,
+      "titleHe": "ייצוג עולים ופוליטיקה ארצית בבחירות 2013",
+      "paperTitle": "The political transformation of the Israeli ‘Russian’ street in the 2013 elections",
+      "authorsCardHe": "ולדימיר (זאב) חנין",
+      "sourceAuthors": [
+        "Vladimir (Ze'ev) Khanin"
+      ],
+      "journal": "Israel Affairs, 21(2), 245–261",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1080/13537121.2015.1008244",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/khanin-russian-speaking-voters-2013.jpg",
+        "altHe": "איור של שיחה פוליטית בין תושבים בחצר עירונית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "חנין מנתח את המתח בין ייצוג קהילתי להשתלבות במפלגות ארציות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "babis-bolivia-indigenous-medicine-civil-society",
+      "file": "babis-bolivia-indigenous-medicine-civil-society.html",
+      "permalink": "/babis-bolivia-indigenous-medicine-civil-society.html",
+      "sortKey": 202611230002,
+      "titleHe": "ארגוני חברה אזרחית וההכרה ברפואה ילידית בבוליביה",
+      "paperTitle": "The role of civil society organizations in the institutionalization of indigenous medicine in Bolivia",
+      "authorsCardHe": "דבי בביס",
+      "sourceAuthors": [
+        "Deby Babis"
+      ],
+      "journal": "Social Science & Medicine, 123, 287–294",
+      "dateText": "2014",
+      "doiUrl": "https://doi.org/10.1016/j.socscimed.2014.07.034",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/babis-bolivia-indigenous-medicine-civil-society.jpg",
+        "altHe": "איור של מפגש בין נציגי מרפאים ילידיים למינהל בריאות ציבורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "בביס קושרת הכרה ברפואה ילידית להתארגנות אזרחית ולשיתוף פעולה מדינתי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "huber-democracy-promotion-arab-spring",
+      "file": "huber-democracy-promotion-arab-spring.html",
+      "permalink": "/huber-democracy-promotion-arab-spring.html",
+      "sortKey": 202611230001,
+      "titleHe": "קידום דמוקרטיה אחרי האביב הערבי: יעדים חדשים, תוכן מתמשך",
+      "paperTitle": "US and EU Human Rights and Democracy Promotion since the Arab Spring. Rethinking its Content, Targets and Instruments",
+      "authorsCardHe": "דניאלה הובר",
+      "sourceAuthors": [
+        "Daniela Huber"
+      ],
+      "journal": "The International Spectator, 48(3), 98–112",
+      "dateText": "2013",
+      "doiUrl": "https://doi.org/10.1080/03932729.2013.787827",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/huber-democracy-promotion-arab-spring.jpg",
+        "altHe": "איור של מפגש בין נציגי חברה אזרחית למשלחת מבקרת במרכז קהילתי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "summaryHe": "הובר מבחינה בין שינוי בנמעני הסיוע ובכליו לבין המשכיות בתוכנו.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "dudai-transitional-justice-social-control",
       "file": "dudai-transitional-justice-social-control.html",
