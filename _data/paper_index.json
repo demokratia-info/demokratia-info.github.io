@@ -1,8 +1,285 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2214,
+  "paperCount": 2224,
   "papers": [
+    {
+      "slug": "cohen-susser-religious-parties-2009",
+      "file": "cohen-susser-religious-parties-2009.html",
+      "permalink": "/cohen-susser-religious-parties-2009.html",
+      "sortKey": 202611240010,
+      "titleHe": "יציבות חרדית ופיצול בציונות הדתית בבחירות 2009",
+      "paperTitle": "Stability in the Haredi camp and upheavals in nationalist Zionism: an analysis of the religious parties in the 2009 elections",
+      "authorsCardHe": "אשר כהן, ברנרד זיסר",
+      "sourceAuthors": [
+        "Asher Cohen",
+        "Bernard Susser"
+      ],
+      "journal": "Israel Affairs, 16(1), 82–104",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1080/13537120903462027",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/cohen-susser-religious-parties-2009.jpg",
+        "altHe": "הולכי רגל ברחוב רבי עקיבא בבני ברק בצילום מ־2010; צילום הקשר שאינו מתעד הצבעה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "כהן וזיסר מציגים מסלולים שונים בקרב המפלגות הדתיות בבחירות 2009: יציבות יחסית במחנה החרדי לעומת מחלוקות ופיצולים שפגעו בייצוג הציונות הדתית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "almogbar-ajzenstadt-womens-welfare",
+      "file": "almogbar-ajzenstadt-womens-welfare.html",
+      "permalink": "/almogbar-ajzenstadt-womens-welfare.html",
+      "sortKey": 202611240009,
+      "titleHe": "ארגוני רווחה לנשים: העצמה לצד שעתוק של הדרה",
+      "paperTitle": "Women, Welfare and Civil Society Organizations: Creating an Alternative Women's Welfare Sphere in Israel",
+      "authorsCardHe": "מיכל אלמוג־בר, מימי אייזנשטדט",
+      "sourceAuthors": [
+        "Michal Almog-Bar",
+        "Mimi Ajzenstadt"
+      ],
+      "journal": "Social Policy & Administration, 44(6), 673–688",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1111/j.1467-9515.2010.00737.x",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/almogbar-ajzenstadt-womens-welfare.jpg",
+        "altHe": "משתתפות בכנס ויצו על מצב הנשים בישראל ב־1981; צילום הקשר שאינו מזהה את הארגונים שנחקרו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "מחקר איכותני ב־14 ארגונים בישראל מציג מרחב רווחה חלופי לנשים: הוא עשוי לשפר חיים ולהעצים, ובה בעת לשמר סלקטיביות, היררכיות מגדריות והדרה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "brudny-finkel-national-identity-democracy",
+      "file": "brudny-finkel-national-identity-democracy.html",
+      "permalink": "/brudny-finkel-national-identity-democracy.html",
+      "sortKey": 202611240008,
+      "titleHe": "זהות לאומית ומסלולי דמוקרטיזציה: רוסיה ואוקראינה בהשוואה",
+      "paperTitle": "Why Ukraine Is Not Russia: Hegemonic National Identity and Democracy in Russia and Ukraine",
+      "authorsCardHe": "יצחק ברודני, יבגני פינקל",
+      "sourceAuthors": [
+        "Yitzhak M. Brudny",
+        "Evgeny Finkel"
+      ],
+      "journal": "East European Politics and Societies: and Cultures, 25(4), 813–833",
+      "dateText": "2011",
+      "doiUrl": "https://doi.org/10.1177/0888325411401379",
+      "topics": [
+        "democratic-backsliding-populism"
+      ],
+      "image": {
+        "src": "html_qa/brudny-finkel-national-identity-democracy.jpg",
+        "altHe": "כיכר העצמאות בקייב בצילום מ־2011; צילום של המרחב הציבורי ולא של המהפכה הכתומה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "ברודני ופינקל טוענים שהתגבשותה של זהות לאומית הגמונית ברוסיה והיעדרה באוקראינה תרמו למסלולים פוליטיים שונים; בחירות זהות של אליטות משפיעות לצד מוסדות ואינטרסים.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "orr-local-human-rights-knowledge",
+      "file": "orr-local-human-rights-knowledge.html",
+      "permalink": "/orr-local-human-rights-knowledge.html",
+      "sortKey": 202611240007,
+      "titleHe": "זכויות אדם בתרגום מקומי: הידע והבחירות שמעצבים סיוע אזרחי",
+      "paperTitle": "The Adaptation of Human Rights Norms in Local Settings: Intersections of Local and Bureaucratic Knowledge in an Israeli NGO",
+      "authorsCardHe": "צביקה אור",
+      "sourceAuthors": [
+        "Zvika Orr"
+      ],
+      "journal": "Journal of Human Rights, 11(2), 243–262",
+      "dateText": "2012",
+      "doiUrl": "https://doi.org/10.1080/14754835.2012.674458",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/orr-local-human-rights-knowledge.jpg",
+        "altHe": "איור של פגישה בין פונה ליועצת בארגון סיוע קהילתי; אינו מתעד את ארגון ידיד",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "המחקר בארגון ידיד מערער על ההנחה שהתאמת זכויות אדם נכפית תמיד מלמטה; עובדים ופונים מחזיקים בעמדות שונות, וההתאמה משקפת גם אינטרסים, ערכים וידע ארגוני.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "filc-davidovitch-gottlieb-clinics-rights",
+      "file": "filc-davidovitch-gottlieb-clinics-rights.html",
+      "permalink": "/filc-davidovitch-gottlieb-clinics-rights.html",
+      "sortKey": 202611240006,
+      "titleHe": "מרפאה כזירה של זכויות: רפואה הומניטרית וצדק חברתי",
+      "paperTitle": "Beyond 'New Humanitarianism': Physicians for Human Rights-Israel's Mobile Clinic and Open Clinic on the Interface of Social Justice, Human Rights and Medical Relief",
+      "authorsCardHe": "דני פילק, נדב דוידוביץ׳, נורה גוטליב",
+      "sourceAuthors": [
+        "Dani Filc",
+        "Nadav Davidovitch",
+        "Nora Gottlieb"
+      ],
+      "journal": "Journal of Human Rights Practice, 7(1), 88–108",
+      "dateText": "2015 (פרסום מקוון: 2014)",
+      "doiUrl": "https://doi.org/10.1093/jhuman/huu027",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/filc-davidovitch-gottlieb-clinics-rights.jpg",
+        "altHe": "איור של מפגש רפואי קהילתי בחצר מרפאה; סצנה בדיונית שאינה מתעדת את המרפאות שנחקרו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "בחינת שתי מרפאות של רופאים לזכויות אדם–ישראל מראה את המתח בין הקלה רפואית מיידית, הגנה על זכויות ושינוי חברתי; המחברים מציעים להבין גם את האפשרות לשילוב ביניהם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "kremnitzer-high-court-gender-equality",
+      "file": "kremnitzer-high-court-gender-equality.html",
+      "permalink": "/kremnitzer-high-court-gender-equality.html",
+      "sortKey": 202611240005,
+      "titleHe": "בג״ץ ושוויון מגדרי: עיצוב מושגים ועיצוב מדיניות ציבורית",
+      "paperTitle": "The high court of justice and the shaping of public policy: Equality and gender",
+      "authorsCardHe": "מרדכי קרמניצר",
+      "sourceAuthors": [
+        "Mordechai Kremnitzer"
+      ],
+      "journal": "Israel Affairs, 7(4), 100–132",
+      "dateText": "2001",
+      "doiUrl": "https://doi.org/10.1080/13537120108719617",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/kremnitzer-high-court-gender-equality.jpg",
+        "altHe": "החצר הפנימית בבניין בית המשפט העליון בירושלים",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "קרמניצר בוחן כיצד פסיקות בג״ץ בענייני שוויון מגדרי משפיעות על המדיניות ועל נורמות הפעולה של השלטון; המאבק בשוויון מתרחש גם בהגדרות וגם ביישום.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "gordon-arendt-thinking-democratic-education",
+      "file": "gordon-arendt-thinking-democratic-education.html",
+      "permalink": "/gordon-arendt-thinking-democratic-education.html",
+      "sortKey": 202611240004,
+      "titleHe": "חינוך לדמוקרטיה כתרגול של חשיבה: חיים גורדון בעקבות חנה ארנדט",
+      "paperTitle": "Learning to Think: Arendt on Education for Democracy",
+      "authorsCardHe": "חיים גורדון",
+      "sourceAuthors": [
+        "Haim Gordon"
+      ],
+      "journal": "The Educational Forum, 53(1), 49–62",
+      "dateText": "1988 (סתיו)",
+      "doiUrl": "https://doi.org/10.1080/00131728809335576",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gordon-arendt-thinking-democratic-education.jpg",
+        "altHe": "איור של קבוצת לומדים ומנחה בשיחה פתוחה על שאלות ציבוריות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "גורדון מציב חשיבה על סוגיות חברתיות ופוליטיות בלב החינוך הדמוקרטי; יכולת לפתור בעיות אינה מחליפה בחינה של משמעות המעשים ושל האחריות להם.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "ichilov-bartal-mazawi-adolescents-democracy",
+      "file": "ichilov-bartal-mazawi-adolescents-democracy.html",
+      "permalink": "/ichilov-bartal-mazawi-adolescents-democracy.html",
+      "sortKey": 202611240003,
+      "titleHe": "תמיכה בדמוקרטיה בלי הבנה מלאה: תפיסות של מתבגרים בישראל",
+      "paperTitle": "Israeliadolescents' Comprehension and Evaluation of Democracy",
+      "authorsCardHe": "אורית איכילוב, דניאל בר-טל, אנדרה מזאוי",
+      "sourceAuthors": [
+        "Orit Ichilov",
+        "Daniel Bar-Tal",
+        "André Mazawi"
+      ],
+      "journal": "Youth & Society, 21(2), 153–169",
+      "dateText": "1989",
+      "doiUrl": "https://doi.org/10.1177/0044118x89021002002",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/ichilov-bartal-mazawi-adolescents-democracy.jpg",
+        "altHe": "צילום ארכיוני של תלמידים בכיתה בתל אביב ב־1973; המצולמים אינם מזוהים כמשתתפי המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "רוב התלמידים שנחקרו הביעו יחס חיובי לדמוקרטיה, אך התקשו לאפיין אותה ולהחיל את עקרונותיה באופן אוניברסלי; חינוך אזרחי נדרש להתמודד עם הפער בין תמיכה להבנה.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "hofnung-intraparty-election-finance",
+      "file": "hofnung-intraparty-election-finance.html",
+      "permalink": "/hofnung-intraparty-election-finance.html",
+      "sortKey": 202611240002,
+      "titleHe": "הכסף שלפני הבחירות: הפיקוח החסר על התחרות בתוך המפלגות",
+      "paperTitle": "Unaccounted Competition: The Finance of Intra-Party Elections",
+      "authorsCardHe": "מנחם הופנונג",
+      "sourceAuthors": [
+        "Menachem Hofnung"
+      ],
+      "journal": "Party Politics, 14(6), 726–744",
+      "dateText": "2008",
+      "doiUrl": "https://doi.org/10.1177/1354068808093408",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/hofnung-intraparty-election-finance.jpg",
+        "altHe": "איור של צוות במטה בחירות הבוחן מסמכי הוצאות ותרומות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "פיקוח על מימון הבחירות הכלליות משאיר פער כאשר בחירת המנהיגים והמועמדים בתוך המפלגות נותרת ללא בקרה מספקת; הגנת התחרות מחייבת לבחון את מחזור הבחירות כולו.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "avraham-liberalism-militarisation-citizenship",
+      "file": "avraham-liberalism-militarisation-citizenship.html",
+      "permalink": "/avraham-liberalism-militarisation-citizenship.html",
+      "sortKey": 202611240001,
+      "titleHe": "אזרחות במדים: הליברלים הגרמנים והמיליטריזציה של החברה",
+      "paperTitle": "German liberalism and the militarisation of civil society, 1813–1848/49",
+      "authorsCardHe": "דורון אברהם",
+      "sourceAuthors": [
+        "Doron Avraham"
+      ],
+      "journal": "European Review of History: Revue europeenne d'histoire, 17(4), 605–628",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.1080/13507481003746511",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/avraham-liberalism-militarisation-citizenship.jpg",
+        "altHe": "אולם פאולסקירכה בפרנקפורט בצילום עכשווי, במקום שבו התכנסה האספה הלאומית ב־1848",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-24",
+      "dateModified": "2026-11-24",
+      "summaryHe": "ליברלים גרמנים ביקשו להכפיף את הצבא לחוקה, אך גם הפכו משמעת ושירות צבאי לאמות מידה של אזרחות ראויה; כך נקשר המאבק לחירות להגבלת ההתנהגות האזרחית.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "itzkovitch-malka-hazan-party-unity",
       "file": "itzkovitch-malka-hazan-party-unity.html",
