@@ -1,8 +1,292 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2224,
+  "paperCount": 2234,
   "papers": [
+    {
+      "slug": "raaphorst-equity-public-services",
+      "file": "raaphorst-equity-public-services.html",
+      "permalink": "/raaphorst-equity-public-services.html",
+      "sortKey": 202611250010,
+      "titleHe": "שוויון והוגנות בשירות הציבורי: מהדלפק אל המבנה החברתי",
+      "paperTitle": "Equity and equality in street-level public service delivery",
+      "authorsCardHe": "Nadine Raaphorst, עינת לביא ועמיתים",
+      "sourceAuthors": [
+        "Nadine Raaphorst",
+        "Gabriela Lotta",
+        "Einat Lavee",
+        "Ingrid Espinoza",
+        "Eva Thomann",
+        "Steffen Eckhard",
+        "Ayesha Masood",
+        "Vinuri Dissanayake",
+        "Andrea M. Headley",
+        "Mogens Jin Pedersen"
+      ],
+      "journal": "Perspectives on Public Management and Governance, 9(1), 7–19",
+      "dateText": "פורסם מקוון ב־2025",
+      "doiUrl": "https://doi.org/10.1093/ppmgov/gvaf019",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/raaphorst-equity-public-services.jpg",
+        "altHe": "איור של עובדת שירות ציבורי משוחחת בדלפק נגיש עם פונה המשתמש בכיסא גלגלים ומלווה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "מאמר רב־מחברים מציע להבין יחס שוויוני והוגן בשירותים ציבוריים דרך המבנה החברתי, ההיסטוריה והאמונות של עובדי הציבור ושל מקבלי השירות. ההבחנה בין יחס זהה להתאמה לצרכים שונים מראה מדוע תיקון הטיות אישיות לבדו אינו מספיק להבנת הדרה ואי־שוויון במפגש עם המדינה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "feinstein-emotions-national-belonging",
+      "file": "feinstein-emotions-national-belonging.html",
+      "permalink": "/feinstein-emotions-national-belonging.html",
+      "sortKey": 202611250009,
+      "titleHe": "רגשות לאומיים: שייכות יומיומית, מאבק וגיוס פוליטי",
+      "paperTitle": "Emotions and the Nation: Nation-Building, Nationhood Reproduction, Political Mobilization, and Change",
+      "authorsCardHe": "יובל פיינשטיין",
+      "sourceAuthors": [
+        "Yuval Feinstein"
+      ],
+      "journal": "Nationalities Papers, 54(3), 458–474",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1017/nps.2025.10125",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/feinstein-emotions-national-belonging.jpg",
+        "altHe": "משתתפים בטקס קבלת אזרחות בקנדה ב־2008; צילום הקשר לשייכות לאומית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "יובל פיינשטיין סוקר כיצד רגשות משתתפים בבניית אומות, בשימור השייכות הלאומית ובגיוס פוליטי בעת משבר. הוא מציע לחבר בין רגשות, סיפורים לאומיים ויחסי כוח, כדי להבין גם מחלוקת ושינוי בתוך האומה ולא רק רגעים של אחדות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "cohen-circuit-court-political-composition",
+      "file": "cohen-circuit-court-political-composition.html",
+      "permalink": "/cohen-circuit-court-political-composition.html",
+      "sortKey": 202611250008,
+      "titleHe": "הרכב פוליטי של ערכאות ערעור ותוצאות תיקים בארצות הברית",
+      "paperTitle": "The Pervasive Influence of Political Composition on Circuit Court Decisions",
+      "authorsCardHe": "עלמה כהן",
+      "sourceAuthors": [
+        "Alma Cohen"
+      ],
+      "journal": "Journal of Legal Analysis, 17(1), 14–41",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1093/jla/laaf004",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/cohen-circuit-court-political-composition.jpg",
+        "altHe": "אולם בבית המשפט הפדרלי לערעורים על שם ג׳יימס בראונינג בסן פרנסיסקו, 2011",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "עלמה כהן מנתחת כ־640 אלף החלטות של בתי משפט פדרליים לערעורים ומוצאת קשר בין מפלגת הנשיא שמינה את השופטים לבין תוצאות במגוון רחב של תיקים. הממצאים מרחיבים את שאלת ההרכב השיפוטי מעבר למחלוקות אידאולוגיות בולטות, בלי להפוך שיוך מפלגתי למדד לנכונותה המשפטית של החלטה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "lesch-douglass-natural-rights",
+      "file": "lesch-douglass-natural-rights.html",
+      "permalink": "/lesch-douglass-natural-rights.html",
+      "sortKey": 202611250007,
+      "titleHe": "זכויות טבעיות מנקודת מבטם של חסרי הכוח: פרדריק דאגלס",
+      "paperTitle": "Frederick Douglass’s Political Theory of the Powerless: Natural Rights from Below",
+      "authorsCardHe": "Charles H. T. Lesch",
+      "sourceAuthors": [
+        "Charles H. T. Lesch"
+      ],
+      "journal": "American Political Science Review, 119(4), 1836–1850",
+      "dateText": "2025",
+      "doiUrl": "https://doi.org/10.1017/s0003055424001461",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/lesch-douglass-natural-rights.jpg",
+        "altHe": "ביתו של פרדריק דאגלס בסידר היל בוושינגטון בצילום מ־2016",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "צ׳רלס לש מראה כיצד פרדריק דאגלס עיצב מחדש רעיונות של חירות, תבונה, כבוד ואחריות באמצעות ניסיון העבדות. הקריאה מציגה זכויות טבעיות כמחויבות אוניברסלית שמשמעותה מתבררת מתוך יחסים חברתיים ומוסדות, ולא רק מתוך דמותו של פרט מבודד.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "banai-crimea-territorial-rights",
+      "file": "banai-crimea-territorial-rights.html",
+      "permalink": "/banai-crimea-territorial-rights.html",
+      "sortKey": 202611250006,
+      "titleHe": "למי שייכת הטריטוריה? זהות פוליטית והגדרה עצמית בחצי האי קרים",
+      "paperTitle": "Territorial Conflict and Territorial Rights: The Crimean Question Reconsidered",
+      "authorsCardHe": "איילת בנאי",
+      "sourceAuthors": [
+        "Ayelet Banai"
+      ],
+      "journal": "German Law Journal, 16(3), 608–630",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.1017/s207183220002099x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/banai-crimea-territorial-rights.jpg",
+        "altHe": "בניין הפרלמנט בסימפרופול שבקרים בצילום מ־2016; צילום הקשר מוסדי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "איילת בנאי משווה תפיסות של זכויות טריטוריאליות ובוחנת את שאלת קרים דרך ההבחנה בין לאום תרבותי לעם פוליטי. המאמר מציע להתייחס למוסדות ולהיסטוריה המשותפת של אוכלוסייה מגוונת, במקום להניח ששפה או מוצא מעניקים לבדם זכות בלעדית על שטח.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "gelman-margalit-social-penumbras",
+      "file": "gelman-margalit-social-penumbras.html",
+      "permalink": "/gelman-margalit-social-penumbras.html",
+      "sortKey": 202611250005,
+      "titleHe": "מעגלי היכרות חברתיים והעמדות הפוליטיות שמעבר לחברות בקבוצה",
+      "paperTitle": "Social penumbras predict political attitudes",
+      "authorsCardHe": "Andrew Gelman, יותם מרגלית",
+      "sourceAuthors": [
+        "Andrew Gelman",
+        "Yotam Margalit"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences, 118(6), e2019375118",
+      "dateText": "2021",
+      "doiUrl": "https://doi.org/10.1073/pnas.2019375118",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/gelman-margalit-social-penumbras.jpg",
+        "altHe": "איור של מפגש שכנים בחצר ובו מעגלי שיחה והיכרות בין קבוצות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "אנדרו גלמן ויותם מרגלית מראים שקבוצות חברתיות נבדלות לא רק בגודלן אלא גם במעגל האנשים המכירים את חבריהן. מחקר אורך אמריקאי מצביע על שינוי קטן בממוצע בעמדות הקשורות לקבוצה לאחר הצטרפות למעגל ההיכרות שלה, ועל חשיבות הקשרים החברתיים להבנת ייצוג ואהדה ציבורית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "laor-tiktok-political-visibility",
+      "file": "laor-tiktok-political-visibility.html",
+      "permalink": "/laor-tiktok-political-visibility.html",
+      "sortKey": 202611250004,
+      "titleHe": "נראות פוליטית בטיקטוק: אידאולוגיה, אישיות ופופולריות",
+      "paperTitle": "Beyond Ideology: Political Behavior and Popularity in TikTok’s Platformized Political Communication Environment",
+      "authorsCardHe": "טל לאור",
+      "sourceAuthors": [
+        "Tal Laor"
+      ],
+      "journal": "Social Sciences, 15(7), 489",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.3390/socsci15070489",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/laor-tiktok-political-visibility.jpg",
+        "altHe": "איור של פוליטיקאית בדיונית המצלמת סרטון קצר בטלפון בכיכר ציבורית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "טל לאור בוחן 336 סרטונים בולטים של 44 חברי כנסת הפעילים בטיקטוק ומוצא שרובם אינם כוללים תוכן פוליטי או אידאולוגי מפורש. המחקר מדגיש את המתח בין נראות אישית לדיון ציבורי, אך אינו מוצא יתרון פופולריות אוטומטי לשימוש בריקוד, מוזיקה או חיקוי תנועות שפתיים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "eliaz-galperti-spiegler-false-narratives",
+      "file": "eliaz-galperti-spiegler-false-narratives.html",
+      "permalink": "/eliaz-galperti-spiegler-false-narratives.html",
+      "sortKey": 202611250003,
+      "titleHe": "כיצד נרטיבים כוזבים מגייסים תמיכה במדיניות מזיקה",
+      "paperTitle": "False Narratives and Political Mobilization",
+      "authorsCardHe": "כפיר אליאז, Simone Galperti, רני שפיגלר",
+      "sourceAuthors": [
+        "Kfir Eliaz",
+        "Simone Galperti",
+        "Ran Spiegler"
+      ],
+      "journal": "Journal of the European Economic Association, 23(3), 983–1027",
+      "dateText": "2025; פורסם מקוון ב־2024",
+      "doiUrl": "https://doi.org/10.1093/jeea/jvae047",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/eliaz-galperti-spiegler-false-narratives.jpg",
+        "altHe": "איור של קבוצה סביב דובר באספה ציבורית ואנשים שנותרו מחוץ לדלת",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "כפיר אליאז, סימונה גלפרטי ורני שפיגלר מציעים מודל שבו נרטיבים סיבתיים כוזבים מאפשרים לקבוצות לתמוך במדיניות המושכת אותן גם כאשר תוצאותיה הציבוריות גרועות. הסבר המטיל אשמה על קבוצות המודרות מהשלטון עשוי לשרוד דווקא משום שהוא נשען על מתאמים אמיתיים שמפורשים באופן שגוי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sudai-fragile-hospital-rights",
+      "file": "sudai-fragile-hospital-rights.html",
+      "permalink": "/sudai-fragile-hospital-rights.html",
+      "sortKey": 202611250002,
+      "titleHe": "זכויות ביקור בבית חולים בזמן משבר: בין תלות, שתיקה ואחריות מקצועית",
+      "paperTitle": "Fragile rights: rights consciousness in hospitals in times of crisis",
+      "authorsCardHe": "מעין סודאי",
+      "sourceAuthors": [
+        "Maayan Sudai"
+      ],
+      "journal": "Law & Society Review, 1–32",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.1017/lsr.2026.10127",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/sudai-fragile-hospital-rights.jpg",
+        "altHe": "איור של בת משפחה המשוחחת עם אחות מחוץ לחדר בידוד בבית חולים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "מעין סודאי מנתחת כיצד ביקורי משפחה במחלקות קורונה נתפסו כהקלה הנתונה לחסדי הצוות במקום כתביעה לזכות. הראיונות מראים שתלות במוסד ופחד לפגוע בטיפול עלולים להשתיק התנגדות, ושמימוש זכויות דורש גם כללים וגם תרבות מקצועית המכירה במשפחות כשותפות.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "lavie-tunisia-religion-constitutional-autocracy",
+      "file": "lavie-tunisia-religion-constitutional-autocracy.html",
+      "permalink": "/lavie-tunisia-religion-constitutional-autocracy.html",
+      "sortKey": 202611250001,
+      "titleHe": "דת, מדינה וריכוז כוח בחוקות תוניסיה",
+      "paperTitle": "From Pluralism to Autocracy: De-Constitutionalization of the Debate over Religion and State in Kaïs Saied’s Tunisia",
+      "authorsCardHe": "לימור לביא",
+      "sourceAuthors": [
+        "Limor Lavie"
+      ],
+      "journal": "Religions, 17(9), 1053",
+      "dateText": "2026",
+      "doiUrl": "https://doi.org/10.3390/rel17091053",
+      "topics": [
+        "democratic-backsliding-populism",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/lavie-tunisia-religion-constitutional-autocracy.jpg",
+        "altHe": "האספה המכוננת בתוניסיה בישיבתה הראשונה בארמון בארדו ב־2011; צילום הקשר היסטורי",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "summaryHe": "לימור לביא מראה כיצד השינוי החוקתי בתוניסיה העביר את המחלוקת על דת ומדינה ממסגרת של פשרה בין מחנות למסגרת של שליטה מדינתית בפרשנות הדת. המשמעות הדמוקרטית נוגעת לזהות הגורמים הרשאים להשתתף בעיצוב הזהות הציבורית, ולא רק לשאלה אם החוקה מזכירה את האסלאם.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "cohen-susser-religious-parties-2009",
       "file": "cohen-susser-religious-parties-2009.html",
