@@ -1,8 +1,296 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2234,
+  "paperCount": 2244,
   "papers": [
+    {
+      "slug": "ketko-ayali-react-democratic-teaching",
+      "file": "ketko-ayali-react-democratic-teaching.html",
+      "permalink": "/ketko-ayali-react-democratic-teaching.html",
+      "sortKey": 202611260010,
+      "titleHe": "מודל REACT: חינוך דמוקרטי המשלב רגשות, חשיבה ביקורתית ומעורבות אזרחית",
+      "paperTitle": "React: a pedagogical framework for political-democratic teaching with emotional awareness",
+      "authorsCardHe": "קרן קטקו-איילי, אדר כהן, ניר מיכאלי",
+      "sourceAuthors": [
+        "Keren Ketko-Ayali",
+        "Adar Cohen",
+        "Nir Michaeli"
+      ],
+      "journal": "Journal of Curriculum Studies, 1–22",
+      "dateText": "פורסם מקוון ב־27 במאי 2026",
+      "doiUrl": "https://doi.org/10.1080/00220272.2026.2680409",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ketko-ayali-react-democratic-teaching.jpg",
+        "altHe": "איור של מורה ותלמידים בשיחה כיתתית על נושא ציבורי",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "מחקר איכותני בקרב מורים בישראל מציע לחבר הכרה ברגשות לידע פוליטי, ניתוח ביקורתי, גיבוש עמדה ופעולה אזרחית. מודל REACT מבקש לאפשר שיח דמוקרטי בכיתות המתמודדות עם מחלוקת ומשבר, תוך טיפוח שיקול דעת עצמאי.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "zaher-karayanni-women-municipal-agency",
+      "file": "zaher-karayanni-women-municipal-agency.html",
+      "permalink": "/zaher-karayanni-women-municipal-agency.html",
+      "sortKey": 202611260009,
+      "titleHe": "נשים ערביות במועצות המקומיות: מהשתתפות פוליטית ליכולת להשפיע",
+      "paperTitle": "Becoming political: Palestinian Arab Women's pathways to agency and subjectivity in Israeli municipal councils",
+      "authorsCardHe": "Rana Zaher-Karayanni",
+      "sourceAuthors": [
+        "Rana Zaher"
+      ],
+      "journal": "Social Sciences & Humanities Open, 14, 103291",
+      "dateText": "2026; כרך 14",
+      "doiUrl": "https://doi.org/10.1016/j.ssaho.2026.103291",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/zaher-karayanni-women-municipal-agency.jpg",
+        "altHe": "איור של נשים בדיון סביב שולחן במועצה מקומית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "ראיונות עם נשים פלסטיניות־ערביות בתפקידים מוניציפליים בישראל מציגים השתתפות כתהליך של למידה פוליטית בתוך מוסדות מדירים. רשתות עמיתות מאפשרות להבין חסמים משותפים, אך מודעות ביקורתית לבדה אינה מבטיחה השפעה על החלטות.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "lerner-religion-state-constitutional-proposals",
+      "file": "lerner-religion-state-constitutional-proposals.html",
+      "permalink": "/lerner-religion-state-constitutional-proposals.html",
+      "sortKey": 202611260008,
+      "titleHe": "חוקה שמקבעת פשרה: דת ומדינה בהצעות החוקתיות בישראל",
+      "paperTitle": "Entrenching the Status‐Quo: Religion and State in Israel's Constitutional Proposals",
+      "authorsCardHe": "חנה לרנר",
+      "sourceAuthors": [
+        "Hanna Lerner"
+      ],
+      "journal": "Constellations, 16(3), 445–461",
+      "dateText": "פורסם מקוון ב־3 בספטמבר 2009",
+      "doiUrl": "https://doi.org/10.1111/j.1467-8675.2009.00552.x",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/lerner-religion-state-constitutional-proposals.jpg",
+        "altHe": "בניין הכנסת בתצלום מנובמבר 1972",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "חנה לרנר מנתחת שלוש הצעות חוקתיות משנות האלפיים ומראה כיצד הן עשויות לשמר את הסדרי הדת הקיימים. פשרה המקדמת הסכמה יכולה לצמצם ביקורת שיפוטית בסוגיות דתיות, ולהותיר פגיעה בזכויות ללא תיקון חוקתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "ascher-direct-democracy-diversity",
+      "file": "ascher-direct-democracy-diversity.html",
+      "permalink": "/ascher-direct-democracy-diversity.html",
+      "sortKey": 202611260007,
+      "titleHe": "דמוקרטיה ישירה ללא אחידות: השתתפות, ריבוי והגבולות של הסדר הפוליטי",
+      "paperTitle": "Direct Democracy Beyond the Logic of Archē",
+      "authorsCardHe": "ענת אשר",
+      "sourceAuthors": [
+        "Anat Ascher"
+      ],
+      "journal": "Contrastes. Revista Internacional de Filosofía, Suplemento 20, 61–75",
+      "dateText": "גיליון 2015; פרסום באתר כתב העת ב־18 באפריל 2017",
+      "doiUrl": "https://doi.org/10.24310/contrastescontrastes.v20i3.2416",
+      "topics": [
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/ascher-direct-democracy-diversity.jpg",
+        "altHe": "במת הנואמים בפניקס באתונה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "ענת אשר בוחנת כיצד השתתפות ישירה יכולה להתיישב עם שונות בין בני אדם. באמצעות לוק, רוסו, ננסי ורנסייר היא מציגה מתח בין סדר יציב לבין פעולה דמוקרטית המערערת את גבולות ההשתתפות הקיימים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kurzon-silence-school-constitution",
+      "file": "kurzon-silence-school-constitution.html",
+      "permalink": "/kurzon-silence-school-constitution.html",
+      "sortKey": 202611260006,
+      "titleHe": "דקת דומייה בבית הספר: בין חופש מצפון לעידוד תפילה בידי המדינה",
+      "paperTitle": "A Pragmatic Analysis of Silence in an American Constitutional Issue",
+      "authorsCardHe": "דניס קורזון",
+      "sourceAuthors": [
+        "Dennis Kurzon"
+      ],
+      "journal": "Lodz Papers in Pragmatics, 6(1), 49–66",
+      "dateText": "2010",
+      "doiUrl": "https://doi.org/10.2478/v10016-010-0001-2",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/kurzon-silence-school-constitution.jpg",
+        "altHe": "אולם בית המשפט העליון של ארצות הברית, 2011",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "ניתוח לשוני של פסיקה אמריקאית בוחן מדוע שתיקה כיתתית אינה מגלה מה התלמידים חושבים. ההבחנה בין שקט חיצוני לתוכן פנימי מחדדת את הגבול בין מתן אפשרות לתפילה לבין העדפתה בידי מוסד ציבורי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "preminger-bondy-workers-ethnonationalism",
+      "file": "preminger-bondy-workers-ethnonationalism.html",
+      "permalink": "/preminger-bondy-workers-ethnonationalism.html",
+      "sortKey": 202611260005,
+      "titleHe": "עובדים פלסטינים בענף הבנייה: בין פתיחת השוק להדרה לאומית",
+      "paperTitle": "Conflicting Imperatives? Ethnonationalism and Neoliberalism in Industrial Relations",
+      "authorsCardHe": "Jonathan Preminger, אסף בונדי",
+      "sourceAuthors": [
+        "Jonathan Preminger",
+        "Assaf S. Bondy"
+      ],
+      "journal": "ILR Review, 76(4), 646–673",
+      "dateText": "פורסם מקוון ב־27 בדצמבר 2022; גיליון 2023",
+      "doiUrl": "https://doi.org/10.1177/00197939221145117",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/preminger-bondy-workers-ethnonationalism.jpg",
+        "altHe": "איור של עובדי בניין בשיחה עם נציג זכויות עובדים באתר עבודה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "מחקר על יחסי עבודה בישראל מראה כיצד שילוב עובדים פלסטינים שאינם אזרחים מתקיים לצד הגבלות תנועה וכוח מיקוח מצומצם. שינויי שוק ופעולה משפטית עשויים להרחיב זכויות, בעוד מוסדות המדינה והייצוג משמרים תלות והדרה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "levi-belz-protest-belonging-moral-injury",
+      "file": "levi-belz-protest-belonging-moral-injury.html",
+      "permalink": "/levi-belz-protest-belonging-moral-injury.html",
+      "sortKey": 202611260004,
+      "titleHe": "תחושת שייכות ומצוקה נפשית במחאה נגד השינויים במערכת המשפט",
+      "paperTitle": "‘We’re all in this together’: the protective role of belongingness in the contribution of moral injury to mental health among participants in Israel’s civil protest movement",
+      "authorsCardHe": "Yossi Levi-Belz, Yoav Groweiss, Iris Shachar Lavie, Yael Shoval Zuckerman, Carmel Blank",
+      "sourceAuthors": [
+        "Yossi Levi-Belz",
+        "Yoav Groweiss",
+        "Iris Shachar Lavie",
+        "Yael Shoval Zuckerman",
+        "Carmel Blank"
+      ],
+      "journal": "European Journal of Psychotraumatology, 16(1), 2474374",
+      "dateText": "פורסם מקוון ב־10 במרץ 2025",
+      "doiUrl": "https://doi.org/10.1080/20008066.2025.2474374",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/levi-belz-protest-belonging-moral-injury.jpg",
+        "altHe": "איור של משתתפים המעניקים תמיכה הדדית בשולי התכנסות אזרחית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "סקר בקרב משתתפי המחאה בישראל בשנת 2023 מצא קשר בין תחושת בגידה מוסרית, לחץ ותסמיני מצוקה. שייכות חברתית נקשרה להיחלשות חלק מהקשרים הללו, ומצביעה על חשיבות התמיכה ההדדית בתוך פעילות אזרחית ממושכת.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "haran-diman-miodownik-violent-resettlement",
+      "file": "haran-diman-miodownik-violent-resettlement.html",
+      "permalink": "/haran-diman-miodownik-violent-resettlement.html",
+      "sortKey": 202611260003,
+      "titleHe": "עבר של נישול והצבעה בהווה: המורשת הפוליטית של התיישבות על אדמות פלסטיניות",
+      "paperTitle": "Bloody Pasts and Current Politics: The Political Legacies of Violent Resettlement",
+      "authorsCardHe": "עמיעד הרן דימן, דן מיודובניק",
+      "sourceAuthors": [
+        "Amiad Haran Diman",
+        "Dan Miodownik"
+      ],
+      "journal": "Comparative Political Studies, 57(9), 1506–1551",
+      "dateText": "פורסם מקוון ב־13 באוגוסט 2023; גיליון 2024",
+      "doiUrl": "https://doi.org/10.1177/00104140231194066",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/haran-diman-miodownik-violent-resettlement.jpg",
+        "altHe": "מבט אווירי על מושב נהלל והשדות סביבו",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "ניתוח יישובים כפריים יהודיים בישראל קושר התיישבות על אדמות שנלקחו מפלסטינים במלחמת 1948 להצבעה ימנית מאוחרת. נראות שרידי העבר ומפגש בין קבוצות מצביעים על חשיבות ההיסטוריה המקומית להבנת עוינות ופשרה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "haran-diman-miodownik-legacies-survival",
+      "file": "haran-diman-miodownik-legacies-survival.html",
+      "permalink": "/haran-diman-miodownik-legacies-survival.html",
+      "sortKey": 202611260002,
+      "titleHe": "מורשת ההישרדות: אלימות היסטורית והצבעת המיעוט הפלסטיני בישראל",
+      "paperTitle": "Legacies of Survival: Historical Violence and Ethnic Minority Behavior",
+      "authorsCardHe": "עמיעד הרן דימן, דן מיודובניק",
+      "sourceAuthors": [
+        "Amiad Haran Diman",
+        "Dan Miodownik"
+      ],
+      "journal": "Journal of Conflict Resolution, 68(7–8), 1636–1670",
+      "dateText": "פורסם מקוון ב־16 באוגוסט 2023; גיליון 2024",
+      "doiUrl": "https://doi.org/10.1177/00220027231195384",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/haran-diman-miodownik-legacies-survival.jpg",
+        "altHe": "מבט על נצרת בשנת 2009",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "המחקר קושר פגיעה במלחמת 1947–1949 להצבעה מאוחרת למפלגות יהודיות בקרב קהילות פלסטיניות שנותרו במקומן. ההבחנה בין שורדים לעקורים מדגישה כי הצבעה של מיעוט עשויה לשקף חיפוש ביטחון, ולא רק הזדהות אידאולוגית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "reifen-tagar-cimpian-childhood-ideology",
+      "file": "reifen-tagar-cimpian-childhood-ideology.html",
+      "permalink": "/reifen-tagar-cimpian-childhood-ideology.html",
+      "sortKey": 202611260001,
+      "titleHe": "שורשי האידאולוגיה בילדות: סמכות, קבוצות ואי־שוויון לפני גיל ההצבעה",
+      "paperTitle": "Political Ideology in Early Childhood: Making the Case for Studying Young Children in Political Psychology",
+      "authorsCardHe": "Michal Reifen-Tagar, Andrei Cimpian",
+      "sourceAuthors": [
+        "Michal Reifen-Tagar",
+        "Andrei Cimpian"
+      ],
+      "journal": "Political Psychology, 43(S1), 77–105",
+      "dateText": "פורסם מקוון ב־11 בספטמבר 2022",
+      "doiUrl": "https://doi.org/10.1111/pops.12853",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/reifen-tagar-cimpian-childhood-ideology.jpg",
+        "altHe": "איור של ילדים צעירים במשחק משותף ובמשא ומתן על חלוקת צעצועים",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-26",
+      "dateModified": "2026-11-26",
+      "summaryHe": "סקירת מחקרים מציעה לחקור את ראשית החשיבה הפוליטית כבר בילדות המוקדמת. הבחנה בין זיהוי גבולות קבוצתיים לבין שיפוט של היררכיה וסמכות מאפשרת להבין כיצד מתפתחות עמדות על חיים משותפים, בלי לייחס לילדים זהות מפלגתית מגובשת.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "raaphorst-equity-public-services",
       "file": "raaphorst-equity-public-services.html",
