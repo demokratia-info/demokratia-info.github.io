@@ -1,8 +1,291 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2244,
+  "paperCount": 2254,
   "papers": [
+    {
+      "slug": "berkowitz-school-climate-equal-opportunity",
+      "file": "berkowitz-school-climate-equal-opportunity.html",
+      "permalink": "/berkowitz-school-climate-equal-opportunity.html",
+      "sortKey": 202611270010,
+      "titleHe": "אקלים בית־ספרי ושוויון הזדמנויות: הישגים של תלמידים דוברי ערבית בישראל",
+      "paperTitle": "School Matters: The Contribution of Positive School Climate to Equal Educational Opportunities among Ethnocultural Minority Students",
+      "authorsCardHe": "רות אלה ברקוביץ",
+      "sourceAuthors": [
+        "Ruth Berkowitz"
+      ],
+      "journal": "Youth & Society, 54(3): 372–396",
+      "dateText": "פורסם מקוון ב־16 בנובמבר 2020; גיליון אפריל 2022",
+      "doiUrl": "https://doi.org/10.1177/0044118x20970235",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/berkowitz-school-climate-equal-opportunity.jpg",
+        "altHe": "איור של מורה המסייעת לתלמידים בכיתה דמיונית בבית ספר דובר ערבית בישראל",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "ניתוח נתוני תלמידים דוברי ערבית בישראל קושר אקלים בית־ספרי חיובי להישגים במתמטיקה ולצמצום פערים בתנאים מסוימים. יחסי מורים־תלמידים ובטיחות בבית הספר מתבררים כחלק מתנאי הלמידה והשוויון, לצד הצורך להתמודד עם פערי משאבים ואי־שוויון מערכתי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "jakob-sadeh-workplace-conflict-resilience",
+      "file": "jakob-sadeh-workplace-conflict-resilience.html",
+      "permalink": "/jakob-sadeh-workplace-conflict-resilience.html",
+      "sortKey": 202611270009,
+      "titleHe": "עבודה משותפת בזמן סכסוך: גבולות השתיקה בארגון יהודי־פלסטיני",
+      "paperTitle": "Maintaining Organizational Resilience Amidst Socio‐Political Turmoil: Lessons From the Jewish—Palestinian Context",
+      "authorsCardHe": "לינדה יעקב שדה",
+      "sourceAuthors": [
+        "Linda Jakob Sadeh"
+      ],
+      "journal": "Conflict Resolution Quarterly, 42(3): 373–385",
+      "dateText": "פורסם מקוון ב־12 בנובמבר 2024; גיליון מרץ 2025",
+      "doiUrl": "https://doi.org/10.1002/crq.21453",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/jakob-sadeh-workplace-conflict-resilience.jpg",
+        "altHe": "איור של עובדים יהודים ופלסטינים בשיחה רגישה במרכז קהילתי דמיוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "מחקר אתנוגרפי בארגון יהודי־פלסטיני מראה ששילוב עובדים והימנעות משיח פוליטי יכולים לשמור על מקום עבודה בטוח, אך לא תמיד על תחושת שייכות ועל חופש להשמיע קול. בזמן הסלמה, השתיקה הארגונית חושפת את גבולותיה ומחדדת את הצורך להיערך מראש למחלוקת ולמצוקה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "factor-social-resistance-health-inequality",
+      "file": "factor-social-resistance-health-inequality.html",
+      "permalink": "/factor-social-resistance-health-inequality.html",
+      "sortKey": 202611270008,
+      "titleHe": "אפליה, ניכור ובריאות: בדיקה ראשונית של מסגרת ההתנגדות החברתית",
+      "paperTitle": "Social Resistance Framework for Understanding High-Risk Behavior Among Nondominant Minorities: Preliminary Evidence",
+      "authorsCardHe": "רוני פקטור, דייוויד ר׳ ויליאמס, איצ׳ירו קוואצ׳י",
+      "sourceAuthors": [
+        "Roni Factor",
+        "David R. Williams",
+        "Ichiro Kawachi"
+      ],
+      "journal": "American Journal of Public Health, 103(12): 2245–2251",
+      "dateText": "דצמבר 2013",
+      "doiUrl": "https://doi.org/10.2105/ajph.2013.301212",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/factor-social-resistance-health-inequality.jpg",
+        "altHe": "מרכז בריאות קהילתי בג׳מייקה פליין בבוסטון; תצלום המחשה לשירותי בריאות בקהילה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "מחקר ראשוני בקרב אמריקאים שחורים ולבנים בוחן כיצד אפליה וניכור קשורים להתנגדות לנורמות דומיננטיות ולהתנהגויות מסכנות בריאות. הממצאים בקבוצה השחורה מציעים להבין בחירות בריאותיות גם בתוך יחסי כוח ואי־שוויון, בלי לצמצם אותן לחוסר ידע או לתכונה של קבוצת אוכלוסייה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "daniel-values-contexts-majority-minority",
+      "file": "daniel-values-contexts-majority-minority.html",
+      "permalink": "/daniel-values-contexts-majority-minority.html",
+      "sortKey": 202611270007,
+      "titleHe": "אותו אדם בהקשרים שונים: ערכים של מתבגרים מקבוצות רוב ומיעוט בישראל ובגרמניה",
+      "paperTitle": "One and Not the Same: The Consistency of Values Across Contexts Among Majority and Minority Members in Israel and Germany",
+      "authorsCardHe": "אלה דניאל, דוד שיפר, אריאל כנפו-נועם",
+      "sourceAuthors": [
+        "Ella Daniel",
+        "David Schiefer",
+        "Ariel Knafo"
+      ],
+      "journal": "Journal of Cross-Cultural Psychology, 43(7): 1167–1184",
+      "dateText": "פורסם מקוון ב־28 בדצמבר 2011; גיליון אוקטובר 2012",
+      "doiUrl": "https://doi.org/10.1177/0022022111430257",
+      "topics": [
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/daniel-values-contexts-majority-minority.jpg",
+        "altHe": "בית הספר אדוארד מריקה בברלין; תצלום המחשה להקשר הבית־ספרי, שאינו מציג מוסד שזוהה במדגם",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "מחקר על מתבגרים בישראל ובגרמניה מצא שעקביות בערכים יכולה להתקיים לצד התאמת חשיבותם למשפחה, לבית הספר ולמדינה. הדמיון בין קבוצות רוב ומיעוט וההבדלים בהקשר האתני מערערים על ההנחה שריבוי זהויות מחייב חוסר עקביות, ומדגישים את חשיבות הסביבה החברתית להבנת שילוב מיעוטים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "grassiani-gazit-civil-religious-policing",
+      "file": "grassiani-gazit-civil-religious-policing.html",
+      "permalink": "/grassiani-gazit-civil-religious-policing.html",
+      "sortKey": 202611270006,
+      "titleHe": "שמירה חקלאית ודת אזרחית: השומר החדש בגבולות שבין התנדבות לשיטור",
+      "paperTitle": "Civil-religious policing in Israel’s periphery",
+      "authorsCardHe": "אראלה גרסיאני, ניר גזית",
+      "sourceAuthors": [
+        "Erella Grassiani",
+        "Nir Gazit"
+      ],
+      "journal": "Culture and Religion, 23(3): 262–283",
+      "dateText": "פורסם מקוון ב־4 בינואר 2024; כרך 23, חוברת 3",
+      "doiUrl": "https://doi.org/10.1080/14755610.2023.2297785",
+      "topics": [
+        "institutions-civil-society-public-service",
+        "rights-equality-minorities"
+      ],
+      "image": {
+        "src": "html_qa/grassiani-gazit-civil-religious-policing.jpg",
+        "altHe": "איור של שני מתנדבים בשמירה ליד מטע ושטח מרעה בפריפריה בישראל; סצנה דמיונית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "מחקר אתנוגרפי על השומר החדש מראה כיצד פעילות שמירה והתנדבות חקלאית מקבלת משמעות לאומית באמצעות סיפורים, טקסים וסמלים יהודיים. המאמר בוחן כיצד ארגון אזרחי מבסס סמכות ביטחונית ושייכות קולקטיבית, ומה המשמעות של גבולות השייכות האלה בחברה רב־קבוצתית.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "shavit-salafi-anti-jihadi-campaigns",
+      "file": "shavit-salafi-anti-jihadi-campaigns.html",
+      "permalink": "/shavit-salafi-anti-jihadi-campaigns.html",
+      "sortKey": 202611270005,
+      "titleHe": "התנגדות לטרור מתוך הסלפיות: מסעות הסברה בבריטניה ובגרמניה",
+      "paperTitle": "Embattled Minority In-Between Minorities: An Analysis of British and German Salafi Anti-Jihadi Campaigns",
+      "authorsCardHe": "אוריה שביט",
+      "sourceAuthors": [
+        "Uriya Shavit"
+      ],
+      "journal": "Journal of Arabic and Islamic Studies, 17: 187–203",
+      "dateText": "2017",
+      "doiUrl": "https://doi.org/10.5617/jais.6114",
+      "topics": [
+        "rights-equality-minorities",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shavit-salafi-anti-jihadi-campaigns.jpg",
+        "altHe": "חזית מסגד בריקסטון בלונדון, אחת הזירות הנדונות במחקר",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "ניתוח מסעות הסברה סלפיים נגד ג׳יהאדיזם מראה שהתנגדות לטרור אינה מחייבת אימוץ של תפיסה ליברלית. הקהילות שנחקרו נאבקו בעת ובעונה אחת בחשדנות החברה הסובבת ובאתגר מצד יריבים ג׳יהאדיסטים, באמצעות נימוקים דתיים על בריתות, סמכות ונזק למוסלמים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "alfasi-dichotomous-thinking-voters",
+      "file": "alfasi-dichotomous-thinking-voters.html",
+      "permalink": "/alfasi-dichotomous-thinking-voters.html",
+      "sortKey": 202611270004,
+      "titleHe": "איתנו או נגדנו: חשיבה דיכוטומית וקיצוניות פוליטית בקרב מצביעים בישראל",
+      "paperTitle": "“You are either with us, or against us”: The association between dichotomous thinking and political extremism among Israeli voters",
+      "authorsCardHe": "יצחק אלפסי",
+      "sourceAuthors": [
+        "Yitshak Alfasi"
+      ],
+      "journal": "Scientific Studios on Social and Political Psychology",
+      "dateText": "2023",
+      "doiUrl": "https://doi.org/10.61727/sssppj/1.2023.04",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/alfasi-dichotomous-thinking-voters.jpg",
+        "altHe": "איור של משתתפים משני צדי שולחן בדיון פוליטי ומתַווכת ביניהם במפגש אזרחי דמיוני",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "סקר בתקופת הבחירות באפריל 2019 מצא קשר בין נטייה לחלק את העולם לקטבים מנוגדים לבין מיקום פוליטי קיצוני יותר. הקשר הופיע בשני צדי המפה, עם דפוס חזק יותר בימין, ומציע לבחון את סגנון החשיבה לצד תוכן העמדות כשמנסים להבין קיטוב פוליטי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "leavitt-democratic-rights-biometrics",
+      "file": "leavitt-democratic-rights-biometrics.html",
+      "permalink": "/leavitt-democratic-rights-biometrics.html",
+      "sortKey": 202611270003,
+      "titleHe": "ביטחון וביומטריה: מתי הגנת הדמוקרטיה פוגעת בחופש המחשבה",
+      "paperTitle": "Democracies Restricting Democratic Rights: Some Classical Sources and Implications for Ethics of Biometrics",
+      "authorsCardHe": "פרנק ג׳ לוויט",
+      "sourceAuthors": [
+        "Frank J. Leavitt"
+      ],
+      "journal": "The Scientific World JOURNAL, 11: 463–473",
+      "dateText": "1 במרץ 2011",
+      "doiUrl": "https://doi.org/10.1100/tsw.2011.47",
+      "topics": [
+        "rights-equality-minorities",
+        "constitutionalism-courts-rule-of-law"
+      ],
+      "image": {
+        "src": "html_qa/leavitt-democratic-rights-biometrics.jpg",
+        "altHe": "איור של נוסעת מניחה יד על קורא ביומטרי בדלפק ביקורת גבולות דמיוני",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "דיון פילוסופי במקורות קלאסיים בוחן כיצד משטרים דמוקרטיים מצדיקים הגבלות על חירות בשם הגנתם העצמית. לוויט מחבר את הבעיה לביומטריה ולהערכת אמונות של בני אדם, ומזהיר במיוחד מפני פגיעה בחופש החקירה האקדמית תחת היגיון ביטחוני בלתי מוגבל.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "sommer-pandemic-politics-mobility",
+      "file": "sommer-pandemic-politics-mobility.html",
+      "permalink": "/sommer-pandemic-politics-mobility.html",
+      "sortKey": 202611270002,
+      "titleHe": "פוליטיקה בימי מגפה: כיצד השתנה הקשר בין מפלגתיות לתנועה בארצות הברית",
+      "paperTitle": "Pandemic Politics in the United States: COVID‐19 as a New Type of Political Emergency",
+      "authorsCardHe": "אודי זומר, אור רפל-קרויזר",
+      "sourceAuthors": [
+        "Udi Sommer",
+        "Or Rappel-Kroyzer"
+      ],
+      "journal": "Political Psychology, 43(4): 769–792",
+      "dateText": "פורסם מקוון ב־24 בנובמבר 2021; גיליון אוגוסט 2022",
+      "doiUrl": "https://doi.org/10.1111/pops.12792",
+      "topics": [
+        "constitutionalism-courts-rule-of-law",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/sommer-pandemic-politics-mobility.jpg",
+        "altHe": "תצלום של תנועה דלילה בשדרת פארק בניו יורק בתקופת מגפת הקורונה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "ניתוח תנועה במחוזות בארצות הברית מראה כי הקיטוב המפלגתי התחזק בראשית מגפת הקורונה, אך הקשר בין מפלגתיות להתנהגות נחלש בהמשך. המחקר מציג את המגפה כסוג מובחן של מצב חירום, שבו מסרים של מנהיגים והשתנות האיום לאורך זמן מסבכים את הציפייה להתלכדות ציבורית.",
+      "summarySourceStatus": "Based on abstract only"
+    },
+    {
+      "slug": "lachover-silenced-accents-newsrooms",
+      "file": "lachover-silenced-accents-newsrooms.html",
+      "permalink": "/lachover-silenced-accents-newsrooms.html",
+      "sortKey": 202611270001,
+      "titleHe": "מבטא כשער כניסה: הדרה לשונית של עיתונאיות מקבוצות מיעוט",
+      "paperTitle": "Silenced accents: Linguistic exclusion of minority women journalists in mainstream newsrooms",
+      "authorsCardHe": "עינת לחובר",
+      "sourceAuthors": [
+        "Einat Lachover"
+      ],
+      "journal": "Language & Communication, 107: 97–107",
+      "dateText": "מרץ 2026",
+      "doiUrl": "https://doi.org/10.1016/j.langcom.2026.01.007",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/lachover-silenced-accents-newsrooms.jpg",
+        "altHe": "איור של עיתונאית מול מיקרופון ועורכת המאזינה לה במערכת חדשות דמיונית",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27",
+      "summaryHe": "ראיונות עם עיתונאיות דוברות רוסית וערבית מראים כיצד נורמות הדיבור בעברית הופכות דו־לשוניות ממשאב מקצועי למקור של הדרה. הממצאים מחייבים לבחון הכללה בתקשורת גם דרך מי רשאית להשמיע את קולה ובאיזה מבטא, מעבר לעצם הגיוס של עובדות מקבוצות מיעוט.",
+      "summarySourceStatus": "Based on abstract only"
+    },
     {
       "slug": "ketko-ayali-react-democratic-teaching",
       "file": "ketko-ayali-react-democratic-teaching.html",
