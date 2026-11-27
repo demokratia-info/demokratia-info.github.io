@@ -1,8 +1,297 @@
 {
   "version": 1,
   "description": "Compact duplicate-checking and nightly-update index generated from _papers/*.md. Do not edit by hand; run scripts/validate_sources.py --write-index.",
-  "paperCount": 2254,
+  "paperCount": 2264,
   "papers": [
+    {
+      "slug": "shultziner-self-esteem-protest-participation",
+      "file": "shultziner-self-esteem-protest-participation.html",
+      "permalink": "/shultziner-self-esteem-protest-participation.html",
+      "sortKey": 202611280010,
+      "titleHe": "לצאת להפגין ולהתמיד: ערך עצמי במחאה נגד נסיגה דמוקרטית",
+      "paperTitle": "Self-evaluative framework for collective action and inaction: self-esteem mechanisms and participation intensity under democratic backsliding",
+      "authorsCardHe": "דורון שולצינר",
+      "sourceAuthors": [
+        "Doron Shultziner"
+      ],
+      "journal": "Current Psychology, 45: 1517",
+      "dateText": "פורסם מקוון ב־19 בספטמבר 2026",
+      "doiUrl": "https://doi.org/10.1007/s12144-026-10072-1",
+      "topics": [
+        "democratic-backsliding-populism",
+        "institutions-civil-society-public-service",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/shultziner-self-esteem-protest-participation.jpg",
+        "altHe": "איור של אדם העוצר בפתח ביתו כשאחרים מצטרפים להפגנה שלווה, כהמחשה להחלטה להשתתף",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "שני מחקרים על המחאה בישראל ב־2023 קושרים השתתפות והתמדה לאיום על תפיסת העצמי ולמשמעות האישית של פעולה ואי־פעולה. אמונה ביעילות המחאה הבחינה בין מפגינים ללא־מפגינים, אך לא הסבירה באותו אופן את משך ההשתתפות; הממצאים מרחיבים את הבנת ההתגייסות האזרחית מעבר לחישוב של סיכויי הצלחה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "hillman-cold-war-economic-ideas",
+      "file": "hillman-cold-war-economic-ideas.html",
+      "permalink": "/hillman-cold-war-economic-ideas.html",
+      "sortKey": 202611280009,
+      "titleHe": "תאוריה כלכלית ואידאולוגיה במלחמה הקרה: טענת הסוס הטרויאני",
+      "paperTitle": "Ideological competition during the era of the 20th century cold war: The political economy of persuasion with a Trojan horse",
+      "authorsCardHe": "אריה ל׳ הילמן",
+      "sourceAuthors": [
+        "Arye L. Hillman"
+      ],
+      "journal": "Constitutional Political Economy, 37(2): 324–347",
+      "dateText": "פורסם מקוון ב־9 במרץ 2026; גיליון יוני 2026",
+      "doiUrl": "https://doi.org/10.1007/s10602-025-09502-2",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "democratic-institutions-economic-prosperity"
+      ],
+      "image": {
+        "src": "html_qa/hillman-cold-war-economic-ideas.jpg",
+        "altHe": "שתי נשים מביטות מחלון במזרח ברלין אל בני משפחה שמעבר לגבול, ספטמבר 1961",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "אריה הילמן מציע קריאה ביקורתית של תאוריות כלכליות על כשלי שווקים ודמוקרטיה שהתפתחו במלחמה הקרה. לטענתו, חלקן נשאו מסר אידאולוגי בתוך מסגרת פורמלית; הדיון מחדד את ההבחנה בין תקפות מודל בהנחותיו לבין המסקנות הציבוריות שמסיקים ממנו על מוסדות ומשטרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "abu-gweder-gribiea-bedouin-teacher-identity",
+      "file": "abu-gweder-gribiea-bedouin-teacher-identity.html",
+      "permalink": "/abu-gweder-gribiea-bedouin-teacher-identity.html",
+      "sortKey": 202611280008,
+      "titleHe": "הדרך להוראה: זהות מקצועית של סטודנטים בדואים במכללה רב־תרבותית",
+      "paperTitle": "From segregation to diversity: Professional identity formation among indigenous minority students",
+      "authorsCardHe": "Aref Abu-Gweder; Adnan Gribiea",
+      "sourceAuthors": [
+        "Aref Abu-Gweder",
+        "Adnan Gribiea"
+      ],
+      "journal": "Journal of International Students, 16(5): 161–180",
+      "dateText": "פורסם מקוון ב־23 בפברואר 2026",
+      "doiUrl": "https://doi.org/10.32674/zzfex722",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/abu-gweder-gribiea-bedouin-teacher-identity.jpg",
+        "altHe": "איור של סטודנטית בדואית בדרכה לכיתה בקמפוס רב־תרבותי, כהמחשה למסלול אל מקצוע ההוראה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "סיפורי חיים של סטודנטים בדואים להוראה מראים כיצד חסמי שפה, מסלולי קבלה וציפיות משפחתיות משתלבים בבניית זהות מקצועית. המחקר מדגיש שהרחבת הגישה להשכלה גבוהה דורשת להבין את הדרך שקדמה לכניסה למכללה ואת השונות בין הסטודנטים, לצד התמיכה בלימודים עצמם.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "zebarjadi-empathy-political-ideology",
+      "file": "zebarjadi-empathy-political-ideology.html",
+      "permalink": "/zebarjadi-empathy-political-ideology.html",
+      "sortKey": 202611280007,
+      "titleHe": "אמפתיה לכאב גופני: מחקרי מוח לא מצאו פער בין ימין לשמאל",
+      "paperTitle": "New Vistas for the Relationship between Empathy and Political Ideology",
+      "authorsCardHe": "Niloufar Zebarjadi; Annika Kluge; אלי אדלר; Jonathan Levy",
+      "sourceAuthors": [
+        "Niloufar Zebarjadi",
+        "Annika Kluge",
+        "Eli Adler",
+        "Jonathan Levy"
+      ],
+      "journal": "eNeuro, 11(11): ENEURO.0086-24.2024",
+      "dateText": "11 בנובמבר 2024",
+      "doiUrl": "https://doi.org/10.1523/eneuro.0086-24.2024",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/zebarjadi-empathy-political-ideology.jpg",
+        "altHe": "איור רעיוני של משתתף וחוקרת במעבדה למדידת פעילות מוחית; אינו שחזור של מערך המחקר",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "בשני מחקרים בישראל ובפינלנד לא נמצא הבדל בין קבוצות פוליטיות בתגובות המוחיות וההתנהגותיות לכאב גופני של אחרים. הממצא מדגיש שאמפתיה מורכבת מכמה רכיבים, ושאין להסיק ממדד יחיד על איכותו המוסרית של מחנה פוליטי או על יכולתו להבין סבל בכל הקשר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "soffer-vital-teacher-cultural-empathy",
+      "file": "soffer-vital-teacher-cultural-empathy.html",
+      "permalink": "/soffer-vital-teacher-cultural-empathy.html",
+      "sortKey": 202611280006,
+      "titleHe": "אמפתיה תרבותית ותחושת מסוגלות בקרב מורים ערבים בישראל",
+      "paperTitle": "Empowering Teachers: Multicultural Social and Emotional Learning (MSEL) Among Arab Minority Teachers",
+      "authorsCardHe": "שירה סופר־ויטל; עידית פינקלשטיין",
+      "sourceAuthors": [
+        "Shira Soffer-Vital",
+        "Idit Finkelstein"
+      ],
+      "journal": "Journal of Ethnic and Cultural Studies, 11(1): 39–57",
+      "dateText": "25 בינואר 2024",
+      "doiUrl": "https://doi.org/10.29333/ejecs/1638",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/soffer-vital-teacher-cultural-empathy.jpg",
+        "altHe": "איור של מורות ומורים ערבים המשתתפים במעגל למידה מקצועית ומשוחחים בכיתה",
+        "fitness": "high"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "סקר בקרב מורים ערבים מוסלמים בישראל מצא קשרים בין כישורים חברתיים, יציבות רגשית, אמפתיה תרבותית ותחושת מסוגלות ללמידה. הממצאים מציעים לשלב רגישות תרבותית בהתפתחות המקצועית, תוך הבחנה בין אמונת המורה ביכולתו ללמוד לבין הישגי תלמידים שלא נמדדו במחקר.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "zalcberg-haredi-health-guidelines",
+      "file": "zalcberg-haredi-health-guidelines.html",
+      "permalink": "/zalcberg-haredi-health-guidelines.html",
+      "sortKey": 202611280005,
+      "titleHe": "ציות, התנגדות וביקורת: קולות חרדיים על הנחיות הקורונה",
+      "paperTitle": "Religious Minorities’ Perceptions of Official COVID-19 Health Guidelines: The Case of Ultra-Orthodox Society in Israel",
+      "authorsCardHe": "סימה זלצברג־בלוק; שרה זלצברג",
+      "sourceAuthors": [
+        "Sima Zalcberg-Block",
+        "Sara Zalcberg"
+      ],
+      "journal": "Journal of Religion and Health, 62(1): 408–427",
+      "dateText": "פורסם מקוון ב־17 בספטמבר 2022; גיליון פברואר 2023",
+      "doiUrl": "https://doi.org/10.1007/s10943-022-01662-x",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/zalcberg-haredi-health-guidelines.jpg",
+        "altHe": "מפגש של שגריר ארצות הברית ונציגי ציבור בבני ברק במהלך ביקור בספטמבר 2011",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "ראיונות עם נשים וגברים חרדים מציגים מגוון נימוקים לקבלה ולדחייה של הנחיות הקורונה. סמכות דתית מופיעה הן כמקור לציות והן כמוקד ביקורת, ולכן שירות ציבורי מותאם למיעוט מחייב הקשבה לשונות בתוך הקהילה ולא הסתמכות על דימוי אחיד שלה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "fournier-grillo-tsodikovich-political-repositioning",
+      "file": "fournier-grillo-tsodikovich-political-repositioning.html",
+      "permalink": "/fournier-grillo-tsodikovich-political-repositioning.html",
+      "sortKey": 202611280004,
+      "titleHe": "מתי משתלם למועמדים לשנות עמדה במהלך מערכת בחירות?",
+      "paperTitle": "Strategic Flip‐Flopping in Political Competition",
+      "authorsCardHe": "Gaëtan Fournier; Alberto Grillo; Yevgeny Tsodikovich",
+      "sourceAuthors": [
+        "Gaëtan Fournier",
+        "Alberto Grillo",
+        "Yevgeny Tsodikovich"
+      ],
+      "journal": "International Economic Review, 67(1): 79–96",
+      "dateText": "פורסם מקוון ב־4 ביוני 2025; גיליון פברואר 2026",
+      "doiUrl": "https://doi.org/10.1111/iere.12778",
+      "topics": [
+        "public-opinion-polarization-violence",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/fournier-grillo-tsodikovich-political-repositioning.jpg",
+        "altHe": "איור של מועמדת המקשיבה לבוחרים ליד במת נאומים, כהמחשה להתאמת עמדה במערכת בחירות",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "מודל של תחרות אלקטורלית מראה כיצד מידע חדש על הבוחרים, לצד מחיר של אובדן אמינות ועלויות ארגוניות, עשוי להוביל מועמדים לשינוי עמדה. שינוי כזה אינו בהכרח עדות לחוסר תכנון: הוא יכול להיות תגובה אסטרטגית, שהיקפה ותזמונה תלויים במאזן הכוחות בין המתחרים.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "avidor-political-crisis-mental-health",
+      "file": "avidor-political-crisis-mental-health.html",
+      "permalink": "/avidor-political-crisis-mental-health.html",
+      "sortKey": 202611280003,
+      "titleHe": "מצוקה פוליטית ודימוי העולם המאיים במשבר הישראלי של 2023",
+      "paperTitle": "Political orientation and mental health during a socio-political crisis in Israel: the intermediary role of the hostile-world scenario",
+      "authorsCardHe": "שרון אבידור; דב שמוטקין",
+      "sourceAuthors": [
+        "Sharon Avidor",
+        "Dov Shmotkin"
+      ],
+      "journal": "Frontiers in Social Psychology, 3: 1431395",
+      "dateText": "14 במרץ 2025",
+      "doiUrl": "https://doi.org/10.3389/frsps.2025.1431395",
+      "topics": [
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/avidor-political-crisis-mental-health.jpg",
+        "altHe": "איור של שני מבוגרים המתמודדים בדרכים שונות עם דאגה בזמן התכנסות אזרחית ברקע",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "בסקר שנערך בזמן המשבר סביב השינויים במערכת המשפט, משתתפי שמאל דיווחו על יותר מצוקה ממשתתפי ימין, אך לא על פחות רווחה נפשית במדדים שנבדקו. תפיסת האיומים ודרכי ההתמודדות נקשרו להבדלים האלה; המחקר מדגיש את הצורך להבין מצוקה פוליטית בתוך ההקשר החברתי, בלי להפוך עמדה פוליטית לאבחנה.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "david-memory-silencing-serbia",
+      "file": "david-memory-silencing-serbia.html",
+      "permalink": "/david-memory-silencing-serbia.html",
+      "sortKey": 202611280002,
+      "titleHe": "זיכרון שמצמצם את הדיון: זכויות אדם ולאומיות בסרביה",
+      "paperTitle": "Between human rights and nationalism: Silencing as a mechanism of memory in the post-Yugoslav wars' Serbia",
+      "authorsCardHe": "לאה דוד",
+      "sourceAuthors": [
+        "Lea David"
+      ],
+      "journal": "Journal of Regional Security, 10(1): 37–52",
+      "dateText": "2015",
+      "doiUrl": "https://doi.org/10.11643/issn.2217-995x151spd51",
+      "topics": [
+        "rights-equality-minorities",
+        "institutions-civil-society-public-service"
+      ],
+      "image": {
+        "src": "html_qa/david-memory-silencing-serbia.jpg",
+        "altHe": "תצלום היסטורי של מתחם סיימישטה בבלגרד לפני מלחמת העולם השנייה",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "לאה דוד מנתחת כיצד מדיניות זיכרון בסרביה משלבת שפה של זכויות אדם עם נרטיבים לאומיים, ובתוך כך דוחקת שאלות של אחריות למלחמות שנות התשעים. הכרה בסבל יכולה לפתוח דיון ציבורי, אך גם לסגור אותו כשהנפגעים מוצגים רק כקורבנות נטולי הקשר פוליטי.",
+      "summarySourceStatus": "Based on full text"
+    },
+    {
+      "slug": "kol-hallel-koskina-sacred-victimhood",
+      "file": "kol-hallel-koskina-sacred-victimhood.html",
+      "permalink": "/kol-hallel-koskina-sacred-victimhood.html",
+      "sortKey": 202611280001,
+      "titleHe": "קורבנוּת מקודשת ברטוריקה של נתניהו וארדואן",
+      "paperTitle": "‘Sacred victims, divine protectors: Netanyahu and Erdoğan’s religious populist rhetoric during the Gaza war’",
+      "authorsCardHe": "רנן קול־הלל; Stavroula Koskina",
+      "sourceAuthors": [
+        "Renen Kol-Hallel",
+        "Stavroula Koskina"
+      ],
+      "journal": "Southeast European and Black Sea Studies, 26(4): 781–804",
+      "dateText": "פורסם מקוון ב־17 בנובמבר 2026",
+      "doiUrl": "https://doi.org/10.1080/14683857.2026.2761609",
+      "topics": [
+        "democratic-backsliding-populism",
+        "public-opinion-polarization-violence"
+      ],
+      "image": {
+        "src": "html_qa/kol-hallel-koskina-sacred-victimhood.jpg",
+        "altHe": "איור של דובר בחליפה הנושא נאום באולם ציבורי; המחשה רעיונית של סמכות פוליטית",
+        "fitness": "standard"
+      },
+      "datePublished": "2026-11-28",
+      "dateModified": "2026-11-28",
+      "summaryHe": "המחברים קושרים רטוריקה דתית לצמצום הלגיטימציה לביקורת ולפשרה.",
+      "summarySourceStatus": "Based on full text"
+    },
     {
       "slug": "berkowitz-school-climate-equal-opportunity",
       "file": "berkowitz-school-climate-equal-opportunity.html",

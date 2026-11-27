@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-27",
+  "lastUpdated": "2026-11-28",
   "sampleSize": 6,
-  "seed": "2026-11-27-homepage-high-fit",
+  "seed": "2026-11-28-homepage-high-fit",
   "selectionMode": "Nightly rotation from papers whose summarySourceStatus is Based on full text and whose image.fitness is high. Keeps existing eligible spotlight papers and randomly replaces two per run, with unique image.src values, duplicate-image byte checks, and light topic and visual-family diversity constraints. If the existing sample contains ineligible papers, replaces enough entries to restore a fully eligible sample.",
   "replacementCount": 2,
-  "fullTextHighFitPaperCount": 1033,
+  "fullTextHighFitPaperCount": 1036,
   "paperSlugs": [
-    "democracy_value_congruence_voter_abstention_summary_he",
+    "democracy_sumud_pedagogy_as_linguistic_citizenship_palestinian_youth_in_israel_against_imposed_subjectivities_summary_he",
     "democracy_the_nature_of_israel_s_public_policy_aimed_at_curbing_the_rise_in_property_prices_from_2008_2015_as_a_deriva_summary_he",
     "democracy_democratic_entitlement_recession_summary_he",
     "democracy_bedouin_health_policy_distrust_cycle_summary_he",
     "democracy_unbundling_institutions_summary_he",
-    "democracy_migration_redistribution_voting_summary_he"
+    "democracy_do_religion_clauses_in_constitutions_predict_government_based_discrimination_against_religious_minorities_summary_he"
   ]
 }
